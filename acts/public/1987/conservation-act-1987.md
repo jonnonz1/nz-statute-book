@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-05-24_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -143,6 +143,8 @@ _Consolidation as at 2012-10-01_
   - **protection** , in relation to a resource, means its maintenance, so far as is practicable, in its current state; but includes—
     (a) its restoration to some former state; and
     (b) its augmentation, enhancement, or expansion
+  - **Ramsar Administrative Authority** means the administering agency that is the Ramsar Administrative Authority for New Zealand, as from time to time advised by the Government of New Zealand to the Ramsar Secretariat
+  - **Ramsar Secretariat** means the body responsible for co-ordination of the Convention on Wetlands of International Importance especially as Waterfowl Habitat, done at Ramsar on 2 February 1971
   - **review** , in relation to any conservation management strategy or management plan, means to consider all objectives and policies of those provisions under review and to approve a new strategy or plan, having regard to increased knowledge or changed circumstances; and, for the purposes of this definition, an is a statement of intent from which a policy is derived
   - **sale** includes every method of disposition for valuable consideration, including barter; and includes the disposition to an agent for sale on consignment; and also includes offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and also includes disposal by way of gambling; and and have corresponding meanings
   - **ship** means a ship, boat, hovercraft, raft, or vessel of any other description used, or designed to be used, in navigation
@@ -172,7 +174,7 @@ _Consolidation as at 2012-10-01_
   - **wild animal** has the same meaning as in section 2 of the Wild Animal Control Act 1977; but does not include any animal product derived from a wild animal
   - **wildlife** has the same meaning as it has in the Wildlife Act 1953
   - **working day** means a day that is not a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, or a day during a period commencing on any Christmas Day and ending with the 15th day of the following January.
-(2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18(1).
+(2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18AA(1) or 18(1).
 (3) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare any species to be included in or excluded from the definitions of the terms aquatic life, freshwater fish, or sports fish in subsection (1); and any such declaration may be expressed to apply to any species in any specified areas or waters, or generally throughout New Zealand.
 
 ### 3 Act to bind the Crown
@@ -419,8 +421,12 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 ### 8 Conservation area may become reserve, national park, etc
 (1) Nothing in this Act shall prevent any conservation area's becoming a reserve, sanctuary, refuge, or national park under any enactment other than this Act administered by the Department.
 (1A) The Minister may from time to time, by notice in the Gazette, declare any conservation area to be a reserve under the Reserves Act 1977 and to have a classification under that Act, or to be included in any existing reserve under that Act, and may in like manner amend or revoke any such notice; and every such declaration shall have effect as a reservation under that Act for the purposes specified in the notice.
+(1B) Subsection (1A) is subject to subsection (4).
 (2) Upon becoming a reserve, sanctuary, refuge, or national park, a conservation area shall cease to be a conservation area, notwithstanding that there has been no compliance with section 16 or section 26.
 (3) Upon the revocation of any notice given under subsection (1A), the land to which that notice related shall become a conservation area and have the same status as it had immediately before the commencement of that notice.
+(4) The Minister must not act under subsection (1A) to declare a conservation area—
+  (a) to be a nature reserve or a scientific reserve under the Reserves Act 1977; or
+  (b) to be included in an existing nature reserve or scientific reserve under that Act.
 
 ### 9 Policy statements for conservation areas
 [Repealed]
@@ -1008,8 +1014,27 @@ Without limiting any other provision in this Part, upon application by an applic
 
 ## Part 4 — Specially protected areas
 
+### 18AA Governor-General may confer additional protection or preservation requirements
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any conservation area—
+  (a) to be held for the purpose of a wilderness area, a sanctuary area, or both; and
+  (b) to have the official geographic name stated in the order.
+(2) Before making a recommendation under subsection (1), the Minister must—
+  (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under subpart 3 of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
+  (b) give public notice of the intention to recommend the making of the order that includes the proposed name for the area.
+(3) Section 49 applies, with the necessary modifications, to a notice given under subsection (2)(b).
+(4) A conservation area declared to be held for the purpose of a wilderness area, a sanctuary area, or both, under this section must be managed in a manner that is consistent with that purpose or those purposes (as the case may be).
+(5) The Governor-General may, by Order in Council made on the recommendation of the Minister, vary or revoke the purpose, or all or any of the purposes, for which any conservation area held under subsection (1) is held, and the land is to be held accordingly as provided in the order.
+(6) Before making a recommendation under subsection (5), the Minister must give public notice of the intention to recommend the making of the order, and section 49 applies with the necessary modifications.
+
+### 18AB Governor-General may declare that wetland be notified to Ramsar Secretariat
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) specify a wetland and the details of the area of the wetland; and
+  (b) declare that the Minister for the time being responsible for the Ramsar Administrative Authority must notify the Ramsar Secretariat of the wetland and the details of the area of the wetland; and
+  (c) declare that the wetland is to have the official geographic name stated in the order.
+(2) Before making a recommendation under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under subpart 3 of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
+
 ### 18 Minister may confer additional specific protection or preservation requirements
-(1) Subject to subsections (2) to (4), the Minister may, by notice in the Gazette describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, a sanctuary area, a wilderness area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
+(1) Subject to subsections (2) to (4), the Minister may, by notice in the Gazette describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
 (2) The Minister shall give public notice of intention to give a notice under subsection (1); and section 49 shall apply accordingly.
 (3) The public notice referred to in subsection (2) must specify the proposed name for the proposed park or area.
 (3A) After considering any submissions received in response to the public notice given under subsection (2), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under section 27(3) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and the provisions of sections 28 to 31 of that Act apply.
