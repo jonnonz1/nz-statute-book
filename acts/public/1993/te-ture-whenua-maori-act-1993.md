@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2013-05-24_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -3351,7 +3351,7 @@ In this section and sections 326B, 326C, and 326D, unless the context otherwise 
   (c) an order requiring the applicant to maintain the land, or meet other obligations affecting the land, failing which the principal order may be revoked.
 
 ### 326D Additional provisions relating to orders under sections 326B or 326C
-(1) Any order made under section 326B(5) must be registered as an instrument under the Land Transfer Act 1952, the Deeds Registration Act 1908, or Part 1 of the Crown Minerals Act 1991, as the case may require.
+(1) Any order made under section 326B(5) must be registered as an instrument under the Land Transfer Act 1952, the Deeds Registration Act 1908, or the Crown Minerals Act 1991, as the case may require.
 (2) This section and sections 326A to 326C bind the Crown.
 (3) The High Court, and not the Maori Appellate Court, has jurisdiction to hear and determine appeals from any order made under sections 326B or 326C that affects General land.
 (4) Every appeal to the High Court under subsection (3) is by way of rehearing.
