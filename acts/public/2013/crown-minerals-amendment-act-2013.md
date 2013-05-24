@@ -1,5 +1,5 @@
 # Crown Minerals Amendment Act 2013
-_Consolidation as at 2013-05-21_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Crown Minerals Amendment Act 2013.
