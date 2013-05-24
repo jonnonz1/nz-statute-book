@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2013-05-24_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -113,7 +113,7 @@ All unbranded cattle, horses, or other animals above the age of 6 months, or app
 
 ### 20 Disposal of land not required
 (1) Except as hereinafter provided in this section, every soil conservation reserve under this Act shall be inalienable.
-(2) The Board may consent in writing to access onto or over land comprised in a soil conservation reserve for the purpose of exercising a mining permit issued under Part 1 of the Crown Minerals Act 1991.
+(2) The Board may consent in writing to access onto or over land comprised in a soil conservation reserve for the purpose of exercising a mining permit issued under the Crown Minerals Act 1991.
 (3) The Board may from time to time upon or subject to such terms and conditions as it thinks fit grant licences to occupy any soil conservation reserve or any part thereof for pastoral purposes or for the purpose of cutting, felling, and removing timber or flax.
 (4) If the Board is of opinion that the whole or any part of any soil conservation reserve is no longer required for the purposes for which it is set aside, the Governor-General may, if he thinks fit, by Proclamation declare that the soil conservation reserve or part thereof shall thereafter be Crown lands within the meaning of the Land Act 1948, and any such lands may thereafter be dealt with or disposed of under that Act.
 (5) Any land taken or otherwise acquired under the last preceding section may be dealt with or disposed of under the Land Act 1948.
