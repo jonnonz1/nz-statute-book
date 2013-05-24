@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2012-12-11_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
