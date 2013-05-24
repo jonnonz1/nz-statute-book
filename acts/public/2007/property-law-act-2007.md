@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -3100,7 +3100,7 @@ In this subpart,—
 (6) An order under subsection (1) may be registered as an instrument under, as the case requires,—
   (a) the Land Transfer Act 1952; or
   (b) the Deeds Registration Act 1908; or
-  (c) Part 1 of the Crown Minerals Act 1991.
+  (c) the Crown Minerals Act 1991.
 
 ### Subpart 3 — Landlocked land
 
@@ -3161,7 +3161,7 @@ In determining an application for an order under section 328, the court must hav
 (5) An order made under section 328 may be registered as an instrument under, as the case requires,—
   (a) the Land Transfer Act 1952; or
   (b) the Deeds Registration Act 1908; or
-  (c) Part 1 of the Crown Minerals Act 1991.
+  (c) the Crown Minerals Act 1991.
 
 ### 331 Costs of work giving effect to order
 The reasonable cost of any work necessary to give effect to an order under section 328 must be met by the applicant, unless the court—
@@ -3266,7 +3266,7 @@ This subpart applies to—
 (6) An order under subsection (1)(b) (and any related order under subsection (4)) may be registered as an instrument under—
   (a) the Land Transfer Act 1952; or
   (b) the Deeds Registration Act 1908; or
-  (c) Part 1 of the Crown Minerals Act 1991.
+  (c) the Crown Minerals Act 1991.
 
 ### 340 Order under section 339(1)(b) subject to restrictions on subdivision of land
 (1) No order under section 339(1)(b) (and no related order under section 339(4)) may subdivide land contrary to section 11 or Part 10 of the Resource Management Act 1991.
