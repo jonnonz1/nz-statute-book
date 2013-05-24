@@ -1,5 +1,5 @@
 # Rongowhakaata Claims Settlement Act 2012
-_Consolidation as at 2012-07-31_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Rongowhakaata Claims Settlement Act 2012.
@@ -463,7 +463,7 @@ Protocols do not restrict—
   (c) an interest in, or rights relating to, flora or fauna administered or managed under the conservation legislation.
 
 ### 28 Crown minerals protocol
-(1) The Secretary within the meaning of the Crown Minerals Act 1991 must note a summary of the terms of the Crown minerals protocol in—
+(1) The chief executive within the meaning of the Crown Minerals Act 1991 must note a summary of the terms of the Crown minerals protocol in—
   (a) a register of protocols maintained by the chief executive; and
   (b) the minerals programmes affecting the Crown minerals protocol area when those programmes are replaced.
 (2) The noting of the summary—
