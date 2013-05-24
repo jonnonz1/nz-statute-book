@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2012-09-03_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -348,7 +348,7 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
   (b) is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
 (7) If the application for a marine consent described in subsection (6) was returned by the EPA under section 41, subsection (6) applies to any new application that replaces the returned application.
 (8) In this section, planned petroleum activity means an activity involved with the exploration, prospecting, or mining for petroleum if, before the new regulations come into force,—
-  (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under section 107 of that Act; and
+  (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
   (b) the activity has not commenced.
 
 ### 23 Certain existing activities that become prohibited may continue
@@ -1718,7 +1718,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 ### 161 Existing petroleum activities that become discretionary
 (1) This section applies to an existing activity involved in prospecting, exploring, or mining for petroleum if—
   (a) the activity requires a marine consent as a result of this Act coming into force; and
-  (b) the prospecting, exploration, or mining for petroleum is authorised by a permit granted under section 25 of the Crown Minerals Act 1991 before this Act comes into force or authorised by an existing privilege preserved under section 107 of that Act; and
+  (b) the prospecting, exploration, or mining for petroleum is authorised by a permit granted under section 25 of the Crown Minerals Act 1991 before this Act comes into force or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
   (c) the activity was lawfully established before this Act comes into force.
 (2) However, this section does not apply to an existing activity to which section 162 applies.
 (3) The holder of the permit described in subsection (1)(b) must—
@@ -1738,7 +1738,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 ### 162 Existing petroleum mining activities involving structures or pipelines
 (1) This section applies to an existing activity that requires a marine consent as a result of this Act coming into force if the activity—
   (a) involves an existing structure or an existing submarine pipeline; and
-  (b) is associated with mining for petroleum authorised by a petroleum mining permit granted under section 25 of the Crown Minerals Act 1991 before the date on which this Act comes into force or authorised by an existing privilege preserved under section 107 of that Act.
+  (b) is associated with mining for petroleum authorised by a petroleum mining permit granted under section 25 of the Crown Minerals Act 1991 before the date on which this Act comes into force or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act.
 (2) However, despite subsection (1), this section does not apply to any of the activities described in subsection (3) unless the Environmental Protection Authority provides a ruling to the effect that the adverse effects on the environment or existing interests of an activity are likely to be minor or less than minor.
 (3) The activities referred to in subsection (2) are—
   (a) any activity that is part of an activity described in subsection (1), such as placing a structure or drilling a well, that had not commenced before this Act comes into force; or
@@ -1800,7 +1800,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 (6) If the application for a marine consent described in subsection (5)(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
 (7) Subsections (2) and (5) override section 20.
 (8) In this section, planned petroleum activity means an activity involved with the exploration, prospecting, or mining for petroleum if,—
-  (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under section 107 of that Act; and
+  (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
   (b) the activity had not commenced before the Act comes into force.
 
 **Unauthorised activities**
