@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2011-03-31_
+_Consolidation as at 2013-05-24_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -170,7 +170,7 @@ To avoid doubt, this Act does not affect—
   - **plan** has the meaning given in section 43AA of the Resource Management Act 1991, and also includes any proposed plan
   - **planning document** means the document that may be prepared by a customary marine title group under section 85
   - **privilege** , in relation to any mineral,—
-    (a) has the same meaning as the definition of existing privilege in section 106 of the Crown Minerals Act 1991; and
+    (a) has the same meaning as the definition of existing privilege in section 2(1) of the Crown Minerals Act 1991; and
     (b) also means prospecting, exploration, and mining permits granted under that Act, and their associated mining operations (within the meaning of section 2(1) of that Act)
   - **proposed plan** has the meaning given in section 43AAC of the Resource Management Act 1991
   - **protected customary right** means an activity, use, or practice—
