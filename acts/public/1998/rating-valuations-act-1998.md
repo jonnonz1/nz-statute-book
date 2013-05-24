@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2013-05-24_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
     (a) offered for sale on such reasonable terms and conditions as a bona fide seller might be expected to impose; and
     (b) no improvements had been made on the land
   - **local authority** means a territorial authority or regional council
-  - **minerals** includes all minerals, metals, coal, oil, kauri gum, clay, stone, gravel, sand, precious stones, and water; and includes petroleum within the meaning of Part 1 of the Crown Minerals Act 1991
+  - **minerals** includes all minerals, metals, coal, oil, kauri gum, clay, stone, gravel, sand, precious stones, and water; and includes petroleum within the meaning of section 2(1) of the Crown Minerals Act 1991
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **owner** means the person who, whether jointly or separately, is seised or possessed of or entitled to any estate or interest in land constituting a rating unit
   - **ratepayer** has the same meaning as in section 11 of the Local Government (Rating) Act 2002
