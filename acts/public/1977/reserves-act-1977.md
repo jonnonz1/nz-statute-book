@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-05-24_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -124,10 +124,15 @@ _Consolidation as at 2012-10-01_
   (c) biological survey of scenic, nature, and scientific reserves—
 
 ### 5 Restricting application of this Act
-(1) This Act shall not apply with respect to any land that is subject to the Forests Act 1949:provided that, notwithstanding anything to the contrary in that Act, the Minister may from time to time, by notice in the Gazette, declare that any State forest land shall be a recreation reserve, an historic reserve, a scenic reserve, a nature reserve, or a scientific reserve subject to this Act, and the land shall thereupon be held as a reserve for recreation, historic, scenic, nature, or scientific purposes, as the case may be, accordingly; but no such declaration shall be made except with the consent of the Minister of Forestry.
-(2) Except as otherwise specially provided herein, this Act in its application to any reserve shall be read subject to—provided that nothing in this subsection shall limit the power of the Minister to classify any reserve or change the classification thereof.
+(1) This Act does not apply to any land that is subject to the Forests Act 1949.
+(2) Except as otherwise specially provided herein, this Act in its application to any reserve shall be read subject to—
   (a) any Act (whether passed before or after the commencement of this Act) or any Provincial Ordinance in force at the commencement of this Act making any special provision with respect to that reserve, whether by direct reference thereto or by reason of the reserve being vested in any particular local authority, board, or trustees, or in any local authority of a particular class, or by reason of the reserve being one of any particular class, or authorising the setting apart of any reserve for any purpose:
-  (b) the provisions of any will, deed, or other instrument creating the trusts upon which the reserve is held:
+  (b) the provisions of any will, deed, or other instrument creating the trusts upon which the reserve is held.
+(3) Nothing in subsection (2) limits—
+  (a) the power of the Minister—
+    (i) to classify, or change the classification of, any reserve other than a nature reserve or a scientific reserve; or
+    (ii) to recommend to the Governor-General that an Order in Council be made to classify, or change the classification of, a nature reserve or a scientific reserve; or
+  (b) the power of the Governor-General to make an Order in Council under section 16A(3).
 
 ### 5A Director-General to administer special leases and grazing permits over certain reserves
 (1) Sections 18, 50A to 50F, 56, 60, 60B, 65, 67(1), 67(2), 67(4), 68 to 69, 81 to 105, 111 to 115, 121 to 126, 127, 131 to 151, 153 to 158, 160, 164A, 164B, 170 to 171, 174, and 183 of the Land Act 1948 apply to every special lease and grazing permit in its application (by virtue of subsection (1) or subsection (2) of section 65 of the Crown Pastoral Land Act 1998) to any reserve as if every reference in those provisions to the Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department, were a reference to the Director-General.
@@ -136,6 +141,12 @@ _Consolidation as at 2012-10-01_
 ### 6 Powers of Minister in cases of doubt
 (1) If in the opinion of the Minister there is any doubt or uncertainty as to whether any land was immediately before the commencement of this Act a reserve within the meaning of section 2 of the Reserves and Domains Act 1953, he may, by notice in the Gazette, declare either that the land as defined in the notice is a reserve within the meaning of this Act for such purpose or purposes as are stated in the notice, or that it is not a reserve; and every such notice shall have effect according to its tenor.
 (2) The Minister may in like manner define the purpose for which any reserve (whether reserved or set apart before or after the commencement of this Act) shall be classified in any case where doubt exists as to that purpose.
+(2A) Despite subsections (1) and (2), the Minister must not act under those provisions to—
+  (a) declare any land to be a nature reserve or a scientific reserve or to be included in an existing nature reserve or scientific reserve; or
+  (b) define any reserve as held for the purpose of a nature reserve or a scientific reserve.
+(2B) Instead, the Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) declare that land specified in the order is or is not a nature reserve or a scientific reserve; or
+  (b) declare that a reserve must be held for the purpose of a nature reserve or a scientific reserve, according to the terms of the order.
 (3) Where in any notice issued in the Gazette under this Act or under any Act repealed by this Act there has been made any error of description (whether with respect to the boundaries or area of the land to which the notice relates or with respect to classification or nomenclature, or otherwise howsoever), the Minister may revoke the notice, and may thereafter issue in its place a fresh notice with amended particulars and descriptions, or may by notice amend the original notice.
 (4) Every notice of revocation or amendment issued under subsection (3) shall, according to its tenor, take effect as from the date on which the original notice was intended to take effect or as from such other date as may be therein specified in that behalf.
 
@@ -299,6 +310,20 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
   (c) all reserves for the preservation of flora and fauna existing immediately before the commencement of this Act shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as nature reserves under section 20:
   (d) the reserves described in Schedule 2 of the notice by the Minister of Lands dated 14 December 1972 and published in the Gazette on 11 January 1973 at page 8 (being reserves forming part of the Marlborough Sounds Maritime Park) shall, after the commencement of this Act, and without further notice or gazetting, be deemed to be classified as local purpose reserves for sounds foreshore purposes under section 23, but subject to the provisions of section 17 of the Reserves and Other Lands Disposal Act 1955:
   (e) all reserves which immediately before the commencement of this Act were set apart for Government railway purposes shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as government purpose reserves for railway purposes under section 22 under the control and management of the Minister of Railways.
+(12) This section is subject to section 16A in respect of the classification of nature and scientific reserves.
+
+### 16A Application of section 16 to nature and scientific reserves after commencement of Crown Minerals Amendment Act 2013
+(1) Despite section 16, on and from the commencement of the Crown Minerals Amendment Act 2013,—
+  (a) all reserves existing immediately before the commencement of that Act and not yet classified in accordance with section 16 must be classified in accordance with this section if the reserve is to be classified as a nature reserve or as a scientific reserve:
+  (b) all nature and scientific reserves created after the commencement of the Crown Minerals Amendment Act 2013 must be classified in accordance with this section.
+(2) The Minister may recommend to the Governor-General that an Order in Council be made to name and classify a reserve as a nature reserve or as a scientific reserve if the principal or primary purpose of the reserve is the same as that specified for—
+  (a) a nature reserve in section 20; or
+  (b) a scientific reserve in section 21.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, name and classify a reserve as a nature reserve or as a scientific reserve.
+(4) Before making a recommendation under subsection (2), the Minister must—
+  (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
+  (b) give public notice in accordance with section 119 specifying the name and classification proposed, and must consider in accordance with section 120 all objections and submissions in relation to the proposal, and those sections apply accordingly with any necessary modifications.
+(5) When classified under this section, each reserve must be held and administered for the purpose or purposes for which it is classified and for no other purpose.
 
 ### 17 Recreation reserves
 (1) It is hereby declared that the appropriate provisions of this Act shall have effect, in relation to reserves classified as recreation reserves, for the purpose of providing areas for the recreation and sporting activities and the physical welfare and enjoyment of the public, and for the protection of the natural environment and beauty of the countryside, with emphasis on the retention of open spaces and on outdoor recreational activities, including recreational tracks in the countryside.
@@ -386,10 +411,18 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
   (g) the procedure to be followed by the Minister in any matter arising under this section shall be as prescribed in regulations made under this Act or, where there are no such regulations or so far as the regulations do not extend, as the Minister determines:
   (h) any person who does not lodge an objection in accordance with this subsection shall be deemed to have assented to the change of classification or purpose or the revocation of reservation set forth in the public notification.
 (3) No change of classification or purpose of a scenic, nature, or scientific reserve, or any part thereof, to a recreation, historic, government purpose, or local purpose reserve shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the forest, bush, or other vegetation, or of the fauna or scientific or natural features thereon, or for any other like cause, no longer suitable for the purposes of its classification.
-(4) No revocation of the reservation of any land as a nature or scientific reserve, or any part thereof, shall be made except where in the opinion of the Minister the reserve or the part thereof is, by reason of the destruction of the forest, bush, or other vegetation, or of the fauna or scientific or natural features thereon, or for any other like cause, no longer suitable for the purposes of its classification.
+(4)
 (5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from the New Zealand Historic Places Trust before making his decision.
 (6) Subsection (2) shall not apply to any government purpose reserve, but no change of classification or purpose or revocation of the reservation of such a reserve or any part of such a reserve shall be made without the prior approval of the Minister appointed under section 22 or section 36 to control and manage that reserve.
 (7) Subsection (2) shall not apply to any local purpose reserve, other than a reserve made on a subdivision of land under section 13 of the Land Subdivision in Counties Act 1946 or a reserve vested in the Corporation of a borough pursuant to the Municipal Corporations Act 1954 or the Corporation of a county pursuant to Part 2 of the Counties Amendment Act 1961 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or Part 20 of the Local Government Act 1974 (as enacted by section 2 of the Local Government Amendment Act 1978) or as a condition of any resource consent under the Resource Management Act 1991:provided that the Minister may, after considering such evidence as may be submitted to him, direct that the proposals be publicly notified, and in that case subsection (2) shall apply.
+(8) The Minister must not change the classification or purpose, or revoke the reservation status, of the whole or a part of a nature reserve or a scientific reserve under subsection (1).
+(9) Instead, a change to the classification or purpose, or the revocation of the reservation status, of the whole or a part of a nature reserve or a scientific reserve must be made by the Governor-General by Order in Council, on the recommendation of the Minister.
+(10) The Minister must not make a recommendation under subsection (9) to change the classification or purpose, or to revoke the reservation status, of a nature reserve or a scientific reserve unless—
+  (a) the Minister is satisfied that the reserve is no longer suitable for the purposes of its classification because of the destruction of its forest, bush, or other vegetation, or of its fauna or natural or scientific features, or for any other similar cause; and
+  (b) the Minister has complied with subsection (2), with any necessary modifications.
+(11) Subsection (10)(a) does not apply if the intended change of classification is from—
+  (a) nature reserve to scientific reserve or scenic reserve:
+  (b) scientific reserve to nature reserve or scenic reserve.
 
 ### 24A Change of purpose of reserve by territorial authority or regional council
 (1) Notwithstanding section 24, where any local purpose reserve is vested in a territorial authority or regional council, that territorial authority or regional council may, by notice in the Gazette, change the purpose for which that reserve is classified within its classification as a local purpose reserve.
@@ -603,11 +636,13 @@ The administering body may, with the prior approval of the Minister, erect, or a
 (3) Any rights so granted may at any time in like manner be withdrawn or varied by the Minister.
 
 ### 47 Wilderness areas
-(1) Subject to subsections (2) and (3), the Minister (in the case of a reserve in respect of which there is no administering body) or the administering body with the consent of the Minister (in the case of a reserve in respect of which there is an administering body) may from time to time, by notice in the Gazette, set apart the whole or any specified part of a reserve as a wilderness area, and may in like manner revoke or vary any such setting apart.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) set apart the whole or any specified part of a reserve as a wilderness area:
+  (b) vary or revoke any order made under this subsection.
 (2) Before any reserve or any part of a reserve is set apart as a wilderness area,—
-  (a) the administering body shall give public notice of the proposal in accordance with section 119,—
+  (a) the Minister (in any case where there is no administering body) or the administering body (if there is one) shall give public notice of the proposal in accordance with section 119,—
     (i) stating that a plan of the proposal is available for inspection at a place and at times specified in the notice; and
-    (ii) calling upon persons or organisations interested to lodge with the administering body written objections to, or written submissions in support of, or suggestions on, the proposal before a specified date, being not less than 3 months after the date of publication of the notice; and
+    (ii) calling upon persons or organisations interested to lodge with the Minister or the administering body written objections to, or written submissions in support of, or suggestions on, the proposal before a specified date, being not less than 3 months after the date of publication of the notice; and
   (b) the Minister shall give full consideration in accordance with section 120 to all objections and submissions in relation to the proposal received pursuant to the said section 120.
 (3) No part of a government purpose reserve shall be set apart as a wilderness area without the consent of the Minister appointed under section 22 or section 36 to control and manage that reserve.
 (4) Subject to subsections (5) to (7), while any reserve or part of a reserve is set apart as a wilderness area,—
