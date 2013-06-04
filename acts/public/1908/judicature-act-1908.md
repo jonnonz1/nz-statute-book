@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-02-04_
+_Consolidation as at 2013-06-04_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -8470,19 +8470,13 @@ An application for a grant is made by—
 
 ### 27.10 Where application is filed
 (1) This rule applies to an application, and all other documents, filed under this Part.
-(2) If the deceased resided in New Zealand when he or she died, the application and documents must be filed in the registry of the court nearest, by the most practicable route, to the place where he or she resided at death.
-(3) If the deceased did not reside in New Zealand when he or she died and his or her property is situated in only 1 place in New Zealand, the application and documents must be filed in the registry of the court nearest, by the most practicable route, to the place where his or her property is situated.
-(4) If the deceased did not reside in New Zealand when he or she died and his or her property is situated in more than 1 place in New Zealand, the application and documents must be filed in the registry of the court at Wellington or a registry specified under subclause (6).
-(5) If the deceased did not reside in New Zealand when he or she died and left no property in New Zealand, the application and documents must be filed in the registry of the court at Wellington or a registry specified under subclause (6).
-(6) If subclause (4) or (5) applies,—
-  (a) the applicant may make an interlocutory application for an order specifying the registry of the court in which the application and documents are to be filed; and
-  (b) the court may make an order specifying the registry.
-(7) If an application or a document is filed in the wrong registry of the court, the court may order the transfer of the application or document to the proper registry.
+(2) Irrespective of the place where the deceased died, the application and documents must be filed in the registry of the court at Wellington.
+(3) If an application or a document is filed in the wrong registry of the court, the court may order the transfer of the application or document to the proper registry.
 
 ### 27.11 Where caveat is lodged
 (1) This rule applies to a caveat under section 60 of the Administration Act 1969.
 (2) The caveat must be in form PR 10.
-(3) The caveat must be lodged with the Registrar in the registry in which the application is required to be filed under rule 27.10.
+(3) The caveat must be lodged with the Registrar of the court at Wellington.
 
 ### 27.12 Evidence of death
 (1) The court may accept any evidence that satisfies it of the death of a person whose estate is the subject of an application for a grant, unless no dead body has been identified as that of the person.
@@ -9531,135 +9525,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 
 #### Schedule 1 — Forms
 
-| Contents |  |  |
-| --- | --- | --- |
-| General forms |  |  |
-|  |  | Page |
-| G 1 | General heading for documents filed in proceeding | 658 |
-| G 2 | Notice of proceeding | 659 |
-| G 3 | Memorandum (general form) | 661 |
-| G 4 | Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 | 663 |
-| G 5 | Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 | 666 |
-| G 6 | Notice to defendant served overseas | 670 |
-| G 7 | Appearance under protest to jurisdiction | 672 |
-| G 8 | Appearance for ancillary purpose | 673 |
-| G 9 | Appearance reserving rights | 674 |
-| G 10 | Memorandum to be attached to first document filed by party | 675 |
-| G 11 | Memorandum as to change of representation and/or address for service | 677 |
-| G 12 | Notice of intention to speak Māori | 678 |
-| G 13 | Notice of proceeding when summary judgment sought by plaintiff | 680 |
-| G 14 | Third party notice | 685 |
-| G 15 | Notice to other defendant | 687 |
-| G 16 | Affidavit of service | 688 |
-| G 17 | Service of foreign process in New Zealand—Registrar’s certificate | 690 |
-| G 18 | Request for service abroad | 691 |
-| G 19 | Report of examiner | 692 |
-| G 20 | Subpoena to give evidence in New Zealand proceeding for service in Australia | 694 |
-| G 21 | Subpoena for production only issued in New Zealand proceeding for service in Australia | 695 |
-| G 22 | Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings | 697 |
-| G 23 | Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia | 699 |
-| G 24 | Notice of discontinuance | 700 |
-| G 25 | Subpoena | 701 |
-| G 26 | Subpoena to give evidence for service in Australia | 703 |
-| G 27 | Subpoena for production only for service in Australia | 704 |
-| G 28 | Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 | 705 |
-| G 29 | Certificate of non-compliance with subpoena for service in Australia | 709 |
-| G 30 | Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 | 710 |
-| G 31 | Interlocutory application on notice | 712 |
-| G 32 | Interlocutory application without notice | 713 |
-| G 33 | Notice of opposition | 714 |
-| G 34 | Interlocutory order | 715 |
-| G 35 | Notice to answer interrogatories | 716 |
-| G 36 | Notice to admit facts | 717 |
-| G 37 | Affidavit of documents | 718 |
-| G 38 | Freezing order | 721 |
-| G 39 | Search order | 724 |
-| G 40 | General court order | 726 |
-| J 1 | Judgment by default in case of liquidated demand | 727 |
-| J 2 | Judgment by default in proceeding for recovery of land | 728 |
-| J 3 | Judgment on trial by Judge | 729 |
-| J 4 | Judgment on trial by jury | 730 |
-| E 1 | Notice to liable party | 731 |
-| E 2 | Statement of means of liable party | 733 |
-| E 3 | Attachment order | 738 |
-| E 4 | Charging order on land | 740 |
-| E 5 | Interim charging order | 741 |
-| E 6 | Final charging order | 742 |
-| E 7 | Sale order | 743 |
-| E 8 | Possession order | 745 |
-| E 9 | Arrest order | 746 |
-| E 10 | Sequestration order | 747 |
-| E 11 | Order to arrest and imprison absconding debtor | 748 |
-| E 12 | Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice | 749 |
-| CL 1 | Commercial list | 750 |
-| CL 2 | Appearance in proceeding entered on commercial list | 752 |
-| CL 3 | Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 | 753 |
-| PR 1 | Affidavit for obtaining grant of probate | 755 |
-| PR 2 | Affidavit for obtaining grant of letters of administration with will annexed | 762 |
-| PR 3 | Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner | 769 |
-| PR 4 | Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased | 775 |
-| PR 5 | Affidavit for obtaining grant of administration on intestacy to parent of deceased | 781 |
-| PR 6 | Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased | 786 |
-| PR 7 | Probate in common form | 792 |
-| PR 8 | Letters of administration with will annexed | 794 |
-| PR 9 | Letters of administration on intestacy | 796 |
-| PR 10 | Caveat | 797 |
-| PR 11 | Exemplification of probate or letters of administration | 798 |
-| PR 12 | Affidavit of valid execution | 800 |
-| AD 1 | General heading for action in personam | 803 |
-| AD 2 | Notice of proceeding in personam | 804 |
-| AD 3 | General heading for action in rem | 806 |
-| AD 4 | Notice of proceeding in rem | 807 |
-| AD 5 | Notice of proceeding both in rem and in personam | 809 |
-| AD 6 | Memorandum of appearance | 812 |
-| AD 7 | Application for warrant of arrest | 814 |
-| AD 8 | Indemnity to Registrar | 815 |
-| AD 9 | Warrant of arrest | 816 |
-| AD 10 | Notice by Registrar of arrest of property | 817 |
-| AD 11 | Request for caveat against arrest | 818 |
-| AD 12 | Release from arrest | 819 |
-| AD 13 | Bail bond | 820 |
-| AD 14 | Request for caveat against release and payment | 821 |
-| AD 15 | Request for commission for appraisement and sale | 822 |
-| AD 16 | Commission for appraisement and sale | 823 |
-| AD 17 | Notice for priority of claims on sale | 824 |
-| Arb 1 | Appeal under Arbitration Act 1996 | 825 |
-| Arb 2 | Notice for leave to appeal under Arbitration Act 1996 | 827 |
-| Arb 3 | Application to enter award as judgment | 829 |
-| C 1 | Statement of claim in proceeding for putting company into liquidation | 831 |
-| C 2 | Statement of claim in proceeding for order under section 174 of Companies Act 1993 | 832 |
-| C 3 | Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 | 834 |
-| C 4 | Verifying affidavit | 838 |
-| C 5 | Affidavit verifying statement of claim of limited company | 839 |
-| C 6 | Advertisement of application for putting company into liquidation | 840 |
-| C 7 | Advertisement of application for order under section 174 of Companies Act 1993 | 841 |
-| C 8 | Affidavit of service | 842 |
-| C 9 | Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) | 843 |
-| C 10 | Notification to liquidator of order putting company into liquidation | 844 |
-| C 11 | Notification to interim liquidator of appointment | 845 |
-| C 12 | Order putting company into liquidation | 846 |
-| C 13 | Order appointing interim liquidator | 847 |
-| C 14 | General heading for notices in forms C 15 and C 16 | 848 |
-| C 15 | Notice to set aside voidable transaction under Companies Act 1993 | 849 |
-| C 16 | Notice to set aside voidable charge under Companies Act 1993 | 851 |
-| B 1 | Request for issue of bankruptcy notice | 853 |
-| B 2 | Bankruptcy notice | 854 |
-| B 3 | Creditor's application for adjudication order | 857 |
-| B 4 | Affidavit supporting creditor’s application for adjudication | 858 |
-| B 5 | Summons to debtor | 859 |
-| B 6 | Notice by debtor of intention to oppose application | 861 |
-| B 7 | Warrant to search for and seize bankrupt’s property under section 150 or 151 of Insolvency Act 2006 | 862 |
-| B 8 | Notice of objection to discharge | 863 |
-| B 9 | Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 | 864 |
-| B 10 | Statement of affairs and affidavit | 866 |
-| B 11 | Report of trustee on proposal | 867 |
-| B 12 | Account of assets, debts, etc, of deceased person verified by affidavit | 869 |
-| B 13 | Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 | 871 |
-| B 14 | Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 | 873 |
-| B 15 | Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 | 875 |
-| B 16 | Order adjudicating debtor bankrupt | 877 |
-| B 17 | Appointment of Official Assignee as receiver and manager | 878 |
-
 | *Select one. |
 | --- |
 
@@ -10073,9 +9938,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| †If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
-| --- |
-
 | *Select one. |
 | --- |
 
@@ -10152,9 +10014,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| †If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
-| --- |
-
 | *Select one. |
 | --- |
 
@@ -10219,9 +10078,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | --- |
 
 | *Select one. |
-| --- |
-
-| *If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
 | --- |
 
 | *Select one. |
