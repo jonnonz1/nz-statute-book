@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-06-04_
 
 > An Act to provide for—athe security of courts; andbthe safety of the public and others who access and use the courts
 
@@ -279,7 +279,7 @@ A court security officer who denies a person entry to, or removes a person from,
 ### 25 Powers not generally applicable to persons in custody of certain agencies
 (1) This section applies to the following categories of persons:
   (a) persons in the custody of the Police:
-  (b) persons in the custody of security officers under the Corrections Act 2004:
+  (b) persons in the custody of security officers or officers under the Corrections Act 2004:
   (c) persons who—In this paragraph, member of staff and social worker have the meanings given to those terms by regulation 2 of the Children, Young Persons, and Their Families (Residential Care) Regulations 1996.
     (i) have been placed in a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989; and
     (ii) have travelled from the residence to a court in the custody of one of the following custodians:
