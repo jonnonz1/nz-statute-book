@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2013-03-05_
+_Consolidation as at 2013-06-04_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -22,9 +22,7 @@ This Act is the Corrections Act 2004.
     (f) any family group conference within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989:
     (g)
     (h) any other person or body of persons the proceedings, or any part of the proceedings, of whom or of which are deemed to be a judicial proceeding for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury)
-  - **authorised property** means any property that is—
-    (a) specified in this Act or in regulations made under this Act as property that may be issued to a prisoner; and
-    (b) kept by, or retained on behalf of, the prisoner in accordance with this Act and any regulations made under this Act
+  - **authorised property** means property that is declared by rules made under section 45A as property that may be issued to a prisoner
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **complainant** means a person who makes a complaint under subpart 6 of Part 2
   - **complaint** —
@@ -91,6 +89,7 @@ This Act is the Corrections Act 2004.
     (b) that is the person's whanau or other culturally recognised family group
   - **firearm** has the same meaning as in section 2 of the Arms Act 1983
   - **Health and Disability Commissioner** includes any employee of the Commissioner
+  - **health centre manager** means a person appointed as a health centre manager under section 19A and who is a medical practitioner or a nurse
   - **hearing adjudicator** means a person designated as a hearing adjudicator under section 15
   - **Independent Police Conduct Authority** includes any employee of the Authority
   - **inspector of corrections** or means a person appointed as an inspector of corrections under section 28
@@ -104,6 +103,7 @@ This Act is the Corrections Act 2004.
   - **member of the Human Rights Commission** includes any employee of the Human Rights Commission
   - **Minister** means the Minister of the Crown for the time being responsible for the department
   - **monitor** means any person appointed under section 199E(1) or (2)
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offender** —
     (a) means a person who is under control or supervision; and
     (b) includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court; but
@@ -208,7 +208,7 @@ This Act is the Corrections Act 2004.
     (d) any thing that could be used for the purpose of facilitating the escape from lawful custody of any person:
     (e) in relation to any person, any thing that may not lawfully be retained in the person's possession:
     (f) any article or thing that is in the possession of any person in contravention or intended contravention of section 128, section 129(a), section 129(aa), section 141, section 143, or section 144:
-    (fa) any thing or substance that could be used to tamper with any sample that a prisoner is required to supply in accordance with a prescribed procedure under section 124:
+    (fa) any thing or substance that could be used to tamper with or dilute or contaminate any sample that a prisoner is required to supply in accordance with a prescribed procedure under section 124:
     (g) any offensive weapon within the meaning of section 202A of the Crimes Act 1961:
     (h) any disabling substance within the meaning of that section:
     (i) any article or thing declared to be an unauthorised item by regulations made under this Act
@@ -306,8 +306,10 @@ Despite anything in sections 41 and 42 of the State Sector Act 1988 or in any ot
   (c) the power to designate employees as hearing adjudicators under section 15; or
   (d) the power to appoint inspectors of corrections under section 28; or
   (e) the power to authorise extended periods of detention in a Police jail under section 34(5); or
+  (ea) the power to reconsider a prisoner's security classification under section 48(2); or
   (f) the powers conferred by section 58 or section 59(1)(b) (which relate to the segregation of prisoners on the grounds of security, good order, or safety; or for the purpose of protective custody); or
-  (g) the power to grant approvals under section 66(5)(a) (which relates to the types and conditions of work to be provided for prisoners); or
+  (g) the power to grant approvals under sections 66(5)(a) and 66A(2) (which relate to the types and conditions of work in which prisoners will be employed); or
+  (ga) the power to approve an employee for the purposes of any regulations made under this Act; or
   (h) the power to appoint security monitors under section 172; or
   (i) the power to issue guidelines or instructions under section 196; or
   (j) the power to appoint monitors under section 199E(1) or (2); or
@@ -403,7 +405,7 @@ A hearing adjudicator has the following powers and functions:
   (c) inquiring into all abuses or alleged abuses within the prison or in connection with it:
   (d) inquiring into any matter referred to him or her by the chief executive:
   (e) for any of the purposes of this section, taking evidence on oath or otherwise:
-  (f) determining, under section 87(5), whether to authorise the use of a mechanical restraint for more than 24 hours:
+  (f)
   (g) dealing with offences against discipline in accordance with this Act and any regulations made under this Act:
   (h) reporting in writing to the chief executive on any of the matters referred to in paragraphs (a) to (g) or on any other matters related to the prison, as often as the Visiting Justice considers appropriate, and whenever requested to do so by the chief executive.
 (5) Whenever a Visiting Justice reports to the chief executive under subsection (4)(h) about any matter concerning a Police jail or a prisoner detained in a Police jail, the Visiting Justice must forward a copy of his or her report to the Commissioner of Police.
@@ -418,12 +420,16 @@ A hearing adjudicator has the following powers and functions:
   (d) may, at any time, be removed from the office by the Governor-General for inability to perform the functions of office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General:
   (e) has and enjoys, in the performance of his or her duties under this Act, the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under Part 7 of the Summary Proceedings Act 1957.
 
+### 19A Health centre managers
+(1) For every prison (not being a contract prison or Police jail), the chief executive must appoint, under the State Sector Act 1988, a health centre manager.
+(2) A contractor must appoint a health centre manager for every contract prison managed by that contractor.
+(3) Each health centre manager must be a medical practitioner or a nurse.
+(4) Every health centre manager is responsible for ensuring the provision of health care and treatment to prisoners.
+
 ### 20 Medical officers
-(1) For every prison (other than a Police jail), there must be 1 or more medical officers responsible for providing medical care and medical treatment to prisoners.
-(2) Each medical officer must be a medical practitioner.
-(3) Every medical officer must—
-  (a) be appointed or engaged under section 11(1)(b), (2)(b), or (4); or
-  (b) carry out his or her functions in accordance with arrangements approved by the chief executive.
+(1) The chief executive must ensure that every prison (other than a Police jail) has a sufficient number of medical officers to meet prisoners' needs for medical care and medical treatment.
+(2) Every contractor must ensure that every contract prison managed by that contractor has a sufficient number of medical officers to meet prisoners' needs for medical care and medical treatment.
+(3) Each medical officer must be a medical practitioner.
 
 ### 21 Protection of officers in discharge of functions
 Every officer, while acting in that capacity, has all the powers, authority, protections, and privileges of a member of the Police (including a constable).
@@ -534,8 +540,8 @@ The chief executive must appoint as many suitable employees of the department as
   (b) publish in the Gazette a notice of any declaration under subsection (4) or subsection (5)(b) as soon as practicable after the declaration is made.
 
 ### 33 Manager may make rules for prison
-(1) The chief executive may authorise the manager of a corrections prison to make rules that the manager considers appropriate for the management of the prison and for the conduct and safe custody of the prisoners.
-(2) The Commissioner of Police may authorise the manager of a Police jail to make rules that the manager considers appropriate for the management of the prison and for the conduct and safe custody of the prisoners.
+(1) The chief executive may, subject to subsection (6), authorise the manager of a corrections prison to make rules that the manager considers appropriate for the management of the prison and for the conduct and safe custody of the prisoners.
+(2) The Commissioner of Police may, subject to subsection (6), authorise the manager of a Police jail to make rules that the manager considers appropriate for the management of the prison and for the conduct and safe custody of the prisoners.
 (3) An authorisation given by the chief executive or the Commissioner of Police under subsection (1) or subsection (2) may be subject to—
   (a) any conditions imposed by the chief executive or, as the case requires, the Commissioner of Police:
   (b) any limitations placed on the scope or subject matter of the rules by the chief executive or, as the case requires, the Commissioner of Police.
@@ -543,6 +549,7 @@ The chief executive must appoint as many suitable employees of the department as
   (a) in the case of rules made by the manager of a corrections prison, by the chief executive:
   (b) in the case of rules made by the manager of a Police jail, by the Commissioner of Police.
 (5) Any rules made under subsection (1) or subsection (2) must not be inconsistent with this Act, the Sentencing Act 2002, the Parole Act 2002, or any regulations made under any of those Acts.
+(6) No rules may be made under this section that relate to matters for which rules must or may be made under section 45A.
 
 **Detention and custody of prisoners**
 
@@ -632,7 +639,7 @@ A prisoner must promptly obey every lawful order given to him or her by—
 (5) The chief executive must ensure that, if the prisoner is a person accused of an offence and is subsequently acquitted, all photographs (including any negatives or digital or other records of the photographs) and fingerprints taken during the prisoner's detention in respect of the charge, and any record of identifying information created in reliance on subsection (1) during that period, are immediately destroyed.
 
 ### 42 Certain information to be given to recently received prisoners
-(1) The manager of a prison must ensure that, on the reception of a prisoner in the prison, or reasonably promptly after the prisoner is received, the prisoner is given, in writing, relevant information on the operation and rules of the prison made under section 33 and the entitlements of prisoners.
+(1) The manager of a prison must ensure that, on the reception of a prisoner in the prison, or reasonably promptly after the prisoner is received, the prisoner is given, in writing, relevant information on the operation and rules of the prison made under section 33, rules about authorised property made under section 45A, and the entitlements of prisoners.
 (2) The manager of a prison must ensure that, on the reception into the prison of a prisoner who is a citizen of another country, or promptly after the prisoner is received, the prisoner is given, in writing, advice that—
   (a) the prisoner may require the manager to inform a consular representative of the country of which the prisoner is a citizen of his or her detention; and
   (b) any correspondence addressed to a representative by the prisoner will be forwarded to that representative without delay.
@@ -640,10 +647,10 @@ A prisoner must promptly obey every lawful order given to him or her by—
 **Prisoners' property**
 
 ### 43 Authorised property
-(1) A prisoner may be issued with, or allowed to keep, any property declared to be authorised property by regulations made under this Act subject to—
-  (a) the condition described in section 44(1); and
+(1) A prisoner may be issued with, or allowed to keep, authorised property subject to—
+  (a) any condition set out in rules made under section 45A; and
   (b) any special conditions imposed by the prison manager relating to the use of the property; and
-  (c) any condition set out in regulations made under this Act.
+  (c) the condition described in section 44(1).
 (2) Despite subsection (1), the prison manager may refuse to issue or allow a prisoner to keep an item of property if he or she has reasonable grounds to believe that—
   (a) the item may be used to injure the prisoner or any other person, or to damage property; or
   (b) the item is a camera, tape recorder, or electronic device that may be used to record security features or actions in the prison; or
@@ -660,18 +667,18 @@ A prisoner must promptly obey every lawful order given to him or her by—
     (ii) the subject of a direction under section 60 for the reason described in section 60(1)(b) (which relates to assessing or ensuring the prisoner's mental health); or
     (iii) subject to cell confinement imposed as a penalty under subpart 5 of Part 2; or
   (b) if the prisoner is detained in a Police jail and, in the opinion of the manager, having regard to the facilities available at the Police jail and the resources available, it is not practicable to allow the prisoner to keep the item; or
-  (c) in any other circumstances specified in regulations made under this Act.
+  (c) in any other circumstances specified in regulations made under this Act or rules made under section 45A.
 
 ### 44 Standard conditions of issue and transfer of issued items
-(1) The condition referred to in section 43(1)(a) is that, before the item is issued to the prisoner, the prisoner must acknowledge in writing that—
+(1) The condition referred to in section 43(1)(c) is that, before the item is issued to the prisoner, the prisoner must acknowledge in writing that—
   (a) the prisoner accepts full responsibility for the property; and
   (b) the corrections authorities are not liable for any loss of, or damage to, the property; and
   (c) the property may not be transferred to another prisoner without the prior approval of the prison manager; and
   (d) the prisoner will comply with any special conditions imposed under section 43(1)(b).
 (2) This section does not—
-  (a) apply to any item of property declared by regulations made under this Act as prison property to which this section does not apply; or
+  (a) apply to any item of property declared by rules made under section 45A as prison property to which this section does not apply; or
   (b) apply to any property while it is under the immediate control and supervision of any of the corrections authorities; or
-  (c) limit any conditions set out in regulations made under this Act relating to the issue, keeping, or transfer of authorised property.
+  (c) limit any conditions set out in rules made under section 45A relating to the issue, keeping, or transfer of authorised property.
 (3) In this section, the corrections authorities include the following:
   (a) the Crown:
   (b) a staff member:
@@ -695,6 +702,22 @@ A prisoner must promptly obey every lawful order given to him or her by—
 (3) Any destruction of a prisoner's property must be carried out in the prisoner's presence unless—
   (a) destruction in his or her presence is dangerous or impracticable; or
   (b) the prisoner cannot be identified or located.
+
+### 45A Rules about authorised property
+(1) The chief executive—
+  (a) must, in respect of all corrections prisons, make rules declaring the items of property that prisoners may be issued with or allowed to keep; and
+  (b) may make rules imposing conditions that attach to an item of property so declared; and
+  (c) must publish the rules on an Internet site; and
+  (d) must make the rules available for public inspection free of charge and for purchase at a reasonable price; and
+  (e) must give notice in the Gazette whenever rules are made or amended under this section, stating—
+    (i) the Internet site on which the rules are published; and
+    (ii) the place where the rules can be inspected; and
+    (iii) the place where the rules can be purchased.
+(2) The Commissioner of Police—
+  (a) must, in respect of all Police jails, make rules declaring the items of property that prisoners may be issued with or allowed to keep; and
+  (b) may make rules specifying conditions that attach to an item of property so declared; and
+  (c) must arrange for the rules to be made available and published in accordance with subsection (1)(c) to (e).
+(3) Rules made under subsection (1) or (2) are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
 
 **Trust account and purchasing system**
 
@@ -859,17 +882,19 @@ The opportunity of a prisoner to associate with other prisoners may be restricte
   (d) must, if it continues in force because of a direction under paragraph (c), be reviewed by the chief executive at intervals of not more than 3 months.
 
 ### 60 Segregation for purpose of medical oversight
-(1) A prison manager may direct that the opportunity of a prisoner to associate with other prisoners be restricted or denied if a medical officer of the prison recommends that a direction of this kind is desirable for either or both of the following reasons:
+(1) A prison manager may direct that the opportunity of a prisoner to associate with other prisoners be restricted or denied if the health centre manager of the prison recommends that a direction of this kind is desirable for either or both of the following reasons:
   (a) in order to assess or ensure the prisoner's physical health:
   (b) in order to assess or ensure the prisoner's mental health (including, without limitation, the risk of self-harm).
+(1A) Before a health centre manager makes a recommendation under subsection (1) that relates to a matter outside his or her scope of practice, he or she must consult a medical practitioner whose scope of practice includes that matter.
 (2) If a direction is given under this section,—
   (a) the prisoner concerned must promptly be given the reasons for the direction in writing:
   (b) the chief executive must promptly be informed of the direction and the reasons for it.
 (3) A direction under this section continues in force while the prisoner continues to be detained in the prison unless the prison manager or the chief executive revokes it.
-(4) The prison manager may not revoke a direction under this section unless the medical officer advises that there has ceased to be any justification, under subsection (1), for continuing to restrict or deny the opportunity of the prisoner to associate with other prisoners.
-(5) While a direction under this section is in force, unless the medical officer directs otherwise, the prison manager must ensure that a registered health professional visits the prisoner concerned—
+(4) The prison manager may not revoke a direction under this section unless the health centre manager advises that there has ceased to be any justification, under subsection (1), for continuing to restrict or deny the opportunity of the prisoner to associate with other prisoners.
+(5) While a direction under this section is in force, the health centre manager must, unless he or she is satisfied that it is not necessary in the circumstances, ensure that a registered health professional visits the prisoner concerned—
   (a) at least once per day; or
   (b) if the prisoner is assessed to be at risk of self-harm, at least twice per day.
+(6) In this section, scope of practice has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003.
 
 ### 61 Accommodation to be provided if segregation direction in force
 (1) A prisoner who is subject to a direction under section 58, section 59, or section 60 must be provided with accommodation with prescribed items and features that meets prescribed standards.
@@ -943,14 +968,27 @@ Any temporary removal from prison under section 62—
   (b) intended to reduce the costs of keeping prisoners in custody (for example, cooking, cleaning, and maintenance within the prison or any other prison).
 (7) Any work in which a prisoner is employed under this section must be carried out in accordance with any prescribed requirements.
 
+### 66A Self-employment
+(1) Every prisoner (other than a prisoner who is only awaiting trial or on remand or who is detained under the Immigration Act 2009) may, subject to the prison manager's approval, be self-employed while in custody and be employed in that work within the prison or outside the prison in which he or she is detained.
+(2) The prison manager must not approve a prisoner to be self-employed under this section unless the work—
+  (a) is of a kind described in subsection (3) that is approved by the chief executive; and
+  (b) is done under the conditions approved by the chief executive.
+(3) The work referred to in subsection (2) is work that is intended to provide the prisoner with work experience or to assist his or her rehabilitation or reintegration into the community.
+(4) Any work in which a prisoner is employed under this section must be carried out in accordance with any prescribed requirements.
+
 ### 67 Earnings of employed prisoner
 (1) The net amount of wages or salary payable to any prisoner for work done by the prisoner during any period or periods for which the prisoner is temporarily released from custody under section 62 must be paid to the chief executive by the prisoner's employer, in any manner that is agreed between the chief executive and the employer, to the credit of the prisoner.
-(2) Every prisoner who is temporarily released from custody under section 62 to engage in self-employment must pay to the chief executive to the credit of the prisoner, at the times that the chief executive directs, those sums on account of his or her earnings in that employment that the chief executive determines.
+(2) Every prisoner described in subsection (4) must pay to the chief executive to the credit of the prisoner, at the times that the chief executive directs, those sums on account of his or her earnings in that employment that the chief executive determines.
+(3) A person who receives money on behalf of a prisoner engaged in self-employment must, after deducting any commission, pay to the chief executive to the credit of the prisoner, those sums on account of the prisoner's earnings in that employment that the chief executive determines.
+(4) Subsections (2) and (3) apply to a prisoner who is—
+  (a) temporarily released from custody under section 62 to engage in self-employment; or
+  (b) engaged in self-employment at the prison.
 
 ### 68 Application of money
 Any money paid to the chief executive under section 67 to the credit of a prisoner must be applied by the chief executive, in any proportions that the chief executive considers appropriate, in payment of all or any of the following:
-  (a) any expenses incidental to the prisoner's employment outside the prison:
-  (b) the cost of the prisoner's detention for each week during which he or she is allowed, at any time, to engage in employment outside the prison in accordance with a direction under section 62 authorising the prisoner's temporary release from custody, but not exceeding the weekly rate fixed by the Minister:
+  (a) any expenses incidental to the prisoner's employment or self-employment outside the prison:
+  (b) the cost of the prisoner's detention for each week during which he or she is allowed, at any time, to engage in employment or self-employment outside the prison in accordance with a direction under section 62 authorising the prisoner's temporary release from custody, but not exceeding the weekly rate fixed by the Minister:
+  (ba) the cost of the prisoner's detention for each week during which he or she is allowed, at any time, to engage in self-employment while in the custody of the chief executive, but not exceeding the weekly rate fixed by the Minister:
   (c) the maintenance of any of the prisoner's dependants:
   (d) the prisoner's requirements on his or her release from the sentence under which the prisoner is detained:
   (e) any fine or reparation or other sum of money that the prisoner was ordered to pay on his or her conviction for any offence:
@@ -978,6 +1016,9 @@ Any money paid to the chief executive under section 67 to the credit of a prison
   (c) the health or safety of any person is threatened.
 (3) A prisoner detained in a Police jail may be denied 1 or more of the minimum entitlements set out in subsection (1) (other than the entitlements referred to in subsection (1)(b), (c), (f), and (g), and the entitlement under subsection (1)(e) of access to statutory visitors) if, in the opinion of the prison manager or other person in charge, it is not practicable to provide those entitlements, having regard to the facilities available at the Police jail and the resources available.
 (4) A prisoner—
+  (aa) may be denied, for not more than 2 consecutive days at a time, the minimum entitlement referred to in subsection (1)(a) if—
+    (i) the prisoner has been temporarily released from custody or temporarily removed from prison under section 62 or removed for judicial purposes under section 65; and
+    (ii) in the opinion of the prison manager, it is not practicable to provide the entitlement during the times the prisoner is in the prison:
   (a) may be denied the minimum entitlements referred to in subsection (1)(d), (i), (j), and (k) if the prisoner is undergoing a penalty of cell confinement imposed under subpart 5 of Part 2:
   (b) may be denied the minimum entitlement referred to in subsection (1)(k) if a direction under section 58 or 59 is in force and the prison manager considers that the prisoner is likely to damage prison property.
 (5) The minimum entitlements conferred by subsection (1) are not privileges referred to in section 43(3)(a)(i), section 133(3)(a), or section 137(3)(a).
@@ -1002,9 +1043,9 @@ Any money paid to the chief executive under section 67 to the credit of a prison
 **Diet**
 
 ### 72 Diet
-(1) Every prisoner must be provided with a sufficient quantity of wholesome food and drink based on the food and nutritional guidelines for the time being issued by the Ministry of Health, and drinking water that complies with any drinking water standards for the time being issued by the Ministry of Health or in force under any enactment.
+(1) Every prisoner must be provided with a sufficient quantity of wholesome food and drink based on the food and nutritional guidelines for the time being issued by the Ministry of Health, and drinking water must be made available to every prisoner whenever he or she needs it.
 (2) As far as practicable in the circumstances, in providing food and drink to prisoners, allowance must be made for the various religious, spiritual, and cultural needs of the prisoners.
-(3) A medical officer may prescribe a particular diet for a particular prisoner.
+(3) A medical officer or health centre manager may prescribe a particular diet for a particular prisoner.
 
 **Visiting**
 
@@ -1142,7 +1183,7 @@ A parenting agreement to which section 81A(2)(c) relates must include, without l
     (i) to prevent the prisoner from damaging any property; or
     (ii) in the case of active or passive resistance to a lawful order.
 (2) An officer or staff member who uses physical force for any of the purposes or in any of the circumstances referred to in subsection (1) may not use any more physical force than is reasonably necessary in the circumstances.
-(3) If an officer or staff member uses physical force in dealing with any prisoner, the prisoner must, as soon as practicable after the application of that force, be examined by a registered health professional, unless that application of force is limited to the use of handcuffs of a kind that have been prescribed for use as a mechanical restraint.
+(3) If an officer or staff member uses physical force in dealing with any prisoner, the prisoner must, as soon as practicable after the application of that force, be examined by a registered health professional, unless that application of force is limited to the use of handcuffs of a kind that have been authorised for use as a mechanical restraint.
 (4) Nothing in this section limits or affects any other provision in this Act or any other enactment that authorises an officer or staff member to use physical force, or any provision of the Crimes Act 1961, or any rule of law, that makes any specified circumstances—
   (a) a justification or excuse for the use of force; or
   (b) a defence to a charge involving the use of force.
@@ -1187,9 +1228,12 @@ A parenting agreement to which section 81A(2)(c) relates must include, without l
 (4) A mechanical restraint—
   (a) may not be used for any disciplinary purpose:
   (b) must be used in a manner that minimises harm and discomfort to the prisoner.
-(5) No prisoner may be kept under mechanical restraint for more than 24 hours except—
-  (a) under an order in writing signed by a Visiting Justice specifying the reasons for the restraint and the time during which the prisoner is to be kept under restraint; or
-  (b) if permitted by regulations made under this Act.
+(5) A prison manager may authorise the use of a mechanical restraint on a prisoner for more than 24 hours only if, in the opinion of a medical officer, continued restraint is necessary to protect the prisoner from self-harm.
+(5A) An authorisation under subsection (5) must—
+  (a) be in writing; and
+  (b) specify the type of restraint to be used; and
+  (c) specify the time during which the prisoner is to be kept under restraint; and
+  (d) include a record of the medical officer's opinion that the restraint is necessary to protect the prisoner from self-harm.
 (6) Despite subsections (1) to (4), chains and irons may not be fitted or attached—
   (a) to a prisoner's neck or torso, in any circumstances; or
   (b) to a prisoner's leg unless, for medical reasons, any other form of restraint would be impractical.
@@ -1223,12 +1267,12 @@ Particulars of the use of force, non-lethal weapons, and mechanical restraints m
   (c) display the soles of his or her feet:
   (d) lift or rub his or her hair:
   (e) raise his or her arms to expose his or her armpits:
-  (f) with his or her legs spread apart, bend his or her knees:
+  (f) with his or her legs spread apart, bend his or her knees until his or her buttocks are adjacent to his or her heels:
   (g) lift or raise any part of his or her body (including, for example, rolls of fat, genitalia, and breasts).
-(3) Authority to conduct a strip search includes the authority to conduct a visual examination (whether or not facilitated by any instrument or device designed to illuminate or magnify) of the mouth, nose, and ears, and to conduct a visual examination of the anal and genital areas (without the use of any instrument or device designed to illuminate or magnify), but does not authorise the insertion of any instrument, device, or thing into any orifice of those kinds.
-(4) For the purposes of undertaking a strip search if section 98(3)(a) applies (which relates to the situation where an officer has reasonable grounds for believing that a prisoner has an unauthorised item in his or her possession),—
-  (a) the person conducting the search may require the person being searched, in addition to doing all or any of the things referred to in subsection (2), to bend his or her knees, with his or her legs spread apart, until his or her buttocks are adjacent to his or her heels:
-  (b) the authority to conduct the search includes the authority to conduct a visual examination (whether or not facilitated by any instrument or device designed to illuminate or magnify) of the mouth, nose, ears, and anal and genital areas, but does not authorise the insertion of any instrument, device, or thing into any orifice of those kinds.
+(3) Authority to conduct a strip search—
+  (a) includes the authority to conduct a visual examination (whether or not facilitated by any instrument or device designed to illuminate or magnify) of the mouth, nose, ears, and anal and genital areas; but
+  (b) does not authorise the insertion of any instrument, device, or thing into any orifice of those kinds.
+(4)
 
 ### 91 Definition of scanner search
 For the purposes of this Act, a scanner search means a search of a person while he or she is fully clothed using an electronic device designed to identify the presence of unauthorised items.
@@ -1295,7 +1339,7 @@ Authority conferred by this Act to search any person includes the authority to d
   (b) if a strip search is necessary in the circumstances for the purpose of detecting an unauthorised item.
 (6) The situations referred to in subsection (3)(b) are as follows:
   (a) immediately before the prisoner is locked in a cell to undergo a penalty of cell confinement imposed under subpart 5 of Part 2:
-  (b) on the return of the prisoner to the prison:
+  (b) on the return of the prisoner to the prison after the prisoner is temporarily released from custody:
   (c) on the return of the prisoner from work or from a part of the prison that is not supervised:
   (d) immediately before the prisoner leaves the prison:
   (e) at any time while the prisoner is being transferred to another prison:
@@ -1310,11 +1354,19 @@ Authority conferred by this Act to search any person includes the authority to d
   (j) if the prisoner is required under section 124 to submit to a prescribed procedure in the situation referred to in section 124(2)(d), immediately before the prisoner submits to that procedure.
 (7) Every prisoner must be required to undergo a strip search conducted by an officer—
   (a) on first being admitted to a prison; and
-  (b) immediately before being transferred to another prison; and
+  (b) on the return of the prisoner to the prison—
+    (i) after the prisoner has been outside the prison in the control of an officer, probation officer, or staff member who is not an officer; but
+    (ii) not if the prisoner is returning to the prison from work; and
   (c) on being received in a prison on transfer from another prison.
+(7A) Every prisoner who is subject to a direction under section 60(1)(b) because of risk of self-harm must be required to undergo a strip search conducted by an officer—
+  (a) when the prisoner is first placed in a segregation area pursuant to the direction; and
+  (b) each time the prisoner is returned to the segregation area after the prisoner has been in a part of the prison that is used by prisoners who are not subject to a segregation direction.
+(7B) In this subsection and subsection (7A),—
+  - **segregation area** means any confined area of the prison for the accommodation of prisoners who are subject to a segregation direction
+  - **segregation direction** means any direction under section 60.
 (8) A prisoner who is required under section 124 (other than in the situation referred to in section 124(2)(d)) to submit to a prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs or consumed alcohol, or both, may, immediately before the prisoner supplies a sample in accordance with that procedure, be required to undergo a strip search conducted by an officer, but only if—
-  (a) the nature of the prescribed procedure is such that there is a risk that the prisoner may tamper with the sample; and
-  (b) a strip search is necessary to ensure that such tampering does not occur.
+  (a) the nature of the prescribed procedure is such that there is a risk that the prisoner may dilute, contaminate, or otherwise tamper with the sample; and
+  (b) a strip search is necessary to ensure that such dilution, contamination, or tampering does not occur.
 (9) An officer may conduct an x-ray search of a prisoner in the prescribed manner if the officer has reasonable grounds to believe that the prisoner has an unauthorised item concealed in or around the prisoner's body.
 
 ### 99 Search of persons other than prisoners
@@ -1380,11 +1432,12 @@ Authority conferred by this Act to search any person includes the authority to d
 **Opening and reading of mail and withholding of correspondence**
 
 ### 103A Interpretation
-In this section and in sections 104 to 110A, unless the context otherwise requires,—
-  - **authorised officer** means a prison manager or an officer authorised by the manager to open and read mail for the purposes of sections 104 to 110A.
+In this section and in sections 104 to 110A, unless the context otherwise requires, authorised person means—
+  (a) a prison manager; or
+  (b) a staff member authorised by the manager, in writing, to read correspondence for the purpose of section 107.
 
 ### 104 General considerations relating to mail
-As far as practicable in the circumstances, authorised officers must take the following considerations into account when dealing with any mail to or from a prisoner:
+As far as practicable in the circumstances, staff members must take the following considerations into account when dealing with any mail to or from a prisoner:
   (a) the need to protect the privacy of prisoners and their correspondents:
   (b) the benefits to prisoners of maintaining contact with persons and organisations outside the prison:
   (c) the need to maintain the security and order of the prison:
@@ -1400,11 +1453,11 @@ No prisoner at any prison may send mail to another prisoner without first notify
   (a) mail to or from a prisoner may be opened:
   (b) mail to or from a prisoner may be examined for unauthorised items:
   (c) any unauthorised item found in any mail to a prisoner may be withheld from the prisoner, with the authority of the prison manager.
-(2) Any mail to or from a prisoner that is to be opened or examined must be opened or examined by an authorised officer in the presence of 1 other authorised officer.
+(2) Any mail to or from a prisoner that is to be opened or examined must be opened and examined by a staff member in the presence of 1 other staff member.
 
 ### 107 Reading of correspondence
-(1) An authorised officer may read correspondence between a prisoner and another person for the purpose of ascertaining whether it may be withheld under section 108(1).
-(2) For the purposes of subsection (1), the authorised officer may—
+(1) An authorised person may read correspondence between a prisoner and another person for the purpose of ascertaining whether it may be withheld under section 108(1).
+(2) For the purposes of subsection (1), the authorised person may—
   (a) have translated into English any correspondence not written in English; or
   (b) have translated into te reo Māori any correspondence not written in te reo Māori.
 (3) This section is subject to sections 109 and 110.
@@ -1425,14 +1478,14 @@ No prisoner at any prison may send mail to another prisoner without first notify
 (3) This section is subject to sections 109 and 110.
 
 ### 109 Mail between prisoners, official agencies, and members of Parliament
-An authorised officer must not open any mail, read any correspondence, or withhold any mail that—
+A staff member must not open any mail and an authorised person must not read any correspondence and a prison manager must not withhold any mail that—
   (a) is from a prisoner to an official agency; or
   (b) is from a prisoner to a member of Parliament and is addressed to that member at Parliament; or
   (c) is from an official agency or member of Parliament to a prisoner, and accompanied by a covering letter addressed to the prison manager stating that the agency or member of Parliament is acting in an official capacity in respect of the prisoner.
 
 ### 110 Mail between prisoners and legal advisers
-(1) An authorised officer must not open any mail, read any correspondence, or withhold any mail between a prisoner and his or her legal adviser, unless authorised to do so under any of subsections (2) to (6).
-(2) An authorised officer may open any mail that—
+(1) A staff member must not open any mail and an authorised person must not read any correspondence and a prison manager must not withhold any mail between a prisoner and his or her legal adviser, unless authorised to do so under any of subsections (2) to (6).
+(2) A staff member may open any mail that—
   (a) is being sent by a prisoner to his or her legal adviser, but is not addressed to the legal adviser at the legal adviser's business address (including any postal address used for business purposes); or
   (b) has been sent by a prisoner's legal adviser to the prisoner, but is not accompanied by a covering letter from the legal adviser, addressed to the manager of the prison, stating that—
     (i) the legal adviser is acting in a professional capacity in respect of the prisoner; and
@@ -1450,12 +1503,12 @@ An authorised officer must not open any mail, read any correspondence, or withho
 (9) No mail between a prisoner and his or her legal adviser may contain any item other than correspondence or documents relating to the prisoner's legal affairs unless the prisoner and legal adviser first obtain the prison manager's written approval.
 
 ### 110A Restrictions on disclosure of mail
-An authorised officer must not disclose any information obtained from correspondence contained in any mail between a prisoner and another person unless—
-  (a) the disclosure is made to another authorised officer for the purpose of determining whether—
+An authorised person must not disclose any information obtained from correspondence contained in any mail between a prisoner and another person unless—
+  (a) the disclosure is made to another authorised person for the purpose of determining whether—
     (i) mail may be withheld under section 108(1); or
     (ii) mail that is withheld under section 108(1) should be forwarded to an enforcement officer under section 108(2); or
     (iii) paragraph (c) applies; or
-  (b) the officer believes on reasonable grounds that the disclosure—
+  (b) the authorised person believes on reasonable grounds that the disclosure—
     (i) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 1993), including the prevention, detection, investigation, prosecution, and punishment of offences; or
     (ii) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
     (iii) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
@@ -1585,14 +1638,14 @@ The chief executive must take all practicable steps to ensure that—
 The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 112 to 122.
 
 ### 120 Destruction of recordings
-(1) The chief executive must take all practicable steps to ensure that every recording of a prisoner call held by the chief executive is destroyed, or completely erased,—
-  (a) on or before the expiration of the period of 6 months after the call was made; or
-  (b) as soon after that expiration as it appears that no information contained in it would be likely to be—
+(1) The chief executive must take all practicable steps to ensure that every recording of a prisoner call held by the chief executive is destroyed or completely erased,—
+  (a) not later than 2 years after the call was made unless the chief executive has within that time considered that the information contained in the recording is likely to be—
     (i) required for the purposes of an investigation into an offence or possible offence; or
     (ii) required for the purposes of an investigation into the possibility that an offence may be committed in the future; or
     (iii) required for evidence in a prosecution or possible prosecution for an offence, or in disciplinary proceedings, or in proceedings against a prisoner for a disciplinary offence; or
     (iv) required to be disclosed under the Privacy Act 1993; or
-  (c) despite anything in paragraph (a) or paragraph (b), if required by any regulations made under this Act.
+  (b) within a time prescribed in regulations (being a time not later than 2 years after the call was made) if any circumstances prescribed in regulations apply.
+(1A) If a recording of a prisoner call is held by the chief executive for any reason specified in subsection (1)(a), the chief executive must, as soon as he or she is satisfied that the information contained in the recording is no longer likely to be required for that reason, take all practicable steps to ensure the recording is destroyed or completely erased.
 (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
@@ -1649,7 +1702,7 @@ On requiring a prisoner to submit to a prescribed procedure under section 124, t
   (a) inform the prisoner—
     (i) of the reason for the requirement; and
     (ii) of the consequences for the prisoner if the prisoner refuses to submit to the procedure; and
-    (iii) that it is a disciplinary offence to tamper with any sample required to be supplied in accordance with the procedure; and
+    (iii) that it is a disciplinary offence to dilute, contaminate, or otherwise tamper with any sample required to be supplied in accordance with the procedure; and
   (b) explain to the prisoner, in general terms,—
     (i) how the procedure will be carried out; and
     (ii) how any sample obtained from the procedure will be analysed.
@@ -1694,15 +1747,17 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
 
 ### 129 Offences by prisoners relating to drugs, alcohol, and smoking
 Every prisoner commits an offence against discipline who,—
-  (a) without the authority of a medical officer or unless section 79(3) applies, uses any drug or consumes alcohol (whether inside or outside a prison); or
+  (a) without the authority of a medical officer or health centre manager or unless section 79(3) applies, uses any drug or consumes alcohol (whether inside or outside a prison); or
   (aa) smokes tobacco or any other substance inside a prison; or
   (b) having been required under section 124 to submit to a prescribed procedure,—
     (i) refuses to comply with the requirement; or
     (ii) without reasonable excuse, fails to comply with the requirement; or
-  (c) tampers with any sample required to be supplied (whether by that prisoner or any other prisoner) in accordance with such a procedure.
+  (c) does any of the following in respect of any sample required to be supplied (whether by that prisoner or any other prisoner) in accordance with a prescribed procedure:
+    (i) consumes, administers, or supplies any substance with intent to dilute or contaminate the sample:
+    (ii) otherwise tampers with the sample.
 
 ### 130 Offences committed by persons while on temporary release from custody under section 62
-(1) Every person commits an offence against discipline who, without the authority of a medical officer, uses any drug or consumes alcohol during any period while the person is on temporary release from custody under section 62.
+(1) Every person commits an offence against discipline who, without the authority of a medical officer or health centre manager, uses any drug or consumes alcohol during any period while the person is on temporary release from custody under section 62.
 (2) Every person commits an offence against discipline who is in breach of a condition imposed on his or her release during any period while the person is on temporary release from custody under section 62.
 (3) No complaint alleging that a person has committed an offence against this section may be laid while that person is on temporary release from custody under section 62, but nothing in this subsection prevents the laying of a complaint of that kind once that person returns to prison.
 (4) If a complaint is laid alleging an offence against this section, it must be determined in accordance with sections 133 to 140 and the person against whom the complaint is laid must be treated, for the purposes of this Act, as if he or she were a prisoner at the time when the act or omission alleged to constitute the offence occurred.
@@ -1721,9 +1776,10 @@ Every prisoner or person on temporary release from custody under section 62 who 
 (1) A hearing adjudicator has power to hear any complaint relating to any offence against discipline alleged to have been committed by a prisoner, and may examine any person concerning the alleged offence, on oath or otherwise at his or her discretion.
 (2) Every hearing and examination must be in the presence and hearing of the prisoner charged with the offence, who is entitled to be heard and to cross-examine any witness.
 (3) If, at any hearing under this section, a hearing adjudicator finds the offence proved, he or she may impose 1 or more of the following penalties:
-  (a) forfeiture or postponement of privileges for any period not exceeding 28 days:
+  (a) forfeiture or postponement of all or any privileges for any period not exceeding 28 days:
   (b) forfeiture of earnings for any period not exceeding 7 days:
   (c) confinement in a cell for any period not exceeding 7 days.
+(3A) The hearing adjudicator must take into account the prisoner's circumstances before imposing any forfeiture or postponement of privileges under subsection (3)(a).
 (4) If the offence proved is—
   (a) any offence against section 128(1), 129, 130, or 131, the hearing adjudicator may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:
   (b) an offence against section 128(1)(h), the hearing adjudicator may, whether or not he or she imposes any penalty under subsection (3), order that a specified amount (not exceeding the lesser of the value of the damage to, or loss of, property or $100) be withdrawn or withheld from the earnings payable under section 66 or section 67 and credited to the prisoner:
@@ -1775,9 +1831,10 @@ Every prisoner or person on temporary release from custody under section 62 who 
 (1) Every Visiting Justice has power to hear any complaint relating to any offence against discipline alleged to have been committed by a prisoner, and may examine any person concerning the alleged offence on oath or otherwise at his or her discretion.
 (2) Every hearing and examination must be in the presence and hearing of the prisoner charged with the offence, who is entitled to be heard and to cross-examine any witness.
 (3) If, at any hearing under this section, the Visiting Justice finds the offence proved, he or she may impose 1 or more of the following penalties:
-  (a) forfeiture or postponement of privileges for any period not exceeding 3 months:
+  (a) forfeiture or postponement of all or any privileges for any period not exceeding 3 months:
   (b) forfeiture of earnings for any period not exceeding 3 months:
   (c) confinement in a cell for any period not exceeding 15 days.
+(3A) The Visiting Justice must take into account the prisoner's circumstances before imposing any forfeiture or postponement of privileges under subsection (3)(a).
 (4) If the offence proved is—
   (a) any offence against section 128(1), 129, 130, or 131, the Visiting Justice may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:
   (b) an offence against section 128(1)(h), the Visiting Justice may, whether or not he or she imposes any penalty under subsection (3), order that a specified amount (not exceeding the lesser of the value of the damage to, or loss of, property involved or $500) be withdrawn or withheld from the earnings payable under section 66 or section 67 and credited to the prisoner:
@@ -2020,13 +2077,14 @@ For the purposes of this Act and any other enactment, every inspector, officer, 
 (2) Information to which this section applies must be presented in such a way that the person under control or supervision can be reasonably expected to understand it.
 (3) If any information additional to, or different from, any information initially presented to a person under control or supervision in accordance with subsection (2) becomes available, the manager of the prison in which the person under control or supervision is detained or the person who is responsible for that person's supervision must arrange for that additional or different information to be presented in accordance with that subsection reasonably promptly.
 
-**Medical records**
+**Health records**
 
-### 165 Medical records
-Every medical officer must ensure that—
-  (a) an adequate record of the care or treatment provided by that officer to a prisoner at a prison is maintained; and
-  (b) full medical records (including dental records of prisoners or former prisoners at the prison) are kept securely:
-  (c) the medical record of any prisoner or former prisoner at the prison is not treated as part of the prison records of that prisoner or former prisoner, as the case may be.
+### 165 Health records
+(1) Every medical officer must ensure that an adequate record of the health care or treatment provided by that officer to a prisoner at a prison is maintained and kept securely and not treated as part of the prison records for that prisoner or former prisoner, as the case may be.
+(2) Every health centre manager must ensure that—
+  (a) an adequate record of the health care or treatment provided to a prisoner at a prison is maintained; and
+  (b) full health records (including dental records of prisoners or former prisoners at the prison) are kept securely; and
+  (c) the health record of any prisoner or former prisoner at the prison is not treated as part of the prison records of that prisoner or former prisoner, as the case may be.
 
 **Escort services and courtroom custodial services**
 
@@ -2451,6 +2509,16 @@ For the purpose of stopping or preventing unauthorised electronic communications
 If a prison manager believes on reasonable grounds that an unauthorised electronic communication contains information relating to the commission or attempted commission of an offence, a record of that communication may be made and given—
   (a) to an enforcement officer:
   (b) to the chief executive or any other employee of the department.
+
+**Information associated with seized electronic communication devices**
+
+### 189D Chief executive may require electronic communications company to provide information to access contents of seized device
+(1) This section applies if an electronic communication device is seized under section 150 and the chief executive believes, on reasonable grounds, that it is necessary for the detection or investigation of an offence under this Act to examine the contents of the device.
+(2) If this section applies, the chief executive may by notice in writing require an electronic communications company to provide information, to the extent that it is stored by the company in the ordinary course of its business, that will enable the chief executive to access the contents of the device (for example, information that will unlock or unblock the device).
+(3) The department must pay for the actual and reasonable costs (if any) incurred by an electronic communications company in providing information required under this section.
+(4) In this section,—
+  - **contents of the device** includes any information on the device or stored on or by the device
+  - **electronic communications company** means any person who provides any service in New Zealand that enables or facilitates electronic communication devices to communicate with each other.
 
 **Annual report of department**
 
