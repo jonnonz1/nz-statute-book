@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2013-02-27_
+_Consolidation as at 2013-06-13_
 
 > Title
 
@@ -1347,7 +1347,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Government Superannuation Fund Authority | Birth information, marriage information, civil union information, name change information, and death information | To verify the identity of a member or beneficiary of the Government Superannuation Fund, and the eligibility or continuing eligibility of a member or beneficiary for payments under the Fund |
 | Inland Revenue Department | Birth information, marriage information, civil union information, and name change information | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support |
 |  | Death information | To identify deceased taxpayers and verify their details |
-| Ministry of Education | Birth information, name change information, and death information | To verify and update student information on the National Student Index |
+| Ministry of Education | Birth information, name change information, and death information | To verify and update information on the National Student Index |
 | Ministry of Health | Birth information, name change information, and death information | To verify and update health information on the National Health Index |
 |  | Birth information and death information | To compile mortality statistics |
 | Ministry of Justice | Marriage information and civil union information | To verify a fine defaulter's name change |
