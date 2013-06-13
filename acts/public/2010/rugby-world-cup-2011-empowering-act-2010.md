@@ -1,5 +1,5 @@
 # Rugby World Cup 2011 (Empowering) Act 2010
-_Consolidation as at 2011-10-31_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Rugby World Cup 2011 (Empowering) Act 2010.
@@ -109,7 +109,7 @@ In this Act, unless the context otherwise requires,—
   (c) the Land Transport Management Act 2003; and
   (d) the Maritime Security Act 2004; and
   (e) the Maritime Transport Act 1994; and
-  (f) the Public Transport Management Act 2008; and
+  (f)
   (g) the regulations and rules made under any of those Acts.
 
 ### 6 Limits to application of Building Act 2004
