@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2013-06-13_
 
 > Title
 
@@ -316,7 +316,7 @@ This Act shall bind the Crown.
 **Roads**
 
 ### 44 Certain roads vested in Crown
-All Government roads declared as such under this Act, the Public Works Act 1981, or any former Public Works Act and, subject to section 316 of the Local Government Act 1974, all roads outside urban areas declared as State highways under the National Roads Act 1953, and all roads outside urban areas declared as State highways under this Act, and the soil thereof, are hereby declared to be vested in the Crown, together with all materials and things of which such roads are composed, or which are capable of being used for the purposes thereof, and which are constructed, placed, or laid upon any such road.
+All Government roads declared as such under this Act, the Public Works Act 1981, or any former Public Works Act and, subject to section 316 of the Local Government Act 1974, all roads outside urban areas declared as State highways under the National Roads Act 1953, all roads outside urban areas declared as State highways under this Act, and all roads outside urban areas declared as State highways under the Land Transport Management Act 2003, and the soil thereof, are hereby declared to be vested in the Crown, together with all materials and things of which such roads are composed, or which are capable of being used for the purposes thereof, and which are constructed, placed, or laid upon any such road.
 
 ### 45 Provisions relating to construction of motorways to apply to roads constructed pursuant to middle line
 [Repealed]
@@ -557,7 +557,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 
 ### 62 Delegation of powers and duties to territorial authorities
 (1) All or any of the functions, duties, and powers of construction, maintenance, and control conferred on the Agency by this Act with respect to any State highway or portion of a State highway may be delegated by the Agency to the territorial authority in whose district the State highway or portion of it is situated, or, where the boundary between the districts of any territorial authorities runs along any State highway, be delegated by the Agency to such of those territorial authorities as the Agency decides, as if the State highway were wholly in the district of that territorial authority.
-(2) Any activity relating to a State highway or part of it that is the subject of a delegation under subsection (1) may be proposed for inclusion in the relevant regional land transport programme by the territorial authority to which a delegation has been made under this section, and included in the programme as if it were a State highway activity.
+(2) Any activity relating to a State highway or part of it that is the subject of a delegation under subsection (1) may be proposed for inclusion in the relevant regional land transport plan by the territorial authority to which a delegation has been made under this section, and included in the plan as if it were a State highway activity.
 (3) Any delegation under subsection (1) may be made only with the consent of the territorial authority concerned.
 (4)
 (5)
@@ -795,9 +795,9 @@ Without restricting any provision of any other Act, it is hereby declared that a
   (c) at a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with section 91.
 
 ### 93 Limited access road not a road for certain purposes
-(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the District Land Registrar by the Minister at the request of the Agency.
+(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the Registrar-General of Lands by the Agency.
 (2) Any person aggrieved at—may object in writing to the Environment Court within 30 days after being notified of such refusal or conditions.
-  (a) the refusal of the Agency to request the Minister to issue a notice under subsection (1) or at the refusal of the Minister to issue such a notice; or
+  (a) the refusal of the Agency to issue a notice under subsection (1); or
   (b) any condition subject to which any such notice is issued—
 (3) The provisions of section 24 of the Public Works Act 1981 shall, so far as they are applicable and with the necessary modifications, apply to the hearing of any objection under this section.
 
