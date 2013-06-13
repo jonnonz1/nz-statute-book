@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -255,9 +255,9 @@ The chief executive has the following functions for the purpose of giving effect
 (1) The instruments to which this subsection applies, so far as they relate to greater Christchurch, must not be inconsistent with a Recovery Plan approved by the Minister.
 (2) Subsection (1) applies to—
   (a) annual plans, long-term plans, and triennial agreements under the Local Government Act 2002, except a funding impact statement in an annual plan or a long-term plan:
-  (b) regional land transport strategies and regional land transport programmes under the Land Transport Management Act 2003:
+  (b) regional land transport plans under the Land Transport Management Act 2003:
   (c) the New Zealand Transport Agency's recommendations under section 18I of the Land Transport Management Act 2003:
-  (d) regional public transport plans adopted under section 9 of the Public Transport Management Act 2008:
+  (d) regional public transport plans adopted under section 119 of the Land Transport Management Act 2003 or section 9 of the Public Transport Management Act 2008:
   (e) all or any of the following:
     (i) general policies approved under section 17B of the Conservation Act 1987 and general policies approved under section 15A of the Reserves Act 1977:
     (ii) conservation management strategies approved under section 17F of the Conservation Act 1987 and section 40A of the Reserves Act 1977:
@@ -277,7 +277,7 @@ The chief executive has the following functions for the purpose of giving effect
 (1) The Minister may, by public notice, suspend, amend, or revoke the whole or any part of the following, so far as they relate to any area within greater Christchurch:
   (a) an RMA document:
   (b) a plan or policy of a council under the Local Government Act 2002, except a funding impact statement in an annual plan or a long-term plan:
-  (c) a regional land transport strategy or regional land transport programme under the Land Transport Management Act 2003:
+  (c) a regional land transport plan under the Land Transport Management Act 2003:
   (d) all or any of the following:
     (i) general policies approved under section 17B of the Conservation Act 1987 and general policies approved under section 15A of the Reserves Act 1977:
     (ii) conservation management strategies approved under section 17F of the Conservation Act 1987 and section 40A of the Reserves Act 1977:
