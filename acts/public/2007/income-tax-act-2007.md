@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-06-13_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3815,6 +3815,7 @@ When this section applies
   (a) younger than 15:
   (b) younger than 18, and attends—
     (i) a private primary school, state primary school, private secondary school, or state secondary school, in each case as defined in the Education Act 1964:
+    (ia) a partnership school kura hourua (within the meaning of section 2(1) of the Education Act 1989):
     (ii) an integrated school as defined in section 2 of the Private Schools Conditional Integration Act 1975:
     (iii) a school providing special education as defined in the Education Act 1964 and the Education Act 1989:
   (c) younger than 19, and—
