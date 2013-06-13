@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-06-13_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -283,7 +283,7 @@ This Act binds the Crown.
 (11) Subsections (7) to (10) apply to a freshwater fisheries management plan approved under section 17K of the Conservation Act 1987 and a sports fish management plan approved under section 17M of the Conservation Act 1987 as if the plans were conservation management plans.
 (12) To the extent to which it affects the Waikato River, a national energy efficiency and conservation strategy prepared and published under section 18 of the Energy Efficiency and Conservation Act 2000 must be consistent with the vision and strategy.
 (13) To the extent to which it affects the Waikato River, a management plan for a foreshore and seabed reserve prepared under section 44 of the Foreshore and Seabed Act 2004 must not be inconsistent with the vision and strategy.
-(14) To the extent to which it affects the Waikato River, a national land transport strategy prepared under Part 3 of the Land Transport Management Act 2003 must take into account the vision and strategy.
+(14)
 (15) The vision and strategy prevails over any inconsistent provision in a bylaw made by a local authority, if it is more stringent than the bylaw.
 
 ### 17 Duty to have particular regard to vision and strategy
