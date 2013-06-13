@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1597,6 +1597,7 @@ Land owned or used by, and for the purposes of,—
   (iii) a special institution under section 92(1) of the Education Act 1989:
   (iv) an early childhood education and care centre under section 309 of the Education Act 1989, excluding any early childhood centres that operate for profit:
   (v) a school under section 35A of the Education Act 1989, excluding any registered schools that operate for profit:
+  (vi) a partnership school kura hourua (within the meaning of section 2(1) of the Education Act 1989), excluding any partnership school kura hourua that operates for profit:
 (c) an institution under section 159(1) of the Education Act 1989.
 
 ### 7
