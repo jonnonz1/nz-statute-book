@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-06-13_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -54,14 +54,14 @@ _Consolidation as at 2012-07-01_
       (ii) a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908; or
       (iii) a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; and
     (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
-    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation
+    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation:
     (k) does not include information contained in a victim impact statement (as defined in section 22 of the Victims' Rights Act 2002)
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
       (ii) the Judicial Complaints Lay Observer
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **organisation** means—
-    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service or mortality review committees):
+    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service, mortality review committees, or sponsors (within the meaning of section 2(1) of the Education Act 1989) when performing functions under the Education Act 1989 or a partnership school contract (within the meaning of section 2(1) of the Education Act 1989)):
     (b) an organisation named in Schedule 1 of this Act
   - **permanent resident of New Zealand** means a person who—
     (a) resides in New Zealand; and
@@ -161,7 +161,7 @@ Good reason for withholding information exists, for the purpose of section 5, if
     (ii) would be likely unreasonably to prejudice the commercial position of the person who supplied or who is the subject of the information; or
   (ba) protect information which is subject to an obligation of confidence or which any person has been or could be compelled to provide under the authority of any enactment, where the making available of the information—
     (i) would be likely to prejudice the supply of similar information, or information from the same source, and it is in the public interest that such information should continue to be supplied; or
-    (ii) would be likely otherwise to damage the public interest; or
+    (ii) would be likely otherwise to damage the public interest;
   (c) avoid prejudice to measures protecting the health or safety of members of the public; or
   (d) avoid prejudice to the substantial economic interests of New Zealand; or
   (e) avoid prejudice to measures that prevent or mitigate material loss to members of the public; or
