@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -611,11 +611,11 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
     (i) not transport-related; or
     (ii) only related to the regional land transport strategy.
 (2) On and from 1 November 2010, the policies are deemed to have been made by the Auckland Council.
-(3) Each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
+(3) Subject to section 156 of the Land Transport Management Act 2003, each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
   (a) the Auckland Council confirms it, in which case the confirmed policy becomes a policy made by the Auckland Council and remains in force until it expires or is revoked:
   (b) the Auckland Council amends it, in which case the policy as amended becomes a policy made by the Auckland Council and remains in force until it expires or is revoked:
   (c) the Auckland Council revokes it.
-(4) The Auckland Council must review each policy and confirm, amend, or revoke it before the close of 31 October 2015.
+(4) Subject to section 156 of the Land Transport Management Act 2003, the Auckland Council must review each policy and confirm, amend, or revoke it before the close of 31 October 2015.
 
 **Statutory warrants**
 
@@ -824,7 +824,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 (2) Subsection (1) is subject to section 91 of this Act.
 (3) The regional land transport strategy for Auckland prepared and approved under Schedule 7 of the Land Transport Management Act 2003 on 26 April 2010 must be treated as—
   (a) the regional land transport strategy for Auckland; and
-  (b) continuing in effect until 30 June 2016.
+  (b) continuing in effect until 30 June 2015.
 
 **Tax**
 
