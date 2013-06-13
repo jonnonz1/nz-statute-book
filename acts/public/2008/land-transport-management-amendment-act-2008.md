@@ -1,5 +1,5 @@
 # Land Transport Management Amendment Act 2008
-_Consolidation as at 2012-01-01_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
@@ -113,7 +113,7 @@ Section 9 is repealed and the following section substituted:The Crown’s author
   (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
     (a) activities and combinations of activities approved under section 20; and
     (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)(b).
-  (5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a – b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; and cis the calculated amount.”
+  (5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; andcis the calculated amount.”
 
 ### 13 Heading above section 10 repealed
 The heading above section 10 is repealed.
@@ -1482,71 +1482,42 @@ As soon as practicable after it has approved Auckland’s regional land transpor
 **National land transport fund**
 
 ### 2 Treatment of certain land transport revenue
-(1) This clause applies to—
-  (a) all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held in the national land transport fund immediately before that date; and
-  (b) all amounts referred to in section 10(3)(a) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held by the Authority in the national land transport account immediately before that date.
-(2) On 1 August 2008, all land transport revenue and all amounts to which this clause applies must be treated as being part of the national land transport fund referred to in section 10(1) of the Land Transport Management Act 2003 (as in force on and from that date).
+[Repealed]
 
 ### 3 Crown may pay new Agency for certain liabilities incurred before 1 August 2008
-(1) This clause applies to all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) that has not been paid to the Authority before that date, in respect of the 2007/08 financial year.
-(2) Without limiting clause 26(1)(d), the Crown may, without further appropriation than this clause, pay to the new Agency an amount equal to the land transport revenue to which this clause applies, as if the 2007/08 financial year ended on 31 July 2008.
+[Repealed]
 
 ### 4 Crown’s authority to pay for certain expenditure using land transport revenue
-(1) The Crown may use land transport revenue to pay to—
-  (a) the Secretary the following amount in each of the following financial years for the purposes of Waikato rail works:Financial yearAmount ($)2008/095,000,0002009/105,000,000
-  (b) the Secretary to the Treasury the following amount in each of the following financial years for the purposes of upgrades and renewal of the below track Auckland rail infrastructure:Financial yearAmount ($)2008/09155,000,0002009/10130,000,000
-(2) In respect of the 2008/09 and 2009/10 financial years, the amount referred to in section 9(3) of the Land Transport Management Act 2003 is an amount equal to the land transport revenue for the relevant financial year less—
-  (a) any amounts that have been paid in respect of that year under subclause (1); and
-  (b) the amounts for that year that are referred to in section 9(1) and (2) of the Land Transport Management Act 2003.
-(3) In each of the 2008/09 and 2009/10 financial years, the amounts paid under subclause (1) must be deducted from the amount of land transport revenue that constitutes an inflow of the national land transport fund for the relevant financial year under section 10(2)(a) of the Land Transport Management Act 2003.
-(4) The Governor-General may, by Order in Council, reduce or increase any or all amounts or financial years specified in subclause (1), and this clause will apply or continue to apply (as the case may be), with the necessary modifications, in respect of any amended amount or financial year.
+[Repealed]
 
 **Land transport programmes**
 
 ### 5 Completed land transport programmes for 2008/09 financial year to have effect until 1 July 2009
-(1) This clause applies to the following land transport programmes (as defined immediately before 1 August 2008):
-  (a) the land transport programme completed by an approved organisation for the 2008/09 financial year under section 12 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008):
-  (b) the land transport programme completed by the Authority for the 2008/09 financial year under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) A land transport programme to which this clause applies has effect until 1 July 2009.
-(3) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (2) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+[Repealed]
 
 ### 6 Treatment of police activities and combinations of police activities in Authority’s completed land transport programme for 2008/09 financial year
-(1) This clause applies to the land transport programme referred to in clause 5(1)(b).
-(2) Police activities and combinations of police activities that are included in the land transport programme to which this clause applies are to be treated as if they were recommendations of the new Agency that had been approved by the responsible Minister under section 18L(1) of the Land Transport Management Act 2003.
-(3) However, to avoid doubt, the police activities and combinations of police activities referred to in subclause (2) are not to be treated as if they were the first approval referred to in clause 9.
+[Repealed]
 
 ### 7 Completion of draft land transport programmes for 2008/09 financial year
-(1) This clause applies to any draft land transport programme under section 12 or 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) that was in existence (but not completed) immediately before 1 August 2008.
-(2) Approved organisations must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) when completing their land transport programmes for the 2008/09 financial year.
-(3) The new Agency must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 July 2008) when completing the land transport programme for each former agency for the 2008/09 financial year.
-(4) A land transport programme that is completed under this clause continues to have effect until 30 June 2009.
-(5) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (4) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+[Repealed]
 
 **First regional land transport programmes**
 
 ### 8 First regional land transport programmes
-Each regional council and ARTA must ensure that their first regional land transport programmes are in place for the 3 financial years commencing on and from 1 July 2009.
+[Repealed]
 
 **Police activities or combinations of police activities**
 
 ### 9 First approval of recommendations
-The Minister must ensure that the first approval under section 18L(1) is for the 3 financial years commencing on and from 1 July 2009.
+[Repealed]
 
 **National land transport programme**
 
 ### 10 National land transport programme for 2008/09 financial year to have effect until 1 July 2009
-(1) This clause applies to the national land transport programme that has been prepared and adopted by the Authority for the 2008/09 financial year under section 19 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) The national land transport programme to which this clause applies has effect until 1 July 2009.
-(3) The relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) continue to apply, with all necessary modifications, to a national land transport programme that is continued in effect by subclause (2) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the national land transport programme prepared and adopted by Land Transport New Zealand for the 2008/09 financial year were prepared and adopted by the new Agency.
+[Repealed]
 
 ### 11 First national land transport programme of new Agency
-The new Agency must ensure that its first national land transport programme is in place for the 3 financial years commencing on and from 1 July 2009.
+[Repealed]
 
 **Approval of activities or combinations of activities**
 
@@ -1554,74 +1525,55 @@ The new Agency must ensure that its first national land transport programme is i
 Subject to clause 42, approvals in effect under sections 20 and 21 of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect.
 
 ### 13 Approval of activities and combinations of activities for 2008/09 financial year
-Subject to clauses 12 and 14 to 17, the new Agency must, unless it is impracticable to do so (for example, because there is no GPS), comply with the relevant provisions of the Land Transport Management Act 2003 when approving activities and combinations of activities for the 2008/09 financial year.
+[Repealed]
 
 ### 14 Approval of certain activities or combinations of activities
-(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved ($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16 Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–2016/17, including rail funding188,000,000 by 2017/18 Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/15163,000,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16640,000,000 by 2016/17 made up as follows:
+(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–​2016/17, including rail funding188,000,000 by 2017/18Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/1591,951,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16625,152,000 by 2016/17 made up as follows:
   (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
-  (b) up to 235,000,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
+  (b) up to 220,152,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
 (2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
 (3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
 (4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
 (5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
 
 ### 15 Approval of new Agency’s activities and combinations of activities (excluding those relating to State highways) for 2008/09 financial year
-(1) This clause applies to activities and combinations of activities (excluding those relating to State highways)―
-  (a) that the new Agency proposes to deliver, or to manage the delivery of, in the 2008/09 financial year; and
-  (b) for which funding is sought from the national land transport fund; and
-  (c) whether or not those activities or combinations of activities have been included in a land transport programme for the 2008/09 financial year that has been completed by the Authority under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any activities or combinations of activities to which this clause applies as qualifying for payment from the national land transport fund.
+[Repealed]
 
 ### 16 Treatment of certain costs and expenses of new Agency for 2008/09 financial year
-(1) This clause applies to costs and expenses of the new Agency for the 2008/09 financial year that arise out of the performance of its functions and duties under subpart 1 of Part 2 of the Land Transport Management Act 2003.
-(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any costs and expenses of the new Agency to which this clause applies as qualifying for payment from the national land transport fund.
+[Repealed]
 
 ### 17 No Ministerial approval required for costs and expenses of new Agency for 2008/09 financial year
-(1) This clause applies despite anything to the contrary in the Land Transport Management Act 2003 (as in force immediately before 1 August 2008 and as in force on and from that date).
-(2) The Minister’s approval of the costs and expenses of the new Agency for the 2008/09 financial year is not required.
+[Repealed]
 
 ### 18 Approved procurement procedures
 Subject to clause 42, approved procurement procedures in effect under section 25 or 95(1) of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect as approved procurement procedures under that Act.
 
 ### 19 Reporting requirements for new Agency in 2008/09 and 2009/10 financial years
-Despite section 26(2)(a), the new Agency is required to report on the statement of inflows and expenses and capital expenditure of the national land transport fund as follows:
-  (a) for the 2008/09 financial year, for that financial year:
-  (b) for the 2009/10 financial year, for that financial year and the 2008/09 financial year.
+[Repealed]
 
 **Regional land transport committees and first regional transport committees**
 
 ### 20 Temporary continuation of regional land transport committees (other than Auckland regional transport committee)
-(1) This clause applies to any regional land transport committee (other than the Auckland regional transport committee) that—
-  (a) was established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008); and
-  (b) was in existence immediately before that date.
-(2) A regional land transport committee to which this clause applies continues in existence until whichever is the earlier of the following:
-  (a) a regional transport committee for the region concerned is established under section 105 of the Land Transport Management Act 2003:
-  (b) the close of 30 September 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
+[Repealed]
 
 ### 21 Establishment of first regional transport committees for each region (excluding Auckland region)
-(1) Every regional council, or unitary authority, must establish a regional transport committee, under section 105 of the Land Transport Management Act 2003, for its region before 1 October 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
-(2) If section 105(11) of the Land Transport Management Act 2003 applies, the relevant territorial authority must decide which regional transport committee to join before 1 October 2008.
+[Repealed]
 
 ### 22 Continuation of Auckland regional land transport committee
-The Auckland regional land transport committee established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008), and in existence immediately before that date, continues in existence as the Auckland regional transport committee under clause 11 of Schedule 7 (as in force from 1 August 2008).
+[Repealed]
 
 **Regional land transport strategies**
 
 ### 23 Existing regional land transport strategies
-(1) This clause applies to regional land transport strategies in force under Part 13 of the Land Transport Act 1998 immediately before the commencement of Part 3 of the Land Transport Management Act 2003.
-(2) Subject to subclause (3) and clause 42, a regional land transport strategy to which this clause applies continues to have effect until it would have ceased to be current under section 176 of the Land Transport Act 1998 (as in force immediately before the commencement of Part 3 of the Land Transport Management Act 2003).
-(3) The Minister may approve the extension of a regional land transport strategy to which this clause applies by a period of up to 18 months.
+[Repealed]
 
 ### 24 First progress reports on regional land transport strategy
-Each regional transport committee must ensure that its first progress report on its regional land transport strategy is for the 3 consecutive financial years ending on 30 June 2011.
+[Repealed]
 
 **First GPS**
 
 ### 25 First GPS
-(1) Despite section 86 of the Land Transport Management Act 2003, the first GPS must be issued with effect on and from 1 July 2009.
-(2) Despite section 87(1)(c) and (2) of the Land Transport Management Act 2003, in preparing the first GPS, the Minister may, but need not,—
-  (a) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers (including representative groups of coastal shipping users and providers):
-  (b) consult with the new Agency.
+[Repealed]
 
 **Dissolution of Land Transport New Zealand and Transit New Zealand**
 
@@ -1646,9 +1598,7 @@ Each regional transport committee must ensure that its first progress report on 
   (c) any other matter or thing arising out of a former agency’s performance or exercise, or purported performance or exercise, of the former agency’s functions, duties, or powers under any enactment.
 
 ### 27 Operating principles
-(1) Despite section 96(1)(b)(ii) of the Land Transport Management Act 2003, for the 2008/09 and 2009/10 financial years the new Agency must, but only if and to the extent that it is practicable and reasonable to do so, comply with the operating principle set out in that provision.
-(2) However, the Minister may extend the application of subclause (1) to the new Agency for the 2010/11 financial year.
-(3) Despite section 96(2) of the Land Transport Management Act 2003, the new Agency is only required to comply with that provision after 30 September 2008 or on a date, no later than 31 October 2008, that the Minister agrees.
+[Repealed]
 
 ### 28 References to former agency
 (1) This clause applies to—
@@ -1667,7 +1617,7 @@ Each regional transport committee must ensure that its first progress report on 
   (d) every notice of requirement and designation of Transit New Zealand is transferred to and held by the new Agency, with the same status and priority as if Transit New Zealand and the new Agency were the same entity.
 
 ### 30 First members of new Agency
-In appointing the first members of the new Agency, the Minister may, but need not, consult in accordance with section 98(2) of the Land Transport Management Act 2003.
+[Repealed]
 
 ### 31 Transferred employees
 (1) The terms and conditions of employment of a transferred employee immediately before 1 August 2008 continue to apply in relation to that employee until—
@@ -1688,21 +1638,13 @@ In appointing the first members of the new Agency, the Minister may, but need no
 (3) This clause is for the avoidance of doubt.
 
 ### 33 Final reports and accounts
-(1) As soon as practicable after the commencement of this Act, the new Agency must arrange for the final report of each former agency to be delivered to the Minister.
-(2) The report must—
-  (a) describe the former agency’s operation for the period beginning on 1 July 2007 and ending with 30 June 2008; and
-  (b) include—
-    (i) financial statements of that agency prepared, in accordance with Part 4 of the Crown Entities Act 2004, for that period; and
-    (ii) an audit report prepared by the Auditor-General and a statement of responsibility relating to those financial statements.
-(3) The Minister must present a copy of the final report of each former agency to the House of Representatives as soon as is reasonably practicable after receiving it from the new Agency.
+[Repealed]
 
 ### 34 Responsibility for reports and accounts of former agencies from 1 July 2008
-(1) The new Agency must include in its initial annual report the information in respect of each former agency for the period commencing 1 July 2008 and ending on 31 July 2008 that each former agency would have had to include in the former agency's annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
-(2) To avoid doubt, the new Agency may, if it so decides, present the information referred to in subclause (1) in a combined form for the whole of the financial year ended 30 June 2009.
-(3) For the purposes of subclause (1), section 45J(1) of the Public Finance Act 1989 does not apply to each former agency in respect of the period commencing 1 July 2008 and ending on 31 July 2008.
+[Repealed]
 
 ### 35 Statements of intent
-A former agency is not required to produce a statement of intent for the financial year commencing 1 July 2008.
+[Repealed]
 
 ### 36 Directions to former agencies continue to have effect as directions to new Agency
 Subject to clause 42, directions to any former agency in effect immediately before 1 August 2008 under any enactment continue to have effect as directions to the new Agency.
@@ -1716,20 +1658,7 @@ A person who holds office as an enforcement officer or a dangerous goods enforce
 **Disestablishment of office of Director of Land Transport**
 
 ### 39 Consequences of disestablishing office of Director of Land Transport
-(1) On 1 August 2008,—
-  (a) the functions, duties, and powers of the Director under any enactment vest in the new Agency; and
-  (b) all property belonging to the Director vests in the new Agency; and
-  (c) all information held by the Director is held by the new Agency; and
-  (d) all money payable to or by the Director becomes payable to or by the new Agency; and
-  (e) all rights, liabilities, contracts, entitlements, and engagements of the Director become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
-  (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the Director is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
-  (g) the commencement, continuation, or enforcement of proceedings by or against the Director may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
-  (h) the completion of a matter or thing that would, but for this clause, have been completed by the Director, may be completed by the new Agency.
-(2) The transfer of information from the Director to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
-(3) The disestablishment of the office of the Director of Land Transport does not, by itself, affect any of the following matters:
-  (a) any decision made, or anything done, or omitted to be done, by the Director in relation to the performance or the exercise of the Director’s functions, duties, or powers under any enactment:
-  (b) any proceedings commenced by or against the Director:
-  (c) any other matter or thing arising out of the Director’s performance or exercise, or purported performance or exercise, of the Director’s functions, duties, or powers under any enactment.
+[Repealed]
 
 ### 40 References to Director
 (1) This clause applies to—
