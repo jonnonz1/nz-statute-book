@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-06-13_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -42,7 +42,7 @@ In this Act, unless the context otherwise requires,—
     (b) all buildings, erections, wharves, jetties, works, rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or moveable property of every description or kind capable of being used in respect of a railway, and situated or to be situated on any such land or held or used, or reputed to be held or used in connection with or for the purposes of a railway; and
     (c) all telephone, electric telegraph, or other communications installations used in connection with a railway
   - **road** means a road as defined in section 121
-  - **State highway** means a State highway declared as such under section 60 of the Government Roading Powers Act 1989
+  - **State highway** means a State highway declared as such under section 103 of the Land Transport Management Act 2003
   - **stopping** , in relation to a road, includes diverting
   - **telecommunications installation** includes any equipment, apparatus, structure, tunnel, manhole, pit, pole, wire, cable, tube, conduit, fibre, waveguide, or other physical medium used or intended to be used for or in connection with a telecommunications service
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002; and, in relation to land that does not form part of the district of any such territorial authority, means the Minister of the Crown responsible for the administration of that Act
