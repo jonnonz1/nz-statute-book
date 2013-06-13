@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2013-06-13_
 
 > Title
 
@@ -2924,6 +2924,7 @@ The Regulations (Disallowance) Act 1989 does not apply to material incorporated 
 | Nova Gas Limited | All gas pipelines |
 | Origin Energy Resources NZ (Rimu) Ltd | Rimu Production Station—Mokoia Mixing station gas pipeline |
 | TAG Oil (NZ) Limited | Sidewinder Production Station—Vector 300 Line at Durham Road Upper |
+| Cheal Petroleum Limited | Cheal Gas Export Pipeline |
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Commerce Amendment Act 1990 and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as “the principal Act”).
@@ -2963,39 +2964,3 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Associate members
 (1) Amendment(s) incorporated in the Act(s).
 (2) For the avoidance of doubt, any appointment made before the commencement of this Act under section 11 of the principal Act is valid and effective whether or not it relates to a matter or class of matters under an Act other than the principal Act.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
