@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-05-01_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -227,7 +227,7 @@ This Act binds the Crown.
     (b) holds a current practising certificate
   - **place of education** —
     (a) means—
-      (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989, or a secondary school or a composite private school registered under section 35A of the Education Act 1989; and
+      (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989, or a secondary school registered under section 35A of the Education Act 1989, or a secondary partnership school kura hourua or composite partnership school kura hourua (within the meaning of section 158A of the Education Act 1989); and
       (ii) an institution, such as a polytechnic, teachers college, university or wananga, as defined by section 159(1) of the Education Act 1989; and
       (iii) a registered establishment as defined by section 159(1) of the Education Act 1989; and
     (b) includes any other prescribed place of education
