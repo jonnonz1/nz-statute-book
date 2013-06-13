@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2013-06-13_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -814,7 +814,7 @@ For the preparation of Proclamations, Orders in Council, deeds, leases, agreemen
 (2) This section shall be deemed to be a special Act within the meaning of section 175 of the Harbours Act 1950.
 
 ### 119A Application of certain transport Acts to Corporation
-Notwithstanding section 4(1), or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Public Transport Management Act 2008, the Railways Act 2005, the Land Transport Act 1998, or the Land Transport Management Act 2003, or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
+Notwithstanding section 4(1), or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Land Transport Act 1998, or the Land Transport Management Act 2003, or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
 
 ### 120 Repeals and amendments
 (1) The enactments set out in Schedule 4 are hereby consequentially repealed.
