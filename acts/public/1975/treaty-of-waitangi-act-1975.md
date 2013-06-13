@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2013-02-01_
+_Consolidation as at 2013-06-13_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
