@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2013-01-01_
+_Consolidation as at 2013-06-13_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -50,7 +50,6 @@ _Consolidation as at 2013-01-01_
   - **carriage** includes haulage
   - **certificate of compliance** means a certificate given under section 75A by a person authorised by the Science Minister
   - **certificate of loading** means a certificate of loading issued under the regulations or the rules
-  - **commercial public transport service** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
   - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
@@ -2075,7 +2074,7 @@ The court may require a transport service licence holder to sit, or re-sit, the 
 ### 79M Penalties for failure to pay passenger service fares
 (1) A person who fails to pay a passenger service or public transport service fare that he or she is liable to pay commits an infringement offence.
 (2) The maximum penalty, on summary conviction for an offence against subsection (1), is a fine not exceeding $500.
-(3) For the purposes of this section, public transport service has the same meaning as in section 4 of the Public Transport Management Act 2008.
+(3) For the purposes of this section, public transport service has the same meaning as in section 5 of the Land Transport Management Act 2003.
 
 ## Part 6B — Offences relating to work time and logbooks
 
@@ -2894,7 +2893,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
-  (a) the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 2012, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
+  (a) the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 2012, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
@@ -3751,7 +3750,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
-  (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the Public Transport Management Act 2008.
+  (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of exempt services under the Land Transport Management Act 2003.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
 (3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
 (4) Any regulation under section 167(1)(j) may—
@@ -4020,14 +4019,15 @@ The functions of the Minister under this Act are—
   (a) an enforcement officer for the purposes of—
     (i) this Act:
     (ii) Part 2 of the Land Transport Management Act 2003:
-    (iii) the Public Transport Management Act 2008:
+    (iii) Part 5 of the Land Transport Management Act 2003; or
     (iv) the Road User Charges Act 2012; or
   (b) a dangerous goods enforcement officer.
 (2) The Commissioner may, by warrant, appoint any constable to be a dangerous goods enforcement officer.
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of—
     (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
-    (ii) the Public Transport Management Act 2008; or
+    (ii) Part 5 of the Land Transport Management Act 2003:
+    (iii) any provision in the Land Transport Management Act 2003 relating to tolls; or
   (b) a dangerous goods enforcement officer.
 (4) Only persons who, in the opinion of the Commissioner or the Agency (as the case may be), are qualified by knowledge or experience to undertake enforcement of the functions specified in the warrant of appointment may be appointed under this section.
 (5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Agency (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
@@ -4754,39 +4754,3 @@ This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
 ### 37 Transitional provision in relation to Transport (Vehicle and Driver Registration and Licensing) Act 1986
 In the period commencing on the commencement of this section and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009, any reference to a registered person in sections 96(2A), 98(1), and 98A(2) of the Land Transport Act 1998 (as inserted or substituted by this Act) must be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
