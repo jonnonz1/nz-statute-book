@@ -1,5 +1,5 @@
 # Public Transport Management Act 2008
-_Consolidation as at 2010-11-27_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Public Transport Management Act 2008.
