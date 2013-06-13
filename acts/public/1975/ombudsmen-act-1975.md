@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2013-03-08_
+_Consolidation as at 2013-06-13_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -23,6 +23,7 @@ _Consolidation as at 2013-03-08_
 (4) For the purposes of Part 2 of Schedule 1, a company is a related company of a district health board if the district health board, whether alone or together with any other district health board, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,—as the case may be.
   (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
   (b) in the case of a company registered under the Companies Act 1993, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
+(5) For the purposes of Part 2 of Schedule 1, a sponsor performs a standing-down, suspension, exclusion, or expulsion function if the sponsor performs a function under any of sections 14, 15, 16(1)(ba), and (5), 17 to 17C, 17D(3A), and (5), 18, 158R(1)(c), (4), and (6), and 158S(1) to (3) of the Education Act 1989 or under rules made under section 18AA of that Act.
 
 **Ombudsmen**
 
