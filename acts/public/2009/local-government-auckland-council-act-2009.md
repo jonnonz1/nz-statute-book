@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-06-13_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -188,7 +188,7 @@ A local board must be established for each local board area for the purposes of�
   (b) the decision making of the Auckland Council in relation to the non-regulatory activities of the Auckland Council that are allocated to the governing body in accordance with section 17; and
   (c) the decision making of the Auckland Council in relation to the establishment and maintenance of capacity to provide, or ensure the provision of, services and facilities (including local activities) by the Auckland Council; and
   (ca) the decision making of the Auckland Council in relation to the governance of its council-controlled organisations; and
-  (cb) the decision making of the Auckland Council in relation to transport objectives for Auckland and transport funding for Auckland; and
+  (cb)
   (d) the decision making of the Auckland Council in relation to compliance with section 101 of the Local Government Act 2002 (which relates to the financial management of a local authority); and
   (e) the agreement reached with each local board (as set out in each local board agreement) in respect of local activities for the local board areas.
 (2) Before making a decision described in subsection (1)(a) to (d), the governing body must—
@@ -430,7 +430,7 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
   - **Auckland transport system** —
     (a) means—
       (i) the roads (as defined in section 315 of the Local Government Act 1974) within Auckland; and
-      (ii) the public transport services (as defined in section 4 of the Public Transport Management Act 2008) within Auckland; and
+      (ii) the public transport services (as defined in section 5(1) of the Land Transport Management Act 2003) within Auckland; and
       (iii) the public transport infrastructure owned by the Council; and
       (iv) the public transport infrastructure owned by or under the control of Auckland Transport; but
     (b) does not include—
@@ -441,7 +441,7 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
   - **director** includes the chairperson and the deputy chairperson of the board of directors of Auckland Transport
   - **New Zealand Railways Corporation** means the corporation constituted under section 4 of the New Zealand Railways Corporation Act 1981
   - **New Zealand Transport Agency** means the Crown entity established by section 93 of the Land Transport Management Act 2003.
-(2) In this Part, unless the context requires another meaning, land transport, regional land transport programme, and State highway have the same meanings as in section 5(1) of the Land Transport Management Act 2003.
+(2) In this Part, unless the context requires another meaning, land transport, regional land transport plan, and State highway have the same meanings as in section 5(1) of the Land Transport Management Act 2003.
 
 **Auckland Transport**
 
@@ -453,7 +453,7 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
 (3) For the purposes of the Local Government Act 2002, the Auckland Council must be treated as if it were the sole shareholder of Auckland Transport.
 
 ### 39 Purpose of Auckland Transport
-The purpose of Auckland Transport is to contribute to an effective and efficient land transport system to support Auckland's social, economic, environmental, and cultural well-being.
+The purpose of Auckland Transport is to contribute to an effective, efficient, and safe Auckland land transport system in the public interest.
 
 ### 40 Operating principles
 In meeting its principal objective (as a council-controlled organisation) under section 59 of the Local Government Act 2002, and in performing its functions, Auckland Transport must—
@@ -503,7 +503,7 @@ In meeting its principal objective (as a council-controlled organisation) under 
 
 ### 45 Functions of Auckland Transport
 The functions of Auckland Transport are to—
-  (a) prepare the regional land transport programme for Auckland in accordance with the Land Transport Management Act 2003; and
+  (a) prepare the regional land transport plan for Auckland in accordance with the Land Transport Management Act 2003; and
   (b) manage and control the Auckland transport system in accordance with this Act, including by—
     (i) performing the statutory functions and exercising the statutory powers set out in section 46 as if Auckland Transport were a local authority or other statutory body, as the case may be; and
     (ii) acting as a requiring authority under section 167 of the Resource Management Act 1991 in accordance with section 47; and
@@ -525,8 +525,8 @@ The functions of Auckland Transport are to—
   (f) the functions and powers of an enforcement authority under the Land Transport Act 1998 in relation to prosecuting infringement offences under that Act that relate to the use of special vehicle lanes within Auckland:
   (g) the functions and powers of a road controlling authority and a local authority under the Land Transport Act 1998 and any regulations or rules made under that Act:
   (h) the functions and powers of a local authority to make and enforce bylaws under subparts 1 and 2 of Part 8 of the Local Government Act 2002 (except the power conferred by section 147 of that Act):
-  (i) the functions and powers of a public road controlling authority under Part 2 of the Land Transport Management Act 2003 in relation to road tolling schemes and concession agreements:
-  (j) the functions and powers of a regional council under the Public Transport Management Act 2008 in relation to public transport planning and regulation within Auckland.
+  (i) the functions and powers of a public road controlling authority under Part 2 of the Land Transport Management Act 2003 in relation to road tolling schemes:
+  (j) the functions and powers of a regional council under Part 5 of the Land Transport Management Act 2003 in relation to public transport planning and regulation within Auckland.
 (2) For the purposes of subsection (1), the enactments referred to in that subsection apply with any necessary modifications.
 (3) For the purposes of subsection (1)(f), Auckland Transport may appoint persons to be enforcement officers in Auckland in relation to any offence against a bylaw made by Auckland Transport under the Land Transport Act 1998 in relation to a special vehicle lane, and, for that purpose,—
   (a) section 177 of the Local Government Act 2002 applies to an appointment with any necessary modifications; and
@@ -595,7 +595,8 @@ The acts of a person as a director, chairperson, or deputy chairperson of Auckla
 
 ### 54 Delegations
 (1) Auckland Transport may delegate to a committee or an employee of Auckland Transport, or to the Auckland Council, any of its responsibilities, duties, functions, and powers except—
-  (a) the power to approve or adopt any policy, plan, or programme that it is required to consult on using the special consultative procedure (for example, the regional land transport programme under the Land Transport Management Act 2003 and the regional public transport plan under the Public Transport Management Act 2008); and
+  (a) the power to approve or adopt any policy or programme that it is required to consult on using the special consultative procedure; and
+  (ab) the power to approve or adopt a regional land transport plan or a regional public transport plan under the Land Transport Management Act 2003; and
   (b) the power to make a bylaw under any enactment referred to in section 46(1); and
   (c) the power to borrow money or purchase or dispose of any assets of Auckland Transport; and
   (d) any duty to appoint a chief executive officer.
