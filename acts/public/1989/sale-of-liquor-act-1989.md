@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2012-12-19_
+_Consolidation as at 2013-06-18_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -98,8 +98,7 @@ In this Act, unless the context otherwise requires,—
 This Act binds the Crown.
 
 ### 4 Object of Act
-(1) The object of this Act is to establish a reasonable system of control over the sale and supply of liquor to the public with the aim of contributing to the reduction of liquor abuse, so far as that can be achieved by legislative means.
-(2) The Licensing Authority, every District Licensing Agency, and any court hearing any appeal against any decision of the Licensing Authority, shall exercise its jurisdiction, powers, and discretions under this Act in the manner that is most likely to promote the object of this Act.
+[Repealed]
 
 ### 5 Application of Act
 (1) Except as expressly provided in this Act or in any other enactment, this Act applies to the sale of liquor to the public.
@@ -168,25 +167,10 @@ An on-licence authorises the holder of the licence—
 (6) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (5), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 10 Objections
-(1) Any person who has a greater interest in the application than the public generally may object to the grant of an on-licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 13(1).
-(4) In any case where—an objection may be made only in relation to the suitability of the applicant.
-  (a) the application relates to any premises or conveyance in respect of which an on-licence is presently in force; and
-  (b) the applicant seeks the same conditions as those presently applying to that licence,—
-(5) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 11 Reports
-(1) On receiving an application for an on-licence, the Secretary must send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to—
-    (i) the premises in respect of which the licence is sought; or
-    (ii) the Secretary's office, where the licence is sought in respect of a conveyance; and
-  (b) an inspector; and
-  (c) where the licence is sought in respect of any premises, the Medical Officer of Health in whose district the premises are situated.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police and the Medical Officer of Health must each inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police or Medical Officer of Health within 20 working days after sending the application to them, the Police and the Medical Officer of Health have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 12 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 (1) A District Licensing Agency must decide whether to grant an application for an on-licence in accordance with this Act, if—
@@ -201,20 +185,7 @@ An on-licence authorises the holder of the licence—
   (e) the certificate referred to in section 9(1)(e).
 
 ### 13 Criteria for on-licences
-(1) In considering any application for an on-licence, the Licensing Authority or District Licensing Agency, as the case may be, must have regard to the following matters:
-  (a) the suitability of the applicant:
-  (b) the days on which and the hours during which the applicant proposes to sell liquor:
-  (c) the areas of the premises or conveyance, if any, that the applicant proposes should be designated as restricted areas or supervised areas:
-  (d) the steps proposed to be taken by the applicant to ensure that the requirements of this Act in relation to the sale of liquor to prohibited persons are observed:
-  (e) the applicant's proposals relating to—
-    (i) the sale and supply of non-alcoholic refreshments and food; and
-    (ii) the sale and supply of low-alcohol beverages; and
-    (iii) the provision of assistance with or information about alternative forms of transport from the licensed premises:
-  (f) whether the applicant is engaged, or proposes to engage, in—and, if so, the nature of those goods or services:
-    (i) the sale or supply of any other goods besides liquor and food; or
-    (ii) the provision of any services other than those directly related to the sale or supply of liquor and food,—
-  (g) any matters dealt with in any report made under section 11.
-(2) The Licensing Authority or District Licensing Agency, as the case may be, must not take into account any prejudicial effect that the grant of the licence may have on the business conducted pursuant to any other licence.
+[Repealed]
 
 ### 14 Conditions of on-licences
 (1) It shall be a condition of every on-licence that the licensee has available for consumption on the premises or conveyance a reasonable range of non-alcoholic refreshments.
@@ -275,22 +246,10 @@ An on-licence authorises the holder of the licence—
 (5) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (4), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 19 Objections to renewal
-(1) Any person who has a greater interest in the application than the public generally may object to the renewal of an on-licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 22.
-(4) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 20 Reports on applications for renewals
-(1) On receiving an application for the renewal of an on-licence, the Secretary must send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to—
-    (i) the premises in respect of which the licence is in force; or
-    (ii) the Secretary's office, where the licence is in force in respect of a conveyance; and
-  (b) an inspector; and
-  (c) where the licence is in force in respect of any premises, the Medical Officer of Health in whose district the premises are situated.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police and the Medical Officer of Health must each inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police or Medical Officer of Health within 20 working days after sending the application to them, the Police and the Medical Officer of Health have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 21 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
 (1) If, in respect of any application for the renewal of an on-licence,—the District Licensing Agency shall renew the licence for a further period of 3 years on—
@@ -308,10 +267,10 @@ An on-licence authorises the holder of the licence—
 
 ### 22 Criteria for renewal
 In considering any application for the renewal of an on-licence, the Licensing Authority shall have regard to the following matters:
-  (a) the suitability of the licensee:
+  (a)
   (b) the conditions attaching to the licence:
-  (c) the manner in which the licensee has conducted the sale and supply of liquor pursuant to the licence:
-  (d) any matters dealt with in any report made under section 20.
+  (c)
+  (d)
 
 ### 23 Decision on application for renewal
 (1) After considering an application for the renewal of an on-licence, the Licensing Authority shall—
@@ -384,22 +343,10 @@ In considering any application for the renewal of an on-licence, the Licensing A
 (5) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (4), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 32 Objections
-(1) Any person who has a greater interest in the application than the public generally may object to the grant of an off-licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 35(1).
-(4) In any case where—an objection may be made only in relation to the suitability of the applicant.
-  (a) the application relates to any premises in respect of which an off-licence is presently in force; and
-  (b) the applicant seeks the same conditions as those presently applying to that licence,—
-(5) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 33 Reports
-(1) On receiving an application for an off-licence, the Secretary shall send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to the premises in respect of which the licence is sought; and
-  (b) an inspector.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police must inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police within 20 working days after sending the application to them, the Police have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 34 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 (1) A District Licensing Agency must decide whether to grant an application for an off-licence in accordance with this Act, if—
@@ -414,16 +361,7 @@ In considering any application for the renewal of an on-licence, the Licensing A
   (e) the certificate referred to in section 31(1)(e).
 
 ### 35 Criteria for off-licences
-(1) In considering any application for an off-licence, the Licensing Authority or District Licensing Agency, as the case may be, must have regard to the following matters:
-  (a) the suitability of the applicant:
-  (b) the days on which and the hours during which the applicant proposes to sell liquor:
-  (c) the areas of the premises, if any, that the applicant proposes should be designated as restricted areas or supervised areas:
-  (d) the steps proposed to be taken by the applicant to ensure that the requirements of this Act in relation to the sale of liquor to prohibited persons are observed:
-  (e) whether the applicant is engaged, or proposes to engage, in—and, if so, the nature of those goods or services:
-    (i) the sale or supply of any other goods besides liquor; or
-    (ii) the provision of any services other than those directly related to the sale or supply of liquor,—
-  (f) any matters dealt with in any report made under section 33.
-(2) The Licensing Authority or District Licensing Agency, as the case may be, must not take into account any prejudicial effect that the grant of the licence may have on the business conducted pursuant to any other licence.
+[Repealed]
 
 ### 36 Types of premises in respect of which off-licences may be granted
 (1) Except as provided in subsections (2) to (5), an off-licence shall be granted only—
@@ -509,19 +447,10 @@ In considering any application for the renewal of an on-licence, the Licensing A
 (5) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (4), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 42 Objections to renewal
-(1) Any person who has a greater interest in the application than the public generally may object to the renewal of an off-licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 45.
-(4) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 43 Reports on applications for renewals
-(1) On receiving an application for the renewal of an off-licence, the Secretary shall send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to the premises in respect of which the licence is in force; and
-  (b) an inspector.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police must inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police within 20 working days after sending the application to them, the Police have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 44 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
 (1) If, in respect of any application for the renewal of an off-licence,—the District Licensing Agency shall renew the licence for a further period of 3 years on—
@@ -539,10 +468,10 @@ In considering any application for the renewal of an on-licence, the Licensing A
 
 ### 45 Criteria for renewal
 In considering any application for the renewal of an off-licence, the Licensing Authority shall have regard to the following matters:
-  (a) the suitability of the licensee:
+  (a)
   (b) the conditions attaching to the licence:
-  (c) the manner in which the licensee has conducted the sale and delivery of liquor pursuant to the licence:
-  (d) any matters dealt with in any report made under section 43.
+  (c)
+  (d)
 
 ### 46 Decision on application for renewal
 (1) After considering an application for the renewal of an off-licence, the Licensing Authority shall—
@@ -611,20 +540,10 @@ A club licence may be held by any club.
 (5) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (4), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 56 Objections
-(1) Any person who has a greater interest in the application than the public generally may object to the grant of a club licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 59(1).
-(4) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 57 Reports
-(1) On receiving an application for a club licence, the Secretary must send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to the premises in respect of which the licence is sought; and
-  (b) an inspector; and
-  (c) the Medical Officer of Health in whose district the premises are situated.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police and the Medical Officer of Health must each inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police or Medical Officer of Health within 20 working days after sending the application to them, the Police and the Medical Officer of Health have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 58 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 (1) A District Licensing Agency must decide whether to grant an application for a club licence in accordance with this Act, if—
@@ -639,20 +558,7 @@ A club licence may be held by any club.
   (e) the certificate referred to in section 55(1)(e).
 
 ### 59 Criteria for club licences
-(1) In considering any application for a club licence, the Licensing Authority or District Licensing Agency, as the case may be, must have regard to the following matters:
-  (a) the suitability of the applicant:
-  (b) the days on which and the hours during which the applicant proposes to sell liquor:
-  (c) the days on which and the hours during which the premises are used for the club's activities:
-  (d) the areas of the premises, if any, that the applicant proposes should be designated as restricted areas or supervised areas:
-  (e) the proportion of the membership of the club who are prohibited persons:
-  (f) the steps proposed to be taken by the applicant to ensure that the requirements of this Act in relation to the sale of liquor to prohibited persons are observed:
-  (g) the applicant's proposals relating to—
-    (i) the sale and supply of non-alcoholic refreshments and food; and
-    (ii) the sale and supply of low-alcohol beverages; and
-    (iii) the provision of assistance with or information about alternative forms of transport from the licensed premises:
-  (h) any matters dealt with in any report made under section 57.
-(2) Before granting an application for a club licence, the Licensing Authority or District Licensing Agency, as the case may be, must require to be satisfied that the predominant purpose for which the premises are or will be used is other than the consumption of liquor.
-(3) The Licensing Authority shall not take into account any prejudicial effect that the grant of the licence may have on the business conducted pursuant to any other licence.
+[Repealed]
 
 ### 60 Conditions of club licences
 (1) The following shall be conditions of every club licence:
@@ -715,20 +621,10 @@ A club licence may be held by any club.
 (5) The applicant is not required to ensure that notice of the application is attached in accordance with subsection (4), if the Secretary of the District Licensing Agency agrees that it is impracticable or unreasonable to do so.
 
 ### 65 Objections to renewal
-(1) Any person who has a greater interest in the application than the public generally may object to the renewal of a club licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within 10 working days after the first publication of the public notice of the making of the application.
-(3) No objection may be made in relation to any matter other than one specified in section 68.
-(4) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 66 Reports on applications for renewals
-(1) On receiving an application for the renewal of a club licence, the Secretary must send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to the premises in respect of which the licence is in force; and
-  (b) an inspector; and
-  (c) the Medical Officer of Health in whose district the premises are situated.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police and the Medical Officer of Health must each inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police or Medical Officer of Health within 20 working days after sending the application to them, the Police and the Medical Officer of Health have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 67 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
 (1) If, in respect of any application for the renewal of a club licence,—the District Licensing Agency shall renew the licence for a further period of 3 years on—
@@ -746,10 +642,10 @@ A club licence may be held by any club.
 
 ### 68 Criteria for renewal
 In considering any application for the renewal of a club licence, the Licensing Authority shall have regard to the following matters:
-  (a) the suitability of the licensee:
+  (a)
   (b) the conditions attaching to the licence:
-  (c) the manner in which the licensee has conducted the sale and supply of liquor pursuant to the licence:
-  (d) any matters dealt with in any report made under section 66.
+  (c)
+  (d)
 
 ### 69 Decision on application for renewal
 (1) After considering an application for the renewal of a club licence, the Licensing Authority shall—
@@ -804,35 +700,13 @@ A special licence may be held by—
 (4) Within 10 working days after filing the application, the applicant must, if required to do so by the Secretary, ensure that notice of the application in the prescribed form is attached in a conspicuous place on or adjacent to the site to which the application relates, unless the Secretary agrees that it is impracticable or unreasonable to do so.
 
 ### 77 Objections
-(1) In any case where public notice of an application for a special licence is required to be given under section 76(4), any person who has a greater interest in the application than the public generally may object to the grant of a special licence.
-(2) Every objection shall be in writing, and shall be filed with the District Licensing Agency within such period after the first publication of the public notice of the making of the application as the Secretary may require.
-(3) No objection may be made in relation to any matter other than one specified in section 79(1).
-(4) The Secretary shall send a copy of every objection to the applicant.
+[Repealed]
 
 ### 78 Reports
-(1) On receiving an application for a special licence, the Secretary shall send a copy of it, and of each document filed with it, to—
-  (a) the constable in charge of the Police station nearest to—
-    (i) the premises in respect of which the licence is sought; or
-    (ii) the Secretary's office, where the licence is sought in respect of a conveyance; and
-  (b) an inspector.
-(2) The inspector must inquire into and file with the District Licensing Agency a report on the application.
-(3) The Police must inquire into and, if they have any matters in opposition, file with the District Licensing Agency a report on the application within 15 working days after receiving the application.
-(4) The District Licensing Agency may assume that, if no report is received from the Police within 20 working days after sending the application to them, the Police have no matters in opposition to the application.
-(5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
+[Repealed]
 
 ### 79 Criteria for special licences
-(1) In considering any application for a special licence, the District Licensing Agency shall have regard to the following matters:
-  (a) the nature of the particular occasion or event or series of occasions or events in respect of which the licence is sought:
-  (b) the suitability of the applicant:
-  (c) the days on which and the hours during which the applicant proposes to sell liquor:
-  (d) the areas of the premises or conveyance, if any, that the applicant proposes should be designated as restricted areas or supervised areas:
-  (e) the steps proposed to be taken by the applicant to ensure that the requirements of this Act in relation to the sale of liquor to prohibited persons are observed:
-  (f) the applicant's proposals relating to—
-    (i) the sale and supply of non-alcoholic refreshments and food; and
-    (ii) the sale and supply of low-alcohol beverages; and
-    (iii) the provision of assistance with or information about alternative forms of transport from the licensed premises:
-  (g) any reports made under section 78.
-(2) The District Licensing Agency shall not take into account any prejudicial effect that the grant of the licence may have on the business conducted pursuant to any other licence.
+[Repealed]
 
 ### 80 Conditions of special licences
 (1) It shall be a condition of every special licence that the licensee has available for consumption on the premises or conveyance a reasonable range of non-alcoholic refreshments.
