@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-06-19_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -143,6 +143,7 @@ In this Act, unless the context otherwise requires,—
   - **infringement offence** has the meaning given to it by section 359
   - **invitation to apply** means an invitation to apply for a visa, as described in section 94
   - **leave New Zealand** means, except in the circumstances specified in section 121, leave New Zealand for a destination in another country
+  - **mass arrival group** has the meaning given to it by section 9A
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand** means any land territory within the territorial limits of New Zealand; and includes—
     (a) the internal waters of New Zealand (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
@@ -241,7 +242,11 @@ In this Act, unless the context otherwise requires,—
       (i) any visa of a class specified in section 70; and
       (ii) any visa deemed to be, or treated as being, held under this Act
   - **visa waiver** means a waiver under section 69 of the requirement to hold a visa permitting travel to New Zealand
-  - **warrant of commitment** means a warrant of commitment issued under section 317 or 318
+  - **warrant of commitment** —
+    (a) means a warrant of commitment issued under section 317, 318, or 323; and
+    (b) includes—
+      (i) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); and
+      (ii) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group)
   - **work** —
     (a) means any activity undertaken for gain or reward; but
     (b) does not include an activity excluded, or excluded for a particular purpose, from this definition by immigration instructions.
@@ -318,6 +323,13 @@ In this Act, unless the context otherwise requires,—
   (c) in accordance with sections 373 and 374, if—
     (i) the person was born in New Zealand on or after 1 January 2006; and
     (ii) he or she is not a New Zealand citizen.
+
+### 9A Meaning of mass arrival group
+(1) In this Act, mass arrival group means a group of more than 30 people, each of whom falls within 1 or more of the classes of person described in paragraphs (a) to (f) of section 115(1), who arrive in New Zealand—
+  (a) on board the same craft; or
+  (b) on board the same group of craft at the same time; or
+  (c) on board the same group of craft and within such a time period or in such circumstances that each person arrived, or intended to arrive, in New Zealand as part of the group.
+(2) In subsection (1), craft does not include a craft travelling to New Zealand in the course of a scheduled international service (within the meaning of section 96(4)).
 
 ### 10 Meaning of deported
 (1) For the purposes of this Act, a person is deported from a country if the person leaves the country (whether or not at the expense of the government of the country) and an order for the person's departure made by the government of the country, an authorised official of the country, or a judicial authority in the country, is in force.
@@ -529,6 +541,7 @@ A person who is unlawfully in New Zealand may not—
 (1) The order and manner of processing any application for a visa or entry permission is a matter for the discretion of the Minister or an immigration officer.
 (2) Subsection (1) applies unless immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas require otherwise.
 (3) The order and manner of processing any claim is a matter for the discretion of a refugee and protection officer.
+(3A) Subsection (3) applies unless regulations made under section 400 require otherwise.
 (4) However, the chief executive may give general instructions to immigration officers and refugee and protection officers on the order and manner of processing any application or claim, or specified classes of application or claim, and, if so, an immigration officer or a refugee and protection officer must process an application or claim in accordance with those instructions.
 (5) In giving any instructions, the chief executive may have regard to such matters as the chief executive thinks fit.
 (6) General instructions may apply to any or all applications or claims regardless of the fact that—
@@ -547,7 +560,8 @@ A person who is unlawfully in New Zealand may not—
   (b) are not immigration instructions.
 (10) To avoid doubt, nothing in this Act, or in any other law or enactment, requires an immigration officer or a refugee and protection officer to process an application or claim in any particular order or manner unless required to do so by—
   (a) general instructions given under this section; or
-  (b) immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas.
+  (b) immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas; or
+  (c) regulations made under section 400.
 
 **Reasons for decisions**
 
@@ -1571,7 +1585,8 @@ A constable may arrest a person, and present him or her to an immigration office
   (a) the expiry of 72 hours after the person (including a stowaway) first reports or presents to an immigration officer after arriving in New Zealand, unless that person is sooner arrested and detained or otherwise dealt with under Part 9:
   (b) in the case of a person whose visa is deemed to be cancelled under section 64(1)(d)(ii), 72 hours after the time when the person is physically located by an immigration officer or a constable following the person’s leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under Part 9:
   (c) the person being granted a visa and entry permission:
-  (d) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315.
+  (d) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
+  (e) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
 (2) This section is subject to section 117.
 (3) For the purposes of this section, a stowaway is deemed to arrive in New Zealand at the time when the craft on which the stowaway is travelling crosses into the territorial limits of New Zealand.
 
@@ -1581,9 +1596,10 @@ A constable may arrest a person, and present him or her to an immigration office
   (b) remanded in custody for suspected criminal offending, or imprisoned in a prison for criminal offending.
 (2) The person remains liable for turnaround until the expiry of 72 hours after the person is released from custody or imprisonment.
 (3) Subsection (4) applies to a person who is liable for turnaround and who is arrested and detained not later than 72 hours after he or she has been released from custody or imprisonment for suspected criminal offending, or criminal offending.
-(4) The person remains liable for turnaround until the earlier of the following:
+(4) The person remains liable for turnaround until the earliest of the following:
   (a) the person is granted a visa and entry permission:
-  (b) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315.
+  (b) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
+  (c) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
 
 **Obligations in relation to departure from New Zealand**
 
@@ -1734,6 +1750,12 @@ A matter under this Part must not be treated as finally determined until—
   (a) that the claimant wishes to have considered in support of the claim are provided to the refugee and protection officer; and
   (b) that the claimant would wish to have considered in support of any other potential claim under section 129, 130, or 131 are provided to the refugee and protection officer.
 
+### 135A Suspension of determination of claim
+(1) This section applies to a claim if the processing of the claim is suspended in accordance with regulations made under section 400.
+(2) For the duration of the suspension, a refugee and protection officer must not—
+  (a) determine the claim in accordance with sections 136 and 137; or
+  (b) make a decision on the claim in accordance with section 138.
+
 ### 136 How refugee and protection officer to determine claim
 (1) For the purpose of determining a claim, a refugee and protection officer must determine the matters set out in section 137.
 (2) In doing so, the refugee and protection officer may seek information from any source, but is not obliged to seek any information, evidence, or submissions further to that provided by the claimant.
@@ -1778,15 +1800,15 @@ A matter under this Part must not be treated as finally determined until—
 The Minister must make any decision about a protected person’s immigration status if a refugee and protection officer has determined under section 137(2) that there are serious reasons for considering that the person has committed a crime or been guilty of any act described in that section.
 
 ### 140 Limitation on subsequent claims
-(1) A refugee and protection officer must not consider a subsequent claim for recognition as a refugee unless the officer is satisfied—
+(1) A refugee and protection officer must not consider a subsequent claim for recognition as a refugee or a protected person unless the officer is satisfied—
   (a) that there has been a significant change in circumstances material to the claim since the previous claim was determined; and
   (b) the change in 1 or more of the circumstances was not brought about by the claimant—
     (i) acting otherwise than in good faith; and
-    (ii) for a purpose of creating grounds for recognition under section 129.
+    (ii) for a purpose of creating grounds for recognition under any of sections 129 to 131.
 (2) For the purposes of determining the matter in subsection (1), the refugee and protection officer must not treat the actions of any other person in relation to the claim or the claimant as a mitigating factor.
 (3) A refugee and protection officer may refuse to consider a subsequent claim for recognition as a refugee or a protected person if the officer is satisfied that the claim—
   (a) is manifestly unfounded or clearly abusive; or
-  (b) repeats a previous claim.
+  (b) repeats any claim previously made (including a subsequent claim).
 
 ### 141 Procedure on subsequent claims
 (1) The procedures specified in sections 135 to 139 apply to any subsequent claim accepted for consideration, except that any appeal to the Tribunal must be made under section 195.
@@ -2430,7 +2452,7 @@ The purpose of this Part is—
 
 ### 195 Right of appeal in relation to subsequent claims for refugee or protection status
 (1) A person may appeal to the Tribunal against a decision by a refugee and protection officer—
-  (a) under section 140(1) to refuse to consider a subsequent claim by the person to be recognised as a refugee:
+  (a) under section 140(1) to refuse to consider a subsequent claim by the person to be recognised as a refugee or a protected person:
   (b) under section 140(3) to refuse to consider a subsequent claim by the person to be recognised as a refugee or a protected person, but only if the person's most recent previous claim was declined under Part 6A of the former Act.
 (2) A person may appeal to the Tribunal against a decision by a refugee and protection officer to decline a subsequent claim by the person to be recognised under any of sections 129, 130, and 131 as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections).
 (3) An appeal under this section must be brought,—
@@ -2508,17 +2530,17 @@ The Minister must make any decision about a person's immigration status if the T
   (a) whether there has been a significant change in circumstances material to the appellant’s claim since the previous claim was determined; and
   (b) if so, whether the change in 1 or more of the circumstances was brought about by the appellant—
     (i) acting otherwise than in good faith; and
-    (ii) for a purpose of creating grounds for recognition under section 129.
+    (ii) for a purpose of creating grounds for recognition under any of sections 129 to 131.
 (2) The Tribunal must dismiss the appeal if it determines that—
   (a) there is no significant change in circumstances; or
   (b) the change in 1 or more of the circumstances was brought about by the appellant—
     (i) acting otherwise than in good faith; and
-    (ii) for a purpose of creating grounds for recognition under section 129.
+    (ii) for a purpose of creating grounds for recognition under any of sections 129 to 131.
 (3) The Tribunal must consider the claim for recognition in accordance with section 198(1) if it—
   (a) determines that there is a significant change in circumstances; and
   (b) does not determine that the change in 1 or more of the circumstances was brought about by the appellant—
     (i) acting otherwise than in good faith; and
-    (ii) for a purpose of creating grounds for recognition under section 129.
+    (ii) for a purpose of creating grounds for recognition under any of sections 129 to 131.
 (4) Where an appeal is brought under section 195(1)(b), the Tribunal must first consider whether the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim.
 (5) If the Tribunal determines that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must dismiss the appeal.
 (6) If the Tribunal does not determine that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must consider the claim for recognition in accordance with section 198(1).
@@ -2825,10 +2847,13 @@ For the purposes of assisting the Tribunal to determine an appeal or matter, the
 
 ### 233 When Tribunal must or may provide oral hearing
 (1) The Tribunal must provide an oral hearing in the case of an appeal against liability for deportation by a resident or permanent resident.
-(2) The Tribunal must also provide an oral hearing in the case of an appellant or affected person currently or previously recognised as a refugee or a protected person, or a claimant for such recognition, unless—
+(2) The Tribunal may, in its absolute discretion, provide an oral hearing in any other appeal against liability for deportation.
+(3) The Tribunal must provide an oral hearing in the case of an appellant or affected person currently or previously recognised as a refugee or a protected person, or a claimant for such recognition, unless—
   (a) the person was interviewed by a refugee and protection officer (or a refugee status officer under the former Act) in the course of determining the relevant issue at first instance or, having been given an opportunity to be interviewed, failed to take that opportunity; and
-  (b) the Tribunal considers that the appeal or other contention of the person is prima facie manifestly unfounded or clearly abusive, or repeats a previous claim.
-(3) The Tribunal may, in its absolute discretion, provide an oral hearing in any other appeal against liability for deportation.
+  (b) the Tribunal considers that the appeal or other contention of the person—
+    (i) is prima facie manifestly unfounded or clearly abusive; or
+    (ii) relates to a subsequent claim for refugee or protection status.
+(4) The Tribunal may, in its absolute discretion, provide an oral hearing in the case of an appeal that relates to a subsequent claim for refugee or protection status.
 
 ### 234 Decision on papers in other circumstances
 (1) Despite section 233, the Tribunal may determine an appeal or matter without an oral hearing if the appellant or affected person fails without reasonable excuse to attend a hearing notified by the Tribunal.
@@ -2959,7 +2984,12 @@ In any oral hearing for proceedings involving classified information, the Tribun
 The Minister, the chief executive, or a refugee and protection officer, as the case may be, may be a respondent in any review proceedings relating to a decision of the Tribunal.
 
 ### 249 Restriction on review
-(1) No review proceedings may be brought in any court in respect of a decision if the decision, or the effect of the decision, may be subject to an appeal to the Tribunal under this Act.
+(1) No review proceedings may be brought in any court in respect of a decision where the decision (or the effect of the decision) may be subject to an appeal to the Tribunal under this Act unless an appeal is made and the Tribunal issues final determinations on all aspects of the appeal.
+(1A) No review proceedings may be brought in any court in respect of any matter before the Tribunal unless the Tribunal has issued final determinations in respect of the matter.
+(1B) Review proceedings may then only be brought in respect of a decision or matter described in subsection (1) or (1A) if the High Court has granted leave to bring the proceedings or, if the High Court has refused to do so, the Court of Appeal has granted leave.
+(1C) In determining whether to grant leave for the purposes of this section, the court to which the application for leave is made must have regard to—
+  (a) whether review proceedings would involve issues that could not be adequately dealt with in an appeal against the final determination of the Tribunal; and
+  (b) if paragraph (a) applies, whether those issues are, by reason of their general or public importance or for any other reason, issues that ought to be submitted to the High Court for review.
 (2) Nothing in this section limits any other provision of this Act that affects or restricts the ability to bring review proceedings.
 
 ### 250 Certain appeals and review proceedings to be treated as priority fixture
@@ -3930,9 +3960,13 @@ An immigration officer may, in carrying out the immigration officer’s function
 ## Part 9 — Detention and monitoring
 
 ### 307 Purpose of Part
-The purpose of this Part is to establish a tiered detention and monitoring regime in order to ensure—
+(1) The purpose of this Part is to establish a tiered detention and monitoring regime in order to ensure—
   (a) the integrity of the immigration system through providing for the management of persons who are liable for deportation or turnaround; and
   (b) the safety and security of New Zealand where a person who is liable for deportation may constitute or be suspected of constituting a threat or risk to security.
+(2) The purposes of the warrant of commitment regime for members of a mass arrival group under this Part are—
+  (a) to provide a practicable and administratively workable time period within which arrival processing of the mass arrival group can be completed; and
+  (b) to provide a practicable and administratively workable time period within which any threat or risk to security or to the public arising from, or that may arise from, the members of the mass arrival group, whether collectively or individually, may be properly assessed; and
+  (c) to avoid disrupting the efficient functioning of the Department, the courts, or any prison or premises identified in a relevant warrant of commitment.
 
 ### 308 This Part code for detention and monitoring of person if detention and monitoring under this Act
 This Part must be treated as a code for the purposes of the detention and monitoring of any person if the reason for the detention or monitoring arises under this Act, and no person who is liable for arrest and detention under this Act may be granted bail from that detention.
@@ -3966,7 +4000,7 @@ Where a person is liable to arrest and detention under this Part,—
   (a) the person may be subject to the 4-hour limited detention by an immigration officer provided for in section 312:
   (b) the person may be arrested and detained without warrant for a period not exceeding 96 hours by a constable in accordance with section 313:
   (c) an immigration officer may agree to residence and reporting requirements with the person in accordance with section 315:
-  (d) the person may be detained in custody under a warrant of commitment issued under section 317 or 318:
+  (d) the person may be detained in custody under a warrant of commitment:
   (e) the person may be released on conditions under section 320.
 
 ### 312 Limited power of detention for up to 4 hours
@@ -4046,6 +4080,91 @@ A person liable to arrest and detention under this Part may be detained by an im
     (i) served with a deportation liability notice or deportation order; or
     (ii) arrested and detained for the purposes of deportation or turnaround.
 
+### 317A Application for mass arrival warrant
+(1) An immigration officer may apply to a District Court Judge for a warrant of commitment authorising the detention, for a period of not more than 6 months, of the members of a mass arrival group (a mass arrival warrant) if—
+  (a) the warrant is necessary—
+    (i) to effectively manage the mass arrival group; or
+    (ii) to manage any threat or risk to security or to the public arising from, or that may arise from, 1 or more members of the mass arrival group; or
+    (iii) to uphold the integrity or efficiency of the immigration system; or
+    (iv) to avoid disrupting the efficient functioning of the District Court, including the warrant of commitment application procedure; and
+  (b) the members of the mass arrival group are detained in custody under this Part; and
+  (c) it becomes apparent that, before the expiry of the period for which detention is authorised, 1 or more of the circumstances described in paragraphs (a) to (d) of section 316(1) will apply to each member of the mass arrival group.
+(2) Every application under this section must—
+  (a) be made on oath; and
+  (b) include—
+    (i) the number of persons to whom the warrant is to apply; and
+    (ii) identity information in respect of each of the persons; and
+    (iii) particulars of the craft, or of each of the group of craft, on which the persons arrived (if known); and
+    (iv) a description of the circumstances in which the craft, or the group of craft, arrived; and
+  (c) include a statement of—
+    (i) why the warrant is necessary in terms of subsection (1)(a); and
+    (ii) how subsection (1)(c) relates to each person to whom the warrant is to apply.
+(3) An application under this section may, but is not required to, include any other supporting evidence or information relating to the members of the mass arrival group.
+(4) The Judge must determine an application under section 317B.
+(5) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
+(6) In subsection (2)(b)(ii), identity information means 1 or more of the following:
+  (a) a name of the person (which may be the name that the person is known by or a name assigned to the person):
+  (b) biometric information in relation to the person:
+  (c) a physical description of the person.
+
+### 317B Decision on application for mass arrival warrant
+(1) On an application for a mass arrival warrant under section 317A, a District Court Judge must,—
+  (a) if satisfied of the matters in subsection (2), grant the application and act under subsection (3); or
+  (b) if not satisfied of the matters in subsection (2), refuse the application and act under subsection (4).
+(2) The matters are that—
+  (a) the application relates to a mass arrival group; and
+  (b) the warrant is necessary for 1 or more of the reasons stated in section 317A(1)(a); and
+  (c) 1 or more of the circumstances described in paragraphs (a) to (d) of section 316(1) will apply in respect of each member of the mass arrival group; and
+  (d) the requirements of section 317A(2)(a) to (c) have been met.
+(3) The Judge must issue the warrant in the prescribed form authorising the detention of each member of the mass arrival group in a place or the places named in the warrant—
+  (a) for the period sought in the application; or
+  (b) for a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
+    (i) the reasons for the necessity of the warrant in terms of section 317A(1)(a) will no longer apply; or
+    (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each member of the mass arrival group.
+(4) The Judge must—
+  (a) treat the application as if it were applications made under section 316 in respect of each member of the mass arrival group; and
+  (b) determine the applications in accordance with subsection (3) of that section.
+
+### 317C Variation of mass arrival warrant
+(1) If a mass arrival warrant is issued under section 317B, an immigration officer may subsequently apply for a variation of the warrant to include 1 or more persons who are members of the mass arrival group but who were not known to the immigration officer who made the application under section 317A at the time the application was made.
+(2) Every application under this section must—
+  (a) be made on oath; and
+  (b) include—
+    (i) a copy of the original application and warrant; and
+    (ii) identity information (within the meaning of section 317A(6)) in respect of each person to be included in the warrant; and
+    (iii) a statement of how section 317A(1)(c) relates to each person to be included in the warrant.
+(3) On an application under this section, a District Court Judge must,—
+  (a) if satisfied of the matters in subsection (4), grant the application and act under subsection (5); or
+  (b) if not satisfied of the matters in subsection (4), refuse the application and act under subsection (6).
+(4) The matters are that—
+  (a) the persons are members of the mass arrival group; and
+  (b) 1 or more of the circumstances described in paragraphs (a) to (d) of section 316(1) will apply in respect of each of those persons; and
+  (c) the requirements of subsection (2) have been met.
+(5) The Judge must vary the existing warrant to include the persons specified in the application, but must not extend the period of the warrant.
+(6) The Judge must—
+  (a) treat the application as if it were applications made under section 316 in respect of each person the immigration officer has sought to be included in the mass arrival warrant; and
+  (b) determine the applications in accordance with subsection (3) of that section.
+(7) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a variation of a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
+
+### 317D District Court may impose reporting requirements
+(1) When issuing a mass arrival warrant under section 317B or varying a mass arrival warrant under section 317C, a District Court Judge may order an immigration officer to report to the court, on a day or days determined by the Judge, but no more than once every 28 days for the duration of the warrant, on the continuing applicability of the reasons for the necessity of the warrant in terms of section 317A(1)(a).
+(2) A District Court Judge may shorten the period of a mass arrival warrant or a varied mass arrival warrant, and vary the warrant accordingly, if, after receiving a report, he or she is satisfied that those reasons will no longer apply after the expiry of the shortened period.
+
+### 317E Application for further warrant of commitment in respect of mass arrival group
+(1) An immigration officer may apply to a District Court Judge for a further warrant of commitment authorising the continued detention of—
+  (a) all or specified members of a mass arrival group, as members of a mass arrival group; or
+  (b) 1 or more members of a mass arrival group as individuals.
+(2) An application for a further warrant of commitment under subsection (1)(a) may be for a period of not more than 28 days and must—
+  (a) comply with section 317A(2), and that section applies with any necessary modifications; and
+  (b) be determined by a District Court Judge in accordance with section 317B, and that section applies with any necessary modifications.
+(3) An application for a further warrant of commitment under subsection (1)(b) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
+(4) If a member of a mass arrival group is dealt with under subsection (3),—
+  (a) he or she—
+    (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
+    (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
+  (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
+(5) Subsection (4)(a) is for the avoidance of doubt.
+
 ### 318 Decision on application for warrant if threat or risk to security
 (1) This section applies where an immigration officer applies for a warrant of commitment to authorise the detention of a person—
   (a) who was arrested and detained under section 313 on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security; or
@@ -4065,7 +4184,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (2) The period for which detention is authorised by a warrant of commitment must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
 
 ### 320 Court may instead release person on conditions
-(1) Where a District Court Judge orders a person’s release under section 317(1)(b)(ii), 318(3)(b), or 323(3) on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
+(1) Where a District Court Judge orders a person’s release under section 317(1)(b)(ii), 318(3)(b), 323(3), or 324A(6)(b) on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
   (a) a condition that the released person must reside at a specified place:
   (b) a condition that the released person must report to a specified place at specified periods or times in a specified manner:
   (c) if the person is a claimant, a condition that the released person must attend any required interview with a refugee and protection officer or hearing with the Tribunal:
@@ -4097,7 +4216,7 @@ Where a District Court Judge determines to order the release of a person to whom
 
 ### 322 Persons detained under warrant of commitment or released on conditions pending making of deportation order
 (1) This section applies in the case of a person who was arrested and detained on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security and who—
-  (a) is being detained pursuant to a warrant of commitment issued under section 317 or 318; or
+  (a) is being detained pursuant to a warrant of commitment; or
   (b) has been released on conditions under section 320.
 (2) If the Minister decides not to certify that a person to whom this section applies constitutes a threat or risk to security, or fails to make a certification not later than 14 days after the initial arrest under section 313,—
   (a) the person ceases to be liable to arrest and detention under this Part; and
@@ -4134,6 +4253,9 @@ Where a District Court Judge determines to order the release of a person to whom
   (b) the possibility that the person's deportation or departure may continue to be prevented by some action or inaction of the person.
 
 ### 324 Review of warrant of commitment or release on conditions
+(1AA) In this section, warrant of commitment does not include—
+  (a) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); or
+  (b) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group).
 (1) At any stage during the currency of a warrant of commitment an immigration officer may apply to a District Court Judge for—
   (a) a variation of the warrant of commitment; or
   (b) an order that the person who is detained under the warrant be released on conditions under section 320; or
@@ -4148,7 +4270,38 @@ Where a District Court Judge determines to order the release of a person to whom
 (5) An application under subsection (3) or (4) must be made with the leave of a District Court Judge, which may be granted only if the Judge is satisfied that new information has become available that—
   (a) is material to the person’s ongoing detention or release on conditions; and
   (b) was unavailable at the time the warrant of commitment or the decision to release on conditions was made.
-(6) An application for a review of a warrant of commitment or release on conditions must be considered in accordance with section 317, 318, or 323, as appropriate.
+(6) An application for a review of a warrant of commitment or release on conditions must be considered having regard to section 317, 318, or 323, as appropriate.
+
+### 324A Review of mass arrival warrant
+(1) In this section, warrant of commitment means—
+  (a) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); and
+  (b) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group).
+(2) At any stage during the currency of a warrant of commitment, an immigration officer may apply to a District Court Judge for a variation of the warrant for either or both of the following reasons:
+  (a) to shorten the period that the warrant applies:
+  (b) to provide for 1 or more persons detained under the warrant to be detained in a place or places other than the place or places currently specified in the warrant for those persons.
+(3) An application made under subsection (2) must—
+  (a) be made on oath; and
+  (b) include—
+    (i) a copy of the warrant to be varied; and
+    (ii) a statement of the reasons for the application.
+(4) On an application under subsection (2)(a), a District Court Judge must vary the period of the warrant of commitment—
+  (a) to the period sought in the application; or
+  (b) to a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
+    (i) the reasons for the necessity of the warrant in terms of section 317A(1)(a) will no longer apply; or
+    (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each person subject to the varied warrant.
+(5) On an application under subsection (2)(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
+(6) At any stage during the currency of a warrant of commitment, an immigration officer may, in respect of a particular individual detained under the warrant, apply to a District Court Judge for—
+  (a) a warrant of commitment for the individual as an individual; or
+  (b) an order that the individual be released on conditions under section 320; or
+  (c) an order that the individual be released.
+(7) An application for a warrant of commitment under subsection (6)(a) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
+(8) An application for release on conditions under subsection (6)(b) must be considered having regard to section 317, 318, or 323, as appropriate.
+(9) If a member of a mass arrival group is dealt with under subsection (6),—
+  (a) he or she—
+    (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
+    (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
+  (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
+(10) Subsection (9)(a) is for the avoidance of doubt.
 
 **Applications under this Part involving classified information**
 
@@ -4292,6 +4445,7 @@ Every person who is to be detained in custody under a warrant of commitment must
 ### 339 During epidemic certain warrants and extensions to have effect for 28 days
 (1) If a warrant of commitment issued under this Act was in force immediately before the commencement of an epidemic management notice, it has effect as if it had authorised the detention of the person named in it for a period of 28 days.
 (2) Subsection (1) overrides every provision of this Act to the contrary.
+(3) In subsection (1), warrant of commitment does not include a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group) for a period of more than 28 days.
 (3) If the notice applies to only stated parts of New Zealand, subsections (1) and (2) apply within those parts only.
 
 ### 340 Application of section 320 during epidemic
@@ -4323,7 +4477,7 @@ Every person who is to be detained in custody under a warrant of commitment must
 ### 343 Aiding and abetting
 (1) Every person commits an offence against this Act who,—
   (a) for a material benefit, aids, abets, incites, counsels, or procures any other person to be or to remain unlawfully in New Zealand or to breach any condition of a visa granted to the other person; or
-  (b) whether in or outside New Zealand, and whether or not the other person in fact enters New Zealand, aids, abets, incites, counsels, or procures any other person to unlawfully enter New Zealand (by arriving in New Zealand in a manner that does not comply with section 103 or by arriving in New Zealand without holding a visa where the other person requires a visa to travel to New Zealand),—
+  (b) whether in or outside New Zealand, and whether or not the other person in fact enters New Zealand, aids, abets, incites, counsels, or procures any other person to unlawfully enter New Zealand,—
     (i) knowing that the other person’s entry into New Zealand is or would be unlawful; or
     (ii) being reckless as to whether the other person’s entry into New Zealand is or would be unlawful; or
   (c) whether in or outside New Zealand, aids, abets, incites, counsels, or procures any other person to complete a document in a manner that the person aiding or assisting knows to be false or misleading in any particular, being a document required for the purposes of—
@@ -4333,6 +4487,20 @@ Every person who is to be detained in custody under a warrant of commitment must
     (iv) any appeal or application in the nature of an appeal to the Minister or the Tribunal; or
   (d) aids, abets, incites, counsels, or procures any other person to be or to remain unlawfully in New Zealand or to breach any condition of a visa granted to the other person under this Act.
 (2) In subsection (1)(a), for a material benefit has the same meaning as in section 2(1) of the Crimes Act 1961.
+(3) For the purposes of subsection (1)(b), a person unlawfully enters New Zealand if the person—
+  (a) arrives in New Zealand in a manner that does not comply with section 103; or
+  (b) arrives in New Zealand without holding a visa, if the person requires a visa to travel to New Zealand; or
+  (c) arrives in New Zealand as the holder of a visa but the visa was—
+    (i) granted in a false identity; or
+    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+  (d) is granted a visa on arrival in New Zealand but the visa is—
+    (i) granted in a false identity; or
+    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+  (e) is granted entry permission but the entry permission is—
+    (i) granted on the basis of a visa granted in a false identity; or
+    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+  (f) enters New Zealand in any other manner and, in doing so, does not comply with the requirements of this Act.
+(4) To avoid doubt, a person unlawfully enters New Zealand within the meaning of subsection (3) whether or not any action has been taken under this Act in relation to the visa or entry permission used by the person for the purpose of entering (for example, conviction of the person for procuring a visa by fraud or revocation of the person's entry permission).
 
 ### 344 Obstruction or failing to meet requirements
 Every person commits an offence against this Act who,—
@@ -5091,7 +5259,7 @@ Without limiting the generality of section 400, regulations made under that sect
   (r) prescribe the information and documentation required from persons leaving New Zealand.
 
 ### 403 Regulations in respect of refugee and protection matters
-Without limiting the generality of section 400, regulations made under that section may, in relation to refugee and protection matters,—
+(1) Without limiting the generality of section 400, regulations made under that section may, in relation to refugee and protection matters,—
   (a) specify the manner in which any claim, appeal, or application is to be made:
   (b) provide for the manner of service of notices and documents, which may differ from the requirements of section 386, and provide for when they will be treated as having been received:
   (c) provide for the availability and use of interpreters:
@@ -5103,8 +5271,19 @@ Without limiting the generality of section 400, regulations made under that sect
   (i) specify the periods, or minimum or maximum periods, within which or before or after which certain things must be done or may not be done:
   (j) specify the obligations of claimants or other persons concerned as to the provision of contact details, information, and documents:
   (k) specify the manner in which a claim or other matter may be withdrawn:
+  (ka) specify, by reference to 1 or both of the following matters, the claims that a refugee and protection officer must not process or determine or make a decision on under sections 136 to 138:
+    (i) common circumstances or common characteristics of the claims:
+    (ii) common circumstances or common characteristics of the claimants making the claims:
   (l) provide for any special matters relating to the handling of claims, appeals, or other matters when the claimant or other person concerned is in custody:
   (m) specify the procedures to be followed in relation to claims, appeals, and other matters not completed before the commencement of this section.
+(2) No regulations may be made under section 400 in respect of the matters specified in subsection (1)(ka) of this section unless the Minister—
+  (a) has recommended the making of the regulations to the Governor-General; and
+  (b) before doing so, is satisfied that the regulations are necessary for 1 or both of the following reasons:
+    (i) there are problems in accessing information or assessing information that is relevant to determining or making a decision on the claims to be specified in the regulations:
+    (ii) the circumstances to which the claims to be specified in the regulations relate, or the circumstances of the claimants making those claims, are otherwise of a nature, or subject to such a degree of change or uncertainty, that determination or decision of the claims under sections 136 to 138 is unlikely to produce a robust outcome.
+(3) Regulations made under section 400 in respect of the matters specified in subsection (1)(ka) of this section—
+  (a) are deemed to be revoked on the date that is 6 months after their commencement or on any earlier date specified in the regulations; and
+  (b) have no continuing effect after the date on which they expire.
 
 ## Part 12 — Repeals, transitional provisions, saving provisions, and related matters
 
