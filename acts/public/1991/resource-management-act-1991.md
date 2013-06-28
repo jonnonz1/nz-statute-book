@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-06-28_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1797,7 +1797,8 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iia) relevant entry in the Historic Places Register; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
-  (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils.
+  (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils; and
+  (c) the extent to which the regional policy statement needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
 (2A) When a regional council is preparing or changing a regional policy statement, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
   (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
@@ -1890,7 +1891,8 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iia) relevant entry in the Historic Places Register; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
-  (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils.
+  (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils; and
+  (e) to the extent to which the regional plan needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
 (2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
   (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
