@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2011-12-05_
+_Consolidation as at 2013-06-28_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -28,6 +28,7 @@ In this Act, unless the context otherwise requires,—
   - **environment** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **environmental Act** means—
     (a) the Climate Change Response Act 2002:
+    (ab) the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
     (b) the Hazardous Substances and New Organisms Act 1996:
     (c) the Imports and Exports (Restrictions) Act 1988:
     (d) the Ozone Layer Protection Act 1996:
