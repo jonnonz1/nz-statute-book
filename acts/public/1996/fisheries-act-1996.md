@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2013-01-03_
+_Consolidation as at 2013-06-28_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -385,6 +385,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (a) any regional policy statement, regional plan, or proposed regional plan under the Resource Management Act 1991; and
   (b) any management strategy or management plan under the Conservation Act 1987; and
   (c) sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act); and
+  (ca) regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
   (d) a planning document lodged with the Minister of Fisheries by a customary marine title group under section 91 of the Marine and Coastal Area (Takutai Moana) Act 2011—
 (2A) Before setting or varying any sustainability measure under this Part or making any decision or recommendation under this Act to regulate or control fishing, the Minister must take into account—
   (a) any conservation services or fisheries services; and
