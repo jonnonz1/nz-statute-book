@@ -1,5 +1,5 @@
 # Continental Shelf Act 1964
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-06-28_
 
 > An Act to make provision as to the exploration and exploitation of the continental shelf of New Zealand and for matters connected with that purpose
 
@@ -85,16 +85,16 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
 
 ### 8 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) regulating the construction, erection, or use of installations or devices in, on, or above the continental shelf, or any specified part thereof, in connection with the exploration of the shelf or that part thereof or the exploitation of its natural resources:
-  (b) prohibiting the construction, erection, placing, or use of installations or devices in, on, or above the continental shelf in places where they could cause interference with the use of recognised sea lanes essential to coastwise or international navigation:
+  (a)
+  (b)
   (c) establishing safety zones, extending to a distance not exceeding 500 metres measured from each point of the outer edge of the installation or device, around any such installations or devices in, on, or above the continental shelf:
   (d) prescribing such measures as the Governor-General considers necessary in any such safety zone for the protection of the installation or device with respect to which the safety zone is established:
   (e) regulating or prohibiting the entry of ships into any such safety zone:
-  (f) prescribing measures to be taken in any such safety zone for the protection of the living resources of the sea and the natural resources of the continental shelf from harmful agents:
-  (g) prescribing the notice to be given of the construction, erection, or placing of installations or devices in, on, or above the continental shelf:
+  (f)
+  (g)
   (h) prescribing the permanent means to be installed for the purpose of giving warning to shipping and aircraft of the presence of installations or devices in, on, or above the continental shelf:
-  (i) providing for the removal of installations or devices constructed, erected, or placed in, on, or above the continental shelf which have been abandoned or become disused:
-  (j) prohibiting or restricting any exploration of the continental shelf or any specified part thereof or any exploitation of its natural resources which in the opinion of the Governor-General could result in an unjustifiable interference with navigation, fishing, or the conservation of the living resources of the sea, or could interfere with national defence or with oceanographic or other scientific research or with submarine cables or pipelines:
+  (i)
+  (j)
   (k) providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof:
   (l) prescribing penalties for breaches of the regulations, not exceeding a fine of £500.
 (2) In this section the term continental shelf includes the seabed and subsoil of the submarine areas within the territorial limits of New Zealand.
