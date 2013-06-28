@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-06-28_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -277,8 +277,8 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 
 ### 7 Relationship with other enactments
 (1) Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7.
-(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Trade in Endangered Species Act 1989, or the Resource Management Act 1991.
-  (a) to the extent provided in subsections (1), (5), and (6) and section 7A; and
+(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+  (a) to the extent provided in subsections (1), (5), and (6), and sections 7A to 7D; and
   (b) to the extent that those enactments are expressly amended by section 168(1),—
 (3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
 (4) The provisions of this Act in so far as they relate to risk goods must not be construed to take precedence over the powers provided under the Misuse of Drugs Act 1975 in relation to any controlled drug (as defined in section 2(1) of that Act).
@@ -290,22 +290,53 @@ A provision in this Act that applies in the territorial sea must be interpreted 
   (b) do not allow or authorise the contravention of any provision of this Act in respect of wildlife that is also an unwanted organism.
 
 ### 7A Relationship with Resource Management Act 1991
-(1) Where any action taken in accordance with any provision in Part 6 in an attempt to eradicate any organism would be in breach of the provisions of Part 3 of the Resource Management Act 1991, the responsible Minister may exempt the actions taken in relation to that organism from the provisions of Part 3 of the Resource Management Act 1991 for up to 20 working days if that Minister is satisfied that it is likely that—
-  (a) the organism is not established in New Zealand, the organism is not known to be established in New Zealand, or the organism is established in New Zealand but is restricted to certain parts of New Zealand; and
-  (b) the organism has the potential to cause all or any of significant economic loss, significant adverse effects on human health, or significant environmental loss if it becomes established in New Zealand or if it becomes established throughout New Zealand; and
-  (c) it is in the public interest that action be taken immediately in an attempt to eradicate the organism.
-(2) Before making a decision under subsection (1), the responsible Minister must consult the relevant consent authority (to the extent that is possible in the circumstances), and may consult such other persons as the responsible Minister considers are representative of the persons likely to be affected by the eradication attempt.
-(3) After making a decision under subsection (1), the responsible Minister must give public notice of the Minister's decision in such a manner as the Minister thinks fit.
-(4) The public notice must specify—
-  (a) the organism to be eradicated; and
-  (b) the principal actions that may be taken in the attempt to eradicate the organism; and
+(1) The responsible Minister may exempt an action from the provisions of Part 3 of the Resource Management Act 1991 if the action is taken in accordance with Part 6 of this Act in an attempt to eradicate an organism and if—
+  (a) the action would be in breach of Part 3 of the Resource Management Act 1991; and
+  (b) the responsible Minister is satisfied that it is likely that—
+    (i) the organism is not established in New Zealand, the organism is not known to be established in New Zealand, or the organism is established in New Zealand but is restricted to certain parts of New Zealand; and
+    (ii) the organism has the potential to cause 1 or more of significant economic loss, significant adverse effects on human health, or significant environmental loss if it becomes established in New Zealand, or if it becomes established throughout New Zealand; and
+    (iii) it is in the public interest that action be taken immediately in an attempt to eradicate the organism.
+(2) The exemption of an action under subsection (1) may last for up to 20 working days.
+(3) Before making a decision under subsection (1), the responsible Minister—
+  (a) must consult the relevant consent authority (to the extent that is possible in the circumstances); and
+  (b) may consult such other persons as the responsible Minister considers are representative of the persons likely to be affected by the eradication attempt.
+(4) If an exemption is granted under subsection (1) or continued by regulations made under section 7D, Part 3 of the Resource Management Act 1991 does not apply to the action while the exemption continues.
+(5) After the exemption ends,—
+  (a) the provisions of the Resource Management Act 1991 apply to the action and its adverse effects to the same extent as those provisions would have applied but for the exemption; and
+  (b) the responsible Minister must remedy or mitigate the adverse effects to which the provisions of the Resource Management Act 1991 would have applied if not for the exemption.
+(6) For the purposes of this section, consent authority has the same meaning as in section 2(1) of the Resource Management Act 1991.
+
+### 7B Relationship with Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
+(1) The responsible Minister may exempt an action from the provisions of Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 if the action is taken in an attempt to eradicate or manage an organism under this Act and if—
+  (a) the action would be in breach of Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
+  (b) the responsible Minister is satisfied that it is likely that—
+    (i) the organism is not established in the exclusive economic zone, the organism is not known to be established in the exclusive economic zone, or the organism is established in the exclusive economic zone but is restricted to certain parts of the exclusive economic zone; and
+    (ii) the organism has the potential to cause 1 or more of significant economic loss, significant adverse effects on human health, or significant environmental loss if it becomes established in the exclusive economic zone, or if it becomes established throughout the exclusive economic zone, or if it spreads to New Zealand; and
+    (iii) it is in the public interest that action be taken immediately in an attempt to eradicate or manage the organism.
+(2) The exemption of an action under subsection (1) may last for up to 20 working days.
+(3) Before making a decision under subsection (1), the responsible Minister—
+  (a) must consult the Authority (to the extent that is possible in the circumstances); and
+  (b) may consult such other persons as the responsible Minister considers are representative of the persons likely to be affected by the eradication or management attempt.
+(4) If an exemption is granted under subsection (1) or continued by regulations made under section 7D, Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 does not apply to the action while the exemption continues.
+(5) After the exemption ends,—
+  (a) the provisions of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 apply to the action and its adverse effects to the same extent as those provisions would have applied but for the exemption; and
+  (b) the responsible Minister must remedy or mitigate the adverse effects to which the provisions of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 would have applied if not for the exemption.
+
+### 7C Public notice of decision to exempt action
+(1) After making a decision under section 7A or 7B, the responsible Minister must give public notice of the Minister's decision in such a manner as the Minister thinks fit.
+(2) The public notice must specify—
+  (a) the organism to be eradicated or managed; and
+  (b) the principal actions that may be taken in the attempt to eradicate or manage the organism; and
   (c) the areas affected by the action.
-(5) A failure to comply with the provisions of subsections (2) and (3) does not affect the validity of any exemption given under this section.
-(6) Where any action has been exempted from Part 3 of the Resource Management Act 1991 under subsection (1) and the responsible Minister considers that it is necessary to continue action beyond the duration of the exemption to attempt to eradicate the organism, that Minister may recommend that regulations be made continuing the exemption and the Governor-General may from time to time, by Order in Council, make regulations for that purpose.
-(7) Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later, and continue in force until revoked or until a date not later than the day 2 years after the regulations came into force when the regulations expire and are deemed to have been revoked.
-(8) Where an exemption is granted under subsection (1) or by regulations made under subsection (6), the provisions of Part 3 of the Resource Management Act 1991 do not apply to the actions taken to eradicate the organism while the exemption is in force.
-(9) Where an exemption from the provisions of the Resource Management Act 1991 has been granted under subsection (1) or by regulations made under subsection (6) and that exemption has ended (either by the expiry of the exemption under subsection (1) or by the revocation of the regulations, as the case may be), the provisions of the Resource Management Act 1991 then apply and the responsible Minister must remedy or mitigate the adverse effects of any actions taken under Part 6 and to which the provisions of the Resource Management Act 1991, but for the exemption under this section, would otherwise have applied.
-(10) For the purposes of this section, consent authority has the same meaning as in section 2(1) of the Resource Management Act 1991.
+(3) A failure to comply with the provisions of this section or section 7A(3) or 7B(3) does not affect the validity of any exemption given under section 7A or 7B.
+
+### 7D Regulations may continue exemption
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, make regulations—
+  (a) continuing the exemption under section 7A of an action from Part 3 of the Resource Management Act 1991:
+  (b) continuing the exemption under section 7B of an action from Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
+(3) Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later.
+(4) The regulations expire on the day that is 2 years after the date on which the regulations come into force unless they are revoked earlier.
 
 ## Part 2 — Functions, powers, and duties
 
