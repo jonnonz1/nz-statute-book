@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-06-28_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3636,6 +3636,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 15 | Enforcement officer may seize property | Subparts 1, 5, 6, 7, 9, and 10 |
 | Electricity Act 1992 | 159(1)(e) | Dwellinghouse may be entered under general power of entry conferred by Electricity Act 1992 if warrant authorising entry to that dwellinghouse is obtained by person exercising power | Subparts 1, 3, 5, 7, 9, and 10 |
 | Electricity Industry Act 2010 | 47(1) | Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code | All (except sections 118 and 119) |
+| Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 | 141(1) and (2) | Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with | All (except subparts 2 and 8 and sections 118 and 119) |
 | Extradition Act 1999 | 83(2) | Issuing officer may issue search warrant to constable to search for evidence of extradition offence | All (except subpart 6) |
 | Fair Trading Act 1986 | 47(2) | Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of Fair Trading Act 1986 | All (except sections 118 and 119) |
 | Films, Videos, and Publications Classification Act 1993 | 109 | Constable or inspector may obtain and execute search warrant to search for evidence of offences against Films, Videos, and Publications Classification Act 1993 (other than against sections 126 and 131A) | All (except sections 118 and 119) |
