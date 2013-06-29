@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2012-12-05_
+_Consolidation as at 2013-06-29_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -46,7 +46,10 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **anonymous** , in relation to an electoral donation (as defined in section 104), means a donation that is made in such a way that the candidate concerned does not know who made the donation
+  - **allotment** has the meaning given by section 218(2) of the Resource Management Act 1991
+  - **candidate** —
+    (a) means a person who has been nominated as a candidate in any election; and
+    (b) includes, in Parts 5 and 5A, a person who has declared his or her intention of becoming a candidate
   - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Statistics Act 1975
   - **close of nominations** , in relation to any election, means 12 noon on nomination day
   - **close of voting** , in relation to any election or poll, means,—
@@ -82,7 +85,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **member of a local authority** , in relation to a local authority, includes the mayor
   - **Minister** means the Minister of Local Government
   - **New Zealand method of counting single transferable votes** means the method of counting votes described in Schedule 1A of the Local Electoral Regulations 2001
-  - **nomination day** means the 50th day before polling day
+  - **nomination day** means the 57th day before polling day
   - **official document** includes any facsimile, electronic document, or electronic message created or transmitted by or to an electoral officer or other electoral official under this Act or regulations made under this Act
   - **official place** means any place at which there are provided, for the time being, opportunities or facilities for members of the public to—
     (a) vote; or
@@ -232,7 +235,7 @@ Despite section 10, if a general election of any local authority or community bo
   (d) issuing and receiving ordinary and special votes and other official documents:
   (e) the processing and counting of votes:
   (f) the declaration of results:
-  (g) receiving returns of electoral expenses:
+  (g) receiving returns of electoral donations and expenses:
   (h) investigating possible offences and reporting alleged offences to the Police.
 (3) The electoral officer has all the powers and duties conferred on the electoral officer by this Act or any other enactment.
 (4) Subsections (1) and (2) are subject to sections 16 to 19.
@@ -327,7 +330,8 @@ Every governing body of a regional council is to consist of not fewer than 6 mem
     (ii) the number of members proposed to be elected by the electors of each ward.
 (2) The determination required by subsection (1) must be made by a territorial authority,—
   (a) on the first occasion, either in 2003 or in 2006; and
-  (b) subsequently, at least once in every period of 6 years after the first determination.
+  (b) subsequently, at least once in every period of 6 years after the year in which the first determination was made.
+(2A) To avoid doubt, subsection (2) is subject to sections 19K(1AA) and 19M(1).
 (3) This section must be read in conjunction with section 19ZH and Schedule 1A.
 
 ### 19I Review of representation arrangements for elections of regional councils
@@ -337,7 +341,8 @@ Every governing body of a regional council is to consist of not fewer than 6 mem
   (c) the number of members proposed to be elected by the electors of each constituency.
 (2) The determination required by subsection (1) must be made by the regional council,—
   (a) on the first occasion, either in 2003 or in 2006; and
-  (b) subsequently, at least once in every period of 6 years after the first determination.
+  (b) subsequently, at least once in every period of 6 years after the year in which the first determination was made.
+(2A) To avoid doubt, subsection (2) is subject to sections 19K(1AA) and 19M(1).
 (3) This section must be read in conjunction with section 19ZH and Schedule 1A.
 
 ### 19J Review of community boards
@@ -361,7 +366,54 @@ Every governing body of a regional council is to consist of not fewer than 6 mem
     (ii) the number of members proposed to be elected by the electors of each subdivision.
 (3) Nothing in this section limits the provisions of section 19F.
 
+### 19JA Minor alterations to boundaries by territorial authority
+(1) A territorial authority may, in accordance with this section, determine by resolution new proposed boundaries of wards, communities, or subdivisions of communities of the district of the territorial authority.
+(2) The territorial authority must be satisfied that,—
+  (a) since the existing boundaries of the wards, communities, or subdivisions of communities took effect as the basis for election at the last triennial general election, there have been changes at or near those boundaries to the boundaries of 1 or more allotments; and
+  (b) the proposed boundaries of the wards, communities, or subdivisions constitute only minor alterations to the existing boundaries; and
+  (c) the minor alterations will maintain the effective representation of communities of interest affected by the changes to the boundaries of the allotments; and
+  (d) so far as is practicable, the proposed boundaries of the wards, communities, or subdivisions coincide with the boundaries of allotments; and
+  (e) so far as is practicable, ward boundaries coincide with community boundaries (if applicable).
+(3) Every meeting at which the territorial authority deliberates on the proposals contained in the resolution must be open to the public, except as provided by Part 7 of the Local Government Official Information and Meetings Act 1987.
+(4) The territorial authority must refer the resolution to the Commission, together with the information concerning the communities of interest and population of the district or community, and the proposed wards, communities, or subdivisions, that is held by the territorial authority and is necessary for the purposes of subsection (6).
+(5) However, the territorial authority must not refer the resolution and information to the Commission after 15 January in the year of a triennial general election.
+(6) On receiving the reference, the Commission must—
+  (a) consider the resolution and information forwarded to it; and
+  (b) determine whether to uphold the proposed boundaries of the wards, communities, or subdivisions.
+(7) For the purposes of making its determination, the Commission may make any inquiries that it considers appropriate.
+(8) The Commission may determine to uphold the proposed boundaries only if it is satisfied of the matters specified in subsection (2).
+(9) The Commission must make its determination under subsection (6)(b) before 11 April in the year of the next triennial general election.
+(10) Section 19S applies to the Commission's determination as if it were made under section 19R(1)(b), and section 19Y(3) to (6) apply with any necessary modifications.
+(11) A territorial authority must not use this section if the territorial authority—
+  (a) is required to make a resolution under section 19H before the next triennial general election; or
+  (b) has, since the last triennial general election, made a resolution under section 19H; or
+  (c) has, since the last triennial general election, already made a resolution under this section that was upheld by the Commission under subsection (6)(b).
+
+### 19JB Minor alterations to boundaries by regional council
+(1) A regional council may, in accordance with this section, determine by resolution new proposed boundaries of constituencies of the region of the regional council.
+(2) The regional council must be satisfied that,—
+  (a) since the existing boundaries of the constituencies took effect as the basis for election at the last triennial general election, there have been changes at or near those boundaries to the boundaries of 1 or more allotments; and
+  (b) the proposed boundaries of the constituencies constitute only minor alterations to the existing boundaries; and
+  (c) the minor alterations will maintain the effective representation of communities of interest affected by the changes to the boundaries of the allotments; and
+  (d) so far as is practicable, the proposed boundaries of the constituencies coincide with the boundaries of allotments; and
+  (e) so far as is practicable, constituency boundaries coincide with the boundaries of 1 or more territorial authority districts or the boundaries of wards.
+(3) Every meeting at which the regional council deliberates on the proposals contained in the resolution must be open to the public, except as provided by Part 7 of the Local Government Official Information and Meetings Act 1987.
+(4) The regional council must refer the resolution to the Commission, together with the information concerning the communities of interest and population of the region, and the proposed constituencies, that is held by the regional council and is necessary for the purposes of subsection (6).
+(5) However, the regional council must not refer the resolution and information to the Commission after 15 January in the year of a triennial general election.
+(6) On receiving the reference, the Commission must—
+  (a) consider the resolution and information forwarded to it; and
+  (b) determine whether to uphold the proposed boundaries of the constituencies.
+(7) For the purposes of making its determination, the Commission may make any inquiries that it considers appropriate.
+(8) The Commission may determine to uphold the proposed boundaries only if it is satisfied of the matters specified in subsection (2).
+(9) The Commission must make its determination under subsection (6)(b) before 11 April in the year of the next triennial general election.
+(10) Section 19S applies to the Commission's determination as if it were made under section 19R(1)(b), and section 19Y(3) to (6) apply with any necessary modifications.
+(11) A regional council must not use this section if the regional council—
+  (a) is required to make a resolution under section 19I before the next triennial general election; or
+  (b) has, since the last triennial general election, made a resolution under section 19I; or
+  (c) has, since the last triennial general election, already made a resolution under this section that was upheld by the Commission under subsection (6)(b).
+
 ### 19K Requirements for resolution
+(1AA) A resolution under section 19H, 19I, or 19J that affects the next triennial general election of members of a territorial authority, regional council, or community board must be passed no earlier than 1 March of the year before the year of the election.
 (1) Every resolution specified in subsection (3) must include or be accompanied by a description of each proposed ward, constituency, community, or subdivision, and its proposed boundaries, so as to make each proposed ward, constituency, community, or subdivision readily identifiable to the public.
 (2) If any resolution under section 19H or section 19I or section 19J proposes any change to the basis of election, membership, or ward, constituency, community, or subdivision boundaries which applied at the last triennial general election of members of the territorial authority, regional council, or community board, that resolution must include an explanation of the reasons for the proposed change.
 (3) Subsection (1) applies to every resolution under section 19H(1)(a)(ii) or section 19H(1)(a)(iii) or section 19I(1) or section 19J(2)(a) or section 19J(2)(b) or section 19J(2)(c) or section 19J(2)(d) or section 19J(2)(e) or section 19J(2)(h)(iii).
@@ -372,7 +424,7 @@ If a territorial authority or regional council makes a resolution under section 
     (i) the Commission; and
     (ii) the Surveyor-General; and
     (iii) the Government Statistician; and
-    (iv) the Higher Salaries Commission or the Remuneration Authority.
+    (iv) the Remuneration Authority; and
   (b) in the case of a resolution made by a regional council, send a copy of that resolution to every territorial authority whose district or a part of whose district is within the region; and
   (c) in the case of a resolution made by a territorial authority, send a copy of that resolution to any regional council for a region in which the district of the territorial authority or any part of that district is situated.
 
@@ -400,6 +452,8 @@ If a territorial authority or regional council makes a resolution under section 
 (2) The public notice must—
   (a) incorporate any amendments resolved under subsection (1)(a); and
   (b) state both the reasons for the amendments and the reasons for any rejection of submissions; and
+  (ba) specify the communities of interest considered by the territorial authority (as required by sections 19T and 19V) or regional council (as required by sections 19U and 19V); and
+  (bb) specify the ratio of population to proposed members for each proposed ward, constituency, or subdivision, and the reasons for those proposals in terms of section 19V(2) and, if applicable, section 19V(3); and
   (c) specify the right of appeal conferred by section 19O, including the place and closing date for the receipt of appeals; and
   (d) if the territorial authority or regional council has amended its proposals under subsection (1)(a), specify the right of objection conferred by section 19P, including the place and closing date for the receipt of objections.
 (3) The territorial authority or regional council by which the public notice was given must—
@@ -407,7 +461,7 @@ If a territorial authority or regional council makes a resolution under section 
     (i) the Commission; and
     (ii) the Surveyor-General; and
     (iii) the Government Statistician; and
-    (iv) the Higher Salaries Commission or the Remuneration Authority.
+    (iv) the Remuneration Authority; and
   (b) if that notice was given by a territorial authority, send a copy of that notice to any regional council for a region in which the district of the territorial authority or any part of that district is situated; and
   (c) if that notice was given by a regional council, send a copy of that notice to every territorial authority whose district or a part of whose district is within the region.
 
@@ -449,7 +503,7 @@ If the territorial authority or regional council receives any appeal under secti
 (2) As soon as practicable after the publication of a public notice under subsection (1), the Commission must send a copy of that notice to—
   (a) the Surveyor-General; and
   (b) the Government Statistician; and
-  (c) the Higher Salaries Commission or the Remuneration Authority; and
+  (c) the Remuneration Authority; and
   (d) the Secretary for Local Government.
 (3) Subject to Part 2AA of the Local Government Act 1974 or Schedule 5 of the Local Government Act 2002, the determination of the Commission made under section 19R(1)(b) is final and comes into force for the next triennial general election, and continues in effect until a subsequent determination under this Part comes into effect.
 
@@ -469,12 +523,15 @@ In determining the matters specified in paragraphs (a) to (c) of section 19I(1),
 (1) In determining the number of members to be elected by the electors of any ward or constituency or subdivision, the territorial authority or regional council and, where appropriate, the Commission must ensure that the electors of the ward or constituency or subdivision receive fair representation, having regard to the population of every district or region or community and every ward or constituency or subdivision within the district or region or community.
 (2) For the purposes of giving effect to subsection (1), the territorial authority or regional council and, where appropriate, the Commission must ensure that the population of each ward or constituency or subdivision, divided by the number of members to be elected by that ward or constituency or subdivision, produces a figure no more than 10% greater or smaller than the population of the district or region or community divided by the total number of elected members (other than members elected by the electors of a territorial authority as a whole, if any, and the mayor, if any).
 (3) Despite subsection (2),—
-  (a) if the territorial authority or the Commission considers that the effective representation of communities of interest within island communities or isolated communities situated within the district of the territorial authority so requires, wards and subdivisions of a community may be defined and membership distributed between them in a way that does not comply with subsection (2):
+  (a) if the territorial authority or the Commission considers that 1 or more of the following apply, wards and subdivisions of a community may be defined and membership distributed between them in a way that does not comply with subsection (2):
+    (i) non-compliance with subsection (2) is required for effective representation of communities of interest within island communities or isolated communities situated within the district of the territorial authority; or
+    (ii) compliance with subsection (2) would limit effective representation of communities of interest by dividing a community of interest between wards or subdivisions; or
+    (iii) compliance with subsection (2) would limit effective representation of communities of interest by uniting within a ward or subdivision 2 or more communities of interest with few commonalities of interest:
   (b) if the regional council or the Commission considers that effective representation of communities of interest so requires, constituencies may be defined and membership distributed between them in a way that does not comply with subsection (2).
-(4) A regional council that decides under subsection (3)(b) not to comply with subsection (2) must refer that decision to the Commission together with the information specified in section 19Q(a) to (e).
-(5) A reference under subsection (4) must be treated as if it were an appeal against the decision of the regional council, for the purposes of sections 19R (other than subsection (1)(b)), 19S, and 19Y, which apply with any necessary modifications.
+(4) A territorial authority or regional council that decides under subsection (3) not to comply with subsection (2) must refer that decision to the Commission together with the information specified in section 19Q(a) to (e).
+(5) A reference under subsection (4) must be treated as if it were an appeal against the decision of the territorial authority or regional council, for the purposes of sections 19R (other than subsection (1)(b)), 19S, and 19Y, which apply with any necessary modifications.
 (6) On receiving a reference under subsection (4), the Commission must determine, under section 19R(1), whether—
-  (a) to uphold the decision of the regional council; or
+  (a) to uphold the decision of the territorial authority or regional council; or
   (b) to alter that decision.
 
 ### 19W Factors in determination of matters in relation to community boards
@@ -496,7 +553,7 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
     (i) the Commission; and
     (ii) the Surveyor-General; and
     (iii) the Government Statistician; and
-    (iv) the Higher Salaries Commission or the Remuneration Authority; and
+    (iv) the Remuneration Authority; and
     (v) the Secretary for Local Government; and
   (b) if that notice was given by a territorial authority, send a copy of that notice to any regional council for a region in which the district of the territorial authority or a part of that district is situated; and
   (c) if that notice was given by a regional council, send a copy of that notice to every territorial authority whose district or a part of whose district is within the region.
@@ -627,8 +684,8 @@ If, for the purpose of a triennial general election,—the provisions of this Pa
 
 **Guidelines**
 
-### 19ZI Guidelines in relation to reviews of representation
-(1) The Commission must issue guidelines identifying factors and considerations for territorial authorities or regional councils to take into account in making determinations under any of the provisions of sections 19H to 19J and Schedule 1A.
+### 19ZI Guidelines in relation to reviews of representation or minor alterations to boundaries
+(1) The Commission must issue guidelines identifying factors and considerations for territorial authorities or regional councils to take into account in making determinations under any of the provisions of sections 19H to 19JB and Schedule 1A.
 (2) The Commission may, from time to time, amend or revoke any guidelines issued under subsection (1).
 (3) Any guidelines issued under subsection (1) may relate to territorial authorities or regional councils generally or to a specific class of territorial authorities or regional councils.
 (4) The Commission must, as soon as practicable after issuing any guidelines under subsection (1),—
@@ -1006,12 +1063,12 @@ In the case of a poll, a notice under section 52 must also—
   (ba) each of the persons who nominated the candidate are persons other than the candidate; and
   (c) the persons who nominated the candidate are qualified to nominate the candidate; and
   (d) the nomination complies with subsections (1) and (4); and
-  (e) the electoral officer—
-    (i) receives the deposit prescribed for the applicable class of elections; and
-    (ii) receives that deposit before 12 noon on nomination day.
-(3) The consent and certification required by subsection (2)(a)—
-  (a) need not be given at the time when the nomination paper is lodged but, if given separately from the nomination paper, must be given before the close of nominations; and
-  (b) may be given in a manner other than in writing that is approved by the electoral officer, if the person concerned is outside New Zealand.
+  (e) the electoral officer receives the deposit prescribed for the applicable class of elections; and
+  (f) the electoral officer receives the following together:
+    (i) the nomination paper required by subsection (1):
+    (ii) the consent and certification required by paragraph (a):
+    (iii) the deposit required by paragraph (e).
+(3) The consent and certification required by subsection (2)(a) may be given in a manner other than in writing that is approved by the electoral officer, if the person nominated is outside New Zealand.
 (4) A nomination under subsection (1) must state—
   (a) the name under which the candidate is seeking election:
   (b) any organisation or group with which the candidate claims to be affiliated for the purposes of identifying that affiliation in the voting documents at the election:
@@ -1063,11 +1120,12 @@ No person may, at the same time, be a candidate for election for more than 1 war
 (1) If the total number of votes received by any candidate is less than the minimum number of votes prescribed for the purposes of this section in relation to the electoral system used at the election, the deposit is forfeited and paid into the general fund of the local authority.
 (2) The deposit must be returned to the person who paid it or, as the case may require, to his or her personal representatives if—
   (a) subsection (1) does not apply to the candidate or the candidate—
-    (i) withdraws or retires; or
+    (i) withdraws his or her nomination before the close of nominations; or
+    (ia) has his or her nomination cancelled because of incapacitation (certified by a medical practitioner) after the close of nominations but before the close of voting; or
     (ii) is elected without an election; or
     (iii) dies before the close of voting; or
     (iv) becomes incapable under this or any other Act of holding the office for which he or she was a candidate before the close of voting; and
-  (b) the candidate (other than a candidate who dies before the close of voting) complies with section 109 (which requires candidates to file a return of election expenses).
+  (b) the candidate (other than a candidate who dies before the close of voting) complies with section 112A (which requires candidates to file a return of electoral donations and expenses).
 (3) Subsection (2)(a) overrides subsection (1).
 
 ### 60 Withdrawal, death, or incapacity of candidate before close of nominations
@@ -1084,10 +1142,13 @@ No person may, at the same time, be a candidate for election for more than 1 war
   (a) if—
     (i) in English or Māori or both, must not exceed 150 words in each of the languages used in the statement:
     (ii) in a language other than English or Māori, must not exceed 150 words, or the equivalent, if the language uses symbols rather than words (including any translation of those words into another language provided by the candidate); and
-  (b) must be provided to the electoral officer before 12 noon on nomination day; and
+  (b) must be provided to the electoral officer, together with the nomination paper and other things referred to in section 55(2)(f); and
   (c) must be confined to information concerning the candidate (including any group or organisation with which the candidate claims under section 55(4) to be affiliated, or his or her status as an independent candidate, and the candidate's contact details), and the candidate's policies and intentions if elected to office; and
+  (ca) must state whether or not the candidate's principal place of residence, being the address in respect of which the candidate is registered as a parliamentary elector, is in the local government area for which the candidate seeks election (for example, either My principal place of residence is in the Lambton Ward or My principal place of residence is not in the Lambton Ward); and
+  (cb) if the candidate is seeking election to any other positions in elections to which this Act applies (under section 7), must specify each position and state that the candidate is seeking to be elected to the positions; and
   (d) must comply with any prescribed requirements; and
   (e) may include a recent photograph of the candidate alone.
+(2A) The information required by subsection (2)(ca) and (cb) does not count for the purposes of the word limit under subsection (2)(a).
 (3) If a candidate profile statement is submitted in Māori and English, the information contained in each language must be substantially consistent with the information contained in the other language.
 (4) If the electoral officer is not satisfied that a candidate profile statement complies with subsection (2) or, if applicable, subsection (3), the electoral officer must, as soon as practicable, return the statement to the candidate and must—
   (a) specify the concerns of the electoral officer and the reasons for those concerns; and
@@ -1126,7 +1187,7 @@ If, at the close of nominations for an election, the number of candidates is les
   (b) state the day and time at which the voting period begins and ends; and
   (c) state the electoral system to be used for the election or poll; and
   (d) state the voting method or voting methods to be used for the election or poll; and
-  (da) state whether a resolution has been made under section 79 that voting documents are to be processed during the voting period; and
+  (da)
   (e) contain any other information that is required or allowed to be included in the notice by regulations made under this Act.
 (3) In the case of an election, a notice under subsection (1) must also state the number of vacancies to be filled and the names and affiliations, if any, of the candidates.
 (4) A notice under subsection (1) may also contain any other information relating to the conduct of the election or poll that the electoral officer considers desirable to encourage participation by electors in the election or poll.
@@ -1155,12 +1216,31 @@ Any 10 or more electors who are in favour of or opposed to any one proposal at a
   (b) may, while votes are being counted under section 84, inspect any voting documents (whether formal or informal) that are the subject of the count.
 (6) An electoral officer may, at the request of a scrutineer or candidate made before the close of voting at an election, or at the request of a scrutineer made before the close of voting at a poll, supply to that scrutineer or candidate the names of persons from whom voting documents have been received, either at no cost or for a reasonable price, and in a format that the electoral officer considers appropriate.
 
-**Retirement of candidates, etc**
+**Death, incapacity, or invalid or cancelled nominations of candidates**
 
-### 69 Candidate may retire after close of nominations
-A candidate may retire by delivering to the electoral officer a notice in writing indicating that he or she wishes to retire,—
-  (a) if an election is required to be held, at any time after the close of nominations and before polling day; or
-  (b) if an election is not required to be held, at any time before a declaration has been made under section 63.
+### 69 Application for cancellation of nomination if candidate incapacitated after close of nominations
+(1) An application may be made for the cancellation of the nomination of a candidate if the candidate becomes incapacitated after the close of nominations but before the close of voting.
+(2) The application must be made to the electoral officer by—
+  (a) the 2 electors who nominated the candidate; or
+  (b) if 1 or both electors are unavailable or unable to act for any reason, a person with authority to act on the candidate's behalf.
+(3) The application must be made on a form provided by the electoral officer, and must be witnessed by a Justice of the Peace or a solicitor.
+(4) The application must be accompanied by a certificate signed by a medical practitioner that certifies—
+  (a) as to the candidate's condition; and
+  (b) that, in the practitioner's opinion, the candidate is incapacitated.
+(5) The application must be submitted to the electoral officer—
+  (a) as soon as practicable after the candidate becomes incapacitated; and
+  (b) before the close of voting.
+(6) The application may be submitted by hand, post, fax, or electronic transmission.
+(7) In this section,—
+  - **incapacitated** means that a candidate, because he or she is suffering from a serious illness or has sustained a serious injury, would be unlikely to be capable of performing the functions and duties of office if elected to the office
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+
+### 69A How application for cancellation of nomination dealt with
+(1) On receiving an application under section 69, the electoral officer must promptly determine whether the candidate became incapacitated (as defined by section 69(7)) after the close of nominations but before the close of voting.
+(2) For the purposes of making the determination, the electoral officer may make any inquiries, and seek any assistance (including expert medical assistance), that the electoral officer considers necessary.
+(3) If, before the close of voting, the electoral officer determines that the candidate became incapacitated as described in subsection (1), the electoral officer must cancel the candidate's nomination.
+(4) If the electoral officer has not made a determination before the close of voting, the application is to be treated as having been declined.
+(5) As soon as practicable after making a determination, the electoral officer must inform the applicant of the determination.
 
 ### 70 Death, incapacity, or invalid nomination of mayoral candidate after close of nominations
 (1) This section applies if, after the close of nominations but before the close of voting, an electoral officer becomes aware that a candidate in a mayoral election—
@@ -1175,22 +1255,22 @@ A candidate may retire by delivering to the electoral officer a notice in writin
 (3) Any votes in the election must not be counted but all other provisions of this Act and regulations made under this Act relating to the secrecy of the vote and security of election records apply in respect of that election.
 (4) A new election must be held and the provisions of section 102 apply accordingly, with any necessary modifications.
 
-### 71 Retirement, death, incapacity, or invalid nomination of candidate
+### 71 Death, incapacity, or invalid or cancelled nomination of candidate
 (1) This section and section 72 apply if—
-  (a) the electoral officer receives notice under section 69 of the retirement of a candidate in any election; or
+  (a) the electoral officer has cancelled under section 69A a candidate's nomination in any election; or
   (b) the electoral officer becomes aware, after the close of nominations but before the close of voting, that a candidate in any election other than a mayoral election—
     (i) has died; or
     (ii) has become incapable under any Act of holding the office for which the candidate was nominated; or
     (iii) was not validly nominated; or
     (iv) was not qualified to be nominated as a candidate.
-(2) If it is practicable to do so before polling day, the electoral officer must give public notice of the retirement, death, incapacity, or the invalid nomination of the candidate.
-(3) The electoral officer must take such steps as are practicable to ensure that electors do not vote for a candidate in ignorance of the retirement, death, incapacity, or invalid nomination of that candidate.
-(4) Any failure by the electoral officer to ensure that an elector or electors do not vote for a candidate in ignorance of the retirement, death, incapacity, or invalid nomination of the candidate does not invalidate an election.
-(5) If the electoral system used at the election is First Past the Post, any vote cast for a retired, deceased, or incapacitated candidate, or for a candidate whose nomination is invalid, or for a candidate who is no longer available for election under section 84, is void.
-(6) If the electoral system used at the election is Single Transferable Voting, any preference recorded on a voting document for a retired, deceased, or incapacitated candidate, or for a candidate whose nomination is invalid, or for a candidate who is no longer available for election under section 84, must not be recorded at the count as a preference for that person, but must instead be treated in accordance with regulations made under this Act.
+(2) If it is practicable to do so before polling day, the electoral officer must give public notice of the death, incapacity, or invalid or cancelled nomination of the candidate.
+(3) The electoral officer must take such steps as are practicable to ensure that electors do not vote for a candidate in ignorance of the death, incapacity, or invalid or cancelled nomination of that candidate.
+(4) Any failure by the electoral officer to ensure that an elector or electors do not vote for a candidate in ignorance of the death, incapacity, or invalid or cancelled nomination of the candidate does not invalidate an election.
+(5) If the electoral system used at the election is First Past the Post, any vote cast for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under section 84, is void.
+(6) If the electoral system used at the election is Single Transferable Voting, any preference recorded on a voting document for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under section 84, must not be recorded at the count as a preference for that person, but must instead be treated in accordance with regulations made under this Act.
 
 ### 72 If election becomes unnecessary
-(1) If the retirement, death, incapacity, or invalid nomination of a candidate means that the election is unnecessary, the electoral officer must, as soon as practicable after the close of nominations, give public notice declaring all remaining candidates to be elected in the prescribed manner.
+(1) If the death, incapacity, or invalid or cancelled nomination of a candidate means that the election is unnecessary, the electoral officer must, as soon as practicable after the close of nominations, give public notice declaring all remaining candidates to be elected in the prescribed manner.
 (2) If subsection (1) applies, the votes in the election must not be counted, but all other provisions of this Act and regulations made under this Act relating to the secrecy of the vote and security of election records apply in respect of that election.
 
 **Adjourned elections or polls**
@@ -1204,6 +1284,24 @@ A candidate may retire by delivering to the electoral officer a notice in writin
   (e) any other event.
 (2) If this section applies, the electoral officer may adjourn the close of voting for a period not exceeding 14 days, and may continue to adjourn the close of voting, if necessary, until the election or poll can be held or taken, as the case may be.
 (3) The electoral officer must give public notice of every adjournment under this section as soon as practicable, and may give any other notice that the electoral officer considers desirable.
+
+### 73A Adjournment of electoral processes
+(1) The Governor-General may, by Order in Council made in accordance with this section, specify a later date for 1 or more of the following in respect of a triennial general election of members of 1 or more local authorities and community boards:
+  (a) the date by which, or dates during which, a certain qualification entitles an elector to be included on the electoral roll:
+  (b) the nomination day:
+  (c) the polling day:
+  (d) the date by which anything else may or must be done under this Act or regulations made under this Act.
+(2) The Order in Council must be made in the year in which the triennial general election is to be held.
+(3) A date specified by the Order in Council must be no more than 6 weeks after the date that would otherwise have applied.
+(4) A date may be specified by the Order in Council only if the order commences on or before the date that would otherwise have applied.
+(5) The Order in Council must be made on the recommendation of the Minister.
+(6) Before recommending the making of the Order in Council, the Minister—
+  (a) must be satisfied, on reasonable grounds, that the order is necessary to ensure that the adverse effects of an emergency (whether local or national) or of anything referred to in section 73(1)(a) to (d) do not deny electors a reasonable opportunity to cast a valid vote, nominate a candidate, or accept nomination as a candidate in relation to the election; and
+  (b) must have consulted every local authority and electoral officer that will be affected.
+(7) Upon the commencement of an Order in Council made under this section,—
+  (a) a date specified in the order has effect in relation to the triennial general election of members of the 1 or more local authorities and community boards to which the order applies; and
+  (b) this Act and any regulations made under this Act apply to the election with any necessary modifications.
+(8) The electoral officer must, as soon as practicable, give public notice of every change of date made by the Order in Council, and may give any other notice that the electoral officer considers desirable.
 
 **Voting, processing, and counting of votes**
 
@@ -1234,7 +1332,8 @@ The electoral officer must take all reasonable steps to ensure that—
   (c) the position or positions to be filled at the election; and
   (d) the name under which each candidate is seeking election, and the name of any organisation or group with which the candidate claims to be affiliated or, if applicable, the status of the candidate as an independent candidate; and
   (e) information that is necessary to distinguish any candidates that have the same or very similar names; and
-  (f) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be.
+  (f) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be; and
+  (g) a warning describing the offences that a person may commit under sections 122(1)(a), 123(1)(c), and 124(b).
 (3) Voting documents for an election may contain any other information that the electoral officer considers appropriate to ensure that—
   (a) all electors who are qualified to vote have a reasonable and equal opportunity to vote (including, without limitation, information in a language other than English); and
   (b) the secrecy of the vote is maintained.
@@ -1251,7 +1350,8 @@ The electoral officer must take all reasonable steps to ensure that—
   (a) information that is necessary to identify the elector on the electoral roll and the voting document issued to that elector; and
   (b) the name of the local government area to which the poll relates; and
   (c) a full statement of the proposal of the poll and whether or not the poll is a binding poll or a non-binding poll; and
-  (d) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be.
+  (d) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be; and
+  (e) a warning describing the offences that a person may commit under sections 122(1)(a), 123(1)(c), and 124(b).
 (3) Voting documents for a poll may contain any other information that the electoral officer considers appropriate to ensure that—
   (a) all electors who are qualified to vote have a reasonable and equal opportunity to vote (including, without limitation, information in a language other than English); and
   (b) the secrecy of the vote is maintained.
@@ -1264,15 +1364,10 @@ A voting document may not be used at an election or poll unless it is consistent
 (2) No vote received by the electoral officer after the close of voting may be counted, unless permitted by regulations made under this Act.
 
 ### 79 Early processing of votes
-(1) A local authority may determine, by resolution, that the voting documents in respect of a triennial general election, or a poll or election conducted in conjunction with a triennial general election, are to be processed during the voting period.
-(2) A local authority may determine, by resolution, that the voting documents in respect of any election or poll (other than a triennial general election or a poll conducted in conjunction with a triennial general election) are to be processed during the voting period.
-(3) Subsection (2) does not limit subsection (1).
-(4) For the purposes of this section, local authority means—
-  (a) a territorial authority; and
-  (b) a local authority that undertakes the processing of votes for the election to which a resolution under subsection (1) or subsection (2) relates.
+[Repealed]
 
 ### 80 Processing before close of voting
-(1) If a local authority has made a determination under section 79, the electoral officer must ensure that voting documents received before the close of voting are processed in the prescribed manner.
+(1) The electoral officer may, at his or her discretion, process during the voting period and in the prescribed manner any voting documents received before the close of voting for any election or poll.
 (2) Subsection (1) does not require the electoral officer to ensure the taking of any particular step (whether prescribed or otherwise) in relation to the processing of a voting document during the voting period if the electoral officer decides, on reasonable grounds, that it is not efficient to take that step in relation to that voting document in that period.
 (3) Any step that, in relation to a voting document, is started but not completed at the close of voting must be completed after the close of voting in the prescribed manner.
 (4) If the processing of a voting document is not completed at the close of voting, the processing of the voting document must be completed after the close of voting.
@@ -1505,10 +1600,97 @@ The District Court Judge must determine whether,—
 (1) Every determination or order under this Part is final and may not be removed into the High Court by any procedure.
 (2) No proceedings may be brought in the High Court questioning the validity of any election or poll under this Act.
 
-## Part 5 — Electoral expenses
+## Part 5 — Electoral donations and expenses
+
+### Subpart 1 — Electoral donations
+
+### 103A Interpretation
+In this subpart and subpart 3, unless the context otherwise requires,—
+  - **anonymous** , in relation to an electoral donation, means a donation that is made in such a way that the candidate who receives the donation—
+    (a) does not know the identity of the donor; and
+    (b) could not, in the circumstances, reasonably be expected to know the identity of the donor
+  - **contribution** means any thing (being money or the equivalent of money or goods or services or a combination of those things) that makes up a donation or is included in a donation or has been used to wholly or partly fund a donation, and that—
+    (a) was given—
+      (i) to the donor; or
+      (ii) to a person who was required or expected to pass on all or any of its amount or value to the donor, whether directly or indirectly (for example, through 1 or more intermediaries, trustees, or nominees); and
+    (b) would have been a donation if it had been given directly to the candidate; and
+    (c) was given in the knowledge or expectation (whether by reference to a trust, an agreement, or an understanding) that it would be wholly or partly applied to make up, or to be included in, or to fund, a donation
+  - **contributor** means a person who makes a contribution and who immediately before making the contribution—
+    (a) beneficially holds any money, or the equivalent of money, or any goods that make up the contribution or are included in the contribution; or
+    (b) provides any services that make up the contribution or are included in the contribution or pays for those services out of money that the person beneficially holds
+  - **donation funded from contributions** means a donation that is made up of, includes, or is wholly or partly funded from 1 or more contributions
+  - **donor** means a person who makes an electoral donation
+  - **electoral donation** or means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) that is made to a candidate, or to any person on the candidate's behalf, for use in the candidate's campaign for election and—
+    (a) includes,—
+      (i) where goods or services are provided to a candidate, or to any person on the candidate's behalf, under a contract or an arrangement at a value that is less than their reasonable market value, the latter being a value that exceeds $300, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+      (ii) where goods or services are provided by a candidate under a contract or an arrangement at a value that is more than their reasonable market value, the amount of the difference between that value and the reasonable market value of those goods or services; and
+    (b) excludes—
+      (i) the labour of any person that is provided to a candidate free of charge by that person; and
+      (ii) goods or services provided free of charge to a candidate, or to any person on the candidate's behalf, that have a reasonable market value of $300 or less
+  - **receive** , in relation to a donation, means to get a donation that has been given or sent by—
+    (a) the donor directly; or
+    (b) the donor indirectly, via a transmitter
+  - **transmitter** means a person to whom a donor gives or sends a donation for transmittal to a candidate.
+
+### 103B Donations and contributions include GST
+All references to the amount or value of a donation or contribution are inclusive of any goods and services tax incurred by the donor or contributor in respect of the goods or services donated or contributed.
+
+### 103C Donations to be transmitted to candidate
+Every person, other than a candidate, to whom an electoral donation is given or sent must, within 10 working days after receiving the donation, transmit the donation to the candidate.
+
+### 103D Contributors to be identified
+(1) This section applies to a donation (other than an anonymous donation) that is made up of, includes, or is wholly or partly funded from 1 or more contributions.
+(2) If this section applies to a donation, the donor must, at the time of making the donation, disclose—
+  (a) the fact that the donation is funded from contributions; and
+  (b) the following information about any contribution that, either on its own or when aggregated with other contributions made by the same contributor to the donation, exceeds $1,500 in sum or value:
+    (i) the name of the contributor; and
+    (ii) the address of the contributor; and
+    (iii) the amount of the contribution or, in the case of aggregated contributions, the total amount of the aggregated contributions; and
+  (c) the total of all of the amounts disclosed under paragraph (b)(iii) in relation to the donation; and
+  (d) the total of all of the other contributions made in relation to the donation.
+(3) A candidate must give back to the donor the entire amount of the donation, or its entire value, if the candidate knows, or has reasonable grounds to believe, that the donor has failed to comply with subsection (2) in any respect.
+(4) For the purpose of section 112A, any amount given back by a candidate under subsection (3) is taken not to have been received by the candidate.
+
+### 103E Offence relating to contravention of section 103D
+A donor who fails to comply with section 103D with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 103F Identity of donor to be disclosed by transmitter, if known
+(1) When a transmitter transmits a donation to a candidate on behalf of the donor, the transmitter must disclose to the candidate—
+  (a) the fact that the donation is transmitted on behalf of the donor; and
+  (b) the name and address of the donor; and
+  (c) whether section 103D applies to the donation and, if so, all information disclosed by the donor under subsection (2) of that section.
+(2) Where a transmitter does not disclose, or is unable to disclose, the information required by subsection (1), then the donation must be treated as an anonymous donation.
+
+### 103G Offence relating to contravention of section 103F
+A transmitter who fails to comply with section 103F(1) with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 103H Disclosure of identity of donor
+If any person involved in the administration of the affairs of a candidate in relation to his or her election campaign knows the identity of the donor of an anonymous donation exceeding $1,500, the person must disclose the identity of the donor to the candidate.
+
+### 103I Offence relating to contravention of section 103H
+A person who fails to comply with section 103H with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 103J Anonymous donation may not exceed $1,500
+(1) If an anonymous donation exceeding $1,500 is received by a candidate in relation to an election campaign, the candidate must, within 20 working days of receiving the donation, pay to the electoral officer responsible for the conduct of the election to which that campaign relates the amount of the donation, or its value, less $1,500.
+(2) If an anonymous donation exceeding $1,500 is received by a candidate who is seeking election to more than 1 office, the candidate must—
+  (a) designate 1 election campaign for election to 1 office for which the donation will be used; and
+  (b) within 20 working days of receiving the donation, pay to the electoral officer responsible for the conduct of the election to which that campaign relates the amount of the donation, or its value, less $1,500.
+(3) An electoral officer who receives an amount under subsection (1) or (2) must, within 20 working days of receiving that amount,—
+  (a) issue a receipt to the candidate; and
+  (b) pay the amount into the general fund of the local authority that appointed the electoral officer.
+
+### 103K Offence relating to contravention of section 103J
+(1) A person who enters into an agreement, arrangement, or understanding with any other person that has the effect of circumventing section 103J(1) or (2) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+(2) A candidate who contravenes section 103J(1) or (2) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 103L Records of electoral donations
+(1) A candidate must keep proper records of all donations received by him or her.
+(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### Subpart 2 — Electoral expenses
 
 ### 104 Interpretation
-In this Part,—
+In this subpart and subpart 3,—
   - **applicable period before the close of polling day** means the period beginning 3 months before the close of polling day and ending with the close of polling day
   - **electoral activity** , in relation to a candidate at an election, means an activity—
     (a) that is carried out by the candidate or with the candidate's authority; and
@@ -1522,10 +1704,6 @@ In this Part,—
       (iv) any electronic communication to the public, including (without limitation) the establishment or operation of a website or other method of communication to the public using the Internet; and
     (d) that relates exclusively to the campaign for the election of the candidate; and
     (e) that takes place within the applicable period before the close of polling day
-  - **electoral donation** , in relation to a candidate at an election,—
-    (a) means a donation (whether of money or the equivalent of money or of goods or services or of a combination of those things) of a sum or value of more than $1,000 (such amount being inclusive of any goods and services tax and of a series of donations made by or on behalf of any one person that aggregate more than $1,000) made to the candidate, or to any person on the candidate's behalf, for use by or on behalf of the candidate in the campaign for his or her election; and
-    (b) includes, if goods or services are provided to the candidate, or to any person on the candidate's behalf, under a contract at 90% or less of their reasonable market value, the amount of the difference between the contractual price of the goods or services and the reasonable market value of those goods or services; but
-    (c) does not include the labour of any person that is provided to the candidate free of charge by that person
   - **electoral expenses** , in relation to a candidate at an election,—
     (a) means expenses that are incurred by or on behalf of the candidate in respect of any electoral activity; and
     (b) includes expenses that are incurred by or on behalf of the candidate, before or after the applicable period before the close of polling day, in respect of any electoral activity; and
@@ -1533,12 +1711,14 @@ In this Part,—
     (d) includes the cost of any printing or postage in respect of any electoral activity, whether or not the expenses in respect of the printing or postage are incurred by or on behalf of the candidate; but
     (e) does not include the expenses of operating a vehicle on which election advertising appears if that vehicle is used in good faith by the candidate as the candidate's personal means of transport; and
     (f) does not include expenses incurred by the candidate in preparing a candidate profile statement; and
-    (g) does not include the labour of any person that is provided to the candidate free of charge by that person
+    (g) does not include the labour of any person that is provided to the candidate free of charge by that person; and
+    (h) does not include the cost of any framework (other than a commercial framework) that supports a hoarding on which an advertisement is displayed
   - **population** means the population, as at the day that is 3 months before the close of polling day, of a local government area as specified in a certificate issued in respect of that area by the Government Statistician.
 
 ### 105 Periods for claiming and paying expenses
 (1) No claim against a candidate, or against any agent of a candidate, in respect of any electoral expenses is recoverable unless it is sent to the candidate within 30 days after the day on which the successful candidates are declared to be elected.
 (2) All electoral expenses incurred by or on behalf of a candidate must be paid within 60 days after the day on which the successful candidates are declared to be elected.
+(3) A person who makes a payment in breach of this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 106 Procedure if claim disputed
 (1) If a candidate, in the case of a claim for electoral expenses sent in to him or her within the time allowed by this Act, disputes it, or fails to pay it within 60 days,—
@@ -1556,20 +1736,10 @@ Every payment made in respect of any electoral expenses must, except when it is 
   (b) a receipt.
 
 ### 109 Return of electoral expenses
-(1) Within 55 days after the day on which the successful candidates at any election are declared to be elected, every candidate at the election must transmit to the electoral officer a return setting out—
-  (a) the candidate's electoral expenses; and
-  (b) the name and address of each person who made an electoral donation to the candidate and the amount of each electoral donation; and
-  (c) if an electoral donation of money or of the equivalent of money is made to the candidate anonymously and the amount of that donation exceeds $1,000,—
-    (i) the amount of that donation; and
-    (ii) the fact that it has been received anonymously.
-(2) Every return under subsection (1) must be in the form prescribed in Schedule 2 or to similar effect.
-(3) If the candidate is outside New Zealand on the day on which the successful candidates are declared to be elected, the return must be transmitted by the candidate to the electoral officer within 21 days after the date of the candidate's return to New Zealand.
-(4) It is the duty of every electoral officer to ensure that this section is complied with.
+[Repealed]
 
 ### 110 Return to be open for public inspection
-The electoral officer must keep every return under section 109 in the electoral officer's office, or at some other convenient place to be appointed by the chief executive of the local authority, for a period of 7 years after the date of the election to which it relates, and—
-  (a) during that period the return must be open to inspection by any person; and
-  (b) at the expiry of that period the electoral officer must ensure that the return is destroyed.
+[Repealed]
 
 ### 111 Maximum amount of electoral expenses
 (1) The total electoral expenses (inclusive of goods and services tax) of a candidate must not—
@@ -1595,6 +1765,68 @@ The electoral officer must keep every return under section 109 in the electoral 
   (b) the fair proportion of those expenses are electoral expenses.
 (2) If any election activity relates exclusively to campaigns for the election of 2 or more candidates, any electoral expenses in respect of that electoral activity must be apportioned equitably in relation to each of those candidates.
 
+### 112AA Offence to pay electoral expenses in excess of relevant prescribed maximum
+(1) This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any electoral expenses any sum in excess of the relevant maximum amount prescribed by section 111.
+(2) The candidate or person commits an offence and is liable on conviction—
+  (a) to a term of imprisonment not exceeding 2 years, or a fine not exceeding $10,000, if he or she knew the payment was in excess of the relevant prescribed maximum amount; or
+  (b) to a fine not exceeding $5,000 in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the electoral expenses did not exceed the relevant prescribed maximum amount.
+
+### Subpart 3 — Return of electoral donations and expenses
+
+### 112A Return of electoral donations and expenses
+(1) Within 55 days after the day on which the successful candidates at any election are declared to be elected, every candidate at the election must file a return of electoral donations and expenses.
+(2) However, in any case where a candidate is outside New Zealand on the day on which the successful candidates are declared to be elected (election result day), the return must be filed within 76 days after election result day.
+(3) The return of electoral donations and expenses must set out—
+  (a) the details specified in subsection (4) in respect of every electoral donation (other than a donation of the kind referred to in paragraph (c)) received by the candidate that, either on its own or when aggregated with all other donations made by or on behalf of the same donor for use in the same campaign, exceeds $1,500 in sum or value; and
+  (b) whether any donation is funded from contributions, and if so, and to the extent known or ascertainable from the information supplied under section 103D, the details specified in subsection (5) in respect of every contribution that, either on its own or when aggregated with other contributions by the same contributor to the donation, exceeds $1,500 in sum or value; and
+  (c) the details specified in subsection (6) in respect of every anonymous electoral donation received by the candidate that exceeds $1,500; and
+  (d) details of the candidate's electoral expenses.
+(4) The details referred to in subsection (3)(a) are—
+  (a) the name of the donor; and
+  (b) the address of the donor; and
+  (c) the amount of the donation or, in the case of aggregated donations, the total amount of the donations; and
+  (d) the date the donation was received or, in the case of aggregated donations, the date that each donation was received.
+(5) The details referred to in subsection (3)(b) are—
+  (a) the name of the contributor; and
+  (b) the address of the contributor; and
+  (c) the amount of the contribution or, in the case of aggregated contributions, the total amount of the aggregated contributions.
+(6) The details referred to in subsection (3)(c) are—
+  (a) the date the donation was received; and
+  (b) the amount of the donation; and
+  (c) the amount paid to the electoral officer under section 103J(1) or (2) and the date that payment was made.
+(7) Every return filed under this section must be in the form prescribed in Schedule 2.
+(8) It is the duty of every electoral officer to ensure that this section is complied with.
+(9) In this section, file in relation to a return, means to send the return to the electoral officer responsible for the conduct of the election.
+
+### 112B Nil return
+If a candidate considers that there is no relevant information to disclose under section 112A, the candidate must file a nil return under that section.
+
+### 112C Failure to file return of electoral donations and expenses
+A candidate who fails, without reasonable excuse, to comply with section 112A commits an offence and is liable on conviction to—
+  (a) a fine not exceeding $1,000; and
+  (b) if he or she has been elected to office, a further fine not exceeding $400 for every day that he or she continues to hold office until the return is filed.
+
+### 112D Filing a false return of electoral donations and expenses
+A candidate who files a return under section 112A that is false in any material particular commits an offence and is liable on conviction—
+  (a) to a term of imprisonment not exceeding 2 years, or a fine not exceeding $10,000, if he or she filed the return knowing it to be false in any material particular; or
+  (b) to a fine not exceeding $5,000 in any other case, unless the candidate proves that—
+    (i) he or she had no intention to misstate or conceal the facts; and
+    (ii) he or she took all reasonable steps in the circumstances to ensure the information in the return was accurate.
+
+### 112E Obligation to retain records necessary to verify return
+(1) A candidate must take all reasonable steps to retain all records, documents, and accounts that are necessary to enable a return under section 112A to be verified.
+(2) The records, documents, and accounts must be retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or to any matter to which the return relates.
+(3) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 112F Return of electoral donations and expenses to be open for public inspection
+(1) The electoral officer must keep every return filed under section 112A in the electoral officer's office, or at some other convenient place to be appointed by the chief executive of the local authority, for a period of 7 years after the date of the election to which it relates (the public inspection period).
+(2) During the public inspection period the electoral officer must—
+  (a) publish, electronically or in any other manner the electoral officer considers appropriate, every return filed under section 112A; and
+  (b) make available for public inspection a copy of every return filed under section 112A; and
+  (c) provide to any person upon request a copy of 1 or more returns filed under section 112A, subject to the payment of any charges that may be made under the Local Government Official Information and Meetings Act 1987.
+
+## Part 5A — Electoral advertising
+
 ### 113 Advertisements for candidates
 (1) No person may publish or cause to be published in any newspaper, periodical, notice, poster, pamphlet, handbill, billboard, or card, or broadcast or permit to be broadcast over any radio or television station, any advertisement that is used or appears to be used to promote or procure the election of a candidate at an election, unless subsection (2) or subsection (4) applies.
 (2) A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1) if—
@@ -1607,6 +1839,7 @@ The electoral officer must keep every return under section 109 in the electoral 
     (i) the true name of the person or persons for whom or at whose direction it is published and the address of his or her residence or place of business; and
     (ii) the true name of the organisation or body that has endorsed the publication of the advertisement and the address of the place of business of that organisation or body.
 (5) This section does not restrict the publication of any news or comments relating to an election in a newspaper or other periodical, or on the Internet, or in any other medium of electronic communication accessible by the public, or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
+(6) A person who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 114 Use of public money
 Sections 111 and 112 do not validate any use of public money that would otherwise be unlawful.
@@ -1616,8 +1849,8 @@ Sections 111 and 112 do not validate any use of public money that would otherwis
 **Term of membership of elected members**
 
 ### 115 When members come into office
-(1) A candidate at a triennial general election who is declared to be elected before polling day comes into office on polling day.
-(2) In any other case, a candidate at any election comes into office on the day after the day on which the candidate is declared to be elected.
+(1) Candidates at a triennial general election who are declared to be elected come into office on the day after the day on which the official result of the election is declared by public notice under section 86.
+(2)
 (3) A person appointed to fill an extraordinary vacancy comes into office at the time of his or her appointment.
 
 ### 116 When members leave office
@@ -1782,26 +2015,19 @@ Every electoral officer, deputy electoral officer, or other electoral official c
 **Electoral expenses**
 
 ### 132 Payments in breach of section 105
-(1) Every person commits an offence who makes a payment in contravention of section 105.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
+[Repealed]
 
 ### 133 Failure to transmit return
-(1) Every candidate commits an offence who fails to transmit a return of electoral expenses in the prescribed form to the electoral officer within the prescribed period.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000 and, if he or she has been elected, to a further fine not exceeding $400 for every day on which he or she continues to act until the return is transmitted.
+[Repealed]
 
 ### 134 False return
-(1) Every candidate commits an offence who transmits a return of electoral expenses knowing that it is false in any material particular, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000.
-(2) Every candidate commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who transmits a return of electoral expenses that is false in any material particular unless the candidate proves—
-  (a) that he or she had no intention to mis-state or conceal the facts; and
-  (b) that he or she took all reasonable steps to ensure that the information was accurate.
+[Repealed]
 
 ### 135 Unauthorised advertisements
-(1) Every person commits an offence who wilfully contravenes section 113(1).
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+[Repealed]
 
 ### 136 Excessive expenditure
-(1) Every candidate or other person commits an offence who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any electoral expenses any sum in excess of the prescribed maximum amount, knowing that the payment is in excess of the prescribed maximum amount, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000.
-(2) Every candidate or other person commits an offence who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any electoral expenses any sum in excess of the prescribed maximum amount and is liable on summary conviction to a fine not exceeding $5,000, unless the candidate or other person proves that he or she took all reasonable steps to ensure that the electoral expenses did not exceed the prescribed maximum amount.
+[Repealed]
 
 **General provisions**
 
@@ -1809,11 +2035,22 @@ Every electoral officer, deputy electoral officer, or other electoral official c
 In any proceedings for an offence in relation to any voting documents or other official documents, files, records, instruments, or devices used officially for an election or poll, the property in those documents, files, records, and instruments is to be treated as that of the electoral officer at that election or poll.
 
 ### 138 Duty to take action in respect of offences
-(1) If the electoral officer at any election or poll—the electoral officer must report that matter to the Police together with the results of any enquiries made by the electoral officer that he or she considers appropriate.
-  (a) receives a written complaint that an offence under this Part has been committed; or
-  (b) believes for any other reason that an offence under this Part may have been committed,—
-(2) Subsection (1) does not prevent any person from reporting an alleged offence to the Police.
-(3) Despite subsection (1), an electoral officer is not required to report the failure by a candidate at an election to file the return required by section 109(1) within the period prescribed in section 109, if the candidate files that return promptly after being required by the electoral officer to file the return.
+(1) Subsection (2) applies if an electoral officer—
+  (a) receives a written complaint that an offence has been committed under—
+    (i) Part 5; or
+    (ii) this Part; or
+  (b) believes for any other reason that an offence has been committed under either of the Parts specified in paragraph (a).
+(2) If this subsection applies, the electoral officer must—
+  (a) report the complaint or belief to the Police; and
+  (b) provide the Police with the details of any inquiries that he or she considers may be relevant.
+(3) Subsection (2) does not prevent any person from reporting an alleged offence to the Police.
+(4) Despite subsection (2), an electoral officer is not required to report the failure by a candidate to file a return under section 112A if the candidate files the return promptly after being required to do so by the electoral officer.
+
+### 138AA Time limit for prosecutions
+(1) A prosecution under section 112C must be commenced within 6 months of the date on which the return was required to be filed.
+(2) A prosecution under section 103K or 112D must be commenced—
+  (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
+  (b) not later than 3 years after the offence was committed.
 
 ## Part 8 — Miscellaneous provisions
 
@@ -1991,7 +2228,7 @@ For the purposes of the triennial general election and any poll to be held on 13
   (a) the proposed number of members of the territorial authority (other than the mayor); and
   (b) whether—
     (i) all of the proposed members of the territorial authority (other than the mayor) are to be separately elected by the electors of 1 or more Māori wards and the electors of 1 or more general wards; or
-    (ii) some of the proposed members of the territorial authority (other than the mayor) are to be elected by the electors of the district as a whole and some to be elected separately by the electors of 1 or more Māori wards and 1 or more general wards, and, if so, what number of members are to be elected by electors of the district as a whole, and what number are to be elected separately.
+    (ii) some of the proposed members of the territorial authority (other than the mayor) are to be elected by the electors of the district as a whole and some to be elected separately by the electors of 1 or more Māori wards and 1 or more general wards, and, if so, what number of members are to be elected by electors of the district as a whole, and what number are to be elected separately; and
   (c) the proposed number of members of the territorial authority to be elected by the electors of 1 or more Māori wards; and
   (d) the proposed number of members of the territorial authority to be elected by electors of 1 or more general wards; and
   (e) the proposed name and the proposed boundaries of each ward; and
@@ -2061,7 +2298,7 @@ In determining the number of wards and the boundaries of Māori wards, and the n
 (1) This schedule is to be read in conjunction with the provisions of the Local Government Act 1974 or the Local Government Act 2002 and the other provisions of this Act, and the provisions of the Local Government Act 1974 or the Local Government Act 2002 and the other provisions of this Act and the provisions of any regulations made under either the Local Government Act 1974 or the Local Government Act 2002 or this Act apply accordingly and with any necessary modifications.
 (2) However, if there is any inconsistency between the provisions of this schedule and any provisions of the Local Government Act 1974 or the Local Government Act 2002 or of this Act or of any regulations made under the Local Government Act 1974 or the Local Government Act 2002 or this Act, this schedule prevails.
 
-## Schedule 2 — Return of electoral expenses and electoral donations
+## Schedule 2 — Return of electoral donations and expenses
 
 ## Schedule 3 — Enactments amended
 
@@ -2091,3 +2328,34 @@ This Act comes into force on the day after the date on which this Act receives t
 
 ### 55 Certain determinations to remain in effect
 A determination that, immediately before the commencement of this section, was in effect under section 101K or section 101M of the Local Government Act 1974 continues in effect on and after the commencement of this section until a determination made under Part 1A of the principal Act replacing that determination comes into effect.
+
+### 1 Title
+This Act is the Local Electoral Amendment Act 2013.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to principal Act
+
+### 3 Principal Act
+This Part amends the Local Electoral Act 2001 (the principal Act).
+
+### 44 Transitional provision for representation review processes
+(1) This section applies if a resolution under section 19H, 19I, 19J, or 19N of the principal Act, or a determination under section 19R of the principal Act, would affect the 2013 triennial general election of members of a territorial authority, regional council, or community board.
+(2) The principal Act applies in relation to the resolution or determination as if section 19V had not been amended by this Part.
+
+### 45 Transitional provision for donations received before commencement of Act
+For the purposes of the next triennial general election held after the commencement of this Act,—
+  (a) the following provisions of the principal Act do not apply to anonymous donations received before the commencement of this Act:
+    (i) paragraph (b) of the definition of anonymous in section 103A; and
+    (ii) sections 103C to 103K; and
+    (iii) section 112A(6)(a) and (c); and
+  (b) the following sections of the principal Act do not apply to donations received by a candidate before the commencement of this Act:
+    (i) section 103B, to the extent it relates to contributions; and
+    (ii) section 103D; and
+    (iii) section 103F(1)(c); and
+    (iv) section 103G, to the extent it relates to contributors; and
+    (v) section 103L; and
+    (vi) section 112A(3)(b), (4)(d), and (5); and
+    (vii) section 112E; and
+  (c) the definition of candidate in section 5(1) of the principal Act does not include any person who has, before the commencement of this Act, declared his or her intention of becoming a candidate.
