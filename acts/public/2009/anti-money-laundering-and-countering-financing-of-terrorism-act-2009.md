@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-06-30_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -1233,57 +1233,42 @@ In this subpart, unless the context otherwise requires,—
 
 ### 117 Search warrant
 (1) An enforcement officer may apply for a search warrant in respect of a place.
-(2) The application must be made in writing, on oath, by an enforcement officer.
-(3) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar may issue a search warrant in respect of a place if satisfied that there are reasonable grounds for believing that there is evidential material at that place.
-(4) Every search warrant must be in the form prescribed by regulations and be directed to—
-  (a) an enforcement officer by name; or
-  (b) a constable by name; or
-  (c) every constable.
-(5) Despite a warrant being directed to another person under subsection (4), it may be executed by any constable.
-(6) The Judge, Justice of the Peace, Community Magistrate, or Registrar issuing the warrant may impose reasonable conditions on its execution.
+(2) The application must be made by an enforcement officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(3) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in respect of a place if satisfied that there are reasonable grounds for believing that there is evidential material at that place.
+(4) The provisions of subparts 1, 3, and 9 of Part 4 of the Search and Surveillance Act 2012 apply.
+(5)
+(6)
 
 ### 118 Powers under search warrant
 (1) A search warrant issued under section 117 authorises the enforcement officer or constable who is executing it, and any person called on by that officer or constable to assist, to do any of the following:
-  (a) enter and search the place at any reasonable time, on 1 occasion within 14 days after the date of the warrant being issued:
-  (b) use reasonable force to—
-    (i) make entry (for example, by breaking open a door); and
-    (ii) open any thing at the place that it is reasonable in the circumstances to open:
-  (c) search for and seize any evidential material at the place:
+  (a)
+  (b)
+  (c) search for any evidential material at the place:
   (d) inspect and copy any document; and for that purpose also do any of the following:
     (i) require any person at the place to produce a particular document:
     (ii) require any person at the place who has control or knowledge of a document to reproduce, or assist in reproducing, the document in usable form:
     (iii) operate any equipment at the place:
     (iv) remove a document temporarily to another place in order to copy it:
-  (e) take into or onto the place whatever equipment and materials the enforcement officer or constable requires for the search:
+  (e)
   (f) require the occupier of the place to answer any questions put by the enforcement officer or constable.
 (2) An enforcement officer or constable may require the occupier of the place to do the following:
   (a) hold any thing at the place in an unaltered state for a specified period of up to 5 working days:
   (b) provide a copy of particular documents within a specified period (which must be a period that is reasonable in the circumstances).
-(3) Nothing in this section limits or affects the privilege against self-incrimination.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118, 119, and 130) apply.
 
 **Conduct of entry, search, and seizure**
 
 ### 119 Assistance with searches
-(1) An enforcement officer or constable may ask any person to assist the enforcement officer or constable with a search under this subpart.
-(2) A person who assists an enforcement officer or constable must be under the supervision of an enforcement officer or constable.
+[Repealed]
 
 ### 120 Enforcement officers to show identity card on request
-(1) An enforcement officer must produce his or her identity card (as issued under section 141(2)) for inspection—
-  (a) on entering a place under this subpart; and
-  (b) at any later time, on request, during a search under this subpart.
-(2) An enforcement officer who fails to comply with subsection (1) ceases to be authorised to enter the place or to exercise any power under this Act or any regulations with respect to the search.
+[Repealed]
 
 ### 121 Announcement before entry
-(1) This section applies whenever an enforcement officer or constable enters a place under this subpart, unless the entry is made by consent.
-(2) Before entering the place, the enforcement officer or constable must—
-  (a) announce that he or she is authorised to enter the place; and
-  (b) give any person at the place an opportunity to consent to the entry.
-(3) However, subsection (2) does not apply if the enforcement officer or constable believes on reasonable grounds that—
-  (a) announcing entry would frustrate the purpose of the entry; or
-  (b) immediate entry to the place is required to ensure the safety of any person.
+[Repealed]
 
 ### 122 Details of warrant to be given to occupier
-If a place is being searched under a warrant, the enforcement officer or constable must give a copy of the warrant to the occupier or, if no person is present at the time, must leave a copy of the warrant in a prominent situation, marked for the attention of the occupier.
+[Repealed]
 
 ### 123 Occupier entitled to be present during search
 (1) The occupier of a place that is subject to a search under this subpart, and who is present at any time during the search, is entitled to observe the search as it is being carried out.
@@ -1295,45 +1280,21 @@ If a place is being searched under a warrant, the enforcement officer or constab
 (2) If, as a result of a failure to take the care required by subsection (1), the owner of the equipment or information, or the occupier of the place that was searched, suffers damage, the owner or occupier may seek damages from the relevant AML/CFT supervisor or the Police (as the case may require) in respect of that damage.
 
 ### 125 Copies of documents seized to be provided
-(1) When a document that is capable of being copied is seized from a place, it must (if practicable) be copied before the original is removed, and the copy must be left at the place.
-(2) If it is not practicable to copy the document before removing it, it must be copied as soon as practicable after it is removed, and (if practicable) the copy must be promptly delivered to the occupier of the place.
-(3) Subsection (1) does not apply—
-  (a) to documents obtained as a result of operating electronic equipment found at the place if the equipment is not seized and the documents remain stored on it; or
-  (b) if an order under subsection (4) has been made.
-(4) A District Court Judge, Community Magistrate, or Justice of the Peace may make an order waiving the application of subsections (1) and (2) if satisfied that the volume of material to be copied is such that copying it will involve substantial cost and that the cost is not justified.
-(5) An order under subsection (4) may be subject to whatever conditions the person making the order thinks are necessary to protect the interests of the person from whom the documents have been seized.
+[Repealed]
 
 ### 126 Receipts for things seized
-(1) A person who seizes any thing during a search under this subpart must provide the occupier with a receipt for the thing seized.
-(2) A single receipt may be given for more than 1 thing.
+[Repealed]
 
 ### 127 Application of sections 198A and 198B of Summary Proceedings Act 1957
-(1) Section 198A of the Summary Proceedings Act 1957, so far as applicable and with all necessary modifications, applies in respect of the seizure of any documents under any search warrant as if the search warrant had been issued under section 198 of that Act.
-(2) Section 198B of the Summary Proceedings Act 1957, so far as applicable and with all necessary modifications, applies in respect of accessing any documents under any search warrant as if the search warrant had been issued under section 198 of that Act.
+[Repealed]
 
 **Return and retention of things seized**
 
 ### 128 Return and retention of things seized
-(1) An enforcement officer or constable must (subject to any order of a court) immediately return any thing seized under this subpart to the person from whom it was seized if the reason for the thing's seizure no longer exists or it is decided that the thing is not to be used in evidence.
-(2) If a thing has not been returned under subsection (1) within 90 days of its seizure, the enforcement officer or constable must return the thing unless—
-  (a) proceedings in respect of which the thing may afford evidence were instituted within 90 days of its seizure, and those proceedings (including any appeal) have not been completed, or the time within which an appeal may be lodged in those proceedings has not expired; or
-  (b) there is an order in force under section 129 in respect of the thing; or
-  (c) the enforcement officer or constable is otherwise authorised to retain, destroy, or dispose of the thing other than by returning it to the person from whom it was seized; or
-  (d) the person to whom it is to be returned cannot be found or does not wish to take back the thing.
-(3) A thing may be returned conditionally or under such terms and conditions as the relevant AML/CFT supervisor or the Commissioner (as the case may require) thinks fit.
-(4) A thing may not be returned if it is, or is liable to be, forfeited to the Crown.
+[Repealed]
 
 ### 129 Order to retain things seized
-(1) If an enforcement officer or constable wishes to retain any thing seized under this subpart for more than 90 days, he or she may apply to a District Court for an order under this section.
-(2) A District Court Judge, Community Magistrate, or Justice of the Peace may make an order under this section if he or she is satisfied that retention of the thing is necessary—
-  (a) for the purpose of investigating an alleged offence or a civil liability act under this Part; or
-  (b) as evidence of an alleged offence or a civil liability act under this Part; or
-  (c) to secure evidence of an alleged offence or a civil liability act under this Part.
-(3) An order made under this section may be made for any period of up to 4 years.
-(4) If made for a shorter period, the order may be renewed at any interval, but the total period of the order, with any renewals, may not exceed 4 years.
-(5) Before making an application, the enforcement officer or constable must—
-  (a) take reasonable steps to discover who has an interest in the thing; and
-  (b) if practicable, notify each person who the enforcement officer or constable believes has such an interest in the proposed application and any application for a renewal.
+[Repealed]
 
 ## Part 4 — Institutional arrangements and miscellaneous provisions
 
@@ -1688,39 +1649,3 @@ Nothing in this Act enables any proceedings to be brought that were barred befor
 Any proceedings that have been commenced under the Financial Transactions Reporting Act 1996 before the commencement of this Act may be continued and completed after that commencement as if this Act had not been enacted, and the Financial Transactions Reporting Act 1996 applies accordingly.
 
 ## Schedule 2 — Consequential amendments
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
