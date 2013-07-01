@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -22,7 +22,7 @@ The purposes of this Act are—
 (1) In this Act, unless the context otherwise requires,—
   - **commencement date** means the date specified in section 2
   - **community-based sentence** has the meaning given to it in section 44
-  - **community work centre** means a community work centre established under section 126 of the Criminal Justice Act 1985
+  - **community work centre** means a community work centre established under section 30 of the Corrections Act 2004
   - **counsel** , in relation to any person, means a person enrolled as a barrister and solicitor of the High Court of New Zealand who is representing that person in any proceedings
   - **court** means any court exercising jurisdiction in criminal cases
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
@@ -65,7 +65,7 @@ The purposes of this Act are—
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
   - **prison officer** means an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation area** means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, sentences of home detention, or orders
-  - **probation officer** means a person appointed to be, or designated as, a probation officer under section 124 of the Criminal Justice Act 1985; and includes a person exercising only some of the functions or powers of a probation officer under that Act
+  - **probation officer** means a person appointed to be, or designated as, a probation officer under section 24 of the Corrections Act 2004; and includes a person exercising only some of the functions or powers of a probation officer under that Act
   - **qualifying instrument forfeiture offence** —
     (a) means an offence punishable by a maximum term of imprisonment of 5 years or more; and
     (b) includes an attempt to commit, conspiring to commit, or being an accessory to an offence if the maximum term of imprisonment for that attempt, conspiracy, or activity is 5 years or more
@@ -80,7 +80,7 @@ The purposes of this Act are—
   - **short-term sentence** has the same meaning as in section 4(1) of the Parole Act 2002
   - **staff member of a prison** means a staff member within the meaning of section 3(1) of the Corrections Act 2004
   - **tainted property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
-  - **Trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 28B of the District Courts Act 1947 to conduct trials on indictment
+  - **trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials
   - **victim** —
     (a) means—
       (i) a person against whom an offence is committed by another person; and
@@ -157,7 +157,10 @@ In sentencing or otherwise dealing with an offender the court—
     (i) participation in an organised criminal group (within the meaning of section 98A of the Crimes Act 1961); or
     (ii) involvement in any other form of organised criminal association:
   (i) premeditation on the part of the offender and, if so, the level of premeditation involved:
-  (j) the number, seriousness, date, relevance, and nature of any previous convictions of the offender and of any convictions for which the offender is being sentenced or otherwise dealt with at the same time.
+  (j) the number, seriousness, date, relevance, and nature of any previous convictions of the offender and of any convictions for which the offender is being sentenced or otherwise dealt with at the same time:
+  (k) any failure by the offender personally (or failure by the offender's lawyer arising out of the offender's instructions to, or failure or refusal to co-operate with, his or her lawyer) to comply with a procedural requirement that, in the court's opinion, has done either or both of the following:
+    (i) caused a delay in the disposition of the proceedings:
+    (ii) had an adverse effect on a victim or witness.
 (2) In sentencing or otherwise dealing with an offender the court must take into account the following mitigating factors to the extent that they are applicable in the case:
   (a) the age of the offender:
   (b) whether and when the offender pleaded guilty:
@@ -165,6 +168,8 @@ In sentencing or otherwise dealing with an offender the court—
   (d) that there was a limited involvement in the offence on the offender's part:
   (e) that the offender has, or had at the time the offence was committed, diminished intellectual capacity or understanding:
   (f) any remorse shown by the offender, or anything as described in section 10:
+  (fa) that the offender has taken steps during the proceedings (other than steps to comply with procedural requirements) to shorten the proceedings or reduce their cost:
+  (fb) any adverse effects on the offender of a delay in the disposition of the proceedings caused by a failure by the prosecutor to comply with a procedural requirement:
   (g) any evidence of the offender's previous good character.
 (3) Despite subsection (2)(e), the court must not take into account by way of mitigation the fact that the offender was, at the time of committing the offence, affected by the voluntary consumption or use of alcohol or any drug or other substance (other than a drug or other substance used for bona fide medical purposes).
 (4) Nothing in subsection (1) or subsection (2)—
@@ -173,6 +178,10 @@ In sentencing or otherwise dealing with an offender the court—
 (4A) In subsection (1)(fb), emergency health or fire services provider means a person who has a legal duty (under any enactment, employment contract, other binding agreement or arrangement, or other source) to, at the scene of an emergency, provide services that are either or both—
   (a) ambulance services, first aid, or medical or paramedical care:
   (b) services provided by or on behalf of a fire brigade (as defined in section 2(1) of the Fire Service Act 1975) to save life or property.
+(5) In this section, procedural requirement means a requirement imposed by or under—
+  (a) the Criminal Procedure Act 2011; or
+  (b) any rules of court or regulations made under that Act; or
+  (c) the Criminal Disclosure Act 2008 or any regulations made under that Act.
 
 **Additional aggravating factors in cases involving violence against, or neglect of, child under 14 years**
 
@@ -284,8 +293,8 @@ If a court is lawfully entitled under this or any other enactment to impose a fi
   (b) requires a court to impose a sentence of imprisonment in relation to a particular offence.
 
 ### 15B Limitation on sentence of home detention for person under 17 years
-(1) No court may impose a sentence of home detention on an offender in respect of a particular offence, other than a purely indictable offence, if, at the time of the commission of the offence, the offender was under the age of 17 years.
-(2) In subsection (1), purely indictable offence means any indictable offence within the meaning of section 2(1) of the Summary Proceedings Act 1957, other than an offence for which, under section 6 of that Act, proceedings may be taken in a summary way in accordance with that Act.
+(1) No court may impose a sentence of home detention on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 17 years.
+(2)
 
 ### 16 Sentence of imprisonment
 (1) When considering the imposition of a sentence of imprisonment for any particular offence, the court must have regard to the desirability of keeping offenders in the community as far as that is practicable and consonant with the safety of the community.
@@ -301,8 +310,8 @@ If a court is lawfully entitled under this or any other enactment to impose a fi
 Nothing in this Part limits the discretion of a court to impose a sentence of imprisonment on an offender if the court is satisfied on reasonable grounds that the offender is unlikely to comply with any other sentence that it could lawfully impose and that would otherwise be appropriate.
 
 ### 18 Limitation on imprisonment of person under 17 years
-(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a purely indictable offence, if, at the time of the commission of the offence, the offender was under the age of 17 years.
-(2) In subsection (1), purely indictable offence means any indictable offence within the meaning of section 2(1) of the Summary Proceedings Act 1957, other than an offence for which, under section 6 of that Act, proceedings may be taken in a summary way in accordance with that Act.
+(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 17 years.
+(2)
 
 **Permitted combinations of sentences**
 
@@ -342,11 +351,11 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 
 ### 24 Proof of facts
 (1) In determining a sentence or other disposition of the case, a court—
-  (a) may accept as proved any fact that was disclosed by evidence at the hearing or trial and any facts agreed on by the prosecutor and the offender; and
+  (a) may accept as proved any fact that was disclosed by evidence at the trial and any facts agreed on by the prosecutor and the offender; and
   (b) must accept as proved all facts, express or implied, that are essential to a plea of guilty or a finding of guilt.
 (2) If a fact that is relevant to the determination of a sentence or other disposition of the case is asserted by one party and disputed by the other,—
   (a) the court must indicate to the parties the weight that it would be likely to attach to the disputed fact if it were found to exist, and its significance to the sentence or other disposition of the case:
-  (b) if a party wishes the court to rely on that fact, the parties may adduce evidence as to its existence unless the court is satisfied that sufficient evidence was adduced at the hearing or trial:
+  (b) if a party wishes the court to rely on that fact, the parties may adduce evidence as to its existence unless the court is satisfied that sufficient evidence was adduced at the trial:
   (c) the prosecutor must prove beyond a reasonable doubt the existence of any disputed aggravating fact, and must negate beyond a reasonable doubt any disputed mitigating fact raised by the defence (other than a mitigating fact referred to in paragraph (d)) that is not wholly implausible or manifestly false:
   (d) the offender must prove on the balance of probabilities the existence of any disputed mitigating fact that is not related to the nature of the offence or to the offender's part in the offence:
   (e) either party may cross-examine any witness called by the other party.
@@ -454,7 +463,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (d) refused or failed to exercise those rights, or engaged counsel but subsequently dismissed him or her.
 (3) If, on any appeal against sentence, a court finds that a sentence was imposed in contravention of subsection (1), the court must either—
   (a) quash the sentence imposed and impose in substitution for it any other lawful sentence that the court thinks ought to have been imposed; or
-  (b) quash the conviction and direct a new hearing or trial, or make any other order that justice requires.
+  (b) quash the conviction and direct a new trial, or make any other order that justice requires.
 (4) For the purposes of this section, an offender refuses or fails to exercise his or her rights relating to legal representation if the offender—
   (a) refuses or fails to apply for legal aid under the Legal Services Act 2000 or applies for it unsuccessfully; and
   (b) refuses or fails to engage counsel by other means.
@@ -557,7 +566,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
     (ii) is unable to be found despite reasonable efforts made by the Registrar; and
   (b) the court is satisfied that—
     (i) the ground in subsection (2) or (3) has been established; and
-    (ii) enforcement of the original sentence of reparation under Part 3 of the Summary Proceedings Act 1957 (or, if applicable, under section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) is unlikely to be effective.
+    (ii) enforcement of the original sentence of reparation under Part 3 of the Summary Proceedings Act 1957 (or, if applicable, under section 19 of the Crimes Act 1961) is unlikely to be effective.
 (5) If the court is considering a substitute sentence,—
   (a) the court must take the following matters into account:
     (i) the amount of the original sentence of reparation that has been paid and the amount outstanding:
@@ -574,9 +583,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (2) If an enactment provides that a court may sentence an offender to a community-based sentence but does not prescribe a fine, the court may sentence the offender to pay a fine instead of imposing a community-based sentence.
 (2A) If an enactment provides that a court may sentence an offender to a sentence of home detention but does not provide for a fine, the court may sentence the offender to pay a fine instead of imposing a sentence of home detention.
 (3) Subsections (1), (2), and (2A) are subject to any express provision to the contrary in the relevant enactment.
-(4) No person may, except as provided by section 28F of the District Courts Act 1947, be sentenced by a District Court in accordance with this section to pay a fine exceeding—
-  (a) $10,000, if the court is presided over by a Judge; or
-  (b) $400, if the court is presided over by a Justice or 1 or more Community Magistrates.
+(4)
 
 ### 40 Determining amount of fine
 (1) In determining the amount of a fine, the court must take into account, in addition to the provisions of sections 7 to 10, the financial capacity of the offender.
@@ -617,7 +624,7 @@ A declaration as to financial capacity must contain information on all sources o
 A court may direct that an offender be detained in the custody of the court for a period not exceeding 2 hours for the purpose of making a declaration of financial capacity in accordance with section 42.
 
 ### 43 Offence of providing false or misleading information
-Every person is liable on summary conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information in a declaration of financial capacity provided in accordance with section 42.
+Every person is liable on conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information in a declaration of financial capacity provided in accordance with section 42.
 
 ### Subpart 2 — Community-based sentences
 
@@ -1050,13 +1057,13 @@ If a probation officer is satisfied that the offender has a good record of compl
 (4) Any information obtained by electronic monitoring outside the curfew period must be destroyed as soon as practicable.
 
 ### 69G Offence to breach conditions of community detention
-An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who—
+An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who—
   (a) fails, without reasonable excuse, to comply with any condition of a sentence of community detention; or
   (b) fails, without reasonable excuse, to report when required to do so under section 78 or 80.
 
 ### 69H Offence to refuse entry to community detention curfew address
-(1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer, who has identified himself or herself, to enter into the curfew address if the offender is required to be at the address at the time that the probation officer seeks entry.
-(2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the curfew address for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the condition that the offender remain at the curfew address during the curfew period (whether or not the offender is required to be at the curfew address at the time).
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer, who has identified himself or herself, to enter into the curfew address if the offender is required to be at the address at the time that the probation officer seeks entry.
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the curfew address for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the condition that the offender remain at the curfew address during the curfew period (whether or not the offender is required to be at the curfew address at the time).
 (3) For the purposes of subsection (2), an authorised person is a person who—
   (a) is a probation officer and has identified himself or herself; or
   (b) accompanies a person described in paragraph (a); or
@@ -1105,17 +1112,17 @@ The fact that a person is serving a sentence of community detention does not, of
 **Offences related to community-based sentences**
 
 ### 70 Offences related to breach of conditions of supervision
-An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
+An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
   (a) fails, without reasonable excuse, to comply with any condition of a sentence of supervision; or
   (b) fails, without reasonable excuse, to report when required to do so under section 78 or section 80.
 
 ### 70A Offence to breach conditions of intensive supervision
-An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who—
+An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who—
   (a) fails, without reasonable excuse, to comply with any condition of a sentence of intensive supervision; or
   (b) fails, without reasonable excuse, to report when required to do so under section 78 or 80.
 
 ### 71 Offences relating to breach of sentence of community work
-(1) An offender who is sentenced to community work commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
+(1) An offender who is sentenced to community work commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
   (a) fails, without reasonable excuse, to report to a probation officer in accordance with section 59 or section 78 or section 80; or
   (b) fails, without reasonable excuse, to notify a probation officer of any new residential address in accordance with section 60; or
   (c) fails, without reasonable excuse, to—
@@ -1128,7 +1135,7 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
   (h) fails, without reasonable excuse, to obey any directions lawfully given regarding the manner in which his or her time must be spent while under the supervision of a probation officer under section 65; or
   (i) refuses to work, or fails to work in the manner reasonably required of the offender, or neglects or intentionally mismanages his or her work, while under the supervision of a probation officer under section 65; or
   (j) behaves in an offensive, threatening, insolent, insulting, disorderly, or indecent manner while under the supervision of a probation officer under section 65.
-(2) A person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who, without lawful justification or excuse, loiters about any community work centre or any place where persons sentenced to community work are placed, and refuses or neglects to depart after being warned by a constable or by a probation officer.
+(2) A person commits an offence, and is liable on conviction to a fine not exceeding $500, who, without lawful justification or excuse, loiters about any community work centre or any place where persons sentenced to community work are placed, and refuses or neglects to depart after being warned by a constable or by a probation officer.
 
 **Review of community-based sentences and cancellation of sentences of reparation**
 
@@ -1141,7 +1148,7 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
   (b) to a District Court presided over by a trial Judge, if the sentence was passed—
     (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
     (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
-    (ii) by a District Court Judge on conviction on indictment; or
+    (ii) by a District Court Judge on conviction following a jury trial; or
   (c) to a District Court presided over by any Judge, in any other case.
 (2) A copy of the application must, either before or as soon as practicable after the application is lodged in the office of the court, be served—
   (a) on the offender, if the offender is not the applicant; or
@@ -1153,12 +1160,10 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
 (2D) For the purposes of sections 280C to 280F of the Customs and Excise Act 1996 and sections 295 to 297 of the Immigration Act 2009, a warrant for the arrest of the offender issued under subsection (2B) is to be treated as a warrant for arrest that has been issued in respect of the non-payment of the whole, or of any part, of a fine.
 (3) If an application under section 54, 54K, 68, or 69I has been lodged in a court by a probation officer, a probation officer or a constable may, for the purpose of having the offender brought before the court dealing with the application, apply to a court for the issue of a warrant to arrest the offender.
 (4) No warrant issued under subsection (3) may be executed otherwise than by a constable.
-(5) If an offender is arrested under a warrant issued under subsection (3), sections 45 to 47 of the Summary Proceedings Act 1957, so far as they are applicable and with any necessary modifications, apply as if the application were an information.
+(5) If an offender is arrested under a warrant issued under subsection (3), sections 167 to 170, 206, and 385 of the Criminal Procedure Act 2011, so far as they are applicable and with any necessary modifications, apply as if the application were a charging document.
 
 ### 73 Appeal in respect of substituted sentence
-For the purposes of any appeal or application for leave to appeal,—
-  (a) a sentence substituted for a community-based sentence imposed on the conviction of the offender on indictment is deemed to be a sentence imposed on the conviction of the offender on indictment; and
-  (b) a sentence substituted for a community-based sentence imposed on the offender on the determination of an information in a District Court is deemed to be a sentence imposed on the determination of an information against the offender in a District Court.
+For the purposes of any appeal or application for leave to appeal, a sentence substituted for a community-based sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
 
 **Miscellaneous provisions**
 
@@ -1183,7 +1188,7 @@ For the purposes of any appeal or application for leave to appeal,—
 ### 75 Commencement of community-based sentences
 (1) A community-based sentence commences on the day on which it is imposed.
 (2) Subsection (1) applies—
-  (a) subject to sections 75A and 75B and to section 137 of the Summary Proceedings Act 1957; and
+  (a) subject to sections 75A and 75B and to sections 345 and 346 of the Criminal Procedure Act 2011; and
   (b) regardless of whether or not the sentence is imposed in substitution for another sentence.
 (2A) If the commencement date of a sentence of community work is deferred under section 57A, the sentence commences on the date specified in the order of the court.
 (3)
@@ -1402,7 +1407,7 @@ When an offender performs any service or does any work or attends any course or 
 
 ### 80J Appeal against order granting leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention
 (1) This section applies for the purposes of filing and determining any appeal against an order granting leave, or a refusal of the court to grant leave, under section 80I or 80K(7).
-(2) For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, an order under section 80I or 80K(7) is a sentence.
+(2) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under section 80I or 80K(7) is a sentence.
 
 ### 80K Application for cancellation of sentence of imprisonment and substitution of sentence of home detention
 (1) An offender who is subject to a short-term sentence of imprisonment and who has leave to apply for cancellation of a sentence of imprisonment and substitution of a sentence of home detention under section 80I may apply to the court at any time.
@@ -1424,9 +1429,7 @@ When an offender performs any service or does any work or attends any course or 
 (1) This section applies if a court orders—
   (a) cancellation of a sentence of home detention and substitution of another sentence under section 80F; or
   (b) cancellation of a sentence of imprisonment and substitution of a sentence of home detention under section 80K.
-(2) For the purposes of any appeal or application for leave to appeal against the substituted sentence,—
-  (a) a sentence substituted for a sentence imposed on the conviction of the offender on indictment is deemed to be a sentence imposed on the conviction of the offender on indictment; and
-  (b) a sentence substituted for a sentence imposed on the offender on the determination of an information in a District Court is deemed to be a sentence imposed on the determination of an information against the offender in a District Court.
+(2) For the purposes of any appeal or application for leave to appeal against the substituted sentence, a sentence substituted for a sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
 
 ### 80N Imposition of post-detention conditions on offender
 (1) A court that sentences an offender to a term of home detention of 6 months or less may impose the standard post-detention conditions and any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
@@ -1485,20 +1488,20 @@ The standard post-detention conditions of a sentence of home detention are the f
 (5) If an application is made under this section for the suspension, variation, or discharge of any condition, a probation officer may suspend the condition until the application has been heard and disposed of.
 
 ### 80S Offence to breach detention conditions
-An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who—
+An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who—
   (a) breaches, without reasonable excuse, any detention conditions of a sentence of home detention; or
   (b) fails to report when required to do so under section 80ZG.
 
 ### 80T Offence to refuse entry to home detention residence
-(1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer, who has identified himself or herself, to enter into the home detention residence if the offender is required to be at the residence at the time that the probation officer seeks entry.
-(2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the home detention residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the sentence of home detention (whether or not the offender is required to be at the home detention residence at the time).
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer, who has identified himself or herself, to enter into the home detention residence if the offender is required to be at the residence at the time that the probation officer seeks entry.
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the home detention residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the sentence of home detention (whether or not the offender is required to be at the home detention residence at the time).
 (3) For the purposes of subsection (2), an authorised person is a person who—
   (a) is a probation officer and has identified himself or herself; or
   (b) accompanies a person described in paragraph (a); or
   (c) is authorised in writing by a probation officer and has produced that written authority to an occupant of the residence.
 
 ### 80U Offence to breach post-detention conditions
-(1) An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who breaches, without reasonable excuse, any post-detention conditions imposed under section 80N or 80R.
+(1) An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who breaches, without reasonable excuse, any post-detention conditions imposed under section 80N or 80R.
 (2) In the case of a condition of the kind referred to in section 80P(2)(b) (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
 
 ### 80V Arrest without warrant for breach of detention or post-detention conditions
@@ -1642,6 +1645,10 @@ After considering a progress report, the Judge may order that the offender atten
 ### 81 Length of sentence of imprisonment
 If under any enactment an offender is liable to imprisonment for life or for any specified term, the court may, in accordance with this Act, impose imprisonment for the maximum term provided for the particular offence or any lesser term, unless a minimum term of imprisonment is expressly provided for.
 
+### 81B Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment
+(1) This section applies if a person is convicted by a District Court of an offence with a maximum penalty of life imprisonment, and the court has reason to believe that a sentence of life imprisonment may be appropriate.
+(2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of life imprisonment.
+
 ### 82 Pre-sentence detention must not be taken into account in determining length of sentence
 In determining the length of any sentence of imprisonment to be imposed, the court must not take into account any part of the period during which the offender was on pre-sentence detention as defined in section 91 of the Parole Act 2002.
 
@@ -1682,7 +1689,7 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
 (4) A minimum period of imprisonment imposed under this section must not exceed the lesser of—
   (a) two-thirds of the full term of the sentence; or
   (b) 10 years.
-(5) For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, an order under this section is a sentence.
+(5) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under this section is a sentence.
 
 **Additional consequences for repeated serious violent offending**
 
@@ -1766,7 +1773,7 @@ In this section and in sections 86B to 86I, unless the context otherwise require
 
 ### 86D Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment
 (1) Despite any other enactment,—
-  (a) a defendant who is committed for trial for a stage-3 offence must be committed to the High Court for that trial; and
+  (a) a proceeding against a defendant charged with a stage-3 offence must be transferred to the High Court when the proceeding is adjourned for trial or trial callover under section 57 of the Criminal Procedure Act 2011 or, as the case may be, in accordance with section 36 of that Act, and the proceeding from that point, including the trial, must be in the High Court; and
   (b) no court other than the High Court, or the Court of Appeal or the Supreme Court on an appeal, may sentence an offender for a stage-3 offence.
 (2) Despite any other enactment, if, on any occasion, an offender is convicted of 1 or more stage-3 offences other than murder, the High Court must sentence the offender to the maximum term of imprisonment prescribed for each offence.
 (3) When the court sentences the offender under subsection (2), the court must order that the offender serve the sentence without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to make the order.
@@ -1833,7 +1840,7 @@ In this section and in sections 86B to 86I, unless the context otherwise require
   (c) administer a first warning to the offender by taking the action described in section 86B(1).
 
 ### 86H Appeal against orders relating to imprisonment
-For the purposes of Part 13 of the Crimes Act 1961, an order under section 86D(3) or (4), or 86E(2)(b) or (4)(a), is a sentence.
+For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under section 86D(3) or (4), or 86E(2)(b) or (4)(a), is a sentence.
 
 ### 86I Sections 86B to 86E prevail over inconsistent provisions
 A provision contained in sections 86B to 86E that is inconsistent with another provision of this Act or the Parole Act 2002 prevails over the other provision, to the extent of the inconsistency.
@@ -1872,11 +1879,11 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
   (a) the minimum period of imprisonment required to reflect the gravity of the offence; or
   (b) the minimum period of imprisonment required for the purposes of the safety of the community in the light of the offender's age and the risk posed by the offender to that safety at the time of sentencing.
 (2A) In any case where a sentence of preventive detention is imposed for a stage-3 offence (within the meaning of section 86A), subsections (1) and (2) are subject to section 86D(7).
-(3) For the purposes of Part 13 of the Crimes Act 1961, an order under subsection (1) is a sentence.
+(3) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under subsection (1) is a sentence.
 
 ### 90 Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention
 (1) This section applies if a person is convicted by a District Court of a qualifying sexual or violent offence, and the court has reason to believe, from a report of a probation officer or otherwise, that a sentence of preventive detention may be appropriate.
-(2) Section 44 of the Summary Proceedings Act 1957 or (as the case may require) section 28G of the District Courts Act 1947 applies, and the court must endorse on the information a statement to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of preventive detention.
+(2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of preventive detention.
 
 **Warrant of commitment for sentence of imprisonment**
 
@@ -1953,7 +1960,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 (3) Section 94 applies with any necessary modifications to an application made under this section.
 
 ### 96 Offence to breach conditions
-(1) Every offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any conditions imposed under section 93 or section 94.
+(1) Every offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any conditions imposed under section 93 or section 94.
 (2) In the case of a condition of a kind referred to in section 93(4) (which involves prescription medication) an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
 
 **Home detention**
@@ -2032,7 +2039,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 (2) This section does not apply to an offender in respect of whom an order under section 86E(2)(b) or (4)(a) or 103(2A) is made.
 
 ### 105 Appeal against imposition of minimum period of imprisonment
-For the purposes of Part 13 of the Crimes Act 1961, an order under section 103 is a sentence.
+For the purposes of Part 6 of the Criminal Procedure Act 2011, an order under section 103 is a sentence.
 
 ### Subpart 4A — Offender levy and victims' services bank account
 
@@ -2151,7 +2158,7 @@ The court must not convict and discharge an offender unless it is satisfied that
   (a) issue a summons in the prescribed form requiring the offender to appear at the time and place appointed in the summons to show cause why he or she should not be dealt with for the original offence; or
   (b) if the offender fails to appear before the court in answer to the summons issued under paragraph (a), issue a warrant to arrest the offender and bring him or her before the court; or
   (c) issue an arrest warrant without first issuing a summons.
-(4) If an application is made under subsection (2), sections 45 to 47 of the Summary Proceedings Act 1957 apply, with any necessary modifications, as if the application were an information.
+(4) If an application is made under subsection (2), sections 167 to 170, 206, and 385 of the Criminal Procedure Act 2011 apply, with any necessary modifications, as if the application were a charging document.
 (5) If a person appears before a court under this section and the court is satisfied of any of the matters specified in subsection (1), the court—
   (a) must inquire into the circumstances of the original offence and the conduct of the offender since the order was made (including, where appropriate, the circumstances and gravity of the subsequent offence); and
   (b) may sentence or otherwise deal with the offender for the original offence.
@@ -2185,7 +2192,7 @@ The court must not convict and discharge an offender unless it is satisfied that
   (b) the constable in charge of the Police station nearest to the court in which the order was made.
 
 ### 116 Right of appeal against non-association order
-For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, a non-association order is a sentence.
+For the purposes of Part 6 of the Criminal Procedure Act 2011, a non-association order is a sentence.
 
 ### 117 Commencement of period of non-association
 (1) Except as provided in subsection (2), the period of non-association specified by a non-association order commences on the day on which the order is made.
@@ -2193,7 +2200,7 @@ For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of th
 
 ### 118 Breach of non-association order constitutes offence
 (1) An offender who is subject to a non-association order commits an offence who, without reasonable excuse, associates with any person in contravention of the order.
-(2) A person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000.
 
 ### 119 Effect of subsequent sentences on non-association order
 If an offender who is subject to a non-association order (whether or not it is cumulative on a sentence of imprisonment and whether or not the period of non-association has commenced) is subsequently sentenced for another offence, the following provisions apply:
@@ -2535,11 +2542,11 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (1) This section applies in any case where a motor vehicle—
   (a) is subject to an order under any of sections 128(3), 129(3), 129A(3), and 136(4); but
   (b) has not yet been surrendered to, or seized by, a Registrar, bailiff, or constable.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who sells or disposes of the motor vehicle or any part of the motor vehicle.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who sells or disposes of the motor vehicle or any part of the motor vehicle.
 
 ### 133 Offence to remove confiscated vehicle
 (1) A person commits an offence who removes or attempts to remove any motor vehicle surrendered to or seized by any bailiff or constable under section 132 from the custody of that bailiff or constable, or from the custody of the Registrar of the court, without the approval of the Registrar.
-(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200.
 
 ### 134 Defect in warrant does not make action unlawful
 (1) No confiscation made under the authority of section 132 is unlawful, and no person making a confiscation under the authority of section 132 is a trespasser, because of any defect or want of form in the warrant of confiscation.
@@ -2555,7 +2562,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (a) a court makes an order for the confiscation of a motor vehicle under any of sections 128, 129, and 129A; or
   (b) a court has made an order under section 131(2)(a) prohibiting an offender from acquiring a motor vehicle for 12 months.
 (2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
-(3) A person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
+(3) A person commits an offence and is liable on conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
 (4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated and, where this section applies because of an order under section 129A, may also order that the motor vehicle be destroyed.
 (5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), sections 129EA, 130, 131 to 135, this section, and sections 136A to 142 apply accordingly.
 
@@ -2620,7 +2627,7 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
   (a) if the motor vehicle has been impounded under the Land Transport Act 1998, any impoundment costs; and
   (b) the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale).
 (3) Subsection (1) applies regardless of whether the offender owned or had an interest in the motor vehicle.
-(4) Part 3 (except section 84) of the Summary Proceedings Act 1957 (or, if applicable, section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
+(4) Part 3 (except section 84) of the Summary Proceedings Act 1957 (or, if applicable, section 19 of the Crimes Act 1961) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
 (5) A certificate issued by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified.
 
 ### 139 Procedure if notice given that vehicle subject to security agreement
@@ -2818,7 +2825,7 @@ For the purpose of determining the nature and extent of any person’s interest 
 (5) If a court makes an instrument forfeiture order, the court may give any directions that are necessary or convenient for giving effect to the order.
 
 ### 142O Offence of providing false or misleading information under section 142F
-Every person is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information to a court in response to a direction under section 142F.
+Every person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information to a court in response to a direction under section 142F.
 
 ### 142P Evidence in instrument forfeiture order proceedings
 In determining whether or not to make an instrument forfeiture order under section 142N as a result of a person’s conviction, the court may take into account evidence given in the proceedings taken against that person for the offence, including, without limitation,—
@@ -2843,12 +2850,15 @@ Nothing in sections 142A to 142P affects sections 127 to 142.
   (b) to a District Court presided over by a trial Judge, if the sentence was passed—
     (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
     (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
-    (ii) by a District Court Judge upon conviction on indictment; or
+    (ii) by a District Court Judge upon conviction following a jury trial; or
   (c) to a District Court presided over by any Judge, in any other case.
 (4) The Judge to whom the application is made, after inquiry into the circumstances of the case, may impose in substitution for the original sentence any sentence that could have been imposed on the offender at the time of conviction.
 (5) For the purposes of an appeal or application for leave to appeal against the substituted sentence,—
   (a) the substituted sentence is deemed to be a sentence passed on the conviction of the offender; but
   (b) the time allowed for giving notice of the appeal or application runs from the date on which the substituted sentence was in fact imposed.
+
+### 143A Sentencing following finding or verdict of guilt on more than 1 charge
+If 1 sentence is imposed following a finding of guilt or verdict of guilty on more than 1 charge, the sentence is lawful if any of those charges would have justified the sentence.
 
 ### 144 Royal prerogative not affected
 Nothing in this Act limits or affects the Royal prerogative of mercy.
@@ -2891,7 +2901,7 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
 
 ### 146A A certificate of conviction for succession purposes
 (1) On or at any time after sentencing a person for an offence against any Act of unlawfully killing another person or child that has not become a person, a court may certify that for the purposes of the Succession (Homicide) Act 2007 the person convicted is guilty of homicide of that other person or child that has not become a person.
-(2) A court may issue a certificate under this section on the application of the informant, any interested person, or on its own initiative.
+(2) A court may issue a certificate under this section on the application of the prosecutor, any interested person, or on its own initiative.
 
 ### 147 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -2918,25 +2928,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) must not impose a greater number of hours or a longer sentence than it would have imposed had it sentenced the offender immediately before the commencement date.
 
 ### 150 Community-based sentences imposed under Criminal Justice Act 1985
-(1) This section applies to an offender who, immediately before the commencement date, was subject to a community-based sentence imposed under the Criminal Justice Act 1985.
-(2) Except as provided in section 151 and subsection (3),—
-  (a) the offender must continue to serve that sentence as if this Act had not been passed; and
-  (b) the provisions of the Criminal Justice Act 1985 and any other enactment applicable to community-based sentences (including the provisions prescribing offences for the breach of those sentences) apply as if they had not been amended or repealed by this Act, subject to the following modifications:
-    (i) every reference to a warden must be read as a reference to a probation officer; and
-    (ii) every reference to a periodic detention centre must be read as a reference to a community work centre; and
-    (iii) every reference to a Manager Community Corrections must be read as a reference to a controlling officer of a probation area.
-(3) If the offender is subsequently sentenced to imprisonment for another offence, sections 78 and 79 apply.
+[Repealed]
 
 ### 151 Offender subject to community-based sentence under Criminal Justice Act 1985 sentenced to further community-based sentence after commencement date
-(1) This section applies if—
-  (a) an offender was, immediately before the commencement date, subject to a community-based sentence imposed under the Criminal Justice Act 1985 (the old sentence); and
-  (b) on or after the commencement date the court wishes to impose a community-based sentence on the offender—
-    (i) for another offence (the subsequent offence); or
-    (ii) in substitution for the old sentence; or
-    (iii) to replace a suspended sentence of imprisonment as provided for in section 155.
-(2) The court must cancel the old sentence and impose a community-based sentence or sentences under subpart 2 that takes into account,—
-  (a) if subsection (1)(b)(i) applies, the subsequent offence:
-  (b) if subsection (1)(b)(i) or (ii) or (iii) applies, the portion of the old sentence that remains unserved at the time of sentencing.
+[Repealed]
 
 ### 152 Section 86 not to apply to offender convicted of offence committed before commencement date except for serious violent offender
 (1) Except as provided in subsection (2), nothing in section 86 applies to an offender who is sentenced on or after the commencement date for an offence committed before that date.
