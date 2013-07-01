@@ -1,5 +1,5 @@
 # New Zealand Film Commission Act 1978
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish the New Zealand Film Commission, and to define its functions, powers, and duties
 
@@ -105,7 +105,7 @@ In this Act, unless the context otherwise requires,—
     (iii) the persons who have or are to have the copyright in the film:
   (d) the sources from which the money that was used or is to be used to make the film was or is to be derived:
   (e) the ownership and whereabouts of the equipment and technical facilities that were or are to be used to make the film:
-  (f) any other matters that in the opinion of the Commission are relevant to the purposes of this Act.
+  (f) any other matters that, in the opinion of the Commission, are relevant to the purposes of this Act.
 (2A) A film shall be deemed to have a significant New Zealand content if it is made pursuant to an agreement or arrangement entered into in respect of the film between—
   (a) the Government of New Zealand or the Commission; and
   (b) the Government of another country or relevant public authority of another country.
@@ -162,7 +162,7 @@ Any local authority within the meaning of the Local Government Act 2002, public 
 ### 28 Unauthorised expenditure
 [Repealed]
 
-### 29 Commission to be a charity for certain purposes
+### 29 Commission to be charity for certain purposes
 For the purposes of the Inland Revenue Acts (as defined in section 3 of the Tax Administration Act 1994), and for the purposes of the Gambling Act 2003, the Commission is hereby declared to have been established exclusively for charitable purposes in New Zealand.
 
 ### 30 Crown entity
@@ -186,7 +186,7 @@ For the purposes of the Inland Revenue Acts (as defined in section 3 of the Tax 
 (2) No person other than the Commission shall, by himself or with any other person or persons,—
   (a) trade or carry on business under the name New Zealand Film Commission; or
   (b) trade or carry on business under any other name, knowing that the name so resembles the name of the Commission as to be likely to mislead any person.
-(3) Any person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(3) Any person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $200.
 (4) In any criminal proceedings in which a person is charged with having contravened subsection (2), it shall be a defence to the charge if he proves that, either by himself or with any other person or persons, he has carried on business continuously under the name to which the charge relates since any date before 23 August 1978.
 
 ### 35 Application of other enactments
