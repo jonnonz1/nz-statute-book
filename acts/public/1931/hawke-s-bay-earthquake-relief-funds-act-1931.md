@@ -1,5 +1,5 @@
 # Hawke's Bay Earthquake Relief Funds Act 1931
-_Consolidation as at 1931-11-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the administration and control of funds raised wholly or partly by private subscription for the benefit of persons injuriously affected by the Hawke's Bay earthquake
 
@@ -37,7 +37,7 @@ The Committee shall at the request in writing of the trustees of any Earthquake 
 
 ### 7 Minister may direct transfer of funds to Committee
 (1) The Minister may direct the trustees of any Earthquake Relief Fund to transfer such fund and the administration thereof to the Committee.
-(2) Any person who refuses or fails to comply with such direction within the time limited thereby or within such extended time as the Minister may allow shall be liable on summary conviction to a fine not exceeding 100 pounds.
+(2) Any person who refuses or fails to comply with such direction within the time limited thereby or within such extended time as the Minister may allow shall be liable on conviction to a fine not exceeding 100 pounds.
 (3) The transfer of any such fund as aforesaid shall not operate to exempt any trustee from liability under this Act or otherwise for any breach of trust, or other unlawful act, whether of commission or omission, for which he was legally responsible before such transfer.
 
 ### 8 Funds so transferred to be paid to Public Trustee
@@ -68,7 +68,7 @@ In addition to the particulars required to be supplied pursuant to the last prec
   (e) such other matters as the Minister may from time to time require.
 
 ### 12 Penalties for failure to furnish particulars or for furnishing false particulars
-Any person, being required to furnish particulars pursuant to section 10 or section 11, who wilfully fails to furnish such particulars, or who wilfully furnishes any statement that is to his knowledge false in any material particular, shall be liable on summary conviction before a Magistrate to a fine of not less than 5 pounds and not exceeding 100 pounds, and to a further fine not exceeding 5 pounds for every day during which the failure to supply correct particulars continues.
+Any person, being required to furnish particulars pursuant to section 10 or section 11, who wilfully fails to furnish such particulars, or who wilfully furnishes any statement that is to his knowledge false in any material particular, shall be liable on conviction before a Magistrate to a fine of not less than 5 pounds and not exceeding 100 pounds, and to a further fine not exceeding 5 pounds for every day during which the failure to supply correct particulars continues.
 
 ### 13 Expenditure of funds
 (1) No moneys shall be paid out of an Earthquake Relief Fund, except—
