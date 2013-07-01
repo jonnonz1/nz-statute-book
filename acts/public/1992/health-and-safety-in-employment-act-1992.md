@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -30,11 +30,11 @@ _Consolidation as at 2011-07-01_
     (b) includes, in relation to any person employed by the chief executive or other employee of a Crown organisation to do any work for the Crown organisation for hire or reward, that Crown organisation
   - **enforcement action** means,—
     (a) in relation to an inspector,—
-      (i) the laying of an information under this Act; or
+      (i) the filing of a charging document under this Act; or
       (ii) the issuing of an infringement notice under this Act; or
       (iii) the making of an application for a compliance order; and
     (b) in relation to a person other than an inspector,—
-      (i) the laying of an information under this Act; or
+      (i) the filing of a charging document under this Act; or
       (ii) the making of an application for a compliance order
   - **facility** includes amenity and equipment
   - **fail** includes refuse; and includes refusal
@@ -890,11 +890,11 @@ No person shall without reasonable cause—any inspector while the inspector is 
 (4) A person charged with an offence under this section may be convicted of an offence against section 50 as if the person had been charged under that section.
 
 ### 50 Other offences
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $250,000, who fails to comply with the requirements of—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250,000, who fails to comply with the requirements of—
   (a) a provision of Part 2 other than section 16(3); or
   (b) section 19B, section 25, section 26, section 37(2), section 39(5), section 42(1), section 43, section 47, section 48, section 56I(2), section 58, or clause 6 of Schedule 1A; or
   (c) a provision of any regulations made under this Act, or continued in force by section 24, declared by the regulations to be a provision to which this section applies.
-(2) Every person who fails to comply with section 16(3) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who fails to comply with section 16(3) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
 ### 51 Actions taken to prevent harm
 Notwithstanding sections 49 and 50, where any employee harms any person by taking any action necessary for the protection of that person or any other person from harm,—
@@ -930,63 +930,63 @@ In a matter involving an infringement notice or in a prosecution for an offence 
   (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
 (3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
 
-### 54A Laying information
-(1) An inspector may lay an information in respect of an offence under this Act unless an infringement notice has been issued to the same defendant in respect of the same matter.
-(2) A person other than an inspector may lay an information in respect of an offence under this Act only if—
+### 54A Filing charging document
+(1) An inspector may file a charging document in respect of an offence under this Act unless an infringement notice has been issued to the same defendant in respect of the same matter.
+(2) A person other than an inspector may file a charging document in respect of an offence under this Act only if—
   (a) an inspector or another person has not taken enforcement action against any possible defendant in respect of the same matter; and
   (b) an enforcement authority has not taken prosecution action under any other Act against any possible defendant in respect of the same incident, situation, or set of circumstances; and
   (c) any person has received notification from the Secretary under section 54(2) that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
-(3) Despite subsection (2)(b), a person may lay an information even though an enforcement authority has taken prosecution action if—
-  (a) the person has leave of the court to lay the information; and
+(3) Despite subsection (2)(b), a person may file a charging document even though an enforcement authority has taken prosecution action if—
+  (a) the person has leave of the court to file the charging document; and
   (b) subsection (2)(a) and (c) is complied with.
 
-### 54B Time limit for laying information
-(1) An information in respect of an offence against this Act may be laid at any time within 6 months after the earlier of—
+### 54B Time limit for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the earlier of—
   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an inspector; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an inspector.
 (2) This section is subject to sections 54C and 54D.
 
-### 54C Extension of time for person other than inspector to lay information
+### 54C Extension of time for person other than inspector to file charging document
 (1) This section applies if—
   (a) an inspector or another person has not taken enforcement action in respect of a matter; and
   (b) the Secretary has notified relevant persons under section 54(2)(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
-(2) On application, the District Court may extend the time for a person other than an inspector to lay an information.
+(2) On application, the District Court may extend the time for a person other than an inspector to file a charging document.
 (3) An application under subsection (2) must be made within 1 month after receiving notice from the Secretary under subsection (1)(b).
 (4) The court must not grant an extension of time unless it is satisfied—
-  (a) that another person wishes to decide whether to lay an information in respect of that matter; and
+  (a) that another person wishes to decide whether to file a charging document in respect of that matter; and
   (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in section 54B expires; and
   (c) an application under section 54D has not been made.
 (5) The court must give the following persons an opportunity to be heard:
   (a) the person seeking the extension:
   (b) any proposed defendant:
-  (c) any other person who has an interest in whether or not an information should be laid, being a person described in section 54(1).
+  (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in section 54(1).
 
-### 54D Extension of time if inspector needs longer to decide whether to lay information
-(1) This section applies if an inspector considers that he or she will not be able to lay an information by the end of the 6-month period referred to in section 54B.
-(2) On application, the District Court may extend the time for laying an information.
+### 54D Extension of time if inspector needs longer to decide whether to file charging document
+(1) This section applies if an inspector considers that he or she will not be able to file a charging document by the end of the 6-month period referred to in section 54B.
+(2) On application, the District Court may extend the time for filing a charging document.
 (3) An application under subsection (2) must be made within the 6-month period.
 (4) The court must not grant an extension unless it is satisfied that—
-  (a) an inspector reasonably requires longer than the 6-month period to decide whether to lay an information; and
+  (a) an inspector reasonably requires longer than the 6-month period to decide whether to file a charging document; and
   (b) the reason for requiring the longer period is that the investigation of the events and issues surrounding the alleged offence is complex or time consuming; and
-  (c) it is in the public interest in the circumstances that an information is able to be laid after the 6-month period expires; and
-  (d) laying the information after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
+  (c) it is in the public interest in the circumstances that a charging document is able to be filed after the 6-month period expires; and
+  (d) filing the charging document after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
 (5) The court must give the following persons an opportunity to be heard:
   (a) the person seeking the extension:
   (b) the proposed defendant:
-  (c) any other person who has an interest in whether or not an information should be laid, being a person described in section 54(1).
+  (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in section 54(1).
 
 ### 54E Continuing or repeated matters
 Nothing in this Act prevents the taking of enforcement action by an inspector or another person in respect of a matter, despite enforcement action having been taken in respect of the matter, if the matter is continuing or repeated.
 
 ### 55 Other provisions relating to offences
-(1) An information laid by an inspector in respect of any offence against this Act may be proceeded with and conducted by the informant, any other inspector, or any other person permitted by the court to proceed with and conduct it.
+(1) A proceeding commenced by an inspector in respect of any offence against this Act may be proceeded with and conducted by that inspector, any other inspector, or any other person permitted by the court to proceed with and conduct it.
 (2) For the purposes of subsection (1), no person shall be called on to prove that—
   (a) the person is an inspector; or
-  (b) an information was laid by an inspector.
-(3) In any proceedings for an offence against this Act in respect of a duty imposed by this Act on employers or persons who control places of work, it is enough to state the name or title under which a person who or that is ostensibly an employer or such a person is usually known or appears to carry on business; and the court may from time to time amend the indictment or information as to the actual name of the defendant.
+  (b) proceedings were commenced by an inspector.
+(3) In any proceedings for an offence against this Act in respect of a duty imposed by this Act on employers or persons who control places of work, it is enough to state the name or title under which a person who or that is ostensibly an employer or such a person is usually known or appears to carry on business; and the court may from time to time amend the charge as to the actual name of the defendant.
 (3A) Subsection (3) is subject to section 3(2).
 (4) In addition to any penalty imposed, a court may require a person convicted of an offence against this Act to remedy any matter in respect of which the person was convicted.
-(5) An inspector may lay an information for an offence against the Department of Labour, or any other agency designated under section 28B to administer this Act, only with the authority of the Solicitor-General.
+(5) An inspector may file a charging document for an offence against the Department of Labour, or any other agency designated under section 28B to administer this Act, only with the authority of the Solicitor-General.
 (6) If the Solicitor-General gives authority under subsection (5), the inspector must be represented in the proceedings by the Crown Solicitor.
 
 ### 56 Offences by bodies corporate or Crown organisations
@@ -1044,7 +1044,7 @@ A person has had prior warning of an infringement offence if the person has been
 (2) An infringement notice may be served on a person—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post, addressed to the person at the person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice must be treated as having been served on the person on the date it was posted.
 (4) An infringement notice must be in the prescribed form and must contain—
   (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
