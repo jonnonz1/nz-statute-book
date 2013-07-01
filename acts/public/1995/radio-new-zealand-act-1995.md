@@ -1,5 +1,5 @@
 # Radio New Zealand Act 1995
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to facilitate the restructuring of Radio New Zealand Limited
 
@@ -130,7 +130,7 @@ This Act binds the Crown.
 (2) No person other than the public radio company shall, either alone or with any other person or persons,—
   (a) trade or carry on business, or provide radio news services, under the name Radio New Zealand News without the prior consent of the public radio company; or
   (b) trade or carry on business, or provide radio news services, under any other name, knowing that the name so resembles the name Radio New Zealand News as to be likely to mislead any person.
-(3) Every person who contravenes subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $2,500.
+(3) Every person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $2,500.
 
 **Provisions relating to separation**
 
