@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -358,7 +358,7 @@ Every racing club must, when holding a race or race meeting, comply with the rel
 ### 35 Consequences of breaching rule made under section 34
 (1) Every person who commits a breach of any rule made under section 34 may be removed from the racecourse by any member, officer, agent, or employee of the racing club or of the racing code with which the racing club is registered, or by any constable.
 (2) Every person who commits a breach of any rule made under section 34 also commits an offence.
-(3) Every person who commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $1,000.
 
 **Racing judicial system**
 
@@ -453,7 +453,7 @@ A betting licence must not be issued for races on Easter Sunday, Christmas Day, 
   (a) wilfully hinders or attempts to hinder a government inspector entering, in the execution of his or her duty, any racecourse or premises of the Board; or
   (b) wilfully refuses, except on the grounds of self-incrimination, to comply with the requirement to provide information that a government inspector has lawfully demanded from him or her under section 48(2)(a); or
   (c) otherwise wilfully hinders or attempts to hinder a government inspector in the execution of any power or duty.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
 ## Part 6 — Betting
 
@@ -468,7 +468,7 @@ The Board may conduct, either by itself or by means of racing clubs or other age
 (2) A racing club may deduct from the bets made by way of equalisator betting, after first making any refunds of bets, an amount not exceeding 15% as commission for the club.
 (3) Except as provided in rules made under section 52 stating the denomination to which dividends are to be rounded and paid out, a racing club must declare and pay out as dividends all money received by way of equalisator betting, after deducting all refunds of bets and the commission authorised by subsection (2).
 (4) Every racing club, or member, officer, agent, or employee of a racing club commits an offence who knowingly makes, authorises, or permits any payment from money received by way of equalisator betting except in accordance with subsections (2) or (3).
-(5) Every person who commits an offence against subsection (4) is liable on summary conviction,—
+(5) Every person who commits an offence against subsection (4) is liable on conviction,—
   (a) in the case of a racing club, to a fine not exceeding $3,000:
   (b) in the case of a member, officer, agent, or employee of a racing club, to a fine not exceeding $1,500.
 
@@ -569,7 +569,7 @@ The Board is authorised to amalgamate the amount available for an event or event
   (c) offers or provides credit to any person if he or she knows, or ought to know, that the credit is intended to be used to make a bet.
 (3) It is a defence to a charge under subsection (2)(a) or (b) if the defendant proves that he or she had reasonable grounds to believe the person to whom the charge relates was 18 years or over.
 (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 18 years or over.
-(5) Every person who commits an offence against this section is liable on summary conviction to,—
+(5) Every person who commits an offence against this section is liable on conviction to,—
   (a) in the case of an offence against subsection (1)(a), a fine not exceeding $500:
   (b) in the case of an offence against subsection (1)(b), a fine not exceeding $1,000:
   (c) in the case of an offence against subsection (2)(a) or (b), a fine not exceeding $5,000:
@@ -581,7 +581,7 @@ The Board is authorised to amalgamate the amount available for an event or event
 ### 63A Power to require particulars
 (1) If any constable, or any member, officer, agent or employee of a racing club, or of the Board, or of an agent of the Board (as the case may be) has reasonable grounds to believe that a person has committed, is committing, or is attempting to commit an offence under section 63(1)(a), he or she may demand from that person an evidence of age document verifying his or her age.
 (2) Every person commits an offence who, being required under subsection (1) to give information regarding his or her age, fails to give that information, or supplies any false information relating to his or her age.
-(3) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $500.
+(3) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $500.
 
 ### 64 Betting contracts enforceable
 Betting contracts authorised by or under this Act are enforceable at law.
