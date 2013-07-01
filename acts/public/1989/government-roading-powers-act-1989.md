@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -375,11 +375,11 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
 (3) Any person dissatisfied with the requirements of any such notice may, within 10 working days after receiving it, appeal against the requirements to a District Court.
 (4) Every person so appealing, and the Agency or Minister, either personally or by their counsel, shall be entitled to be present and to be heard at the hearing of the appeal.
 (5) On hearing the appeal the court may confirm, cancel, or vary the notice as it thinks fit.
-(6) Any person who fails to comply with the requirements of a notice given under this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(6) Any person who fails to comply with the requirements of a notice given under this section commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### 51 Penalties for damage to roads, bridges, etc
 (1) In this section the expression road means a State highway or a road under the control of the Minister; and includes any work or thing in, on, over, or under a road.
-(2) Every person commits an offence who, without the written permission of the Agency (in the case of a State highway) or of the Minister (in the case of a road under the Minister's control),—and is liable on summary conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for each day or part of a day during which the offence is continued.
+(2) Every person commits an offence who, without the written permission of the Agency (in the case of a State highway) or of the Minister (in the case of a road under the Minister's control),—and is liable on conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for each day or part of a day during which the offence is continued.
   (a) encroaches on a road by making or erecting any building, fence, pole, ditch, or other obstacle or work of any kind upon, over, or under the road, or by planting any tree or shrub on it; or
   (b) places or leaves on a road any machinery, timber, stones, earth, or other material; or
   (c) digs up, removes, or alters in any way the soil or surface of a road; or
@@ -394,7 +394,7 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
   (l) causes or negligently allows any foundation, retaining structure, wall, or fence erected on any land, or any earth batter or slope, or any building, erection, material or thing, to give way or fall so as to damage or obstruct a road; or
   (m) does or causes or permits to be done any act whatever by which any damage or obstruction is caused to a road,—
 (3) Every person who commits an offence against this section may, in addition to any penalty for the offence, be ordered by the court to pay the cost incurred by the Agency or the Minister in removing any such encroachment, obstruction, hazard, disfigurement, or matter, or in repairing any such damage.
-(4) A fine shall not be imposed, and an order for payment of costs incurred shall not be made, under this section unless the information or complaint is laid—
+(4) A fine shall not be imposed, and an order for payment of costs incurred shall not be made, under this section unless the charging document is filed—
   (a) by authority of the Agency or of the Minister or of the Commissioner; or
   (b) by an officer of the Agency or an employee of the Ministry or a traffic officer or a constable.
 (5) Any permission under this section may be given subject to such conditions and payment of rent as the Agency or Minister thinks fit, and unless otherwise agreed may be revoked without compensation on not less than 3 months' notice in writing.
@@ -466,12 +466,12 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
 (4) A copy of any such application shall be served on the responsible authority either before or immediately after it is lodged with the court.
 (5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the application to the applicant and the responsible authority, and they shall be entitled to be present and to be heard, either personally or by their counsel or by an officer of the responsible authority.
 (6) On hearing the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(7) Every person on whom a notice has been served under this section commits an offence against this Act if the person fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on summary conviction to a fine not exceeding $500; and the responsible authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
+(7) Every person on whom a notice has been served under this section commits an offence against this Act if the person fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on conviction to a fine not exceeding $500; and the responsible authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
   (a) the expiry of the time in which application may be made to a court, if the person has not exercised that right; or
   (b) the date of the court's order, if an application to set aside the notice has been made and it has not been set aside; or
   (c) the date on which any application to the court has been withdrawn by the applicant—
 (8) All costs and expenses incurred by a responsible authority in carrying out any work under subsection (7) may be recovered from the person who failed to comply with the requirement as a debt due to the responsible authority.
-(9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the laying of an information for an offence under that subsection.
+(9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the filing of a charging document for an offence under that subsection.
 
 ### 56 Service of notice
 (1) If, under the provisions of section 55, a requirement is made by a responsible authority, the requirement shall be by notice in writing signed by any person appointed either generally or specially by the responsible authority for the purpose of giving such notices and shall be served in accordance with section 4 of the Public Works Act 1981.
@@ -741,7 +741,7 @@ A person may operate any vehicle or combination of vehicles on a motorway if—
 The engineer in charge of the construction or maintenance of any motorway shall be deemed to be the occupier of it for the purposes of the Impounding Act 1955; and any act, matter, or thing permitted or required under that Act to be performed or done by the occupier of land as defined in that Act may be performed or done in respect of any such motorway by that engineer or by any person authorised generally or particularly by that engineer for that purpose.
 
 ### 87 Offences and penalties
-(1) Every person commits an offence who—and is liable on summary conviction to a fine not exceeding $500.
+(1) Every person commits an offence who—and is liable on conviction to a fine not exceeding $500.
   (a) acts in contravention of or fails to comply in any respect with any provision of section 82; or
   (b) acts in contravention of or fails to comply in any respect with any provision of section 83; or
   (c) fails to comply with any condition specified in any authorisation granted under section 84; or
@@ -831,7 +831,7 @@ The following provisions shall apply in respect of the declaration under section
 (2) If any limited access road which is not a State highway becomes a State highway, it shall thereupon be deemed to be a limited access road created under this Part and the administration of that road shall pass to the Agency.
 
 ### 97 Offences
-Every person commits an offence who—and is liable on summary conviction to a fine not exceeding $500.
+Every person commits an offence who—and is liable on conviction to a fine not exceeding $500.
   (a) acts in contravention of or fails to comply in any respect with any provision of section 92; or
   (b) fails to comply with any condition specified in any authorisation granted under section 91 or section 92; or
   (c) uses or makes any unauthorised crossing place on to a limited access road,—
