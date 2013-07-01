@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2013-05-14_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2853,7 +2853,7 @@ In recording its determination on any matter before it, the Authority, for the p
 The Authority is to have a seal, which is to be judicially noticed by all courts and for all purposes.
 
 ### 176 Protection of members of Authority, etc
-(1) A member of the Authority, in the performance of his or her duties under this Act, has and enjoys the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under Part 7 of the Summary Proceedings Act 1957.
+(1) A member of the Authority, in the performance of his or her duties under this Act, has and enjoys the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under sections 4B to 4F of the Justices of the Peace Act 1957.
 (2) For the avoidance of doubt as to the privileges and immunities of members of the Authority and of parties, representatives, and witnesses in the proceedings of the Authority, it is declared that such proceedings are judicial proceedings.
 
 ### 177 Referral of question of law
@@ -3218,7 +3218,7 @@ In determining an appeal under section 214 or section 218, the Court of Appeal m
 **Other appeals**
 
 ### 217 Appeal to Court of Appeal against conviction or order or sentence in respect of contempt of court
-Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the court) has been made under section 140(6) or section 196 of this Act or section 11A(7) of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on an information and sentenced by the High Court.
+Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the court) has been made under section 140(6) or section 196 of this Act or section 11A(7) of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on a charge and sentenced by the High Court.
 
 ### 218 Appeal to Court of Appeal in respect of order on application for review
 Any party to an application for review or other proceeding under section 194 who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 applies to any such appeal.
@@ -3996,7 +3996,7 @@ Any document relating to a matter before the Authority may be served out of New 
 (3) The power to issue a summons under this clause may be exercised by the Authority or a member of the Authority, or by any officer of the Authority purporting to act by the direction or with the authority of the Authority or a member of the Authority.
 
 ### 6 Witnesses' expenses
-(1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The Authority may disallow the whole or any part of any sum payable under subclause (1).
 (3) On each occasion on which the Authority issues a summons under clause 5, the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Authority or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
@@ -4011,7 +4011,7 @@ Any document relating to a matter before the Authority may be served out of New 
 
 ### 8 Power to take evidence on oath
 (1) The Authority may take evidence on oath and, for that purpose, any member of the Authority, or any other person acting under the express or implied direction of the Authority or a member of the Authority, may administer an oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 9 Party competent as witness
 Any party to a matter before the Authority is competent to give evidence in the matter and may be compelled to give evidence as a witness.
@@ -4101,7 +4101,7 @@ Any document relating to a matter before the court may be served out of New Zeal
 (4) The power to issue a summons under this section may be exercised by the court or a Judge, or by any officer of the court purporting to act by the direction or with the authority of the court or a Judge.
 
 ### 7 Witnesses' expenses
-(1) Every person attending the court on a summons, and every other person giving evidence before the court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending the court on a summons, and every other person giving evidence before the court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The court may disallow the whole or any part of any sum payable under subclause (1).
 (3) On each occasion on which the court issues a summons under clause 6, the court, or the person exercising the power of the court under subclause (4) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
@@ -4113,7 +4113,7 @@ Any document relating to a matter before the court may be served out of New Zeal
 
 ### 9 Power to take evidence on oath
 (1) The court may take evidence on oath, and for that purpose any Judge, or any other person acting under the express or implied direction of the court or a Judge, may administer an oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 10 Party competent as witness
 Any party to proceedings before the court is competent to give evidence in those proceedings and may be compelled to give evidence as a witness.
