@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to regulate the provision of postal services
 
@@ -69,7 +69,7 @@ This Act binds the Crown.
   (b) those words or, as the case requires, that abbreviation of those words form part of the name under which the postal operator is registered as a company; and
   (c) that company name of the postal operator appears in full on the stamp; and
   (d) the words “New Zealand” or, as the case requires, the abbreviation of those words appears on the stamp in the same typeface and point size as the company name appears.
-(3) Every person commits an offence against this Act and is liable to a fine of not more than $10,000 who issues any postage stamp in contravention of subsection (1).
+(3) Every person commits an offence against this Act and is liable on conviction to a fine of not more than $10,000 who issues any postage stamp in contravention of subsection (1).
 
 **Detention and examination of postal articles**
 
@@ -123,7 +123,7 @@ This Act binds the Crown.
   (a) the person convicted; and
   (b) any other person who, in the opinion of the court, would be directly affected by the making of the order—
 (3) If the court is satisfied that the postal article that was the subject of the prosecution should be restored to a person other than the person convicted, it may so direct.
-(4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by the Summary Proceedings Act 1957, and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
+(4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by subpart 4 of Part 6 of the Criminal Procedure Act 2011, and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
 
 ### 9 No action to lie
 No action lies against any person for any act done in good faith in pursuance or intended pursuance of section 7 or section 8 or of any order made in pursuance or intended pursuance of either of those sections.
@@ -168,7 +168,7 @@ No action lies against any person for any act done in good faith in pursuance or
   (b) evidence of that person's identity.
 
 ### 13 Offences
-Every postal operator commits an offence and is liable to a fine of not more than $10,000 who—
+Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who—
   (a) fails, without reasonable excuse, to properly keep records sufficient to satisfy the requirements of subsections (1) to (3) of section 12; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 12(4) or section 12(5).
 
@@ -221,7 +221,7 @@ Sections 16 and 17 do not apply to any postal article that must be dealt with in
 ### 20 Wrongful divulgence of information
 (1) Every person (being an officer, employee, or agent of a postal operator) commits an offence against this Act who, without reasonable excuse, divulges to any person any information from or as to the contents of a postal article that has come to the first-mentioned person's knowledge in the course of that person's duty.
 (2) Every person, other than an officer, employee, or agent of a postal operator acting in the course of that person's duty, commits an offence against this Act who, having examined the contents of a postal article not intended for that person, divulges without reasonable excuse to any person any information obtained by the first-mentioned person from or as to the contents of the postal article.
-(3) Every person who commits an offence against this section is liable to imprisonment for not more than 6 months or a fine of not more than $5,000.
+(3) Every person who commits an offence against this section is liable on conviction to imprisonment for not more than 6 months or a fine of not more than $5,000.
 
 ### 21 Posting of objectionable thing
 Every person commits an offence against this Act who, without reasonable excuse, posts or causes to be posted any postal article containing any noxious substance or thing, or any dead animal.
@@ -231,13 +231,13 @@ Every person commits an offence against this Act who, with the intention of offe
 
 ### 23 Unlawfully opening postal article
 (1) Every person commits an offence against this Act who wilfully and without reasonable excuse opens or causes to be opened any postal article that is not addressed to that person.
-(2) Every person who commits an offence against subsection (1) is liable to imprisonment for not more than 6 months or a fine of not more than $5,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for not more than 6 months or a fine of not more than $5,000.
 
 ### 24 Posting of dangerous enclosure
 (1) Every person commits an offence against this Act who posts, or causes to be posted,—
   (a) any postal article containing any explosive, dangerous, or destructive substance or fluid; or
   (b) any postal article containing any matter or thing capable, as packed, of causing injury to any person.
-(2) Every person who commits an offence against subsection (1) is liable to imprisonment for not more than 1 year or a fine of not more than $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for not more than 1 year or a fine of not more than $10,000.
 (3) Every person commits an offence against this Act who posts, or causes to be posted, any postal article containing any matter or thing capable, as packed, of causing damage to any postal article.
 (4) Nothing in subsection (1) or subsection (3) applies to any of the following things, when sent and packed in accordance with conditions prescribed by any enactment or by a postal operator:
   (a) poisons:
@@ -264,7 +264,7 @@ No person may commence or carry on business as a postal operator unless that per
 
 ### 28 Offence
 (1) Every person commits an offence who, not being registered as a postal operator under this Act, commences or carries on business as a postal operator.
-(2) Every person who commits an offence against this section is liable—
+(2) Every person who commits an offence against this section is liable on conviction—
   (a) to a fine of not more than $10,000; and
   (b) to a further fine of not more than $1,000 for every day or part of a day during which the offence continues.
 
@@ -293,7 +293,7 @@ No person may commence or carry on business as a postal operator unless that per
   (a) either orally or in writing, makes any declaration or representation that to that person's knowledge is false or misleading in a material particular; or
   (b) produces to the Secretary, or makes use of, any document knowing it to contain any such declaration or representation; or
   (c) produces to the Secretary, or makes use of, any document knowing that it is not genuine.
-(2) Every person who commits an offence against this section is liable to a fine of not more than $10,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000.
 
 **Register of postal operators**
 
@@ -317,7 +317,7 @@ No person may commence or carry on business as a postal operator unless that per
 (3) Every notification under subsection (1) or subsection (2) must—
   (a) be in writing; and
   (b) be accompanied by the prescribed fee (if any).
-(4) Every person commits an offence and is liable to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1) or subsection (2).
+(4) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1) or subsection (2).
 
 ### 34 Inspection of register
 (1) The Secretary must keep the register open for public inspection, during ordinary office hours, at—
@@ -355,7 +355,7 @@ A certificate purporting to be signed by the Secretary—is for all purposes suf
 ### 39 Postal operator to identify mail accepted by it
 (1) As soon as practicable after a postal operator accepts a postal article for the purpose of being conveyed by post, that postal operator must affix to, or impress or print on, that postal article the postal operator's postal identifier.
 (2) Subsection (1) does not apply if the postal operator's postal identifier is already affixed to, or impressed or printed on, the postal article.
-(3) Every postal operator commits an offence and is liable to a fine of not more than $10,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+(3) Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
 
 **Erection of public letterboxes**
 
@@ -371,7 +371,7 @@ A certificate purporting to be signed by the Secretary—is for all purposes suf
 (4) Where a person who is given a notice pursuant to subsection (1) fails to notify the postal operator of the conditions imposed pursuant to section 40(2) within the period referred to in subsection (3), no such conditions may be imposed, and the postal operator may commence work.
 
 ### 42 Offence
-(1) Every postal operator commits an offence and is liable to a fine of not more than $10,000 who fails to comply with section 40 or section 41.
+(1) Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who fails to comply with section 40 or section 41.
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make any order relating to compensation that it thinks fit.
 
 ### 43 Appeals in relation to conditions imposed
@@ -391,7 +391,7 @@ No person is entitled to compensation, and no liability is imposed on the Crown 
 
 ### 46 Postal operator must notify Secretary of intention to cease business
 (1) A postal operator that intends to cease to carry on business as a postal operator must notify the Secretary of that intention at least 1 month before ceasing to carry on that business.
-(2) Every person commits an offence and is liable to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
 
 ### 47 Obligations on postal operator ceasing business
 (1) If a person ceases to carry on business as a postal operator, that person must ensure that, as soon as practicable,—
@@ -400,7 +400,7 @@ No person is entitled to compensation, and no liability is imposed on the Crown 
     (i) that have been accepted by that person for the purpose of being conveyed by post; and
     (ii) that have not been delivered—
 (2) Every person commits an offence who fails, without reasonable excuse, to comply with any of the requirements of subsection (1).
-(3) Every person who commits an offence against this section is liable to a fine of not more than $10,000.
+(3) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000.
 
 **Designated postal operators**
 
@@ -477,18 +477,17 @@ The Minister may at any time—
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 60(b) or section 61; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 55(1) or section 55(2) or section 55(3).
 (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, accounts, or other information pursuant to section 55.
-(3) Every person who commits an offence against subsection (1) is liable to a fine of not more than $200,000 and, if the offence is a continuing one, to a further fine of not more than $10,000 for every day or part of a day during which the offence continues.
-(4) Every person who commits an offence against subsection (2) is liable to a fine of not more than $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine of not more than $200,000 and, if the offence is a continuing one, to a further fine of not more than $10,000 for every day or part of a day during which the offence continues.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine of not more than $20,000.
 
 ### 57 Penalty
-Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided in any other provision of this Act or in any regulations made under this Act is liable to a fine of not more than $5,000.
+Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided in any other provision of this Act or in any regulations made under this Act is liable on conviction to a fine of not more than $5,000.
 
 ### 58 Offences punishable on summary conviction
-Every offence against this Act or any regulations made under this Act is punishable on summary conviction.
+[Repealed]
 
 ### 59 Time for bringing prosecution extended
-(1) An information for an offence against this Act or any regulations made under this Act may be laid at any time within 12 months from the time when the matter of the information arose.
-(2) This section overrides section 14 of the Summary Proceedings Act 1957.
+[Repealed]
 
 **Regulations—General**
 
