@@ -1,5 +1,5 @@
 # Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010
-_Consolidation as at 2013-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010.
@@ -432,7 +432,7 @@ The Environment Court has no jurisdiction under this subpart and no person may m
 (2) The High Court Rules apply if a procedural matter is not provided for by or under those sections.
 
 ### 55 Appeal to Court of Appeal
-Section 144 of the Summary Proceedings Act 1957 applies to a decision of the High Court on an appeal under section 53 as if the decision had been made under section 107 of the Summary Proceedings Act 1957.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under section 53 as if the decision had been made under section 294 of that Act.
 
 **Making or declining to make WCO**
 
