@@ -1,5 +1,5 @@
 # Criminal Justice Amendment Act (No 2) 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the Criminal Justice Act 1985 to lower the threshold for imposing non-parole periods
 
