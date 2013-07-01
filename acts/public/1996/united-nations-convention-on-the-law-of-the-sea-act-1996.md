@@ -1,5 +1,5 @@
 # United Nations Convention on the Law of the Sea Act 1996
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to complete the implementation in the law of New Zealand of the United Nations Convention on the Law of the Sea
 
@@ -76,7 +76,7 @@ The purpose of this Part is to give effect in the law of New Zealand to provisio
 
 ### 8 Offence to carry out activities without licence
 (1) Every person who, pursuant to section 6, requires a licence to carry out any activity in the Area commits an offence if that person carries out any activity in the Area otherwise than pursuant to a licence and in accordance with the conditions of the licence.
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $200,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $200,000.
 (3) On convicting any person of an offence against this section, the court may, in addition to imposing a penalty under subsection (2), order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of that offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
 (4) For the purposes of subsection (3), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
 
@@ -106,8 +106,9 @@ The purpose of this Part is to give effect in the law of New Zealand to provisio
   (b) that he or she knew or could reasonably be expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 11 Limitation of proceedings
-(1) Subject to subsection (2), no person shall be charged with an offence against section 8 unless an information charging that person with that offence is laid within 6 months after the matter arose.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, the period of 6 months shall not run while the person charged is beyond the territorial limits of New Zealand.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence was committed.
+(2) The period of 6 months does not run while the person charged is beyond the territorial limits of New Zealand.
+(3) Subsection (1) is subject to subsection (2).
 
 ## Part 3 — Decisions of international courts or tribunals
 
