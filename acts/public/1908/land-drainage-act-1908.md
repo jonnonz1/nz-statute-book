@@ -1,28 +1,25 @@
 # Land Drainage Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the drainage of land
 
-### 1 Short Title, etc
+### 1 Short title, etc
 (1) The Short Title of this Act is the Land Drainage Act 1908.
-(2) This Act is a consolidation of the enactments mentioned in the Schedule hereto, and with respect to those enactments the following provisions shall apply:
-  (a) All districts, Boards, corporations, offices, appointments, bylaws, Orders in Council, orders, warrants, registers, contracts, rates, resolutions, notices, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
-    Provided that every such Board and corporation respectively shall be deemed to be the same Board and corporation respectively under this Act, without change of corporate entity or otherwise:
-    Provided also that in the case of members elected or appointed for a specified term the current term shall be computed from the date of its commencement:
+(2) This Act is a consolidation of the enactments mentioned in the Schedule, and with respect to those enactments the following provisions shall apply:
+  (a) all districts, Boards, corporations, offices, appointments, bylaws, Orders in Council, orders, warrants, registers, contracts, rates, resolutions, notices, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:provided that every such Board and corporation respectively shall be deemed to be the same Board and corporation respectively under this Act, without change of corporate entity or otherwise:provided also that in the case of members elected or appointed for a specified term the current term shall be computed from the date of its commencement:
   (b) All members of Boards holding office under any such enactment on the coming into operation of this Act shall continue in office until their successors under this Act come into office:
   (c) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
-(3) This Act is divided into Parts, as follows:Part 1—Drainage Districts and Boards. (Sections 3 to 57.)Part 2—Irrigation Works. (Sections 58 and 59Part 3—Powers of Local Authorities. (Sections 60 to 66.)Part 4—Powers of Private Owners. (Sections 67 to 80.)Part 5—Miscellaneous. (Sections 81 to 89.)
+(3) This Act is divided into Parts, as follows:Part 1Drainage Districts and Boards (Sections 3 to 57).Part 2Irrigation Works (Sections 58 and 59).Part 3Powers of Local Authorities (Sections 60 to 66).Part 4Powers of Private Owners (Sections 67 to 80).Part 5Miscellaneous (Sections 81 to 89).
 
 ### 2 Interpretation
 In this Act, if not inconsistent with the context,—
   - **Board** means a Board of Trustees for a district constituted under this Act
   - **District** means a district constituted under this Act
-  - **Drain** includes every passage, natural watercourse, or channel on or under ground through which water flows continuously or otherwise, except a navigable river, but does not include a water race as defined in section 58 hereof
-  - **Drainage works** means drainage works of any sort, including the making of drains for receiving water in its natural flow on or from any hills or other sloping lands, and diverting the same to prevent its overflow on to any other lands on a lower level, as well as drains for carrying off water from any lands
-  - **Owner**
-  - **Public notice** or means a public notice or advertisement inserted in a newspaper published in the district to be affected by the matter in such notice or advertisement, or, if none is published therein, then in some newspaper circulating therein
-  - **Rateable property** and mean respectively rateable property and rateable value under the Rating Powers Act 1988
-  - **Watercourse** includes all rivers, streams, and channels through which water flows.
+  - **drain** includes every passage, natural watercourse, or channel on or under ground through which water flows continuously or otherwise, except a navigable river, but does not include a water race as defined in section 58 hereof
+  - **drainage works** means drainage works of any sort, including the making of drains for receiving water in its natural flow on or from any hills or other sloping lands, and diverting the same to prevent its overflow on to any other lands on a lower level, as well as drains for carrying off water from any lands
+  - **public notice** or means a public notice or advertisement inserted in a newspaper published in the district to be affected by the matter in such notice or advertisement, or, if none is published therein, then in some newspaper circulating therein
+  - **rateable property** and mean respectively rateable property and rateable value under the Rating Powers Act 1988
+  - **watercourse** includes all rivers, streams, and channels through which water flows.
 
 ### 2A Relationship to Resource Management Act 1991
 Nothing in this Act shall derogate from the Resource Management Act 1991.
@@ -54,8 +51,8 @@ In such notice the electoral officer shall notify the day, not being earlier tha
 (2) The District Court Judge on the day fixed for hearing objections, shall hear and determine all objections, and may order such alterations in and additions to the list to be made as he thinks just; and his decision shall be final and without appeal.
 (3) All such alterations and additions shall be made by the electoral officer and initialled by the District Court Judge.
 (4) The list shall come into force—and shall be the roll of ratepayers for the district until a new roll comes into force in a like manner.
-  (a) Immediately after all the alterations and additions have been initialled by the District Court Judge; or
-  (b) If there are no alterations, or additions, on the day fixed for the hearing of objections;
+  (a) immediately after all the alterations and additions have been initialled by the District Court Judge; or
+  (b) if there are no alterations, or additions, on the day fixed for the hearing of objections;
 
 ### 9 Qualifications of electors and Trustees
 (1) Subject to section 25 of the Local Electoral Act 2001 every person whose name appears on the above-mentioned roll of ratepayers shall be deemed to be a ratepayer within the meaning of this Part of this Act, and shall be an elector and entitled to vote in the election of Trustees, and shall have one vote only at every such election; and, if of or over the age of 18 years, shall be qualified to be elected a Trustee.
@@ -72,8 +69,8 @@ In such notice the electoral officer shall notify the day, not being earlier tha
 (5)
 
 ### 11 Chairman of Board
-(1) The Board shall from time to time appoint as Chairman any one of its number willing to act, and such Chairman shall preside at all meetings of the Board, and shall have a casting as well as a deliberative vote, and shall hold office until the appointment of his successor.
-(2) The Board may from time to time, if it thinks fit, appoint one of its members to be Deputy Chairman, who, with the consent of the Chairman, or, in the event of the Chairman becoming incapable of acting or there being a vacancy in the office of Chairman, without that consent, shall, until the Chairman resumes his duties or a new Chairman comes into office, have all the authority of the Chairman.
+(1) The Board shall from time to time appoint as Chairman any 1 of its number willing to act, and such Chairman shall preside at all meetings of the Board, and shall have a casting as well as a deliberative vote, and shall hold office until the appointment of his successor.
+(2) The Board may from time to time, if it thinks fit, appoint 1 of its members to be Deputy Chairman, who, with the consent of the Chairman, or, in the event of the Chairman becoming incapable of acting or there being a vacancy in the office of Chairman, without that consent, shall, until the Chairman resumes his duties or a new Chairman comes into office, have all the authority of the Chairman.
 (2A) Every Deputy Chairman so appointed shall, so long as he continues to be a member of the Board, hold office until the appointment of his successor.
 (3) The Chairman may, by writing addressed to the Secretary of the Board, resign his office as Chairman, and thereupon the Board shall appoint another member to the office.
 
@@ -99,9 +96,8 @@ The Board shall be a body corporate under the name of The [Name of District] Dra
 [Repealed]
 
 ### 15 United districts
-(1) Notwithstanding anything in this Act, the Governor-General may from time to time, by Order in Council gazetted, declare that any 2 or more adjoining districts shall form one united district, with such name as is assigned thereto by the Order.
-(2) On the making of any such Order the Boards of the districts so united shall be dissolved, and all property of any of the districts so united shall be vested in the Board of the united district, and all liabilities and engagements of any district so united shall become liabilities and engagements of the united district, and all proceedings pending by or against the Board of any district so united may be carried on by or against the Board of the united district:
-  Provided that on any such union it shall be lawful for the Boards of the districts so united to agree, as a condition precedent to such union, that all special rates made as security for loans then existing shall continue to be levied only within the area over which they were respectively originally levied, and every such agreement shall be binding on the Board of the united district.
+(1) Notwithstanding anything in this Act, the Governor-General may from time to time, by Order in Council gazetted, declare that any 2 or more adjoining districts shall form 1 united district, with such name as is assigned thereto by the Order.
+(2) On the making of any such Order the Boards of the districts so united shall be dissolved, and all property of any of the districts so united shall be vested in the Board of the united district, and all liabilities and engagements of any district so united shall become liabilities and engagements of the united district, and all proceedings pending by or against the Board of any district so united may be carried on by or against the Board of the united district:provided that on any such union it shall be lawful for the Boards of the districts so united to agree, as a condition precedent to such union, that all special rates made as security for loans then existing shall continue to be levied only within the area over which they were respectively originally levied, and every such agreement shall be binding on the Board of the united district.
 (3) Every such united district shall be deemed to be a district constituted under this Act, and the provisions of this Act shall apply thereto accordingly.
 (4) No order shall be made under this section except on the petition of the Boards of the districts, or, if such Boards do not agree, then on the recommendation of a Commission appointed under the Commissions of Inquiry Act 1908.
 
@@ -113,19 +109,17 @@ The Board shall be a body corporate under the name of The [Name of District] Dra
 
 ### 17 To construct and maintain drains and watercourses
 The Board may for the purposes of this Act from time to time, by itself, its surveyors, agents, officers, and workmen, exercise the following powers or any of them, and may execute, do, or cause to be executed or done any of the following matters, works, or acts, namely:
-  (a) Cleanse, repair, or otherwise maintain in a due state of efficiency any existing watercourse or outfall for water, either within or beyond the district, or any existing bank or defence against water:
-  (b) Deepen, widen, straighten, divert, or otherwise improve any existing watercourse or outfall for water, either within or beyond the district, or remove obstructions to watercourses or outfalls for water, or raise, widen, or otherwise alter any existing defence against water:
-  (c) Make any new watercourse or new outfall for water, or erect any new defence against water, or erect any machinery, or do any other act required for the drainage of the district:
-  (d) Construct any drains of such materials and in such manner as it thinks necessary or proper for carrying the purposes of this Act into execution, and break up the soil of any roads, ways, or footpaths within the district, and excavate and sink trenches for the purpose of laying down, making, and constructing drains therein, and cause such drains to communicate with the sea or any arm thereof, or with any stream or watercourse either within or beyond the district, and also from time to time open, cleanse, and repair such drains, or alter the position thereof, and do all such acts, matters, and things as it deems expedient, necessary, or proper for making, amending, repairing, completing, or improving any watercourse or drain or other works to be made, done, and provided for the purposes of this Act:
-  (e) Take, purchase, and hold any lands, or any estate or interest therein, within or beyond the district, which in its opinion may be required for the purposes of this Act:
-  (f) Without any previous payment, tender, or deposit, enter upon and use any land within the district for the purpose of taking any earth, stone, clay, or material therefrom, and enter upon and use any adjacent lands for making temporary roads or approaches to any works connected with any works constructed under this Act:
-    Provided always that the Board shall pay reasonable compensation for the use of the land or otherwise, and such compensation, if the parties cannot agree, shall be settled by or before a District Court Judge, sitting with 2 Assessors as provided by section 85 hereof:
-  (g) Make, maintain, alter, or discontinue all such works of any kind or description, and erect such buildings and machinery within the district as it thinks proper for the purposes of this Act:
-  (h) Without any previous agreement with the owner or occupier of any land within the district, upon giving 24 hours' notice, enter upon any such land, whether the same is Crown land or not, and take levels of the same:
-  (i) Enter upon, take, and hold any land within the district for the purposes of this Act:
-  (j) In the making, widening, deepening, cleansing, or repairing of any drain or ditch, remove the soil thereof, and place it on the bank on either side of such drain or ditch:
-  (k) Fill up or obstruct any drain:
-    Provided that the Board shall first make in lieu thereof a drain or drains equally efficient; and any dispute as to the efficiency of drains so made shall be decided by a District Court Judge sitting with 2 Assessors.
+  (a) cleanse, repair, or otherwise maintain in a due state of efficiency any existing watercourse or outfall for water, either within or beyond the district, or any existing bank or defence against water:
+  (b) deepen, widen, straighten, divert, or otherwise improve any existing watercourse or outfall for water, either within or beyond the district, or remove obstructions to watercourses or outfalls for water, or raise, widen, or otherwise alter any existing defence against water:
+  (c) make any new watercourse or new outfall for water, or erect any new defence against water, or erect any machinery, or do any other act required for the drainage of the district:
+  (d) construct any drains of such materials and in such manner as it thinks necessary or proper for carrying the purposes of this Act into execution, and break up the soil of any roads, ways, or footpaths within the district, and excavate and sink trenches for the purpose of laying down, making, and constructing drains therein, and cause such drains to communicate with the sea or any arm thereof, or with any stream or watercourse either within or beyond the district, and also from time to time open, cleanse, and repair such drains, or alter the position thereof, and do all such acts, matters, and things as it deems expedient, necessary, or proper for making, amending, repairing, completing, or improving any watercourse or drain or other works to be made, done, and provided for the purposes of this Act:
+  (e) take, purchase, and hold any lands, or any estate or interest therein, within or beyond the district, which in its opinion may be required for the purposes of this Act:
+  (f) without any previous payment, tender, or deposit, enter upon and use any land within the district for the purpose of taking any earth, stone, clay, or material therefrom, and enter upon and use any adjacent lands for making temporary roads or approaches to any works connected with any works constructed under this Act:provided always that the Board shall pay reasonable compensation for the use of the land or otherwise, and such compensation, if the parties cannot agree, shall be settled by or before a District Court Judge, sitting with 2 Assessors as provided by section 85 hereof:
+  (g) make, maintain, alter, or discontinue all such works of any kind or description, and erect such buildings and machinery within the district as it thinks proper for the purposes of this Act:
+  (h) without any previous agreement with the owner or occupier of any land within the district, upon giving 24 hours' notice, enter upon any such land, whether the same is Crown land or not, and take levels of the same:
+  (i) enter upon, take, and hold any land within the district for the purposes of this Act:
+  (j) in the making, widening, deepening, cleansing, or repairing of any drain or ditch, remove the soil thereof, and place it on the bank on either side of such drain or ditch:
+  (k) fill up or obstruct any drain:provided that the Board shall first make in lieu thereof a drain or drains equally efficient; and any dispute as to the efficiency of drains so made shall be decided by a District Court Judge sitting with 2 Assessors.
 
 ### 18 May enter lands, etc, for survey, etc
 (1) For the purposes of any inspection, survey, or inquiry directed as necessary under any of the provisions of this Act, the Board, or its surveyors, agents, officers, and workmen, may enter upon any lands or premises in the district within or upon which it is proposed that any works shall be executed under this Act, or any lands and premises adjoining thereto, and if necessary may dig or bore therein, and may also examine where necessary any weir, sluice, or floodgate erected in or upon any watercourse, and open or raise any floodgate or sluice for the purposes of any such examination, and make any soundings, or bore the bed or channel of any part of any such watercourse, or any mill-course connected therewith, making reasonable compensation for any damage done thereby.
@@ -139,15 +133,15 @@ The Board may for the purposes of this Act from time to time, by itself, its sur
 (4) Notice in writing of such complaint shall be given to the Board by such owner or occupier 14 days before such complaint is made.
 
 ### 20 Notice to local authority before interfering with road or footpath
-Before interfering with any road or footpath the Board shall give one month's notice in writing to the local authority having control thereof; and if such local authority objects to the proposed work the matter shall be referred to the Minister of Transport, whose decision shall be final.
+Before interfering with any road or footpath the Board shall give 1 month's notice in writing to the local authority having control thereof; and if such local authority objects to the proposed work the matter shall be referred to the Minister of Transport, whose decision shall be final.
 
 ### 21 Owner of private land may object to construction of works
-(1) Before constructing any drain or other work through private land the Board shall give one month's notice in writing to the owner of such land of the intention to construct the work, and shall deposit at its office for public inspection plans of the proposed work.
+(1) Before constructing any drain or other work through private land the Board shall give 1 month's notice in writing to the owner of such land of the intention to construct the work, and shall deposit at its office for public inspection plans of the proposed work.
 (2) If the owner does not lodge with the Secretary of the Board within the said month a notice of objection to the work, it may be proceeded with; but if an objection is lodged either to the work or to the mode of executing it, then the matter shall be referred to the decision of a duly qualified engineer to be appointed jointly by the Board and the owner, whose decision shall be final.
 (3) If the Board and owner cannot agree as to the engineer so to be appointed, the matter shall be referred to the decision of a District Court Judge sitting with 2 Assessors, and the decision of the District Court Judge shall be final.
 (4) This section shall not apply—
-  (a) In respect of the carrying out by the Board of urgent work to meet an emergency; or
-  (b) Where the owner of the land has entered into an agreement in writing with the Board as to the construction of the work, or where the entry on the land is for the purpose of the maintenance or repair of any existing work on the land and the Board has given to the occupier of the land notice in writing at least 48 hours before entering on the land.
+  (a) in respect of the carrying out by the Board of urgent work to meet an emergency; or
+  (b) where the owner of the land has entered into an agreement in writing with the Board as to the construction of the work, or where the entry on the land is for the purpose of the maintenance or repair of any existing work on the land and the Board has given to the occupier of the land notice in writing at least 48 hours before entering on the land.
 
 ### 22 The Board may join with other Boards for execution of works, etc
 (1) For the execution of any works either wholly or partially within its district, or outside thereof, the Board may join with the Board of any other district, or if the lands through which the works are to be constructed are not within the jurisdiction of any Board, then with the owner of such lands or with any local authority, and may agree for the apportionment of the cost of such works among the parties thereto in such proportions as are deemed fair and equitable by the said parties, or as any person whom they appoint as referee in the case decides.
@@ -168,7 +162,7 @@ Before interfering with any road or footpath the Board shall give one month's no
 (3) Where, in the case of a drain actually constructed by it, a Board fails to comply with any requirement of subsection (1) of this section, it shall be liable to the owners or occupiers of any land for damage done to that land in consequence of or through that failure.
 
 ### 26 Interfering with drains, etc
-Every person, not being authorised for that purpose by the Board, who, without the consent of the Board, makes any branch drain into any watercourse or drain vested in the Board or under its management, or without such consent stops or obstructs any such last-mentioned watercourse or drain, is liable for every such offence to a fine not exceeding $60; and the Board may cause such branch drain to be remade as it thinks fit, and all expenses incurred thereby shall be repaid to the Board by the person making such branch drain, and may be recovered before any Justice or Community Magistrate in a summary way.
+Every person, not being authorised for that purpose by the Board, who, without the consent of the Board, makes any branch drain into any watercourse or drain vested in the Board or under its management, or without such consent stops or obstructs any such last-mentioned watercourse or drain, is liable for every such offence to a fine not exceeding 30 pounds; and the Board may cause such branch drain to be remade as it thinks fit, and all expenses incurred thereby shall be repaid to the Board by the person making such branch drain, and may be recovered in accordance with Part 3 of the Summary Proceedings Act 1957.
 
 ### 27 Removal of trees
 The Board may at any time give written notice to the occupier or owner of any land to remove any tree or part thereof that in the opinion of the Board is likely, by falling or otherwise, to obstruct or damage any drain vested in the Board or under its management; and, in default of such removal within 28 days of the service of such notice, may cause such tree or part thereof to be removed, and may recover the cost of such removal from such occupier or owner.
@@ -246,7 +240,7 @@ All money levied or received by the Board under the authority of this Act shall 
 ### 45 Collectors to pay over money
 (1) Every collector appointed or employed by the Board under this Act to collect any rate shall, within 7 days after he has received any money on account of any such rates, pay over the same to the Board, or in such manner as the Board directs.
 (2) He shall also render to the Board, within such time and in such manner as it directs, true and faithful accounts in writing under his hand of all money received by him, and of all money paid over by him, under this Act, and also a list of the names of all persons who have failed to pay any rate or money owing to the Board, with a statement of the money due from such persons respectively, and of the several periods and rates for or on account of which the same are due respectively.
-(3) If any such officer fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or if for 5 days after being thereunto required any officer of the Board fails to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any two Justices may hear and determine the matter in a summary way, and may order such officer to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such officer fails to obey such order he may by such Justices be committed to prison for any period not exceeding 6 months.
+(3) If any such officer fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or if for 5 days after being thereunto required any officer of the Board fails to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter, and may order such officer to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such officer fails to obey such order he may by such Justices be committed to prison for any period not exceeding 6 months.
 (4) No such proceeding against or dealing with any officer as aforesaid shall deprive the Board of any remedy it may otherwise have against such officer or any surety for such officer.
 
 **Accounts**
@@ -254,15 +248,15 @@ All money levied or received by the Board under the authority of this Act shall 
 ### 46 Books of account to be kept
 (1) The Board shall cause books to be provided and kept, and true and regular accounts to be entered therein of all sums of money received and paid under this Part of this Act, and of the several purposes for which such sums of money have been received and paid.
 (2) Any ratepayer may at all reasonable times inspect such books and take copies of or extracts from the same free of charge.
-(3) Every person having the custody of the said books who does not, on the reasonable demand of any ratepayer, permit him to inspect the same, or to take such copies or extracts therefrom as aforesaid, is liable to a fine not exceeding $10.
+(3) Every person having the custody of the said books who does not, on the reasonable demand of any ratepayer, permit him to inspect the same, or to take such copies or extracts therefrom as aforesaid, is liable to a fine not exceeding 5 pounds.
 
 ### 47 Form of accounts to be kept
 The accounts of the Board shall be kept under the several heads as follows:
-  (a) The General Account, which shall be credited with all money received that is not hereby required to be carried to any other account, and shall be debited with all the ordinary expenditure of the Board, and with any advances the Board thinks fit to make to the other accounts:
-  (b) Separate accounts, consisting of works for which money is provided and appropriated to separate purposes, each of which severally shall be credited with the money received, and debited with all payments on account of the work for which such money was provided:
-  (c) Special loan accounts, each of which severally shall be credited with all money raised by loan for a special purpose, and debited with the costs and charges of raising such loan, and with the expenditure on account of such purpose:
-  (d) Interest accounts, in which the account of the interest payable on each loan shall be credited with all money received on account of special rates (if any) or transferred from the general or any separate account to provide for such interest, and shall be debited with the interest paid on such loan:
-  (e) Sinking fund accounts, in which an account for each separate loan shall be credited with the sums provided for the repayment of such loan, either by way of sinking fund, comprising the interest and profits on the investments of such sinking fund, or by way of periodical drawings and repayments of debentures, and shall be debited with all money invested or paid in repayment of such debentures.
+  (a) the General Account, which shall be credited with all money received that is not hereby required to be carried to any other account, and shall be debited with all the ordinary expenditure of the Board, and with any advances the Board thinks fit to make to the other accounts:
+  (b) separate accounts, consisting of works for which money is provided and appropriated to separate purposes, each of which severally shall be credited with the money received, and debited with all payments on account of the work for which such money was provided:
+  (c) special loan accounts, each of which severally shall be credited with all money raised by loan for a special purpose, and debited with the costs and charges of raising such loan, and with the expenditure on account of such purpose:
+  (d) interest accounts, in which the account of the interest payable on each loan shall be credited with all money received on account of special rates (if any) or transferred from the general or any separate account to provide for such interest, and shall be debited with the interest paid on such loan:
+  (e) sinking fund accounts, in which an account for each separate loan shall be credited with the sums provided for the repayment of such loan, either by way of sinking fund, comprising the interest and profits on the investments of such sinking fund, or by way of periodical drawings and repayments of debentures, and shall be debited with all money invested or paid in repayment of such debentures.
 
 ### 48 Money received to be paid into bank
 All money of the Board shall, within 7 days after the same has come into the hands of the proper officer of the Board, be paid into the account of the Board at such bank as the Board from time to time appoints, and no part of such money shall be drawn out of such bank except by cheque or other instrument (not being a promissory note or bill) signed by the Treasurer and countersigned by a member of the Board.
@@ -271,10 +265,10 @@ All money of the Board shall, within 7 days after the same has come into the han
 (1) The Board may from time to time set aside any money to form a fund or funds for the repair, renewal, replacement, or improvement of any property, plant, fixtures, or appliances of the Board, or for the purpose of purchasing additional property, plant, fixtures, or appliances of the class for which the fund or funds is or are established.
 (2) The money so set aside and any other money payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
 (3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of that money in the following manner:
-  (a) In New Zealand Government securities; or
-  (b) On deposit in any bank lawfully carrying on the business of banking in New Zealand or in the Post Office Savings Bank or in any trustee savings bank; or
-  (c) In the Common Fund of Public Trust ; or
-  (d) In any other securities that may from time to time be authorised by the Governor-General in Council.
+  (a) in New Zealand Government securities; or
+  (b) on deposit in any bank lawfully carrying on the business of banking in New Zealand or in the Post Office Savings Bank or in any trustee savings bank; or
+  (c) in the Common Fund of Public Trust ; or
+  (d) in any other securities that may from time to time be authorised by the Governor-General in Council.
 
 ### 49 Accounts and audit
 (1) Before the 1st day of October in every year, the Board shall cause its accounts for the year that ended with the preceding 31st day of March to be balanced, and a full and true statement of accounts to be prepared of the amount of all rates made and levied, and all money received and expended, during that year, and of all debts owing by and to the Board at the end of that year.
@@ -284,7 +278,7 @@ All money of the Board shall, within 7 days after the same has come into the han
 (5) As soon as possible after the expiration of 2 months after any audited statement has been received by the Board, copies thereof and of the report of the Audit Office shall be made available for inspection at the office of the Board by any ratepayer, or any person holding any security charged upon the property of the Board, during office hours; and the Treasurer shall forthwith give public notice in one or more newspapers circulating in the district that the statement and report are available as aforesaid.
 
 ### 49A Unauthorised expenditure
-(1) Any Board may in every financial year, out of its general account or any appropriate separate account, expend for purposes not authorised by any Act or law for the time being in force any sum or sums not amounting in the whole to more than one percent of the general rate levied for that year, nor in any case to more than $20,000.
+(1) Any Board may in every financial year, out of its general account or any appropriate separate account, expend for purposes not authorised by any Act or law for the time being in force any sum or sums not amounting in the whole to more than 1 percent of the general rate levied for that year, nor in any case to more than $20,000.
 (2) Notwithstanding subsection (1) of this section, if the amount authorised by that subsection is less than $100 in the case of any Board for any year, the Board may in that year expend as aforesaid a sum or sums not amounting in the whole to more than $100.
 
 **Bylaws**
@@ -340,41 +334,39 @@ Every local authority not within a drainage district constituted under Part 1 of
 ### 62 Local authority may order removal of obstruction from watercourse or drain
 (1) Where there is any watercourse or drain within or beyond the district of a local authority, and its obstruction, in the opinion of the local authority, is likely to cause damage to any property in such district, the local authority may order the occupier (or, if there is no occupier, the owner) of any land on the banks of such watercourse or drain within the district or within 1.5 kilometres beyond the boundary of the district to remove from such watercourse or drain, and from the banks of such watercourse or drain to a distance not exceeding 3 metres from the nearest margin of the watercourse or drain, all obstructions of any kind calculated to impede the free flow of water in such watercourse or drain.
 (1A) For all the purposes of this section—
-  (a) Obstructions includes earth, stone, timber, and material of all kinds, and trees, plants, weeds, and growths of all kinds:
-  (b) The occupier or owner of land adjoining a road shall be deemed to be the occupier or owner of land on the banks of any watercourse or drain running upon such road where such road fronts the land of such occupier or owner, unless such watercourse or drain has been artificially constructed by the local authority for the purpose only of draining the surface of such road:
-  (c) Remove, in relation to any obstruction consisting of trees, plants, weeds, or growths, includes, if the local authority so specifies, burning, poisoning, cutting, or treating, whether with or without the removal of the burnt, poisoned, cut, or treated portions.
-(2) Every occupier or owner who fails to commence the work specified in the order within 14 days from the receipt thereof and to continue that work with all reasonable expedition or, where the local authority specifies a time within which the work must be completed, who fails to complete the work within the time specified in the order is liable to a fine not exceeding $2 for every day during which such order is not obeyed, and a further sum equal to the cost incurred by the local authority in removing any such obstruction; and the said cost shall be a charge on the land, and may be recovered as rates are recovered under any Act for the time being in force in the district:
-  Provided that any such occupier or owner may appeal to a District Court Judge against such order within 10 days after the service thereof, and such District Court Judge shall have jurisdiction to determine whether such order shall have effect, having regard to all the circumstances of the case, and pending the determination of such appeal the order shall be suspended.
+  (a) obstructions includes earth, stone, timber, and material of all kinds, and trees, plants, weeds, and growths of all kinds:
+  (b) the occupier or owner of land adjoining a road shall be deemed to be the occupier or owner of land on the banks of any watercourse or drain running upon such road where such road fronts the land of such occupier or owner, unless such watercourse or drain has been artificially constructed by the local authority for the purpose only of draining the surface of such road:
+  (c) remove, in relation to any obstruction consisting of trees, plants, weeds, or growths, includes, if the local authority so specifies, burning, poisoning, cutting, or treating, whether with or without the removal of the burnt, poisoned, cut, or treated portions.
+(2) Every occupier or owner who fails to commence the work specified in the order within 14 days from the receipt thereof and to continue that work with all reasonable expedition or, where the local authority specifies a time within which the work must be completed, who fails to complete the work within the time specified in the order is liable to a fine not exceeding 1 pound for every day during which such order is not obeyed, and a further sum equal to the cost incurred by the local authority in removing any such obstruction; and the said cost shall be a charge on the land, and may be recovered as rates are recovered under any Act for the time being in force in the district:provided that any such occupier or owner may appeal to a District Court Judge against such order within 10 days after the service thereof, and such District Court Judge shall have jurisdiction to determine whether such order shall have effect, having regard to all the circumstances of the case, and pending the determination of such appeal the order shall be suspended.
 (3) The local authority, for the purpose of removing any obstruction from a watercourse or drain, either within or beyond the limits of the district of its jurisdiction, shall by its servants have the free right of ingress, egress, and regress on any land on the banks of any such watercourse or through which any such drain runs.
 
 ### 63 Power to compel local authority to order removal of weeds and obstructions
-Where any ratepayer within the district of a local authority, by notice in writing, requests the local authority to exercise the powers conferred by the last preceding section by ordering any specified occupier or owner of land to remove from any specified watercourse or drain all weeds and other growth or refuse and obstructions of any kind, and for the space of 28 days after receipt of the notice the local authority fails to comply therewith, then the following provisions shall apply:
-  (a) Such ratepayer may, by complaint under the Summary Proceedings Act 1957 (the provisions whereof shall, mutatis mutandis, apply), call upon the local authority to appear before a District Court Judge to show cause why such notice should not be complied with:
-  (b) On the hearing of such complaint the District Court Judge shall have jurisdiction to determine whether and to what extent such notice should be complied with by the local authority, and his decision shall be final:
-    Provided that any order made by the local authority pursuant to the District Court Judge's decision shall be subject to appeal as provided in the last preceding section.
+(1) Where any ratepayer within the district of a local authority, by notice in writing, requests the local authority to exercise the powers conferred by the last preceding section by ordering any specified occupier or owner of land to remove from any specified watercourse or drain all weeds and other growth or refuse and obstructions of any kind, and for the space of 28 days after receipt of the notice the local authority fails to comply therewith, then the following provisions shall apply:
+  (a) the ratepayer may apply to a District Court for an order requiring the council to comply with the notice:
+  (b) on the hearing of the application the District Court has jurisdiction to determine whether and to what extent the notice should be complied with by the local authority, and the decision of the District Court is final.
+(2) Any order made by the local authority pursuant to the District Court's decision is subject to appeal as provided in section 62.
 
 ### 63A Advances to owners by local authorities
 (1) The local authority may make advances to the owner of any land within the district for the purpose of enabling him to do all things necessary to comply with any order of the local authority under section 62 hereof or to cover in or improve any watercourse or drain on the banks of which that land is situated.
 (2) Instead of making any such advance to any owner, the local authority may, by agreement with him, itself do such things as aforesaid, and all money expended by the local authority pursuant to that agreement, together with an amount equal to 5 percent of the amounts so expended to cover the cost of supervision by the servants of the local authority, shall be deemed to be an advance for the purposes of this section.
-(3) The local authority and the owner may agree that the amount of any advance shall be repayable in one amount at a fixed time with interest at a rate not exceeding 6 percent per annum, or by instalments extending over a number of years with interest not exceeding that rate. That agreement may contain any incidental provisions and may provide for the earlier payment of instalments, or any of them, on terms to be mentioned in the agreement:
-  Provided that, where the agreement makes no provision as aforesaid for early payment of instalments, the local authority shall accept the whole of the unpaid instalments at any time when the same is tendered, and for the purpose of any such tender interest shall be paid up to and including the day of tender.
+(3) The local authority and the owner may agree that the amount of any advance shall be repayable in one amount at a fixed time with interest at a rate not exceeding 6 percent per annum, or by instalments extending over a number of years with interest not exceeding that rate. That agreement may contain any incidental provisions and may provide for the earlier payment of instalments, or any of them, on terms to be mentioned in the agreement:provided that, where the agreement makes no provision as aforesaid for early payment of instalments, the local authority shall accept the whole of the unpaid instalments at any time when the same is tendered, and for the purpose of any such tender interest shall be paid up to and including the day of tender.
 (4) That agreement may, where the money is repayable in one amount, contain provisions for securing the repayment thereof; and, where the money is repayable by instalments, each such instalment shall for all purposes be deemed to be a rate, subject to the following conditions:
-  (a) The owner of the land shall be deemed the person primarily liable for payment:
-  (b) A separate book shall be kept by the Collector of Rates to the local authority, in which particulars of the instalments (distinguishing capital from interest), and of the works in respect of which they are payable, and of the dates for payment thereof, and of the names of the persons paying the same shall be entered; and that book shall be prima facie evidence of the correctness of its contents.
+  (a) the owner of the land shall be deemed the person primarily liable for payment:
+  (b) a separate book shall be kept by the Collector of Rates to the local authority, in which particulars of the instalments (distinguishing capital from interest), and of the works in respect of which they are payable, and of the dates for payment thereof, and of the names of the persons paying the same shall be entered; and that book shall be prima facie evidence of the correctness of its contents.
 
 ### 64 Governor-General may direct drains or drainage works to be under control of local authority
 (1) The Governor-General in Council may from time to time, by Proclamation publicly notified,—
-  (a) Direct that any drains or drainage works already constructed or which may hereafter be constructed, and any watercourses, respectively shall, from and after a date to be fixed in such Proclamation, be under the exclusive care, control, and management of such local authority as is mentioned in that behalf in such Proclamation:
-  (b) Vary or alter such care, control and management:
-  (c) Fix and determine whether all or any, and, if so, what part, of the cost of managing, repairing, improving, or reconstructing any such drain, drainage works, or watercourses, and the machinery and appliances used therewith, is to be provided and paid by any local authority or local authorities (if more than one), and, if so, by what local authority or local authorities (if more than one):
-  (d) Direct how, when, and to whom any such payment is to be made.
+  (a) direct that any drains or drainage works already constructed or which may hereafter be constructed, and any watercourses, respectively shall, from and after a date to be fixed in such Proclamation, be under the exclusive care, control, and management of such local authority as is mentioned in that behalf in such Proclamation:
+  (b) vary or alter such care, control and management:
+  (c) fix and determine whether all or any, and, if so, what part, of the cost of managing, repairing, improving, or reconstructing any such drain, drainage works, or watercourses, and the machinery and appliances used therewith, is to be provided and paid by any local authority or local authorities (if more than 1), and, if so, by what local authority or local authorities (if more than 1):
+  (d) direct how, when, and to whom any such payment is to be made.
 (2) Every payment so directed to be made shall be made as directed by such Proclamation, and unless so made may be recovered in any Court of competent jurisdiction at the suit of the Minister as a debt due to Her Majesty, or of the local authority, as the case may be, to whom such payment ought to be made.
 (3) In fixing and apportioning the cost of managing, maintaining, repairing, improving, or reconstructing any such drain, drainage works, or watercourses, and the machinery and appliances used therewith, the Governor-General shall take into account the net revenue (if any) derived from or incident to the use of such drain, drainage works, or watercourses by the local authority having the care, control, management, or maintenance thereof.
 
 ### 65 Governor-General may fix amount to be paid by local authority towards cost of works
 (1) The Governor-General may from time to time, with the view of determining—direct any District Court Judge or other person or persons to be a Commission to inquire and report to him upon any matter which he deems necessary to enable him to determine any such question as aforesaid.
-  (a) Whether it is expedient to vest the exclusive care, control, management, and maintenance of any such drain, drainage-works, or watercourses in any local authority; or
-  (b) The proportion in which it would be fair and reasonable to fix and determine the amount to be provided and paid by any local authority or local authorities for or towards the cost of managing, maintaining, repairing, improving, or reconstructing any such drain, drainage-works, or watercourses, and the machinery and appliances used therewith,—
+  (a) whether it is expedient to vest the exclusive care, control, management, and maintenance of any such drain, drainage-works, or watercourses in any local authority; or
+  (b) the proportion in which it would be fair and reasonable to fix and determine the amount to be provided and paid by any local authority or local authorities for or towards the cost of managing, maintaining, repairing, improving, or reconstructing any such drain, drainage-works, or watercourses, and the machinery and appliances used therewith,—
 (2) Such Commission shall have all the powers of a Commission appointed under the Commissions of Inquiry Act 1908.
 (3) Such Commission shall report to the Governor-General, after such inquiry as it deems requisite and reasonable, its opinion as to the matters respecting which it was appointed to report; but it shall not be obligatory upon the Governor-General to act in accordance with any opinion that may be expressed by such Commission, or to give effect to any recommendation that may be contained in its report.
 (4) All costs, charges, and expenses attending or incidental to the exercise of the powers conferred upon the Governor-General or upon such Commission shall be a charge upon the revenues of such local authority or local authorities as the Governor-General directs, and may be recovered as a debt due to Her Majesty in any Court of competent jurisdiction.
@@ -393,7 +385,7 @@ Where any ratepayer within the district of a local authority, by notice in writi
 The adjoining owner may by deed assent to such application with such modifications or alterations (if any) as may be mutually agreed to between the applicant and the adjoining owner and upon such terms and on payment of such compensation as he requires; and any assent so given shall, subject to the provisions of the next succeeding section, be binding on all parties having any estate or interest in the land.
 
 ### 69 Where adjoining owner under disability
-Any arrangement entered into by or on behalf of any adjoining owner under any disability or incapacity, or not having power to assent to such application except under the provisions of this Act, shall not be valid unless the same is approved by 2 surveyors, one of whom is to be nominated by the applicant and the other by or on behalf of the adjoining owner; and if the surveyors approve of the arrangement, they shall annex to the document containing the same a declaration to that effect subscribed by them.
+Any arrangement entered into by or on behalf of any adjoining owner under any disability or incapacity, or not having power to assent to such application except under the provisions of this Act, shall not be valid unless the same is approved by 2 surveyors, 1 of whom is to be nominated by the applicant and the other by or on behalf of the adjoining owner; and if the surveyors approve of the arrangement, they shall annex to the document containing the same a declaration to that effect subscribed by them.
 
 ### 70 Compensation to other persons interested
 Any person interested other than the adjoining owner shall be entitled to compensation for any injury he may sustain by the making of the proposed drains or improvements in drains, if the claim therefor is made within 12 months after completion of such drains or improvements in drains, the amount of such compensation to be determined, in case of dispute, in the manner in which disputed compensation for land is required to be determined by the Public Works Act 1981.
@@ -403,9 +395,9 @@ The applicant shall deposit in the office of the Registrar of Deeds or District 
 
 ### 72 Dissent of adjoining owner
 (1) The adjoining owner shall be deemed to have dissented from the application made to him if he fails to express his assent thereto within one month after the service of the application on him.
-(2) In the event of such dissent the District Court Judge, sitting with 2 Assessors, shall (unless the adjoining owner has, within such period of one month, required the same to be decided by arbitration) decide whether or not the proposed drains or improvements in drains will—
-  (a) Cause any injury to the adjoining owner or to the occupier or other person interested in the lands; or
-  (b) Benefit any such person.
+(2) In the event of such dissent the District Court Judge, sitting with 2 Assessors, shall (unless the adjoining owner has, within such period of 1 month, required the same to be decided by arbitration) decide whether or not the proposed drains or improvements in drains will—
+  (a) cause any injury to the adjoining owner or to the occupier or other person interested in the lands; or
+  (b) benefit any such person.
 
 ### 73 Result of decision of District Court Judge
 (1) If the decision is that no injury will be caused to the adjoining owner, occupier, or other parties interested in the lands, the applicant may proceed forthwith to make the proposed drains or improvements in drains.
@@ -416,7 +408,7 @@ The applicant shall deposit in the office of the Registrar of Deeds or District 
 Where any compensation assessed under section 70 hereof or under the last preceding section is payable to any person under disability or incapacity, or not entitled to receive the same for his own benefit, such compensation shall be applied in the manner in which compensation awarded to parties having limited interests, or prevented from treating and not making title, may be applied under the Public Works Act 1981.
 
 ### 75 Duty of District Court Judge, etc
-The District Court Judge, sitting as aforesaid, in the event of his approving of a scheme of drainage as proposed by the applicant or as modified by the District Court Judge, shall cause a map thereof to be prepared, and it shall be the duty of the applicant to forward the same to the Registrar of Deeds or District Land Registrar for the registration district wherein the lands are situate, and such Registrar shall, upon payment of a fee of $1, file the same in his office as a record of the proceedings between the parties.
+The District Court Judge, sitting as aforesaid, in the event of his approving of a scheme of drainage as proposed by the applicant or as modified by the District Court Judge, shall cause a map thereof to be prepared, and it shall be the duty of the applicant to forward the same to the Registrar of Deeds or District Land Registrar for the registration district wherein the lands are situate, and such Registrar shall, upon payment of a fee of 10 shillings, file the same in his office as a record of the proceedings between the parties.
 
 ### 76 Power of applicant to clear drains
 (1) After drains have been opened or improvements in drains made under this Part of this Act, it shall be lawful for the applicant, and his successors in title for ever thereafter, from time to time, as it becomes necessary, to enter upon the lands through which such drains have been opened or improvements in drains made, for the purpose of clearing out, scouring, and otherwise maintaining the same in a due state of efficiency.
@@ -426,7 +418,7 @@ The District Court Judge, sitting as aforesaid, in the event of his approving of
 The owners for the time being of the lands through, on, or between which any drain may be opened or improvements in drains made under this Part of this Act may fill up, divert, or otherwise deal with such drains or improvements in drains, on condition of first making and laying down in lieu thereof drains equally efficient; and any dispute as to the efficiency of drains so laid down shall be decided by a District Court Judge sitting with 2 Assessors.
 
 ### 78 Obstructing or injuring drains
-Every person who wilfully obstructs any person making any drain or improvements in drains under this Part of this Act, or who wilfully dams up, obstructs, or in any way injures any drains or improvements in drains so opened or made, is liable for each offence to a fine not exceeding $100.
+Every person who wilfully obstructs any person making any drain or improvements in drains under this Part of this Act, or who wilfully dams up, obstructs, or in any way injures any drains or improvements in drains so opened or made, is liable for each offence to a fine not exceeding 50 pounds.
 
 ### 79 Costs of application
 All costs, charges, or expenses reasonably incurred by the adjoining owner in respect of any application made under this Part of this Act shall be borne by the applicant.
@@ -441,20 +433,20 @@ All costs, charges, or expenses reasonably incurred by the adjoining owner in re
 No Judge, District Court Judge, Justice, or Community Magistrate shall be deemed to be interested in any case under this Act in which he is judicially concerned merely on the ground that he is liable to be rated within any district under any of the provisions of this Act, or is a resident or is an owner or occupier of land within the district.
 
 ### 82 Malicious destruction of property
-Every person who wilfully and maliciously cuts, breaks down, destroys, or damages any bank, drain, sewer, dam, mill, engine, building, sluice, or any of the works erected or made for the purposes of this Act, is liable on indictment to imprisonment for any term not exceeding 3 years, or to a fine not exceeding $1,000.
+Every person who wilfully and maliciously cuts, breaks down, destroys, or damages any bank, drain, sewer, dam, mill, engine, building, sluice, or any of the works erected or made for the purposes of this Act, commits an offence and is liable on conviction to imprisonment for any term not exceeding 3 years, or to a fine not exceeding 500 pounds.
 
 ### 83 Obstruction
-Every person who at any time obstructs the Board, or any person appointed by it, in the performance of anything that the Board or such person is empowered or required by this Act to do is liable to a fine not exceeding $100.
+Every person who at any time obstructs the Board, or any person appointed by it, in the performance of anything that the Board or such person is empowered or required by this Act to do is liable to a fine not exceeding 50 pounds.
 
 ### 84 Fines recoverable summarily
-Except as hereinbefore provided, every offence hereby made punishable by fine shall be prosecuted, and all fines imposed by this Act shall be recoverable, in a summary way before 2 Justices or one or more Community Magistrates in the manner provided by the Summary Proceedings Act 1957.
+Except as hereinbefore provided, every offence hereby made punishable by fine shall be prosecuted before 2 Justices and 1 or more Community Magistrates in accordance with the Criminal Procedure Act 2011, and all fines are to be recovered in accordance with Part 3 of the Summary Proceedings Act 1957.
 
 ### 85 Rules as to Assessors
 In every case where by this Act it is provided that a matter shall be dealt with by a District Court Judge sitting with 2 Assessors, the following provisions shall apply:
-  (a) The Assessors shall be appointed by the parties to the dispute, each of whom shall appoint one Assessor:
-  (b) If either of the parties has failed to appoint an Assessor on his behalf at the time when any case comes on for hearing before the District Court Judge, the District Court Judge may appoint an Assessor on behalf of the party so in default:
-  (c) If neither of the parties has appointed an Assessor, then the District Court Judge alone shall decide the matter in dispute:
-  (d) If Assessors are appointed, the concurrence of at least one of them shall be necessary to any order or decision of the District Court Judge.
+  (a) the Assessors shall be appointed by the parties to the dispute, each of whom shall appoint 1 Assessor:
+  (b) if either of the parties has failed to appoint an Assessor on his behalf at the time when any case comes on for hearing before the District Court Judge, the District Court Judge may appoint an Assessor on behalf of the party so in default:
+  (c) if neither of the parties has appointed an Assessor, then the District Court Judge alone shall decide the matter in dispute:
+  (d) if Assessors are appointed, the concurrence of at least 1 of them shall be necessary to any order or decision of the District Court Judge.
 
 ### 86 Remuneration of Assessors
 The remuneration of Assessors appointed under this Act shall be paid by such party as the District Court Judge directs.
@@ -464,8 +456,8 @@ The remuneration of Assessors appointed under this Act shall be paid by such par
 
 ### 88 Government works not to be interfered with
 Nothing in this Act shall—
-  (a) Authorise the Board of any district to interfere with any public work carried on or executed by or under the control of the Crown, except with the written consent of the Minister who has control of that public work; or
-  (b) Prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any other person on behalf of Her Majesty or the Governor-General, under any Act authorising the erection, construction, or maintenance of any such public works.
+  (a) authorise the Board of any district to interfere with any public work carried on or executed by or under the control of the Crown, except with the written consent of the Minister who has control of that public work; or
+  (b) prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any other person on behalf of Her Majesty or the Governor-General, under any Act authorising the erection, construction, or maintenance of any such public works.
 
 ### 89 Application of Act to Maori lands
 (1) Where any Maori land is required to be taken for the purposes of this Act, it shall be taken by the Governor-General under Part 2 of the Public Works Act 1981.
