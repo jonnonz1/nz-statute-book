@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -235,12 +235,12 @@ A person whose registration is cancelled or suspended must deliver his or her ce
 **Offences relating to registration**
 
 ### 21 Offences relating to registration
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, for the purpose of obtaining registration (either for himself or herself or for any other person),—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, for the purpose of obtaining registration (either for himself or herself or for any other person),—
   (a) either orally or in writing makes a declaration or representation knowing it to be false or misleading in relation to a material particular; or
   (b) provides to the Council or makes use of any document knowing it to contain a declaration or representation that is false or misleading in relation to a material particular; or
   (c) provides to the Council or makes use of any document knowing that it is not genuine.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who claims to be registered under section 12(2) if he or she is registered under section 14.
-(3) Every person who breaches section 19 without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who claims to be registered under section 12(2) if he or she is registered under section 14.
+(3) Every person who breaches section 19 without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 **Register of veterinarians and other registered persons**
 
@@ -285,7 +285,7 @@ A person whose registration is cancelled or suspended must deliver his or her ce
   (a) notify the Registrar if he or she changes his or her name, contact address, or practice name (whether the practice name is the veterinarian's own or his or her employer's); and
   (b) provide the Registrar with the relevant current information.
 (4) A notification under subsection (3) must be in writing (which may include by way of fax, email, or other electronic means) and made no later than 1 month after the information in the register is no longer current.
-(5) Every person who breaches subsection (3) without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(5) Every person who breaches subsection (3) without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### Subpart 2 — Practising certificates
 
@@ -348,8 +348,8 @@ A person whose practising certificate is cancelled or suspended must deliver his
 **Offences relating to practising certificates**
 
 ### 31 Offences relating to practising certificates
-(1) Every registered person who practises as a veterinarian without holding a current practising certificate commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(2) Every person who breaches section 29 without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(1) Every registered person who practises as a veterinarian without holding a current practising certificate commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(2) Every person who breaches section 29 without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### Subpart 3 — Unlawful use of title
 
@@ -358,11 +358,11 @@ A person whose practising certificate is cancelled or suspended must deliver his
   (a) the title veterinarian; or
   (b) any words, initials, or abbreviations that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a veterinarian; or
   (c) the word veterinary with any words, initials, or abbreviations that are intended to cause, or that may reasonably cause, any person to believe that the person using the word veterinary with those words, initials, or abbreviations is a veterinarian.
-(2) Every person who breaches subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who breaches subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
 ### 33 Unlawful use of title of specialist
 (1) No person, other than a specialist, may use in connection with his or her business, trade, employment, calling, or profession any words, initials, or abbreviations of the title specialist that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a specialist.
-(2) Every person who breaches subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who breaches subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
 ## Part 3 — Disciplinary proceedings and medical and competence assessments
 
@@ -435,7 +435,7 @@ In the performance and exercise of its decision-making functions and powers unde
 (1) A person who receives a notice under section 41 must, without charge, comply with the requirement stated in the notice in the manner and within the period (being not less than 10 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
 (3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
-(4) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 41,—
+(4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 41,—
   (a) refuses or fails without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
 
@@ -547,7 +547,7 @@ For the purposes of a disciplinary hearing, the Council has the powers of a comm
   (c) decide a hearing, including any question arising during the hearing, in private.
 (3) An order made under subsection (2)(b) continues in force until the sooner of the date specified in the order (if any) or the date of its revocation. However, a person may apply at any time to the Council for the order to be revoked.
 (4) Subsection (2)(b)(iii) does not apply in relation to the publication of the effect of an order under section 54(2).
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, without lawful excuse, breaches any order made by the Council under subsection (2).
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without lawful excuse, breaches any order made by the Council under subsection (2).
 
 ### 50 Grounds for discipline of specified person
 (1) The Council may take 1 or more of the actions set out in section 51 against a specified person if, at the conclusion of a disciplinary hearing, it is satisfied that—
@@ -790,7 +790,7 @@ On an appeal under section 64, the District Court may order any party to the app
 ### 72 Appeal on question of law
 (1) A party to an appeal under section 64 may appeal to the High Court against any determination of law arising in the appeal.
 (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
-(3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
+(3) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (4) Subsection (3) overrides subsection (2).
