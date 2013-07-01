@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -124,11 +124,11 @@ The Minister, by written notice to the Commission, after consultation with the C
 
 ### 12 Directions by Minister
 (1) In directing the entity in accordance with section 103 of the Crown Entities Act 2004, the Minister must, if practicable, first consult with those persons likely to be affected by the direction.
-(1A) The Minister may, in giving any written directions in relation to the exercise of the Commission's functions under section 5(1)(c) or section 5(1)(d), or both, take account not only of the objects and policy of this Act, but also of 1 or more of the following matters:
+(1A) The Minister may, in giving any written directions in relation to the exercise of the Commission's functions under section 5(1)﻿(c) or section 5(1)﻿(d), or both, take account not only of the objects and policy of this Act, but also of 1 or more of the following matters:
   (a) the Crown's current and possible future overall financial position, having regard to the requirement in section 16 to grant or advance public money to meet any deficiency in the Commission's assets to meet its liabilities:
-  (b) the Crown's current and possible future overall financial position, taking into account the interests of the Crown in the bodies referred to in section 27(3)(a) to (f) of the Public Finance Act 1989:
+  (b) the Crown's current and possible future overall financial position, taking into account the interests of the Crown in the bodies referred to in section 27(3)﻿(a) to (f) of the Public Finance Act 1989:
   (c) the Commission's current and possible future overall financial position.
-(1B) Without limiting subsections (1) and (1A), written directions may specify detailed requirements or prohibitions, or both, to which the Commission must give effect in exercising its functions under section 5(1)(c) and section 5(1)(d).
+(1B) Without limiting subsections (1) and (1A), written directions may specify detailed requirements or prohibitions, or both, to which the Commission must give effect in exercising its functions under section 5(1)﻿(c) and section 5(1)﻿(d).
 (2)
 (2A)
 (2B)
@@ -175,8 +175,8 @@ There shall be payable by the Commission to the Crown each year, on such date as
   (a) if the contract of fire insurance specifies a replacement sum insured for which the building is insured against fire under that contract, the amount of that sum insured:
   (b) if the contract of fire insurance does not specify such a replacement sum insured but does specify an amount to which the building is to be insured under this Act, that amount:
   (c) the amount arrived at by multiplying the number of dwellings in the building (being the number determined in accordance with subsection (3)) by $100,000 or such higher amount as may be fixed from time to time for the purposes of this paragraph by regulations made under this Act.
-(2) An amount specified for the purposes of subsection (1)(b) shall not be less than the amount calculated by multiplying a sum of not less than $1,000, or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building. Where a contract specifies a lesser amount, the amount specified is deemed to be $1,000 or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building.
-(3) For the purposes of subsection (1)(c), a residential building is deemed to comprise 1 dwelling unless the existence of a higher number of dwellings in the building is disclosed to the insurance company at the time that the contract of fire insurance is entered into.
+(2) An amount specified for the purposes of subsection (1)﻿(b) shall not be less than the amount calculated by multiplying a sum of not less than $1,000, or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building. Where a contract specifies a lesser amount, the amount specified is deemed to be $1,000 or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building.
+(3) For the purposes of subsection (1)﻿(c), a residential building is deemed to comprise 1 dwelling unless the existence of a higher number of dwellings in the building is disclosed to the insurance company at the time that the contract of fire insurance is entered into.
 
 ### 19 Residential land
 Subject to any regulations made under this Act and to Schedule 3, where a residential building is deemed to be insured under this Act against natural disaster damage, the residential land on which that building is situated shall, while that insurance of the residential building is in force, be deemed to be insured under this Act against natural disaster damage to the amount (exclusive of goods and services tax) which is the sum of, in the case of any particular damage,—
@@ -321,11 +321,11 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
 (6) Every such warrant shall be executed in accordance with such reasonable conditions as may be specified in the warrant when it is issued.
 
 ### 35 Offences
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
   (a) intentionally makes any statement that is both incorrect and material in any information or particulars furnished (whether in writing or not) under section 32 or under any regulations in force under this Act; or
   (b) intentionally makes any material omission from any information or particulars so furnished; or
   (c) intentionally destroys or mutilates or renders illegible any entry in any record, book, or account required to be kept under or for the purposes of this Act or any regulations in force under this Act, or wilfully makes a false or fraudulent entry in or omission from any such record, book, or account.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued who—
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued who—
   (a) resists, obstructs, deceives, or attempts to deceive, any person who is exercising or attempting to exercise any power or function under section 32 or section 34; or
   (b) without lawful excuse, fails to comply in any respect with any requirement under section 32; or
   (c) without lawful excuse, acts in contravention of or fails to comply with either of sections 25 and 26.
@@ -333,7 +333,7 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
 
 ### 36 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) specifying any kind of property for the purposes of section 21(1)(b) or exempting any class of residential buildings, residential land, or personal property from any or all of the provisions of this Act:
+  (a) specifying any kind of property for the purposes of section 21(1)﻿(b) or exempting any class of residential buildings, residential land, or personal property from any or all of the provisions of this Act:
   (b) prescribing conditions (being contemplated by or additional to those specified in, and not inconsistent with, this Act) upon or subject to which any residential buildings, residential land, or personal property, or class of residential building, residential land, or personal property, are insured under any or all of sections 18 to 20 and 22:
   (c) prescribing the rates of premiums payable under this Act; and different rates may be prescribed in different cases or classes of cases:
   (d) empowering the Commission to determine the method of calculation of premiums payable under this Act, but so that any such determination is subject to any regulation prescribing the rates of premiums:
