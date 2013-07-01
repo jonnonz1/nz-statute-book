@@ -1,5 +1,5 @@
 # Home Ownership Savings Act 1974
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to encourage saving for home ownership
 
@@ -267,7 +267,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
     (i) fails, within a reasonable time after being required to do so, to supply in writing to the Corporation any information requested by the Corporation for the purpose of ascertaining whether or not the terms and conditions under which the benefit was paid have been fulfilled or whether or not any event has taken place by reason which the benefit or any part thereof is repayable:
       provided that no person shall be required to supply any information tending to incriminate himself; or
     (ii) supplies any information knowing it to be false in any material particular.
-(2) Any person who commits an offence under subsection (1) is liable on summary conviction—
+(2) Any person who commits an offence under subsection (1) is liable on conviction—
   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000; and
   (b) to repay in full to the Corporation any benefits wrongfully obtained.
 
@@ -276,4 +276,4 @@ Notwithstanding anything in any other Act, every authorised savings institution 
 (2) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under that subsection—
   (a) prescribing the mode of making application for benefits:
   (b) prescribing the procedure for payment of benefits:
-  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on summary conviction not exceeding $200 in respect of any such offences.
+  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on conviction not exceeding $200 in respect of any such offences.
