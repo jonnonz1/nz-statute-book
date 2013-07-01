@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -415,8 +415,8 @@ The entity and any officer of the entity may send or deliver to the chief execut
 (3) A person must not state or imply, or permit a statement or implication, that the person acts on behalf of a charitable entity if the person does not act on behalf of that charitable entity.
 
 ### 38 Offence to contravene section 37
-(1) Every person who acts in contravention of section 37(1) or section 37(3) commits an offence and is liable on summary conviction to a fine not exceeding $30,000.
-(2) Proceedings for an offence against subsection (1) may be commenced within 2 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(1) Every person who acts in contravention of section 37(1) or section 37(3) commits an offence and is liable on conviction to a fine not exceeding $30,000.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 2 years after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
 
 **Duty of telephone and Internet collectors**
 
@@ -580,8 +580,8 @@ In considering whether to revoke an entity's status as forming part of a single 
 (1) No person may,—
   (a) without reasonable excuse, refuse or fail to comply with a notice under section 51; or
   (b) in purported compliance with a notice under section 51, supply information, or supply a document, knowing it to be false or misleading.
-(2) Any person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(3) Proceedings for an offence against subsection (2) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(2) Any person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (2) ends on the date that is 6 months after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
 
 ### 53 Chief executive may supply inquiry information or documents
 (1) The chief executive may supply any information or documents that the chief executive obtains under sections 50 to 52 to any person for either or both of the following purposes:
@@ -783,9 +783,9 @@ Amendment(s) incorporated in the Act(s).
 (5) Any fee or amount payable to the Board or the chief executive is recoverable by the Board or the chief executive in any court of competent jurisdiction as a debt due to the Board or the chief executive.
 
 ### 74 Prosecution of offences
-(1) An information in respect of an offence against this Act must be laid by the chief executive or a person authorised by the chief executive (the authorised person).
-(2) Before an information in respect of an offence against this Act is laid against a person, the chief executive or the authorised person must lay the facts of the case, so far as the chief executive or the authorised person is acquainted with them, before a Crown Solicitor.
-(3) The chief executive or the authorised person may lay an information against a person only if a Crown Solicitor certifies that there are reasonable grounds for a prosecution.
+(1) Proceedings in respect of an offence against this Act must be commenced by the chief executive or a person authorised by the chief executive (the authorised person).
+(2) Before a charging document in respect of an offence against this Act is filed against a person, the chief executive or the authorised person must lay the facts of the case, so far as the chief executive or the authorised person is acquainted with them, before a Crown Solicitor.
+(3) The chief executive or the authorised person may file a charging document against a person only if a Crown Solicitor certifies that there are reasonable grounds for a prosecution.
 (4) No action may be taken against the chief executive or the authorised person for malicious prosecution in relation to a prosecution under this Act if a Crown Solicitor certified that there were reasonable grounds for bringing the prosecution.
 
 ### 75 No obligation on Board or chief executive or any other person to supervise
