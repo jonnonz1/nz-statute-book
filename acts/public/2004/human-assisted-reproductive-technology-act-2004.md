@@ -1,11 +1,11 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
 
 ### 2 Commencement
-(1) Part 1, subpart 1 of Part 2, the provisions of section 67 (other than subsection (2)(c)(ii) to (v)), sections 68 to 75, the provisions of section 76(1), sections 77, 79 to 85, and 87, and Schedules 1 and 2 come into force on the day after the date on which this Act receives the Royal assent.
+(1) Part 1, subpart 1 of Part 2, the provisions of section 67 (other than subsection (2)﻿(c)﻿(ii) to (v)), sections 68 to 75, the provisions of section 76(1), sections 77, 79 to 85, and 87, and Schedules 1 and 2 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the expiry of 9 months after the date on which it receives the Royal assent.
 
 ## Part 1 — Preliminary provisions
@@ -109,7 +109,7 @@ This Act binds the Crown.
 (1) Every person commits an offence who takes an action described in Schedule 1.
 (2) Every person commits an offence who, knowing that an in vitro gamete, an in vitro embryo or an in vitro foetus, or an in vitro being has been formed by an action described in Schedule 1, imports into, or exports from, New Zealand that in vitro gamete, in vitro embryo, in vitro foetus, or in vitro being.
 (3) Every person commits an offence who, knowing that a gamete, an embryo or foetus, or a being has been formed by an action described in Schedule 1, possesses, without reasonable excuse, that gamete, embryo, foetus, or being.
-(4) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine not exceeding $200,000, or both.
+(4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $200,000, or both.
 
 ### 9 Duty to stop development of in vitro human or hybrid embryos
 (1) This section applies to an in vitro human embryo or an in vitro hybrid embryo that has been artificially formed (whether in New Zealand or elsewhere).
@@ -124,8 +124,8 @@ This Act binds the Crown.
 (4) For the purposes of this section, specified day means,—
   (a) in relation to a human embryo, the 14th day after its formation (exclusive of any day during which the development of the embryo is suspended); and
   (b) in relation to a hybrid embryo, the 14th day after its formation (exclusive of any day during which the development of the embryo is suspended) or the day on which the primitive streak appears, whichever is the earlier.
-(5) Every person who commits an offence against subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
-(6) Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $50,000.
+(5) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
+(6) Every person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $50,000.
 
 ### 10 Restriction and prohibition on further storage of human in vitro embryos and human in vitro gametes stored for applicable period (10 years and extensions)
 (1) This section restricts then prohibits storage, manipulation, and use of a human in vitro gamete or a human in vitro embryo (being an embryo whose development has been suspended) that has been stored for the applicable period.
@@ -140,7 +140,7 @@ This Act binds the Crown.
 (8) This section is not limited by, and does not limit, provisions of subpart 2 of this Part that apply to storage—
   (a) of an in vitro human gamete or an in vitro human embryo; and
   (b) that is, or is part of, any assisted reproductive procedure or human reproductive research.
-(9) Every person commits an offence who contravenes this section and is liable on summary conviction to a fine not exceeding $20,000.
+(9) Every person commits an offence who contravenes this section and is liable on conviction to a fine not exceeding $20,000.
 
 ### 10A Ethics committee may approve extensions
 (1) The ethics committee may from time to time, before the applicable period expires and on a written application for the purpose, approve in respect of the gamete or embryo 1 or more extensions to the applicable period.
@@ -198,25 +198,25 @@ This Act binds the Crown.
 (1) No person may, for reproductive purposes,—
   (a) select an in vitro human embryo for implantation into a human being on the basis of the sex of the embryo; or
   (b) perform any procedure, or provide, prescribe, or administer any thing in order to ensure, or in order to increase the probability, that a human embryo will be of a particular sex.
-(2) Every person commits an offence who contravenes this section and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+(2) Every person commits an offence who contravenes this section and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
 (3) It is a defence to a charge of an offence against this section if the defendant proves that the act to which the charge relates was performed to prevent or treat a genetic disorder or disease.
 
 ### 12 Restriction on obtaining gametes from minors
 (1) No person may—
   (a) obtain a gamete from an individual who is under 16 years; or
   (b) use a gamete that has been obtained from an individual who is under 16 years.
-(2) Every person commits an offence who contravenes this section and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+(2) Every person commits an offence who contravenes this section and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
 (3) It is a defence to a charge of an offence against this section if the defendant proves that the gamete concerned was obtained or used by a person—
   (a) to preserve the gamete; or
   (b) to bring about the birth of a child that was, in the reasonable opinion of the person, likely to be brought up by the individual from whom the gamete was obtained.
 
 ### 13 Commercial supply of human embryos or human gametes prohibited
 (1) No person may give or receive, or agree to give or receive, valuable consideration for the supply of a human embryo or human gamete.
-(2) Every person commits an offence who contravenes subsection (1) and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+(2) Every person commits an offence who contravenes subsection (1) and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
 
 ### 14 Status of surrogacy arrangements and prohibition of commercial surrogacy arrangements
 (1) A surrogacy arrangement is not of itself illegal, but is not enforceable by or against any person.
-(2) Subsection (1) does not affect the Part 2 of the Status of Children Act 1969.
+(2) Subsection (1) does not affect Part 2 of the Status of Children Act 1969.
 (3) Every person commits an offence who gives or receives, or agrees to give or receive, valuable consideration for his or her participation, or for any other person's participation, or for arranging any other person's participation, in a surrogacy arrangement.
 (4) Subsection (3) does not apply to a payment—
   (a) to the provider concerned for any reasonable and necessary expenses incurred for any of the following purposes:
@@ -225,7 +225,7 @@ This Act binds the Crown.
     (iii) insemination or in vitro fertilisation:
     (iv) ovulation or pregnancy tests; or
   (b) to a legal adviser for independent legal advice to the woman who is, or who might become, pregnant under the surrogacy arrangement.
-(5) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+(5) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
 
 ### 15 Advertising for illegal action prohibited
 (1) No person may, with the intention of obtaining responses from members of the public, publish, or arrange for any other person to publish, any material that invites persons to participate, or to inquire about opportunities for participating, in actions that are prohibited by section 8 or section 13 or section 14.
@@ -240,7 +240,7 @@ This Act binds the Crown.
   (h) distribute by any means; or
   (i) display by way of a sign, notice, poster, or other means; or
   (j) bring to the notice of the public in New Zealand in any other manner.
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500, or both.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500, or both.
 
 ### Subpart 2 — Activities requiring approval of ethics committee
 
@@ -248,7 +248,7 @@ This Act binds the Crown.
 
 ### 16 Assisted reproductive procedures and human reproductive research only to proceed with prior approval
 (1) Every person commits an offence who performs an assisted reproductive procedure or conducts human reproductive research without the prior approval in writing of the ethics committee.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $50,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $50,000.
 
 ### 17 Approved activities must proceed in accordance with applicable conditions and regulations
 The person responsible for an activity approved by the ethics committee must ensure that the activity is undertaken in accordance with—
@@ -286,7 +286,7 @@ The person responsible for an activity approved by the ethics committee must ens
     (ii) in the case of the final report, on completion of the research.
 
 ### 20 Person responsible for activity
-(1) Before the ethics committee gives an approval for an activity, it must approve a person nominated under section 18(1)(d) as the person responsible for the activity to be undertaken under the approval.
+(1) Before the ethics committee gives an approval for an activity, it must approve a person nominated under section 18(1)﻿(d) as the person responsible for the activity to be undertaken under the approval.
 (2) If, at any time, the person responsible for an activity undertaken under an approval is, for any reason, unable or unwilling to perform the person's duties, the activity under the approval must be suspended until the ethics committee concerned approves, or 1 or more members of the committee authorised by the committee in that behalf approve, another person nominated by the agency that applied for that approval under section 18 as the person responsible for the activity.
 (3) Before the ethics committee approves a person under this section, the committee must be satisfied that the person—
   (a) is able to ensure that the activity concerned will be undertaken in a manner that is consistent with relevant guidelines or relevant advice issued by the advisory committee; and
@@ -302,7 +302,7 @@ The person responsible for an activity approved by the ethics committee must ens
   (a) to ensure consistency with this Act or relevant guidelines or relevant advice issued or given by the advisory committee before or after the date on which the approval was given; or
   (b) to correct an error or omission made by the ethics committee.
 (3) The ethics committee may change the approval at the request of the person responsible for the activity undertaken under the approval if it is satisfied that the change is consistent with relevant guidelines or relevant advice issued or given by the advisory committee before or after the date on which the approval was given.
-(4) In any case where the person responsible for the activity requests the ethics committee to exercise its power under subsection (1)(a), the power may be exercised by 1 or more members of the committee authorised by the committee in that behalf.
+(4) In any case where the person responsible for the activity requests the ethics committee to exercise its power under subsection (1)﻿(a), the power may be exercised by 1 or more members of the committee authorised by the committee in that behalf.
 (5) The ethics committee may not change the approval on its own initiative unless it has first—
   (a) informed the person responsible for the activity undertaken under the approval concerned why it is considering the change; and
   (b) given that person a reasonable time to make written submissions and be heard on the question, either personally or by his or her representative; and
@@ -349,7 +349,7 @@ During any time that a kind of assisted reproductive procedure or human reproduc
   (b) the ethics committee—
     (i) has never given its approval for the procedure or research; or
     (ii) has cancelled any approval previously given for the procedure or research.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
 
 **Designation and functions of ethics committee**
 
@@ -398,7 +398,7 @@ As soon as practicable after the ethics committee grants an approval, it must gi
 (1) As soon as practicable after giving a notice of the kind specified in subsection (2), the Minister must present a copy of the notice to the House of Representatives.
 (2) The kinds of notice are as follows:
   (a) a notice designating the ethics committee under section 27:
-  (b) a notice assigning a function to an ethics committee under section 28(1)(e).
+  (b) a notice assigning a function to an ethics committee under section 28(1)﻿(e).
 (3) In every annual report of the Ministry of Health, the Ministry must publish—
   (a) the name of the chairperson of the ethics committee; and
   (b) the names of the members of the ethics committee.
@@ -429,7 +429,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (e) 1 or more members with the ability to articulate issues from a consumer perspective; and
   (f) 1 or more members with expertise in relevant areas of the law; and
   (g) 1 or more members with the ability to articulate the interests of children.
-(5) Any person appointed by virtue of subsection (4)(g) must at the time of his or her appointment hold the office of Children's Commissioner or be a representative or employee of the person who holds that office.
+(5) Any person appointed by virtue of subsection (4)﻿(g) must at the time of his or her appointment hold the office of Children's Commissioner or be a representative or employee of the person who holds that office.
 (6) At least half the members of the advisory committee must be laypersons.
 (7) For the purposes of subsection (6), a layperson is a person who, at no time during the person's membership of the advisory committee or in the 3 years before becoming a member of the committee,—
   (a) is a health practitioner within the meaning of the Health Practitioners Competence Assurance Act 2003; or
@@ -442,7 +442,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (a) to issue guidelines and give advice to the ethics committee on any matter relating to any kind of assisted reproductive procedure or human reproductive research and to keep such guidelines and advice under review:
   (b) to provide the Minister with advice on aspects of, or issues arising out of, kinds of assisted reproductive procedure or human reproductive research and, without limitation, advice as to whether—
     (i) this Act or another enactment should be amended to prohibit or provide for any kind of assisted reproductive procedure or human reproductive research:
-    (ii) on the basis of the information, assessment, advice, and ethical analysis required under section 6(2)(a) to (d), any kind of procedure or treatment should be declared an established procedure:
+    (ii) on the basis of the information, assessment, advice, and ethical analysis required under section 6(2)﻿(a) to (d), any kind of procedure or treatment should be declared an established procedure:
     (iii) any established procedure should be modified or should cease to be an established procedure:
     (iv) a moratorium should be imposed on any kind of assisted reproductive procedure or human reproductive research:
     (v) regulations should be made under section 76 to regulate the performance of any kind of assisted reproductive procedure or the conduct of any kind of human reproductive research:
@@ -466,7 +466,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (c) give public notice of the issue of the guidelines by publishing in any publication that it considers appropriate for the purpose a notice that states—
     (i) the date and subject matter of the guidelines; and
     (ii) the Internet website on which they are published.
-(3) As soon as practicable after receiving a copy of guidelines under subsection (2)(a), the Minister must present a copy of those guidelines to the House of Representatives.
+(3) As soon as practicable after receiving a copy of guidelines under subsection (2)﻿(a), the Minister must present a copy of those guidelines to the House of Representatives.
 (4) The Director-General of Health must ensure that there are—
   (a) sufficient copies of guidelines published under this section available for public inspection, free of charge, at the Head Office of the Ministry of Health during normal office hours; and
   (b) sufficient copies of those guidelines available, either for distribution free of charge or for purchase at a reasonable price during normal office hours, at places designated by the Director-General of Health.
@@ -480,7 +480,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (e) hybrid embryos:
   (f) requirements for informed consent:
   (g) the import into, or export from, New Zealand of in vitro human gametes or in vitro human embryos.
-(2) In subsection (1)(e), hybrid embryo does not include a mixture of animal and human gametes that has been prepared for any diagnostic test.
+(2) In subsection (1)﻿(e), hybrid embryo does not include a mixture of animal and human gametes that has been prepared for any diagnostic test.
 
 ### 38 Advisory committee to provide specific advice in respect of human assisted reproductive technology
 The advisory committee must, within time frames agreed with the Minister, provide the Minister with information, advice, and, if it thinks fit, recommendations on the following matters in relation to human assisted reproductive technology:
@@ -498,7 +498,7 @@ The advisory committee must, within time frames agreed with the Minister, provid
 (2) The advisory committee may give advice to which this section applies only after it has,—
   (a) on the basis of a discussion paper or an outline of the proposed advice, given interested parties and members of the public a reasonable opportunity to make submissions; and
   (b) taken any such submissions into account.
-(3) For the purposes of subsection (1)(b), advice is not required as a matter of urgency if it relates to the question whether or not a treatment or procedure should be declared to be an established procedure.
+(3) For the purposes of subsection (1)﻿(b), advice is not required as a matter of urgency if it relates to the question whether or not a treatment or procedure should be declared to be an established procedure.
 
 ### 40 Public meetings on proposed significant advice
 (1) If, in the opinion of the advisory committee, a significant number of persons wish to make oral submissions on a proposal to give advice of the kind to which section 39 applies, the advisory committee must hold as many meetings as are required to enable those submissions to be made.
@@ -521,8 +521,8 @@ The advisory committee must, within time frames agreed with the Minister, provid
 (2) The kinds of notice are as follows:
   (a) a notice appointing a member or chairperson of the advisory committee under section 34(1):
   (b) a notice terminating the appointment of a member of the advisory committee under section 34(2):
-  (c) a notice assigning a function to the advisory committee under section 35(1)(e):
-  (d) a notice giving directions as to the procedure of the advisory committee under section 33(1)(b).
+  (c) a notice assigning a function to the advisory committee under section 35(1)﻿(e):
+  (d) a notice giving directions as to the procedure of the advisory committee under section 33(1)﻿(b).
 (3) The advisory committee must, as soon as practicable after each 12-month period ending on 30 June, give the Minister a report—
   (a) on its progress in carrying out its functions; and
   (b) on the number and kinds of decisions given by the ethics committee in that period.
@@ -635,13 +635,13 @@ A provider must ensure that, at all times, there is in place an effective system
     (ii) the names and addresses of the guardians of the donor offspring; and
     (iii) the information specified in subsection (2) about the donor or, as the case requires, about each donor; and
     (iv) the name of the provider.
-(2) The information referred to in subsection (1)(b)(iii) is—
+(2) The information referred to in subsection (1)﻿(b)﻿(iii) is—
   (a) the donor's name:
   (b) the donor's address:
   (c) the date, place, and country of the donor's birth.
 
 ### 54 Providers must give Registrar-General corrected information
-If a provider who has given the Registrar-General information under section 53(1)(b) receives additional information that updates or corrects any of the information already given, the provider must promptly give the Registrar-General the updated or corrected information.
+If a provider who has given the Registrar-General information under section 53(1)﻿(b) receives additional information that updates or corrects any of the information already given, the provider must promptly give the Registrar-General the updated or corrected information.
 
 ### 55 Registrar-General and providers must keep information about donor offspring
 (1) The Registrar-General must keep indefinitely all information given under section 53 or section 54.
@@ -651,8 +651,8 @@ If a provider who has given the Registrar-General information under section 53(1
   (b) the provider ceasing to be a provider in circumstances where there is no successor provider.
 
 ### 56 Providers to accept updated and corrected information about donor offspring
-(1) If a donor offspring who is 18 years or older offers to a provider any information that updates or corrects any of the information already given under section 53(1)(b) about the donor offspring, the provider must accept the updated or corrected information.
-(2) If a guardian of a donor offspring who is under 18 years offers to a provider any information that updates or corrects any of the information already given under section 53(1)(b) about the donor offspring, the provider must accept the updated or corrected information.
+(1) If a donor offspring who is 18 years or older offers to a provider any information that updates or corrects any of the information already given under section 53(1)﻿(b) about the donor offspring, the provider must accept the updated or corrected information.
+(2) If a guardian of a donor offspring who is under 18 years offers to a provider any information that updates or corrects any of the information already given under section 53(1)﻿(b) about the donor offspring, the provider must accept the updated or corrected information.
 
 ### 57 Access by donor offspring to information about them kept by providers or Registrar-General
 (1) If asked to do so by a donor offspring who is 18 years or older, the relevant agency must—
@@ -682,8 +682,8 @@ If a provider who has given the Registrar-General information under section 53(1
   (b) cancelling a notice given to the provider or the Registrar-General by the donor offspring under paragraph (a).
 (2) A provider or the Registrar-General must keep with any information about the donor offspring kept under this Act every notice given by the donor offspring under subsection (1).
 (3) For the purposes of any provision of this Act, a provider or the Registrar-General has the consent of a donor offspring to the disclosure to a donor of identifying information about the donor offspring if, and only if,—
-  (a) the provider or the Registrar-General holds a notice in relation to that donor given by the donor offspring under subsection (1)(a); and
-  (b) that notice has not been cancelled under subsection (1)(b).
+  (a) the provider or the Registrar-General holds a notice in relation to that donor given by the donor offspring under subsection (1)﻿(a); and
+  (b) that notice has not been cancelled under subsection (1)﻿(b).
 
 ### 60 Access by donors to information about donor offspring kept by providers
 (1) At the request of a donor, a provider must tell the donor whether, to the best of the provider's knowledge, there have been born any donor offspring formed from a donated embryo or a donated cell given to or through the provider and (if so) the sex of each donor offspring.
@@ -692,7 +692,7 @@ If a provider who has given the Registrar-General information under section 53(1
 (4) Subsection (3) overrides subsections (1) and (2).
 
 ### 61 Access by donors to information about donor offspring kept by Registrar-General
-(1) At the request of a donor, the Registrar-General must tell the donor whether information given to the Registrar-General under section 53(1)(b) discloses that there have been any donor offspring born and, if so, the sex of each donor offspring.
+(1) At the request of a donor, the Registrar-General must tell the donor whether information given to the Registrar-General under section 53(1)﻿(b) discloses that there have been any donor offspring born and, if so, the sex of each donor offspring.
 (2) If the Registrar-General has the donor offspring's consent to give the donor access to identifying information about the donor offspring, the Registrar-General must do so at the donor's request.
 (3) The Registrar-General may refuse to disclose to the donor, or give the donor access to, identifying information about the donor offspring if satisfied, on reasonable grounds, that to do so is likely to endanger any person.
 (4) Subsection (3) overrides subsections (1) and (2).
@@ -753,7 +753,7 @@ A provider or the Registrar-General must not disclose any information about a do
   (c) any person whom the Registrar-General believes on reasonable grounds to be the guardian of a person who is—
     (i) the offspring of the donor; and
     (ii) under 18 years.
-(9) The Registrar-General may, subject to any request made under subsection (6) or subsection (7)(a), give each of the following persons access to information about a donor offspring provided under subsection (3) and subsection (5):
+(9) The Registrar-General may, subject to any request made under subsection (6) or subsection (7)﻿(a), give each of the following persons access to information about a donor offspring provided under subsection (3) and subsection (5):
   (a) the donor offspring, if he or she is 18 years or older:
   (b) the guardian of the donor offspring, if the donor offspring is under 18 years:
   (c) a person whom the Registrar-General believes on reasonable grounds to be the donor of the donor offspring:
@@ -787,7 +787,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
   (b) the person believes that information—
     (i) has been obtained, kept, or disclosed otherwise than in accordance with this Act; or
     (ii) has not been obtained, accepted, kept, or given, as required by this Act.
-(2) Sections 40 and 41 of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)(a).
+(2) Sections 40 and 41 of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)﻿(a).
 (3) Parts 8, 9, and 12 of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to the making of a complaint under subsection (1) as if the matter to which the complaint relates were an interference with privacy within the meaning of section 66 of that Act.
 (4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 1993 to investigate any complaint made under Part 8 of that Act.
 
@@ -817,7 +817,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
     (ii) any document in the place believed on reasonable grounds to relate to any assisted reproductive procedure or human reproductive research:
   (c)
   (d) search for and seize—
-    (i) any equipment or device referred to in paragraph (b)(i):
+    (i) any equipment or device referred to in paragraph (b)﻿(i):
     (ii) an in vitro gamete:
     (iii) an in vitro embryo or an in vitro foetus:
     (iv) a document or record (whether in electronic or other form):
@@ -832,7 +832,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 (5) This section does not limit the privilege against self-incrimination.
 
 ### 69 Entry of dwellinghouses
-(1) An authorised person may not enter a dwellinghouse under section 68(1)(a), except—
+(1) An authorised person may not enter a dwellinghouse under section 68(1)﻿(a), except—
   (a) with the consent of an occupier of the dwellinghouse; or
   (b) with the authority of a search warrant issued under subsection (2).
 (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house—
@@ -849,7 +849,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 [Repealed]
 
 ### 72 Disposal of property seized
-Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under section 68(1)(d), subject to the following provisions:
+Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under section 68(1)﻿(d), subject to the following provisions:
   (a)
   (b)
   (c)
@@ -862,7 +862,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (2) If a Customs officer detains any matter or item under subsection (1), he or she must, as soon as practicable, deliver that matter or item into the custody of an authorised person.
 (3) Once a matter or item has been delivered under subsection (2),—
   (a) responsibility for that matter or item passes from the Customs officer to the authorised person; and
-  (b) section 72 applies to that matter or item as if it had been seized under section 68(1)(d).
+  (b) section 72 applies to that matter or item as if it had been seized under section 68(1)﻿(d).
 (4) The following sections of the Customs and Excise Act 1996 apply, with any necessary modifications, to any gamete, embryo, foetus, or being that is imported or exported in contravention of section 8(2) or section 9(2) as if the gamete, embryo, foetus, or being and any equipment or device used in relation to that import or export were a prohibited import or, as the case requires, a prohibited export within the meaning of that Act:
   (a) section 145 (questioning persons about goods and debt):
   (b) section 147 (evidence of identity and entitlement to travel):
@@ -878,7 +878,7 @@ No authorised person, or a person requested to assist an authorised person, or a
 (1) Every person commits an offence who—
   (a) intentionally obstructs, hinders, or resists an authorised person, or any person lawfully assisting an authorised person, in the exercise of the authorised person's powers under this Act; or
   (b) intentionally refuses or fails to comply with any lawful requirements of an authorised person under this Act.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $20,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $20,000.
 
 **Miscellaneous provisions**
 
@@ -893,11 +893,11 @@ No authorised person, or a person requested to assist an authorised person, or a
   (b) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under paragraph (a) and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $20,000:
   (c) prescribing the fees to be paid in relation to the taking of any action under Part 3 by the Registrar-General:
   (d) providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
-(1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers’ Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both—
+(1A) Regulations under subsection (1)﻿(a)﻿(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers’ Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both—
   (a) from dead individuals; and
   (b) in connection with, or for the purposes of, the performance of assisted reproductive procedures, the conduct of human reproductive research, or any other lawful use or uses of the gametes, embryos, or both.
-(1B) Subsection (1A) does not limit subsection (1)(a)(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
-(2) Regulations under subsection (1)(a) may be made only on the recommendation of the Minister after the Minister has consulted and received advice from the advisory committee and consulted any other person the Minister thinks fit to consult.
+(1B) Subsection (1A) does not limit subsection (1)﻿(a)﻿(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
+(2) Regulations under subsection (1)﻿(a) may be made only on the recommendation of the Minister after the Minister has consulted and received advice from the advisory committee and consulted any other person the Minister thinks fit to consult.
 
 ### 77 Liability of employers, principals, and directors
 (1) An act done by a person as the employee (the employee) of another person (the employer) is, for the purposes of an offence against this Act, to be treated as done by the employer as well as by the employee if—
@@ -934,7 +934,7 @@ The Registrar-General may refuse to take any action under this Act for which a f
   (b) has been the subject of an audit report completed, for the purposes of the person's accreditation, by an organisation approved under subsection (4); and
   (c) has, within 5 days after the receipt of the most recent report of the kind described in paragraph (b), given the Director-General a copy of the report; and
   (d) complies with any standards approved by the Director-General of Health under section 82.
-(2) For the purposes of subsection (1)(a), a person who is accredited by an organisation approved under subsection (4) is deemed to be certified for the purposes of section 26 of the Health and Disability Services (Safety) Act 2001.
+(2) For the purposes of subsection (1)﻿(a), a person who is accredited by an organisation approved under subsection (4) is deemed to be certified for the purposes of section 26 of the Health and Disability Services (Safety) Act 2001.
 (3) The provision of fertility services is not in compliance with section 9 of the Health and Disability Services (Safety) Act 2001 unless it is deemed to comply with that section by subsection (1).
 (4) The Director-General may approve any organisation to act as auditing agency to accredit a person for the purposes of the interim period if the Director-General is satisfied that the organisation has the expertise and experience to carry out that function.
 (5) An organisation approved under subsection (4) may be a body corporate or an association of persons, whether or not that body is incorporated, or any of those persons reside, in New Zealand or overseas.
@@ -1009,39 +1009,3 @@ Implant into a human being a genetically modified gamete, human embryo, or hybri
 Implant into a human being gametes derived from a foetus, or an embryo that has been formed from a gamete or gametes derived from a foetus.
 
 ## Schedule 2 — Form of search warrant
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
