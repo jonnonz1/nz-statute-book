@@ -1,5 +1,5 @@
 # Education Act 1964
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the education of the people of New Zealand
 
@@ -478,7 +478,7 @@ Notwithstanding anything to the contrary in section 77, if the school's board fo
 Notwithstanding anything in sections 77 and 78, in any case where the Minister is satisfied that the majority of the parents of pupils attending a school wish their children to receive religious instruction additional to that specified in the said section 78 and he is satisfied that such additional religious instruction will not be to the detriment of the normal curriculum of the school, he shall generally or in any special case, after consultation with the school's board, authorise the additional religious instruction up to such an amount and subject to such conditions as he thinks fit.
 
 ### 79 Attendance at religious instruction or observances not compulsory
-(1) No pupil enrolled at a State primary school shall be required to attend or take part in any such instruction or observances if any parent or guardian of the pupil does not wish the pupil to take part therein and makes his or her wishes known in writing to the head teacher of the school.
+(1) No pupil enrolled at a State primary school shall be required to attend or take part in any such instruction or observances if any parent or guardian of the pupil does not wish the pupil to take part therein and makes his or her wishes known in writing to the principal of the school.
 (2) Any parent or guardian who has given such an indication of wishes may at any time withdraw it.
 
 ### 80 Teachers may be freed from duties to take part in religious instruction or observances
@@ -879,7 +879,7 @@ Having regard to the provision of continuing education, the Minister may establi
 ### 162 Teachers to take oath of allegiance
 (1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, teachers college, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
 (2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
-(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding 50 pounds.
+(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on conviction to a fine not exceeding 50 pounds.
 
 ### 163 Teachers not to engage in other employment in certain circumstances
 [Repealed]
@@ -1135,7 +1135,7 @@ This Part shall be read together with and deemed part of the Education Act 1964 
 (4) Before a grant is paid under subsection (2), the Minister may give the governing body concerned written notice that the grant, or a part or parts of the grant (specified as a particular sum or as a proportion of the total grant), is not to be used except for purposes specified in the notice.
 (5) A governing body that has been given notice under subsection (4) shall ensure that no part of the grant to which the notice relates is used for purposes other than those specified for it in the notice.
 (6) Subject to subsection (5), a governing body to which a grant is paid under subsection (2) shall apply the grant in doing whatever it thinks will best achieve the purposes the institution or institutions concerned were established for.
-(7) Every institution that was, immediately before the commencement of this Part, recognised pursuant to regulations made under section 70(1)(b) of the principal Act shall be deemed on that commencement to have been recognised under paragraph (a) of subsection (1); and paragraph (b) of that subsection shall apply accordingly.
+(7) Every institution that was, immediately before the commencement of this Part, recognised pursuant to regulations made under section 70(1)﻿(b) of the principal Act shall be deemed on that commencement to have been recognised under paragraph (a) of subsection (1); and paragraph (b) of that subsection shall apply accordingly.
 (8)
 (9)
 (10)
