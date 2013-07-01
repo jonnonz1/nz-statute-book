@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2012-11-30_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -440,8 +440,8 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (2) The penalty for an offence against section 209(1)(b) of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
 
 ### 31 Offences
-(1) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $200,000 who exports a dairy product contrary to section 23.
-(2) Every person commits an offence against this Act, and is liable on summary conviction to the following fines, who does not provide the information or document required under section 29G:
+(1) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200,000 who exports a dairy product contrary to section 23.
+(2) Every person commits an offence against this Act, and is liable on conviction to the following fines, who does not provide the information or document required under section 29G:
   (a) a fine not exceeding $200,000; and
   (b) a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk collection data contrary to Schedule 5B:
@@ -456,7 +456,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (1) It is a defence in any proceedings for an offence under section 31 if the defendant proves that—
   (a) the contravention was due to an event or cause beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
+(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 34 Liability of companies and persons for actions of agents or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of this subpart, also as the act or omission of the first-mentioned person.
@@ -481,7 +481,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (1) If a body corporate commits an offence under section 31, every director, and every person concerned in the management of the body corporate, also commits an offence under that section if it is proved that—
   (a) the act or omission that constituted the offence took place with the director’s or person’s authority, permission, or consent; or
   (b) the director or person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
-(2) Every person to whom subsection (1) applies is liable on summary conviction to the fine specified in section 31.
+(2) Every person to whom subsection (1) applies is liable on conviction to the fine specified in section 31.
 (3) A person may be convicted of the offence even though the body corporate has not been charged with that offence or a similar offence.
 
 ### 36 Presumption as to authority
@@ -519,7 +519,7 @@ The Crown is not liable to any person for—
 ### 41 Minister may require information
 (1) Any holder of an export licence must supply to the Minister any information relating to designated markets that the Minister considers is relevant to the purpose in section 21(1) and that the Minister from time to time requests in writing.
 (2) Subsection (1) applies only to information that is in the person’s possession or that the person can obtain without unreasonable difficulty or expense.
-(3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ### 42 Disclosure of information
 (1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the Customs and Excise Act 1996, disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
@@ -689,8 +689,8 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 65; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 66(1) or (3).
 (2) Every person commits an offence against this section who makes a false declaration under section 66(4) in relation to any statement, forecast, report, agreement, particulars, or information supplied under section 66(1) or (3).
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 68 Database if LIC wound up
 (1) This section applies if—
@@ -1242,8 +1242,8 @@ Sections 109A to 109M expire and are repealed,—
   (b) fails, without reasonable excuse, to comply with the requirements of section 117(1) and (3); or
   (c) fails, without reasonable excuse, to comply with any requirement of section 147(4).
 (2) Every person commits an offence against this section who makes a false declaration under section 117(4) in relation to any information, statement, or report supplied under section 117(1) or (3).
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 119 Regulations prescribing fees
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees for applications to the Commission under section 120.
@@ -2173,39 +2173,3 @@ In sections 20 and 21,—
   (a) section 98(1):
   (b) section 99:
   (c) sections 101 to 105.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
