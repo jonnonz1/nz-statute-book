@@ -1,10 +1,12 @@
 # Cook Islands Act 1915
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision with respect to the government and laws of the Cook Islands
 
 ## Preamble
-WHEREAS by Order in Council dated the 13th day of May 1901, and made under the Colonial Boundaries Act 1895, it was ordered by His Majesty the King (with the consent of the General Assembly, testified by resolution of both Houses of the said General Assembly) that on and after a date to be appointed by the Governor by Proclamation the Islands of the Cook Group and all other the islands and territories then or thereafter forming part of His Majesty's dominions situate within the boundary lines set forth in Schedule 1 hereto should form part of New Zealand: And whereas by Proclamation dated the 10th day of June 1901 the Governor appointed the 11th day of June 1901 to be the date on and after which the said Order in Council should come into effect: And whereas it is expedient to make better provision with respect to the government and laws of the said islands.
+Whereas by Order in Council dated 13 May 1901, and made under the Colonial Boundaries Act 1895, it was ordered by His Majesty the King (with the consent of the General Assembly, testified by resolution of both Houses of the said General Assembly) that on and after a date to be appointed by the Governor by Proclamation the Islands of the Cook Group and all other the islands and territories then or thereafter forming part of His Majesty's dominions situate within the boundary lines set forth in Schedule 1 should form part of New Zealand:
+And whereas by Proclamation dated 10 June 1901 the Governor appointed 11 June 1901 to be the date on and after which the said Order in Council should come into effect:
+And whereas it is expedient to make better provision with respect to the government and laws of the said islands.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Cook Islands Act 1915.
@@ -16,32 +18,27 @@ WHEREAS by Order in Council dated the 13th day of May 1901, and made under the C
   - **Attorney-General** includes the Solicitor-General
   - **Collector of Customs** or means any officer appointed as Collector of Customs at any port or in respect of any district and includes the Comptroller of Customs; and also includes the chief officer of Customs at any port or other place, and any proper officer acting for the time being in place of the Collector either generally or in respect of any of his powers or functions, whether during any vacancy in the office of Collector or otherwise
   - **Constable** means an officer of police of the Cook Islands Public Service
-  - **The Constitution** means the Constitution of the Cook Islands as set out in the Schedule to the Cook Islands Constitution Act 1964
-  - **The Cook Islands** means all the islands and territories situate within the boundary lines set out in Schedule 1 hereto but does not include the Island of Niue
+  - **the Constitution** means the Constitution of the Cook Islands as set out in the Schedule to the Cook Islands Constitution Act 1964
+  - **the Cook Islands** means all the islands and territories situate within the boundary lines set out in Schedule 1 but does not include the Island of Niue
   - **Cook Islands Public Service** has the meaning assigned thereto by section 76 of the Cook Islands Amendment Act 1957
-  - **Cook Islands Treasury**
-  - **Customary land** means land which, being vested in the Crown, is held by Natives or the descendants of Natives under the Native customs and usages of the Cook Islands
-  - **Enactment** includes any Act of the Legislative Assembly of the Cook Islands or of the Parliament of New Zealand, any Ordinance, any regulations, and any rules
+  - **customary land** means land which, being vested in the Crown, is held by Natives or the descendants of Natives under the Native customs and usages of the Cook Islands
+  - **enactment** includes any Act of the Legislative Assembly of the Cook Islands or of the Parliament of New Zealand, any Ordinance, any regulations, and any rules
   - **European** means any person whatever other than a Native, and includes a body corporate
   - **High Commissioner** means the High Commissioner of the Cook Islands; and includes his Deputy lawfully acting in place of the High Commissioner
   - **High Court** means the High Court of the Cook Islands
-  - **Judgment** includes any judicial decree, order, or determination, whether in an action or in any other judicial proceeding, whether civil or criminal
-  - **Land Appellate Court**
-  - **Land Court**
+  - **judgment** includes any judicial decree, order, or determination, whether in an action or in any other judicial proceeding, whether civil or criminal
   - **Legislative Assembly** means the Legislative Assembly of the Cook Islands
   - **Medical Officer** means the Chief Medical Officer of the Cook Islands; and includes any Medical Officer who is an employee of the Cook Islands Public Service
   - **Native** means a person belonging to any of the Polynesian races (including the Maori race), and includes a half-caste and a person intermediate in blood between a half-caste and a person of pure descent from any such race
   - **Native land** means customary land or Native freehold land, as herein defined
   - **New Zealand** means the Dominion of New Zealand exclusive of the Cook Islands
-  - **New Zealand Public Service**
-  - **Offence** includes all offences punishable by way of criminal proceedings under this or any other enactment
-  - **Prescribed** means prescribed by regulations
+  - **offence** includes all offences punishable by way of criminal proceedings under this or any other enactment
+  - **prescribed** means prescribed by regulations
   - **Regulations** means regulations made by the Governor-General in Council
   - **Resident Agent** means the Resident Agent appointed under this Act for any island
-  - **Resident Commissioner**
   - **Secretary** means the Secretary of Foreign Affairs
   - **Superannuation Acts** means the Acts by which the superannuation funds are established and regulated
-  - **Superannuation funds** means the Government Superannuation Fund
+  - **Superannuation funds** means the Government Superannuation Fund.
 (2) In this Act, unless the context otherwise requires,—References to a Minister are references to a Minister of the Government of the Cook Islands:References to a Department are references to a Department of the Government of the Cook Islands.
 
 ### 3 Application
@@ -52,246 +49,264 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 
 ## Part 1 — Executive government of the Cook Islands
 
-### 5
+### 5 Minister for the Cook Islands
 [Repealed]
 
-### 6
+### 6 Secretary for the Cook Islands
 [Repealed]
 
-### 7
+### 7 Officers agsisting the Secretary
 [Repealed]
 
-### 8
+### 8 Secretary and other officers belonging to New Zealand Public Service
 [Repealed]
 
-### 9
+### 9 Resident Commissioner of Rarotonga
 [Repealed]
 
-### 10
+### 10 Resident Commissioner of Niue
 [Repealed]
 
-### 11
+### 11 Deputy Resident Commissioners
 [Repealed]
 
-### 12
+### 12 Resident Agents
 [Repealed]
 
-### 13
+### 13 Cook Islands Public Service
 [Repealed]
 
-### 14
+### 14 Concurrent offices
 [Repealed]
 
-### 15
+### 15 Delegation of power of appointment to Resident Commissioners
 [Repealed]
 
-### 16
+### 16 Regulations as to Cook Islands Public Service
 [Repealed]
 
-### 17
+### 17 Payment from Publio Aooount and Cook Islands Treasury
 [Repealed]
 
-### 18
+### 18 Appointment of acting officers by Resident Commissioner
 [Repealed]
 
-### 19
+### 19 Suspension of officers
 [Repealed]
 
-### 20
+### 20 Appointment of New Zealand officers to Cook Islands Public Service.
 [Repealed]
 
-### 21
+### 21 Concurrent offices in both services
 [Repealed]
 
-### 22
+### 22 Stations of officers belonging to both services
 [Repealed]
 
-### 23
+### 23 Contributions to superannuation fund
 [Repealed]
 
-### 24
+### 24 Transfer from New Zealand Service to Cook Islands Service. Supernumerary officers
 [Repealed]
 
-### 25
+### 25 Pay of supernumerary officers
 [Repealed]
 
-### 26
+### 26 Appointment of supernumerary officers to New Zealand Service
 [Repealed]
 
-### 27
+### 27 Contributions of supernumerary officers to superannuation fund
 [Repealed]
 
-### 28
+### 28 Computation of length of service in Cook Islands
 [Repealed]
 
-### 29
+### 29 Public Service Act 1912, not applicable
 [Repealed]
 
-### 30
+### 30 Superannuation Acts not applicable
 [Repealed]
 
-### 31
+**The Public Revenues of the Cook Islands**
+
+### 31 Moneys forming part of Cook Islands revenue
 [Repealed]
 
-### 32
+### 32 Cook Islands Account and Niue Island Account.
 [Repealed]
 
-### 33
+### 33 Expenditure of Cook Islands
 [Repealed]
 
-### 34
+### 34 Regulations as to revenue and expenditure
 [Repealed]
 
-### 35
+### 35 Expenditure by Resident Commissioners
 [Repealed]
 
-### 36
+### 36 Revenues raised by Island Ordinances
 [Repealed]
 
-### 37
+**The Seal of the Cook Islands**
+
+### 37 The Seal of the Cook Islands
 [Repealed]
 
-### 38
+**Public Health**
+
+### 38 Chief Medical Officer of Rarotonga
 [Repealed]
 
-### 39
+### 39 Chief Medical Officer of Niue
 [Repealed]
 
-### 40
+### 40 Assistant Medical Officers
 [Repealed]
 
-### 41
+### 41 Qualification of Medical Officers
 [Repealed]
 
-### 42
+### 42 Duties of Medical Officers
 [Repealed]
 
-### 43
+### 43 Hospitals and other institutions of public health
 [Repealed]
 
-### 44
+**Prisons and Police**
+
+### 44 Establishment of prisons
 [Repealed]
 
-### 45
+### 45 Island may be appointed as a prison
 [Repealed]
 
-### 46
+### 46 Gaoler to be appointed by the Governor
 [Repealed]
 
-### 47
+### 47 Removal from one prison to another
 [Repealed]
 
-### 48
+### 48 Temporary confinement elsewhere than in prison
 [Repealed]
 
-### 49
+### 49 Compulsory labour in lieu of imprisonment
 [Repealed]
 
-### 50
+### 50 Appointment of police
 [Repealed]
 
-### 51
+**Education**
+
+### 51 Establishment of public schools
 [Repealed]
 
-### 52
+**Communication between the Islands**
+
+### 52 Acquisition and use of ship for the public service
 [Repealed]
 
-### 53
+**Regulations**
+
+### 53 Governor in Council may make regulations for the peace, order, and good government of the Cook Islands
 [Repealed]
 
-### 54
+### 54 Regulations must be consistent with statute law
 [Repealed]
 
-### 55
+### 55 Regulations may impose taxation
 [Repealed]
 
-### 56
+### 56 Penalties for breaches of regulations
 [Repealed]
 
-### 57
+### 57 Control of imports and exports
 [Repealed]
 
-### 58
+### 58 Application of regulations
 [Repealed]
 
 ## Part 2 — Island Councils
 
-### 59
+**Constitution of Island councils**
+
+### 59 Island Councils of Rarotonga and Niue
 [Repealed]
 
-### 60
+### 60 Governor in Council may establish other Island Councils
 [Repealed]
 
-### 61
+### 61 Abolition of Island Councils
 [Repealed]
 
-### 62
+### 62 Membership of Island Councils
 [Repealed]
 
-### 63
+### 63 Payment of members of Island Councils
 [Repealed]
 
-### 64
+### 64 Regulations as to elective membership.
 [Repealed]
 
-### 65
+### 65 Nominated members of Island Councils
 [Repealed]
 
-### 66
+### 66 Ex officio members of Island Councils
 [Repealed]
 
-### 67
+### 67 Qualification for ex officio membership
 [Repealed]
 
-### 68
+### 68 Women may be members or electors of Island Councils
 [Repealed]
 
-### 69
+### 69 Resident Commissioners and Resident Agents to be members of Island Councils
 [Repealed]
 
-### 70
+**Island Ordinances**
+
+### 70 Legislative powers of Island Councils
 [Repealed]
 
-### 71
+### 71 Ordinances must not be repugnant to Acts of Parliament
 [Repealed]
 
-### 72
+### 72 Maximum penalties imposed by Ordinances
 [Repealed]
 
-### 73
+### 73 Duties of Customs not to be imposed
 [Repealed]
 
-### 74
+### 74 Appropriation of revenues
 [Repealed]
 
-### 75
+### 75 Borrowing of money
 [Repealed]
 
-### 76
+### 76 Saving of rights of Crown
 [Repealed]
 
-### 77
+### 77 Courts of justice
 [Repealed]
 
-### 78
+### 78 Ordinances may deal with matters already dealt with by Acts
 [Repealed]
 
-### 79
+### 79 Assent to Ordinances.
 [Repealed]
 
-### 80
+### 80 Reservation of Ordinances
 [Repealed]
 
-### 81
+### 81 Assent of Resident Commissioner
 [Repealed]
 
-### 82
+### 82 Commencement of Ordinances so assented to
 [Repealed]
 
-### 83
+### 83 Transmission of reserved Ordinances to Minister
 [Repealed]
 
-### 84
+### 84 Assent of Governor
 [Repealed]
 
 ### 84A
@@ -300,86 +315,88 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 ### 84B
 [Repealed]
 
-### 85
+### 85 Commencement of Ordinances so assented to
 [Repealed]
 
 ### 85A
 [Repealed]
 
-### 86
+### 86 Mode of Governor's assent
 [Repealed]
 
-### 87
+### 87 Transmission of Ordinances after assent of Resident Commissioner
 [Repealed]
 
-### 88
+### 88 Disallowance of Ordinances
 [Repealed]
 
-### 89
+### 89 Effect of disallowance
 [Repealed]
 
-### 90
+### 90 Language of Ordinances
 [Repealed]
 
-### 91
+### 91 Validity of Ordinances
 [Repealed]
 
-### 92
+**Procedure of Island Councils**
+
+### 92 Meetings of Island Councils
 [Repealed]
 
-### 93
+### 93 President of Council
 [Repealed]
 
-### 94
+### 94 Election of temporary President
 [Repealed]
 
-### 95
+### 95 President's right of voting
 [Repealed]
 
-### 96
+### 96 Quorum of Council
 [Repealed]
 
-### 97
+### 97 Presence of President necessary
 [Repealed]
 
-### 98
+### 98 Rules of procedure
 [Repealed]
 
-### 99
+### 99 Disorderly conduct at meetings
 [Repealed]
 
-### 100
+### 100 Clerks of Island Councils
 [Repealed]
 
 ## Part 3 — The High Court of the Cook Islands
 
 **Constitution of the High Court**
 
-### 101
+### 101 High Court established
 [Repealed]
 
-### 102
+### 102 Identity of High Court with former of the same name
 [Repealed]
 
-### 103
+### 103 Judges of the High Court
 [Repealed]
 
-### 104
+### 104 Tenure and salaries of Judges
 [Repealed]
 
-### 105
+### 105 Stations of Judges
 [Repealed]
 
-### 106
+### 106 Acting Judges of the High Court
 [Repealed]
 
 ### 107 Powers of Judges
 [Repealed]
 
-### 108
+### 108 Commissioners of the High Court
 [Repealed]
 
-### 108A
+### 108A Justices of the Peace
 [Repealed]
 
 ### 109 Registrars of the High Court
@@ -495,8 +512,8 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 (4) Every such memorial being so filed shall thenceforth be a record of such judgment, and execution may issue thereon with the leave of the High Court, in the same manner as if the like judgment had been given by the High Court, subject, however, to such terms and conditions as the High Court may think fit to impose.
 (5) Leave to issue such execution may be given by the High Court on the application of the party by whom the memorial was filed, and either ex parte or on notice to the party against whom execution is to be issued, as the High Court thinks fit.
 (6) Such leave shall not be granted unless the High Court is satisfied, by affidavit or otherwise,—
-  (a) That the person against whom execution is to be issued was resident or present in the Cook Islands at the commencement of the proceedings in which the judgment was given; or
-  (b) That the cause of action in such proceedings or some material part of that cause of action arose in the Cook Islands.
+  (a) that the person against whom execution is to be issued was resident or present in the Cook Islands at the commencement of the proceedings in which the judgment was given; or
+  (b) that the cause of action in such proceedings or some material part of that cause of action arose in the Cook Islands.
 (7) Every such affidavit shall, if made in the Cook Islands, be sworn before a Judge of the High Court or a Commissioner of the High Court.
 
 **Absconding debtors**
@@ -546,13 +563,13 @@ Each island forming part of the Cook Islands shall for all purposes be deemed to
 [Repealed]
 
 ### 154A Place for filing proceedings
-Any proceedings in the High Court of New Zealand in the jurisdiction conferred on it by section 153 or section 154 of this Act shall be filed in the office of the High Court at Auckland.
+Any proceedings in the High Court of New Zealand in the jurisdiction conferred on it by section 153 or section 154 shall be filed in the office of the High Court at Auckland.
 
 ### 155 Criminal jurisdiction of High Court in respect of Cook Islands
-(1) Notwithstanding anything in this Act, the criminal jurisdiction of the High Court of New Zealand shall extend to offences committed in the Cook Islands, and may be exercised in New Zealand in respect of such offences accordingly in the same manner as if they were indictable offences committed in New Zealand.
+(1) Notwithstanding anything in this Act, the criminal jurisdiction of the High Court of New Zealand shall extend to offences committed in the Cook Islands, and may be exercised in New Zealand in respect of such offences accordingly in the same manner as if they were offences committed in New Zealand that are within the jurisdiction of the High Court of New Zealand.
 (2) Such jurisdiction shall be exercised only over offenders found in New Zealand.
-(3) In respect of any offence which is within the jurisdiction of the High Court under this section the like preliminary proceedings before Justices of the Peace or a District Court Judge may be taken in New Zealand as in the case of indictable offences committed in New Zealand.
-(3A) The information for any such offence shall be filed either in the District Court at Auckland or the office of the District Court appointed for the exercise of criminal jurisdiction which is nearest by the most practicable route to the place where the informant believes that the defendant may be found.
+(3) In respect of any offence which is within the jurisdiction of the High Court under this section the like preliminary proceedings before Justices of the Peace or a District Court Judge may be taken in New Zealand as in the case of such offences committed in New Zealand.
+(3A) The charging document for any such offence shall be filed either in the District Court at Auckland or the office of the District Court appointed for the exercise of criminal jurisdiction which is nearest by the most practicable route to the place where the prosecutor believes that the defendant may be found.
 (4) The punishment to be imposed by the High Court for any such offence shall be that which is provided for that offence by the laws of the Cook Islands. Any person so liable to be imprisoned may be sentenced to imprisonment with or without hard labour as the High Court thinks fit.
 (5) No prosecution in New Zealand for an offence committed in the Cook Islands shall be commenced without the leave of the Attorney-General.
 
@@ -563,7 +580,7 @@ Any proceedings in the High Court of New Zealand in the jurisdiction conferred o
 
 **Appeals from the High Court and Land Court**
 
-### 157
+### 157 Jurisdiction of Supreme Court on appeal from the High Court
 [Repealed]
 
 ### 158 Order granting leave to appeal
@@ -578,7 +595,7 @@ Any proceedings in the High Court of New Zealand in the jurisdiction conferred o
 ### 161 Procedure on appeal
 [Repealed]
 
-### 162
+### 162 Special leave to appeal may be granted by Supreme Court
 [Repealed]
 
 ### 163 Powers of the Supreme Court on appeal
@@ -599,16 +616,16 @@ Any proceedings in the High Court of New Zealand in the jurisdiction conferred o
 ### 168 Right of audience on appeal
 [Repealed]
 
-### 169
+### 169 Transmission of order of Supreme Court on appeal
 [Repealed]
 
-### 170
+### 170 No appeal to the Court of Appeal
 [Repealed]
 
 ### 171 Certiorari, mandamus, and prohibition taken away
 [Repealed]
 
-### 172
+### 172 Appeals to Supreme Court from Native Land Court
 [Repealed]
 
 **Enforcement in the Cook Islands of judgments of New Zealand courts**
@@ -631,283 +648,283 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 
 ## Part 5 — Criminal offences
 
-### 176
+### 176 Treason
 [Repealed]
 
-### 177
+### 177 Inciting to mutiny
 [Repealed]
 
-### 178
+### 178 Murder
 [Repealed]
 
-### 179
+### 179 Manslaughter
 [Repealed]
 
-### 180
+### 180 "Omission" defined
 [Repealed]
 
-### 181
+### 181 Omissions dangerous to life
 [Repealed]
 
-### 182
+### 182 Omission to supply the necessaries of life
 [Repealed]
 
-### 183
+### 183 Liability of persons having charge of dangerous things
 [Repealed]
 
-### 184
+### 184 Hastening death
 [Repealed]
 
-### 185
+### 185 Indirect cause of death
 [Repealed]
 
-### 186
+### 186 Attempted murder
 [Repealed]
 
-### 187
+### 187 Conspiracy and inciting to murder
 [Repealed]
 
-### 188
+### 188 Attempted suicide
 [Repealed]
 
-### 189
+### 189 Counselling suicide
 [Repealed]
 
-### 190
+### 190 Concealment of birth
 [Repealed]
 
-### 191
+### 191 Grievous bodily harm
 [Repealed]
 
-### 192
+### 192 Actual bodily harm
 [Repealed]
 
-### 193
+### 193 Omissions resulting in bodily harm
 [Repealed]
 
-### 194
+### 194 Indecent assault
 [Repealed]
 
-### 195
+### 195 Assault
 [Repealed]
 
-### 196
+### 196 Rape
 [Repealed]
 
-### 197
+### 197 Carnal knowledge of girls under twelve years of age
 [Repealed]
 
-### 198
+### 198 Carnal knowledge of girls under fifteen years of age
 [Repealed]
 
-### 199
+### 199 Carnal knowledge of idiots or lunatics
 [Repealed]
 
-### 200
+### 200 Adultery by married persons
 [Repealed]
 
-### 201
+### 201 Adultery with married woman
 [Repealed]
 
-### 202
+### 202 Procuring miscarriage of woman or girl
 [Repealed]
 
-### 203
+### 203 Act of woman or girl procuring her own miscarriage
 [Repealed]
 
-### 204
+### 204 Supplying means of miscarriage
 [Repealed]
 
-### 205
+### 205 Bigamy
 [Repealed]
 
-### 206
+### 206 Buggery
 [Repealed]
 
-### 207
+### 207 Attempted buggery and indecent assaults on males
 [Repealed]
 
-### 208
+### 208 Incest
 [Repealed]
 
-### 209
+### 209 Indecent acts
 [Repealed]
 
-### 210
+### 210 Indecent documents
 [Repealed]
 
-### 211
+### 211 Brothels
 [Repealed]
 
-### 212
+### 212 Gaming-houses
 [Repealed]
 
-### 213
+### 213 Gaming by Natives
 [Repealed]
 
-### 214
+### 214 Stealing children
 [Repealed]
 
-### 215
+### 215 Riot
 [Repealed]
 
-### 216
+### 216 Forcible entry
 [Repealed]
 
-### 217
+### 217 Affrays
 [Repealed]
 
-### 218
+### 218 Official corruption
 [Repealed]
 
-### 219
+### 219 Perjury
 [Repealed]
 
-### 220
+### 220 Fabricating evidence
 [Repealed]
 
-### 221
+### 221 Conspiracy to pervert justice
 [Repealed]
 
-### 222
+### 222 Breaking prison
 [Repealed]
 
-### 223
+### 223 Escape
 [Repealed]
 
-### 224
+### 224 Rescue
 [Repealed]
 
-### 225
+### 225 Defamatory libel
 [Repealed]
 
-### 226
+### 226 Punishment of theft
 [Repealed]
 
-### 227
+### 227 Definition of theft
 [Repealed]
 
-### 228
+### 228 Ineffectual defences to charge of theft
 [Repealed]
 
-### 229
+### 229 Extended definition of theft
 [Repealed]
 
-### 230
+### 230 Obtaining money or goods by false pretences to be deemed theft
 [Repealed]
 
-### 231
+### 231 Stealing documents
 [Repealed]
 
-### 232
+### 232 Receiving stolen goods
 [Repealed]
 
-### 233
+### 233 Robbery
 [Repealed]
 
-### 234
+### 234 Breach of trust
 [Repealed]
 
-### 235
+### 235 Menaces
 [Repealed]
 
-### 236
+### 236 Witchcraft
 [Repealed]
 
-### 237
+### 237 Obtaining credit by fraud
 [Repealed]
 
-### 238
+### 238 Accusation of criminal offences
 [Repealed]
 
-### 239
+### 239 Conspiracy to defraud
 [Repealed]
 
-### 240
+### 240 Obtaining execution of valuable securities by fraud
 [Repealed]
 
-### 241
+### 241 Burglary
 [Repealed]
 
-### 242
+### 242 Forgery
 [Repealed]
 
-### 243
+### 243 Extended definition of forgery
 [Repealed]
 
-### 244
+### 244 Making counterfeit coin
 [Repealed]
 
-### 245
+### 245 Lightening coin
 [Repealed]
 
-### 246
+### 246 Uttering counterfeit coin
 [Repealed]
 
-### 247
+### 247 Arson
 [Repealed]
 
-### 248
+### 248 Wilful mischief to property
 [Repealed]
 
-### 249
+### 249 Provoking breach of the peace
 [Repealed]
 
-### 250
+### 250 Disorderly conduct in public place
 [Repealed]
 
-### 251
+### 251 Furious driving
 [Repealed]
 
-### 252
+### 252 Cattle trespass
 [Repealed]
 
-### 253
+### 253 Obstructing public place
 [Repealed]
 
-### 254
+### 254 Drunkenness
 [Repealed]
 
-### 255
+### 255 Prostitution
 [Repealed]
 
-### 256
+### 256 Laying poison
 [Repealed]
 
-### 257
+### 257 Polluting water
 [Repealed]
 
-### 258
+### 258 Sale of unwholesome provisions
 [Repealed]
 
-### 259
+### 259 Insanitary premises
 [Repealed]
 
-### 260
+### 260 Wilful trespass
 [Repealed]
 
-### 261
+### 261 Cruelty to animals
 [Repealed]
 
 ### 262 Falsely trading as an incorporated company
 [Repealed]
 
-### 263
+### 263 Conspiracy
 [Repealed]
 
-### 264
+### 264 Attempts
 [Repealed]
 
-### 265
+### 265 Inciting
 [Repealed]
 
-### 266
+### 266 Parties to offences
 [Repealed]
 
-### 267
+### 267 Common criminal purpose
 [Repealed]
 
-### 268
+### 268 Counselling or procuring
 [Repealed]
 
 ### 268A
@@ -916,19 +933,19 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 ### 268B
 [Repealed]
 
-### 269
+### 269 Common-law defences
 [Repealed]
 
-### 270
+### 270 Common-law offences
 [Repealed]
 
-### 271
+### 271 Sentence of death
 [Repealed]
 
 ### 272 Maximum fines and terms of imprisonment
 [Repealed]
 
-### 273
+### 273 Enforcement of fines
 [Repealed]
 
 ### 274 Imprisonment in Cook Islands
@@ -938,44 +955,44 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 (1) Every person condemned to death and every person sentenced to imprisonment, or committed to prison, for 6 months or more may, by warrant under the hand of the High Commissioner and the Seal of the Cook Islands, be transferred to some prison in New Zealand named or described in the warrant.
 (2) On the issue of any such warrant the person named therein shall thereupon be taken in custody from the Cook Islands to New Zealand, and there forthwith delivered to the Superintendent of the prison named or described in the warrant.
 (3) The warrant shall be delivered to the said Superintendent together with a certificate under the hand of a Judge of the High Court and the seal of that Court setting forth the fact of the conviction or commitment of the person named in the warrant, the offence of which he was convicted or the reason of the commitment, and the sentence of the Court condemning him to death or, as the case may be, the term for which he has been so sentenced or committed.
-(4) Where, after any person condemned to death has been brought to New Zealand under the foregoing provisions of this section,—the sentence of imprisonment may, by further warrant under the hand of the High Commissioner and the Seal of the Cook Islands, be carried into effect in some prison in New Zealand under the provisions of subsection (5) of this section.
-  (a) The sentence of death has been commuted to a sentence of imprisonment; or
-  (b) The High Court has on appeal substituted for the conviction for the offence in respect of which that person was condemned to death a conviction for some other offence and has imposed a sentence of imprisonment in respect thereof,—
+(4) Where, after any person condemned to death has been brought to New Zealand under the foregoing provisions of this section,—the sentence of imprisonment may, by further warrant under the hand of the High Commissioner and the Seal of the Cook Islands, be carried into effect in some prison in New Zealand under the provisions of subsection (5).
+  (a) the sentence of death has been commuted to a sentence of imprisonment; or
+  (b) the High Court has on appeal substituted for the conviction for the offence in respect of which that person was condemned to death a conviction for some other offence and has imposed a sentence of imprisonment in respect thereof,—
 (5) Where any person brought to New Zealand under the provisions of this section is imprisoned in New Zealand under any of the foregoing provisions of this section,—
-  (a) The period during which he has been in custody since the sentence was imposed in the Cook Islands until his delivery to the Superintendent in New Zealand shall for all purposes be computed as part of the term of his imprisonment:
-  (b) Subject to the provisions of section 275A of this Act he shall be imprisoned in New Zealand in the same manner in all respects and shall be subject in all respects to the same laws, as far as applicable, as if he had been sentenced by the High Court of New Zealand to imprisonment for the like offence, or committed to prison by that Court on the like grounds.
+  (a) the period during which he has been in custody since the sentence was imposed in the Cook Islands until his delivery to the Superintendent in New Zealand shall for all purposes be computed as part of the term of his imprisonment:
+  (b) subject to the provisions of section 275A he shall be imprisoned in New Zealand in the same manner in all respects and shall be subject in all respects to the same laws, as far as applicable, as if he had been sentenced by the High Court of New Zealand to imprisonment for the like offence, or committed to prison by that Court on the like grounds.
 (6)
 (7)
 
 ### 275A Release of prisoners transferred to New Zealand
-(1) Where any person (in this section referred to as the offender) brought to New Zealand under the provisions of section 275 of this Act is imprisoned in New Zealand under the provisions of that section,—
-  (a) The Minister of Justice—
-    (i) May at any time, by warrant signed by him, grant to the offender, not being an offender serving a sentence of life imprisonment, remission of any part of his sentence, not exceeding one-fourth of the term thereof, on the ground of his good conduct and industry; and, with the concurrence of the Minister of Foreign Affairs, may revoke any such remission, in whole or in part, before the offender is released, if the Minister of Justice is satisfied that the conduct or industry of the offender since the granting of the remission has been unsatisfactory or that the grant was made in error; and
-    (ii) May, where he considers that the conduct of the offender has been exemplary during his sentence, or that the offender has during his sentence performed some outstanding act of service, grant to the offender, not being an offender serving a sentence of life imprisonment, in addition to any remission which may be granted to him under subparagraph (i) of this paragraph, a special remission of part of his sentence, not exceeding one-twelfth of the term; and, with the concurrence of the Minister of Foreign Affairs, may revoke any such remission at any time before the offender is released:
-  (aa) The Minister of Justice, with the concurrence of the Minister of Foreign Affairs, may, in the case of any offender who is a Native, direct by warrant signed by him that on the release of the offender he be allowed to remain in New Zealand:
-  (b) Where an offender is granted a remission of any part of his sentence under paragraph (a) of this subsection, then,—
-    (i) If pursuant to this section he is to be released in New Zealand, the Minister of Justice, with the concurrence of the Minister of Foreign Affairs, may, by warrant, at any time before he is released, impose such special conditions of probation as he thinks fit in addition to those that apply by virtue of the provisions of section 38 of the Criminal Justice Act 1954:
-    (ii) If pursuant to this section he is to be returned to the Cook Islands, the Minister of Justice, with the like concurrence, may, by warrant, at any time before he is released for the purpose of returning him to the Cook Islands, direct that, until a date specified in the warrant (being a date not later than the date of expiry of the term of the original sentence), the offender shall be subject to supervision by a person to be nominated from time to time by the High Commissioner, and shall comply with the directions of that person with respect to such matters as are specified in the warrant:
-  (c) The provisions of section 33A of the Criminal Justice Act 1954 (as enacted by section 4 of the Criminal Justice Amendment Act 1961), as far as they are applicable but subject to the provisions of this section, shall apply with respect to the offender as if he had been sentenced to imprisonment by the High Court of New Zealand.
+(1) Where any person (in this section referred to as the offender) brought to New Zealand under the provisions of section 275 is imprisoned in New Zealand under the provisions of that section,—
+  (a) the Minister of Justice—
+    (i) may at any time, by warrant signed by him, grant to the offender, not being an offender serving a sentence of life imprisonment, remission of any part of his sentence, not exceeding one-fourth of the term thereof, on the ground of his good conduct and industry; and, with the concurrence of the Minister of Foreign Affairs, may revoke any such remission, in whole or in part, before the offender is released, if the Minister of Justice is satisfied that the conduct or industry of the offender since the granting of the remission has been unsatisfactory or that the grant was made in error; and
+    (ii) may, where he considers that the conduct of the offender has been exemplary during his sentence, or that the offender has during his sentence performed some outstanding act of service, grant to the offender, not being an offender serving a sentence of life imprisonment, in addition to any remission which may be granted to him under subparagraph (i), a special remission of part of his sentence, not exceeding one-twelfth of the term; and, with the concurrence of the Minister of Foreign Affairs, may revoke any such remission at any time before the offender is released:
+  (aa) the Minister of Justice, with the concurrence of the Minister of Foreign Affairs, may, in the case of any offender who is a Native, direct by warrant signed by him that on the release of the offender he be allowed to remain in New Zealand:
+  (b) where an offender is granted a remission of any part of his sentence under paragraph (a), then,—
+    (i) if pursuant to this section he is to be released in New Zealand, the Minister of Justice, with the concurrence of the Minister of Foreign Affairs, may, by warrant, at any time before he is released, impose such special conditions of probation as he thinks fit in addition to those that apply by virtue of the provisions of section 38 of the Criminal Justice Act 1954:
+    (ii) if pursuant to this section he is to be returned to the Cook Islands, the Minister of Justice, with the like concurrence, may, by warrant, at any time before he is released for the purpose of returning him to the Cook Islands, direct that, until a date specified in the warrant (being a date not later than the date of expiry of the term of the original sentence), the offender shall be subject to supervision by a person to be nominated from time to time by the High Commissioner, and shall comply with the directions of that person with respect to such matters as are specified in the warrant:
+  (c) the provisions of section 33A of the Criminal Justice Act 1954 (as enacted by section 4 of the Criminal Justice Amendment Act 1961), as far as they are applicable but subject to the provisions of this section, shall apply with respect to the offender as if he had been sentenced to imprisonment by the High Court of New Zealand.
 (2) The Prisons Parole Board, on considering the case of any offender under section 33A of the Criminal Justice Act 1954 (as so enacted), shall have regard, in addition to the matters specified in subsection (6) of that section, to such other matters of any kind whatsoever as it considers relevant in the circumstances of the case, and may, in its discretion, recommend that the offender—
-  (a) Be returned to the Cook Islands and released on his arrival there; or
-  (b) Be returned in custody to the Cook Islands and continue to serve the sentence of imprisonment in some prison in the Cook Islands until a date specified by the Board (being, in the case of a prisoner undergoing a sentence of life imprisonment, such date as the Board thinks fit, and, in the case of any other prisoner, a date not later than 3 months after his return to the Cook Islands) and be released on the date so specified; or
-  (c) Be released in New Zealand.
-(3) Any recommendation of the Prisons Parole Board under subsection (2) of this section may be subject to such conditions as the Board thinks fit, including, if the Board thinks fit, a condition, in the case of a prisoner to whom paragraph (a) or paragraph (b) of that subsection applies, that, until a date specified by the Board (being, in the case of an offender undergoing a sentence of life imprisonment, such date as the Board thinks fit, and in any other case a date not later than the date of the expiry of the term of the original sentence), he shall be subject to supervision by a person to be nominated from time to time by the High Commissioner and shall comply with the directions of that person with respect to such matters as the Board specifies.
+  (a) be returned to the Cook Islands and released on his arrival there; or
+  (b) be returned in custody to the Cook Islands and continue to serve the sentence of imprisonment in some prison in the Cook Islands until a date specified by the Board (being, in the case of a prisoner undergoing a sentence of life imprisonment, such date as the Board thinks fit, and, in the case of any other prisoner, a date not later than 3 months after his return to the Cook Islands) and be released on the date so specified; or
+  (c) be released in New Zealand.
+(3) Any recommendation of the Prisons Parole Board under subsection (2) may be subject to such conditions as the Board thinks fit, including, if the Board thinks fit, a condition, in the case of a prisoner to whom paragraph (a) or paragraph (b) of that subsection applies, that, until a date specified by the Board (being, in the case of an offender undergoing a sentence of life imprisonment, such date as the Board thinks fit, and in any other case a date not later than the date of the expiry of the term of the original sentence), he shall be subject to supervision by a person to be nominated from time to time by the High Commissioner and shall comply with the directions of that person with respect to such matters as the Board specifies.
 (4) The provisions of the Criminal Justice Act 1954 relating to the release of an offender on probation shall not apply with respect to any offender who is to be returned to the Cook Islands pursuant to this section.
 (5) Where pursuant to this section any offender is released in New Zealand, the provisions of sections 35 to 39 of the Criminal Justice Act 1954, as far as they are applicable, shall apply as if he had been so released at or before the expiry of a term of imprisonment imposed by the High Court of New Zealand.
 (6) Where any offender who pursuant to this section is released in New Zealand desires to return to the Cook Islands before the expiration of the term of his probation, the Minister of Justice, on the application of the offender and with the concurrence of the Minister of Foreign Affairs, may cancel the probationary licence as from the date on which the offender leaves New Zealand, and by warrant direct that as from the date of the arrival of the offender in the Cook Islands until a date specified in the warrant (being not later than the date on which the term of probation would have expired if the probationary licence had not been cancelled) the offender shall be subject to supervision by a person to be nominated from time to time by the High Commissioner and shall comply with the directions of that person with respect to such matters as are specified in the warrant.
-(7) Every offender, if he is a Native. . ., shall, as soon as he is entitled to be released or as soon thereafter as may be, unless he is to be released in New Zealand under this section, be returned to the Cook Islands in pursuance of a warrant signed by the Minister of Justice, and in the meantime shall be detained in custody in some prison in New Zealand appointed by that warrant.
+(7) Every offender, if he is a Native, shall, as soon as he is entitled to be released or as soon thereafter as may be, unless he is to be released in New Zealand under this section, be returned to the Cook Islands in pursuance of a warrant signed by the Minister of Justice, and in the meantime shall be detained in custody in some prison in New Zealand appointed by that warrant.
 (8) A recommendation of the Prisons Parole Board under this section may be given effect to in pursuance of a warrant signed by the Minister of Justice with the concurrence of the Minister of Foreign Affairs.
 (9) For the purposes of this section, cumulative terms of imprisonment shall be treated as one term.
 
 ### 275B Person conditionally released from imprisonment, or portion of whose sentence is conditionally remitted, may be imprisoned
 (1) Any person who is released from imprisonment—and who commits a breach of any such condition may be arrested by any constable without warrant and brought before a Judge of the High Court, and may be sentenced to imprisonment, in the case of a person who was undergoing a sentence of life imprisonment, for such period as the Court thinks fit, and in any other case for any period not exceeding the unexpired portion of the term of his original sentence.
-  (a) Pursuant to a remission of part of his sentence under paragraph (a) of subsection (1) of section 275A of this Act or to a recommendation of the Prisons Parole Board under paragraph (c) of that subsection subject to any conditions imposed under that section, and is returned to the Cook Islands under that section (including a person who returns to the Cook Islands pursuant to subsection (6) of that section); or
-  (b) Pursuant to a remission of part of his sentence under section 314B of this Act subject to any conditions imposed under that section,—
+  (a) pursuant to a remission of part of his sentence under paragraph (a) of subsection (1) of section 275A or to a recommendation of the Prisons Parole Board under paragraph (c) of that subsection subject to any conditions imposed under that section, and is returned to the Cook Islands under that section (including a person who returns to the Cook Islands pursuant to subsection (6) of that section); or
+  (b) pursuant to a remission of part of his sentence under section 314B subject to any conditions imposed under that section,—
 (2) For the purposes of this section, cumulative terms of imprisonment shall be treated as one term.
 
-### 276
+### 276 Exile
 [Repealed]
 
 ### 277 Cumulative sentences
@@ -983,7 +1000,7 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 
 ## Part 6 — Criminal procedure
 
-### 278 Magistratesm
+### 278 Magistrates
 [Repealed]
 
 ### 279 Jurisdiction of High Court
@@ -992,85 +1009,91 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 ### 280 Felonies and misdemeanours
 [Repealed]
 
-### 281
+### 281 Arrest without warrant
 [Repealed]
 
-### 282
+### 282 Arrest on warrant of Magistrate
 [Repealed]
 
-### 283
+### 283 Committal by Magistrate for trial
 [Repealed]
 
-### 284
+**Trial by the High Court**
+
+### 284 Information
 [Repealed]
 
-### 285
+### 285 Warrant or summons
 [Repealed]
 
-### 286
+### 286 Warrant after issue of summons
 [Repealed]
 
-### 287
+### 287 Prisoners brought before Judge of High Court before commencement of prosecution
 [Repealed]
 
-### 288
+### 288 Remand
 [Repealed]
 
 ### 289 Trial of accused in his absence
 [Repealed]
 
-### 290
+**Assessors**
+
+### 290 Constitution of Court on criminal trials
 [Repealed]
 
-### 291
+### 291 Judge with assessors
 [Repealed]
 
-### 292
+### 292 Judge without assessors
 [Repealed]
 
-### 293
+### 293 Judge with or without assessors as he thinks fit
 [Repealed]
 
-### 294
+### 294 Order appointing assessors
 [Repealed]
 
-### 295
+### 295 Number and qualifications of assessors
 [Repealed]
 
-### 296
+### 296 Default of assessors
 [Repealed]
 
-### 297
+### 297 Remuneration of assessors
 [Repealed]
 
-### 298
+### 298 Oath of assessors
 [Repealed]
 
-### 299
+### 299 Change of assessors
 [Repealed]
 
 ### 300 Discharge of assessors and new trial
 [Repealed]
 
-### 301
+### 301 Concurrence of assessors
 [Repealed]
 
-### 302
+### 302 Concurrence of Judge
 [Repealed]
 
-### 303
+### 303 Sentence
 [Repealed]
 
-### 304
+### 304 Concurrence of assessors not necessary except for conviction
 [Repealed]
 
-### 305
+**Miscellaneous**
+
+### 305 Alternative and cumulative charges
 [Repealed]
 
-### 306
+### 306 Relation between information and conviction
 [Repealed]
 
-### 307
+### 307 Withdrawal of information
 [Repealed]
 
 ### 308 Drawing up of conviction
@@ -1105,37 +1128,37 @@ Sections 47 to 49 of the Judicature Act 1908 (relating to Commissioners to admin
 
 ## Part 7 — Law of evidence
 
-### 315
+### 315 Definitions
 [Repealed]
 
-### 316
+### 316 Discretionary power of admitting evidence
 [Repealed]
 
-### 317
+### 317 Discretionary power of rejecting evidence
 [Repealed]
 
-### 318
+### 318 All witnesses competent
 [Repealed]
 
-### 319
+### 319 Evidence of parties and their husbands and wives
 [Repealed]
 
-### 320
+### 320 Evidence of accused persons and their husbands and wives
 [Repealed]
 
-### 321
+### 321 Cross-examination as to credit
 [Repealed]
 
-### 322
+### 322 Criminating questions
 [Repealed]
 
-### 323
+### 323 Evidence of prisoners
 [Repealed]
 
-### 324
+### 324 Judicial notice
 [Repealed]
 
-### 325
+### 325 Judicial notice
 [Repealed]
 
 ### 326 Power to administer oaths
@@ -1146,8 +1169,8 @@ Every oath, whether in a judicial proceeding or not, may be made in such form as
 
 ### 328 Making of oath
 Except when the person making the oath so consents to any other form of oath, an oath shall, whether in a judicial or other proceeding, be made in one of the 2 forms following:
-  (a) The person making the oath may, while holding in his hand a copy of the Bible, New Testament, or Old Testament, repeat the words of the oath as prescribed or allowed by law; or
-  (b) The officer administering the oath may repeat the appropriate form of adjuration commencing with the words Do you swear by Almighty God, or words to the like effect, and concluding with the words of the oath as prescribed or allowed by law, and the person making the oath shall thereupon, while holding in his hand a copy of the Bible, Old Testament, or New Testament, indicate his assent to the oath so administered by uttering the words I do, or other words to the like effect.
+  (a) the person making the oath may, while holding in his hand a copy of the Bible, New Testament, or Old Testament, repeat the words of the oath as prescribed or allowed by law; or
+  (b) the officer administering the oath may repeat the appropriate form of adjuration commencing with the words Do you swear by Almighty God, or words to the like effect, and concluding with the words of the oath as prescribed or allowed by law, and the person making the oath shall thereupon, while holding in his hand a copy of the Bible, Old Testament, or New Testament, indicate his assent to the oath so administered by uttering the words I do, or other words to the like effect.
 
 ### 329 Absence of religious belief
 Where an oath has been duly made the fact that the person making the same had at the time of making the same no religious belief shall not for any purpose affect the validity of the oath.
@@ -1220,7 +1243,7 @@ If any person so ordered to be returned to the Cook Islands is not returned in a
 ### 348 Prisoners may be removed from one island to another
 Any person in lawful custody on any ground whatever in any island forming part of the Cook Islands may be removed in custody to any other of such islands.
 
-### 349
+### 349 Place of trial of offenders in the Cook Islands
 [Repealed]
 
 **Application of Extradition Act to Cook Islands**
@@ -1228,28 +1251,28 @@ Any person in lawful custody on any ground whatever in any island forming part o
 ### 349A Extradition Act in force in Cook Islands
 (1) Subject to the provisions of this Act, the Extradition Act 1965, so far as it is applicable, shall extend to and be in force in the Cook Islands
 (2) In the application of the Extradition Act 1965 to the Cook Islands, unless the context otherwise requires,—
-  (a) Every reference in that Act to New Zealand shall be read as a reference to the Cook Islands:
-  (b) Every reference in that Act to the Court, or to the High Court or a Judge thereof, or to a District Court Judge or Justice, shall be read as a reference to the High Court of the Cook Islands or a Judge of that Court:
-  (c) Every reference in that Act to the Minister of Justice shall be read, in relation to the Cook Islands, as a reference to the Minister in Charge of the Justice Department of the Cook Islands:
-  (d) The reference in the definition of the expression extradition offence in subsection (1) of section 2 of that Act to the crimes described in Schedule 1 to that Act shall be read as a reference to such of the criminal offences described in Part 5 of this Act as correspond to the crimes described in Part 1 of that Schedule, and also as a reference to such of the enactments specified in Part 2 of that Schedule as are in force in the Cook Islands:
-  (e) The references in subsection (2) of section 2 of that Act to sections 310, 311, and 312 of the Crimes Act 1961 shall be read as references to sections 263, 264, 265, 268, and 268B of this Act, as the case may require:
-  (f) The references in subsections (3) and (4) of section 5 of that Act (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 and Part 4 of the Mental Health Act 1969 shall be read as references to sections 591 and 593 of this Act, as the case may require:
-  (g) The references in sections 8 and 15 of that Act to the preliminary hearing of an information for an indictable offence shall be read as references to the trial of an offence punishable by the High Court in the ordinary course of its criminal jurisdiction and procedure:
-  (h) The reference in section 8 of that Act to the Summary Proceedings Act 1957 shall be read as a reference to this Act, and the reference in that section (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 shall be construed as a reference to sections 590, 592, and 593 of this Act:
-  (i) No Order in Council made under that Act shall have any force or effect in the Cook Islands unless it is made at the request and with the consent of the Government of the Cook Islands made and given in the manner provided in Article 88 of the Constitution of the Cook Islands (as set out in the Schedule to the Cook Islands Constitution Act 1964).
+  (a) every reference in that Act to New Zealand shall be read as a reference to the Cook Islands:
+  (b) every reference in that Act to the Court, or to the High Court or a Judge thereof, or to a District Court Judge or Justice, shall be read as a reference to the High Court of the Cook Islands or a Judge of that Court:
+  (c) every reference in that Act to the Minister of Justice shall be read, in relation to the Cook Islands, as a reference to the Minister in Charge of the Justice Department of the Cook Islands:
+  (d) the reference in the definition of the expression extradition offence in subsection (1) of section 2 of that Act to the crimes described in Schedule 1 to that Act shall be read as a reference to such of the criminal offences described in Part 5 of this Act as correspond to the crimes described in Part 1 of that Schedule, and also as a reference to such of the enactments specified in Part 2 of that Schedule as are in force in the Cook Islands:
+  (e) the references in subsection (2) of section 2 of that Act to sections 310, 311, and 312 of the Crimes Act 196 shall be read as references to sections 263, 264, 265, 268, and 268B of this Act, as the case may require:
+  (f) the references in subsections (3) and (4) of section 5 of that Act (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 and Part 4 of the Mental Health Act 1969 shall be read as references to sections 591 and 593 of this Act, as the case may require:
+  (g) the references in sections 8 and 15 of that Act to the preliminary hearing of an information for an indictable offence shall be read as references to the trial of an offence punishable by the High Court in the ordinary course of its criminal jurisdiction and procedure:
+  (h) the reference in section 8 of that Act to the Summary Proceedings Act 1957 shall be read as a reference to this Act, and the reference in that section (as amended by section 5(2) of the Criminal Justice Amendment Act 1969) to Part 5A of the Criminal Justice Act 1954 shall be construed as a reference to sections 590, 592, and 593 of this Act:
+  (i) no Order in Council made under that Act shall have any force or effect in the Cook Islands unless it is made at the request and with the consent of the Government of the Cook Islands made and given in the manner provided in Article 88 of the Constitution of the Cook Islands (as set out in the Schedule to the Cook Islands Constitution Act 1964).
 
 ## Part 9 — Crown suits
 
 ### 350 Crown proceedings in the Cook Islands
 [Repealed]
 
-### 351
+### 351 Authority of Attorney-General and Solicitor-General
 [Repealed]
 
-### 352
+### 352 Prosecution of claim by His Majesty
 [Repealed]
 
-### 353
+### 353 Warrant to sue in the name and on behalf of His Majesty
 [Repealed]
 
 ## Part 10 — Crown land
@@ -1297,16 +1320,16 @@ Any person in lawful custody on any ground whatever in any island forming part o
 
 **Constitution of the Land Court**
 
-### 367
+### 367 Native Land Court established
 [Repealed]
 
-### 368
+### 368 Native Land Court identical with Cook Islands Land Titles Court
 [Repealed]
 
-### 369
+### 369 Judges of Native Land Court
 [Repealed]
 
-### 370
+### 370 Appointment and tenure
 [Repealed]
 
 ### 371 Registrars of the Land Court
@@ -1383,7 +1406,7 @@ Any person in lawful custody on any ground whatever in any island forming part o
 
 **Orders**
 
-### 394
+### 394 Drawing up of orders
 [Repealed]
 
 ### 395 Partition orders
@@ -1395,7 +1418,7 @@ Any person in lawful custody on any ground whatever in any island forming part o
 ### 397 Orders bind all persons interested
 [Repealed]
 
-### 398
+### 398 Orders to be in duplicate
 [Repealed]
 
 ### 399 Validity of orders
@@ -1829,7 +1852,7 @@ Any person in lawful custody on any ground whatever in any island forming part o
 ### 526 Nullity of marriage
 [Repealed]
 
-### 527
+### 527 Grounds of divorce
 [Repealed]
 
 ### 528 Grounds of refusal of divorce
@@ -2068,36 +2091,36 @@ The District Court Judge may thereupon, without further application or evidence,
 (1) When any person is so detained, whether in the case of a charge of murder or manslaughter or otherwise, the High Court shall have the same jurisdiction to make an order of medical custody or to issue a warrant for removal to New Zealand as in the case of any other person of unsound mind.
 (2) An order of medical custody so made shall supersede the order for detention during the pleasure of the High Commissioner.
 
-### 594
+### 594 The defence of insanity in criminal prosecutions
 [Repealed]
 
 ## Part 22 — Intoxicating liquor
 
-### 595
+### 595 Manufacture of intoxicating liquor prohibited
 [Repealed]
 
-### 596
+### 596 Importation of intoxicating liquor prohibited
 [Repealed]
 
-### 597
+### 597 Persons in New Zealand concerned in importation of intoxicating liquor into Cook Islands guilty of an offence.
 [Repealed]
 
-### 598
+### 598 Sale of intoxicating liquor prohibited
 [Repealed]
 
-### 599
+### 599 Giving intoxicating liquor to a Native prohibited
 [Repealed]
 
-### 600
+### 600 Soliciting or receiving orders for intoxicating liquor prohibited
 [Repealed]
 
-### 601
+### 601 Packages of intoxicating liquor to be marked as such
 [Repealed]
 
-### 602
+### 602 Resident Commissioner may import liquor for sale or for public purposes
 [Repealed]
 
-### 603
+### 603 "Intoxicating liquor" defined
 [Repealed]
 
 ## Part 23 — Roads
@@ -2163,7 +2186,7 @@ The District Court Judge may thereupon, without further application or evidence,
 ### 622 Acts Interpretation Act in force in Cook Islands
 [Repealed]
 
-### 623
+### 623 Administration Act 1908, in force in Cook Islands
 [Repealed]
 
 ### 624 Arbitration Act in force in Cook Islands
@@ -2238,13 +2261,13 @@ The District Court Judge may thereupon, without further application or evidence,
 
 **Miscellaneous rules of law**
 
-### 642
+### 642 Legal status of married women
 [Repealed]
 
-### 643
+### 643 Joint liability
 [Repealed]
 
-### 644
+### 644 Contracts of guarantee
 [Repealed]
 
 ### 645 Contracts by Natives
@@ -2272,7 +2295,7 @@ The District Court Judge may thereupon, without further application or evidence,
 [Repealed]
 
 ### 653 Statutory declarations
-(1) Any Judge or Registrar of the High Court or of the Land Court or any Judge of the Land Appellate Court, or the High Commissioner, or any Resident Agent, Collector of Customs, Medical Officer, Commissioner of the High Court, or Solicitor of the High Court, may in the Cook Islands take and receive in any matter the declaration of any person voluntarily making the same before him in the form in Schedule 2 to this Act.
+(1) Any Judge or Registrar of the High Court or of the Land Court or any Judge of the Land Appellate Court, or the High Commissioner, or any Resident Agent, Collector of Customs, Medical Officer, Commissioner of the High Court, or Solicitor of the High Court, may in the Cook Islands take and receive in any matter the declaration of any person voluntarily making the same before him in the form in Schedule 2.
 (2) If any declaration so made is false in any material particular, the person wilfully making such false declaration shall be guilty of an offence punishable by imprisonment for 2 years.
 (3) Any declaration made in the Cook Islands under and in accordance with this section shall be deemed to be a statutory declaration within the meaning of that term as used in any enactment in force in the Cook Islands or in New Zealand.
 
@@ -2298,7 +2321,7 @@ Where in any enactment (whether in force in the Cook Islands or not) it is provi
 (1) The oath in this section referred to as the Oath of Allegiance shall be in the form following, that is to say:I, , swear that I will be faithful and bear true allegiance to Her [or His] Majesty [Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second], Her [or His] heirs and successors, according to law. So help me God.
 (2) The oath in this section referred to as the Judicial Oath shall be in the form following, that is to say:I, , swear that I will well and truly serve Her [or His] Majesty [Specify as above], Her [or His] heirs and successors, according to law, in the office of ; and I will do right to all manner of people after the laws and usages of the Cook Islands, without fear or favour, affection or ill will. So help me God.
 (3) Every person required to take the Oath of Allegiance and the Judicial Oath shall be entitled as of right to make his affirmation, instead of taking an oath.
-(4) Every such affirmation shall be as follows: I, , sincerely promise and affirm, and shall then proceed with the words of the oaths prescribed by subsections (1) and (2) of this section, omitting any words of imprecation or calling to witness.
+(4) Every such affirmation shall be as follows: I, , sincerely promise and affirm, and shall then proceed with the words of the oaths prescribed by subsections (1) and (2), omitting any words of imprecation or calling to witness.
 (5) The Oath of Allegiance and the Judicial Oath shall be taken by each of the following officers (being persons appointed to those offices after the commencement of this section) as soon as may be after his acceptance of office:
   (a)
   (b)
@@ -2308,16 +2331,15 @@ Where in any enactment (whether in force in the Cook Islands or not) it is provi
   (f)
   (g)
   (h)
-  (i) Every person holding an office by virtue of which he is a District Court Judge within the meaning of section 278 of this Act:
-  (j) Sheriffs.
+  (i) every person holding an office by virtue of which he is a District Court Judge within the meaning of section 278:
+  (j) sheriffs.
 (6) The oaths to be taken under this section may be taken either in the Cook Islands or in New Zealand, and shall be taken before the following persons in such manner as the person administering the oath sees fit to adopt:
   (a)
   (b)
   (c)
-  (d) In the case of any District Court Judge within the meaning of section 278 of this Act or of any Sheriff, before the Chief Judge or any other Judge of the High Court or the High Commissioner, or before any other person specified by the High Commissioner in any particular case.
-  (e) Substituted by s 3(1) of the Cook Islands Amendment Act 1965, and repealed by s 2(1) of the Cook Islands Amendment Act 1966.
-(7) If any person mentioned in subsection (5) of this section declines or neglects, when the oaths required to be taken by him under this section are duly tendered, to take those oaths, he shall if he has already entered on his office vacate the same, and if he has not entered on the same be disqualified from entering on the same; but no person shall be compelled in respect of the same appointment to the same office to take any oath more than once:
-  Provided that no proceedings before any such person may be questioned in any Court solely on the ground that that person has failed to take the oaths prescribed by this section.
+  (d) In the case of any District Court Judge within the meaning of section 278 or of any Sheriff, before the Chief Judge or any other Judge of the High Court or the High Commissioner, or before any other person specified by the High Commissioner in any particular case.
+  (e) substituted by s 3(1) of the Cook Islands Amendment Act 1965, and repealed by s 2(1) of the Cook Islands Amendment Act 1966.
+(7) If any person mentioned in subsection (5) declines or neglects, when the oaths required to be taken by him under this section are duly tendered, to take those oaths, he shall if he has already entered on his office vacate the same, and if he has not entered on the same be disqualified from entering on the same; but no person shall be compelled in respect of the same appointment to the same office to take any oath more than once:provided that no proceedings before any such person may be questioned in any Court solely on the ground that that person has failed to take the oaths prescribed by this section.
 
 **Repeals and validation**
 
