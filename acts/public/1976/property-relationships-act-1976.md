@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -1220,7 +1220,7 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 
 ### 45 Family chattels not to be disposed of
 (1) Where proceedings are pending under this Act, no party knowing that the proceedings are pending shall, without the leave of a Judge of the High Court or a District Court Judge or a Family Court Judge or a Registrar, or the consent in writing of the other party, sell, charge, or dispose of any of the family chattels or (except in an emergency) remove from the family home or homes any of the family chattels which are household appliances or effects or which form part of the furniture of that home or those homes.
-(2) Any person who does any act in contravention of the provisions of this section commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both.
+(2) Any person who does any act in contravention of the provisions of this section commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both.
 
 **Protection of creditors**
 
