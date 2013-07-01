@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
@@ -151,7 +151,7 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
 (4) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things in accordance with this section as witnesses have in any court.
 (5) Except on the trial of any person for perjury within the meaning of the Crimes Act 1961 in respect of his or her sworn testimony, no statement made or answer given by that or any other person in the course of any inquiry by or any proceedings before the Commissioner shall be admissible in evidence against any person in any court or at any inquiry or in any other proceedings, and no evidence in respect of proceedings before the Commissioner shall be given against any person.
 (6) No person shall be liable to prosecution for an offence against any enactment, other than this Act, by reason of compliance with any requirement of the Commissioner under this section.
-(7) Where any person is required by the Commissioner to attend before the Commissioner for the purposes of this section, that person shall be entitled to the same fees, allowances, and expenses as if he or she were a witness in a court, and the provision of any regulations in force under the Summary Proceedings Act 1957 shall apply accordingly. For the purposes of this subsection the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
+(7) Where any person is required by the Commissioner to attend before the Commissioner for the purposes of this section, that person shall be entitled to the same fees, allowances, and expenses as if he or she were a witness in a court, and the provision of any regulations in force under the Criminal Procedure Act 2011 shall apply accordingly. For the purposes of this subsection the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
 
 ### 20 Commissioner and staff to maintain secrecy, etc
 (1) The Commissioner and every person holding any office or appointment under the Commissioner shall be deemed for the purposes of sections 105 and 105A of the Crimes Act 1961 to be officials.
@@ -209,7 +209,7 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
 Without limiting the right of the Commissioner to report at any other time, the Commissioner shall in each year make a report to the House of Representatives on the performance of the Commissioner's functions under this Act and on any other matter the Commissioner considers appropriate.
 
 ### 24 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who—
   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commissioner or any other person in the exercise of his or her powers under this Part:
   (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commissioner or any other person under this Part:
   (c) wilfully makes any false statement to or wilfully misleads or attempts to mislead the Commissioner or any other person in the exercise of his or her powers under this Part:
