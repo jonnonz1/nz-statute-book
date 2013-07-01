@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -654,18 +654,18 @@ No authorised person or person carrying out a quota compliance audit who does an
 **Offences, penalties, and proceedings**
 
 ### 67 Export-related offences
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $200,000, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $200,000, who—
   (a) exports any meat product contrary to section 28; or
   (b) while the person's ability to export meat products of any kind to a market is suspended under section 34(2)(a), exports or attempts to export meat products of that kind to that market.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $15,000, who, without reasonable excuse exports any meat product at any time when the person is not registered as an exporter under this Act.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse exports any meat product at any time when the person is not registered as an exporter under this Act.
 
 ### 68 Information-related offences
 (1) Every person commits an offence who—
   (a) without reasonable excuse, fails or refuses to comply with a request for information under section 65(1) or section 65(2); or
   (b) in response to a request under section 65(1) or section 65(2), wilfully gives the Board false or misleading information.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who without reasonable excuse publishes, discloses, or uses information in contravention of section 65(7), section 65(8), section 79(3), section 79(4), or section 79(5).
-(3) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who without reasonable excuse fails to return or destroy information, in contravention of section 79(9).
-(4) A person who commits an offence against subsection (1) is liable on summary conviction to—
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who without reasonable excuse publishes, discloses, or uses information in contravention of section 65(7), section 65(8), section 79(3), section 79(4), or section 79(5).
+(3) Every person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who without reasonable excuse fails to return or destroy information, in contravention of section 79(9).
+(4) A person who commits an offence against subsection (1) is liable on conviction to—
   (a) a fine not exceeding $15,000; and
   (b) a further fine not exceeding $750 for each day during which the offence continues.
 
@@ -678,7 +678,7 @@ No authorised person or person carrying out a quota compliance audit who does an
 (2) Every person commits an offence who—
   (a) wilfully prevents, obstructs, or hinders a person conducting a quota compliance audit in the performance of that person's audit function; or
   (b) fails without reasonable excuse to comply with any reasonable request or requirement of that person.
-(3) A person who commits an offence against this section is liable on summary conviction to—
+(3) A person who commits an offence against this section is liable on conviction to—
   (a) a fine not exceeding $20,000; and
   (b) a further fine not exceeding $1,000 for each day during which the offence continues.
 
@@ -700,7 +700,7 @@ No authorised person or person carrying out a quota compliance audit who does an
 (1) It is a defence in any proceedings for an offence under section 67(1) if the defendant proves that—
   (a) the contravention was due to an event or cause beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
+(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 73 Liability of companies and persons for actions of agents or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of proceedings for an offence against this Act, also as the act or omission of the first-mentioned person.
@@ -725,14 +725,14 @@ No authorised person or person carrying out a quota compliance audit who does an
 (1) If a body corporate commits an offence under section 67(1), every director, and every person concerned in the management of the body corporate, also commits an offence under that section if it is proved that—
   (a) the act or omission that constituted the offence took place with the director's or person's authority, permission, or consent; or
   (b) the director or person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
-(2) Every person to whom subsection (1) applies is liable on summary conviction to the fine specified in section 67(1).
+(2) Every person to whom subsection (1) applies is liable on conviction to the fine specified in section 67(1).
 (3) A person may be convicted of the offence even though the body corporate has not been charged with that offence or a similar offence.
 
 ### 75 Presumption as to authority
 A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by, or on behalf of, any person is, for the purpose of proceedings for an offence against this Act, treated as having been completed, kept, or provided by that person unless the contrary is proved.
 
-### 76 Proceedings for offences
-Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+### 76 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 
 **Supply of information**
 
@@ -939,7 +939,7 @@ A director, when exercising powers or performing duties as a director, must exer
   (b) if the monetary value of the director's interest cannot be quantified, the nature and extent of that interest.
 (2) For the purposes of subclause (1), a general notice entered in the interests register and disclosed to the board of directors to the effect that a director is a shareholder, director, officer or trustee of a person named in the notice and is to be regarded as interested in any transaction that may, after the day on which the notice is given to the board of directors, be entered into by the Board with that person, is a sufficient disclosure of interest in relation to that transaction.
 (3) A failure by a director to comply with subclause (1) does not affect the validity of a transaction entered into by the Board or the director.
-(4) Every director who fails to comply with subclause (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) Every director who fails to comply with subclause (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 11 Avoidance of transactions
 (1) A transaction entered into by the Board in which a director is interested may be avoided by the Board at any time before the expiration of 3 months after the transaction is disclosed to the board of directors.
@@ -1154,39 +1154,3 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 (4) If it becomes aware that any insurance not permitted by subclause (1) has been effected without its approval, the Board must immediately cancel the insurance.
 
 ## Schedule 3 — Forms of warrant
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
