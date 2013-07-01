@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011.
