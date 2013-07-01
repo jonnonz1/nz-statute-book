@@ -1,5 +1,5 @@
 # Trespass Act 1980
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the law relating to trespass
 
@@ -70,11 +70,11 @@ Every person commits an offence against this Act who—on or leading to any land
   (b) gives a false name or place of abode; or
   (c) wilfully gives particulars of his place of abode that are insufficiently precise to enable it to be identified readily.
 
-### 10 Informations
-Proceedings under this Act shall be taken only on the information of an occupier of the place concerned or a constable.
+### 10 Charges
+Proceedings under this Act may be commenced only by an occupier of the place concerned or a constable.
 
 ### 11 Offences and penalties
-(1) Every offence against this Act shall be punishable on summary conviction.
+(1)
 (2) Every person who commits an offence against this Act shall be liable on conviction—
   (a) in the case of an offence against section 3 or section 4 or section 12, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months:
   (b) in the case of an offence against section 6(a) or section 7, to a fine not exceeding $300 or to imprisonment for a term not exceeding 1 month:
