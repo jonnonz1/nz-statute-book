@@ -1,5 +1,5 @@
 # Superannuation Schemes Act 1989
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the registration of superannuation schemes, and to provide a procedure to enable both benefits payable from superannuation schemes and annuities to be reduced as a result of changes in taxation
 
@@ -365,7 +365,7 @@ The trustees of any registered superannuation scheme that is not constituted und
 [Repealed]
 
 ### 25 Offences
-(1) Every person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $500, who refuses or fails—as and when required by this Act or any regulations made under this Act.
+(1) Every person commits an offence against this Act, and is liable on conviction to a fine not exceeding $500, who refuses or fails—as and when required by this Act or any regulations made under this Act.
   (a) to deliver any document or statement or report or copy or certificate; or
   (ab) to allow a person to look at a document or report or copy; or
   (b) to supply any return or to give any certificate or information,—
