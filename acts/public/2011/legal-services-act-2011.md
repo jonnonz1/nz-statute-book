@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -732,7 +732,7 @@ The chairperson of the Tribunal may direct such publication of decisions of the 
 If the Commissioner or an applicant considers that the Tribunal's determination is wrong in law, the Commissioner or the applicant (as the case may be) may appeal to the High Court on the question of law, and the appeal must be dealt with in accordance with the rules of court.
 
 ### 60 Appeals to Court of Appeal and Supreme Court
-Sections 144 to 144B of the Summary Proceedings Act 1957 (which provide for appeals to the Court of Appeal and Supreme Court) apply to determinations of the High Court on an appeal under section 59 of this Act as if they were determinations under section 107 of that Act.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under section 59 as if the decision had been made under section 300 of that Act.
 
 ### 61 References on questions of law to High Court
 The chairperson of the Tribunal may state a case for the opinion of the High Court on any point of law that arises on a review under this subpart of a decision of the Commissioner.
@@ -1143,18 +1143,18 @@ Except as otherwise authorised by the Secretary, providers must pay all disburse
 **Offences**
 
 ### 111 Misrepresentation, etc
-(1) Every aided person or applicant for legal aid commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who—
+(1) Every aided person or applicant for legal aid commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
   (a) fails without reasonable excuse to comply with any provision of this Act, or the regulations requiring the person to furnish information or answer questions or produce any document or thing; or
   (b) knowingly provides false or misleading information, or knowingly answers any question in a false or misleading way; or
   (c) intentionally avoids payment of the Commissioner's interest in any proceeds of proceedings.
 (2) If a person is convicted of an offence under subsection (1), the Commissioner may recover from that person, as a debt due to the Commissioner, any amount paid under a grant of legal aid.
-(3) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence under this section may be laid at any time within 2 years from the time when the matter of the information arose.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this section ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 112 Offence in relation to applications for approval
-Every provider commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who makes a false or misleading representation in relation to any application for, or that relates to an approval to provide, legal aid services or specified legal services.
+Every provider commits an offence, and is liable on conviction to a fine not exceeding $5,000, who makes a false or misleading representation in relation to any application for, or that relates to an approval to provide, legal aid services or specified legal services.
 
 ### 113 Offences in relation to examination and audit
-Every provider or former provider commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who, having received a notice under section 92(3), fails to comply with section 92(1) to such a degree that the auditors conducting the examination or audit to which the notice relates are unable to satisfactorily conclude the examination or audit.
+Every provider or former provider commits an offence and is liable on conviction to a fine not exceeding $5,000 who, having received a notice under section 92(3), fails to comply with section 92(1) to such a degree that the auditors conducting the examination or audit to which the notice relates are unable to satisfactorily conclude the examination or audit.
 
 **Regulations**
 
