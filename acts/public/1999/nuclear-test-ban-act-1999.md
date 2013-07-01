@@ -1,5 +1,5 @@
 # Nuclear-Test-Ban Act 1999
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to implement in the law of New Zealand the Comprehensive Nuclear-Test-Ban Treaty
 
@@ -38,7 +38,7 @@ This Act binds the Crown.
   (a) carry out any nuclear weapon test explosion or any other nuclear explosion; or
   (b) cause, encourage, or in any way participate in, the carrying out of any nuclear weapon test explosion or any other nuclear explosion.
 (2) Every person who engages in conduct prohibited by subsection (1) commits an offence.
-(3) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine not exceeding $1,000,000.
+(3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $1,000,000.
 (4) Nothing in subsections (1) to (3) limits the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987.
 
 ### 6 Prohibitions and offences also apply in certain cases outside New Zealand
@@ -46,7 +46,7 @@ This Act binds the Crown.
   (a) by a New Zealand citizen; or
   (b) by any other person on board a New Zealand ship or New Zealand aircraft.
 (2) If an offence against section 5(2) is alleged to have occurred anywhere outside New Zealand,—
-  (a) an information may be laid only with the consent of the Attorney-General and on his or her certificate that it is expedient that the information be laid:
+  (a) a charging document may be filed only with the consent of the Attorney-General and on his or her certificate that it is expedient that the charging document be filed:
   (b) before the Attorney-General's consent has been obtained, a person may be arrested, or a warrant for a person's arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further or other proceedings are to be taken until that consent has been obtained.
 
 ## Part 3 — Information and documents
@@ -64,11 +64,11 @@ This Act binds the Crown.
 
 ### 8 Failure to supply information an offence
 (1) Every person commits an offence who, without reasonable excuse, fails to comply with a notice under section 7 to the extent that the person is capable of complying with it.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 9 False or misleading statements and documents
 (1) Every person commits an offence who, in any document prepared under section 7, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ## Part 4 — Clarification inspections
 
@@ -108,7 +108,7 @@ To facilitate on-site inspections, an international inspector may be accompanied
 ### 14 Ministerial directions
 (1) The Minister may, by notice in writing, issue directions to any person for the purpose of facilitating an on-site inspection under the Treaty.
 (2) Every person commits an offence who wilfully fails to comply with a direction given by the Minister under subsection (1).
-(3) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $100,000.
+(3) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $100,000.
 
 **New Zealand assistance with on-site inspections**
 
@@ -158,7 +158,7 @@ The Minister may issue a certificate identifying an international inspector or o
 ### 20 Obstruction of international inspectors
 (1) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Treaty.
 (2) Nothing in subsection (1) applies to a refusal to give consent to entry by an international inspector who is not acting pursuant to section 18 or a search warrant (whether issued under section 17 or otherwise).
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000.
 
 ## Part 6 — Miscellaneous provisions
 
@@ -173,7 +173,7 @@ The Minister may issue a certificate identifying an international inspector or o
 ### 22 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Treaty or any agreement or arrangement that is concluded between New Zealand and the Organization under the Treaty:
-  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the extracts of the Treaty set out in the Schedule as are required to bring that text up to date:
