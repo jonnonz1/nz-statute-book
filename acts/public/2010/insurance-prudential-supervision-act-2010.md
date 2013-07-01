@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -310,7 +310,7 @@ This Act binds the Crown.
 
 ### 15 Persons that carry on insurance business in New Zealand must be licensed
 (1) Every person who carries on insurance business in New Zealand must hold a licence.
-(2) A person who carries on insurance business in New Zealand without holding a licence commits an offence and is liable on summary conviction,—
+(2) A person who carries on insurance business in New Zealand without holding a licence commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
 
@@ -318,7 +318,7 @@ This Act binds the Crown.
 (1) A person commits an offence if the person—
   (a) is not a licensed insurer; and
   (b) uses any name, title, trade mark, style, designation, or description that represents or implies that the person is a licensed insurer.
-(2) Every person who commits an offence under this section is liable on summary conviction,—
+(2) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
 
@@ -330,7 +330,7 @@ This Act binds the Crown.
   (a) made in the manner that is specified by the Bank; and
   (b) accompanied by payment of the prescribed fee for the application (if any).
 (3) Every applicant must provide to the Bank the information that is required by the Bank to assist it in determining the application.
-(4) An applicant commits an offence if it provides false or misleading information to the Bank for the purposes of an application and is liable, on summary conviction, to a fine not exceeding $1,000,000.
+(4) An applicant commits an offence if it provides false or misleading information to the Bank for the purposes of an application and is liable, on conviction, to a fine not exceeding $1,000,000.
 
 ### 18 Applicant must provide fit and proper policy, fit and proper certificate, and risk management programme
 (1) An applicant must provide to the Bank with its application—
@@ -421,11 +421,11 @@ This Act binds the Crown.
   (d) the Bank has regard to those submissions.
 
 ### 23 Offence to fail to comply with conditions of licence
-A licensed insurer commits an offence if it fails to comply with a condition of its licence and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with a condition of its licence and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 24 Licensed insurer must report likely failure to comply with solvency margin imposed under licence conditions
 (1) If a licensed insurer has reasonable grounds to believe that a failure to maintain a solvency margin is likely to occur at any time within the next 3 years, the insurer must report the likely failure to the Bank as soon as is reasonably practicable.
-(2) A licensed insurer that fails to comply with subsection (1) commits an offence and is liable, on summary conviction, to a fine not exceeding $500,000.
+(2) A licensed insurer that fails to comply with subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Notification of decision**
 
@@ -468,7 +468,7 @@ If a licensed insurer intends or proposes to change its corporate form (for exam
   (b) in the case of section 27, the licensed insurer.
 
 ### 29 Offence to fail to notify or provide information
-A licensed insurer or other person that fails to comply with section 26, 27, or 28(2) commits an offence and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer or other person that fails to comply with section 26, 27, or 28(2) commits an offence and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Cancellation of licence**
 
@@ -505,7 +505,7 @@ A licensed insurer or other person that fails to comply with section 26, 27, or 
   (c) comply with section 32(4).
 (3) Subsections (1) and (2) have effect despite section 44(1) (which relates to transfers and amalgamations with the Bank's approval).
 (4) The licensed insurer may, in connection with an assignment under this section, assign any rights or benefits in connection with contracts of insurance in respect of the insurance business carried on in New Zealand by the insurer (subject to any conditions specified by the Bank in the direction).
-(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $500,000.
+(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 32 Bank's approval of assignment
 (1) A licensed insurer must not assign its liabilities under section 31, and a purported assignment under that section is of no effect, unless the assignment is approved by the Bank under subsection (2).
@@ -539,7 +539,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
     (i) to encourage any person to disclose information to the insurer or the Bank that may be relevant to a fit and proper assessment; and
     (ii) for giving or obtaining any consents required for the collection and use of any information by the insurer to comply with the policy or section 37 and by the Bank for its powers and functions under this Act in connection with the policy.
 (5) A licensed insurer must obtain the Bank's approval before its fit and proper policy is amended in a material way.
-(6) A licensed insurer that fails to comply with this section commits an offence and is liable, on summary conviction, to a fine not exceeding $500,000.
+(6) A licensed insurer that fails to comply with this section commits an offence and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 35 Group fit and proper policy
 (1) If the licensed insurer is part of a group of insurers, the fit and proper policy that the insurer is required to be subject to may, at the option of the insurer, be a fit and proper policy that applies to the insurer and 1 or more other members of that group (a group policy).
@@ -571,7 +571,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
   (f) be signed on behalf of all the directors of the licensed insurer by at least 2 directors of the insurer (or, if the insurer has only 1 director, by that director); and
   (g) be in the prescribed form (if any).
 (5) Every licensed insurer that is required to provide a certificate to the Bank under this section must provide to the Bank any further information that is required by the Bank to assist it in considering whether the director or relevant officer is a fit and proper person to hold the relevant position.
-(6) A licensed insurer commits an offence if the insurer fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $500,000.
+(6) A licensed insurer commits an offence if the insurer fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 38 Bank may exempt overseas insurers from compliance with section 37(1)
 (1) The Bank may, by notice to an overseas insurer, exempt the insurer from compliance with section 37(1) to the extent that it relates to the directors of the insurer.
@@ -607,7 +607,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
 
 ### 41 Former director or relevant officer must not accept reappointment in breach of direction
 (1) If a person has been removed from a particular position under section 39, the person may not accept reappointment to the position in breach of a direction given under section 39(3).
-(2) A person commits an offence if the person fails to comply with subsection (1) and is liable, on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
+(2) A person commits an offence if the person fails to comply with subsection (1) and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
 
 ### 42 Appeals from Bank's decision
 (1) A director or relevant officer or former director or relevant officer who is the subject of a decision of the Bank under section 39 may appeal to the High Court against the decision.
@@ -634,7 +634,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
 (3) A licensed insurer commits an offence if—
   (a) the insurer fails to comply with subsection (1); or
   (b) in the case of the Bank refusing to give its approval under subsection (1), the insurer takes any further steps after the refusal under the Companies Act 1993 or any other enactment to give effect to the proposed transfer or amalgamation.
-(4) Every licensed insurer that commits an offence under subsection (3) is liable, on summary conviction, to a fine not exceeding $1,000,000.
+(4) Every licensed insurer that commits an offence under subsection (3) is liable, on conviction, to a fine not exceeding $1,000,000.
 (5) This section does not apply in respect of a transfer or amalgamation under section 31, sections 164 to 167, subpart 4 of Part 4, or section 207(5).
 
 ### 45 Request for approval
@@ -673,7 +673,7 @@ In considering a request made under section 45, the Bank must have regard to the
 (4) If the Bank refuses to give its approval, it must give a notice to the licensed insurer or insurers that contains a statement of its reasons.
 
 ### 50 Offence to fail to comply with conditions of approval
-A licensed insurer commits an offence if it fails to comply with a condition of the approval imposed under section 49 and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with a condition of the approval imposed under section 49 and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 51 Requirement for approval is in addition to requirements under other enactments
 Sections 44 to 50 do not limit any other enactment that must be complied with in order to give effect to a proposed transfer or amalgamation that requires approval under section 44 (for example, in the case of amalgamating companies, the requirements of Part 13 of the Companies Act 1993).
@@ -738,7 +738,7 @@ A solvency standard may prescribe 1 or more of the following matters:
   (h) matters relating to the manner in which a review of actuarial information under section 77 is to be carried out (including specifying information as being actuarial information for the purposes of that section).
 
 ### 57 Offence to fail to comply with reporting and disclosure requirements
-A licensed insurer commits an offence if it fails to comply with any of the requirements of a solvency standard under section 56(d) or (g) that apply to the insurer and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with any of the requirements of a solvency standard under section 56(d) or (g) that apply to the insurer and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 58 Incorporation by reference
 (1) The following written material may be incorporated by reference in a solvency standard:
@@ -768,7 +768,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 (3) Sections 63 to 71 do not apply to—
   (a) a reinsurer in respect of its reinsurance business; or
   (b) a captive insurer.
-(4) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $1,000,000.
+(4) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $1,000,000.
 
 ### 61 Financial strength rating must refer to overseas policyholder preference
 (1) If an overseas policyholder preference may apply in respect of a licensed insurer that is an overseas insurer, the financial strength rating of the insurer must, in the prescribed circumstances and in the prescribed manner, contain, or be accompanied by, a reference to the overseas policyholder preference when the financial strength rating is disclosed under any of sections 64 and 67 to 69.
@@ -803,7 +803,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
   (a) those matters (other than the rating scale) are disclosed to the policyholder orally before the contract is entered into or renewed; and
   (b) those matters are disclosed to the policyholder in writing as soon as it becomes practicable to do so.
 (4) For the purposes of this section, a matter is not to be taken as having been disclosed unless it is disclosed clearly and prominently.
-(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $100,000.
+(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 65 Disclosure by insurers not required to be rated
 (1) A licensed insurer that does not have a current financial strength rating as a result of section 60(2)(a) must, before entering into a contract of insurance or renewing a contract of insurance with a New Zealand policyholder, disclose in writing to the policyholder—
@@ -814,7 +814,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
   (a) orally before the contract is entered into or renewed; and
   (b) in writing as soon as it becomes practicable to do so.
 (4) For the purposes of this section, a matter is not to be taken as having been disclosed unless it is disclosed clearly and prominently.
-(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $100,000.
+(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 66 Policyholder may cancel if disclosure is not made
 (1) If a contract of insurance is entered into or renewed, as the case may be, and section 64 or 65 (as the case may be) has not been complied with, the New Zealand policyholder may, within 20 working days after the contract is entered into or renewed, cancel the contract by notice in writing to the insurer.
@@ -854,13 +854,13 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 (3) In this section, rating from a non-approved agency means, in relation to a licensed insurer, an assessment of its financial strength or creditworthiness that is in substance a financial strength rating or credit rating (whether called a rating, grading, scoring, ranking, or by any other name) that is issued or given by an agency that is not an approved rating agency.
 
 ### 71 Offence to fail to comply with disclosure obligations
-A licensed insurer commits an offence if it fails to comply with any of sections 63 and 67 to 70 and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with any of sections 63 and 67 to 70 and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Disclosure of overseas policyholder preference**
 
 ### 72 Overseas insurer must disclose overseas policyholder preference
 (1) If an overseas policyholder preference may apply in respect of a licensed insurer that is an overseas insurer, the insurer must disclose the nature and the extent of the overseas policyholder preference in the circumstances and in the manner that is prescribed.
-(2) An overseas insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $500,000.
+(2) An overseas insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Risk management**
 
@@ -891,7 +891,7 @@ A licensed insurer commits an offence if it fails to comply with any of sections
 (2) However, if the group programme does not comply with the requirements of section 73(2) in any respect, the licensed insurer must prepare a supplementary document that, when taken together with the group programme, ensures that the requirements of section 73(2) are complied with (in which case the insurer's risk management programme must be taken to be the group programme together with the supplementary document).
 
 ### 75 Offence to fail to comply with risk management requirements
-A licensed insurer commits an offence if it fails to comply with section 73 and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with section 73 and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Appointment of actuary and actuarial review**
 
@@ -910,7 +910,7 @@ A licensed insurer commits an offence if it fails to comply with section 73 and 
   (a) information relating to an insurer's calculations of premiums, claims, reserves, dividends, insurance and annuity rates, and technical provisions; and
   (b) information relating to assessments of the probability of uncertain future events occurring and the financial implications for the insurer if those events do occur; and
   (c) information specified in an applicable solvency standard as being actuarial information for the purposes of this section.
-(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $500,000.
+(5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 78 Appointed actuary's report
 The appointed actuary's report in respect of a review under section 77 must state—
@@ -932,9 +932,9 @@ A licensed insurer must ensure that the auditor's report that is prepared under 
 
 ### 80 Access to information
 (1) A licensed insurer must ensure that any specified actuary has reasonable access to the accounting records and other documents of the insurer.
-(2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on summary conviction, to a fine not exceeding $1,000,000.
+(2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on conviction, to a fine not exceeding $1,000,000.
 (3) A specified actuary is entitled to require from a director or an employee of the insurer such information and explanations as he or she thinks necessary for the performance of his or her duties as an actuary.
-(4) A director or an employee commits an offence if he or she fails to comply with subsection (3) and is liable, on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
+(4) A director or an employee commits an offence if he or she fails to comply with subsection (3) and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
 (5) It is a defence to a director or an employee charged with an offence under subsection (4) if he or she proves that—
   (a) he or she did not have the information required in his or her possession or under his or her control; or
   (b) by reason of the position occupied by him or her or the duties assigned to him or her, he or she was unable to give the information or explanations required.
@@ -959,7 +959,7 @@ A licensed insurer must ensure that the auditor's report that is prepared under 
   (a) be audited if required by the regulations; and
   (b) be prepared in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993).
 (5) This section is subject to any exemption under section 238(1)(a)(iii) in respect of any provision of this section.
-(6) A licensed insurer commits an offence if it fails to comply with this section and is liable, on summary conviction, to a fine not exceeding $100,000.
+(6) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### Subpart 3 — Statutory funds of life insurers
 
@@ -1358,7 +1358,7 @@ A distribution of shareholders’ or members' capital in relation to a statutory
 **Offence**
 
 ### 118 Offence to fail to comply with subpart
-(1) A life insurer commits an offence if it fails to comply with this subpart and is liable, on summary conviction, to a fine not exceeding $500,000.
+(1) A life insurer commits an offence if it fails to comply with this subpart and is liable, on conviction, to a fine not exceeding $500,000.
 (2) Section 216 (which relates to the liability of directors) does not apply in respect of an offence under this section.
 
 **Exemptions**
@@ -1391,14 +1391,14 @@ The Bank must in accordance with this Part undertake prudential supervision of l
   (a) the periods for which, and the form in which, the information, data, or forecasts must be supplied; and
   (b) the time by which, and the manner in which, the information, data, or forecasts must be supplied.
 (5) The Bank may, by a subsequent notice, vary, revoke, or amend a notice.
-(6) A licensed insurer commits an offence if the insurer fails to comply with any requirements of the Bank under this section and is liable, on summary conviction, to a fine not exceeding $500,000.
+(6) A licensed insurer commits an offence if the insurer fails to comply with any requirements of the Bank under this section and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 122 Notice may require supply of information, data, or forecasts in relation to associated persons
 The Bank may, by notice under section 121, require a licensed insurer to supply information, data, or forecasts in relation to any associated person of the licensed insurer.
 
 ### 123 Associated persons may be required to supply information to licensed insurers
 (1) An associated person of a licensed insurer must, on being required by the insurer to do so, supply the insurer with information, data, or forecasts relating to the person in order to enable the insurer to comply with a notice under section 121.
-(2) A person commits an offence if the person fails to comply with this section and is liable, on summary conviction,—
+(2) A person commits an offence if the person fails to comply with this section and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1408,13 +1408,13 @@ The Bank may, by notice under section 121, require a licensed insurer to supply 
   (a) the periods for which, and the form in which, the information, data, or forecasts must be supplied; and
   (b) the time by which, and the manner in which, the information, data, or forecasts must be supplied.
 (3) The Bank may, by a subsequent notice, vary, revoke, or amend a notice.
-(4) A person commits an offence if the person fails to comply with any requirements of the Bank under this section and is liable, on summary conviction,—
+(4) A person commits an offence if the person fails to comply with any requirements of the Bank under this section and is liable, on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
 ### 125 Requirement that information, data, or forecasts be audited or reviewed
 (1) The Bank may, by notice in writing, require a licensed insurer or other person to obtain an audit or a review, by an auditor, actuary, or other person approved by the Bank, of any information, data, or forecasts that the insurer or other person, as the case may be, is required to supply under section 121 or 124.
-(2) A licensed insurer or other person commits an offence if the insurer or person fails to comply with this section and is liable, on summary conviction,—
+(2) A licensed insurer or other person commits an offence if the insurer or person fails to comply with this section and is liable, on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -1424,7 +1424,7 @@ The Bank may, by notice under section 121, require a licensed insurer to supply 
   (b) any associated person of the insurer.
 (2) The notice under subsection (1) must contain a statement of the reasons why the Bank wants the report or series of reports to be supplied.
 (3) An associated person of the licensed insurer must, if required to do so by the insurer, supply information relating to the person in order to enable the insurer to comply with a notice under this section.
-(4) A licensed insurer or an associated person of the insurer commits an offence if the insurer or person fails to comply with this section and is liable, on summary conviction,—
+(4) A licensed insurer or an associated person of the insurer commits an offence if the insurer or person fails to comply with this section and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1457,7 +1457,7 @@ Every auditor or actuary must, before disclosing any information to the Bank und
 (2) The Bank may do either or both of the following if it considers it is reasonably necessary for the purposes of carrying out its functions and exercising its powers under this Act:
   (a) by notice in writing to the licensed insurer or associated person, require the insurer or person to supply to the Bank, within the time specified in the notice, the information or data specified in the notice:
   (b) appoint, in writing, any suitably qualified person (an investigator) to carry out an investigation of the affairs of the licensed insurer or associated person.
-(3) A licensed insurer or an associated person commits an offence if the insurer or person fails to comply with any requirement of the Bank under subsection (2)(a) and is liable, on summary conviction,—
+(3) A licensed insurer or an associated person commits an offence if the insurer or person fails to comply with any requirement of the Bank under subsection (2)(a) and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1484,7 +1484,7 @@ Every auditor or actuary must, before disclosing any information to the Bank und
 (1) Every person commits an offence who—
   (a) hinders, obstructs, or delays an investigator in the carrying out of an investigation under this Act; or
   (b) fails to comply with any lawful requirement of an investigator.
-(2) A person who commits an offence under this section is liable on summary conviction,—
+(2) A person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1516,7 +1516,7 @@ In any case where it is declared in a final decision given in any proceedings in
   (f) the publication or disclosure of the information, data, document, or forecast is with the consent of the person to whom that material relates or of the person to whom that material is confidential.
 (3) The Bank must not publish or disclose information, data, a document, or a forecast under subsection (2)(d) or (e) unless the Bank is satisfied that appropriate provision exists to protect the confidentiality of that material.
 (4) An officer or employee of the Bank or an investigator must not publish or disclose any information, data, document, or forecast to which this section applies except for the purposes of, or in connection with, the performance or exercise of any function or power conferred by this Act or any other enactment.
-(5) An officer or employee of the Bank or an investigator commits an offence if the officer, employee, or investigator fails to comply with this section and is liable, on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
+(5) An officer or employee of the Bank or an investigator commits an offence if the officer, employee, or investigator fails to comply with this section and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
 
 ### 136 Limits on further disclosure of information, data, documents, or forecasts
 (1) A person to whom any information, data, document, or forecast is published or disclosed under section 135(2)(c), (e), or (f) must not publish, disclose, or use that information, data, document, or forecast unless the publication, disclosure, or use is,—
@@ -1527,7 +1527,7 @@ In any case where it is declared in a final decision given in any proceedings in
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
     (ii) necessary or desirable for the performance or exercise of any function or power conferred by any enactment:
   (c) in the case of a publication or disclosure under section 135(2)(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
-(2) A person commits an offence if the person fails to comply with this section and is liable, on summary conviction,—
+(2) A person commits an offence if the person fails to comply with this section and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1575,7 +1575,7 @@ The licensed insurer must, after the recovery plan has been approved by the Bank
   (b) the licensed insurer must comply with those requirements.
 
 ### 142 Offence to fail to comply with recovery plan requirements
-A licensed insurer commits an offence if it fails to comply with any of sections 138 to 141 and is liable, on summary conviction, to a fine not exceeding $500,000.
+A licensed insurer commits an offence if it fails to comply with any of sections 138 to 141 and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### Subpart 2 — Directions to licensed insurers and associated persons
 
@@ -1632,7 +1632,7 @@ A direction given under section 145 may require an associated person to—
 ### 148 Offence to contravene directions
 (1) A licensed insurer, or an associated person of a licensed insurer, that fails to comply with a direction under this subpart commits an offence.
 (2) Every person commits an offence who, being an officer or employee of a licensed insurer or of an associated person of a licensed insurer, obstructs, hinders, or prevents the insurer or associated person from giving effect to a direction under this subpart.
-(3) Every person who commits an offence under this section is liable on summary conviction,—
+(3) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1666,7 +1666,7 @@ A direction given under section 145 may require an associated person to—
   (a) the Bank's consent must not be unreasonably withheld; and
   (b) in considering whether to give its consent, the Bank must take into account the time that has elapsed since the direction or notice was given.
 (4) Nothing in subsection (1) applies to the disclosure or publication of the fact that a direction has been given requiring the actions set out in section 144(1)(f) or 146(c) for the purpose of giving effect to that direction.
-(5) Every person who commits an offence under this section is liable on summary conviction,—
+(5) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1719,7 +1719,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 
 ### 156 Bank's participation in arrangements, amalgamations, and compromises under Companies Act 1993
 (1) If a compromise under section 228(1) of the Companies Act 1993 has been proposed in respect of a licensed insurer, the insurer must send to the Bank a copy of the notice, statement, and lists referred to in section 229(2) of that Act as soon as practicable after those documents are delivered for registration under that subsection.
-(2) A licensed insurer that fails to comply with subsection (1) commits an offence and is liable, on summary conviction, to a fine not exceeding $100,000.
+(2) A licensed insurer that fails to comply with subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding $100,000.
 (3) If a person makes an application under section 232, 233, or 236 of the Companies Act 1993 in respect of a licensed insurer, the Bank may appear and be heard in relation to the application.
 
 ### 157 Bank must be sent copy of applications under Parts 14 to 16 of Companies Act 1993
@@ -1727,7 +1727,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
   (a) the insurer (unless it is in voluntary administration or liquidation or is subject to a deed of company arrangement):
   (b) if the insurer is in voluntary administration or liquidation or subject to a deed of company arrangement, the administrator, liquidator, or deed administrator (as the case may be):
   (c) the Registrar of the High Court in which the application is made.
-(2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on summary conviction, to a fine not exceeding $100,000.
+(2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 158 Bank must be sent copies of certain documents and may inspect certain accounts and records
 (1) If a person is required to prepare a specified document in respect of a licensed insurer under any of sections 239AH, 239AI, 239ACP(1)(a), 239ACZ, 239ADY(a) and (c), 239ADZ, 239AEA, and 257(1)(a)(i) or (ii) of the Companies Act 1993, the person must send a copy of the document to the Bank as soon as practicable after it has been prepared.
@@ -1918,7 +1918,7 @@ The Bank must, as soon as practicable after the making of an Order in Council un
 ### 180 Application of Corporations (Investigation and Management) Act 1989
 The following provisions of the Corporations (Investigation and Management) Act 1989 apply for the purposes of this subpart with all necessary modifications as if a person declared to be subject to statutory management under this subpart were a corporation declared to be subject to statutory management under that Act:
   (a) section 42 (which relates to a moratorium):
-  (b) section 43 (which contains a prohibition against the removal of assets), except that a person who commits an offence under section 43(2) is liable on summary conviction,—
+  (b) section 43 (which contains a prohibition against the removal of assets), except that a person who commits an offence under section 43(2) is liable on conviction,—
     (i) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
     (ii) in the case of a body corporate, to a fine not exceeding $500,000:
   (c) section 44 (which relates to the statutory manager suspending payment of money owing):
@@ -2073,7 +2073,7 @@ A licensed insurer, an associated person of a licensed insurer, or a subsidiary 
 
 ### 200 Lloyd's underwriters must not carry on insurance business in New Zealand unless Lloyd's holds licence
 (1) A Lloyd's underwriter must not carry on business in New Zealand that involves entering into contracts of insurance as an insurer with New Zealand policyholders unless Lloyd's holds a licence issued under section 203 or 205.
-(2) A Lloyd's underwriter who fails to comply with subsection (1) commits an offence and is liable, on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
+(2) A Lloyd's underwriter who fails to comply with subsection (1) commits an offence and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
 
 ### 201 Lloyd's may apply for licence on behalf of underwriting members
 (1) Lloyd's may apply for a licence in respect of the insurance business carried on by Lloyd's underwriters.
@@ -2081,7 +2081,7 @@ A licensed insurer, an associated person of a licensed insurer, or a subsidiary 
   (a) made in the manner that is specified by the Bank; and
   (b) accompanied by payment of the prescribed fee for the application (if any).
 (3) Lloyd's must provide to the Bank the information that is required by the Bank to assist it in determining the application.
-(4) Lloyd's commits an offence if it provides false or misleading information to the Bank for the purposes of the application and is liable, on summary conviction, to a fine not exceeding $1,000,000.
+(4) Lloyd's commits an offence if it provides false or misleading information to the Bank for the purposes of the application and is liable, on conviction, to a fine not exceeding $1,000,000.
 
 ### 202 Lloyd's fit and proper policy and risk management programme
 (1) Lloyd's must provide the following to the Bank with its application:
@@ -2142,7 +2142,7 @@ A licensed insurer, an associated person of a licensed insurer, or a subsidiary 
   (b) the Lloyd's risk management programme:
   (c) the conditions of the licence:
   (d) the directions given under section 209.
-(3) Lloyd's commits an offence and is liable, on summary conviction, to a fine not exceeding $500,000 if Lloyd's fails to comply with subsection (1) or (2).
+(3) Lloyd's commits an offence and is liable, on conviction, to a fine not exceeding $500,000 if Lloyd's fails to comply with subsection (1) or (2).
 (4) If the Bank is satisfied that Lloyd's has persistently or seriously failed to comply with subsection (1) or (2) or section 210 or 211, the Bank may, by written notice to Lloyd's, cancel its licence.
 (5) The Bank may, for the purpose of facilitating a cancellation under subsection (4), direct a Lloyd's underwriter to arrange, subject to the Bank’s approval, to assign the underwriter's liabilities under contracts of insurance with New Zealand policyholders to 1 or more licensed insurers (and for that purpose, sections 31(2) to (5), 32, and 33 apply with any necessary modifications).
 
@@ -2193,7 +2193,7 @@ Nothing in this Act authorises the carrying on by a Lloyd's underwriter of any b
 (1) A licensed insurer that is an overseas person must, on receipt of a notice from the Bank under section 213, comply with that notice by, as the case may be,—
   (a) permitting the overseas supervisor to conduct an inspection of that person; or
   (b) supplying the overseas supervisor with the required information, data, or forecasts within the time, and at the place, specified in the notice.
-(2) A licensed insurer that is an overseas person commits an offence if the person fails to comply in any respect with any requirements notified by the Bank under section 213 and is liable, on summary conviction, to a fine not exceeding $500,000.
+(2) A licensed insurer that is an overseas person commits an offence if the person fails to comply in any respect with any requirements notified by the Bank under section 213 and is liable, on conviction, to a fine not exceeding $500,000.
 
 **Offences**
 
@@ -2202,7 +2202,7 @@ Nothing in this Act authorises the carrying on by a Lloyd's underwriter of any b
   (a) either orally or in writing, makes any declaration or representation to the Bank or an investigator that, to the person's knowledge, is false or misleading in any material particular; or
   (b) supplies to the Bank or an investigator any document knowing it to contain any declaration or representation of that kind; or
   (c) supplies to the Bank or an investigator a document knowing that it is not genuine.
-(2) Every person who commits an offence under this section is liable on summary conviction,—
+(2) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $200,000:
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 (3) This section does not apply in the case of section 17(4) or 201(4).
@@ -2230,7 +2230,7 @@ If a body corporate is convicted of an offence under this Act, every director of
     (a) a body corporate or an association of persons incorporated or formed in New Zealand:
     (b) a person who is ordinarily resident in New Zealand
   - **overseas company** means an overseas company that is required to be registered or deemed to be registered under the Companies Act 1993.
-(3) A New Zealand person or an overseas company that fails to comply with this section commits an offence and is liable, on summary conviction,—
+(3) A New Zealand person or an overseas company that fails to comply with this section commits an offence and is liable, on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
@@ -2245,7 +2245,7 @@ If a body corporate is convicted of an offence under this Act, every director of
   (c) underwriter:
   (d) reinsurance:
   (e) any term whose meaning is the same as, or similar to, that of any term in paragraphs (a) to (d).
-(3) A New Zealand person or an overseas company that fails to comply with this section commits an offence and is liable, on summary conviction,—
+(3) A New Zealand person or an overseas company that fails to comply with this section commits an offence and is liable, on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
@@ -2352,7 +2352,7 @@ If a body corporate is convicted of an offence under this Act, every director of
 (4) A search of the register for personal information that has not been carried out in accordance with this section constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 ### 228 Offence for banned person to participate in insurance business in breach of order
-A person commits an offence if the person fails to comply with an order under section 222 and is liable, on summary conviction,—
+A person commits an offence if the person fails to comply with an order under section 222 and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
 
@@ -2758,39 +2758,3 @@ If a licensed insurer may be put into liquidation under or in accordance with th
 
 | Insurance (Prudential Supervision) Act 2010 | Section 226 |
 | --- | --- |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
