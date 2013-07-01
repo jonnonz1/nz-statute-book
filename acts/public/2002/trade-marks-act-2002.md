@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2013-04-29_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -884,7 +884,7 @@ If the court decides that no order should be made under section 110, the person 
 
 ### 117 When criminal proceedings may be commenced
 (1) No proceeding may be commenced for any offence against any of sections 120 to 124 that was committed before the actual date of registration of the trade mark concerned.
-(2) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against any of sections 120 to 124 may be laid at any time within 3 years after the time when the matter of the information arose.
+(2)
 
 ### 118 Application of Sentencing Act 2002
 If a person is convicted of an offence against any of sections 120 to 124 in circumstances where that offence involves the making of profit or gain,—
