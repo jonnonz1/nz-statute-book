@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -87,14 +87,14 @@ _Consolidation as at 2010-11-29_
   (a) it is owned by a New Zealand national or New Zealand nationals, and no other person; or
   (b) it is owned by 3 or more persons as joint owners (otherwise than as described in paragraph (c)), and the majority of those persons are New Zealand nationals; or
   (c) it is owned by 2 or more persons as owners in common, and more than half of the shares in the ship are owned by 1 or more New Zealand nationals.
-(2) For the purposes of subsection (1)(c), where 2 or more persons are joint owners of any number of shares in the ship the following provisions shall apply:
+(2) For the purposes of subsection (1)﻿(c), where 2 or more persons are joint owners of any number of shares in the ship the following provisions shall apply:
   (a) in the case of 2 or more particular shares that are owned by the same persons, the interest of each owner in those shares shall be ascertained by dividing the number of shares by the number of owners of the shares:
   (b) in the case of a share to which paragraph (a) does not apply, the interest of each owner in the share shall be ascertained by dividing the number 1 by the number of owners of the share:
   (c) if the sum of the interests so ascertained in respect of all jointly-owned shares in the ship as being interests of a New Zealand national or New Zealand nationals is a whole number or a whole number and a fraction, such number of shares as is equal to that whole number shall be deemed to be owned by a New Zealand national or New Zealand nationals.
 (3)
 
 ### 4 Ships on demise charter to New Zealand-based operators
-A reference in this Act to a ship on demise charter to a New Zealand-based operator shall be read as a reference to a ship (not being a ship required to be registered, or a ship entitled otherwise than under section 8(1)(b) to be registered, or a pleasure vessel) on demise charter to—
+A reference in this Act to a ship on demise charter to a New Zealand-based operator shall be read as a reference to a ship (not being a ship required to be registered, or a ship entitled otherwise than under section 8(1)﻿(b) to be registered, or a pleasure vessel) on demise charter to—
   (a) a New Zealand national or New Zealand nationals ordinarily resident or carrying on business in New Zealand, and no other person; or
   (b) a New Zealand national or New Zealand nationals ordinarily resident in New Zealand together with any other person or persons, where the New Zealand national is or the New Zealand nationals are in a position to control the exercise of the rights and powers of the charterers under the charterparty.
 
@@ -144,7 +144,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (a) delivered to any representative person for the time being appointed in relation to the ship; or
   (b) sent to any such person by post at the address notified or last notified to the Registrar under subsection (4); or
   (c) left for any such person at that address.
-(7) Every person commits an offence and is liable to a fine not exceeding $2,000 who fails to comply with subsection (2) or subsection (4).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to comply with subsection (2) or subsection (4).
 
 ### 8 Entitlement to register certain New Zealand-owned ships and other ships
 (1) The following ships are entitled to be registered in Part A of the Register:
@@ -179,7 +179,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 ### 11 Certain unregistered ships not to leave New Zealand
 (1) A ship that is required by section 6 to be registered, but is not registered, shall not depart from a New Zealand port on a voyage to a place outside New Zealand, except pursuant to a temporary pass.
 (2) A Customs officer shall not grant a certificate of clearance in respect of a ship that is about to depart from a New Zealand port to a place outside New Zealand in contravention of subsection (1).
-(3) The master or owner of any ship commits an offence who causes or permits or fails to take reasonable steps to prevent a contravention of subsection (1), and is liable,—
+(3) The master or owner of any ship commits an offence who causes or permits or fails to take reasonable steps to prevent a contravention of subsection (1), and is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -201,7 +201,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (c) the overall length of the ship; and
   (d) the name, address, and nationality of every owner of any share in the ship.
 (4) For the purpose of determining whether a ship may properly be registered, the Registrar may require the applicant to furnish such supplementary information and evidence relating to the ship and its ownership as the Registrar thinks necessary.
-(5) Every person commits an offence and is liable to a fine not exceeding $2,000 who makes any statement in an application for registration of a ship knowing that the statement is false in any material particular.
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who makes any statement in an application for registration of a ship knowing that the statement is false in any material particular.
 
 ### 13 Declaration of ownership and nationality
 (1) Every applicant for registration of a ship in Part A of the Register shall furnish the Registrar with a statutory declaration in accordance with this section.
@@ -213,7 +213,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (e) in the case of a ship not on demise charter, a statement that, to the best of the knowledge of the person making the statement, the ship will be a New Zealand-owned ship.
 (3) In the case of a ship on demise charter, the declaration shall also state whether a New Zealand national is or New Zealand nationals are in a position to exercise the rights and powers of the charterer.
 (4) Except where the Registrar grants a dispensation under section 82, the Registrar shall not register a ship if no such declaration has been supplied in respect of that ship.
-(5) For the purposes of subsection (2)(a), a body corporate shall state its address as follows:
+(5) For the purposes of subsection (2)﻿(a), a body corporate shall state its address as follows:
   (a) if the corporation has a registered office in New Zealand, it shall state the address of that office:
   (b) if the corporation is not incorporated in New Zealand but has a principal place of business in New Zealand, it shall state the address of that place:
   (c) if the corporation has neither a registered office nor a principal place of business in New Zealand, it shall state the address of its principal place of business outside New Zealand.
@@ -230,8 +230,8 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (b) any documents (including bills of sale) relating to changes in ownership of the ship that have occurred since it was last registered in New Zealand or in any foreign country, or (if it has not been registered in any country) have occurred since it was built:
   (c) a copy of any demise charterparty in respect of the ship.
 (2) Where an applicant is for any reason unable to furnish any document or particulars required by subsection (1), it shall be sufficient compliance with the requirements of that subsection if the applicant furnishes to the Registrar's satisfaction the missing information in the form of a statutory declaration together with those documents that are available.
-(3) Every person who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship shall, within 21 days after the date on which the construction of the ship has been completed, deliver to the person for whom it has been constructed or any agent of that person a certificate specifying the particulars required by subsection (1)(a).
-(4) Every person commits an offence and is liable to a fine not exceeding $2,000 who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship, and—
+(3) Every person who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship shall, within 21 days after the date on which the construction of the ship has been completed, deliver to the person for whom it has been constructed or any agent of that person a certificate specifying the particulars required by subsection (1)﻿(a).
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship, and—
   (a) fails to comply with the requirements of subsection (3); or
   (b) makes any false statement in a certificate required by subsection (3) knowing that the statement is false in any material particular.
 
@@ -247,7 +247,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
     (i) the Government of that country; or
     (ii) an organisation recognised for such purposes under the law of that country; or
     (iii) an organisation approved for the purposes of this section by the Director.
-(3) Where none of the matters required by subsection (1)(a) to be specified in a tonnage certificate have altered since the ship was previously registered, whether under Part 12 of the Shipping and Seamen Act 1952 or in Part A of the Register, the Registrar may accept in place of a tonnage certificate, a statutory declaration to that effect made by the owner or any owner of a share in the ship.
+(3) Where none of the matters required by subsection (1)﻿(a) to be specified in a tonnage certificate have altered since the ship was previously registered, whether under Part 12 of the Shipping and Seamen Act 1952 or in Part A of the Register, the Registrar may accept in place of a tonnage certificate, a statutory declaration to that effect made by the owner or any owner of a share in the ship.
 
 ### 16 Power to disallow proposed name and to allow change of name
 (1) The Registrar may disallow any name registered or proposed to be registered in respect of a ship if that name—
@@ -275,12 +275,12 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (6) Where the Registrar allows a change of name of a registered ship or there is a change in the port of registry of a ship,—
   (a) the Registrar shall cause the change to be entered in the Register and endorsed on the ship's certificate of registry; and
   (b) the owner of the ship shall alter the ship's markings so that it is marked with its new name or port of registry, as the case may be, as if it were being marked for registration under this Act.
-(7) Every person commits an offence and is liable to a fine not exceeding $2,000 who fails to comply with subsection (6)(b).
-(8) Every person commits an offence and is liable to a fine not exceeding $2,000 who describes a registered ship by any name other than the name by which the ship is for the time being registered, if the name is likely to mislead or deceive any person who has official business in relation to the ship under the provisions of this Act or any other enactment.
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to comply with subsection (6)﻿(b).
+(8) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who describes a registered ship by any name other than the name by which the ship is for the time being registered, if the name is likely to mislead or deceive any person who has official business in relation to the ship under the provisions of this Act or any other enactment.
 (9) Nothing in subsection (1) applies in relation to the name under which any ship is deemed by section 90 to be registered.
 
 ### 17 Appeals from decisions under section 16
-(1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)(a) of section 16 may appeal to a District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
+(1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)﻿(a) of section 16 may appeal to a District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
 (2) On hearing the appeal, the court may, subject to subsection (3), confirm the decision or give such directions or make such other determination in the matter as the court thinks fit.
 (3) The court shall not give any direction or make any determination that is inconsistent with the provisions of section 16.
 
@@ -316,7 +316,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (7) The Director may, subject to such conditions as the Director thinks fit to impose, exempt any ship or any class of ship from all or any of the requirements of subsection (1).
 (8) Every person commits an offence who, in relation to any marking that is on a registered ship in the manner prescribed, conceals, removes, alters, defaces, or obliterates any such marking, or causes or permits any other person to conceal, remove, alter, deface, or obliterate any such marking.
 (9) Every owner or master of a ship commits an offence who, in relation to any marking that is on a registered ship in the manner prescribed, fails to maintain any such marking.
-(10) Every person who commits an offence against subsection (8) or subsection (9) is liable,—
+(10) Every person who commits an offence against subsection (8) or subsection (9) is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $2,000; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 (11) It is a defence to a charge in respect of an offence against subsection (8) or subsection (9) that the act or omission charged was done or omitted in accordance with this Act or for the purpose of escaping capture by an enemy.
@@ -374,7 +374,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
     (i) any alteration to the ship or in its ownership that materially affects the particulars entered on the ship's certificate of registration; or
     (ii) the ship's ceasing to be required or entitled to be registered in Part B of the Register.
 (5) The registration of any ship in Part B of the Register shall have no effect unless the ship is either required or entitled under this Act to be registered in that Part.
-(6) For the purposes of subsection (1)(e), a body corporate must state its address as follows:
+(6) For the purposes of subsection (1)﻿(e), a body corporate must state its address as follows:
   (a) if the corporation has a registered office in New Zealand, it must state the address of that office:
   (b) if the corporation is not incorporated in New Zealand but has a principal place of business in New Zealand, it must state the address of that place:
   (c) if the corporation has neither a registered office nor a principal place of business in New Zealand, it must state the address of its principal place of business outside New Zealand.
@@ -387,7 +387,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (d) no joint owner of the ship or of any number of shares in the ship is entitled to dispose of that interest in severalty:
   (e) no person shall be registered as the owner of a fractional part of a share in the ship:
   (f) a body corporate shall be registered as owner in its corporate name.
-(2) Where a share in a ship is jointly owned, or where 2 or more shares are jointly owned by the same persons, the joint owners of the relevant share or shares shall, for the purposes of subsection (1)(b), be treated as constituting 1 person.
+(2) Where a share in a ship is jointly owned, or where 2 or more shares are jointly owned by the same persons, the joint owners of the relevant share or shares shall, for the purposes of subsection (1)﻿(b), be treated as constituting 1 person.
 (3) Nothing in subsection (1) affects the beneficial interests of any person or of any body corporate represented by or claiming under or through a registered owner (including a registered joint owner).
 
 **Certificates of registry and registration, provisional certificates of registry, and temporary passes**
@@ -413,7 +413,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (2) Every person having possession or control of a certificate of registry or a provisional certificate of registry or a certificate of registration or a provisional certificate of registration shall deliver the certificate on demand to—
   (a) the person entitled to custody of it for the purposes of the lawful navigation of the ship; or
   (b) the Registrar, a Deputy Registrar, a Customs officer, a proper officer, or any other person entitled by law to require its delivery.
-(3) Every person commits an offence and is liable to a fine not exceeding $5,000 who—
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) fails to comply with subsection (2); or
   (b) with intent to deceive, uses or lends to another person or allows to be used by another person an invalid certificate of registry or an invalid provisional certificate of registry or an invalid certificate of registration or an invalid provisional certificate of registration.
 (4) If in any proceedings in respect of an offence against this section the court is of the opinion that the certificate to which the proceedings relate is lost, the court shall make an order to that effect and cause a copy of the order bearing the seal of the court to be served on the Registrar.
@@ -440,7 +440,7 @@ Where a certificate of registry or provisional certificate of registry or certif
   (a) the ship arrives at a New Zealand port; or
   (b) the expiration of a period of 3 months commencing on the date on which the certificate was granted,—
 (2) The owner of a ship in respect of which a provisional certificate of registry or a provisional certificate of registration is granted shall, as soon as practicable, lodge the certificate or cause it to be lodged with the Registrar.
-(3) Every owner commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (2).
+(3) Every owner commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (2).
 (4) During the period of its currency, a provisional certificate of registry has the same effect as a certificate of registry and a provisional certificate of registration has the same effect as a certificate of registration, and, for the purposes of this Act and of the lawful navigation of the ship concerned, the ship is deemed to be registered during that period.
 
 ### 29 Temporary passes
@@ -453,7 +453,7 @@ Where a certificate of registry or provisional certificate of registry or certif
   (c) the period for which or a date until which the pass is current.
 (3) During the period of its currency, and subject to compliance with any conditions imposed in respect of the voyage, a temporary pass has the same effect as a certificate of registry, and for the purposes of this Act and of the lawful navigation of the ship concerned on the voyage specified in the pass, the ship is deemed to be registered during that period.
 (4) The owner of a ship in respect of which a temporary pass is granted shall, as soon as practicable after the pass expires, lodge the pass or cause it to be lodged with the Registrar.
-(5) Every owner commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (4).
+(5) Every owner commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (4).
 
 **Alterations to ships, changes in ownership, etc, to be notified to Registrar**
 
@@ -467,7 +467,7 @@ Where a certificate of registry or provisional certificate of registry or certif
 (3) If the ship is at a foreign port,—
   (a) the Registrar shall authorise a proper officer to enter the alteration on the ship's certificate of registry or issue a provisional certificate of registry describing the ship as altered; and
   (b) the proper officer shall send the ship's certificate of registry to the Registrar to enable a new certificate of registry to be issued.
-(4) Every owner and every representative person commits an offence and is liable to a fine not exceeding $5,000 who fails to comply with subsection (1).
+(4) Every owner and every representative person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with subsection (1).
 (5) In this section, surveyor means a surveyor of ships recognised by the Director.
 
 ### 31 Change of name or address or nationality of owner or mortgagee
@@ -499,7 +499,7 @@ Where a certificate of registry or provisional certificate of registry or certif
   (b) if the Registrar closes the registration of the ship under paragraph (a), the Registrar must notify the owner of the closure by sending a notification to the last known address of the registered owner; and
   (c) an entry made under paragraph (a) has the same effect as an entry made under subsection (2).
 (4) For the purposes of subsection (1), a ship shall be deemed to be constructively lost if there is in respect of that ship a constructive total loss within the meaning of section 60 of the Marine Insurance Act 1908.
-(5) Every owner of a registered ship commits an offence and is liable to a fine not exceeding $5,000 who fails to comply with subsection (1).
+(5) Every owner of a registered ship commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with subsection (1).
 
 ### 33 Rights of mortgagees where ship ceases to be registrable
 (1) Where—the Registrar shall give the mortgagee, by registered post, notice in writing of the fact that the Registrar has been given such a notice.
@@ -528,7 +528,7 @@ This Part applies only in relation to ships registered in Part A of the Register
   (a) register the bill of sale by entering in the Register the name of the transferee as owner of the ship or share; and
   (b) endorse on the bill of sale the fact of the entry having been made, together with the date and time of the making of the entry.
 (3) The transferee of any bill of sale made under this section shall lodge the bill of sale with the Registrar within 3 months after the date on which the transfer takes effect, and bills of sale lodged under this section shall be registered in the order of their lodgment.
-(4) Every transferee commits an offence and is liable to a fine not exceeding $2,000 who fails to lodge a bill of sale in accordance with subsection (3).
+(4) Every transferee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to lodge a bill of sale in accordance with subsection (3).
 
 ### 36 Transmission of ship or share in ship by operation of law
 Subject to section 81, where a ship, or any share in a ship, passes by transmission to a person by any lawful means other than by a transfer under section 35, the Registrar shall, as soon as practicable after the lodgment of—enter in the Register the name of that person as owner of the ship or share.
@@ -678,8 +678,8 @@ A caveat entered in the Register in respect of a ship or a share in a ship shall
   (a) when signalled to do so by any ship set aside for or being used by the Armed Forces of New Zealand:
   (b) while berthed or at anchor, during daylight hours, or entering or leaving or underway in any port in a foreign country:
   (c) while berthed or at anchor, during daylight hours, or entering or leaving or underway in any port in New Zealand.
-(4) Subsection (3)(c) applies only to ships registered under section 6(1) and ships (other than barges) registered under section 8(1).
-(5) The master of any New Zealand ship required or entitled to fly the New Zealand national colours commits an offence and is liable to a fine not exceeding $5,000 if the ship—
+(4) Subsection (3)﻿(c) applies only to ships registered under section 6(1) and ships (other than barges) registered under section 8(1).
+(5) The master of any New Zealand ship required or entitled to fly the New Zealand national colours commits an offence and is liable on conviction to a fine not exceeding $5,000 if the ship—
   (a) fails to comply with any provision of subsection (3); or
   (b) flies national colours other than those specified in respect of the ship by this section.
 
@@ -687,7 +687,7 @@ A caveat entered in the Register in respect of a ship or a share in a ship shall
 (1) Despite section 58 or any other enactment, the powers of the Sovereign and the Governor-General include the power—
   (a) to establish a new flag which may be flown by a particular New Zealand ship or any class of New Zealand ship authorised for the purpose by the Sovereign or the Governor-General; or
   (b) to designate any existing flag as a flag which may be flown by a particular New Zealand ship or any class of New Zealand ship authorised for the purpose by the Sovereign or the Governor-General.
-(2) Where any New Zealand ship is entitled to fly any flag in accordance with an authority given by the Sovereign or the Governor-General, that flag is the appropriate national colour for that ship and subsections (3), (4), and (5)(a) of section 58 apply with any necessary modifications.
+(2) Where any New Zealand ship is entitled to fly any flag in accordance with an authority given by the Sovereign or the Governor-General, that flag is the appropriate national colour for that ship and subsections (3), (4), and (5)﻿(a) of section 58 apply with any necessary modifications.
 
 ### 59 Declaration of ship's nationality before Customs clearance
 (1) A Customs officer shall not grant a certificate of clearance in respect of a ship about to leave a New Zealand port for a place outside New Zealand until the master of the ship has declared the nationality of the ship.
@@ -700,7 +700,7 @@ A caveat entered in the Register in respect of a ship or a share in a ship shall
   (a) concealing the nationality of the ship from any person having a duty or power under the law of New Zealand to inquire into the nationality of the ship; or
   (b) deceiving any such person; or
   (c) causing the ship to appear not to be a New Zealand ship.
-(3) Every master or owner who commits an offence against subsection (1) or subsection (2) is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000; and the ship in respect of which the offence has been committed is liable to forfeiture under this Act.
+(3) Every master or owner who commits an offence against subsection (1) or subsection (2) is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000; and the ship in respect of which the offence has been committed is liable on conviction to forfeiture under this Act.
 (4) In any prosecution for an offence against subsection (1) or subsection (2), it is a defence if the defendant proves that the purpose of the conduct specified in the charge was to escape capture by an enemy.
 
 ## Part 5 — Administration
@@ -790,7 +790,7 @@ Where a question arises in New Zealand as to the priority of instruments creatin
   (b) any constable:
   (c) any Customs officer.
 (2) A Customs officer shall not grant a certificate of clearance in respect of a ship that is detained under this Act.
-(3) The master or owner of any ship detained under this Act commits an offence and is liable to a fine not exceeding $5,000 who causes or permits that ship to go to sea or fails to take reasonable steps to prevent that ship going to sea, before it is released from detention by a competent authority.
+(3) The master or owner of any ship detained under this Act commits an offence and is liable on conviction to a fine not exceeding $5,000 who causes or permits that ship to go to sea or fails to take reasonable steps to prevent that ship going to sea, before it is released from detention by a competent authority.
 (4) The provisions of the Maritime Transport Act 1994 shall, with any necessary modifications, apply in relation to any ship detained under this section as if it were a ship detained under section 55 of that Act.
 
 ### 72 Proceedings on forfeiture
@@ -805,28 +805,28 @@ Where a question arises in New Zealand as to the priority of instruments creatin
 (2) If the court is not satisfied that there were reasonable grounds for the seizure or detention, it may award costs and damages to any party aggrieved and make such other order as it thinks just.
 
 ### 74 False statements
-(1) Every person commits an offence and is liable to a fine not exceeding $5,000 who makes or presents to an officer having duties and functions under this Act any oral or written statement, knowing that statement to be false or misleading in any material particular.
-(2) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who, by means of a statement or document that the person knows to be, or to contain information that is, false or misleading in any material particular, causes or attempts to cause an officer to do or refrain from doing any act or thing in the performance or exercise of that officer's duties, functions, or powers under this Act.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who makes or presents to an officer having duties and functions under this Act any oral or written statement, knowing that statement to be false or misleading in any material particular.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who, by means of a statement or document that the person knows to be, or to contain information that is, false or misleading in any material particular, causes or attempts to cause an officer to do or refrain from doing any act or thing in the performance or exercise of that officer's duties, functions, or powers under this Act.
 (3) For the purposes of the application of this section in relation to a body corporate, but without prejudice to the liability of any person other than the body corporate,—
   (a) a statement made, presented, or otherwise used by a person acting on behalf of the body corporate shall be deemed to have been made, presented, or otherwise used by the body corporate; and
   (b) the knowledge of any person employed by or concerned in the management of the body corporate shall be deemed to be knowledge of the body corporate.
 
 ### 75 Making false documents, etc
-(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who—
   (a) makes any register book, certificate, bill of sale, instrument of mortgage, or other document under this Act, knowing the same to be false or misleading in any material particular; or
   (b) forges or fraudulently alters any such document, or assists any other person to do so, or procures the forgery or fraudulent alteration of any such document.
-(2) Every person commits an offence and is liable to a fine not exceeding $5,000 who prints, sells, or uses any document purporting to be a form prescribed by the Minister, knowing that the document is not in fact a form that is for the time being prescribed by the Minister.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who prints, sells, or uses any document purporting to be a form prescribed by the Minister, knowing that the document is not in fact a form that is for the time being prescribed by the Minister.
 
 ### 76 Liability of directors and officers of bodies corporate
 Where any body corporate is convicted of an offence against this Act, every director and every person concerned in the management of the body corporate shall be guilty of a like offence if it is proved that the act or omission that constituted the offence took place with that person's authority, permission, or consent, or that the person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 77 Offences to be punishable on summary conviction
-Every offence against this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 78 Proceedings for offences
 For the purpose of any proceedings for an offence against this Act, the following provisions shall apply:
   (a) the offence may be treated as having been committed either at the place at which it was actually committed or at any place in which the offender may be:
-  (b) the period of 6 months referred to in section 14 of the Summary Proceedings Act 1957 for the laying of an information shall not run while the person charged (or to be charged) is beyond the territorial limits of New Zealand.
+  (b) The applicable limitation period referred to in section 25 of the Criminal Procedure Act 2011 for the filing of a charging document shall not run while the person charged (or to be charged) is beyond the territorial limits of New Zealand.
 
 ### 79 Service of documents
 (1) Where for the purposes of this Act any document is to be served on any person, that document may be served,—
@@ -837,7 +837,7 @@ For the purpose of any proceedings for an offence against this Act, the followin
       (A) leaving the document with the person being or appearing to be in command or charge of the ship; or
       (B) serving the document on the representative person appointed in respect of the ship under section 7; or
     (ii) if none of the persons specified by subparagraph (i) can be located after taking reasonable steps to locate such a person, affixing the document to the mast of the ship.
-(2) Every person commits an offence and is liable to a fine not exceeding $5,000, who obstructs the service of any document under this Act; and the owner or master of the ship commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 if the owner or master is a party to the obstruction.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000, who obstructs the service of any document under this Act; and the owner or master of the ship commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 if the owner or master is a party to the obstruction.
 
 ### 80 Admissibility of documents in evidence
 (1) A document declared by any provision of this Act to be admissible in evidence is, on mere production, admissible in evidence in any proceedings as prima facie evidence of—
@@ -893,7 +893,7 @@ For the purposes of this Act, the Director may from time to time, by notice in t
   (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister's functions or powers; but
   (b) does not limit the power of delegation conferred on the Minister by any other Act.
 (5) Subject to any general or special directions given or conditions imposed by the Minister, the Director may exercise any functions or powers so delegated to the Director in the same manner and with the same effect as if they had been conferred on the Director directly by this section and not by delegation.
-(6) Where the Director purports to act pursuant to any delegation under this section, the Director, shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
+(6) Where the Director purports to act pursuant to any delegation under this section, the Director shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No such delegation shall affect or prevent the exercise of any function or power by the Minister, nor shall any such delegation affect the responsibility of the appropriate Minister for the actions of any person acting under the delegation.
 
 ### 86 Delegation of Director's powers
@@ -950,7 +950,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) If—the Director may, by notice in writing to the Registrar, direct that the registration relating to the ship be closed.
   (a) the owner or person having the management of the ship fails within the specified period to verify a matter or particular, or to furnish any information or documents, as required by a notice under subsection (1); and
   (b) the Director is not satisfied that the ship is registrable under this Act,—
-(3) Upon receipt by the Registrar of such a notice, the provisions of section 32 shall apply as if the ship had ceased to be entitled to be registered and the notice were a notice under section 32(1)(b) stating that fact.
+(3) Upon receipt by the Registrar of such a notice, the provisions of section 32 shall apply as if the ship had ceased to be entitled to be registered and the notice were a notice under section 32(1)﻿(b) stating that fact.
 
 ### 92 Applications under previous law
 (1) All applications for registration of a ship under the provisions of Part 12 of the Shipping and Seamen Act 1952 that have not been finally dealt with at the commencement of this Act shall be subject to this section.
