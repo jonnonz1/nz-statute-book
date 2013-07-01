@@ -1,5 +1,5 @@
 # Local Restoration Polls Act 1990
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Local Restoration Polls Act 1990.
@@ -90,7 +90,7 @@ If the result of any local restoration poll is disputed on the ground that the p
 
 ### 21 Publicity for local restoration poll
 (1) No person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement used or appearing to be used to promote one of the proposals in the local restoration poll unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who wilfully contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who wilfully contravenes subsection (1).
 (3) Nothing in this section shall restrict the publication of any news or comments relating to the local restoration poll in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
 ### 22 Election expenses
@@ -125,7 +125,7 @@ At the conclusion of the trial of a petition for an inquiry the court shall dete
 (2) At any such fresh local restoration poll the same roll of electors shall be used as was used at the voided poll.
 
 ### 29 Offences
-Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $2,000 who at a local restoration poll—
+Every person commits an offence and shall be liable on conviction to a fine not exceeding $2,000 who at a local restoration poll—
   (a) in any way interferes with any elector, either in the polling booth or while on his or her way thereto, with the intention of influencing the elector or advising him or her as to his or her vote; or
   (b) prints or distributes or delivers to any person on the day of the poll, or at any time during the 3 days immediately preceding the poll, anything being or purporting to be in imitation of any voting paper to be used at the poll, together with any direction or indication as to how any person should vote, or in any way containing any such direction or indication; or
   (c) during the hours in which the poll is being taken, makes any public demonstration having reference to the poll by means of living figures, effigies, paintings, placards, or other like means; or
