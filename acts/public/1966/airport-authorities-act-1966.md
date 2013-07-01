@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -136,9 +136,6 @@ An airport operated or managed by an airport authority which is not a local auth
 (3) Nothing in section 43 of the Commerce Act 1986 applies in relation to the setting and charging of charges by an airport company.
 (4) This section does not limit the application of regulation under Part 4 of the Commerce Act 1986.
 
-###
-[Repealed]
-
 ### 4B Airport companies must consult concerning charges
 (1) Every airport company must consult with every substantial customer in respect of any charge payable by that substantial customer to the airport company in respect of any or all identified airport activities—
   (a) before fixing or altering the amount of that charge; and
@@ -221,7 +218,7 @@ Subject to the provisions of this section, any local authority may, for the purp
   (a) set out the bylaw approved in a schedule to the order; and
   (b) be deemed to be a regulation for the purposes of the Regulations Act 1936.
 (7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
-(8) Every person who commits a breach of any bylaw in force under this section is liable on summary conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
+(8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
 (9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
 (10) An injunction may be granted under subsection (9),—
   (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
@@ -267,8 +264,8 @@ A failure by a specified airport company to comply with section 4C does not affe
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 9A; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 9C(1)(a) or with a request made under section 9C(1)(b).
 (2) Every person commits an offence against this section who makes a false declaration under section 9C(2) in relation to any statement, forecast, report, agreement, particulars, or information supplied under section 9C(1).
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 10 Repeals and savings
 (1) The enactments specified in the Schedule are hereby repealed.
