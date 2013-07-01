@@ -1,5 +1,5 @@
 # Impounding Act 1955
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the establishment and management of public pounds, trespassing and wandering stock, and the impounding of stock
 
@@ -178,9 +178,9 @@ The owner of impounded stock may give notice in writing to the local authority t
 ### 31 Special remedies for trespass by pigs, goats, or poultry
 (1) Notwithstanding anything in section 27, the occupier of any fenced or unfenced land trespassed on by pigs or goats may recover from the owner of those pigs or goats trespass rates at the rates prescribed by regulations made under this Act; and, if any pigs or goats the property of the same owner trespass upon that land within 3 months after the first trespass, the occupier may recover from the owner thereof, in respect of every separate time they so trespass, trespass rates at double the rates prescribed by regulations made under this Act.
 (2) The occupier of any fenced land sown in grass or under cultivation may destroy any poultry or pigs or goats, other than branded Angora or Saanen or Toggenburg goats, found trespassing upon the land.
-(3) The occupier so destroying any such animal or bird shall within 24 hours send in writing a description of the animal or bird so destroyed, and of the place where it was destroyed, to the owner thereof if he is known, and, if he is unknown, then to the nearest police station, and if he makes default in so doing he is liable to a fine not exceeding 10 pounds:
+(3) The occupier so destroying any such animal or bird shall within 24 hours send in writing a description of the animal or bird so destroyed, and of the place where it was destroyed, to the owner thereof if he is known, and, if he is unknown, then to the nearest police station, and if he makes default in so doing he is liable on conviction to a fine not exceeding 10 pounds:
   provided that it shall not be necessary to send any description in the case of any wild animal or wild bird so destroyed.
-(4) If the carcass of any animal or bird so destroyed is not claimed and removed by its owner within 48 hours after being destroyed, the occupier shall bury or otherwise dispose of the carcass, and if he makes default in so doing he is liable to a fine not exceeding 10 pounds.
+(4) If the carcass of any animal or bird so destroyed is not claimed and removed by its owner within 48 hours after being destroyed, the occupier shall bury or otherwise dispose of the carcass, and if he makes default in so doing he is liable on conviction to a fine not exceeding 10 pounds.
 
 ## Part 6 — Provisions for stock found straying or wandering on roads, and for wild stock
 
@@ -196,7 +196,7 @@ The owner of impounded stock may give notice in writing to the local authority t
 **Stock straying or wandering on roads**
 
 ### 33 Stock straying or wandering on roads
-(1) Where at any time of the day or night any stock is found straying or wandering on any road, or tethered on any road in such a manner as to obstruct or be reasonably likely to obstruct the road, any person may seize the stock, and may either impound it or, where the owner thereof is known to him, return it to the owner; and in any such case the owner of the stock, in the case of entire animals, is liable to a fine not exceeding $100 for every head thereof and, in the case of other animals, to a fine not exceeding $50 for every head thereof, in addition to any other rates and charges payable under this Act.
+(1) Where at any time of the day or night any stock is found straying or wandering on any road, or tethered on any road in such a manner as to obstruct or be reasonably likely to obstruct the road, any person may seize the stock, and may either impound it or, where the owner thereof is known to him, return it to the owner; and in any such case the owner of the stock, in the case of entire animals, is liable on conviction to a fine not exceeding $100 for every head thereof and, in the case of other animals, to a fine not exceeding $50 for every head thereof, in addition to any other rates and charges payable under this Act.
 (2) Where any stock is found so straying or wandering or tethered between sunset and sunrise, any person may, with the consent of the owner of the yard or paddock, place it in any yard or fenced paddock for the night and shall, as soon as possible after sunrise, either return it to the owner or remove it or cause it to be removed to the nearest accessible pound.
 (3) Any expenses reasonably incurred by any person impounding or otherwise dealing with stock under this section, shall be recoverable by action from the owner of the stock over and above any other fees, charges, and fines payable under this Act.
 (4) For the purposes of this section stock straying or wandering or tethered so near a road as to be reasonably likely to stray on to the road shall be deemed to be straying or wandering or tethered on the road.
@@ -314,23 +314,23 @@ If the proceeds of the sale of any stock sold under this Act are insufficient to
 ## Part 9 — Offences and penalties
 
 ### 57 Offences by poundkeepers
-(1) Every poundkeeper is liable to a fine not exceeding $500 who—
+(1) Every poundkeeper is liable on conviction to a fine not exceeding $500 who—
   (a) illegally impounds or assists or incites any person illegally to impound any stock; or
   (b) purchases, in person or by his agent, unclaimed impounded stock caused to be sold by the local authority by which he is employed; or
   (c) demands or receives any fees, charges, rates, or other sums of money knowing the same not to be authorized by or under this Act.
-(2) Every poundkeeper is liable to a fine not exceeding $100 who—
+(2) Every poundkeeper is liable on conviction to a fine not exceeding $100 who—
   (a) loses any stock impounded through wilful and culpable negligence, or uses the same while so impounded in any manner not authorized by this Act; or
   (b) omits or neglects to make entries in the Pound Book as required by this Act or wilfully makes any incorrect or untrue entry in that book; or
   (c) fails to comply with or commits any offence against the provisions of this Act in respect of which no fine is specifically provided herein.
 
 ### 58 Offences by other persons
-(1) Every person other than a poundkeeper is liable to a fine not exceeding $500 who—
+(1) Every person other than a poundkeeper is liable on conviction to a fine not exceeding $500 who—
   (a) rescues or attempts to rescue or interferes with stock impounded or seized for the purpose of being impounded; or
   (b) destroys or injures or attempts to destroy or injure any pound, or any lock or bolt belonging thereto, whether any stock is impounded therein or not; or
   (c) illegally impounds any stock; or
   (d) illegally removes stock from any one place to any other place for the purpose of impounding the stock from the last-mentioned place; or
   (e) purchases, in person or by his agent, unclaimed impounded stock at a sale conducted by him on behalf of the local authority.
-(2) Every such person is liable to a fine not exceeding $100 who—
+(2) Every such person is liable on conviction to a fine not exceeding $100 who—
   (a) refuses to disclose or states untruly the name and address of the owner of any stock of which he is in charge or assisting in driving, or the name of the agent or overseer of the owner, on demand by any constable or ranger or by or on behalf of any person upon whose land the stock is trespassing; or
   (b) illegally drives stock from any land not in his occupation on to the land of any other person or on to any road; or
   (c) wilfully leaves open any gate or slip panel, or makes a gap in any fence, for the purpose of permitting or causing any stock to trespass or to stray or wander on to any road or otherwise wilfully causes any stock to trespass or to stray or wander on to any road; or
@@ -341,10 +341,10 @@ If the proceeds of the sale of any stock sold under this Act are insufficient to
 (2) Where a poundkeeper is charged with losing any impounded stock through wilful and culpable negligence, and it is proved that any stock impounded was in the custody of the poundkeeper, the stock shall be deemed to have been so lost unless the poundkeeper proves the contrary.
 
 ### 60 Person using stock without consent of owner
-Every poundkeeper and every other person who, without the authority or consent of the owner thereof, works or uses any horse, mare, gelding, ass, mule, bull, bullock, steer, or heifer while it is impounded is liable to a fine not exceeding 20 pounds, together with such sum as the convicting court considers reasonable and adjudges to be paid to the owner for his compensation and costs in that behalf.
+Every poundkeeper and every other person who, without the authority or consent of the owner thereof, works or uses any horse, mare, gelding, ass, mule, bull, bullock, steer, or heifer while it is impounded is liable on conviction to a fine not exceeding 20 pounds, together with such sum as the convicting court considers reasonable and adjudges to be paid to the owner for his compensation and costs in that behalf.
 
 ### 61 Offences punishable on summary conviction
-Every offence against this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 62 Application of fines
 [Repealed]
