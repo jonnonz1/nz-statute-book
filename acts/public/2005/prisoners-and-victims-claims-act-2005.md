@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -14,12 +14,14 @@ This Act comes into force on the day after the date on which it receives the Roy
 (2) The purpose of subpart 2 of Part 2 is to—
   (a) establish, require payments into, and regulate the operation of, a victims’ claims trust bank account; and
   (b) provide a procedure for the making and determination of victims’ claims.
+(2A) Subpart 2 of Part 2 must be read with the following related enactments:
+  (a) the Legal Services Act 2011, which facilitates the granting of legal aid in respect of victims’ claims proceedings under subpart 2 of Part 2 of this Act; and
+  (b) the Privacy Act 1993, which enables the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
+  (c) the Victims’ Rights Act 2002, which requires the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act.
 (3) The purpose of subpart 3 of Part 2 is to suspend the running of limitation periods for certain claims by victims.
-(4) The purpose of Part 3 (amendments to other Acts) is to—
-  (a) amend the Legal Services Act 2000 to facilitate the granting of legal aid in respect of victims’ claims proceedings under subpart 2 of Part 2 of this Act; and
-  (b) amend the Privacy Act 1993 to enable the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
-  (c) amend the Victims’ Rights Act 2002 to require the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act; and
-  (d) amend consequentially the Human Rights Act 1993, the Limitation Act 1950, and the Privacy Act 1993.
+(4) The purpose of subpart 4 of Part 2 is to ensure that after 30 June 2013 generally only the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
+  (a) the provisions of this Act as in force immediately before 1 July 2013; and
+  (b) this subsection and subpart 4 of Part 2 as inserted or substituted, but nothing else in this Act after it is amended, on 1 July 2013 by the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -77,7 +79,11 @@ In this Act, unless the context otherwise requires,—
       (ii) under section 80N or 93 of the Sentencing Act 2002; or
       (iii) of a similar kind under earlier corresponding enactments:
     (f) a person who is arrested and detained under the Armed Forces Discipline Act 1971 pending release or trial:
-    (g) a service detainee or a service prisoner
+    (g) a service detainee or a service prisoner:
+  (h) a person who is detained unlawfully—
+    (i) immediately after, or because of recall or other return to custody after, ceasing to be a person to whom any of paragraphs (a) to (g) applied; and
+    (ii) in the same manner as if he or she were a person to whom any of paragraphs (a) to (g) applies; and
+    (iii) by or on behalf of the Crown (as defined in section 6(2))
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004
   - **prisoner** means—
     (a) a person (in section 7 called a 2004 Act prisoner) who is not a service detainee or a service prisoner but who is for the time being in the legal custody under the Corrections Act 2004 of either of the following persons:
@@ -122,13 +128,13 @@ In this Act, unless the context otherwise requires,—
     (i) convicted (alone or with others) by a court or the Court Martial of the offence that affected the victim; and
     (ii) on whom a court or the Court Martial has, because of the person’s conviction for that offence, imposed a sentence of imprisonment (the sentence of imprisonment for the offence); and
   (b) for all other purposes, a person found guilty (alone or with others) by a court or the Court Martial of the offence that affected the victim, or found guilty of that offence (alone or with others) by a disciplinary officer under the Armed Forces Discipline Act 1971, or who pleads guilty to that offence (alone or with others) before a court or the Court Martial or a disciplinary officer.
-(2) For the purposes of subsection (1)(a), it does not matter whether, at the time the court or the Court Martial imposed the sentence of imprisonment for the offence, the person was already subject to, or was at that time or later also made subject to, a sentence of imprisonment for another offence or offences.
+(2) For the purposes of subsection (1)﻿(a), it does not matter whether, at the time the court or the Court Martial imposed the sentence of imprisonment for the offence, the person was already subject to, or was at that time or later also made subject to, a sentence of imprisonment for another offence or offences.
 
 ### 6 Specified claim
 (1) In this Act, specified claim means a claim for compensation, made by or on behalf of a person (the plaintiff) who is or was a person under control or supervision, and based on—
   (a) an act or omission by or on behalf of the Crown (the defendant)—
     (i) before or after the commencement of this Act; and
-    (ii) affecting the person as a person under control or supervision; and
+    (ii) affecting the person as (including, without limitation, by making the person) a person under control or supervision; and
   (b) a breach of, or interference with, a specified right (the right concerned) or, if subpart 2 of Part 2 applies, the law relating to liabilities in tort.
 (2) In this section,—
   - **a breach of, or interference with, a specified right** means—
@@ -199,9 +205,10 @@ To help to achieve its purpose, when compensation is sought from a court or trib
   (d) ensures the court or Tribunal takes into account specified matters (including the extent (if any) to which effective redress has been, or could be, provided otherwise than by compensation) before awarding compensation.
 
 ### 12 Application
-(1) This subpart applies only to proceedings in or before a court or tribunal in which 1 or more specified claims are made and that—
-  (a) have been commenced, and not determined at first instance by the court or Tribunal, before the commencement of this Act; or
-  (b) are commenced after the commencement of this Act.
+(1) This subpart applies only to proceedings—
+  (a) in or before a court or tribunal; and
+  (b) in which 1 or more specified claims are made; and
+  (c) commenced on or after 1 July 2013.
 (2) If, under this section, this subpart applies to proceedings, this subpart applies to them both—
   (a) at first instance; and
   (b) on any appeal or rehearing.
@@ -231,7 +238,7 @@ To help to achieve its purpose, when compensation is sought from a court or trib
 Nothing in this subpart prevents a person under control or supervision from complaining to, or seeking the assistance of, an authority, official agency or body, or statutory officer.
 
 ### 16 Expiry of subpart
-This subpart expires with the close of 30 June 2013.
+[Repealed]
 
 ### Subpart 2 — Victims’ claims
 
@@ -240,19 +247,19 @@ This subpart expires with the close of 30 June 2013.
 ### 17 Compensation of prisoners, etc, must be paid to Secretary
 (1) A person must pay to the Secretary, immediately, all money that, after the commencement of this Act, the person becomes liable to pay as compensation and—
   (a) in satisfaction of a court's or tribunal's final judgment—
-    (i) on a specified claim made before 1 July 2013; and
-    (ii) given after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013; or
+    (i) on a specified claim; and
+    (ii) given after the commencement, on 4 June 2005, of this Act; or
   (b) as, or as part of, an out-of-court final settlement—
-    (i) of a specified claim made before 1 July 2013; and
-    (ii) concluded after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013.
-(2) For the purposes of subsection (1)(a), a judgment of a court or tribunal (whether at first instance or on appeal) is final—
+    (i) of a specified claim; and
+    (ii) concluded after the commencement, on 4 June 2005, of this Act.
+(2) For the purposes of subsection (1)﻿(a), a judgment of a court or tribunal (whether at first instance or on appeal) is final—
   (a) when the time for filing appeals against the judgment expires and no appeals of that kind have been filed; or
   (b) if appeals against the judgment may be brought or heard only by leave, when—
     (i) the time for applying for leave expires and no application for leave has been made; or
     (ii) all applications for leave have been withdrawn or finally determined and declined; or
     (iii) no party granted leave to appeal has, within the time for commencing an appeal, commenced an appeal; or
   (c) when all appeals against the judgment have been withdrawn or finally determined.
-(3) Nothing in subsection (1)(b) applies to an out-of-court final settlement of a specified claim containing a provision to the effect that it is a settlement that is not subject to this subpart.
+(3) Nothing in subsection (1)﻿(b) applies to an out-of-court final settlement of a specified claim containing a provision to the effect that it is a settlement that is not subject to this subpart.
 (4) Subsection (1) applies even if that money is also—
   (a) required to be paid to a creditor of the accused or the offender; or
   (b) liable to be attached or taken in execution at the instance of a creditor of the accused or the offender.
@@ -276,12 +283,12 @@ This subpart expires with the close of 30 June 2013.
     (b) an amount due under an order of reparation
   - **order of reparation** means—
     (a) an order under section 106, section 108, or section 110 of the Sentencing Act 2002; or
-    (b) an order under section 84(1)(b) of the Children, Young Persons, and Their Families Act 1989; or
+    (b) an order under section 84(1)﻿(b) of the Children, Young Persons, and Their Families Act 1989; or
     (c) an order under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
     (d) an order that—
       (i) requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment; and
       (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of Part 3 of the Summary Proceedings Act 1957.
-(3) Subsection (1)(b) applies regardless of the conditions of a relevant sentence of reparation or order of reparation, for example, any conditions in respect of the following matters:
+(3) Subsection (1)﻿(b) applies regardless of the conditions of a relevant sentence of reparation or order of reparation, for example, any conditions in respect of the following matters:
   (a) whether the total amount of reparation to be paid is to be paid in 1 lump sum or in instalments:
   (b) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
   (c) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
@@ -296,7 +303,7 @@ This subpart expires with the close of 30 June 2013.
 (5) Nothing in Part 7 of the Public Finance Act 1989 (which relates to trust money) applies to money that, in accordance with this section, is paid to the Crown in trust for the accused or the offender.
 
 ### 20 Secretary to give notice of payments into account, etc
-(1) After paying money into the account under section 18(1)(d), the Secretary must as soon as practicable—
+(1) After paying money into the account under section 18(1)﻿(d), the Secretary must as soon as practicable—
   (a) give a written notice communicating—
     (i) the fact that compensation is required to be paid to the accused or the offender; and
     (ii) the fact that, under this subpart, the compensation must be paid to the Secretary and he or she must, after making certain deductions, pay any surplus remaining into the account; and
@@ -304,7 +311,7 @@ This subpart expires with the close of 30 June 2013.
     (iv) the amount of money paid into the account; and
     (v) the date on which the payment was made; and
   (b) explain in the notice that the money paid into the account must be held in trust for the accused or the offender until it is paid out in accordance with this subpart or regulations made under section 57; and
-  (c) give in the notice general information about how victims of the person for whom money is required to be held in trust might file a victim’s claim under section 28 and within the deadline fixed by section 28(2)(c).
+  (c) give in the notice general information about how victims of the person for whom money is required to be held in trust might file a victim’s claim under section 28 and within the deadline fixed by section 28(2)﻿(c).
 (2) This section and section 21 do not permit or require a written notice in respect of a matter to be given contrary to an enactment, rule of law, or order or direction of a court or tribunal prohibiting or forbidding the publication of—
   (a) any report or account of the whole or any part of proceedings (including, without limitation, the evidence adduced or the submissions made); or
   (b) the name of any person, or any name or particulars likely to lead to the identification of that person; or
@@ -328,7 +335,7 @@ This subpart expires with the close of 30 June 2013.
 ### 22 Single process for 2 or more payments in same period
 If a notice required by section 20 is to be given within 6 months after the sending date of any previous notice required by section 20 in respect of the same accused or offender, the notice must—
   (a) be given as an addition to the previous notice; and
-  (b) indicate that, under section 28(2)(c), the deadline for filing victims’ claims under this subpart is the later of the following:
+  (b) indicate that, under section 28(2)﻿(c), the deadline for filing victims’ claims under this subpart is the later of the following:
     (i) the close of the day that is 6 months after the sending date of the previous notice; and
     (ii) the close of the day that is 2 months after the sending date of the notice.
 
@@ -345,11 +352,11 @@ In sections 22 and 28, sending date, in relation to a notice required by section
 (3) To help to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender, the Secretary may, by making a request for the purpose to the appropriate Registrar or Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that—
   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the Armed Forces Discipline Act 1971, or proceedings of the Court Martial; and
   (b) are or may be relevant to that purpose.
-(4) Those court documents or records include the ones specified in section 35(2)(a) to (d).
+(4) Those court documents or records include the ones specified in section 35(2)﻿(a) to (d).
 (5) The Secretary is not required by this section to take steps to ascertain the contact details of a person if the Secretary believes on reasonable grounds that a limitation defence could be pleaded successfully in response to a victim’s claim made by that person.
 
 ### 25 Access to records of the Court Martial proceedings, etc, to identify, and ascertain contact details of, victims
-(1) This section applies to a document or record specified in section 35(2)(c) or (d), requested under section 24(3), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
+(1) This section applies to a document or record specified in section 35(2)﻿(c) or (d), requested under section 24(3), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
 (2) The Secretary cannot access or search, inspect, and take or be issued with copies or extracts from, the document or record.
 (3) The Judge Advocate General may, if he or she thinks fit, perform the Secretary’s duties under sections 20 to 24 so far as they relate to and arise from the document or record.
 (4) This section overrides sections 20 to 24.
@@ -417,14 +424,14 @@ No fee is payable to the Secretary of the Tribunal for filing a document relatin
 (4) The Tribunal gives the offender the reasonable opportunity required by subsection (1) by requiring his or her written submissions to be filed with the Secretary of the Tribunal—
   (a) within 60 days after the expiry of the periods specified in section 33(a); or
   (b) within a further period the Tribunal is satisfied, on an application for the purpose before the expiry of that 60-day period, is justified by exceptional circumstances.
-(5) In determining under subsection (4)(b) whether it is satisfied a further period is justified by exceptional circumstances, the Tribunal must have regard to the number and complexity of the victims’ claims filed against the offender.
+(5) In determining under subsection (4)﻿(b) whether it is satisfied a further period is justified by exceptional circumstances, the Tribunal must have regard to the number and complexity of the victims’ claims filed against the offender.
 (6) The Tribunal must, as soon as practicable, serve on a victim a copy of all submissions filed by the offender and relating to that victim.
 
 ### 32 Procedure if no claims filed
 (1) If, at the expiry of the periods specified in section 33(a), no claims have been filed under section 28,—
   (a) the Secretary of the Tribunal must advise the Secretary of that fact; and
   (b) the Secretary must pay to the accused or the offender promptly all amounts of money held in the account for the accused or the offender.
-(2) Subsection (1)(b) applies subject to the prior implementation of any provision of an out-of-court final settlement of a specified claim requiring compensation to be withheld from the accused or the offender and used to satisfy the accused’s or the offender’s outstanding fines.
+(2) Subsection (1)﻿(b) applies subject to the prior implementation of any provision of an out-of-court final settlement of a specified claim requiring compensation to be withheld from the accused or the offender and used to satisfy the accused’s or the offender’s outstanding fines.
 
 ### 33 Period to allow all claims, offender’s submissions, etc
 The Tribunal cannot determine a victim’s claim filed under section 28 until—
@@ -443,17 +450,17 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the Armed Forces Discipline Act 1971, or proceedings of the Court Martial; and
   (b) are or may be relevant to the determination of the claim.
 (2) Those court documents or records include—
-  (a) criminal records kept under section 71 of the Summary Proceedings Act 1957, including—
+  (a) criminal records kept under section 184 of the Criminal Procedure Act 2011, including—
     (i) a reserved decision entered in those records; and
     (ii) a minute or memorandum of criminal proceedings in a District Court appointed for the exercise of criminal jurisdiction; and
   (b) documents referred to in the Criminal Proceedings (Search of Court Records) Rules 1974, including—
-    (i) the register of persons committed for trial and sentence, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
+    (i) the register of persons to be tried or sentenced, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
     (ii) a file, or part of a file, or document relating to a criminal proceeding; and
   (c) records of Court Martial proceedings delivered to, and kept in accordance with the directions of, the Judge Advocate General, under section 75 of the Court Martial Act 2007; and
   (d) any documents or records (for example, a charge report) created in connection with, and retained after, the summary trial or disposal of a charge by a disciplinary officer under the Armed Forces Discipline Act 1971.
 
 ### 36 Access to records of Court Martial proceedings, etc, to help to determine victims’ claims
-(1) This section applies to a document or record specified in section 35(2)(c) or (d), requested under section 35(1), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
+(1) This section applies to a document or record specified in section 35(2)﻿(c) or (d), requested under section 35(1), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
 (2) The Tribunal must not access or search, inspect, and take or be issued with copies or extracts from, the document or record, and must not use it for the purpose in section 35(1), except with the permission of, and in accordance with any conditions specified by, the Judge Advocate General.
 (3) The Tribunal must comply with, and take all reasonably practicable steps to ensure others comply with, conditions specified by the Judge Advocate General.
 (4) This section overrides section 35.
@@ -485,14 +492,14 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
   (a) to give the Tribunal any information or class of information, or to answer any questions, specified in the notice; or
   (b) to produce to the Tribunal, or to a person specified in the notice acting on the Tribunal’s behalf in accordance with the notice, any document or class of documents specified in the notice; or
   (c) to appear before the Tribunal, or before a person specified in the notice acting on the Tribunal’s behalf in accordance with the notice, at a time and place specified in the notice, and answer questions related to matters specified in the notice.
-(2) Information required by a notice under subsection (1)(a) must be given in writing and,—
+(2) Information required by a notice under subsection (1)﻿(a) must be given in writing and,—
   (a) if given by a natural person, must be signed by the person; and
   (b) if given by a body corporate, must be signed by an officer authorised to sign on behalf of the body corporate.
 (3) A person on whom a written notice under subsection (1) is served, or who, in accordance with a notice of that kind, appears before the Tribunal or a person acting on its behalf to answer questions, has the same privileges and immunities as witnesses and counsel in courts of law.
 (4) This section does not limit or affect an enactment, rule of law, or order or direction of a court or tribunal that prohibits or restricts—
   (a) the making available of information or documents sought by, or sought by questions asked under, a notice under subsection (1); or
   (b) the manner in which information or documents of that kind may be made available.
-(5) Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under subsection (1), or fails to answer a question asked under the notice.
+(5) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under subsection (1), or fails to answer a question asked under the notice.
 
 ### 40 Power to maintain order at hearings, etc
 For the purposes of dealing with the matters before it, a Tribunal has the powers of a District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the hearings of the Tribunal.
@@ -513,21 +520,21 @@ For the purposes of dealing with the matters before it, a Tribunal has the power
   (b) the public interest.
 (3) The Tribunal may make or give an order or direction under this section on its own initiative or on the application of a party to the proceedings.
 (4) Every application to the Tribunal for an order or direction under this section may be heard in public or in chambers.
-(5) An order or direction under subsection (1)(a) or (b) or (c)—
+(5) An order or direction under subsection (1)﻿(a) or (b) or (c)—
   (a) may be made or given for a limited period or permanently; and
   (b) if it is made or given for a limited period, may be renewed for a further period or periods by the Tribunal under section 42; and
   (c) if it is made or given permanently, may be reviewed by the Tribunal at any time under section 42.
 
 ### 42 Application for renewal or review of order or direction under section 41
-(1) If an order or direction is made or given under section 41(1)(a) or (b) or (c), a person may at any time apply to the Tribunal—
+(1) If an order or direction is made or given under section 41(1)﻿(a) or (b) or (c), a person may at any time apply to the Tribunal—
   (a) for a renewal of the order or direction, if the order or direction was made or given for a limited time; or
   (b) for a review of the order or direction, if the order or direction was made or given permanently.
 (2) An application may be made under subsection (1) by a person who was a party to the proceedings in which the order or direction was made or given or by any other person.
 (3) After considering an application under this section, the Tribunal may renew, revoke, vary, or continue the order or direction as the Tribunal thinks fit.
 
 ### 43 Contravention of orders or directions under section 41
-(1) Every person commits an offence who breaches an order or direction made or given under section 41(1)(a) or (b) or (c) or (d) or evades or attempts to evade the order or direction.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(1) Every person commits an offence who breaches an order or direction made or given under section 41(1)﻿(a) or (b) or (c) or (d) or evades or attempts to evade the order or direction.
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
@@ -563,17 +570,17 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
 
 ### 48 Implementation of order
 (1) The Secretary must implement promptly an order under section 46—
-  (a) if, at the expiry of the 20-working-day period in section 51(3)(b) (the period), no appeals against the order (appeals), or applications for further time for filing appeals (applications), have been filed; or
+  (a) if, at the expiry of the 20-working-day period in section 51(3)﻿(b) (the period), no appeals against the order (appeals), or applications for further time for filing appeals (applications), have been filed; or
   (b) if every application filed within the period has been withdrawn, or has been finally determined and declined; or
-  (c) if, at the expiry of all further time allowed under section 51(3)(b) in response to applications filed within the period, no appeals have been filed; or
-  (d) once all appeals filed within the period, or filed within further time allowed under section 51(3)(b) in response to an application within the period, have been withdrawn or finally determined.
+  (c) if, at the expiry of all further time allowed under section 51(3)﻿(b) in response to applications filed within the period, no appeals have been filed; or
+  (d) once all appeals filed within the period, or filed within further time allowed under section 51(3)﻿(b) in response to an application within the period, have been withdrawn or finally determined.
 (2) However, if an application has been filed after the expiry of the period, the Secretary may defer implementing the order until any resulting appeal is withdrawn or finally determined.
 (3) If the amounts to be paid under the order are, in total, equal to or less than the amount of money held in the account for the offender, the Secretary must implement the order fully by paying from the money held in the account for the offender the amounts to be paid under the order to the victims concerned.
 (4) If the amounts to be paid under the order are, in total, more than the amount of money held in the account for the offender, the Secretary must implement the order in part by paying the money held in the account for the offender to the victims concerned on a proportional basis by reference to the amounts to be paid under the order to each of those victims.
 (5) Implementation of an order in part, under subsection (4), does not prevent any or all of the victims concerned from enforcing their entitlements under the order against the offender, and the partially implemented order may be enforced—
-  (a) by way of a deduction, under section 18(1)(c), from any money received later under section 17; or
+  (a) by way of a deduction, under section 18(1)﻿(c), from any money received later under section 17; or
   (b) under subsection (6), as if it were a judgment of the District Court.
-(6) A copy of a partially implemented order under section 46 or an order under section 50(3)(b) may be filed without fee in an office of a District Court for the purposes of enforcement and, on being so filed, the copy of the order has the same effect as a judgment of the District Court, and may be enforced accordingly.
+(6) A copy of a partially implemented order under section 46 or an order under section 50(3)﻿(b) may be filed without fee in an office of a District Court for the purposes of enforcement and, on being so filed, the copy of the order has the same effect as a judgment of the District Court, and may be enforced accordingly.
 
 ### 49 Procedure if victim or others entitled cannot be found
 (1) The Secretary must pay the money to the offender promptly if the Secretary is, 1 year after first being required by section 48(3) or (4) to pay to a victim money held in the account for the offender, unable, despite having taken reasonable steps for the purpose, to locate the victim or to identify and locate another person legally entitled to the money.
@@ -612,16 +619,16 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
 
 ### 53 End of process to be notified publicly in certain cases
 (1) The Secretary must, by notice in the Gazette, notify publicly the fact that the procedure contemplated by this subpart in respect of a particular sum of money has concluded if the Secretary—
-  (a) paid the money into the account under section 18(1)(d); and
+  (a) paid the money into the account under section 18(1)﻿(d); and
   (b) gave the notice of the payment of the money required by section 20 using a method in section 21(4); and
   (c) has, under a section specified in subsection (2), paid out all or the last of the money.
-(2) The sections referred to in subsection (1)(c) are—
+(2) The sections referred to in subsection (1)﻿(c) are—
   (a) section 32 (procedure if no claims filed); or
   (b) section 48(3) or (4) (implementation of order); or
   (c) section 49(2) (procedure if victim or others entitled cannot be found); or
   (d) section 52 (release of surplus money to offender); or
   (e) section 56 (procedure if offender or others entitled cannot be found).
-(3) The notice in the Gazette required by subsection (1) must identify the sum of money by reference only to the notice referred to in subsection (1)(b).
+(3) The notice in the Gazette required by subsection (1) must identify the sum of money by reference only to the notice referred to in subsection (1)﻿(b).
 (4) A copy of every notice required by subsection (1) must be sent by the Secretary to the chief executive of each government department that the Secretary believes may have an interest in the matter.
 
 **Victims’ claims trust bank account**
@@ -633,7 +640,7 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
   (a) must pay, for any month, interest on the sums held in the account at the same rate as that bank pays on money deposited for that month, at call, in an interest-bearing deposit account with that bank; and
   (b) may, with the Secretary’s agreement, retain for its own use, instead of all banking charges and fees otherwise payable to it in respect of the account, some or all of the interest payable by it on the account; and
   (c) must pay into the account, for the benefit of the relevant accused or offender, any interest payable by it on the account and that is not retained under paragraph (b).
-(4) The arrangement in subsection (3)(a) is the only permitted and required investment of the money in the account.
+(4) The arrangement in subsection (3)﻿(a) is the only permitted and required investment of the money in the account.
 (5) The account must be audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner (if any) prescribed by regulations made under section 57.
 
 ### 55 Payments from, and other operation of, account
@@ -680,56 +687,76 @@ The Ministry of Justice must provide any secretarial, recording, and clerical se
 
 ### Subpart 3 — Suspension of limitation periods for certain claims by victims
 
-### 63 Application
-(1) This subpart applies to every applicable limitation period for an action that is based on a claim—
+### 63 Limitation periods to which section 64 applies
+(1) Section 64 applies to every applicable limitation period for an action that is based on a claim—
   (a) made by or on behalf of a victim; and
   (b) made against an offender; and
-  (c) based on acts done or omitted to be done (whether before or after the commencement of this Act) by the offender in committing the offence.
-(2) This subpart applies whether or not the action was—
-  (a) commenced before the commencement of this Act; or
-  (b) one in respect of which a limitation defence (under the Limitation Act 2010 or any other law of New Zealand) could, before the commencement of this Act, have been pleaded successfully.
-(3) However, nothing in this subpart affects—
-  (a) an action or arbitration determined before the commencement of this Act; or
+  (c) based on acts done or omitted to be done (whether before or after the commencement, on 4 June 2005, of this Act) by the offender in committing the offence.
+(2) Section 64 applies whether or not the action was—
+  (a) commenced before the commencement, on 4 June 2005, of this Act; or
+  (b) one in respect of which a limitation defence (under the Limitation Act 2010 or any other law of New Zealand) could, before the commencement, on 4 June 2005, of this Act, have been pleaded successfully.
+(3) However, nothing in section 64 affects—
+  (a) an action or arbitration determined before the commencement, on 4 June 2005, of this Act; or
   (b) the title to any property which is the subject of an action or arbitration of that kind.
 
-### 64 Limitation periods suspended
-(1) The limitation periods to which this subpart applies cease to run while the offender is serving a sentence of imprisonment in a penal institution, prison, or service prison.
+### 64 Limitation periods suspended while offender serving sentence of imprisonment
+(1) The limitation periods to which this section applies cease to run while the offender is serving a sentence of imprisonment in a penal institution, prison, or service prison.
 (2) In this section, serving a sentence of imprisonment in a penal institution, prison, or service prison—
   (a) means serving in a penal institution, prison, or service prison—
-    (i) the sentence of imprisonment for the offence (as defined in section 5(1)(a)(ii)); and
+    (i) the sentence of imprisonment for the offence (as defined in section 5(1)﻿(a)﻿(ii)); and
     (ii) any earlier sentence of imprisonment on which the sentence of imprisonment for the offence is directed to be served cumulatively; and
     (iii) any later sentence that is directed to be served cumulatively on the sentence of imprisonment for the offence; and
   (b) includes spending time in a penal institution or a prison following a related recall application (as defined in section 59 of the Parole Act 2002), but only if a final recall order (as defined in section 4(1) of that Act) is made following the recall application.
+
+### 64A Limitation periods to which section 64B applies
+Section 64B applies to every applicable limitation period for an action based on a claim—
+  (a) made by or on behalf of a victim after the commencement, on 1 July 2013, of section 64B; and
+  (b) made against an offender and against money received under section 17 that is compensation in respect of a specified claim of the offender made after 30 June 2013; and
+  (c) based on acts done or omitted to be done (whether before or after the commencement, on 1 July 2013, of section 64B) by the offender in committing the offence.
+
+### 64B Limitation periods suspended until standard deadline for filing of victims' claims under this Act
+The limitation periods to which this section applies cease to run for the action against the offender and the money received under section 17 until the standard deadline (specified in section 28(3)) for the filing of a victim's claim in the victims' claims process under subpart 2.
+
+### Subpart 4 — Specified claims made before 1 July 2013, related compensation, and related victims' claims
+
+### 64C Pre-1 July 2013 Act generally continues to apply
+(1) After 30 June 2013, the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
+  (a) the provisions of this Act as in force immediately before 1 July 2013; and
+  (b) section 3(4) and this subpart as inserted or substituted, but nothing else in this Act after it is amended, on 1 July 2013 by the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013.
+(2) Despite subsection (1), the amendments made by sections 6 and 7 of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 have effect (subject to the saving in subsection (3)) as from this Act's commencement, on 4 June 2005.
+(3) The amendments made by sections 6 and 7 of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 do not apply to proceedings commenced before 3 December 2012 except insofar as those proceedings are on or after that date amended to challenge a matter—
+  (a) made clear by those amendments; and
+  (b) not challenged expressly in those proceedings before that date.
 
 ## Part 3 — Amendments to other Acts
 
 **Amendment to Human Rights Act 1993**
 
 ### 65 Damages
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendments to Legal Services Act 2000**
 
 ### 66 Interpretation
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 67 Proceedings for which legal aid may be granted: civil matters
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 68 When legal aid may be granted: civil matters
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 69 Conditions on grant of legal aid
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 70 Maximum grant
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 71 Application for amendment to grant of legal aid
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 72 Regulations
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendment to Limitation Act 1950**
 
@@ -739,18 +766,18 @@ Amendment(s) incorporated in the Act(s).
 **Amendments to Privacy Act 1993**
 
 ### 74 Damages
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 75 Schedule 5 amended
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendments to Victims’ Rights Act 2002**
 
 ### 76 Police to give information about right to ask for notice and appointment of representative
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 77 New section 33A inserted
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Amendment Act 2007.
