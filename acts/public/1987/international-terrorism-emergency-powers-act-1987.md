@@ -1,5 +1,5 @@
 # International Terrorism (Emergency Powers) Act 1987
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision to deal with international terrorist emergencies
 
@@ -183,10 +183,10 @@ Where—no particulars of that communication which relate to that offence shall 
   (b) contrary to any notice issued by the Prime Minister under section 14, publishes or causes or allows to be published in a newspaper or other document, or broadcasts or causes or allows to be broadcast by radio or television or otherwise,—
     (i) the identity of any person involved in dealing with an emergency in respect of which authority to exercise emergency powers has been given under this Act, or any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with any such emergency; or
     (ii) any information or material (including a photograph) of any equipment or technique lawfully used to deal with any such emergency.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who acts in contravention of section 18.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who acts in contravention of section 18.
 (4) It is a defence to a charge under subsection (1)(a) if the court is satisfied that—
   (a) the constable, or the member of the Armed Forces acting under section 12, as the case may require, did not have reasonable grounds for believing that in all the circumstances of the case the direction, requirement, prohibition, or restriction was necessary for the purposes of dealing with the emergency in respect of which the direction, requirement, prohibition, or restriction was given or imposed, or of preserving life or property threatened by that emergency; or
   (b) the defendant had no reason to believe that the person giving or imposing that direction, requirement, prohibition, or restriction was a constable, or a member of the Armed Forces acting under section 12, as the case may require.
