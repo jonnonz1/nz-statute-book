@@ -1,5 +1,5 @@
 # Anti-Personnel Mines Prohibition Act 1998
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
 
@@ -70,7 +70,7 @@ This Act binds the Crown.
   (d) transfer to anyone, directly or indirectly, an antipersonnel mine; or
   (e) assist, encourage, or induce, in any way, anyone to engage in conduct referred to in paragraphs (a) to (d).
 (2) Every person who engages in conduct prohibited by subsection (1) commits an offence.
-(3) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000.
+(3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000.
 (4) Nothing in this section limits—
   (a) the Explosives Act 1957; or
   (b) the provisions of the Arms Act 1983 relating to restricted weapons; or
@@ -120,7 +120,7 @@ All the provisions of the Customs and Excise Act 1996 that apply to prohibited i
   (d) send those periodic reports to the Secretary at intervals specified by the Minister or by regulations made under this Act.
 (2) The records and reports under subsection (1)(b) to (d) must be sufficient to enable the Minister to determine whether the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
 (3) Every person who, without reasonable excuse, refuses or fails to comply with subsection (1) commits an offence.
-(4) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 14 Secretary may seek information
 (1) This section applies if the Secretary considers that any person is capable of giving information that is relevant to—
@@ -135,11 +135,11 @@ All the provisions of the Customs and Excise Act 1996 that apply to prohibited i
 
 ### 15 Failure to supply information an offence
 (1) Every person commits an offence who, without reasonable excuse, fails to comply with a notice under section 14 to the extent that the person is capable of complying with it.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 16 False or misleading statements and documents
 (1) Every person commits an offence who, in any document prepared under this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ## Part 5 — Fact-finding missions
 
@@ -169,7 +169,7 @@ A member of a fact-finding mission has the right, and every person must permit a
 (1) The Minister may, by notice in writing, issue directions to any person for the purpose of facilitating any fact-finding mission under the Convention.
 (2) The Minister may, under subsection (1), direct a person to provide to a fact-finding mission, by speaking to a member of the mission or otherwise, any information related to a compliance issue specified in a direction, within such reasonable period as is specified in the direction.
 (3) Every person commits an offence who wilfully fails to comply with a direction given by the Minister under this section.
-(4) Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $100,000.
+(4) Every person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $100,000.
 
 **New Zealand assistance with fact-finding missions**
 
@@ -204,7 +204,7 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
 ### 24 Obstruction of member of fact-finding mission
 (1) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives any member of a fact-finding mission who is exercising in New Zealand any function contemplated, or any power provided for, in the Convention.
 (2) Nothing in subsection (1) applies to a refusal to give consent to entry by a member of a fact-finding mission who is not acting pursuant to a search warrant (whether issued under section 22 or otherwise).
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000.
 
 ## Part 6 — Miscellaneous provisions
 
@@ -219,7 +219,7 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
 ### 26 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Convention:
-  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the Convention set out in that schedule as are required to bring that text up to date:
@@ -276,39 +276,3 @@ Amendment(s) incorporated in the Act(s).
 | 20. | Duration and withdrawal | 36 |
 | 21. | Depositary | 37 |
 | 22. | Authentic texts | 37 |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
