@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2011-08-17_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -325,7 +325,7 @@ The court to which any application is made under this Act may receive as evidenc
   (a) that it is a New Zealand accredited body under that Act; or
   (b) that functions have been delegated to that body under Part 1 of that Act.
 
-### 27 Summary offences
+### 27 Offences
 (1) Every person commits an offence against this section who,—
   (a) places or receives or keeps any child in the home of any person for the purpose of adoption in contravention of section 6:
   (b) takes out of New Zealand without leave of the court any child in respect of whom an interim order is in force:
@@ -333,12 +333,12 @@ The court to which any application is made under this Act may receive as evidenc
   (d) gives or receives or agrees to give or receive any payment in contravention of section 25:
   (e) publishes any advertisement in contravention of section 26:
   (f) makes any false statement for the purpose of obtaining or opposing an interim order or adoption order or any variation or discharge of any such order.
-(2) Every person who commits an offence against this section shall be liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $15,000 or to both.
+(2) Every person who commits an offence against this section shall be liable on conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $15,000 or to both.
 (3)
 
 ### 27A Offence to induce consent
 (1) Every person commits an offence who induces another person, by fraud, duress, undue influence (by payment or otherwise), or other improper means, to consent to an adoption.
-(2) Every person who commits an offence under subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
 
 ### 27B Safety of child where offence committed
 (1) Where a court is satisfied that an offence against section 27 or 27A has been committed in respect of any child, the court may order the child to be removed to a place of safety until—
