@@ -1,5 +1,5 @@
 # Radiation Protection Act 1965
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Radioactive Substances Act 1949
 
@@ -9,12 +9,12 @@ _Consolidation as at 2012-10-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **chiropractor** means a health practitioner who is, or is deemed to be, registered with the Chiropractic Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of chiropractic
+  - **chiropractor** means a health practitioner who is, or is deemed to be, registered with the Chiropractic Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of chiropractic
   - **Council** means the Radiation Protection Advisory Council constituted under this Act
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **Director-General** means the Director-General of Health under the Health Act 1956; and includes any person to whom his powers are for the time being delegated under this Act
   - **irradiating apparatus** means any apparatus that can be used for the production of X-rays or gamma rays or for the acceleration of atomic particles in such a way that it produces a dose equivalent rate of or exceeding 2.5 microsieverts per hour at a point which could be reached by a living human being
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
   - **prescribed** means prescribed by or under regulations made under this Act
   - **radioactive material** means any article containing a radioactive substance giving it a specific radioactivity exceeding 100 kilobecquerels per kilogram and a total radioactivity exceeding 3 kilobecquerels
@@ -66,7 +66,7 @@ This Act shall bind the Crown.
 (4) The powers of the Council shall not be affected by any vacancy in its membership.
 
 ### 5C Substitutes for members
-(1) If the member specified in section 5(2)(b) is unable to attend any meeting of the Council, that member may appoint another person employed in the National Radiation Laboratory to attend the meeting in that member's place.
+(1) If the member specified in section 5(2)﻿(b) is unable to attend any meeting of the Council, that member may appoint another person employed in the National Radiation Laboratory to attend the meeting in that member's place.
 (2)
 (3) If any member appointed under paragraph (d) or paragraph (e) or paragraph (f) of section 5(2) is unable to attend any meeting of the Council, that member may appoint any other person who is eligible for appointment under that paragraph to attend the meeting in that member's place.
 (4) Subject to subsection (5), where any person appointed under any of the provisions of subsections (1) to (3) attends a meeting of the Council, that person shall, while so attending, be deemed to be a member of the Council.
@@ -216,11 +216,11 @@ Any person authorised by the Minister to act under section 24 may—
   (b) wilfully obstructs any person exercising or attempting to exercise any power under section 24:
   (c)
   (d) for the purpose of obtaining, whether for himself or any other person, the grant of any licence under this Act, or for any other purpose in relation to this Act, makes any declaration or statement which to his knowledge is false in any particular, or utters, produces, or makes use of any such declaration or statement or any document containing the same, or knowingly utters, produces, or makes use of any document which is not genuine.
-(2) Every person who commits an offence against this Act is liable on summary conviction to a fine not exceeding $10,000, and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+(2) Every person who commits an offence against this Act is liable on conviction to a fine not exceeding $10,000, and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
 
 ### 27 Liability of licensee
 Where an offence is committed against this Act by any person who is the agent or servant of a person licensed under this Act, or is otherwise subject to the supervision or instructions of a person so licensed, the person so licensed shall, without restricting the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence:
-  provided that, in any proceedings which are taken against a person licensed under this Act by virtue of this subsection, it shall be a defence for that person to prove that the offence was committed without his knowledge and that he exercised all due diligence to prevent the commission of the offence.
+  provided that, in any proceedings that are taken against a person licensed under this Act by virtue of this section, it shall be a defence for that person to prove that the offence was committed without his knowledge and that he exercised all due diligence to prevent the commission of the offence.
 
 ### 28 Offences by companies
 Where any company is convicted of an offence against this Act, every director and every officer concerned in the management of the company shall be guilty of a like offence unless he proves either—
@@ -267,39 +267,3 @@ Nothing contained in this Act shall be so construed as to limit or in any way af
 The enactments specified in the Schedule are hereby repealed.
 
 ## Schedule Schedule — Enactments repealed
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
