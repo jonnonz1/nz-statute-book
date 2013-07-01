@@ -1,5 +1,5 @@
 # Native Plants Protection Act 1934
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the protection of native plants
 
@@ -38,7 +38,7 @@ In any prosecution for an offence under the last preceding section, proof that a
 Every person commits an offence against this Act who, being reasonably suspected of having committed an offence against section 4, refuses to give his name and address, or gives a false name or address, or refuses to deliver up any protected native plant found in his possession, to any constable, or to any officer of the Crown whom the Minister may authorise in that behalf by notification in the Gazette, or to any officer of any local authority, Board, or trustees having control of any public reserve, or (where such person is found on any private land on which the offence is suspected to have been committed) to the owner, lessee, or licensee of that private land.
 
 ### 8 Penalties
-Every person who commits an offence against this Act is liable on summary conviction for the first offence to a fine of 5 pounds, for the second offence to a fine of 10 pounds, and for every subsequent offence to a fine of 20 pounds.
+Every person who commits an offence against this Act is liable on conviction for the first offence to a fine of 5 pounds, for the second offence to a fine of 10 pounds, and for every subsequent offence to a fine of 20 pounds.
 
 ### 9 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations—
