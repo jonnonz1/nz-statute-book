@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -167,7 +167,7 @@ The Authority may, for the purpose of providing superannuation or retiring allow
     (ii) a licensed exporter, pursuant to any condition attached to that exporter's licence or for the purposes of any hearing under section 37 or section 38 or section 39; or
     (iii) any person liable to pay a levy in accordance with regulations made under this Act, pursuant to any provision of those regulations; and
   (b) the disclosure of which would reveal a trade secret, or would be likely unreasonably to prejudice the commercial position of the person who supplied the information.
-(2) Every member of the Authority or of any committee of the Authority and every officer or employee of the Authority who—commits an offence and shall be liable on summary conviction to a fine not exceeding $10,000.
+(2) Every member of the Authority or of any committee of the Authority and every officer or employee of the Authority who—commits an offence and shall be liable on conviction to a fine not exceeding $10,000.
   (a) uses any information to which this section applies other than for the purposes of carrying out that person's functions under this Act; or
   (b) discloses any such information other than for the purposes of carrying out that person's functions under this Act, or in accordance with the Official Information Act 1982 or any other enactment,—
 
@@ -349,7 +349,7 @@ The Minister shall not recommend the revocation of an Order in Council made unde
   (b) before the date fixed in accordance with section 29 as that on which the first approved export marketing strategy for the product will come into force; or
   (c) in accordance with the conditions of a certificate of exemption issued under section 40.
 (3) For the purposes of this section, any person who has applied for an export licence before the date referred to in subsection (2)(b) shall be deemed to hold an export licence until the date on which the Authority notifies that person of its determination of the application.
-(4) Every person who exports any prescribed product in contravention of subsection (1) commits an offence and shall be liable on summary conviction to a fine not exceeding $10,000.
+(4) Every person who exports any prescribed product in contravention of subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 ### 35 Application for export licence
 (1) Every application for an export licence shall—
@@ -655,7 +655,7 @@ The Authority may, in any financial year, expend out of the funds of the Authori
 
 ### 63 Offences and penalties
 (1) Every person commits an offence against this Act who, with intent to deceive, makes any false or misleading statement or any material omission in any application, statement, or other communication made to the Authority or to any other person for the purposes of this Act.
-(2) Every person who commits an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection shall be liable on summary conviction to a fine not exceeding $4,000.
+(2) Every person who commits an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection shall be liable on conviction to a fine not exceeding $4,000.
 
 ### 64 Consequential amendments
 (1)
