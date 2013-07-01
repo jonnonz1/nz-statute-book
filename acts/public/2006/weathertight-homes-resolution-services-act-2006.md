@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -1137,7 +1137,7 @@ The chair may issue practice directions, not inconsistent with this Act, relatin
 **Offences, and contempt of tribunal**
 
 ### 115 Offences
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who—
+Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
   (a) assaults, threatens, or intimidates, or intentionally insults, the tribunal or any member, or any officer of the tribunal, during a sitting of the tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the tribunal or otherwise misbehaves while the tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of the tribunal in the course of any proceedings before the tribunal; or
@@ -1718,14 +1718,14 @@ Any party to an adjudication may give and call evidence.
 (3) The summons must be in a form (if any) approved for the purpose by the chair, and may require the person to produce before the tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the adjudication.
 
 ### 10 Witnesses' expenses
-(1) Every person attending before a member on a summons, and every other person giving evidence before the tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending before a member on a summons, and every other person giving evidence before the tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The tribunal may disallow the whole or any part of any sum payable under subclause (1).
 (3) On each occasion on which the tribunal issues a summons under clause 9, the tribunal must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the tribunal, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 
 ### 11 Power to take evidence on oath
 (1) The tribunal may take evidence on oath, and for that purpose any member, or any other person acting under the express or implied direction of the tribunal, may administer an oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 12 Party competent as witness
 Any party to proceedings before the tribunal is competent to give evidence in those proceedings and may be compelled to give evidence as a witness.
