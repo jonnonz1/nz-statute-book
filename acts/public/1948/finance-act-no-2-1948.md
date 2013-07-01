@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1948
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision with respect to public finance and other matters
 
@@ -200,7 +200,7 @@ The provisions of the Legislature Act 1908, or of the Electoral Act 1927, or of 
 (1)
 (2) The Industrial and Provident Societies Act 1908 shall extend to and be in force in the Cook Islands with the following modifications:
   (a) every reference in that Act to a District Court shall be read as a reference to the High Court of the Cook Islands:
-  (b) offences punishable on summary conviction under that Act shall, if committed in the Cook Islands, be punishable by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction.
+  (b) offences under that Act, other than offences against sections 7, 10, and 15, shall, if committed in the Cook Islands, be punishable by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction.
 
 ### 58 Preserving superannuation rights of W F Stilwell, Esquire, Deputy Judge of Court of Arbitration
 Whereas Wilfred Fosberrey Stilwell, Esquire, Deputy Judge of the Court of Arbitration (in this section referred to as the contributor), was at the time of his appointment as a Deputy Judge of that court a contributor to the Government Superannuation Fund as a Magistrate under section 72 of the Superannuation Act 1947:And whereas the office of Deputy Judge of the Court of Arbitration is not an office to which the Superannuation Act 1947 is applicable, and it is desirable, for the purpose of preserving the superannuation rights of the contributor to the extent hereinafter provided for, that he should continue as hereinafter provided to be a contributor to the said Fund.Be it therefore enacted as follows:
