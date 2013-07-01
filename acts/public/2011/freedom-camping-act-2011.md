@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -265,10 +265,10 @@ In prosecuting an offence under section 20(1), the prosecution does not need to 
 ### Subpart 2 — Proceedings
 
 ### 25 How proceedings commenced
-(1) Proceedings for an offence other than an infringement offence may be commenced by an enforcement officer laying an information under the Summary Proceedings Act 1957.
+(1) Proceedings for an offence other than an infringement offence may be commenced by an enforcement officer filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (2) Proceedings for an infringement offence may be commenced by—
   (a) an enforcement officer issuing an infringement notice under section 27; or
-  (b) an enforcement officer laying an information under the Summary Proceedings Act 1957.
+  (b) an enforcement officer filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (3) Proceedings commenced in the way described in subsection (2)(a) that continue (other than by the infringement fee for the offence being paid) must be continued under section 21 of the Summary Proceedings Act 1957, and that section applies accordingly with any necessary modifications.
 (4) Proceedings commenced in the way described in subsection (2)(b) do not require leave of a District Court Judge or Registrar under section 21 of the Summary Proceedings Act 1957.
 
