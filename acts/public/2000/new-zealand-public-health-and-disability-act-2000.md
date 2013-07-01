@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2013-05-21_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -736,8 +736,8 @@ The board of HQSC consists of at least 7 members appointed under section 28 of t
   (a) must, at least annually, provide the Minister with a report on the progress of mortality review committees; and
   (b) must include each such report in HQSC's next annual report.
 (4) The provisions of Schedule 5 apply in relation to a mortality review committee.
-(5) Every person who fails, without reasonable excuse, to comply with a requirement imposed under Schedule 5 by the chairperson of a mortality review committee commits an offence and is liable to a fine not exceeding $10,000.
-(6) Every person who discloses information contrary to Schedule 5 commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(5) Every person who fails, without reasonable excuse, to comply with a requirement imposed under Schedule 5 by the chairperson of a mortality review committee commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(6) Every person who discloses information contrary to Schedule 5 commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (7) Any member of a registered occupational profession who commits an offence under subsection (5) or (6) is liable to any disciplinary proceedings of that profession in respect of the offence, whether or not he or she is fined under that subsection.
 
 **Other provisions**
@@ -1025,7 +1025,7 @@ In any inquiry, the inquiry board may adopt further procedures for the inquiry t
 (1) If the Minister has given an inquiry board an instruction referred to in section 77(j) then, for the purposes of its inquiry, the inquiry board may issue a summons requiring any person to—
   (a) attend and give evidence; and
   (b) produce any books, papers, documents, records, or things in the person's possession or control that are relevant to the subject of the inquiry.
-(2) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness' allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957.
+(2) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness' allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Criminal Procedure Act 2011.
 (3) The summons must be in writing and state the place and time at which the witness is required to attend.
 (4) The inquiry board may issue a summons on its own initiative or an application by any person for the purpose.
 (5) The power to issue the summons may be exercised by—
@@ -1053,7 +1053,7 @@ Every witness giving evidence, and every counsel or agent or other person appear
   (a) wilfully obstructs or hinders an inquiry board or any member of it or any authorised person in any inspection or examination of books, papers, documents, records, or things, under section 82(1)(a); or
   (b) without sufficient cause, fails to comply with any requirement of an inquiry board or any authorised person made under section 82(1)(b) or (c).
 (4) Every person commits an offence who wilfully interrupts or obstructs any hearing conducted by an inquiry board.
-(5) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(5) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ## Part 6 — Miscellaneous provisions
 
