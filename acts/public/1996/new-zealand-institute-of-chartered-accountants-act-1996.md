@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -106,7 +106,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (a) if it is to be served under subsection (6)(a), be served at least 24 hours before the attendance of the witness is required:
   (b) if it is to be served under subsection (6)(b), be served at least 10 days before the attendance of the witness is required.
 (8) A summons that is posted shall be treated as having been served when it would have been served in the ordinary course of post.
-(9) There shall be paid or tendered to the witness by the person requiring the attendance of the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scales for the time being prescribed by regulations under the Summary Proceedings Act 1957.
+(9) There shall be paid or tendered to the witness by the person requiring the attendance of the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scales for the time being prescribed by regulations under the Criminal Procedure Act 2011.
 
 ### 12 Protection for members of disciplinary bodies and others
 (1) No action shall lie against a member of the Professional Conduct Committee or a disciplinary body in exercising, in good faith, any power or function under this Act or the rules.
@@ -128,7 +128,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (b) not being entitled to do so under the rules, describes himself or herself in writing as a chartered accountant or a chartered accountant in public practice or an associate chartered accountant or an associate chartered accountant in public practice or an accounting technician; or
   (c) not being a member of the Institute, describes himself or herself in writing as a registered accountant, unless it is proved that the manner and circumstances in which the description was given were such as to raise no reasonable inference that it was referring to membership of the Institute; or
   (d) not being entitled to do so under the rules, uses in connection with his or her name, or with the name under which he or she carries on business, the initials CA, ACA, FCA, FACA, CA (PP), ACA (PP), or AT or an abbreviation of the words chartered accountant, associate chartered accountant, registered accountant, or accounting technician, or any combination of any such initials or abbreviations, unless it is proved that the manner and circumstances in which the initials or abbreviations were used were such as to raise no reasonable inference that they were referring to membership of the Institute.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
 ### 15 Accountants and auditors must be qualified
 (1) Subject to subsection (3), every person commits an offence who describes himself or herself or holds himself or herself out publicly as an accountant or auditor unless that person is suitably qualified in accordance with subsection (2) to offer accounting or auditing services to the public.
@@ -138,7 +138,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (b) any person from practising publicly and describing himself or herself as a secretary, bookkeeper, or cost consultant, or under any other designation not associated with or conveying the impression that he or she is an accountant or auditor:
   (c) any person or member of a club, institution, or association which is not carried on with a view to profit from acting as auditor of the club, institution, or association:
   (d) any Minister of the Crown or officer charged with the administration of any law or the Controller and Auditor-General from appointing, or authorising or approving the appointment of, any person as auditor in respect of any undertaking.
-(4) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
+(4) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
 (5) Nothing in this section limits sections 8 and 9 of the Auditor Regulation Act 2011.
 
 ### 16 Failure to comply with summons of disciplinary body
@@ -149,7 +149,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (d) does not answer any question that is lawfully asked by the disciplinary body:
   (e) does not provide any documents, things, or information the summons requires that person to provide.
 (2) A person summoned to attend a hearing of a disciplinary body shall not be convicted of an offence against subsection (1) of this section unless witnesses expenses are paid or tendered to that person in accordance with section 11(9).
-(3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 
 **Appointment of agent to conduct practice of sole practitioner**
 
