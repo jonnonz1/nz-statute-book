@@ -1,5 +1,5 @@
 # Incorporated Societies Amendment Act 1953
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the Incorporated Societies Act 1908
 
@@ -15,7 +15,7 @@ _Consolidation as at 2007-09-03_
 (3) Section 5 of the Incorporated Societies Amendment Act 1922 and the Schedule to that Act are hereby consequentially repealed.
 
 ### 3 Penalty for improper use of word Incorporated
-If any society, not being a society incorporated under the principal Act, operates under any name or title of which the word Incorporated, or any contraction or imitation of that word, is the last word, every member of the society shall be liable on summary conviction to a fine not exceeding $2 for every day upon which that name or title has been used.
+If any society, not being a society incorporated under the principal Act, operates under any name or title of which the word Incorporated, or any contraction or imitation of that word, is the last word, every member of the society shall be liable on conviction to a fine not exceeding $2 for every day upon which that name or title has been used.
 
 ### 4 Society may make regulations or bylaws
 (1) In addition to the matters specified in section 6 of the principal Act, the rules of any society may make provision for the making, amendment, or rescission of regulations or bylaws, not inconsistent with the principal Act or with the rules of the society, for such purposes as may be specified in that behalf in the rules.
