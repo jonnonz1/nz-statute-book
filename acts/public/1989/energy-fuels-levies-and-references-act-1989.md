@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -402,7 +402,7 @@ Every person commits an offence who,—
   (a) fails to furnish, within the time specified in a notice given to that person under section 36(1) or (1A), the information or particulars required by that notice; or
   (b) furnishes, in response to a notice given to that person under section 36(1) or (1A), any information or particulars that to that person's knowledge is false or misleading in any material particular; or
   (c) refuses or fails to furnish any information or particulars in the form and manner in which it is required by a notice under section 36(1) or (1A).
-(2) Every person who commits an offence against subsection (1), section 32, section 35A, or section 35D is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1), section 32, section 35A, or section 35D is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $20,000:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
