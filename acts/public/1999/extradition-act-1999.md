@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -231,7 +231,7 @@ This Part applies to—
     (iii) the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) Despite section 5 of the Summary Proceedings Act 1957, a District Court presided over by Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 46(1) and (2) of the Summary Proceedings Act 1957 (as applied by section 157 of that Act) and section 28(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
-(4)
+(4) The enactments (other than this Act, its provisions, Parts, and regulations made under it) specified in this section must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 
 ### 23 Procedure following arrest
 (1) A person arrested on a warrant issued after a request under section 19 or issued under section 20 must, unless sooner discharged, be brought before a court as soon as possible.
@@ -246,6 +246,9 @@ This Part applies to—
     (i) within the time prescribed in an extradition treaty that is in force between the extradition country and New Zealand; or
     (ii) if no time is prescribed in a treaty, or no treaty is in force, within such reasonable time as the court may fix,—
   (d) the court may from time to time, in its discretion, extend any time fixed by it under paragraph (c)(ii).
+(5) In subsection (3),—
+  (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
+  (b) section 49 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 
 ### 24 Determination of eligibility for surrender
 (1) Subject to section 23(4), if a person is brought before a court under this Part, the court must determine whether the person is eligible for surrender in relation to the offence or offences for which surrender is sought.
@@ -295,6 +298,10 @@ This Part applies to—
 (2) If the court issues a warrant under subsection (1), the court may grant bail to the person.
 (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act).
 (4) If the court is not satisfied under section 24 that the person is eligible for surrender, it must discharge the person unless under section 70(1) it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under Part 8.
+(5) Enactments other than this Act and its provisions that are specified in subsection (1)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
+(6) In subsection (3),—
+  (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
+  (b) section 52 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 
 ### 27 Detention in place other than prison
 If the court orders the detention of the person at any time under this Part, but is of the opinion that, because of the circumstances of the case, it would be dangerous to the life or pose a significant risk to the health of the person to detain the person in a prison, it may order that the person be held in custody—until such time as the person can, without such danger or risk, be detained in a prison or is surrendered or is discharged according to law.
@@ -316,6 +323,10 @@ If the court orders the detention of the person at any time under this Part, but
 (4) Nothing in subsections (1) to (3) prevents a person from giving notice to the Minister after the court orders the detention of the person under section 26 that the person consents to surrender.
 (5) If the court issues a warrant under subsection (2), the court may grant bail to the person.
 (6) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act).
+(7) Enactments other than this Act and its provisions that are specified in subsection (2)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
+(8) In subsection (6),—
+  (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
+  (b) section 52 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 
 **Consent to surrender for offences that are not extradition offences**
 
@@ -506,22 +517,21 @@ This Part applies to—
 
 ### 43 Powers of court
 (1) In proceedings under this Part, except as expressly provided in this Act or in regulations made under section 102,—
-  (a) the court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a summary offence alleged to have been committed within the jurisdiction of New Zealand; and
+  (a) the court has the same jurisdiction and powers under the Criminal Procedure Act 2011 as if the proceedings were in respect of a charge for a category 2 offence committed within the jurisdiction of New Zealand:
   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
-    (i) Part 2 and sections 203, 204, and 206 of the Summary Proceedings Act 1957:
+    (i) sections 14, 35, 157 to 175, subpart 3 of Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011 and any relevant rules of court (including those relating to service) made under that Act:
     (ii) Parts 1 (except sections 9 to 12), 2, and 3 of the Bail Act 2000:
     (iii) sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(2) Despite section 4 of the Summary Proceedings Act 1957, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
-(3) Despite section 46(1) and (2) of the Summary Proceedings Act 1957 and section 28(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
-(4)
-(5) Section 184T of the Summary Proceedings Act 1957 and sections 52 to 54 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of sections 46, 53, or 54.
+(2) A District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+(3) Despite section 168 of the Criminal Procedure Act 2011, and section 27(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
+(4) Sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of sections 46, 53, or 54.
 
 ### 44 Procedure following arrest
 (1) A person arrested on a warrant endorsed under section 41 or on a provisional arrest warrant must, unless sooner discharged, be brought before a court as soon as possible.
 (2) The person—
   (a) is not bailable as of right; and
   (b) may not go at large without bail.
-(3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000.
+(3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under section 30(1), (2), and (4) of the Bail Act 2000.
 (4) If a person has been arrested on a provisional arrest warrant and no warrant issued in the extradition country has been endorsed under section 41, the following provisions apply:
   (a) pending the endorsement of a warrant under section 41, the proceedings may from time to time be adjourned:
   (b) the court may, and must if a reasonable time has elapsed for the endorsement of the warrant, order that the person be discharged.
@@ -546,13 +556,13 @@ This Part applies to—
 
 ### 46 Procedure following court's determination of whether person eligible for surrender
 (1) If the court is satisfied that the person is eligible for surrender, the court must—
-  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 184T(3) of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
+  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 169 of the Criminal Procedure Act 2011 pending the surrender of the person to the extradition country or the person's discharge according to law; and
   (b) inform the person that,—
     (i) subject to section 71, the person will not be surrendered until the expiration of 15 days after the date of the issue of the warrant; and
     (ii) during that time the person has the right to make an application for a writ of habeas corpus; and
     (iii) the person has the right to lodge an appeal under Part 8.
 (2) If the court issues a warrant under subsection (1), the court may grant bail to the person.
-(3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act).
+(3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under section 30(1), (2), and (4) of the Bail Act 2000.
 (4) If the court is not satisfied that the person is eligible for surrender, it must discharge the person, unless under section 70(1) it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under Part 8.
 
 ### 47 Court must make surrender order immediately if case not referred to Minister
@@ -633,7 +643,7 @@ If the court orders the detention of the person at any time under this Part, but
 (2) If the person notifies the court of his or her consent to surrender under subsection (1), then, despite section 45 but subject to subsections (3) and (4) of this section, the court must—
   (a) make a surrender order in respect of the person; or
   (b) if the court is required to refer the case to the Minister under section 48(1),—
-    (i) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 184T(3) of the Summary Proceedings Act 1957 pending surrender; and
+    (i) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 169 of the Criminal Procedure Act 2011 pending surrender; and
     (ii) record in writing the offence or offences in respect of which the person has consented to surrender; and
     (iii) send to the Minister a copy of the warrant of detention and the record made under subparagraph (ii), together with a copy of the warrant and all other documents before the court in the case, and such report on the case as the court thinks fit.
 (3) The court must not take the action in subsection (2) unless—
@@ -650,7 +660,7 @@ If the court orders the detention of the person at any time under this Part, but
   (a) the offence for which the person's surrender is sought is an offence of which the person is accused; and
   (b) a court is satisfied that the person is eligible for surrender in relation to the offence or offences for which extradition is sought—
 (2) If this subsection applies, the court must—and subsections (4), (5), (6), and (7) apply.
-  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 184T(3) of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
+  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 52 of this Act or section 169 of the Criminal Procedure Act 2011 pending the surrender of the person to the extradition country or the person's discharge according to law; and
   (b) record in writing the extradition offence or extradition offences in relation to which the court has determined that the person is eligible for surrender; and
   (c) send to the Minister a copy of the warrant of detention and the record made under paragraph (b), together with a copy of all other documents before the court in the case, and such report of the case as the court thinks fit,—
 (3) If,—but the person is liable to be detained in a prison because of a sentence of imprisonment imposed for an offence against the law of New Zealand, subsections (4), (6), and (7) apply.
@@ -803,31 +813,14 @@ A surrender order or a temporary surrender order must be in the prescribed form 
 
 ## Part 8 — Appeals against determinations in respect of eligibility for surrender
 
-### 68 Appeal on question of law only by way of case stated
-(1) This section applies if a District Court determines under section 24 or section 45 that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
-(2) If this section applies, the party may appeal against the determination to the High Court by way of case stated for the opinion of the High Court on a question of law only.
-(3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court that made the determination a notice of appeal in the prescribed form.
+### 68 Appeal on question of law only
+(1) This section applies if a District Court determines under section 24 or 45 that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
+(2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
+(3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court to which the appeal is being taken a notice of appeal in the prescribed form.
 
-### 69 Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000
-(1) The following provisions of the Summary Proceedings Act 1957 and the Bail Act 2000 apply with any necessary modifications to an appeal under this Part as if it were an appeal under Part 4 of that Act against the determination by a District Court of an information or complaint:
-  (a) section 107(3) to (8) (Appeal on question of law only by way of case stated):
-  (b) section 108 (No appeal on ground of improper admission or rejection of evidence):
-  (c) section 109 (District Court Judge or Justice may refuse a case if appeal frivolous):
-  (d) section 110 (Certiorari not to be required when appeal upon case stated):
-  (e) section 111 (Case may be sent back for amendment):
-  (f) section 113 (Appeal on point of law may be removed into Court of Appeal):
-  (g) section 123 (Powers of Judge of High Court as to extension of time):
-  (h)
-  (i) section 129 (Abandonment of appeal):
-  (j) section 130 (Presentation of case by party in custody):
-  (k) section 131 (Power of High Court to direct rehearing of information or complaint):
-  (l) section 133 (Dismissal of appeal for non-prosecution):
-  (m) section 134 (Registrar to certify decision on appeal):
-  (n) section 136 (Custody of person after determination of appeal):
-  (o) section 143 (No court fees payable on appeal by person sentenced to detention):
-  (p) section 144 (Appeal to Court of Appeal).
-  (q)
-(2) Section 47 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under Part 4 of the Summary Proceedings Act 1957 against the determination by a District Court of an information or complaint.
+### 69 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
+(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
+(2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
 
 ### 70 Custody pending determination of appeal
 (1) If—the court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal.
@@ -895,10 +888,10 @@ Nothing in section 25 or sections 74 to 76 prevents the admission in evidence of
     (ii) it purports to be sealed with an official or public seal of the country in which it was issued or of a Minister of State, or of a department or official of the Government, of the country in which it was issued, taken, given, received, or made.
 (2) Every court must take judicial notice of every signature or seal referred to in subsection (1).
 
-### 79 Depositions taken in New Zealand for use overseas
-(1) For the purposes of any request made by New Zealand for the surrender of a person from another country, a District Court Judge may, in the absence of the person accused or convicted of an offence, take depositions in the same manner, so far as applicable, as if that person were present and the proceedings were the committal hearing for an information for an indictable offence.
-(2) For the purpose of taking depositions under subsection (1), the District Court Judge has the same jurisdiction and powers as if the proceedings were a hearing described in that subsection.
-(3) Nothing in this section authorises the reception of any depositions referred to in subsection (1) in evidence against any person on his or her trial for any offence.
+### 79 Evidence taken in New Zealand for use overseas
+(1) For the purpose of any request made by New Zealand for the surrender of a person from another country, a District Court may, in the absence of the person accused or convicted of an offence, take evidence in the same manner, so far as applicable, as the procedure set out for the taking of oral evidence under sections 95 to 99 of the Criminal Procedure Act 2011.
+(2) For the purposes of taking evidence under subsection (1), the District Court Judge has the same jurisdiction and powers as if the proceedings were the taking of oral evidence under subpart 8 of Part 3 of the Criminal Procedure Act 2011.
+(3) Nothing in this section authorises the reception of any evidence referred to in subsection (1) in evidence against any person on his or her trial for any offence.
 
 ### 80 Effect of certain certificates
 (1) For the purposes of section 7(a), a certificate signed by the Minister stating that the offence for which the surrender of any person is sought is an offence of a political character is conclusive evidence of its contents.
@@ -1069,7 +1062,8 @@ An extradition treaty made between New Zealand and another country after the com
   (g) section 101B of this Act:
   (ga) section 69 of the Terrorism Suppression Act 2002:
   (h) section 21 of the Mercenary Activities (Prohibition) Act 2004:
-  (i) section 145C of the Films, Videos, and Publications Classification Act 1993.
+  (i) section 145C of the Films, Videos, and Publications Classification Act 1993:
+  (j) section 13 of the Cultural Property (Protection in Armed Conflict) Act 2012.
 
 ### 101B Certain crimes with transnational aspects deemed to be included in extradition treaties
 (1) For the purposes of this Act and any Order in Council in force under section 15 or section 104, the following offences are deemed to be offences described in any extradition treaty concluded before the commencement of section 6 of the Extradition Amendment Act 2002 and for the time being in force between New Zealand and any foreign country that is a party to a convention or protocol referred to in subsection (5):
@@ -1170,39 +1164,3 @@ The Acts specified in Schedule 3 are amended in the manner indicated in that sch
 ## Schedule 2 — United Kingdom Orders in Council relating to extradition that have ceased to have effect in New Zealand
 
 ## Schedule 3 — Acts amended
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
