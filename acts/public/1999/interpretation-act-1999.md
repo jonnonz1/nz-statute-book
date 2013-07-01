@@ -1,5 +1,5 @@
 # Interpretation Act 1999
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act relating to the interpretation, application, and effect of legislation
 
@@ -170,7 +170,6 @@ No enactment binds the Crown unless the enactment expressly provides that the Cr
 In an enactment,—
   - **Act** means an Act of the Parliament of New Zealand or of the General Assembly; and includes an Imperial Act that is part of the law of New Zealand
   - **commencement** , in relation to an enactment, means the time when the enactment comes into force
-  - **committed for trial** means committed to the High Court or a District Court under the Summary Proceedings Act 1957
   - **Commonwealth country** and mean a country that is a member of the Commonwealth; and include a territory for the international relations of which the member is responsible
   - **consular officer** means a person who has authority to exercise consular functions
   - **de facto partner** means a person who is a party to a de facto relationship (as defined in section 29A)
@@ -198,7 +197,6 @@ In an enactment,—
   - **repeal** , in relation to an enactment, includes expiry, revocation, and replacement
   - **rules of court** , in relation to a court, means rules regulating the practice and procedure of the court
   - **South Island** means the island commonly known as the South Island; and includes the islands adjacent to it south of Cook Strait
-  - **summary conviction** means a conviction by a District Court Judge or by 1 or more Justices of the Peace in accordance with the Summary Proceedings Act 1957
   - **territorial limits of New Zealand** , , or a similar expression, when used as a territorial description, means the outer limits of the territorial sea of New Zealand
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
