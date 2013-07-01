@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -157,15 +157,15 @@ Any refund of a levy or an additional levy under this Act may be paid from publi
   (d) acts in contravention of or, without lawful justification or excuse, fails to comply in any respect with any provision of this Act or of any regulations made thereunder or any requirement imposed under this Act or the regulations; or
   (e) aids, abets, or incites any other person to commit any offence against this Act or against any regulations made thereunder; or
   (f)
-(2) Every person who commits an offence against this Act for which no other penalty is prescribed shall be liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who commits an offence against this Act for which no other penalty is prescribed shall be liable on conviction to a fine not exceeding $1,000.
 
 ### 22 Information may charge several offences
-(1) Any information may charge the defendant with any number of offences against this Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
-(2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
+(1) Any charging document may charge the defendant with any number of offences against this Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
+(2) Where any charging document charges more than 1 such offence, particulars of each offence charged shall be set out separately in the charging document.
 (3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
-### 23 Information may be laid within 10 years
-Notwithstanding section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made thereunder may be laid at any time within 10 years after the offence was committed.
+### 23 Charging document may be filed within 10 years
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 10 years after the date on which the offence was committed.
 
 ## Part 6 — Agents
 
