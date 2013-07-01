@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2011-11-16_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -758,7 +758,7 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
 (1) On an application for the purpose or on its own initiative, the court may issue a summons requiring a person to attend at a time and place to be specified in the summons if the person fails to comply with—
   (a) a request under section 11(1)﻿(b) of the Family Proceedings Act 1980 (as modified and applied by section 66(b) of this Act) that the person attend before a counsellor; or
   (b) a request under section 68(4)﻿(b) to attend the hearing of an application under section 68.
-(2) Section 20(1) to (3) and (5) of the Summary Proceedings Act 1957 applies to a summons under this section as if it were a witness summons issued under that section.
+(2) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
 ### 70 Ordering party to enter into bond
 (1) On an application for the purpose or on its own initiative, the court may order a party who has contravened a parenting order to enter into a bond as an assurance that the party will not contravene the parenting order again.
@@ -869,17 +869,17 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
 **Offences**
 
 ### 78 Contravening parenting order
-(1) Every person commits an offence and is liable on summary conviction to the penalty stated in subsection (2) who, without reasonable excuse and with intent to prevent a parenting order from being complied with, contravenes, or prevents compliance with, the parenting order.
+(1) Every person commits an offence and is liable on conviction to the penalty stated in subsection (2) who, without reasonable excuse and with intent to prevent a parenting order from being complied with, contravenes, or prevents compliance with, the parenting order.
 (2) The penalty is imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500.
 (3) Nothing in this section limits the power of a court to punish a person for contempt of court.
 
 ### 79 Resisting execution of warrant
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500 who—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500 who—
   (a) knowingly resists or obstructs any person executing a warrant under section 72 or section 73 or section 77; or
   (b) knowingly fails or refuses to afford immediate entrance to (all or a part of) any premises to any person executing a warrant under section 72 or section 73 or section 77.
 
 ### 80 Taking child from New Zealand
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500, or to imprisonment for a term not exceeding 3 months, or to both, who, without the leave of the court, takes or attempts to take any child out of New Zealand—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,500, or to imprisonment for a term not exceeding 3 months, or to both, who, without the leave of the court, takes or attempts to take any child out of New Zealand—
   (a) knowing that proceedings are pending or are about to be commenced under this Act in respect of the child; or
   (b) knowing that there is in force an order of a court (including an order registered under section 81) giving any other person the role of providing day-to-day care for, or contact with, the child; or
   (c) with intent to prevent an order of a court (including an order registered under section 81) about the role of providing day-to-day care for, or about contact with, the child, from being complied with.
@@ -1311,7 +1311,7 @@ In all proceedings under this Act (other than criminal proceedings, but includin
 (4) A witness called by the court under this section—
   (a) may be examined and re-examined by the court, or by any counsel assisting the court; and
   (b) may be cross-examined by, or on behalf of, a party to the proceedings or by a lawyer appointed to act for a child who is the subject of the proceedings.
-(5) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as applicable and with all necessary modifications, apply with respect to every person called as a witness by the court under this section as if the witness had been called by a party to the proceedings.
+(5) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as applicable and with all necessary modifications, apply with respect to every person called as a witness by the court under this section as if the witness had been called by a party to the proceedings.
 (6) The expenses of a witness called by the court under this section, in accordance with the prescribed scale of witnesses’ expenses, are in the first instance payable out of public money appropriated by Parliament for the purpose.
 
 ### 130 Counsel to assist court
