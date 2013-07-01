@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -382,7 +382,7 @@ Any officer may stop and seize any vehicle on the ground or in water, or stop in
 
 ### 39C Proceedings to be prosecuted promptly and diligently
 (1) Proceedings in respect of an offence against this Act shall be commenced promptly and prosecuted with due diligence if they arise in connection with the use of any vehicle or container seized under section 39A.
-(2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under section 39A of any vehicle or container, or if the proceedings concerned are discharged or dismissed, the vehicle or container shall be released from the custody of the Director-General.
+(2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under section 39A of any vehicle or container, or if the proceedings concerned are dismissed, the vehicle or container shall be released from the custody of the Director-General.
 
 ### 39D Forfeiture of seized vehicles and containers
 (1) On the conviction of any person for any offence against this Act, any vehicle or container retained in respect of that offence under section 39B(1) may, on the order of the court, be forfeited to the Crown; and, in that case, the vehicle or container shall be disposed of as the Minister thinks fit.
@@ -412,13 +412,13 @@ Where the Minister makes an order under section 39D(2) in respect of a vehicle o
 (3) Except as provided in subsections (1) and (2) of this section,—shall be held in the custody of the Crown until—
   (a) every specimen seized pursuant to subsection (2) or subsection (3) of section 39; and
   (b) every receptacle or thing seized pursuant to section 39(4)—
-  (c) a decision is made not to lay any information or charge in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
-  (d) where such a charge or information is laid, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the court may determine.
-(4) The decision whether or not to lay any information or charge in respect of an alleged offence for which any specimen, receptacle, or thing is seized under section 39 shall be made as soon as reasonably practicable after that specimen, receptacle, or thing is seized, taken possession of, or detained.
+  (c) a decision is made not to file any charging document in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
+  (d) where such a charging document is filed, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the court may determine.
+(4) The decision whether or not to file any charging document in respect of an alleged offence for which any specimen, receptacle, or thing is seized under section 39 shall be made as soon as reasonably practicable after that specimen, receptacle, or thing is seized, taken possession of, or detained.
 
 ### 41 Release of seized specimens
 Subject to subsection (1) of section 39 and subsections (1) and (2) of section 40, where any specimen, receptacle, or thing has been seized under section 39 and not previously returned by the court pursuant to the proviso to subsection (4) of section 39, then—such specimen, receptacle, or thing shall forthwith be released from the custody of the Crown to the owner or person who had possession of the specimen, receptacle, or thing at the time of seizure.
-  (a) on a decision being made not to lay an information or charge; or
+  (a) on a decision being made not to file a charging document; or
   (b) on the acquittal of any person charged with an offence for which the specimen, receptacle, or thing is subject to forfeiture—
 
 ### 42 Disposal of seized specimens
@@ -444,13 +444,13 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
   (a) trades in any specimen of an endangered species without the appropriate permit or certificate granted under any of sections 13 to 16; or
   (b) trades in any specimen of a threatened species without the appropriate permit or certificate granted under any of sections 17 to 20; or
   (c) trades in any specimen of an exploited species without the appropriate permit or certificate granted under any of sections 21 to 24.
-(2) Every person who commits an offence against subsection (1)(a) is liable on conviction on indictment,—
+(2) Every person who commits an offence against subsection (1)(a) is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
-(3) Every person who commits an offence against subsection (1)(b) is liable on conviction on indictment,—
+(3) Every person who commits an offence against subsection (1)(b) is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(4) Every person who commits an offence against subsection (1)(c) is liable on summary conviction,—
+(4) Every person who commits an offence against subsection (1)(c) is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $37,500:
   (b) in the case of a body corporate, to a fine not exceeding $75,000.
 
@@ -458,19 +458,19 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
 (1) Every person commits an offence who has in his or her possession, or has under his or her control though under the custody of another, any specimen of an endangered, threatened, or exploited species that he or she knows or has reasonable grounds for suspecting—
   (a) has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act; or
   (b) is intended to be exported or re-exported from New Zealand otherwise than in accordance with this Act.
-(2) Every person who commits an offence against subsection (1) in respect of a specimen of an endangered species is liable on conviction on indictment,—
+(2) Every person who commits an offence against subsection (1) in respect of a specimen of an endangered species is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
-(3) Every person who commits an offence against subsection (1) in respect of a specimen of a threatened species is liable on conviction on indictment,—
+(3) Every person who commits an offence against subsection (1) in respect of a specimen of a threatened species is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(4) Every person who commits an offence against subsection (1) in respect of a specimen of an exploited species is liable on summary conviction,—
+(4) Every person who commits an offence against subsection (1) in respect of a specimen of an exploited species is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $37,500:
   (b) in the case of a body corporate, to a fine not exceeding $75,000.
 
 ### 46 Failure to comply with conditions of permit or certificate
 (1) Every person commits an offence who fails to comply with any of the conditions specified by the Director-General in respect of any permit or certificate granted to him or her under Part 1.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
@@ -478,13 +478,13 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
 (1) Every person commits an offence who, for the purpose of procuring anything to be done or not to be done under Part 1 or Part 2 or Part 3, whether for his or her own benefit or for the benefit of any other person,—
   (a) makes a statement that he or she knows to be false in a material particular; or
   (b) recklessly makes a statement that is false in a material particular.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000.
 
 ### 48 Obstructing or hindering officer
 Every person commits an offence against this Act who intentionally obstructs or hinders any officer in the performance of his or her duty under this Act.
 
 ### 49 General offence
-Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on summary conviction, to a fine not exceeding $2,000.
+Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction, to a fine not exceeding $2,000.
 
 ### 50 Onus of proof in respect of certain offences
 Where any person is charged with an offence against this Act arising out of his or her doing, without a permit or certificate, any action for which a permit or certificate is required, the onus shall be on that person to prove that at the relevant time he or she held the required permit or certificate.
@@ -1716,39 +1716,3 @@ Amendment(s) incorporated in the Act(s).
 | 11 | Logs, sawn wood, veneer sheets, plywood, powder, and extracts. |
 | 12 | Logs, sawn wood, veneer sheets, plywood, and essential oil (excluding finished products packaged and ready for retail trade). |
 | 13 | Kernel and any derivative thereof. |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
