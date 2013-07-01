@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -569,17 +569,17 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (b) must not use any information obtained under this section in any way for gain or reward.
 
 ### 49 Offences and penalties
-(1) Every person who knowingly fails to comply with section 41(1)(b)(ii) commits an offence, and is liable on summary conviction—
+(1) Every person who knowingly fails to comply with section 41(1)(b)(ii) commits an offence, and is liable on conviction—
   (a) to a fine not exceeding $150,000, if the shortfall in the account exceeds $500,000:
   (b) to a fine not exceeding $80,000, if the shortfall in the account exceeds $100,000 but does not exceed $500,000:
   (c) to a fine not exceeding $30,000, if the shortfall in the account does not exceed $100,000.
-(2) Every licensee of licensed premises commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who—
+(2) Every licensee of licensed premises commits an offence, and is liable on conviction to a fine not exceeding $20,000, who—
   (a) knowingly makes a false or misleading levy return; or
   (b) fails or refuses to comply with section 36, section 37(3), or section 42; or
   (c) fails or refuses to pay, within the time required by subsection (5) of section 37, an amount that person is required by subsection (4) of that section to pay; or
   (d) wilfully prevents, obstructs, or hinders, a person exercising or attempting to exercise any of the powers conferred by subsections (1) and (2) of section 44; or
   (e) fails or refuses to make available to a person exercising any of the powers conferred by subsections (1) and (2) of section 44 any document relating to levy money or the slaughter of pigs, or any pork product from pigs subject to the levy.
-(3) Every person who—commits an offence, and is liable on summary conviction to a fine not exceeding $15,000.
+(3) Every person who—commits an offence, and is liable on conviction to a fine not exceeding $15,000.
   (a) fails or refuses to comply with subsection (1) or subsection (2) of section 48; or
   (b) in response to a request under subsection (1) or subsection (2) of section 48, wilfully gives the Board false or misleading information,—
 
@@ -697,7 +697,7 @@ A director, when exercising powers or performing duties as a director, must exer
   (b) if the monetary value of the director's interest cannot be quantified, the nature and extent of that interest.
 (2) For the purposes of subclause (1), a general notice given to the board of directors to the effect that a director is a shareholder, director, officer or trustee of a person named in the notice and is to be regarded as interested in any transaction that may, after the day on which the notice is given to the board of directors, be entered into by the Board with that person, is a sufficient disclosure of interest in relation to that transaction.
 (3) A failure by a director to comply with subclause (1) does not affect the validity of a transaction entered into by the Board or the director.
-(4) Every director who fails to comply with subclause (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) Every director who fails to comply with subclause (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 11 Avoidance of transactions
 (1) A transaction entered into by the Board in which a director is interested may be avoided by the Board at any time before the expiration of 3 months after the transaction is disclosed to the board of directors or entered in the interests register.
@@ -838,39 +838,3 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 ## Schedule 3 — Forms of warrant to search place other than place of business
 
 ## Schedule 4 — Enactments repealed
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
