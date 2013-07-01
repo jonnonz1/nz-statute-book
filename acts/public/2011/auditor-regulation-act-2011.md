@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2012-05-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -8,9 +8,6 @@ This Act is the Auditor Regulation Act 2011.
 (1) Sections 1 to 7 and 84 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 July 2012.
-
-###
-[Repealed]
 
 ## Part 1 — Preliminary and key provisions
 
@@ -115,14 +112,14 @@ This Act binds the Crown.
 (1) Every natural person who acts as the auditor in respect of an issuer audit must hold a licence that—
   (a) authorises the person to act as the auditor in respect of that kind of issuer audit; and
   (b) is recorded in the register.
-(2) A person who acts as the auditor in respect of an issuer audit in breach of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $50,000.
+(2) A person who acts as the auditor in respect of an issuer audit in breach of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 9 Audit firms engaged or appointed to act as auditor in respect of issuer audits must be registered
 (1) An audit firm must not accept an engagement or appointment to act as the auditor in respect of an issuer audit unless it is a partnership that is a registered audit firm.
 (2) If an audit firm is engaged or appointed to act as the auditor in respect of an issuer audit,—
   (a) the partners of the audit firm, from time to time, who are licensed auditors must, for the purposes of this Act, be treated as acting as the auditor or auditors in respect of the issuer audit; and
   (b) the audit firm must ensure that each engagement partner is a licensed auditor.
-(3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on summary conviction to a fine not exceeding $50,000 if—
+(3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
   (a) the breach took place with his or her authority, permission, or consent; or
   (b) he or she could reasonably have known that the breach was to be or was being made and failed to take all reasonable steps to prevent or stop it.
 
@@ -179,7 +176,7 @@ This Act binds the Crown.
     (ii) meeting the prescribed minimum standards; or
     (iii) being required to comply with the requirements referred to in section 12(1)(c); and
   (b) includes any change that may be prescribed.
-(3) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Licence details to be sent to Registrar**
 
@@ -495,7 +492,7 @@ The purpose of the register is—
 ### 42 Obligation to notify Registrar of prescribed changes
 (1) Every accredited body and the FMA must give written notice to the Registrar of any prescribed changes within 10 working days after the accredited body or the FMA (as the case may be) first becomes aware of the change.
 (2) In subsection (1), prescribed changes means changes to the information included in the register that are of a kind that is prescribed for the purposes of this section.
-(3) An accredited body commits an offence if it fails to comply with this section and is liable on summary conviction to a fine not exceeding $30,000.
+(3) An accredited body commits an offence if it fails to comply with this section and is liable on conviction to a fine not exceeding $30,000.
 
 ### 43 Annual confirmation by accredited bodies and FMA
 (1) Every accredited body and the FMA must ensure that the Registrar receives each year, during the month allocated to the body or the FMA for the purposes of this section, an annual confirmation.
@@ -584,7 +581,7 @@ The Registrar may refuse to accept a document received by the Registrar under th
   (a) prepare a direction that specifies the time within which, and the manner and form in which, annual reports must be supplied; and
   (b) send a copy of the direction to each accredited body; and
   (c) publish the direction on an Internet site maintained by or on behalf of the FMA.
-(4) An accredited body that fails to supply an annual report in accordance with this section commits an offence and is liable on summary conviction to a fine not exceeding $50,000.
+(4) An accredited body that fails to supply an annual report in accordance with this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 52 FMA must publish plan relating to auditor regulation and oversight
 (1) The FMA must, before the start of each financial year, publish on an Internet site maintained by or on behalf of the FMA a plan relating to its intentions in relation to auditor regulation and oversight under this Act.
@@ -606,7 +603,7 @@ The FMA must publish on an Internet site maintained by or on behalf of the FMA i
 (3) An accredited body commits an offence if the accredited body—
   (a) fails to comply with subsection (2); or
   (b) otherwise hinders, obstructs, or delays the FMA in acting under subsection (1).
-(4) An accredited body that commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding $100,000.
+(4) An accredited body that commits an offence under subsection (3) is liable on conviction to a fine not exceeding $100,000.
 
 ### 55 FMA must report on audit regulatory systems of each accredited body
 (1) The FMA must, no later than 6 months after the start of each financial year, prepare a report on the extent to which the audit regulatory systems of each accredited body are adequate and effective.
@@ -632,7 +629,7 @@ A direction given under section 56 must—
   (b) state the grounds on which it is given.
 
 ### 58 Offence to contravene directions
-An accredited body that fails to comply with a direction under section 56 commits an offence and is liable on summary conviction to a fine not exceeding $50,000.
+An accredited body that fails to comply with a direction under section 56 commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 59 FMA may suspend or cancel accreditation or censure accredited body in certain circumstances
 (1) This section applies if the FMA is satisfied on reasonable grounds that—
@@ -753,7 +750,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (b) every employee of the licensed auditor; and
   (c) every person who provides services to the licensed auditor under a contract for services; and
   (d) every issuer in relation to which the licensed auditor (or any of his or her employees) has carried out, or is carrying out, an issuer audit.
-(3) Every person to whom this section applies commits an offence if the person hinders, obstructs, or delays the FMA (or a person referred to in section 66(1)) in connection with the carrying out of a quality review and is liable on summary conviction,—
+(3) Every person to whom this section applies commits an offence if the person hinders, obstructs, or delays the FMA (or a person referred to in section 66(1)) in connection with the carrying out of a quality review and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $40,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -775,7 +772,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 
 ### 71 Consequences of failing to comply with directions
 (1) If an audit firm fails to comply with a direction given to it under section 70,—
-  (a) every partner or director of the firm commits an offence and is liable on summary conviction to a fine not exceeding $25,000 if—
+  (a) every partner or director of the firm commits an offence and is liable on conviction to a fine not exceeding $25,000 if—
     (i) the failure to comply took place with his or her authority, permission, or consent; or
     (ii) he or she could reasonably have known that the failure to comply was to take or was taking place and failed to take all reasonable steps to prevent or stop it; and
   (b) the FMA may make an order that the licence of 1 or more of those partners or directors be—
@@ -783,7 +780,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
     (ii) cancelled; and
   (c) a notice may be given to the Registrar under section 29 to cancel the registration of the audit firm.
 (2) If a licensed auditor fails to comply with a direction given to him or her under section 70,—
-  (a) he or she commits an offence and is liable on summary conviction to a fine not exceeding $25,000; and
+  (a) he or she commits an offence and is liable on conviction to a fine not exceeding $25,000; and
   (b) the FMA may make an order that his or her licence be—
     (i) suspended for the period that the FMA thinks fit; or
     (ii) cancelled.
@@ -846,7 +843,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (2) An accredited body commits an offence if the accredited body—
   (a) fails to comply with subsection (1); or
   (b) otherwise hinders, obstructs, or delays the FMA in carrying out an investigation.
-(3) An accredited body that commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $100,000.
+(3) An accredited body that commits an offence under subsection (2) is liable on conviction to a fine not exceeding $100,000.
 
 ### 78 Disciplinary powers of FMA
 (1) The FMA may, after acting under section 75, make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more issuer audits carried out by the licensed auditor are not being, or have not been, carried out—
@@ -1044,7 +1041,7 @@ Nothing in section 8 or 9 applies to the Auditor-General (and, accordingly, the 
     (i) contains any declaration or representation that is false or misleading in any material particular; or
     (ii) is not genuine.
 (2) In subsection (1), specified body means an accredited body, the Registrar, or the FMA.
-(3) A person who is convicted of an offence under subsection (1) is liable on summary conviction to a fine not exceeding $50,000.
+(3) A person who is convicted of an offence under subsection (1) is liable on conviction to a fine not exceeding $50,000.
 
 ## Schedule  — Amendments to other Acts relating to auditor regulation
 
