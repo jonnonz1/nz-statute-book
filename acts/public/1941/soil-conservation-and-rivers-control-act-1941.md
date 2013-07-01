@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -270,7 +270,7 @@ When any party to the appeal notifies the Registrar of the High Court in Welling
     (ii) that any application lodged under section 33E has been heard and that any order under that section has been complied with,—
 
 ### 33J Appeals to Court of Appeal
-The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under section 33B as if the determination were made under section 107 of the Summary Proceedings Act 1957.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a determination of the High Court under section 33B as if the determination had been made under section 300 of that Act.
 
 ## Part 2 — Catchment districts
 
@@ -401,13 +401,13 @@ The following persons shall not be capable of being elected or appointed as a me
   (c) is or becomes, due to disability, unable to carry out his or her duties as a member; or
   (d) is convicted of any offence punishable by death or imprisonment for a term of 2 years or more; or
   (e) is absent without leave from 4 consecutive meetings of the Board.
-(2) In any case to which subsection (1)(d) applies—
+(2) In any case to which subsection (1)﻿(d) applies—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against conviction and, in the event of an appeal against conviction, until the appeal is determined; and
   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
-(3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
+(3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)﻿(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on conviction to a fine not exceeding $100.
 (4) For the purposes of subsection (1)—
-  (a) disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993; and
-  (b) a person who becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)(c) (whether or not the person has a disability).
+  (a) disability has the meaning given by section 21(1)﻿(h) of the Human Rights Act 1993; and
+  (b) a person who becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)﻿(c) (whether or not the person has a disability).
 
 ### 56 Filling of extraordinary vacancies
 (1) In the event of an extraordinary vacancy in the office of a representative of any constituent district on the Board, the local authority of that district shall forthwith appoint some person in his place as a representative of that district.
@@ -688,7 +688,7 @@ Notwithstanding anything to the contrary in any other enactment, where (before o
 ### 113 Collectors to pay over moneys
 (1) Every collector appointed or employed by any Board under this Act to collect any rate shall, within 7 days after he has received any moneys on account of any such rate, pay over the same to the Board, or in such manner as the Board directs.
 (2) He shall also render to the Board, within such time and in such manner as it directs, true and faithful accounts in writing under his hand of all moneys received by him, and of all moneys paid over by him, under this Act, and also a list of the names of all persons who have failed to pay any rate or money owing to the Board, with a statement of the moneys due from such persons respectively, and of the several periods and rates for or on account of which the same are due respectively.
-(3) If any such collector fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or fails, for 5 days after being thereunto required by any officer of the Board, to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter in a summary way, and may order such collector to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such collector fails to obey such order he may by those Justices or any 2 other Justices be committed to prison for any period not exceeding 6 months.
+(3) If any such collector fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or fails, for 5 days after being thereunto required by any officer of the Board, to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter, and may order such collector to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such collector fails to obey such order he may by those Justices or any 2 other Justices be committed to prison for any period not exceeding 6 months.
 (4) No such proceeding against or dealing with any collector as aforesaid shall deprive the Board of any remedy it may otherwise have against the collector or any surety for the collector.
 
 ### 113A Remuneration, etc, of assessors
@@ -940,16 +940,16 @@ Any Board may purchase or otherwise acquire (but not by compulsory taking) any l
 
 ### 154 Damage to watercourses and works
 (1) Every person who, without the written approval of the Minister or Board concerned, wilfully destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board, or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, wilfully destroys or damages any plantation or work under the control of the Minister or of any Board, commits an offence and is liable to a fine not exceeding $10,000.
-(2) Every person who, without the written approval of the Minister or Board concerned, destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, destroys or damages any plantation or work under the control of the Minister or of any Board or who allows any animal which he owns or has under his control to damage or destroy any tree, shrub, or plant forming part of a defence against water, being a defence that is under the control of the Minister, Board, whether or not he has been guilty of an offence against this section, shall be liable to pay to the Minister or to the Board, as the case may be, the whole cost of restoring or repairing the damage or injury; and the amount thereof shall be recoverable as a debt due to the Minister or to the Board as the case may be.
+(2) Every person who, without the written approval of the Minister or Board concerned, destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, destroys or damages any plantation or work under the control of the Minister or of any Board or who allows any animal which he owns or has under his control to damage or destroy any tree, shrub, or plant forming part of a defence against water, being a defence that is under the control of the Minister or the Board, whether or not he has been guilty of an offence against this section, shall be liable to pay to the Minister or to the Board, as the case may be, the whole cost of restoring or repairing the damage or injury; and the amount thereof shall be recoverable as a debt due to the Minister or to the Board as the case may be.
 
 ### 155 Interfering with watercourses
 [Repealed]
 
 ### 156 Offences punishable summarily
-All proceedings in respect of offences against this Act or against any regulations or bylaws made under this Act shall, unless the contrary is expressed, be taken in a summary way under the Summary Proceedings Act 1957.
+[Repealed]
 
 ### 157 Time for prosecutions
-Section 14 of the Summary Proceedings Act 1957 shall not apply with respect to any prosecution for an offence against this Act or against any regulation made under Part 1 of this Act.
+Section 25 of the Criminal Procedure Act 2011 shall not apply with respect to any prosecution for an offence against this Act or against any regulation made under Part 1 of this Act.
 
 **Legal proceedings**
 
