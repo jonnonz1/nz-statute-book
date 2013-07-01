@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato continue the Maritime Safety Authority of New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment
 
@@ -263,7 +263,7 @@ Every person, other than a participant (within the meaning of section 17), who�
   (a) the breach of any prescribed requirement as to the seaworthiness of a ship; or
   (b) the operation of a ship by a person who does not hold the appropriate maritime document; or
   (c) the operation of a ship by a person who does not have authority to operate that ship.
-(4) Every master commits an offence and is liable to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with subsection (1)(d).
+(4) Every master commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with subsection (1)(d).
 
 ### 20 Duty to report dismissals
 (1) The employer of any seafarer on a New Zealand ship shall report to the Director any dismissal from employment of a seafarer that is a dismissal related to violence, alcohol, the use, supply, or possession of controlled drugs (as defined in the Misuse of Drugs Act 1975), or the misuse of prescription medicines (as defined in the Medicines Act 1981).
@@ -328,7 +328,7 @@ Without limiting section 54, the Director shall, upon receipt of a written compl
 
 ### 27 Prohibition on receiving remuneration for placing seafarers in employment
 (1) No person shall carry on for pecuniary gain, directly or indirectly, any undertaking in relation to the finding of employment for seafarers (other than persons to be employed or engaged in fishing within the meaning of the Fisheries Act 1996 and masters) on any ship nor shall any person charge, directly or indirectly, any fees for finding employment for such seafarers on any ship.
-(2) Every person commits an offence and is liable to a fine not exceeding $200 who acts in contravention of subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $200 who acts in contravention of subsection (1).
 
 **Liens on ships by crew and masters**
 
@@ -371,14 +371,14 @@ Every employer of seafarers on a New Zealand ship shall maintain (in a form appr
   (b) the master is informed that 1 or more ships have been requisitioned and are complying with the requisition.
 (4) Neither paragraph (a) of subsection (2) nor, if the ship has been requisitioned, paragraph (b) of that subsection, shall apply if the master is informed by the persons in distress or by the master of another ship which has reached the persons that assistance is no longer necessary.
 (5) The master of a New Zealand ship that is required to carry a logbook shall enter in the logbook a record of every distress signal received and any reason for failing to go to the assistance of persons in distress in accordance with subsection (3)(a).
-(6) Every person commits an offence who fails to comply with this section and is liable to—
+(6) Every person commits an offence who fails to comply with this section and is liable on conviction to—
   (a) imprisonment to a term not exceeding 12 months; or
   (b) a fine not exceeding $100,000; or
   (c) both.
 
 ### 33 Reporting of dangers to navigation
 (1) The master of a New Zealand ship and the master of a foreign ship in New Zealand waters shall report to ships in the vicinity, and the nearest radio communication station with which it is possible for the ship to communicate, any danger to navigation, including the failure or displacement of any navigational aid.
-(2) Every person commits an offence and is liable to a fine not exceeding $10,000 who fails, without reasonable excuse, to comply with this section.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails, without reasonable excuse, to comply with this section.
 
 ## Part 4 — Further regulation of maritime activity
 
@@ -459,7 +459,7 @@ Every employer of seafarers on a New Zealand ship shall maintain (in a form appr
 
 ### 38 Contravention of emergency maritime rule
 (1) Every person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with any emergency maritime rule made under section 37.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
@@ -699,7 +699,7 @@ For the purposes of granting or renewing maritime documents in respect of person
 (1) No person shall employ on board a New Zealand ship, or any ship involved in coastal shipping under section 198, a person who has been suspended under section 52.
 (2) No person who has been suspended under section 52 shall offer himself or herself for employment on board a New Zealand ship, or any ship involved in coastal shipping under section 198.
 (3) Every person commits an offence who, without reasonable excuse, contravenes this section.
-(4) Every person who commits an offence against subsection (3) is liable,—
+(4) Every person who commits an offence against subsection (3) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -735,7 +735,7 @@ For the purposes of granting or renewing maritime documents in respect of person
 (7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
 (8) For the purpose of subsection (1), the Director shall notify any prohibitions or conditions to such persons as he or she considers necessary by such means of communication, whether or not of a permanent nature, as the Director considers appropriate in the circumstances.
 (9) Every person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with any prohibition or condition notified under this section.
-(10) Every person who commits an offence against subsection (9) is liable,—
+(10) Every person who commits an offence against subsection (9) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -779,7 +779,7 @@ For the purposes of granting or renewing maritime documents in respect of person
   (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
   (c) a record, book, graph, or drawing; and
   (d) a photograph, film, negative, tape, disk, or other device in which 1 or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
-(5) A person who fails without reasonable cause to comply with a requirement made under subsection (1) commits an offence and is liable to a fine not exceeding $1,000.
+(5) A person who fails without reasonable cause to comply with a requirement made under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 59 Additional powers of investigation
 Without limiting the powers conferred by section 58, for the purpose of exercising any of the functions, duties, or powers of the Director under this Act, the Director and any person authorised in writing for the purpose by the Director shall, in addition to any other powers conferred by this Act, have power to do the following:
@@ -826,7 +826,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 
 ### 64 Unnecessary danger caused by holder of maritime document
 (1) Every holder of a maritime document commits an offence who, in respect of any activity or service to which the document relates, does or omits to do any act, or causes or permits any act or omission, if the act or omission causes unnecessary danger or risk to any other person or to any property, irrespective of whether or not in fact any injury or damage occurs.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
@@ -838,13 +838,13 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 (2) Every person commits an offence who—in a manner which causes unnecessary danger or risk to any other person or to any property, irrespective of whether or not in fact any injury or damage occurs.
   (a) causes or permits any ship or maritime product to be operated, maintained, or serviced; or
   (b) causes or permits any other act to be done in respect of any ship or maritime product,—
-(3) Every person who commits an offence against subsection (1) or subsection (2) is liable,—
+(3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
 
 ### 65A Proceeding without pilot contrary to maritime rules or direction given under section 60A
-(1) If a ship proceeds without a pilot in contravention of section 60A, the owner and master of the ship each commits an offence and is liable,—
+(1) If a ship proceeds without a pilot in contravention of section 60A, the owner and master of the ship each commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
@@ -856,7 +856,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 
 ### 67 Communicating false information affecting safety
 (1) Every person commits an offence who by any means provides to another person information relating to the safety of a ship, maritime product, or any other facility or product used in or connected with maritime activities, or any person associated therewith, knowing the information to be false or in a manner reckless as to whether it is false.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) Where the commission of an offence against subsection (1) causes financial loss to any person and the court imposes a fine under subsection (2) in respect of that offence, the court may order that such part of the fine as it thinks fit, but in any event not more than one-half of the fine, be awarded to that person.
@@ -870,7 +870,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 (2) Every person commits an offence who—any ship or maritime product knowing that a current maritime document is required to be held in respect of that ship or product before that act may lawfully be done and knowing that the appropriate document is not held.
   (a) operates, maintains, or services; or
   (b) does any other act in respect of—
-(3) Every person who commits an offence against subsection (1) or subsection (2) is liable,—
+(3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
@@ -880,7 +880,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 
 ### 69 Applying for maritime document while disqualified
 (1) Every person commits an offence who applies for or obtains a maritime document while disqualified by an order of a court from obtaining such a document and any such document so obtained shall be of no effect.
-(2) Every person who commits an offence against subsection (1) is liable,—and the court may order the person to be disqualified from holding or obtaining a maritime document for such period not exceeding 12 months as the court thinks fit.
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—and the court may order the person to be disqualified from holding or obtaining a maritime document for such period not exceeding 12 months as the court thinks fit.
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000;—
 
@@ -888,17 +888,17 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 
 ### 70 Failure to comply with inspection or audit request
 (1) Every person commits an offence who, without reasonable excuse, fails to comply with any requirement of the Director under subsection (1) or subsection (3) of section 54.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued:
   (b) in the case of a body corporate, to a fine not exceeding $100,000 and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence is continued:
   (c) in any case, to an additional penalty under section 409.
 
 ### 71 Failure to comply with Part 3
 (1) Every person commits an offence who, without reasonable excuse, contravenes or fails to comply with any provision of any of sections 20, 21, 22, 23, 25, 30, and 31.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
-(3) Every person commits an offence and is liable to a fine not exceeding $1,000 who, without reasonable excuse, contravenes or fails to comply with any provision of section 26.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse, contravenes or fails to comply with any provision of section 26.
 
 **Penalties**
 
@@ -937,9 +937,9 @@ Where an order is made by a court disqualifying any person for a period from hol
 Where a court makes an order under section 73 or section 77, the Registrar of the court shall send to the Director particulars of the order.
 
 ### 79 Appeals
-(1) For the purposes of Part 4 of the Summary Proceedings Act 1957, an order of a District Court by which any person is disqualified from holding or obtaining a maritime document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
-(2) Any person whose application under section 77 to the District Court is refused may appeal against the refusal to the High Court, and in any such case the provisions of Part 4 of the Summary Proceedings Act 1957 shall, with the necessary modifications, apply.
-(3) Any person whose application under section 77 to the High Court is refused may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the refusal, and in any such case the provisions of subsections (3) to (5) of section 379A of the Crimes Act 1961 shall, with the necessary modifications, apply as if it were an appeal under that section.
+(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of a District Court by which any person is disqualified from holding or obtaining a maritime document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
+(2) Any person whose application under section 77 to the District Court is refused may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
+(3) Any person whose application under section 77 to the High Court is refused may appeal to the Court of Appeal against the refusal in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (4) Where application is made to the Court of Appeal for leave to appeal to that court against a sentence of the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the appeal.
 (5) Where an appeal to the High Court or Court of Appeal is allowed under this section, whether in whole or in part, the Registrar of the High Court shall send notice thereof to the Director who shall have a right to appear and be heard in respect of the matter.
 (6) In determining the expiration of the period for which a person is disqualified from holding or obtaining a maritime document, any time during which the operation of the relevant order is deferred under this section shall be disregarded.
@@ -1283,10 +1283,10 @@ In this Part, unless the context otherwise requires,—
 (3) In this section, the term goods includes any part of any ship or aircraft and the cargo, machinery, and equipment thereof, and any other property belonging thereto.
 
 ### 127 Penalties
-(1) Every person who commits an offence against section 100 or section 100A or section 101 is liable,—
+(1) Every person who commits an offence against section 100 or section 100A or section 101 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
-(2) Every person who commits an offence against section 105 is liable to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence is continued.
+(2) Every person who commits an offence against section 105 is liable on conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence is continued.
 
 ## Part 10 — Construction, survey, and equipment
 
@@ -1480,15 +1480,15 @@ In this Part, unless the context otherwise requires,—
 ## Part 13 — Transitional provisions relating to Parts 10 to 12
 
 ### 185 Penalties
-(1) Every person who commits an offence against any of sections 131, 132, and 171 shall be liable to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence is continued.
-(2) Every person who commits an offence against any of sections 133, 136, 144, 146, 155, 161, and 173 is liable,—
+(1) Every person who commits an offence against any of sections 131, 132, and 171 shall be liable on conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence is continued.
+(2) Every person who commits an offence against any of sections 133, 136, 144, 146, 155, 161, and 173 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(3) Every person who commits an offence against any of sections 147, 170(3), 174(5), 175(3), 176(3), 178, 180, 181, 183, and 184 is liable,—
+(3) Every person who commits an offence against any of sections 147, 170(3), 174(5), 175(3), 176(3), 178, 180, 181, 183, and 184 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
-(4) Every person who commits an offence against section 151 or section 164(3) is liable to a fine not exceeding $2,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence is continued.
-(5) Every person who commits an offence against section 172(2) is liable to a fine not exceeding $10,000.
+(4) Every person who commits an offence against section 151 or section 164(3) is liable on conviction to a fine not exceeding $2,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence is continued.
+(5) Every person who commits an offence against section 172(2) is liable on conviction to a fine not exceeding $10,000.
 
 ### 186 Documents issued under Parts 10 to 12
 Every licence, certificate, permit, authorisation, approval, or other document issued, recognised, or accepted by the Director under any of Parts 10, 11, and 12 shall be deemed to be a maritime document issued, recognised, or accepted, as the case may be, under this Act, and shall accordingly have effect and be subject to the provisions of this Act or regulations or rules made under this Act.
@@ -1595,7 +1595,7 @@ Every person who receives any marine safety charge shall, on demand, issue to th
 (3) Every person commits an offence who—
   (a) carries coastal cargo in contravention of this section; or
   (b) contravenes or fails to comply with any condition imposed under subsection (2).
-(4) Every person who commits an offence against subsection (3) is liable,—
+(4) Every person who commits an offence against subsection (3) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (5) Nothing in this section shall limit any other provision of this Act or any other Act, or any regulations or maritime rules made under this Act.
@@ -2016,7 +2016,7 @@ Where any notice is given under any of sections 227, 228, 229, 230, and 299—
   (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
   (c) a record, book, graph, or drawing; and
   (d) a photograph, film, negative, tape, disk, or other device in which 1 or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
-(6) A person who fails without reasonable cause to comply with a requirement made under subsection (2) commits an offence and is liable to a fine not exceeding $1,000.
+(6) A person who fails without reasonable cause to comply with a requirement made under subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 235A Additional powers of Director
 For the purposes of an investigation under section 235, but without limiting the powers conferred by that section, the Director (or a person authorised for the purpose by the Director) may—
@@ -2075,7 +2075,7 @@ It shall be a defence to proceedings for an offence against section 237 if the d
 **Penalties**
 
 ### 244 Penalties in respect of sections 237, 238, 239, and 242
-(1) Subject to subsection (2), every person who commits an offence against section 237 is liable—
+(1) Subject to subsection (2), every person who commits an offence against section 237 is liable on conviction—
   (a) to imprisonment for a term not exceeding 2 years or a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued; and
   (b) to pay such amount as the court may assess in respect of the costs incurred in respect of or associated with removing, containing, rendering harmless, or dispersing any harmful substance discharged as a result of the offence; and
   (c) to an additional penalty under section 409.
@@ -2087,13 +2087,13 @@ It shall be a defence to proceedings for an offence against section 237 if the d
   (b) in any other case,—
     (i) that the person intended to commit the offence, or the offence occurred as a consequence of any reckless act or omission by the person with the knowledge that that act or omission would or would be likely to cause serious damage to the marine environment; and
     (ii) that the commission of the offence has caused or is likely to cause serious damage to the marine environment.
-(3) Every person who commits an offence against section 238 or section 239 or section 242 is liable,—
+(3) Every person who commits an offence against section 238 or section 239 or section 242 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued:
   (b) in the case of a body corporate, to a fine not exceeding $100,000 and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence is continued:
   (c) in the case of an individual who, or a body corporate that, commits an offence against section 238, to an additional penalty under section 409.
 
 ### 245 Penalties in respect of sections 240 and 241
-Every person who commits an offence against section 240 or section 241 is liable,—
+Every person who commits an offence against section 240 or section 241 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence is continued:
   (b) in the case of a body corporate, to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
@@ -2175,7 +2175,7 @@ Every person shall comply with the instructions given by the Director under sect
   (c) wilfully obstructs the Director in carrying out any of the powers conferred on the Director by either of those sections.
 (2) It shall be a defence to proceedings for an offence against this section to prove that the action, or failure to act, which is alleged to constitute the offence resulted from the need to save life at sea.
 (3) It shall be an additional defence to an offence against subsection (1)(a) to prove that the person charged complied as promptly as possible with the instructions.
-(4) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 and, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day on which the offence is continued.
+(4) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 and, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day on which the offence is continued.
 (5) The court shall not sentence to imprisonment any person who commits an offence against this section unless the court is satisfied that—
   (a) either—
     (i) the person intended to commit the offence; or
@@ -2322,7 +2322,7 @@ In any prosecution for an offence against section 264, it is a defence if the de
 **Penalties**
 
 ### 266 Penalties
-Subject to section 267, every person who commits an offence against section 263 or section 264 is liable—
+Subject to section 267, every person who commits an offence against section 263 or section 264 is liable on conviction—
   (a) to a fine not exceeding $200,000; and
   (b) if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued; and
   (c) for such amount as the court may assess in respect of the costs of all or any of the following, namely, removing or dispersing, or disposing of, any waste or other matter to which the offence relates; and
@@ -2480,12 +2480,12 @@ Every person commits an offence who—a ship or marine protection product if the
 **Penalties**
 
 ### 279 Penalties for individuals
-Every individual who commits an offence against section 277 or section 278 is liable—
+Every individual who commits an offence against section 277 or section 278 is liable on conviction—
   (a) to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000; and
   (b) to an additional penalty under section 409.
 
 ### 280 Penalties for bodies corporate
-Every body corporate that commits an offence against section 277 or section 278 is liable—
+Every body corporate that commits an offence against section 277 or section 278 is liable on conviction—
   (a) to a fine not exceeding $100,000; and
   (b) to an additional penalty under section 409.
 
@@ -2733,7 +2733,7 @@ Every person (being a master of a ship or a person who is responsible for implem
 Every person commits an offence who, without reasonable excuse, fails to comply with any prohibition, restriction, or direction under section 305.
 
 ### 317 Penalties
-Every person who commits an offence against section 314 or section 315 or section 316 is liable,—
+Every person who commits an offence against section 314 or section 315 or section 316 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in any other case, to a fine not exceeding $100,000.
 
@@ -2908,7 +2908,7 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
 
 ### 340 Offences against this Part
 (1) Every person commits an offence who contravenes or fails to comply with any obligation or requirement imposed on him or her by this Part or by any order made under section 333.
-(2) Every person who commits an offence under this section is liable,—
+(2) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in any other case, to a fine not exceeding $50,000.
 
@@ -3116,9 +3116,9 @@ The master of a regulated oil tanker or regulated ship, in New Zealand marine wa
 (4) Nothing in this section shall prejudice any claim, or the enforcement of any claim, by any person against the owner of a regulated oil tanker, regulated ship, or regulated offshore installation, as the case may be, in respect of pollution damage.
 
 ### 367 Offences
-(1) The owner and the master of a regulated oil tanker or of a regulated ship each commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000, if, without reasonable excuse, the regulated oil tanker or regulated ship, as the case may be, enters or leaves, or attempts to enter or leave, a port in New Zealand or in New Zealand marine waters in breach of section 363.
-(2) The master of a regulated oil tanker or a regulated ship, in New Zealand marine waters, commits an offence and is liable to a fine not exceeding $10,000, if, without reasonable excuse, the regulated oil tanker or the regulated ship fails to carry, or the master fails to produce, the certificate of insurance required by section 363 to be carried.
-(3) The owner and person in charge of a regulated offshore installation each commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine of $200,000, if, without reasonable excuse, a current certificate of insurance issued under the marine protection rules is not for the time being in force in respect of the regulated offshore installation.
+(1) The owner and the master of a regulated oil tanker or of a regulated ship each commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000, if, without reasonable excuse, the regulated oil tanker or regulated ship, as the case may be, enters or leaves, or attempts to enter or leave, a port in New Zealand or in New Zealand marine waters in breach of section 363.
+(2) The master of a regulated oil tanker or a regulated ship, in New Zealand marine waters, commits an offence and is liable on conviction to a fine not exceeding $10,000, if, without reasonable excuse, the regulated oil tanker or the regulated ship fails to carry, or the master fails to produce, the certificate of insurance required by section 363 to be carried.
+(3) The owner and person in charge of a regulated offshore installation each commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine of $200,000, if, without reasonable excuse, a current certificate of insurance issued under the marine protection rules is not for the time being in force in respect of the regulated offshore installation.
 
 **Miscellaneous**
 
@@ -3448,16 +3448,16 @@ Every person commits an offence who, without reasonable excuse, acts in contrave
 **Penalties**
 
 ### 402 Penalties in respect of section 399
-Every person who commits an offence against section 399 is liable,—
+Every person who commits an offence against section 399 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued:
   (b) in the case of a body corporate, to a fine not exceeding $100,000 and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence is continued.
 
 ### 403 Penalties in respect of sections 400 and 401
-(1) Every person who commits an offence against section 400 is liable,—
+(1) Every person who commits an offence against section 400 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
-(2) Every person who commits an offence against section 401 is liable,—
+(2) Every person who commits an offence against section 401 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
@@ -3482,20 +3482,20 @@ Every person commits an offence who,—
   (c) being the holder of a maritime document, or the holder of a document recognised as a maritime document, fails, without reasonable excuse, to provide to the Authority or the Director information known to that person which is relevant to the condition specified in section 41(5).
 
 ### 407 Penalties
-(1) Every person who commits an offence against section 404 is liable,—
+(1) Every person who commits an offence against section 404 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
-(2) Every person who commits an offence against section 405 is liable,—
+(2) Every person who commits an offence against section 405 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
-(3) Every person who commits an offence against section 406 is liable,—
+(3) Every person who commits an offence against section 406 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
 **General provisions in respect of offences**
 
 ### 408 Offences to be punishable on summary conviction
-Subject to section 422(2), every offence against this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 409 Additional penalty for offence involving commercial gain
 (1) In addition to any other penalty the court may impose under this Act, the court may, on convicting any person of an offence against section 64 or section 65 or section 68 or section 70 or section 237 or section 238 or section 263 or section 264 or section 277 or section 278 or section 400, order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of that offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
@@ -3516,18 +3516,19 @@ Subject to section 422(2), every offence against this Act shall be punishable on
   (b) that he or she knew or could reasonably be expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 411 Limitation of proceedings
-(1) Subject to subsection (2) and to any special provisions of this Act, no person shall be charged with an offence against this Act unless an information charging that person with that offence is laid within 6 months after the matter arose.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, the period of 6 months shall not run while the person charged is beyond the limits and territorial sea of New Zealand.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence was committed.
+(2) The period of 6 months does not run while the person charged is beyond the limits and territorial sea of New Zealand.
+(3) Subsection (1) is subject to subsection (2) and to any special provisions of this Act.
 
 ### 412 Proof of exemption, etc
-Any exception, exemption, proviso, excuse, or qualification in relation to any offence against this Act or any rules or regulations under this Act, whether it does or does not accompany in the same section the description of the offence, may be proved by the defendant, but need not be specified or negatived in any information and, if so specified or negatived, no proof in relation to the matter so specified or negatived shall be required on the part of the informant.
+Any exception, exemption, proviso, excuse, or qualification in relation to any offence against this Act or any rules or regulations under this Act, whether it does or does not accompany in the same section the description of the offence, may be proved by the defendant, but need not be specified or negatived in any charge and, if so specified or negatived, no proof in relation to the matter so specified or negatived shall be required on the part of the prosecutor.
 
 ### 413 Place where offences deemed to be committed
 For the purpose of giving jurisdiction under this Act, every offence shall be deemed to have been committed either in the place in which the same actually was committed or in any place in which the offender may be.
 
 ### 414 Presumption as to master of ship
-(1) Where, in any proceedings for an offence against this Act or any regulations made under this Act, the informant alleges in any information that any person was, or was not, the master of any ship at any specified time, the allegation shall be presumed to be true in the absence of proof to the contrary.
-(2) The presumption in subsection (1) shall apply whether or not separate or further evidence is adduced by or on behalf of the informant in support of the relevant allegation or presumption.
+(1) Where, in any proceedings for an offence against this Act or any regulations made under this Act, the prosecutor alleges in any charge that any person was, or was not, the master of any ship at any specified time, the allegation shall be presumed to be true in the absence of proof to the contrary.
+(2) The presumption in subsection (1) shall apply whether or not separate or further evidence is adduced by or on behalf of the prosecutor in support of the relevant allegation or presumption.
 
 ### 415 Offences committed in foreign ports or on high seas by seafarers of New Zealand ships
 (1) Whenever any complaint is made to any proper officer in a foreign country—that proper officer may inquire into the case upon oath or affirmation, and may, if the case so requires, take any measures in his or her power for the purpose of placing the person alleged to have committed the offence under the necessary restraint and of sending that person as soon as practicable in safe custody to New Zealand or, if any court in a country other than New Zealand is capable of taking cognisance of that offence, to that country.
@@ -3549,14 +3550,14 @@ Compliance with any rule or regulation made under this Act shall not excuse the 
   (b) any rule purporting to have been made by the Director under section 37 or section 391—
 
 ### 418 Mode of service of summons on master or owner
-(1) Where the master or owner of a ship is a defendant in any prosecution for an offence against any provision of this Act, then, notwithstanding any enactment, service on the defendant of any summons or other document shall be deemed to be effected for the purposes of the Summary Proceedings Act 1957—
+(1) Where the master or owner of a ship is a defendant in any prosecution for an offence against any provision of this Act, then, notwithstanding any enactment, service on the defendant of any summons or other document shall be deemed to be effected for the purposes of the Criminal Procedure Act 2011—
   (a) by being delivered personally to the agent of the ship on behalf of the defendant or being brought to the notice of that agent if that agent refuses to accept it on behalf of the defendant; or
   (b) by being sent to the agent of the ship, by registered letter addressed to that agent on behalf of the defendant at that agent’s last known or usual place of residence or that agent’s place of business.
-(2) A District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with section 24 of the Summary Proceedings Act 1957, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
+(2) A District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with rules made under the Criminal Procedure Act 2011, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
 (3) Unless the contrary is shown, the time at which service shall be deemed to have been effected on the defendant shall be,—
   (a) where service is effected in accordance with subsection (1)(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent’s attention, as the case may be; or
   (b) where service is effected in accordance with subsection (1)(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post; and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
-(4) In this section, District Court Judge, Justice, and Registrar have the same meanings as in the Summary Proceedings Act 1957.
+(4)
 (5) Nothing in this section limits anything in section 458.
 
 ### 419 Proceedings for offences
@@ -3579,7 +3580,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
 ### 422 Infringement offences
 (1) In this Act, infringement offence means an offence specified as such in this Act or regulations made under this Act.
 (2) Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the alleged offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 423.
 
 ### 423 Infringement notices
@@ -3589,7 +3590,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to him or her at his or her last known place of residence or business; or
   (c) where the person is a holder of a maritime document or marine protection document, by serving it by post on that person at his or her last address for service provided under section 35 or section 269.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+(3) An infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
 (4) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee for that offence:
@@ -3939,10 +3940,10 @@ Where for the purposes of this Act any document is to be served on, or any notic
 (3) An order for the detention of a ship under this section shall be directed to the Director, the chief executive of the New Zealand Customs Service, or other officer named in the order, requiring him or her to detain the ship until the judgment or order of the court has been satisfied.
 
 ### 460 Enforcing detention of ships
-(1) Where under this Act a ship is to be or may be detained, the Director, the chief executive of the New Zealand Customs Service, or any person to whom an order for detention made by any court or Judge under powers conferred by this Act is directed, may detain the ship; and if, after detention or after service on the master of any notice of or order for detention, the ship proceeds to sea before it is released by competent authority, the master and the owner, and also any person who sends the ship to sea if he or she is a party or privy to the offence, each commits an offence and shall be liable,—
+(1) Where under this Act a ship is to be or may be detained, the Director, the chief executive of the New Zealand Customs Service, or any person to whom an order for detention made by any court or Judge under powers conferred by this Act is directed, may detain the ship; and if, after detention or after service on the master of any notice of or order for detention, the ship proceeds to sea before it is released by competent authority, the master and the owner, and also any person who sends the ship to sea if he or she is a party or privy to the offence, each commits an offence and shall be liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(2) If a ship proceeds to sea while there is on board any person who is detaining the ship under this Act, the owner and the master of the ship each commits an offence against this Act and shall, in addition to the liability he or she incurs under subsection (1), be liable in respect of each offence,—
+(2) If a ship proceeds to sea while there is on board any person who is detaining the ship under this Act, the owner and the master of the ship each commits an offence against this Act and shall, in addition to the liability he or she incurs under subsection (1), be liable on conviction in respect of each offence,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) Where under this Act a ship is to be detained, a Customs officer shall, and, where under this Act a ship may be detained, a Customs officer may, refuse to grant a clearance to that ship.
@@ -4408,39 +4409,3 @@ Despite the commencement of this Act, if any event giving rise to liability unde
 (2) If a notice to make a rule has been published under section 446(a) of the principal Act as in force immediately before the commencement of this Act, but has not been made before that commencement,—
   (a) the proposed rule may be made in accordance with the law in force immediately before that commencement; or
   (b) if the Minister so directs, a new rule may be prepared, notified, and made in accordance with the law in force on the commencement of this Act.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
