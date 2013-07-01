@@ -1,5 +1,5 @@
 # Cluster Munitions Prohibition Act 2009
-_Consolidation as at 2010-08-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Cluster Munitions Prohibition Act 2009.
@@ -104,7 +104,7 @@ This Act binds the Crown.
 (3) A member of the Armed Forces also commits an offence if he or she expressly requests the use of cluster munitions when—
   (a) he or she is engaged in operations, exercises, or other military activities with the armed forces of a State that is not a party to the Convention; and
   (b) the choice of munitions used is within the exclusive control of the Armed Forces.
-(4) A person who commits an offence against subsection (1), (2), or (3) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000, or both.
+(4) A person who commits an offence against subsection (1), (2), or (3) is liable on conviction to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000, or both.
 (5) Subsection (1) is subject to section 11.
 (6) This section does not limit any of the following:
   (a) the Anti-Personnel Mines Prohibition Act 1998:
@@ -174,7 +174,7 @@ The purpose of this subpart is to ensure—
   (c) prepare from those records, and send to the chief executive, periodic reports relating to the cluster munition that are sufficient to enable the Minister to determine whether the Convention, the provisions of this Act, and any regulations made under this Act are being complied with.
 (2) A person commits an offence who, without reasonable excuse, refuses or fails to comply with subsection (1).
 (3) A person commits an offence who, in any document prepared under subsection (1), makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
-(4) A person who commits an offence against subsection (2) or (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+(4) A person who commits an offence against subsection (2) or (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
 (5) Nothing in this section applies to a person whose conduct in relation to a cluster munition is, by reason of section 11(5), not an offence against this Act.
 
 ### Subpart 4 — Miscellaneous provisions
@@ -188,7 +188,7 @@ The purpose of this subpart is to ensure—
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Convention:
   (b) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act:
-  (c) prescribing penalties on summary conviction not exceeding $5,000 for offences against regulations made under this Act:
+  (c) prescribing penalties on conviction not exceeding $5,000 for offences against regulations made under this Act:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making any amendments to the text of the Convention set out in the Schedule as are required to bring it up to date:
