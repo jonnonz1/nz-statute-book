@@ -1,5 +1,5 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
@@ -79,7 +79,7 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 
 ### 9 Owner of submarine cable or pipeline that has ceased to be used to notify Minister
 (1) The owner of a submarine cable or submarine pipeline, as the case may be, shall, immediately after the use of the submarine cable or submarine pipeline has ceased, notify the Minister in writing that the cable or pipeline has ceased to be used.
-(2) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 10 District Court may order removal of abandoned submarine cable or pipeline
 (1) On the application of the Minister, a District Court may order that a submarine cable or submarine pipeline, or part of the cable or pipeline, that, in its opinion,—be removed by the owner of the submarine cable or submarine pipeline, at the owner's expense, from the territorial sea of New Zealand or the internal waters of New Zealand, as the case may be, within such time and in accordance with such conditions as may be specified in the order.
@@ -92,7 +92,7 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 **Offence to damage submarine cable or pipeline**
 
 ### 11 Offence to damage submarine cable or pipeline
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $250,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $250,000 who—
   (a) wilfully or negligently either damages, or causes or permits a ship or equipment belonging to a ship to damage, a submarine cable or submarine pipeline; or
   (b) is the owner or master of a ship that is used in the commission of an offence against paragraph (a).
 (2) An owner or master of a ship who is convicted of an offence against paragraph (a) of subsection (1) is not liable for an offence against paragraph (b) of that subsection arising out of the same course of conduct.
@@ -129,10 +129,10 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 (9) Subsections (2), (3), and (5) apply, with such modifications as may be necessary, to the making of a declaration under subsection (6).
 
 ### 13 Offences in respect of protected areas
-(1) Subject to subsection (3), if—the owner and the master of the ship each commits an offence and is each liable on summary conviction to the appropriate penalty under section 15.
+(1) Subject to subsection (3), if—the owner and the master of the ship each commits an offence and is each liable on conviction to the appropriate penalty under section 15.
   (a) fishing operations are conducted from a ship in an area declared to be a protected area in respect of that ship under section 12(1); or
   (b) a ship is anchored in any such area—
-(2) Subject to subsection (3), every person who fails to comply with, or acts in contravention of, an Order in Council under section 12(1) commits an offence and is liable on summary conviction to the appropriate penalty under section 15.
+(2) Subject to subsection (3), every person who fails to comply with, or acts in contravention of, an Order in Council under section 12(1) commits an offence and is liable on conviction to the appropriate penalty under section 15.
 (3) A person is not liable for an offence against this section involving a ship to which a notice under section 12(6) applies.
 (4) Where in proceedings for an offence against this section, an enforcement officer or a protection officer gives evidence that he or she observed—it shall be presumed that, in the absence of evidence to the contrary, fishing operations were being conducted from the ship or the ship was anchored, as the case may be.
   (a) a net, line, rope, chain, or any other thing used in connection with fishing operations being towed by, or operated or suspended from, a ship; or
@@ -146,7 +146,7 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 (2) It is a defence to a prosecution for an offence against section 13 if the defendant proves that the defendant took all reasonable steps to prevent the commission of the offence.
 
 ### 15 Penalties in respect of certain offences
-Every person who commits an offence against section 13 is liable on summary conviction,—
+Every person who commits an offence against section 13 is liable on conviction,—
   (a) to a fine not exceeding $100,000, if—
     (i) the offence was committed in the course of conducting an activity for the purpose of producing a commercial gain; or
     (ii) a ship, which is used for an activity that has, as its predominant purpose, the making of a commercial gain, was used in the commission of the offence:
@@ -160,7 +160,7 @@ Every person who commits an offence against section 13 is liable on summary conv
 
 ### 17 Ship may be ordered from protected area
 (1) If a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in a protected area in the commission of an offence against section 13, the protection officer may, by any means of communication, order the master of the ship to remove the ship from that area.
-(2) Without derogating from any other provision of this Act, a master who, without reasonable cause, fails within a reasonable period of time to comply with an order given under this section, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Without derogating from any other provision of this Act, a master who, without reasonable cause, fails within a reasonable period of time to comply with an order given under this section, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 18 Seizure of fishing equipment in protected area
 (1) A protection officer who finds fishing equipment may seize the equipment if he or she believes on reasonable grounds that—
@@ -176,7 +176,7 @@ Every person who commits an offence against section 13 is liable on summary conv
 (1) If,—the master of the ship must advise the protection officer of the master's name, owner's name, ship's name, place of registry, register number, and such further information as may be relevant to the identity of the master and owner and the identity of the ship that may be requested by the protection officer.
   (a) a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in the commission of an offence against section 13; and
   (b) a request for identification is made to the ship by the protection officer,—
-(2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 **Powers of enforcement officers, etc**
 
@@ -195,11 +195,11 @@ Every person who commits an offence against section 13 is liable on summary conv
   (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
   (c) a record, book, graph, or drawing; and
   (d) a photograph, film, negative, tape, disk, or other device in which 1 or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
-(5) Every person who fails without reasonable cause to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) Every person who fails without reasonable cause to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 21 Power of seizure
 (1) An enforcement officer may seize a ship or other property if the officer believes on reasonable grounds that the ship or other property is being used in the commission of an offence against section 13.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who—
   (a) resists or obstructs an enforcement officer exercising the power of seizure under this section; or
   (b) fails without reasonable cause to comply with the requirements of an enforcement officer exercising the power of seizure under this section.
 
@@ -215,9 +215,9 @@ Every enforcement officer exercising a power conferred by section 20 or section 
 
 ### 24 Custody of property seized
 (1) Subject to sections 25 and 26, property seized under section 21 shall be held in the custody of the Crown and shall not be released until—and, in that event, it must be released immediately from the custody of the Crown.
-  (a) a decision is made not to lay an information in respect of the alleged offence for which the property was seized; or
-  (b) an information against the person charged with the offence for which the property was seized is dismissed,—
-(2) The decision whether or not to lay an information in respect of an alleged offence for which property is seized under section 21 shall be made as soon as reasonably practicable after the property is seized.
+  (a) a decision is made not to file a charging document in respect of the alleged offence for which the property was seized; or
+  (b) a charge against the person charged with the offence for which the property was seized is dismissed,—
+(2) The decision whether or not to file a charging document in respect of an alleged offence for which property is seized under section 21 shall be made as soon as reasonably practicable after the property is seized.
 
 ### 25 Release of property by Minister
 (1) The Minister may, at any time after property has been seized under section 21 and before the completion of proceedings in respect of the alleged offence for which the property was seized under that section, on application by—release the property to that person under bond in such sum and under such sureties and conditions (if any) as the Minister may specify.
@@ -253,7 +253,7 @@ Every enforcement officer exercising a power conferred by section 20 or section 
 (2) The production in evidence in the proceedings of an image that appears to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by approved maritime surveillance equipment.
 
 ### 29 Offence to tamper or interfere with approved maritime surveillance equipment
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) tampers with approved maritime surveillance equipment; or
   (b) interferes with—
     (i) approved maritime surveillance equipment; or
