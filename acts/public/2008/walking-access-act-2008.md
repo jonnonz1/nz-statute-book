@@ -1,5 +1,5 @@
 # Walking Access Act 2008
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Walking Access Act 2008.
@@ -477,8 +477,9 @@ A person who does, or omits to do, an act in the course of performing a duty or 
 ### Subpart 2 — Offences and penalties in relation to walkways
 
 ### 53 How proceedings commenced
-(1) Despite section 14 of the Summary Proceedings Act 1957, proceedings for offences are commenced by laying an information under that Act not later than 1 year after the commission of the offence.
-(2) Any person, including the Commission, an enforcement officer, or an honorary enforcement officer, may lay an information.
+(1) Proceedings are commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011.
+(1A) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
+(2) Any person, including the Commission, an enforcement officer, or an honorary enforcement officer, may file a charging document.
 
 **Offences**
 
@@ -556,14 +557,14 @@ If there is an inconsistency between an offence under this Act and an offence un
 **Penalties**
 
 ### 59 Penalties
-(1) A person who commits an offence against section 54 is liable on summary conviction to a fine not exceeding $5,000.
-(2) A person who commits an offence against section 56 is liable on summary conviction to a fine not exceeding $10,000.
+(1) A person who commits an offence against section 54 is liable on conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence against section 56 is liable on conviction to a fine not exceeding $10,000.
 
 ### 60 Penalties for continuing offences
 A person who commits an offence against section 56(2)(b) is liable, in addition to the penalty for the offence, to a fine not exceeding $100 for each day or part of a day that the offence continues after he or she has been required to stop the offence.
 
 ### 61 Penalties for bodies corporate
-A body corporate that commits an offence against section 54 or 56 is liable on summary conviction to a fine not exceeding 5 times the maximum fine otherwise provided for the offence.
+A body corporate that commits an offence against section 54 or 56 is liable on conviction to a fine not exceeding 5 times the maximum fine otherwise provided for the offence.
 
 ### 62 Liability of directors and managers
 If a body corporate is convicted of an offence, every director and every person concerned in the management of the body is guilty of the same offence, if the prosecution proves—
@@ -635,7 +636,7 @@ A court may sentence a person who commits an offence against section 54 or 56 to
       (A) only after the controlling authority has taken into account the views (if any) of the persons or organisations that it considers representative of the interests of persons likely to be substantially affected by the bylaws; and
       (B) by resolution of the controlling authority and signed by at least 2 members of the controlling authority who are authorised to do so.
 (4) Despite anything to the contrary in this Act or in any other enactment, the controlling authority must not delegate the power conferred by subsection (1).
-(5) A person who fails to comply with any bylaw made under this section contravenes this subsection and is liable, on summary conviction, to a fine not exceeding $1,000.
+(5) A person who fails to comply with any bylaw made under this section contravenes this subsection and is liable, on conviction, to a fine not exceeding $1,000.
 
 ### 69 Bylaws to be approved by Commission
 (1) Bylaws made under section 68 do not come into force until they have been—
