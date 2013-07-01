@@ -1,5 +1,5 @@
 # District Courts Amendment Act (No 2) 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act (No 2) 2011.
@@ -42,38 +42,32 @@ The following sections are inserted after section 11C:No proceeding against Comm
   (a) section 84C(2)(c) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (b) new section 84EA(5)(c) as inserted by section 14 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (c) subsection (2) of this section is repealed.
-(2) If section 14 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force,—
-  (a) section 84EA(5)(c) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
-  (b) subsection (1) of this section is repealed.
+(2)
 
 ### 7 Principal Act amendment further taking into account section 14 of District Courts Amendment Act 2011
 (1) If section 14 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
   (a) section 84C(2)(d) of the principal Act is amended by omitting constable and substituting Police employee; and
   (b) subsection (2) of this section is repealed.
-(2) If section 14 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force, this section is repealed immediately after it has come into force.
+(2)
 
 ### 8 Amendment to principal Act taking into account section 19 of District Courts Amendment Act 2011
 (1) If section 19 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
   (a) section 84K(1) of the principal Act is amended by omitting summary; and
   (b) subsection (2) of this section is repealed.
-(2) If section 19 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force,—
-  (a) section 84K of the principal Act is amended by omitting summary; and
-  (b) subsection (1) of this section is repealed.
+(2)
 
 ### 9 Principal Act: first amendment taking into account section 23 of District Courts Amendment Act 2011
 (1) If section 23 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
   (a) section 84O(6)(b) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (b) new section 84OB(3)(d) as inserted by section 23 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (c) subsection (2) of this section is repealed.
-(2) If section 23 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force,—
-  (a) section 84OB(3)(d) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
-  (b) subsection (1) of this section is repealed.
+(2)
 
 ### 10 Principal Act: second amendment taking into account section 23 of District Courts Amendment Act 2011
 (1) If section 23 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
   (a) section 84O(6)(c) of the principal Act is amended by omitting constable in each place where it appears and substituting in each case Police employee; and
   (b) subsection (2) is repealed.
-(2) If section 23 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force, this section is repealed immediately after it has come into force.
+(2)
 
 ### 11 Principal Act: third amendment taking into account section 23 of District Courts Amendment Act 2011
 (1) If section 23 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
@@ -81,9 +75,7 @@ The following sections are inserted after section 11C:No proceeding against Comm
   (b) section 84O(8) of the principal Act is amended by omitting on an information; and
   (c) section 23 of the District Courts Amendment Act 2011 is amended by omitting from new section 84O(6) on an information and substituting before a Judge alone in relation to a charge; and
   (d) subsection (2) of this section is repealed.
-(2) If section 23 of the District Courts Amendment Act 2011 is in force on the date that this section comes into force,—
-  (a) section 84O(6) of the principal Act is amended by omitting on an information and substituting before a Judge alone in relation to a charge; and
-  (b) subsection (1) of this section is repealed.
+(2)
 
 ### 12 Further amendments to principal Act
 The principal Act is amended as set out in the Schedule.
