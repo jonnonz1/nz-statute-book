@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -2091,21 +2091,21 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
   (m) knowingly labels any package or container in such a manner that the label could in an emergency wrongly indicate the presence of hazardous substances to an enforcement officer, fire services officer, or constable.
 (2)
 
-### 109A Time for laying information
-(1) An information in respect of an offence against this Act that relates to a hazardous substance may be laid by any person at any time within 6 months after the earlier of—
-  (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to the person; or
+### 109A Time for filing charging document
+(1) The limitation period in respect of an offence against this Act that relates to a hazardous substance ends on the date that is 6 months after the earlier of—
+  (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to the person by whom the proceedings are commenced; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to the person.
-(2) An information in respect of an offence against this Act that relates to a new organism may be laid by any person at any time within 2 years after the time when the matter of the information arose.
+(2) The limitation period in respect of an offence against this Act that relates to a new organism ends on the date that is 2 years after the date on which the offence was committed.
 (3) Subsection (1) is subject to section 109B.
 
-### 109B Extension of time for laying information
-(1) The District Court may, on application by any person, extend the time for the person to lay an information under section 109A(1).
+### 109B Extension of time for filing charging document
+(1) The District Court may, on application by any person, extend the time for the person to file a charging document under section 109A(1).
 (2) The application must be made within the 6-month period that applies to the person under section 109A(1).
 (3) The court must not grant an extension unless it is satisfied that—
-  (a) the person reasonably requires longer than the 6-month period to decide whether to lay an information; and
+  (a) the person reasonably requires longer than the 6-month period to decide whether to file a charging document; and
   (b) the reason for requiring the longer period is that the investigation of the events and issues surrounding the alleged offence is complex or time-consuming; and
-  (c) it is in the public interest in the circumstances that an information is able to be laid after the 6-month period expires; and
-  (d) laying the information after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
+  (c) it is in the public interest in the circumstances that a charging document is able to be filed after the 6-month period expires; and
+  (d) filing the charging document after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
 (4) The court must give the following persons an opportunity to be heard:
   (a) the person seeking the extension:
   (b) the proposed defendant.
@@ -2117,12 +2117,12 @@ In sections 111 to 113—
 
 ### 111 Commission of infringement offence
 Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be prosecuted against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 112.
 
 ### 112 Infringement notices
 (1) Where an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice may be issued in respect of that offence.
-(2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and in that case for the purpose of the Summary Proceedings Act 1957, it (or the copy) shall be deemed to have been served on that person when it was posted.
+(2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and in that case it (or the copy) shall be deemed to have been served on that person when it was posted.
 (3) Every infringement notice shall be in the prescribed form and shall contain the following particulars—
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified for that offence; and
@@ -2138,9 +2138,9 @@ Where any person is alleged to have committed an infringement offence, that pers
 A territorial authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer employed by that authority.
 
 ### 114 Penalties
-(1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of section 109(1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
-(2) Every person who commits an offence against paragraph (f) or paragraph (g) or paragraph (h) or paragraph (i) of section 109(1), or section 156(1), is liable on summary conviction to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $5,000 for every day or part of a day during which the offence has continued.
-(3) Every person who commits an offence against paragraph (j) or paragraph (k) or paragraph (l) or paragraph (m) of section 109(1) is liable on summary conviction to a fine not exceeding $5,000.
+(1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of section 109(1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
+(2) Every person who commits an offence against paragraph (f) or paragraph (g) or paragraph (h) or paragraph (i) of section 109(1), or section 156(1), is liable on conviction to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $5,000 for every day or part of a day during which the offence has continued.
+(3) Every person who commits an offence against paragraph (j) or paragraph (k) or paragraph (l) or paragraph (m) of section 109(1) is liable on conviction to a fine not exceeding $5,000.
 (4) Where any person is convicted of an offence against section 109, the court may, instead of or in addition to imposing any fine or term of imprisonment, revoke any transferable permit held by that person.
 (5) Where any person is convicted of an offence against section 109, the court may, instead of or in addition to imposing any fine or term of imprisonment, order the person to mitigate or remedy any adverse effects on people or the environment—or to pay the costs of doing so.
   (a) caused by or on behalf of the person; or
@@ -2184,7 +2184,7 @@ Where any body corporate is convicted of an offence against this Act, every dire
   (b) had not expired under section 82(4C).
 
 ### 118 Fines to be paid to territorial authority instituting prosecution
-(1) Subject to subsection (2), where a person is convicted of an offence under section 109 and the court imposes a fine, the court shall, if the information for that offence was laid on behalf of a territorial authority, order that the fine be paid to that territorial authority.
+(1) Subject to subsection (2), where a person is convicted of an offence under section 109 and the court imposes a fine, the court shall, if the charging document for that offence was filed on behalf of a territorial authority, order that the fine be paid to that territorial authority.
 (2) There shall be deducted from every amount payable to a territorial authority under subsection (1), a sum equal to 10% thereof, and that sum shall be credited to a Crown Bank Account.
 (3) Notwithstanding anything in subsection (2), where any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a territorial authority under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
 (4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the territorial authority entitled to it under the order.
@@ -2411,7 +2411,7 @@ When a party to an appeal notifies the Registrar of the High Court—the appeal 
     (ii) that any application lodged under section 130 has been complied with—
 
 ### 134 Appeals to Court of Appeal
-Section 144 of the Summary Proceedings Act 1957 applies in respect of a decision of the High Court under section 126 as if the decision has been made under section 107 of the Summary Proceedings Act 1957.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court under section 126 as if the decision were made under section 304 of that Act.
 
 ## Part 9 — Emergencies
 
@@ -3295,48 +3295,12 @@ Anything done, before the commencement of this Act, in enforcing the principal A
   (a) must be dealt with as if this Act had not been enacted, if they were incurred before the commencement of this Act; or
   (b) may be recovered in accordance with the principal Act as amended by this Act, if they were incurred on or after the commencement of this Act, regardless of when the enforcement to which the costs relate occurred.
 
-### 38 Transitional provision for laying information
-(1) Subsection (2) applies to an information in respect of an offence against the principal Act that relates to a hazardous substance.
-(2) The information must be laid—
+### 38 Transitional provision for filing charging document
+(1) Subsection (2) applies to a charge in respect of an offence against the principal Act that relates to a hazardous substance.
+(2) The charging document must be filed—
   (a) as if this Act had not been enacted, if the incident, situation, or set of circumstances to which the offence relates occurred before the commencement of this Act; or
   (b) in accordance with the principal Act as amended by this Act in all other cases.
-(3) Subsection (4) applies to an information in respect of an offence against the principal Act that relates to a new organism.
-(4) The information must be laid—
-  (a) as if this Act had not been enacted, if the matter of the information arose before the commencement of this Act; or
+(3) Subsection (4) applies to a charge in respect of an offence against the principal Act that relates to a new organism.
+(4) The charging document must be filed—
+  (a) as if this Act had not been enacted, if the offence was committed before the commencement of this Act; or
   (b) in accordance with the principal Act as amended by this Act in all other cases.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
