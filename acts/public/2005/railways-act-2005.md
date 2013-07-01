@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -814,33 +814,33 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 ### Subpart 6 — Offences and remedies
 
 ### 61 Failure to comply with safety duties
-(1) A person who contravenes or fails to comply with section 7 or section 11 or section 12 commits an offence and is liable on summary conviction to,—
+(1) A person who contravenes or fails to comply with section 7 or section 11 or section 12 commits an offence and is liable on conviction to,—
   (a) in the case of an individual,—
     (i) imprisonment for a term not exceeding 6 months; or
     (ii) a fine not exceeding $50,000; or
     (iii) both:
   (b) in the case of a body corporate, a fine not exceeding $500,000.
-(2) A person who contravenes or fails to comply with section 9 commits an offence and is liable on summary conviction to—
+(2) A person who contravenes or fails to comply with section 9 commits an offence and is liable on conviction to—
   (a) imprisonment for a term not exceeding 6 months; or
   (b) a fine not exceeding $50,000; or
   (c) both.
 
 ### 62 Failure to hold licence
-(1) A person who carries out any rail activities for which a licence is required by section 15 and who does not hold a licence to carry on those rail activities commits an offence and is liable on summary conviction to,—
+(1) A person who carries out any rail activities for which a licence is required by section 15 and who does not hold a licence to carry on those rail activities commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a fine not exceeding $50,000:
   (b) in the case of a body corporate, a fine not exceeding $500,000.
-(2) A person who contravenes or fails to comply with section 10 commits an offence and is liable on summary conviction to,—
+(2) A person who contravenes or fails to comply with section 10 commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a fine not exceeding $50,000:
   (b) in the case of a body corporate, a fine not exceeding $500,000.
 
 ### 63 Failure to report accident or incident
-(1) A rail operator, access provider, or railway premises owner who contravenes or fails to comply with section 13 commits an offence and is liable on summary conviction to,—
+(1) A rail operator, access provider, or railway premises owner who contravenes or fails to comply with section 13 commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a fine not exceeding $5,000:
   (b) in the case of a body corporate, a fine not exceeding $30,000.
-(2) Any rail personnel who contravenes or fails to comply with section 13(1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) Any rail personnel who contravenes or fails to comply with section 13(1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 64 Obstructing safety assessor
-A person who obstructs a safety assessor or fails to comply with a lawful requirement of a safety assessor commits an offence and is liable on summary conviction to,—
+A person who obstructs a safety assessor or fails to comply with a lawful requirement of a safety assessor commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a fine not exceeding $25,000:
   (b) in the case of a body corporate, a fine not exceeding $250,000.
 
@@ -1101,9 +1101,9 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (4) Subject to section 90, the decision of a District Court on an appeal under this section is final.
 
 ### 90 Appeals on questions of law
-(1) If a party to an appeal under section 89 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of the High Court on the question of law only.
+(1) If a party to an appeal under section 89 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they refer to appeals by way of case stated on questions of law only, apply, so far as they are applicable and with all necessary modifications, to an appeal under this section.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ### 91 No charging for access to road reserve
 (1) Despite anything in this Act or in any other enactment, no local authority or other body or person that has jurisdiction over a road may require the payment by, or on behalf of, an infrastructure owner or licensed access provider or rail premises owner of any amount of, or in the nature of, rent in respect of any railway infrastructure or railway premises constructed or placed in, on, along, over, across, or under that road.
@@ -1116,8 +1116,8 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 
 ### 92 Offences
 (1) A person who—
-  (a) fails to comply with section 73 commits an offence and is liable on summary conviction to a fine not exceeding $10,000:
-  (b) fails to comply with any of sections 82, 83, 84, 87, or 88 commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+  (a) fails to comply with section 73 commits an offence and is liable on conviction to a fine not exceeding $10,000:
+  (b) fails to comply with any of sections 82, 83, 84, 87, or 88 commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (2) In addition to a fine imposed under subsection (1), the court may make any order relating to compensation that it thinks fit.
 
 ### 93 Certificates by infrastructure owners or licensed access providers
@@ -1137,8 +1137,8 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (2) A notice or other document sent by post or registered post is deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or other document was not received.
 (3) To avoid doubt, a notice may be in electronic form.
 
-### 95 Information for offences
-An information for an offence against this Act may be laid only by the Agency or an enforcement officer.
+### 95 Who may file charging document for offence
+A charging document for an offence against this Act may be filed only by the Agency or an enforcement officer.
 
 ### 96 Evidence and proof
 In any proceedings for an offence against this Act,—
@@ -1153,10 +1153,10 @@ All fees and other money (not being fines, infringement fees, or other penalties
 **Infringement offences**
 
 ### 98 Infringement offences
-(1) If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the alleged offence; or
+(1) If a person is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 99.
-(2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary if the enforcement authority proceeds with an infringement offence summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the enforcement authority commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 99 Issue of infringement notice
 (1) If an enforcement officer has reasonable cause to believe an infringement offence is being, or has been, committed by a person, an infringement notice in respect of that offence may be issued to that person by that enforcement officer.
@@ -1164,7 +1164,7 @@ All fees and other money (not being fines, infringement fees, or other penalties
   (a) by delivering it, or a copy of it, personally to that person; or
   (b) by sending it, or a copy of it, by post addressed to that person at that person's last known place of residence or business or postal address; or
   (c) if that person is a holder of a rail document, by serving it, or a copy of it, by post on that person at that person's last address for service provided with respect to that rail document.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
+(3) An infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
 (4)
 (5)
 
