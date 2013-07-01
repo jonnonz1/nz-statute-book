@@ -1,5 +1,5 @@
 # Queen Elizabeth the Second National Trust Act 1977
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to commemorate the Silver Jubilee of Her Majesty Queen Elizabeth the Second by establishing a national trust to encourage and promote the provision, protection, and enhancement of open space for the benefit and enjoyment of the people of New Zealand
 
@@ -320,4 +320,4 @@ Subject to any bylaws made under this Act, and to such other conditions as the b
   (a) wilfully lights or causes or permits to be lit on any land, other than Trust land, a fire which he knows or ought to have known to be likely to spread into, and which spreads into and damages or destroys, any property or thing vested in or under the control of the Trust; or
   (b) without the consent of the owner of the land and of the board, alters, obliterates, defaces, pulls up, removes, or destroys any plaque or sign supplied and erected by the board on any land other than Trust land.
 (4) Any person convicted of an offence under this section may, if the court thinks fit, be ordered to pay, in addition to any penalty for which he is liable for the offence, a sum not exceeding the full market value of any property or thing removed from the land, or the cost of the damage done to the property or thing damaged, as assessed by the court. The full market value shall be deemed to be the amount which the Trust or the owner of the property, or thing, as the case requires, would have received by way of purchase price for the property or thing removed if the same had been offered for sale by the Trust or the owner on reasonable conditions in the condition in which it was before its severance and removal from the land.
-(5) Any person who commits an offence against this Act for which no other penalty is provided is liable on summary conviction to a fine not exceeding $3,000.
+(5) Any person who commits an offence against this Act for which no other penalty is provided is liable on conviction to a fine not exceeding $3,000.
