@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -3053,7 +3053,7 @@ Subject to the Resource Management Act 1991, the provisions of this Part relatin
 (4) Every private road and right of way declared to be a public road as aforesaid shall become a road vested as such in the council.
 
 ### 350 Penalty for laying out private road or private way in contravention of this Act
-If any person lays out or forms, or permits or allows to be open for use, any private road or private way, or grants or reserves any right of way, contrary to the provisions of this Act, or refuses or neglects to perform, observe, or keep any condition imposed by the council as aforesaid, he commits an offence, and is liable to a fine not exceeding $50 for every day during which the offence has continued after the day on which he receives notice from the council that the offence has been committed.
+If any person lays out or forms, or permits or allows to be open for use, any private road or private way, or grants or reserves any right of way, contrary to the provisions of this Act, or refuses or neglects to perform, observe, or keep any condition imposed by the council as aforesaid, he commits an offence, and is liable on conviction to a fine not exceeding $50 for every day during which the offence has continued after the day on which he receives notice from the council that the offence has been committed.
 
 ### 351 Illegal private road or private way not to be registered
 No plan, deed, or instrument of any kind whatsoever whereby contrary to the provisions of this Part any private road or private way is created, recognised, referred to, granted, or reserved shall be received for deposit or registration under the Deeds Registration Act 1908 or under the Land Transfer Act 1952.
@@ -3082,7 +3082,7 @@ The council shall take all sufficient precautions for the general safety of the 
   (c) to remove, lower, or trim to the satisfaction of the council any tree or hedge, or to lower any fence or wall, if in the opinion of the council the tree, hedge, fence, or wall is likely, by reason of its obstructing the view, to cause danger to the traffic on that or any other road.
 (2) Within 10 days after service of the notice, the owner may apply to a District Court for an order setting aside the notice.
 (3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(4) In the case of a notice which is not set aside as aforesaid, if the owner fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers or agents, may enter on the land and do that act and recover the cost from him.
+(4) In the case of a notice which is not set aside as aforesaid, if the owner fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable on conviction to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
 (6) In any case where the council might give any such notice as aforesaid in respect of any land, any resident of the district may, by notice in writing, request the council to do so.
 (7) If for the space of 28 days after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to a District Court for an order requiring the council to comply with that notice.
@@ -3159,7 +3159,7 @@ The council shall take all sufficient precautions for the general safety of the 
 In any circumstances where a territorial authority is authorised to remove a motor vehicle under both section 356 and 356A, the territorial authority may only exercise its powers under section 356A.
 
 ### 357 Penalties for damage to roads
-(1) Every person commits an offence who, not being authorised by the council or by or under any Act,—and is liable to a fine not exceeding $1,000 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued and may be ordered to pay the cost incurred by the council in removing any such encroachment, obstruction, or matter, or in repairing any damage caused as aforesaid:
+(1) Every person commits an offence who, not being authorised by the council or by or under any Act,—and is liable on conviction to a fine not exceeding $1,000 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued and may be ordered to pay the cost incurred by the council in removing any such encroachment, obstruction, or matter, or in repairing any damage caused as aforesaid.
   (a) encroaches on a road by making or erecting any building, fence, ditch, or other obstacle or work of any kind upon, over, or under the road, or by planting any tree or shrub thereon; or
   (b) places or leaves on a road, any timber, earth, stones, or other thing; or
   (c) digs up, removes, or alters in any way the soil or surface or scarp of a road; or
@@ -3170,7 +3170,7 @@ In any circumstances where a territorial authority is authorised to remove a mot
   (h) causes or negligently allows any retaining wall, foundation wall, or fence erected on any land, or any batter or slope of earth, or any building, erection, material, or thing, to give way or fall so as to damage or obstruct a road; or
   (i) digs up or removes any stone, gravel, sand, or other material from a river bed within 50 metres of a bridge or ford on any road or any dam on which a road is constructed; or
   (j) does or causes or permits to be done any act whatsoever by which any damage is caused to a road or any work or thing in, on, or under the same,—
-  provided that no fine shall be imposed unless the information is laid by authority of the council or by an officer thereof.
+(1A) Proceedings for an offence against subsection (1) must be commenced on the authority of the council, or by an officer of the council.
 (2) The Council shall not authorise or suffer any encroachment on a road if the encroachment would or might interfere with or in any way obstruct the right of the Crown, or of any person so authorised by any Act, to construct, place, maintain, alter, remove, or otherwise deal with any electric wires, telephone wires, telegraph wires, pneumatic tubes, or gas pipes on, over, or under the road, except with the prior written consent of the Minister of the Crown, the person, or principal administrative officer of the body, who or which is responsible for any such services or utilities.
 
 **Contracts and leases relating to ferries**
@@ -3646,7 +3646,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (1) The council may, by notice in writing under the hand of the chairman or the principal administrative officer, require the occupier or, in any case where there is no occupier, the owner of any land within the district to cut down or remove any tree on that land, or any specified part of any such tree, the roots of which in the opinion of the council enter or are likely to enter any public drain.
 (2) Within 10 days after service of the notice, the occupier or owner, as the case may be, may apply to a District Court for an order setting aside the notice.
 (3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers, or agents, may enter on the land and do that act and recover the cost from him.
+(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable on conviction to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers, or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
 (6) The council may remove, cut down, or grub up, as the case may be, any tree to which subsection (1) applies, or, as the case may be, any specified part of any such tree, after the giving of oral notice by the principal administrative officer or other authorised officer of the council to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by a District Court.
 (7) For the purposes of this section the term cut down means cutting down and keeping cut down or removing or controlling by chemical means the stem and roots of any tree so as to prevent its throwing out any leaf, offshoot, or flower.
@@ -5604,7 +5604,7 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 [Repealed]
 
 ### 698 General penalty
-(1) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $500 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
+(1) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $500 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
 (2) Where any order is made under this Act by any court directing the execution of any work or the doing of any act (other than the payment of a sum of money under a conviction, whether as a fine or otherwise) and no punishment for disobedience to the order is otherwise provided by this Act, every person disobeying the order commits an offence against this Act.
 (3) Where a person commits a continuing breach of any provision of this Act which is an offence to which this section applies, then, notwithstanding anything in any other Act, a District Court may, on application by the council, grant an injunction restraining the further continuance of the breach by that person.
 (4) An injunction may be granted under subsection (3),—
@@ -5614,9 +5614,8 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
     (ii) in subsequent proceedings.
 (5) The continued existence of any work or thing in a state, or the intermittent repetition of any action, contrary to any provision of this Act shall be a continuing offence for the purposes of this section.
 
-### 699 Offences punishable on summary conviction
-(1) Subject to this Act, every offence against this Act or against any regulations or bylaws under this Act shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of an offence against this Act or any regulations or bylaws under this Act may be laid at any time within 12 months from the time when the matter of the information arose.
+### 699 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations or bylaws made under it ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 699A Infringement offences relating to navigation bylaws
 (1) In sections 699B to 699D,—
@@ -5629,12 +5628,12 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 
 ### 699B Commission of infringement offence
 If any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 699C.
 
 ### 699C Infringement notices
 (1) If a harbourmaster or an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any harbourmaster or enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) is to be treated as having been served on that person when it was posted.
+(2) Any harbourmaster or enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case it (or the copy) is to be treated as having been served on that person when it was posted.
 (3) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified for that offence; and
@@ -6709,7 +6708,7 @@ A transitional committee, unless sooner discharged, shall be deemed to be discha
 (6) Every contract entered into under this section shall contain a condition that, if the local authority is not formed on terms substantially the same as those set out in the draft scheme, the contract shall be capable of being cancelled—and, if the contract is so cancelled, the compensation payable to the person appointed as a senior executive of the local authority shall be an amount equal to 12 months' salary of that person or such lesser amount as may be specified in the contract.
   (a) by the senior executive concerned; or
   (b) by the transitional committee;—
-(7) Subject to subsection (2), nothing in the Local Authorities (Employment Protection) Act 1963 or the Remuneration Authority Act 1977 shall apply in respect of any person employed under any contract entered into under this section.
+(7) Subject to subsection (2), nothing in the Local Authorities (Employment Protection) Act 1963or the Remuneration Authority Act 1977 shall apply in respect of any person employed under any contract entered into under this section.
 (8) Nothing in this section limits the right of any transitional committee or local authority to dismiss for good cause or in accordance with any contract any person appointed under this section.
 
 ### 25A Definitions of former authority and successor authority
@@ -7355,7 +7354,7 @@ Sections 37ZZX and 37ZZY of, and Parts 2 and 3 of Schedule 3B of, the principal 
 ### 16 Savings provisions relating to harbour-related functions, duties, and powers
 (1) A territorial authority responsible under any Act, Order in Council, or other enactment for operating a port or harbour may continue from time to time to appoint a harbourmaster and exercise functions, duties, and powers in respect of navigation safety.
 (2) Every instrument under the principal Act transferring to a territorial authority any functions, duties, or powers under the Harbours Act 1950, that was in force immediately before the commencement of section 10, continues in force until the expiration of 2 years after that commencement and then expires.
-(3) Nothing effected by or under this Act affects or limits the Waimakiriri Harbour District and Empowering Act 1916, the Lakes District Waterways Authority (Shotover River) Empowering Act 1985, the Northland Regional Council and Far North District Council Vesting and Empowering Act 1992, or any other Act applying to any harbour.
+(3) Nothing effected by or under this Act affects or limits the WaimakiririHarbour District and Empowering Act 1916, the Lakes District Waterways Authority (Shotover River) Empowering Act 1985, the Northland Regional Council and Far North District Council Vesting and Empowering Act 1992, or any other Act applying to any harbour.
 
 ### 1 Title
 This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
