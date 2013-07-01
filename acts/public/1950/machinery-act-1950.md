@@ -1,5 +1,5 @@
 # Machinery Act 1950
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the inspection of certain kinds of machinery and for the safety of persons working with machinery to which the Act applies
 
@@ -222,7 +222,7 @@ In any case where in the opinion of an Inspector any provision of this Act is no
 ### 23 Inquiry into cause of accident
 (1) In the event of an accident happening to any machinery, or where, by reason of any such accident, any person is killed or suffers serious bodily injury, the Minister may direct an inquiry to be held before a District Court Judge, together with a person skilled in the use and construction of the machinery to be appointed by the Minister.
 (2) The District Court Judge, together with the said person, shall have power to hold the inquiry at such times and places as the Minister appoints, and shall report on the cause of the accident to the Minister.
-(3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the Summary Proceedings Act 1957.
+(3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the Criminal Procedure Act 2011.
 (4) For the purposes of this section and of section 22 the expression serious bodily injury means an injury which is likely to incapacitate the sufferer for work for at least 48 hours.
 
 ### 24 Record of accidents
@@ -274,7 +274,7 @@ Without affecting any other method of proof, the production in any proceedings o
 (3) Nothing in this section shall exempt any corporate body from liability under this Act by reason only that any machinery is under the control of any director, secretary, manager, or other person elected or employed by the corporate body for the benefit of or on behalf of that body.
 
 ### 29 Penalties
-(1) Every person who commits an offence against this Act shall be liable on summary conviction—
+(1) Every person who commits an offence against this Act shall be liable on conviction—
   (a) in the case of an offence against section 11, to imprisonment for a term not exceeding 6 months:
   (b) in the case of an offence against section 18, to a fine not exceeding $2,500:
   (c) in the case of an offence against section 19,—
@@ -284,7 +284,7 @@ Without affecting any other method of proof, the production in any proceedings o
   (e) in the case of an offence against section 31(3), to a fine not exceeding $250 for every day on which the default continues:
   (f) in the case of an offence against section 32, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months:
   (g) in the case of an offence against a provision of this Act not specified in paragraphs (a) to (f), for which no specific penalty is elsewhere provided, to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
-(2) Every person who commits an offence against any regulation made under this Act for which no specified penalty is elsewhere provided, shall be liable on summary conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
+(2) Every person who commits an offence against any regulation made under this Act for which no specified penalty is elsewhere provided, shall be liable on conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
 (3) A fine imposed in respect of an offence against section 31(3) shall be irrespective of any fine to which the defendant is liable in respect of the original offence concerned.
 
 ### 30 Application of part of fine to person injured
@@ -302,25 +302,25 @@ Every person commits an offence against this Act who—
   (e) gives, issues, or uses any certificate, consent, notice, or other document under this Act knowing it to be untrue in any material particular.
 
 ### 33 Owner may have actual offender charged
-(1) Where an owner is charged with an offence under this Act he shall be entitled, upon information duly laid by him, to have any other person whom he alleges to be the actual offender brought before the District Court Judge on the same charge; and to enable both charges to be heard together the charges against the owner may be adjourned for such time as the District Court Judge thinks reasonable.
+(1) An owner who is charged with an offence under this Act may commence proceedings against any other person whom the owner alleges to be the actual offender, and have that person brought before the District Court Judge on the same charge; and to enable both charges to be heard together the charges against the owner may be adjourned for such time as the District Court Judge thinks reasonable.
 (2) In any such case, if the charges are heard together and the offence is proved but the District Court Judge finds that—that other person shall be convicted of the offence, and the owner shall not be guilty of the offence.
   (a) the offence was committed in fact by the said other person, without the knowledge, consent, or connivance of the owner; and
   (b) that the owner had done all that could reasonably be expected of him to prevent the offence—
 (3) If, before the commencement of any proceedings against the owner in respect of any offence under this Act, the Inspector is satisfied that if any other person were charged with the offence under the foregoing provisions of this section that other person would be convicted of the offence, the Inspector shall proceed against the person whom he believes to be the actual offender without first proceeding against the owner. In any such case the provisions of subsection (2) shall, with the necessary modifications, apply, notwithstanding that no proceedings have been commenced against the owner.
 
 ### 34 Proceedings to be before District Court Judge alone
-(1) All proceedings in respect of offences or matters of complaint under this Act shall be taken in a summary manner and shall be heard before a District Court Judge alone.
-(2) Except as provided in section 33, all such proceedings as aforesaid shall be taken only on the information or complaint of an Inspector.
+(1)
+(2) Except as provided in section 33, only an Inspector may file a charging document in respect of an offence under this Act.
 
 ### 35 Provisions as to procedure
-(1) An Inspector who lays an information or makes a complaint in respect of any offence or matter under this Act shall not be called on to prove that he is an Inspector. Any such information or complaint may be proceeded with and conducted by the same or any other Inspector or by any person permitted by the District Court Judge to conduct the same.
-(2) In any proceedings under this Act it shall be sufficient in the information or complaint to state the name of the ostensible owner, or the style or title under which the owner is usually known or carries on business. Any information or complaint may from time to time be amended by the District Court Judge as to the actual name of the defendant.
-(3) In any proceedings under this Act it shall lie upon the defendant to bring himself under any exemption, proviso, excuse, or qualification; and it shall not be necessary for the same to be negatived in the information or complaint.
+(1) An Inspector who files a charging document in respect of any offence or matter under this Act shall not be called on to prove that he is an Inspector. Any such charge may be proceeded with and conducted by the same or any other Inspector or by any person permitted by the District Court Judge to conduct the same.
+(2) In any proceedings under this Act it shall be sufficient in the charge to state the name of the ostensible owner, or the style or title under which the owner is usually known or carries on business. Any charge may from time to time be amended by the District Court Judge as to the actual name of the defendant.
+(3) In any proceedings under this Act it shall lie upon the defendant to bring himself under any exemption, proviso, excuse, or qualification; and it shall not be necessary for the same to be negatived in the charge.
 (4) A defendant may, except in proceedings under section 32, be called by the Inspector, and shall be compellable to give evidence as a defendant in a civil action is compellable.
-(5) Several charges or complaints against the same person, or several charges pursuant to section 33, may be heard together if the District Court Judge thinks fit so to hear them, and charges or complaints against several persons may be so heard with the consent of the parties if the District Court Judge so orders; and in all such cases a witness sworn to give evidence respecting one charge or complaint shall for all purposes be deemed a witness in respect of each charge or complaint.
-(6) In any proceedings on an information any order which the District Court Judge is empowered to make may be made without a complaint being made, notwithstanding anything to the contrary in the foregoing provisions of this Act.
+(5) Several charges against the same person, or several charges pursuant to section 33, may be heard together if the District Court Judge thinks fit so to hear them, and charges against several persons may be so heard with the consent of the parties if the District Court Judge so orders; and in all such cases a witness sworn to give evidence respecting one charge shall for all purposes be deemed a witness in respect of each charge.
+(6)
 (7) In any proceedings under this Act 10 days' notice of the day fixed for the hearing shall be given; and if the defendant intends to bring forward any person skilled in the construction of the machinery as a witness at the hearing of the case he shall give notice of that intention to the Inspector at least 48 hours before the hearing of the case.
-(8) A summary conviction or adjudication under this Act, or an adjudication made on appeal therefrom, shall not be quashed for want of form or be removed into the High Court by certiorari or otherwise.
+(8) A conviction or adjudication under this Act, or an adjudication made on appeal therefrom, shall not be quashed for want of form or be removed into the High Court by certiorari or otherwise.
 
 **Miscellaneous provisions**
 
