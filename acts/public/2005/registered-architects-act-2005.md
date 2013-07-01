@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -51,7 +51,7 @@ A person is a registered architect if he or she—
   (b) any words, initials, or abbreviations of that title that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a registered architect.
 (2) No person who designs buildings, prepares plans and specifications for buildings, or supervises the construction of buildings may use the title architect unless he or she is a registered architect.
 (3) Despite subsections (1) and (2), a person may use the title registered architect or architect (or words, initials, or abbreviations of those titles), in accordance with the rules, in representing qualifications or titles awarded by overseas agencies.
-(4) A person who contravenes subsection (1) or subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
+(4) A person who contravenes subsection (1) or subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
 **Registration provisions**
 
@@ -256,7 +256,7 @@ Except as otherwise provided in this Act, the Board may regulate its own procedu
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 34 Witnesses’ fees, allowances, and expenses
-(1) A witness appearing before the Board under a summons is entitled to be paid witnesses’ fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Summary Proceedings Act 1957.
+(1) A witness appearing before the Board under a summons is entitled to be paid witnesses’ fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Criminal Procedure Act 2011.
 (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
 
 ### 35 Failure to comply with summons
@@ -266,7 +266,7 @@ Except as otherwise provided in this Act, the Board may regulate its own procedu
   (c) does not give evidence under oath when required to do so; or
   (d) does not answer any question that is lawfully asked by the Board; or
   (e) does not provide any documents, things, or information that the summons requires the person to provide.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 (3) A person must not be convicted of an offence under this section if witnesses’ fees, allowances, and expenses to which the person is entitled under section 34 have not been paid or tendered to him or her.
 
 ### 36 Protection for members of Board and others for disciplinary matters
@@ -333,7 +333,7 @@ On an appeal under this Part, the District Court may order any party to the appe
 ### 46 Appeal on question of law
 (1) A party to an appeal under this Part may appeal to the High Court against any determination of law arising in the appeal.
 (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
-(3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
+(3) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (4) Subsection (3) overrides subsection (2).
