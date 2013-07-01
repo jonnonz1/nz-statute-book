@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -103,8 +103,8 @@ In this Act, unless the context otherwise requires,—
 (3) For the purposes of section 91 of the Companies Act 1955, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the members in whose names the certificate was issued.
 (3A) For the purposes of section 89 of the Companies Act 1993, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the registered holders of the shares.
 (4) Where a company contravenes or fails to comply with any of the provisions of paragraphs (b), (d), and (e) of subsection (1),—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $1,000:
-  (b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, unless the director shows that—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $1,000:
+  (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $1,000, unless the director shows that—
     (i) the company took all reasonable and proper steps to ensure that the requirements of the relevant paragraph would be complied with; or
     (ii) he or she took all reasonable steps to ensure that the company complied with the requirements of the relevant paragraph; or
     (iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of the relevant paragraph.
@@ -181,8 +181,8 @@ In this Act, unless the context otherwise requires,—
     (i) where any change in the name or names of the registered holder or holders of the relative shares is involved, register the person or persons named in the advice as the registered holder or holders of the shares, and issue a share certificate in his, her, or their name or names in respect of the shares:
     (ii) cancel any endorsement that may have been made pursuant to section 8 on the office duplicate of the relative lease or licence, and any endorsement that the shares are held subject to this Act.
 (2) In a case where a company fails to comply with subsection (1),—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $1,000:
-  (b) every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $1,000, unless the director shows that—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $1,000:
+  (b) every director of the company commits an offence and is liable on conviction to a fine not exceeding $1,000, unless the director shows that—
     (i) the company took all reasonable and proper steps to ensure that the requirements of that subsection would be complied with; or
     (ii) he or she took all reasonable steps to ensure that the company complied with the requirements of that subsection; or
     (iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of that subsection.
