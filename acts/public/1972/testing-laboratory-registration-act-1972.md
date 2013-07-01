@@ -1,5 +1,5 @@
 # Testing Laboratory Registration Act 1972
-_Consolidation as at 2006-09-26_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -166,4 +166,4 @@ For the purpose of providing funds for the exercise of the functions of the Coun
 
 ### 30 Offences and penalties
 (1) Every person commits an offence against this Act who makes any statement or representation, whether in writing or not, or uses any mark with reference to any goods, which conveys or is likely to convey the impression that a testing laboratory which is not registered under this Act is so registered.
-(2) Every person who commits an offence against this Act for which no specific penalty is provided elsewhere than in this section, shall be liable on summary conviction to a fine not exceeding $200 and, in the case of a continuing offence, to a further fine not exceeding $10 for every day on which the offence is continued.
+(2) Every person who commits an offence against this Act for which no specific penalty is provided elsewhere than in this section, shall be liable on conviction to a fine not exceeding $200 and, in the case of a continuing offence, to a further fine not exceeding $10 for every day on which the offence is continued.
