@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -286,7 +286,7 @@ Nothing in this subpart—
 **Tissue that is, or is collected from, bodies**
 
 ### 22 Collection or use without informed consent
-(1) A person commits an offence, and is liable on summary conviction to the penalty specified in subsection (2), if—
+(1) A person commits an offence, and is liable on conviction to the penalty specified in subsection (2), if—
   (a) the person collects or uses human tissue that is, or is collected from, a body; and
   (b) informed consent is required by subpart 1 for that collection or use, and either was not given or was given but was overridden by an overriding objection.
 (2) The penalty referred to in subsection (1) is,—
@@ -296,14 +296,14 @@ Nothing in this subpart—
 **Non-health-care tissue**
 
 ### 23 Donor analysis, etc, without informed consent
-A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person collects non-health-care tissue for donor analysis or carries out donor analysis of non-health-care tissue; and
   (b) informed consent is required by subpart 1 for that collection or use, but was not given.
 
 **Tissue from living individuals**
 
 ### 24 Use for secondary purpose after donors’ deaths without informed consent
-A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person uses for a secondary purpose, after the donor’s death, human tissue from a living individual; and
   (b) informed consent is required by subpart 1 for that use, and either was not given or was given but was overridden by an overriding objection.
 
@@ -466,7 +466,7 @@ Informed consent or an informed objection given or raised in writing, in accorda
 ### 47 Standards for collection or use of human tissue for non-therapeutic purposes
 (1) A person collecting or using human tissue for non-therapeutic purposes must comply with all relevant quality, safety, and other standards prescribed or approved by regulations under section 74.
 (2) This section applies even if the collection or use of the tissue is required, permitted, or otherwise controlled by law.
-(3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly collects or uses human tissue for a purpose (whether or not the person knows the purpose is a non-therapeutic purpose); and
   (b) that act or omission contravenes subsection (1).
 
@@ -478,7 +478,7 @@ Informed consent or an informed objection given or raised in writing, in accorda
   (b) that another competent legal authority specified in section 20(d) has directed or ordered a post-mortem of a body, or may do so; or
   (c) that both paragraphs (a) and (b) apply.
 (2) The person may collect or use, in accordance with any informed consent required by this Act, tissue that is, or is from, the body, only with the approval of the coroner or other competent legal authority concerned.
-(3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly collects or uses tissue that is, or is from, a body, and the person knows, or ought reasonably to know, what is specified in subsection (1)(a), (b), or (c); and
   (b) that act contravenes subsection (2).
 
@@ -488,7 +488,7 @@ Informed consent or an informed objection given or raised in writing, in accorda
   (a) a coroner acting under section 31 of the Coroners Act 2006; or
   (b) the High Court acting under section 41 of the Coroners Act 2006; or
   (c) the Director-General of Health acting under section 78 of the Health Act 1956.
-(3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 
@@ -501,7 +501,7 @@ Informed consent or an informed objection given or raised in writing, in accorda
   (a) a person who is, or is acting under the supervision of, a medical practitioner collecting the tissue for the purposes of the practice of his or her profession:
   (b) a person authorised in writing by or on behalf of the New Zealand Blood Service, the New Zealand National Eye Bank, or a body that is a successor to that Service or Bank, as suitably qualified to collect tissue of that kind for the purposes of that Service, Bank, or successor body:
   (c) a person who the Director-General has, by notice in the Gazette, authorised as suitably qualified to collect tissue of that kind for 1 or more specified purposes.
-(4) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+(4) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person intentionally or knowingly collects human tissue that the person knows is tissue that is, or is collected from, a body (whether or not the person knows that the tissue is collected for all or any of the purposes specified in subsection (1)); and
   (b) that act contravenes subsection (1) or (2).
 
@@ -509,14 +509,14 @@ Informed consent or an informed objection given or raised in writing, in accorda
 
 ### 51 Anatomical examination and certain public display of body of person under 16 years prohibited
 (1) No person may collect or use for anatomical examination, public display, or both, tissue that is, or is collected from, the body of an individual who, at the time he or she died, was under 16 years of age.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) Subsection (1) does not apply to public display by or on behalf of the responsible person and to enable people to pay their final respects to, or that is incidental to the funeral of, the dead individual.
 
 ### 52 Anatomical examinations must usually be performed at schools of anatomy
 (1) A person must not, unless authorised by section 53 to do so, perform an anatomical examination, or receive, possess, store, or otherwise use all or a part of a body for anatomical examination, at a place that is not a school of anatomy.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 
@@ -559,7 +559,7 @@ In sections 57 to 65, unless the context otherwise requires,—
 
 ### 56 Trading in human tissue generally prohibited
 (1) No person may, except under an exemption under section 60, require or accept, or offer or provide, financial or other consideration for human tissue.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) Subsection (1) does not apply to the following:
@@ -574,7 +574,7 @@ In sections 57 to 65, unless the context otherwise requires,—
 
 ### 57 Collection of blood or controlled human substance
 (1) No person may collect blood or any controlled human substance from a person, or from the body of a person, for the purpose of obtaining that blood or that substance for administration to another person.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) Subsection (1) does not apply to—
@@ -585,14 +585,14 @@ In sections 57 to 65, unless the context otherwise requires,—
 
 ### 58 Consideration not generally to be provided for collection of blood or controlled human substance for administration to another person
 (1) No person may, except under an exemption under section 60, provide financial or other consideration for the collection of blood or a controlled human substance from a person, or from the body of a person, for administration to another person.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) Subsection (1) does not prevent a person who collects blood or a controlled human substance from providing to, or for the benefit of, the person from whom the blood or controlled human substance is collected consideration that is reasonably related to, or that does not exceed, the actual and reasonable costs incurred by that person in connection with its collection.
 
 ### 59 Person administering blood or controlled human substance not to charge recipient for its collection or use
 (1) No person who administers blood or any controlled human substance to another person may, except under an exemption under section 60, require or accept from the person to whom that blood or that substance is administered financial or other consideration for collecting or using it.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) This section does not limit or affect section 56.
@@ -610,7 +610,7 @@ In sections 57 to 65, unless the context otherwise requires,—
 
 ### 61 Advertising prohibited
 (1) No person may, except under an exemption under section 60, distribute an advertisement relating to the purchase or sale in New Zealand of human tissue.
-(2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly does an act; and
   (b) that act contravenes subsection (1).
 (3) Subsection (1) does not apply to distribution of an advertisement relating to the purchase or sale in New Zealand of the following:
@@ -663,7 +663,7 @@ Nothing in Part 2 of the Commerce Act 1986 applies to—
 ### 66 Standards, etc, for export and import of human tissue
 (1) A person exporting or importing human tissue must comply with all relevant requirements and quality, safety, and other standards prescribed or approved by regulations under section 75.
 (2) This section applies even if the exportation or importation of the tissue is required, permitted, or otherwise controlled by law.
-(3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
+(3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if—
   (a) the person intentionally or knowingly does, or omits to do, an act; and
   (b) that act or omission contravenes subsection (1).
 
@@ -720,7 +720,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
   (d) if any person is convicted of an offence to which the item relates, the Court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the Court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
 
 ### 73 Obstructing inspections, etc, by authorised persons
-Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $20,000, who intentionally does all or any of the following:
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $20,000, who intentionally does all or any of the following:
   (a) obstructs, hinders, or resists an authorised person, or any person lawfully assisting an authorised person, in the exercise of the authorised person’s powers under this Act:
   (b) refuses or fails to comply with any lawful requirements of an authorised person under this Act.
 
@@ -983,39 +983,3 @@ The Acts and Regulations Publication Act 1989 does not apply to—
 Clauses 1 to 8 do not affect the application of sections 22 to 25 of the Standards Act 1988.
 
 ## Schedule 6 — Consequential amendments
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
