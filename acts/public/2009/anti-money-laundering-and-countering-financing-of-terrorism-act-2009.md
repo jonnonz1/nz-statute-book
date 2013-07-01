@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2013-06-30_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
   - **beneficial owner** means the individual who—
     (a) has effective control of a customer or person on whose behalf a transaction is conducted; or
     (b) owns a prescribed threshold of the customer or person on whose behalf a transaction is conducted
-  - **beneficiary institution** , in relation to a wire transfer from an ordering institution, means any person who receives those funds and then makes those funds available to a person (the payee) by—
+  - **beneficiary institution** , in relation to a wire transfer from an ordering institution, means any person who receives those funds and then makes those funds available to a person (the ) by—
     (a) crediting it to an account held by the payee; or
     (b) paying it to the payee
   - **business relationship** means a business, professional, or commercial relationship between a reporting entity and a customer that has an element of duration or that is expected by the reporting entity, at the time when contact is established, to have an element of duration
@@ -1095,7 +1095,7 @@ A person commits an offence if the person acts in contravention of section 47(1)
 (4) In any such prosecution, evidence that the defendant took a step not specified in the written notice required by subsection (3) is not, except with the leave of the court, admissible for the purpose of supporting a defence under subsection (1).
 
 ### 99 Time limit for prosecution of offences relating to civil liability act and suspicious transaction reports
-Despite anything in section 14 of the Summary Proceedings Act 1957, any information in respect of an offence under any of sections 91 to 97 may be laid at any time within 3 years after the time when the matter of the information arose.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of sections 91 to 97 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 100 Penalties
 A reporting entity or person who commits an offence under any of sections 91 to 97 is liable, on conviction, to,—
@@ -1116,7 +1116,7 @@ A person commits an offence if the person wilfully obstructs any AML/CFT supervi
 A person commits an offence if, without reasonable excuse, the person provides information to an AML/CFT supervisor knowing that information to be false or misleading in any material respect.
 
 ### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
-Despite anything in section 14 of the Summary Proceedings Act 1957, any information in respect of an offence under any of sections 101 to 103 may be laid at any time within 3 years after the time when the matter of the information arose.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of sections 101 to 103 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 105 Penalties
 (1) A person who commits an offence under section 101 is liable, on conviction, to,—
@@ -1154,7 +1154,7 @@ A person commits an offence if, without reasonable excuse, the person makes or c
 (2) A person commits an offence if, without reasonable excuse, the person fails to answer questions from a Customs officer.
 
 ### 112 Penalties
-A person who commits an offence under any of sections 106, 107, 108, 110, and 111 is liable, on summary conviction, to,—
+A person who commits an offence under any of sections 106, 107, 108, 110, and 111 is liable, on conviction, to,—
   (a) in the case of an individual, either or both of the following:
     (i) a term of imprisonment of not more than 3 months:
     (ii) a fine of up to $10,000; and
@@ -1162,7 +1162,7 @@ A person who commits an offence under any of sections 106, 107, 108, 110, and 11
 
 ### 113 Chief executive of New Zealand Customs Service may deal with cash reporting offences
 (1) This section applies if, in any case to which section 106 or 107 applies, a person admits in writing that he or she has committed the offence and requests that the offence be dealt with summarily by the chief executive of the New Zealand Customs Service.
-(2) If this section applies, the chief executive of the New Zealand Customs Service may, at any time before an information has been laid in respect of the offence, accept from that person a sum, not exceeding $500, that the chief executive of the New Zealand Customs Service thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under section 112.
+(2) If this section applies, the chief executive of the New Zealand Customs Service may, at any time before a charging document has been filed in respect of the offence, accept from that person a sum, not exceeding $500, that the chief executive of the New Zealand Customs Service thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under section 112.
 (3) If the chief executive of the New Zealand Customs Service accepts any sum under this section, the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
 
 **Relationship with Customs and Excise Act 1996**
