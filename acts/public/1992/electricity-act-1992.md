@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -242,14 +242,14 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (3) Subject to section 12, every order made under subsection (2) shall be final.
 
 ### 12 Appeal on question of law
-(1) Where any party to an objection under section 9 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) Where any party to an objection under section 9 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they relate to appeals by way of case stated on questions of law only, shall apply, so far as they are applicable and with all necessary modifications, to every appeal under this section.
-(4) Subject to section 13, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined, or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+(4) Subject to section 13, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
 
 ### 13 Secretary may require immediate compliance
 (1) Notwithstanding sections 10 and 12(4), where a notice of objection is lodged under section 9 by any person in respect of any notice or requirement, the Secretary may advise the objector that the Secretary considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
-(2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
+(2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
 (3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of the Secretary, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
@@ -306,7 +306,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 Where the Secretary is performing any duty or exercising any power in respect of any place, or any fittings or associated equipment in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place, shall provide all such facilities and assistance as the Secretary may reasonably require.
 
 ### 20 Obstructing Secretary
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
   (a) intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
   (b) refuses or fails without reasonable excuse—
     (i) to produce any document when required to do so by the Secretary for the purposes of this Act; or
@@ -418,7 +418,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (5) Where any such work is rendered urgent and necessary by any defective equipment, or other emergency, the electricity operator shall be excused from complying with the requirements of subsection (1) before commencing the work, but shall give the information required by subsection (2) as soon as practicable thereafter.
 
 ### 26 Offence
-(1) Every electricity operator commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with section 24 or section 25.
+(1) Every electricity operator commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with section 24 or section 25.
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
 
 ### 27 Appeals in relation to conditions imposed
@@ -432,9 +432,9 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (2) Subject to section 29, the decision of a District Court in the determination of an appeal under section 27 shall be final.
 
 ### 29 Appeal on question of law
-(1) Where any party to any appeal under section 27 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) Where any party to any appeal under section 27 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they relate to appeals by way of case stated on questions of law only, shall apply, so far as they are applicable and with all necessary modifications, to every appeal under this section.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ### 30 Charging for access to road reserve
 (1) Notwithstanding anything in this Act or in any other enactment, no local authority or other body or person having jurisdiction over any road shall require the payment, by or on behalf of any electricity operator, of any amount of or in the nature of rent in respect of any works constructed in, on, along, over, across, or under that road.
@@ -1387,12 +1387,12 @@ The Registrar must—
 ### 130 Duty to notify change of address
 (1) If a practising licence holder, a provisional licence holder, or an employer licence holder changes that person's street address that is recorded in the register, that person must, within 3 months after the change, notify the Registrar of that person's new street address.
 (2) The Registrar must enter the new address in the register.
-(3) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### 131 Duty to notify change of name
 (1) If a practising licence holder, a provisional licence holder, or an employer licence holder changes that person's name, that person must, within 1 month after the change, notify the Registrar of the person's new name.
 (2) If the Registrar is satisfied that a registered person, a provisional licence holder, or an employer licence holder has changed that person's name, or that it is wrongly entered in the register, the Registrar must correct the entry in the register relating to that person.
-(3) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### 132 Revision of register
 (1) The Registrar may at any time, and must if the Board directs, ask whether—
@@ -1534,7 +1534,7 @@ For the purposes of this Part, a person to whom this Part applies is guilty of a
   (b) the full name of the investigator; and
   (c) a statement of the powers conferred by that provision.
 (2) A person who does not have a warrant supplied under this section must not represent himself or herself to be the holder of a warrant supplied under this section.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who—
   (a) fails to comply with subsection (2); or
   (b) impersonates or falsely pretends to be a person named in a warrant supplied under this section.
 
@@ -1543,7 +1543,7 @@ For the purposes of this Part, a person to whom this Part applies is guilty of a
   (a) must carry and produce the warrant in accordance with section 159(1)﻿(d); and
   (b) must, on the termination of his or her authority to act under section 147, surrender the warrant to the Secretary; and
   (c) must not purport to act under a warrant after the termination of his or her authority to act under section 147.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with subsection (1).
 
 ### 147C Restriction on entry to dwellinghouse
 (1) Despite section 147, an investigator may not enter a dwellinghouse without—
@@ -1572,7 +1572,7 @@ Any notice given by an investigator under section 147(1)﻿(b) is sufficiently g
 (1) No person may,—
   (a) without reasonable excuse, refuse or fail to comply with a notice under section 147(1)﻿(b); or
   (b) in purported compliance with the notice, supply information, or supply a document, knowing it to be false or misleading.
-(2) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
+(2) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
 
 **Consideration of complaint by Board**
 
@@ -1776,15 +1776,15 @@ On any appeal under section 147ZA, a District Court may make an order for the pa
 
 ### 147ZF Power of court to prohibit publication of person's name or affairs
 (1) On any appeal under section 147ZA, a District Court may, if in the court's opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
 
 ### 147ZG Decision to continue in force pending appeal
 Subject to any order of the court, every decision, direction, or order of the Board against which an appeal is lodged under section 147ZA continues in force and has effect according to its tenor pending the determination of the appeal.
 
 ### 147ZH Appeal on question of law
-(1) If, in respect of any appeal under section 147ZA, the Board or the appellant is dissatisfied with any decision of the District Court as being erroneous in point of law, the Board or the appellant may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) If, in respect of any appeal under section 147ZA, the Board or the appellant is dissatisfied with any decision of the District Court as being erroneous in point of law, the Board or the appellant may appeal to the High Court on the question of law only.
 (2) Every appeal under this section must be heard and determined in accordance with rules of court.
-(3) However, Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act which are applied in that Part), so far as it relates to appeals by way of case stated on questions of law only, applies, so far as it is applicable and with all necessary modifications, to every appeal under this section.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ## Part 13 — Administration
 
@@ -1849,7 +1849,7 @@ The functions of the Board are—
 (4) Every application to the Board under subsection (3) shall be heard in private, but the other parties to the proceedings shall be entitled to be present and to make submissions with regard to the application.
 (5) In any case where a hearing of the Board is held in private, the Board may allow any particular person to attend the private hearing if it is satisfied that the person has a special and proper interest in the matter to be heard.
 (6) Unless reversed or modified in respect of its currency by the court on an appeal under Part 12, an order made under any of paragraphs (b) to (d) of subsection (3) shall continue in force until such time as may be specified in the order, or, if no time is specified, until the Board, in its discretion, revokes it on the application of any party to the proceedings in which the order was made.
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who, without lawful excuse, acts in contravention of any order made by the Board under any of paragraphs (b) to (d) of subsection (3).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without lawful excuse, acts in contravention of any order made by the Board under any of paragraphs (b) to (d) of subsection (3).
 
 **Complaints Assessment Committees**
 
@@ -1942,7 +1942,7 @@ The provisions set out in Schedule 2 apply to the Board.
 **Offences**
 
 ### 160 False declarations and representations
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, for the purpose of obtaining any registration, licence, renewal of a licence, or certificate under this Act, either on the person's own behalf or on behalf of any other person,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, for the purpose of obtaining any registration, licence, renewal of a licence, or certificate under this Act, either on the person's own behalf or on behalf of any other person,—
   (a) either orally or in writing, makes any declaration or representation that, to the person's knowledge, is false or misleading in any material particular; or
   (b) provides to the Registrar, the Board, or the Plumbers, Gasfitters, and Drainlayers Board, any document knowing that the document—
     (i) contains any declaration or representation that is false or misleading in any material particular; or
@@ -1952,7 +1952,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
     (ii) is not genuine.
 
 ### 161 Unlicensed or unregistered person must not claim to be licensed or registered
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who,—
   (a) not being registered or licensed under Part 10 in respect of a particular class of prescribed electrical work,—
     (i) does any act that is intended to cause or may reasonably cause any other person to believe that the person is so registered or licensed; or
     (ii) uses, or causes or permits to be used, in connection with any business, trade, or calling any written words, titles, or initials, or any abbreviation of any words, titles, or initials, that are intended to cause or may reasonably cause any other person to believe that the person using them is so registered or licensed; or
@@ -1962,16 +1962,16 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (d) allows a certificate of registration or a licence to be used by any other person for the purpose of enabling that other person to do any prescribed electrical work in breach of Part 9.
 
 ### 162 Offence to engage in prescribed electrical work in breach of section 74
-Every person who does, or assists in doing, any prescribed electrical work in breach of section 74 commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
+Every person who does, or assists in doing, any prescribed electrical work in breach of section 74 commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
 
 ### 163 Offence to employ person to engage in prescribed electrical work in breach of section 74
-Every person who employs any person under a contract of service to do, or assist in doing, any prescribed electrical work in breach of section 74 commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $25,000 in the case of a body corporate.
+Every person who employs any person under a contract of service to do, or assist in doing, any prescribed electrical work in breach of section 74 commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $25,000 in the case of a body corporate.
 
 ### 163A Offence to fail to comply with condition of employer licence
-Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
+Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
 
 ### 163B Offence to breach requirement to have safety management system
-Every person who, being an electricity generator or an electricity distributor, breaches section 61A commits an offence and is liable on summary conviction to a fine not exceeding $250,000.
+Every person who, being an electricity generator or an electricity distributor, breaches section 61A commits an offence and is liable on conviction to a fine not exceeding $250,000.
 
 ### 163C Offences for actions or omissions likely to cause serious harm or significant property damage
 (1) Every person commits an offence if—
@@ -1982,37 +1982,38 @@ Every person who, being an electricity generator or an electricity distributor, 
   (a) the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the person is required by this Act to take the action; and
   (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
-(3) Every person who commits an offence under this section is liable on conviction on indictment to—
+(3) Every person who commits an offence under this section is liable on conviction to—
   (a) imprisonment for a term of not more than 2 years; or
   (b) a fine of not more than $100,000 in the case of an individual, or $500,000 in the case of a body corporate; or
   (c) both.
 (4) A person charged with an offence under this section may be convicted of an offence under any other section in this Act as if the person had been charged under that section.
 (5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows, or ought reasonably to know, about.
+(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under this section.
 
 ### 163D Other offences
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
   (a) intentionally or negligently does or causes or permits to be done any work on any works or electrical installation or electrical appliance in a manner that is dangerous to life; or
   (b) knowingly employs, permits, or pays any person to do any prescribed electrical work in breach of section 74; or
   (c) being a person registered or licensed or authorised in accordance with this Act, does any prescribed electrical work that the person is not entitled under this Act to do; or
   (d) intentionally obstructs any person in the performance of any duty or in doing any work that the person has lawful authority to do under Part 3; or
   (e) intentionally hinders or obstructs any authorised person in the exercise of any powers conferred by or under section 83 or 123 or 147 or any regulations made under section 169.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under Part 9 or certificate of registration or licence issued under Part 10, fails or refuses to surrender it to the Board or the Secretary within 10 working days of a written demand to do so by the Registrar or the Secretary.
-(3) An information must not be laid under subsection (1)﻿(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under Part 9 or certificate of registration or licence issued under Part 10, fails or refuses to surrender it to the Board or the Secretary within 10 working days of a written demand to do so by the Registrar or the Secretary.
+(3) A charging document must not be filed under subsection (1)﻿(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
 
 ### 164 Directors and officers of bodies corporate
 (1) If a body corporate is convicted of an offence against any provision of this Act or against any regulations made under section 169, every director and every person concerned in the management of the body corporate is himself or herself guilty of the offence if it is proved that the act constituting the offence took place with that person's knowledge, authority, permission, or consent.
-(2) Every person who is guilty of an offence pursuant to subsection (1) shall be liable on summary conviction to a fine not exceeding that imposed on the body corporate.
+(2) Every person who is guilty of an offence pursuant to subsection (1) shall be liable on conviction to a fine not exceeding that imposed on the body corporate.
 
-### 165 Time for laying information
-Notwithstanding section 14 of the Summary Proceedings Act 1957, an information for an offence against any provision of this Act or against any regulations made under section 169 may be laid at any time within 5 years after the time when the matter of the information arose.
+### 165 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act (other than an offence under section 163C) or against any regulations made under section 169 ends on the date that is 5 years after the date on which the offence was committed.
 
 **Infringement offences**
 
 ### 165A Infringement offences
-(1) If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the alleged offence under the Summary Proceedings Act 1957; or
+(1) If a person is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 165B.
-(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where the Secretary, the Registrar, or the Board proceeds with an infringement offence summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary, the Registrar, or the Board commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 165B Infringement notices
 (1) The Secretary or the Registrar may issue an infringement notice to a person if—
@@ -2022,16 +2023,16 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, an information f
 (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 (4) For the purposes of this section, enforcement action means,—
   (a) in relation to the Secretary or the Registrar,—
-    (i) the laying of an information under this Act; or
+    (i) the filing of a charging document under this Act; or
     (ii) the issuing of an infringement notice under this Act; and
-  (b) in relation to a person other than the Secretary or the Registrar, the laying of an information under this Act.
+  (b) in relation to a person other than the Secretary or the Registrar, the filing of a charging document under this Act.
 
 ### 165C Procedural requirements for infringement notices
 (1) An infringement notice may not be issued by a person after the close of the 14th day after the person becomes aware of the alleged infringement offence.
 (2) An infringement notice may be served on a person—
   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (2)﻿(b) must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice sent under subsection (2)﻿(b) must be treated as having been served on the person on the date it was posted.
 (4) An infringement notice must be in the prescribed form and must contain—
   (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
@@ -2816,39 +2817,3 @@ Sections 14 to 16 amend the Electricity Act 1992.
 
 ### 28 Transitional provision
 To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)﻿(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
