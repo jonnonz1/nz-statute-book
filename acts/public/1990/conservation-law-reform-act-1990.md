@@ -1,5 +1,5 @@
 # Conservation Law Reform Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the law relating to conservation organisations, freshwater fish and game, conservation management planning, and marginal strips
 
@@ -88,8 +88,8 @@ The principal Act is hereby amended by inserting, after Part 2, the following Pa
     (b) release for public information, in such form as it thinks fit, any recommendation, report, or advice made or given by the Authority to the Minister or the Director-General:
     (c) advocate the interests of the Authority at any public forum or in any statutory planning process.
   (3) In exercising powers other than advocacy or investigative powers, the Authority shall have regard to any views expressed in writing by the Minister and addressed to the Authority.
-  (4) Notwithstanding subsection (2)(b) of this section, the Authority shall not release its annual report for public information until it has been laid before the House of Representatives.
-  (5) The power conferred by subsection (2)(c) of this section shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Authority's functions.
+  (4) Notwithstanding subsection (2)﻿(b) of this section, the Authority shall not release its annual report for public information until it has been laid before the House of Representatives.
+  (5) The power conferred by subsection (2)﻿(c) of this section shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Authority's functions.
   (1) The members of the Authority shall be appointed by the Minister having regard to the interests of conservation, natural earth and marine sciences, and recreation, and the Authority shall consist of—
     (a) two persons appointed after consultation with the Minister of Maori Affairs:
     (b) two persons appointed after consultation with the Minister of Tourism:
@@ -98,7 +98,7 @@ The principal Act is hereby amended by inserting, after Part 2, the following Pa
     (e) one person appointed on the recommendation of the Royal Forest and Bird Protection Society of New Zealand Incorporated:
     (f) one person appointed on the recommendation of the Federated Mountain Clubs of New Zealand Incorporated:
     (g) four persons appointed following public notice given in accordance with subsection (2) of this section.
-  (2) Every notice required by subsection (1)(g) of this section shall—
+  (2) Every notice required by subsection (1)﻿(g) of this section shall—
     (a) state the number of appointments intended to be made to the Authority:
     (b) call for nominations for membership of the Authority to be sent to the Minister:
     (c) state a date, being not less than 28 days after the date of the first publication of the notice, after which the Minister may decline to accept such nominations:
@@ -144,7 +144,7 @@ The principal Act is hereby amended by inserting, after Part 2, the following Pa
   (2) Without limiting the generality of subsection (1) of this section, each Board may—
     (a) advocate its interests at any public forum or in any statutory planning process; and
     (b) appoint committees of members and other suitable persons, and delegate to them functions and powers.
-  (3) The power conferred by subsection (2)(a) of this section shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
+  (3) The power conferred by subsection (2)﻿(a) of this section shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
   As soon as practicable after the 30th day of June in every year, every Board shall furnish the Conservation Authority with a report of its operations for the period of 12 months that ended on that day.
   (1) Every Board shall consist of not more than 12 members.
   (2) Except as provided in subsections (5), (6), and (7) of this section, the Minister shall appoint every member of a Board after giving public notice in accordance with subsection (4) of this section, and after consultation with the Conservation Authority, and having regard to—
@@ -205,7 +205,7 @@ The principal Act is hereby amended by inserting, after Part 2, the following Pa
 ### 7 Conservation areas may be closed
 (1) Section 13(1) of the principal Act is hereby amended by repealing paragraph (a), and substituting the following paragraph:
   (a) if requested to do so under section 24H(7) of this Act or if any conservation management strategy or conservation management plan relating to any conservation area provides for its closure in whole or in part for conservation purposes, to public entry, close the area or any part of it to public entry in accordance with the strategy or plan; and.
-(2) Section 13(1)(b) of the principal Act is hereby amended by omitting the words that has no management plan, and substituting the words for which there is no conservation management strategy or conservation management plan.
+(2) Section 13(1)﻿(b) of the principal Act is hereby amended by omitting the words that has no management plan, and substituting the words for which there is no conservation management strategy or conservation management plan.
 
 ### 8 Conditions on issuing of leases and licences, and disposal of conservation areas
 [Repealed]
@@ -266,7 +266,7 @@ The principal Act is hereby amended by inserting, after section 16, the followin
   (4) The Director-General may at any time prepare an amendment to any statement of general policy, and the following provisions shall apply in any such case:
     (a) where the proposed amendment does not materially affect the objectives of the policy or the public interest, the Director-General shall send it to the Conservation Authority or the New Zealand Fish and Game Council, as the case may require, and it shall be dealt with under paragraphs (k) to (m) of subsection (3) of this section, which shall apply with any necessary modifications:
     (b) in any other case, the proposed amendment shall be dealt with under paragraphs (a) to (m) of subsection (3) of this section, which shall apply with any necessary modifications.
-  (5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)(m) of this section.
+  (5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)﻿(m) of this section.
   (1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the New Zealand Walkways Act 1990, or this Act, or any of them.
   (2) Where any part of any such statement of policy is subject to any of the Acts referred to in subsection (1) of this section, it may be approved only in accordance with the relevant approval procedures set out in that Act; and the relevant provisions of that Act shall apply accordingly.
   (1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, the New Zealand Walkways Act 1990, or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
@@ -418,7 +418,7 @@ The principal Act is hereby amended by inserting, after section 16, the followin
     (b) a sports fish and game management plan shall be reviewed as a whole by the Fish and Game Council not later than 10 years after the date of its approval:
     (c) the Minister may, after consultation with the Fish and Game Councils affected, extend that period of review.
   (6) Where the proposed amendment of any sports fish and game management plan is of such a nature that the Fish and Game Council considers that it will not materially affect the objectives or policies expressed in the plan or the public interest in the area concerned, the amendment shall be dealt with under paragraphs (e) to (g) of subsection (2) of this section, which shall apply with any necessary modifications.
-  (1) Every statement of general policy approved under section 17B(3)(m) or section 17C of this Act, every conservation management strategy, and every conservation management plan, freshwater fisheries management plan, and sports fish and game management plan shall have effect on and from the date on which it is approved, or on such later date as may be specified in that behalf in the statement or strategy or plan.
+  (1) Every statement of general policy approved under section 17B(3)﻿(m) or section 17C of this Act, every conservation management strategy, and every conservation management plan, freshwater fisheries management plan, and sports fish and game management plan shall have effect on and from the date on which it is approved, or on such later date as may be specified in that behalf in the statement or strategy or plan.
   (2) No such statement or strategy or plan shall restrict or affect the exercise of any legal right or power by any person other than the Minister or the Director-General or any Fish and Game Council.
   (3) No such statement or strategy or plan shall limit or affect the exercise by a lessee or licensee of any area of any right or power conferred by a lease or licence granted before the commencement of this Part of this Act.
   (4) Every such statement, strategy, and plan shall be available for public inspection during ordinary office hours at the Department's Head Office, and at such other places as the Director-General thinks its public availability is desirable.
@@ -455,8 +455,8 @@ The principal Act is hereby amended by repealing section 24 and inserting, after
   (4) The Minister may, by notice in the Gazette, declare that section 24 of this Act shall not apply to any proposed disposition of—
     (a) land that is part of the core assets of the Electricity Corporation of New Zealand Limited; or
     (b) land that is required in connection with electricity works.
-  (5) A notice under subsection (4)(a) of this section shall have effect only so long as the core assets concerned remain assets of the Corporation.
-  (6) For the purposes of subsection (4)(a) of this section, the term core assets means—
+  (5) A notice under subsection (4)﻿(a) of this section shall have effect only so long as the core assets concerned remain assets of the Corporation.
+  (6) For the purposes of subsection (4)﻿(a) of this section, the term core assets means—
     (a) any aqueduct, bridge, boom anchor, canal, control gate, dam, flume, headrace, penstock, power station, screen, spillway, switching gear, surge chamber, tailrace, transmission tower, tunnel, or weir, used by the Electricity Corporation of New Zealand Limited for or in connection with the generation, transmission, or supply of electricity; or
     (b) any similar structure or device so used.
   (7) Nothing in section 24 of this Act shall apply to any disposition in respect of which a notice is given under this section.
@@ -494,7 +494,7 @@ The principal Act is hereby amended by repealing section 24 and inserting, after
   (6) Subject to this section, the provisions of this Act shall apply to every marginal strip reserved by subsection (1) or subsection (2) of this section as if such marginal strip had been reserved by section 24 of this Act.
   (7) Nothing in this section shall apply to any marginal strip reserved by section 24(3) of this Act.
   (1) The Minister may from time to time appoint suitable persons to be managers of marginal strips.
-  (2) Subject to subsection (6)(c) of this section, the Minister may appoint one of the following persons to be the manager of any marginal strip:
+  (2) Subject to subsection (6)﻿(c) of this section, the Minister may appoint one of the following persons to be the manager of any marginal strip:
     (a) the owner for the time being of the land adjoining that strip:
     (b) some other suitable person, if the Minister considers that person to be more suitable than the adjoining owner.
   (3) The Crown shall manage all marginal strips around controlled lakes and reservoirs; but any costs relating to any such strip that are costs arising out of electricity generation in the area of the strip shall be payable by the person or body responsible for that electricity generation.
@@ -578,7 +578,7 @@ The principal Act is hereby amended by inserting, after Part 5, the following Pa
     (b) appoint a manager and other staff for the efficient and economic administration of the affairs of the Council:
     (c) expend money received by it from any source arising under this Act for the purposes of carrying out its functions under this Act:
     (d) enter into contracts to provide services.
-  (3) For the purposes of section 26C(1)(g) of this Act, the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
+  (3) For the purposes of section 26C(1)﻿(g) of this Act, the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
   The New Zealand Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a Department, the provisions of sections 56 and 58 of the State Sector Act 1988.
   As soon as practicable after the 31st day of December in every year, the New Zealand Fish and Game Council shall furnish the Minister with—
     (a) a report of its operations for the period of 12 months ending on that day; and
@@ -599,7 +599,7 @@ The principal Act is hereby amended by inserting, after Part 5, the following Pa
   Except as otherwise provided by this Act or any regulations made under it, no member of the New Zealand Fish and Game Council shall be entitled to receive any remuneration or expenses in respect of his or her service as a member of the Council.
   (1) The Minister shall, by notice in the Gazette, establish—
     (a) a Transitional New Zealand Fish and Game Council; and
-    (b) a Transitional Fish and Game Council for each region defined under section 26A(1)(c) of this Act.
+    (b) a Transitional Fish and Game Council for each region defined under section 26A(1)﻿(c) of this Act.
   (2) Each Transitional Fish and Game Council shall consist of not more than 12 members appointed by the Minister.
   (3) The Transitional New Zealand Fish and Game Council and each Transitional Fish and Game Council shall be established for the period specified in the notice by which it is established.
   (1) The Transitional New Zealand Fish and Game Council shall have all the functions and powers of the New Zealand Fish and Game Council under this Act.
@@ -611,7 +611,7 @@ The principal Act is hereby amended by inserting, after Part 5, the following Pa
   (4) The Transitional Fish and Game Councils concerned shall engage the Department for a period of not less than 6 months, on terms and conditions to be mutually agreed, to manage—
     (a) the area formerly known as the Rotorua Acclimatisation District (except those parts that constitute the Taupo fishery in that District); and
     (b) the area formerly known as the Southern Lakes Acclimatisation District.
-  There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under section 26A(1)(c) of this Act.
+  There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under section 26A(1)﻿(c) of this Act.
   (1) The functions of each Fish and Game Council shall be to manage, maintain, and enhance the sports fish and game resource in the recreational interests of anglers and hunters, and, in particular,—
     (a) to assess and monitor—
       (i) sports fish and game populations; and
@@ -670,7 +670,7 @@ The principal Act is hereby amended by inserting, after Part 5, the following Pa
     (b) no disposal (other than for administrative purposes) shall be made if the land or interest in land is required for the management of sports fish or game, or the protection of their habitat:
     (c) any land acquired under this section (other than for administrative purposes) shall be open to the public, and may be closed in order to protect the sports fish and game habitat only after public notice of the closure has been given in the region:
     (d) the land use shall comply with the provisions of this Act and any other Act, and any freshwater fisheries management plan or sports fish and game management plan for the region in which the land is situated.
-  (4) Subsection (3)(c) of this section shall also apply to any land that is transferred to a Fish and Game Council under any other Act, as if that land had been acquired under this section.
+  (4) Subsection (3)﻿(c) of this section shall also apply to any land that is transferred to a Fish and Game Council under any other Act, as if that land had been acquired under this section.
   (5) All land held under this section shall be subject to this Act.
   (6) Each Fish and Game Council may expend money received by it from any source arising under this Act for the purposes of carrying out its functions under this Act.
   (7) For the purposes of section 26Q(1) of this Act, a Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
@@ -679,7 +679,7 @@ The principal Act is hereby amended by inserting, after Part 5, the following Pa
   (2) Every Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a Department, the provisions of sections 56 and 58 of the State Sector Act 1988.
   (1) Each Fish and Game Council shall consist of not more than 12 members elected in accordance with section 26Z of this Act.
   (2) A person shall be qualified to be a member of a Fish and Game Council only if that person holds a current adult whole season licence to hunt game or fish for sports fish.
-  (3) Each region defined by the Minister under section 26A(1)(c) of this Act shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
+  (3) Each region defined by the Minister under section 26A(1)﻿(c) of this Act shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
   (4) No person who is a bankrupt or has been convicted of an offence involving sports fish and game (being an offence under this Act or any other Act) shall be eligible to be a member of a Fish and Game Council.
   (1) Any Fish and Game Council may co-opt for such term as it thinks fit any suitable person or persons to be a member or members of the Council.
   (2) A co-opted member of a Council shall be entitled to attend and speak at any meeting of that Council, but shall not be entitled to vote on any question.
@@ -800,7 +800,7 @@ The principal Act is hereby amended by repealing section 27, and substituting th
 [Repealed]
 
 ### 21 Trespassing livestock
-3Section 6 of the principal Act is hereby amended by inserting, after subsection (5), the following subsection:
+Section 36 of the principal Act is hereby amended by inserting, after subsection (5), the following subsection:
   (5A) Any reasonable costs incurred by the Department in rounding up, destroying, or otherwise disposing of, in accordance with this section, any branded livestock shall be recoverable in any court of competent jurisdiction from the owner by the Director-General.
 
 ### 22 Other offences
@@ -839,8 +839,8 @@ The principal Act is hereby amended by inserting, after section 43, the followin
 
 ### 26 Forfeiture of property
 (1) Section 46 of the principal Act is hereby amended—
-  (a) by inserting in subsection (5)(a), after the word equipment,, the words fishing gear,:
-  (b) by inserting in subsection (5)(b), after the words animal product,, the words freshwater fish, freshwater fish product,.
+  (a) by inserting in subsection (5)﻿(a), after the word equipment,, the words fishing gear,:
+  (b) by inserting in subsection (5)﻿(b), after the words animal product,, the words freshwater fish, freshwater fish product,.
 (2) Section 46 of the principal Act is hereby further amended by inserting, after subsection (7), the following subsection:
   (7A) Notwithstanding anything in this section, the following provisions shall apply where a prosecution is commenced on the information of an officer of a Fish and Game Council:
     (a) the forfeited property shall be disposed of by the Minister to that Council for the purposes of sale and may be sold by that Council, and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council:
@@ -864,7 +864,7 @@ The principal Act is hereby amended by repealing section 48, and substituting th
     (m) authorising any conservation organisation to reimburse travelling expenses incurred by any of its members in the course of their duties as members of the organisation, if no such provision is made elsewhere in this Act:
     (n) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any lawful direction or requirement made under this Act or any such regulations, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000 and, where the offence is a continuing one, a further amount not exceeding $50 for every day on which the offence has continued:
     (o) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its due administration.
-  (2) Any regulations made under subsection (2)(k) of this section may—
+  (2) Any regulations made under subsection (2)﻿(k) of this section may—
     (a) specify the person by whom any fees or levies prescribed under this Act are payable:
     (b) prescribe specific fees or levies for specific purposes:
     (c) prescribe a scale of fees or levies or a rate based on the time involved in carrying out the work or services:
@@ -892,7 +892,7 @@ The principal Act is hereby amended by repealing section 48, and substituting th
   (2) Any such regulations—
     (a) may apply generally throughout New Zealand or New Zealand freshwaters or be made to apply only within such area or areas as may be defined in that behalf:
     (b) may apply special conditions or confer special rights in relation to fishing by specified communities.
-  (3) Subject to subsection (4) of this section, for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)(j) of this section, any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
+  (3) Subject to subsection (4) of this section, for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)﻿(j) of this section, any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
   (4) Before entering any premises pursuant to subsection (3) of this section, a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
 
 ### 28 Errors of description in notices may be corrected
@@ -911,7 +911,7 @@ Section 53 of the principal Act is hereby amended by adding the following subsec
     (f) shall acquire by means of purchase or otherwise and protect habitats:
     (g) shall control any introduced species causing damage to any indigenous species, habitat, property, or interests.
   (4) In relation to the Taupo Fishery, the Director-General shall have all the powers of a Fish and Game Council under this Act.
-  (5) Any agreement or arrangement entered into under subsection (3)(a) of this section may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
+  (5) Any agreement or arrangement entered into under subsection (3)﻿(a) of this section may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
 
 ### 30 Delegation of powers by Minister
 (1) Section 57 of the principal Act is hereby amended by repealing subsection (1), and substituting the following subsections:
@@ -1068,7 +1068,7 @@ The principal Act is hereby amended by repealing sections 6 to 16, and substitut
   (1) The Minister may approve statements of general policy for the implementation of this Act in any area or areas; and may from time to time amend any such statement in the light of changing circumstances or increased knowledge.
   (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
   (3) For the purposes of this section, sections 17B(3), 17B(4), and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
-    (a) in addition to the consultation required by section 17B(3)(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
+    (a) in addition to the consultation required by section 17B(3)﻿(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
     (b) as soon as practicable after a draft policy is prepared under section 17B(3) of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a) of this subsection:
     (c) before sending a draft policy to the Conservation Authority, the Director-General shall consider any comments made by the persons referred to in paragraph (a) of this subsection.
   (1) Every conservation management strategy shall establish objectives for the integrated management of marine reserves under this Act.
@@ -1106,7 +1106,7 @@ Section 18(1) of the principal Act is hereby amended—
 ### 56 Offences within a reserve
 (1) Section 19 of the principal Act is hereby amended—
   (a) by omitting from subsection (1) the words management committee for that reserve, and substituting the words Director-General:
-  (b) by omitting from subsections (1)(j), (3), (6), and (7) the words management committee, and substituting in each case the words Director-General.
+  (b) by omitting from subsections (1)﻿(j), (3), (6), and (7) the words management committee, and substituting in each case the words Director-General.
 (2) Section 19 of the principal Act is hereby further amended by repealing subsection (8), and substituting the following subsection:
   (8) Any marine life found illegally in the possession of any person in or in the vicinity of a reserve may be seized by any ranger for that reserve, and shall, if alive and likely to survive, be returned to the reserve, or, if survival is unlikely, shall be disposed of as may be directed by the Director-General in any specific instance or according to any regulations made under this Act, if provided for by such regulations.
 
@@ -1140,14 +1140,14 @@ Every management committee established under section 7 of the principal Act is h
 (1) The Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 are hereby deemed to be regulations made under section 24 of the principal Act, and may be amended or revoked accordingly.
 (2) References in the Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 to the Committee shall be read as if they were references to the Director-General of Conservation.
 (3) The Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 are hereby deemed to have come into force on the 7th day of December 1989.
-(4) Every person who commits a breach of the Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(4) Every person who commits a breach of the Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 commits an offence and is liable on conviction to a fine not exceeding $200.
 (5) Clause 17 of the Cape Rodney-Okakari Point Marine Reserve Bylaws 1989 is hereby revoked.
 
 ### 63 Poor Knights Islands Marine Reserve Bylaws 1989
 (1) The Poor Knights Islands Marine Reserve Bylaws 1989 are hereby deemed to be regulations made under section 24 of the principal Act, and may be amended or revoked accordingly.
 (2) References in the Poor Knights Islands Marine Reserve Bylaws 1989 to the Committee shall be read as if they were references to the Director-General of Conservation.
 (3) The Poor Knights Islands Marine Reserve Bylaws 1989 are hereby deemed to have come into force on the 7th day of December 1989.
-(4) Every person who commits a breach of the Poor Knights Islands Marine Reserve Bylaws 1989 commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(4) Every person who commits a breach of the Poor Knights Islands Marine Reserve Bylaws 1989 commits an offence and is liable on conviction to a fine not exceeding $200.
 (5) Clause 17 of the Poor Knights Islands Marine Reserve Bylaws 1989 is hereby revoked.
 
 ## Part 3 — Amendments to Wildlife Act 1953
@@ -1197,7 +1197,7 @@ Section 17 of the principal Act (as substituted by section 2(1) of the Wildlife 
 (1) Section 19 of the principal Act is hereby amended—
   (a) by omitting from subsection (1) the words in any district, and substituting the words in any area:
   (b) by omitting from subsection (1) the words that district, and substituting the words that area:
-  (c) by omitting from subsection (4)(b) the words acclimatisation society for the district, and substituting the words Fish and Game Council for the area concerned:
+  (c) by omitting from subsection (4)﻿(b) the words acclimatisation society for the district, and substituting the words Fish and Game Council for the area concerned:
   (d) by omitting from subsection (5) the word society, in both places where it occurs, and substituting in each case the words Fish and Game Council.
 (2) Section 19 of the principal Act is hereby further amended by inserting, after subsection (4), the following subsection:
   (4A) In subsection (3) of this section the term occupier, in relation to any land, does not include a person appointed under the Conservation Act 1987 to be the manager of a marginal strip.
@@ -1226,11 +1226,11 @@ The principal Act is hereby amended by repealing section 37, and substituting th
   (3) Where the control of game in any part of a wildlife district is vested in the Department under this section, the provisions of this Act relating to game shall apply with respect to game in that part of the district as if that part were an area under the jurisdiction of a Fish and Game Council; and for that purpose the Director-General shall in that part have all the powers of a Fish and Game Council under this Act.
 
 ### 76 Rangers
-(1) Section 38(2)(c) of the principal Act is hereby amended by omitting the words an acclimatisation society, and substituting the words a Fish and Game Council.
+(1) Section 38(2)﻿(c) of the principal Act is hereby amended by omitting the words an acclimatisation society, and substituting the words a Fish and Game Council.
 (2) Section 38(4) of the principal Act is hereby amended by inserting, after the word constable, the words , and every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of section 59 of the Conservation Act 1987,.
 
 ### 77 Minister's general powers
-(1) Section 41(1)(c) of the principal Act is hereby amended by omitting the words acclimatisation societies,.
+(1) Section 41(1)﻿(c) of the principal Act is hereby amended by omitting the words acclimatisation societies,.
 (2) Section 41(1) of the principal Act is hereby further amended by inserting, after paragraph (f), the following paragraph:.
   (fa) protect and preserve wildlife that are absolutely protected under this Act:
 
@@ -1352,7 +1352,7 @@ The principal Act is hereby amended by inserting, after Part 2, the following Pa
   (3) The administering body shall in the exercise of its functions comply with general policies under this section.
   (4) For the purposes of this section, sections 17B (except subsections (1) and (2)) and 17N (except subsection (2)) of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
     (a) where the draft policy relates solely to the implementation of this Act in relation to reserves administered by bodies other than the Department, the Minister may approve the draft without consulting the Authority; and, in that case,—
-      (i) the Director-General shall send the draft and the summary prepared under section 17B(3)(i) of that Act directly to the Minister; and
+      (i) the Director-General shall send the draft and the summary prepared under section 17B(3)﻿(i) of that Act directly to the Minister; and
       (ii) paragraphs (j) to (l) of section 17B(3) of that Act shall not apply:
     (b) no such general policy shall restrict or affect the exercise of any legal right or power by any person other than the Minister or the Director-General or an administering body.
 
@@ -1427,7 +1427,7 @@ The principal Act is hereby amended by inserting, after section 3, the following
   (1) The Minister may approve statements of general policy for the implementation of this Act in any area or areas; and may from time to time amend any such statement in the light of changing circumstances or increased knowledge.
   (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
   (3) For the purposes of this section, sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
-    (a) in addition to the consultation required by section 17B(3)(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
+    (a) in addition to the consultation required by section 17B(3)﻿(a) of that Act, the Director-General shall also consult the Director-General of Agriculture and Fisheries, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
     (b) as soon as practicable after a draft policy is prepared under section 17B(3) of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a) of this subsection:
     (c) before sending a draft policy to the Conservation Authority, the Director-General shall consider any comments made by the persons referred to in paragraph (a) of this subsection.
   (1) Every conservation management strategy shall establish objectives for the integrated management of marine mammals under this Act.
@@ -1562,7 +1562,7 @@ Section 56(1) of the principal Act is hereby amended by repealing paragraph (d),
 Schedule 1 to the principal Act is hereby amended—
   (a) by repealing so much of that Schedule as relates to the Petroleum Act 1937:
   (b) by repealing so much of that Schedule as relates to the Nature Conservation Council Act 1962:
-  (c) by repealing so much of that Schedule as relates to section 26(8)(a) of the Mining Act 1971:
+  (c) by repealing so much of that Schedule as relates to section 26(8)﻿(a) of the Mining Act 1971:
   (d) by repealing so much of that Schedule as relates to the Ombudsmen Act 1975:
   (e) by repealing so much of that Schedule as relates to the Reserves Act 1977.
 
@@ -1632,16 +1632,16 @@ Schedule 1 to the principal Act is hereby amended—
 
 ### 14 Modification of provisions of Conservation Act 1987
 The operation of the Conservation Act 1987, in its application to the Lake, is hereby modified as follows:
-  (a) Section 26zo of that Act shall not apply:
-  (b) Section 26R(4)(b) of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words the area in that provision were the words the Lake.
+  (a) Section 26ZO of that Act shall not apply:
+  (b) Section 26R(4)﻿(b) of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words the area in that provision were the words the Lake.
 
 ### 5A General provisions relating to general policies and wild animal control plans
 (1) Nothing in any wild animal control plan or statement of general policy under section 5 of this Act shall derogate from-
   (a) any provision in this Act or other enactment; or
   (b) any provision in any conservation management strategy.
-(2) For the purposes of section 5(1)(ca) of this Act, sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
+(2) For the purposes of section 5(1)﻿(ca) of this Act, sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
 
 ### 5B Management of wild animals-The Minister shall administer and manage wild animals in accordance with
-  (a) statements of general policy under section 5(1)(ca) of this Act; and
-  (b) wild animal control plans under section 5(1)(d) of this Act; and
+  (a) statements of general policy under section 5(1)﻿(ca) of this Act; and
+  (b) wild animal control plans under section 5(1)﻿(d) of this Act; and
   (c) conservation management strategies.
