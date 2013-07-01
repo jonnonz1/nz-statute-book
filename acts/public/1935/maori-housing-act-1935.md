@@ -1,5 +1,5 @@
 # Maori Housing Act 1935
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the housing of the Maori people
 
@@ -96,10 +96,10 @@ For the purposes of this Act the Governor-General may from time to time make reg
 Any notice which, for the purposes of this Act, is required to be served on any person shall be deemed to be sufficiently served if it is served in accordance with sections 353 to 360 of the Property Law Act 2007, and all the provisions of that section shall, with any necessary modifications, apply to any such notice accordingly.
 
 ### 14B False statements
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $1,000 who, for the purpose of obtaining any advance under this Act, whether for that person or for any other person,—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $1,000 who, for the purpose of obtaining any advance under this Act, whether for that person or for any other person,—
   (a) makes any statement or declaration knowing it to be false in any particular; or
   (b) wilfully misleads or attempts to mislead any other person involved in the granting of advances under this Act.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information for an offence against this Act may be laid at any time within 12 months after the date of the alleged offence.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 15 Annual statement of accounts
 [Repealed]
