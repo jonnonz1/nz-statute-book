@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2013-06-29_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -1903,13 +1903,13 @@ If, under section 117(3)(b), a local authority or community board resolves not t
 ## Part 7 — Offences
 
 ### 121 Illegal nomination, etc
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who—
+Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
   (a) consents to being nominated as a candidate for an elective office knowing that he or she is incapable under any Act of holding that office; or
   (b) signs a nomination paper purporting to nominate as a candidate a person who is, to the knowledge of the person signing, incapable under any Act of holding that office; or
   (c) signs a nomination paper purporting to nominate another person as a candidate knowing that he or she is not qualified to vote at the election of the person named in the nomination paper as the candidate.
 
 ### 122 Interfering with or influencing voters
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who—
   (a) interferes in any way with any person who is about to vote with the intention of influencing or advising that person as to how he or she should vote:
   (b) prints, publishes, distributes, or delivers to any person (using any medium or means of communication) a document, paper, notice, or message, being or purporting to be in imitation of any voting document to be used at the election or poll that,—
     (i) in the case of an election, includes the name of a candidate or candidates, together with any direction or indication as to the candidate or candidates for whom any person should vote:
@@ -1931,12 +1931,12 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (d) supplies, without authority, a voting document to any person:
   (e) obtains or has possession of any voting document, other than one issued to that person under this Act or any regulations made under this Act for the purpose of recording his or her vote, without authority:
   (f) intentionally destroys, opens, or otherwise interferes with any ballot box or box or parcel of voting documents without authority.
-(2) Every person who commits an offence against subsection (1) is liable on conviction on indictment,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an electoral officer or other electoral official, to imprisonment for a term not exceeding 2 years:
   (b) in the case of any other person, to imprisonment for a term not exceeding 6 months.
 
 ### 124 Voting offences
-Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, who—
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years, who—
   (a) votes or applies to vote more than once at the same election or poll; or
   (b) without authority, removes, deletes, or otherwise interferes with any voting document, or other record of a vote that has been cast.
 
@@ -1952,7 +1952,7 @@ Every person commits an offence, and is liable on conviction on indictment to im
 (2) An elector commits the offence of bribery if,—
   (a) before or during the voting period at the election or poll, he or she, directly or indirectly, on his or her own or by another person, receives, or agrees or contracts for, any money, gift, loan, or valuable consideration, office, place, or employment for himself or herself or for any other person for voting or agreeing to refrain from voting:
   (b) after the voting period at the election or poll, he or she directly or indirectly, on his or her own or by another person, receives any money or valuable consideration on account of any person having voted or refrained from voting or having induced any other person to vote or refrain from voting.
-(3) Every person who commits bribery is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+(3) Every person who commits the offence of bribery is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 126 Treating
 (1) Every person commits the offence of treating who corruptly, before, during, or after an election or poll, and directly or indirectly, on that person's own or by another person, gives or provides, or pays wholly or in part the expense of giving or providing, any food, drink, entertainment, or provision to or for any person—
@@ -1964,7 +1964,7 @@ Every person commits an offence, and is liable on conviction on indictment to im
   (b) to any person, whether an elector or not, for the purpose of obtaining the election of a candidate or affecting the result of a poll, and without receiving payment for it at the time when it is supplied.
 (3) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
 (4) Despite subsections (1) to (3), the provision of light refreshments after any meeting relating to an election or poll does not constitute the offence of treating.
-(5) Every person who commits the offence of treating is liable on conviction or indictment to imprisonment for a term not exceeding 2 years.
+(5) Every person who commits the offence of treating is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 127 Undue influence
 (1) Every person commits the offence of undue influence—
@@ -1974,14 +1974,14 @@ Every person commits an offence, and is liable on conviction on indictment to im
   (b) who, by abduction, duress, or any fraudulent device or means,—
     (i) impedes or prevents the free exercise of the vote of any elector:
     (ii) compels, induces, or prevails upon any elector either to vote or to refrain from voting.
-(2) Every person who commits the offence of undue influence is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+(2) Every person who commits the offence of undue influence is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 128 Personation
 (1) Every person commits the offence of personation who, at any election or poll,—
   (a) votes in the name of some other person (whether living or dead), or of a fictitious person:
   (b) having voted, votes again at the same election or poll:
   (c) having returned a voting document, applies for or returns another voting document with the intention of returning an additional valid voting document or invalidating a vote already cast at the same election or poll (whether or not any voting document he or she returns is valid).
-(2) Every person who commits the offence of personation is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+(2) Every person who commits the offence of personation is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 129 Infringement of secrecy
 (1) Every electoral officer, deputy electoral officer, and other electoral official—
@@ -1998,19 +1998,19 @@ Every person commits an offence, and is liable on conviction on indictment to im
   (b) must not, except as is provided by this Act or regulations made under this Act, communicate any information obtained at that counting as to any candidate for whom, or proposal for or against which, any vote is cast by a particular voter.
 (4) No person may, directly or indirectly, induce any voter to display or provide access to his or her voting document or any copy of that document after it has been marked or transmitted, so as to make known to any person the name of any candidate for or against whom, or proposal for or against which, the voter has voted.
 (5) Every person commits an offence who contravenes or fails to comply with this section.
-(6) Every person who commits an offence against subsection (5) is liable on summary conviction to imprisonment for a term not exceeding 6 months.
+(6) Every person who commits an offence against subsection (5) is liable on conviction to imprisonment for a term not exceeding 6 months.
 
 ### 130 Disclosing voting or state of election or poll
 (1) Every electoral officer, deputy electoral officer, other electoral official, Justice of the Peace, or scrutineer commits an offence who—
   (a) makes known for what candidate or candidates or for which proposal any particular voter has voted for or against, except as provided by this Act or regulations made under this Act; or
   (b) before the close of voting, makes known the state of the election or poll or gives or pretends to give any information by which the state of the election or poll may be known.
 (2) Subsection (1)(b) does not prevent an electoral officer from disclosing the total number of voting documents so far returned at an election or poll at any time during the voting period.
-(3) A person who commits an offence against subsection (1) is liable on summary conviction to a fine—
+(3) A person who commits an offence against subsection (1) is liable on conviction to a fine—
   (a) not exceeding $5,000 for an electoral officer or deputy electoral officer:
   (b) not exceeding $2,000 for any other person.
 
 ### 131 Penalty for electoral officer, deputy electoral officer, and other electoral officials
-Every electoral officer, deputy electoral officer, or other electoral official commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who is guilty of any intentional or reckless act of commission or omission contrary to the provisions of this Act or regulations made under this Act in respect of any election or poll, and for which no other penalty is imposed by this Act or regulations made under this Act.
+Every electoral officer, deputy electoral officer, or other electoral official commits an offence, and is liable on conviction to a fine not exceeding $2,000, who is guilty of any intentional or reckless act of commission or omission contrary to the provisions of this Act or regulations made under this Act in respect of any election or poll, and for which no other penalty is imposed by this Act or regulations made under this Act.
 
 **Electoral expenses**
 
