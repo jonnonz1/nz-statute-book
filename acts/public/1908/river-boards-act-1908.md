@@ -1,15 +1,15 @@
 # River Boards Act 1908
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the constitution of River Boards and the construction of river works
 
 ### 1 Short Title, etc
 (1) The Short Title of this Act is the River Boards Act 1908.
 (2) This Act is a consolidation of the enactments mentioned in Schedule 1 hereto, and with respect to those enactments the following provisions shall apply:
-  (a) All river districts and River Boards subsisting under those enactments on the coming into operation of this Act shall be deemed to be constituted under this Act as the same river districts and Boards under this Act:
-  (b) All members and Chairmen of Boards in office on the coming into operation of this Act shall, subject to the provisions of this Act, continue in office until the coming into office of their successors under this Act:
-  (c) All Corporations, Proclamations, Orders in Council, orders, warrants, petitions, special orders, regulations, resolutions, rolls, lists, ratebooks, rates, records, instruments, offices, appointments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
-  (d) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+  (a) all river districts and River Boards subsisting under those enactments on the coming into operation of this Act shall be deemed to be constituted under this Act as the same river districts and Boards under this Act:
+  (b) all members and Chairmen of Boards in office on the coming into operation of this Act shall, subject to the provisions of this Act, continue in office until the coming into office of their successors under this Act:
+  (c) all Corporations, Proclamations, Orders in Council, orders, warrants, petitions, special orders, regulations, resolutions, rolls, lists, ratebooks, rates, records, instruments, offices, appointments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+  (d) all matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
 
 ### 2 Interpretation
 In this Act, if not inconsistent with the context,—When anything is required to be published, or publicly notified, or public notice of anything is to be given, it is meant that a notice thereof shall be published in some newspaper circulating in the county or river district; or, where there is no such newspaper, then that printed placards containing the notice shall be affixed to public places in the county or river district.
@@ -22,7 +22,7 @@ In this Act, if not inconsistent with the context,—When anything is required t
   - **Secretary** means the Secretary of a River Board
   - **Tidal lands** means such parts of the bed, shore, or banks of a tidal water as are covered and uncovered by the flow and ebb of the tide at ordinary spring tides
   - **Tidal water** means any part of the sea or of a river within the ebb and flow of the tide at ordinary spring tides
-  - **Town lands** means all lands within a borough or town district or in that part of the district of a territorial authority that immediately before the constitution of the district was or formed part of a borough or town district
+  - **Town lands** means all lands within a borough or town district or in that part of the district of a territorial authority that immediately before the constitution of the district was or formed part of a borough or town district.
 
 ### 3 Acts incorporated
 The Local Electoral Act 2001, the Local Government (Rating) Act 2002, and the Public Works Act 1981 are hereby incorporated with this Act, and shall be read therewith.
@@ -34,7 +34,7 @@ The following provisions shall apply to all petitions under this Act:
   (a) The signatures to any such petition shall be verified by the solemn declaration in the form following, signed by some person or persons residing in the district to which such petition refers:I, A. B., do solemnly declare that the signatures affixed to the above petition initialled by me [or which I have marked (Describing the mark)] are the genuine signatures of the persons whose they purport to be, and that such persons are district electors of the [Naming the river or other district] to which the petition relates [or are ratepayers of the river district to which the petition relates].:
   (b) Every person who forges any such petition or any signature thereto, or utters the same knowing it to be forged, or makes any such declaration knowing the same to be false, is liable to a fine not exceeding $100:
   (c) If it is represented to the Governor-General that any of the signatures to any such petition or declaration are false, or that any of the persons signing were not entitled so to sign, or that the statements in such petition are untrue, or that the provisions of this Act in respect to such petition have not been complied with, the Governor-General may cause an inquiry to be made, and may adjourn the consideration of such petition till the result of such inquiry is known:
-  (d) The Governor-General may appoint one or more persons to make such inquiry, who shall have all the powers in respect to the summoning of witnesses and their examination upon oath, and to calling for the production of books and papers touching such inquiry, as may be exercised by or under any law for the time being in force by Justices exercising summary jurisdiction; and any person interested shall be at liberty, by himself or his counsel, to appear before such persons and make such statements and produce such evidence as he thinks material:
+  (d) The Governor-General may appoint one or more persons to make such inquiry, who shall have all the powers in respect to the summoning of witnesses and their examination upon oath, and to calling for the production of books and papers touching such inquiry, as may be exercised by or under any law for the time being in force by Justices; and any person interested shall be at liberty, by himself or his counsel, to appear before such persons and make such statements and produce such evidence as he thinks material:
   (e) The Governor-General shall not grant the prayer of any petition if the result of any such inquiry as aforesaid proves that there are not sufficient true signatures to such petition to make up the number required by this Act, or that the statements in such petitions are untrue, or that the provisions of this Act in respect to such petition have not been complied with.
 
 ### 5 Petitioners may set after their names number of votes they may be entitled to exercise
@@ -84,7 +84,7 @@ The following provisions shall apply to all petitions under this Act:
 (2) Every such Board shall be a Corporation under the name of The [Stating the name] River Board, having perpetual succession and a common seal, with power to make, alter, and renew the same, to purchase, take, hold, and transfer property, real and personal, and to sue and be sued in any Court, and to do and suffer all other acts and things which a body corporate may lawfully do and suffer.
 
 ### 16 Boards prior to 10 November 1884
-(1) Notwithstanding anything in the last preceding section, it is hereby declared that in the case of Boards constituted prior to the 10th day of November 1884 (being the date of the coming into operation of the River Boards Act 1884), the number of their members and the mode of electing, appointing, or selecting the members shall continue under the respective enactments regulating the same and in force immediately prior to the coming into operation of this Act; for which purpose those enactments shall, notwithstanding the repeal thereof, be deemed to remain in operation.
+(1) Notwithstanding anything in the last preceding section, it is hereby declared that in the case of Boards constituted prior to the 10 November 1884 (being the date of the coming into operation of the River Boards Act 1884), the number of their members and the mode of electing, appointing, or selecting the members shall continue under the respective enactments regulating the same and in force immediately prior to the coming into operation of this Act; for which purpose those enactments shall, notwithstanding the repeal thereof, be deemed to remain in operation.
 (2) Notwithstanding anything in subsection (1) of this section, every person who votes at an election of a member or members of a Board held in accordance with any such enactment shall be entitled to exercise only one vote.
 
 ### 17 By whom members elected
@@ -92,8 +92,8 @@ In the case of every river district constituted on or after the date last afores
 
 ### 18 Provision where a local authority forms or elects Board
 The provisions of this Act respecting election of members shall have no application in any case where the members of a local authority—
-  (a) Form the Board; in which case the Board so constituted shall be a River Board within the meaning of this Act, and continue to perform the functions of such Board from time to time without complying with the provisions of this Act relating to elections:
-  (b) Elect any member of the Board; in which case the local authority shall conduct the election in manner as it determines; but in case of failure in making such election an extraordinary vacancy shall be created, and the Governor-General shall nominate a person to be member of the Board to supply such vacancy.
+  (a) form the Board; in which case the Board so constituted shall be a River Board within the meaning of this Act, and continue to perform the functions of such Board from time to time without complying with the provisions of this Act relating to elections:
+  (b) elect any member of the Board; in which case the local authority shall conduct the election in manner as it determines; but in case of failure in making such election an extraordinary vacancy shall be created, and the Governor-General shall nominate a person to be member of the Board to supply such vacancy.
 
 ### 19 Governor-General in Council may declare what bodies shall return members in certain cases
 (1) If at any time it appears to the Governor-General that a local authority or association electing or appointing a member or members of the Board has ceased to exist, or has been incorporated with or united to some other local authority or association, the Governor-General may by Order in Council declare what other local authority or association shall return a member in lieu of the authority or association so ceasing to exist or being incorporated or united as aforesaid.
@@ -111,11 +111,11 @@ The Board may, at any time after the creation of the district, by special order 
 
 ### 22 Corporation to continue, and property of Board dissolved to belong to new Board
 Where a Board is dissolved under the last preceding section, then, on a day to be fixed by the Governor-General in Council, an election of a new Board shall be held, and the following provisions shall apply:
-  (a) The new Board when elected shall be deemed to be the same Corporation as that of the Board which was dissolved (herein referred to as the former Board):
-  (b) All property, real or personal, belonging to the former Board shall become vested in the new Board, and shall be deemed to have been so vested on the day of the dissolution of the former Board:
-  (c) All rates or other money payable to the former Board shall become payable to the new Board:
-  (d) All the liabilities and engagements of the former Board shall become liabilities and engagements of the new Board:
-  (e) All actions and proceedings pending by or against the former Board may be carried on and prosecuted by or against the new Board.
+  (a) the new Board when elected shall be deemed to be the same Corporation as that of the Board which was dissolved (herein referred to as the former Board):
+  (b) all property, real or personal, belonging to the former Board shall become vested in the new Board, and shall be deemed to have been so vested on the day of the dissolution of the former Board:
+  (c) all rates or other money payable to the former Board shall become payable to the new Board:
+  (d) all the liabilities and engagements of the former Board shall become liabilities and engagements of the new Board:
+  (e) all actions and proceedings pending by or against the former Board may be carried on and prosecuted by or against the new Board.
 
 ### 23 Governor-General may appoint a person to make inquiries into property of Board
 In the exercise of the powers given to him by section 21 hereof, the Governor-General may appoint a fit person to make all such inquiries, and examine and inspect all books, papers, and accounts, as may be necessary to ascertain the debts and liabilities of the Board at the time of its dissolution or immediately prior to such time, and what property was or is vested in it; and all expenses incident to the making of such inquiries shall be defrayed by the Board out of its funds.
@@ -139,16 +139,16 @@ Every ratepayer, except as provided in section 112 of the Local Elections and Po
 
 ### 29 Disqualification of members
 (1) No person who—shall be capable of being elected to be a member of a Board or of remaining as a member of a Board.
-  (a) Is convicted of any offence punishable by death or a term of imprisonment of 2 years or more, unless (in the case of a person seeking election) he has obtained a pardon or has served his sentence or otherwise suffered the penalty imposed on him:
+  (a) is convicted of any offence punishable by death or a term of imprisonment of 2 years or more, unless (in the case of a person seeking election) he has obtained a pardon or has served his sentence or otherwise suffered the penalty imposed on him:
   (b)
 (2) In any case to which subsection (1) of this section applies—
-  (a) The disqualification shall not take effect until the expiration of the time for appealing against the conviction and, in the event of an appeal against the conviction, until the appeal is determined; and
-  (b) The member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
+  (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction and, in the event of an appeal against the conviction, until the appeal is determined; and
+  (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
 
 ### 30 Who are ratepayers
 Every person of or over the age of 18 years whose name appears on the valuation roll of a river district, or of any subdivision thereof,—shall be a ratepayer so long as such roll is in force and his name so appears thereon.
-  (a) As the occupier of any property in a district where rates are levied on all property therein:
-  (b) As the owner of any lands in a district where rates are levied on lands only—
+  (a) as the occupier of any property in a district where rates are levied on all property therein:
+  (b) as the owner of any lands in a district where rates are levied on lands only—
 
 ### 30A Ratepayers list
 The Secretary shall cause to be compiled, not later than 21 days before the day on which each triennial general election, by-election, or poll is to be held, a list to be called the ratepayers list containing the name of every person entitled to vote at the election, by-election, or poll.
@@ -161,8 +161,8 @@ The Secretary shall cause to be compiled, not later than 21 days before the day 
 (1) Any person may object to the inclusion in or the removal from the ratepayers list of the names or other details relating to that person or any other person, by notice in writing to the Returning Officer not later than 7 days before the day on which the election, by-election, or poll is to be held.
 (2) Where the Returning Officer does not allow any objection, it shall be referred to a District Court Judge for determination, and the Returning Officer shall make such alterations to the list as may be necessary to give effect to the decision of the District Court Judge.
 (3) The ratepayers list shall come into force—and shall remain in force until another rate-payers list comes into force.
-  (a) Immediately after all objections have been determined and any necessary alterations made; or
-  (b) Where there are no objections, on the day after the last day for objections—
+  (a) immediately after all objections have been determined and any necessary alterations made; or
+  (b) where there are no objections, on the day after the last day for objections—
 
 ### 31 As to number of votes for each ratepayer
 (1) Every ratepayer shall be entitled to vote at every election of a member of the Board, but if the district is subdivided, then only at elections of members of the Board for each subdivision in which he is a ratepayer.
@@ -265,11 +265,11 @@ The Board may at any time hold a special meeting, to be called either on a resol
 
 ### 60 How special orders made
 The power given by this Act to do anything by special order shall be exercised by the Board only as follows:
-  (a) The resolution to do such thing shall be passed at a special meeting:
-  (b) The resolution shall be confirmed at a subsequent meeting (either ordinary or special) held not sooner than the 28th day after the day of the special meeting, and not later than the 42nd day after that special meeting:
-  (c) Public notice of the place and date fixed for the subsequent meeting and of the purport of the resolution shall be given twice during the period of 28 days immediately preceding the date of the subsequent meeting, with an interval of not less than 14 days between the 2 notifications:
-  (d) Written notice of the time and place of the subsequent meeting, under the hand of the Secretary, shall be given to each member of the Board one clear day before the subsequent meeting, which notice shall refer to the said resolution:
-  (e) The notice directed to be given by paragraph (d) of this section shall suffice, even though the subsequent meeting may be a special meeting.
+  (a) the resolution to do such thing shall be passed at a special meeting:
+  (b) the resolution shall be confirmed at a subsequent meeting (either ordinary or special) held not sooner than the 28th day after the day of the special meeting, and not later than the 42nd day after that special meeting:
+  (c) public notice of the place and date fixed for the subsequent meeting and of the purport of the resolution shall be given twice during the period of 28 days immediately preceding the date of the subsequent meeting, with an interval of not less than 14 days between the 2 notifications:
+  (d) written notice of the time and place of the subsequent meeting, under the hand of the Secretary, shall be given to each member of the Board one clear day before the subsequent meeting, which notice shall refer to the said resolution:
+  (e) the notice directed to be given by paragraph (d) of this section shall suffice, even though the subsequent meeting may be a special meeting.
 
 ### 61 Special orders to be notified
 [Repealed]
@@ -337,14 +337,14 @@ The Board may, in the manner provided by the Public Works Act 1981 take any eart
 
 ### 76 Power to enter on lands, etc
 The Board shall, in addition to any other powers given to it by this Act, have and possess the following powers, that is to say:
-  (a) It may, without any previous agreement with the owner or occupier of any land within the district, on giving 24 hours' notice, enter on any such land, whether the same is Crown land or not, and take levels of the same:
-  (b) It may enter on, take, and hold any such land for the purposes of this Act:
-  (c) It may from time to time make, maintain, alter, or discontinue any protective works or any other works whatsoever on any land to be taken as aforesaid, or on any land bounded or intersected by any river or stream under its control or within its jurisdiction, or on any such river or stream, for the purpose of preventing or lessening any damage which may be threatened or has actually occurred by the overflow of any such river or stream or from the breaking of the banks of the same:
-  (d) It may from time to time divert, impound, or take away any water from any such river or stream, or alter the course of the same:
-    Provided that any such power shall be exercised subject to the Resource Management Act 1991.
-  (e) It may for any of the purposes aforesaid, at all reasonable times, by itself, its servants or workmen, and with or without carriages loaded or unloaded, enter into and pass through and over any lands within the district for the purpose of carrying out any works to be constructed under this Act, and for the purpose of maintaining and repairing any existing works, doing thereby no unnecessary or avoidable damage to such lands:
-  (f) It may lay or deposit on any such lands any materials whatsoever to be used in the maintenance or construction of any such works, and may erect thereon any temporary shelter for any workmen or persons engaged in such maintenance or construction, causing thereby as little damage or inconvenience as may be.
-    Provided that any such power shall be exercised subject to the Resource Management Act 1991.
+  (a) it may, without any previous agreement with the owner or occupier of any land within the district, on giving 24 hours' notice, enter on any such land, whether the same is Crown land or not, and take levels of the same:
+  (b) it may enter on, take, and hold any such land for the purposes of this Act:
+  (c) it may from time to time make, maintain, alter, or discontinue any protective works or any other works whatsoever on any land to be taken as aforesaid, or on any land bounded or intersected by any river or stream under its control or within its jurisdiction, or on any such river or stream, for the purpose of preventing or lessening any damage which may be threatened or has actually occurred by the overflow of any such river or stream or from the breaking of the banks of the same:
+  (d) it may from time to time divert, impound, or take away any water from any such river or stream, or alter the course of the same:
+  Provided that any such power shall be exercised subject to the Resource Management Act 1991.
+  (e) it may for any of the purposes aforesaid, at all reasonable times, by itself, its servants or workmen, and with or without carriages loaded or unloaded, enter into and pass through and over any lands within the district for the purpose of carrying out any works to be constructed under this Act, and for the purpose of maintaining and repairing any existing works, doing thereby no unnecessary or avoidable damage to such lands:
+  (f) it may lay or deposit on any such lands any materials whatsoever to be used in the maintenance or construction of any such works, and may erect thereon any temporary shelter for any workmen or persons engaged in such maintenance or construction, causing thereby as little damage or inconvenience as may be.
+  Provided that any such power shall be exercised subject to the Resource Management Act 1991.
 
 ### 77 Board may order trees impeding river or stream to be removed
 (1) The Board may order the occupier, or in case there is no occupier, then the owner of any land on the bank of any river or stream within its jurisdiction to remove any tree, shrub, or bush, or any part thereof hanging in the water and impeding the free flow thereof, or to lower or trim any part of a tree, shrub, or bush overhanging a river or stream and likely to fall therein.
@@ -358,9 +358,9 @@ All rates levied for the purposes of this Act, and other money raised by virtue 
 shall be and the same are hereby vested in and shall be deemed to be the property of the Board.
 
 ### 79 Wilful damage to river works
-Every person who wilfully or maliciously—commits an offence, and is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $200.
-  (a) Stops or obstructs any river, stream, or watercourse that is under the jurisdiction of the Board; or
-  (b) Destroys, damages, stops, or obstructs any river works or drainage works belonging to or under the jurisdiction of the Board,—
+Every person who wilfully or maliciously—commits an offence, and is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $200.
+  (a) stops or obstructs any river, stream, or watercourse that is under the jurisdiction of the Board; or
+  (b) destroys, damages, stops, or obstructs any river works or drainage works belonging to or under the jurisdiction of the Board,—
 
 ### 80 Board may contract with other local authority or any Minister of the Crown
 (1) The Board may from time to time contract, on such terms and conditions as it sees fit, with any other local authority empowered in that behalf, or with any Minister of the Crown, for or with respect to the doing, control, conduct, management, or supervision by either or any of the contracting parties of any of the things hereinbefore provided for, or of any matter or thing which the Board or such other local authority is by law empowered to do, control, and manage.
@@ -396,7 +396,7 @@ Nothing in this Act shall prejudice or affect any power or authority vested in H
 
 ### 89 Tenant may recover rates against landlord in certain cases
 When at the time appointed for the payment of any rate the term for which any tenant or occupier liable to pay such rate is then entitled to occupy the property rated is less than 5 years, computed from the time so appointed, such tenant or occupier shall, notwithstanding any contract to the contrary as between himself and his immediate landlord, be entitled to deduct and retain out of the rent payable by him, or recover from his landlord if such rent is not sufficient for the purpose, the amount of such rate paid by him:
-  Provided that if such tenant or occupier has the power or right to purchase the property rented, the rate paid shall not be so recovered.
+Provided that if such tenant or occupier has the power or right to purchase the property rented, the rate paid shall not be so recovered.
 
 ### 90 Boards of subdivided districts may direct separate rates to be levied
 [Repealed]
@@ -483,13 +483,13 @@ The Board may require from the Secretary, at any time and from time to time, a f
 (1) The Board may from time to time set aside any money to form a fund or funds for the repair, renewal, replacement, or improvement of any property, plant, fixtures, or appliances of the Board, or for the purpose of purchasing additional property, plant, fixtures, or appliances of the class for which the fund or funds is or are established.
 (2) The money so set aside and any other money payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
 (3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of that money in the following manner:
-  (a) In New Zealand Government securities; or
-  (b) On deposit in any bank lawfully carrying on the business of banking in New Zealand or in the Post Office Savings Bank or in any trustee savings bank; or
-  (c) In the Common Fund of Public Trust; or
-  (d) In any other securities that may from time to time be authorised by the Governor-General in Council.
+  (a) in New Zealand Government securities; or
+  (b) on deposit in any bank lawfully carrying on the business of banking in New Zealand or in the Post Office Savings Bank or in any trustee savings bank; or
+  (c) in the Common Fund of Public Trust; or
+  (d) in any other securities that may from time to time be authorised by the Governor-General in Council.
 
 ### 114 Audit Office to audit
-(1) Before the 1st day of October in every year the Secretary shall balance the accounts of the Board for the year that ended with the preceding 31st day of March, and shall prepare a full and true statement of accounts showing all rates made and levied, and all money received and expended, during that year, and of all debts owing by and to the Board at the end of that year.
+(1) Before the 1st day of October in every year the Secretary shall balance the accounts of the Board for the year that ended with the preceding 31 March, and shall prepare a full and true statement of accounts showing all rates made and levied, and all money received and expended, during that year, and of all debts owing by and to the Board at the end of that year.
 (2) Every statement so prepared shall forthwith be signed by the Secretary and submitted to the Audit Office for audit.
 (3) Not later than 2 months after any audited statement has been received from the Audit Office, the Board shall hold either any ordinary meeting or a special meeting to consider the statement and the Audit Office report on it.
 (4) The Chairman shall endorse upon the statement, and the report on it, the fact that it has been considered by the Board and the date of the meeting at which it was so considered.
@@ -502,7 +502,7 @@ The Board may require from the Secretary, at any time and from time to time, a f
 If any money belonging to the Board appears at any time to be in the hands of any person and not to be duly accounted for, such money shall be deemed to be a debt due by such person to the Board, and may be recovered by any person authorised by the Board in that behalf, together with full costs of suit, in any Court of competent jurisdiction.
 
 ### 117 Persons refusing to deliver up money and papers may be imprisoned
-(1) If any officer of the Board or other person fails to render any accounts hereby required, or to deliver up the vouchers in his possession relating thereto, or to pay forthwith on demand the balance thereof as already required, or fails for 5 days after demand thereof to deliver up to the Board, or to any person authorised by the Board to receive the same, all property, matters, and things in his possession or control belonging to the Board or relating to the execution of this Act, any 2 Justices may hear and determine the matter in a summary way, and may order such officer or person to render such accounts, or to deliver up such matters or things, or to pay such balance as hereby required.
+(1) If any officer of the Board or other person fails to render any accounts hereby required, or to deliver up the vouchers in his possession relating thereto, or to pay forthwith on demand the balance thereof as already required, or fails for 5 days after demand thereof to deliver up to the Board, or to any person authorised by the Board to receive the same, all property, matters, and things in his possession or control belonging to the Board or relating to the execution of this Act, any 2 Justices may hear and determine the matter, and may order such officer or person to render such accounts, or to deliver up such matters or things, or to pay such balance as hereby required.
 (2) If such officer or person neglects or refuses to obey such order, he may be committed to prison by any Justice for any period not exceeding 6 months.
 (3) No such proceeding against or dealing with any officer or person as aforesaid shall deprive the Board of any remedy it might otherwise have against any such officer or person or against any surety of such officer, or shall exempt any officer or person from any criminal proceedings to which he might otherwise be liable.
 
@@ -516,17 +516,17 @@ If any money belonging to the Board appears at any time to be in the hands of an
 
 ### 118 Governor-General may proclaim County Council to be River Board
 (1) The Governor-General, if he thinks fit, may by Proclamation declare any County Council or any District Council whose district immediately before its constitution comprised or formed part of a county to be the River Board in respect of any river district the limits whereof are entirely included within the limits of such county or district council district, as the case may be, subject to the conditions following:
-  (a) That a petition of the majority of the ratepayers of the river district is presented to the Governor-General in that behalf, after such petition has been previously publicly notified in the district for not less than 30 days; and
-  (b) That a resolution of the County Council or district council to be affected by such petition, concurring in the prayer thereof, is transmitted to the Governor-General.
+  (a) that a petition of the majority of the ratepayers of the river district is presented to the Governor-General in that behalf, after such petition has been previously publicly notified in the district for not less than 30 days; and
+  (b) that a resolution of the County Council or district council to be affected by such petition, concurring in the prayer thereof, is transmitted to the Governor-General.
 (2) On the proposed constitution of a new river district it shall be sufficient if the matter of the above-mentioned petition is included in any petition presented to the Governor-General praying him to constitute such district; and in such case a separate petition shall not be necessary, but the resolution of the Council shall be indispensable in all cases.
 
 ### 119 Effect of Proclamation
 Every Proclamation issued under the last preceding section shall take effect on a date to be specified therein; and on the coming into effect of such Proclamation—
-  (a) All provisions of this Act relating to the election of members of River Boards, their number, and their continuance in office or retirement therefrom shall be suspended from operation within the district for the whole time wherein the Proclamation aforesaid remains in force:
-  (b) The County Council or District Council for the time being in office shall be the River Board for the river district, and shall have and may exercise all the functions, powers, and duties granted to River Boards by this Act, subject as follows:
-    (i) The Council may exercise all such powers and duties in addition to its ordinary jurisdiction under the Local Government Act 1974, and its proceedings as a River Board shall be regulated under such last-named Act instead of under this Act; excepting that—
-    (ii) Any rate required to be made for the purposes of this Act shall be made under the Local Government (Rating) Act 2002:
-  (c) Every County Council or District Council constituted a River Board shall have not only the powers of such Boards under this Act, but also all powers granted to such Boards under any other Act.
+  (a) all provisions of this Act relating to the election of members of River Boards, their number, and their continuance in office or retirement therefrom shall be suspended from operation within the district for the whole time wherein the Proclamation aforesaid remains in force:
+  (b) the County Council or District Council for the time being in office shall be the River Board for the river district, and shall have and may exercise all the functions, powers, and duties granted to River Boards by this Act, subject as follows:
+    (i) the Council may exercise all such powers and duties in addition to its ordinary jurisdiction under the Local Government Act 1974, and its proceedings as a River Board shall be regulated under such last-named Act instead of under this Act; excepting that—
+    (ii) any rate required to be made for the purposes of this Act shall be made under the Local Government (Rating) Act 2002:
+  (c) every County Council or District Council constituted a River Board shall have not only the powers of such Boards under this Act, but also all powers granted to such Boards under any other Act.
 
 ### 120 Proclamation may be revoked
 The Governor-General, if he thinks fit, may revoke any Proclamation in whole, or as to so much thereof as declares a County Council or District Council to be a River Board; whereupon all suspended provisions of this Act shall be revived and come into operation again on the day of the coming into effect of such Proclamation in the river district affected thereby.
