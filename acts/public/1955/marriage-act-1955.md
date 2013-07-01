@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -317,7 +317,7 @@ With his prior consent, notice of an intended marriage may be given to the Regis
 
 ### 35 Marriage registers
 (1)
-(2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his custody, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+(2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his custody, commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 36 Particulars of marriage to be entered in register book
 [Repealed]
@@ -422,23 +422,23 @@ A service marriage shall be deemed to have been and to be as valid as if it had 
 [Repealed]
 
 ### 56 Offence to deny or impugn validity of lawful marriage
-(1) Every person commits an offence against this Act, and shall be liable on summary conviction to a fine not exceeding 100 pounds, who—
+(1) Every person commits an offence against this Act, and shall be liable on conviction to a fine not exceeding $200, who—
   (a) alleges, expressly or by implication, that any persons lawfully married are not truly and sufficiently married; or
   (b) alleges, expressly or by implication, that the issue of any lawful marriage is illegitimate or born out of true wedlock.
 (2) For the purposes of this section the term alleges means making any verbal statement, or publishing or issuing any printed or written statement, or in any manner authorizing the making of any verbal statement, or in any manner authorizing or being party to the publication or issue of any printed or written statement.
 (3) A person shall not be deemed to make an allegation contrary to the provisions of this section by reason only of using in the solemnization of a marriage a form of marriage service which at the commencement of this Act was in use by the religious body to which that person belongs, or by reason only of the printing or issue of any book containing a copy of a form of marriage service in use at the commencement of this Act by any religious body.
 
 ### 57 Offence to alter register book without authority
-Any person who without the authority of the Registrar-General makes any alteration in a register book, or any person having lawful custody of a register book who permits any such alteration, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+Any person who without the authority of the Registrar-General makes any alteration in a register book, or any person having lawful custody of a register book who permits any such alteration, commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 58 Offence to solemnize marriage contrary to provisions of this Act
-Every Registrar who knowingly and wilfully issues any marriage licence or solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding 300 pounds, or to both.
+Every Registrar who knowingly and wilfully issues any marriage licence or solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $600, or to both.
 
 ### 59 Offence to solemnize marriage falsely pretending to be marriage celebrant
-Every person who falsely pretends to be a marriage celebrant and solemnizes any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+Every person who falsely pretends to be a marriage celebrant and solemnizes any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
 ### 60 Offences in connection with false statements and improper solemnization of marriages
-Every person commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine not exceeding 200 pounds, or to both, who knowingly and wilfully—
+Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $400, or to both, who knowingly and wilfully—
   (a) makes or causes to be made any false declaration for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register book, a false statement of any of the particulars required to be known and registered under the provisions of this Act; or
   (c) notifies any Registrar of the lodgment of a caveat under section 25 if in fact no such caveat has been lodged.
