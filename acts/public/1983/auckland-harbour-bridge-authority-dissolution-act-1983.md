@@ -1,5 +1,5 @@
 # Auckland Harbour Bridge Authority Dissolution Act 1983
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve the Auckland Harbour Bridge Authority
 
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
   (a) all real property (including the bridge) belonging to the Authority, and all rights and obligations attaching thereto, shall be vested in the Crown:
   (b) all other assets, and debts, loan charges, liabilities, and obligations of any nature (other than under contracts of employment), whether present or contingent, belonging to or subsisting immediately before the date of commencement of this Act in the name of or on behalf of the Authority shall become the assets, debts, loan charges, liabilities, and obligations of the Crown.
 (2) The land described in the Schedule shall be deemed to be held by the Crown under the Public Works Act 1981 for a harbour bridge works depot.
-(3) All land vested in the Crown under subsection (1)(a) which does not form part of the bridge and which is not referred to in the Schedule shall be deemed to be held by the Crown for motorway purposes under the Public Works Act 1981.
+(3) All land vested in the Crown under subsection (1)﻿(a) which does not form part of the bridge and which is not referred to in the Schedule shall be deemed to be held by the Crown for motorway purposes under the Public Works Act 1981.
 (4) On receiving a written request from the Minister of Lands incorporating a reference to this section and on the presentation or deposit of such plans as the Registrar may require, the Registrar for the North Auckland Land Registration District shall without fee make such entries in his registers and on any outstanding documents of title and generally do all such things as may be necessary to give effect to the provisions of subsections (1) to (3) in respect of land and interests in land specified in the request.
 (5) All references to the Authority in any security or other document whatever which is subsisting immediately before the date of commencement of this section, or in any notice or other communication served, given, or sent before, on, or after that date in relation to any such security or other document shall, unless the context otherwise requires, be read as references to the Crown.
 
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
 (2) On receiving a written request from the Minister of Lands incorporating a reference to this section and on the presentation to him of such plans as he may require, the Registrar for the North Auckland Land Registration District shall without fee note the provisions of subsection (1) on the appropriate folio of the proper register.
 
 ### 7 Saving of bylaws and bylaw-making powers
-(1) Notwithstanding the repeal of the Auckland Harbour Bridge Act 1950 but subject to section 3(2) of this Act, all bylaws made by the Authority under the Auckland Harbour Bridge Act 1950, shall become bylaws of the Board, and may be revoked or altered by the Board as if they had been made under section 22AB of the Land Transport Act 1998, but until so revoked every such bylaw shall remain in force.
+(1) Notwithstanding the repeal of the Auckland Harbour Bridge Act 1950 but subject to section 3(2) of this Act, all bylaws made by the Authority under the Auckland Harbour Bridge Act 1950 shall become bylaws of the Board, and may be revoked or altered by the Board as if they had been made under section 22AB of the Land Transport Act 1998, but until so revoked every such bylaw shall remain in force.
 (2) In addition to any powers to make bylaws that the Board may have under any other Act, the Board may from time to time, in respect of the bridge, make, revoke, or alter any bylaw as it thinks fit for all or any of the following purposes:
   (a) protecting any property belonging to the Crown, or controlled by the Crown, from damage or injury:
   (b) conserving public health, safety, and convenience, and preventing and abating nuisances on the bridge:
@@ -53,7 +53,7 @@ In this Act, unless the context otherwise requires,—
 (3) The making, revocation, or alteration of any such bylaw shall be by resolution of the Board and be done in the same manner as the Board may make, revoke, and alter bylaws under section 22AB of the Land Transport Act 1998.
 (4) Before making any bylaw that is likely to affect, or altering any bylaw in such a way that it is likely to affect, the navigation or control of the Waitemata Harbour, the Board shall consult, and take into account the views of, the Auckland Harbour Board.
 (5) For the purposes of the Land Transport Act 1998, any bylaw made under this section is to be treated as being made under section 22AB of the Land Transport Act 1998.
-(6) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+(6) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
 
 ### 8 Rights of navigation, etc
 Except as provided in section 7, neither this Act nor the repeal by section 18 of the enactments specified in that section shall authorise the Board or any other person to prevent, hinder, or in any way interfere with the control and jurisdiction of the Auckland Harbour Board over the Waitemata Harbour or with the passage or repassage of any ship or vessel under the bridge.
