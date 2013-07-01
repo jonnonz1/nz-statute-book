@@ -1,7 +1,7 @@
 # Children's Health Camps Board Dissolution Act 1999
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2013-07-01_
 
-> An Act to— a dissolve the Children's Health Camps Board; and b transfer its assets and liabilities to a foundation incorporated under Part 2 of the Charitable Trusts Act 1957; and c provide for incidental matters
+> An Act to—adissolve the Children's Health Camps Board; andbtransfer its assets and liabilities to a foundation incorporated under Part 2 of the Charitable Trusts Act 1957; andcprovide for incidental matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Children's Health Camps Board Dissolution Act 1999.
@@ -89,7 +89,7 @@ Subject to this Act, the Trustee Act 1956 applies to the Foundation.
 (2) No person may,—
   (a) for the purposes of sale, apply or cause to be applied to any article the emblem of the Foundation or any colourable imitation of that emblem without the prior written consent of the Foundation; or
   (b) knowing that the emblem of the Foundation or any colourable imitation of that emblem has been applied to any article without the prior written consent of the Foundation, sell that article, or cause it to be sold, or offer or expose that article for sale, or cause it to be offered or exposed for sale.
-(3) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ## Schedule 1 — Enactments repealed
 
