@@ -1,5 +1,5 @@
 # Farm Ownership Savings Act 1974
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to encourage saving for farm ownership
 
@@ -17,7 +17,7 @@ This Act may be cited as the Farm Ownership Savings Act 1974.
   - **Commissioner** means the Commissioner of Inland Revenue appointed under the State Sector Act 1988; and includes any person for the time being authorised (whether by delegation by him or otherwise) to exercise or perform any of his powers or functions
   - **Corporation** means The National Bank of New Zealand Limited
   - **depositor** means any individual or, in the case of a joint Account, any 2 individuals for whose benefit a Farm Ownership Account has been opened and maintained
-  - **farm** , in relation to any depositor, means any agricultural, pastoral, or horticultural land or any acquacultural land or aquacultural area suitable, in the opinion of the Corporation, as an agricultural, pastoral, horticultural, or acquacultural holding for the depositor
+  - **farm** , in relation to any depositor, means any agricultural, pastoral, or horticultural land or any aquacultural land or aquacultural area suitable, in the opinion of the Corporation, as an agricultural, pastoral, horticultural, or aquacultural holding for the depositor
   - **Farm Ownership Account** means an Ordinary Farm Ownership Account and a Special Farm Ownership Account
   - **farm ownership requirements** , in relation to a depositor, means the use for farming purposes of money withdrawn by him, pursuant to a withdrawal certificate, from his Special Farm Ownership Account and the compliance by him with section 14I
   - **farming purposes** , in relation to a depositor, means—
@@ -102,7 +102,7 @@ No person shall be entitled to open an Ordinary Farm Ownership Account unless he
 (1) Subject to section 6(2), where the Corporation is satisfied that a depositor intends to become, for the first time, a sharefarmer and that the depositor has not, pursuant to section 7, received a purchase grant then (notwithstanding section 7), there shall (to the extent to which the eligible savings of the depositor are in the opinion of the Corporation to be used by him in order to purchase farming livestock or farming plant or machinery for the purpose of sharefarming in New Zealand), be paid by the Corporation to the depositor—
   (a) where the terminating date is not less than 3 years but less than 6 years after the qualifying date, a purchase grant equal to 25% of the depositor's eligible savings:
   (b) where the terminating date is not less than 6 years after the qualifying date, a purchase grant calculated in accordance with paragraphs (b) to (f) of section 7(1).
-(2) Notwithstanding subsection (1), the percentage specified in subsection (1)(a) may, from time to time, be varied by the Governor-General by Order in Council.
+(2) Notwithstanding subsection (1), the percentage specified in subsection (1)﻿(a) may, from time to time, be varied by the Governor-General by Order in Council.
 (3) No purchase grant, pursuant to this section, shall be paid to any depositor in respect of any eligible savings which are, earlier than 3 years after the qualifying date of his Ordinary Farm Ownership Account, withdrawn from that Account.
 (4) Notwithstanding the foregoing provisions of this section, no person shall be entitled to receive a purchase grant under this section unless, in the opinion of the Corporation, at the time he applies for the grant, he possesses sufficient knowledge and experience to enable him competently to engage in the kind of sharefarming in which he intends to engage and has an agreement with the proprietor of any agricultural, pastoral, or horticultural land to work that land as a sharefarmer for a term of at least 3 years or such shorter period as the Corporation may approve.
 
@@ -183,7 +183,7 @@ Where at the time a depositor opens a Special Farm Ownership Account he is also 
 (3) Any withdrawal certificate may be issued subject to such terms and conditions as are set forth in the certificate and which the Corporation considers it necessary or desirable to impose to ensure that any amount withdrawn from a Special Farm Ownership Account pursuant to the certificate is used by the depositor for the purposes for which the certificate was issued.
 (4) Where any depositor has, pursuant to a withdrawal certificate withdrawn any amount from his Special Farm Ownership Account and redeposits the whole or any part of that amount in his Account, the withdrawal certificate shall be cancelled by the Corporation to the extent of the amount redeposited and the Commissioner notified accordingly.
 (5) Any withdrawal certificate shall cease to have any force or effect on or after any date that may be specified therein in that behalf or, if no such date is specified therein, on the expiration of 6 months after the date of the certificate.
-(6) Subject to section 14D(3)(b), every withdrawal certificate shall require the authorised savings institution to close the Special Farm Ownership Account of the depositor.
+(6) Subject to section 14D(3)﻿(b), every withdrawal certificate shall require the authorised savings institution to close the Special Farm Ownership Account of the depositor.
 
 ### 14G Ineligible depositors
 Notwithstanding anything in this Act, no depositor shall be eligible to obtain a withdrawal certificate in respect of a Special Farm Ownership Account if, in the opinion of the Corporation, the depositor would not be eligible for any benefits under Part 1 if the Special Farm Ownership Account were an Ordinary Farm Ownership Account:
@@ -253,7 +253,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
     (i) fails, within a reasonable time after being required to do so, to supply in writing to the Corporation any information requested by the Corporation for the purpose of ascertaining whether or not the terms and conditions under which the purchase grant was paid have been fulfilled or whether or not any event has taken place by reason of which the purchase grant or any part thereof is repayable:
       provided that no person shall be required to supply any information tending to incriminate himself; or
     (ii) supplies any information knowing it to be false in any material particular.
-(2) Any person who commits an offence under subsection (1) is liable on summary conviction—
+(2) Any person who commits an offence under subsection (1) is liable on conviction—
   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000; and
   (b) to repay in full to the Corporation any purchase grant wrongfully obtained.
 
@@ -262,7 +262,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
 (2) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under that subsection—
   (a) prescribing the mode of making application for purchase grants:
   (b) prescribing the procedure for payment of purchase grants:
-  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on summary conviction not exceeding $200 in respect of any such offences.
+  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on conviction not exceeding $200 in respect of any such offences.
 
 ### 18 Consequential amendment
 [Repealed]
@@ -287,7 +287,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
   (a) the Corporation must issue to the depositor a withdrawal certificate under section 14F for the balance of the Account (less the amount of any deposit referred to in subsection (4)) as at the time of its closure, notwithstanding that the depositor would not otherwise be entitled to receive a withdrawal certificate under Part 2; and
   (b) nothing in sections 14I to 14L (which impose certain restrictions where a withdrawal certificate has been issued, and may require the payment of withdrawal tax under Part I of the Income Tax Act 2004 if those restrictions are breached) applies in respect of the withdrawal for which the withdrawal certificate is issued.
 (4) If a person with a Special Farm Ownership Account makes any deposit into that Account during the period 15 May 1998 to 30 June 1998 (both dates inclusive), the amount of the deposit, to the extent that it is not subsequently withdrawn in accordance with section 14D(2) before the closure of the Account under this section,—
-  (a) is to be excluded from the withdrawal certificate given under subsection (3)(a); and
+  (a) is to be excluded from the withdrawal certificate given under subsection (3)﻿(a); and
   (b) falls to be treated as withdrawal income subject to withdrawal tax in accordance with subpart IZ of the Income Tax Act 2004.
 
 ### 21 Parts 1 to 3 to continue to apply to persons making deposits after 30 June 1998
