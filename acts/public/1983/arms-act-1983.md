@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -100,7 +100,7 @@ In this Act, unless the context otherwise requires,—
 (2) Every application for a dealer's licence shall be made on a form provided by a member of the Police.
 (3) A dealer's licence shall be issued if the commissioned officer of Police to whom the application is made is satisfied that the applicant is a fit and proper person to carry on the business of a dealer in, or manufacturer for sale of, firearms, airguns, pistols, and restricted weapons.
 (3A) Despite subsections (1) to (3), no dealer's licence is to be issued for the carrying on of business as a dealer in, or manufacturer for sale of, anti-personnel mines or cluster munitions.
-(4) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who contravenes subsection (1).
+(4) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 6 Dealer's licence to be personal to holder
 A dealer's licence shall be personal to the person to whom it is issued, and shall not be transferable or vest by operation of law in any person other than the person to whom it is issued.
@@ -129,13 +129,13 @@ A dealer's licence may be revoked at any time by the Commissioner.
     (i) from a holder of a firearms licence that bears an endorsement made under section 30; or
     (ii) from a licensed dealer.
 (2) Notwithstanding anything in subsection (1), a licensed dealer does not contravene that subsection if, on obtaining possession of any pistol or restricted weapon from any person, the licensed dealer immediately surrenders the pistol or restricted weapon to the nearest Arms Office for inspection and inquiries.
-(3) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who contravenes subsection (1).
+(3) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who contravenes subsection (1).
 
 ### 11 Dealers and their employees and agents to hold firearms licences
 (1) No natural person, being—shall sell any firearm, airgun, pistol, or restricted weapon unless he is the holder of a firearms licence.
   (a) a licensed dealer; or
   (b) an employee or agent of a licensed dealer,—
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
 ### 12 Record of dealings by licensed dealers
 (1) Every licensed dealer shall keep at the place of business referred to in his licence a book in which he shall record such particulars as may be prescribed by regulations made under this Act, relating to the receipt, sale, or manufacture by him of any firearms, airguns, pistols, or restricted weapons.
@@ -145,7 +145,7 @@ A dealer's licence may be revoked at any time by the Commissioner.
   (c) permit any member of the Police to inspect—
     (i) any firearms, airguns, pistols, or restricted weapons in his possession; and
     (ii) the premises in which, and the conditions under which, his stock of firearms, airguns, pistols, or restricted weapons is kept.
-(3) Every licensed dealer commits an offence and is liable on summary conviction to a fine not exceeding $500 who acts in contravention of subsection (1) or subsection (2).
+(3) Every licensed dealer commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of subsection (1) or subsection (2).
 
 ### 13 Seizure of firearms, ammunition, airguns, pistols, and restricted weapons held by licensed dealers
 (1) Any member of the Police may, on being authorised to do so by warrant under the hand of the Commissioner, seize and take possession of all or any firearms, ammunition, airguns, pistols, or restricted weapons in the possession of or under the control of a licensed dealer.
@@ -161,7 +161,7 @@ A dealer's licence may be revoked at any time by the Commissioner.
 Where a dealer's licence is revoked under section 9, the dealer may, within 3 months thereafter or within such longer period as the Commissioner may allow, sell, or otherwise dispose of, to persons approved for the purpose by a commissioned officer of Police the firearms, ammunition, airguns, pistols, and restricted weapons in his possession or under his control at the date of the revocation of the licence.
 
 ### 15 Offence for licensed dealer to carry on business following revocation of his licence
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, being a person whose dealer's licence has been revoked under section 9,—any firearm, ammunition, airgun, pistol, or restricted weapon.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, being a person whose dealer's licence has been revoked under section 9,—any firearm, ammunition, airgun, pistol, or restricted weapon.
   (a) sells by way of business; or
   (b) has any business interest in—
 (2) Nothing in subsection (1) applies in respect of—
@@ -175,10 +175,10 @@ Where a dealer's licence is revoked under section 9, the dealer may, within 3 mo
   (a) any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon; or
   (b) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon,—
 (2) In this section New Zealand does not include the harbours and other territorial waters of New Zealand.
-(3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000 or to both who acts in contravention of subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000 or to both who acts in contravention of subsection (1).
 
 ### 17 Burden of proof
-Without prejudice to section 67(8) of the Summary Proceedings Act 1957, in any proceedings against any person in respect of any offence against section 16 of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, or restricted weapon which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
+In any proceedings against any person in respect of any offence against section 16 of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, or restricted weapon which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
 
 ### 18 Issue of permits to import firearms or parts of firearms
 (1) Any member of the Police to whom application is made for the issue of a permit for the purposes of section 16(1)—
@@ -211,13 +211,13 @@ If any member of the Police or officer of the Customs has reasonable grounds to 
 ### 20 Restrictions on possession of firearms
 (1) Except as provided in this Act or as otherwise provided in regulations made under this Act, no person shall have a firearm in his possession unless he is of or over the age of 16 years and is the holder of a firearms licence.
 (2) The holding of a firearms licence shall not in itself entitle any person to have a pistol or a military style semi-automatic firearm or a restricted weapon in that person's possession.
-(3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
 
 ### 21 Restrictions on possession of airguns
 (1) Except as otherwise provided in this Act or as otherwise provided in regulations made under this Act, no person shall have an airgun in his possession unless—
   (a) he is of or over the age of 18 years; or
   (b) he is between 16 years and 18 years of age and is the holder of a firearms licence.
-(2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who acts in contravention of subsection (1).
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who acts in contravention of subsection (1).
 (3) Nothing in this section applies in relation to the possession of specially dangerous airguns.
 
 ### 22 Exemptions
@@ -269,7 +269,7 @@ If any member of the Police or officer of the Customs has reasonable grounds to 
   (a) shall produce the licence for inspection whenever required to do so by any member of the Police:
   (b) shall maintain the licence in such a condition that it may be produced in an undefaced and legible condition.
 (2) The holder of a firearms licence issued pursuant to this Act shall be deemed to have complied with subsection (1)(a) if, within 7 days after having been so required to produce his licence or permit, he produces it at a place specified by the member of the Police.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, being the holder of a firearms licence, fails to comply with subsection (1).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, being the holder of a firearms licence, fails to comply with subsection (1).
 
 ### 27 Revocation and surrender of firearms licence
 (1) Where, in the opinion of a commissioned officer of Police,—the commissioned officer of Police may, by notice in writing under his hand, revoke the firearms licence, and the person to whom that firearms licence has been issued shall upon demand surrender the licence to a member of the Police.
@@ -292,7 +292,7 @@ Without limiting the generality of sections 24 and 27, it is hereby declared tha
 (2) Any person whose firearms licence is revoked or surrendered may, at any time within 3 months thereafter or such longer period as the Commissioner may allow, sell or otherwise dispose of any firearm, pistol, or restricted weapon owned by him to a person approved for the purpose by a member of the Police.
 (3) Subject to subsection (2), all firearms, pistols, or restricted weapons delivered to a member of the Police pursuant to this section may be detained for such period as the Commissioner thinks fit, or may, in the discretion of the Minister of Police, become the property of the Crown, free and discharged from all right, title, or interest possessed in respect thereof by any other person.
 (4) The Minister of Finance shall pay out of a Crown Bank Account compensation for the value of all firearms, pistols, or restricted weapons delivered to a member of the Police under this section and which have become the property of the Crown as hereinbefore provided.
-(5) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
+(5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
 
 ### 29 Application for endorsements in respect of pistol or restricted weapon
 (1) Any person, being—may apply at an Arms Office to a member of the Police for an endorsement permitting that person to have possession of that kea gun.
@@ -364,7 +364,7 @@ Notwithstanding anything in this Act, a person who is not entitled under this Ac
 ### 34 Notification of change of address
 (1) Every holder of a firearms licence who changes his address shall, within 30 days after doing so, give notice in writing thereof to the Arms Office nearest to his new address.
 (2) Every holder of a firearms licence, being a licence that bears an endorsement permitting the holder to have possession of a pistol, military style semi-automatic firearm, or restricted weapon, who intends to change his address, shall notify an Arms Office of the arrangements made for the safe custody of the pistol, military style semi-automatic firearm, or restricted weapon during its shift to the new address.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who contravenes subsection (1) or subsection (2).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1) or subsection (2).
 
 **Photographs**
 
@@ -393,7 +393,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 ### 36 Offence to carry pistol or restricted weapon without authority
 (1) No person shall carry a pistol or restricted weapon in any place beyond the curtilage of his dwelling, save under and in accordance with the conditions endorsed on his firearms licence by a member of the Police.
 (2) Any such endorsement may be at any time revoked by any commissioned officer of Police.
-(3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 or to both who carries a pistol or restricted weapon contrary to the provisions of subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 or to both who carries a pistol or restricted weapon contrary to the provisions of subsection (1).
 (4) In any prosecution for an offence against subsection (3), in which it is proved that the defendant carried a pistol or restricted weapon in any place beyond the curtilage of his dwelling, the burden of proving that the pistol or restricted weapon carried by the defendant was carried by him under and in accordance with the conditions endorsed on his firearms licence by a member of the Police shall lie upon the defendant.
 (5) It is a good defence to a prosecution for an offence against subsection (3) if the defendant proves—
   (a) that he is the holder of a firearms licence; and
@@ -415,7 +415,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 
 ### 38 Removal of pistol, military style semi-automatic firearm, or restricted weapon out of New Zealand
 (1) Every holder of a firearms licence who intends to remove any pistol, military style semi-automatic firearm, or restricted weapon out of New Zealand shall give not less than 4 days' notice of the intended removal to an Arms Office and shall deliver to that office his firearms licence for amendment of the endorsement.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
 **Miscellaneous obligations in respect of firearms, airguns, pistols, and restricted weapons**
 
@@ -423,25 +423,25 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 (1) Whenever a firearm, pistol, or restricted weapon is lost or stolen, or a pistol or restricted weapon is destroyed, the owner—
   (a) shall forthwith give notice in writing thereof to a Police station; and
   (b) shall give all information in his possession relating to the loss, theft, or destruction.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
 ### 40 On demand by Police person in possession of firearm, airgun, pistol, or restricted weapon to give name, address, and date of birth
 (1) Every person in possession of any firearm, airgun, pistol, or restricted weapon shall, on demand, give his full name, address, and date of birth to any member of the Police who is in uniform or who produces evidence that he is a member of the Police.
 (2) If any person refuses to give his name, address, or date of birth or gives false particulars thereof, any member of the Police—may arrest him without warrant.
   (a) may caution that person; and
   (b) if that person persists in such refusal or fails or continues to fail to give the correct particulars,—
-(3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, in response to a demand under subsection (1), refuses to give his name, address, or date of birth or gives false particulars thereof to any member of the Police.
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, in response to a demand under subsection (1), refuses to give his name, address, or date of birth or gives false particulars thereof to any member of the Police.
 
 ### 41 Powers of Police to require surrender of airguns or antique firearms
 (1) Where any person who is not the holder of a firearms licence or a dealer's licence is in possession of an airgun or an antique firearm, a commissioned officer of Police may, by notice in writing served on that person, require that person to surrender the airgun or antique firearm to a member of the Police, if that officer is of the opinion that that person is not a fit and proper person to be in possession of the airgun or antique firearm.
 (2) Where any person is served with a notice pursuant to subsection (1), that person shall, on demand, deliver the airgun or antique firearm to a member of the Police and subsections (2) to (4) of section 28 shall apply accordingly with all necessary modifications.
 (3) Any person required, under this section, to surrender an airgun or antique firearm may appeal under section 62 against the requirement, and that section shall apply accordingly with all necessary modifications.
-(4) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who fails to comply with a notice given to him pursuant to subsection (1).
+(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who fails to comply with a notice given to him pursuant to subsection (1).
 
 **Offences**
 
 ### 42 Offences in respect of licences
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who—
   (a) adds to a licence any words or figures extraneous to the licence as issued; or
   (b) alters on or erases from any licence any words or figures; or
   (c) uses or retains any licence—
@@ -455,7 +455,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 (3) It is not an offence against paragraph (c) of subsection (1) to use or retain a licence if the only addition, alteration, or erasure to it was made by a member of the Police acting under this Act or by any other person acting under regulations made under this Act.
 
 ### 43 Selling or supplying firearm or airgun to unlicensed person
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who—
   (a) sells or supplies a firearm (other than a pistol, military style semi-automatic firearm, or restricted weapon) to any person who is not the holder of a firearms licence or a dealer's licence or a permit issued for the purposes of section 16(1); or
   (b) sells or supplies an airgun to any natural person who is under the age of 18 years and is not the holder of a firearms licence.
 (2) In any prosecution for an offence against subsection (1) in which it is proved,—
@@ -471,7 +471,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 (4) A defendant may, in the case of a prosecution relating to the sale or supply of a firearm or airgun to any person, discharge the burden of proof placed on him by subsection (2) by proving that he took reasonable steps to ascertain whether that person was the holder of a firearms licence or was of or over the age of 18 years, as the case may require.
 
 ### 43A Mail order sale of firearm or ammunition
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who sells by mail order a firearm or any ammunition for a firearm or restricted weapon otherwise than pursuant to a written order—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who sells by mail order a firearm or any ammunition for a firearm or restricted weapon otherwise than pursuant to a written order—
   (a) signed by the purchaser; and
   (b) bearing an endorsement signed by a member of the Police and stating that the member of the Police—
     (i) has inspected the purchaser's firearms licence; and
@@ -481,7 +481,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (b) any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of section 22(1) applies.
 
 ### 43B Restriction on sales of ammunition
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who sells or supplies ammunition for any firearm or restricted weapon to a person who is not—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who sells or supplies ammunition for any firearm or restricted weapon to a person who is not—
   (a) the holder of a firearms licence; or
   (b) a licensed dealer.
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant sold or supplied ammunition for a firearm or restricted weapon to any person, the burden of proving that that person was—shall lie on the defendant.
@@ -496,7 +496,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 (5) Nothing in this section applies in relation to any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of section 22(1) applies.
 
 ### 44 Selling or supplying pistol, military style semi-automatic firearm, or restricted weapon to person who does not hold permit to import or to procure
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who sells or supplies a pistol, military style semi-automatic firearm, or restricted weapon to any person other than a person who is authorised—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who sells or supplies a pistol, military style semi-automatic firearm, or restricted weapon to any person other than a person who is authorised—
   (a) by a permit issued for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand that pistol, military style semi-automatic firearm, or restricted weapon; or
   (b) by a permit issued under section 35 to procure that pistol, military style semi-automatic firearm, or restricted weapon.
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant sold or supplied a pistol or a military style semi-automatic firearm or a restricted weapon to any person, the burden of proving that that person was the holder of—shall lie on the defendant.
@@ -510,25 +510,25 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 (4) A defendant may, in the case of a prosecution relating to the sale or supply of a pistol, military style semi-automatic firearm, or restricted weapon to any person, discharge the burden of proof placed on him by subsection (2) by proving that he took reasonable steps to ascertain whether that person was the holder of a permit of the kind described in paragraph (a) or paragraph (b) of subsection (1).
 
 ### 45 Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 4 years or to a fine not exceeding $5,000 or to both who, except for some lawful, proper, and sufficient purpose,—any firearm, airgun, pistol, restricted weapon, or explosive.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 4 years or to a fine not exceeding $5,000 or to both who, except for some lawful, proper, and sufficient purpose,—any firearm, airgun, pistol, restricted weapon, or explosive.
   (a) carries; or
   (b) is in possession of—
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was carrying or in possession of any firearm, airgun, pistol, restricted weapon, or explosive, as the case may require, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
 
 ### 46 Carrying of imitation firearm, except for lawful, proper, and sufficient purpose
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $4,000 or to both who, except for some lawful, proper, and sufficient purpose, carries an imitation firearm.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $4,000 or to both who, except for some lawful, proper, and sufficient purpose, carries an imitation firearm.
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was carrying an imitation firearm, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
 
 ### 47 Being in charge of firearm, airgun, pistol, or restricted weapon while under the influence of drink or drug
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $3,000 or to both who, while in charge of any firearm, airgun, pistol, or restricted weapon, is under the influence of drink or a drug to such an extent as to be incapable of having proper control of the firearm, airgun, pistol, or restricted weapon.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $3,000 or to both who, while in charge of any firearm, airgun, pistol, or restricted weapon, is under the influence of drink or a drug to such an extent as to be incapable of having proper control of the firearm, airgun, pistol, or restricted weapon.
 
 ### 48 Discharging firearm, airgun, pistol, or restricted weapon in or near dwellinghouse or public place
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $3,000 or to both who, without reasonable cause, discharges a firearm, airgun, pistol, or restricted weapon in or near—so as to endanger property or to endanger, annoy, or frighten any person.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $3,000 or to both who, without reasonable cause, discharges a firearm, airgun, pistol, or restricted weapon in or near—so as to endanger property or to endanger, annoy, or frighten any person.
   (a) a dwellinghouse; or
   (b) a public place,—
 
 ### 49 Using, discharging, or carrying certain firearms except for some lawful, proper, or sufficient purpose
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful, proper, and sufficient purpose, uses, discharges, or carries anywhere any firearm of the kind known as—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful, proper, and sufficient purpose, uses, discharges, or carries anywhere any firearm of the kind known as—
   (a) a bolt gun or a stud gun:
   (b) a humane killer:
   (c) a tranquilliser gun:
@@ -541,10 +541,10 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant used, discharged, or carried a firearm of a kind described in that subsection, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
 
 ### 49A Unlawful possession of firearm or airgun after revocation of firearms licence
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $4,000 or to both who, being a person whose firearms licence has been revoked, is in possession of a firearm or airgun at a time when that person is not the holder of a firearms licence, and is not a person authorised, expressly or by implication, by or pursuant to this Act, to be in possession of that firearm or airgun.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $4,000 or to both who, being a person whose firearms licence has been revoked, is in possession of a firearm or airgun at a time when that person is not the holder of a firearms licence, and is not a person authorised, expressly or by implication, by or pursuant to this Act, to be in possession of that firearm or airgun.
 
 ### 50 Unlawful possession of pistol, military style semi-automatic firearm, or restricted weapon
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who—
   (a) is in possession of a pistol and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that pistol; or
   (b) is in possession of a restricted weapon and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that restricted weapon:
   (c) is in possession of a military style semi-automatic firearm and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that military style semi-automatic firearm.
@@ -562,41 +562,41 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (b) that at all times while the defendant was in possession of the pistol he was both on such a range and under the immediate supervision of such a person.
 
 ### 51 Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or a fine not exceeding $4,000 or to both who, except for some lawful purpose,—any firearm, airgun, pistol, ammunition, explosive, or restricted weapon.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or a fine not exceeding $4,000 or to both who, except for some lawful purpose,—any firearm, airgun, pistol, ammunition, explosive, or restricted weapon.
   (a) carries in a public place; or
   (b) has in his possession in any public place—
 (2) In any prosecution for an offence against subsection (1), in which it is proved that the defendant was carrying in any public place or had in his possession in any public place any firearm, airgun, pistol, ammunition, explosive, or restricted weapon, the burden of proving the existence of some lawful purpose shall lie on the defendant.
 
 ### 52 Presenting firearm, airgun, pistol, or restricted weapon at other person
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful and sufficient purpose, presents a firearm, airgun, pistol, or restricted weapon (whether or not the firearm, airgun, pistol, or restricted weapon is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile) at any other person.
-(2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful or sufficient purpose, presents at any person anything which, in the circumstances, is likely to lead that person to believe that it is a firearm, airgun, pistol, or restricted weapon.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful and sufficient purpose, presents a firearm, airgun, pistol, or restricted weapon (whether or not the firearm, airgun, pistol, or restricted weapon is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile) at any other person.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful or sufficient purpose, presents at any person anything which, in the circumstances, is likely to lead that person to believe that it is a firearm, airgun, pistol, or restricted weapon.
 
 ### 53 Careless use of firearm, airgun, pistol, or restricted weapon
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who causes bodily injury to or the death of any person by carelessly using a firearm, airgun, pistol, or restricted weapon.
-(2) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who, being a person who has in his charge or under his control a firearm, airgun, pistol, or restricted weapon loaded with a shot, bullet, cartridge, missile, or projectile, whether in its breech, barrel, chamber, or magazine, leaves that firearm, airgun, pistol, or restricted weapon in any place in such circumstances as to endanger the life of any person without taking reasonable precautions to avoid such danger.
-(3) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who, without reasonable cause, discharges or otherwise deals with a firearm, airgun, pistol, or restricted weapon in a manner likely to injure or endanger the safety of any person or with reckless disregard for the safety of others.
-(4) It shall be no defence to the crime of manslaughter that the guilty act or omission proved against the person charged upon the indictment is an act or omission constituting an offence against this section.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who causes bodily injury to or the death of any person by carelessly using a firearm, airgun, pistol, or restricted weapon.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who, being a person who has in his charge or under his control a firearm, airgun, pistol, or restricted weapon loaded with a shot, bullet, cartridge, missile, or projectile, whether in its breech, barrel, chamber, or magazine, leaves that firearm, airgun, pistol, or restricted weapon in any place in such circumstances as to endanger the life of any person without taking reasonable precautions to avoid such danger.
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who, without reasonable cause, discharges or otherwise deals with a firearm, airgun, pistol, or restricted weapon in a manner likely to injure or endanger the safety of any person or with reckless disregard for the safety of others.
+(4) It shall be no defence to the crime of manslaughter that the guilty act or omission proved against the person charged is an act or omission constituting an offence against this section.
 
 ### 54 Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent arrest or commit offence
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who makes or attempts to make any use whatsoever of any restricted weapon, imitation firearm, ammunition, or explosive with intent to resist or prevent the lawful arrest or detention of himself or another person.
-(2) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who, at the time of his committing an offence punishable by imprisonment for a term of 3 years or more, has in his possession any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who makes or attempts to make any use whatsoever of any restricted weapon, imitation firearm, ammunition, or explosive with intent to resist or prevent the lawful arrest or detention of himself or another person.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, at the time of his committing an offence punishable by imprisonment for a term of 3 years or more, has in his possession any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive.
 (3) It is a good defence to a prosecution for an offence against subsection (2) if the defendant proves that he had the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in his possession for a lawful purpose.
 
 ### 55 Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent
-(1) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who has with him any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, with intent to commit an offence punishable by imprisonment for a term of 3 years or more or to resist arrest or prevent the arrest of another person, in either case while he has the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who has with him any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, with intent to commit an offence punishable by imprisonment for a term of 3 years or more or to resist arrest or prevent the arrest of another person, in either case while he has the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him.
 (2) In a prosecution for an offence against subsection (1), proof that the defendant had any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him and intended to commit an offence, or to resist or prevent arrest, is evidence that he intended to have it with him while doing so.
 
 ### 56 Obstruction of member of Police
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who obstructs a member of the Police in the exercise of any right of entry, search, seizure, or detention conferred by this Act.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who obstructs a member of the Police in the exercise of any right of entry, search, seizure, or detention conferred by this Act.
 
 ### 57 Offences committed by corporations
-When an offence against this Act punishable by imprisonment (whether or not it is also punishable by a fine) is committed by a corporation, the corporation shall be liable on summary conviction to a fine not exceeding $4,000.
+When an offence against this Act punishable by imprisonment (whether or not it is also punishable by a fine) is committed by a corporation, the corporation shall be liable on conviction to a fine not exceeding $4,000.
 
 ### 58 Reporting of injuries caused by firearms, airguns, pistols, or restricted weapons
 (1) Every person who causes bodily injury to or the death of any person by the use of a firearm, airgun, pistol, or restricted weapon, shall, as soon as reasonably practicable, report the incident in person—
   (a) at the nearest Police station; or
   (b) to a member of the Police.
-(2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
 
 ### 59 Unsafe firearms or pistols
 (1) Where, in the opinion of a commissioned officer of Police, any firearm or pistol is unsafe, that commissioned officer may, by notice in writing to the owner of that firearm or pistol, require the owner to ensure that that firearm or pistol is brought to a safe standard of repair and produced to a member of the Police within a period or by a date specified in the notice.
@@ -604,7 +604,7 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 (3) Any owner of a firearm or pistol who is required—may appeal under section 62 against the requirement, and that section shall apply accordingly with all necessary modifications.
   (a) by a notice under subsection (1) to ensure that a firearm or pistol is brought to a safe standard of repair and produced to a member of the Police within a period or by a date specified in the notice; or
   (b) by a notice under subsection (2) to surrender a firearm or pistol to a member of the Police,—
-(4) Every owner of a firearm or pistol commits an offence and is liable on summary conviction to a fine not exceeding $500 who fails to comply with a notice given to him under subsection (2) in respect of that firearm or pistol.
+(4) Every owner of a firearm or pistol commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with a notice given to him under subsection (2) in respect of that firearm or pistol.
 (5) Nothing in this section applies in respect of an antique firearm.
 
 **Search and seizure of firearms**
@@ -648,8 +648,8 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 The amount of compensation payable under any of the provisions of this Act in respect of any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, explosive, or other property shall not in any case exceed the actual market value thereof, and in case of dispute shall be determined, upon application by way of originating application by a District Court Judge, whose decision, subject to section 64, shall be final.
 
 ### 64 Appeal on a question of law
-(1) Where any party to any appeal under section 62 or to any application under section 63 is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
-(2) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act which are applied in that Part), as far as they are applicable and with the necessary modifications, so far as they relate to appeals on points of law only by way of case stated, shall apply with respect to every appeal under subsection (1).
+(1) Where any party to any appeal under section 62 or to any application under section 63 is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court on the question of law only.
+(2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 **Restoration of articles seized**
 
@@ -696,7 +696,7 @@ For the purposes of this Act every person in occupation of any land or building 
 Where an offence is committed against this Act or against any regulation made under this Act by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 
 ### 68 Time for prosecutions not limited
-Section 14 of the Summary Proceedings Act 1957 shall have no application to prosecutions for offences against this Act.
+Section 25 of the Criminal Procedure Act 2011 shall have no application to prosecutions for offences against this Act.
 
 ### 69 Forfeitures
 (1) When any person is convicted of using, carrying, or being in possession of any firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive in breach of this Act, the convicting court may, as part of the conviction, order that any such firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive shall be forfeited to the Crown.
@@ -841,39 +841,3 @@ Where a person who was the holder of a firearms licence on 1 November 1992 and w
   (a) that firearms licence or a letter explaining why that person is unable to produce that firearms licence; or
   (b) the photographs required by that notice.
 (3) Where a firearms licence is reinstated under subsection (1), a member of the Police shall forthwith proceed to consider under section 36 whether that person is a fit and proper person to be in possession of a firearm or airgun and sections 36 and 37 shall, with all necessary modifications, apply accordingly.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
