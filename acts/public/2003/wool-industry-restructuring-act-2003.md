@@ -1,5 +1,5 @@
 # Wool Industry Restructuring Act 2003
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Wool Industry Restructuring Act 2003.
@@ -487,7 +487,7 @@ The following activities are specified activities for the purpose of this Act:
 (6) The auditor must report to the Minister and the company on any matters that the auditor considers relevant to the inspection.
 
 ### 54 Offences and self-incrimination
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who—
   (a) intentionally makes a false or misleading levy return; or
   (b) intentionally fails or refuses to comply with sections 44, 45, 46(4), or 49; or
   (c) wilfully prevents, obstructs, or hinders a person exercising or attempting to exercise any of the powers conferred by section 51(1) and (2); or
