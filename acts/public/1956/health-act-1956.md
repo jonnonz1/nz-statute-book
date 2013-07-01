@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -440,7 +440,7 @@ In any case where it appears that a nuisance existing within the district of a l
   (a) an adequate and convenient supply of water that is potable (as defined in section 69G), available for the inmates of the dwelling:
   (b) suitable appliances for the disposal of refuse water in a sanitary manner:
   (c) sufficient sanitary conveniences available for the inmates of the dwelling.
-(2) Every person commits an offence and is liable to a fine not exceeding $500 who contravenes or fails to comply in any respect with any of the provisions of this section.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes or fails to comply in any respect with any of the provisions of this section.
 (3) Where any building intended for use as a dwellinghouse is erected or rebuilt in contravention of this section, or where any building or part of a building is let or sublet as a dwellinghouse in contravention of this section, the owner of the building, or, in the case of any such subletting as aforesaid, the person for the time being entitled to receive the rent payable in respect of the subletting, shall be liable, in addition to any penalty under the last preceding subsection, to a fine not exceeding $50 for every day during which the building so erected or rebuilt or any part thereof, or, as the case may be, the building or part thereof so let or sublet, is inhabited while not in conformity with the requirements of this section.
 
 ### 40 Sanitary requirements for business premises
@@ -533,7 +533,7 @@ A local authority may make advances to any owner upon whom an order or notice is
 (3) No person shall carry on any offensive trade except on premises for the time being registered by the local authority in accordance with regulations made under this Act.
 (4) No person shall carry on any offensive trade established in contravention of subsection (1), or carry on any offensive trade in any premises erected or extended in contravention of that subsection.
 (5) Any local authority may, in its discretion, refuse to register or to renew the registration of any premises under this section, and, subject to any regulations made under this Act, may impose such conditions as it thinks fit in respect of the registration or renewal of registration of the premises.
-(6) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
+(6) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
 (7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the Resource Management Act 1991.
 
 ### 55 Appeal against decision of local authority or medical officer of health
@@ -554,7 +554,7 @@ A local authority may make advances to any owner upon whom an order or notice is
 (3) Any local authority may refuse to register or to renew the registration of any premises under this section if—
   (a) the medical officer of health certifies that the premises are maintained in an insanitary condition; and
   (b) the owner or occupier of the premises, after the certificate is given, fails to comply with a requisition from the local authority requiring the carrying out of such sanitary improvements as the medical officer of health deems necessary.
-(4) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
+(4) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
 (5) For the purposes of this section, the expression stock saleyard means any premises used or intended to be used as a saleyard for cattle, horses, sheep, swine, or goats.
 
 ### 59 Appeal against decision of local authority or medical officer of health
@@ -563,21 +563,16 @@ Any person who is aggrieved by the refusal of any local authority or of the medi
 **Pollution of watercourses, etc**
 
 ### 60 Pollution of water supply
-(1) Every person commits an offence and is liable to a fine not exceeding $1,000 who directly or indirectly pollutes the water supply of the district of any local authority, or any portion of that supply, in such a manner as to make the water dangerous to health, or offensive, or unfit for domestic use.
-(2) Every person commits an offence, and is liable to a fine not exceeding $1,000, who directly or indirectly pollutes any watercourse that passes through a borough, town district, urban area of the district of a district council, or a community within the meaning of the Local Government Act 1974, whether or not that watercourse forms part of the water supply of the borough, town district, urban area, or community, unless he satisfies the court that no part of the watercourse within the limits of the borough, town district, urban area, or community is thereby made dangerous to health or offensive.
-(3) In subsection (2) the term urban area, in relation to the district of a district council, means a part of the district that immediately before the constitution of the district was a borough or town district or part of a borough or town district.
+[Repealed]
 
 ### 61 Control of watercourses, etc
-(1)
-(2) The Governor-General may, if he thinks fit in the interests of public health, by Order in Council declare that any specified watercourse, stream, lake, or other source of water supply, or any specified portion thereof, shall be under the control of any local authority for the purpose of preventing the pollution thereof, notwithstanding that it may not be within the district of that local authority or on land belonging to that local authority, and every such notice, until it is in like manner revoked, shall have effect according to its tenor.
+[Repealed]
 
 ### 62 Supply of water from polluted source
-(1) Where the medical officer of health certifies in writing to a local authority that any watercourse, stream, lake, or other source of water supply, or any portion thereof, under the control of that local authority for the purposes of this Act is so polluted that the water therein or therefrom is dangerous to health, the local authority shall forthwith cease to supply or permit to be used for domestic purposes any water from that source or portion thereof, as the case may be, and shall not supply or permit to be used any such water so long as the certificate of the medical officer of health remains in force.
-(2) Any certificate by a medical officer of health under this section may be at any time revoked as soon as the medical officer of health is satisfied that the water from the source or portion thereof referred to in the certificate is no longer dangerous to health.
+[Repealed]
 
 ### 63 Powers of Director-General as to polluted water supply
-(1) If any local authority contravenes or fails to comply with any of the provisions of the last preceding section, the Director-General may, at the expense in all things of the local authority, cause all necessary measures to be taken for preventing the use of water from any polluted source of water supply, and for remedying any dangerous condition of that water supply.
-(2) All expenses incurred by the Director-General under this section, together with an additional amount not exceeding 5% thereof, may be recovered from the local authority as a debt due to the Crown, or may be deducted from any money payable by the Crown to that local authority.
+[Repealed]
 
 **Bylaws**
 
@@ -624,7 +619,7 @@ With respect to bylaws under this Act the following provisions shall apply:
 (2) For the purposes of this section, the terms building, building code, and performance criteria have the meanings ascribed to them by the Building Act 2004.
 
 ### 66 Penalties for breach of bylaws
-(1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and is liable to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day on which the offence has continued.
+(1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and is liable on conviction to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day on which the offence has continued.
 (2) The local authority may, after the conviction of any person for a continuing offence against any bylaw, apply to any court of competent jurisdiction for an injunction to restrain the further continuance of the offence by the person so convicted.
 (3) The continued existence of any work or thing in a state contrary to any bylaw shall be deemed to be a continuing offence within the meaning of this section.
 
@@ -1509,7 +1504,7 @@ Every compliance order must state—
 
 ### 69ZZO Contamination of raw water or pollution of water supply
 (1) Every person commits an offence who does any act likely to contaminate any raw water or pollute any drinking water, knowing that the act is likely to contaminate or pollute that water, or being reckless as to the consequences of that act.
-(2) Every person who commits an offence under subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $200,000, or both.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $200,000, or both.
 
 ### 69ZZP Local authority may be required to warn users of self-supplied building water supplies about contamination
 (1) A medical officer of health who believes that a source of water for a drinking-water supply is contaminated in a way that affects or is likely to affect self-supplied building water supplies provided from that source may issue a notice to the territorial authority or regional council responsible for the area to which water is supplied from that source, or to both.
@@ -1532,7 +1527,7 @@ Every compliance order must state—
     (i) registered under section 69K; or
     (ii) authorised to supply water by a medical officer of health:
   (b) exports raw water or drinking water while not registered under section 69K.
-(3) Every person who commits an offence against subsection (1) or (2) is liable on summary conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(3) Every person who commits an offence against subsection (1) or (2) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
 
 ### 69ZZR Offences against sections in this Part
 (1) Every person commits an offence who contravenes, or permits a contravention of, any of the following:
@@ -1577,15 +1572,15 @@ Every compliance order must state—
   (d) falsifies, removes, suppresses, or tampers with any samples, test procedures, or test results taken under, or for the purposes of,—
     (i) the drinking-water standards; or
     (ii) a drinking-water supplier's public health risk management programme.
-(2) Every person who commits an offence against subsection (1) is liable to the penalty set out in section 69ZZV(1).
+(2) Every person who commits an offence against subsection (1) is liable on conviction to the penalty set out in section 69ZZV(1).
 
-### 69ZZU Time for laying information
-Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence under this Part may be laid by any person at any time within 3 years of the time when the matter of the information arose.
+### 69ZZU Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Part ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 69ZZV Penalties
-(1) Every person who commits an offence against section 69ZZR(1) or 69ZZT is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
-(2) Every person who commits an offence against section 69ZZR(2) is liable on summary conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
-(3) Every person who commits an offence against section 69ZZR(3) or (4) is liable on summary conviction to a fine not exceeding $5,000.
+(1) Every person who commits an offence against section 69ZZR(1) or 69ZZT is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+(2) Every person who commits an offence against section 69ZZR(2) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(3) Every person who commits an offence against section 69ZZR(3) or (4) is liable on conviction to a fine not exceeding $5,000.
 (4) The continued existence of any thing, or the intermittent repetition of any action, that constitutes an offence under section 69ZZR is a continuing offence for the purposes of this section.
 
 ### 69ZZW Additional penalty for certain offences for commercial gain
@@ -1732,7 +1727,7 @@ This Part does not apply to any water—
     (iii) personnel involved in loading, moving, unloading, distributing, erecting, or otherwise dealing with anything transported or to be transported under subparagraph (i) or subparagraph (ii):
   (c) by requisition in writing served on the occupier of any premises or on any person for the time being in charge of any premises, require to be delivered to him or in accordance with his order such drugs and articles of food or drink, and such other materials, as he deems necessary for the treatment of patients.
 (2) Every person who suffers any loss or damage by the exercise of any of the powers conferred on the medical officer of health by this section shall be entitled to compensation to be determined in case of dispute by a District Court, whose decision shall be final.
-(3) Every person who refuses or fails to comply with any requisition under this section, or who counsels, procures, aids, or incites any other person so to do, or who interferes with or obstructs the medical officer of health or any person acting under the authority of the medical officer of health in the exercise of any powers under this section, commits an offence and is liable on summary conviction before a District Court Judge to a fine not exceeding $1,000.
+(3) Every person who refuses or fails to comply with any requisition under this section, or who counsels, procures, aids, or incites any other person so to do, or who interferes with or obstructs the medical officer of health or any person acting under the authority of the medical officer of health in the exercise of any powers under this section, commits an offence and is liable on conviction before a District Court Judge to a fine not exceeding $1,000.
 
 ### 71A Power of constables to assist medical officer of health in relation to infectious diseases
 (1) A constable may do any thing reasonably necessary (including the use of force)—
@@ -1755,7 +1750,7 @@ This Part does not apply to any water—
 (6) A constable does not incur any personal liability by reason of anything done by him or her in good faith in the exercise or intended exercise of a power conferred by this section.
 
 ### 72 Offences relating to obstructing medical officer of health or people assisting medical officer of health
-A person commits an offence and is liable to imprisonment for a term not exceeding 6 months, a fine not exceeding $4,000, or both who in any way (directly or indirectly, by act or default)—
+A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months, a fine not exceeding $4,000, or both who in any way (directly or indirectly, by act or default)—
   (a) threatens, assaults, or intentionally obstructs or hinders a medical officer of health or any person authorised by a medical officer of health in the exercise or performance of powers or functions under section 70 or 71; or
   (b) threatens, assaults, or intentionally obstructs or hinders a constable acting under section 71A; or
   (c) does anything forbidden by a medical officer of health or any person authorised by a medical officer of health under section 70 or 71; or
@@ -1780,7 +1775,7 @@ A person commits an offence and is liable to imprisonment for a term not exceedi
 (2) The person for the time being in charge of a medical laboratory to whom results are reported under subsection (1) (or who himself or herself becomes aware of results of a kind to which that subsection applies) must immediately tell the health practitioner for whom the test or other procedure concerned was undertaken, and the medical officer of health, of the infectious nature of the disease concerned.
 (3) A person who fails to comply with subsection (2)—
   (a) commits an offence against this Act; and
-  (b) is liable to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
+  (b) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
 
 ### 74A National Cervical Screening Register
 [Repealed]
@@ -1921,10 +1916,10 @@ Every medical practitioner who attends or advises any patient for or in respect 
 (3) For the purposes of this section the term child means a person under the age of 16 years.
 
 ### 91 Persons other than medical practitioners treating venereal disease
-Every person, other than a medical practitioner, who undertakes for payment or other reward the treatment or cure of any venereal disease commits an offence and is liable, on summary conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
+Every person, other than a medical practitioner, who undertakes for payment or other reward the treatment or cure of any venereal disease commits an offence and is liable, on conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
 
 ### 92 Infecting any person with venereal disease
-Every person who knowingly infects any other person with a venereal disease, or knowingly does or permits or suffers any act likely to lead to the infection of any other person with any such disease, commits an offence and is liable, on summary conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
+Every person who knowingly infects any other person with a venereal disease, or knowingly does or permits or suffers any act likely to lead to the infection of any other person with any such disease, commits an offence and is liable, on conviction before a District Court Judge, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 1 year, or to both.
 
 ## Part 3A — Trading in human blood and controlled human substance
 
@@ -2090,10 +2085,10 @@ The master of every ship liable to quarantine shall cause the prescribed quarant
 (2) On arriving in New Zealand, the master shall complete and deliver to the medical officer of health or the health protection officer a maritime declaration in the prescribed form.
 (3) The form shall be countersigned by the ship's medical officer (if there is one).
 (4) The master, and the medical officer (if there is one), shall from time to time supply to the medical officer of health, or to any person acting under the authority of that officer, any further information required by the medical officer of health or the health protection officer relating to the state of health of any person who was on board the ship on its arrival in New Zealand.
-(5) The master or the medical officer commits an offence and is liable to a fine not exceeding $1,000 if the master or medical officer—
+(5) The master or the medical officer commits an offence and is liable on conviction to a fine not exceeding $1,000 if the master or medical officer—
   (a) refuses, or fails without reasonable excuse, to comply with any of the preceding provisions of this section; or
   (b) gives to the medical officer of health, or to any person acting under the authority of that officer, any declaration, answer, or information that the master or medical officer knows to be false or misleading.
-(6) The master or medical officer, or any other person, commits an offence and is liable to a fine not exceeding $2,000 if the master, medical officer, or other person deceives or attempts to deceive the medical officer of health, or any person acting under the authority of that officer, in respect of any matter with intent—
+(6) The master or medical officer, or any other person, commits an offence and is liable on conviction to a fine not exceeding $2,000 if the master, medical officer, or other person deceives or attempts to deceive the medical officer of health, or any person acting under the authority of that officer, in respect of any matter with intent—
   (a) to obtain pratique; or
   (b) to influence in any other respect the exercise by or on behalf of the medical officer of health of any authority conferred on that officer by this Part.
 
@@ -2121,13 +2116,13 @@ If any person on board any ship, or arriving by any aircraft, is found to be suf
 (2) Subsection (1) does not empower the medical officer of health or a health protection officer to enter a private dwellinghouse.
 (3) A person who fails to comply with a direction under subsection (1)—
   (a) commits an offence against this Act; and
-  (b) is liable to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
+  (b) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
 
 ### 110 Disinfection and fumigation of craft
 (1) The medical officer of health or a health protection officer may, if he or she believes that a craft is in an insanitary condition or in a condition favourable to the outbreak or spread of an infectious disease, sign and give to the master or pilot a written order requiring the craft to be cleansed, fumigated, disinfected, or treated, in a manner, within a time, and at a place stated in the order.
 (2) The order may be given whether or not the craft is liable to quarantine.
 (3) If the order is not complied with,—
-  (a) the master or pilot commits an offence, and is liable to a fine not exceeding $10,000; and
+  (a) the master or pilot commits an offence, and is liable on conviction to a fine not exceeding $10,000; and
   (b) the medical officer of health or a health protection officer may have the craft cleansed, fumigated, disinfected, or treated (whether in accordance with the order or otherwise).
 (4) All expenses incurred by the Crown in acting under subsection (3)﻿(b) are recoverable from the owner or agents of the craft as a debt due to the Crown.
 (5) No action taken in respect of a craft under paragraph (b) of subsection (3) limits the liability of its master or pilot under paragraph (a) of that subsection.
@@ -2139,9 +2134,9 @@ If any person on board any ship, or arriving by any aircraft, is found to be suf
 (2) Where the medical officer of health boards any ship under this section he may require any person on board the ship who in his opinion may be suffering from any infectious disease to submit to any prescribed examination, and that person shall submit to such examination accordingly.
 
 ### 112 Offences
-(1) The master of any ship who permits any person liable to quarantine to leave that ship without the authority of the medical officer of health or health protection officer commits an offence and is liable, on summary conviction before a District Court Judge, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both.
-(2) Every person on any ship who, being liable to quarantine, leaves the ship without the authority of the medical officer of health or health protection officer commits an offence and is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both. Every person who commits an offence against this subsection may be arrested without warrant by any constable, or by the medical officer of health or any person authorised by him in that behalf, and may be taken in custody to the ship or to any hospital or place of isolation, and may be detained until he is released from quarantine pursuant to section 98.
-(3) Every person arriving by any aircraft who, being liable to quarantine, leaves the aerodrome, or that part of the aerodrome in which passengers are lawfully detained pending the granting of pratique, or any place where he is lawfully detained pending his release from quarantine, without the authority of the medical officer of health commits an offence and is liable, on summary conviction before a District Court Judge, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both. Every person who commits an offence against this subsection may be arrested without warrant by any constable, or by the medical officer of health or any person authorised by him in that behalf, and may be taken in custody to that aerodrome or place or to any hospital or place of isolation, and may be detained there until he is released from quarantine pursuant to section 98.
+(1) The master of any ship who permits any person liable to quarantine to leave that ship without the authority of the medical officer of health or health protection officer commits an offence and is liable, on conviction before a District Court Judge, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both.
+(2) Every person on any ship who, being liable to quarantine, leaves the ship without the authority of the medical officer of health or health protection officer commits an offence and is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both. Every person who commits an offence against this subsection may be arrested without warrant by any constable, or by the medical officer of health or any person authorised by him in that behalf, and may be taken in custody to the ship or to any hospital or place of isolation, and may be detained until he is released from quarantine pursuant to section 98.
+(3) Every person arriving by any aircraft who, being liable to quarantine, leaves the aerodrome, or that part of the aerodrome in which passengers are lawfully detained pending the granting of pratique, or any place where he is lawfully detained pending his release from quarantine, without the authority of the medical officer of health commits an offence and is liable, on conviction before a District Court Judge, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or to both. Every person who commits an offence against this subsection may be arrested without warrant by any constable, or by the medical officer of health or any person authorised by him in that behalf, and may be taken in custody to that aerodrome or place or to any hospital or place of isolation, and may be detained there until he is released from quarantine pursuant to section 98.
 (4) Every person commits an offence against this Act who contravenes or fails to comply in any respect with any provision of this Part or with any requirement or direction of the medical officer of health or health protection officer pursuant to any such provision.
 
 ### 112AA Sections 70 and 71 and this Part operate independently
@@ -2554,7 +2549,7 @@ Sections 112ZG to 112ZN do not affect the application of sections 22 to 25 of th
 ### 112ZP Offences
 (1) Every person commits an offence against this Act who, without reasonable excuse, fails to comply with the requirements of any of section 112J(1), section 112Y(1), (3)﻿(e), or (4)﻿(b), or section 112Z.
 (2) Every person commits an offence against this Act who, without reasonable excuse, fails to make available any information or specimens that the person is required to make available under any of sections 112ZB, 112ZC, and 112ZD.
-(3) Every person who commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $10,000.
+(3) Every person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $10,000.
 
 ## Part 5 — Air pollution
 
@@ -2824,10 +2819,10 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 If in the performance of any duty imposed on him by or pursuant to this Act the owner of any premises is obstructed in any way by the occupier, or the occupier by the owner, the one who obstructs or hinders the other commits an offence against this Act.
 
 ### 136 General penalty for offences
-Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
+Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
 
 ### 137 Offences punishable on summary conviction
-Every offence against this Act or against any regulations or bylaws made under this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 137A Incorporation of material by reference into regulations and compliance documents
 (1) The following material may be incorporated by reference into any regulations, standards, or other compliance documents (instruments) made or issued under the provisions of this Act (other than Part 4A):
