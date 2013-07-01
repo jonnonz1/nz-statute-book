@@ -1,5 +1,5 @@
 # Commonwealth Games Symbol Protection Act 1974
-_Consolidation as at 1974-06-29_
+_Consolidation as at 2013-07-01_
 
 > An Act to control the use of the official symbol of the Xth British Commonwealth Games
 
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
 (3) Nothing in subsection (1) shall apply—
   (a) to the use of the symbol by The Shipping Corporation of New Zealand Limited for any purpose for which the Corporation was entitled to use it immediately before the commencement of this Act:
   (b) to the use by any person for any purpose of any article incorporating in its design or imprinted with the symbol, if that article was lawfully manufactured in or imported into New Zealand before the commencement of this Act.
-(4) Every person who acts in contravention of subsection (1) commits an offence and shall be liable on summary conviction to a fine not exceeding $200.
+(4) Every person who acts in contravention of subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding $200.
 (5) In any prosecution for an offence against this section it shall be for the defendant to prove that he acted with the consent of the Minister, or that the act complained of was not an offence by virtue of subsection (3).
 
 ### 4 Minister may consent to use of symbol, and impose conditions
