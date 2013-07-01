@@ -1,5 +1,5 @@
 # Family Courts Act 1980
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish Family Courts as divisions of District Courts, and to provide for the constitution, jurisdiction, powers, and procedures of Family Courts
 
@@ -123,7 +123,7 @@ Every District Court shall have a division, to be known as the Family Court.
       (D) any school that a person who is the subject of proceedings under the Children, Young Persons, and Their Families Act 1989 is or was attending, or any other particulars likely to lead to the identification of that school:
   (b) a publication of statistical information relating to the proceedings.
 (5) The court may grant leave under subsection (3) with or without conditions.
-(6) Every person who contravenes this section commits an offence against this Act and is liable on summary conviction,—
+(6) Every person who contravenes this section commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, either to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (7) Subsection (6) does not limit the power of a court to punish any contempt of court.
@@ -170,7 +170,7 @@ Notwithstanding anything in section 11, a District Court may—
 (1) Subject to the succeeding provisions of this section, the District Courts Act 1947 shall apply, with any necessary modifications, to Family Courts and Family Court Judges in the same manner and to the same extent as it applies to District Courts and District Court Judges.
 (2) Where any of the provisions of this Act conflict with any of the provisions of the District Courts Act 1947, the provisions of this Act shall prevail.
 (3) Nothing in section 22 of the District Courts Act 1947 shall apply in respect of Family Court Judges or the business of Family Courts.
-(4) Nothing in sections 73 to 78A of the District Courts Act 1947 applies to Family Courts, Family Court Judges, or the business of Family Courts, except to the extent that some enactment other than that Act provides.
+(4) Nothing in sections 73 to 78 of the District Courts Act 1947 applies to Family Courts, Family Court Judges, or the business of Family Courts, except to the extent that some enactment other than that Act provides.
 
 ### 16A Family Courts Rules
 (1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of Family Courts in proceedings that the Family Court has jurisdiction to hear and determine.
