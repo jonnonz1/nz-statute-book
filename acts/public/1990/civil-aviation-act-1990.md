@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1208,14 +1208,14 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 
 ### 43 Endangerment caused by holder of aviation document
 (1) Every holder of an aviation document commits an offence who, in respect of any activity or service to which the document relates, does or omits to do any act or causes or permits any act or omission, if the act or omission causes unnecessary danger to any other person or to any property.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
 
 ### 43A Operating aircraft in careless manner
 (1) Every person commits an offence who operates any aircraft in a careless manner.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $7,000; or
   (b) in the case of a body corporate, to a fine not exceeding $35,000.
 (3) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
@@ -1227,14 +1227,14 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (2) Every person commits an offence who—in a manner which causes unnecessary danger to any other person or to any property.
   (a) causes or permits any aircraft, aeronautical product, or aviation related service to be operated, maintained, or serviced; or
   (b) causes or permits any other act to be done in respect of any aircraft, aeronautical product, or aviation related service,—
-(3) Every person who commits an offence against subsection (1) or subsection (2) is liable,—
+(3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (4) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
 
 ### 44A Failure to comply with inspection or monitoring request
 (1) Every person commits an offence who, without reasonable excuse, fails to comply with any requirement of the Director under subsection (1) or subsection (3) of section 15.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000 and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence is continued.
 
@@ -1248,7 +1248,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Every person commits an offence who—any aircraft, aeronautical product, or aviation related service, either without holding the appropriate current aviation document or knowing that a current aviation document is required to be held in respect of that aircraft, product, or service before that act may lawfully be done and knowing that the appropriate aviation document is not held.
   (a) operates, maintains, or services; or
   (b) does any other act in respect of—
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -1257,7 +1257,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (a) does not hold an appropriate current medical certificate issued under Part 2A or a medical certificate recognised by the Director under the rules; or
   (b) knows or has reasonable grounds to suspect that he or she can no longer exercise safely the privileges to which his or her medical certificate relates; or
   (c) fails to comply with any conditions, restrictions, or endorsements specified by the Director under section 27B(4).
-(2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000.
 
 ### 46B Fraudulent, misleading, or intentionally false statements to obtain medical certificate
 (1) Every person commits an offence who makes or causes to be made—
@@ -1265,21 +1265,21 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (b) any fraudulent, misleading, or intentionally false entry in any logbook, record, form, or report that is required to be kept, made, or used to show compliance with any conditions, restrictions, or endorsements placed on any medical certificate under Part 2A; or
   (c) any reproduction or alteration for fraudulent purposes of any medical certificate issued under Part 2A; or
   (d) any fraudulent, misleading, or intentionally false statement during an investigation under section 27H or a review under section 27L or an assessment under section 27M.
-(2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000.
 
 ### 46C Failure to disclose information required by Director
 (1) Every person commits an offence who fails to disclose, without reasonable excuse, information required by the Director under section 27C(1) or section 27H.
-(2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000.
 
 ### 46D Failure to provide information to Director relating to Australian AOCs with ANZA privileges
 (1) Every person commits an offence who conducts an air operation in New Zealand while in breach of section 11B(1) or (2).
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
 ### 46E Failure to cease conducting air operations in New Zealand
 (1) Every person commits an offence who fails to comply with section 11C(3).
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -1291,7 +1291,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 
 ### 48 Applying for aviation document while disqualified
 (1) Every person commits an offence who applies for or obtains an aviation document while disqualified by an order of the court from obtaining such a document and any such document so obtained shall be of no effect.
-(2) Every person who commits an offence against subsection (1) is liable,—and the court may order the person to be disqualified from holding or obtaining an aviation document for such period not exceeding 12 months as the court thinks fit.
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—and the court may order the person to be disqualified from holding or obtaining an aviation document for such period not exceeding 12 months as the court thinks fit.
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $2,000; or
   (b) in the case of a body corporate, to a fine not exceeding $20,000,—
 
@@ -1300,7 +1300,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (a) by any means, provides to the Authority or the Director information relevant to the Authority's or the Director's exercise of powers under this Act, or under regulations or rules made under this Act, knowing the information to be false; or
   (b) being an applicant for an aviation document, fails, without reasonable excuse, to provide to the Authority or the Director information known to that person which is relevant to the Authority's or the Director's exercise of powers under this Act, or under regulations or rules made under this Act; or
   (c) being the holder of an aviation document, fails, without reasonable excuse, to provide to the Authority or the Director information known to that person which is relevant to the condition specified in section 9(3).
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1308,7 +1308,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Every person commits an offence who—
   (a) carries on a scheduled international air service in New Zealand without a licence granted under Part 8A; or
   (b) being the holder of a licence granted under Part 8A, carries on a scheduled international air service in New Zealand in a manner contrary to the terms and conditions of the licence.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1316,49 +1316,49 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Every person commits an offence who—
   (a) operates a non-scheduled international flight to which section 87ZE applies contrary to the provisions of that section; or
   (b) being the holder of an open aviation market licence, carries on a non-scheduled international flight in a manner contrary to the terms and conditions of the licence.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $6,000; or
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
 ### 50 Obstruction of persons duly authorised by Director
-(1) Every person commits an offence who obstructs or impedes any person who is duly authorised by the Director and acting in the performance or exercise of any functions, duties, or powers conferred on him or her by this Act, or by any rules made under this Act, and is liable,—
+(1) Every person commits an offence who obstructs or impedes any person who is duly authorised by the Director and acting in the performance or exercise of any functions, duties, or powers conferred on him or her by this Act, or by any rules made under this Act, and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (2) Subsection (1) shall apply only where the person obstructed or impeded is in uniform or produces evidence of his or her authority.
 
 ### 50A Failure or refusal to produce or surrender documents
 (1) Every person commits an offence who, without reasonable excuse, fails or refuses to comply with a requirement made in accordance with section 24(3).
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $1,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
 ### 51 Trespass
-Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, enters or remains within any aerodrome or any building or area in which are operated technical facilities or services for civil aviation, when directed not to enter or not to remain by a person duly authorised by the Director in writing for that purpose, a constable, or an aviation security officer, or by notice posted by one of those persons.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, enters or remains within any aerodrome or any building or area in which are operated technical facilities or services for civil aviation, when directed not to enter or not to remain by a person duly authorised by the Director in writing for that purpose, a constable, or an aviation security officer, or by notice posted by one of those persons.
 
 ### 52 Failure to maintain accurate records
 (1) Every person commits an offence who contravenes any provision of this Act or any rule made under this Act that requires that person—
   (a) to make accurate entries in a record; or
   (b) to maintain an accurate record; or
   (c) to produce to the Authority or the Director an accurate record.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
 ### 52A Failure to notify emergency breach of Act or regulations or rules
-Every pilot-in-command commits an offence and is liable to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with section 13A(6) (which relates to the notification of breaches of this Act or regulations or rules made under this Act that are committed during an emergency).
+Every pilot-in-command commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with section 13A(6) (which relates to the notification of breaches of this Act or regulations or rules made under this Act that are committed during an emergency).
 
 ### 52B Failure to notify accident or incident
 (1) Every pilot-in-command or operator commits an offence who, without reasonable excuse, fails to comply with subsection (1) or subsection (1A) or subsection (2) of section 26 (which subsections relate to the notification of an accident or incident).
-(2) Every pilot-in-command or operator who commits an offence against subsection (1) is liable,—
+(2) Every pilot-in-command or operator who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ### 52C Failure to provide identifying information
 (1) Every operator of an aircraft or holder of a certificate of registration commits an offence who, without reasonable excuse, fails to comply with section 26A(1) (which relates to the identification of the pilot-in-command of an aircraft).
-(2) Every operator or holder of a certificate of registration who commits an offence against subsection (1) is liable,—
+(2) Every operator or holder of a certificate of registration who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
 ### 53 Contravention of emergency rule, prohibition, or condition
-Every person who, without reasonable excuse, acts in contravention of or fails to comply with any emergency rule made under section 31 or any prohibition or condition notified under section 21 commits an offence and is liable,—
+Every person who, without reasonable excuse, acts in contravention of or fails to comply with any emergency rule made under section 31 or any prohibition or condition notified under section 21 commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
@@ -1387,18 +1387,18 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
     (ii) having been requested by an aviation security officer to state those particulars; or
   (b) refuses forthwith to leave the security area or security enhanced area after having been ordered by an aviation security officer to do so.
 (2) Every person who commits an offence under subsection (1) in relation to a—
-  (a) security area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000:
-  (b) security enhanced area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000.
+  (a) security area is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000:
+  (b) security enhanced area is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000.
 
 ### 55 Personation or obstruction of aviation security officer
 (1) Every person commits an offence who, not being an aviation security officer,—
   (a) by words, conduct, demeanor, or the assumption of the dress, name, designation, or description of an aviation security officer, holds himself or herself out as being an aviation security officer; or
   (b) wilfully obstructs, or incites or encourages any person to obstruct an aviation security officer in the execution of his or her duty.
-(2) Every person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 
 ### 56 Communicating false information affecting safety
 (1) Every person commits an offence who by any means provides to another person information relating to the safety of an aircraft, aerodrome, aeronautical product, aviation related service, or any other facility or product used in or connected with aviation, or any person associated therewith, knowing the information to be false or in a manner reckless as to whether it is false.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) Where the commission of an offence against subsection (1) causes financial loss to any person and where the court imposes a fine under subsection (2) in respect of that offence, the court may order that such part of the fine as it thinks fit, but in any event not more than one-half of the fine, be awarded to that person.
@@ -1407,14 +1407,14 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
 (1) Every person commits an offence who, in relation to a security check of that person,—
   (a) provides information that the person knows is false or misleading in a material particular; or
   (b) fails to disclose, without reasonable excuse, information that the person knows to be materially relevant.
-(2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000.
 
 **Infringement offences**
 
 ### 57 Infringement offences
 (1) In this Act infringement offence means an offence specified as such in regulations made under this Act or an offence against a provision specified in section 65Q(2).
 (2) Subject to section 65P, if any person is alleged to have committed an infringement offence that person may either—
-  (a) be proceeded against summarily for the alleged offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 58.
 
 ### 58 Infringement notices
@@ -1423,7 +1423,7 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to him or her at his or her last known place of residence or business; or
   (c) where the person is a holder of an aviation document, by serving it by post on that person at his or her last address for service provided under section 8.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+(3) An infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
 (4) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee for that offence:
@@ -1462,18 +1462,22 @@ Where an order is made disqualifying any person from holding or obtaining an avi
 Where a court makes an order disqualifying a person from holding or obtaining an aviation document or imposes restrictions or conditions (or both) on any aviation document held by or issued to any person or makes an order under section 62 removing any disqualification, particulars of the order shall be sent by the Registrar of the court to the Director.
 
 ### 64 Appeals against disqualification
-(1) For the purposes of Part 4 of the Summary Proceedings Act 1957, an order of a District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
-(2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court, and in any such case the provisions of Part 4 of the Summary Proceedings Act 1957 shall, with the necessary modifications, apply.
-(3) Any person who is disqualified by an order of the High Court from holding or obtaining an aviation document and who applies for a removal of that disqualification and whose application is refused, may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the refusal, and in any such case the provisions of subsections (3) to (5) of section 379A of the Crimes Act 1961 shall, with the necessary modifications, apply as if it were an appeal under that section.
+(1) For the purposes of Part 6 of the Criminal Procedure Act 2011, an order of a District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
+(2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
+(3) Any person who is disqualified by an order of the High Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal to the Court of Appeal against the refusal in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 (4) Where application is made to the Court of Appeal for leave to appeal to that court against a sentence of the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the appeal.
 (5) Where an appeal to the High Court or Court of Appeal is allowed under this section, whether in whole or in part, the Registrar of the High Court shall send notice thereof to the Director who shall have a right to appear and be heard in respect of the matter.
 (6) In determining the expiration of the period for which a person is disqualified from holding or obtaining an aviation document, any time during which the operation of the disqualification order is deferred under this section shall be disregarded.
 
-**Offences punishable on summary conviction**
+**Charging documents and burden of proof**
 
-### 65 Offences to be punishable on summary conviction
-(1) Subject to section 57(2) and Part 5A, every offence against this Act shall be punishable on summary conviction.
-(2) Notwithstanding anything in the Summary Proceedings Act 1957, any information for an offence against this Act may be laid at any time within 12 months after the date of the offence.
+### 65 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
+
+### 65AA Burden of proof of reasonable excuse
+In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)(b) and (c), 50A(1), 51, 52A, 52B(1), 52C(1), 53, 56A(1)(b), 65P(6), 77I(1), 96B(1) and (2), and 99C(1)(a) and (b),—
+  (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
+  (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
 ## Part 5A — Unruly passenger offences
 
@@ -1513,16 +1517,16 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (b) in the absence of proof to the contrary, sufficient evidence of the matters stated in the form or forms.
 
 ### 65E Proceedings for offences
-(1) Subject to section 65Q(2), the offences specified in this Part (except sections 65F and 65G(1)(d)) are triable summarily.
-(2) The offences specified in sections 65F and 65G(1)(d) are triable on indictment.
-(3) Despite anything to the contrary in the Summary Proceedings Act 1957, any information for an offence referred to in subsection (1) may be laid at any time within 12 months after the date of the offence.
+(1)
+(2)
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of the offences specified in this Part (except sections 65F and 65G(1)(d)) ends on the date that is 12 months after the date on which the offence was committed.
 (4) Subject to section 65C, nothing in this Part affects the liability of any person under any other enactment.
 
 **Unruly passenger offences**
 
 ### 65F Strict liability for acts endangering safety
 (1) A person commits an offence who acts in a manner that endangers an aircraft or any person in an aircraft.
-(2) Every person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
 
 ### 65G Disruptive conduct towards crew member
 (1) Every person commits an offence who, while in an aircraft,—
@@ -1530,21 +1534,24 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (b) behaves in a threatening, offensive, insulting, or disorderly manner towards a crew member; or
   (c) behaves in a manner that interferes with the performance by a crew member of his or her duties; or
   (d) intentionally interferes with the performance by a crew member of his or her duties.
-(2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable to a fine not exceeding $5,000.
-(3) Every person who commits an offence against subsection (1)(d) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable on conviction to a fine not exceeding $5,000.
+(3) Every person who commits an offence against subsection (1)(d) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
 (4) It is a defence in a prosecution under subsection (1)(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
 
 ### 65H Interference with aircraft
 (1) Every person commits an offence who tampers or interferes with any aircraft, any component of an aircraft, or its equipment, including, but not limited to, smoke detectors.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 ### 65I Intoxicated persons on aircraft
 (1) Every person (except a person under medical care) commits an offence who—
   (a) is intoxicated and boards an aircraft; or
   (b) becomes intoxicated on an aircraft.
+(1A) In proceedings for an offence against subsection (1),—
+  (a) the prosecutor need not assert, in the charging document, that the defendant was not a person under medical care; and
+  (b) the burden of proving that the defendant was under medical care lies on the defendant.
 (2) Every person who commits an offence against—
-  (a) subsection (1)(a) is liable to a fine not exceeding $5,000:
-  (b) subsection (1)(b) is liable to a fine not exceeding $3,000.
+  (a) subsection (1)(a) is liable on conviction to a fine not exceeding $5,000:
+  (b) subsection (1)(b) is liable on conviction to a fine not exceeding $3,000.
 (3) For the purposes of this section, a person is intoxicated if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of an intoxicating liquor, or substance to such an extent as to—
   (a) be incapable of properly looking after himself or herself; or
   (b) actively present a hazard to the aircraft or to persons on the aircraft; or
@@ -1555,48 +1562,48 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 
 ### 65J Non-compliance with commands given by pilot-in-command
 (1) Every person commits an offence who fails to comply with any commands given to the person directly by the pilot-in-command, or indirectly by the pilot-in-command through a crew member, in accordance with his or her duties under section 13 or the rules.
-(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable to a fine not exceeding $5,000.
+(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
 ### 65K Offensive behaviour or words
 (1) Every person commits an offence who, on any aircraft,—
   (a) behaves in a threatening, offensive, insulting, or disorderly manner; or
   (b) uses threatening, offensive, or insulting words.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 (3) It is a defence in a prosecution under subsection (1)(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
 
 ### 65L Portable electronic devices not to be operated
 (1) Every person commits an offence who operates a portable electronic device on board an aircraft in breach of the rules.
-(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
+(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 
 ### 65M Non-compliance with seating and seatbelt instructions
 (1) Every person commits an offence who fails to comply with an instruction given by a crew member, passenger information signs, or placards to—
   (a) occupy a seat or berth; and
   (b) fasten and keep fastened about the person any installed safety belt or safety harness.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 
 ### 65N No smoking
 (1) Every person commits an offence who smokes—
   (a) when instructed not to smoke by a crew member, passenger information signs, or placards; or
   (b) while on any aircraft that is carrying passengers for hire or reward on any internal flight; or
   (c) in contravention of section 96A(6).
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 (3) In subsection (1), to smoke has the meaning set out in section 96A(1).
 
 ### 65O Dangerous goods
 (1) Every person commits an offence who, in breach of the rules, carries or causes to be carried on an aircraft any dangerous goods.
-(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
+(2) Despite section 28(6), every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 
 ### 65P Procedure for certain unruly passenger offences
 (1) If any offence specified in section 65Q(2) is alleged to have been committed by any person (in this section, the defendant), the pilot-in-command of the aircraft at the time of the alleged offence may, by any available means, notify, or cause to be notified,—
   (a) the Director; or
   (b) a person authorised by the Director.
 (2) If the Director or a person authorised by the Director has reason to believe that a defendant has committed any offence specified in section 65Q(2),—
-  (a) the defendant may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) the defendant may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) the Director or the person authorised by the Director may issue an infringement notice in respect of the alleged offence.
 (3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in section 65G(1)(a) to (c) or section 65H or section 65J or section 65K or section 65Q(2), he or she may require the person to give his or her full name, address, and date of birth.
 (4) If the Director or the person authorised by the Director has reasonable grounds to suppose that any details provided under subsection (3) are false or misleading, he or she may require the person to give such verification of those details as it is reasonable in the circumstances to require that person to provide.
 (5) If the person, without reasonable excuse, refuses or fails to comply with a request under subsection (3) or subsection (4), and persists in that refusal or failure after being warned by the Director or a person authorised by the Director that he or she may be arrested for committing an offence by that refusal or failure, a constable may arrest that person without warrant.
-(6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
+(6) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
   (a) refuses or fails to comply with a request under subsection (3) or subsection (4); or
   (b) gives details that are false or misleading in a material respect to the Director or a person authorised by the Director in response to such a request.
 (7) Evidence produced by the defendant to the Director or the person authorised by the Director under subsection (4) must be inspected without delay and returned to the defendant as soon as practicable after the inspection has concluded.
@@ -2044,13 +2051,13 @@ The Minister shall ensure that aviation security services are provided at all se
 (1) Every person commits an offence who carries out an activity that requires an authorisation—
   (a) during a period when that authorisation has been withdrawn under section 77F(7)(d) or (e); or
   (b) if that authorisation has been revoked under section 77G(4).
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
 ### 77I Offence to fail to comply with Director's requirement to withdraw or revoke authorisation
 (1) Every person commits an offence who fails, without reasonable excuse, to comply with the Director's requirement to—
   (a) withdraw an authorisation under section 77F(7)(e); or
   (b) revoke an authorisation under section 77G(4)(b).
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 ### 78 Aviation Security Service
 [Repealed]
@@ -2189,9 +2196,12 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
 ### 80H Power to require drivers to stop vehicles in security enhanced areas for screening or searching
 (1) An aviation security officer who is in uniform, or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it, may signal or request the driver of a vehicle in a security enhanced area to stop the vehicle as soon as is practicable for the purpose of screening or searching the vehicle, and any item, substance, or person in the vehicle.
 (2) The driver of a vehicle that is stopped by an aviation security officer must remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000, who, without lawful authority or reasonable excuse, fails to—
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000, who, without lawful authority or reasonable excuse, fails to—
   (a) stop a vehicle in a security enhanced area as soon as is practicable when required to do so by an aviation security officer; or
   (b) remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
+(4) In proceedings for an offence against subsection (3),—
+  (a) the prosecutor need not assert absence of lawful authority or reasonable excuse in the charging document; and
+  (b) the burden of proving that the defendant had lawful authority or a reasonable excuse lies on the defendant.
 
 ### 80I Protection of aviation security officers
 Nothing done by an aviation security officer under sections 80B(3) to (7) and 80C(3) to (6) may subject the aviation security officer to personal liability if done in—
@@ -2863,9 +2873,9 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 (1) Liquor may be sold at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years, but any liquor so sold shall not be delivered by or on behalf of the purchaser to any other person within New Zealand or consumed within New Zealand unless it has been entered by the passenger for home consumption in accordance with the Customs and Excise Act 1996.
 (2) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
   (a) prescribing the circumstances and conditions relating to the control of the sale of liquor at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years:
-  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on summary conviction, be imposed in respect of any such offence.
-(3) Every person who does any act in contravention of this section commits an offence and is liable to a fine not exceeding $1,000.
-(4) Nothing in the Sale of Liquor Act Act 1989 shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
+  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
+(3) Every person who does any act in contravention of this section commits an offence and is liable on conviction to a fine not exceeding $1,000.
+(4) Nothing in the Sale of Liquor Act 1989 shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
 
 ### 96A Minister may prohibit smoking on international air routes
 (1) For the purposes of this section and sections 96B and 96C,—
@@ -2885,7 +2895,7 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 (1) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse, fails to comply with the requirements of section 96A(4).
 (2) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse permits any person to smoke in contravention of section 96A(5).
 (3)
-(4) Every person who commits an offence against subsection (1) or subsection (2) is liable to a fine not exceeding $4,000.
+(4) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction to a fine not exceeding $4,000.
 (5)
 
 ### 96C Procedure for offence of smoking on international flight
@@ -2945,8 +2955,8 @@ Without limiting section 100, the Governor-General may from time to time, by Ord
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 99A; or
   (b) fails, without reasonable excuse, to comply with the requirements of paragraph (a) or paragraph (b) of section 99B(1).
 (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to section 99B.
-(3) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(4) Every person who commits an offence against subsection (2) is liable to a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 99D Administration of sections 99A to 99C
 [Repealed]
@@ -2984,6 +2994,13 @@ Without limiting section 100, the Governor-General may from time to time, by Ord
 (3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
 (4) No regulation made under subsection (1)(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
 (5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)(ee).
+
+### 100A Burden of proof of exceptions, etc, for offences in rules and regulations
+(1) This section applies to any offence contained in rules or regulations made pursuant to this Act.
+(2) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence,—
+  (a) may be proved by the defendant; but
+  (b) need not be negatived in the charging document, and, whether or not it is so negatived, no proof in relation to the matter is required on the part of the prosecutor.
+(3) Subsection (2)(b) is subject to section 17(4) of the Criminal Procedure Act 2011.
 
 ### 101 Repeals, revocation, amendments, and savings
 (1) The enactments specified in Schedule 1 are hereby repealed.
@@ -4224,39 +4241,3 @@ This Act amends the Civil Aviation Act 1990.
 
 ### 15 Savings and transitional provisions
 Despite section 9 of this Act, which substitutes a new incorporation by reference provision, section 36 of the Civil Aviation Act 1990, as in force immediately before the commencement of this section, continues to apply to any material incorporated by reference under that section.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
