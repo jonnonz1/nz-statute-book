@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -286,7 +286,7 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   (b) may only use reasonable force that may be necessary to secure the person's identifying particulars.
 (4) A person who, after being cautioned, fails to comply with a direction of a constable exercising his or her powers under this section—
   (a) commits an offence; and
-  (b) is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+  (b) is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
 (5) In this section and section 33,—
   - **identifying particulars** means, in relation to a person, any or all of the following:
     (a) the person's biographical details (for example, the person's name, address, and date of birth):
@@ -304,7 +304,7 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   (b) may only use reasonable force that may be necessary to secure the person's identifying particulars.
 (4) A person who, after being cautioned, fails to comply with a direction of a constable exercising his or her powers under this section—
   (a) commits an offence; and
-  (b) is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+  (b) is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
 
 ### 34 Storage, etc, on Police information recording system of identifying particulars
 (1) The identifying particulars of a person that are obtained under section 32 or 33 may be entered, recorded, and stored on a Police information recording system.
@@ -313,8 +313,8 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   (b) criminal prosecution proceedings that are commenced against the person in respect of the offence for which the particulars were taken are completed with an outcome (for example, an acquittal) that is not an outcome (specified in section 34A) that authorises continued storage.
 (3) In this section and section 34A,—
   - **criminal prosecution proceedings** against a person in respect of the offence for which particulars were taken, means proceedings—
-    (a) commenced against the person in respect of that offence or offences including that offence under the Crimes Act 1961, or under the Summary Proceedings Act 1957 (alone or, if the person is a child or a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
-    (b) some or all of which (for example, any committal process proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
+    (a) commenced against the person in respect of that offence or offences including that offence under the Criminal Procedure Act 2011 (alone or, if the person is a child or a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
+    (b) some or all of which (for example, any pre-trial proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
   - **the offence for which the particulars were taken** includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
 
 ### 34A Outcomes authorising continued storage of certain particulars
@@ -330,7 +330,7 @@ The outcomes mentioned in section 34(2)(b) are as follows:
 (1) A constable may temporarily close to traffic any road, or part of a road, leading to or from or in the vicinity of a place, if the constable has reasonable cause to believe that—
   (a) public disorder exists or is imminent at or near that place; or
   (b) danger to a member of the public exists or may reasonably be expected at or near that place; or
-  (c) an indictable offence not triable summarily under section 6 of the Summary Proceedings Act 1957 has been committed or discovered at or near that place.
+  (c) an offence punishable by 10 or more years' imprisonment has been committed or discovered at or near that place.
 (2) In this section,—
   - **road** has the meaning given in section 315(1) of the Local Government Act 1974 except that it includes—
     (a) a motorway within the meaning of section 2 of the Transit New Zealand Act 1989; and
@@ -440,7 +440,7 @@ Despite any other enactment or rule of law,—
 
 ### 47 Gaining employment with Police by false representations
 (1) A person commits an offence who, for the purpose of gaining employment with the Police, intentionally submits false or forged documents or makes false representations when applying for employment.
-(2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
 
 ### 48 Personation and representing vehicle, etc, as Police vehicle
 (1) A person commits an offence who, without reasonable excuse, and in circumstances likely to lead a person to believe that the person is a Police employee,—
@@ -450,39 +450,39 @@ Despite any other enactment or rule of law,—
   (a) a Police uniform, or item of that uniform, or a Police article:
   (b) a uniform, or item of uniform, or article that closely resembles a Police uniform, or item of that uniform, or Police article.
 (3) A person commits an offence who, without reasonable excuse, represents any vehicle, craft, or other conveyance as being in the service of the Police in circumstances likely to lead a person to believe the vehicle, craft, or conveyance is in the service of the Police.
-(4) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 12 months, to a fine not exceeding $15,000, or to both.
+(4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 12 months, to a fine not exceeding $15,000, or to both.
 
 ### 49 Use of term Police or New Zealand Police in operating name
 (1) A person commits an offence who, without reasonable excuse, carries on an activity under an operating name that includes the word Police or the words New Zealand Police, in a manner likely to lead a person to believe that the activity is endorsed or authorised by the Police or any part of the Police.
-(2) A person who commits an offence against this section is liable,—
+(2) A person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
 ### 50 Unlawful possession of Police property
 (1) A person commits an offence who, without lawful authority or reasonable excuse, has in his or her possession any Police property.
-(2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
 
 ### 51 Failing to help Police employee
 (1) A Police employee in the lawful execution of his or her duty may, if it is reasonably necessary in the circumstances, ask a person who is 18 years old or older to help the Police employee do 1 or both of the following:
   (a) apprehend or secure a person:
   (b) convey a person in the employee’s charge to a Police station or other place.
-(2) A person who fails to give help, when so asked, commits an offence and is liable to a fine not exceeding $2,000.
+(2) A person who fails to give help, when so asked, commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 52 Unlawful dealings with prisoners
 (1) A person commits an offence who, without the permission of a Police employee,—
   (a) holds any restricted communication with a prisoner in the custody or charge of a Police employee; or
   (b) delivers any thing, or causes it to be delivered, to that prisoner.
-(2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000 or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000 or to both.
 (3) In this section, restricted communication means—
   (a) any communication that may prejudice the maintenance of the law, the safe custody of the prisoner, the safety of any other person, or the security of any prison:
   (b) any communication whatsoever that takes place after the Police employee, in whose custody or charge the prisoner is, has forbidden that communication or directed that it cease.
 
 ### 53 Killing or injuring Police dogs
 (1) A person who intentionally kills, maims, wounds, or otherwise injures a Police dog without lawful authority or reasonable excuse commits an offence.
-(2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
 
 ### 54 Offences triable summarily
-Every offence against this Act is punishable on summary conviction.
+[Repealed]
 
 ## Part 4 — Provisions relating to employment of Police employees
 
@@ -734,11 +734,11 @@ In sections 87 to 90, unless the context otherwise requires,—
   (b) the authorities in that place—
     (i) are not subject to any obligation to cede jurisdiction to the New Zealand authorities in respect of that act or omission; and
     (ii) bring criminal proceedings against the person in that place.
-(3) No information may be laid against any person over whom jurisdiction is claimed by virtue of subsection (2) without the consent of the Attorney-General.
+(3) No charging document may be filed against any person over whom jurisdiction is claimed by virtue of subsection (2) without the consent of the Attorney-General.
 
 ### 88 Powers of arrest and detention
-(1) Subsection (2) applies to any offence in respect of which the laying of an information requires the consent of the Attorney-General under section 87(3).
-(2) If any person is alleged to have committed an offence to which this subsection applies,—and the person may be detained in custody within or outside New Zealand or, if the person is in, or has been taken to, New Zealand, remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the laying of an information in respect of that offence; but no further proceedings may be taken until that consent has been obtained.
+(1) Subsection (2) applies to any offence in respect of which the filing of a charging document requires the consent of the Attorney-General under section 87(3).
+(2) If any person is alleged to have committed an offence to which this subsection applies,—and the person may be detained in custody within or outside New Zealand or, if the person is in, or has been taken to, New Zealand, remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the filing of a charging document in respect of that offence; but no further proceedings may be taken until that consent has been obtained.
   (a) the person may be arrested without warrant within or outside New Zealand; or
   (b) a warrant for the person’s arrest may be issued in New Zealand and executed within or outside New Zealand,—
 (3) The provisions of the Crimes Act 1961 relating to arrest apply in respect of the arrest of a person referred to in subsection (2) for an act or omission to which section 87 applies, in all respects as if the act or omission had occurred in New Zealand.
@@ -1275,39 +1275,3 @@ This code applies to bargaining for any collective agreement which began before 
 ## Schedule 5 — Consequential amendments to Regulations
 
 ## Schedule 6 — Enactments repealed or revoked
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
