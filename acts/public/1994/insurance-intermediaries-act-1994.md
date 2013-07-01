@@ -1,5 +1,5 @@
 # Insurance Intermediaries Act 1994
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to effect certain reforms in the law governing insurance intermediaries
 
@@ -60,7 +60,7 @@ Sections 4 to 6 have effect despite the proper law of any contract being the law
   (a) an insurer from making a contract or arrangement with a broker providing for the variation of the relevant period:
   (b) an insurer from authorising a broker in writing to pay on behalf of the insurer, out of the money received by the broker as a premium in respect of a contract of insurance arranged with the insurer, any charges required by law to be paid by the insurer in respect of the contract:
   (c) a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insurer any remuneration payable by the insurer to the broker in relation to a contract of insurance.
-(4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—
+(4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -94,7 +94,7 @@ Where—then, for the purpose of the application of section 10 to the broker, no
 (3) Nothing in subsection (1) prevents—
   (a) an insured from making a contract or arrangement with a broker providing for the broker to pay an amount to or on behalf of the insured before being required to do so by that subsection; or
   (b) a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insured any money payable by the insured to the broker in connection with a contract of insurance.
-(4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—
+(4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -114,7 +114,7 @@ Where—then, for the purpose of the application of section 10 to the broker, no
   (b) for making an investment in accordance with this Act; or
   (c) for withdrawing money paid into the account in error; or
   (d) otherwise in accordance with regulations made under this Act.
-(6) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—
+(6) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
@@ -125,7 +125,7 @@ Where—then, for the purpose of the application of section 10 to the broker, no
 (4) If, upon the realisation of any investment, the amount received in respect of the realisation is less than the amount invested, the broker shall pay into the account from which the money was withdrawn for investment an amount equal to the difference between the amount invested and the amount received.
 (5) If, upon the realisation of any investment, the amount received in respect of the realisation is more than the amount invested, the broker may retain for his or her own benefit the amount by which the amount received exceeds the amount invested and need not pay it into, or retain it in, an insurance broking client account.
 (6) Interest or other income received by a broker from an insurance broking client account may be retained by the broker for his or her own benefit and need not be paid into an insurance broking client account.
-(7) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—
+(7) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
