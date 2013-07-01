@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -255,14 +255,14 @@ All money received and retained by a territorial authority under this Act shall 
 (3) All reasonable costs incurred in the seizure, custody, sustenance, and transport of any dog pursuant to this section may be recovered as a debt from the owner of the dog.
 
 ### 18 Wilful obstruction of dog control officer or dog ranger
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who wilfully obstructs or hinders any dog control officer or dog ranger in the exercise of his or her powers.
+Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who wilfully obstructs or hinders any dog control officer or dog ranger in the exercise of his or her powers.
 
 ### 19 Power of constable, dog control officer, or dog ranger to request information about owner
 (1) A constable, dog control officer, or dog ranger may, for the purposes of this Act, request the following persons to state his or her full name, date of birth, address, telephone contact number, and place of work (if applicable):
   (a) any person appearing to be in charge of a dog; or
   (b) any person appearing to be the occupier of any land or premises on which a dog for the time being is being kept.
 (1A) If a person referred to in subsection (1)(a) or (b) claims not to be the owner of the dog, the person must state the name, address, and place of work of the owner of the dog (if known).
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails or refuses to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails or refuses to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
 (3) Any constable, dog control officer, or dog ranger who—may seize and impound the dog and, in the case of a constable, may arrest that person without a warrant.
   (a) has reasonable grounds to believe that an offence against subsection (2) has been committed by any person; and
   (b) has warned that person of the provisions of this subsection; and
@@ -271,7 +271,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 ### 19A Power of constable, dog control officer, or dog ranger to request information about dog
 (1) A constable, dog control officer, or dog ranger may, for the purposes of this Act, request the owner of a dog to state the name, gender, and a description of the dog.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
 
 **Bylaws**
 
@@ -294,7 +294,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (a) a controlled dog area or open dog area under section 26ZS of the Conservation Act 1987; or
   (b) a national park constituted under the National Parks Act 1980.
 (4) Bylaws authorised by this section shall be made in accordance with the Local Government Act 2002 and shall be deemed to have been made under that Act.
-(5) A person who commits a breach of any bylaw authorised by this section commits an offence and is liable on summary conviction to the penalty prescribed by section 242(4) of the Local Government Act 2002.
+(5) A person who commits a breach of any bylaw authorised by this section commits an offence and is liable on conviction to the penalty prescribed by section 242(4) of the Local Government Act 2002.
 (5A) An injunction preventing a person from committing a breach of any bylaw authorised by this section may be granted in accordance with section 162 of the Local Government Act 2002, which section applies accordingly with all necessary modifications.
 (6) Notwithstanding section 7, no joint standing or special committee that has had conferred upon it the functions, duties, and powers of territorial authorities under this Act shall have the power to make any bylaw; and the territorial authorities that so conferred their functions, duties, and powers under this Act shall retain the power to make bylaws in accordance with this section.
 
@@ -304,7 +304,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
 (1) Where any person is convicted of any offence (not being an infringement offence) against this Act or any offence against Part 1 or Part 2 of the Animal Welfare Act 1999 in respect of a dog or any offence against section 26ZZP of the Conservation Act 1987 or section 56I of the National Parks Act 1980, the territorial authority may classify that person as a probationary owner.
 (2) Where any person commits 3 or more infringement offences (not relating to a single incident or occasion) within a continuous period of 24 months, the territorial authority may classify that person as a probationary owner.
 (3) For the purposes of subsection (2), a person shall be deemed to have committed an infringement offence if—
-  (a) that person has been ordered to pay a fine and costs under section 78A(1) of the Summary Proceedings Act 1957, or is deemed to have been so ordered under section 21(5) of that Act, in respect of that offence; or
+  (a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or
   (b) the infringement fee specified on an infringement notice in respect of that offence and issued to that person under section 66 has been paid.
 (4) Where any person is classified as a probationary owner under subsection (1), the territorial authority shall as soon as practicable give written notice in the prescribed form to that person of that decision.
 (5) This section applies only if section 25(1A) applies.
@@ -333,7 +333,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 ### 23A Territorial authority may require probationary owner to undertake training
 (1) If a person is classified as a probationary owner under section 21, the territorial authority may require the person to undertake, at his or her own expense, a dog owner education programme or a dog obedience course (or both) approved by the territorial authority.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a requirement under subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a requirement under subsection (1).
 
 ### 24 Obligation of probationary owners to dispose of unregistered dogs
 (1) Where any person is classified as a probationary owner, that person shall, within 14 days after the date on which the notice of classification is, under section 21(4), given to that person, dispose of every unregistered dog owned by that person.
@@ -342,7 +342,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
 (4) Where any person is given a notice under section 21(4) at a time at which that person is keeping an unregistered dog in contravention of section 42(1),—
   (a) it shall not be an offence against section 42(1) for that person to keep that unregistered dog until the expiration of any period allowed by this section for the disposal by that person of that unregistered dog; and
   (b) nothing in section 42(2) authorises the seizure and impounding of that unregistered dog at any time while that dog is still being kept by that person and any period allowed by this section for the disposal by that person of that unregistered dog has not expired.
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who—
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who—
   (a) fails to comply with subsection (1); or
   (b) fails, in disposing of a dog under subsection (1), to comply with subsection (2); or
   (c) at any time while classified as a probationary owner becomes the registered owner of a dog (unless the person was the registered owner of the dog on the date of the offence or the date of the third infringement offence in respect of which the classification was made under section 21); or
@@ -359,7 +359,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (a) disqualification is not warranted; or
   (b) the territorial authority will instead classify the person as a probationary owner under section 21.
 (2) For the purposes of subsection (1)(a), a person must be treated as having committed an infringement offence if—
-  (a) the person has been ordered to pay a fine and costs under section 78A(1) of the Summary Proceedings Act 1957, or is deemed to have been ordered to do so under section 21(5) of that Act, in respect of the offence; or
+  (a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or
   (b) the infringement fee specified on the infringement notice in respect of the offence issued to the person under section 66 has been paid.
 (3) A disqualification under subsection (1) continues in force for a period specified by the territorial authority not exceeding 5 years from the date of the third infringement offence or offences (as the case may be) in respect of which the person is disqualified.
 (4) If a person is disqualified under subsection (1), the territorial authority must, as soon as practicable, give written notice in the prescribed form to the person of that decision.
@@ -392,7 +392,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (b) shall not be disposed of to any person who resides at the same address as the person disqualified.
 (3) Where any person has, within 14 days after the date on which the notice of disqualification under section 25(4) is given to that person, lodged an objection under section 26, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to section 25(4) were a reference to section 26(4).
 (4) Where any person has, within 14 days after the date on which the notice under section 26(4) is given to that person in respect of an objection to which subsection (3) of this section refers, lodged an appeal under section 27, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to the date on which the notice under section 25(4) was given to that person were a reference to the date of the decision of a District Court on that appeal.
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who—
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who—
   (a) fails to comply with subsection (1); or
   (b) fails, in disposing of a dog under subsection (1), to comply with subsection (2); or
   (c) at any time while disqualified under section 25, becomes the owner of any dog in terms of this Act; or
@@ -405,8 +405,8 @@ Every classification as a probationary owner and every disqualification under th
 
 ### 30 Maintenance of records and provision of information
 (1) For the purposes of this section and of sections 21 to 29, and only for those purposes, every territorial authority shall—
-  (a) maintain a record of every order made under section 78A(1) of the Summary Proceedings Act 1957, and of every order deemed to have been made under section 21(5) of that Act, in respect of an infringement offence committed within the previous 30 months in respect of which—
-    (i) an information was laid by the territorial authority pursuant to section 65(2)(a); or
+  (a) maintain a record of every order made under section 375 of the Criminal Procedure Act 2011, and of every order deemed to have been made under section 21(5) of the Summary Proceedings Act 1957, in respect of an infringement offence committed within the previous 30 months in respect of which—
+    (i) a charging document was filed in the name of the territorial authority pursuant to section 65(2)(a); or
     (ii) an infringement notice was issued by the territorial authority:
   (b) maintain a record of every infringement notice issued by the territorial authority under this Act in respect of an offence committed within the previous 30 months (whether or not the infringement fee has been paid); and
   (c) maintain a full record of,—for so long as that classification remains in force; and
@@ -445,7 +445,7 @@ Every classification as a probationary owner and every disqualification under th
     (ii) by a veterinarian registered in that country; and
     (iii) before the arrival of the dog in New Zealand; and
   (b) is to the effect that to the best of the veterinarian's knowledge and belief, the dog is not a dog listed in Schedule 4.
-(4) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000.
+(4) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000.
 (5) Subsection (1) does not apply in respect of—
   (a) any dog—
     (i) performing the same function as a disability assist dog (if the dog has been certified as being trained to perform that function by a recognised organisation in the country where the person who the dog assists usually resides); and
@@ -487,9 +487,9 @@ Every classification as a probationary owner and every disqualification under th
   (d) must, if a certificate under paragraph (c)(ii) is produced to the territorial authority, produce to the territorial authority, within 1 month after the date specified in that certificate, a further certificate under paragraph (c)(i); and
   (e) must, in respect of every registration year commencing after the date of receipt of the notice of classification, be liable for dog control fees for that dog at 150% of the level that would apply if the dog were not classified as a dangerous dog; and
   (f) must not, without the written consent of the territorial authority in whose district the dog is to be kept, dispose of the dog to any other person.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000.
+(2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000.
 (3) If a court convicts a person of an offence against subsection (2), the court must also make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and do not warrant destruction of the dog.
-(4) Every person who sells or otherwise transfers, or offers to sell or transfer, to any other person any dog known by that person to be classified as a dangerous dog without disclosing the fact of that classification to that other person commits an offence and is liable on summary conviction to a fine not exceeding $3,000.
+(4) Every person who sells or otherwise transfers, or offers to sell or transfer, to any other person any dog known by that person to be classified as a dangerous dog without disclosing the fact of that classification to that other person commits an offence and is liable on conviction to a fine not exceeding $3,000.
 (5) If a person fails to comply with subsection (1), a dog control officer or dog ranger may—
   (a) seize and remove the dog from the person's possession; and
   (b) retain custody of the dog until the territorial authority has reasonable grounds to believe that the person has demonstrated a willingness to comply with subsection (1).
@@ -582,7 +582,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 (4) If a certificate under subsection (2)(b) is produced to the territorial authority, the owner of the dog must produce to the territorial authority, no later than 1 month after the date specified in that certificate, a further certificate under subsection (2).
 
 ### 33EC Offence to fail to comply with section 33E(1) or 33EB
-(1) Every person who fails to comply with section 33E(1) or 33EB commits an offence and is liable on summary conviction to a fine not exceeding $3,000.
+(1) Every person who fails to comply with section 33E(1) or 33EB commits an offence and is liable on conviction to a fine not exceeding $3,000.
 (2) If a person fails to comply with section 33E(1) or 33EB, a dog control officer or dog ranger may—
   (a) seize and remove the dog concerned from the person's possession; and
   (b) retain custody of the dog until—
@@ -604,7 +604,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (a) dangerous under section 31; or
   (b) menacing under section 33A or section 33C.
 (2) If the dog is in the possession of another person for a period not exceeding 72 hours, the owner must advise the person of the requirement to comply with section 32(1)(b) or section 33E(1)(a), as the case may be (which relate to the requirement to muzzle and leash the dog in public).
-(3) Every person who fails to comply with subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(3) Every person who fails to comply with subsection (2) commits an offence and is liable on conviction to a fine not exceeding $500.
 
 **Registration and registration fees**
 
@@ -647,7 +647,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 (3) Any person may apply to the territorial authority, in the prescribed form, for the name and address of the registered owner of any specified dog.
 (4) Where any person applies under subsection (3), and the territorial authority is satisfied of that person's identity and that the information is required for a purpose specified in any of the provisions of paragraphs (a) to (e) of subsection (5) or referred to in paragraph (f) of that subsection, the territorial authority shall provide that information.
 (5) For the purposes of subsection (4), the purposes for which any person shall be entitled to be informed of the name and address of the registered owner of any specified dog shall be,—
-  (a) in relation to any information or complaint concerning an offence or alleged offence against the Animal Welfare Act 1999 or this Act or any regulations or bylaws made under this Act:
+  (a) in relation to any charge concerning an offence or alleged offence against the Animal Welfare Act 1999 or this Act or any regulations or bylaws made under this Act:
   (b) in relation to any request or claim for costs or compensation in respect of damage to property done or caused, or alleged to have been done or caused, by the dog:
   (c) in order to return the dog to its owner under section 52(4) or section 59(2) or section 60(2) where, in the opinion of the territorial authority, it is not desirable or not practicable for the dog to be delivered into the custody of a dog control officer or dog ranger:
   (d) in order to advise the owner of the destruction of the dog under section 59 or section 60:
@@ -733,7 +733,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 (5A) Subsection (2) does not apply if—
   (a) as a requirement of this Act, the dog has been previously implanted with a functioning microchip transponder of the prescribed type and in the prescribed location; or
   (b) in any other case, the territorial authority has verified that the dog has been implanted with a functioning microchip transponder of the prescribed type and in the prescribed location.
-(6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who fails to comply with subsection (2) or subsection (5).
+(6) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who fails to comply with subsection (2) or subsection (5).
 (7)
 
 ### 37 Territorial authority to set fees
@@ -772,13 +772,13 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 (2) Where the territorial authority fixes a fee for the registration of a neutered dog that is lower than that fixed for a dog that has not been neutered, any person claiming to register a neutered dog shall, if so required by the territorial authority, produce to the territorial authority a certificate issued by a veterinarian and certifying that the dog has been neutered.
 
 ### 41 Penalty for false statement relating to application for registration
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, in making an application for the registration of a dog, makes any written statement knowing that statement to be false.
+Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, in making an application for the registration of a dog, makes any written statement knowing that statement to be false.
 
 ### 41A Dead dogs
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who makes any written statement to a territorial authority to the effect that a dog is dead knowing that statement to be false.
+Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who makes any written statement to a territorial authority to the effect that a dog is dead knowing that statement to be false.
 
 ### 42 Offence of failing to register dog
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who is the owner of a dog of a greater age than 3 months unless the dog is registered under this Act for the current registration year.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who is the owner of a dog of a greater age than 3 months unless the dog is registered under this Act for the current registration year.
 (2) If a territorial authority has reasonable grounds to believe that a person has failed to comply with subsection (1), a dog control officer or dog ranger may—
   (a) seize and impound the dog; and
   (b) for the purposes of paragraph (a), enter, at any reasonable time, any land or premises (except a dwellinghouse) occupied by the owner of the dog.
@@ -805,7 +805,7 @@ In any proceedings under this Act the proof that a dog was duly registered, or i
 (1) On receipt of the properly completed application form and the applicable dog control fee, the territorial authority shall, unless the registration of that dog in the ownership of that person would be in breach of section 23 or section 28, issue to the owner of the dog a receipt for the fee paid and a label or disc for the registration year, and, upon the issue of such label or disc, registration shall be deemed to have been duly made.
 (2) The owner of the dog shall ensure that the label or disc issued by the territorial authority is attached to a collar worn on the neck of the dog so registered.
 (3) If the authority is satisfied that a current label or disc for any dog has been lost, stolen, damaged, or destroyed, it shall, on receipt of the appropriate fee, issue a replacement label or disc.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who procures or attempts to procure a replacement label or disc for any dog knowing that a current label or disc for that dog has not been lost or stolen.
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who procures or attempts to procure a replacement label or disc for any dog knowing that a current label or disc for that dog has not been lost or stolen.
 
 ### 47 Registration to extend over New Zealand
 Every registration made under this Act shall be in force throughout New Zealand.
@@ -813,14 +813,14 @@ Every registration made under this Act shall be in force throughout New Zealand.
 ### 48 Change of ownership of dog
 (1) Where the ownership of any dog is changed, any registration of the dog shall continue in force, but the previous owner and the new owner shall each within 14 days give written notice to the territorial authority or territorial authorities concerned of the change of ownership and of the residential address of the new owner and the address at which the dog will ordinarily be kept.
 (2) Where the dog is registered, the territorial authority or territorial authorities concerned shall, without fee, record the changes in their registers and the territorial authority in whose district the dog is ordinarily to be kept shall, without fee, issue a new label or disc for the dog.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who fails to comply with the requirements of subsection (1).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with the requirements of subsection (1).
 (4) It shall be a defence to a charge of failing to comply with the requirements of subsection (1) if the defendant satisfies the court that the previous owner or the new owner, as the case may be, complied with the requirements of that subsection.
 
 ### 49 Transfer of dog from one address or district to another
 (1) Where the owner of any dog changes his or her address within the district of a territorial authority, he or she shall, within 14 days, give notice in writing of his or her change of address to the territorial authority.
 (2) Where any dog is transferred to and is kept, for a period of 1 month or more, in any territorial authority district other than that in which it has been kept, the owner shall, within 6 weeks of the transfer, give notice in writing of the transfer to the territorial authority in whose district the dog has been kept and to the territorial authority to whose district the dog is transferred, setting out the address at which the dog will ordinarily be kept.
 (3) Where the dog is registered, the territorial authority or territorial authorities concerned shall, without fee, record the changes in its register or their registers, and the territorial authority in whose district the dog is ordinarily to be kept shall, without fee, issue a new label or disc for the dog.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who fails to comply with subsection (1) or subsection (2).
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with subsection (1) or subsection (2).
 
 ### 50 Dog not wearing proper label or disc may be impounded
 (1) Where any dog over the age of 3 months not wearing a collar having a current registration label or disc attached is found on any land or premises other than the land or premises of the owner of the dog, or any such dog is found in any public place,—
@@ -830,7 +830,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (3) Nothing in this section shall authorise any dog control officer or dog ranger to enter on any land or premises other than a public place without the consent (express or implied) of the occupier or person in apparent charge of the land or premises.
 
 ### 51 Offences relating to collars, labels, and discs
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, with intent to deceive,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, with intent to deceive,—
   (a) removes from a dog a collar bearing a label or disc issued under this Act; or
   (b) removes any such label or disc attached to any collar worn by any dog; or
   (c) attaches to any dog or has in that person's keep any dog wearing any such label or disc issued in respect of another dog; or
@@ -861,26 +861,26 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (2) The owner of a dog must, at all times, ensure that either—
   (a) the dog is under the direct control of a person; or
   (b) the dog is confined within the land or premises in such a manner that it cannot freely leave the land or premises.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who fails to comply with subsection (2).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who fails to comply with subsection (2).
 (4) If a person fails to comply with subsection (2), a dog control officer or dog ranger may—
   (a) seize and impound the dog; and
   (b) for the purposes of paragraph (a), enter, at any reasonable time, the land or premises (except a dwellinghouse) owned or occupied by the owner of the dog.
 
 ### 53 Offence of failing to keep dog under control
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
 (2) Notwithstanding section 52(2)(b), an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any regulation or bylaw.
 
 ### 54 Obligations of dog owner
 (1) The owner of any dog shall—
   (a) ensure that the dog receives proper care and attention and is supplied with proper and sufficient food, water, and shelter; and
   (b) ensure that the dog receives adequate exercise.
-(2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 who, being the owner of any dog, fails to comply with subsection (1).
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 who, being the owner of any dog, fails to comply with subsection (1).
 
 ### 54A Owner must use or carry leash in public
 (1) The owner of a dog must carry a leash when in a public place if—
   (a) the dog is with the owner; and
   (b) the dog is not otherwise required to be controlled on a leash by or under this Act or any other enactment.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, being the owner of a dog, fails to comply with subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, being the owner of a dog, fails to comply with subsection (1).
 (3) This section does not apply to the owner of a working dog in relation to the working dog.
 
 ### 55 Barking dogs
@@ -892,7 +892,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (4) No objection under this section shall be considered unless 7 days' notice of the date and time when and the place at which it is to be considered have been given to the objector, who shall be entitled to be represented and to be heard and may submit evidence and call witnesses in support of his or her objection.
 (5) Upon the determination of the objection, the territorial authority shall give to the objector a further notice stating the decision of the authority, and, if the effect of the decision is to modify the requirements of the dog control officer or dog ranger, shall set out those requirements as so modified.
 (6) As from the lodging of an objection with the territorial authority, and pending the receipt of a further notice upon the determination of the objection, the notice setting out the requirements that are the subject of the objection shall be deemed to be suspended.
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, having been served with a notice under this section,—
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, having been served with a notice under this section,—
   (a) fails or neglects to comply with that notice (not being a notice that as been suspended under subsection (6)) within 7 days of its receipt by that person:
   (b) fails or neglects to comply with any notice as modified or confirmed by a territorial authority under subsection (3) within the time specified by the territorial authority.
 
@@ -915,7 +915,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (1) A person may, for the purpose of stopping an attack, seize or destroy a dog if—
   (a) the person is attacked by the dog; or
   (b) the person witnesses the dog attacking any other person, or any stock, poultry, domestic animal, or protected wildlife.
-(2) The owner of a dog that makes an attack described in subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the attack.
+(2) The owner of a dog that makes an attack described in subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the attack.
 (3) If, in any proceedings under subsection (2), the court is satisfied that the dog has committed an attack described in subsection (1) and that the dog has not been destroyed, the court must make an order for the destruction of the dog unless it is satisfied that the circumstances of the offence were exceptional and do not warrant destruction of the dog.
 (4) If a person seizes a dog under subsection (1), he or she must, as soon as practicable, deliver the dog into the custody of a dog ranger or dog control officer.
 (5) If a dog control officer or dog ranger has reasonable grounds to believe that an offence has been committed under subsection (2), he or she may—
@@ -942,7 +942,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
     (ii) any property to be damaged or endangered; or
   (b) rushes at any vehicle in a manner that causes, or is likely to cause, an accident.
 (2) If this section applies,—
-  (a) the owner of the dog commits an offence and is liable on summary conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the dog; and
+  (a) the owner of the dog commits an offence and is liable on conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the dog; and
   (b) the court may make an order for the destruction of the dog.
 (3) A dog control officer or dog ranger who has reasonable grounds to believe that an offence has been committed under subsection (2)(a) may, at any time before a decision of the court under that subsection, seize or take custody of the dog and may enter any land or premises (except a dwellinghouse) to do so.
 
@@ -964,7 +964,7 @@ The owner of any dog that attacks any person or any protected wildlife and cause
 
 ### 61 Orders relating to dog seen worrying stock
 (1) Where complaint is made to a District Court by the owner of any stock or poultry, or the occupier of any land on which there is stock or poultry, that any dog has been seen at large among that stock or poultry, the court, if it is satisfied as to the grounds of the complaint, may order the owner to keep the dog under proper restraint or make an order for the destruction of the dog.
-(2) Every person who fails to comply with an order made under subsection (1) requiring that person to keep a dog under proper restraint commits an offence and is liable on summary conviction to a fine not exceeding $150 for every day during which the default has continued; and, in addition, the court may make an order for the destruction of the dog.
+(2) Every person who fails to comply with an order made under subsection (1) requiring that person to keep a dog under proper restraint commits an offence and is liable on conviction to a fine not exceeding $150 for every day during which the default has continued; and, in addition, the court may make an order for the destruction of the dog.
 
 ### 62 Allowing dogs known to be dangerous to be at large unmuzzled
 (1) This section applies to a dog owned by a person and known by the person to—
@@ -974,8 +974,8 @@ The owner of any dog that attacks any person or any protected wildlife and cause
   (a) muzzled in such a manner as to prevent the dog from biting but to allow it to breathe and drink without obstruction; and
   (b) controlled on a leash (except when in a dog exercise area specified in a bylaw made under section 20(1)(d)).
 (3) A person whose dog is in the possession of any other person for a period of less than 72 hours must advise that person of the requirement to comply with subsection (2).
-(4) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $3,000, and the court may, on convicting the person, make an order for the destruction of the dog.
-(5) Every person who contravenes subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(4) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $3,000, and the court may, on convicting the person, make an order for the destruction of the dog.
+(5) Every person who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $500.
 (6) This section does not apply in respect of a dog that—
   (a) is kept, or used, or is certified for use by a specified agency; and
   (b) is being used for the purpose of carrying out in a lawful manner any function, duty, or power of that agency.
@@ -995,14 +995,14 @@ The owner of any dog that attacks any person or any protected wildlife and cause
 (3) In the exercise of his or her powers under subsection (2), any constable, dog control officer, or dog ranger may, at any reasonable time, enter on any land or premises, including any dwellinghouse, and remove any dog that is the subject of an order for destruction.
 (4) Nothing in subsection (3) shall authorise any dog control officer or dog ranger to enter any dwellinghouse unless he or she is accompanied by a constable.
 (5) Where any dog is destroyed by any dog control officer or dog ranger acting under the authority of this section, the reasonable costs of the collection, destruction, and disposal of the dog shall constitute a debt recoverable by the territorial authority from the owner of the dog.
-(6) A person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000.
+(6) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000.
 
 **Infringement offences**
 
 ### 65 Infringement offences
 (1) In this Act, infringement offence means an offence specified in Schedule 1.
 (2) Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 66.
 
 ### 66 Infringement notices
@@ -1011,7 +1011,7 @@ The owner of any dog that attacks any person or any protected wildlife and cause
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to the person at the person's last known place of residence or business; or
   (c) where the person is shown as the owner of a dog on a register, by sending it by post to the person at the address recorded on that register.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post pursuant to paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it was so posted.
+(3) An infringement notice sent to a person by post pursuant to paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it was so posted.
 (4) Every infringement notice shall be in the prescribed form, and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified in respect of that offence in Schedule 1; and
@@ -1147,7 +1147,7 @@ Every territorial authority, either singly or jointly with any 1 or more other t
     (i) a territorial authority, or constable, or dog control officer, or dog ranger; or
     (ii) any person who, under section 67(b), has agreed with a territorial authority to provide proper custody, care, and exercise for dogs impounded, seized, or committed to the custody of the territorial authority; or
   (b) is in possession of a dog that has been unlawfully released or uplifted from the custody of a person specified in paragraph (a).
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $3,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $3,000.
 
 ### 72A Power of dog control officer or dog ranger to seize released dog
 A dog control officer or dog ranger may—
@@ -1186,7 +1186,7 @@ No constable, dog control officer, dog ranger, territorial authority, or warrant
   (b) in the absence of proof to the contrary, be sufficiently authenticated if it bears the name of the person giving the notice or direction.
 
 ### 77 Application of fines
-Notwithstanding anything in section 73 of the Public Finance Act 1989, the court before which any person is convicted of an offence against this Act may direct that part (not exceeding one-half) of any fine imposed shall be paid to the informant or to any person giving information that led to the conviction.
+Notwithstanding anything in section 73 of the Public Finance Act 1989, the court before which any person is convicted of an offence against this Act may direct that part (not exceeding one-half) of any fine imposed shall be paid to the person who commenced the proceedings or to any person giving information that led to the conviction.
 
 ### 78 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -1197,7 +1197,7 @@ Notwithstanding anything in section 73 of the Public Finance Act 1989, the court
   (c) subject to subsection (2), regulating or prohibiting the keeping or possession, either generally or within any specified district or within any specified part of New Zealand, of dogs of any specified type or breed or cross-breed:
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under paragraph (c) of subsection (1) that relate to a particular breed or cross-breed of dog shall specify, with due particularity, the criteria that are to be used for the purpose of determining whether a dog is of a particular breed or cross-breed.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who keeps or has possession of any dog in contravention of any regulations made under paragraph (c) of subsection (1); and the court shall, on convicting any person of that offence, make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and are unlikely to be repeated.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who keeps or has possession of any dog in contravention of any regulations made under paragraph (c) of subsection (1); and the court shall, on convicting any person of that offence, make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and are unlikely to be repeated.
 (4) Nothing in subsection (3) makes it an offence for any person—
   (a) to keep a dog, or to have a dog in that person's possession,—
     (i) pursuant to a power of seizure conferred by this Act or any other Act; or
