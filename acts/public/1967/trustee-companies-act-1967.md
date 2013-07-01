@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -352,7 +352,7 @@ Every application for shares in a trustee company to which this Part applies, an
 (1) At any general meeting of shareholders in a trustee company to which this Part applies, the chairman of the meeting may, before calling for a show of hands or taking a poll, require each shareholder or any shareholder or shareholders present in person to sign and lodge with him a certificate in writing in form 2 of Schedule 2. No shareholder who, upon being required by the chairman of the meeting to sign and lodge such a certificate, refuses or neglects so to do, or refrains from so doing, shall be entitled to vote either upon a show of hands or upon a poll on any resolution submitted to that meeting.
 (2) No vote by any person acting on behalf of any shareholder at any general meeting of shareholders in a trustee company to which this Part applies shall be valid unless the vote is given under the authority of a proxy in writing under the hand of that shareholder complying with the articles of association of the trustee company, accompanied by a certificate by that shareholder in form 3 of Schedule 2.
 (3) In the case of shares in a trustee company to which this Part applies belonging to the estate of any deceased person, or to any estate which is being administered under the Mental Health Act 1969, or the Protection of Personal and Property Rights Act 1988, the registered holder or other persons entitled to vote in respect of the shares shall not be deemed, for the purposes of any certificate to be signed by him under this section, to have given any undertaking or to be under any obligation to the beneficiary or beneficiaries of the estate as to the exercise of his voting or other rights or powers in respect of the shares.
-(4) Any person who signs for the purposes of this Part a false certificate commits an offence, and is liable on summary conviction to a fine of $200.
+(4) Any person who signs for the purposes of this Part a false certificate commits an offence, and is liable on conviction to a fine of $200.
 
 ### 47 Certificates for purposes of this Part not to constitute notice of any trust
 No trustee company to which this Part applies or to which this Part or the Trustee Companies Protection Act 1934–35 has at any time applied, nor any person dealing with the shares of any such company, nor the Registrar of Companies, shall be affected by notice of any trust, whether express, implied, or constructive, by reason of any information which may have been contained in any certificate made under any of the provisions of this Part or any declaration made under the corresponding provisions of the Trustee Companies Protection Act 1934–35.
