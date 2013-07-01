@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -122,7 +122,7 @@ This Act shall bind the Crown.
       (B) provided that person with a certificate of permission under section 7H to export that object; and
     (iii) the export conforms with any terms and conditions imposed by that authorisation; or
   (b) unless the chief executive, by notice in the Gazette, exempts any category or categories of protected New Zealand objects from the provisions of this section if he or she is satisfied that sufficient examples of that category or those categories are held in public ownership in New Zealand.
-(2) Every person who exports, or attempts to export, a protected New Zealand object, other than in accordance with subsection (1) or without reasonable excuse in the circumstances, commits an offence and is liable on summary conviction,—
+(2) Every person who exports, or attempts to export, a protected New Zealand object, other than in accordance with subsection (1) or without reasonable excuse in the circumstances, commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $100,000 or a term of imprisonment not exceeding 5 years, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
@@ -325,7 +325,7 @@ A person may not import into New Zealand an unlawfully exported protected foreig
   (b) if satisfied that the competing claims have been resolved and that the resolution is valid, apply to the Registrar of the Maori Land Court for an order that confirms the owner or owners of the taonga tūturu.
 (7) If 2 or more competing claims are lodged, and cannot be resolved, the chief executive may, if requested by a claimant, facilitate the applications of any or all of the claimants to the Maori Land Court.
 (8) For the purposes of this section, ownership, whether actual or traditional, includes (but is not limited to) collective or joint ownership.
-(9) Every person who finds a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, and who contravenes subsection (3), commits an offence and is liable on summary conviction,—
+(9) Every person who finds a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, and who contravenes subsection (3), commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 
@@ -352,7 +352,7 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
   provided that this subsection shall not apply to any disposition by any person to a relative of that person, whether by way of gift inter vivos, or pursuant to a testamentary disposition, or under the intestacy of that person, or by survivorship on the death of that person.
 (2) Notwithstanding anything in subsection (1), no person or institution entrusted with the custody of any taonga tūturu in accordance with the terms of subsection (4) of section 11 may dispose of that taonga tūturu other than at the direction of the chief executive.
 (3) Without limiting in any way his or her powers under subsection (2), the chief executive may, on application and subject to such conditions as the chief executive considers necessary, authorise approved institutions to employ destructive analytical techniques to specified ngā taonga tūturu or to specified classes of ngā taonga tūturu.
-(4) Every person, other than a registered collector, who contravenes the provisions of this section commits an offence and is liable on summary conviction,—
+(4) Every person, other than a registered collector, who contravenes the provisions of this section commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 (5) On the conviction of any person of an offence against this section in respect of the disposition of any taonga tūturu, the court may, if it thinks fit, declare the taonga tūturu to be forfeit to the Crown.
@@ -375,13 +375,13 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
     (i) acquires or attempts to acquire a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, otherwise than in accordance with any provision of this Act; or
     (ii) falsely declares to any person that he or she is a registered collector; or
   (b) being a registered collector, fails to comply with any of the conditions of registration specified in subsection (3).
-(7) Every person who commits an offence under subsection (6) is liable on summary conviction,—
+(7) Every person who commits an offence under subsection (6) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 
 ### 14A Duties of executors
 (1) If a registered collector dies, the executor of the estate of that collector must, as soon as practicable (but no later than 90 days after the death of that collector), notify the chief executive that the collector has died.
-(2) Every person who knowingly contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who knowingly contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
@@ -405,7 +405,7 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
 (6) Every person commits an offence who,—
   (a) in a manner contrary to the provisions of this section, purchases or attempts to purchase, or sells or attempts to sell, a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, or falsely declares to any person that he or she is a licensed auctioneer or a licensed secondhand dealer; or
   (b) being a licensed auctioneer or a licensed secondhand dealer, fails to comply with any of the conditions of his or her licence specified in subsection (2).
-(7) Every person who commits an offence under subsection (6) is liable on summary conviction,—
+(7) Every person who commits an offence under subsection (6) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 
@@ -413,25 +413,25 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
 (1) At the request of a licensed auctioneer or of a licensed secondhand dealer in accordance with paragraph (b) of subsection (2) of section 15 or at the request of any registered collector, any authorised public museum shall issue a certificate of examination in respect of any taonga tūturu within 28 days of the taonga tūturu being first made available for examination.
 (2) The authorised public museum requested to issue a certificate of examination by a licensed auctioneer or a licensed secondhand dealer may, at its discretion, notify other public museums of the availability of the taonga tūturu and may make an offer for its purchase.
 (3) Every certificate of examination issued by an authorised public museum in respect of any taonga tūturu shall be in the form provided by the chief executive and shall be numbered, and every taonga tūturu examined by an authorised public museum for the purpose of issuing a certificate of examination shall be clearly identified with a registration number.
-(4) Every person—commits an offence, and shall be liable on summary conviction, in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu or, in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
+(4) Every person—commits an offence, and shall be liable on conviction, in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu or, in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
   (a) who knowingly removes or alters the registration number identifying any taonga tūturu pursuant to this section; or
   (b) who knowingly alters a certificate of examination issued by an authorised public museum in respect of any taonga tūturu; or
   (c) who makes or causes to be made any certificate of examination purporting to be issued by an authorised public museum without the authority of that museum—
 
 ### 17 Disclosure of information
 (1) No person who under this Act becomes aware of the ownership or location of any taonga tūturu shall disclose any information relating thereto to any other person except as required or permitted pursuant to this Act, or with the written consent of the chief executive or of the owner of the taonga tūturu or of the person having lawful custody thereof.
-(2) Every person who knowingly acts in contravention of subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who knowingly acts in contravention of subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 
 ### 18 Replica of taonga tūturu
 (1) Any person who manufactures for sale a replica of any taonga tūturu shall be required to identify it clearly and permanently as such.
-(2) Every person who, without reasonable cause, fails to comply with the provisions of subsection (1) commits an offence, and is liable on summary conviction,—
+(2) Every person who, without reasonable cause, fails to comply with the provisions of subsection (1) commits an offence, and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
 
 ### 18A Wilful damage
-Every person who wilfully damages or destroys an object that is subject to an export application, or has been refused export permission under this Act, commits an offence, and is liable on summary conviction,—
+Every person who wilfully damages or destroys an object that is subject to an export application, or has been refused export permission under this Act, commits an offence, and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each object or a term of imprisonment not exceeding 2 years:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each object.
 
@@ -472,277 +472,7 @@ The following enactments are hereby consequentially repealed:
 
 ## Schedule 2 — UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property
 
-###
-For the purposes of this Convention, the term cultural property means property which, on religious or secular grounds, is specifically designated by each State as being of importance for archaeology, prehistory, history, literature, art or science and which belongs to the following categories:
-  (a.) rare collections and specimens of fauna, flora, minerals and anatomy, and objects of palaeontological interest;
-  (b.) property relating to history, including the history of science and technology and military and social history, to the life of national leaders, thinkers, scientists and artists and to events of national importance;
-  (c.) products of archaeological excavations (including regular and clandestine) or of archaeological discoveries;
-  (d.) elements of artistic or historical monuments or archaeological sites which have been dismembered;
-  (e.) antiquities more than one hundred years old, such as inscriptions, coins and engraved seals;
-  (f.) objects of ethnological interest;
-  (g.) property of artistic interest, such as:
-    (i.) pictures, paintings and drawings produced entirely by hand on any support and in any material (excluding industrial designs and manufactured articles decorated by hand);
-    (ii.) original works of statuary art and sculpture in any material;
-    (iii.) original engravings, prints and lithographs;
-    (iv.) original artistic assemblages and montages in any material;
-  (h.) rare manuscripts and incunabula, old books, documents and publications of special interest (historical, artistic, scientific, literary, etc.) singly or in collections;
-  (i.) postage, revenue and similar stamps, singly or in collections;
-  (j.) archives, including sound, photographic and cinematographic archives;
-  (k.) articles of furniture more than one hundred years old and old musical instruments.
-
-###
-(1.) The States Parties to this Convention recognize that the illicit import, export and transfer of ownership of cultural property is one of the main causes of the impoverishment of the cultural heritage of the countries of origin of such property and that international co-operation constitutes one of the most efficient means of protecting each country’s cultural property against all the dangers resulting therefrom.
-(2.) To this end, the States Parties undertake to oppose such practices with the means at their disposal, and particularly by removing their causes, putting a stop to current practices, and by helping to make the necessary reparations.
-
-###
-The import, export or transfer of ownership of cultural property effected contrary to the provisions adopted under this Convention by the States Parties thereto, shall be illicit.
-
-###
-The States Parties to this Convention recognize that for the purpose of the Convention property which belongs to the following categories forms part of the cultural heritage of each State:
-  (a.) cultural property created by the individual or collective genius of nationals of the State concerned, and cultural property of importance to the State concerned created within the territory of that State by foreign nationals or stateless persons resident within such territory;
-  (b.) cultural property found within the national territory;
-  (c.) cultural property acquired by archaeological, ethnological or natural science missions, with the consent of the competent authorities of the country of origin of such property;
-  (d.) cultural property which has been the subject of a freely agreed exchange;
-  (e.) cultural property received as a gift or purchased legally with the consent of the competent authorities of the country of origin of such property.
-
-###
-To ensure the protection of their cultural property against illicit import, export and transfer of ownership, the States Parties to this Convention undertake, as appropriate for each country, to set up within their territories one or more national services, where such services do not already exist, for the protection of the cultural heritage, with a qualified staff sufficient in number for the effective carrying out of the following functions:
-  (a.) contributing to the formation of draft laws and regulations designed to secure the protection of the cultural heritage and particularly prevention of the illicit import, export and transfer of ownership of important cultural property;
-  (b.) establishing and keeping up to date, on the basis of a national inventory of protected property, a list of important public and private cultural property whose export would constitute an appreciable impoverishment of the national cultural heritage;
-  (c.) promoting the development or the establishment of scientific and technical institutions (museums, libraries, archives, laboratories, workshops …) required to ensure the preservation and presentation of cultural property;
-  (d.) organizing the supervision of archaeological excavations, ensuring the preservation in situ of certain cultural property, and protecting certain areas reserved for future archaeological research;
-  (e.) establishing, for the benefit of those concerned (curators, collectors, antique dealers, etc.) rules in conformity with the ethical principles set forth in this Convention; and taking steps to ensure the observance of those rules;
-  (f.) taking educational measures to stimulate and develop respect for the cultural heritage of all States, and spreading knowledge of the provisions of this Convention;
-  (g.) seeing that appropriate publicity is given to the disappearance of any items of cultural property.
-
-###
-The States Parties to this Convention undertake:
-  (a.) to introduce an appropriate certificate in which the exporting State would specify that the export of the cultural property in question is authorized. The certificate should accompany all items of cultural property exported in accordance with the regulations;
-  (b.) to prohibit the exportation of cultural property from their territory unless accompanied by the above-mentioned export certificate;
-  (c.) to publicize this prohibition by appropriate means, particularly among persons likely to export or import cultural property.
-
-###
-The States Parties to this Convention undertake:
-  (a.) to take the necessary measures, consistent with national legislation, to prevent museums and similar institutions within their territories from acquiring cultural property originating in another State Party which has been illegally exported after entry into force of this Convention, in the States concerned. Whenever possible, to inform a State of origin Party to this Convention of an offer of such cultural property illegally removed from that State after the entry into force of this Convention in both States;
-  (b.)
-    (i.) to prohibit the import of cultural property stolen from a museum or a religious or secular public monument or similar institution in another State Party to this Convention after the entry into force of this Convention for the States concerned, provided that such property is documented as appertaining to the inventory of that institution;
-    (ii.) at the request of the State Party of origin, to take appropriate steps to recover and return any such cultural property imported after the entry into force of this Convention in both States concerned, provided, however, that the requesting State shall pay just compensation to an innocent purchaser or to a person who has valid title to that property. Requests for recovery and return shall be made through diplomatic offices. The requesting Party shall furnish, at its expense, the documentation and other evidence necessary to establish its claim for recovery and return. The Parties shall impose no customs duties or other charges upon cultural property returned pursuant to this Article. All expenses incident to the return and delivery of the cultural property shall be borne by the requesting Party.
-
-###
-The States Parties to this Convention undertake to impose penalties or administrative sanctions on any person responsible for infringing the prohibitions referred to under Articles 6(b) and 7(b) above.
-
-###
-Any State Party to this Convention whose cultural patrimony is in jeopardy from pillage of archaeological or ethnological materials may call upon other States Parties who are affected. The States Parties to this Convention undertake, in these circumstances, to participate in a concerted international effort to determine and to carry out the necessary concrete measures, including the control of exports and imports and international commerce in the specific materials concerned. Pending agreement each State concerned shall take provisional measures to the extent feasible to prevent irremediable injury to the cultural heritage of the requesting State.
-
-###
-The States Parties to this Convention undertake:
-  (a.) to restrict by education, information and vigilance, movement of cultural property illegally removed from any State Party to this Convention and, as appropriate for each country, oblige antique dealers, subject to penal or administrative sanctions, to maintain a register recording the origin of each item of cultural property, names and addresses of the supplier, description and price of each item sold and to inform the purchaser of the cultural property of the export prohibition to which such property may be subject;
-  (b.) to endeavour by educational means to create and develop in the public mind a realization of the value of cultural property and the threat to the cultural heritage created by theft, clandestine excavations and illicit exports.
-
-###
-The export and transfer of ownership of cultural property under compulsion arising directly or indirectly from the occupation of a country by a foreign power shall be regarded as illicit.
-
-###
-The States Parties to this Convention shall respect the cultural heritage within the territories for the international relations of which they are responsible, and shall take all appropriate measures to prohibit and prevent the illicit import, export and transfer of ownership of cultural property in such territories.
-
-###
-The States Parties to this Convention also undertake, consistent with the laws of each State:
-  (a.) to prevent by all appropriate means transfers of ownership of cultural property likely to promote the illicit import or export of such property;
-  (b.) to ensure that their competent services co-operate in facilitating the earliest possible restitution of illicitly exported cultural property to its rightful owner;
-  (c.) to admit actions for recovery of lost or stolen items of cultural property brought by or on behalf of the rightful owners;
-  (d.) to recognize the indefeasible right of each State Party to this Convention to classify and declare certain cultural property as inalienable which should therefore ipso facto not be exported, and to facilitate recovery of such property by the State concerned in cases where it has been exported.
-
-###
-In order to prevent illicit export and to meet the obligations arising from the implementation of this Convention, each State Party to the Convention should, as far as it is able, provide the national services responsible for the protection of its cultural heritage with an adequate budget and, if necessary, should set up a fund for this purpose.
-
-###
-Nothing in this Convention shall prevent States Parties thereto from concluding special agreements among themselves or from continuing to implement agreements already concluded regarding the restitution of cultural property removed, whatever the reason, from its territory of origin, before the entry into force of this Convention for the States concerned.
-
-###
-The States Parties to this Convention shall in their periodic reports submitted to the General Conference of the United Nations Educational, Scientific and Cultural Organization on dates and in a manner to be determined by it, give information on the legislative and administrative provisions which they have adopted and other action which they have taken for the application of this Convention, together with details of the experience acquired in this field.
-
-###
-(1.) The States Parties to this Convention may call on the technical assistance of the United Nations Educational, Scientific and Cultural Organization, particularly as regards:
-  (a.) information and education;
-  (b.) consultation and expert advice;
-  (c.) co-ordination and good offices.
-(2.) The United Nations Educational, Scientific and Cultural Organization may, on its own initiative conduct research and publish studies on matters relevant to the illicit movement of cultural property.
-(3.) To this end, the United Nations Educational, Scientific and Cultural Organization may also call on the co-operation of any competent non-governmental organization.
-(4.) The United Nations Educational, Scientific and Cultural Organization may, on its own initiative, make proposals to States Parties to this Convention for its implementation.
-(5.) At the request of at least two States Parties to this Convention which are engaged in a dispute over its implementation, Unesco may extend its good offices to reach a settlement between them.
-
-###
-This Convention is drawn up in English, French, Russian and Spanish, the four texts being equally authoritative.
-
-###
-(1.) This Convention shall be subject to ratification or acceptance by States members of the United Nations Educational, Scientific and Cultural Organization in accordance with their respective constitutional procedures.
-(2.) The instruments of ratification or acceptance shall be deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
-
-###
-(1.) This Convention shall be open to accession by all States not members of the United Nations Educational, Scientific and Cultural Organization which are invited to accede to it by the Executive Board of the Organization.
-(2.) Accession shall be effected by the deposit of an instrument of accession with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
-
-###
-This Convention shall enter into force three months after the date of the deposit of the third instrument of ratification, acceptance or accession, but only with respect to those States which have deposited their respective instruments on or before that date. It shall enter into force with respect to any other State three months after the deposit of its instrument of ratification, acceptance or accession.
-
-###
-The States Parties to this Convention recognize that the Convention is applicable not only to their metropolitan territories but also to all territories for the international relations of which they are responsible; they undertake to consult, if necessary, the governments or other competent authorities of these territories on or before ratification, acceptance or accession with a view to securing the application of the Convention to those territories, and to notify the Director-General of the United Nations Educational, Scientific and Cultural Organization of the territories to which it is applied, the notification to take effect three months after the date of its receipt.
-
-###
-(1.) Each State Party to this Convention may denounce the Convention on its own behalf or on behalf of any territory for whose international relations it is responsible.
-(2.) The denunciation shall be notified by an instrument in writing, deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
-(3.) The denunciation shall take effect twelve months after the receipt of the instrument of denunciation.
-
-###
-The Director-General of the United Nations Educational, Scientific and Cultural Organization shall inform the States members of the Organization, the States not members of the Organization which are referred to in Article 20, as well as the United Nations, of the deposit of all the instruments of ratification, acceptance and accession provided for in Articles 19 and 20, and of the notifications and denunciations provided for in Articles 22 and 23 respectively.
-
-###
-(1.) This Convention may be revised by the General Conference of the United Nations Educational, Scientific and Cultural Organization. Any such revision shall, however, bind only the States which shall become Parties to the revising convention.
-(2.) If the General Conference should adopt a new convention revising this Convention in whole or in part, then, unless the new convention otherwise provides, this Convention shall cease to be open to ratification, acceptance or accession, as from the date on which the new revising convention enters into force.
-
-###
-In conformity with Article 102 of the Charter of the United Nations, this Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of the United Nations Educational, Scientific and Cultural Organization.
-
 ## Schedule 3 — UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects
-
-###
-This Convention applies to claims of an international character for:
-  (a) the restitution of stolen cultural objects;
-  (b) the return of cultural objects removed from the territory of a Contracting State contrary to its law regulating the export of cultural objects for the purpose of protecting its cultural heritage (hereinafter illegally exported cultural objects).
-
-###
-For the purposes of this Convention, cultural objects are those which, on religious or secular grounds, are of importance for archaeology, prehistory, history, literature, art or science and belong to one of the categories listed in the Annex to this Convention.
-
-###
-(1) The possessor of a cultural object which has been stolen shall return it.
-(2) For the purposes of this Convention, a cultural object which has been unlawfully excavated or lawfully excavated but unlawfully retained shall be considered stolen, when consistent with the law of the State where the excavation took place.
-(3) Any claim for restitution shall be brought within a period of three years from the time when the claimant knew the location of the cultural object and the identity of its possessor, and in any case within a period of fifty years from the time of the theft.
-(4) However, a claim for restitution of a cultural object forming an integral part of an identified monument or archaeological site, or belonging to a public collection, shall not be subject to time limitations other than a period of three years from the time when the claimant knew the location of the cultural object and the identity of its possessor.
-(5) Notwithstanding the provisions of the preceding paragraph, any Contracting State may declare that a claim is subject to a time limitation of 75 years or such longer period as is provided in its law. A claim made in another Contracting State for restitution of a cultural object displaced from a monument, archaeological site or public collection in a Contracting State making such a declaration shall also be subject to that time limitation.
-(6) A declaration referred to in the preceding paragraph shall be made at the time of signature, ratification, acceptance, approval or accession.
-(7) For the purposes of this Convention, a public collection consists of a group of inventoried or otherwise identified cultural objects owned by:
-  (a) a Contracting State
-  (b) a regional or local authority of a Contracting State;
-  (c) a religious institution in a Contracting State; or
-  (d) an institution that is established for an essentially cultural, educational or scientific purpose in a Contracting State and is recognised in that State as serving the public interest.
-(8) In addition, a claim for restitution of a sacred or communally important cultural object belonging to and used by a tribal or indigenous community in a Contracting State as part of that community’s traditional or ritual use, shall be subject to the time limitation applicable to public collections.
-
-###
-(1) The possessor of a stolen cultural object required to return it shall be entitled, at the time of its restitution, to payment of fair and reasonable compensation provided that the possessor neither knew nor ought reasonably to have known that the object was stolen and can prove that it exercised due diligence when acquiring the object.
-(2) Without prejudice to the right of the possessor to compensation referred to in the preceding paragraph, reasonable efforts shall be made to have the person who transferred the cultural object to the possessor, or any prior transferor, pay the compensation where to do so would be consistent with the law of the State in which the claim is brought.
-(3) Payment of compensation to the possessor by the claimant, when this is required, shall be without prejudice to the right of the claimant to recover it from any other person.
-(4) In determining whether the possessor exercised due diligence, regard shall be had to all the circumstances of the acquisition, including the character of the parties, the price paid, whether the possessor consulted any reasonably accessible register of stolen cultural objects, and any other relevant information and documentation which it could reasonably have obtained, and whether the possessor consulted accessible agencies or took any other step that a reasonable person would have taken in the circumstances.
-(5) The possessor shall not be in a more favourable position than the person from whom it acquired the cultural object by inheritance or otherwise gratuitously.
-
-###
-(1) A Contracting State may request the court or other competent authority of another Contracting State to order the return of a cultural object illegally exported from the territory of the requesting State.
-(2) A cultural object which has been temporarily exported from the territory of the requesting State, for purposes such as exhibition, research or restoration, under a permit issued according to its law regulating its export for the purpose of protecting its cultural heritage and not returned in accordance with the terms of that permit shall be deemed to have been illegally exported.
-(3) The court or other competent authority of the State addressed shall order the return of an illegally exported cultural object if the requesting State establishes that the removal of the object from its territory significantly impairs one or more of the following interests:or establishes that the object is of significant cultural importance for the requesting State.
-  (a) the physical Preservation of the object or of its context;
-  (b) the integrity of a complex object;
-  (c) the preservation of information of, for example, a scientific or historical character;
-  (d) the traditional or ritual use of the object by a tribal or indigenous community,
-(4) Any request made under paragraph 1 of this Article shall contain or be accompanied by such information of a factual or legal nature as may assist the court or other competent authority of the State addressed in determining whether the requirements of paragraphs 1 to 3 have been met.
-(5) Any request for return shall be brought within a period of three years from the time when the requesting State knew the location of the cultural object and the identity of its possessor, and in any case within a period of fifty years from the date of the export or from the date on which the object should have been returned under a permit referred to in paragraph 2 of this Article.
-
-###
-(1) The possessor of a cultural object who acquired the object after it was illegally exported shall be entitled, at the time of its return, to payment by the requesting State of fair and reasonable compensation, provided that the possessor neither knew nor ought reasonably to have known at the time of acquisition that the object had been illegally exported.
-(2) In determining whether the possessor knew or ought reasonably to have known that the cultural object had been illegally exported, regard shall be had to the circumstances of the acquisition, including the absence of an export certificate required under the law of the requesting State.
-(3) Instead of compensation, and in agreement with the requesting State, the possessor required to return the cultural object to that State may decide:
-  (a) to retain ownership of the object; or
-  (b) to transfer ownership against payment or gratuitously to a person of its choice residing in the requesting State who provides the necessary guarantees.
-(4) The cost of returning the cultural object in accordance with this Article shall be borne by the requesting State, without prejudice to the right of that State to recover costs from any other person.
-(5) The possessor shall not be in a more favourable position than the person from whom it acquired the cultural object by inheritance or otherwise gratuitously.
-
-###
-(1) The provisions of this Chapter shall not apply where:
-  (a) the export of a cultural object is no longer illegal at the time at which the return is requested; or
-  (b) the object was exported during the lifetime of the person who created it or within a period of fifty years following the death of that person.
-(2) Notwithstanding the provisions of sub-paragraph (b) of the preceding paragraph, the provisions of this Chapter shall apply where a cultural object was made by a member or members of a tribal or indigenous community for traditional or ritual use by that community and the object will be returned to that community.
-
-###
-(1) A claim under Chapter II and a request under Chapter III may be brought before the courts or other competent authorities of the Contracting State where the cultural object is located, in addition to the courts or other competent authorities otherwise having jurisdiction under the rules in force in Contracting States.
-(2) The parties may agree to submit the dispute to any court or other competent authority or to arbitration.
-(3) Resort may be had to the provisional, including protective, measures available under the law of the Contracting State where the object is located even when the claim for restitution or request for return of the object is brought before the courts or other competent authorities of another Contracting State.
-
-###
-(1) Nothing in this Convention shall prevent a Contracting State from applying any rules more favourable to the restitution or the return of stolen or illegally exported cultural objects than provided for by this Convention.
-(2) This Article shall not be interpreted as creating an obligation to recognise or enforce a decision of a court or other competent authority of another Contracting State that departs from the provisions of this Convention.
-
-###
-(1) The provisions of Chapter II shall apply only in respect of a cultural object that is stolen after this Convention enters into force in respect of the State where the claim is brought, provided that:
-  (a) the object was stolen from the territory of a Contracting State after the entry into force of this Convention for that State; or
-  (b) the object is located in a Contracting State after the entry into force of the Convention for that State.
-(2) The provisions of Chapter III shall apply only in respect of a cultural object that is illegally exported after this Convention enters into force for the requesting State as well as the State where the request is brought.
-(3) This Convention does not in any way legitimise any illegal transaction of whatever which has taken place before the entry into force of this Convention or which is excluded under paragraphs (1) or (2) of this Article, nor limit any right of a State or other person to make a claim under remedies available outside the framework of this Convention for the restitution or return of a cultural object stolen or illegally exported before the entry into force of this Convention.
-
-###
-(1) This Convention is open for signature at the concluding meeting of the Diplomatic Conference for the adoption of the draft Unidroit Convention on the International Return of Stolen or Illegally Exported Cultural Objects and will remain open for signature by all States at Rome until June 1996.
-(2) This Convention is subject to ratification, acceptance or approval by States which have signed it.
-(3) This Convention is open for accession by all States which are not signatory States as from the date it is open for signature.
-(4) Ratification, acceptance, approval or accession is subject to the deposit of a formal instrument to that effect with the depositary.
-
-###
-(1) This Convention shall enter into force on the first day of the sixth month following the date of deposit of the fifth instrument of ratification, acceptance, approval or accession.
-(2) For each State that ratifies, accepts, approves or accedes to this Convention after the deposit of the fifth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force in respect of that State on the first day of the sixth month following the date of deposit of its instrument of ratification, acceptance, approval or accession.
-
-###
-(1) This Convention does not affect any international instrument by which any Contracting State is legally bound and which contains provisions on matters governed by this Convention, unless a contrary declaration is made by the States bound by such instrument.
-(2) Any Contracting State may enter into agreements with one or more Contracting States, with a view to improving the application of this Convention in their mutual relations. The States which have concluded such an agreement shall transmit a copy to the depositary.
-(3) In their relations with each other, Contracting States which are Members of organisations of economic integration or regional bodies may declare that they will apply. the internal rules of these organisations or bodies and will not therefore apply as between these States the provisions of this Convention the scope of application of which coincides with that of those rules.
-
-###
-(1) If a Contracting State has two or more territorial units, whether or not possessing different systems of law applicable in relation to the matters dealt with in this Convention, it may, at the time of signature or of the deposit of its instrument of ratification, acceptance, approval or accession, declare that this Convention is to extend to all its territorial units or only to one or more of them, and may substitute for its declaration another declaration at any time.
-(2) These declarations are to be notified to the depositary and are to state expressly the territorial units to which the Convention extends.
-(3) If, by virtue of a declaration under this Article, this Convention extends to one or more but not all of the territorial units of a Contracting State the reference to:
-  (a) the territory of a Contracting State in Article 1 shall be construed as referring to the territory of a territorial unit of that State;
-  (b) a court or other competent authority of the Contracting State or of the State addressed shall be construed as referring to the court or other competent authority of a territorial unit of that State;
-  (c) the Contracting State where the cultural object is located in Article 8 (1) shall be construed as referring to the territorial unit of that State where the object is located;
-  (d) the law of the Contracting State where the object is located in Article 8 (3) shall be construed as referring to the law of the territorial unit of that State where the object is located; and
-  (e) a Contracting State in Article 9 shall be construed as referring to a territorial unit of that State.
-(4) If a Contracting State makes no declaration under paragraph 1 of this Article, this Convention is to extend to all territorial units of that State.
-
-###
-(1) Declarations made under this Convention at the time of signature are subject to confirmation upon ratification, acceptance or approval.
-(2) Declarations and confirmations of declarations are to be in writing and to be formally notified to the depositary.
-(3) A declaration shall take effect simultaneously with the entry into force of this Convention in respect of the State concerned. However, a declaration of which the depositary receives formal notification after such entry into force shall take effect on the first day of the sixth month following the date of its deposit with the depositary.
-(4) Any State which makes a declaration. under this Convention may withdraw it at any time by a formal notification in writing addressed to the depositary. Such withdrawal shall take effect on the first day of the sixth month following the date of the deposit of the notification.
-
-###
-(1) Each Contracting State shall at the time of signature, ratification, acceptance, approval or accession, declare that claims for the restitution, or requests for the return, of cultural objects brought by a State under Article 8 may be submitted to it under one or more of the following procedures:
-  (a) directly to the courts or other competent authorities of the declaring State;
-  (b) through an authority or authorities designated by that State to receive such claims or requests and to forward them to the courts or other competent authorities of that State;
-  (c) through diplomatic or consular channels.
-(2) Each Contracting State may also designate the courts or other authorities competent to order the restitution or return of cultural objects under the provisions of Chapters II and III.
-(3) Declarations made under paragraphs 1 and 2 of this Article may be modified at any time by a new declaration.
-(4) The provisions of paragraphs 1 to 3 of this Article do not affect bilateral or multilateral agreements on judicial assistance in respect of civil and commercial matters that may exist between Contracting States.
-
-###
-Each Contracting State shall, no later than six months following the date of deposit of its instrument of ratification, acceptance, approval or accession, provide the depositary with written information in one of the official languages of the Convention concerning the legislation regulating the export of its cultural objects. This information shall be updated from time to time as appropriate.
-
-###
-No reservations are permitted except those expressly authorised in this Convention.
-
-###
-(1) This Convention may be denounced by any State Party, at any time after the date on which it enters into force for that State, by the deposit of an instrument to that effect with the depositary.
-(2) A denunciation shall take effect on the first day of the sixth month following the deposit of the instrument of denunciation with the depositary. Where a longer period for the denunciation to take effect is specified in the instrument of denunciation it shall take effect upon the expiration of such longer period after its deposit with the depositary.
-(3) Notwithstanding such a denunciation, this Convention shall nevertheless apply to a claim for restitution or a request for return of a cultural object submitted prior to the date on which the denunciation takes effect.
-
-###
-The President of the International Institute for the Unification of Private Law (Unidroit) may at regular intervals, or at any time at the request of five Contracting States, convene a special committee in order to review the practical operation of this Convention.
-
-###
-(1) This Convention shall be deposited with the Government of the Italian Republic.
-(2) The Government of the Italian Republic shall:
-  (a) inform all States which have signed or acceded to this Convention and the President of the International Institute for the Unification of Private Law (Unidroit) of:
-    (i) each new signature or deposit of an instrument of ratification, acceptance approval or accession, together with the date thereof;
-    (ii) each declaration made in accordance with this Convention;
-    (iii) the withdrawal of any declaration;
-    (iv) the date of entry into force of this Convention;
-    (v) the agreements referred to in Article 13;
-    (vi) the deposit of an instrument of denunciation of this Convention together with the date of its deposit and the date on which it takes effect;
-  (b) transmit certified true copies of this Convention to all signatory States, to all States acceding to the Convention and to the President of the International Institute for Unification of Private Law (Unidroit);
-  (c) perform such other functions customary for depositaries.
 
 ### Schedule.Group
 
