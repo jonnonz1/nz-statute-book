@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -124,7 +124,7 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 12 Publication or notification in Gazette to be notice to all persons concerned
-The publication in the Gazette or in accordance with the Regulations Act 1936, whether before or after the commencement of this Act, of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations shall for all purposes be deemed to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the accused shall be determined accordingly.
+The publication in the Gazette or in accordance with the Regulations Act 1936, whether before or after the commencement of this Act, of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations shall for all purposes be deemed to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant shall be determined accordingly.
 
 **Miscellaneous provisions**
 
@@ -186,7 +186,7 @@ An enforcement officer under the Land Transport Act 1998, if for the time being 
 **Legal proceedings**
 
 ### 21 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who—
   (a) wilfully resists, obstructs, or deceives, or attempts to deceive any court, authority, or person that is exercising or attempting to exercise any power or function under this Act or under any petroleum demand restraint regulations:
   (b) wilfully makes any false or misleading statement or any material omission in any communication with or application to the Minister or any other person (whether in writing or otherwise) for the purposes of this Act or of any petroleum demand restraint regulations, or in any information, particulars, copy, extract, or return furnished under this Act or under any such regulations.
   (c)
@@ -194,7 +194,7 @@ Every person commits an offence against this Act and is liable on summary convic
 ### 22 Infringement offences and owner liability
 (1) In this section,—
   - **infringement offence** means an offence against any petroleum demand restraint regulations (being an offence that is punishable by a fine not exceeding $100) which involves the use of a motor vehicle and which is specified in those regulations as an infringement offence
-  - **proceedings** means proceedings under the Summary Proceedings Act 1957; and includes the issue of an infringement notice under section 139 of the Land Transport Act 1998.
+  - **proceedings** means proceedings under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957; and includes the issue of an infringement notice under section 139 of the Land Transport Act 1998.
 (2) Proceedings for an infringement offence may be taken against any 1 or more of the following persons:whether or not (in the case of a person referred to in paragraph (b) or paragraph (c)) the person is an individual or was the driver, person in charge, or user of the vehicle at the time the alleged offence was committed.
   (a) the person who allegedly committed the offence:
   (b) the person who, at the time of the alleged offence, was registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of section 242 of that Act, a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
@@ -202,10 +202,10 @@ Every person commits an offence against this Act and is liable on summary convic
 (3) Subject to subsections (5) and (7), in any proceedings taken against a person pursuant to paragraph (b) or paragraph (c) of subsection (2) it shall be conclusively presumed that—
   (a) the person was the driver, person in charge, and user of the vehicle at the time of the alleged offence (whether or not the person is an individual); and accordingly
   (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
-(4) It shall be a defence to proceedings taken under the Summary Proceedings Act 1957 against a person for an infringement offence if the person proves that—
+(4) It shall be a defence to proceedings taken under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957 against a person for an infringement offence if the person proves that—
   (a) an infringement notice has been issued in respect of the offence and the infringement fee specified in the notice has been paid to the enforcement authority before the commencement of the proceedings; or
-  (b) another person has been ordered to pay an amount in respect of the offence pursuant to section 78A of the Summary Proceedings Act 1957.
-(5) It shall be a defence to proceedings taken under the Summary Proceedings Act 1957 against a person pursuant to paragraph (b) or paragraph (c) of subsection (2) if the person proves that—
+  (b) another person has been ordered to pay an amount in respect of the offence pursuant to section 375 of the Criminal Procedure Act 2011.
+(5) It shall be a defence to proceedings taken under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957 against a person pursuant to paragraph (b) or paragraph (c) of subsection (2) if the person proves that—
   (a) at the time the alleged offence was committed—
     (i) he was not lawfully entitled to possession of the vehicle (either jointly with any other person or severally); or
     (ii) another person was unlawfully in charge of the vehicle; and
@@ -213,7 +213,7 @@ Every person commits an offence against this Act and is liable on summary convic
   (c) he has done everything reasonably possible on his part to comply with all requests of the enforcement authority to supply to the authority information regarding the person lawfully entitled to possession, or who was in charge, of the vehicle at the time of the alleged offence.
 (6) This section shall have effect notwithstanding anything to the contrary in any Act or rule of law.
 (7) Nothing in this section shall limit any defence that is specifically prescribed by any petroleum demand restraint regulations as being available in respect of an offence against those regulations.
-(8) Every infringement offence shall be an infringement offence for the purposes of section 139 of the Land Transport Act 1998, and a minor traffic offence for the purposes of sections 21 and 78A of the Summary Proceedings Act 1957.
+(8) Every infringement offence shall be an infringement offence for the purposes of section 139 of the Land Transport Act 1998, and a minor traffic offence for the purposes of section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011.
 (9) Where any petroleum demand restraint regulations specify that an offence against those regulations is an infringement offence, those regulations must specify the infringement fee (which fee must not exceed $100) that is payable in respect of that offence and that infringement fee is,—
   (a)
   (b) for the purposes of sections 138 to 141 of the Land Transport Act 1998, deemed to be specified in respect of that offence by regulations made under that Act.
@@ -222,9 +222,7 @@ Every person commits an offence against this Act and is liable on summary convic
   - **use** , in relation to a motor vehicle, includes driving, drawing, or propelling by means of another vehicle, and permitting to be on a road.
 
 ### 23 Information may charge several offences
-(1) Any information may charge the defendant with any number of offences against any petroleum demand restraint regulations, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
-(2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
-(3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
+[Repealed]
 
 ### 24 Liability of principal for acts of agents, etc
 (1) Where an offence is committed against this Act or against any petroleum demand restraint regulation by any person acting as the agent or employee of another person, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence.
@@ -232,7 +230,7 @@ Every person commits an offence against this Act and is liable on summary convic
 (3) Where any body corporate is convicted of an offence against this Act or against any regulation made under this Act, every director and every person concerned in the management of the body corporate shall be guilty of a like offence if it is proved that the act that constituted the offence took place with his authority, permission, or consent, or that he knew the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 25 Offences to be punishable on summary conviction
-Subject to section 22, every offence against any petroleum demand restraint regulations shall be punishable on summary conviction.
+[Repealed]
 
 ### 26 Act not to derogate from certain other Acts
 Nothing in this Act shall derogate from the provisions of—
@@ -242,39 +240,3 @@ Nothing in this Act shall derogate from the provisions of—
   (d) the International Energy Agreement Act 1976.
 
 ## Schedule Schedule — Regulations continued in force
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
