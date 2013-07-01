@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -34,7 +34,7 @@ _Consolidation as at 2012-03-05_
   - **cadet forces** means the cadet forces raised and maintained under Part 6 of the Defence Act 1990
   - **Chief Judge** means the Chief Judge of the Court Martial
   - **Chief of Defence Force** means the officer appointed under section 8 of the Defence Act 1990
-  - **civil court** in relation to any offence, means a court exercising ordinary criminal jurisdiction in New Zealand; and includes a court of summary jurisdiction
+  - **civil court** in relation to any offence, means a court exercising ordinary criminal jurisdiction in New Zealand
   - **civil custody** means the custody of the Police or other civil authority authorised to retain persons in civil custody; and includes confinement in a civil prison
   - **claim of right** has the same meaning as it has in section 2(1) of the Crimes Act 1961
   - **commanding officer** —
@@ -346,7 +346,7 @@ Where, by virtue of section 17 or section 18, a person is deemed to be subject t
 (2) Any time during which a person accused of an offence was a prisoner of war, or has been declared by a court of inquiry under section 201 to have been absent without leave or other sufficient reason or was serving a sentence of imprisonment in a civil prison shall not be counted towards completion of the period of 3 years referred to in subsection (1).
 (3) Notwithstanding anything to the contrary in this section, where—that period of limitation shall apply in respect of the person charged with having committed an offence against the said section 74.
   (a) any person subject to this Act is charged with having committed an offence against section 74 in relation to any act or omission which would, if the act or omission had taken place in New Zealand, have constituted a civil offence within the meaning of that section; and
-  (b) the Act constituting that civil offence or, if that Act does not so provide, any other Act provides for a limited period within which an indictment or information may be laid in respect of that offence—
+  (b) the Act constituting that civil offence or, if that Act does not so provide, any other Act provides for a limited period within which a charging document may be filed in respect of that offence—
 (4) A charge alleging that a person who, by virtue of section 18, is to be deemed to be subject to this Act has committed an offence against this Act while he was in fact so subject shall not be tried by the Court Martial unless—
   (a) the charge is referred to the Director of Military Prosecutions within 6 months after the person ceased in fact to be subject to this Act; or
   (b) the offence is against any of the following provisions of this Act:
@@ -2519,7 +2519,7 @@ No action for damages shall lie in respect of any act done or omitted unlawfully
 ### 185 Recovery in District Court of fines imposed under this Act
 (1) If a fine has been imposed by the Court Martial, or by a disciplinary officer, on a person for an offence against this Act (whether in New Zealand or elsewhere), a certificate purporting to be signed by a competent service authority specifying particulars of the conviction and the fine imposed may be filed in any District Court in New Zealand (without payment of any fee).
 (1A) Subsection (1) does not limit section 85.
-(2) In every such case, the Registrar of the District Court shall make an appropriate entry in the criminal record book kept there; and on that entry being made, payment of the amount of the fine may be enforced as if the fine had been ordered to be paid by that court at the time of the filing of the certificate; and all enactments relating to fines imposed on summary conviction shall apply accordingly.
+(2) Once a certificate under subsection (1) is filed, the fine may be enforced in accordance with Part 3 of the Summary Proceedings Act 1957.
 
 ### 186 Fines to be paid into Crown Bank Account
 Subject to section 186A all fines imposed under this Act shall, when recovered, be paid into a Crown Bank Account.
@@ -2556,8 +2556,8 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
 (1) The Court Martial may, at any time before or during a trial, determine in accordance with section 188A whether an accused is unfit to stand trial.
 (2) The Court may not make a finding on whether the accused is unfit to stand trial unless the Court is satisfied, on the balance of probabilities, that the evidence presented by the prosecution is sufficient to establish that the accused caused the act or omission that forms the basis of the offence with which the accused is charged.
 (3) If the question whether the accused is unfit to stand trial is to be determined before the trial, a special hearing must be held to ascertain whether the Court is satisfied of the matter specified in subsection (2).
-(4) If the Court is not satisfied of the matter specified in subsection (2), the Court must record a finding to that effect and discharge the accused.
-(5) A discharge under subsection (4) does not amount to an acquittal.
+(4) If the Court is not satisfied of the matter specified in subsection (2), the Court must record a finding to that effect and dismiss the charge.
+(5)
 (6) If the Court is satisfied of the matter specified in subsection (2), the Court must record a finding to that effect, and proceed to determine the matters specified in section 188A.
 
 ### 188A Determining if accused unfit to stand trial
