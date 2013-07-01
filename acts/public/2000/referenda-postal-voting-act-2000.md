@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -612,11 +612,11 @@ At the end of a hearing, the court must do one of the following:
 (3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
 
 ### 64 Rolls
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000—
   (a) who removes a copy of a printed preliminary referendum roll from any place where it is kept under section 17(1) or (3), except for the purpose of returning it to the Registrar for the district; or
   (b) who fails, without reasonable excuse, to comply with section 17(5); or
   (c) who fails, without reasonable excuse, to comply with section 18(4).
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000—
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000—
   (a) who knowingly copies the whole or any part of a copy of a printed preliminary referendum roll; or
   (b) who knowingly supplies or receives the whole or any part of a copy of a printed preliminary referendum roll, except for the purposes of section 17(3) or section 18(3); or
   (c) who knowingly uses the whole or any part of a copy of a printed preliminary referendum roll, except for the purposes of—
@@ -624,19 +624,19 @@ At the end of a hearing, the court must do one of the following:
     (ii) checking that persons not qualified to be on it are not on it:
     (iii) encouraging persons qualified to be on it, whether or not they are, to apply for registration as electors under the Electoral Act 1993; or
   (d) who fails, without reasonable excuse, to comply with section 27(2).
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses—
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses—
   (a) the whole or any part of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); or
   (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b).
 
 ### 65 Official publicity campaign
-(1) Every person who knowingly copies, supplies, receives, or uses any information supplied under section 28(1) or (3), except for the purposes of the official publicity campaign, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
-(2) Every person who fails, without reasonable excuse, to comply with section 28(4) or (5)commits an offence and is liable on summary conviction to a fine not exceeding $50,000.
+(1) Every person who knowingly copies, supplies, receives, or uses any information supplied under section 28(1) or (3), except for the purposes of the official publicity campaign, commits an offence and is liable on conviction to a fine not exceeding $100,000.
+(2) Every person who fails, without reasonable excuse, to comply with section 28(4) or (5)commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 66 Influencing electors generally
 (1) This section applies to any person who, at any time during the 3 days immediately before the commencement of the voting period or during the voting period, prints or distributes or delivers to any person anything—
   (a) that is or purports to be an imitation of the voting paper, together with any direction or indication as to the response for which any person should or should not vote; or
   (b) that is or purports to be an imitation of the voting paper and that has on it any matter likely to influence any vote.
-(2) Every such person commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every such person commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (3) Nothing in this section applies to anything said or done—
   (a) for the purposes of the official publicity campaign; or
   (b) for the purposes of the referendum, by—
@@ -645,7 +645,7 @@ At the end of a hearing, the court must do one of the following:
     (iii) a person acting under a delegation under section 11.
 
 ### 67 Advertisers
-Every person to whom section 51 applies commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
+Every person to whom section 51 applies commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
 
 ### 68 Voting papers
 (1) Every person commits an offence who—
@@ -655,7 +655,7 @@ Every person to whom section 51 applies commits an offence and is liable on summ
   (d) without due authority, destroys, takes, or interferes with a voting paper or an envelope containing a voting paper—
     (i) in use for the purposes of the referendum; or
     (ii) kept after the declaration of the result as a record of the referendum.
-(2) Every person who commits an offence against this section is liable on conviction on indictment,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) if the Returning Officer, or any person employed or engaged under section 9, or any person acting under a delegation under section 11, to imprisonment for a term not exceeding 2 years:
   (b) if any other person, to imprisonment for a term not exceeding 6 months.
 (3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
@@ -740,15 +740,15 @@ Every person to whom section 51 applies commits an offence and is liable on summ
 (4) Every person who commits the offence of undue influence is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
 
 ### 74 Voting
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) is present in accordance with section 38(3) when a voter votes; and
   (b) communicates at any time to any person any information obtained as to the response for which the voter is about to vote or has voted.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000—
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000—
   (a) who—
     (i) is authorised by a voter to mark the voting paper under section 38(3)(b); or
     (ii) is the Returning Officer or a person acting under a delegation under section 11(1) and marks a voting paper under section 38(4); and
   (b) who does not mark the voting paper in accordance with the voter's instructions.
-(3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 75 Personation
 (1) Every person commits the offence of personation who—
@@ -759,8 +759,8 @@ Every person to whom section 51 applies commits an offence and is liable on summ
 (3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
 
 ### 76 Processing
-(1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in section 45(1)(b) is in place commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
-(2) If the Returning Officer, or a person acting under a delegation under section 11(1), fails to take all reasonable steps as required by section 45(2), with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in section 45(1)(b) is in place commits an offence and is liable on conviction to a fine not exceeding $2,000.
+(2) If the Returning Officer, or a person acting under a delegation under section 11(1), fails to take all reasonable steps as required by section 45(2), with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (3) Every person commits an offence who is present at the processing of voting papers and—
   (a) fails to maintain and aid in maintaining the secrecy of the voting; or
   (b) communicates any information obtained at the processing of voting papers as to the response for which any vote is given in any particular voting paper.
