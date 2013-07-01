@@ -1,5 +1,5 @@
 # Supreme Court Act 2003
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Supreme Court Act 2003.
@@ -76,9 +76,8 @@ The Supreme Court can hear and determine an appeal against a decision made in a 
 
 ### 10 Appeals against decisions in criminal proceedings
 The Supreme Court can hear and determine appeals authorised by—
-  (a) Part 13 or section 406A of the Crimes Act 1961; or
-  (b) section 144A of the Summary Proceedings Act 1957; or
-  (c) section 10 or 10A of the Court Martial Appeals Act 1953.
+  (a) Part 6 of the Criminal Procedure Act 2011; or
+  (b) section 10 or 10A of the Court Martial Appeals Act 1953.
 
 ### 11 Procedural requirements
 Sections 7 to 10 are subject to—
