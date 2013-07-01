@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -99,7 +99,7 @@ This Act shall bind the Crown.
   (b) in any document prepared pursuant to any such direction,—
     (i) makes a statement that is false or misleading in a material particular knowing it to be false or misleading; or
     (ii) omits any matter knowing that the omission makes the document false or misleading in a material particular.
-(3) Every person who commits an offence against subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
+(3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
 
 ## Part 2 — Prohibition of mineral resource activities
 
@@ -123,7 +123,7 @@ In this Part, mineral resource activities—
   (c) excludes, notwithstanding paragraphs (a) and (b), bona fide scientific research undertaken by any official expedition of a Contracting Party and bona fide logistic support activities associated with any such scientific research.
 
 ### 15 Penalties
-Every person who commits an offence against this Part is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+Every person who commits an offence against this Part is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
 
 ## Part 3 — Environmental impact assessment
 
@@ -204,7 +204,7 @@ The Minister may, if he or she considers it desirable to do so for the purpose o
 (2) Subsection (1)(a) and subsection (1)(d) apply only to a person—
   (a) who is responsible for organising any expedition to Antarctica which is organised in New Zealand or which proceeds from New Zealand as its final point of departure for Antarctica; or
   (b) who is a New Zealand citizen or a person ordinarily resident in New Zealand.
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
 
 ## Part 4 — Measures for conservation of Antarctic fauna and flora and protected areas
 
@@ -273,7 +273,7 @@ A permit to bring into Antarctica any animal, plant, or micro-organism not nativ
   (b) subject to such other conditions as the Minister considers are appropriate and are not inconsistent with the purpose and principles in section 9.
 
 ### 33 Offences
-(1) Every person who commits an offence against this Part is liable on summary conviction to imprisonment for a term not exceeding 6 months, or a fine not exceeding $100,000.
+(1) Every person who commits an offence against this Part is liable on conviction to imprisonment for a term not exceeding 6 months, or a fine not exceeding $100,000.
 (2) Notwithstanding any other provisions of this Part, any act or omission by any person which occurred—shall not be an offence against this Part.
   (a) in accordance with a permit issued by any Party to the Protocol other than New Zealand; or
   (b) in accordance with a permit issued by a Party to the Convention for the Conservation of Antarctic Seals in accordance with that Convention; or
@@ -294,7 +294,7 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
 (3) It shall be unlawful to dispose of waste in Antarctica by open burning.
 
 ### 37 Offences
-(1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000, who acts in contravention of section 36.
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000, who acts in contravention of section 36.
 (2) Notwithstanding anything in subsection (1), no person shall be sentenced to imprisonment for any contravention of section 36 unless that person acted with intent to cause the contravention or was reckless or negligent as to whether a contravention would result.
 
 ## Part 6 — Miscellaneous provisions
@@ -308,7 +308,7 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
   (c) to equipment or facilities of high value; or
   (d) to the protection of the Antarctic environment,—
 (2) Every person who commits any act or omission to which this section applies shall supply the Minister, within 60 days, with a full explanation of the act or omission and the reasons for it.
-(3) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who fails to comply with subsection (2).
+(3) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who fails to comply with subsection (2).
 
 **Inspectors**
 
@@ -374,27 +374,27 @@ Every inspector exercising any power under section 41—
   (c) that arrest without a warrant is necessary having regard to the gravity of any such offence,—
 (2) Any person called upon to do so by any person referred to in subsection (1) is justified in assisting him or her in good faith to arrest any person.
 (3) Every special inspector who arrests any person without warrant shall, as soon as reasonably practicable,—
-  (a) arrange for an information to be laid in respect of the offence; and
+  (a) arrange for a charging document to be filed in respect of the offence; and
   (b) deliver the arrested person into the custody of a constable; and
   (c) send a written report to the Minister stating the reasons for the arrest without warrant.
 (4) Every special inspector shall release on bail any person arrested under this section.
 (5) Every person released on bail shall be released subject to the condition that he or she must attend before such court at such time as the inspector—
   (a) specifies at the time of granting bail; or
   (b) where it is not reasonably practicable to so specify at that time, specifies as soon as possible thereafter.
-(6) Sections 32(3), 32(4), 33(1), 33(2), 36, 37(1), 37(3), and 37(4) of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or a District Court were a reference to a special inspector, and with any other necessary modifications.
+(6) Sections 31(1), 31(4), 32(1), 32(2), 37, and 38 of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or a District Court were a reference to a special inspector, and with any other necessary modifications.
 
 ### 46 Custody of property seized
 (1) Any thing seized under this Act shall be held in the custody of the Crown until—and shall then be returned to the person entitled to possession of the thing.
-  (a) a decision is made not to lay any information in respect of the alleged offence for which the thing was seized; or
-  (b) where such an information is laid, the completion of the proceedings in respect of the alleged offence for which the thing was seized, or such other time as the court may determine,—
-(2) The special inspector shall decide whether or not to arrange for an information to be laid in respect of an alleged offence for which any thing is seized pursuant to this Act as soon as reasonably practicable after the thing is seized.
+  (a) a decision is made not to file a charging document in respect of the alleged offence for which the thing was seized; or
+  (b) where such a charging document is filed, the completion of the proceedings in respect of the alleged offence for which the thing was seized, or such other time as the court may determine,—
+(2) The special inspector shall decide whether or not to arrange for a charging document to be filed in respect of an alleged offence for which any thing is seized pursuant to this Act as soon as reasonably practicable after the thing is seized.
 (3) The person from whom the thing was seized, or the owner or person entitled to possession of the thing seized, may—for the release of the thing to any such person.
-  (a) apply to the Minister (if no decision has been made whether or not to lay an information); or
-  (b) apply to the court (if an information has been laid)—
+  (a) apply to the Minister (if no decision has been made whether or not to file a charging document); or
+  (b) apply to the court (if a charging document has been filed)—
 (4) The Minister or the court, as the case may be, may order release of the thing under bond in such sum and under such sureties and conditions (if any) as may be specified.
 
 ### 47 Offence to obstruct inspectors
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,500, who wilfully obstructs, hinders, resists, or deceives any inspector who is carrying out his or her functions under this Act.
+Every person commits an offence, and is liable on conviction to a fine not exceeding $1,500, who wilfully obstructs, hinders, resists, or deceives any inspector who is carrying out his or her functions under this Act.
 
 ### 48 Observers
 The Minister may appoint any person as an observer for the purpose of carrying out inspections in accordance with Article VII of the Antarctic Treaty or Article 14 of the Protocol.
@@ -468,7 +468,7 @@ Nothing in this Act shall derogate from the provisions of—
 (3) Any regulations made under subsection (2) shall,—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the summary conviction of any offender, not exceeding in any case a fine of $5,000.
+(4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the conviction of any offender, not exceeding in any case a fine of $5,000.
 (5) No Order in Council shall be made under subsection (1)(g) except on the advice of the Minister given after consultation by that Minister with the Minister for the Environment and the Minister of Conservation and such other Ministers and persons as the Minister considers appropriate.
 
 ### 56 Amendments to other Acts
@@ -486,39 +486,3 @@ Nothing in this Act shall derogate from the provisions of—
 
 | 5. | aWith respect to Article 7, the prohibition on Antarctic mineral resource activities contained therein shall continue unless there is in force a binding legal regime on Antarctic mineral resource activities that includes an agreed means for determining whether, and, if so, under which conditions, any such activities would be acceptable. This regime shall fully safeguard the interests of all States referred to in Article IV of the Antarctic Treaty and apply the principles thereof. Therefore, if a modification or amendment to Article 7 is proposed at a Review Conference referred to in paragraph 2 above, it shall include such a binding legal regime.bIf any such modification or amendment has not entered into force within 3 years of the date of its adoption, any Party may at any time thereafter notify to the Depositary of its withdrawal from this Protocol, and such withdrawal shall take effect 2 years after receipt of the notification by the Depositary. |
 | --- | --- |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
