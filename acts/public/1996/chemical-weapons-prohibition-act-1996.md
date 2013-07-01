@@ -1,5 +1,5 @@
 # Chemical Weapons (Prohibition) Act 1996
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
 
@@ -34,7 +34,7 @@ This Act binds the Crown.
 ## Part 2 — Offences
 
 ### 6 Chemical weapons
-(1) Every person commits an offence who intentionally or recklessly—and is liable on conviction on indictment to imprisonment for life or a fine not exceeding $1,000,000.
+(1) Every person commits an offence who intentionally or recklessly—and is liable on conviction to imprisonment for life or a fine not exceeding $1,000,000.
   (a) develops, produces, otherwise acquires, stockpiles, or retains chemical weapons; or
   (b) transfers, directly or indirectly, chemical weapons to another person; or
   (c) uses chemical weapons; or
@@ -50,16 +50,16 @@ If any chemical weapon is developed, produced, otherwise acquired, stockpiled, r
   (c) shall be stored pending disposal, and disposed of, as the Minister thinks fit.
 
 ### 8 Riot control agents
-Every person commits an offence who intentionally or recklessly uses riot control agents as a method of warfare, and is liable on conviction on indictment to imprisonment for life or a fine not exceeding $1,000,000.
+Every person commits an offence who intentionally or recklessly uses riot control agents as a method of warfare, and is liable on conviction to imprisonment for life or a fine not exceeding $1,000,000.
 
 ### 9 Schedule 1 toxic chemicals
-(1) Every person commits an offence who intentionally or recklessly produces, acquires, retains, or uses any Schedule 1 chemical without the consent of the Secretary, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(1) Every person commits an offence who intentionally or recklessly produces, acquires, retains, or uses any Schedule 1 chemical without the consent of the Secretary, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 (2) In determining whether or not to give consent, the Secretary shall be guided by the provisions of Part VI of the Verification Annex.
 
 ### 10 Imports and exports of toxic chemicals and precursors
 (1) Except with the consent of the Secretary, the importation into New Zealand, and the exportation from New Zealand, of any toxic chemical or precursor listed in Schedules 1, 2, and 3 of the Annex on Chemicals is hereby prohibited.
 (2) In determining whether or not to give consent, the Secretary shall be guided by the restrictions on transfer set out in Parts VI to VIII of the Verification Annex.
-(3) Every person commits an offence who imports or exports any chemical or precursor in contravention of subsection (1), and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(3) Every person commits an offence who imports or exports any chemical or precursor in contravention of subsection (1), and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 11 Application of Customs and Excise Act 1996
 All the provisions of the Customs and Excise Act 1996 that apply with respect to prohibited imports and prohibited exports (except the penalty for an offence against section 209(1)(a) or (b) of that Act) shall extend and apply with respect to chemicals and precursors whose importation and exportation is prohibited by section 10 of this Act, in all respects as if the importation or exportation of the goods were prohibited under Part 5 of the Customs and Excise Act 1996.
@@ -80,7 +80,7 @@ All the provisions of the Customs and Excise Act 1996 that apply with respect to
   (c) prepare, from those records, periodic reports relating to the chemicals and the facility in a form approved by the Secretary; and
   (d) send those periodic reports to the Secretary at intervals specified by the Minister or by regulation.
 (2) The records and reports under subsection (1)(b) to (d) must be sufficient to satisfy the Minister that the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
-(3) Every person who refuses or fails, without reasonable excuse, to comply with subsection (1) commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(3) Every person who refuses or fails, without reasonable excuse, to comply with subsection (1) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 14 Secretary may seek information
 (1) This section applies if the Secretary considers that any person is capable of giving information that is relevant to—
@@ -90,11 +90,11 @@ All the provisions of the Customs and Excise Act 1996 that apply with respect to
   (a) if the person is a natural person, by writing signed by the person; or
   (b) if the person is a body corporate, by writing signed by an officer authorised to sign on behalf of the body corporate,—
 (3) The Secretary may, by written notice given to a person, require the person to give to the Secretary particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
-(4) Every person who, without reasonable excuse, fails to comply with a notice under this section to the extent that the person is capable of complying with it commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(4) Every person who, without reasonable excuse, fails to comply with a notice under this section to the extent that the person is capable of complying with it commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 (5) The power of the Secretary under this section to require a person to give information or documents to the Secretary is in addition to any obligation to give information or documents that the person may have under section 13.
 
 ### 15 False or misleading statements and documents
-Every person commits an offence who, in any document prepared pursuant to this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+Every person commits an offence who, in any document prepared pursuant to this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ## Part 4 — Inspections
 
@@ -128,7 +128,7 @@ In order to facilitate inspections, an international inspector may be accompanie
 
 ### 20 Ministerial directions
 (1) The Minister may, by notice in writing, issue directions to any person for the purpose of facilitating any inspection under the Convention.
-(2) Every person commits an offence who wilfully fails to comply with any direction given by the Minister under this section, and is liable on summary conviction to a fine not exceeding $100,000.
+(2) Every person commits an offence who wilfully fails to comply with any direction given by the Minister under this section, and is liable on conviction to a fine not exceeding $100,000.
 
 **New Zealand assistance with inspections**
 
@@ -160,7 +160,7 @@ The Minister may issue a certificate identifying any international inspector or 
 [Repealed]
 
 ### 26 Obstruction of international inspectors
-(1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Convention.
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Convention.
 (2) Nothing in this section applies to a refusal to give consent to entry by an international inspector who is not acting pursuant to a search warrant.
 
 ## Part 5 — Miscellaneous provisions
@@ -171,7 +171,7 @@ The Minister may issue a certificate identifying any international inspector or 
   (a) enabling New Zealand to fulfil its obligations under the Convention; or
   (b) the enforcement of this Act; or
   (c) dealing with an emergency involving public safety.
-(3) Every person who contravenes this section commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
+(3) Every person who contravenes this section commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 28 Self-incrimination
 (1) A person is not excused from answering a question or giving any information or document under this Act or the Convention on the ground that to do so may incriminate or tend to incriminate that person.
@@ -180,7 +180,7 @@ The Minister may issue a certificate identifying any international inspector or 
 ### 29 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Convention or any agreement that is concluded between New Zealand and the Organization pursuant to the Convention:
-  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the Convention set out in that schedule as are required to bring that text up to date:
@@ -289,39 +289,3 @@ Amendment(s) incorporated in the Act(s).
 | Category 3: | Unfilled munitions and devices, and equipment specifically designed for use directly in connection with employment of chemical weapons. |
 
 #### Schedule  — Annex on the Protection of Confidential Information (Confidentiality Annex)
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
