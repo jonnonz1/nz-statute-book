@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2013-06-30_
+_Consolidation as at 2013-07-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -264,7 +264,7 @@ Nothing in section 8 or section 9 requires the verification of the identity of a
     (ii) the financial institution has reasonable grounds to suspect—
       (A) that the transaction is or may be relevant to the investigation or prosecution of any person for a money laundering offence; or
       (B) that the transaction is or may be relevant to the enforcement of the Criminal Proceeds (Recovery) Act 2009,—
-(2) Every financial institution who commits an offence against this section is liable to a fine not exceeding,—
+(2) Every financial institution who commits an offence against this section is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $20,000:
   (b) in the case of a body corporate, $100,000.
 
@@ -380,10 +380,10 @@ Without limiting section 17, where,—then, notwithstanding that the disclosure 
     (i) that the transaction or, as the case requires, the proposed transaction is or may be relevant to the investigation or prosecution of any person for a money laundering offence; or
     (ia) that the transaction or proposed transaction is or may be relevant to the enforcement of the Terrorism Suppression Act 2002; or
     (ii) that the transaction or, as the case requires, the proposed transaction is or may be relevant to the enforcement of the Criminal Proceeds (Recovery) Act 2009,—
-(2) Every financial institution who commits an offence against subsection (1) is liable to a fine not exceeding,—
+(2) Every financial institution who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $20,000:
   (b) in the case of a body corporate, $100,000.
-(3) Every person commits an offence and is liable to a fine not exceeding $10,000 who, in making a suspicious transaction report or in supplying information in connection with such a report,—
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, in making a suspicious transaction report or in supplying information in connection with such a report,—
   (a) makes any statement that the person knows is false or misleading in a material particular; or
   (b) omits from any statement any matter or thing without which the person knows that the statement is false or misleading in a material particular.
 (4) Every person commits an offence who,—contravenes any of subsections (1) to (3) of section 20.
@@ -396,11 +396,11 @@ Without limiting section 17, where,—then, notwithstanding that the disclosure 
   (d) either—
     (i) for the purpose of obtaining, directly or indirectly, an advantage or a pecuniary gain for that person or any other person; or
     (ii) with intent to prejudice any investigation into the commission or possible commission of a money laundering offence,—
-(6) Every person who commits an offence against subsection (4) or subsection (5) is liable to imprisonment for a term not exceeding 2 years.
-(7) Every person who knowingly contravenes any of subsections (1) to (3) of section 20 commits an offence and is liable,—
+(6) Every person who commits an offence against subsection (4) or subsection (5) is liable on conviction to imprisonment for a term not exceeding 2 years.
+(7) Every person who knowingly contravenes any of subsections (1) to (3) of section 20 commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
-(8) Every person commits an offence and is liable to a fine not exceeding $10,000 who acts in contravention of section 21(3).
+(8) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who acts in contravention of section 21(3).
 
 ### 23 Defence
 (1) It is a defence to a charge against a person in relation to a contravention of, or a failure to comply with, section 15(1) if the defendant proves—
@@ -519,7 +519,7 @@ Nothing in this Part limits or affects any other enactment that requires any fin
   (a) in contravention of section 29, fails, without reasonable excuse, to retain or to properly keep records sufficient to satisfy the requirements of that section; or
   (b) in contravention of section 30, fails, without reasonable excuse, to retain or to properly keep records sufficient to satisfy the requirements of that section; or
   (c) in contravention of section 31, fails, without reasonable excuse, to retain or to properly keep records sufficient to satisfy the requirements of that section.
-(2) Every financial institution who commits an offence against this section is liable to a fine not exceeding,—
+(2) Every financial institution who commits an offence against this section is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $20,000:
   (b) in the case of a body corporate, $100,000.
 
@@ -584,7 +584,7 @@ Nothing in this Part limits or affects any other enactment that requires any fin
 **Offences**
 
 ### 52 Offences punishable on summary conviction
-Every offence against this Act or any regulations made under this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 53 Liability of employers and principals
 (1) Subject to subsection (3), anything done or omitted by a person as the employee of another person shall, for the purposes of this Act, be treated as done or omitted by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
