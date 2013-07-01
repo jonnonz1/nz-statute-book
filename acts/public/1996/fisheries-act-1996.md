@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1845,7 +1845,7 @@ No exercise or purported exercise by the Minister of any power conferred on the 
 ### 88 Administrative penalties for fisheries offences
 (1) This section—
   (a) applies in respect of any offence that carries a penalty of a fine not exceeding $250,000 and is an offence against this Act or against any other New Zealand law that relates to fishing; but
-  (b) does not apply in respect of any alleged offence if any information or charge has been laid in respect of the alleged offence.
+  (b) does not apply in respect of any alleged offence if any charge has been filed in respect of the alleged offence.
 (2) If the Minister has reasonable cause to believe that—the Minister may cause a notice in writing, in the approved form, to be served on that person.
   (a) an offence to which this section applies may have been committed by any person in respect of any vessel licensed or required to be licensed under this Part; and
   (b) having regard to all the circumstances relating to the alleged offence it is of a minor nature and, having regard to the previous conduct of the vessel and of the person concerned in New Zealand fisheries waters, it would be appropriate to impose a penalty under this section,—
@@ -1855,7 +1855,7 @@ No exercise or purported exercise by the Minister of any power conferred on the 
   (c) any other matters (other than previous convictions) that the Minister considers relevant to the imposition of a penalty—
 (4) Any person on whom a notice under subsection (2) is served may, within 28 days after the notice is served on the person, by a notice in writing in the approved form served on the chief executive, require that any proceedings in respect of the alleged offence shall be dealt with before a court, in which case the following provisions shall apply:
   (a) no further proceedings shall be taken under this section by the Minister:
-  (b) nothing in this section shall be construed to prevent the subsequent laying of any information or charge in respect of the alleged offence, or the conviction of the person of the offence by a court, or the imposition of any penalty under any enactment or forfeiture under this Act on such a conviction.
+  (b) nothing in this section shall be construed to prevent the subsequent filing of any charging document in respect of the alleged offence, or the conviction of the person of the offence by a court, or the imposition of any penalty under any enactment or forfeiture under this Act on such a conviction.
 (5) Any person on whom a notice under subsection (2) is served who does not require that any proceedings in respect of the alleged offence be dealt with before a court may, by notice in writing served on the chief executive,—
   (a) admit the offence; and
   (b) make submissions to the Minister as to the matters the person wishes the Minister to take into account in imposing any penalty under this section.
@@ -1865,8 +1865,8 @@ No exercise or purported exercise by the Minister of any power conferred on the 
 (7) If under this section a person admits or is deemed to have admitted an offence, the Minister may, after taking into account any submissions made by the person under subsection (5), impose on that person a monetary penalty not exceeding one-third of the maximum monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
 (8) If the Minister imposes a penalty on a person under this section in respect of an offence, the Minister shall cause a notice in writing in the approved form of the particulars of the penalty to be served on the person.
 (9) A person on whom a penalty is imposed under this section shall pay the amount of the penalty to the Crown within 28 days after the notice of the penalty is served on the person in accordance with subsection (8).
-(10) Notwithstanding the provisions of subsection (9) or section 86(1), a penalty that has been imposed under this section shall be recoverable by the Crown, from the person on whom it has been imposed, in the same manner as a fine is recoverable on summary conviction for any offence.
-(11) Notwithstanding the provisions of this Act, or any other enactment, where any offence has been admitted or deemed to have been admitted under this section, no information or charge may be laid in respect of the offence against the person by whom it is admitted.
+(10) Notwithstanding the provisions of subsection (9) or section 86(1), a penalty that has been imposed under this section shall be recoverable by the Crown, from the person on whom it has been imposed, in the same manner as a fine is recoverable on conviction for any offence.
+(11) Notwithstanding the provisions of this Act, or any other enactment, where any offence has been admitted or deemed to have been admitted under this section, no charging document may be filed in respect of the offence against the person by whom it is admitted.
 
 ## Part 6 — Access to fishery
 
@@ -2115,6 +2115,9 @@ The High Seas Permit Register must contain all the particulars required by regul
   (b) the nature of the charter or other agreement with the operator (if any); and
   (c) such other matters as the chief executive considers relevant.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes subsection (1).
+(7) In proceedings for an offence relating to a contravention of subsection (1),—
+  (a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (b) to (d) do not apply; and
+  (b) the burden of proving that any of the exceptions set out in paragraphs (b) to (d) applies lies on the defendant.
 
 ### 106 Further provisions relating to registration of vessels
 (1) Nothing in section 103 or section 105 applies to any foreign fishing vessel licensed under Part 5 to engage in fishing within the exclusive economic zone.
@@ -2185,6 +2188,9 @@ The High Seas Permit Register must contain all the particulars required by regul
 (2) The chief executive may impose any conditions on an approval granted under subsection (1), including conditions relating to the taking, storage, transportation, recording, reporting, landing, and disposal of the fish, aquatic life, or seaweed.
 (3) Any fish, aquatic life, or seaweed landed in New Zealand with the chief executive's approval under subsection (1) and landed after that approval was given, may, in accordance with the conditions of that approval, be sold; and, notwithstanding anything in this Act, no offence of buying or selling or being in possession of any fish, aquatic life, or seaweed shall be deemed to have been committed in respect of any fish, aquatic life, or seaweed sold in accordance with that approval.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes subsection (1).
+(5) In proceedings for an offence relating to a contravention of subsection (1),—
+  (a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (a) to (c) do not apply; and
+  (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
 
 ### 113A All fishing within foreign fishing jurisdiction to be authorised
 (1) No New Zealand national, and no person using a ship that is registered under the Ship Registration Act 1992 or that flies the New Zealand flag, may take or transport fish, aquatic life, or seaweed in the national fisheries jurisdiction of a foreign country unless the fish, aquatic life, or seaweed is taken or transported under, and in accordance with, the laws of that jurisdiction.
@@ -2513,7 +2519,7 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (a) a person gives notice in accordance with subsection (1); or
   (b) the person does not, within 28 days after a notice under section 113Z is served on him or her, admit the offence in accordance with section 113ZB.
 (3) Nothing in this section prevents—
-  (a) the subsequent laying of an information or charge in respect of the alleged offence; or
+  (a) the subsequent filing of a charging document in respect of the alleged offence; or
   (b) the conviction of the person of the offence by a court; or
   (c) the imposition of a penalty under an enactment, or forfeiture under this Act, on such a conviction.
 
@@ -2526,8 +2532,8 @@ A person on whom a notice under section 113Z is served who does not require that
 (1) If the person admits an offence under section 113ZB, the chief executive may, after taking into account any submissions made by the person under that section, impose on that person a monetary penalty not exceeding one-third of the maximum monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
 (2) If the chief executive imposes a penalty on a person under this section in respect of an offence, the chief executive must cause a notice in writing, in the approved form, of the particulars of the penalty to be served on the person.
 (3) A person on whom a penalty is imposed under this section must pay the amount of the penalty to the Crown within 28 days after the notice of the penalty is served on the person in accordance with subsection (2).
-(4) Despite subsection (3), a penalty that has been imposed under this section is recoverable by the Crown, from the person on whom it has been imposed, in the same manner as a fine is recoverable on summary conviction for an offence.
-(5) Despite the provisions of this Act, or any other enactment, where a person admits an offence under section 113ZB, no information or charge may be laid against that person in respect of the offence.
+(4) Despite subsection (3), a penalty that has been imposed under this section is recoverable by the Crown, from the person on whom it has been imposed, in the same manner as a fine is recoverable on conviction for an offence.
+(5) Despite the provisions of this Act, or any other enactment, where a person admits an offence under section 113ZB, no charging document may be filed against that person in respect of the offence.
 
 **Other matters**
 
@@ -3759,6 +3765,9 @@ The following persons shall keep such accounts and records, and provide to the c
   (d) lawfully taken on the high seas and landed in any country other than New Zealand; or
   (e) lawfully taken on the high seas and transhipped in accordance with a high seas fishing permit issued under section 113H.
 (6) Every commercial fisher commits an offence and is liable to the penalty set out in section 252(3) who contravenes any provision of this section.
+(7) In proceedings for an offence relating to a contravention of subsection (1),—
+  (a) the prosecutor need not assert in the charging document that any exception or excuse in subsection (2) or (5) does not apply; and
+  (b) the burden of proving that the exception set out in subsection (5)(d) applies lies on the defendant.
 
 ### 192 Restrictions on purchase or acquisition of fish by certain persons
 (1) No commercial fisher shall purchase, acquire, or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was—
@@ -3780,6 +3789,9 @@ The following persons shall keep such accounts and records, and provide to the c
   (b) a licensed fish receiver; or
   (c) a fish farmer.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes any provision of subsections (1) to (5).
+(6A) In proceedings for an offence relating to a contravention of any of subsections (1) to (5),—
+  (a) the prosecutor need not assert in the charging document that any exception or excuse in those subsections does not apply; and
+  (b) the burden of proving that any exception or excuse applies lies on the defendant.
 (7) For the purposes of subsection (2)(c), fish, aquatic life, or seaweed is acquired or possessed by a licensed fish receiver in accordance with this subsection if the fish, aquatic life, or seaweed—
   (a) is held by the licensed fish receiver for a person for storage or processing; and
   (b) was taken by that person in accordance with any relevant amateur or Maori customary non-commercial fishing regulations made under this Act; and
@@ -3815,6 +3827,9 @@ The following persons shall keep such accounts and records, and provide to the c
   (a) applied, on an approved form, to the chief executive for the exemption; and
   (b) paid the prescribed fee (if any).
 (5) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(3).
+(6) In proceedings for an offence relating to a contravention of subsection (1),—
+  (a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (a) to (c) do not apply; and
+  (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
 
 **When fish deemed to be taken or possessed for purposes of sale**
 
@@ -3930,7 +3945,7 @@ In order to ascertain—a fishery officer may, with the leave of the court, exer
 (4) If any person continues to offend after being required under subsection (1) to desist, or refuses to comply with a request under subsection (2) or subsection (3), the fishery officer may arrest that person without warrant.
 (5) If a fishery officer arrests a person under subsection (4),—
   (a) the fishery officer shall cause the person to be delivered into the custody of a constable as soon as practicable; and
-  (b) if the person so delivered into custody is released by a constable without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be carried out by a fishery officer and not a constable.
+  (b) if the person so delivered into custody is issued with a summons pursuant to sections 28 and 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act must be carried out by a fishery officer and not a constable.
 
 **Power to give directions**
 
@@ -3981,7 +3996,7 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
 
 ### 213 Protection of the Crown
 (1) The Crown shall not be liable to any person for any spoilage or deterioration in the quality of any fish, aquatic life, seaweed, or other thing detained under section 199 or 199A, or seized under section 207, or for any loss caused by its disposal under section 212.
-(2) Notwithstanding any other provisions in this Part, a fishery officer who at the time of seizure returns to the water any fish, aquatic life, or seaweed seized under section 207 that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the fish, aquatic life, or seaweed was seized, or to any other person, in the event of a decision being made not to lay an information or charge in respect of the fish, aquatic life, or seaweed or of the person being acquitted of the charge.
+(2) Notwithstanding any other provisions in this Part, a fishery officer who at the time of seizure returns to the water any fish, aquatic life, or seaweed seized under section 207 that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the fish, aquatic life, or seaweed was seized, or to any other person, in the event of a decision being made not to file a charging document in respect of the fish, aquatic life, or seaweed or of the person being acquitted of the charge.
 
 **Crown caveats**
 
@@ -3995,7 +4010,7 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
 (5) Upon application to a court by the chief executive, or any fishery officer, the court may extend the duration of any caveat, registered in respect of quota in accordance with a direction to which subsection (1)(b) applies, for a period of up to 60 days from the date on which the caveat would otherwise expire, and upon such conditions as the court may specify.
 (6) Any application under subsection (5) shall be made before the expiry of the current caveat and the application shall have the effect of extending the duration of the current caveat until the court makes an order determining the application.
 (7) No application under subsection (5) shall be heard by the court unless it is satisfied that notice of the application has been served on any owner of quota, in respect of which quota a caveat has been registered in accordance with a direction to which subsection (1)(b) applies, at least 7 days before the hearing of the application.
-(8) On any decision being made not to lay an information or charge against the person, the chief executive must immediately arrange for any caveat registered in accordance with a direction under subsection (1) to be cancelled.
+(8) On any decision being made not to file a charging document against the person, the chief executive must immediately arrange for any caveat registered in accordance with a direction under subsection (1) to be cancelled.
 (9) In this section, except for subsection (1), the terms quota and quota shares include associated quota as defined in section 255.
 
 **General powers**
@@ -4177,9 +4192,9 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 236 Proceedings for offences
 (1) Any offence against this Act shall be deemed to have been committed in New Zealand.
-(2) An information in respect of any offence against this Act may, notwithstanding section 14 of the Summary Proceedings Act 1957, be laid,—
-  (a) in the case of an offence for which the maximum fine does not exceed $10,000, within 12 months from the time it is alleged the offence occurred:
-  (b) in the case of an offence for which the maximum fine exceeds $10,000, within 2 years from the time it is alleged the offence occurred.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act—
+  (a) ends on the date that is 12 months after the date on which the offence was committed if the offence is one for which the maximum fine does not exceed $10,000:
+  (b) ends on the date that is 2 years after the date on which the offence was committed if the offence is one for which the maximum fine exceeds $10,000.
 (3) No prosecution for an offence against this Act may be commenced except by—
   (a) the chief executive; or
   (b) the chief executive of the department for the time being responsible for the administration of the Conservation Act 1987; or
@@ -4187,24 +4202,24 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
   (d) the Fish and Game Council in any district in which an offence has been committed or an offender is found.
 
 ### 237 Summons may be served on agent of foreign vessel
-(1) Any summons in respect of an offence against this Act that relates to any foreign fishing vessel or foreign-owned New Zealand fishing vessel or foreign-operated fish carrier shall be deemed to have been served on the defendant in accordance with section 24 of the Summary Proceedings Act 1957 if the summons is served, in any one of the ways specified in subsection (1) of that section, on the authorised agent of—
+(1) Any summons in respect of an offence against this Act that relates to any foreign fishing vessel or foreign-owned New Zealand fishing vessel or foreign-operated fish carrier shall be deemed to have been served on the defendant in accordance with rules made under the Criminal Procedure Act 2011 if the summons is served, in any one of the ways permitted by those rules, on the authorised agent of—
   (a) the operator of any foreign-owned New Zealand fishing vessel or any foreign-operated fish carrier; or
   (b) the foreign charterparty of any foreign-owned New Zealand fishing vessel; or
   (c) the operator of any foreign fishing vessel.
 (2) For the purposes of subsection (1), the authorised agent shall be the person nominated as authorised agent at the time of registration or licensing of the vessel, as the case may be, whether or not the vessel is currently registered or licensed under this Act.
 
-### 238 Informations relating to certain offences may be heard together
-(1) If 2 or more informations charging a defendant with any offence against this Act have been laid, the court may, notwithstanding any other enactment or rule of law, order that any specified informations be heard together, if satisfied that—
+### 238 Charges relating to certain offences may be heard together
+(1) If 2 or more charging documents charging a defendant with any offence against this Act have been filed, the court may, despite any other enactment or rule of law, order that any specified charges be tried together, if satisfied that—
   (a) either—
     (i) the offences are founded on the same set of facts; or
     (ii) the offences form, or are part of, a series of offences of the same character or similar character; and
-  (b) it is in the interests of justice that the informations be heard together.
-(2) If the court has made an order under subsection (1), the court may, at any subsequent time, direct that any information subject to that order be heard separately if satisfied that to do so is in the interests of justice.
-(3) For the purposes of this section, in considering whether it is in the interests of justice to hear any informations together or separately, the court shall have regard to the likelihood of prejudice to the defendant if any particular information, or combination of informations, is heard together with any other information or combination of informations.
+  (b) it is in the interests of justice that the charges be tried together.
+(2) If the court has made an order under subsection (1), the court may, at any subsequent time, direct that any charge subject to that order be heard separately if satisfied that to do so is in the interests of justice.
+(3) For the purposes of this section, in considering whether it is in the interests of justice to hear any charges together or separately, the court shall have regard to the likelihood of prejudice to the defendant if any particular charge, or combination of charges, is heard together with any other charge or combination of charges.
 
-### 239 Information may charge defendant with any number of offences
-(1) Any information may, notwithstanding section 16 of the Summary Proceedings Act 1957, charge the defendant with any number of offences against this Act, if the offences are founded on the same set of facts, or form, or are part of, a series of offences of the same or similar character.
-(2) If any information charges more than 1 such offence, particulars of each offence charged shall be set out in the information.
+### 239 Charging document may charge defendant with any number of offences
+(1) Any charging document may, notwithstanding section 17 of the Criminal Procedure Act 2011, charge the defendant with any number of offences against this Act, if the offences are founded on the same set of facts, or form, or are part of, a series of offences of the same or similar character.
+(2) If any charging document charges more than 1 such offence, particulars of each offence charged shall be set out in the charging document.
 (3) All such charges shall be heard together unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
 ### 240 Strict liability
@@ -4219,7 +4234,7 @@ In any proceedings for an offence against this Act it is not necessary for the p
     (i) the defendant immediately returned the fish, aquatic life, or seaweed to the waters from which they were taken except where such return was prohibited by this Act; and
     (ii) the defendant complied with all the material requirements of this Act in respect of the recording and reporting of the taking, return, or landing of the fish, aquatic life, or seaweed.
 (2)
-(3) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
+(3) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
 
 ### 242 Defence for all quota management stocks
 [Repealed]
@@ -4294,15 +4309,15 @@ A return, record, transaction, form, application, or other information purportin
   (b) the validity of the document.
 
 ### 250 Presumption as to master of vessel
-In any proceedings for an offence against this Act, an allegation made in an information or indictment about the identity of the master of any vessel, at any specified time, shall be presumed to be true in the absence of proof to the contrary.
+In any proceedings for an offence against this Act, an allegation made in a charge about the identity of the master of any vessel, at any specified time, shall be presumed to be true in the absence of proof to the contrary.
 
 ### 251 Presumptions to apply whether or not separate or further evidence adduced in support
-If it is provided in this Act that any presumption is to apply in respect of any matter, the presumption shall apply, whether or not separate or further evidence is adduced by or on behalf of the informant in support of the relevant presumption.
+If it is provided in this Act that any presumption is to apply in respect of any matter, the presumption shall apply, whether or not separate or further evidence is adduced by or on behalf of the prosecutor in support of the relevant presumption.
 
 **Penalties**
 
 ### 252 Penalties
-(1) Every person convicted on indictment of an offence against any of the following provisions of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $250,000, or to both:
+(1) Every person convicted of an offence against any of the following provisions of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $250,000, or to both:
   (a) section 231(1) (knowingly making a false or misleading statement, etc):
   (b) section 231(2) (using a false communication, etc to obtain a benefit):
   (c) section 233(1) and (2) (knowingly acting in contravention of Act to obtain a benefit):
@@ -4370,7 +4385,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
 
 ### 253 Imprisonment of foreign persons
 (1) In the absence of an agreement to the contrary made between the Government of New Zealand and the Government of another country, nothing in this Act shall be construed as authorising the imposition of a term of imprisonment on any person (other than a New Zealand citizen or a person entitled to reside in New Zealand indefinitely) who is convicted of an offence against this Act in respect of a foreign fishing vessel.
-(2) If, but for subsection (1), a person would be liable to suffer imprisonment for the commission of any offence, the person shall instead of such imprisonment be liable on summary conviction to a fine not exceeding $500,000.
+(2) If, but for subsection (1), a person would be liable to suffer imprisonment for the commission of any offence, the person shall instead of such imprisonment be liable on conviction to a fine not exceeding $500,000.
 
 ### 254 Matters to be taken into account by court in sentencing
 If any person is convicted of an offence against this Act, the court shall, in imposing sentence, take into account the purpose of this Act and shall have regard to—
@@ -4419,7 +4434,9 @@ If any person is convicted of an offence against this Act, the court shall, in i
 ### 255B Forfeiture where person liable to fine exceeding $10,000 but less than $100,000
 (1) Subsection (2) applies in the following cases:
   (a)
-  (b) where a person is proceeded against summarily (other than by way of an infringement notice) in respect of an infringement offence against this Act and is found guilty of, or pleads guilty to, the offence:
+  (b) where—
+    (i) a person is charged with an infringement offence against this Act and proceedings in respect of that offence are commenced under the Criminal Procedure Act 2011 (not by way of an infringement notice); and
+    (ii) the person is found guilty of, or pleads guilty to, that offence:
   (c) on conviction for an offence against this Act for which the person is liable to a fine not exceeding $10,000 (other than an offence referred to in section 255C):
   (d) on conviction for an offence against this Act (other than an offence referred to in section 255C) for which the person is liable to a maximum fine exceeding $10,000 but less than $100,000.
 (2) The following are forfeit to the Crown unless the court for special reasons relating to the offence orders otherwise:
@@ -4574,21 +4591,20 @@ If any person is convicted of an offence against this Act, the court shall, in i
 **Minor offence procedure**
 
 ### 260 Minor offences
-(1) If a charge is brought against any person for an offence against this Act which carries a fine not exceeding $1,000, a summons to that person shall not be issued unless the chief executive or a fishery officer satisfies the District Court Registrar that a summons should be issued.
-(2) Except where a summons is issued under subsection (1), all proceedings brought in respect of such an offence shall be commenced by the chief executive, or a fishery officer, by filing a notice of prosecution in the form prescribed for the purposes of section 20A of the Summary Proceedings Act 1957; and the provisions of that section (except subsection (12)), with any necessary modifications, shall apply accordingly.
+[Repealed]
 
 **Infringement offences**
 
 ### 260A Infringement offences
 (1) If a fishery officer has reason to believe that a person has committed an infringement offence, the fishery officer may—
-  (a) commence proceedings against the person for the alleged offence by laying an information under the Summary Proceedings Act 1957; or
+  (a) commence proceedings against the person for the alleged offence by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) issue an infringement notice in respect of the alleged offence.
-(2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary if a fishery officer proceeds with an infringement offence summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if a fishery officer proceeds with an infringement offence by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (3) If an infringement notice is issued, a fishery officer may do 1 or more of the following with the infringement notice:
   (a) deliver it (or a copy of it) to the person:
   (b) fix it (or a copy of it) to a conspicuous part of a fishing vessel relating to the commission of the offence:
   (c) send it (or a copy of it) to the person by post addressed to the person's last known place of residence or business.
-(4) If the notice was fixed or sent in accordance with subsection (3), it is deemed to have been served on the person for the purposes of the Summary Proceedings Act 1957.
+(4) If the notice was fixed or sent in accordance with subsection (3), it is deemed to have been served on the person.
 
 ### 260B Infringement notices
 (1) Every infringement notice must be in an approved form and must include the following particulars:
