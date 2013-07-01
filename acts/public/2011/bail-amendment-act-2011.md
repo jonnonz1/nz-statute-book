@@ -1,5 +1,5 @@
 # Bail Amendment Act 2011
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Bail Amendment Act 2011.
@@ -60,17 +60,13 @@ Section 19 is repealed and the following section substituted:Publication of matt
   (4AB) The Police employee who takes the bail bond of the person may, in addition to the conditions that may be imposed under subsection (3), impose any condition that might be imposed by a judicial officer or Registrar under section 30(2) or (4).
 
 ### 7 Conditions of bail
-(1) Section 31 is amended by inserting the following subsection after subsection (2):
-  (2A) When considering bail pending sentencing, the District Court or Registrar may impose any condition that the court or the Registrar considers reasonably necessary to ensure that the defendant takes the steps necessary for the proceedings to be progressed within a reasonable time frame.
-(2) Section 31(3) is amended by inserting or (2A) after subsection (2).
+[Repealed]
 
 ### 8 Issue of warrant to arrest defendant absconding or breaching bail condition or who fails to answer bail
-(1) Section 36(4)(a) is amended by inserting , or a copy of it, after warrant.
-(2) Section 36(4)(b) is amended by inserting , or a copy of it, after it.
+[Repealed]
 
 ### 9 Issue of warrant to arrest defendant absconding or breaching bail condition
-(1) Section 60(4)(a) is amended by inserting , or a copy of it, after warrant.
-(2) Section 60(4)(b) is amended by inserting , or a copy of it after it.
+[Repealed]
 
 ### 10 Transitional provision regarding offence provision under new section 19 of principal Act
 (1) This section applies if an Order in Council is made under section 2(1) bringing section 5 into force before the date appointed under section 2(2) or provided by section 2(3).
