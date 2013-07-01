@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -54,7 +54,7 @@ The purpose of this Act is—
   - **Financing Convention** means the International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations at New York on 9 December 1999, a copy of the English text of which is set out in Schedule 2
   - **financing of terrorism** —
     (a) means an offence against section 8(1) or (2A); but
-    (b) despite paragraph (a), in sections 18, 68, and 69, means an offence of that kind involving a terrorist act of a kind referred to in section 5(1)(b) or (c)
+    (b) despite paragraph (a), in sections 18, 68, and 69, means an offence of that kind involving a terrorist act of a kind referred to in section 5(1)﻿(b) or (c)
   - **funds** —
     (a) means assets of every kind, whether tangible or intangible, moveable or immoveable, however acquired; and
     (b) includes legal documents or instruments (for example, bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit) in any form (for example, in electronic or digital form) evidencing title to, or an interest in, assets of any kind
@@ -163,7 +163,7 @@ This Act binds the Crown.
 
 ### 6A Terrorist act
 (1) A person commits an offence who engages in a terrorist act.
-(2) A person who commits a terrorist act is liable on conviction on indictment to imprisonment for life or a lesser term.
+(2) A person who commits a terrorist act is liable on conviction to imprisonment for life or a lesser term.
 
 **Terrorist bombing**
 
@@ -178,7 +178,7 @@ This Act binds the Crown.
   (b) a State or government facility:
   (c) a public transportation system:
   (d) an infrastructure facility.
-(3) A person who commits terrorist bombing is liable on conviction on indictment to imprisonment for life or a lesser term.
+(3) A person who commits terrorist bombing is liable on conviction to imprisonment for life or a lesser term.
 
 **Financing of terrorism**
 
@@ -187,7 +187,7 @@ This Act binds the Crown.
 (2)
 (2A) A person commits an offence who, directly or indirectly, wilfully and without lawful justification or reasonable excuse, provides or collects funds intending that they benefit, or knowing that they will benefit, an entity that the person knows is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (3) In a prosecution for financing of terrorism, it is not necessary for the prosecutor to prove that the funds collected or provided were actually used, in full or in part, to carry out a terrorist act.
-(4) A person who commits financing of terrorism is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(4) A person who commits financing of terrorism is liable on conviction to imprisonment for a term not exceeding 14 years.
 
 **Dealing with property**
 
@@ -201,7 +201,7 @@ This Act binds the Crown.
 (3) Subsection (1) does not apply—
   (a) if the Prime Minister has, under section 11, authorised the dealing with the property; or
   (b) if the property concerned is the subject of a direction under section 48 and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under section 80 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 51(a)).
-(4) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+(4) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
 (5)
 (6) A reference in the definition of deal with in section 4 to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
 
@@ -212,7 +212,7 @@ This Act binds the Crown.
 (2)
 (3) An example of making property available with a reasonable excuse, for the purposes of subsection (1), is where the property (for example, items of food, clothing, or medicine) is made available in an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act.
 (4) Subsection (1) does not apply if the Prime Minister has, under section 11, authorised the making available of the property or services.
-(5) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+(5) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
 (6) In this section, make available, in relation to any property or services, means to make the property or services available in any way and by any means (for example, to send, transfer, deliver, or provide the property or services).
 (7) A reference in subsection (6) to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
 
@@ -225,7 +225,7 @@ This Act binds the Crown.
   (b) may be amended, revoked, or revoked and replaced.
 (3) If a person has obtained an authorisation of that kind, another person involved in carrying out the activity or transaction or class or classes of activities or transactions to which the authorisation relates is not subject to section 9(1) or section 10(1).
 (4) However, subsection (3) does not apply if—
-  (a) the authorisation is subject to terms or conditions imposed under subsection (2)(a); and
+  (a) the authorisation is subject to terms or conditions imposed under subsection (2)﻿(a); and
   (b) those terms or conditions are not satisfied.
 
 **Recruitment of members of terrorist groups**
@@ -234,7 +234,7 @@ This Act binds the Crown.
 (1) A person commits an offence who recruits another person as a member of a group or organisation, knowing that the group or organisation is—
   (a) a designated terrorist entity; or
   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
-(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
 
 **Participation in terrorist groups**
 
@@ -242,8 +242,8 @@ This Act binds the Crown.
 (1) A person commits an offence who participates in a group or organisation for the purpose stated in subsection (2), knowing that or being reckless as to whether the group or organisation is—
   (a) a designated terrorist entity; or
   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
-(2) The purpose referred to in subsection (1) is to enhance the ability of any entity (being an entity of the kind referred to in subsection (1)(a) or (b)) to carry out, or to participate in the carrying out of, 1 or more terrorist acts.
-(3) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(2) The purpose referred to in subsection (1) is to enhance the ability of any entity (being an entity of the kind referred to in subsection (1)﻿(a) or (b)) to carry out, or to participate in the carrying out of, 1 or more terrorist acts.
+(3) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
 
 **Harbouring or concealing terrorists**
 
@@ -251,12 +251,12 @@ This Act binds the Crown.
 (1) A person commits an offence who, with the intention of assisting another person to avoid arrest, escape lawful custody, or avoid conviction, harbours or conceals that person,—
   (a) knowing, or being reckless as to whether, that person intends to carry out a terrorist act; or
   (b) knowing, or being reckless as to whether, that person has carried out a terrorist act.
-(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to a term of imprisonment not exceeding 7 years.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 7 years.
 
 **Offences relating to plastic explosives and nuclear materials**
 
 ### 13B Offences involving use and movement of unmarked plastic explosives
-(1) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 10 years or a fine not exceeding $500,000, or both, who—
+(1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 10 years or a fine not exceeding $500,000, or both, who—
   (a) possesses, uses, or manufactures unmarked plastic explosives, knowing they are unmarked; or
   (b) imports or exports unmarked plastic explosives to or from New Zealand, knowing they are unmarked.
 (2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the Hazardous Substances and New Organisms Act 1996, be transported or possessed by—
@@ -283,12 +283,12 @@ This Act binds the Crown.
     (ii) substantial damage to any property or to the environment; or
   (f) with intent to compel any person, international organisation, or State to do, or refrain from doing, any act, threatens to steal nuclear material; or
   (g) without lawful authority, commits an act, or threatens to commit an act against a nuclear facility, or interferes with the operation of a nuclear facility with intent to cause, or being reckless as to whether it causes, death or serious injury to any person or substantial damage to property or to the environment by exposure to radiation or release of radioactive substances.
-(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
 
 **Importation, acquisition, possession, or control of radioactive material**
 
 ### 13D Importation, acquisition, etc, of radioactive material
-A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 10 years who imports, acquires, possesses, or has control over any radioactive material with intent to use it to commit an offence involving bodily injury, or the threat of violence, to any person.
+A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 10 years who imports, acquires, possesses, or has control over any radioactive material with intent to use it to commit an offence involving bodily injury, or the threat of violence, to any person.
 
 **Offences involving radioactive material and radioactive devices**
 
@@ -303,7 +303,7 @@ A person commits an offence and is liable on conviction on indictment to a term 
   (e) by use of force,—
     (i) uses or threatens to use radioactive material or a radioactive device; or
     (ii) uses or damages or threatens to use or damage a nuclear facility.
-(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
 
 **Extraterritorial jurisdiction**
 
@@ -429,7 +429,7 @@ An entity may be designated under section 20 or section 22 whether or not any of
   (c) any terrorist act was actually carried out.
 
 ### 26 Content of notice to designated entity
-A notice under section 21(d)(i) or section 23(f)(i) (to notify the designated entity of the making of the designation under section 20 or section 22)—
+A notice under section 21(d)﻿(i) or section 23(f)﻿(i) (to notify the designated entity of the making of the designation under section 20 or section 22)—
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
   (ba) must state that any person who deals with the entity's property may be liable to prosecution for an offence under section 9:
@@ -439,8 +439,8 @@ A notice under section 21(d)(i) or section 23(f)(i) (to notify the designated en
 
 ### 27 Content of notice to public and others
 (1) Subsection (2) applies to—
-  (a) a notice under section 21(c)(i) or section 23(e)(i) (to notify publicly the making of a designation under section 20 or section 22); and
-  (b) a notice under section 21(d)(ii) or section 23(f)(ii) (to notify specified persons or bodies of the making of a designation under section 20 or section 22).
+  (a) a notice under section 21(c)﻿(i) or section 23(e)﻿(i) (to notify publicly the making of a designation under section 20 or section 22); and
+  (b) a notice under section 21(d)﻿(ii) or section 23(f)﻿(ii) (to notify specified persons or bodies of the making of a designation under section 20 or section 22).
 (2) The notice—
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
@@ -450,8 +450,8 @@ A notice under section 21(d)(i) or section 23(f)(i) (to notify the designated en
   (e) may include details of all earlier designations under this Act that have not yet expired or been revoked, so as to provide details of all entities currently designated under this Act.
 
 ### 28 Further notification of making of designation
-(1) The Prime Minister may, for the purposes of section 21(c)(ii) or section 23(e)(ii), direct that the making of a designation under section 20 or section 22 be publicly notified (other than by notice in the Gazette, and either in the prescribed manner or form or both (if any) or in any other manner or form or both that the Prime Minister thinks fit).
-(2) The Prime Minister may, for the purposes of section 21(d)(ii) or section 23(f)(ii), direct that notice of the making of a designation under section 20 or section 22 be given (either in the prescribed manner or in any other manner that the Prime Minister thinks fit) to any persons or bodies that the Prime Minister thinks fit (for example, to any registered banks or other persons—
+(1) The Prime Minister may, for the purposes of section 21(c)﻿(ii) or section 23(e)﻿(ii), direct that the making of a designation under section 20 or section 22 be publicly notified (other than by notice in the Gazette, and either in the prescribed manner or form or both (if any) or in any other manner or form or both that the Prime Minister thinks fit).
+(2) The Prime Minister may, for the purposes of section 21(d)﻿(ii) or section 23(f)﻿(ii), direct that notice of the making of a designation under section 20 or section 22 be given (either in the prescribed manner or in any other manner that the Prime Minister thinks fit) to any persons or bodies that the Prime Minister thinks fit (for example, to any registered banks or other persons—
   (a) who may possess property which may be property to which section 9(1) relates; or
   (b) who may make available property or services to which section 10(1) may relate).
 
@@ -483,11 +483,11 @@ In considering whether to make or to revoke a designation under section 20 or se
   (c) that the head of the specified agency certifies in writing (in the prescribed form (if any)) cannot be disclosed except to the extent provided in section 38 or section 39 because, in the opinion of the head of the specified agency—
     (i) the information is information of a kind specified in subsection (2); and
     (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
-(2) Information falls within subsection (1)(c)(i) if it—
+(2) Information falls within subsection (1)﻿(c)﻿(i) if it—
   (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the specified agency; or
   (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the specified agency; or
   (c) has been provided to the specified agency by the government of another country or by an agency of a government of another country or by an international organisation, and is information that cannot be disclosed by the specified agency because the government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(3) Disclosure of information falls within subsection (1)(c)(ii) if the disclosure would be likely—
+(3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country or any agency of such a government, or by any international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
@@ -502,7 +502,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) The Prime Minister may at any time revoke a designation made under section 20 or section 22, either on the Prime Minister's own initiative or on an application in writing for the purpose—
   (a) by the entity who is the subject of the designation; or
   (b) by a third party with an interest in the designation that, in the Prime Minister's opinion, is an interest apart from any interest in common with the public.
-(2) Without limiting subsection (1)(b), a party may have an interest in a designation apart from any interest in common with the public through—
+(2) Without limiting subsection (1)﻿(b), a party may have an interest in a designation apart from any interest in common with the public through—
   (a) possessing or controlling, or having an interest in, property to which section 9 applies as a result of the designation; or
   (b) making available property or services to which section 10 applies as a result of the designation; or
   (c) having an especially close association with the designated entity or its interests or objectives.
@@ -559,7 +559,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or by virtue of any judicial review (whether under Part 1 of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court, the Prime Minister must—
   (a) ensure that notice of the revocation or expiry or invalidity is published in the Gazette as soon as practicable; and
   (b) take all reasonable steps to ensure that notice of the revocation or expiry or invalidity is given, in the manner and form required by section 21(d) or section 23(f), to every person and body specified in subsection (2) who is not already aware of it.
-(2) The persons and bodies referred to in subsection (1)(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
+(2) The persons and bodies referred to in subsection (1)﻿(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
 
 **Duty to report suspicions relating to property**
 
@@ -569,7 +569,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (b) property derived or generated from any property of the kind specified in paragraph (a).
 (2) A financial institution or other person in possession or immediate control of property that the financial institution or other person suspects on reasonable grounds is or may be property to which this section applies must, as soon as practicable after forming that suspicion, report it to the Commissioner of Police, in accordance with section 44.
 (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in section 45).
-(4) Every person who knowingly contravenes subsection (2) commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year.
+(4) Every person who knowingly contravenes subsection (2) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year.
 (5) In this section, financial institution has the meaning referred to in section 44(5).
 
 ### 44 Nature of suspicious property report
@@ -604,9 +604,9 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (c) otherwise discloses information to the Commissioner of Police in connection with a report of that kind.
 (2) No civil, criminal, or disciplinary proceedings lie against a person to whom subsection (1) applies—
   (a) in respect of the acts of the person in good faith and with reasonable care in purported compliance with the requirements of section 9 or section 10 or both; or
-  (b) in respect of the report or disclosure, or the manner of the report or disclosure, by that person, of the information referred to in subsection (1)(b) and (c); or
+  (b) in respect of the report or disclosure, or the manner of the report or disclosure, by that person, of the information referred to in subsection (1)﻿(b) and (c); or
   (c) for any consequences that follow from the report or disclosure of that information.
-(3) However, subsection (2)(b) and (c) do not apply if the information was reported or disclosed in bad faith, or without reasonable care having been taken in determining, before the report or disclosure, that the property is or may be property to which section 43 applies.
+(3) However, subsection (2)﻿(b) and (c) do not apply if the information was reported or disclosed in bad faith, or without reasonable care having been taken in determining, before the report or disclosure, that the property is or may be property to which section 43 applies.
 
 ### 47 Protection of identity of persons making reports
 (1) This section applies in respect of the following information:
@@ -619,7 +619,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (2) No constable may disclose any information to which this section applies except for the purposes of the enforcement of this Act, or for the purposes of the detection, investigation, and prosecution of an offence under this Act.
 (3) Nothing in subsection (2) limits the provision of assistance under the Mutual Assistance in Criminal Matters Act 1992.
 (4) No person may disclose, in any judicial proceeding (within the meaning of section 108 of the Crimes Act 1961) any information to which this section applies, unless the Judge or, as the case requires, the person presiding at the proceeding, is satisfied that the disclosure of the information is necessary in the interests of justice.
-(5) Every person who knowingly contravenes subsection (4) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
+(5) Every person who knowingly contravenes subsection (4) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
 **Customs' powers in relation to certain property**
 
@@ -647,7 +647,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (a) of (or of a dependant of) an individual from whom the cash has been seized; and
   (b) arising on, or within 7 days after, the date on which the detention would otherwise be effected.
 (2) Nothing in subsection (1) requires the Customs to return any cash that the Customs is satisfied is not necessary for the purpose specified in that subsection.
-(3) If the 7-day period referred to in section 47D(1)(a) is extended under section 47E, subsection (1) applies to the extension, and the reference in subsection (1)(b) to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
+(3) If the 7-day period referred to in section 47D(1)﻿(a) is extended under section 47E, subsection (1) applies to the extension, and the reference in subsection (1)﻿(b) to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
 
 ### 47C Further provisions about detention under section 47A
 (1) Reasonable force may be used if it is necessary for any of the following purposes:
@@ -669,21 +669,21 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (b) includes any extension of that period granted by the High Court under section 47E.
 (2) Goods seized and detained under section 47A must be returned to the person from whom they were seized as soon as practicable after whichever of the following occurs first:
   (a) the completion of all relevant investigations, if they show either—
-    (i) that the goods are not property of the kind referred to in section 47A(1)(c)(i) or (d)(i); or
-    (ii) that the entity is not an entity of the kind referred to in section 47A(1)(c)(ii) or (d)(ii):
+    (i) that the goods are not property of the kind referred to in section 47A(1)﻿(c)﻿(i) or (d)﻿(i); or
+    (ii) that the entity is not an entity of the kind referred to in section 47A(1)﻿(c)﻿(ii) or (d)﻿(ii):
   (b) the expiry of the investigation period.
 (3) However, the Customs need not return the goods as provided in subsection (2), and may continue to detain them pending a direction by the Prime Minister under section 48 that the Official Assignee take custody and control of them, if the Customs is advised by, or on behalf of, the Prime Minister—
   (a) that the goods are property of any kind owned or controlled, directly or indirectly, by an entity; and
   (b) that the entity is a designated terrorist entity.
 
-### 47E Extension of 7-day period in section 47D(1)(a)
-(1) The 7-day period in section 47D(1)(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that court is satisfied—
-  (a) that the good cause to suspect required by section 47A(1)(c) or (d) exists; and
+### 47E Extension of 7-day period in section 47D(1)﻿(a)
+(1) The 7-day period in section 47D(1)﻿(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that court is satisfied—
+  (a) that the good cause to suspect required by section 47A(1)﻿(c) or (d) exists; and
   (b) that the extension to be granted is necessary to enable investigations in or outside New Zealand in relation to the goods or entity to be completed.
 (2) The application must be made in writing and served on the person from whom the goods were seized (if that person can be identified and located), and must include the following particulars:
   (a) a description of the goods detained:
   (b) the date on which the detention commenced:
-  (c) a statement of the facts supporting the good cause to suspect required by section 47A(1)(c) or (d); and
+  (c) a statement of the facts supporting the good cause to suspect required by section 47A(1)﻿(c) or (d); and
   (d) a statement of reasons why the extension sought is necessary to enable investigations in or outside New Zealand in relation to the goods or entity to be completed.
 (3) The person from whom the goods were seized is entitled to appear and be heard on the application.
 (4) The Customs must make all reasonable efforts to notify the person from whom the goods were seized, at least 24 hours before the hearing of the application, of the time and place of that hearing.
@@ -700,9 +700,9 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 
 ### 47G Offences in relation to certain detained goods
 (1) Every person commits an offence who, having custody of goods pursuant to section 47F(1), acts in breach of any requirement of, or imposed pursuant to, section 47F(2) or (3).
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 (3) Every person commits an offence who, without the permission of the Chief Executive, takes or carries away or otherwise converts to his or her own use goods to which section 47F(2) and (3) applies.
-(4) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 12 months, or to a fine not exceeding an amount equal to 3 times the value of the goods to which the offence relates.
+(4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 12 months, or to a fine not exceeding an amount equal to 3 times the value of the goods to which the offence relates.
 
 **Management of property subject to section 9**
 
@@ -720,7 +720,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) Notice of the making of a direction under section 48 must be given—
   (a) with all reasonable speed to the designated entity concerned, if practicable, where that entity or a representative of it is in New Zealand; and
   (b) to any other person that the Prime Minister has reason to believe may have an interest in the property concerned.
-(2) No direction under section 48 is invalid just because notice of the making of it has not been given in the manner required by subsection (1)(a) or (b).
+(2) No direction under section 48 is invalid just because notice of the making of it has not been given in the manner required by subsection (1)﻿(a) or (b).
 
 ### 50 Variation, revocation, or expiry of direction
 (1) Having made a direction under section 48, the Prime Minister may—
@@ -728,7 +728,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
     (i) the property to which the direction relates:
     (ii) terms and conditions to which the direction is subject:
   (b) revoke the direction under section 48.
-(2) The powers given by subsection (1)(a) and (b) are exercisable at any time after the making of the direction, and either on the Prime Minister's own initiative or on an application for the purpose in writing by or on behalf of the Official Assignee or a person who claims an interest in the property concerned.
+(2) The powers given by subsection (1)﻿(a) and (b) are exercisable at any time after the making of the direction, and either on the Prime Minister's own initiative or on an application for the purpose in writing by or on behalf of the Official Assignee or a person who claims an interest in the property concerned.
 (3) If not earlier revoked, a direction under section 48 in relation to property of an entity expires—
   (a) on the entity ceasing to be subject to the designation under section 22; or
   (ab) on the entity ceasing to be a United Nations listed terrorist entity; or
@@ -807,7 +807,7 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sent
   (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 35(2) or section 55 of this Act means the period ending—
     (i) when the time for bringing an appeal against the decision of the court expires, if no such appeal has been brought; or
     (ii) if an appeal against the decision of the court has been brought, when the appeal is finally determined or withdrawn, whichever occurs first:
-  (c) section 142N(3)(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
+  (c) section 142N(3)﻿(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
 
 ### 58 Appeal against decision on application under section 55
 (1) A party to an application under section 55 may appeal to the Court of Appeal against the decision of the High Court.
@@ -836,7 +836,7 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sent
   (c) every person who claims an interest in the application is entitled to appear and to adduce evidence at the hearing of the application.
 
 ### 61 Double benefit not permitted
-If, on an application made under section 52(3) in respect of any interest in any property, the court has made an order under section 54(2)(c) declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the court, an amount equal to the amount so declared must be deducted from any amount required to be paid, under section 59(6)(b), to that applicant in respect of that interest.
+If, on an application made under section 52(3) in respect of any interest in any property, the court has made an order under section 54(2)﻿(c) declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the court, an amount equal to the amount so declared must be deducted from any amount required to be paid, under section 59(6)﻿(b), to that applicant in respect of that interest.
 
 ## Part 3 — Miscellaneous provisions
 
