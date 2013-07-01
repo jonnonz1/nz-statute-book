@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -152,7 +152,7 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
   (a) imports those goods into New Zealand for the purpose of trade or manufacture; or
   (b) sells those goods, or exposes those goods for sale; or
   (c) possesses those goods for the purpose of trade or manufacture.
-(3) Every person who commits an offence against subsection (1) or (2) is liable on summary conviction to a fine not exceeding $150,000.
+(3) Every person who commits an offence against subsection (1) or (2) is liable on conviction to a fine not exceeding $150,000.
 
 ### 14 Defences to breach of section 10
 (1) It is a defence to an action or a prosecution for a breach of section 10, in relation to a representation that is an advertisement, if the defendant proves—
@@ -233,7 +233,7 @@ Sections 18 to 20 do not apply to advertising—ExamplesThese examples refer to 
 
 ### 23 Offences and penalties for breach of any of sections 17 to 20
 (1) Every person commits an offence who knowingly breaches any of sections 17 to 20.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $150,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $150,000.
 
 ### 24 Defences to breaches of sections 18 to 20
 It is a defence to an action or a prosecution for a breach of any of sections 18 to 20, in relation to an advertisement, if the defendant proves—
@@ -250,7 +250,7 @@ It is a defence to an action or a prosecution for a breach of any of sections 18
 
 ### 26 Offence and penalty for breach of section 25
 (1) Every person commits an offence who knowingly sells or trades a ticket to a major event activity in breach of section 25.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
 
 ### Subpart 5 — Pitch invasion
 
@@ -262,7 +262,7 @@ It is a defence to an action or a prosecution for a breach of any of sections 18
   - **major sporting event** means any major event that is a sporting event
   - **playing surface** means the area on which a major sporting event is played and any adjacent area required for the major sporting event to be played
   - **propels** means intentionally setting an object in motion in any manner, including, for example, throwing, kicking, dropping, or rolling.
-(3) A person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000.
+(3) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000.
 
 ## Part 3 — Permanently protected emblems and words
 
@@ -295,7 +295,7 @@ Section 28 does not apply to the display, exhibition, or use of any emblem or wo
   (g) in the case of a word, the word is the surname or initials (not being used for the purpose of defeating the intention of this section) of a foundation member of the body or of the person engaging in the business, trade, or occupation.
 
 ### 31 Penalty for offence against section 28
-Every person who commits an offence against section 28 is liable on summary conviction to a fine not exceeding $150,000.
+Every person who commits an offence against section 28 is liable on conviction to a fine not exceeding $150,000.
 
 ### 32 Defence to offence against section 28
 It is a defence to a prosecution for an offence against section 28, in relation to a breach of section 28 committed by the publication of an advertisement, if the defendant proves—
@@ -367,7 +367,7 @@ The chief executive of the Ministry of Economic Development may appoint enforcem
   (c) contain any other particulars that may be prescribed.
 (3) A warrant of appointment is, in the absence of evidence to the contrary, sufficient proof that the holder of the warrant may exercise the powers conferred on an enforcement officer under this subpart.
 (4) A person who ceases to be an enforcement officer must return the person's warrant of appointment.
-(5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 40 Functions of enforcement officer
 An enforcement officer must, to the extent reasonably practicable, ensure compliance with this Act by carrying out the following functions:
@@ -566,8 +566,9 @@ If the court decides that no order should be made under section 57, the person w
 
 ### Subpart 5 — Criminal offences
 
-### 64 When criminal proceedings may be commenced
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against section 13, 23, 26, or 28 may be laid at any time within 3 years after the time when the matter of the information arose.
+### 64 Time for filing charging document for offence against section 26 or 28
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 26 or 28 of this Act ends on the date that is 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 65 Application of Sentencing Act 2002
 If a person is convicted of an offence against section 13, 23, 26, 27, or 28 in circumstances where that offence involves the making of profit or gain,—
@@ -638,7 +639,7 @@ If a body corporate is convicted of an offence against any of sections 13, 23, 2
 
 ### 78 Court order to be suspended on conviction
 (1) If any person is convicted in any proceedings for an offence relating to any thing for which a warrant has been issued, and any order is made under section 76 or 77, the operation of the order is suspended,—
-  (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
+  (a) in any case, until the expiration of the time prescribed by the Criminal Procedure Act 2011 for the filing of a notice of appeal or an application for leave to appeal; and
   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
   (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
 (2) If the operation of an order under section 76 or 77 is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
@@ -750,39 +751,3 @@ Olympic Gold
 |  | 29th |
 |  | Twenty-ninth |
 |  | XXIXth |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
