@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -341,8 +341,8 @@ The name, contact details, and business details of every person that, immediatel
 (3) An industry participant's obligations under the Code, and any proceedings underway or orders in effect under the Code, are not affected merely because the participant ceases to be registered as a current participant.
 
 ### 31 Offences relating to registration
-(1) An industry participant that fails, without reasonable excuse, to register as an industry participant commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
-(2) A registered industry participant commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, if it knows or ought to know that the information recorded for it on the register is wrong or incomplete and it fails to supply updated information as required by section 29(2).
+(1) An industry participant that fails, without reasonable excuse, to register as an industry participant commits an offence and is liable on conviction to a fine not exceeding $20,000.
+(2) A registered industry participant commits an offence, and is liable on conviction to a fine not exceeding $20,000, if it knows or ought to know that the information recorded for it on the register is wrong or incomplete and it fails to supply updated information as required by section 29(2).
 
 ### Subpart 3 — Electricity Industry Participation Code
 
@@ -601,7 +601,7 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (j) any other matters that the Rulings Panel thinks fit.
 
 ### 57 Offence to breach certain orders of Rulings Panel
-An industry participant that breaches a compliance order made under section 54(1)(f), or an order made under section 54(1)(c), commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+An industry participant that breaches a compliance order made under section 54(1)(f), or an order made under section 54(1)(c), commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 58 Suspension and termination for breach of certain Rulings Panel orders
 The Rulings Panel may make a suspension order or a termination order against an industry participant if—
@@ -614,7 +614,7 @@ The Rulings Panel may make a suspension order or a termination order against an 
 (3) A termination order does not affect any liability for payment of money under the Code before the date of the relevant order.
 
 ### 60 Offences relating to suspension and termination orders
-An industry participant commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, if it fails to comply with—
+An industry participant commits an offence, and is liable on conviction to a fine not exceeding $20,000, if it fails to comply with—
   (a) a suspension order or a termination order; or
   (b) any direction or arrangement made by the Rulings Panel under the regulations in relation to a suspension order or a termination order.
 
@@ -782,7 +782,7 @@ In this Part and Schedules 2 and 3, unless the context otherwise requires,—
 (5) Every director commits an offence who—
   (a) refuses or knowingly fails to comply with this section; or
   (b) allows a use-of-systems agreement or a certificate to be publicised or provided to the Authority knowing that it is false or misleading in a material particular.
-(6) Every director who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding $200,000.
+(6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000.
 
 ### 78 Person involved in distributor must not pay for transfer of retail customers to connected retailers
 (1) A distributor, and any other person listed in subsection (2), must not pay, or offer to pay, any consideration to a retailer in respect of the transfer to a connected retailer of any retail customers who are connected to the distributor’s networks.
@@ -794,7 +794,7 @@ In this Part and Schedules 2 and 3, unless the context otherwise requires,—
 (4) To avoid doubt, subsection (1) includes a prohibition on—
   (a) any agreement to acquire the assets or voting securities of another retailer (regardless of whether any, or only nominal, consideration is attributed to customers) as a result of which there is a transfer of responsibility for retailing electricity to customers; and
   (b) any consideration that is directly or indirectly or in whole or in part in respect of the transfer of any of another retailer's customers or customer accounts.
-(5) Every person commits an offence who knowingly fails to comply with this section and is liable on summary conviction to a fine not exceeding $500,000.
+(5) Every person commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $500,000.
 
 ### 79 No discrimination when paying rebates or dividends
 (1) This section applies if a distributor has a connected retailer.
@@ -806,7 +806,7 @@ In this Part and Schedules 2 and 3, unless the context otherwise requires,—
   (b) the trustees of any customer trust or community trust that is involved in the distributor and the connected retailer:
   (c) the directors of any customer co-operative that is involved in the distributor and the connected retailer.
 (4) In this section, connected retailer has the same meaning as in section 77.
-(5) Every director and trustee commits an offence who knowingly fails to comply with this section and is liable on summary conviction to a fine not exceeding $200,000.
+(5) Every director and trustee commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $200,000.
 
 ### Subpart 2 — Enforcement and general provisions
 
@@ -877,7 +877,7 @@ This Part extends to persons outside New Zealand who are involved in a distribut
 (5) Every director commits an offence who—
   (a) refuses or knowingly fails to comply with this section; or
   (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
-(6) Every director who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding $200,000.
+(6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000.
 
 ### 89 Directors must report compliance with arm’s-length rules
 (1) Each director of a business to which the arm’s-length rules apply must provide to the Authority, no later than 31 March in each year, a statement confirming whether or not the director has complied with all of the arm’s-length rules during the preceding calendar year.
@@ -885,7 +885,7 @@ This Part extends to persons outside New Zealand who are involved in a distribut
 (3) Every director commits an offence who—
   (a) refuses or knowingly fails to comply with this section; or
   (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
-(4) Every person who commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding $200,000.
+(4) Every person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $200,000.
 
 **Exemptions**
 
@@ -932,7 +932,7 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
 
 ### 96 Membership of dispute resolution scheme
 (1) Transpower (other than in its capacity as system operator), and every distributor and retailer, must be a member of the dispute resolution scheme, unless exempt under subsection (3).
-(2) A person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
 (3) A person need not be a member of a dispute resolution scheme if—
   (a) the person is a member of a class of industry participants identified in regulations made under section 111 as a class of industry participants that need not be members; or
   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the Gazette that—
@@ -955,7 +955,7 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
 ### 98 Offence to fail to comply with District Court order
-(1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 97, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 97, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 97(4).
 
 ### Subpart 2 — Financial statements of customer and community trusts
@@ -994,7 +994,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 
 ### 104 Offences, enforcement, and application of sections 99 to 103
 (1) The trustees of a customer trust and the trustees of a community trust must comply with sections 99 to 103, rather than section 46A of the Energy Companies Act 1992.
-(2) Every trustee commits an offence and is liable on summary conviction to a fine not exceeding $200,000 who, without lawful justification or excuse, knowingly acts in breach of, or fails to comply in any respect with, any provision of sections 99 to 103.
+(2) Every trustee commits an offence and is liable on conviction to a fine not exceeding $200,000 who, without lawful justification or excuse, knowingly acts in breach of, or fails to comply in any respect with, any provision of sections 99 to 103.
 (3) Except as provided in subsection (1), nothing in sections 99 to 103 limits any other enactment or rule of law concerning the maintenance and auditing of the financial statements of a trust.
 (4) For the purpose of enforcing sections 99 to 103 and any regulations made under section 114, the Authority's monitoring, investigation, and enforcement powers in Part 2 apply to trustees of customer trusts and trustees of consumer trusts as if those trustees were industry participants.
 
@@ -1008,7 +1008,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (a) supply line function services to the place so that the place is within the distributor's network; or
   (b) supply the place with electricity from an alternative source.
 (3) The obligation in subsection (2) is subject to anything to the contrary in the Electricity Act 1992, any regulations made under section 169 of that Act, or any written agreement, entered into before this section comes into force, between the distributor and a landowner who is, or would be but for the agreement, affected by the obligation.
-(4) A distributor who is obliged under subsection (2) to supply line function services or electricity from an alternative source to a place commits an offence, and is liable on summary conviction to a fine not exceeding $10,000 and to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues, if the distributor,—
+(4) A distributor who is obliged under subsection (2) to supply line function services or electricity from an alternative source to a place commits an offence, and is liable on conviction to a fine not exceeding $10,000 and to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues, if the distributor,—
   (a) having been made aware that supply to the place has ceased in the circumstances described in section 106(2)(a), fails to resume supply as soon as is reasonable in the circumstances; or
   (b) knowingly ceases to supply line function services or electricity (as the case may be) to the place, other than in the circumstances described in section 106(2)(b) or (c).
 (5) In this section and sections 106 to 108,—
@@ -1079,7 +1079,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (h) prescribing determinations, orders, or directions, or imposing limits on any determinations, orders, or directions, that the Rulings Panel may make in relation to specific kinds of appeals and disputes (whether those appeals and disputes are identified in the regulations or the Code), and providing for any associated rights of appeal:
   (i) restricting or limiting the amount of liability of, or the amount of any penalty that may be imposed upon, an industry participant or class of industry participant:
   (j) identifying regulations the breach of which are to be treated as a breach of the Code:
-  (k) providing for offences, punishable on summary conviction by a fine not exceeding $20,000, for breaching any regulation made under this section or breaching any order made by the Rulings Panel under the regulations.
+  (k) providing for offences, punishable on conviction by a fine not exceeding $20,000, for breaching any regulation made under this section or breaching any order made by the Rulings Panel under the regulations.
 (2) The requirement in subsection (1) to consult with the Authority does not apply to the first regulations made under this section if—
   (a) the regulations largely correspond to Parts 4 to 8 of the Electricity Governance Regulations 2003, adapted as necessary for consistency with this Act; and
   (b) the Minister or the Electricity Commission has consulted with interested parties on any material changes.
@@ -1096,7 +1096,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (d) regulate distributors’ and retailers’ dealings with domestic consumers and small businesses, including requiring distributors and retailers to comply with any policies, practices, procedures, guidelines, or model contracts or clauses in contracts, that are set out or referred to in the regulations:
   (e) regulate the rate of change in the prices charged by distributors to rural consumers on a network as compared with the rate of change in the prices charged to comparable non-rural consumers on the same network:
   (f) regulate the rate of change in the prices charged to consumers supplied with electricity from an alternative source under section 105:
-  (g) provide for offences, punishable on summary conviction by a fine prescribed by the regulations but not exceeding $100,000, for breaching any regulation made under this section.
+  (g) provide for offences, punishable on conviction by a fine prescribed by the regulations but not exceeding $100,000, for breaching any regulation made under this section.
 (3) Regulations made under this section may include any other provisions necessary or desirable for monitoring and enforcing compliance with the regulations.
 (4) Before recommending an Order in Council under this section, the Minister must—
   (a) consult with the Minister of Consumer Affairs; and
