@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -449,7 +449,7 @@ Every territorial authority has power to—
   (g) perform or exercise any other function, power, or duty conferred on it by this Act.
 
 ### 15 Transfer of powers, etc, by local authorities
-(1) Subject to subsections (2) and (3), a local authority that has an operation under this Act (in this section referred to as the transferor) may transfer the performance of the operation to another local authority (in this section referred to as the transferee), if— by (and subject to any terms and conditions contained in) a written agreement with the transferee.
+(1) Subject to subsections (2) and (3), a local authority that has an operation under this Act (in this section referred to as the transferor) may transfer the performance of the operation to another local authority (in this section referred to as the transferee), if—by (and subject to any terms and conditions contained in) a written agreement with the transferee.
   (a) it has used the special consultative procedure specified in section 83 of the Local Government Act 2002; and
   (b) in the case of an operation under or relating to a national pest management plan or a national pathway management plan, before using that procedure it has served notice on the Minister of its intention to do so; and
   (c) in the case of an operation under or relating to a regional pest management plan or a regional pathway management plan,—
@@ -4533,25 +4533,25 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 (2) Where any body corporate is convicted of an offence against this Act, every person, being a director or a person concerned in the management of the body corporate, shall be guilty of the same offence if it is proved that the act that constituted the offence took place with that person's authority, permission, or consent, or that the person knew the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 157 Penalties
-(1) Every person who commits an offence against any of section 154O(1) to (15) is liable on conviction on indictment,—
+(1) Every person who commits an offence against any of section 154O(1) to (15) is liable on conviction,—
   (a) in the case of an individual person, to imprisonment for a term not exceeding 5 years, a fine not exceeding $100,000, or both:
   (b) in the case of a corporation, to a fine not exceeding $200,000.
 (2) Every person who attempts to commit an offence against section 154O(15) is liable on conviction,—
   (a) in the case of an individual person, to imprisonment for a term not exceeding 5 years, a fine not exceeding $100,000, or both:
   (b) in the case of a corporation, to a fine not exceeding $200,000.
-(3) Every person who commits an offence against any of section 154N(6) or (7) or 154O(16) to (18) is liable on summary conviction,—
+(3) Every person who commits an offence against any of section 154N(6) or (7) or 154O(16) to (18) is liable on conviction,—
   (a) in the case of an individual person, to imprisonment for a term not exceeding 12 months, a fine not exceeding $50,000, or both:
   (b) in the case of a corporation, to a fine not exceeding $100,000.
-(4) Every person who commits an offence against section 154N(8) to (11) is liable on summary conviction,—
+(4) Every person who commits an offence against section 154N(8) to (11) is liable on conviction,—
   (a) in the case of an individual person, to imprisonment for a term not exceeding 3 months, a fine not exceeding $50,000, or both:
   (b) in the case of a corporation, to a fine not exceeding $100,000.
-(5) Every person who commits an offence against any of section 154M, 154N(12) to (20), or 154O(19) to (21) is liable on summary conviction,—
+(5) Every person who commits an offence against any of section 154M, 154N(12) to (20), or 154O(19) to (21) is liable on conviction,—
   (a) in the case of an individual person, to a fine not exceeding $5,000:
   (b) in the case of a corporation, to a fine not exceeding $15,000.
-(6) Every person who commits an offence against any regulations made under this Act is liable on summary conviction,—
+(6) Every person who commits an offence against any regulations made under this Act is liable on conviction,—
   (a) in the case of an individual person, to a fine not exceeding $5,000:
   (b) in the case of a corporation, to a fine not exceeding $15,000.
-(7) Every person who commits an offence against section 154N(21) is liable on summary conviction to a fine not exceeding $1,000.
+(7) Every person who commits an offence against section 154N(21) is liable on conviction to a fine not exceeding $1,000.
 
 ### 158 Fines to be paid to management agency instituting prosecution
 [Repealed]
@@ -4561,13 +4561,13 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 (1A) This section applies when—
   (a) an inspector has reason to believe that a defendant has committed an infringement offence:
   (b) an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under section 103(1)(b), (2), or (3).
-(1B) Proceedings may be taken against the defendant under the Summary Proceedings Act 1957.
+(1B) Proceedings may be taken against the defendant by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (1C) Alternatively, the inspector or the authorised person may issue an infringement notice to the defendant. In that case,—
   (a) proceedings for the offence may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and
   (b) section 21 of that Act applies with all necessary modifications.
 (2) Any inspector (not necessarily the inspector who issued the notice), the authorised person (the authorised person who issued the notice), or an authorised person appointed by the same appointer as appointed the authorised person who issued the notice—
   (a) may deliver it (or a copy of it) to the defendant personally; or
-  (b) may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) shall be deemed to have been served on the defendant when it was posted.
+  (b) may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case it (or the copy) shall be deemed to have been served on the defendant when it was posted.
 (3) Every infringement notice shall be in a form prescribed by regulations made under this Act; and shall specify—
   (a) sufficient details to inform the defendant fairly of the time, place, and nature of the offence alleged; and
   (b) the amount of the infringement fee for the offence; and
@@ -4580,7 +4580,7 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 
 ### 159A Accelerated infringement notice procedure for border infringement offences
 (1) This section applies when an inspector has reason to believe that a defendant has committed a border infringement offence.
-(1A) Proceedings may be taken against the defendant under the Summary Proceedings Act 1957.
+(1A) Proceedings may be taken against the defendant by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (1B) Alternatively, the inspector may issue an infringement notice to the defendant. In that case,—
   (a) proceedings for the offence may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and
   (b) section 21 of that Act applies with all necessary modifications.
@@ -4622,13 +4622,13 @@ Fine: prosecution by Ministry
 (1) Subsection (2) applies when—
   (a) a person is convicted of an offence under this Act; and
   (b) the court imposes a fine; and
-  (c) the information for the offence was laid on behalf of the Ministry.
+  (c) the charging document for the offence was filed on behalf of the Ministry.
 (2) If the court considers that the act or omission that constituted the offence was a material cause of a need to undertake a response activity, the court must order that all or part of the fine be paid to the departmental bank account of the Ministry.
 Fine: prosecution by management agency
 (3) Subsections (4) and (5) apply when—
   (a) a person is convicted of an offence under this Act; and
   (b) the court imposes a fine; and
-  (c) the information for the offence was laid on behalf of a management agency.
+  (c) the charging document for the offence was filed on behalf of a management agency.
 (4) The court must—
   (a) order that the fine be paid to the management agency; and
   (b) state in the order the amount of the fine that is compensation for loss or damage, if any of it is.
@@ -4691,8 +4691,12 @@ Definition for this section
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
 (5) The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
 
-### 162 Time for laying informations
-Notwithstanding section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act or any regulations made under it may be laid at any time within 2 years of the time when the matter of the information arose.
+### 162 Time for filing charging document for certain offences
+(1) This section applies to—
+  (a) an offence against any of sections 154M, 154N(8) to (21), and 154O(19) to (21):
+  (b) an offence against any regulations made under this Act.
+(2) The limitation period for the offence ends on the date that is 2 years after the date on which the offence was committed.
+(3) Section 25 of the Criminal Procedure Act 2011 does not apply to the offence.
 
 ## Part 8A — Exclusive economic zone
 
@@ -5268,39 +5272,3 @@ Section 162A of the principal Act, as it was immediately before its repeal by se
 (5) A permission continues in force according to its tenor.
 (6) A reference in a permission to the Director-General of Conservation or to any other office or officer of the Department of Conservation or to the Minister of Conservation is deemed to be a reference to the Director-General as defined in the Biosecurity Act 1993.
 (7) The Director-General, as defined in the Biosecurity Act 1993, may exercise any or all of the powers under the Wild Animal Control Act 1977 to amend, suspend, revoke, or renew a permission.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
