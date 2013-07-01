@@ -1,7 +1,7 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
-> An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’s Rights; andeto provide for matters incidental thereto
+> An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Health and Disability Commissioner Act 1994.
@@ -615,7 +615,7 @@ Notwithstanding any provision in any enactment, where any letter appearing to be
 (4) There may be paid, out of the funds of the Commissioner,—fees, allowances, and expenses as if the parties or their representatives and those persons were witnesses in a court, and, for that purpose,—
   (a) to each party or to the representatives of each party, to the number determined by the Commissioner as being necessary to enable that party to be adequately represented, attending any conference called under this section; and
   (b) to any person (other than the Commissioner) attending any conference pursuant to subsection (3),—
-  (c) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (c) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
   (d) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 (5) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made to any person in the course of a conference called under this section.
 
@@ -629,7 +629,7 @@ Notwithstanding any provision in any enactment, where any letter appearing to be
 (2) No person shall be required to supply any information to or to answer any question put by the Commissioner or any employee of the Commissioner in relation to any matter, or to produce to the Commissioner or any employee of the Commissioner any document or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982 or the State Sector Act 1988.
 (3) No person shall be liable to prosecution for an offence against any enactment, other than section 73, by reason of that person’s compliance with any requirement of the Commissioner or any employee of the Commissioner under section 62.
 (4) Where the attendance of any person is required by the Commissioner under section 62, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
-  (a) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
   (b) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
 ### 64 Disclosure of certain matters not to be required
@@ -713,7 +713,7 @@ Any person purporting to exercise any power of the Commissioner or, as the case 
 **Offences**
 
 ### 73 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $3,000 who,—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who,—
   (a) without reasonable excuse, obstructs, hinders, or resists the Commissioner or any other person in the exercise of their powers under this Act:
   (b) without reasonable excuse, refuses or fails to comply with any lawful requirement of the Commissioner or any other person under this Act:
   (c) makes any statement or gives any information to the Commissioner or any other person exercising powers under this Act, knowing that the statement or information is false or misleading:
