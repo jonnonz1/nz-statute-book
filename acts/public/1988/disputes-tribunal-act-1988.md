@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -543,7 +543,7 @@ No proceedings of a Tribunal, or order or other document of a Tribunal shall be 
 A Registrar shall ensure that assistance is reasonably available, either from that Registrar himself or herself, or from that Registrar's staff, to any person who seeks it in completing the forms required by this Act, or by any rules made under this Act, in relation to the lodging of a claim in a Tribunal, an application for a rehearing, an appeal against an order or approval or variation made or given by a Tribunal, or the enforcement of an order or an agreed settlement in the Tribunal or in a District Court.
 
 ### 56 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) wilfully assaults, insults, or obstructs a Referee, or any witness or any officer of a Tribunal during a sitting of a Tribunal or while a Referee, a witness, or an officer is going to, or returning from, a sitting of a Tribunal; or
   (b) wilfully assaults, insults, or obstructs any person in attendance at a sitting of a Tribunal; or
   (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Tribunal; or
@@ -554,7 +554,7 @@ A Registrar shall ensure that assistance is reasonably available, either from th
 The Registrar shall cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in Tribunals as the Minister specifies in the direction.
 
 ### 58 Protection of Referees, Investigators, etc
-(1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under Part 7 of the Summary Proceedings Act 1957.
+(1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under sections 4A to 4F of the Justices of the Peace Act 1957.
 (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives, and witnesses in the proceedings of a Tribunal it is hereby declared that such proceedings are judicial proceedings.
 (3) The privileges and immunities referred to in subsection (2) shall extend and apply to—
   (a) a Tribunal acting under section 40(2); and
