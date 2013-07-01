@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -411,12 +411,12 @@ In accordance with this Part, a Disputes Tribunal established under section 4 of
 **Offences**
 
 ### 40 Contraventions of provisions of Part 1, Part 2, Part 3, and Part 4 an offence
-(1) Every person who contravenes any of the provisions of Part 1 (except sections 9, 14(2), 23, and 24), or Part 2, or Part 3 or Part 4, commits an offence and is liable on summary conviction—
+(1) Every person who contravenes any of the provisions of Part 1 (except sections 9, 14(2), 23, and 24), or Part 2, or Part 3 or Part 4, commits an offence and is liable on conviction—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $60,000; and
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
-(1A) Every person who contravenes section 24 commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(1A) Every person who contravenes section 24 commits an offence and is liable on conviction to a fine not exceeding $200,000.
 (2) Where a person is convicted, whether in the same or separate proceedings, of 2 or more offences in respect of contraventions of the same provisions of this Act and those contraventions are of the same or a substantially similar nature and occurred at or about the same time, the aggregate amount of any fines imposed on that person in respect of those convictions shall not exceed the amount of the maximum fine that may be imposed in respect of a conviction for a single offence.
-(3) Despite section 14 of the Summary Proceedings Act 1957, proceedings under this section may be commenced at any time within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(3)
 
 ### 40A Additional penalty for contravention of section 24 involving commercial gain
 (1) If a person is convicted of an offence under section 40(1A) , the court may, on the application of the Commission, in addition to any penalty that the court may impose under that subsection, order that person to pay an amount not exceeding the value of any commercial gain resulting from the contravention if the court is satisfied that the contravention occurred in the course of producing a commercial gain.
@@ -494,14 +494,14 @@ In accordance with this Part, a Disputes Tribunal established under section 4 of
 (2) For the purposes of subsection (1)(b) and (c), the term another person does not include—
   (a) a servant or agent of the defendant; or
   (b) where the defendant is a body corporate, a director, servant or agent of the defendant.
-(3) A defendant is not, without the leave of the District Court, entitled to rely on the defence provided by subsection (1)(b) that the contravention was due to reasonable reliance on information supplied by another person, or by subsection (1)(c)(i) that the contravention was due to the act or default of another person, unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying that person.
+(3) A defendant is not, without the leave of the District Court, entitled to rely on the defence provided by subsection (1)(b) that the contravention was due to reasonable reliance on information supplied by another person, or by subsection (1)(c)(i) that the contravention was due to the act or default of another person, unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying that person.
 (4) It is a defence to a prosecution for an offence against section 40, or to any other proceedings under this Part, in relation to a contravention of a provision of this Act committed by the publication of an advertisement, if the defendant proves—
   (a) that the defendant's business is publishing or arranging for the publication of advertisements; and
   (b) that the defendant received the advertisement, or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of the provision.
 (5) Subject to subsection (6), it is a defence to a prosecution for an offence against section 40, or to any other proceedings under this Part, in relation to a contravention of section 28, if the defendant proves—
   (a) that the goods to which the proceedings relate were acquired by the defendant for the purpose of resupply from a person (not being an agent of a person outside New Zealand) who carried on in New Zealand the business of supplying such goods; and
   (b) that the defendant did not know, and could not with reasonable diligence have ascertained, that the goods did not comply with the consumer information standard or that the defendant had not complied with that standard in relation to the goods, as the case may be, or that the defendant relied in good faith on a representation by the person from whom the defendant acquired the goods that a consumer information standard had not been prescribed for those goods.
-(6) A defendant is not, without the leave of the District Court, entitled to rely on any defence provided by subsection (5) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served, in the case of proceedings for an offence, on the informant, and in the case of any other proceedings, on the person commencing those proceedings, a notice in writing identifying the person by whom the goods were supplied.
+(6) A defendant is not, without the leave of the District Court, entitled to rely on any defence provided by subsection (5) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served, in the case of proceedings for an offence, on the prosecutor, and in the case of any other proceedings, on the person commencing those proceedings, a notice in writing identifying the person by whom the goods were supplied.
 
 ### 45 Conduct by servants or agents
 (1) Where, in proceedings under this Part in respect of any conduct engaged in by a body corporate, being conduct in relation to which any of the provisions of this Act applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
@@ -547,7 +547,7 @@ In any application for an order against a person under section 43, a finding of 
 [Repealed]
 
 ### 47F Offence
-Every person who resists, obstructs, or delays any authorised person acting pursuant to a warrant issued under section 47 commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+Every person who resists, obstructs, or delays any authorised person acting pursuant to a warrant issued under section 47 commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
 
 ### 47G Commission may require person to supply information or documents
 (1) If the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act, the Commission may, by notice in writing served on any person, require that person—
@@ -584,8 +584,8 @@ Every person who resists, obstructs, or delays any authorised person acting purs
 (1) No person may,—
   (a) without reasonable excuse, refuse or fail to comply with a notice under section 47G; or
   (b) in purported compliance with the notice, supply information, or supply a document, knowing it to be false or misleading.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
-(3) Proceedings for an offence against subsection (2) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+(3)
 
 ### 48 Proceedings privileged
 (1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions under this Act unless it is shown that the Commission acted without reasonable care or in bad faith.
@@ -743,46 +743,3 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — Orders and notices revoked
-
-### 1 Short Title
-This Act may be cited as the Fair Trading Amendment Act 1997, and is part of the Fair Trading Act 1986 (the principal Act).
-
-### 6 Transitional provisions relating to regulations in force before commencement of this Act
-(1) Regulations made under section 27 or section 28 of the principal Act (as in force before the commencement of this Act) and that were in force immediately before the commencement of this Act are deemed to have been made under section 27 of the principal Act (as substituted by this Act).
-(2) Regulations made under section 29 or section 30 or under both sections 29 and 30 of the principal Act (as in force before the commencement of this Act) and that were in force immediately before the commencement of this Act are deemed to have been made under section 29 of the principal Act (as substituted by this Act).
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
