@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -359,7 +359,7 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
 
 ### 43 Prohibition against removal of assets
 (1) Where a corporation is declared to be subject to statutory management, no person shall, except with the consent of the statutory manager, transfer, or remove from New Zealand, any property or assets of the corporation.
-(2) Any person who, after a corporation is declared to be subject to statutory management, except with the consent of the statutory manager, transfers, or removes from New Zealand, any property or assets of the corporation, commits an offence and is liable on conviction on indictment,—
+(2) Any person who, after a corporation is declared to be subject to statutory management, except with the consent of the statutory manager, transfers, or removes from New Zealand, any property or assets of the corporation, commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000:
   (b) in the case of a corporation, to a fine not exceeding $250,000.
 (3) Nothing in subsection (2) shall prevent the issue of an injunction or the making of any order to prevent such property or assets being removed from New Zealand.
@@ -544,13 +544,13 @@ Except as otherwise provided in this Act, no corporation to which this Act appli
 
 ### 67 Duty to deliver books and property to statutory manager
 (1) It shall be the duty of all persons having possession and control of any books or records or documents or other property belonging to any corporation subject to statutory management, forthwith after it becomes subject to statutory management, to deliver or yield up possession of those books, records, documents, or other property to the statutory manager in respect of the corporation.
-(2) If any person fails for 7 days to comply with the requirements of subsection (1), that person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day after the expiration of those 7 days during which the offence has continued.
+(2) If any person fails for 7 days to comply with the requirements of subsection (1), that person commits an offence, and is liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day after the expiration of those 7 days during which the offence has continued.
 (3) If any person fails to comply with the requirements of subsection (1), the statutory manager may, at any time, certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may inquire into the matter and, after hearing any witnesses who may be produced against, or by, or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender in like manner as if the offender had been guilty of contempt of court.
 (4) It shall not be a defence to any proceedings under this section that the person in possession or control of any property is, or was, a trustee of the property for the corporation, or entitled to a lien or other charge over the property, or was a receiver or manager of the property.
 (5) The rights of any person who, in accordance with this section, delivers any property to the statutory manager in respect of the corporation shall continue, while the management continues, as if the person had not so delivered the property; and on the termination of the management, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver or manager, or a person entitled to a lien or charge in respect of the property, or any other person having any rights in respect thereof.
 
 ### 68 Offence to destroy, alter, or conceal records
-(1) Every director, officer, servant, or agent of any corporation subject to statutory management, or any other person, commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who—
+(1) Every director, officer, servant, or agent of any corporation subject to statutory management, or any other person, commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who—
   (a) with intent to defeat the purposes of this Act, destroys, alters, or conceals any book, document, or record of, or relating to, a corporation that is subject to statutory management, or sends or attempts to send out of New Zealand any such book, document, or record; or
   (b) fails or refuses to answer to the best of that person's knowledge and ability any question which that person may be asked by the statutory manager in relation to any such book or document or record or any property, or wilfully gives a false answer to any such question.
 (2) If, in any prosecution for an offence alleged to have been committed against this section, it is proved that the person charged with the offence has destroyed, altered, or concealed any book, document, or record, or has sent or attempted to send out of New Zealand any such book, document, or record, the onus of proving that in so doing that person had not acted in contravention of this section shall lie on that person.
@@ -559,7 +559,7 @@ Except as otherwise provided in this Act, no corporation to which this Act appli
 If it appears to any statutory manager appointed in respect of a corporation under this Act that any person has been guilty of any offence in relation to that corporation, the statutory manager shall report the matter to the Solicitor-General.
 
 ### 70 Penalties for offences
-Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction on indictment,—
+Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $10,000:
   (b) in the case of a corporation, to a fine not exceeding $25,000.
 
