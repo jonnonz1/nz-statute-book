@@ -1,5 +1,5 @@
 # Waitangi National Trust Board Act 1932
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to incorporate the Waitangi National Trust Board, to vest certain lands in the said Board, to confer certain powers upon the said Board, and for other purposes
 
@@ -32,7 +32,7 @@ This Act may be cited as the Waitangi National Trust Board Act 1932.
 (3) Any notice of legal process shall be deemed to be served upon the Board if left at its office for the time being so notified during usual office hours with any person appearing to have the management or control thereof.
 
 ### 6 Offences in relation to lands of Board
-(1) Every person is liable on summary conviction to imprisonment for 1 month or to a fine not exceeding $500 who, without being authorised by the Board, does any of the following things upon any lands for the time being vested in the Board, that is to say:
+(1) Every person is liable on conviction to imprisonment for 1 month or to a fine not exceeding $500 who, without being authorised by the Board, does any of the following things upon any lands for the time being vested in the Board, that is to say:
   (a) lights any fire; or
   (b) wilfully breaks or injures any fence, building, or erection; or
   (c) wilfully breaks, cuts, injures, or removes any or any part of any wood, tree, shrub, fern, plant, stone, mineral, furniture, utensil, tool, or thing of any kind; or
