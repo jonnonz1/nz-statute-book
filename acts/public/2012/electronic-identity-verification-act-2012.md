@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2013-04-02_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -66,7 +66,6 @@ In this Act, unless the context otherwise requires,—
     (a) voluntary cancellation under section 31; and
     (b) mandatory cancellation under section 33
   - **chief executive** means the chief executive of the department
-  - **conviction on indictment** has the same meaning as convicted on indictment in section 3 of the Crimes Act 1961
   - **core identity information** means the information specified in section 9(1)
   - **current** , in relation to an electronic identity credential, means that the electronic identity credential has been issued and has not expired and is not cancelled, suspended, or revoked
   - **department** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
@@ -691,7 +690,7 @@ The following provisions apply to the relationship between this Act and the Offi
 (2) Subsection (1) applies to—
   (a) the deletion or alteration of information recorded in the Service database, or the recording or storage of information in the Service database, whether it is achieved directly or by altering or damaging the database, its programming, another device, the programming of another device, or any electronic storage; and
   (b) the copying of information recorded in the Service database (whether it is achieved directly from the database, by means of another device, by the interception or copying of an electronic message, or from any form of electronic storage).
-(3) A person who commits an offence against this section is liable on conviction on indictment to,—
+(3) A person who commits an offence against this section is liable on conviction to,—
   (a) if an individual,—
     (i) imprisonment for a term not exceeding 10 years; or
     (ii) a fine not exceeding $250,000; or
@@ -700,7 +699,7 @@ The following provisions apply to the relationship between this Act and the Offi
 
 ### 61 Offence relating to improper issue
 (1) A person commits an offence who intentionally or recklessly issues an electronic identity credential to an individual to whom it does not relate.
-(2) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or to a fine not exceeding $250,000, or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 10 years, or to a fine not exceeding $250,000, or to both.
 
 ### 62 Offences relating to improper access and use
 (1) A person commits an offence who knowingly—
@@ -711,7 +710,7 @@ The following provisions apply to the relationship between this Act and the Offi
   (b) supplies to any other person or otherwise uses or discloses the information.
 (2) A person other than a participating agency commits an offence who knowingly asks another person to use an electronic identity credential to verify that other person's identity in relation to any transaction or service (whether the transaction or service is offered online or not).
 (3) A person commits an offence who knowingly uses an electronic identity credential that has not been issued to him or her.
-(4) A person who commits an offence against this section is liable on conviction on indictment to,—
+(4) A person who commits an offence against this section is liable on conviction to,—
   (a) if an individual,—
     (i) imprisonment for a term not exceeding 2 years; or
     (ii) a fine not exceeding $50,000; or
@@ -723,7 +722,7 @@ The following provisions apply to the relationship between this Act and the Offi
   (a) makes a written or oral statement knowing that it is false or misleading in a material particular; or
   (b) makes a written or oral statement that is recklessly false or misleading in a material particular; or
   (c) provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
-(2) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $50,000, or to both.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $50,000, or to both.
 
 **Court orders**
 
