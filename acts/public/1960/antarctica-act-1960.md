@@ -1,7 +1,7 @@
 # Antarctica Act 1960
-_Consolidation as at 1998-01-23_
+_Consolidation as at 2013-07-01_
 
-> An Act to confer jurisdiction on the courts of New Zealand to deal with crimes committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
+> An Act to confer jurisdiction on the courts of New Zealand to deal with offences committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Antarctica Act 1960.
@@ -21,19 +21,19 @@ _Consolidation as at 1998-01-23_
   (b) he is residing in New Zealand with the intention of residing therein indefinitely; or
   (c) having resided in New Zealand with the intention of establishing his home therein, or with the intention of residing in New Zealand indefinitely, he is outside New Zealand but has an intention to return to establish his home therein or to reside in New Zealand indefinitely.
 
-### 3 Crimes committed in the Ross Dependency or in certain other parts of Antarctica
+### 3 Offences committed in the Ross Dependency or in certain other parts of Antarctica
 (1) This section applies to any act done or omitted—
   (a) in the Ross Dependency, by any person; or
   (b) in any part of Antarctica, other than the Ross Dependency, that is not within the jurisdiction of any country, by any person who is a New Zealand citizen or a person ordinarily resident in New Zealand.
-(2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be a crime under any enactment, whether passed before or after the passing of this Act, he commits a crime and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
-(3) Notwithstanding anything in any other enactment, proceedings for the trial and punishment of any person who,—shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Attorney-General and on his certificate that it is expedient that the proceedings should be instituted:provided that a person so charged may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the crime has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
-  (a) not being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed a crime in the Ross Dependency; or
-  (b) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed, in the Ross Dependency, a crime on board any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft; or
-  (c) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed a crime in any other part of Antarctica, otherwise than on board a New Zealand ship or a New Zealand aircraft—
+(2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be an offence under any enactment, whether passed before or after the passing of this Act, he commits an offence and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
+(3) Notwithstanding anything in any other enactment, proceedings for the trial and punishment of any person who,—shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Attorney-General and on his certificate that it is expedient that the proceedings should be instituted:provided that a person so charged may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
+  (a) not being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed an offence in the Ross Dependency; or
+  (b) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed, in the Ross Dependency, an offence on board any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft; or
+  (c) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed an offence in any other part of Antarctica, otherwise than on board a New Zealand ship or a New Zealand aircraft—
 
-### 4 Crimes committed by certain New Zealand citizens in other parts of Antarctica
+### 4 Offences committed by certain New Zealand citizens in other parts of Antarctica
 (1) This section applies to any act done or omitted in any part of Antarctica, other than the Ross Dependency, that is within the jurisdiction of any country by any New Zealand citizen who is an observer or exchanged scientist or a member of the staff accompanying any observer or exchanged scientist, while he is in that part of Antarctica for the purpose of exercising his functions.
-(2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be a crime under any enactment, whether passed before or after the commencement of this section, he commits a crime and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
+(2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be an offence under any enactment, whether passed before or after the commencement of this section, he commits an offence and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
 (3) The provisions of subsection (3) of section 3, so far as they are applicable, shall apply to proceedings for the trial and punishment of any person in respect of any act or omission to which this section applies.
 
 ### 5 Restriction of jurisdiction over certain nationals of other countries
