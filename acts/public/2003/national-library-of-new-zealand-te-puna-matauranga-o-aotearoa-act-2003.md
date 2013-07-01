@@ -1,5 +1,5 @@
 # National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and may also be cited as either—
@@ -333,7 +333,7 @@ Except as otherwise expressly provided in a requirement, copies of a public docu
   (b) if the printer complies with a requirement, the printer is entitled to recover the cost of doing so from the publisher.
 
 ### 40 Offence and penalty
-A publisher or printer who, without reasonable excuse, fails to comply with section 39 commits an offence and, on summary conviction, is liable to a fine not exceeding $5,000.
+A publisher or printer who, without reasonable excuse, fails to comply with section 39 commits an offence and, on conviction, is liable to a fine not exceeding $5,000.
 
 ### 41 Savings
 (1) Despite section 46(1), section 30A of the National Library Act 1965 continues to apply in relation to a book if its date of publication (as defined in section 30A of that Act) is a date before the commencement of this Act.
