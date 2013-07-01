@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -222,7 +222,7 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (a) publish notice of the making of that Order in Council in 1 or more daily newspapers published in the cities of Auckland, Wellington, Christchurch, and Dunedin respectively; and
   (b) give written notice of the making of that Order in Council to those persons who appear to the Minister to be representative of the classes of persons likely to be affected by the making of that Order in Council; and
   (c) give such other public notice of the making of that Order in Council as the Minister thinks fit.
-(2) Despite subsection (1), the publication in accordance with the Acts and Regulations Publication Act 1989 of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the accused is to be determined accordingly.
+(2) Despite subsection (1), the publication in accordance with the Acts and Regulations Publication Act 1989 of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
 
 ### 8 Act to bind the Crown
 (1) This Act binds the Crown.
@@ -411,7 +411,7 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 **Penalties**
 
 ### 25 Penalties
-A person who commits an offence against section 12 or section 14(1) or section 14(2) or section 21(1) or section 21(2) or section 22(2) or section 23(1) or section 23(2) is liable on summary conviction,—
+A person who commits an offence against section 12 or section 14(1) or section 14(2) or section 21(1) or section 21(2) or section 22(2) or section 23(1) or section 23(2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000 or to both; or
   (b) in the case of a body corporate to a fine not exceeding $250,000.
 
@@ -442,7 +442,7 @@ The purpose of this Part is to state conduct that is or is not permissible in re
     (iii) loss of a body part; or
     (iv) permanent or prolonged loss of a bodily function; and
   (b) requires treatment by or under the supervision of a veterinarian.
-(3) A person who commits an offence against this section is liable on conviction on indictment,—
+(3) A person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000 or to both:
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -459,7 +459,7 @@ The purpose of this Part is to state conduct that is or is not permissible in re
     (iii) loss of a body part; or
     (iv) permanent or prolonged loss of a bodily function; and
   (b) requires treatment by or under the supervision of a veterinarian.
-(3) A person who commits an offence against this section is liable on conviction on indictment,—
+(3) A person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000 or to both:
   (b) in the case of a body corporate, to a fine not exceeding $350,000.
 
@@ -544,12 +544,12 @@ A person commits an offence who, without reasonable excuse and for the purpose o
 (1) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets or causes to be set a trap, must,—
   (a) inspect that trap, or cause a competent person to inspect that trap, within 12 hours after sunrise on each day the trap remains set, beginning on the day immediately after the day on which the trap is set; and
   (b) remove, or cause to be removed, any live animal found in that trap or attend properly to the care of any such animal or, without delay, kill any such animal.
-(2) A person commits an offence and is liable on summary conviction to a fine not exceeding $1,200 who fails, without reasonable excuse, to comply with any provision of subsection (1).
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $1,200 who fails, without reasonable excuse, to comply with any provision of subsection (1).
 
 **Penalties**
 
 ### 37 Penalties
-A person who commits an offence against section 29 or section 31(1) or section 34 or section 35(1) or section 35(2) is liable on summary conviction,—
+A person who commits an offence against section 29 or section 31(1) or section 34 or section 35(1) or section 35(2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000 or to both; and
   (b) in the case of a body corporate, to a fine not exceeding $250,000.
 
@@ -566,7 +566,7 @@ The provisions of this Part do not limit the other provisions of this Act.
 (2) Nothing in subsection (1) applies if the exportation of the animal—
   (a) is exempted from the requirements of that subsection by a notice published under section 48(1); or
   (b) is being effected under the authority of a permit, certificate, or other authorisation issued under the Conservation Act 1987 or any Act listed in Schedule 1 of that Act.
-(3) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(3) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
@@ -694,7 +694,7 @@ Despite anything in the Conservation Act 1987 or in any Act listed in Schedule 1
 
 ### 54 Offence
 (1) A person commits an offence who, without reasonable excuse, refuses or fails to comply with any requirement of an inspector or authorised person under section 53(1)(c).
-(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
@@ -1306,7 +1306,7 @@ The accredited reviewer must, after conducting a review,—
 **Penalties**
 
 ### 119 Penalties
-A person who commits an offence against section 82(2) or section 83(2) or section 85(7) is liable on summary conviction,—
+A person who commits an offence against section 82(2) or section 83(2) or section 85(7) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; and
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
@@ -1418,7 +1418,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
   (a) may take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal); and
   (b) may, by notice in writing given by the inspector to the owner or the person in charge of the animal or any person appearing to be in charge of the animal, require the person to whom the notice is given to take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal).
 (2) A person commits an offence who, without reasonable excuse, refuses or fails to comply with any requirement of an inspector under subsection (1)(b).
-(3) A person who commits an offence against subsection (2) is liable on summary conviction,—
+(3) A person who commits an offence against subsection (2) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
@@ -1632,7 +1632,7 @@ A District Court may, if it thinks fit, on the application of the applicant or t
 
 ### 152 Offence to contravene enforcement order
 (1) A person commits an offence who contravenes an enforcement order.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
@@ -1668,7 +1668,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (b) if the inspector has reasonable grounds to believe that that person has committed an offence against this Act or any regulations made under this Act.
 (2) If the inspector believes on reasonable grounds that any details given to the inspector under subsection (1) are false or misleading, the inspector may request the person to give to the inspector such verification of those details as it is reasonable in the circumstances to require the person to provide.
 (3) If any person, without reasonable excuse, refuses or fails to comply with a request made under subsection (1) or subsection (2) and persists in the refusal or failure after being warned by the inspector of the provisions of this subsection, any inspector who is a constable may arrest that person without warrant.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $900 who, without reasonable excuse,—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $900 who, without reasonable excuse,—
   (a) refuses or fails to comply with a request made under subsection (1) or subsection (2); or
   (b) gives to an inspector, in response to a request made under subsection (1) or subsection (2), particulars that are false in a material respect.
 
@@ -1680,7 +1680,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 
 ### 159 Obstruction of inspector or auxiliary officer
 (1) A person commits an offence who wilfully obstructs or hinders an inspector or auxiliary officer in the exercise of the inspector's or auxiliary officer's powers or in the performance of the inspector's or auxiliary officer's duties under this Act.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
@@ -1688,7 +1688,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 (1) A person commits an offence who,—
   (a) not being an inspector appointed under this Act, describes himself or herself or otherwise holds himself or herself out as being an inspector appointed under this Act; or
   (b) not being an auxiliary officer appointed under this Act, describes himself or herself or otherwise holds himself or herself out as being an auxiliary officer appointed under this Act.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both.
 
 ## Part 8 — Offences
 
@@ -1696,7 +1696,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 
 ### 161 Infringement offences
 If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 162.
 
 ### 162 Infringement notices
@@ -1704,7 +1704,7 @@ If a person is alleged to have committed an infringement offence, that person ma
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to the person at the person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
+(3) An infringement notice sent to a person by post under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee, which amount is,—
@@ -1750,15 +1750,20 @@ Where any body corporate is convicted of an offence against this Act, every dire
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
 (4) The court may not make an order under subsection (3)(b) unless the court is satisfied that there is a reasonable doubt as to the accuracy or validity of the relevant certificate.
 
-### 167 Time for laying information
-Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act or against any regulations made under this Act may be laid,—
-  (a) if the offence was committed before the date on which this section comes into force, at any time within 1 year after the time when the matter of the information arose; or
-  (b) if the offence was committed on or after the date on which this section comes into force, at any time within 2 years after the time when the matter of the information arose.
+### 167 Time for filing charging document for offence against section 54 or 130
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 54 or 130 of this Act ends on the date that is 2 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 168 Inspector may conduct proceedings
-Notwithstanding section 37 of the Summary Proceedings Act 1957, if—an inspector (not necessarily the inspector who laid the information or filed the notice, as the case may be) may appear and conduct proceedings on the informant's behalf.
-  (a) an information has been laid by an inspector; or
-  (b) proceedings have been commenced by the filing of a notice under section 21 of that Act,—
+(1) Subsection (2) applies if proceedings have been commenced by—
+  (a) the filing of a charging document in the name of an inspector; or
+  (b) the filing of a notice under section 21 of the Summary Proceedings Act 1957.
+(2) Despite section 10 of the Criminal Procedure Act 2011, an inspector (not necessarily the inspector who commenced the proceedings) may appear and conduct the proceedings against the defendant.
+
+### 168A Burden of proof of reasonable excuse
+In proceedings for an offence against any of sections 14, 21, 22, 23, 34, 35, 36, 54, and 130,—
+  (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
+  (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
 ### 169 Court may disqualify person from owning or exercising authority in respect of animals
 (1) A court may (in addition to or in substitution for any other penalty) disqualify a person for any period that it thinks fit from being the owner of, or exercising authority in respect of, an animal or animals of a particular kind or description where the court convicts that person of an offence against—
@@ -1786,7 +1791,7 @@ Notwithstanding section 37 of the Summary Proceedings Act 1957, if—an inspecto
 
 ### 169B Offence of contravening disqualification order
 (1) A person commits an offence who, in contravention of an order made under section 169(1), becomes the owner of, or exercises authority in respect of, an animal or animals of a particular kind or description to which the order relates.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000 or to both:
   (b) in the case of a body corporate, to a fine not exceeding $350,000.
 (3) In subsection (1), order includes an order varied under section 169A.
@@ -2238,39 +2243,3 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 8 Transitional provision in respect of section 169 of principal Act
 Section 169 before amendment by this Act (old section 169) continues in force as if it had not been amended in respect of any person who, on the commencement of this Act, is subject to a disqualification order made under old section 169(1) or under section 16(1) of the Animals Protection Act 1960.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
