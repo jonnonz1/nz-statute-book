@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -677,12 +677,12 @@ Sections 9, 11, and 12, so far as applicable and with the necessary modification
   (a) doing any act in contravention of the protection order; or
   (b) failing to comply with any condition of the protection order.
 (2) It is a defence in a prosecution for an offence under subsection (1) if the defendant proves that he or she had a reasonable excuse for breaching the protection order.
-(3) Every person who is convicted on indictment of an offence against this section is liable to imprisonment for a term not exceeding 2 years.
+(3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 2 years.
 (4) To avoid doubt, a failure to comply with a direction made under section 32(1) or (2) to attend a specified programme is not a breach of a protection order under subsection (1)(b).
 
 ### 49A Offence to fail to comply with direction
 (1) Every person commits an offence who, without reasonable excuse, fails on any occasion to comply with a direction made under section 32(1) or (2) to attend a specified programme.
-(2) Every person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
 
 ### 50 Power to arrest for breach of protection order
 Where a protection order is in force, any constable may arrest, without warrant, any person who the constable has good cause to suspect has—
@@ -1019,7 +1019,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
     (i) by the court:
     (ii) by or on behalf of any party to the proceedings:
     (iii) by any lawyer appointed pursuant to section 81 in respect of the proceedings.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+(4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by the court under this section are payable—
   (a) in accordance with the scale of witnesses’ expenses prescribed by regulations made under this Act; and
   (b) in the first instance, out of public money appropriated by Parliament for the purpose.
@@ -1437,7 +1437,7 @@ On the issue of an order, and for the period that the order is in force,—
   (b) issue the order:
   (c) serve the order.
 (2) If a person who is detained under subsection (1) fails or refuses to remain at the place where he or she is detained, that person—
-  (a) commits an offence and is liable on summary conviction to the penalty specified in subsection (4); and
+  (a) commits an offence and is liable on conviction to the penalty specified in subsection (4); and
   (b) may be arrested without warrant.
 (3) To avoid doubt, subsection (2) applies in respect of a person detained under subsection (1)(a) regardless of whether an order is issued.
 (4) The maximum penalty for an offence against subsection (2)(a) is a fine not exceeding $500.
