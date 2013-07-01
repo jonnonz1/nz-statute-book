@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2006-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Housing Act 1919 and certain other enactments of the Parliament of New Zealand relating to State housing
 
@@ -202,7 +202,7 @@ Subject to the provisions of this Part, the Corporation may issue the following 
 (4) Any certificate, consent, or order to which subsection (3) relates shall, upon presentation for registration, be registered by the Registrar as if it were an easement certificate.
 (5) A registration fee of 1 pound shall be payable on any certificate, consent, or order which may be registered under this section.
 (6) Notwithstanding any rule of law or enactment to the contrary, any easement certificate registered under this section shall be deemed to be binding on any prior or subsequent mortgagee of any of the land or of any interest in any of the land affected by the certificate, and no consent under the Local Government Act 2002 or otherwise shall be necessary to the issue or registration thereof.
-(7) Any person in possession of the certificate of title or other document of title to land affected by any certificate issued under this section shall, upon receiving notice from the Registrar in that behalf, deliver up to him that certificate of title or other document for the entry thereon of an appropriate memorial; and every person who refuses or neglects so to deliver up any such instrument commits an offence against this Act and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+(7) Any person in possession of the certificate of title or other document of title to land affected by any certificate issued under this section shall, upon receiving notice from the Registrar in that behalf, deliver up to him that certificate of title or other document for the entry thereon of an appropriate memorial; and every person who refuses or neglects so to deliver up any such instrument commits an offence against this Act and shall be liable on conviction to a fine not exceeding 50 pounds.
 (8) The Registrar shall not be concerned to inquire as to the truth of any statement contained in any certificate presented for registration under this section, and no action shall lie against the Crown or the Registrar or any other person (other than the Corporation) on behalf of the Crown in respect of any such registration.
 (9) No person shall have any claim against the Crown under Part 11 of the Land Transfer Act 1952 by reason of any omission, mistake, or misfeasance of any person other than the Registrar or his officers or clerks in relation to the registration of a certificate under this section.
 
