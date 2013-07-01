@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -587,7 +587,7 @@ The Tribunal must conduct any review with as little formality and technicality, 
 (4) Every sitting of the Tribunal is held in such place as the Tribunal deems convenient.
 (5) Every sitting of the Tribunal is held in public unless the Tribunal in any particular case, having regard to the interests of the parties and of all other persons concerned, considers that the sitting or any part of it should be held in private.
 (6) The Tribunal may make an order prohibiting the publication of any report or description of a review or of any part of a review.
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, acts in contravention of any order made by the Tribunal under subsection (6).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, acts in contravention of any order made by the Tribunal under subsection (6).
 (8) Any sitting of the Tribunal may be adjourned from time to time and from place to place.
 
 ### 62 Procedure of Tribunal
@@ -623,7 +623,7 @@ The Tribunal must conduct any review with as little formality and technicality, 
 (3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would have been delivered in the ordinary course of post.
 
 ### 66 Witnesses' allowances
-(1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) On each occasion on which the Tribunal issues a summons under section 64, the Tribunal, or the individual exercising the power of the Tribunal under section 64(3), must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, must be paid or tendered to the witness.
 (3) The amount fixed under subsection (2) must be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or individual, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) If a party to the review has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness must be paid by that party.
@@ -638,11 +638,11 @@ The Tribunal must conduct any review with as little formality and technicality, 
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the review; or
   (c) fails to produce any such paper, document, record, or thing.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 66.
 
 ### 69 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any sitting.
