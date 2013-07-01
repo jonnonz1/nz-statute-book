@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the administration of education
 
@@ -212,7 +212,7 @@ The board of a State school may refuse to allow any person to attend classes at 
   (a) agree with the person's parents that the person should be enrolled, or direct them to enrol the person, at a particular State school, special school, special class, or special clinic; or
   (b) agree with the person's parents that the person should have, or direct them to ensure that the person has, education or help from a special service.
 (2) Notwithstanding anything in this Act that relates to enrolment schemes, or in the enrolment scheme of any school, but subject to the rest of Part 2 (which relates to the suspension, expulsion, and exclusion of students), where there has been an agreement or direction under subsection (1), the person concerned shall be allowed to enrol at the State school, special school, special class, or special clinic, concerned or (as the case requires) to have education or help from the special service concerned.
-(3) Subject to section 10(4), where a direction has been given under subsection (1) in respect of a person, a parent who, more than 1 month after it was given, fails or refuses to comply with it commits an offence, and is liable on summary conviction to the penalty prescribed for failing to comply with section 20(1) (which relates to enrolling children at school).
+(3) Subject to section 10(4), where a direction has been given under subsection (1) in respect of a person, a parent who, more than 1 month after it was given, fails or refuses to comply with it commits an offence, and is liable on conviction to the penalty prescribed for failing to comply with section 20(1) (which relates to enrolling children at school).
 (4) No person shall be or continue to be enrolled at a special school, special class, or special clinic, or have or continue to have education or help from a special service, except pursuant to an agreement or direction under subsection (1).
 (5) Notwithstanding anything in section 5 or section 6,—may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school; andpursuant to an agreement or direction under subsection (1).
   (a) a child under 5 may be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school; and
@@ -726,7 +726,7 @@ For so long as a certificate under section 21 or section 22 continues in force�
   (b) no person has to have the exempted person enrolled at any school.
 
 ### 24 Penalty for failure to enrol
-(1) Where the parent of a person required by this Act to be enrolled at a registered school fails or refuses to ensure that the person is enrolled at a registered school, the parent commits an offence, and is liable on summary conviction to a fine not exceeding $3,000.
+(1) Where the parent of a person required by this Act to be enrolled at a registered school fails or refuses to ensure that the person is enrolled at a registered school, the parent commits an offence, and is liable on conviction to a fine not exceeding $3,000.
 (2) The payment of a fine in respect of a conviction for an offence against subsection (1) is not a bar to proceedings for a further such offence.
 
 ### 25 Students required to enrol must attend school
@@ -802,10 +802,10 @@ The principal of a State school—
 (2) Enrolment under subsection (1) shall be—
   (a) for the period of exemption, in the case of a student exempted under section 26(1)﻿(b); and
   (b) until the student turns 16, or for a shorter period specified in the notice, in every other case.
-(3) A parent who fails to comply with a notice under subsection (1) to have a student enrolled at a correspondence school commits an offence, and is liable on summary conviction to a fine not exceeding the maximum fine provided for in section 24(1) (which relates to the failure to enrol at a registered school).
+(3) A parent who fails to comply with a notice under subsection (1) to have a student enrolled at a correspondence school commits an offence, and is liable on conviction to a fine not exceeding the maximum fine provided for in section 24(1) (which relates to the failure to enrol at a registered school).
 
 ### 29 Penalty for irregular attendance
-(1) Every parent of a person who,—commits an offence, and is liable on summary conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
+(1) Every parent of a person who,—commits an offence, and is liable on conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
   (a) while enrolled at a registered school, does not attend as provided in section 25; or
   (b) while enrolled at a correspondence school, does not do the work of the course in which the student is enrolled,—
 (2) Notwithstanding subsection (1), a fine imposed for an offence against that subsection shall not exceed $300 for a first offence against the subsection (or section 120(1) of the Education Act 1964), or $3,000 for a second or subsequent offence.
@@ -821,7 +821,7 @@ The principal of a State school—
     (i) prevents or interferes with the person's attendance at school; or
     (ia) in the case of a person who is a participating student, interferes with the person's ability to undertake his or her secondary-tertiary programme; or
     (ii) in the case of a person enrolled at a correspondence school, interferes with the person's ability to do the work of the course in which the person is enrolled,—
-(2) Every person who—commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who—commits an offence, and is liable on conviction to a fine not exceeding $1,000.
   (a) being a parent of any other person, permits the other person to be employed contrary to subsection (1); or
   (b) employs any other person in contravention of the subsection,—
 
@@ -835,8 +835,8 @@ The principal of a State school—
 (5) If not satisfied by the person's answers that the person has a good reason for not being at school, the attendance officer or constable—
   (a) may take the person to the person's home, or to the school at which the officer thinks the person is enrolled.
   (b)
-(6) A person who, after an attendance officer has produced evidence of appointment, obstructs or interferes with the officer in the exercise of powers under this section, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
-(7) Any attendance officer, a sponsor, a principal, the Secretary, or any person appointed by a board, a sponsor, or the Secretary for the purpose may lay informations, conduct prosecutions, and take any other proceedings, under this Part.
+(6) A person who, after an attendance officer has produced evidence of appointment, obstructs or interferes with the officer in the exercise of powers under this section, commits an offence, and is liable on conviction to a fine not exceeding $1,000.
+(7) Any attendance officer, a sponsor, a principal, the Secretary, or any person appointed by a board, a sponsor, or the Secretary for the purpose may file charging documents, conduct prosecutions, and take any other proceedings, under this Part.
 (8) A certificate sealed by a board showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate; and the authenticity of, and validity of the affixing of, a board's seal shall not in any proceedings under this Part be inquired into or disputed.
 (8A) A certificate signed on behalf of a sponsor showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate; and the authenticity or authority of any signature on behalf of a sponsor may not in any proceedings under this Part of this Act be inquired into or disputed.
 (9) This section applies to a participating student only in relation to any portion of his or her secondary-tertiary programme during which he or she is required to attend school, as notified by the provider group or lead provider under section 31J.
@@ -1142,7 +1142,7 @@ As soon as practicable after the end of each financial year during which a schoo
 (1) A manager of a private school that is not registered under section 35A commits an offence if it operates as a school.
 (2) A manager of a private school that is registered under section 35A as a school of a particular description or descriptions commits an offence if the school operates as a school of another description or of other descriptions.
 (3) The managers of a private school that is registered under section 35A commit an offence if the school ceases to operate before the managers tell the Secretary that it will cease to operate.
-(4) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
+(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
 
 ## Part 4 — Specialist Education Services Board
 
@@ -2890,7 +2890,7 @@ The management of any registered early childhood centre that is not an early chi
 (4) The Teachers Council may recover from a teacher as a debt due to it costs required under subsection (3) to be paid to the Teachers Council by the teacher.
 
 ### 137 Offences
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
   (a) makes to the Teachers Council any statement as to any person's qualifications or experience that would amount to perjury if made on oath in judicial proceedings; or
   (b) not being a registered teacher uses, or permits to be used, in connection with the person's name or business, the words registered teacher, or any words or initials intended or likely to make any other person believe that the person is a registered teacher; or
   (c) wilfully makes, or causes to be made, a false entry in or falsification of the register or a practising certificate; or
@@ -2909,7 +2909,7 @@ The management of any registered early childhood centre that is not an early chi
     (i) the period or periods for which that person has already during that year been employed by the employer as a teacher; and
     (ii) any period or periods for which that person has already during that year been employed by an employer at any other early childhood education and care service as a teacher; and
     (iii) any period or periods for which that person has during that year been employed in a teaching position by the employer at a State school,—
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 120A or section 120B.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 120A or section 120B.
 
 ### 138 Council to notify cancellations
 [Repealed]
@@ -3108,7 +3108,7 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (c) include a description of the action that the employer has taken in relation to it.
 
 ### 139AO Offence to fail to report
-(1) An employer or former employer commits an offence and is liable on summary conviction to a fine not exceeding $5,000 if it fails without reasonable justification to report to the Teachers Council as required under any of sections 139AK, 139AL, 139AM, or 139N.
+(1) An employer or former employer commits an offence and is liable on conviction to a fine not exceeding $5,000 if it fails without reasonable justification to report to the Teachers Council as required under any of sections 139AK, 139AL, 139AM, or 139N.
 (2) It is a defence to a charge under subsection (1) against the former employer of a teacher if the former employer proves that it believed on reasonable grounds that, by virtue of section 139AL(3), it was not required to report to the Teachers Council.
 
 ### 139AP Mandatory reporting of convictions
@@ -3233,14 +3233,14 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (a) attend and give evidence at a hearing of the Disciplinary Tribunal:
   (b) produce any documents, records, or other information in his or her custody or control that relate to the subject matter of the hearing, whether specified by the Disciplinary Tribunal or not.
 (2) A requirement under subsection (1) must be in writing signed by the chairperson of the Disciplinary Tribunal.
-(3) A person required to attend a hearing is entitled to be paid, by the party calling the person (or, if called on the volition of the Disciplinary Tribunal itself, by the Teachers Council), witnesses' fees, allowances, and travelling expenses, according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(3) A person required to attend a hearing is entitled to be paid, by the party calling the person (or, if called on the volition of the Disciplinary Tribunal itself, by the Teachers Council), witnesses' fees, allowances, and travelling expenses, according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 
 ### 139AZ Offences
-(1) A person commits an offence, and is liable on summary conviction to a fine not exceeding $500 who, without lawful justification, fails or refuses—
+(1) A person commits an offence, and is liable on conviction to a fine not exceeding $500 who, without lawful justification, fails or refuses—
   (a) to attend and give evidence when required by the Disciplinary Tribunal; or
   (b) to answer truly and fully any question put to him or her by a member of the Disciplinary Tribunal; or
   (c) to produce any document, record, or other information as required by the Disciplinary Tribunal.
-(2) A person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, if, without lawful excuse, he or she breaches an order made by the Disciplinary Tribunal under rules made under section 139AJ that—
+(2) A person commits an offence, and is liable on conviction to a fine not exceeding $1,000, if, without lawful excuse, he or she breaches an order made by the Disciplinary Tribunal under rules made under section 139AJ that—
   (a) provide for a hearing to be held in private; or
   (b) provide for evidence at a hearing to be given in private; or
   (c) impose restrictions on the publication of any information relating to a particular hearing.
@@ -3327,7 +3327,7 @@ Following an investigation of a complaint under section 139AZC, or following rec
 (2) For the purposes of this section, the terms building, sitework, and territorial authority, have the meanings ascribed to them by the Building Act 2004.
 
 ### 139C Offence of insulting, abusing, or intimidating staff
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of a school—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of a school—
   (a) within the presence or hearing of any student of the school; and
   (b) while on school premises, or in any other place where students of the school are assembled for school purposes.
 (2) However, no student of the school may be charged with an offence under subsection (1).
@@ -3398,7 +3398,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) adopting minimum standards that apply to hostel premises and facilities, whether the regulations set out the standards themselves or adopt standards contained in other documents:
   (b) adopting codes of practice relating to the management of hostels, whether the regulations set out the codes themselves or adopt codes contained in other documents:
-  (c) prescribing offences for failing to comply with minimum standards or codes of practice adopted by regulations, and providing for a penalty on summary conviction for any such offence to be a fine not exceeding $10,000:
+  (c) prescribing offences for failing to comply with minimum standards or codes of practice adopted by regulations, and providing for a penalty on conviction for any such offence to be a fine not exceeding $10,000:
   (d) providing for exemptions from the application of minimum standards or codes of practice:
   (e) prescribing a system of licensing for hostels, which may include provisions—
     (i) providing for different sorts of licences:
@@ -3407,7 +3407,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
     (iv) setting out the conditions or type of conditions that may attach to a licence:
     (v) prohibiting students from boarding at an unlicensed hostel:
     (vi) prohibiting the payment of a boarding bursary, or any government subsidy relating to the cost of boarding at a hostel, in respect of a student boarding at an unlicensed hostel:
-    (vii) prescribing offences for failure to comply with all or any licence conditions, and providing for a penalty on summary conviction for any such offence to be a fine not exceeding $10,000:
+    (vii) prescribing offences for failure to comply with all or any licence conditions, and providing for a penalty on conviction for any such offence to be a fine not exceeding $10,000:
     (viii) providing for the suspension or cancellation of any licence:
     (ix) establishing a licensing body:
     (x) prescribing fees payable on application for, or renewal of, a licence, and for the return or refund of any fees in specified circumstances:
@@ -3422,7 +3422,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   (c) require any person at a hostel to make or provide statements, in whatever form or manner is reasonable in the circumstances, about any matter relating to the safety of students who board at the hostel.
 (2) An authorised person may exercise the powers in subsection (1) only for the purpose of monitoring compliance with minimum standards, codes of practice, licences, or licence conditions.
 (3) The person in charge (or apparent charge) of the hostel must, if an authorised person requests it, co-operate in allowing the authorised person access to the premises, facilities, and information relating to the management of the hostel, including assisting the authorised person to copy (in usable form) any information required for the inspection.
-(4) The person in charge (or apparent charge) of a hostel commits an offence and is liable upon summary conviction to a fine not exceeding $5,000 if he or she fails, without reasonable excuse, to comply with subsection (3).
+(4) The person in charge (or apparent charge) of a hostel commits an offence and is liable upon conviction to a fine not exceeding $5,000 if he or she fails, without reasonable excuse, to comply with subsection (3).
 (5) An authorised person may not enter or inspect the room or sleeping area of a student accommodated at the hostel unless—
   (a) the authorised person believes on reasonable grounds that entry or inspection is necessary for a purpose specified in subsection (2); and
   (b) prior notice of the inspection is given to the student, and the purpose of the inspection is explained; and
@@ -5832,7 +5832,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 (9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 226B Offences concerning information requests
-(1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (2).
+(1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on conviction to the penalty specified in subsection (2).
 (1A) An institution commits an offence and is liable on summary conviction to a penalty specified in subsection (2) if, in response to any requirement to supply information under section 226A, the institution intentionally—
   (a) makes a false or misleading statement; or
   (b) makes a statement from which any material matter has been omitted; or
@@ -7682,19 +7682,19 @@ The provisions of section 226A apply to any secondary school as if such a school
 (3) Payments must not be made under a statutory allowance while it is suspended under subsection (1).
 
 ### 307AA Offences concerning allowances and student loans
-(1) A person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $2,000, who, in response to a requirement under subsection (3) or a question asked under subsection (5) of section 307, knowingly—
+(1) A person commits an offence against this Act, and is liable on conviction to a fine not exceeding $2,000, who, in response to a requirement under subsection (3) or a question asked under subsection (5) of section 307, knowingly—
   (a) makes a false or misleading statement; or
   (b) makes a statement from which any material matter has been omitted; or
   (c) provides any false or misleading paper, document, or record; or
   (d) provides a paper, document, or record from which any material matter has been omitted.
-(2) A recipient or non-recipient commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who refuses to comply with section 307(5).
-(2A) A recipient commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she, for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which he or she is entitled,—
+(2) A recipient or non-recipient commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who refuses to comply with section 307(5).
+(2A) A recipient commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she, for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which he or she is entitled,—
   (a) knowingly makes a false or misleading statement in an application for a statutory allowance or student loan; or
   (b) knowingly makes a false or misleading statement in a notification of a change in the recipient's circumstances that materially affects his or her entitlement at any time—
     (i) to a statutory allowance or student loan; or
     (ii) to be paid a statutory allowance at a particular rate or a particular amount of a student loan; or
   (c) wilfully fails to comply with section 307(6).
-(3) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this section may be laid at any time within 12 months after the offence was brought to the Ministry's attention.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 12 months after the date on which the offence was brought to the Ministry's attention.
 
 ### 307AB Allowances identified by Gazette notice
 (1) The Minister may, by notice in the Gazette, identify either or both of the following as an allowance to which this section applies:
@@ -7895,7 +7895,7 @@ The service provider for every licensed early childhood service must keep, and m
   (a) the service provider operates the early childhood education and care centre without holding a current licence under regulations made under section 317 authorising the operation of the centre; or
   (b) the service provider ceases to operate an early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances other than an emergency, without first telling the Secretary that it will stop operating the centre; or
   (c) the service provider ceases to operate the early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances involving an emergency, and fails to tell the Secretary as soon as is reasonably practicable after the closure.
-(3) An offence against subsection (2) is punishable on summary conviction,—
+(3) An offence against subsection (2) is punishable on conviction,—
   (a) in the case of an offence under subsection (2)﻿(a), by a fine not exceeding $200 for every day or part of a day on which the offence took place; or
   (b) in the case of an offence under subsection (2)﻿(b) or (c), by a fine not exceeding $200.
 (4) This section is subject to section 319O.
@@ -7930,7 +7930,7 @@ A service provider for a home-based education and care service or a hospital-bas
     (i) the control and management of each licensed early childhood education and care centre, licensed home-based education and care service, or licensed hospital-based education and care service, or any of them:
     (ii) the education and care of children attending a licensed early childhood education and care centre, licensed home-based education and care service, or licensed hospital-based education and care service, or any of them:
   (i) provide for transitional matters not dealt with in this Act:
-  (j) prescribe offences punishable on summary conviction by a fine not exceeding $500 in respect of the contravention of, or non-compliance with, the regulations.
+  (j) prescribe offences punishable on conviction by a fine not exceeding $500 in respect of the contravention of, or non-compliance with, the regulations.
 (3) Regulations made under subsection (1) may (without limitation) prescribe different standards and other requirements—
   (a) for early childhood services of different types or descriptions; and
   (b) in respect of different kinds of licences.
@@ -8062,12 +8062,12 @@ The service provider of a licensed home-based education and care service that ap
 **Miscellaneous**
 
 ### 319G Offence of insulting, abusing, or intimidating staff
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of an early childhood education and care centre—
+Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of an early childhood education and care centre—
   (a) within the presence or hearing of any child at the centre; and
   (b) while on centre premises or in any other place where children are assembled for purposes associated with the centre.
 
 ### 319H Offence of obstructing power of entry
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by section 319A, 319B, or 319C.
+Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by section 319A, 319B, or 319C.
 
 ### 319I Payment of fees for attendance of children at kindergartens
 (1) Fees may be charged in respect of the attendance of any child at any kindergarten (whether or not it is, or is known or described as, a free kindergarten).
@@ -8399,7 +8399,7 @@ In this Part,—
 Despite anything in this Part, a person may use or disclose his or her own national student number for any purpose.
 
 ### 346 Offences
-(1) An authorised user commits an offence, and is liable on summary conviction to a fine not exceeding $15,000, who uses or discloses a person's national student number otherwise than in accordance with the authorisations under section 344 that apply to that user.
+(1) An authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, who uses or discloses a person's national student number otherwise than in accordance with the authorisations under section 344 that apply to that user.
 (2) A person (person A) who is not an authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse, keeps a record of, or requires the disclosure of, the national student number of another person (person B) if the number is, or is capable by person A of being, linked to any information that may lead person A to the identification of person B.
 
 ### 347 Regulations
@@ -8845,7 +8845,7 @@ Having regard to the provision of continuing education, the Minister may establi
 ### 162 Teachers to take oath of allegiance
 (1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, teachers college, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
 (2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
-(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding 50 pounds.
+(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding $100.
 
 ## Part 8 — General provisions
 
