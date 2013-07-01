@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -760,7 +760,7 @@ Where any investigation is made following a complaint, the Commissioner shall co
   (a) to identify the matters in issue between the parties; and
   (b) to try to obtain agreement between the parties on the resolution of those matters.
 (3) Where a person fails to comply with a request under subsection (1) to attend a conference, the Commissioner may issue a summons requiring the person to attend a conference at a time and place to be specified in the summons.
-(4) Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply to a summons under this section as if it were a witness summons issued under that section.
+(4) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
 ### 77 Procedure after investigation
 (1) Where the Commissioner, after making any investigation under this Part, is of the opinion,—
@@ -881,7 +881,7 @@ Sections 92Q to 92W and Part 4 of the Human Rights Act 1993 shall apply, with su
 (3) Every examination by the Commissioner under subsection (1) shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 (4) The Commissioner may from time to time, by notice in writing, require any person who in the Commissioner's opinion is able to give information relevant to an investigation being conducted by the Commissioner under Part 8, or an inquiry being carried out by the Commissioner under section 13(1)(m), to furnish such information, and to produce such documents or things in the possession or under the control of that person, as in the opinion of the Commissioner are relevant to the subject matter of the investigation or inquiry.
 (5) Where the attendance of any person is required by the Commissioner under this section, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
-  (a) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
   (b) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
 ### 92 Compliance with requirements of Commissioner
@@ -1386,7 +1386,7 @@ Where a specified agency derives or receives information produced by an authoris
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
 
 ### 104 Reporting requirements
@@ -1525,7 +1525,7 @@ In this Part, unless the context otherwise requires,—
 (4) If the Commissioner exercises his or her discretion under subsection (1), the variation or cancellation of the transfer prohibition notice takes effect on the day after the date on which notice of the Commissioner’s decision to vary or cancel the transfer prohibition notice is served.
 
 ### 114F Offence in relation to transfer prohibition notice
-Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 114G Appeals against transfer prohibition notice
 (1) An agency on whom a transfer prohibition notice is served may appeal to the Human Rights Review Tribunal—
@@ -1638,7 +1638,7 @@ The Commissioner shall not, in any report or statement made pursuant to this Act
 (4) In proceedings under this Act against any person in respect of an act alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she or it took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing as an employee of that person acts of that description.
 
 ### 127 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who,—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who,—
   (a) without reasonable excuse, obstructs, hinders, or resists the Commissioner or any other person in the exercise of their powers under this Act:
   (b) without reasonable excuse, refuses or fails to comply with any lawful requirement of the Commissioner or any other person under this Act:
   (c) makes any statement or gives any information to the Commissioner or any other person exercising powers under this Act, knowing that the statement or information is false or misleading:
@@ -1880,10 +1880,10 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Ministry of Justice records |  |  |
 | --- | --- | --- |
 | Subject | Description | Access available to |
-| Court document processing | Particulars of proceedings in respect of which informations are to be laid; the acceptance of data for and the preparations of associated documents | PoliceSerious Fraud OfficeDepartment of CorrectionsLegal Services Commissioner, limited only to finding out whether or not an applicant for criminal legal aid has any charges currently pending determination by the courts |
-| Details of hearings | Details of hearings of proceedings in respect of which an information has been laid, including convictions, sentences, and all other matters ancillary and subsequent to a determination | Police (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)New Zealand Transport Agency (access is limited to traffic cases only)Serious Fraud Office (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)Department of CorrectionsLegal Services Commissioner, for the purpose of determining an application for a grant of legal aid (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment) |
-| Enforcement of fines and other orders | Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment | PoliceDepartment of CorrectionsLegal Services Commissioner, for the purpose of determining an application for a grant of legal aid in relation to a criminal matter |
-| Non-performance of bail conditions | Records relating to failure to comply with bail conditions entered under section 38(3) or section 63(3) of the Bail Act 2000 | Police |
+| Court document processing | Particulars of proceedings in respect of which informations are to be laid or charging documents filed; the acceptance of data for and the preparations of associated documents | PoliceSerious Fraud OfficeDepartment of CorrectionsLegal Services Commissioner, limited only to finding out whether or not an applicant for criminal legal aid has any charges currently pending determination by the courts |
+| Details of hearings | Details of hearings of proceedings in respect of which an information has been laid or charging documents filed, including convictions, sentences, and all other matters ancillary and subsequent to a determination | Police (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)New Zealand Transport Agency (access is limited to traffic cases only)Serious Fraud Office (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)Department of CorrectionsLegal Services Commissioner, for the purpose of determining an application for a grant of legal aid (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment) |
+| Enforcement of fines and other orders | Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information or filing a charging document; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment | PoliceDepartment of CorrectionsLegal Services Commissioner, for the purpose of determining an application for a grant of legal aid in relation to a criminal matter |
+| Non-performance of bail conditions | Records relating to failure to comply with bail conditions entered under section 39(3) of the Bail Act 2000 | Police |
 
 | Police records |  |  |
 | --- | --- | --- |
