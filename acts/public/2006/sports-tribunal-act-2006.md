@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -289,7 +289,7 @@ The functions of the Tribunal are to—
 (3) If the summons is posted by registered post, it is deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 43 Witnesses’ allowances
-(1) Every witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) On each occasion on which the Tribunal issues a summons under section 41, the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, must be paid or tendered to the witness.
 (3) The amount fixed under subsection (2) must be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) If a party to the proceedings has requested the issue of the witness summons, then the fees, allowances, and travelling expenses payable to the witness must be paid by that party.
@@ -306,11 +306,11 @@ The functions of the Tribunal are to—
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
   (c) fails to produce that paper, document, record, or thing.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless travelling expenses were tendered or paid to that person in accordance with section 43.
 
 ### 46 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) threatens, intimidates, or intentionally insults the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
