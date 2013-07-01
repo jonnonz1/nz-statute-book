@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -835,7 +835,7 @@ The Minister may from time to time recognise for the purposes of this section an
 ## Part 7 — Offences punishable by civil courts
 
 ### 82 Procuring and assisting desertion
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere,—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere,—
   (a) intentionally or recklessly procures or persuades any member of the Armed Forces to desert or absent himself or herself without leave; or
   (b) knowing that any member of the Armed Forces is about to desert or to absent himself or herself without leave, assists that member in doing so; or
   (c) knowing any member of the Armed Forces to be a deserter or an absentee without leave from the Armed Forces,—
@@ -844,34 +844,34 @@ Every person commits an offence and is liable on summary conviction to imprisonm
     (iii) rescues that member from custody or assists in his or her rescue from custody.
 
 ### 83 Obstructing members of Armed Forces in execution of duty
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand or elsewhere, intentionally or recklessly obstructs or interferes with any member of the Armed Forces acting in the execution of his or her duty.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand or elsewhere, intentionally or recklessly obstructs or interferes with any member of the Armed Forces acting in the execution of his or her duty.
 
 ### 84 Obstructing parades
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand, intentionally or recklessly interrupts or obstructs any military exercise of any part of the Armed Forces.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand, intentionally or recklessly interrupts or obstructs any military exercise of any part of the Armed Forces.
 
 ### 85 Aiding malingering
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand, or elsewhere,—with intent to enable that member, either permanently or temporarily, to avoid service in the Armed Forces.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand, or elsewhere,—with intent to enable that member, either permanently or temporarily, to avoid service in the Armed Forces.
   (a) produces in a member of the Armed Forces any sickness or disability; or
   (b) Supplies to or for any member of the Armed Forces any drug or preparation likely to render that member, or lead to the belief that that member is, permanently or temporarily unfit for service—
 
 ### 86 False statements regarding pay or allowances, etc
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere, makes any statement knowing it to be false, or knowingly withholds any required information, for the purpose—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere, makes any statement knowing it to be false, or knowingly withholds any required information, for the purpose—
   (a) of obtaining payment of any amount by way of pay, allowance, or gratuity under this Act, whether as a dependant of a member of the Armed Forces or otherwise; or
   (b) of obtaining any decoration, emblem, or award issued for gallantry or service in the Armed Forces.
 (2) If, as a consequence of the commission of an offence against this section, any amount is paid to a dependant of a member of the Armed Forces, or to any other person for the time being entitled to receive it, in excess of the amount to which the dependant or other person is entitled, the amount paid in excess, or any part of the amount, may be recovered from the dependant or other person out of money payable to the dependant or other person by the Crown but not yet paid, or out of money to become payable to the dependant or other person by the Crown, or may be recovered as a debt due to the Crown.
 
 ### 87 Failure to account for issued property
 (1) Every person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person’s permanent retention shall, on being required to do so by a notice in writing purporting to be signed by a member of the Defence Force and delivered to that person personally or posted by registered letter to his or her place of residence, return the property to such person and within such reasonable time as may be specified in the notice.
-(2) If any person to whom any such notice has been delivered fails, without lawful excuse, to return any such property as required by the notice, that person commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
-(3) If any person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person’s permanent retention recklessly or negligently loses the property, that person commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(2) If any person to whom any such notice has been delivered fails, without lawful excuse, to return any such property as required by the notice, that person commits an offence and is liable on conviction to a fine not exceeding $1,000.
+(3) If any person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person’s permanent retention recklessly or negligently loses the property, that person commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 88 Giving false certificate, etc
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand,—that the person knows to be false concerning any matter in respect of which the person is required by or under this Act to render any such certificate, return, or statement.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand,—that the person knows to be false concerning any matter in respect of which the person is required by or under this Act to render any such certificate, return, or statement.
   (a) gives any certificate; or
   (b) makes any return or statement in writing—
 
 ### 89 Bringing liquor into defence areas, etc
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, in New Zealand,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, in New Zealand,—
   (a) intentionally and without authority brings or conveys any alcoholic liquor into any naval ship or defence area, or any other place where members of the Armed Forces are quartered or serving, otherwise than for delivery into any canteen or mess or to any premises occupied as married quarters, with the knowledge that the ship is a naval ship, the area is a defence area, or the place is one where members of the Armed Forces are quartered or serving, as the case may be; or
   (b) is knowingly and without authority in possession of any alcoholic liquor in any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving; or
   (c) being in possession of alcoholic liquor, approaches or loiters in the vicinity of any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving, with intent to bring liquor into the ship or area otherwise than for delivery to a mess or canteen or to premises occupied as married quarters.
@@ -925,7 +925,7 @@ As soon as practicable after the end of each financial year, the Chief of Defenc
   (e) authorising any such officer or member of the Defence Force to remove any person who, without lawful excuse, refuses or fails to comply with any direction to leave the area, ship, or aircraft:
   (f) providing for constables to exercise any of the powers conferred by any of the preceding provisions of this subsection:
   (g) requiring any member of the Defence Force duly authorised under paragraph (a) to produce such warrant or other evidence of his or her authority as may be prescribed in the regulations when exercising any power under the regulations:
-  (h) prescribing offences for breaches in New Zealand of any such regulations, and prescribing, on summary conviction for any offence, a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000.
+  (h) prescribing offences for breaches in New Zealand of any such regulations, and prescribing, on conviction for any offence, a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000.
 
 ### 94 Recovery of excess payments
 If any amount in respect of pay, allowances, or other emoluments is paid to a member or discharged member of the Armed Forces, or to the dependant of any member, deceased member, or discharged member of the Armed Forces, or to any other person for the time being entitled to receive any pay, allowance, or other emolument on behalf of any such member, discharged member, or any dependant, in excess of the amount to which the member, discharged member, dependant, or other person is entitled under this Act, the amount so paid in excess or any part of it may be recovered from the member, discharged member, dependant, or other person.
@@ -979,7 +979,7 @@ All Proclamations, Orders in Council, and warrants relating to the Defence Force
   (g) providing for such matters as are specified in section 46 or section 93:
   (ga) authorising the officer in charge of any defence area to regulate traffic of all classes, whether vehicular, pedestrian, animal, or otherwise, and prohibit traffic or any class of traffic, either absolutely or conditionally, on any specified road or any specified class of road in the area:
   (gb) authorising the officer in charge of any defence area to regulate the use of vehicles and specify the conditions upon or subject to which they may be used in the area:
-  (gc) prescribing offences for the contravention of or non-compliance with any regulations made under paragraph (ga) or paragraph (gb), and providing that the maximum penalty that, on summary conviction, may be imposed for those offences is a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000:
+  (gc) prescribing offences for the contravention of or non-compliance with any regulations made under paragraph (ga) or paragraph (gb), and providing that the maximum penalty that, on conviction, may be imposed for those offences is a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000:
   (h) providing that any specified regulations of the Civil Aviation Regulations 1953, being—shall, with any necessary modifications, apply in respect of any military aerodrome and aircraft using such aerodromes:
     (i) regulations that relate to obstructions to air navigation and lights; or
     (ii) general regulations relating to the administration of enforcement of regulations that so relate,—
