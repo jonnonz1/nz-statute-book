@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -202,7 +202,7 @@ Where pursuant to this Act any increase in remuneration is granted by an employe
   (d) refuses or fails to comply with any requirement of an Inspector under subsection (2) of section 16; or
   (e) subject to subsection (3) of section 16, refuses or fails to answer, to the best of his knowledge and belief, any question asked by an Inspector pursuant to paragraph (c) of subsection (2) of section 16; or
   (f) knowingly gives any false or misleading answer to any question asked pursuant to the said paragraph (c).
-(2) Every person who commits an offence against this Act is liable on summary conviction—
+(2) Every person who commits an offence against this Act is liable on conviction—
   (a) in the case of an offence committed by any person (not being a body corporate), to a fine not exceeding $400:
   (b) in the case of an offence committed by a body corporate, to a fine not exceeding $1,000.
 
