@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 1997-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -238,7 +238,7 @@ The operating expenses of the Committee shall be met, in accordance with such te
 **Offences**
 
 ### 35 Offences
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) fraudulently avoids or attempts to avoid paying any levy payable by that person under section 4; or
   (b) refuses or fails, without reasonable excuse, to collect any levy required to be collected by that person under section 12; or
   (c) subject to section 19, being a person who is required by section 12 to collect any levy, refuses or fails, without reasonable excuse, to pay the amount of any levy collected by that person into the appropriate Research Trust Account in accordance with section 17; or
@@ -249,7 +249,7 @@ The operating expenses of the Committee shall be met, in accordance with such te
   (e) makes any statement knowing that it is both incorrect and material in any information or particulars furnished (whether in writing or not) under section 22; or
   (f) knowingly makes any material omission from any information or particulars so furnished; or
   (g) refuses or fails, without reasonable excuse, to comply with any requirement made under paragraph (a) or paragraph (b) of section 22(1).
-(2) Every person commits an offence and is liable on summary conviction—who acts in contravention of section 14(2) or section 24(1) or of subclause (1) or subclause (2) of clause 17 of the Schedule.
+(2) Every person commits an offence and is liable on conviction—who acts in contravention of section 14(2) or section 24(1) or of subclause (1) or subclause (2) of clause 17 of the Schedule.
   (a) in the case of an individual, to a fine not exceeding $1,000; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000—
 (3) Any offence against this section committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by the employee's or agent's employer or principal if it is proved that the act or omission constituting the offence occurred with that employer's or principal's authority, permission, or consent.
