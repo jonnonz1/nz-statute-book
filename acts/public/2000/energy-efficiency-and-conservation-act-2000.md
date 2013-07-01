@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -14,7 +14,7 @@ In this Act, unless the context otherwise requires,—
   - **energy efficiency** means a change to energy use that results in an increase in net benefits per unit of energy
   - **environment** has the meaning given to it by the Resource Management Act 1991
   - **Minister** means the Minister who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **publicly notify** means publishing a notice— and has a corresponding meaning
+  - **publicly notify** means publishing a notice—and has a corresponding meaning
     (a) in 1 or more daily newspapers circulating in the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
     (b) in the Gazette; and
     (c) on the Internet in an electronic form that is publicly accessible;—
@@ -103,7 +103,7 @@ A strategy must be consistent with any national policy statement for the time be
 (1) After considering any comments received under section 13 and preparing a draft strategy or after approving a draft strategy under section 14, as the case may require, the Minister must ensure that the draft strategy—
   (a) is publicly notified; and
   (b) is available for inspection by any person at such places as the Minister considers appropriate.
-(2) A notice published under subsection (1)(a) must—
+(2) A notice published under subsection (1)﻿(a) must—
   (a) give reasonable notice of the contents of the draft strategy; and
   (b) specify the places at which, and the times at which, the draft strategy may be inspected; and
   (c) state that submissions on the draft strategy may be made to the Authority; and
@@ -163,7 +163,7 @@ A strategy must be consistent with any national policy statement for the time be
 (2) The Authority may—
   (a)
   (b) make grants, awards, or loans of money; and
-  (c) enter into agreements for the administration of grants; and
+  (c) enter into agreements for the administration of grants.
   (d)
 (3) This section does not limit sections 16 and 17 of the Crown Entities Act 2004.
 
@@ -252,7 +252,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
 (4) The Minister must, by notice in the Gazette, specify the date on which an amendment to material incorporated by reference takes effect.
 
 ### 38 Confidentiality of information
-(1) This section applies to information supplied to the Authority in accordance with regulations made under section 36(1)(f).
+(1) This section applies to information supplied to the Authority in accordance with regulations made under section 36(1)﻿(f).
 (2) The information may be used only for statistical purposes.
 (3) Subject to subsection (5), no person, other than an employee of the Authority, may be permitted to see information that relates to a particular person, except for the purposes of a prosecution or proposed prosecution against regulations made under section 36.
 (4) Except for the purposes of a prosecution or proposed prosecution against regulations made under section 36, information that is not particular to any one person—
@@ -266,7 +266,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
 (6) Nothing in the Official Information Act 1982 or the Privacy Act 1993 requires the Authority to disclose information to which this section applies.
 
 ### 39 Offence
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, without lawful excuse, publishes or discloses, otherwise than in accordance with section 38, any information to which that section applies.
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without lawful excuse, publishes or discloses, otherwise than in accordance with section 38, any information to which that section applies.
 
 **Related amendments to other Acts**
 
