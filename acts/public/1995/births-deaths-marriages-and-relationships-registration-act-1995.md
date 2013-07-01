@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -164,7 +164,7 @@ A guardian of a child other than a parent, or a person authorised by the Registr
 
 ### 12 Registration of births
 (1) Unless authorised by the Registrar-General to register births, a Registrar who is notified of a birth in New Zealand shall, to the extent that the information given is information required by the standard form (and subject to section 12A), send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
-(2) Subject to sections 12A 14 to 16 and 82,—
+(2) Subject to sections 12A, 14 to 16 and 82,—
   (a) a Registrar (being a Registrar authorised by the Registrar-General to register births) who—shall, to the extent that the information given is information required by the standard form, register it; and
     (i) is notified of a birth in New Zealand; or
     (ii) has been sent birth information under subsection (1)—
@@ -1279,9 +1279,9 @@ Nothing in this Act limits access to information that is recorded under this Act
     (iii) negligently does any act referred to in paragraph (c):
   (g) makes a written or oral statement, knowing that it is false or being reckless as to whether it is false, for the purpose of obtaining a source document, or a copy of a source document, or information recorded under this Act:
   (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
-(2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
-(2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on summary conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
-(3) A person who commits any other offence against this Act is liable, on summary conviction, to a fine not exceeding—
+(2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) shall be liable on conviction to imprisonment for a term not exceeding 5 years.
+(2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
+(3) A person who commits any other offence against this Act is liable, on conviction, to a fine not exceeding—
   (a) $50,000 for a contravention of or failure to comply with section 78F(7) or 78I:
   (b) $10,000 for a contravention of or failure to comply with section 42:
   (c) $1,000 for—
@@ -1361,14 +1361,3 @@ The enactments specified in Schedule 2 are hereby repealed.
 ## Schedule 1 — Consequential amendments
 
 ## Schedule 2 — Enactments repealed
-
-### 1 Title
-This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force 6 months after the date on which it receives the Royal assent.
-
-## Part 1 — Amendments to principal Act
-
-### 43 Transitional provision relating to applications under principal Act
-Applications under the Births, Deaths, and Marriages Registration Act 1995 made before the commencement of this Act are to be continued and completed in accordance with the Births, Deaths, and Marriages Registration Act 1995 as if this Act had not been enacted.
