@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -565,11 +565,11 @@ The Director-General may revoke a cessation order or a closing order if satisfie
 **Offences**
 
 ### 54 Offences
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $50,000, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $50,000, who—
   (a) provides health care services otherwise than in compliance with section 9; or
   (b) provides health care services of any kind, or controls the provision of health care services of any kind, while a cessation order relating to the provision of health care services of that kind by that person or under that person's control is in effect; or
   (c) provides health care services in any premises, or controls the provision of health care services in any premises, while a closing order relating to the premises is in effect.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who—
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who—
   (a) intentionally obstructs, hinders, or resists an authorised person exercising or attempting to exercise powers under any of sections 41 to 43; or
   (b) intentionally fails to answer a question (other than a question whose answer may tend to incriminate the person) asked by an authorised person under section 43; or
   (c) when asked a question by an authorised person under section 43, gives an answer the person knows to be false or misleading.
