@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1104,7 +1104,7 @@ An application under section 109 or section 109A or section 109B may be made by 
 (4) If, on the hearing of a summons issued pursuant to section 115 in respect of a publication, the court is satisfied that the publication is an unrestricted publication or a restricted publication, it shall forthwith direct it to be returned to the person from whom it was seized (in the case of a publication seized under section 108) or to the owner or occupier of the place or thing searched (in the case of a publication seized under a search warrant).
 
 ### 117 Appeal against order for destruction
-(1) Any person aggrieved by an order made under section 116(1) for the destruction of any publication may (whatever the amount involved) appeal from that order in the manner provided by the Summary Proceedings Act 1957, and until such appeal is determined or abandoned the order shall be suspended and shall not be carried into effect.
+(1) Any person aggrieved by an order made under section 116(1) for the destruction of any publication may (whatever the amount involved) appeal from that order in the manner provided by the Criminal Procedure Act 2011, and until such appeal is determined or abandoned the order shall be suspended and shall not be carried into effect.
 (2) Nothing in subsection (1) confers on any person any right to appeal to the High Court, other than under section 58, against any decision of the Classification Office or the Board in respect of any publication.
 
 ### 118 Disposal of things seized
@@ -1137,13 +1137,13 @@ No action shall lie against any person for any act done in good faith in pursuan
     (ii) fails to advertise, in the prescribed form and manner, the contents of any such label.
 (3) Every person commits an offence against this Act who supplies to the public or offers for supply to the public any film at a time when that film, or the cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, has displayed on it, otherwise than in accordance with regulations made under this Act, the label issued under this Act in respect of that film.
 (4) Nothing in this section shall apply in relation to the public supply or public exhibition of a film that is exempted by section 7 or section 8 from the requirements of section 6.
-(5) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable to a fine not exceeding,—
+(5) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
   (b) in the case of a body corporate, $10,000.
 
 ### 121 Unlawful issue of labels
 (1) Every person commits an offence against this Act who, not being the labelling body, issues or purports to issue any label that is intended or is likely, by reason of its wording or appearance, or in any other manner, to cause any person to believe, contrary to the fact, that the label was issued under this Act.
-(2) Every person who commits an offence against this section is liable to a fine not exceeding,—
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
   (b) in the case of a body corporate, $10,000.
 
@@ -1184,7 +1184,7 @@ In section 122,—
   (d) supplies or distributes (including in either case by way of exportation from New Zealand) an objectionable publication to any other person; or
   (e) has in that person's possession, for the purposes of supply or distribution to any other person, an objectionable publication; or
   (f) in expectation of payment or otherwise for gain, or by way of advertisement, displays or exhibits an objectionable publication to any other person.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
@@ -1195,7 +1195,7 @@ In section 122,—
 
 ### 124 Offences involving knowledge in relation to objectionable publications
 (1) Every person commits an offence against this Act who does any act mentioned in section 123(1), knowing or having reasonable cause to believe that the publication is objectionable.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 10 years:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
@@ -1217,7 +1217,7 @@ In section 122,—
 (1) Every person commits an offence against this Act who—
   (a) supplies, distributes, exhibits, displays, or otherwise deals with a restricted publication otherwise than in accordance with the classification assigned to that publication under this Act; or
   (b) delivers to any person any restricted publication with intent that it should be dealt with by that person or any other person in such manner as to constitute an offence against this section.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
   (b) in the case of a body corporate, $10,000.
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was a restricted publication.
@@ -1228,18 +1228,18 @@ In section 122,—
   (b) supplies, distributes, exhibits, or displays to any person under the age of 18 years any publication—
     (i) that is objectionable if made available to a person of the age of the person to whom it is so supplied, distributed, exhibited, or displayed; and
     (ii) that the person so supplying, distributing, exhibiting, or displaying it knows is likely to be classified under this Act as objectionable if made available to a person of the age of the other person.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
 ### 127 Exhibition to persons under 18
 (1) Every person commits an offence against this Act who exhibits or displays an objectionable publication to any person under the age of 18 years.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
 (4) Every person commits an offence against this Act who exhibits or displays an objectionable publication to any person under the age of 18 years knowing or having reasonable cause to believe that the publication is objectionable.
-(5) Every person who commits an offence against subsection (4) is liable,—
+(5) Every person who commits an offence against subsection (4) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 10 years:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
@@ -1252,11 +1252,11 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 ### 129 Offences in public place
 (1) Every person commits an offence against this Act who exhibits or displays an objectionable publication in or within view of a public place.
 (2) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
-(2A) Every person who commits an offence against subsection (1) is liable,—
+(2A) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 (3) Every person commits an offence against this Act who distributes an objectionable publication to any person in a public place knowing or having reasonable cause to believe that the publication is objectionable.
-(4) Every person who commits an offence against subsection (3) is liable,—
+(4) Every person who commits an offence against subsection (3) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1264,14 +1264,14 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 (1) Every person commits an offence against this Act who—
   (a) publicly displays any restricted publication or any film poster or advertising poster otherwise than in accordance with any condition or conditions imposed pursuant to section 27 in respect of that publication or poster; or
   (b) publicly displays any restricted publication or any film poster or advertising poster in contravention of any such condition.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $5,000:
   (b) in the case of a body corporate, $15,000.
 (3) It shall be no defence to a charge under this section that the defendant had no knowledge of the condition or conditions applicable to the publication or poster to which the charge relates.
 
 ### 131 Offence to possess objectionable publication
 (1) Subject to subsections (4) and (5), every person commits an offence against this Act who, without lawful authority or excuse, has in that person's possession an objectionable publication.
-(2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $2,000:
   (b) in the case of a body corporate, $5,000.
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
@@ -1300,7 +1300,7 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 
 ### 131A Offences relating to possession of objectionable publications and involving knowledge
 (1) Every person commits an offence who does any act that constitutes an offence against section 131(1), knowing or having reasonable cause to believe that the publication is objectionable.
-(2) Every person who commits an offence against subsection (1) is liable,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
@@ -1326,17 +1326,17 @@ A person may be convicted of exhibiting an objectionable publication if what is 
 **Miscellaneous offences**
 
 ### 133 Contravention of serial publication order or interim restriction order
-Every person commits an offence and is liable to a fine not exceeding,—who acts in contravention of, or fails to comply with, section 37(5) or section 37(6) or section 49(3) or section 67(3).
+Every person commits an offence and is liable on conviction to a fine not exceeding,—who acts in contravention of, or fails to comply with, section 37(5) or section 37(6) or section 49(3) or section 67(3).
   (a) in the case of a individual, $3,000; or
   (b) in the case of a body corporate, $10,000,—
 
 ### 134 Obstruction of Inspector
-Every person commits an offence and is liable to a fine not exceeding $1,000 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) obstructs an Inspector in the performance of that Inspector's duties under this Act; or
   (b) fails to comply with any requirement of an Inspector under subsection (4) of section 106, otherwise than on the ground set out in subsection (5) of that section.
 
 ### 135 Failure to surrender warrant
-Every person commits an offence and is liable to a fine not exceeding $1,000 who fails to comply with section 105(4).
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails to comply with section 105(4).
 
 **Miscellaneous provisions**
 
@@ -1371,16 +1371,14 @@ Notwithstanding anything in any contract, whether entered into before or after t
   (b) that person gives to the person from whom that person received or is to receive delivery of that publication notice in writing of that person's rejection or refusal of the publication, and of the reason for that rejection or refusal, as soon as practicable after that person becomes aware of the nature of the publication in question.
 
 ### 141A Offences punishable on conviction on indictment
-Every offence against any of the following sections of this Act is punishable on conviction on indictment:
-  (a) section 124(1) (offences involving knowledge in relation to objectionable publications):
-  (b) section 127(4) (offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable):
-  (c) section 131A(1) (offences relating to possession of objectionable publications and involving knowledge).
+[Repealed]
 
 ### 142 Offences punishable on summary conviction
-Every offence against this Act or any regulations made under this Act and that is not an offence against a section specified in section 141A(a) to (c) is punishable on summary conviction.
+[Repealed]
 
-### 143 Extending time for taking prosecutions
-Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+### 143 Time for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+(2) This section does not apply to an offence against section 124(1), 127(4), or 131A(1).
 
 ### 144 Leave of Attorney-General to prosecute
 (1) No prosecution for an offence against any of sections 123 to 129 or against section 131 or section 131A or section 133 shall be commenced except with the leave of the Attorney-General.
@@ -1457,7 +1455,7 @@ Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any 
   (a) any book bearing the name of the publisher, if the name and address of the publisher have been notified by the wholesale distributor to the chief executive of the responsible department as those of a publisher of books imported by the distributor:
   (b) any magazine, newspaper, or periodical the title of which has been notified by the wholesale distributor to the chief executive of the responsible department as the title of a magazine, newspaper, or periodical imported by the distributor.
 (4) The Minister of Justice may from time to time, by notice in the Gazette, grant exemptions from compliance with the provisions of subsection (1) or subsection (2) in respect of any printed matter or class of printed matter specified or described in the notice, and may from time to time in like manner amend or revoke any such notice.
-(5) Every person commits an offence and is liable to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
 
 ### 148 Fees charged by Classification Office to be reasonable
 Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy of any document shall be no more than is reasonably required to recover the costs of supplying that copy.
@@ -1495,7 +1493,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (nb) providing for the assigning of a rating or a classification to a film in any case where, because decisions have been made in respect of that film under both the Films Act 1983 and the Video Recordings Act 1987, it is not otherwise possible to assign 1 equivalent rating or classification to that film:
   (nc) providing that film posters in respect of which an approval given pursuant to the Films Act 1983 before 1 October 1994 is subsisting at that date are deemed, for the purposes of any regulations made pursuant to paragraph (k), to be approved under any such regulations:
   (nd) providing, in relation to any film in respect of which a decision has been made under the Video Recordings Act 1987, that unless a label has been issued under this Act in respect of the film, compliance with all or any of the requirements of the Video Recordings Act 1987 with respect to the labelling of a video recording is regarded as compliance with all or any of the requirements of this Act with respect to the public supply of that film:
-  (o) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on summary conviction, be imposed in respect of any such offences:
+  (o) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on conviction, be imposed in respect of any such offences:
   (p) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for their due administration.
 
 **Consequential amendments, repeals, and revocation**
@@ -1818,39 +1816,3 @@ The income of the Classification Office shall be exempt from income tax.
 ### 18 Applications for review
 ((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) The amendments in this section and section 19 apply only in respect of a decision of the Classification Office made on or after the commencement of this section.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
