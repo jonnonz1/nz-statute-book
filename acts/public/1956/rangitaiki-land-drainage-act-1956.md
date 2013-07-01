@@ -1,5 +1,5 @@
 # Rangitaiki Land Drainage Act 1956
-_Consolidation as at 1996-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to constitute the Rangitaiki Drainage District and to provide for its administration by a Board of Trustees under the Land Drainage Act 1908
 
@@ -65,7 +65,7 @@ Notwithstanding anything in section 10 of the principal Act, if any trustee, whe
 (1) The Board may from time to time, by notice in writing given to the occupier of any land within the district and situated near the Tarawera River, prohibit the construction of drains on the land or on such part thereof as may be specified in the notice, and also prohibit any other interference with the surface of the land or part thereof that may cause or be likely to cause the escape or seepage of water from that river. The decision of the Board as to whether or not any land is near the Tarawera River for the purposes of this section shall be final.
 (2) A notice to any occupier under this section may be given by delivering it to him personally, or by posting it upon a conspicuous part of the land and posting a copy thereof by registered letter addressed to the occupier at his last known place of abode or business in New Zealand, or to the agent or representative of the occupier. A notice so posted shall be deemed to have been given at the time when the registered letter would in the ordinary course of post be delivered.
 (3) Any notice given under this section may be at any time in like manner amended or revoked.
-(4) Every person who does or causes or permits to be done any act prohibited by a notice given to him under this section commits an offence and is liable on summary conviction to a fine not exceeding 100 pounds.
+(4) Every person who does or causes or permits to be done any act prohibited by a notice given to him under this section commits an offence and is liable on conviction to a fine not exceeding 100 pounds.
 (5) The Board may from time to time do such things as it deems necessary for the purposes of filling in any drain on any land in respect of which a notice has been given under this section and of remedying any other interference with the surface of any such land, whether the drain was constructed or the interference was made before or after the commencement of this Act or before or after the giving of the notice.
 (6) For the purposes of this section the Board and all persons authorised by it in that behalf may enter upon and pass over any land within the district, with or without vehicles, and may take from any land in the immediate vicinity such spoil as may be required.
 (7) Every person suffering any damage from the exercise of any of the powers conferred on the Board by subsection (6) shall be entitled to full compensation therefor in accordance with the provisions of the Public Works Act 1928 relating to compensation. All such claims for compensation shall be made in writing to the Board within 12 months from the time when the claim arose, and no claim for compensation shall be allowed unless made within that period.
