@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to weights and measures
 
@@ -185,7 +185,7 @@ Nothing in section 10 applies to the use by any person of any unit of a weight o
   (b) the number of non-standard packages in any sample taken from the lot of packages was, at all times during the required period, equal to or less than the appropriate number specified for the purpose in regulations made under section 41A; and
   (c) there were no inadequate packages, at any time during the required period, in any sample taken from the lot of packages.
 (5) A person charged with an offence against this section in respect of a lot of packages containing desiccating goods also has a defence if the person proves that, at any time after the close of the required period, a sample taken from the lot contained no inadequate packages.
-(6) Section 67(8) of the Summary Proceedings Act 1957 does not apply to subsection (3).
+(6)
 
 ### 17 Offence for purchaser to state incorrect weight, measure, or number
 (1) Every person commits an offence who, in the course of that person's business, purchases any goods by weight or measure or number where the weight or measure or number of those goods—
@@ -438,15 +438,15 @@ Every person commits an offence who—
 
 ### 32A Infringement offences
 (1) Where an Inspector has reason to believe that a person has committed an infringement offence,—
-  (a) that person may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) that person may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) the Inspector may issue an infringement notice in respect of the alleged offence.
 (2) Any Inspector (not necessarily the Inspector who issued the infringement notice) may do any 1 or more of the following things:
   (a) attach an infringement notice, or a copy of an infringement notice, to the weight, measure, weighing or measuring instrument, or goods to which the notice relates:
   (b) deliver an infringement notice, or a copy of an infringement notice, personally to a person:
   (c) send an infringement notice, or a copy of an infringement notice, to a person by post addressed to the person at the person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957—
-  (a) where an infringement notice, or a copy of an infringement notice, is attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)(a), the notice or copy shall be deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
-  (b) where an infringement notice, or a copy of an infringement notice, is sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)(c), the notice or copy shall be deemed to have been served on the person when it was so posted.
+(3) If an infringement notice, or a copy of an infringement notice, is—
+  (a) attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)(a), the notice or copy is deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
+  (b) sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)(c), the notice or copy is deemed to have been served on the person when it was so posted.
 
 ### 32B Form and content of infringement notice
 (1) Every infringement notice shall be in a form prescribed by regulations made under this Act, and shall contain the following particulars:
@@ -464,7 +464,7 @@ Every person commits an offence who—
 All infringement fees shall be payable to the Secretary, and all such fees received by the Secretary shall be paid into a Crown Bank Account.
 
 ### 33 Penalties
-(1) Every person who commits an offence against this Act shall be liable on summary conviction,—
+(1) Every person who commits an offence against this Act shall be liable on conviction,—
   (a) in the case of an offence against section 32(a), to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000:
   (b) in the case of an offence against any of the provisions of paragraphs (aa), (b), (c), (e), (f), (fa), (g), (h), (i), (j), (k), and (l) of section 32, to a fine not exceeding $10,000, and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day on which the offence has continued:
   (c) in every other case (other than the case of an infringement offence) to a fine not exceeding $5,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day on which the offence has continued.
@@ -489,9 +489,9 @@ Where any person is convicted of any offence against section 16 or section 16A o
 
 ### 36 Proceedings in relation to offences
 (1) Proceedings for an offence against this Act—
-  (a) shall be taken only on the information of an Inspector; and
+  (a) must be commenced by an Inspector; and
   (b) may be conducted by any barrister or solicitor or Inspector, or, with the leave of a District Court Judge, by any other person.
-(2) In any proceedings for an offence against this Act an Inspector who lays an information in respect of any offence shall not be called on to prove that the person is an Inspector.
+(2) In any proceedings for an offence against this Act an Inspector who files a charging document in respect of any offence shall not be called on to prove that the person is an Inspector.
 
 ### 37 Presumption as to possession of weights, measures, etc, for use for trade
 Where any weight, measure, or weighing or measuring instrument is found in the possession of any person carrying on trade, or on any premises which, whether a building or in the open air, are used by any person for trade, or in or on any aircraft, ship, hovercraft, carriage, or vehicle used by any person for trade, such person shall, until the contrary is proved, be deemed for the purposes of this Act to have such weight, measure, or instrument in that person's possession for use for trade.
@@ -684,39 +684,3 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 | 2 Carats Metric | 0.01 Carat Metric |
 
 ## Schedule 3
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
