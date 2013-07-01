@@ -1,5 +1,5 @@
 # Sugar Loaf Islands Marine Protected Area Act 1991
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the setting up and management of the Sugar Loaf Islands Marine Protected Area for the purpose of protecting that area of the sea and foreshore in its natural state as the habitat of marine life, and to provide for the enhancement of recreational activities
 
@@ -71,7 +71,7 @@ Nothing in this Act shall limit or affect—in respect of the New Plymouth Power
   (a) carries on mining in the Protected Area; or
   (b) carries on mining operations within the meaning of the Petroleum Act 1937 in the petroleum mining exclusion area; or
   (c) anchors in the Protected Area in contravention of section 9.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 1 year, or to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $80,000.
 
