@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2012-12-19_
+_Consolidation as at 2013-07-01_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -10,7 +10,6 @@ This Act may be cited as the Passports Act 1992.
 In this Act, unless the context otherwise requires,—
   - **applicant** , in relation to an application for a New Zealand travel document, means the person who will be the holder of the document if the application is granted
   - **certificate of identity** means a document (other than a passport or an emergency travel document or a refugee travel document) issued by the Government of any country to any person for the purposes of facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
-  - **conviction on indictment** has the same meaning as in the Crimes Act 1961
   - **emergency travel document** means a document (other than a passport or a certificate of identity or a refugee travel document) issued, pursuant to section 23, by or on behalf of the Government of New Zealand to any person who may be a New Zealand citizen for the purposes of urgently facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
   - **holder** , in relation to a New Zealand travel document, means the person in whose name the document has been issued
   - **Minister** means the Minister of Internal Affairs
@@ -473,7 +472,7 @@ An emergency travel document is valid for—
     (a) is false; or
     (b) relates in fact to some other person
   - **forges** and have meanings corresponding to the meaning given to forgery by section 256 of the Crimes Act 1961.
-(3) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
 
 ### 30 Offences relating to passport information and material
 (1) Every person commits an offence who knowingly, and without lawful authority or reasonable excuse,—
@@ -492,14 +491,14 @@ An emergency travel document is valid for—
     (ii) by altering or damaging the database, its programming, another device, the programming of another device, or any electronic storage; and
   (b) apply to the copying of information recorded in an electronic passport database whether it is achieved directly from the database, by means of another device, by the interception or copying of an electronic message, or from any form of electronic storage.
 (3) In subsection (1), passport database means a file, register, or device in or on which information is or is to be recorded by officers for the purposes of this Act.
-(4) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+(4) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
 
 ### 30A Improper issue of New Zealand travel document
 (1) Every person commits an offence who, without lawful authority or reasonable excuse, issues a New Zealand travel document (whether or not to the person to whom it relates) knowing that the person to whom it relates is not entitled to be issued it.
-(2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
 
 ### 31 Other offences
-(1) Every person commits a crime who—
+(1) Every person commits an offence who—
   (a) for purposes of travel and without reasonable excuse, uses a New Zealand travel document that he or she knows or has reasonable cause to suspect has expired or has been cancelled; or
   (b) for purposes of travel or identification and without reasonable excuse, uses a New Zealand travel document that he or she knows or has reasonable cause to suspect was issued to or in respect of another person; or
   (c) being a person to whom a New Zealand travel document has been issued, without reasonable excuse permits another person to have possession of that document in circumstances where he or she knows or has reasonable cause to suspect that the person intends to use it for purposes of travel or identification; or
@@ -508,9 +507,9 @@ An emergency travel document is valid for—
   (f) without reasonable excuse, has in his or her possession or under his or her control within New Zealand—
     (i) a passport issued by or on behalf of the Government of any country other than New Zealand, being a passport that he or she knows or has reason to suspect has been falsified or has been obtained by false representation; or
     (ii) a document purporting to be a passport issued by or on behalf of the Government of any country other than New Zealand that he or she knows or has reason to suspect is not such a passport.
-(2) Every person commits a crime who intentionally defaces or destroys a New Zealand travel document.
-(3) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
-(4) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+(2) Every person commits an offence who intentionally defaces or destroys a New Zealand travel document.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 31A Jurisdiction in respect of actions taken outside New Zealand
 Proceedings may be brought for an offence against section 29A(1), section 30(1), section 30A(1), or any of paragraphs (a) to (d) of section 31(1), even if the act or omission alleged to constitute the offence did not occur in New Zealand.
@@ -519,7 +518,7 @@ Proceedings may be brought for an offence against section 29A(1), section 30(1),
 (1) Every person commits an offence who, for the purpose of procuring a New Zealand travel document, or a renewal or endorsement of a New Zealand travel document, whether for his or her benefit or for the benefit of any other person,—
   (a) makes a written or oral statement that he or she knows to be false or misleading in a material particular; or
   (b) recklessly makes a written or oral statement that is false or misleading in a material particular.
-(2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, a fine not exceeding $15,000, or both.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, a fine not exceeding $15,000, or both.
 
 ### 32A Court may forbid issue of passport
 (1) When sentencing a person in respect of an offence against this Act, a court may, in addition to any other sentence or order imposed or made, if satisfied that it is desirable for reasons of passport security and integrity, make an order that—
@@ -594,11 +593,9 @@ Proceedings may be brought for an offence against section 29A(1), section 30(1),
 Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 38 Penalties
-(1) Every person who commits an offence under this Act in respect of which either—is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
-  (a) no penalty is provided elsewhere than in this section; or
-  (b) proceedings in respect of that offence have been taken in a summary way in accordance with the Summary Proceedings Act 1957,—
-(2) Notwithstanding section 14 of the Summary Proceedings Act 1957, an information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
-(3) Subsection (2) does not limit the time for laying an information for an offence for which a defendant may be proceeded against by indictment.
+(1) Every person who commits an offence under this Act in respect of which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+(3) Subsection (2) does not limit the time for filing a charging document for an offence against any of sections 29A(1), 30(1), 30A(1), 31(1) or (2), or 32(1).
 
 ### 39 Offences triable summarily
 [Repealed]
