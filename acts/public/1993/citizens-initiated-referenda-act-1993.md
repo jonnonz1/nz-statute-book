@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -370,7 +370,7 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 (4) Nothing in this section shall restrict the publication of any news or comments relating to the indicative referendum petition or the indicative referendum in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
 ### 42 Limits on expenditure
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who, either alone or in combination with others,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who, either alone or in combination with others,—
   (a) knowingly spends, on advertisements published or broadcast in relation to an indicative referendum petition, more than $50,000:
   (b) knowingly spends, on advertisements promoting one of the answers to the precise question to be put to voters in an indicative referendum (whether those advertisements are published or broadcast or both), more than $50,000.
 
@@ -386,10 +386,10 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (b) if the result of the indicative referendum is notified in the Gazette under section 40(2), within 1 month after the date on which the result is notified; or
   (c) if the result is declared under section 49 of the Referenda (Postal Voting) Act 2000, within 1 month after the date on which the result is declared.
 (2)
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
 (4) Every person who makes, under subsection (1A), a return that is false in any material particular—
-  (a) is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000, or to both; and
-  (b) is, in any other case, guilty of an illegal practice, and is liable on conviction on indictment to a fine not exceeding $20,000, unless the person proves:
+  (a) is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000, or to both; and
+  (b) is, in any other case, guilty of an illegal practice, and is liable on conviction to a fine not exceeding $20,000, unless the person proves:
     (i) that he or she had no intention to mis-state or conceal the facts; and
     (ii) that he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
 (5) Every person charged with an offence against subsection (4)(a) may be convicted of an offence against subsection (4)(b).
@@ -474,7 +474,7 @@ At the end of a hearing, the court must do one of the following:
 ## Part 5 — Offences
 
 ### 52 Interfering with or influencing voters
-(1) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $5,000 who, at an indicative referendum,—
+(1) Every person commits an offence and shall be liable on conviction to a fine not exceeding $5,000 who, at an indicative referendum,—
   (a) in any way interferes with any elector, either in the polling place or while the elector is on the way to the polling place, with the intention of influencing the elector or advising the elector as to the elector's vote:
   (b) at any time on the day on which the referendum is held before the close of the poll in or in view or hearing of any public place holds or takes part in any demonstration or procession having direct or indirect reference to the indicative referendum, by any means whatsoever:
   (c) at any time on the day on which the referendum is held before the close of the poll makes any statement having direct or indirect reference to the indicative referendum, by means of any loudspeaker or public address apparatus or cinematograph or television apparatus:provided that this paragraph shall not restrict the publication by radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989 of—
@@ -534,8 +534,8 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 (1) Every person commits an offence who, at an indicative referendum,—
   (a) except in accordance with any regulations made under the Electoral Act 1993 or this Act in relation to special voters, obtains possession of or has in his or her possession any voting paper other than the one given to him or her by the Returning Officer or issuing officer for the purpose of recording his or her vote, or retains any voting paper in his or her possession after leaving the polling place; or
   (b) does or omits to do an act (other than an act to which section 52 applies) that if done or omitted to be done at an electoral poll would be an offence under the Electoral Act 1993.
-(2) Every person who commits an offence against subsection (1)(a) shall be liable on summary conviction to a fine not exceeding $2,000.
-(3) Every person who commits an offence against subsection (1)(b) shall be liable on summary conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
+(2) Every person who commits an offence against subsection (1)(a) shall be liable on conviction to a fine not exceeding $2,000.
+(3) Every person who commits an offence against subsection (1)(b) shall be liable on conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
 
 ## Part 6 — Miscellaneous provisions
 
