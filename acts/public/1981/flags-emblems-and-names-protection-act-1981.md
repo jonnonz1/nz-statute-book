@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -244,12 +244,12 @@ Nothing in this Act shall prohibit or affect the use by any person of any emblem
 Nothing in this Act shall limit or affect any of the enactments specified in Schedule 3 relating to the protection of various emblems and names.
 
 ### 24 General penalty
-Every person who commits an offence against this Act is liable on summary conviction,—
+Every person who commits an offence against this Act is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000 and, where the offence is a continuing one, to a further fine not exceeding $5,000 for every day during which the offence has continued.
 
 ### 25 Consent of Attorney-General required to certain prosecutions
-No information for an offence against any of sections 11 to 15 shall be laid without the consent of the Attorney-General.
+No charging document for an offence against any of sections 11 to 15 may be filed without the consent of the Attorney-General.
 
 ### 26 Liability of officers of associations
 Where any association (whether incorporated or unincorporated) is guilty of an offence against this Act, every officer or other person concerned in the management of the association shall be guilty of a like offence if it is proved that the act that constituted the offence took place with his authority, permission, or consent, or that he knew the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
@@ -274,23 +274,24 @@ The Governor-General may, from time to time, by Order in Council,—
 | Enactment or order | Emblem, name, or words protected |
 | --- | --- |
 | Broadcasting Act 1976: section 15 | Broadcasting Corporation of New Zealand |
-| Children’s Health Camps Board Dissolution Act 1999: section 14 | emblem of the King George the Fifth Memorial Children’s Health Camps Federation |
-| Commonwealth Games Symbol Protection Act 1974 | the Xth British Commonwealth Games symbol |
+| Children’s Health Camps Board Dissolution Act 1999: section 14 | Emblem of the King George the Fifth Memorial Children’s Health Camps Federation |
+| Commonwealth Games Symbol Protection Act 1974 | The Xth British Commonwealth Games symbol |
+| Cultural Property (Protection in Armed Conflict) Act 2012: section 36 | Distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict |
 | Gambling Act 2003: section 267 | New Zealand Lotteries Commission |
 | Gambling Act 2003: section 268 | Golden Kiwi |
 | Geneva Conventions Act 1958: section 8 | Red Cross or Geneva CrossRed CrescentRed Lion and Sun |
 | Housing Corporation Act 1974: section 43 | Housing New Zealand Corporation and Housing Corporation of New Zealand |
-| Local Government Act 1974: section 696 | coats of arms of city, borough, county, district, town, regional, and united councils |
+| Local Government Act 1974: section 696 | Coats of arms of city, borough, county, district, town, regional, and united councils |
 | Museum of New Zealand Te Papa Tongarewa Act 1992: section 23 | Museum of New Zealand, Te Papa Tongarewa, National Art Gallery, National Museum |
 | National War Memorial Act 1992: section 15 | National War Memorial, War Memorial, Carillon, and Hall of Memories |
 | New Zealand Antarctic Institute Act 1996: section 11 | New Zealand Antarctic Institute, Ross Dependency Research Committee, New Zealand Antarctic Programme |
 | New Zealand Export-Import Corporation Act 1974: section 30 | New Zealand Export-Import Corporation |
 | New Zealand Film Commission Act 1978: section 34 | New Zealand Film Commission |
 | Prohibited Marks Order 1957 (SR 1957/179) | Green Cross for Safety symbol |
-| Prohibited Marks Order 1961 (SR 1961/120) | symbol of the International Olympic Committee |
+| Prohibited Marks Order 1961 (SR 1961/120) | Symbol of the International Olympic Committee |
 | Prohibited Marks Order 1982 (SR 1982/127) | TELARC |
 | Racing Act 2003: section 24 | New Zealand Racing Board, Totalisator Agency Board, TAB, Racing Conference, New Zealand Thoroughbred Racing, Trotting Conference, Harness Racing New Zealand, and New Zealand Greyhound Racing Association |
-| Returned Services Associations Badge Order 1950 (Gazette 1950, p 1870) | badge of the Returned Services Associations |
+| Returned Services Associations Badge Order 1950 (Gazette 1950, p 1870) | Badge of the Returned Services Associations |
 | Scout Association of New Zealand Amendment Act 1967: section 5 | Scout Association |
 | Sport and Recreation New Zealand Act 2002: section 12 | Sport and Recreation New Zealand |
 | Testing Laboratory Registration Act 1972: section 29 | Testing Laboratory Registration |
