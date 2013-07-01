@@ -1,5 +1,5 @@
 # Land Transport (Road Safety and Other Matters) Amendment Act 2011
-_Consolidation as at 2012-09-10_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Land Transport (Road Safety and Other Matters) Amendment Act 2011.
@@ -346,13 +346,13 @@ The following section is inserted after section 55:Offences concerning alcohol i
 
 ### 26 New section 57AA inserted
 The following section is inserted after section 57:Contravention of specified breath or blood alcohol limit by holder of alcohol interlock licence or zero alcohol licence
-  (1) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
-  (2) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+  (1) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
+  (2) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
   (3) If a person is convicted of an offence against subsection (1) or (2),—
     (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
     (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
-  (4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
-  (5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
+  (4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
+  (5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
   (6) If a person is convicted of an offence against subsection (4) or (5),—
     (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
     (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
