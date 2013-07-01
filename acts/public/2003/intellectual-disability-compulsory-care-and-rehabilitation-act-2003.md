@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -664,7 +664,7 @@ For the purposes of this Act, a person's liability to detention under a sentence
   (a) be taken to a prison to undergo the remainder of the sentence; or
   (b) be otherwise dealt with according to law as if the person had never been a care recipient.
 (2) The co-ordinator must notify the Chief Executive of the Department of Corrections about a person to whom subsection (1) applies, and the chief executive must arrange for the person to be taken to a prison within 7 days after the date of the notification.
-(3) For the purposes of this section, prison includes a residence for the time being approved under section 142A of the Criminal Justice Act 1985.
+(3) For the purposes of this section, prison includes a residence for the time being approved under section 34A of the Corrections Act 2004.
 
 ## Part 6 — Reviews of condition and status of care recipients
 
@@ -910,8 +910,8 @@ After the examination, under section 102(2), of a care recipient no longer subje
 ### 105 Orders Judge may make in relation to special care recipient detained because unfit to stand trial
 (1) This section applies to a person who is detained as a special care recipient because of an order under the Criminal Procedure (Mentally Impaired Persons) Act 2003, made following a finding that the person is unfit to stand trial (the accused).
 (2) After examining the accused under section 102(2), the Judge may,—
-  (a) if the Judge considers that the accused is capable of being tried or committed for trial on the charge or indictment against the accused, direct that the accused be brought before the appropriate court; or
-  (b) if in the circumstances of the case the Judge considers it proper to do so and the interests of justice so permit, direct that the charge or indictment against the accused be dismissed (whether or not the accused is capable of being tried or committed for trial).
+  (a) if the Judge considers the accused is capable of being tried on the charge, direct that the accused be brought before the appropriate court; or
+  (b) if in the circumstances of the case the Judge considers it proper to do so and the interests of justice so permit, direct that the charge against the accused be dismissed (whether or not the accused is capable of being tried).
 (3) If, after examining the accused under section 102(2), the Judge is satisfied that it is no longer necessary, in the accused's own interests or in the interests of the safety of any person, class of person, or the public, that the accused continue to be cared for as a special care recipient, the Judge may order that—
   (a) the accused be cared for as a care recipient no longer subject to the criminal justice system under this Act; or
   (b) the accused cease to be a care recipient under this Act.
@@ -1078,7 +1078,7 @@ In a proceeding on an application under this Act, whether at first instance or o
 (1) In a proceeding on an application under this Act, the court may, on its own initiative, call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) A witness called by the court under this section has the same privilege to refuse to answer any question that the witness would have had, if called by a party to the proceeding.
 (3) A witness called by the court under this section may be examined and re-examined by the court, and may be cross-examined by or on behalf of any party to the proceeding.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
+(4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
 (5) The expenses of a witness called by the court under this section must be met in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
 
 ### 129 Proceedings not open to public
