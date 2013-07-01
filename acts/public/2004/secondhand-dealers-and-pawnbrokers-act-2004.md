@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -85,12 +85,12 @@ This Act binds the Crown.
   (d) an agent of the Crown:
   (e) any other prescribed person.
 (5) Acquiring secondhand articles as trade-ins when selling new goods does not of itself indicate that a person is engaged in business as a secondhand dealer.
-(6) A person who carries on business as a secondhand dealer without holding a licence commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+(6) A person who carries on business as a secondhand dealer without holding a licence commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 7 Pawnbrokers to be licensed
 (1) Every person who acts as a pawnbroker must hold a licence.
 (2) If 2 or more people act as pawnbrokers in partnership, each partner must hold a licence.
-(3) A person who acts as a pawnbroker without holding a licence commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+(3) A person who acts as a pawnbroker without holding a licence commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 **Licences: how to get licensed**
 
@@ -176,13 +176,13 @@ If the Licensing Authority declines an application, he or she must immediately n
     (i) the Licensing Authority, has not yet determined whether or not the person is eligible to hold a certificate; or
     (ii) the Licensing Authority has advised the company, in writing, that the person is not eligible to hold a certificate, but less than 2 weeks has elapsed since the advice was sent.
 (4) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
-(5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
+(5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
 
 ### 17 Updating licence information
 (1) If any of the details that were included on the licence application change (for example, new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise the Licensing Authority of the change.
 (2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the licence that has been issued, issue an amended licence (and certified copies, if applicable). An amended licence is not a new or renewed licence.
 (3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to the Licensing Authority.
-(4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
+(4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
 
 ### 18 Licences not transferable, except to temporary licence holder
 (1) A licence is not transferable, except in the situation described in subsection (2).
@@ -204,12 +204,12 @@ If the Licensing Authority declines an application, he or she must immediately n
   (b) issues a pledge ticket on behalf of a licensed pawnbroker.
 
 ### 20 Offences relating to failure to hold certificate
-(1) A person who does not hold a certificate, or who is not regarded (under section 14) as holding a certificate, commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, knowing that he or she does not hold, or is not regarded as holding, a certificate,—
+(1) A person who does not hold a certificate, or who is not regarded (under section 14) as holding a certificate, commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, knowing that he or she does not hold, or is not regarded as holding, a certificate,—
   (a) enters into a transaction on behalf of a licensed secondhand dealer, whether or not the person is in fact authorised by the secondhand dealer to do so; or
   (b) issues a pledge ticket on behalf of a licensed pawnbroker, whether or not the person is in fact authorised by the pawnbroker to do so; or
   (c) manages, supervises, or controls any person who enters into a transaction on behalf of a licensed secondhand dealer or issues a pledge ticket on behalf of a licensed pawnbroker.
 (2) It is a defence to a charge under subsection (1)(a) or (b) if the person charged proves that he or she was not, at the relevant time, required to hold a certificate, by virtue of section 19(2).
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if, other than in the circumstances described in section 19(2),—
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if, other than in the circumstances described in section 19(2),—
   (a) he or she authorises a person to engage in transactions or issue pledge tickets on his or her behalf; and
   (b) the person does not have a certificate; and
   (c) the licence holder knows, or should know, that the person does not have a certificate.
@@ -325,20 +325,20 @@ A person is disqualified from holding a certificate if he or she—
   (c) the Licensing Authority is satisfied that the certificate was obtained by fraud or mistake.
 (2) A cancellation or suspension must be in writing, with reasons, and must state the date on which the cancellation or suspension takes effect.
 (3) If the Licensing Authority suspends a certificate, the suspension must be for a fixed period of not more than 3 months, and at the end of that period the Licensing Authority must either lift the suspension or cancel the certificate.
-(4) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to the Licensing Authority immediately upon cancellation of the certificate.
+(4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to the Licensing Authority immediately upon cancellation of the certificate.
 
 **Obligations of certificate holders**
 
 ### 32 Obligation to show certificate
 (1) At any time when a certificate holder is engaged in secondhand dealing or pawnbroking, he or she must, on request by a constable, show his or her certificate to that constable.
-(2) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with a request under subsection (1).
+(2) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with a request under subsection (1).
 (3) Section 83 applies to a charge under subsection (2).
 
 ### 33 Updating certificate information
 (1) If any of the details that were included on the certificate application change (for example, the certificate holder’s contact address), the certificate holder must advise the Licensing Authority of the change.
 (2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the certificate that has been issued, issue an amended certificate. An amended certificate is not a new or renewed certificate.
 (3) If an amended certificate is issued, the certificate holder must immediately return the old certificate to the Licensing Authority.
-(4) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
+(4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
 
 **Appeals**
 
@@ -362,7 +362,7 @@ A person is disqualified from holding a certificate if he or she—
 ### 36 Obligation to show and to display licence
 (1) At any time when a licence holder who is an individual is engaged in secondhand dealing or pawnbroking, he or she must, on request by a constable, show his or her licence to that constable.
 (2) Every licence holder must ensure that a certified copy of his or her licence is prominently displayed so as to be readily visible to the public at every place of business used by the licence holder for secondhand dealing or pawnbroking purposes.
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (2).
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (2).
 (4) Section 83 applies to a charge under subsection (3).
 
 ### 37 Employee records
@@ -376,7 +376,7 @@ A person is disqualified from holding a certificate if he or she—
   (b) if the licence holder is an itinerant secondhand dealer, in the possession of that dealer; or
   (c) if regulations provide that employee records may also be kept elsewhere, in accordance with the regulations.
 (4) An employer must keep the records on the employee record that relate to each employee for at least 12 months from the date on which the relevant employee ceases employment with the employer.
-(5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to—
+(5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to—
   (a) keep an employee record; or
   (b) record in it the information required by this section; or
   (c) keep it at the place and for the period required by this section.
@@ -388,7 +388,7 @@ A person is disqualified from holding a certificate if he or she—
 (2) If a licence holder gives a constable his or her employee record, the constable must—
   (a) give a receipt for the document; and
   (b) return it within 2 hours.
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
 (4) Section 83 applies to a charge under subsection (3).
 
 **Goods**
@@ -400,19 +400,19 @@ A person is disqualified from holding a certificate if he or she—
 (2) If a constable gives a licence holder a notice that specified goods are, or are alleged to be, stolen goods, the licence holder must—
   (a) immediately notify a constable if any of the specified goods are offered to the licence holder for sale or pawn; and
   (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)(a) and (b).
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
 (4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the Police issue a hold notice under section 40 with respect to the goods.
 (5) Subsection (4) does not override section 60.
 
 ### 40 Police may issue hold notice
 (1) A constable may issue a hold notice to a licence holder if the constable has reasonable grounds to suspect that any goods held by the person are stolen goods.
 (2) If a licence holder is issued with a hold notice, he or she must not dispose of the goods identified in the notice for 28 days from the date of the notice except with the authority of a constable.
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a constable.
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a constable.
 (4) Subsection (2) does not override section 60.
 
 ### 41 Obligation to give Police access to goods
 (1) A licence holder must, when required to do so by a constable, show, or make available to, that constable all or any of the goods held by the licence holder for the purpose of secondhand dealing or pawnbroking.
-(2) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a constable, to show or make available to the constable any goods as required by subsection (1).
+(2) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a constable, to show or make available to the constable any goods as required by subsection (1).
 (3) Section 83 applies to a charge under subsection (2).
 
 ### Subpart 2 — Obligations of licensed secondhand dealers
@@ -443,7 +443,7 @@ A person is disqualified from holding a certificate if he or she—
   (d) the date of the transaction:
   (e) any other prescribed information.
 (4) The information required to be shown in the dealers record must be added to the record as soon as practicable after the information is available.
-(5) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she—
+(5) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she—
   (a) fails without reasonable excuse to—
     (i) keep a dealers record; or
     (ii) record in it the information required by this section; or
@@ -470,7 +470,7 @@ A person is disqualified from holding a certificate if he or she—
   (c) if regulations provide that dealers records may also be kept elsewhere, in accordance with the regulations.
 (2) The information in the dealers record relating to any article or scrap metal must be kept for not less than 3 years from the date of the transaction relating to that article or scrap metal.
 (3) Every dealers record must be kept available for inspection (at any reasonable hour) on request by a constable.
-(4) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
+(4) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
 
 ### 45 Police access to dealers record
 (1) A licensed secondhand dealer must, when required to do so by a constable,—
@@ -479,7 +479,7 @@ A person is disqualified from holding a certificate if he or she—
 (2) If a licensed secondhand dealer gives a constable his or her dealers record, or any part of it, the constable must—
   (a) give a receipt for the document; and
   (b) return the document to the dealer within 2 hours.
-(3) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+(3) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
 (4) Section 83 applies to a charge under subsection (3).
 
 **Secondhand dealing**
@@ -513,8 +513,8 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 (4) The fact that an article is offered for sale at a price of more than $40 (or other prescribed amount) is conclusive proof that the item has or had an apparent resale value of more than that amount.
 
 ### 50 Offences relating to secondhand dealing
-(1) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she enters into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
-(2) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse,—
+(1) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she enters into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
+(2) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse,—
   (a) to comply with section 47(1) and (2) (which relate to retaining articles), other than in the circumstances set out in section 47(3); or
   (b) to comply with section 48 (which relates to labelling articles).
 
@@ -541,7 +541,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
     (ii) the date on which, and the price for which, the goods are sold, and the amount (if any) returned to the pledger:
   (j) any other prescribed information.
 (3) The information required to be shown in the pawnbrokers record must be added to the record as soon as practicable after the information is available.
-(4) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she—
+(4) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she—
   (a) fails without reasonable excuse—
     (i) to keep a pawnbrokers record; or
     (ii) to record in it the information required by this section; or
@@ -561,7 +561,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
   (b) if regulations provide that pawnbrokers records may also be kept elsewhere, in accordance with the regulations.
 (2) The information in the pawnbrokers record relating to any goods must be kept for not less than 3 years from the date of the transaction relating to those goods.
 (3) Every pawnbrokers record must be available for inspection on request at any reasonable hour by a constable.
-(4) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to store his or her pawnbrokers record as required by this section.
+(4) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to store his or her pawnbrokers record as required by this section.
 
 ### 54 Police access to pawnbrokers record
 (1) A licensed pawnbroker must, when required to do so by a constable,—
@@ -570,7 +570,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 (2) If a licensed pawnbroker gives a constable his or her pawnbrokers record, or any part of it, the constable must—
   (a) give a receipt for the document; and
   (b) return the document to the pawnbroker within 2 hours.
-(3) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+(3) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
 (4) Section 83 applies to a charge under subsection (3).
 
 **Pawnbroking**
@@ -656,7 +656,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (b) sections 60, 63, 64, and 67(1)(c), (f), and (g) do not apply in respect of the goods.
 
 ### 67 Offences relating to pawnbroking
-(1) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
+(1) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
   (a) enters into a buyback contract as a buyer while apparently acting in the course of business as a pawnbroker:
   (b) enters into a pawnbroking contract at any place other than pawnbroking business premises identified in his or her licence:
   (c) sells or otherwise disposes of any pawned goods on or before the redemption date of the goods:
@@ -666,7 +666,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (g) fails, when a pledger claims an excess (as defined in section 64(1)) within 6 months of the disposal of pledged goods, to return to the pledger at least 90% of the excess:
   (h) accepts a pledge from a pledger aged under 18 years:
   (i) fails to comply with any of the conditions set out in section 66(1) when purchasing goods that are subject to a pawnbroking contract.
-(2) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails, without reasonable excuse, to comply with any other obligation under any of sections 55 to 65.
+(2) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails, without reasonable excuse, to comply with any other obligation under any of sections 55 to 65.
 
 ### Subpart 4 — Obligations of promoters and Internet auction providers
 
@@ -693,7 +693,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (b) if that is impracticable, give the promoters record or specified part of it to the constable, in which case the constable must—
     (i) give a receipt for the document; and
     (ii) return the document within 2 hours.
-(6) A promoter commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
+(6) A promoter commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
   (a) fails to comply with the requirements of this section relating to the promoters record; or
   (b) makes a false entry in his or her promoters record; or
   (c) fails to give his or her promoters record, or a specified part of it, to a constable when required to do so.
@@ -710,7 +710,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (b) make a copy of all or specific parts of it and give the copy to the constable or, if that is impracticable, give his or her Internet auction providers record or a specific part of it to the constable, in which case the constable must—
     (i) give a receipt for the document; or
     (ii) return the document to the Internet auction provider within 2 hours.
-(5) An Internet auction provider commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
+(5) An Internet auction provider commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
   (a) fails to comply with the requirements of this section relating to his or her Internet auction providers record; or
   (b) makes a false entry in his or her Internet auction providers record; or
   (c) fails to provide access by a constable to his or her Internet auction providers record in accordance with subsection (4) when required to do so.
