@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -953,17 +953,19 @@ If disclosure is required under section 72 or section 77, no person (other than 
 ### Subpart 4 — Offences
 
 ### 103 Offences
-(1) Every creditor, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 17 to 69, 71 to 74, and 76 to 82 commits an offence and is liable on summary conviction to a fine not exceeding $30,000.
-(2) Every transferee who breaches section 75 commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $200,000, or to both.
-(3) Every person who acts in breach of an order made under section 108 commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $30,000, or to both.
+(1) Every creditor, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 17 to 69, 71 to 74, and 76 to 82 commits an offence and is liable on conviction to a fine not exceeding $30,000.
+(2) Every transferee who breaches section 75 commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $200,000, or to both.
+(3) Every person who acts in breach of an order made under section 108 commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $30,000, or to both.
 (4) Amendment(s) incorporated in the Act(s).
 
 ### 104 Conviction for 2 or more offences
 If a person is convicted, whether in the same or separate proceedings, of 2 or more offences in respect of breaches of the same provisions of this Act and those breaches are of the same or a substantially similar nature and occurred at or about the same time, the total amount of any fines imposed on that person for those convictions must not exceed the amount of the maximum fine that may be imposed in respect of a conviction for a single offence.
 
-### 105 When proceedings may be commenced
-(1) Proceedings under section 103 may be commenced at any time within 3 years after the matter giving rise to the breach arose.
-(2) This section applies despite section 14 of the Summary Proceedings Act 1957.
+### 105 When proceedings may be commenced for certain offences
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against section 103(2); and
+  (b) the limitation period in respect of an offence against section 103(3) ends on the date that is 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### Subpart 5 — Defence
 
@@ -1062,7 +1064,7 @@ Proceedings brought under this Act are in addition to any proceedings brought un
 
 ### 116 Court order for disposal of things seized to be suspended on conviction
 (1) If any person is convicted in any proceedings for an offence relating to anything for which a warrant has been issued, and any order is made under section 115, the operation of the order is suspended,—
-  (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
+  (a) in any case, until the expiration of the time prescribed by the Criminal Procedure Act 2011 for the filing of a notice of appeal or an application for leave to appeal; and
   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
   (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
 (2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
@@ -1272,39 +1274,3 @@ The following enactments are repealed:
 ## Schedule 3 — Information concerning buy-back transactions of land
 
 ## Schedule 4 — Acts amended
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
