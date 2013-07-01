@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -250,7 +250,7 @@ _Consolidation as at 2013-06-13_
     (b) in relation to a matter prescribed under any other enactment, prescribed in accordance with that enactment
   - **prescription medicine** has the same meaning as in section 3(3) of the Medicines Act 1981
   - **private analyst** means a person qualified by academic or technical training in chemical or biochemical analysis; and includes a body corporate or organisation that employs such a person
-  - **proceedings** , in relation to an infringement offence, means proceedings under the Summary Proceedings Act 1957; and includes the issue of an infringement notice under section 139
+  - **proceedings** , in relation to an infringement offence, means proceedings under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957; and includes the issue of an infringement notice under section 139
   - **qualifying bylaw** means a bylaw made by a road controlling authority under section 22AB(1)(a) of this Act, or section 145 of the Local Government Act 2002 for the stated purpose of—
     (a) restricting or placing conditions on the racing of motor vehicles or any associated activities:
     (b) controlling or restricting cruising or any associated activities
@@ -1313,7 +1313,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (3) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(4) If a person commits a third or subsequent offence against subsection (1) (whether or not of the same kind of offence as the previous offences), the person commits an indictable offence and on conviction—
+(4) If a person is convicted of a third or subsequent offence against subsection (1) (whether or not of the same kind of offence as the previous offences),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or the Transport Act 1962 corresponding to an offence specified in subsection (1) is to be treated as a conviction for an offence specified in that subsection.
@@ -1350,7 +1350,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (3) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 36 Contravention of section 7 or section 22 involving injury
-(1) A person commits an indictable offence if the person—
+(1) A person commits an offence if the person—
   (a) drives or causes to be driven a motor vehicle recklessly and by that act or omission causes an injury to another person; or
   (b) drives or causes a motor vehicle to be driven at a speed or in a manner which, having regard to all the circumstances, is or might be dangerous to the public or to a person and by that act or omission causes an injury to another person; or
   (c) without reasonable excuse, contravenes section 22 by failing to stop and ascertain whether any person has been injured, and render assistance, after an accident where a person has been injured or killed.
@@ -1360,7 +1360,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (3) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 36AA Contravention of section 7 by causing death of another person
-(1) A person commits an indictable offence if the person—
+(1) A person commits an offence if the person—
   (a) drives or causes to be driven a motor vehicle recklessly and by that act or omission causes the death of another person; or
   (b) drives or causes a motor vehicle to be driven at a speed or in a manner that, having regard to all the circumstances, is or might be dangerous to the public or to a person and, by that act or omission, causes the death of another person.
 (2) If a person is convicted of an offence against subsection (1),—
@@ -1375,18 +1375,14 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
     (i) any petrol, oil, or diesel fuel; or
     (ii) any other substance likely to cause a vehicle to undergo loss of traction; or
   (c) without reasonable excuse, operates a motor vehicle on a road in a manner that causes the vehicle to undergo sustained loss of traction in contravention of section 22A(3).
-(2) A person commits an indictable offence if the person commits an offence against subsection (1)(a) or (c) and by that act or omission causes—
-  (a) an injury to another person; or
-  (b) the death of another person.
-(3) If a person is convicted of an indictable offence specified—
-  (a) under subsection (2)(a),—
-    (i) the person is liable to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
-    (ii) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more:
-  (b) under subsection (2)(b),—
-    (i) the person is liable to imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
-    (ii) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(4) A person who commits an offence against subsection (1)(a) or (c) that is not an indictable offence is liable to the penalties set out in section 35(2), and section 35(2) and (3) apply as if the offence were an offence against section 35(1)(a) (operating a motor vehicle recklessly on a road).
-(5) A person who commits an offence against subsection (1)(b) is liable to a fine not exceeding $3,000.
+(2) A person who commits an offence against subsection (1)(a) or (c) and by that act or omission causes an injury to another person—
+  (a) is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
+(3) A person who commits an offence against subsection (1)(a) or (c) and by the act or omission causes the death of another person—
+  (a) is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
+(4) A person who commits an offence against subsection (1)(a) or (c) but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction to the penalties set out in section 35(2), and section 35(2) and (3) apply as if the offence were an offence against section 35(1)(a) (operating a motor vehicle recklessly on a road).
+(5) A person who commits an offence against subsection (1)(b) is liable on conviction to a fine not exceeding $3,000.
 (6) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 36AB Contravention of sections 7 and 114
@@ -1418,7 +1414,7 @@ If a person commits an offence specified under section 35 or 36 in a manner that
 (3) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 39 Aggravated careless use of vehicle causing injury or death
-(1) A person commits an indictable offence if the person causes bodily injury to or the death of a person by carelessly using a motor vehicle while—
+(1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly using a motor vehicle while—
   (a) driving the motor vehicle at a speed exceeding the applicable speed limit; or
   (b) driving the motor vehicle in such a manner as to commit an offence against the regulations or the rules concerning the manner in which a driver may overtake another vehicle or concerning the part of the road on which a driver may drive his or her motor vehicle.
 (2) If a person is convicted of an offence against subsection (1),—
@@ -1552,7 +1548,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of a first or second offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(4) If a person commits a third or subsequent offence against subsection (1) or subsection (2) or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(4) If a person is convicted of a third or subsequent offence against subsection (1) or subsection (2), or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (4A) Subsection (4)(b) does not apply if an order is made under section 65.
@@ -1570,13 +1566,13 @@ A court may impose a fine for an infringement offence, other than an overloading
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 57AA Contravention of specified breath or blood alcohol limit by holder of alcohol interlock licence or zero alcohol licence
-(1) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
-(2) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+(1) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
+(2) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
 (3) If a person is convicted of an offence against subsection (1) or (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
-(4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
-(5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
+(4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
+(5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
 (6) If a person is convicted of an offence against subsection (4) or (5),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
@@ -1589,7 +1585,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person’s first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (4) Subsection (3)(b) does not apply if an order is made under section 65.
@@ -1604,7 +1600,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) Subsection (3)(b) does not apply if an order is made under section 65.
@@ -1632,7 +1628,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) Subsection (3)(b) does not apply if an order is made under section 65.
@@ -1640,10 +1636,10 @@ A court may impose a fine for an infringement offence, other than an overloading
 (5) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 61 Person in charge of motor vehicle causing injury or death
-(1) A person commits an indictable offence if the person is in charge of a motor vehicle and causes bodily injury to or the death of a person while—
+(1) A person commits an offence if the person is in charge of a motor vehicle and causes bodily injury to or the death of a person while—
   (a) the proportion of alcohol in the breath of the person in charge, as ascertained by an evidential breath test subsequently undergone by that person under section 69, exceeds 400 micrograms of alcohol per litre of breath; or
   (b) the proportion of alcohol in the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken from that person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
-(2) A person commits an indictable offence if the person is in charge of a motor vehicle and causes bodily injury to, or the death of, a person—
+(2) A person commits an offence if the person is in charge of a motor vehicle and causes bodily injury to, or the death of, a person—
   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
   (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975; or
   (c) if—
@@ -1662,11 +1658,11 @@ A court may impose a fine for an infringement offence, other than an overloading
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 62 Causing injury or death in circumstances to which section 61 does not apply
-(1) A person commits an indictable offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
+(1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
   (a) while under the influence of drink or a drug, or both; or
   (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
 (1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
-(1B) A person commits an indictable offence if—
+(1B) A person commits an offence if—
   (a) the person causes bodily injury to, or the death of, a person by driving or attempting to drive a motor vehicle; and
   (b) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
   (c) the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
@@ -1904,7 +1900,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (7) An application under subsection (5)(a) must—
   (a) be made in writing to the Commissioner not later than 28 days after—
     (i) the date on which a summons in respect of an offence against this Act (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
-    (ii) if the defendant is arrested under a warrant under section 19 or section 150 of the Summary Proceedings Act 1957 in respect of any such offence, the date on which the defendant is so arrested; or
+    (ii) if the defendant is arrested under a warrant under section 34 of the Criminal Procedure Act 2011 in respect of any such offence, the date on which the defendant is so arrested; or
     (iii) in any case to which subparagraph (i) or subparagraph (ii) does not apply, the date on which the defendant is first charged in court with any such offence; and
   (b) state the full name and address and the occupation of the person and the date of the alleged offence; and
   (c) identify the private analyst to whom the part of the blood specimen is to be sent and the address of the private analyst.
@@ -1945,7 +1941,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 
 ### 75A Certificates of compliance for evidential breath-testing devices
 (1) An evidential breath-testing device must be supported by a certificate of compliance given under this section by a person authorised for the purpose by the Science Minister.
-(2) At any trial or defended hearing for an offence involving excess breath alcohol recorded by the device (being an offence committed on or after the commencement of this section), the prosecution must produce to the court a certified copy of the certificate of compliance. The certification must be given by a person authorised for the purpose by the Commissioner and must state that the copy is a true copy of the original certificate.
+(2) At any trial for an offence involving excess breath alcohol recorded by the device (being an offence committed on or after the commencement of this section), the prosecution must produce to the court a certified copy of the certificate of compliance. The certification must be given by a person authorised for the purpose by the Commissioner and must state that the copy is a true copy of the original certificate.
 (3) Subject to subsection (4), a certificate of compliance or a certified copy of it that is produced under subsection (2) is for all purposes conclusive evidence of the matters stated in the certificate, and neither the matters stated in the certificate nor the manufacturer's specifications for the device concerned may be challenged, called into question, or put in issue in any proceedings in respect of an offence involving excess breath alcohol recorded by the device.
 (4) In the absence of proof to the contrary, a document purporting to be a certificate of compliance or a certified copy of a certificate of compliance—
   (a) must be treated as such a certificate or certified copy; and
@@ -2007,7 +2003,7 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 ### 79A Offence to carry on transport service without licence
 (1) A person commits an offence if the person carries on any transport service without the appropriate current licence.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
-(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on summary conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Agency specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
+(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Agency specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
 (4) Any fees and charges incurred with respect to an impoundment under subsection (3) are recoverable from the convicted person by the vehicle recovery service operator or storage provider.
 (5) Nothing in subsection (4) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
 (6) A person may not remove or release from storage an impounded motor vehicle, unless allowed to do so under this Act.
@@ -2015,7 +2011,7 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 (8) The Agency, or a person authorised for the purpose by the Agency, may enter into such arrangements with vehicle recovery service operators and storage providers as the Agency considers necessary for the purposes of this section.
 
 ### 79B Provision of incorrect information
-A licence holder or person having control of a transport service who notifies the Agency that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+A licence holder or person having control of a transport service who notifies the Agency that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 79C Failure to present vehicle for inspection
 (1) A transport service licence holder commits an offence if he or she fails to present his or her transport service vehicle for inspection when required to do so by the Agency.
@@ -2073,7 +2069,7 @@ The court may require a transport service licence holder to sit, or re-sit, the 
 
 ### 79M Penalties for failure to pay passenger service fares
 (1) A person who fails to pay a passenger service or public transport service fare that he or she is liable to pay commits an infringement offence.
-(2) The maximum penalty, on summary conviction for an offence against subsection (1), is a fine not exceeding $500.
+(2) The maximum penalty, on conviction for an offence against subsection (1), is a fine not exceeding $500.
 (3) For the purposes of this section, public transport service has the same meaning as in section 5 of the Land Transport Management Act 2003.
 
 ## Part 6B — Offences relating to work time and logbooks
@@ -2327,7 +2323,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
   (b) the enforcement authority enters into an arrangement to pay under section 21(3A) of the Summary Proceedings Act 1957.
 (6) The provisions referred to in subsection (5) are as follows:
   (a) the date on which the infringement notice was issued is to be treated as the date on which the offence was committed; and
-  (b) a summary conviction for the offence is to be treated as having been entered against the offender on the date of the payment of the infringement fee or the date on which the arrangement to pay was entered into, as the case may be.
+  (b) a conviction for the offence is to be treated as having been entered against the offender on the date of the payment of the infringement fee or the date on which the arrangement to pay was entered into, as the case may be.
 
 ### 89 Notice of demerit points
 (1) If 50 or more demerit points have been recorded against a person, the Agency must, when reasonably practicable, send that person a notice in writing telling the person—
@@ -2664,7 +2660,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
     (i) section 35(1)(a) or (b):
     (ii) section 36(1):
     (iii) section 36A(1)(a) or (c):
-    (iv) section 36A(2):
+    (iv) section 36A(2) or (3):
     (v) section 39(1):
     (vi) section 56(1) or (2):
     (via) section 57A(1):
@@ -2824,10 +2820,10 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (1) A person who has been disqualified by order of a District Court from holding or obtaining a driver licence may appeal to the High Court against a decision of a District Court by—
   (a) refusing to grant the person a limited licence; or
   (b) refusing to reduce the person's disqualification.
-(2) If it thinks fit, a District Court may, on an application by a person who has appealed to the High Court under subsection (1) or section 107 or section 115 of the Summary Proceedings Act 1957, defer the operation of the disqualification order pending the determination of the appeal.
+(2) If it thinks fit, a District Court may, on an application by a person who has appealed to the High Court under subsection (1) or Part 6 of the Criminal Procedure Act 2011, defer the operation of the disqualification order pending the determination of the appeal.
 (2A) If the District Court refuses to defer the operation of the disqualification order pending the appeal, the person who applied for the disqualification order to be deferred may appeal to the High Court against that decision of the District Court.
-(2B) Part 4 of the Summary Proceedings Act 1957 applies, with the necessary modifications, to an appeal to the High Court under subsection (1) or subsection (2A).
-(3) A person who is disqualified by an order of the High Court from holding or obtaining a driver licence may, with the leave of the Court of Appeal, appeal to that court against a decision of the High Court—and the provisions of subsections (3) to (5) of section 379A of the Crimes Act 1961 apply with the necessary modifications, as if it were an appeal under that section.
+(2B) Subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies, with the necessary modifications, to an appeal to the High Court under subsection (1) or subsection (2A).
+(3) A person who is disqualified by an order of the High Court from holding or obtaining a driver licence may, with the leave of the Court of Appeal, appeal to that court against a decision of the High Court—and the provisions of subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies with the necessary modifications, as if it were an appeal under that section.
   (a) refusing to grant the person a limited licence; or
   (b) refusing to remove the person's disqualification;—
 (4) If an application is made to the Court of Appeal for leave to appeal to that court against a sentence of a District Court or the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the determination of the appeal.
@@ -3140,12 +3136,12 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
   (d) may, if the parking warden believes on reasonable grounds that a vehicle on a road causes an obstruction in the road or to any vehicle entrance to any property or that the removal of the vehicle is desirable in the interests of road safety or for the convenience or in the interests of the public,—
     (i) enter, or authorise another person to enter, the vehicle for the purpose of moving it or preparing it for movement; and
     (ii) move, or authorise another person to move, the vehicle to any place where it does not constitute a traffic hazard.
-(2) Every person commits an offence and is liable to a fine not exceeding $1,000 who—
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) fails to comply with any direction given under subsection (1)(b); or
   (b) gives, in response to a direction given under subsection (1)(b), any information that the person knows to be false.
 (3) Every person to whom any direction is given under the authority of subsection (1) must comply with the direction, and no person may do any act that is for the time being forbidden by any direction given under the authority of subsection (1).
 (4) A person who is authorised by a parking warden to enter a vehicle for the purpose of moving it or preparing it for movement or to move a vehicle to a place where it does not constitute a traffic hazard may do so, but must do everything reasonably necessary to ensure that the vehicle is not damaged while doing so.
-(5) Every person commits an offence and is liable for a fine not exceeding $1,000 if the person—
+(5) Every person commits an offence and is liable on conviction for a fine not exceeding $1,000 if the person—
   (a) has possession of a vehicle as a result of its being moved under subsection (1)(d); and
   (b) fails to deliver possession of the vehicle, as soon as practicable, to a person who produces satisfactory evidence, at any reasonable time, to the effect that the person was lawfully entitled to possession of the vehicle immediately before it was moved.
 
@@ -3208,7 +3204,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (2) In proceedings taken against a person under paragraph (b) or paragraph (c) of subsection (1), in the absence of proof to the contrary, it must be presumed that—
   (a) the defendant was the driver or person in charge of the vehicle at the time of the alleged offence (whether or not the person is an individual); and
   (b) the acts or omissions of the driver or person in charge of the vehicle at that time were the acts or omissions of the defendant.
-(3) It is a defence to proceedings against a person for a moving vehicle offence or a special vehicle lane offence if another person has, by virtue of an order under the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
+(3) It is a defence to proceedings against a person for a moving vehicle offence or a special vehicle lane offence if another person has, by virtue of an order under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
 (4) It is a defence to proceedings against a person under paragraph (b) or paragraph (c) of subsection (1) if,—
   (a) at the time the alleged offence was committed,—
     (i) the person was not lawfully entitled to possession of the vehicle (either jointly with any other person or severally); or
@@ -3231,7 +3227,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (2) Subject to subsection (4), in any proceedings taken against a person under subsection (1)(b) or (c), in the absence of proof to the contrary, it must be presumed that—
   (a) the person was the driver, person in charge, and user of the vehicle at the time of the alleged offence (whether or not the person is an individual); and
   (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
-(3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
+(3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
 (4) It is a defence to proceedings taken against a person under subsection (1)(b) or (c) if—
   (a) the person proves that, at the time the alleged offence was committed,—
     (i) he or she was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
@@ -3261,16 +3257,16 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 
 **Commencement of proceedings**
 
-### 135 Offences punishable summarily
-(1) Offences against this Act are punishable on summary conviction except where this Act otherwise provides.
-(1A) Every information for an offence against Part 6A or Part 6B must be laid by the Agency or an enforcement officer.
-(1B) In the absence of proof to the contrary it is presumed that every information for an offence against Part 6A or Part 6B has been laid by a person authorised to do so under subsection (1A).
-(2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any summary offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles), that is not punishable by imprisonment.
+### 135 Commencing proceedings, and jurisdiction, for offences
+(1)
+(1A) Proceedings for an offence against Part 6A or 6B must be commenced by the Agency or an enforcement officer.
+(1B) In the absence of proof to the contrary, it is presumed that proceedings for an offence against Part 6A or 6B have been commenced by a person authorised to do so under subsection (1A).
+(2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any category 1 offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles).
 
 ### 136 Time for instituting proceedings
-(1) In proceedings for an offence punishable on summary conviction against this Act, the court may dismiss the information if satisfied that the person charged has been prejudiced in the person's defence by any unreasonable delay in instituting the proceedings or in notifying the person of the time, place, and nature of the offence.
+(1) In proceedings for a category 1 or 2 offence against this Act, the court may dismiss the charge if satisfied that the person charged has been prejudiced in the person's defence by any unreasonable delay in instituting the proceedings or in notifying the person of the time, place, and nature of the offence.
 (2) If a delay in instituting the proceedings has been caused by a change in the address of the defendant, the delay is not an unreasonable delay for the purposes of this section.
-(3) Section 14 of the Summary Proceedings Act 1957 does not apply to a prosecution for—
+(3) Section 25 of the Criminal Procedure Act 2011 does not apply to a prosecution for—
   (a) an offence against—
     (i) section 32 that involves driving while disqualified or contrary to the conditions of a licence, an alcohol interlock licence, a zero alcohol licence, or a limited licence; or
     (ii) section 44 that involves giving information that the person knows to be false or misleading; or
@@ -3289,10 +3285,10 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 **Infringement offences**
 
 ### 138 Infringement offences
-(1) If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the alleged offence, unless it is an overloading offence; or
+(1) If a person is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 139.
-(2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where the enforcement authority proceeds with an infringement offence summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the enforcement authority commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 139 Issue of infringement notice
 (1) If an enforcement officer has reasonable cause to believe an infringement offence is being or has been committed by a person, an infringement notice in respect of that offence may be issued to that person by an enforcement officer.
@@ -3301,13 +3297,13 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (b) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (c) by sending it, or a copy of it, by post addressed to him or her at his or her last known place of residence or business or postal address; or
   (d) if the person is a holder of a land transport document, by serving it, or a copy of it, by post on that person at his or her last address for service provided for the purposes of that document.
-(3) For the purposes of the Summary Proceedings Act 1957,—
-  (a) an infringement notice attached to a vehicle under paragraph (a) of subsection (2) is to be treated as having been served when it is attached to the vehicle:
-  (b) an infringement notice sent to a person by post under paragraph (c) or paragraph (d) of that subsection is to be treated as having been served on the person when it would have been delivered in the ordinary course of post.
+(3) An infringement notice that—
+  (a) is attached to a vehicle under subsection (2)(a) must be treated as having been served when it is attached to the vehicle:
+  (b) is sent to a person by post under subsection (2)(c) or (d) must be treated as having been served on the person when it would have been delivered in the ordinary course of post.
 (4)
 (5)
 (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
-  (a) the user of the vehicle may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) the user of the vehicle may be proceeded against for the alleged offence under the Criminal Procedure Act 2011; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
 (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
 
