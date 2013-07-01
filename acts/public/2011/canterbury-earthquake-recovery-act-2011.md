@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -422,7 +422,7 @@ The chief executive may investigate any matter or cause any matter to be investi
 
 ### 42 Offences relating to works
 (1) A person commits an offence if the person fails to comply with section 38(4)(a) or with a notice given under section 39(2)(c).
-(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200,000.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
 (3) It is a defence to a charge against a person in relation to a failure to comply with section 38(4)(a) or with a notice given under section 39(2)(c) if the defendant proves—
   (a) that the defendant took all reasonable steps to ensure that the defendant complied with that provision or notice; or
   (b) that, in the circumstances of the particular case, the defendant could not reasonably have been expected to comply with that provision or notice.
@@ -455,7 +455,7 @@ The chief executive may restrict or prohibit access by any person or specified c
 
 ### 47 Offences relating to access and roads
 (1) A person commits an offence if the person contravenes a restriction or prohibition imposed under section 45 or 46.
-(2) A person who commits an offence under this section is liable on summary conviction,—
+(2) A person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -759,7 +759,7 @@ A compliance order must be served on the person who is the subject of the order.
 
 ### 81 Offence of breaching compliance order
 (1) A person commits an offence against this Act who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order issued under section 77.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
 
 **Other matters**
 
