@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -78,7 +78,7 @@ An employee's entitlement to rights and benefits in respect of parental leave an
 (4) This section overrides section 2A.
 
 ### 2AC Multiple employments of teachers
-(1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 Board of Trustees to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
+(1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 board of trustees to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
 (2) In subsection (1),—
   - **board of trustees** means a board of trustees constituted under Part 9 of the Education Act 1989
   - **integrated school** has the same meaning as in section 145 of the Education Act 1989
@@ -974,8 +974,8 @@ The department may not recover any payment or part of a payment under this Part 
   (a) makes any statement knowing it to be false in any material particular; or
   (b) does or says anything (including failing to provide information requested under section 71W), or omits to do or say anything, with the intention of misleading or attempting to mislead the department or any other person concerned in the administration of this Act.
 (2) The purpose is for that person or another person to receive or to continue to receive any payment or entitlement under this Part.
-(3) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
-(4) An information in respect of an offence against this section may be laid at any time within 6 months after the earlier of—
+(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
+(4) A charging document in respect of an offence against this section may be filed at any time within 6 months after the earlier of—
   (a) the date when the alleged offence first became known to the department; and
   (b) the date when the alleged offence should reasonably have become known to the department.
 
@@ -1069,9 +1069,6 @@ Part 10 of the Employment Relations Act 2000 applies to the extent applicable an
 The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
 
 ### 75 Consequential amendments
-[Repealed]
-
-###
 [Repealed]
 
 ### 76 Transitional provisions
