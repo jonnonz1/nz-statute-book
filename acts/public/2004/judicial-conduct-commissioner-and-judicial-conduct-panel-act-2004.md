@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2010-03-23_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -303,7 +303,7 @@ Part 2 of Schedule 2 applies in relation to Judicial Conduct Panels.
 (3) Any person may, at any time, apply to a Panel for an order revoking, in whole or in part, an order made by it under subsection (1), and the Panel may grant or refuse the application as the Panel thinks fit.
 (4) If a person is unable to apply to the Panel for an order under subsection (3) because the Panel has ceased to function, the person may apply to the Court of Appeal for an order revoking, in whole or in part, an order made by the Panel under subsection (1).
 (5) A person commits an offence if he or she acts in contravention of any order made under this section by a Panel.
-(6) A person who commits an offence against subsection (5) is liable on summary conviction,—
+(6) A person who commits an offence against subsection (5) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $3,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
