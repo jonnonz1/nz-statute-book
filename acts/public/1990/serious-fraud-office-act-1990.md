@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -242,7 +242,7 @@ Any decision by the Director—shall not be challenged, reviewed, quashed, or ca
 Nothing in section 5 or section 6 or section 9 or section 10 shall require—to comply with any requirement imposed pursuant to any of those sections.
   (a) any person in his or her capacity as an officer of the Inland Revenue Department; or
   (b) any person in his or her capacity as a constable or the Police Department; or
-  (c) any person in his or her capacity as a member of the Statistics New Zealand,—
+  (c) any person in his or her capacity as a member of Statistics New Zealand,—
 
 ### 26 Admissibility of evidence
 Subject to section 28, no evidence that is lawfully obtained under section 5 or section 6 or section 9 or section 10 shall be inadmissible by reason only of the fact that it was so obtained.
@@ -277,7 +277,7 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
 (1) The provisions of the State Sector Act 1988 relating to the delegation of functions or powers shall apply in all respects to the Serious Fraud Office:
   provided that no delegation of—shall be valid unless it is to a designated member and is in writing.
     (a) any power conferred by Part 1 or Part 2; or
-    (b) any power to authorise, under section 36(2) or section 37(3)(b) or section 39(2)(b), the disclosure of protected information,—
+    (b) any power to authorise, under section 36(2) or section 37(3)﻿(b) or section 39(2)﻿(b), the disclosure of protected information,—
 (2) For the purposes of the provisions of the State Sector Act 1988 relating to the delegation of functions or powers, any person who is seconded to the Serious Fraud Office shall be treated as if that person were an employee of the Serious Fraud Office.
 
 ### 34 Exercise of powers by outside investigators
@@ -310,7 +310,7 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
   (d) for the purposes of any prosecution anywhere; or
   (e) to any person who the Director is satisfied has a proper interest in receiving such information.
 (3) This section is subject to section 37 and section 39.
-(4) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
+(4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
 
 ### 37 Secrecy of information protected under Inland Revenue Department Act 1974
 (1) Every member of the Serious Fraud Office shall observe the strictest secrecy in relation to revenue information.
@@ -324,7 +324,7 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
     (ii) to any Judge for the purpose of obtaining a search warrant under this Act for the purpose of investigating or prosecuting any inland revenue offence; or
     (iii) to any person commencing or conducting any proceedings relating to any suspected inland revenue offence; or
     (iv) to any court hearing any proceedings relating to any suspected inland revenue offence.
-(4) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes this section.
+(4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes this section.
 
 ### 38 Disclosure to Serious Fraud Office of information protected under other Acts
 (1) Any information which is protected under any Act other than the Tax Administration Act 1994 or the Statistics Act 1975 may, notwithstanding any provision of that Act, be disclosed to any member of the Serious Fraud Office for the purpose of investigating or prosecuting any offence involving serious or complex fraud.
@@ -340,13 +340,13 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
     (ii) to any Judge for the purpose of obtaining a search warrant under this Act:
     (iii) to any person commencing or conducting any proceedings relating to any suspected offence involving serious or complex fraud:
     (iv) to any court hearing any proceedings relating to any suspected offence involving serious or complex fraud.
-(3) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
+(3) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
 
 ### 40 Obligation to inform that protected information is secret
 (1) Every person who discloses any protected information pursuant to this Act shall inform the recipient—
   (a) that the recipient is, in accordance with section 41, under an obligation to observe the strictest secrecy in relation to the information; and
   (b) that, if the recipient discloses the information pursuant to section 41, the recipient will be bound by the obligation that is imposed by paragraph (a).
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who knowingly contravenes this section.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who knowingly contravenes this section.
 
 ### 41 Secrecy to be observed by other persons to whom protected information is disclosed under this Act
 (1) No person to whom any protected information is disclosed pursuant to this Act (whether by a member of the Serious Fraud Office or by any other person) shall disclose that information in any way whatever to any other person unless the disclosure is,—
@@ -359,22 +359,22 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
   (c) in the case of any information protected under any Act other than the Tax Administration Act 1994,—
     (i) authorised by the person who disclosed the information to the Serious Fraud Office; or
     (ii) necessary for the purposes of commencing or conducting any proceedings relating to any suspected offence involving serious or complex fraud.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes subsection (1)(a) or subsection (1)(c).
-(3) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes subsection (1)(b).
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes subsection (1)﻿(a) or subsection (1)﻿(c).
+(3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes subsection (1)﻿(b).
 
 ### 42 Authorisations to disclose protected information
-Every authorisation given pursuant to section 36(2) or section 37(3)(b) or section 39(2)(b)—
+Every authorisation given pursuant to section 36(2) or section 37(3)﻿(b) or section 39(2)﻿(b)—
   (a) shall be in writing; and
   (b) may be given subject to such conditions as the Director thinks fit; and
   (c) may authorise the disclosure of information to any person or class of persons, or, subject to paragraph (d), may authorise the general disclosure of information; and
-  (d) in the case of an authorisation given pursuant to section 37(3)(b) or section 39(2)(b), shall only authorise the disclosure of specified information; and
+  (d) in the case of an authorisation given pursuant to section 37(3)﻿(b) or section 39(2)﻿(b), shall only authorise the disclosure of specified information; and
   (e) shall expire at the time when the person to whom it is given ceases to be a member of the Serious Fraud Office.
 
 ### 43 Protected information may cease to be secret
 (1) For the purposes of this Act, protected information shall cease to be protected information if—
   (a) it is lawfully released in any court proceedings; or
-  (b) it is lawfully released under section 36 or section 37(3)(b)(i) or section 39(2)(b)(i) in circumstances where the Director informs the person to whom the information is disclosed, by notice in writing, that the information is no longer protected information.
-(2) The Director shall not serve any such notice in respect of information that is released under section 37(3)(b)(i) or section 39(2)(b)(i) unless the person who disclosed the information to the Serious Fraud Office consents.
+  (b) it is lawfully released under section 36 or section 37(3)﻿(b)﻿(i) or section 39(2)﻿(b)﻿(i) in circumstances where the Director informs the person to whom the information is disclosed, by notice in writing, that the information is no longer protected information.
+(2) The Director shall not serve any such notice in respect of information that is released under section 37(3)﻿(b)﻿(i) or section 39(2)﻿(b)﻿(i) unless the person who disclosed the information to the Serious Fraud Office consents.
 
 ### 44 Persons ceasing to be members of Serious Fraud Office under continuing obligation of secrecy
 Every person who ceases to be a member of the Serious Fraud Office—
@@ -384,7 +384,7 @@ Every person who ceases to be a member of the Serious Fraud Office—
 **Miscellaneous offences and penalties**
 
 ### 45 Offence to obstruct investigation, etc
-Every person commits an offence, and is liable on conviction on indictment,—who,—
+Every person commits an offence, and is liable on conviction,—who,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $15,000:
   (b) in the case of a corporation, to a fine not exceeding $40,000,—
   (c) without lawful justification or excuse, resists, obstructs, or delays any member of the Serious Fraud Office in the exercise of any power conferred by section 9; or
@@ -398,7 +398,7 @@ Every person commits an offence, and is liable on conviction on indictment,—wh
   (e) in the course of complying with any requirement imposed pursuant to section 5 or section 9, gives an answer to any question, or supplies any information, or produces any document, or provides any explanation, knowing that it is false or misleading in a material particular or being reckless as to whether it is so false or misleading.
 
 ### 46 Offence to destroy, alter, or conceal records, etc
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who, with intent to defeat any investigation being carried out or likely to be carried out by the Serious Fraud Office, or with intent to prevent the Serious Fraud Office exercising any power under this Act,—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who, with intent to defeat any investigation being carried out or likely to be carried out by the Serious Fraud Office, or with intent to prevent the Serious Fraud Office exercising any power under this Act,—
   (a) destroys, alters, or conceals any book, document, or record; or
   (b) sends any book, document, or record out of New Zealand.
 (2) If, in any prosecution for any such alleged offence, it is proved that the person charged with the offence has—the onus of proving that in so doing that person had not acted in contravention of this section shall lie on that person.
@@ -406,7 +406,7 @@ Every person commits an offence, and is liable on conviction on indictment,—wh
   (b) sent any book, document, or record out of New Zealand,—
 
 ### 47 Offence to resist search
-Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, any warrant issued under this Act.
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, any warrant issued under this Act.
 
 **Miscellaneous provisions**
 
@@ -447,7 +447,7 @@ The Director may exercise any power conferred by this Act notwithstanding—
   (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
 (2) Where a notice or other document is to be given to a corporation for the purposes of this Act, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subsection (1) shall be deemed to be service on the corporation.
 (3) Where a notice or other document is to be given to a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (2) shall be deemed to be service on the partnership.
-(4) Where a notice or other document is sent by post to a person in accordance with subsection (1)(c), it shall be deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
+(4) Where a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it shall be deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
 
 ### 53 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for any of the following purposes:
