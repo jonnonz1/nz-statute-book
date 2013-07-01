@@ -1,5 +1,5 @@
 # International Energy Agreement Act 1976
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to vest powers in the Governor-General in Council and the Minister of Energy Resources to enable New Zealand to carry out its obligations under the International Energy Agreement
 
@@ -66,7 +66,7 @@ In this Act, unless the context otherwise requires,—
   (a) the cases and circumstances in which stocks (in New Zealand or elsewhere) are to be treated, in relation to any person, as his New Zealand stocks:
   (b) the extent to which stocks of a particular kind are to count towards compliance with a direction specifying stocks of another kind:
   (c) the method by which quantities are to be measured for different purposes.
-(6) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $10,000.
+(6) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000.
 
 ### 7 Power to obtain information
 (1) The Minister may give any direction under subsection (2) to a person who in the course of an undertaking carried on by him produces, acquires, distributes, supplies, or uses petroleum or engine fuel, where it appears to the Minister that the direction is, or is likely to be, necessary to enable New Zealand to carry out such obligations as it may have under the International Energy Agreement to supply information to the International Energy Agency.
@@ -74,8 +74,8 @@ In this Act, unless the context otherwise requires,—
   (a) to keep such books, accounts, and records relating to petroleum or engine fuel as may be specified by the Minister:
   (b) to furnish, as and when specified by the Minister, returns and information relating to petroleum or engine fuel:
   (c) to furnish, as and when specified by the Minister, information and forecasts relating to the undertaking itself or its activities.
-(3) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000.
-(4) Any person who in compliance or purported compliance with a direction given under subsection (2) makes, or causes to be made on his behalf, a statement which he knows to be false or does not believe to be true commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000.
+(3) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000.
+(4) Any person who in compliance or purported compliance with a direction given under subsection (2) makes, or causes to be made on his behalf, a statement which he knows to be false or does not believe to be true commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000.
 (5)
 (6)
 
@@ -127,39 +127,3 @@ Where any body corporate is convicted of an offence against this Act or against 
 | United Kingdom | 3 | 6 | 9 |
 | United States | 3 | 48 | 51 |
 | Totals | 48 | 100 | 148 |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
