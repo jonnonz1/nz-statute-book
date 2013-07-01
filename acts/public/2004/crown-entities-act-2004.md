@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2013-02-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1407,10 +1407,10 @@ A statutory entity is a public authority for the purpose of the Inland Revenue A
 (2) Every person commits an offence against this Act who makes any statement or declaration, or gives any information or certificate, required by or under this Act, knowing it to be false or misleading.
 
 ### 172 Penalties for offences
-(1) Every person who commits an offence against section 171(1) is liable on summary conviction,—
+(1) Every person who commits an offence against section 171(1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000; or
   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $5,000.
-(2) Every person who commits an offence against section 171(2) is liable on summary conviction,—
+(2) Every person who commits an offence against section 171(2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $5,000; or
   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $15,000.
 
