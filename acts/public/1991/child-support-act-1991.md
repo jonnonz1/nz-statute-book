@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2013-04-17_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -1251,7 +1251,7 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 ### 89X Restriction on publication of reports of proceedings
 (1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this subpart.
 (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
-(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Nothing in this section applies to the publication of any report in any publication that—
@@ -1516,7 +1516,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
 ### 96P Restriction on publication of reports of proceedings
 (1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this Part.
 (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
-(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Nothing in this section applies to the publication of any report in any publication that—
@@ -1642,7 +1642,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
 ### 96ZF Restriction on publication of reports of proceedings
 (1) No person may, without the leave of the Commissioner or a Family Court, publish a report of any proceedings under this Part.
 (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
-(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Nothing in this section applies to the publication of any report in any publication that—
@@ -2772,7 +2772,7 @@ The authority conferred on the court by section 184 to make a charging order sha
 An order made under this Part for the purpose of enforcing payment of any money payable under this Act may be made in respect of arrears due under this Act up to the date of the order.
 
 ### 190 Power to issue summons to appear in court
-(1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a sentence of detention, as defined in the Summary Proceedings Act 1957, issue a summons in the prescribed form to that person.
+(1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a custodial sentence, as defined in section 4 of the Criminal Records (Clean Slate) Act 2004, issue a summons in the prescribed form to that person.
 (2) A summons issued under subsection (1) shall require the person, unless the amount of arrears of financial support (including any penalty or other charge imposed thereon under this Act) due under this Act is sooner paid, to appear at the time and place appointed in the summons to be examined orally by the District Court or Family Court as to the person's means and the reason for the alleged default.
 (3) The liable person shall produce at the examination all books, papers, and the documents relating to the person's debts and to the person's default under this Act.
 (4) If a summons issued under this section cannot be served or if a person on whom such a summons has been served fails to appear before the District Court or Family Court at the time and place specified in the summons, or at any subsequent time and place to which the examination is adjourned, a District Court or Family Court Judge may issue a warrant to arrest the person and bring the person before the court as soon as possible.
@@ -2785,7 +2785,7 @@ For the purpose of sections 190, 194, and 196, a certificate of arrears signed b
   (a) has possession of any book, paper, or document relating to the affairs or property of the liable person; or
   (b) is capable of giving information concerning the liable person's income from any sources or concerning the person's expenditure,—
 (2) Any person so summoned may be required to produce any book, paper, or document relating to the affairs, finances, or property of the liable person.
-(3) No person who is required by a summons issued under subsection (1) to travel more than 20 kilometres to attend the examination shall be bound to attend unless expenses in accordance with the scale prescribed by regulations made under the Summary Proceedings Act 1957 are tendered to that person.
+(3) No person who is required by a summons issued under subsection (1) to travel more than 20 kilometres to attend the examination shall be bound to attend unless expenses in accordance with the scale prescribed by regulations made under the Criminal Procedure Act 2011 are tendered to that person.
 (4) On the failure of any person to appear before the court in answer to a summons under subsection (1), a District Court or Family Court Judge may issue a warrant to arrest that person and bring that person before the court as soon as possible.
 
 ### 193 Execution of warrants
@@ -2801,7 +2801,7 @@ For the purpose of sections 190, 194, and 196, a certificate of arrears signed b
   (a) the liable person or the liable person's barrister or solicitor:
   (b) the Commissioner or the Commissioner's barrister or solicitor.
 (5) Any examination under section 190 may from time to time be adjourned by the court to a time and place to be appointed.
-(6) On any examination under section 190 of this Act, sections 46 to 49A of the Summary Proceedings Act 1957 shall apply, so far as they are applicable and with the necessary modifications, as if the examination were the hearing of a charge.
+(6) On any examination under section 190 of this Act, sections 168 and 206 of the Criminal Procedure Act 2011 apply, so far as they are applicable and with the necessary modifications, as if the examination were the hearing of a charge.
 
 ### 195 Orders by court
 Upon completion of an examination under section 190, the District Court or Family Court may, after giving the liable person and the Commissioner an opportunity to be heard, do any 1 or more of the following things:
@@ -2817,8 +2817,8 @@ Upon completion of an examination under section 190, the District Court or Famil
 (5) If a copy of the application and evidence referred to in subsection (2) cannot be served on the liable person or if the liable person fails to appear at the hearing of the application, the District Court or Family Court may issue a warrant to arrest the person and bring the person before the court as soon as possible.
 (6) A person to whom a warrant under subsection (5) is issued may execute it forthwith but shall not be obliged to do so if that person believes that the liable person to be arrested cannot be brought before the District Court or Family Court within 72 hours after his or her arrest.
 (7) A warrant under subsection (5) shall cease to have effect if the amount due under this Act is paid.
-(8) An order made under subsection (1) shall have effect as if the liable person, following conviction on an information, had been sentenced to community work.
-(9) Where a District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court on an information.
+(8) An order made under subsection (1) shall have effect as if the liable person, following conviction, had been sentenced to community work.
+(9) Where a District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court.
 (10) Doing community work under this section shall not operate to extinguish or affect the liability of the respondent under this Act.
 (11) Section 30 of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
 
@@ -2836,7 +2836,7 @@ Every liable person who is summoned or brought before a District Court or Family
   (b) an order that the liable person do not leave New Zealand without the written permission of the court:
   (c) an order that the liable person surrender to the court for such period as the court specifies any tickets or travel documents in the person's possession.
 (3) On making an order under subsection (2)(b) or (c), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks proper.
-(4) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
+(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
 (5) A person against whom an order under subsection (2) is in force may apply to the court for the discharge of the order, and the court may discharge the order accordingly.
 
 **Miscellaneous provisions**
@@ -2911,18 +2911,18 @@ Every person commits an offence against this Act who—
   (a) on the first occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $2,000:
   (b) on the second occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $4,000:
   (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000.
-(4) Every person who commits an offence against section 208(j) shall be liable to a fine not exceeding the maximum fine applicable to the offence committed by the person aided, abetted, incited, or conspired with.
+(4) Every person who commits an offence against section 208(j) shall be liable on conviction to a fine not exceeding the maximum fine applicable to the offence committed by the person aided, abetted, incited, or conspired with.
 
-### 211 Proceedings to be taken summarily
-All proceedings for offences against this Act shall be taken by way of summary prosecution before a District Court Judge upon the information of the Commissioner.
+### 211 Proceedings must be commenced by Commissioner
+All proceedings for offences against this Act must be commenced by filing a charging document in the name of the Commissioner.
 
-### 212 Information may charge several offences
-(1) Any information may charge the defendant with any number of offences against this Act if those offences are founded on the same set of facts or form or are part of a series of offences of the same or similar character.
-(2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
+### 212 Charging document may charge several offences
+(1) Any charging document may charge the defendant with any number of offences against this Act if those offences are founded on the same set of facts or form or are part of a series of offences of the same or similar character.
+(2) Where a charging document charges more than 1 such offence, particulars of each offence charged shall be set out separately in the charging document.
 (3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
-### 213 Information may be laid within 10 years
-Notwithstanding anything in the Summary Proceedings Act 1957 or in any other Act, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 10 years after the end of the child support year in which the offence was committed.
+### 213 Charging document may be filed within 10 years
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 or in any other Act, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 10 years after the end of the child support year in which the offence was committed.
 
 ## Part 13 — Reciprocal agreements
 
@@ -3063,7 +3063,7 @@ In any proceeding under this Act (other than criminal proceedings), and whether 
 (2) The power conferred by subsection (1) shall include power to call as a witness any party to the proceeding or the husband or wife of any party to the proceeding.
 (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceeding.
 (4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceeding or by any barrister or solicitor appointed to represent a child who is involved in the proceeding.
-(5) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
+(5) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
 (6) The expenses of any witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, shall be paid in the first instance out of public money appropriated by Parliament.
 
 ### 230 Proof of certain matters
@@ -3146,7 +3146,7 @@ In any proceeding under this Act the court may make such order as to costs as it
   - **officer of the Department** has the same meaning as in section 3 of the Tax Administration Act 1994
   - **person to whom this section applies** means any person who acquires or has access to or is given, through the agency of the Commissioner pursuant to this section, any information to which this section applies.
 (2) For the purposes of the Tax Administration Act 1994, the following communications shall be deemed to be communications of matters made for the purpose of carrying into effect the provisions of this Act:
-  (a) the communication of such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected indictable or summary offence being a prosecution or, as the case may be, an investigation in relation to—
+  (a) the communication of such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected offence being a prosecution or, as the case may be, an investigation in relation to—
     (i) any threat made by a liable parent against the welfare of the custodian of any child of that person or the welfare of that child; or
     (ii) any threat made by a liable spouse or partner against the welfare of the person to whom the liable spouse or partner is required to make payments under this Act; or
     (iii) any threat made by a liable person against the welfare of an officer of the Inland Revenue Department:
@@ -3175,7 +3175,7 @@ In any proceeding under this Act the court may make such order as to costs as it
   (b) where it is given by any persons referred to in subsection (2)(db) or (e), be kept by the Ministry of Justice as a permanent record; or
   (bb) if it is given by any persons referred to in subsection (2)(dc), be kept by the New Zealand Police as a permanent record; or
   (c) where it is given by any other person referred to in subsection (2), be kept by the Inland Revenue Department as a permanent record.
-(7) Every person to whom this section applies who knowingly acts in contravention of any provision of this section commits an offence against this section and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000.
+(7) Every person to whom this section applies who knowingly acts in contravention of any provision of this section commits an offence against this section and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000.
 (8) Notwithstanding anything in any other Act, nothing shall prevent the Commissioner or any officer of the Inland Revenue Department from—
   (a) using information obtained under this Act for the purposes of carrying into effect the provisions of any of the Inland Revenue Acts; or
   (b) using information obtained under any of the Inland Revenue Acts for the purposes of carrying into effect the provisions of this Act.
