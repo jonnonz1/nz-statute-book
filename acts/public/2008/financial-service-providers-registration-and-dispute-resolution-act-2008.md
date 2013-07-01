@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -164,7 +164,7 @@ The purpose of this Part is to—
 
 ### 11 No being in business of providing financial service unless registered
 (1) A person to whom this Act applies must not be in the business of providing a financial service unless that person is registered for that service under this Part.
-(2) Every person who knowingly breaches subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who knowingly breaches subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
@@ -172,7 +172,7 @@ The purpose of this Part is to—
 (1) A person to whom this Act applies must not—
   (a) hold out that the person is registered under this Act unless that person is registered under this Part; or
   (b) hold out that the person is registered in respect of a particular service or entitled, qualified, able, or willing to be in the business of providing a financial service unless that person is registered for that service under this Part.
-(2) Every person who knowingly breaches subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who knowingly breaches subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
@@ -234,8 +234,8 @@ A person is qualified to be registered as a financial service provider if—
   (b) the licensing authority, if the licensing authority knows that a financial service provider has ceased to be licensed:
   (c) the person responsible for an approved dispute resolution scheme or the reserve scheme of which a financial service provider was a member, if the person knows that the provider is no longer a member of that scheme.
 (2) The time within which a person must notify the Registrar under subsection (1) is 10 working days from the date the person comes to know about the change.
-(3) A financial service provider who breaches subsection (1)(a) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(4) A person who breaches subsection (1)(c) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) A financial service provider who breaches subsection (1)(a) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(4) A person who breaches subsection (1)(c) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Deregistration of financial service provider**
 
@@ -406,10 +406,10 @@ A person who searches a public register for personal information for a purpose t
 (4) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (5) A person must not obstruct or hinder the exercise of a power conferred by subsection (1).
 (6) If a registered financial service provider does not comply with a requirement under subsection (2)(a) within 20 working days from the date the requirement was notified to the provider, the Registrar may assume that the provider is no longer in the business of providing a financial service and sections 18 to 20 apply.
-(7) A person who knowingly fails to comply with a requirement under subsection (2) commits an offence and is liable on summary conviction,—
+(7) A person who knowingly fails to comply with a requirement under subsection (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $30,000:
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
-(8) A person who breaches subsection (5) commits an offence and is liable on summary conviction,—
+(8) A person who breaches subsection (5) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $30,000:
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 (9) In this section, relevant document means a document that contains information relating to whether a person—
@@ -429,7 +429,7 @@ A person who searches a public register for personal information for a purpose t
   (b) subject to the approval of the Registrar, with the consent of the person to whom it relates; or
   (c) subject to the approval of the Registrar, for the purposes of this Act; or
   (d) to the extent that the information, or information contained in the document or report, is available under any Act or in a public document.
-(3) A person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 39 Exercise of powers under section 37 not affected by appeal
 (1) Despite any other provision of any Act or any rule of law, if a person appeals or applies to the High Court in relation to an act or decision of the Registrar or a person authorised by the Registrar under section 37, until a decision on the appeal or application is given,—
@@ -449,7 +449,7 @@ If any financial service provider that is not an individual commits an offence a
 (1) Every person commits an offence who, in any document or information required by or for the purposes of this Part or by regulations (whether or not supplied to the Registrar),—
   (a) makes a representation knowing that it is false or misleading in a material particular; or
   (b) omits any matter knowing that the omission is false or misleading in a material particular.
-(2) A person who is convicted of an offence under subsection (1) is liable on summary conviction,—
+(2) A person who is convicted of an offence under subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
@@ -586,7 +586,7 @@ The purpose of this Part is to promote confidence in financial service providers
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 
 ### 49G Offence to fail to comply with District Court order
-(1) A member of an approved dispute resolution scheme or the reserve scheme who, knowing that the member is subject to an order made under section 49F, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(1) A member of an approved dispute resolution scheme or the reserve scheme who, knowing that the member is subject to an order made under section 49F, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $200,000.
 (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 49F(4).
 
 ### Subpart 2 — Approval of dispute resolution schemes
