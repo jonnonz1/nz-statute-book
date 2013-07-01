@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -217,7 +217,7 @@ All money required to be paid to the trustee or a nominated person of the truste
   (a)
   (b) the High Court on application made either by one-tenth in number of the unit holders of the unit trust or by a unit holder or unit holders holding at the date of the application not less than one-tenth of the value of the interests in the unit trust then held by unit holders.
 (2) Every such inspector shall have in relation to the unit trust and its manager and affairs all the powers conferred on an inspector in relation to a company and its affairs by section 171 of the Companies Act 1955 (except subsection (3) of that section); and those provisions, so far as they are applicable and with the necessary modifications, shall apply accordingly. The report of every such inspector who is appointed by the High Court shall be made to that court.
-(3) If any officer or agent of a company that is manager of a unit trust in respect of which an inspector has been appointed under this section refuses to produce to the inspector any book or paper which it is his duty under this section so to produce, or refuses to answer any question which is put to him by the inspector with respect to the affairs of the company or unit trust, that officer or agent commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
+(3) If any officer or agent of a company that is manager of a unit trust in respect of which an inspector has been appointed under this section refuses to produce to the inspector any book or paper which it is his duty under this section so to produce, or refuses to answer any question which is put to him by the inspector with respect to the affairs of the company or unit trust, that officer or agent commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
 (4) No such officer or agent shall be excused from answering any question put to him by an inspector with respect to the affairs of the company or unit trust on the ground that the answer may incriminate or tend to incriminate him, but no statement made by him in answer to any such question shall be admissible against him in criminal proceedings, except proceedings under the Crimes Act 1961 for making a false statement upon oath.
 
 ### 22 Court may confer additional powers of management
@@ -235,11 +235,11 @@ All money required to be paid to the trustee or a nominated person of the truste
   (b) indemnifying the trustee or manager or any such director or officer from any such liability.
 
 ### 25 Offences
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000,000 who—
   (a) issues any interest in a unit trust or offers any such interest to the public for subscription or purchase, or invites the public to subscribe for or purchase such an interest, in contravention of any provision of this Act; or
   (b) continues any activities related to any unit trust in contravention of subsection (3) of section 19.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of sections 9, 11, 11A, 11B, 14, and 20.
-(3) Every person who has at any time, whether before or after the commencement of this Act, been convicted of a crime involving dishonesty within the meaning of the Crimes Act 1961 commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, if, after the commencement of this Act, without the consent of the FMA, proof whereof shall lie on the person alleging consent, he acts as a director, officer, or responsible employee of a company that is the manager of a unit trust.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of sections 9, 11, 11A, 11B, 14, and 20.
+(3) Every person who has at any time, whether before or after the commencement of this Act, been convicted of a crime involving dishonesty within the meaning of the Crimes Act 1961 commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, if, after the commencement of this Act, without the consent of the FMA, proof whereof shall lie on the person alleging consent, he acts as a director, officer, or responsible employee of a company that is the manager of a unit trust.
 
 ### 26 Restriction on personal benefits by directors or officers
 (1) Every person who is a director or officer of a company that is the manager of a unit trust, or of a trustee corporation or company or bank that is the trustee of a unit trust, shall be a trustee for the benefit of the unit holders of any personal profit or benefit which he gains by availing himself of his position, whether by buying or selling or joining in buying or selling investments or securities or otherwise:
