@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -2144,11 +2144,11 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (2) Every person commits an offence who—
   (a) uses, or causes or permits to be used, any telephone device for the purpose of disturbing, annoying, or irritating any person, whether by calling up without speech or by wantonly or maliciously transmitting communications or sounds, with the intention of offending the recipient; or
   (b) in using a telecommunications device, knowingly gives any fictitious order, instruction, or message.
-(3) Every person who commits an offence against subsection (1) or subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 
 ### 113 Indecent telephone calls for pecuniary gain
 (1) Every person commits an offence against this Act who, in using a telephone device, uses or causes to be used indecent or obscene language, or makes or causes to be made a suggestion of an indecent or obscene nature, for the purpose of obtaining commercial gain.
-(2) Every person who commits an offence against subsection (1) is liable, on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable, on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
@@ -2313,7 +2313,7 @@ If work is urgent and necessary because of any defective equipment, or other eme
 
 ### 140 Offence to not comply with any of sections 135, 136, and 139
 (1) A network operator who fails to comply with any of sections 135, 136, and 139 commits an offence.
-(2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 141 Appeals by network operators to District Court
@@ -2347,7 +2347,7 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 
 ### 146 Offence not to comply with section 142 or section 145
 (1) A network operator who fails to comply with section 142 or section 145 commits an offence.
-(2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 147 Appeals by network operators to District Court
@@ -2410,7 +2410,7 @@ A network operator, in maintaining, repairing, altering, or removing a line that
 
 ### 152 Offence to contravene any of sections 149 to 151
 (1) A network operator who contravenes any of sections 149 to 151 commits an offence.
-(2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 153 Charging for access to road reserve
@@ -2575,7 +2575,7 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
 (5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
 
 ### 155M Offence to fail to comply with District Court order
-(1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under section 155L, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under section 155L, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 155L(4).
 
 ### 156 Notices to be in writing
@@ -4175,39 +4175,3 @@ Despite section 71(2), the following provisions of the principal Act do not appl
 
 ### 80 Operational separation undertakings cease to have effect
 The separation undertakings given by Telecom in favour of the Crown for the purposes of Part 2A (before its repeal and substitution by this Act) cease to have legal effect from the close of the day before separation day.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
