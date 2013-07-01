@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -384,7 +384,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
 
 ### 15 Providing credit for gambling prohibited
 (1) A person conducting gambling must not offer or provide credit if the person knows or ought to know that the credit is intended to be used for gambling.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) Subsection (1) does not apply to credit offered or provided by the holder of a casino operator’s licence to a person in circumstances that have been approved by—
   (a) the Authority under section 66 of the Casino Control Act 1990; or
   (b) the Gambling Commission under subsection (4).
@@ -398,7 +398,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (c) a message about preventing, minimising, or treating harm; or
   (d) an advertisement for gambling equipment intended for distribution only to buyers of gambling equipment; or
   (e) an overseas gambling advertisement in which the publicising or promotion of gambling or a gambling operator is incidental to the purpose of the advertisement.
-(3) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (4) The Governor-General may, by Order in Council, restrict the application of this section, if satisfied that an order is necessary to enable New Zealand to comply with its international obligations relating to trade in services that are or will become binding on New Zealand.
 
 ### 17 Regulations may specify property that must not be used to reward winners
@@ -427,8 +427,8 @@ A sales promotion scheme is authorised by this Act.
     (ii) to invite the public to participate in illegal gambling or to seek information about opportunities to do so; or
     (iii) to invite the public to commit money for illegal gambling or to seek information about opportunities to commit money for illegal gambling:
   (j) provides or installs gambling equipment if the person knows or ought to know that it is intended to be used for illegal gambling.
-(2) Every person who commits an offence against subsection (1)(a) or (b) is liable on summary conviction to a fine not exceeding $1,000.
-(3) Every person who commits an offence against subsection (1)(c) to (j) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1)(a) or (b) is liable on conviction to a fine not exceeding $1,000.
+(3) Every person who commits an offence against subsection (1)(c) to (j) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1279,17 +1279,17 @@ A class 4 venue licence is not transferable.
 (3) For all other class 4 venues, the information must be displayed at all times—
   (a) on a sign in the immediate area where gaming machines are located; and
   (b) on a sign that can be easily read by persons immediately outside each principal entrance.
-(4) The holder of a class 4 venue licence who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) The holder of a class 4 venue licence who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 83 Obligation on disposal of gaming machines
 (1) The holder of a class 4 operator’s licence must provide the following information to the Secretary within 20 working days of disposing of a gaming machine:
   (a) the means of disposal; and
   (b) the name of the acquirer of the gaming machine and the details necessary to contact the acquirer with ease.
-(2) The holder of a class 4 operator’s licence who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) The holder of a class 4 operator’s licence who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 84 Prohibition on certain gaming machines in class 4 venue
 (1) On and from the date that is 6 months after the commencement of this section, the holder of a class 4 venue licence must not operate, or allow to be operated, at the class 4 venue a gaming machine that is able to accept banknotes with a denomination greater than $20.
-(2) The holder of a class 4 venue licence who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) The holder of a class 4 venue licence who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Disabling gambling equipment and electronic monitoring of gaming machines**
 
@@ -1508,7 +1508,7 @@ On request from a territorial authority, the Secretary must provide—
 (3) If a venue manager contravenes this section, the holder of the class 4 operator’s licence—
   (a) must take immediate steps to disconnect all gaming machines at the class 4 venue and advise the Secretary of the disconnection; and
   (b) must not reconnect the gaming machines at the venue until the gaming machine profits have been banked.
-(4) A person who contravenes subsection (1) or (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) A person who contravenes subsection (1) or (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (5) In this section and section 105, gaming machine profits for a specified period means the turnover of the class 4 gambling in that period minus the total prizes paid in that period.
 
 ### 105 Interest, etc, on gaming machine profits
@@ -1517,11 +1517,11 @@ On request from a territorial authority, the Secretary must provide—
 (3) Unless the Secretary gives consent to the interest, investment return, or proceeds being transferred to another bank account, the funds must remain in the dedicated account specified in subsection (1) until the class 4 operator applies the funds—
   (a) to meet the costs of the class 4 gambling operation; or
   (b) to an authorised purpose.
-(4) A holder of a class 4 operator’s licence who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) A holder of a class 4 operator’s licence who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 106 Corporate society must apply or distribute net proceeds from class 4 gambling to or for authorised purpose
 (1) A corporate society must apply or distribute the net proceeds from class 4 gambling only to or for an authorised purpose specified in the corporate society’s licence.
-(2) A corporate society that fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A corporate society that fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) A court that convicts a corporate society of an offence under this section may—
   (a) make whatever orders are necessary to recover an amount of proceeds wrongly applied or distributed or to safeguard an amount not applied or distributed; and
   (b) order the application or distribution of an amount of proceeds not yet distributed.
@@ -1567,7 +1567,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (a) details of all applications received from persons or groups in the community for grants of net proceeds from class 4 gambling during that year and whether the applications have been accepted or declined; and
   (b) the amount of net proceeds from class 4 gambling granted, if any, in each case; and
   (c) the results of the corporate society’s annual review of the criteria, methods, systems, and policies it uses for considering the distribution of net proceeds from class 4 gambling.
-(5) A corporate society that fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) A corporate society that fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (6) For the purposes of this section, publish means—
   (a) publish in at least 1 newspaper; and
   (b) as specified by regulations made under section 114.
@@ -1578,7 +1578,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (b) report to the Secretary, on the relevant standard form, on—
     (i) the turnover of the gambling, and proceeds from the sale of fittings, chattels, and gambling equipment purchased from that turnover or investment return; and
     (ii) the final application or distribution of net proceeds from class 4 gambling under this section.
-(2) A corporate society that fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A corporate society that fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 112 Orders regarding application or distribution of net proceeds
 (1) The Secretary may apply for orders in accordance with subsections (2) and (3) if—
@@ -1599,8 +1599,8 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (c) provide, or be involved in decisions about who will provide, to the corporate society that conducts class 4 gambling at the venue, goods or services other than services listed in the class 4 venue agreement; or
   (d) provide, or be involved in decisions about who will provide, goods or services to recipients of grants of net proceeds from class 4 gambling conducted by a corporate society at the venue if the goods or services constitute at least part of the authorised purpose for which net proceeds were granted; or
   (e) be involved in decisions about who will provide goods or services to recipients of grants of net proceeds from class 4 gambling conducted by a corporate society that operates at the venue (whether or not the net proceeds derive from that venue) if the goods or services constitute at least part of the authorised purpose for which net proceeds were granted.
-(2) A key person in relation to a venue who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(3) A key person in relation to an operator’s licence or the holder of a class 4 operator’s licence who knowingly allows a key person in relation to a venue to contravene this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A key person in relation to a venue who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(3) A key person in relation to an operator’s licence or the holder of a class 4 operator’s licence who knowingly allows a key person in relation to a venue to contravene this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 114 Regulations regarding application or distribution of net proceeds from class 4 gambling
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes relating to the application and distribution of net proceeds from class 4 gambling:
@@ -1618,7 +1618,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
 
 ### 115 Payment of commission prohibited
 (1) The payment of, or receipt of, commission by any person for conducting class 4 gambling is prohibited.
-(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 116 Secretary may limit or exclude costs of corporate society
 (1) The Secretary may, by notice in the Gazette, set limits on, or exclude, the costs that may be incurred by a corporate society that conducts class 4 gambling.
@@ -1650,7 +1650,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (a) the results of the investigation and audit:
   (b) a summary of the results of the investigation and audit with details of where to obtain the full results.
 (4) The Secretary may recover the costs of investigating or auditing from the holder of class 4 operator’s licences in accordance with regulations made under section 370.
-(5) A person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 118 Certain persons must not seek, receive, or offer benefits with conditions attached
 (1) A holder of, or key person in relation to, a class 4 operator’s licence or a class 4 venue licence must not knowingly receive or seek money, a benefit, an advantage, a privilege, or a gift from the following persons if the receipt has a condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
@@ -1666,7 +1666,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (a) do not exceed the amounts specified in any venue agreement; and
   (b) do not exceed the limits in section 116; and
   (c) are otherwise lawful.
-(5) A person who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(5) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (6) To avoid doubt, this section applies whether—
   (a) the condition is attached either before or after the money is received by the person concerned; or
   (b) any money is actually received by the person concerned.
@@ -1692,7 +1692,7 @@ A casino may be operated only by a person who holds a casino operator’s licenc
 (2) Subsection (3) applies to persons (other than persons referred to in subsection (1)(a) and (b)) who, at the time this section commences, use in their branding the word casino, or any other word or get-up, in a way that conveys the impression that a place is a casino and accessible to the public.
 (3) Persons referred to in subsection (2) must cease using the word or get-up referred to in subsection (2) 18 months after the commencement of this section.
 (4) This section does not override other laws affecting branding and use of words and get-up.
-(5) A person who contravenes subsection (1) or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(5) A person who contravenes subsection (1) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 122 Existing casino licences and agreements
 (1) An existing casino operator’s licence becomes, and must be treated as if it were, a casino operator’s licence granted under section 130.
@@ -2150,13 +2150,13 @@ If the holder of a certificate of approval is employed in a casino or engaged by
 (1) The holder of a certificate of approval—
   (a) must surrender the certificate of approval to the Secretary if the Secretary cancels or suspends it; or
   (b) may surrender the certificate of approval to the Secretary by notice accompanied by the certificate of approval.
-(2) A person who fails to comply with subsection (1)(a) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+(2) A person who fails to comply with subsection (1)(a) commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### 170 Restriction on holder of certificate of approval
 (1) The holder of a certificate of approval must not, in relation to a casino in which he or she is employed or with which he or she is associated,—
   (a) gamble; or
   (b) solicit or accept tips, gratuities, or other benefits from a player or customer.
-(2) A person who fails to comply with this section is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who fails to comply with this section is liable on conviction to a fine not exceeding $5,000.
 
 ### 171 Appeal to Gambling Commission regarding certificate of approval
 (1) A person may appeal to the Gambling Commission against a decision of the Secretary to—
@@ -2178,7 +2178,7 @@ If the holder of a certificate of approval is employed in a casino or engaged by
 
 ### 172 Restricted hours of operation
 (1) A holder of a casino licence must not conduct casino gambling on Christmas Day, Good Friday, or on Anzac Day between the hours of 3 am and 1 pm.
-(2) A holder of a casino licence who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A holder of a casino licence who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) The Governor-General may, by Order in Council, make regulations prescribing the days on, and the hours during, which a licensed casino may conduct casino gambling and the activities that may be undertaken.
 (4) Regulations made under subsection (3) must not override subsection (1) but may impose restrictions that are additional to the restrictions in that subsection.
 
@@ -2195,7 +2195,7 @@ Despite the Sale of Liquor Act 1989, an on-licence granted under that Act for a 
   (b) the permissible minimum and maximum bets:
   (c) how winning bets will be paid.
 (2) If a person in a casino asks for a copy of the game rules for a game, the holder of the casino operator’s licence must make a copy available for examination without delay.
-(3) The holder of a casino licence who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(3) The holder of a casino licence who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 176 Training for employees
 (1) The holder of a casino operator’s licence must provide training courses for conducting games for persons employed, or to be employed, in conducting games in the casino.
@@ -2203,7 +2203,7 @@ Despite the Sale of Liquor Act 1989, an on-licence granted under that Act for a 
 (3) The holder of the casino operator’s licence must not employ a person to conduct a game unless the employee has completed the approved course of training for the conduct of that game.
 (4) The holder of the casino operator’s licence may conduct simulated games for training purposes on terms approved by the Secretary.
 (5) The Secretary may exempt an employee or class of employees from this section.
-(6) The holder of a casino operator’s licence who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(6) The holder of a casino operator’s licence who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 177 Books must be kept in casino venue
 (1) All books, records, and documents relating to the operation of a casino must be kept by the holder of the casino operator’s licence in the casino venue.
@@ -2227,11 +2227,11 @@ Despite the Sale of Liquor Act 1989, an on-licence granted under that Act for a 
 (1) The holder of a casino operator’s licence must provide the following information to the Secretary within 20 working days of disposing of a gaming machine:
   (a) the method of disposal:
   (b) the name of the acquirer and the details necessary to contact the acquirer with ease.
-(2) The holder of a casino operator’s licence who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) The holder of a casino operator’s licence who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 180 Prohibition on certain gaming machines in casino
 (1) On and from the date that is 6 months after the commencement of this section, the holder of a casino licence must not operate, or allow to be operated, at the casino a gaming machine that is able to accept banknotes with a denomination greater than $20.
-(2) The holder of a casino licence who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) The holder of a casino licence who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 181 Restriction on certain agreements
 (1) The holder of a casino licence must not, without the written approval of the Secretary, enter into or be a party to a lease, contract, agreement, or arrangement (whether written or unwritten) with any other person for that person to lease, let, lend, or provide a thing or service in return for—
@@ -2303,7 +2303,7 @@ Despite the Sale of Liquor Act 1989, an on-licence granted under that Act for a 
 
 ### 189 Licensed promoter may only promote licensed class 3 gambling activity
 (1) A licensed promoter must not promote a class 3 gambling activity on behalf of a society unless the promoter believes on reasonable grounds that the society has obtained a class 3 operator’s licence to conduct the gambling activity under section 37.
-(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (3) In addition to any penalty that may be imposed under subsection (2), a court may order that the licensed promoter forfeit to the Crown all reward paid to the licensed promoter by the society for promoting the class 3 gambling activity.
 
 ### 190 Existing licensed promoter licences
@@ -2321,7 +2321,7 @@ Despite section 375, an existing licensed promoter’s licence held on the comme
     (ii) the person is a bankrupt whose order of discharge is suspended for a term that has not yet expired or is subject to conditions not yet fulfilled; or
   (b) the person has previously held a licensed promoter’s licence that was cancelled, or for which a renewal was refused, at any time within the period of 5 years immediately before the date of application.
 (3) A person must not apply for, or obtain, a licensed promoter’s licence knowing that the person is not eligible to do so.
-(4) A person who contravenes subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(4) A person who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 192 Application for licensed promoter’s licence
 (1) An application for a licensed promoter’s licence must be made to the Secretary on the relevant standard form and be accompanied by a bond that satisfies section 195.
@@ -2453,7 +2453,7 @@ The Secretary may appoint an administrator—
 (5) If the Secretary decides to amend or revoke a condition or add a new condition to a licence, the Secretary must notify the licensed promoter of—
   (a) the right to appeal the decision; and
   (b) the process to be followed for an appeal under section 209.
-(6) A licensed promoter who contravenes subsection (2)(c) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(6) A licensed promoter who contravenes subsection (2)(c) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 204 Secretary must keep register of licensed promoters
 (1) The Secretary must keep and maintain a register that records the name and contact details of licensed promoters.
@@ -2561,7 +2561,7 @@ The Secretary may appoint an administrator—
   (a) be used to pay debts of the licensed promoter, or of a key person of the licensed promoter:
   (b) be attached or taken in execution under an order or process of a court:
   (c) pass to the Official Assignee if the licensed promoter or a key person of the licensed promoter is adjudged bankrupt.
-(5) A person who knowingly contravenes subsection (3) or subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(5) A person who knowingly contravenes subsection (3) or subsection (4) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (6) This section does not prevent money raised by, or paid to, a licensed promoter being paid into the society’s bank account if the payment is permitted by the licensed promoter’s agreement with the society.
 
 ### 212 Trust account must be audited
@@ -2579,7 +2579,7 @@ A licensed promoter’s trust account must be audited by a chartered accountant 
 (4) A licensed promoter must pay all money held in the trust account on behalf of the society to the society—
   (a) within 7 days of a request from the society to do so; or
   (b) if no request has been made, within 28 days if the licensed promoter has ceased to act for the society.
-(5) A person who knowingly contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(5) A person who knowingly contravenes this section commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 **Other matters**
 
@@ -2874,7 +2874,7 @@ The Secretary and the Auditor-General must exercise the scrutiny that they deter
   (a) carry out any procedure for verification of the result for the time being agreed by the Commission, the Department, and the Auditor-General; and
   (b) announce or display the official result in accordance with the rules for the type of New Zealand lottery to which the drawing relates.
 (2) No person, other than a broadcaster with whom the Lotteries Commission specifically contracts for the purpose, may publish or broadcast the announced results of a New Zealand lottery before the official result is announced or displayed under subsection (1)(b).
-(3) A person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $200.
 (4) In this section, official result means the result of drawing a New Zealand lottery under this Act.
 
 ### 252 Lottery prize fund
@@ -2974,7 +2974,7 @@ The Lotteries Commission is exempt from the payment of income tax.
 (2) No person other than the Lotteries Commission may, either alone or with any other person,—
   (a) trade or carry on business under the name New Zealand Lotteries Commission unless that person has carried on business continuously under the name of New Zealand Lotteries Commission since any date before 1 November 1986; or
   (b) trade or carry on business under any other name, knowing that the name so resembles the name of the Lotteries Commission that it is likely to mislead any person.
-(3) A person who contravenes subsection (2) commits an offence and is liable on summary conviction to,—
+(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to,—
   (a) in the case of an individual,—
     (i) a fine not exceeding $5,000; and
     (ii) in the case of a continuing offence, a further fine not exceeding $500 for every day or part of a day during which the offence has continued:
@@ -2986,7 +2986,7 @@ The Lotteries Commission is exempt from the payment of income tax.
 (1) No person other than the Lotteries Commission may, either alone or with any other person, promote, organise, or conduct any gambling—
   (a) under the product names specified in subsection (3); or
   (b) under any other name, knowing that the name so resembles a product name specified in subsection (3) that it is likely to mislead any person.
-(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to,—
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a fine not exceeding $5,000:
   (b) in the case of a body corporate,—
     (i) a fine not exceeding $50,000; and
@@ -3255,8 +3255,8 @@ The transfers under section 298—
 (4) It is a defence to a charge under subsection (2) or subsection (3) if the defendant proves that the defendant had reasonable grounds to believe that the person to whom the charge relates was 18 years or over.
 (5) Without limiting subsection (4), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 18 years or over.
 (6) Every person who commits an offence—
-  (a) against subsection (1) is liable on summary conviction to a fine not exceeding $500:
-  (b) against subsection (2) or subsection (3) is liable on summary conviction to a fine not exceeding $1,000.
+  (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
+  (b) against subsection (2) or subsection (3) is liable on conviction to a fine not exceeding $1,000.
 (7) A notice issued by the Minister under subsection (1)(c)—
   (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
   (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
@@ -3271,9 +3271,9 @@ The transfers under section 298—
 (5) It is a defence to a charge under subsection (3) if the defendant proves that he or she had reasonable grounds to believe that the person to whom the charge relates was 18 years or over.
 (6) Without limiting subsection (5), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 18 years or over.
 (7) Every person who commits an offence—
-  (a) against subsection (1) is liable on summary conviction to a fine not exceeding $500:
-  (b) against subsection (2) is liable on summary conviction to a fine not exceeding $5,000:
-  (c) against subsection (3) is liable on summary conviction to a fine not exceeding $1,000.
+  (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
+  (b) against subsection (2) is liable on conviction to a fine not exceeding $5,000:
+  (c) against subsection (3) is liable on conviction to a fine not exceeding $1,000.
 
 ### 303 Age restriction on gambling in casinos
 (1) Every person under 20 years commits an offence who—
@@ -3285,8 +3285,8 @@ The transfers under section 298—
 (3) It is a defence to a charge under subsection (2) if the defendant proves that he or she had reasonable grounds to believe that the person to whom the charge relates was 20 years or over.
 (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 20 years or over.
 (5) Every person who commits an offence—
-  (a) against subsection (1) is liable on summary conviction to a fine not exceeding $500:
-  (b) against subsection (2) is liable on summary conviction to a fine not exceeding $5,000.
+  (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
+  (b) against subsection (2) is liable on conviction to a fine not exceeding $5,000.
 
 ### 304 Power to require particulars
 (1) A gambling inspector or a constable who has reasonable grounds to suspect that a person has committed, is committing, or is attempting to commit, an offence against sections 301 to 303 may require the person to give his or her name, address, and date of birth.
@@ -3295,7 +3295,7 @@ The transfers under section 298—
   (a) the person fails to give his or her particulars; or
   (b) the person fails, without reasonable excuse, to provide satisfactory verification of those particulars.
 (4) If a person persists in failing to give particulars or, without reasonable excuse, fails to provide satisfactory verification of those particulars after having received a warning under subsection (3), a constable may arrest the person without warrant.
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500, who—
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $500, who—
   (a) fails to give particulars if required to do so; or
   (b) fails, without reasonable excuse, to provide satisfactory verification of those particulars if required to do so; or
   (c) provides false particulars or evidence, knowing the particulars or evidence to be false.
@@ -3332,7 +3332,7 @@ If a person is convicted under section 301(1) or section 302(1) or section 303(1
   (a) that the venue has a policy for identifying problem gamblers; and
   (b) that a copy of the policy will be made available on request.
 (4) The persons required by subsection (1) to develop a policy for identifying problem gamblers must take all reasonable steps to use that policy to identify actual or potential problem gamblers.
-(5) A venue manager, or holder of a casino operator’s licence, who contravenes subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) A venue manager, or holder of a casino operator’s licence, who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 309 Exclusion order may be issued to problem gambler identified under section 308
 (1) The venue manager or the holder of a casino operator’s licence, or a person acting on behalf of either of those persons, must, after identifying a person under section 308(4) who he or she has reasonable grounds to believe is a problem gambler, approach the person and offer information or advice to the person about problem gambling.
@@ -3361,8 +3361,8 @@ If a person is convicted under section 301(1) or section 302(1) or section 303(1
   (a) in breach of an exclusion order issued under section 310(1); or
   (b) in breach of a condition of re-entry imposed under section 310(2).
 (4) Every person who commits an offence—
-  (a) against subsection (1) is liable on summary conviction to a fine not exceeding $500:
-  (b) against subsection (2) or subsection (3) is liable on summary conviction to a fine not exceeding $10,000.
+  (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
+  (b) against subsection (2) or subsection (3) is liable on conviction to a fine not exceeding $10,000.
 
 ### Subpart 3 — Regulations relating to harm prevention and minimisation
 
@@ -3583,7 +3583,7 @@ The Secretary may appoint gambling inspectors, on a permanent or temporary basis
   (c) contain any other particulars that may be prescribed.
 (3) A warrant of appointment is, in the absence of evidence to the contrary, sufficient proof that the holder of the warrant may exercise the powers conferred on a gambling inspector under sections 333 to 338.
 (4) A person who ceases to be a gambling inspector must return the person’s warrant of appointment.
-(5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 332 Functions of gambling inspector
 A gambling inspector must ensure, to the extent that is reasonably practicable, compliance with this Act by carrying out the following functions:
@@ -3688,7 +3688,7 @@ A constable who is executing, or assisting in the execution of, a search warrant
   (b) refuses, without reasonable excuse, to provide any information or produce any documents that a gambling inspector has required under section 333(1); or
   (c) refuses, except on the grounds of self-incrimination, to provide the information that a gambling inspector has demanded from the person under section 334(3); or
   (d) otherwise intentionally obstructs or attempts to obstruct a gambling inspector in the execution of a power or duty.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a holder of a class 3 operator’s licence, class 4 operator’s licence, or casino licence, to a fine not exceeding $5,000.
 
@@ -3702,7 +3702,7 @@ A constable who is executing, or assisting in the execution of, a search warrant
   (c) a gambling inspector:
   (d) an employee or class of employee of the Department specified by the Secretary.
 (3) A person who fails to comply with this section,—
-  (a) in the case of a person specified in subsection (2)(a) or (b), commits an offence and is liable on summary conviction to a fine not exceeding $5,000; and
+  (a) in the case of a person specified in subsection (2)(a) or (b), commits an offence and is liable on conviction to a fine not exceeding $5,000; and
   (b) in the case of a person specified in subsection (2)(c) or (d), must be treated as having breached the code of conduct (if any) issued under section 57 of the State Sector Act 1988.
 
 ### 348 Restriction on gambling in casino by certain persons
@@ -3714,7 +3714,7 @@ A constable who is executing, or assisting in the execution of, a search warrant
   (b) the Secretary:
   (c) a gambling inspector:
   (d) an employee or class of employee of the Department specified by the Secretary.
-(3) A person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(3) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 349 Gambling inspectors and Police not criminally liable
 (1) No gambling inspector or constable may be charged with an offence against this Act for an act done in the performance of his or her duty.
@@ -3729,11 +3729,11 @@ Every person who, immediately before the commencement of this section, held offi
 
 ### 351 Cheating
 (1) Every person commits the offence of cheating in a casino venue who knowingly contravenes the rules of a game with the intention of obtaining a pecuniary advantage (whether directly or indirectly) on the person’s own behalf or on behalf of any other person.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a term of imprisonment not exceeding 1 year or to a fine not exceeding $20,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 1 year or to a fine not exceeding $20,000.
 
 ### 352 Being in possession of equipment for cheating
 (1) Every person commits an offence who has in the person’s possession any equipment, instrument, or device that is capable of being used for cheating in a casino venue in circumstances that show an intention to use the equipment, instrument, or device to cheat.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 ### 353 Counterfeit chips
 (1) Every person commits an offence who—
@@ -3744,8 +3744,8 @@ Every person who, immediately before the commencement of this section, held offi
   (b) passes, or attempts to pass, a counterfeit chip to another person knowing it to be counterfeit.
 (3) Every person commits an offence who has in the person’s possession or under the person’s control a counterfeit chip knowing it to be counterfeit and intending to pass it to another person as authorised.
 (4) Every person who commits an offence—
-  (a) against subsection (1) is liable on conviction on indictment to a term of imprisonment not exceeding 3 years or to a fine not exceeding $100,000:
-  (b) against subsection (2) or subsection (3) is liable on conviction on indictment to a term of imprisonment not exceeding 1 year or to a fine not exceeding $50,000.
+  (a) against subsection (1) is liable on conviction to a term of imprisonment not exceeding 3 years or to a fine not exceeding $100,000:
+  (b) against subsection (2) or subsection (3) is liable on conviction to a term of imprisonment not exceeding 1 year or to a fine not exceeding $50,000.
 
 ### Subpart 8 — Proceedings, evidence, etc
 
@@ -3753,24 +3753,23 @@ Every person who, immediately before the commencement of this section, held offi
 To avoid doubt, this Part does not prevent the Secretary from exercising his or her powers under Part 2.
 
 ### 355 Proceedings for offences
-(1) Except as provided in section 353, every offence against this Act is punishable on summary conviction.
-(2) Despite section 14 of the Summary Proceedings Act 1957, an information relating to an offence against this Act or against any regulations made under this Act may be laid at any time within 2 years after the time when the matter of the information arose.
-(3) No prosecution for an offence against this Act may be commenced except on the information of a gambling inspector or constable.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 2 years after the date on which the offence was committed.
+(2) Only a gambling inspector or a constable may file a charging document for an offence against this Act.
 
 **Infringement offences**
 
 ### 356 Infringement offences
 (1) If a person is alleged to have committed an infringement offence, the person may either—
-  (a) be prosecuted summarily for the alleged offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 357.
-(2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where an infringement offence is proceeded with summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if proceedings for an infringement offence are commenced by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 357 Issue of infringement notice
 (1) If a gambling inspector or constable has reasonable grounds to believe that a person is committing, or has committed, an infringement offence, the gambling inspector or constable may issue an infringement notice to the person for the offence.
 (2) An infringement notice may be served—
   (a) by delivering it, or a copy of it, personally to the person alleged to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post addressed to the person at his or her last known place of residence or business or postal address.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice that is sent to a person by post under subsection (2)(b) is served on the person when it would have been delivered in the ordinary course of post.
+(3) An infringement notice that is sent to a person by post under subsection (2)(b) is served on the person when it would have been delivered in the ordinary course of post.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) the details of the alleged infringement offence that are necessary to sufficiently inform the person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified for the offence; and
@@ -4302,39 +4301,3 @@ The powers of a distribution committee are not affected by any vacancy in its me
 ## Schedule 8 — Amendments to Racing Act 2003
 
 ## Schedule 9 — Amendments to other Acts
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
