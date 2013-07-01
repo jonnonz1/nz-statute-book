@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -17,7 +17,6 @@ _Consolidation as at 2012-10-01_
   - **aviation security officer** means an aviation security officer within the meaning of the Civil Aviation Act 1990
   - **carrier and contract** in relation to any contract of carriage, have the same meanings as in section 91U of the Civil Aviation Act 1990, whether the contract of carriage is for international carriage or domestic carriage; and includes a person who has reported to a servant or agent of the carrier for the purpose of going on board an aircraft pursuant to a contract to carry him or her as a passenger
   - **commander** , in relation to an aircraft, means the pilot for the time being in lawful command of the aircraft
-  - **conviction on indictment** has the same meaning as in section 3 of the Crimes Act 1961
   - **international airport** means any airport designated as an airport of entry and departure for international air traffic where the formalities incident to customs, immigration, public health, animal and plant quarantine, and similar procedures are carried out
   - **military service** includes naval and air force service; and a certificate by the Minister of Foreign Affairs that any aircraft is or is not used in military service for the purposes of this Act shall be conclusive evidence of the fact certified
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
@@ -43,17 +42,17 @@ _Consolidation as at 2012-10-01_
 **Crimes relating to aircraft and international airports**
 
 ### 3 Hijacking
-Everyone commits the crime of hijacking and is liable on conviction on indictment to imprisonment for life, who, while on board an aircraft in flight, whether in or outside New Zealand, unlawfully, by force or by threat of force or by any form of intimidation, seizes or exercises control, or attempts to seize or exercise control, of that aircraft.
+Everyone commits the crime of hijacking and is liable on conviction to imprisonment for life, who, while on board an aircraft in flight, whether in or outside New Zealand, unlawfully, by force or by threat of force or by any form of intimidation, seizes or exercises control, or attempts to seize or exercise control, of that aircraft.
 
 ### 4 Crimes in connection with hijacking
-(1) Everyone who, while on board an aircraft in flight outside New Zealand, does or omits anything which, if done or omitted by that person in New Zealand, would be a crime, commits that crime if the act or omission occurred in connection with the crime of hijacking.
+(1) Everyone who, while on board an aircraft in flight outside New Zealand, does or omits anything which, if done or omitted by that person in New Zealand, would be an offence punishable by imprisonment for life or by 2 or more years' imprisonment, commits that offence if the act or omission occurred in connection with the crime of hijacking.
 (2) Without limiting the generality of subsection (1), an act or omission by any person shall be deemed to occur in connection with the crime of hijacking if it was done or omitted with intent—
   (a) to commit or facilitate the commission of the crime of hijacking; or
   (b) to avoid the detection of himself or of any other person in the commission of the crime of hijacking; or
   (c) to avoid the arrest or facilitate the flight of himself or of any other person upon the commission of the crime of hijacking.
 
 ### 5 Other crimes relating to aircraft
-Everyone commits a crime, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, whether in or outside New Zealand,—
+Everyone commits a crime, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, whether in or outside New Zealand,—
   (a) on board an aircraft in flight, commits an act of violence which is likely to endanger the safety of the aircraft; or
   (b) destroys an aircraft in service; or
   (c) causes damage to an aircraft in service which renders the aircraft incapable of flight or which is likely to endanger the safety of the aircraft in flight; or
@@ -67,10 +66,10 @@ Everyone commits a crime, and is liable on conviction on indictment to imprisonm
   (b) destroys or seriously damages the facilities of the international airport; or
   (c) destroys or seriously damages an aircraft that is not in service and is located at the international airport; or
   (d) disrupts the services of the international airport.
-(2) Subject to subsection (3), a person who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
-(3) A person who commits a crime against subsection (1)(a),—
-  (a) in circumstances where the conduct concerned is the same as conduct described as murder under sections 158, 160, 167, and 168 of the Crimes Act 1961, must on conviction on indictment be sentenced to imprisonment for life; and
-  (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter under sections 158, 160, and 171 of the Crimes Act 1961, is liable on conviction on indictment to imprisonment for life.
+(2) Subject to subsection (3), a person who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding 14 years.
+(3) A person who commits a crime against subsection (1)﻿(a),—
+  (a) in circumstances where the conduct concerned is the same as conduct described as murder under sections 158, 160, 167, and 168 of the Crimes Act 1961, must on conviction be sentenced to imprisonment for life; and
+  (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter under sections 158, 160, and 171 of the Crimes Act 1961, is liable on conviction to imprisonment for life.
 
 ### 6 Extradition Act amended
 [Repealed]
@@ -132,14 +131,14 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
 **Taking firearms, explosives, etc, on to aircraft**
 
 ### 11 Taking firearms, explosives, etc, on to aircraft or into sterile area or security enhanced area
-(1) Everyone commits a crime, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft—
+(1) Everyone commits a crime, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft—
   (a) any firearm; or
   (b) any other dangerous or offensive weapon or instrument of any kind whatsoever; or
   (c) any ammunition; or
   (d) any explosive substance or device, or any other injurious substance or device of any kind whatsoever which could be used to endanger the safety of the aircraft or of persons on board the aircraft; or
   (e) an imitation of an item or substance specified in paragraphs (a) to (d).
-(1A) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
-(1B) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who—
+(1A) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
+(1B) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who—
   (a) has the intention of causing bodily injury or of doing any act that would constitute a crime under section 3, 4, 5, or 5A; and
   (b) takes on board an aircraft or into a sterile area or a security enhanced area an item or substance that is capable of—
     (i) causing bodily injury or of endangering the safety of an aircraft or an airport when combined with another item or substance; or
@@ -155,7 +154,7 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
   (a) the passenger:
   (b) his or her baggage.
 (3) A carrier is not liable to any civil proceeding, other than a proceeding in respect of any right that the passenger may have for the recovery of the fare or any part of the fare, by reason of the fact that the carrier has refused to carry—
-  (a) a passenger who has declined to allow himself or her self or his or her baggage to be searched:
+  (a) a passenger who has declined to allow himself or herself or his or her baggage to be searched:
   (b) the baggage of a passenger who has declined to allow himself or herself or his or her baggage to be searched.
 (4) With respect to a search made under subsection (1),—
   (a) by an employee or agent of the carrier authorised by the carrier for the purpose, the passenger must not be required to remove any article of clothing (other than a coat or similar article) for the purpose of being searched:
@@ -216,7 +215,7 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
   (b) in any other country which is a party to the Tokyo Convention, to any person exercising functions corresponding to those of a member of the New Zealand Police.
 (6) If the commander of an aircraft disembarks any person pursuant to subsection (4), in the case of a New Zealand aircraft, in any country, or, in the case of any other aircraft, in New Zealand, he shall report the fact of, and the reasons for, that disembarkation to an appropriate authority in the country of disembarkation (being, in New Zealand, a member of the New Zealand Police).
 (7) If the commander of an aircraft intends to deliver any person in accordance with subsection (5) in New Zealand or, in the case of a New Zealand aircraft, in any other country which is a party to the Tokyo Convention, he shall, before or as soon as practicable after landing, give notification of his intention and of the reasons for his intention to an appropriate authority in that country (being, in New Zealand, a member of the New Zealand Police).
-(8) Any commander of an aircraft who without reasonable cause fails to comply with the requirements of subsection (6) or subsection (7) is liable on summary conviction to a fine not exceeding $400.
+(8) Any commander of an aircraft who without reasonable cause fails to comply with the requirements of subsection (6) or subsection (7) is liable on conviction to a fine not exceeding $400.
 (9) A person who in good faith imposes reasonable measures, including restraint, on another person in accordance with the provisions of this section is not guilty of an offence and is not liable to any civil proceeding in respect of those measures.
 
 ### 16 Arrest of persons delivered to Police
@@ -240,39 +239,3 @@ Where an aircraft is subject to joint or international registration, it shall be
 
 ### 21 Other Acts not affected
 Nothing in this Act shall be construed to limit or affect the operation of any provision of the Immigration Act 2009, or, except as expressly provided in this Act, of any provision of the Crimes Act 1961.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
