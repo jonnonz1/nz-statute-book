@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -109,7 +109,7 @@ This Act binds the Crown.
   (b) holds a current practising certificate as a health practitioner of that kind.
 (3) No person may make an express or implied statement about another person that the other person is prohibited by subsection (1) or subsection (2) from making about himself or herself.
 (4) Subsection (2) does not prohibit a person from stating his or her willingness to practise a profession for the purposes of seeking employment if the person is, or would on obtaining that employment be, qualified to be registered as a health practitioner of that profession and to hold a current practising certificate as a health practitioner of that profession.
-(5) Every person commits an offence punishable on summary conviction by a fine not exceeding $10,000 who contravenes this section.
+(5) Every person commits an offence punishable on conviction by a fine not exceeding $10,000 who contravenes this section.
 
 ### 8 Health practitioners must not practise outside scope of practice
 (1) Every health practitioner who practises the profession in respect of which he or she is registered must have a current practising certificate issued by the responsible authority.
@@ -132,7 +132,7 @@ This Act binds the Crown.
   (a) in an emergency; or
   (b) in the course of training or instruction and under the control of a health practitioner of the kind described in that subsection; or
   (c) in the course of an examination, assessment, or competence review required or ordered by the responsible authority.
-(6) Every person commits an offence punishable on summary conviction by a fine not exceeding $30,000 who contravenes subsection (4).
+(6) Every person commits an offence punishable on conviction by a fine not exceeding $30,000 who contravenes subsection (4).
 (7) An Order in Council under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
 ### 10 Power to issue search warrants in respect of offences against section 7 or section 9
@@ -371,7 +371,7 @@ The Registrar must endorse on every annual practising certificate or interim pra
   (b) whose registration or practising certificate is suspended; or
   (c) whose practising certificate is required for endorsement by the Registrar under section 32.
 (2) A person to whom subsection (1) applies must, within 14 days after the date on which notice of the removal, suspension, or requirement for endorsement is given to him or her, deliver to the Registrar any current annual practising certificate or interim practising certificate that he or she holds.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who, being required to comply with subsection (2), fails to comply with that subsection.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being required to comply with subsection (2), fails to comply with that subsection.
 
 ## Part 3 — Competence, fitness to practise, and quality assurance
 
@@ -500,7 +500,7 @@ An authority that is reviewing the competence of a health practitioner or that h
     (i) the authority directs that the information be made available; or
     (ii) the person requests access to the information.
 (2) Subsection (1)(c)(ii) does not affect the Privacy Act 1993.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who discloses any information in contravention of subsection (1).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who discloses any information in contravention of subsection (1).
 (4) No information, statement, or admission that is disclosed or made by any health practitioner in the course of, or for the purposes of satisfying the requirements of, any competence review, competence programme, or recertification programme and that relates to any conduct of that health practitioner (whether that conduct occurred before or during that review or programme)—
   (a) may be used or disclosed for any purpose other than the purposes of that review or programme; or
   (b) is admissible against that person, or any other person, in any proceedings in any court or before any person acting judicially.
@@ -689,7 +689,7 @@ A quality assurance activity ceases to be a protected quality assurance activity
 (5) Even though an activity has since ceased to be a protected quality assurance activity, this section continues to apply in respect of—
   (a) information that became known solely as a result of the activity at any time when it was a protected quality assurance activity; and
   (b) documents brought into existence solely for the purposes of that activity at any time when it was a protected quality assurance activity.
-(6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who acts in contravention of subsection (1).
+(6) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who acts in contravention of subsection (1).
 
 ### 60 Exceptions to prohibition on disclosure
 (1) Nothing in section 59 prohibits the production, disclosure, or recording of any information that does not identify, either expressly or by implication, a particular individual.
@@ -849,7 +849,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
 (1) A person who receives a notice under section 77 must, without charge, comply with the requirement stated in the notice in the manner and within the period (being not less than 10 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
 (3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
-(4) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 77,—
+(4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 77,—
   (a) refuses or fails without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
 
@@ -1019,7 +1019,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 (6) An order made under this section continues in force—
   (a) until a time specified in it; or
   (b) if no time is specified, until it is revoked under section 99.
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who contravenes an order made under subsection (2).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who contravenes an order made under subsection (2).
 
 ### 96 Clarifications concerning section 95
 (1) Section 95 does not prevent the Tribunal from deliberating in private as to its decision, or as to any question arising in the course of a hearing.
@@ -1067,7 +1067,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
     (ii) applies to the Tribunal for the order; and
   (b) the Tribunal is satisfied that the complainant understands the nature and effect of the application.
 (4) If it thinks that the interests of the complainant require it to do so, the Tribunal may make an order under section 95(2)(b) forbidding publication of any report or account of any part of the evidence relating to the particulars of the acts referred to in subsection (1).
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who contravenes subsection (2).
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who contravenes subsection (2).
 (6) Except for subsection (3), nothing in this section nor in section 97 limits the Tribunal's power to make an order under section 95.
 
 ### 99 Application for revocation of order under section 95 or for making of order under section 98
@@ -1225,7 +1225,7 @@ Except as provided in section 113, the decision of a court on an appeal under th
   (a) from a District Court, it must be made to the High Court:
   (b) from the High Court, it must be made to the Court of Appeal.
 (3) The appeal must be heard and determined in accordance with the appropriate rules of court.
-(4) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
+(4) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (5) Subsection (4) overrides subsection (3).
@@ -1707,13 +1707,13 @@ The Governor-General may, by Order in Council made on the advice of the Minister
 (2) As soon as practicable after receiving the report, the Minister must present a copy of that report to the House of Representatives.
 
 ### 172 False declarations and representations
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, for any purpose relating to this Act, either on his or her own behalf or on behalf of any other person,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, for any purpose relating to this Act, either on his or her own behalf or on behalf of any other person,—
   (a) either orally or in writing, makes any declaration or representation that, to his or her knowledge, is false or misleading in any material particular; or
   (b) produces to an authority, the Tribunal, or a professional conduct committee, or makes use of, any document knowing it to contain any declaration or representation of that kind; or
   (c) produces to an authority, the Tribunal, or a professional conduct committee, or makes use of, a document knowing that it is not genuine.
 
-### 173 Information for offences against this Act may be laid within 3 years
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this Act may be laid at any time within 3 years after the time when the matter of the information arose.
+### 173 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 174 Duty of health practitioners in respect of reproductive health services
 (1) This section applies whenever—
@@ -2137,7 +2137,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 (3) If the summons is posted by registered letter, it must be regarded for the purposes of subclause (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 10 Witnesses' allowances
-(1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) On each occasion on which the Tribunal issues a summons under clause 8(1), the Tribunal, or the person exercising the power of the Tribunal under clause 8(3), must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, must be paid or tendered to the witness.
 (3) The amount fixed under subclause (2) must be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) If a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness must be paid by that party.
@@ -2158,11 +2158,11 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
   (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 7(1)(a); or
   (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 7(1)(b) or (c); or
   (c) without sufficient cause, acts in contravention of, or fails to comply with, any order made by the Tribunal under clause 7(3) or any term or condition of the order.
-(3) Every person who commits an offence against subclause (1) or subclause (2) is liable on summary conviction to a fine not exceeding $1,500.
+(3) Every person who commits an offence against subclause (1) or subclause (2) is liable on conviction to a fine not exceeding $1,500.
 (4) No person summoned to attend before the Tribunal may be convicted of an offence against subclause (1) unless there was tendered or paid to that person travelling expenses in accordance with clause 10.
 
 ### 13 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who—
   (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any adviser to, or officer of, the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
@@ -2370,39 +2370,3 @@ An authority may, by an instrument in writing executed as a deed, appoint a pers
 ## Schedule 7 — Acts repealed
 
 ## Schedule 8 — Regulations revoked
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
