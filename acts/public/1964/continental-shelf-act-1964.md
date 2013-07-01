@@ -1,5 +1,5 @@
 # Continental Shelf Act 1964
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision as to the exploration and exploitation of the continental shelf of New Zealand and for matters connected with that purpose
 
@@ -40,7 +40,7 @@ All rights that are exercisable by New Zealand with respect to the continental s
 (4) The grant of a licence under this section shall in every case be in the absolute discretion of the Minister of Energy.
 (5) Any number of licences under this section may be granted to the same person.
 (6) Subject to the provisions of subsection (3), nothing in the Mining Act 1926 or in the Coal Mines Act 1925 shall apply with respect to minerals in the seabed or subsoil of the continental shelf.
-(7) Every person commits an offence, and is liable on summary conviction to a fine not exceeding £100, who prospects or mines for, or carries on operations for the recovery of, minerals in the seabed or subsoil of the continental shelf otherwise than pursuant to a licence under this section and in accordance with the conditions of the licence (not being a condition relating to the payment of royalties to the Crown).
+(7) Every person commits an offence, and is liable on conviction to a fine not exceeding £100, who prospects or mines for, or carries on operations for the recovery of, minerals in the seabed or subsoil of the continental shelf otherwise than pursuant to a licence under this section and in accordance with the conditions of the licence (not being a condition relating to the payment of royalties to the Crown).
 (8) No licence may be granted under this section after the commencement of section 5AA, regardless of whether an application for the licence is made before that date. Instead, clause 5 of Schedule 1 of the Crown Minerals Act 1991 applies to the application as if it were an application described in subclause (1) of that clause.
 (9) A person granted a licence to prospect for minerals under this section before the commencement of section 5AA may apply for a subsequent exploration or mining permit in accordance with section 32 of the Crown Minerals Act 1991 as if the licence to prospect were a prospecting permit or exploration permit granted under that Act by operation of section 5AA.
 
