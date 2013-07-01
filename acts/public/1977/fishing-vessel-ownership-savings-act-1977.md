@@ -1,5 +1,5 @@
 # Fishing Vessel Ownership Savings Act 1977
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to encourage saving for fishing vessel ownership
 
@@ -16,7 +16,7 @@ This Act may be cited as the Fishing Vessel Ownership Savings Act 1977.
   - **Commissioner** means the Commissioner of Inland Revenue appointed under the State Sector Act 1988; and includes any person for the time being authorised (whether by delegation by him or otherwise) to exercise or perform any of his powers or functions
   - **Corporation** means The National Bank of New Zealand Limited
   - **depositor** means any individual or, in the case of a joint Account, any 2 individuals for whose benefit a Fishing Vessel Ownership Account has been opened and maintained
-  - **Farm Ownership Account** means a Farm Ownership Account as defined in section 2(1) of the Farm Ownership Saving's Act 1974
+  - **Farm Ownership Account** means a Farm Ownership Account as defined in section 2(1) of the Farm Ownership Savings Act 1974
   - **fishing vessel** or , in relation to any depositor, means a ship that has a length of not less than 6 metres and that is suitable, in the opinion of the Corporation, for use solely or principally for catching or taking at sea, fish, crustaceans, shellfish, or other living resources of the sea for profit; and includes a share or interest in a fishing vessel
   - **Fishing Vessel Ownership Account** means an Ordinary Fishing Vessel Ownership Account or a Special Fishing Vessel Ownership Account
   - **fishing vessel ownership requirements** , in relation to a depositor, means the use for fishing purposes of money withdrawn by him, pursuant to a withdrawal certificate, from his Special Fishing Vessel Ownership Account and the compliance by him with section 23
@@ -75,7 +75,7 @@ No person shall be entitled to open an Ordinary Fishing Vessel Ownership Account
 (3) Having regard to the special circumstances of any case, the Corporation may in its discretion grant, either wholly or partly, and conditionally or unconditionally, a purchase grant to any depositor of a class specified in subsection (2).
 
 ### 7 Purchase grants
-(1) Subject to this Act, where the Corporation is satisfied that the grant is to be used by a depositor in the acquisition of a fishing vessel, there shall, to the extent to which the Corporation is satisfied that the eligible savings of the depositor are to be used by the depositor in the acquisiton of the vessel, be paid by the Corporation to the depositor:
+(1) Subject to this Act, where the Corporation is satisfied that the grant is to be used by a depositor in the acquisition of a fishing vessel, there shall, to the extent to which the Corporation is satisfied that the eligible savings of the depositor are to be used by the depositor in the acquisition of the vessel, be paid by the Corporation to the depositor:
   (a) where the terminating date is not less than 3 years but less than 6 years from the qualifying date, a purchase grant equal to 25% of the depositor's eligible savings:
   (b) where the terminating date is not less than 6 years but less than 7 years from the qualifying date, a purchase grant equal to 30% of the depositor's eligible savings:
   (c) where the terminating date is not less than 7 years but less than 8 years from the qualifying date, a purchase grant equal to 35% of the depositor's eligible savings:
@@ -88,7 +88,7 @@ No person shall be entitled to open an Ordinary Fishing Vessel Ownership Account
 (5) No depositor shall be paid more than 1 purchase grant, or, subject to section 9, have a purchase grant calculated by reference to eligible savings in more than 1 Ordinary Fishing Vessel Ownership Account.
 
 ### 8 Preservation of rights
-Where, by reason of an Order in Council made pursuant to subsection (1)(b)(ii) or subsection (2) of section 3 or section 7(2), the purchase grants payable to depositors are reduced, in so far as those purchase grants are calculated by reference to the eligible savings of a depositor at the date the Order in Council comes in force, those purchase grants shall be calculated as if the Order in Council had not been made.
+Where, by reason of an Order in Council made pursuant to subsection (1)﻿(b)﻿(ii) or subsection (2) of section 3 or section 7(2), the purchase grants payable to depositors are reduced, in so far as those purchase grants are calculated by reference to the eligible savings of a depositor at the date the Order in Council comes in force, those purchase grants shall be calculated as if the Order in Council had not been made.
 
 ### 9 Aggregation of grants
 The purchase grant payable under this Act may be aggregated when 2 or more depositors who have separate Ordinary Fishing Vessel Ownership Accounts amalgamate their eligible savings for the purpose of acquiring a fishing vessel to be owned by them jointly or in common and for use by them, jointly or in common, as commercial fishermen.
@@ -157,7 +157,7 @@ Where at the time a depositor opens a Special Fishing Vessel Ownership Account h
 (2) Any withdrawal certificate may be issued subject to such terms and conditions as are set forth in the certificate that the Corporation considers necessary or desirable to impose to ensure that any amount withdrawn from a Special Fishing Vessel Ownership Account pursuant to the certificate is used by the depositor for the purposes for which the certificate was issued.
 (3) Where any depositor has, pursuant to a withdrawal certificate, withdrawn any amount from his Special Fishing Vessel Ownership Account and redeposits the whole or any part of that amount in his Account, the withdrawal certificate shall be cancelled by the Corporation to the extent of the amount redeposited and the Commissioner notified accordingly.
 (4) Any withdrawal certificate shall cease to have any force or effect on or after any date that may be specified therein in that behalf or, if no such date is specified therein, on the expiration of 6 months after the date of the certificate.
-(5) Subject to section 18(3)(b), every withdrawal certificate shall require the authorised savings institution to close the Special Farm Ownership Account of the depositor.
+(5) Subject to section 18(3)﻿(b), every withdrawal certificate shall require the authorised savings institution to close the Special Farm Ownership Account of the depositor.
 
 ### 21 Ineligible depositors
 Notwithstanding anything in this Act, no depositor shall be eligible to obtain a withdrawal certificate in respect of a Special Fishing Vessel Ownership Account if, in the opinion of the Corporation, the depositor would not be eligible for any benefits under Part 1 if the Special Fishing Vessel Ownership Account were an Ordinary Fishing Vessel Ownership Account:
@@ -215,7 +215,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
     (i) fails, within a reasonable time after being required to do so, to supply in writing to the Corporation any information requested by the Corporation for the purpose of ascertaining whether or not the terms and conditions under which the purchase grant was paid have been fulfilled or whether or not any event has taken place by reason of which the purchase grant or any part thereof is repayable:
       provided that no person shall be required to supply any information tending to incriminate himself; or
     (ii) supplies any information knowing it to be false in any material particular.
-(2) Any person who commits an offence under subsection (1) is liable on summary conviction—
+(2) Any person who commits an offence under subsection (1) is liable on conviction—
   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000; and
   (b) to repay in full to the Corporation any purchase grant wrongfully obtained.
 
@@ -224,7 +224,7 @@ Notwithstanding anything in any other Act, every authorised savings institution 
 (2) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under that subsection—
   (a) prescribing the mode of making application for purchase grants:
   (b) prescribing the procedure for payment of purchase grants:
-  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on summary conviction not exceeding $200 in respect of any such offences.
+  (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on conviction not exceeding $200 in respect of any such offences.
 
 ### 29 Consequential amendments
 The enactments specified in Schedule 2 are hereby amended in the manner specified in that schedule.
@@ -249,13 +249,13 @@ The enactments specified in Schedule 2 are hereby amended in the manner specifie
   (a) the Corporation must issue to the depositor a withdrawal certificate under section 20 for the balance of the Account (less the amount of any deposit referred to in subsection (4)) as at the time of its closure, notwithstanding that the depositor would not otherwise be entitled to receive a withdrawal certificate under Part 2; and
   (b) nothing in sections 23 to 25 (which impose certain restrictions where a withdrawal certificate has been issued, and may require the payment of withdrawal tax under Part 1 of the Income Tax Act 2004 if those restrictions are breached) applies in respect of the withdrawal for which the withdrawal certificate is issued.
 (4) If a person with a Special Fishing Vessel Ownership Account makes any deposit into that Account during the period 15 May 1998 to 30 June 1998 (both dates inclusive), the amount of the deposit, to the extent that it is not subsequently withdrawn in accordance with section 18(2) before the closure of the Account under this section,—
-  (a) is to be excluded from the withdrawal certificate given under subsection (3)(a); and
-  (b) falls to be treated as withdrawal income subject to withdrawal tax in accordance with Part IZ of the Income Tax Act 1996.
+  (a) is to be excluded from the withdrawal certificate given under subsection (3)﻿(a); and
+  (b) falls to be treated as withdrawal income subject to withdrawal tax in accordance with Part IZ of the Income Tax Act 1994.
 
 ### 32 Parts 1 and 2 to continue to apply to persons making deposits after 30 June 1998
 If a depositor with a Fishing Vessel Ownership Account makes any deposit into that Account on or after 30 June 1998, the provisions of Parts 1 and 2 continue to apply to that depositor and that Account, unless and until the Account is closed under section 30.
 
-## Schedule 1 — Charge under section 25(1)(a) of the Fishing Vessel Ownership Savings Act 1977
+## Schedule 1 — Charge under section 25(1)﻿(a) of the Fishing Vessel Ownership Savings Act 1977
 
 | Signed by the Rural Banking and Finance Corporation of New Zealand by | The Rural Banking and Finance Corporation of New Zealand by: |
 | --- | --- |
