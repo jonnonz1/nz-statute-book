@@ -1,5 +1,5 @@
 # Juries Amendment Act 2011
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Juries Amendment Act 2011.
