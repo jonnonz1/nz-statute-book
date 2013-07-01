@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1040,7 +1040,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
 **Powers**
 
 ### 117 Coroners' powers and immunities generally
-(1) For the purpose of performing or exercising a function, power, or duty under this Act, a coroner has the same powers, privileges, authorities, and immunities as a District Court Judge exercising jurisdiction under the Summary Proceedings Act 1957.
+(1) For the purpose of performing or exercising a function, power, or duty under this Act, a coroner has the same powers, privileges, authorities, and immunities as a District Court Judge exercising jurisdiction under the Criminal Procedure Act 2011.
 (2) Despite subsection (1), a coroner who is not a District Court Judge has, at all times, the same immunities as a Judge of the High Court.
 (3) In relation to an inquest held by a coroner for the purposes of an inquiry, the coroner has power to—
   (a) issue summonses for the attendance of witnesses:
@@ -1050,7 +1050,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
   (e) punish for contempt:
   (f) adjourn proceedings from time to time and place to place.
 (4) Subsection (3) does not limit subsection (1).
-(5) The Summary Proceedings Act 1957, so far as it is applicable and with the necessary modifications, applies to the powers, privileges, authorities, and immunities conferred on coroners by this section.
+(5) The Criminal Procedure Act 2011, so far as it is applicable and with the necessary modifications, applies to the powers, privileges, authorities, and immunities conferred on coroners by this section.
 (6) Evidence given by a person (whether at an inquest or otherwise) on oath or affirmation administered by a coroner under this section must, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be treated as having been given as evidence in a judicial proceeding on oath.
 (7) Nothing in this section limits any power of a coroner under any other enactment or the application of the Inferior Courts Procedure Act 1909 (which makes further provision for the validity of the judicial proceedings of inferior courts notwithstanding technical or formal errors) in respect of the exercise by a coroner of any judicial authority conferred on the coroner by this Act.
 
@@ -1192,10 +1192,10 @@ A warrant under section 128 authorises a member of the police executing the warr
 **Offences and penalties**
 
 ### 134 Failure to supply information or documents or other things as required by coroner's notice under section 120
-Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under section 120 (coroner may by written notice require person to supply information or documents or other things) to the extent that the person is capable of complying with it.
+Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under section 120 (coroner may by written notice require person to supply information or documents or other things) to the extent that the person is capable of complying with it.
 
 ### 135 False or misleading statements and omissions in certain documents
-(1) Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, in any document to which subsection (2) applies, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
+(1) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, in any document to which subsection (2) applies, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
 (2) This subsection applies to the following documents:
   (a) a doctor's report required under section 40:
   (b) a witness's evidence put into writing, read over to or by the witness, and signed by the witness, in accordance with section 79(3):
@@ -1203,22 +1203,22 @@ Every person commits an offence against this section, and is liable on summary c
   (d) documents prepared under section 120(1)(a) (coroner may by written notice require person to supply information or documents or other things).
 
 ### 136 Non-compliance with direction about removal of body
-Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $2,000, who—
+Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $2,000, who—
   (a) fails or refuses to comply with a direction about the removal of a body under section 20; or
   (b) hinders or prevents any person from complying with a direction about the removal of a body under section 20.
 
 ### 137 Failure or refusal to give report required
-Every pathologist or doctor commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give to a coroner a report required under—
+Every pathologist or doctor commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give to a coroner a report required under—
   (a) section 31(6) (coroner may direct post-mortem); or
   (b) section 40 (coroner may require person's doctor to report).
 
 ### 138 False or misleading statement for purposes of section 64(3)
-Every person commits an offence against this section, and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of section 64(3) (duties of coroner who decides not to open inquiry)—
+Every person commits an offence against this section, and is liable on conviction to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of section 64(3) (duties of coroner who decides not to open inquiry)—
   (a) knowing the statement to be false; and
   (b) intending to mislead people who might rely upon it.
 
 ### 139 Publication of information in contravention of section 71 or prohibition under section 74
-Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $5,000 in the case of a body corporate, or $1,000 in any other case, who publishes or permits to be published any information in contravention of—
+Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $5,000 in the case of a body corporate, or $1,000 in any other case, who publishes or permits to be published any information in contravention of—
   (a) section 71 (which relates to restrictions on the making public of details of self-inflicted deaths); or
   (b) a prohibition under section 74 (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings).
 
