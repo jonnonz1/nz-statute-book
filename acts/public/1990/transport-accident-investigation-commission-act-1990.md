@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -277,13 +277,13 @@ The following actions do not constitute disclosure of a record referred to in se
 ### 14L Offences relating to disclosure of records
 (1) Every person commits an offence who discloses a record specified in section 14B(2) or section 14C(2) in breach of section 14B or section 14C.
 (2) Every person commits an offence who contravenes section 14J(2).
-(3) Every person who commits an offence against this section is liable on summary conviction,—
+(3) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
 ### 14M Offences relating to publication of reports of proceedings or publication of records
 (1) Every person commits an offence who contravenes section 14I or section 14J(4).
-(2) Every person who commits an offence against this section is liable on summary conviction,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
