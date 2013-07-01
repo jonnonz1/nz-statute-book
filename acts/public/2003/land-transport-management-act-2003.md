@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -754,8 +754,8 @@ In preparing any programme or plan under this Part, the Agency, the Commissioner
 
 ### 43 Offence and penalty
 (1) A person commits an offence who, for the purposes of obtaining a refund under section 41, makes any application or furnishes any information that he or she knows to be false in any material particular.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $2,000.
-(3) Despite anything in the Summary Proceedings Act 1957, any information for an offence against subsection (1) may be laid at any time within 3 years after the date of the offence.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 44 Consequential repeal
 Part 5 of the Transit New Zealand Act 1989 is consequentially repealed.
@@ -867,7 +867,7 @@ A toll operator may deny a motor vehicle physical access to its toll road, or pa
 (1) A person commits an offence if the person, without reasonable excuse, fails to pay a toll payable by that person.
 (2) An offence against subsection (1) is a moving vehicle offence under the Land Transport Act 1998.
 (3) A person commits an offence if, for the purpose of section 52(3), the person gives a sworn statement in writing or a statutory declaration and, in that statement or declaration, gives information that the person knows to be false or misleading.
-(4) A person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $500.
+(4) A person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $500.
 (5) Subsection (3) does not limit section 111 of the Crimes Act 1961.
 
 ### 55 Application of Fair Trading Act 1986
@@ -943,7 +943,9 @@ Despite anything in the Land Transfer Act 1952, if a lease under section 63 is i
 (2) In relation to a toll road and to any person, vehicle, or animal on that road,—
   (a) enforcement officers who are not constables but who are Police employees authorised for the purpose by the Commissioner may enforce the provisions of this Part and the other enactments referred to in section 113(1) of the Land Transport Act 1998, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in section 2(1) of that Act; and
   (b) other enforcement officers who are appointed for the purposes of this Part under section 208(1) or (3)(a)(iii) of the Land Transport Act 1998 may enforce the provisions of this Part relating to tolls, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in section 2(1) of that Act; and
-  (c) the provisions of the Summary Proceedings Act 1957 and the regulations in force under that Act apply accordingly.
+  (c) the following provisions apply accordingly:
+    (i) the Criminal Procedure Act 2011 and the rules and regulations made under it:
+    (ii) the Summary Proceedings Act 1957 and the regulations made under it.
 (3) For the purposes of sections 52(1)(c) and 53 of the Land Transport Act 1998, an enforcement officer who gives or imposes any lawful requirement, direction, notice, request, or prohibition in relation to a person, vehicle, or animal on a toll road must be regarded as acting in the execution of his or her functions or powers under that Act.
 
 ### Subpart 3 — Regional fuel tax
