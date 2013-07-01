@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -501,20 +501,20 @@ Each Ministerial directive letter must be published in the Gazette and presented
 
 ### 42 Offence of giving effect to overseas investment without consent
 (1) A person who is required to apply for consent to an overseas investment transaction commits an offence if that person gives effect to the overseas investment without the consent required by this Act.
-(2) A person who commits an offence under subsection (1) is liable on conviction on indictment,—
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $300,000:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 (3) In imposing a penalty under subsection (2), the court must, if the transaction resulted in an overseas investment in fishing quota and the fishing quota or an interest in it has been forfeited under section 58 or section 58A of the Fisheries Act 1996, have regard to the effect of the forfeiture on the defendant.
 
 ### 43 Offence of defeating, evading, or circumventing operation of Act
 (1) Every person commits an offence who knowingly or recklessly enters into a transaction, executes an instrument, or takes any other step, for the purpose of, or having the effect of, in any way, directly or indirectly, defeating, evading, or circumventing the operation of this Act.
-(2) A person who commits an offence under subsection (1) is liable on conviction on indictment,—
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $300,000:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
 ### 44 Offence of resisting, obstructing, or deceiving
 (1) Every person commits an offence who resists, obstructs, or deceives any person who is exercising or attempting to exercise any power or function under this Act or regulations.
-(2) A person who commits an offence under subsection (1) is liable on conviction on indictment,—
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $300,000:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
@@ -522,8 +522,8 @@ Each Ministerial directive letter must be published in the Gazette and presented
 (1) Every person commits an offence who, without lawful excuse, fails to comply with—
   (a) this Act or regulations; or
   (b) a notice, requirement, or condition given or imposed under this Act or regulations.
-(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $100,000.
-(3) Section 14 of the Summary Proceedings Act 1957 does not apply to an offence committed under subsection (1).
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $100,000.
+(3)
 
 ### 46 Offence of false or misleading statement or omission
 (1) Every person commits an offence who knowingly or recklessly makes any false or misleading statement or any material omission in—
@@ -531,8 +531,8 @@ Each Ministerial directive letter must be published in the Gazette and presented
   (b) any information or document provided to the regulator; or
   (c) any communication with the regulator.
 (2) Every person commits an offence who knowingly or recklessly provides the regulator with a document that is false or misleading.
-(3) A person who commits an offence under subsection (1) or subsection (2) is liable on summary conviction to a fine not exceeding $300,000.
-(4) Section 14 of the Summary Proceedings Act 1957 does not apply to an offence committed under subsection (1) or subsection (2).
+(3) A person who commits an offence under subsection (1) or subsection (2) is liable on conviction to a fine not exceeding $300,000.
+(4)
 
 **Powers of court**
 
@@ -779,39 +779,3 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 | land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the Historic Places Act 1993 | 0.4 hectares |
 
 ## Schedule 2 — Enactments amended
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
