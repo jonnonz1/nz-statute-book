@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -623,7 +623,7 @@ The chief executive must approve a port facility security plan, or any amendment
 (6) Subject to subsection (3), a direction remains in effect until it is rescinded.
 
 ### 50 Taking weapons on to ships or into port security areas
-(1) A person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the written permission of the ship security officer (with respect to boarding a ship) or the port facility security officer (with respect to entering a port security area), intentionally takes, or attempts to take, on board a ship or into a port security area—
+(1) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the written permission of the ship security officer (with respect to boarding a ship) or the port facility security officer (with respect to entering a port security area), intentionally takes, or attempts to take, on board a ship or into a port security area—
   (a) a firearm, or any other dangerous or offensive weapon or instrument of any kind; or
   (b) any ammunition; or
   (c) an explosive, incendiary, biological, or chemical substance or device, or any other injurious substance or device of any kind, that could be used to endanger the safety of—
@@ -925,7 +925,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
       (B) the providers of those training courses (if any):
   (d) prescribing the functions and duties of any person under an obligation to carry out responsibilities in accordance with the Convention and the Code:
   (e) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
-(2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the summary conviction of any offender, not exceeding,—
+(2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the conviction of any offender, not exceeding,—
   (a) in the case of an individual, a fine of $5,000; and
   (b) in the case of a body corporate, a fine of $30,000.
 (3) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
@@ -1019,39 +1019,3 @@ The owner of a ship must ensure that the ship is permanently marked with the shi
 
 ### 40B.36 Ship security alert system
 The owner of a ship must ensure that the ship is fitted with a ship security alert system in accordance with regulation 6 of Chapter XI-2 of SOLAS (as amended in December 2002).
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
