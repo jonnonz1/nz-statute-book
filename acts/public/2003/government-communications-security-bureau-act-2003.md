@@ -1,5 +1,5 @@
 # Government Communications Security Bureau Act 2003
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Government Communications Security Bureau Act 2003.
@@ -52,8 +52,8 @@ In this Act, unless the context otherwise requires,—
     (a) means a communication between 2 or more parties made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
     (b) does not include a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so
   - **serious crime** means,—
-    (a) in relation to New Zealand, any indictable offence; and
-    (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an indictable offence.
+    (a) in relation to New Zealand, any offence punishable by 2 or more years' imprisonment; and
+    (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an offence punishable by 2 or more years' imprisonment.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -112,7 +112,7 @@ This Act binds the Crown.
 
 ### 11 Prohibition on unauthorised disclosure of information
 (1) A person who is or was an employee of the Bureau may not disclose or use any information gained by or conveyed to the person through the person’s connection with the Bureau except in the strict course of the person’s official duties or as authorised by the Minister.
-(2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 who contravenes subsection (1).
 
 ### 12 Annual report
 (1) As soon as practicable after each year ending on 30 June, the Director must deliver to the Minister a report on the activities of the Bureau during that year as if it were an annual report under the Public Finance Act 1989.
@@ -219,7 +219,7 @@ Despite section 41 of the State Sector Act 1988, the Director may not delegate t
 (1) Every person who intercepts any communication under section 16 or under an interception warrant or a computer access authorisation must, as soon as practicable after the interception, destroy any copy that he or she may make of the communication, or any part of the communication, and any record, whether in writing or otherwise, of the information obtained by that interception, except to the extent that the information recorded in the copy or record relates directly or indirectly to—
   (a) the protection or advancement of 1 or more of the interests specified in section 7(1)(a); or
   (b) any of the Bureau’s functions under section 8.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who knowingly fails to comply with subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who knowingly fails to comply with subsection (1).
 
 ### 24 Duty to minimise impact of interception on third parties
 Every person who, in accordance with section 16 or with an interception warrant or with a computer access authorisation, intercepts or assists in intercepting the communications of 1 or more persons must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting communications that are not relevant to the persons whose communications are to be intercepted.
