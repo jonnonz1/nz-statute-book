@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -498,6 +498,9 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 ### 46 Admissibility of voice identification evidence
 Voice identification evidence offered by the prosecution in a criminal proceeding is inadmissible unless the prosecution proves on the balance of probabilities that the circumstances in which the identification was made have produced a reliable identification.
 
+### 46A Caution regarding reliance on identification evidence
+If evidence of identity is given against the defendant and the defendant disputes that evidence, the court must bear in mind the need for caution before convicting the defendant in reliance on the correctness of any such identification and, in particular, the possibility that the witness may be mistaken.
+
 ### Subpart 7 — Evidence of convictions and civil judgments
 
 ### 47 Conviction as evidence in civil proceedings
@@ -803,7 +806,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) the associated defendant is being tried separately from the defendant; or
   (b) the proceeding against the associated defendant has been determined.
 (3) A proceeding has been determined for the purposes of subsection (2) if—
-  (a) the proceeding has been stayed or, in a summary proceeding, the information against the associated defendant has been withdrawn or dismissed; or
+  (a) the proceeding has been stayed or the charge against the associated defendant has been withdrawn or dismissed; or
   (b) the associated defendant has been acquitted of the offence; or
   (c) the associated defendant, having pleaded guilty to, or having been found guilty of, the offence, has been sentenced or otherwise dealt with for that offence.
 (4) In this section, associated defendant, in relation to a defendant in a criminal proceeding, means a person against whom a prosecution has been instituted for—
@@ -1003,7 +1006,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
   (a) allow the question to be put to the witness; or
   (b) require the question to be put to the witness in a form rephrased by the Judge; or
   (c) refuse to allow the question to be put to the witness.
-(7) Subsection (1) overrides section 354 of the Crimes Act 1961.
+(7) Subsection (1) overrides section 11 of the Criminal Procedure Act 2011.
 
 ### 96 Cross-examination on previous statements of witnesses
 (1) A party who cross-examines a witness may question the witness about a previous statement made by that witness without showing it or disclosing its contents to the witness if the time, place, and other circumstances concerning the making of the statement are adequately identified to the witness.
@@ -1113,9 +1116,7 @@ If an application for directions is made under section 103, before giving any di
 (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under section 103, despite a failure to observe strictly all of those terms.
 
 ### 106 Video record evidence
-(1) In a criminal proceeding tried on indictment, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial—
-  (a) must, if a video record of that witness’s evidence was offered in evidence at the standard committal or the committal hearing, include the same video record; and
-  (b) may include a video record made after the standard committal or the committal hearing.
+(1) Without limiting section 105(1)(a)(iii), in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the Criminal Procedure Act 2011 or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
 (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
 (3) A video record that is to be offered as an alternative way of giving evidence in a proceeding must be offered for viewing by all parties or their lawyers before it is offered in evidence, unless the Judge directs otherwise.
 (4) A copy of any video record that is to be offered as an alternative method of giving evidence in a proceeding—
@@ -1146,12 +1147,12 @@ If an application for directions is made under section 103, before giving any di
 **Giving of evidence by undercover Police officers**
 
 ### 108 Undercover Police officers
-(1) This section and section 109 apply in any case where a person is being, or is to be, proceeded against by indictment—
+(1) This section and section 109 apply in any case where a person is being, or is to be, proceeded against—
   (a) for any offence that is punishable by imprisonment for life or for a term of at least 7 years; or
-  (b) for any other offence against any provisions of the Misuse of Drugs Act 1975, except sections 7 and 13; or
+  (b) for any other offence against any provisions of the Misuse of Drugs Act 1975 punishable by imprisonment for life or for a term of at least 5 years; or
   (c) for an offence against section 98A of the Crimes Act 1961; or
   (d) for conspiracy to commit, or for attempting to commit, an offence described in paragraph (a) or (b).
-(2) If, in any proceeding to which this section applies, it is intended to call an undercover Police officer as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
+(2) If, in any proceeding to which this section applies, it is intended to call an undercover Police officer as a witness for the prosecution, the Commissioner of Police may, as soon as is reasonably practicable after a defendant has pleaded not guilty, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
   (a) that during the period specified in the certificate the witness was a member of the Police and acted as an undercover Police officer:
   (b) that the witness has not been convicted of any offence or (as the case may require) that the witness has not been convicted of any offence other than the offence, or offences, described in the certificate:
   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under section 20 of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
@@ -1172,7 +1173,7 @@ If an application for directions is made under section 103, before giving any di
 (2) The Judge may not grant leave under subsection (1)(d) unless the Judge is satisfied—
   (a) that there is some evidence before the Judge that, if believed by the jury, could call into question the credibility of the witness; and
   (b) that it is necessary in the interests of justice that the defendant be enabled to test properly the credibility of the witness; and
-  (c) that it would be impracticable for the defendant to test properly the credibility of the witness if the accused were not informed of the true name or the true address of the witness.
+  (c) that it would be impracticable for the defendant to test properly the credibility of the witness if the defendant were not informed of the true name or the true address of the witness.
 (3) An application for leave under subsection (1)(d)—
   (a) may be made from time to time and at any stage of the proceeding; and
   (b) must, where practicable, be made and dealt with in chambers; and
@@ -1182,10 +1183,10 @@ If an application for directions is made under section 103, before giving any di
 **Giving of evidence by anonymous witnesses**
 
 ### 110 Pre-trial witness anonymity order
-(1) This section and section 111 apply if a person is charged with an offence and is to be proceeded against by indictment.
+(1) This section and section 111 apply if a person is charged with a category 3 or 4 offence.
 (2) At any time after the person is charged, the prosecution or the defendant may apply to a Judge for an order—
-  (a) excusing the applicant from disclosing to the other party prior to the standard committal or the committal hearing (if required) the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification; and
-  (b) excusing the witness from stating for the purposes of or at the standard committal or committal hearing (if required) his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification.
+  (a) excusing the applicant from disclosing to the other party before the trial the name, address, and occupation of any witness, and (except with the leave of the Judge) any other particulars likely to lead to the witness's identification; and
+  (b) excusing the witness from stating in any formal statement, or in giving oral evidence in accordance with an oral evidence order, his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification.
 (3) The Judge must hear and determine the application in chambers, and—
   (a) the Judge must give each party an opportunity to be heard on the application; and
   (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness’s identity to any person (other than the Judge) before the application is dealt with.
@@ -1200,33 +1201,32 @@ If an application for directions is made under section 103, before giving any di
   (e) whether it is practical for the witness to be protected prior to the trial by any other means; and
   (f) whether there is other evidence that corroborates the witness’s evidence.
 (6) A pre-trial witness anonymity order may be made by—
-  (a) a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct trials on indictment:
+  (a) a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct jury trials:
   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in section 274(2)(a) of the Children, Young Persons, and Their Families Act 1989:
   (c) a High Court Judge.
 
 ### 111 Effect of pre-trial witness anonymity order
 If a pre-trial witness anonymity order is made under section 110,—
   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
-  (b) at the standard committal or during the course of the committal hearing (if required), no lawyer, officer of the court, or other person involved in that process may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification; and
-  (c) during the course of the committal hearing (if required),—
-    (i) no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
-    (ii) except with leave of the Judge, no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
+  (b) no formal statement filed under the Criminal Procedure Act 2011 may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
+  (c) during the giving of oral evidence before the trial,—
+    (i) no lawyer, officer of the court, or other person involved in that process may disclose the name, address, or occupation of the witness, or any other particular likely to lead to the witness's identification; and
+    (ii) no oral evidence may be given, and no question put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
+    (iii) except with the leave of the Judge, no oral evidence may be given, and no question put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
   (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification.
 
 ### 112 Witness anonymity order for purpose of High Court trial
-(1) This section and section 113 apply if a person is charged with an indictable offence and is committed to—
-  (a) the High Court for trial; or
-  (b) a District Court for trial and is the subject of an application under section 28J of the District Courts Act 1947 to transfer the proceeding to the High Court.
-(2) At any time after the person is committed for trial, the prosecution or the accused may apply to a High Court Judge for a witness anonymity order under this section.
+(1) This section and section 113 apply if a person is charged with a category 3 or 4 offence.
+(2) The prosecution or the defendant may apply to a High Court Judge for a witness anonymity order under this section.
 (3) The Judge must hear and determine the application in chambers, and—
   (a) the Judge must give each party an opportunity to be heard on the application; and
   (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness’s identity to any person (other than the Judge) before the application is dealt with.
 (4) The Judge may make a witness anonymity order if satisfied that—
   (a) the safety of the witness or of any other person is likely to be endangered, or there is likely to be serious damage to property, if the witness’s identity is disclosed; and
   (b) either—
-    (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness’s previous convictions or the witness’s relationship with the accused or any associates of the accused; or
+    (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness’s previous convictions or the witness’s relationship with the defendant or any associates of the defendant; or
     (ii) the witness’s credibility can be tested properly without disclosure of the witness’s identity; and
-  (c) the making of the order would not deprive the accused of a fair trial.
+  (c) the making of the order would not deprive the defendant of a fair trial.
 (5) Without limiting subsection (4), in considering the application, the Judge must have regard to—
   (a) the general right of a defendant to know the identity of witnesses; and
   (b) the principle that witness anonymity orders are justified only in exceptional circumstances; and
@@ -1248,9 +1248,9 @@ If a witness anonymity order is made under section 112,—
   (e) no person may publish, in any report or account relating to the proceedings, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification.
 
 ### 114 Trial to be held in High Court if witness anonymity order made
-(1) If an application to transfer a proceeding to the High Court is made under section 28J of the District Courts Act 1947 and a witness anonymity order is made under section 112 in that case before the application is dealt with, the Judge considering the application must transfer the proceeding to the High Court.
-(2) In any other case where a witness who may be called to give evidence in a criminal trial is the subject of a witness anonymity order made under section 112, the trial must be held in the High Court.
-(3) This section has effect despite anything in sections 28A and 28J of the District Courts Act 1947.
+(1) In any case where a witness who may be called to give evidence in a criminal trial is the subject of a witness anonymity order made under section 112, the trial must be held in the High Court.
+(2)
+(3) This section has effect despite anything in the Criminal Procedure Act 2011.
 
 ### 115 Judge may appoint independent counsel to assist
 (1) For the purposes of considering an application for a witness anonymity order under section 112, the Judge may appoint an independent counsel to assist the Judge and, without limiting the directions the Judge may give, the Judge may direct the independent counsel to—
@@ -1264,13 +1264,13 @@ If a witness anonymity order is made under section 112,—
 (5) If the counsel is dissatisfied with the decision of the Registrar as to the amount of the bill, the counsel may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
 
 ### 116 Judge may make orders and give directions to preserve anonymity of witness
-(1) A Judge who makes an order under section 110 or 112 may, for the purposes of any committal hearing or the trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
+(1) A Judge who makes an order under section 110 or 112 may, for the purposes of the giving of oral evidence in accordance with an oral evidence order or the trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
   (a) that the court be cleared of members of the public:
   (b) that the witness be screened from the defendant:
   (c) that the witness give evidence by closed-circuit television or by video link.
-(2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence at any committal hearing or the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
+(2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence in accordance with an oral evidence order or at the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
 (3) This section does not limit—
-  (a) section 206 of the Summary Proceedings Act 1957 (which confers power to deal with contempt of court); or
+  (a) section 365 of the Criminal Procedure Act 2011 (which confers power to deal with contempt of court); or
   (b) section 197 of the Criminal Procedure Act 2011 (which confers power to clear the court); or
   (c) any power of the court to direct that evidence be given, or to permit evidence to be given, by a particular mode.
 
@@ -1281,9 +1281,9 @@ At any time before a witness gives evidence during a trial, a High Court Judge m
 If, at any time after the events that are the subject of a charge, a witness under a Police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
 
 ### 119 Offences
-(1) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under section 110, intentionally contravenes section 111(b) or (d).
-(2) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under section 112, intentionally contravenes section 113(c) or (e).
-(3) If a person contravenes section 111(b) or (d) or 113(c) or (e), and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on summary conviction,—
+(1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under section 110, intentionally contravenes section 111(b) or (d).
+(2) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under section 112, intentionally contravenes section 113(c) or (e).
+(3) If a person contravenes section 111(b) or (d) or 113(c) or (e), and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Nothing in this section limits the power of any court to punish any contempt of court.
@@ -1800,7 +1800,7 @@ For the purposes of sections 174 and 175, the place in New Zealand where the evi
     (iv) a witness in the proceeding; or
   (c) wilfully interrupts or obstructs the proceeding; or
   (d) wilfully and without lawful excuse, disobeys any order or direction of the Australian court in the course of the proceeding.
-(2) Every person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both.
 
 ### 180 Assistance to Australian court
 An officer of a New Zealand court may, at the request of an Australian court,—
@@ -1903,7 +1903,7 @@ No order may be made under this subpart that is binding on the Crown or on any p
 (1) Every person commits an offence who, being required under subsection 185(1) to give evidence (either orally or in writing) otherwise than on oath, makes a statement—
   (a) which he or she knows to be false in a material particular; or
   (b) which is false in a material particular and which he or she does not believe to be true.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 years.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 years.
 
 ### Subpart 3 — Evidence for use in overseas criminal proceedings
 
@@ -1960,7 +1960,7 @@ This subpart does not affect the application or operation of subpart 1.
   (b) producing any document.
 
 ### 196 Witnesses’ expenses
-Every witness required to attend for examination by an order made under section 192 is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957.
+Every witness required to attend for examination by an order made under section 192 is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the Criminal Procedure Act 2011.
 
 ### 197 Solicitor may take affidavit or declaration
 (1) It is lawful for any solicitor of the High Court to take the affidavit or declaration of any person in relation to any criminal proceedings that are certified in accordance with this section to be pending in any overseas court.
