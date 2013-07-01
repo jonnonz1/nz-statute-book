@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -390,7 +390,7 @@ A territorial authority must—
 (7) A person commits an offence if that person—
   (a) in any way obstructs or hinders any other person in the exercise of his or her functions under this section; or
   (b) refuses or fails to answer any question or to supply any requested information in his or her possession.
-(8) A person who commits an offence under subsection (7) is liable on summary conviction to—
+(8) A person who commits an offence under subsection (7) is liable on conviction to—
   (a) a fine not exceeding $5,000, in the case of an individual:
   (b) a fine not exceeding $10,000, in the case of a body corporate.
 
