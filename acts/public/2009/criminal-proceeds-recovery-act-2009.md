@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -102,8 +102,8 @@ This Act comes into force on 1 December 2009.
     (a) means, in relation to an application for a restraining order relating to an instrument of crime or to any matter relating to an instrument forfeiture order, the person who is for the time being in charge of the file or files that relate to the criminal proceeding for the qualifying instrument forfeiture offence to which the restraining order or instrument forfeiture order relates; and
     (b) includes—
       (i) any other employee of the person or agency by whom the prosecutor is employed who has responsibilities for any matter directly connected with the proceedings; and
-      (ii) any counsel representing the person who laid the information in the proceedings; and
-      (iii) in the case of a private prosecution, the person who laid the information and any counsel representing that person
+      (ii) any counsel representing the person who commenced the proceedings; and
+      (iii) in the case of a private prosecution, the person who commenced the proceedings and any counsel representing that person
   - **qualifying instrument forfeiture offence** —
     (a) means an offence punishable by a maximum term of imprisonment of 5 years or more; and
     (b) includes an attempt to commit, conspiring to commit, or being an accessory to an offence if the maximum term of imprisonment for that attempt, conspiracy, or activity is 5 years or more
@@ -167,7 +167,7 @@ This Act applies in respect of—
   (h) registering a foreign restraining order in New Zealand:
   (i) registering a foreign forfeiture order in New Zealand:
   (j) an order for relief from a foreign restraining order or foreign forfeiture order registered in New Zealand.
-(2) Proceedings relating to instrument forfeiture orders are proceedings under the Sentencing Act 2002 and, in relation to an appeal from an instrument forfeiture order, the Summary Proceedings Act 1957 or the Crimes Act 1961, as the case requires.
+(2) Proceedings relating to instrument forfeiture orders are proceedings under the Sentencing Act 2002 and, in relation to an appeal from an instrument forfeiture order, subpart 4 of Part 6 of the Criminal Procedure Act 2011.
 
 ### 11 Restraint not necessary before forfeiture
 Property may, but need not, be restrained property or foreign restrained property before it becomes forfeited property or the subject of a foreign forfeiture order registered in New Zealand.
@@ -219,8 +219,8 @@ An application for a restraining order must identify the following:
 An application for a restraining order must be made to,—
   (a) in the case of an application made under section 24 or 25, the High Court; and
   (b) in the case of an application made under section 26,—
-    (i) the High Court; or
-    (ii) if the charge of the offence with which the instrument of crime is associated has been or is to be tried in a District Court, the District Court.
+    (i) the High Court, if the offence with which the instrument of crime is associated is for a category 4 offence, or if an order has been made under section 68 or 70 of the Criminal Procedure Act 2011 transferring the proceedings in relation to the offence to the High Court:
+    (ii) the District Court, if subparagraph (i) does not apply.
 
 **Applications for restraining order made on and without notice**
 
@@ -701,8 +701,8 @@ If, on any application for relief made under section 142J of the Sentencing Act 
 ### 78 Third party appeals from instrument forfeiture order
 (1) If a court makes an instrument forfeiture order under section 142N of the Sentencing Act 2002, any person (other than the person who has been convicted of the qualifying instrument forfeiture offence to which a notice issued under section 142B of the Sentencing Act 2002 relates) who claims to be a former interest holder in the property that is the subject of the order may appeal against the making of the order.
 (2) For the purposes of subsection (1),—
-  (a) the provisions of sections 115 and 116 to 144B of the Summary Proceedings Act 1957 apply as if every reference to a defendant were a reference to a person referred to in subsection (1):
-  (b) the provisions of sections 383, 383A, and 385 to 399 of the Crimes Act 1961 apply as if every reference to a person convicted on indictment were a reference to a person referred to in subsection (1):
+  (a) subpart 6 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications:
+  (b)
   (c) the court with jurisdiction to consider the appeal must determine—
     (i) in the case where an application for relief was made and determined under sections 142J to 142M of the Sentencing Act 2002, whether the decision of the court was correct:
     (ii) in the case where no application for relief was made before sentence was imposed, whether—
@@ -948,8 +948,8 @@ In this subpart, unless the context otherwise requires,—
 (3) An application for a warrant under subsection (1) may be made—
   (a) by a member of the police:
   (b) before, on, or after the making of a restraining order.
-(4) A warrant may be issued under subsection (1) whether or not an information has been laid in respect of the relevant qualifying instrument forfeiture offence.
-(5) However, if an information has not been laid in respect of that offence at the time when the application for the warrant is made, the Judge must not issue a warrant unless the Judge is satisfied that an information will be laid in respect of the offence within 48 hours of the issue of the warrant.
+(4) A warrant may be issued under subsection (1) whether or not a charging document has been filed in respect of the relevant qualifying instrument forfeiture offence.
+(5) However, if a charging document has not been filed in respect of that offence at the time when the application for the warrant is made, the Judge must not issue a warrant unless the Judge is satisfied that a charging document will be filed in respect of the offence within 48 hours of the issue of the warrant.
 
 **Commissioner's powers**
 
@@ -1338,13 +1338,13 @@ A person who claims an interest in property sought to be forfeited under a forei
 
 ### 150 Contravention of restraining orders or foreign restraining orders
 (1) Every person commits an offence who, knowing that a restraining order has been made or that a foreign restraining order has been registered in New Zealand in respect of property, disposes or otherwise deals with that property in contravention of the order.
-(2) Every person who commits an offence against this section is liable on conviction on indictment,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000 or both:
   (b) in the case of a body corporate, to a fine not exceeding $60,000.
 
 ### 151 Contravention of forfeiture orders or foreign forfeiture orders
 (1) Every person commits an offence who, knowing that an assets forfeiture order or profit forfeiture order or instrument forfeiture order is in force or a foreign forfeiture order is registered in New Zealand in relation to property to which title is passed by registration on a register maintained under any New Zealand enactment, disposes of or otherwise deals with the property before the Crown’s interest in the property has been registered in the manner required by law.
-(2) Every person who commits an offence against this section is liable on conviction on indictment,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $60,000.
 
@@ -1353,7 +1353,7 @@ A person who claims an interest in property sought to be forfeited under a forei
   (a) fails, without reasonable excuse, to comply with that order; or
   (b) in purported compliance with the order, produces or makes available to the Commissioner a document or makes a statement which the person knows is false or misleading in a material particular.
 (2) Every person commits an offence who fails, without reasonable excuse, to comply with a search warrant issued under this Act that relates to his or her premises.
-(3) Every person who commits an offence against subsection (1) or (2) is liable on indictment—
+(3) Every person who commits an offence against subsection (1) or (2) is liable on conviction—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $40,000.
 
@@ -1377,12 +1377,12 @@ A person who claims an interest in property sought to be forfeited under a forei
   (b) an examination order or production order.
 
 ### 154 Offence to disclose existence or operation of search order
-Every person who knowingly contravenes any of subsections (1) to (4) of section 153 commits an offence and is liable on indictment—
+Every person who knowingly contravenes any of subsections (1) to (4) of section 153 commits an offence and is liable on conviction—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $40,000.
 
 ### 155 Offence of obstruction
-Every person who, without reasonable excuse, intentionally obstructs any person exercising a power or carrying out a duty under this Act commits an offence and is liable on indictment—
+Every person who, without reasonable excuse, intentionally obstructs any person exercising a power or carrying out a duty under this Act commits an offence and is liable on conviction—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000 or both:
   (b) in the case of a body corporate, to a fine not exceeding $40,000.
 
@@ -1802,39 +1802,3 @@ Section 71 is repealed and the following section substituted:Criminal Proceeds (
 
 ### 225 Section 81 repealed
 Section 81 is repealed.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
