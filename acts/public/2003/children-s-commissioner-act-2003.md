@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -154,7 +154,7 @@ In conducting an investigation, the Commissioner must have regard to the questio
 ### 21 Compliance with requirement to provide information or document
 (1) A person to whom a notice under section 20 is given must, without charge, comply with the requirement stated in the notice in the manner and within a period (being not less than 20 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
-(3) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who, when required to comply with a notice given under section 20,—
+(3) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who, when required to comply with a notice given under section 20,—
   (a) refuses or fails without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
 
