@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -217,9 +217,9 @@ In any case where this Act requires something to be done by the general partner 
   (a) that the name of the limited partnership was changed in that period; and
   (b) the former name or names of the limited partnership.
 (6) If a limited partnership fails to comply with subsection (3) or (5),—
-  (a) the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $5,000; and
-  (b) every general partner of the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
-(7) A person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+  (a) the limited partnership commits an offence and is liable on conviction to a fine not exceeding $5,000; and
+  (b) every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $5,000.
+(7) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 33 Liability if name of limited partnership incorrectly stated
 (1) This section applies if—
@@ -287,7 +287,7 @@ A distribution must be authorised in writing by each general partner.
 (1) A general partner must not authorise a distribution unless that person is satisfied on reasonable grounds that, immediately after the distribution is made, the limited partnership will be solvent.
 (2) A general partner is deemed to have breached subsection (1) if, before the distribution is made, the general partner ceases to be satisfied on reasonable grounds that, immediately after the distribution is made, the limited partnership will be solvent.
 (3) Each general partner who authorises a distribution must sign a certificate stating that, in that person’s opinion, the limited partnership will, immediately after the distribution, be solvent and the grounds for that opinion.
-(4) A general partner who fails to comply with subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) A general partner who fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 42 Solvency test
 (1) A limited partnership is solvent for the purposes of the payment of a distribution if—
@@ -409,13 +409,13 @@ The Registrar must update the information contained in a register as soon as pra
 ### 59 General partners must notify Registrar of any change in limited partnership details
 (1) The general partners must notify the Registrar in the prescribed form of any change in any of the details entered in a register in relation to the limited partnership.
 (2) The change must be notified within 10 working days.
-(3) If the general partners fail to comply with this section, each general partner commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) If the general partners fail to comply with this section, each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 60 General partners must send written consent of new general partner to Registrar
 (1) The general partners must send to the Registrar the written consent of a new general partner to becoming a general partner of the limited partnership.
 (2) The change must be notified within 10 working days of the new general partner becoming a general partner of the limited partnership.
 (3) The consent must be in the prescribed form.
-(4) If the general partners fail to comply with this section, each general partner commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) If the general partners fail to comply with this section, each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 61 Rectification or correction of register
 (1) The Registrar may,—
@@ -499,7 +499,7 @@ A person who searches a register for personal information for a purpose that is 
 (5) The limited partnership must change its registered office—
   (a) by the date stated in the notice; or
   (b) if it appeals to the Court and the appeal is dismissed, within 5 working days after the decision of the Court.
-(6) If a limited partnership fails to comply with this section, every general partner of the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(6) If a limited partnership fails to comply with this section, every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 70 Address for service
 (1) A limited partnership must have an address for service in New Zealand.
@@ -543,8 +543,8 @@ Any document may be served on a limited partnership by—
 (2) The references in subsection (1)(b) and (c) to 7 years and the references in subsection (1)(d) and (f) to 7 completed accounting periods include any lesser period that the Registrar may approve by notice in writing to the limited partnership.
 (3) The documents in subsection (1) must, subject to the partnership agreement, be available for inspection by any partner during ordinary business hours.
 (4) If the limited partnership fails to comply with the requirements of this section,—
-  (a) the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000; and
-  (b) each general partner commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+  (a) the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
+  (b) each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 75 Obligation to prepare financial statements
 (1) The general partners of a limited partnership must ensure that, within 5 months after the balance date of the limited partnership, financial statements are—
@@ -554,12 +554,12 @@ Any document may be served on a limited partnership by—
 (3) For the purposes of this section, sections 7(1) to (6) and 8(1) of the Financial Reporting Act 1993 apply as if a reference to—
   (a) an entity or a reporting entity were a reference to a limited partnership:
   (b) the directors were a reference to the general partners.
-(4) Where financial statements in relation to a limited partnership are not completed and signed within the time specified in subsection (1), every general partner of the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) Where financial statements in relation to a limited partnership are not completed and signed within the time specified in subsection (1), every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (5) It is a defence to a general partner of a limited partnership charged with an offence under subsection (4) if the general partner proves that—
   (a) the general partners of the limited partnership took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
   (b) the general partner took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
   (c) in the circumstances the general partner could not reasonably have been expected to take steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1).
-(6) Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, an information for an offence under subsection (4) may be laid at any time within 3 years after the date of the offence.
+(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (4) ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 76 Annual return
 (1) The general partners of a limited partnership must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the limited partnership for the purpose, an annual return in the prescribed form.
@@ -579,7 +579,7 @@ Any document may be served on a limited partnership by—
 (6) The Registrar may, by written notice to a limited partnership, alter the month allocated to the limited partnership under subsection (5).
 (7) Notwithstanding subsection (1), a limited partnership need not make an annual return in the calendar year of its registration.
 (8) For the purposes of this section, prescribed means prescribed by regulations made under this Act or by the Registrar by notice in the Gazette.
-(9) If the general partners of a limited partnership fail to comply with subsection (1) or (2), every general partner of the limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(9) If the general partners of a limited partnership fail to comply with subsection (1) or (2), every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 77 Registrar may alter register to conform with address contained in annual return
 (1) This section applies if the annual return contains 1 or more of the following addresses that are different from the corresponding address or addresses entered on the register:
@@ -601,7 +601,7 @@ Any document may be served on a limited partnership by—
   (c) taking possession of relevant documents and retaining them for a reasonable time, for the purpose of taking copies.
 (3) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
-(5) Any person who fails to comply with a requirement under subsection (2) or acts in contravention of subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(5) Any person who fails to comply with a requirement under subsection (2) or acts in contravention of subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (6) In this section, relevant document, in relation to a limited partnership, means a document that contains information relating to—
   (a) the limited partnership; or
   (b) money or other property that is, or has been, managed, supervised, controlled, or held in trust by or for the limited partnership.
@@ -619,7 +619,7 @@ Any document may be served on a limited partnership by—
   (c) subject to the approval of the Registrar, for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (d) to the extent that the information, or information contained in the document or report, is available under any Act or in a public document; or
   (e) subject to the approval of the Registrar, to a liquidator for the purposes of the liquidation of a limited partnership.
-(4) A person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 80 Inspector’s report admissible in liquidation proceedings
 Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under section 78 is admissible in evidence at the hearing of an application to the Court to appoint a liquidator of a limited partnership.
@@ -816,8 +816,8 @@ Sections 328 (except section 328(3)(a)) and 329 of the Companies Act 1993 apply,
 (2) An overseas limited partnership that, immediately before the commencement of this Act, was carrying on business in New Zealand and, on the commencement of this Act, continues to carry on business in New Zealand must apply for registration under this Part in accordance with section 107 within 3 months of the commencement of this Act.
 (3) An overseas limited partnership that changes its name overseas must apply under section 35 within 10 working days of the change to change the name with which it is registered in New Zealand to its overseas name.
 (4) If an overseas limited partnership fails to comply with this section,—
-  (a) the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000; and
-  (b) every general partner of the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+  (a) the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
+  (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 105 Meaning of carrying on business
 For the purposes of this Part,—
@@ -864,8 +864,8 @@ A failure by an overseas limited partnership to comply with section 104 does not
   (b) the address of the place of business or principal place of business of the overseas limited partnership; or
   (c) any person or the address of any person authorised to accept service in New Zealand of documents on behalf of the overseas limited partnership.
 (2) If an overseas limited partnership fails to comply with subsection (1),—
-  (a) the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000; and
-  (b) every general partner of the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+  (a) the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
+  (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 111 Rectification or correction of name or address of person authorised to accept service
 (1) This section applies if the name or address of a person resident or incorporated in New Zealand who is authorised to accept service in New Zealand of documents on behalf of an overseas limited partnership is rectified or corrected under section 61 or 62.
@@ -878,8 +878,8 @@ A failure by an overseas limited partnership to comply with section 104 does not
 (4) The Registrar may, by written notice to an overseas limited partnership, alter the month allocated to the overseas limited partnership under subsection (3).
 (5) Notwithstanding subsection (1), an overseas limited partnership need not make an annual return in the calendar year of its registration under this Part.
 (6) If an overseas limited partnership fails to comply with subsection (1) or (2),—
-  (a) the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000; and
-  (b) every general partner of the overseas limited partnership commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+  (a) the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
+  (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 113 Overseas limited partnership ceasing to carry on business in New Zealand
 (1) An overseas limited partnership registered under this Part that intends to cease to carry on business in New Zealand must—
