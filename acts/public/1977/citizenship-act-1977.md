@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2012-12-19_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -13,13 +13,13 @@ _Consolidation as at 2012-12-19_
   - **Armed Forces** has the meaning given to it by section 2 of the Defence Act 1990
   - **Crown service under the New Zealand Government** means the service of the Crown under the Government of New Zealand or under the Government of a New Zealand mandated territory or New Zealand trust territory, whether that service is in any part of Her Majesty's realms and territories or elsewhere; and includes employment in any of the State Services, as that term is defined in section 2 of the State Sector Act 1988
   - **employee** has the meaning given to it by section 2 of the State Sector Act 1988, except that it includes—
-    (a) any chief executive; and
+    (a) any chief executive
     (b)
   - **Minister** means the Minister of Internal Affairs
   - **New Zealand** includes the Cook Islands, Niue, Tokelau, and the Ross Dependency
   - **New Zealand overseas representative** means a diplomatic or consular representative for New Zealand or a representative of the Government of New Zealand in any other country; and includes a High Commissioner for New Zealand in any other country
   - **prescribed** means prescribed by regulations made under this Act or by the Minister
-  - **protected state** means a State or territory that is declared by Her Majesty by Order in Council to be a protected state for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
+  - **protected State** means a State or territory that is declared by Her Majesty by Order in Council to be a protected State for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
   - **protectorate** means a State or territory that is declared by Her Majesty by Order in Council to be a protectorate for the purposes of the British Nationality Act 1948 (UK)
   - **Secretary** means the Secretary for Internal Affairs.
 (2) References in this Act to a Commonwealth country include references to every territory for the international relations of which that country is responsible.
@@ -80,7 +80,7 @@ This Act binds the Crown.
 ### 6 Citizenship by birth
 (1) Subject to subsection (2), a person is a New Zealand citizen by birth if—
   (a) the person was born in New Zealand on or after l January 1949 and before 1 January 2006; or
-  (b) the person was born in New Zealand on or after 1 January 2006, and, at the time of the person's birth, at least 1 of the person's parents was—
+  (b) the person was born in New Zealand on or after 1 January 2006, and, at the time of the person's birth, at least one of the person's parents was—
     (i) a New Zealand citizen; or
     (ii) entitled in terms of the Immigration Act 2009 to be in New Zealand indefinitely, or entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau.
 (2) A person shall not be a New Zealand citizen by virtue of this section if, at the time of his birth,—
@@ -90,7 +90,7 @@ This Act binds the Crown.
   (a) every person born in New Zealand on or after 1 January 1978 is a New Zealand citizen by birth if the person would otherwise be stateless:
   (b) a person is deemed to be a New Zealand citizen by birth if—
     (i) the person, having recently been born, has been found abandoned in New Zealand; and
-    (ii) investigations have failed to establish the identity of at least 1 of the person's parents.
+    (ii) investigations have failed to establish the identity of at least one of the person's parents.
 (4) Notwithstanding section 7, a person born outside New Zealand shall be deemed to be a New Zealand citizen otherwise than by descent if that person's father or mother is then—
   (a) a New Zealand citizen, or a New Zealand citizen by descent, pursuant to this Act; and
   (b) either—
@@ -209,7 +209,7 @@ Notwithstanding that the Minister may have authorised a grant of citizenship und
   (a) in any case, his father was a New Zealand citizen at the time of that person's birth; or
   (b) in the case of a person born on or after 1 January 1970 (being the date of the commencement of the Status of Children Act 1969), his mother was a New Zealand citizen at the time of his birth.
 (4) A person shall not be a New Zealand citizen by virtue of subsection (3) if that person's relevant parent was a New Zealand citizen by descent only, unless—
-  (a) that person or his relevant parent was born in a protectorate, protected state, mandated territory, or trust territory, or any place in a foreign country where by treaty, capitulation, grant, usage, sufferance, or other lawful means Her Majesty then had jurisdiction over British subjects; or
+  (a) that person or his relevant parent was born in a protectorate, protected State, mandated territory, or trust territory, or any place in a foreign country where by treaty, capitulation, grant, usage, sufferance, or other lawful means Her Majesty then had jurisdiction over British subjects; or
   (b) in the case of a person born in a place other than a place mentioned in paragraph (a), his birth or citizenship by descent is registered, in accordance with regulations made under this Act, before that person has attained the age of 16 years; or
   (c) the relevant parent of that person was, at the time of the person's birth, in Crown service under the New Zealand Government.
 
@@ -329,7 +329,7 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 27 Offences and penalties
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who—
   (a) for the purpose of procuring anything to be done or not to be done under this Act,—
     (i) makes any statement that he or she knows to be false in a material particular; or
     (ii) recklessly makes any statement that is false in a material particular; or
@@ -339,7 +339,7 @@ Nothing in this Act limits access to information that is recorded under this Act
     (ii) fails to deliver a document; or
   (d) knowingly or recklessly lends or parts with a document (as defined in section 24(1)) for unlawful purposes; or
   (e) knowingly resists, obstructs, or deceives any person who is exercising or attempting to exercise any function or power imposed or conferred under this Act.
-(2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine not exceeding $50,000, or both, who, knowingly and without reasonable excuse,—
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $50,000, or both, who, knowingly and without reasonable excuse,—
   (a) records, deletes, or alters any entry in a citizenship register or database; or
   (b) takes a citizenship document (including any blank certificate) from where it is officially kept; or
   (c) issues a citizenship document to a person who has no lawful entitlement to the document.
@@ -352,8 +352,8 @@ Nothing in this Act limits access to information that is recorded under this Act
   (d) providing for the giving of any notice required or authorised to be given to any person under this Act:
   (e) providing for the cancellation and amendment of certificates of naturalisation and certificates of New Zealand citizenship, and for the cancellation of the registration of such certificates, relating to persons deprived of New Zealand citizenship under this Act, and providing for the surrender of such certificates by such persons:
   (f) providing for the registration, by officers in the service of the New Zealand Government,—
-    (i) of the births and deaths of persons of any class or description born or dying in any Commonwealth country, or in a protected state, or in any foreign country:
-    (ii) of citizenship by descent of persons born in any Commonwealth country, or in a protected state, or in any foreign country:
+    (i) of the births and deaths of persons of any class or description born or dying in any Commonwealth country, or in a protected State, or in any foreign country:
+    (ii) of citizenship by descent of persons born in any Commonwealth country, or in a protected State, or in any foreign country:
   (g) enabling the births and deaths, and the citizenship by descent, of New Zealand citizens and British protected persons to be registered in any country in which the New Zealand Government has for the time being no overseas representatives—
     (i) by persons serving in the diplomatic, consular, or other foreign service of any country that, by arrangement with the New Zealand Government, has undertaken to represent that Government's interests in that country; or
     (ii) by any person authorised in that behalf by the Governor-General:
@@ -403,18 +403,6 @@ Nothing in this Act limits access to information that is recorded under this Act
 | Department of Labour | To verify—aa person's citizenship status:ba person's entitlement to reside in New Zealand |
 | Ministry of Social Development | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances:bverify a person's eligibility or continuing eligibility for a community services card |
 | Ministry of Education | To verify and update student information on the National Student Index |
-
-### 1 Title
-((1)) This Act is the Citizenship Amendment Act (No 2) 2001.
-(2) In this Act, the Citizenship Act 1977 is called “the principal Act”.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 2 — Reinstatement of lapsed citizenship
-
-### 10 Reinstatement of lapsed citizenship by descent
-The citizenship of any New Zealand citizen by descent that has lapsed under section 7(2) of the principal Act before the commencement of this Act is reinstated with effect from the time it lapsed.
 
 ### 1 Title
 (1) This Act is the Citizenship Amendment Act 2005.
