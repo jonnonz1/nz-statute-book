@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2013-07-01_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -222,14 +222,14 @@ The Family Court Judge who presides over a mediation conference between the part
 (1) Where a person fails to comply with—a District Court Judge may, on the request of a counsellor or Registrar, issue a summons requiring the person to attend before the counsellor or to attend a mediation conference at a time and place to be specified in the summons.
   (a) a request under section 11(1)(b) to attend before a counsellor; or
   (b) a request under section 13(2)(b) to attend a mediation conference—
-(2) Subsections (1) to (3) and (5) of section 20 of the Summary Proceedings Act 1957 shall apply to a summons under this section as if it were a witness summons issued under that section.
+(2) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
 ### 18 Privilege
 (1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made—
   (a) to a counsellor exercising his functions under this Part; or
   (b) in the course of a mediation conference.
 (2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under section 14(7), or to any consent order made under section 15, or to any proceedings for the review of such an order.
-(3) Except to the extent that it is necessary for a counsellor to do so in the proper discharge of that counsellor's functions, every counsellor commits an offence and is liable on summary conviction to a fine not exceeding $500 who discloses to any other person any information, statement, or admission received by or made to the counsellor in the exercise of the counsellor's functions under this Part.
+(3) Except to the extent that it is necessary for a counsellor to do so in the proper discharge of that counsellor's functions, every counsellor commits an offence and is liable on conviction to a fine not exceeding $500 who discloses to any other person any information, statement, or admission received by or made to the counsellor in the exercise of the counsellor's functions under this Part.
 
 ### 19 Duty of courts as to reconciliation and conciliation
 (1) In all proceedings under this Act between spouses or civil union partners (other than proceedings under section 27 or section 29 or section 32), and in all proceedings under the Care of Children Act 2004 between spouses, civil union partners, or de facto partners for any order about the role of providing day-to-day care for a child, or about contact with a child, the court shall—
@@ -468,7 +468,7 @@ An application for a paternity order in respect of a child (whether it is born, 
 (2) If the mother of the child gives evidence, no corroboration of her evidence shall be necessary for the making of a paternity order in respect of the child.
 
 ### 53 False statement in application for paternity order
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, in any application for a paternity order under this Act, makes any statement that, if made on oath in the proceedings, would amount to perjury as defined in section 108 of the Crimes Act 1961.
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, in any application for a paternity order under this Act, makes any statement that, if made on oath in the proceedings, would amount to perjury as defined in section 108 of the Crimes Act 1961.
 
 **Parentage tests in civil proceedings**
 
@@ -509,7 +509,7 @@ Where a report on parentage tests is submitted to a court, the court may on the 
 Where costs are incurred in the taking and testing of blood samples or buccal samples under section 54(1), each party shall, unless the court otherwise directs, be primarily liable to meet his own costs and the costs of any witness called by him; but the costs so incurred shall be costs in the proceedings.
 
 ### 59 Offences relating to parentage tests
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, for the purpose of the providing of a blood sample or buccal sample for a parentage test, the results of which that person knows are intended to be used in any civil proceedings in which the natural parentage of a child is in issue,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, for the purpose of the providing of a blood sample or buccal sample for a parentage test, the results of which that person knows are intended to be used in any civil proceedings in which the natural parentage of a child is in issue,—
   (a) personates any other person; or
   (b) with intent to deceive, proffers a child that is not the child whose natural parentage is in issue in the proceedings.
 
@@ -1382,7 +1382,7 @@ In any proceedings under this Act (other than criminal proceedings or proceeding
 (2) The power conferred by subsection (1) shall include power to call as a witness any party to the proceedings or the spouse or civil union partner of any party to the proceedings.
 (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
 (4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or by any barrister or solicitor appointed to represent a child who is involved in the proceedings.
-(5) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+(5) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (6) The expenses of any witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, shall be paid in the first instance out of public money appropriated by Parliament.
 
 ### 166 Proof of certain matters
