@@ -1,5 +1,5 @@
 # Utilities Access Act 2010
-_Consolidation as at 2010-08-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Utilities Access Act 2010.
@@ -55,7 +55,7 @@ This Act binds the Crown.
 (3) In considering an application for an order, the court may take into account the practicality and cost of complying with the Code as compared with the practicality and cost of taking other steps that will, in the particular situation under consideration, achieve substantially the same outcome as compliance with the Code.
 
 ### 8 Offence to fail to comply with order
-A person who, knowing that the person is subject to an order made under section 7, fails to comply with the order, or fails to comply with the order within the time specified in the order, commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+A person who, knowing that the person is subject to an order made under section 7, fails to comply with the order, or fails to comply with the order within the time specified in the order, commits an offence and is liable on conviction to a fine not exceeding $200,000.
 
 **Nature of Code**
 
