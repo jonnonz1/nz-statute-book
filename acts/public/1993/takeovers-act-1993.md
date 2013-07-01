@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -328,7 +328,7 @@ Without limiting any other statutory protection from liability, no person is lia
   (b) wilfully resists or obstructs, or deceives or attempts to deceive, the Panel or Registrar, or any person authorised by the Panel or Registrar, in carrying out an inspection under section 31A; or
   (c) is not the Panel, the Registrar, or a person authorised by the Panel or Registrar to carry out an inspection under section 31A and who wilfully communicates to any other person information acquired in the course of an inspection under that section; or
   (d) wilfully contravenes section 31E.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 **Appeals**
 
@@ -733,20 +733,21 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 (1) A person must not—
   (a) furnish information, produce a document, or give evidence to the Panel or a member, officer, or employee of the Panel knowing it to be false or misleading; or
   (b) attempt to deceive or knowingly mislead the Panel or a member, officer, or employee of the Panel in relation to any matter before it.
-(2) A person who has been summoned to appear before the Panel or a member, officer, or employee of the Panel must not, without reasonable excuse,—
+(2) A person who has been summoned to appear before the Panel or a member, officer, or employee of the Panel must not—
   (a) refuse or fail to appear before the Panel to give evidence:
   (b) refuse to take an oath or affirmation as a witness:
   (c) refuse to answer any question:
   (d) refuse or fail to provide any document or information that the person is required to provide.
 (3) A body corporate contravenes subsection (2) if its representative refuses or fails to appear before the Panel to give evidence, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
 (4) A person must not act in contravention of any order made by the Panel under section 31X or section 32.
-(5) Every person who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is committed.
+(5) Every person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is committed.
 
 ### 44A Conviction of offence under section 44 excluded in certain cases
 (1) A person must not be convicted of an offence under section 44 if, in the opinion of the court dealing with the case,—
   (a) the contravention related to matters that were immaterial to the relevant matter before the Panel; or
   (b) the contravention ought reasonably to be excused, having regard to all the circumstances of the case.
 (2) A director of a body corporate must not be convicted of an offence under section 44 in relation to a contravention by the body corporate if, in the opinion of the court dealing with the case, the contravention took place without the director's knowledge and consent.
+(3) In proceedings for an offence against section 44, the burden of proving any of the matters described in subsections (1) and (2) lies on the defendant.
 
 **False or misleading statement or information**
 
@@ -761,7 +762,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 
 ### 44C Criminal liability for false or misleading statement or information
 (1) A person who contravenes section 44B commits an offence if the person has actual knowledge that the statement or information is false in a material aspect or is materially misleading.
-(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to,—
+(2) A person who commits an offence against subsection (1) is liable on conviction to,—
   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
   (b) in the case of a body corporate, a fine not exceeding $1,000,000.
 
@@ -787,7 +788,7 @@ The court may, on application by any person referred to in section 35(1)(a) to (
 A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 
 ### 44H Offence of contravening management banning order
-An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 ### 44I Only 1 management banning order may be made for same conduct
 If conduct by a person constitutes grounds for making an order under any 1 or more of section 44F of this Act, section 60A of the Securities Act 1978, section 43F of the Securities Markets Act 1988, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
@@ -795,7 +796,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 ### 44J Persons automatically banned from management
 (1) This section applies to a person if the person has been convicted of an offence against either section 44 or section 44C or a pecuniary penalty order has been made against the person under this Act for a contravention of the takeovers code.
 (2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
-(3) An individual who acts in contravention of this section commits an offence and is liable, on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+(3) An individual who acts in contravention of this section commits an offence and is liable, on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 ### 44K General provisions for bans and banning orders
 (1) The Registrar of the court must, as soon as practicable after the making of a management banning order under section 44F,—
@@ -851,11 +852,14 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 (2) This section has effect subject to the Insolvency Act 1967.
 
 ### 44P Offence
-A person commits an offence who contravenes an order by the court under section 44M or section 44N that is applicable to the person and is liable on conviction on indictment,—
+A person commits an offence who contravenes an order by the court under section 44M or section 44N that is applicable to the person and is liable on conviction,—
   (a) in the case of an individual, to imprisonment to a term not exceeding 3 years or to a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
 ### Subpart 5 — General
+
+### 44PA Time limit for commencing proceedings for offence under section 44H, 44J, or 44P
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against section 44H, 44J, or 44P of this Act.
 
 ### 44Q Jurisdiction of courts in New Zealand
 The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against this Act or appeals under section 31G.
