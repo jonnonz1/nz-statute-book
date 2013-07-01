@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -125,15 +125,15 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 **Offences and penalties**
 
 ### 18 Offences and penalties
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $250 or, in the case of a second or subsequent conviction for a similar offence, $500, who without reasonable excuse fails to provide any information or deliver any return as and when required by the Association pursuant to any provision of this Act.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250 or, in the case of a second or subsequent conviction for a similar offence, $500, who without reasonable excuse fails to provide any information or deliver any return as and when required by the Association pursuant to any provision of this Act.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who—
   (a) provides any information or makes any return pursuant to this Act which to his knowledge is false in any material particular:
   (b) fraudulently avoids or attempts to avoid paying any research levy payable by him pursuant to this Act:
   (c) wilfully or recklessly discloses any information in contravention of section 7.
 (3) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be liable to be proceeded against for the offence and punished accordingly.
 
 ### 19 Offences by officers of Association
-(1) Every officer of the Association commits an offence, and is liable on summary conviction to a fine not exceeding $500, who—
+(1) Every officer of the Association commits an offence, and is liable on conviction to a fine not exceeding $500, who—
   (a) fails, without reasonable excuse, to take all reasonable steps to secure compliance by the Association with any requirement imposed on it by this Act; or
   (b) wilfully does any act in contravention of the provisions of this Act, or, in any case where the Association contravenes any such provisions, connives at the contravention.
 (2) For the purposes of this section, the term officer means any member of the board of the Association and any paid secretary of it.
