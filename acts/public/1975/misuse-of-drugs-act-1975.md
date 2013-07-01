@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -201,19 +201,19 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (d) supply or administer, or offer to supply or administer, any Class C controlled drug to a person under 18 years of age; or
   (e) sell, or offer to sell, any Class C controlled drug to a person of or over 18 years of age; or
   (f) have any controlled drug in his possession for any of the purposes set out in paragraphs (c), (d), or (e).
-(2) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction on indictment to—
+(2) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction to—
   (a) imprisonment for life where a Class A controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) imprisonment for a term not exceeding 14 years where paragraph (a) does not apply but a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (c) imprisonment for a term not exceeding 8 years in any other case.
-(2A) Every person who conspires with any other person to commit an offence against subsection (1) commits an offence against this Act and is liable on conviction on indictment to imprisonment for a term—
+(2A) Every person who conspires with any other person to commit an offence against subsection (1) commits an offence against this Act and is liable on conviction to imprisonment for a term—
   (a) not exceeding 14 years where a Class A controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) not exceeding 10 years where paragraph (a) does not apply but a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (c) not exceeding 7 years in any other case.
-(3) Notwithstanding anything in section 7 of the Summary Proceedings Act 1957, where any person is summarily convicted of an offence against this section relating to a Class C controlled drug, the District Court may sentence him to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000.
+(3)
 (4) Notwithstanding anything in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug—the Judge or court shall impose a sentence of imprisonment (within the meaning of that Act) unless, having regard to the particular circumstances of the offence or of the offender, including the age of the offender if he is under 20 years of age, the Judge or court is of the opinion that the offender should not be so sentenced.
   (a) against paragraph (c) or paragraph (f) of subsection (1); or
   (b) against paragraph (a) or paragraph (b) of subsection (1) committed in circumstances indicating to the Judge or court an intention to offend against paragraph (c) of that subsection,—
-(4A) Without limiting anything in subsections (3) and (4) or in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
+(4A) Without limiting anything in subsection (4) or in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
 (5) For the purposes of paragraph (e) of subsection (1), if it is proved that a person has supplied a controlled drug to another person he shall until the contrary is proved be deemed to have sold that controlled drug to that other person.
 (6) For the purposes of subsection (1)(f), a person is presumed until the contrary is proved to be in possession of a controlled drug for any of the purposes in subsection (1)(c), (d), or (e) if he or she is in possession of the controlled drug in an amount, level, or quantity at or over which the controlled drug is presumed to be for supply (see section 2(1A)).
 (7)
@@ -267,40 +267,37 @@ For the purposes of this Act, the functions of the Minister include the provisio
 
 ### 9 Cultivation of prohibited plants
 (1) Except pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall cultivate any prohibited plant.
-(2) Subject to subsection (4), every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
-(3) Notwithstanding anything in section 7 of the Summary Proceedings Act 1957, where any person is summarily convicted of an offence against this section, the District Court may sentence him to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
+(2) Subject to subsection (4), every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 7 years.
+(3)
 (4) It shall be a defence to a charge under subsection (1) if the person charged proves that the prohibited plant to which the charge relates was of the species Papaver somniferum, and that it was not intended to be a source of any controlled drug or that it was not being developed as a strain from which a controlled drug could be produced.
 
 ### 10 Aiding offences against corresponding law of another country
 (1) Every person commits an offence against this Act who, in New Zealand, aids, incites, counsels, or procures the doing or omission in any place outside New Zealand of any act, if that act or omission—
   (a) is punishable under the provisions of any law corresponding to section 6, 9, 12A, or 12AB and in force in that place; or
   (b) would if done or omitted in New Zealand constitute an offence against section 6, 9, 12A, or 12AB.
-(2) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term—
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term—
   (a) not exceeding 14 years where the relevant act or omission is punishable under the provisions of any law corresponding to section 6 or would if done or omitted in New Zealand constitute an offence against that section:
   (b) not exceeding 7 years in any other case.
-(3) Notwithstanding anything in section 7 of the Summary Proceedings Act 1957, where any person is summarily convicted of an offence against this section, the District Court may sentence him to imprisonment for a term not exceeding 3 years or to a fine not exceeding $2,000 or to both.
+(3)
 (4) It is a defence to a charge under paragraph (b) of subsection (1) if the doing or omission of the act to which the charge relates was not an offence under the law of the place where it was, or was to be, done or omitted.
 (5) Nothing in subsection (1) or subsection (4) shall derogate from any provision in the Crimes Act 1961.
 (6)
 
 ### 11 Theft, etc, of controlled drugs
-(1) Every person commits an offence against this Act and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who—
+(1) Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 7 years who—
   (a) steals a controlled drug; or
   (b) with intent to defraud by any false pretence, either directly or through the medium of any contract obtained by the false pretence, obtains possession of or title to a controlled drug, or procures a controlled drug to be delivered to any person other than himself; or
-  (c) receives a controlled drug obtained by any crime, or by any act, wherever committed, that, if committed in New Zealand, would constitute a crime, knowing that the controlled drug had been dishonestly obtained or being reckless as to whether or not the controlled drug had been stolen or so obtained.
+  (c) receives a controlled drug obtained by any offence, or by any act, wherever committed, that, if committed in New Zealand, would constitute an offence, knowing that the controlled drug had been dishonestly obtained or being reckless as to whether or not the controlled drug had been stolen or so obtained.
 (2) Section 246(2) to (5) of the Crimes Act 1961 shall apply in respect of any proceedings for an offence against paragraph (c) of subsection (1).
-(3) The definition of crime in section 2, and sections 219, 220, 222, 240, and 246(2) to (5) of the Crimes Act 1961, shall apply, with such modifications as may be necessary, for the purpose of construing subsection (1).
+(3) Sections 219, 220, 222, 240, and 246(2) to (5) of the Crimes Act 1961 shall apply, with such modifications as may be necessary, for the purpose of construing subsection (1).
 
 ### 12 Use of premises or vehicle, etc
 (1) Every person commits an offence against this Act who knowingly permits any premises or any vessel, aircraft, hovercraft, motor vehicle, or other mode of conveyance to be used for the purpose of the commission of an offence against this Act.
-(2) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term—
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term—
   (a) not exceeding 10 years where a Class A controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) not exceeding 7 years where paragraph (a) does not apply but a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (c) not exceeding 3 years in any other case.
-(3) Notwithstanding anything in section 7 of the Summary Proceedings Act 1957, where any person is summarily convicted of an offence against this section the District Court may sentence him—
-  (a) to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000 or to both where he could have been sentenced under paragraph (a) of subsection (2) if he had been convicted on indictment:
-  (b) to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000 or to both where he could have been sentenced under paragraph (b) of subsection (2) if he had been convicted on indictment:
-  (c) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $500 or to both in any other case.
+(3)
 
 ### 12A Equipment, material, and substances used in production or cultivation of controlled drugs
 (1) Every person commits an offence against this Act who supplies, produces, or manufactures—knowing that the equipment, material, or substance is to be used in, or for, the commission of an offence against those provisions.
@@ -309,21 +306,17 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (2) Every person commits an offence against this Act who has in his or her possession—with the intention that the equipment, material, or substance is to be used in, or for, the commission of an offence against that provision.
   (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)(b) or section 9; or
   (b) any precursor substance—
-(3) Every person who commits an offence against this section is liable on conviction on indictment,—
+(3) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an offence against subsection (1), to imprisonment for a term not exceeding 7 years:
   (b) in the case of an offence against subsection (2), to imprisonment for a term not exceeding 5 years.
-(4) If a person is summarily convicted of an offence against this section,—
-  (a) the court may sentence the person to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both; and
-  (b) the sentencing limits contained in section 7 of the Summary Proceedings Act 1957 do not apply.
+(4)
 
 ### 12AB Offence to knowingly import or export precursor substances for unlawful use
 (1) Every person commits an offence who—
   (a) imports into New Zealand any precursor substance knowing that it will be used to commit an offence under section 6(1)(b) (which is the offence of producing or manufacturing any controlled drug); or
   (b) exports from New Zealand any precursor substance knowing that it will be used to commit an offence under a provision of the law of the country to which the precursor substance is being exported that corresponds to an offence under section 6(1)(b).
-(2) A person who commits an offence under subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
-(3) If a person is summarily convicted of an offence under subsection (1),—
-  (a) a court may sentence the person to imprisonment for a term not exceeding 1 year or a fine not exceeding $1,000, or both; and
-  (b) the sentencing limits contained in section 7 of the Summary Proceedings Act 1957 do not apply.
+(2) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
+(3)
 
 ### 12AC Offence to import or export precursor substance without reasonable excuse
 (1) Every person commits an offence who, without reasonable excuse, imports into, or exports from, New Zealand any precursor substance.
@@ -334,12 +327,12 @@ For the purposes of this Act, the functions of the Minister include the provisio
     (iii) the precursor substance be used for a lawful purpose (including, without limitation, an agricultural, commercial, or industrial purpose); or
   (b) the precursor substance that he or she is importing into, or exporting from, New Zealand has been lawfully supplied to that person for his or her own medical use; or
   (c) he or she exports a precursor substance from New Zealand in order that the precursor substance be used for a purpose that is authorised or lawful under the law of the country to which it is being exported.
-(3) The requirements in section 67(8) of the Summary Proceedings Act 1957 relating to proof of any exception, excuse, or qualification do not apply to an offence under subsection (1).
-(4) By way of explanation, the effect of subsection (3) is that, in order for a prosecution to be successful, the prosecution must negate beyond a reasonable doubt any reasonable excuse in dispute (being any matter raised as a reasonable excuse by the defendant).
-(5) A person who commits an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $1,000, or both.
+(3)
+(4)
+(5) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $1,000, or both.
 
 ### 12B Laundering proceeds of drug offences
-(1) In this section,—
+(1) In this section and section 12BA,—
   - **conceal** , in relation to property,—
     (a) means to conceal or disguise the property; and
     (b) includes (without limitation)—
@@ -363,8 +356,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
   - **specified drug offence** —
     (a) means an offence against section 6 or section 9 or section 12A or section 12AB; and
     (b) includes any act, wherever committed, which if committed in New Zealand would constitute an offence against any of those sections.
-(2) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in respect of any property that is the proceeds of a specified drug offence, engages in a money laundering transaction, knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
-(3) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (which property is the proceeds of a specified drug offence committed by another person)—
+(2) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in respect of any property that is the proceeds of a specified drug offence, engages in a money laundering transaction, knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
+(3) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (which property is the proceeds of a specified drug offence committed by another person)—
   (a) with intent to engage in a money laundering transaction concerning that property; and
   (b) knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
 (4) For the purposes of this section, a person engages in a money laundering transaction if that person—for the purpose of—
@@ -373,8 +366,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (c) concealing that property; or
   (d) enabling another person to conceal that property.
 (5) In any prosecution for an offence against subsection (2) or subsection (3),—
-  (a) it is not necessary for the prosecution to prove that the accused knew or believed that the property was the proceeds of a particular specified drug offence or a particular class of specified drug offence:
-  (b) it is no defence that the accused believed any property to be the proceeds of a particular specified drug offence, when in fact the property was the proceeds of another specified drug offence.
+  (a) it is not necessary for the prosecution to prove that the defendant knew or believed that the property was the proceeds of a particular specified drug offence or a particular class of specified drug offence:
+  (b) it is no defence that the defendant believed any property to be the proceeds of a particular specified drug offence, when in fact the property was the proceeds of another specified drug offence.
 (6) It is a defence to a charge under this section if the act to which the charge relates was done by that person, in good faith, for the purpose of or in connection with—
   (a) the enforcement or intended enforcement of this section or any other provision of this Act or any other enactment relating to a specified drug offence or any other serious offence; or
   (b) the enforcement or intended enforcement of the Criminal Proceeds (Recovery) Act 2009; or
@@ -387,6 +380,9 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (8) If a person is charged with an offence against this section and the act that is alleged to constitute the serious offence resulting in proceeds was committed outside New Zealand, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the law of the place where the act was done.
 (9) Nothing in this section limits or restricts the operation of any other provision of this Act or any other enactment.
 
+### 12BA Charges for money laundering
+A person charged with an offence against section 12B or section 243(2) or (3) of the Crimes Act 1961 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+
 ### 12C Commission of offences outside New Zealand
 (1) Subject to subsection (2), every person commits an offence against this Act who, outside New Zealand, does or omits to do any act that would, if done or omitted in New Zealand, constitute an offence against—
   (a) section 6; or
@@ -397,7 +393,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (2) No proceedings for an offence against subsection (1) may be brought unless—
   (a) the person to be charged is a New Zealand citizen; or
   (b) the person to be charged is present in New Zealand.
-(3) Every person who commits an offence against this section is liable on conviction on indictment to the same penalty to which the person would have been liable had that person committed the offence in New Zealand.
+(3) Every person who commits an offence against this section is liable on conviction to the same penalty to which the person would have been liable had that person committed the offence in New Zealand.
 (4) Subsection (1) does not apply if the doing or omission of the act to which the charge relates was not an offence under the law of the place where the act was done or omitted.
 (5) Despite subsection (4), if a person is charged with an offence against this section, it is to be presumed, unless the person charged puts the matter at issue, that the doing or omission of the act to which the charge relates was an offence under the law of the place where the act was done or omitted.
 (6) Section 28A applies to proceedings for offences against this section.
@@ -413,7 +409,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (b) except as may be provided by regulations made under this Act, has in his possession the seed or fruit (not in either case being a controlled drug) of any prohibited plant which he is not authorised under this Act to cultivate.
 (2) Subsection (4) of section 9 shall apply in relation to a charge under paragraph (b) of subsection (1) as if, in the said subsection (4), a reference to the seed or fruit of a prohibited plant were substituted for the reference to the prohibited plant.
 (2A) No pharmacist, pharmacy employee, approved medical practitioner, or authorised representative commits an offence by selling or supplying any needle or syringe in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes.
-(3) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $500 or to both.
+(3) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $500 or to both.
 (4) For the purposes of this section, unless the context otherwise requires,—
   - **approved medical practitioner** means a medical practitioner who has been approved by the Director-General of Health under any regulations made under section 37 for the purposes of those regulations
   - **authorised representative** means, in relation to an agency, an association, or a body approved by the Director-General of Health, a person for the time being approved by the Director-General as a representative of that agency, association, or body
@@ -429,7 +425,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (6) Without prejudice to his liability under any other provision of this Act, every person commits an offence against this Act who contravenes or fails to comply with any condition of a licence granted to him under this Act.
 
 ### 15 False statements
-Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000 or to both who, for the purpose of obtaining, whether for himself or any other person, the grant or renewal of any licence under this Act or for any other purpose in relation to this Act,—
+Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000 or to both who, for the purpose of obtaining, whether for himself or any other person, the grant or renewal of any licence under this Act or for any other purpose in relation to this Act,—
   (a) makes any declaration or statement which to his knowledge is false in any particular; or
   (b) utters, produces, or makes use of any declaration or statement which to his knowledge is false in any particular; or
   (c) knowingly utters, produces, or makes use of any document that is not genuine.
@@ -501,10 +497,10 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (a) supplies, possesses for the purpose of sale or supply, or offers for sale a pipe, other utensil, or identifiable component of a pipe or other utensil whose sale, possession for the purpose of sale or supply, or offering for sale (as the case may be) is absolutely prohibited by a notice issued under subsection (1A); or
   (b) supplies, possesses for the purpose of sale or supply, or offers for sale a pipe, other utensil, or identifiable component of a pipe or other utensil otherwise than in accordance with any condition under which that pipe, other utensil, or identifiable component of a pipe or other utensil may, under a notice issued under subsection (1A), be supplied, possessed for the purpose of sale or supply, or offered for sale (as the case may be); or
   (c) imports a pipe, other utensil, or identifiable component of a pipe or other utensil otherwise than in accordance with any condition under which that pipe, other utensil, or identifiable component of a pipe or other utensil may, under a notice issued under subsection (1A), be imported.
-(4) Subject to subsection (5), every person who commits an offence against subsection (3) is liable,—
+(4) Subject to subsection (5), every person who commits an offence against subsection (3) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(5) Where—that person is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
+(5) Where—that person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
   (a) a body corporate is convicted of an offence against subsection (3); and
   (b) under section 17(2), a person (being a director or person concerned in the management of that body corporate) is also guilty of that offence,—
 (6) Every notice issued under subsection (1A) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
@@ -525,10 +521,10 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (4) Notwithstanding anything in any other Act, each Council and each Board referred to in subsection (2) shall, for the purpose of considering and determining whether or not to make a recommendation to the Minister under that subsection, have jurisdiction to inquire into any prescribing of or dealing in controlled drugs by a member of the profession with which it is concerned, and any matter incidental thereto, when such prescribing or dealing has been brought or otherwise comes to its attention.
 (5) For the purposes of subsection (4), each such Council or Board has and may exercise any powers with respect to summoning witnesses, administering oaths, hearing evidence and other matters of procedure, and with respect to the payment and receiving of costs and expenses, conferred on it or any disciplinary committee or disciplinary tribunal, in relation to disciplinary proceedings, by the enactment under which the Council or Board is constituted.
 (5A) Despite subsection (5), it is not necessary, unless the Council or Board so requires, for any other body to conduct an investigation or inquiry or to be represented at the inquiry conducted by the Council or Board.
-(6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable—
+(6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction—
   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000 or to both where a Class A controlled drug or a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both, in any other case.
-(7) Without prejudice to the liability of any midwife under any other provision of this Act, every midwife who prescribes pethidine (as so described) in contravention of a notice under subsection (1) commits an offence against this Act and is liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000, or to both.
+(7) Without prejudice to the liability of any midwife under any other provision of this Act, every midwife who prescribes pethidine (as so described) in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000, or to both.
 
 ### 24 Treatment of people dependent on controlled drugs
 (1) Every medical practitioner commits an offence who prescribes, administers, or supplies a controlled drug for or to a person who the practitioner has reason to believe is dependent on that or any other controlled drug,—
@@ -580,25 +576,24 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 If any officer of Customs has reasonable cause to believe or suspect that any person, in contravention of this Act, has imported into or exported from New Zealand any controlled drug, or has been concerned in such import or export, he may arrest that person without a warrant.
 
 ### 27 General penalty
-Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $500 or to both.
+Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $500 or to both.
 
-### 28 Legal proceedings
-(1) Except where this Act otherwise provides, every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 4 years from the time when the matter of the information arose.
-(2A) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957 or subsection (2), any information in respect of any offence against section 6 or section 9 or section 10 may be laid at any time.
-(3) Amendment(s) incorporated in the Act(s).
+### 28 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document in respect of an offence against section 6, 9, or 10 of this Act may be filed at any time; and
+  (b) the limitation period in respect of any other offence against this Act, or any regulations made under it, ends on the date that is 4 years after the date on which the offence was committed.
 
 ### 28A Consent of Attorney-General required in proceedings under section 12C
-(1) No information may be laid for an offence against section 12C except with the consent of the Attorney-General.
-(2) A person who is alleged to have committed an offence against section 12C may be arrested, or a warrant for the arrest of the person may be issued and executed, and any such person may be remanded in custody or on bail, even if the Attorney-General’s consent to the laying of the information has not been obtained, but no further or other proceedings may be taken until that consent has been obtained.
+(1) No charging document may be filed for an offence against section 12C except with the consent of the Attorney-General.
+(2) A person who is alleged to have committed an offence against section 12C may be arrested, or a warrant for the arrest of the person may be issued and executed, and any such person may be remanded in custody or on bail, even if the Attorney-General’s consent to the filing of the charging document has not been obtained, but no further or other proceedings may be taken until that consent has been obtained.
 (3) The Attorney-General may, before deciding whether or not to give his or her consent under subsection (1), make such inquiries as he or she thinks fit.
 
 ### 29 Mistake as to nature of controlled drug or precursor substance
 Where, in any proceedings for an offence against any of the provisions of section 6 or section 7 or section 12A or section 12AB or section 12AC, it is necessary, if the defendant is to be convicted of the offence charged, for the prosecution to prove that some substance, preparation, mixture, or article involved in the alleged offence was the controlled drug or precursor substance which the prosecution alleges it to have been, and it is proved that the substance, preparation, mixture, or article was that controlled drug or precursor substance, the defendant shall not be acquitted of the offence charged by reason only of the fact that he did not know or may not have known that the substance, preparation, mixture, or article in question was the particular controlled drug or precursor substance alleged.
 
 ### 29A Issue of usable quantity
-(1) On the summary trial of any person charged with an offence against this Act in which it is alleged that the defendant had in his possession any controlled drug in contravention of this Act, it shall not be necessary for the prosecution to prove that the amount of the controlled drug in the defendant’s possession was of a usable quantity, unless the defendant puts the matter in issue.
-(2) Where, in the course of a summary trial, the defendant puts in issue the question of whether or not the amount of any controlled drug alleged to have been in his possession was of a usable quantity, the District Court Judge shall, if requested to do so by the prosecutor, adjourn the hearing for such period as he considers sufficient to enable the prosecutor to arrange for the attendance in court of a witness or witnesses to adduce evidence that that amount was of a usable quantity; and, if the prosecutor has closed his case before the said question is put in issue, the District Court Judge shall also grant the prosecutor leave to re-open his case for the purpose of adducing evidence that the amount of the drug was of a usable quantity.
+(1) On the Judge-alone trial of any person charged with an offence against this Act in which it is alleged that the defendant had in his possession any controlled drug in contravention of this Act, it shall not be necessary for the prosecution to prove that the amount of the controlled drug in the defendant’s possession was of a usable quantity, unless the defendant puts the matter in issue.
+(2) Where, in the course of a Judge-alone trial, the defendant puts in issue the question of whether or not the amount of any controlled drug alleged to have been in his possession was of a usable quantity, the District Court Judge shall, if requested to do so by the prosecutor, adjourn the hearing for such period as he considers sufficient to enable the prosecutor to arrange for the attendance in court of a witness or witnesses to adduce evidence that that amount was of a usable quantity; and, if the prosecutor has closed his case before the said question is put in issue, the District Court Judge shall also grant the prosecutor leave to re-open his case for the purpose of adducing evidence that the amount of the drug was of a usable quantity.
 
 ### 29B Special provisions where offence relating to cannabis preparations alleged
 For the purposes of any proceedings for an offence against any of the provisions of section 6 or section 7 in relation to any cannabis preparation the following provisions shall apply:
@@ -615,7 +610,7 @@ It shall be a defence to a charge relating to the possession of any controlled d
   (b) for the purpose of supplying it or administering it to any other person in accordance with any procedure approved by the Director-General of Health.
 
 ### 30 Burden of proof
-Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act 1957, in any proceedings against any person in respect of any offence against this Act or against any regulations made under this Act in which it is proved that he had in his possession any controlled drug, or did any act in relation to a controlled drug which would have amounted to that offence if such act were not done pursuant to section 8 or to a licence under this Act or as otherwise permitted by regulations under this Act, the burden of proving that he had such controlled drug in his possession, or did such act, pursuant to the said section 8 or to any such licence or as so permitted shall lie on him.
+In any proceedings against any person in respect of any offence against this Act or against any regulations made under this Act in which it is proved that he had in his possession any controlled drug, or did any act in relation to a controlled drug which would have amounted to that offence if such act were not done pursuant to section 8 or to a licence under this Act or as otherwise permitted by regulations under this Act, the burden of proving that he had such controlled drug in his possession, or did such act, pursuant to the said section 8 or to any such licence or as so permitted shall lie on him.
 
 ### 31 Evidence of analysis
 (1) For the purposes of this section, the term analyst means—
@@ -638,7 +633,7 @@ Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act
     (b) a member of the New Zealand Army Military Police:
     (c) a member of the Senior Air Security Specialist trade, or of the Air Security Specialist trade, of the Royal New Zealand Air Force:
     (d) an officer of the Air Security specialisation of the Operational Support Branch of the Royal New Zealand Air Force
-  - **served** means served in accordance with sections 24 to 29 of the Summary Proceedings Act 1957.
+  - **served** means served as if the certificate were a document required to be served in accordance with rules made under the Criminal Procedure Act 2011.
 (6) Any notice given by the Minister in the Gazette for the purposes of subsection (1) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Interpretation Act 1999.
 
 ### 32 Forfeiture
@@ -646,7 +641,7 @@ Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act
 (2) Articles forfeited under the provisions of subsection (1) shall be sold, destroyed, or otherwise disposed of as the Minister directs.
 (3) If, on the conviction of any person for an offence against section 6, the Judge or District Court Judge is satisfied that money found in the possession of that person was received by that person in the course of or consequent upon the commission of that offence, or was in the possession of that person for the purpose of facilitating the commission of an offence against that section, the Judge or District Court Judge may, in addition to any other penalty imposed pursuant to this Act, order that that money be forfeited to the Crown.
 (4) If, on the conviction of any person for an offence against section 6, the court is satisfied that any motor vehicle, aircraft, or ship or boat or other vessel owned by the convicted person (whether solely or as joint tenant or tenant in common with any other person or persons) or in which he has any interest (whether pursuant to a hire purchase agreement, leasing agreement, or otherwise) at the time of his conviction was used by the convicted person in the commission of that offence (whether or not he was the driver or person in charge), the court shall, unless in the circumstances of the case the court considers that it would be unjust to do so, order, in addition to any other penalty imposed under this Act, that the motor vehicle, aircraft, or ship or boat or other vessel be forfeited to Her Majesty.
-(5) If the Court is considering whether to make an order for forfeiture under subsection (4), sections 128(5), 130, and 131 of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
+(5) If the court is considering whether to make an order for forfeiture under subsection (4), sections 128(5), 130, and 131 of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
 (6) If an order for forfeiture is made under subsection (4), the following provisions of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
   (a) sections 132 to 136:
   (b) section 137, except that section 137(3)(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
@@ -1237,15 +1232,6 @@ This Part shall apply notwithstanding anything in the Postal Services Act 1998 o
   (c) return the package, goods, or mail to the appropriate carrier for delivery to the addressee—
 (2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any package, goods, or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the package, goods, or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
 
-### 12A Searches relating to persons involved in delivery under section 12
-[Repealed]
-
-### 12B Seizure of items found during search under section 12A
-[Repealed]
-
-### 12C Obligations on constable or Customs officer conducting search under section 12A to identify self and power relied on
-[Repealed]
-
 ### 12D International controlled delivery and liability for offences
 (1) In this section, an international controlled delivery means allowing a controlled drug or precursor substance (or substance substituted in the place of a controlled drug or precursor substance) to pass through or into the territory of 1 or more countries—
   (a) with the agreement of the relevant law enforcement agencies of the countries which it is to pass through or into; and
@@ -1461,208 +1447,6 @@ The Commissioner of Police shall include in every annual report prepared by the 
   (e) the number of prosecutions that have been instituted in which has been adduced evidence obtained directly during the detention of any persons pursuant to detention warrants granted on applications by constables or (as the case may require) officers of Customs, and the results of those prosecutions.
   (f) the number of rub-down searches and strip searches undertaken by constables or Customs officers under section 13EA.
 
-**Applications for interception warrants in relation to drug dealing offences**
-
-### 14 Application by Police for warrant to intercept private communications
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any constable to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) a person has committed, or is committing, or is about to commit, a drug dealing offence; and
-  (b) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
-(2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing, and on oath, and shall set out the following particulars:
-  (a) the facts relied upon to show that there are reasonable grounds for believing that a person has committed, or is committing, or is about to commit, a drug dealing offence; and
-  (b) a description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any person involved in the drug dealing offence; and
-  (d) the period for which a warrant is requested; and
-  (e) whichever of the following is applicable:
-    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
-
-### 15 Matters on which Judge must be satisfied in respect of applications
-(1) On an application made to him in accordance with section 14, the Judge may grant an interception warrant if he is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) there are reasonable grounds for believing that a person has committed, or is committing, or is about to commit a drug dealing offence; and
-  (b) there are reasonable grounds for believing that evidence relevant to the investigation of the offence will be obtained through the use of an interception device to intercept private communications; and
-  (c) whichever of the following is applicable:
-    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and his client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
-
-**Applications for interception warrants in relation to prescribed cannabis offences**
-
-### 15A Application by Police for warrant to intercept private communications in relation to prescribed cannabis offences
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any Police employee to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-  (b) the prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (c) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
-(2) Every application under subsection (1) must be made by a constable who is of or above the level of position of inspector, in writing, and on oath, and must set out the following particulars:
-  (a) the facts relied upon to show that there are reasonable grounds for believing that—
-    (i) there is an organised criminal enterprise; and
-    (ii) any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-    (iii) the prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (b) a description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and
-  (d) the period for which a warrant is requested; and
-  (e) whichever of the following is applicable:
-    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
-
-### 15B Matters on which Judge must be satisfied in respect of applications relating to prescribed cannabis offences
-(1) On an application made in accordance with section 15A, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) there are reasonable grounds for believing that—
-    (i) there is an organised criminal enterprise; and
-    (ii) any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-    (iii) the prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (b) there are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
-  (c) whichever of the following is applicable:
-    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
-
-**General provisions relating to interception of private communications**
-
-### 16 Contents and term of warrant
-(1) Every interception warrant shall be issued in the prescribed form, and shall—
-  (a) state the offence in respect of which the warrant is granted; and
-  (b) state,—
-    (i) in the case of a warrant granted under section 15, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect’s name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person involved in the drug dealing offence; or
-    (ii) in the case of a warrant granted under section 15B, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect’s name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and
-  (c) specify the constable who is of or above the level of position of inspector who (with any other Police employee or officer of Customs for the time being assisting him) may intercept the private communications; and
-  (d) where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any craft, carriage, vehicle, or premises for the purpose of placing, servicing, or retrieving an interception device; and
-  (e) contain such additional terms and conditions as the Judge considers advisable in the public interest.
-(2) Without limiting subsection (1), where it is proposed to place an interception device in the residential or business premises of a person who is a barrister or solicitor, or a clergyman, or a medical practitioner, the Judge shall prescribe such conditions (if any) as he considers desirable to avoid so far as practicable the interception of communications of a professional character to which the barrister or solicitor or clergyman or medical practitioner is a party.
-(3) Every interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the warrant.
-
-### 17 Effect of warrant
-Every interception warrant shall have effect, according to its terms, to authorise the interception of private communications by means of an interception device.
-
-### 18 Renewal of warrants
-(1) Any Judge of the High Court may from time to time grant a renewal of an interception warrant upon application made to him at any time before the warrant (or any current renewal thereof) has expired.
-(2) Every application for the renewal of an interception warrant shall be made in the manner provided by section 14 or, as the case requires, section 15A, and shall give—
-  (a) the reason and period for which the renewal is required; and
-  (b) full particulars, together with times and dates, of any interceptions made or attempted under the warrant, and an indication of the nature of the information that has been obtained by every such interception.
-(3) Every such application shall be supported by such other information as the Judge may require.
-(4) A renewal of an interception warrant may be granted under this section if the Judge is satisfied that the circumstances described in section 15 or, as the case requires, section 15B still obtain.
-(5) Every renewal of an interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the renewal.
-(6) A renewal of an interception warrant may be granted upon an application made within the time prescribed by subsection (1) notwithstanding that the warrant (or any renewal thereof) has expired before the application is determined.
-(7) Nothing in this section shall prevent a Judge from granting a second or subsequent renewal of an interception warrant upon an application duly made to him.
-
-### 19 Emergency permits
-(1) In any case where a Judge is satisfied that circumstances exist that would justify the grant of an interception warrant under section 15 or, as the case requires, section 15B, but the urgency of the situation requires that the interception should begin before a warrant could with all practicable diligence be obtained, the Judge may, orally or in writing, grant an emergency permit for the interception of private communications in respect of particular premises or a particular place or a particular thing or a particular type of facility and in a particular manner.
-(2)
-(3) Any application for an emergency permit may be made orally, but otherwise every such application shall comply with the requirements of section 14 or, as the case requires, section 15A.
-(4) Where the Judge grants the application for an emergency permit, he shall forthwith make a note in writing of the particulars of the application. The note shall be filed in the High Court Registry nearest to where the application is made, and shall, for the purposes of section 20(1), be deemed to be a document relating to the application for the permit. The Judge shall also make a note of the terms of the permit.
-(5) The provisions of section 16, so far as they are applicable and with the necessary modifications, shall apply to emergency permits in the same manner as they apply to interception warrants.
-(6) Every emergency permit shall remain valid for 48 hours from the time when it is given, and shall then expire.
-(7) On filing the report required by section 28, the constable who applied for the emergency permit (or, if he is not the constable filing the report, then that constable) may apply to the Judge who granted the permit (or, if he is not the Judge receiving the report, then that Judge) for a certificate confirming the permit pursuant to subsection (9).
-(8) Where the Police, within the period of 48 hours during which the emergency permit is valid, apply for an interception warrant in place of the permit, the constable applying for the warrant may also apply for a certificate confirming the permit pursuant to subsection (9).
-(9) The Judge to whom an application is made pursuant to subsection (7) or subsection (8) shall issue a certificate confirming the permit if he is satisfied, having regard to the requirements of section 15 or, as the case requires, section 15B, that if the original application for the emergency permit had been an application for an interception warrant, he would have granted a warrant.
-(10) For the purposes of section 25, an interception of a private communication pursuant to an emergency permit shall be deemed to have been made unlawfully unless the Judge to whom an application is made in accordance with subsection (7) or subsection (8) issues a certificate confirming the permit pursuant to subsection (9).
-
-### 20 Security of applications
-(1) As soon as an application for an interception warrant or for a renewal of an interception warrant or for an emergency permit or for a certificate confirming an emergency permit has been determined by the Judge, the Registrar shall place all documents relating to the application (except the warrant or renewal or permit or certificate itself) in a packet, seal the packet, and thereafter keep it in safe custody, subject to the succeeding provisions of this section.
-(2) Notwithstanding any enactment or rule of law or rules of court entitling any party to any proceedings to demand the production of any documents, no such party shall be entitled to demand the production of any documents held in safe custody pursuant to subsection (1), except in accordance with the succeeding provisions of this section.
-(3) Every such party who requires the production of any document held in safe custody pursuant to subsection (1) shall, except in a case to which subsection (9) or subsection (10) applies, apply in writing to the Registrar, who shall forthwith notify the senior constable in the district.
-(4) If, within 3 days after notice is given to the senior constable in the district under subsection (3), that constable gives written notice to the Registrar that he intends to oppose the production of the documents, the Registrar shall refer the matter to a Judge.
-(5) Where the senior constable in the district does not give written notice to the Registrar as aforesaid, the Registrar shall produce the documents to the party applying for production.
-(6) Where a matter is referred to a Judge pursuant to subsection (4), both the person requesting production of the documents and the constable opposing production shall be given an opportunity to be heard.
-(7) If the Judge is satisfied that information in any document the production of which is in dispute identifies or is likely to lead to the identification of a person who gave information to the Police, or of any Police employee whose identity was concealed for the purpose of any relevant investigation and has not been subsequently revealed, he may, if he believes it in the public interest to do so, order that the whole or any specified part of the document be not produced.
-(8) Subject to the provisions of subsection (7), the Judge shall order the production of the documents to the party requesting it.
-(9) Where a request for the production of any document kept in safe custody pursuant to subsection (1) is made in the course of any proceedings presided over by a Judge and the request is opposed, the Judge shall adjudicate upon the matter as if it had been referred to him pursuant to subsection (4).
-(10) Where such a request is made in the course of any other proceedings, the presiding judicial officer shall forthwith refer the matter to a Judge for adjudication as aforesaid.
-(11) Notwithstanding anything in this section, every Judge or District Court Judge who is presiding over any proceedings in which the issue of an interception warrant or emergency permit is in issue shall be entitled to inspect any relevant document held under subsection (1).
-
-### 21 Destruction of irrelevant records made by use of interception device
-(1) Every person who intercepts a private communication in pursuance of an interception warrant or any emergency permit must, as soon as practicable after it has been made, destroy any record, whether written or otherwise, of the information obtained by that interception if none of the information directly or indirectly relates to—
-  (a) the commission of a drug dealing offence or a prescribed cannabis offence; or
-  (b) the commission of a specified offence or a serious violent offence (as those terms are defined in section 312A of the Crimes Act 1961), or a conspiracy to commit such an offence.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
-
-### 22 Destruction of relevant records made by use of interception device
-(1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to—is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
-  (a) the commission of a drug dealing offence or a prescribed cannabis offence; or
-  (b) the commission of a specified offence or a serious violent offence (as those terms are defined in section 312A of the Crimes Act 1961), or a conspiracy to commit such an offence,—
-(2) Nothing in subsection (1) shall apply to—
-  (a) any record of any information adduced in proceedings in any court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) is made, would have been adduced had the matter come to trial:
-  (b) any record of any information contained in any transcript or written statement given to any person in accordance with section 24(a).
-(3) Every report made to a Judge in accordance with section 28 shall state whether or not subsection (1) has yet been complied with, and, if it has not, the Judge shall give such directions relating to the eventual destruction of the record as he thinks necessary to ensure compliance with that subsection, including a requirement that he be advised when the record has been destroyed.
-
-### 23 Prohibition on disclosure of private communications lawfully intercepted
-(1) No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of his duty.
-  (a) intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
-  (b) acquires knowledge of a private communication as a direct or indirect result of that interception—
-(2) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
-
-### 24 Notice to be given of intention to produce evidence of private communication
-Particulars of a private communication intercepted pursuant to an interception warrant or an emergency permit shall not be received in evidence by any court against any person unless the party intending to adduce it has given to that person reasonable notice of his intention to do so, together with—
-  (a) a transcript of the private communication where he intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where he intends to adduce oral evidence of it; and
-  (b) a statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
-
-### 25 Inadmissibility of evidence of private communications unlawfully intercepted
-(1) Subject to subsections (2) to (4), where a private communication intercepted by means of an interception device otherwise than in pursuance of an interception warrant or emergency permit issued under this Act or of any authority conferred by or under any other enactment has come to the knowledge of a person as a direct or indirect result of that interception or its disclosure, no evidence so acquired of that communication, or of its substance, meaning, or purport, and no other evidence obtained as a direct or indirect result of the interception or disclosure of that communication, shall be given against any person, except in proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted in that manner.
-(2) Even though certain evidence is inadmissible in criminal proceedings by virtue of subsection (1), a court may admit that evidence if the following conditions are satisfied:
-  (a) the proceedings are for—
-    (i) a drug dealing offence; or
-    (ii) a prescribed cannabis offence; and
-  (b) the evidence is relevant; and
-  (c) the evidence is inadmissible by virtue of subsection (1) merely because of a defect in form, or an irregularity in procedure, in—
-    (i) the application for or the granting of the interception warrant or emergency permit; or
-    (ii) the manner in which the evidence was obtained; and
-  (d) the defect in form or irregularity in procedure—
-    (i) was not substantive; and
-    (ii) was not the result of bad faith.
-(3) Subsection (1) shall not render inadmissible against any party to a private communication evidence of that communication that has, in the manner referred to in that subsection, come to the knowledge of the person called to give evidence, if all the parties to the communication consent to that person giving the evidence.
-(4) Subsection (1) shall not render inadmissible evidence of a private communication by any person who intercepted that communication by means of an interception device with the prior consent of any party to the communication.
-
-### 26 Restriction on admissibility of evidence of private communications lawfully intercepted
-(1) Even if the communication was intercepted under an interception warrant or an emergency permit, evidence of a private communication intercepted by means of an interception device, or of its substance, meaning, or purport, may not be given in any court unless the evidence relates to—
-  (a) a specified offence; or
-  (b) a conspiracy to commit a specified offence; or
-  (c) a terrorist offence; or
-  (d) a conspiracy to commit a terrorist offence; or
-  (e) a serious violent offence; or
-  (f) a conspiracy to commit a serious violent offence; or
-  (g) a drug dealing offence; or
-  (h) a prescribed cannabis offence; or
-  (i) offences of 2 or more of those kinds.
-(2) In subsection (1), serious violent offence, specified offence, and terrorist offence have the meanings given to those terms by section 312A of the Crimes Act 1961.
-
-### 27 Privileged evidence
-Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any court, except with the consent of the person entitled to waive that privilege.
-  (a) any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
-  (b) any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and his client,—
-
-### 28 Report to be made to Judge on use of warrant or permit
-(1) As soon as practicable after an interception warrant or an emergency permit has expired, the constable who applied for it, or (if he is unable to act) another constable who is of or above the level of position of inspector, shall make a written report to the Judge who granted the warrant or permit, or (if he is unable to act) to another Judge, on the manner in which the power conferred by the warrant or permit has been exercised and the results obtained by the exercise of that power.
-(2) Notwithstanding anything in section 20, the Judge who receives a report under subsection (1) shall be entitled to inspect any relevant document held under subsection (1) of that section.
-(3) Without limiting the generality of subsection (1), every report made for the purposes of that subsection shall contain the following information:
-  (a) where the interception device was placed:
-  (b) the number of interceptions made by means of the interception device:
-  (c) whether any relevant evidence was obtained by means of the interception device:
-  (d) whether any relevant evidence has been, or is intended to be, used in any criminal proceedings:
-  (e) whether any records of a private communication intercepted pursuant to the warrant or permit have been destroyed in accordance with section 21 or section 22, and, if not, why they have not been destroyed:
-  (f) whether the interception device has been retrieved, and, if not, why it has not been retrieved.
-(4) On receiving a report under this section, the Judge may require such further information relating to the matter as he thinks fit, and (in addition to any directions he gives for the purposes of section 22(3)) he may give such directions as he thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
-
-### 29 Commissioner of Police to give information to Parliament
-The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
-  (a) the number of applications for warrants made under section 14; and
-  (b) the number of applications for warrants made under section 15A; and
-  (c) the number of applications for renewals of warrants made under section 18; and
-  (d) the number of applications for emergency permits made under section 19; and
-  (e) the number of applications referred to in each of paragraphs (a) to (d) that were granted, and the number that were refused; and
-  (f) in relation to each of the types of warrant referred to in paragraphs (a) and (b) that were issued,—
-    (i) the number of warrants that authorised the use of an interception device to intercept the private communications of a named individual:
-    (ii) the number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
-    (iii) the number of warrants that authorised entry onto private premises; and
-  (g) the number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 19; and
-  (h) the average duration of warrants (including renewals); and
-  (i) the number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
-  (j) the number of prosecutions that have been instituted against constables (including former constables where the prosecution relates to behaviour occurring while they were constables) for offences against section 23 (prohibition on disclosure of private communications lawfully intercepted).
-
 **Imposition of fines**
 
 ### 38 Fine may reflect illicit gains
@@ -1690,43 +1474,15 @@ Where, in any case to which section 38 or section 39 applies, it appears to the 
 
 **Enforcement of fines**
 
-### 43 Enforcement of fines imposed in High Court
-(1) Where the court sentences an offender on conviction on indictment of a drug dealing offence to pay a fine and that fine is not paid within 14 days thereafter, or within such further time as may be allowed or fixed for the payment thereof, the following provisions shall apply:
-  (a) the Registrar shall inquire into the means of the offender, and shall—to enable the offender to be orally examined as to his means:
-    (i) where the offender is detained in a prison, issue a warrant to produce the offender; or
-    (ii) issue a summons requiring the offender, unless he sooner pays the amount outstanding under the conviction, to appear at the time and place appointed in the summons; or
-    (iii) if in the opinion of the Registrar a warrant is necessary to compel the attendance of the defendant, issue a warrant to arrest him and bring him before the court—
-  (b)
-  (c) in addition to the powers conferred on the Registrar by this section, the Registrar may issue a warrant for the production of any prisoner (other than the offender) of a prison whom he believes may be able to furnish him with any relevant information:
-  (d) on completion of his inquiry, the Registrar shall make a report as to the offender’s means, so far as he has been able to ascertain them, to the Judge who imposed the fine or, if that Judge is unable to act, any other Judge:
-  (e) the Judge to whom a report is made under paragraph (d) shall consider the report, and may make such order as he thinks fit, including an order—
-    (i) for the remission of either the whole or part of the fine; or
-    (ii) for the issue of a writ of sale; or
-    (iii) for the immediate imprisonment of the offender; or
-    (iv) allowing time for payment or allowing payment by instalments:
-  (f) for the purposes of sections 19E and 19F of the Crimes Act 1961, any order made by a Judge under paragraph (e) shall be deemed to have been made under section 19D of that Act:
-  (g) any money or assets treated as the offender’s pursuant to section 42 shall be deemed to be property of the offender and amenable as such to any order of the Judge under paragraph (e).
-(2) In this section and section 46, Registrar—
-  (a) means any Registrar of the High Court or of the District Court; and
+### 43 Enforcement of fines
+(1) If the court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or Part 3 of the Summary Proceedings Act 1957 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
+(2) The court or the Registrar may make any orders as are appropriate under any of the provisions specified in subsection (1) in respect of any money or assets that are treated as belonging to the offender under section 42 (which are deemed to be the offender's property for the purposes of this subsection).
+(3) In subsection (2), Registrar—
+  (a) means any Registrar of the High Court or a District Court; and
   (b) includes any Deputy Registrar.
-
-### 44 Enforcement of fines imposed in District Court
-Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine the following provisions shall apply:
-  (a) Part 3 of the Summary Proceedings Act 1957 (with any necessary modifications):
-  (b) in addition to the powers conferred on the Registrar by Part 3 of the Summary Proceedings Act 1957, the Registrar may issue a warrant for the production of any prisoner (other than the offender) of a prison whom he believes may be able to furnish him with any relevant information:
-  (c) any money or assets treated as the offender’s pursuant to section 42 shall be deemed to be the property of the offender and amenable as such to any order of the court or the Registrar under any of the provisions of Part 3 of the Summary Proceedings Act 1957.
 
 ### 45 Fine imposed in District Court may be enforced in High Court
 Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
-
-### 46 Garnishee proceedings
-(1) For the purpose of enforcing the payment of any fine imposed by any court on conviction of an offender of a drug dealing offence, a sum that stands to the credit of the offender with any person (including a bank or savings bank) and that is on deposit with that person or is held by him in a current or other account (including a deposit account) shall be deemed to be a sum due or accruing to the Registrar enforcing the fine and shall be attachable accordingly, notwithstanding that any of the following conditions applicable to the deposit or account, that is to say—has not been satisfied.
-  (a) any condition that notice is required before any money is withdrawn:
-  (b) any condition that a demand for payment must be made:
-  (c) any condition that a personal application must be made before any money is withdrawn:
-  (d) any other condition (other than a condition that a deposit book, receipt for money deposited, or other like document must be produced before any money is withdrawn)—
-(2) In exercising his powers under section 43 or sections 19 to 19E of the Crimes Act 1961 or, as the case may require, under Part 3 of the Summary Proceedings Act 1957, the Registrar may require any person who has in his possession or knows the whereabouts of any deposit book, receipt for money deposited, or other like document relating to the deposit or account of the offender to deliver that book, receipt, or document to the court or to disclose its whereabouts to the court, as the case may require; and for that purpose the Registrar may summon any such person to appear before him at such time and place as he may specify, or issue a warrant for the arrest of that person so that he may be brought before the Registrar.
-(3) In this section the term savings bank includes the Post Office Savings Bank, a trustee savings bank established under the Trustee Savings Banks Act 1948, and a private savings bank established under the Private Savings Banks Act 1964.
 
 **Administration of Part**
 
@@ -1787,7 +1543,7 @@ In this Part, unless the context otherwise requires,—
   - **code of manufacturing practice** means a code of practice for the manufacturing of restricted substances issued or approved under section 63
   - **distributor** means a person engaged in the business of selling restricted substances, otherwise than at retail only
   - **enforcement officer** means an officer appointed under section 55
-  - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions)
+  - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
   - **restricted substance** means a substance specified or described in Schedule 4 that is not in a preparation, concentration, form, or use exempted from being a restricted substance by regulations made under this Part
   - **retailer** means a person engaged in any business that includes the sale of restricted substances, at retail
   - **sale** , in relation to a restricted substance, includes every method of disposition for valuable consideration, including, without limitation,—
@@ -1802,10 +1558,10 @@ In this Part, unless the context otherwise requires,—
       (ii) controlled drug, controlled drug analogue, or precursor substance (as defined in section 2(1) of the principal Act):
       (iii) dietary supplement (as defined in regulation 2(1) of the Dietary Supplements Regulations 1985 (SR 1985/208)):
       (iv) food (as defined in section 2 of the Food Act 1981):
-      (v) hazardous substance (as defined in section 2(1) of the Hazardous Substances and New Organisms Act 1996):
+      (v)
       (vi) herbal remedy (as defined in section 2(1) of the Medicines Act 1981), medicine (as defined in section 3 of that Act), or related product (as defined in section 94 of that Act):
       (vii) liquor (as defined in section 2 of the Sale of Liquor Act 1989):
-      (viii) tobacco product or herbal smoking product (as defined in section 2(1) of the Smoke-free Environments Act 1990)
+      (viii)
   - **supply** means distribute or give, but does not include sell.
 
 **Functions of Expert Advisory Committee on Drugs under this Part**
@@ -1859,7 +1615,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 36 Restriction on selling restricted substances to persons under 18 years
 (1) No person may sell a restricted substance to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 37 Defence to charge of selling restricted substance to person under 18 years
 (1) It is a defence to a charge in respect of a contravention of section 36(1) if the person charged proves—
@@ -1877,13 +1633,13 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 38 Restriction on persons under 18 years selling restricted substances
 (1) No person may sell a restricted substance unless that person is of or over the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 39 Restriction on supplying restricted substances to persons under 18 years
 (1) No person may supply a restricted substance to a person—
   (a) who is under the age of 18 years; or
   (b) with the intention that it be supplied (directly or indirectly) to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (3) Nothing in subsections (1) or (2) applies to a person who is acting in pursuance of a duty, function, or power under this Part or any other enactment.
 (4) Subsection (1) applies irrespective of any liability that may attach to a person who has sold the restricted substance concerned to any other person.
 
@@ -1901,7 +1657,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 41 Restriction on place of sale or supply of restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to place of sale or supply applies from a place or premises that do not comply with that restriction.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 42 Restriction on free of charge distribution and rewards of restricted substances
 (1) No manufacturer, distributor, importer, or retailer of any restricted substance may—
@@ -1917,7 +1673,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (3) Nothing in subsection (2) applies in respect of any payment or reward to any person who purchases or attempts to purchase a restricted substance—
   (a) with the authority of the Director-General of Health, the Commissioner of Police, or some other person authorised for the purpose by the Director-General or the Commissioner; and
   (b) for the purpose of monitoring compliance with the provisions of this Part.
-(4) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(4) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1931,7 +1687,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
   (d) on or in any other medium prescribed in regulations made under this Part.
 (2) No person may advertise a restricted substance to which a prescribed restriction relating to advertising applies in a way that does not comply with that restriction.
 (3) Every person who advertises a restricted substance to which a prescribed requirement relating to advertising applies must advertise the restricted substance in a way that complies with that requirement.
-(4) Every person who contravenes subsection (1), (2), or (3) commits an offence and is liable on summary conviction,—
+(4) Every person who contravenes subsection (1), (2), or (3) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1940,7 +1696,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 44 Restrictions and requirements relating to labelling restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to labelling applies with a label that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to labelling applies must sell or supply the restricted substance with a label that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1949,7 +1705,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 45 Restrictions and requirements relating to packaging restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to packaging applies in a package that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to packaging applies must sell or supply the restricted substance in a package that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1957,7 +1713,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 46 Requirement relating to health warning
 (1) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to a health warning applies must sell or supply the restricted substance with the necessary health warning required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1965,14 +1721,14 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 47 Requirement to display signage
 (1) Every person who sells a restricted substance to which a prescribed requirement relating to signage applies must display the signage required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 **Quantity, dosage, form, and serving restrictions and requirements**
 
 ### 48 Restrictions and requirements relating to quantity, dosage, form, or serving of restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to quantity, dosage, form, or serving applies in a quantity, dose, form, or serving that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance in relation to which a prescribed requirement relating to quantity, dosage, form, or serving applies must sell or supply the restricted substance in a quantity, dose, form, or serving that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1981,7 +1737,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 49 Restrictions and requirements relating to storage and display of restricted substances
 (1) No person who sells or supplies a restricted substance to which a prescribed restriction relating to storage or display applies may store or display the restricted substance in a way that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to storage or display applies must store or display the restricted substance in a way that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -1989,13 +1745,13 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 50 Requirement to manufacture restricted substances in accordance with code of practice
 (1) Every person who manufactures a restricted substance to which a code of manufacturing practice applies must manufacture the restricted substance in accordance with that code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
 ### 51 Restriction on import of restricted substances
 (1) No person may import into New Zealand a restricted substance to which a code of manufacturing practice applies unless the restricted substance meets or exceeds the minimum standards established by the code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -2010,7 +1766,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (3) A manufacturer, importer, or seller must,—
   (a) on receipt of a recall order, advise the Minister of the details of the manner in which that person proposes to comply with the order; and
   (b) when the recall order has been complied with, give written notice of that fact to the Minister.
-(4) Every person who fails to comply, in any respect, with any of the provisions of this section or any order issued under this section commits an offence and is liable on summary conviction,—
+(4) Every person who fails to comply, in any respect, with any of the provisions of this section or any order issued under this section commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -2020,7 +1776,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (1) Every person who, in the course of any business, imports, prepares, processes, manufactures, packs, stores, carries, delivers, or sells any restricted substance, must—
   (a) keep, in some place of security at that person’s place of business, any records required to be kept by that person by any regulations made under this Part; and
   (b) retain those records for the period of time prescribed in the regulations.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -2048,7 +1804,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
   (a) the date it takes effect (which may be the date on which it is made or a later date); and
   (b) the date it expires (which must be a date at least 4 weeks and no more than 3 months after the date it takes effect).
 (4) Every person who contravenes an order made under subsection (2) commits an offence.
-(5) Every person who commits an offence under subsection (4) is liable on summary conviction to a fine not exceeding $2,000.
+(5) Every person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $2,000.
 
 **Enforcement officers**
 
@@ -2131,21 +1887,20 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (4) An enforcement officer or a constable who suspects that a person is under the age of 17 years must not under subsection (2)(b) require the person to give the enforcement officer or a constable the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
 (5) The powers given by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person’s knowledge relating to) a person the enforcement officer or constable concerned believes to have sold a restricted substance to a person under the age of 18 years.
 
-### 59 Information laid under this Part
-(1) An information in respect of an offence against this Part may be laid at any time within 1 year after the time the matter it relates to arose.
-(2) Subsection (1) overrides section 14 of the Summary Proceedings Act 1957.
+### 59 Time for filing charging document under this Part
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
 
 **Offences relating to enforcement**
 
 ### 60 Offence to obstruct enforcement officer or constable under this Part
 (1) A person who obstructs an enforcement officer or a constable in the execution of any power or duty under this Part commits an offence.
-(2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
 ### 61 Offence to make false statement to enforcement officer or constable under this Part
 (1) A person commits an offence if—
   (a) he or she makes a declaration or statement to an enforcement officer or a constable executing any power or fulfilling any duty under this Part; and
   (b) he or she knows that the declaration or statement is false.
-(2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
 **Regulations**
 
@@ -2232,56 +1987,3 @@ This Part is administered by the Ministry of Health.
 ## Schedule.Group
 
 ### Schedule 4 — Restricted substances
-
-### 1 Title
-This Act is the Misuse of Drugs (Classification of BZP) Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force on 1 April 2008.
-
-## Part 1 — Amendments to principal Act and amnesty provision
-
-**Amnesty provision**
-
-### 6 Amnesty in relation to use and possession for personal use of BZP
-(1) Despite section 4 of this Act and section 7 of the principal Act, it is not an offence for a person, in relation to any of the controlled drugs added by section 4 of this Act to Part 1 of Schedule 3 of the principal Act, to do either or both of the following before 1 October 2008:
-  (a) to possess for his or her own use an amount of that controlled drug that is less than the amount, level, or quantity at and over which that controlled drug is presumed to be for supply, as specified in Schedule 5 of the principal Act (as amended by section 5 of this Act):
-  (b) to use that controlled drug.
-(2) This section is subject to section 6 of the principal Act and to section 5 of this Act.
-(3) This section expires at the close of 30 September 2008.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
