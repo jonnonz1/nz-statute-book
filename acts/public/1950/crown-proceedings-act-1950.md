@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -130,7 +130,7 @@ Without limiting any other provisions of this Act, it is hereby declared that th
   (b) a certificate by him as to his appointment and as to the non-revocation of his warrant of appointment.
 (1G) In any proceedings for the recovery of a debt or damages, being proceedings in which a warrant of appointment is so filed, if the warrant purports to have been given within 1 year of the date on which it is filed and relates only to the debt or damages sought to be recovered, it shall be presumed, in the absence of proof to the contrary, that the warrant has not been revoked.
 (1H) In any proceedings for the recovery of a debt or damages, being proceedings in which a certificate is so filed, the certificate shall, in the absence of proof to the contrary, be sufficient evidence of the matters therein stated regarding the appointment and the non-revocation of the warrant.
-(1I) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100 who wilfully or negligently signs any such certificate if the certificate is false in a material respect.
+(1I) Every person commits an offence and is liable on conviction to a fine not exceeding $100 who wilfully or negligently signs any such certificate if the certificate is false in a material respect.
 (2) Every person so appointed to sue on behalf of the Crown shall sue in his own name with the addition of the words suing on behalf of the Crown, or words to the like effect.
 (3) Nothing in this section shall be so construed as to prevent the recovery of moneys payable to the Crown in any manner in which those moneys are recoverable independently of this section.
 
