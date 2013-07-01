@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2838,7 +2838,7 @@ Every amount payable by a person into the Fund under any provision of this Act s
 (3) Every requirement under this section shall be set out in a written notice to the controlling authority concerned or in a notice in the Gazette.
 
 ### 96 Offences
-Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 12 months who for the purpose of obtaining any payment or benefit or avoiding any obligation for himself or for any other person under this Act makes any false statement to or otherwise misleads or attempts to mislead any person concerned in the administration of this Act or any other person whomsoever.
+Every person commits an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 12 months who for the purpose of obtaining any payment or benefit or avoiding any obligation for himself or for any other person under this Act makes any false statement to or otherwise misleads or attempts to mislead any person concerned in the administration of this Act or any other person whomsoever.
 
 ### 97 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
