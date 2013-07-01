@@ -1,5 +1,5 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to co-operative companies and, in particular—ato reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbto provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcto provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddto modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
@@ -134,8 +134,8 @@ This Act binds the Crown.
   (a) if the board did not pass the resolution referred to in subsection (1), pass the resolution and send a statement that complies with paragraphs (a) and (b) of subsection (4) to the Registrar; or
   (b) if the board passed the resolution but did not comply with paragraphs (a) and (b) of subsection (4), send a statement that complies with those paragraphs to the Registrar.
 (7) Subsections (2) and (3) apply in relation to a resolution referred to in subsection (6)(a).
-(8) Every director who, without reasonable excuse, fails to comply with subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
-(9) If the board of a company fails to comply with subsection (6), every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(8) Every director who, without reasonable excuse, fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+(9) If the board of a company fails to comply with subsection (6), every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (10) It is a defence to a director charged with an offence under subsection (9) if the director proves that—
   (a) the board took all reasonable and proper steps to ensure that the requirements of subsection (6) would be complied with; or
   (b) he or she took all reasonable and proper steps to ensure that the board complied with the requirements of that subsection; or
@@ -206,7 +206,7 @@ The consideration for the issue of shares or any class of shares in a company re
   (b) require, the surrender of any shares under section 21,—
 (4) The directors who vote in favour of the surrender must sign a certificate stating that, in their opinion, the company will immediately after the surrender, satisfy the solvency test and the grounds for that opinion.
 (5) If, after the passing of the resolution and before the shares are surrendered, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the surrender, satisfy the solvency test, any surrender of the shares is to be treated as a distribution that is deemed not to have been authorised and the provisions of subsections (3) and (5) of section 56 of the Companies Act 1993 shall apply with such modifications as may be necessary.
-(6) Every director who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(6) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 19 Application of Companies Act 1993 to surrender of shares
 (1) Section 52(4) of the Companies Act 1993 shall apply to a surrender under this Act of shares having a nominal value.
@@ -233,7 +233,7 @@ The consideration for the issue of shares or any class of shares in a company re
 (4) Subject to section 18, the board of a company registered under this Act may, at any time, require a shareholder who has not been a transacting shareholder throughout the immediately preceding period of 12 months to surrender to the company all or any shares in the company having a nominal value and held by that shareholder.
 (5) Subject to section 18, the board of a company registered under this Act may, if permitted to do so by the constitution of the company, at any time, require a shareholder to surrender to the company all or any shares in the company having a nominal value and held by that shareholder in excess of the number of shares that the shareholder is required to hold in the company under the constitution and determined on the basis of transactions with the company during such immediately preceding period as is specified in the constitution.
 (6) The surrender of shares under this section takes effect at the expiration of a month after notice in writing requiring the surrender is given to the shareholder.
-(7) Every director who fails to comply with subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(7) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 22 Consideration for surrender of shares
 (1) The consideration for the surrender of shares having a nominal value in a company registered under this Act shall be determined in accordance with the following rules:
