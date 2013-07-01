@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2010-09-20_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -210,7 +210,7 @@ Nothing in this Act—
   (e) a property guard:
   (f) a personal guard:
   (g) a crowd controller.
-(2) Every person who contravenes this section commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes this section commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $40,000:
   (b) in the case of a body corporate, to a fine not exceeding $60,000.
 
@@ -377,8 +377,8 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 (4) The Licensing Authority must not give its approval under subsection (1) in respect of a person unless the Licensing Authority is satisfied that—
   (a) the officer is of or over the age of 18 years; and
   (b) no ground of disqualification under section 62 applies to the officer or, if 1 or more grounds do apply, that this does not make the company unsuitable to hold the licence.
-(5) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
-(6) Every licensee who, being a company, employs any person or permits any person to act as an officer of the company in contravention of subsection (1), commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+(5) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $20,000.
+(6) Every licensee who, being a company, employs any person or permits any person to act as an officer of the company in contravention of subsection (1), commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 41 Amendment of licence
 (1) If the Licensing Authority has under section 34 issued a licence that is limited in its effect to any particular class or classes of private security business, the licensee may at any time during the currency of the licence apply to the Licensing Authority to amend the licence by adding or removing any class or classes of private security business.
@@ -414,7 +414,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
   (e) a property guard employee:
   (f) a personal guard employee:
   (g) a crowd controller employee.
-(2) A person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who—
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $20,000 who—
   (a) is employed, engaged as a contractor, acts, or holds himself or herself out to any person or to the public as a person of any kind specified in subsection (1); and
   (b) does not hold a certificate of approval authorising him or her as a responsible employee of that kind.
 (3) This section is subject to section 61.
@@ -422,7 +422,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 ### 45 Offences by licensees, etc, relating to requirements to hold certificate of approval
 (1) No person who holds a licence may employ, engage as a contractor, or permit to act as a responsible employee any individual who does not hold an appropriate certificate of approval.
 (2) No person, not being the holder of a licence, may employ, engage as a contractor, or permit to act as a crowd controller employee any individual who does not hold a certificate of approval as a crowd controller employee.
-(3) A person who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+(3) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $20,000.
 (4) It is a defence in any prosecution for an offence against this section if the defendant proves that he or she took all reasonable steps to ascertain whether the person who was employed, engaged, or permitted to act held a certificate of approval.
 (5) This section is subject to section 61.
 
@@ -629,7 +629,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
   (c) a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit; or
   (d) any person with whom the licensee is dealing when carrying on or attempting to carry on any private security business to which the licence relates.
 (2) If the licensee is a company, it is sufficient compliance with the requirements of subsection (1) if the licence is kept in the company's registered office and is made available for inspection on demand by any of the persons referred to in that subsection.
-(3) A licensee who knowingly contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) A licensee who knowingly contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 66 Production of certificate of approval
 (1) A certificate holder must produce his or her certificate of approval on demand to—
@@ -638,14 +638,14 @@ The grounds of disqualification for an individual applicant for a licence, or an
   (c) a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit; or
   (d) any person with whom the certificate holder is dealing in the course of performing his or her duties as a responsible employee.
 (2) A certificate holder must, on demand by any person specified in subsection (1), inform that person of the name and address of the person by whom the holder is employed or engaged as a responsible employee.
-(3) A certificate holder who knowingly contravenes subsection (1) or (2) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) A certificate holder who knowingly contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 67 Requirement to wear identification badge
 (1) An individual who is the holder of a licence to carry on any of the classes of private security business described in sections 6 to 11 must wear an identification badge issued by the Authority at all times during the course of carrying on or attempting to carry on that business.
 (2) The holder of a certificate of approval as a responsible employee of any kind described in sections 14 to 19 must wear an identification badge issued by the Authority at all times during the course of performing his or her duties as a responsible employee.
 (3) The identification badge must be worn in a position that is readily visible.
 (4) Despite subsections (1) and (2), no licensee or certificate holder is required to wear an identification badge if the licensee or certificate holder reasonably believes that wearing it would threaten his or her safety or the safety of any person.
-(5) A licensee or certificate holder who intentionally contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(5) A licensee or certificate holder who intentionally contravenes this section commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 68 Identification badge
 (1) An identification badge must contain the following information:
@@ -657,7 +657,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
 (3) An identification badge must not include the name or address of the licensee or certificate holder.
 
 ### 69 Licensee and certificate holder to keep records
-A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who fails without reasonable excuse to comply with any requirement to keep records that is prescribed in regulations made under section 114.
+A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails without reasonable excuse to comply with any requirement to keep records that is prescribed in regulations made under section 114.
 
 ### 70 Access by Police and Complaints, Investigation, and Prosecution Unit to records
 (1) A licensee or certificate holder or person who employs or engages any crowd controller employee must, when required to do so by a constable or a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit (authorised person),—
@@ -666,7 +666,7 @@ A licensee or certificate holder or person who employs or engages any crowd cont
 (2) If a licensee or certificate holder or person who employs or engages any crowd controller employee gives a constable or authorised person a record or document, or a specified part of it, under subsection (1)(b), the constable or authorised person must—
   (a) give a receipt for the record or document or specified part of it; and
   (b) return it within 2 hours.
-(3) A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on summary conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
+(3) A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
 
 ### 71 Updating certificate information
 (1) A certificate holder must advise the Licensing Authority—
@@ -1032,10 +1032,10 @@ If a party to proceedings before the District Court under section 102 is dissati
 (4) A person commits an offence who, having been required by a constable or authorised person to supply particulars or evidence under this section, without reasonable excuse,—
   (a) refuses or fails to supply the particulars or evidence; or
   (b) knowingly or recklessly supplies any particulars or evidence that are false in a material respect.
-(5) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $20,000.
+(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
 
 ### 105 Providing false information
-A person commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who—
+A person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who—
   (a) is required by or under this Act to provide information to the Licensing Authority, a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit, or a constable; and
   (b) gives false information knowing that it is false or being reckless as to whether it is false.
 
@@ -1043,7 +1043,7 @@ A person commits an offence, and is liable on summary conviction to a fine not e
 If a company commits an offence against this Act, every officer of the company is guilty of the same offence, and is liable to the same penalty, unless he or she proves that the offence was committed either without his or her knowledge or without his or her consent.
 
 ### 107 General penalty for offences
-A person who commits an offence under this Act, or against any regulations made under this Act, for which no penalty is otherwise provided by this Act or by the regulations, is liable on summary conviction to a fine not exceeding $2,000.
+A person who commits an offence under this Act, or against any regulations made under this Act, for which no penalty is otherwise provided by this Act or by the regulations, is liable on conviction to a fine not exceeding $2,000.
 
 ### 108 Defence to charges involving failure to show or make copy of document, or show or make available any thing
 (1) It is a defence to a charge under this Act involving a failure, following a request by a constable, to show, make a copy of, and give a document, or a failure to show or make available any other thing, to that constable if—
@@ -1060,7 +1060,7 @@ A person who commits an offence under this Act, or against any regulations made 
   (b) use or attempt to use his or her licence or certificate of approval for the purpose of exercising, claiming, suggesting, or implying such a power or authority; or
   (c) either orally or in writing describe or refer to himself or herself as a detective or by any other expression or term containing the word detective; or
   (d) wear any article of clothing, badge, or other article, that is likely to cause any member of the public to believe that the holder of the licence or certificate of approval is a constable.
-(3) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
+(3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 110 Misleading conduct
 (1) This section applies to the following classes of private security personnel:
