@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2032,7 +2032,7 @@ A person who wilfully or negligently destroys, damages, stops, obstructs, or oth
 
 ### 176 Costs of remedying damage arising from breach of bylaw
 (1) A person who has been convicted of an offence against a bylaw is liable to pay to the local authority concerned the costs of remedying any damage caused in the course of committing the offence.
-(2) The costs must be assessed by a District Court Judge and are recoverable summarily as if they were a fine.
+(2) The costs must be assessed by a District Court Judge and are recoverable as if they were a fine.
 (3) Costs recoverable under this section are in addition to any penalty for which the person who committed the offence is liable.
 
 **Administration of enforcement functions**
@@ -2403,7 +2403,7 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
     (b) proceeds
   - **unauthorised weapon** —
     (a) means an article made or altered for use, or capable of being used, for causing bodily injury; and
-    (b) includes, in respect of an offence against the Arms Act 1983 or an indictable offence committed or about to be committed,—
+    (b) includes, in respect of an offence against the Arms Act 1983 or an imprisonable offence committed or about to be committed,—
       (i) a firearm, airgun, pistol, restricted weapon, or explosive, as those terms are defined in section 2 of the Arms Act 1983:
       (ii) any ammunition.
 
@@ -2514,10 +2514,10 @@ Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 
 **Offences relating to water**
 
 ### 224 Offence relating to water wastage
-Every person who contravenes section 192 and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
+Every person who contravenes section 192 and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on conviction to the penalty set out in section 242(2).
 
 ### 225 Offences relating to waterworks
-(1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(1) who, wilfully or negligently,—
+(1) Every person commits an offence and is liable on conviction to the penalty set out in section 242(1) who, wilfully or negligently,—
   (a) takes water from the supply provided to another person without having entered into an agreement to be supplied with water from a waterworks; or
   (b) having been supplied with water from a waterworks,—
     (i) supplies that water to another person who has not entered into an agreement to be supplied; or
@@ -2542,14 +2542,14 @@ A person who commits an offence under section 225 may, in addition to, or instea
 **Offences relating to water meters**
 
 ### 227 Offences relating to water meters
-Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(1) who, without the prior written authorisation of the local authority,—
+Every person commits an offence and is liable on conviction to the penalty set out in section 242(1) who, without the prior written authorisation of the local authority,—
   (a) alters the index of, or in any other manner tampers with, a water meter being used in association with the water services of a local government organisation; or
   (b) alters the position of such a water meter.
 
 **Offences relating to water races and private drains**
 
 ### 228 Offences relating to water races
-Every person commits an offence and is liable on summary conviction to the penalty specified in section 242(1) who—
+Every person commits an offence and is liable on conviction to the penalty specified in section 242(1) who—
   (a) commits a nuisance in or near a water race; or
   (b) without being authorised to be supplied with water from a water race, takes water from the supply provided to another person; or
   (c) is supplied with water from a water race and—
@@ -2577,7 +2577,7 @@ Every person commits an offence and is liable on summary conviction to the penal
 **Offence relating to obstruction of enforcement officers and others**
 
 ### 229 Obstruction of enforcement officers or agents of local authority
-Every person commits an offence and is liable on summary conviction to the penalty specified in section 242(2) who intentionally—
+Every person commits an offence and is liable on conviction to the penalty specified in section 242(2) who intentionally—
   (a) prevents the following persons from carrying out their statutory functions or duties:
     (i) an enforcement officer; or
     (ii) a member of the Fire Service established under the Fire Service Act 1975; or
@@ -2591,13 +2591,13 @@ Every person commits an offence and is liable on summary conviction to the penal
 **Offences by occupiers or owners**
 
 ### 230 Offences by occupiers
-(1) Every occupier of premises commits an offence and is liable on summary conviction to the penalty specified in section 242(2) who—
+(1) Every occupier of premises commits an offence and is liable on conviction to the penalty specified in section 242(2) who—
   (a) refuses or wilfully omits to disclose or wilfully misstates the name or address of the owner of the premises when requested to do so by an officer of the local authority or by a person acting under the authority of the local authority for the purpose of giving effect to the provisions of this Act or of any other enactment in relation to the premises; or
   (b) refuses or neglects to allow the owner of the premises to give effect to the provisions of this Act or of any other enactment in respect of the premises.
 (2) The owner is not liable to a fine for a default for which he or she might otherwise be liable if he or she proves that the default was due to the refusal or neglect of the occupier.
 
 ### 231 Offences in relation to notices sent to occupiers or owners
-Every person who fails to comply with a notice referred to in section 184(1) commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
+Every person who fails to comply with a notice referred to in section 184(1) commits an offence and is liable on conviction to the penalty set out in section 242(2).
 
 **Offences relating to property damage**
 
@@ -2608,28 +2608,28 @@ Every person who fails to comply with a notice referred to in section 184(1) com
   (c) a water race; or
   (d) a drainage work; or
   (e) anything forming part of, or connected with, any works or property not referred to in paragraphs (a) to (d).
-(2) Every person commits an offence who wilfully or maliciously destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction on indictment to the penalty set out in section 242(3).
-(3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on summary conviction to the penalty set out in section 242(1).
+(2) Every person commits an offence who wilfully or maliciously destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in section 242(3).
+(3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in section 242(1).
 
 **Miscellaneous offences**
 
 ### 233 Offence relating to advertising
-Every person who wilfully contravenes clause 58 of Schedule 3 (which relates to the authorisation of advertising) commits an offence and is liable on summary conviction to the penalty specified in section 242(2).
+Every person who wilfully contravenes clause 58 of Schedule 3 (which relates to the authorisation of advertising) commits an offence and is liable on conviction to the penalty specified in section 242(2).
 
 ### 234 Unauthorised use of coat of arms
-Every person commits an offence and is liable on summary conviction to the penalty specified in section 242(2) who, without prior written authority of the relevant local authority,—
+Every person commits an offence and is liable on conviction to the penalty specified in section 242(2) who, without prior written authority of the relevant local authority,—
   (a) for the purposes of sale, applies or permits to be applied to an article the coat of arms of the local authority or an imitation of that coat of arms; or
   (b) sells or offers the article for sale, or permits it to be sold or offered for sale, knowing that the coat of arms or an imitation of it has been applied to the article.
 
 **Offences committed by members and officers of local authorities**
 
 ### 235 Offences by members of local authorities
-(1) Every person who contravenes clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
+(1) Every person who contravenes clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 commits an offence and is liable on conviction to the penalty set out in section 242(2).
 (2) Fines recovered by the Secretary in proceedings instituted under clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 must be paid into a Crown Bank Account.
 (3) Despite subsection (1), a person does not commit an offence if the person contravenes clause 1(3) of Schedule 7 while detained in a hospital under the Mental Health (Compulsory Assessment Treatment) Act 1992.
 
 ### 236 Penalty for acting without warrant
-Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(2) who—
+Every person commits an offence and is liable on conviction to the penalty set out in section 242(2) who—
   (a) does not have a warrant of the kind referred to in section 174, but represents himself or herself to be the holder of a warrant under that section; or
   (b) acts under a warrant after the termination, as the case may be, of—
     (i) his or her appointment as an officer of the local authority; or
@@ -2640,12 +2640,12 @@ Every person commits an offence and is liable on summary conviction to the penal
 ### 237 Offence by member or officer of Remuneration Authority
 Every person who wilfully contravenes clause 11(2) of Schedule 7—
   (a) commits an offence; and
-  (b) is liable on summary conviction to the penalty set out in section 242(2).
+  (b) is liable on conviction to the penalty set out in section 242(2).
 
 **Offences against Act**
 
 ### 238 Offence of failing to comply with Act
-(1) Every person who acts contrary to, or fails to comply with, a direction or prohibition given under this Act, or under an authority given to a local authority or to a member or officer of a local authority, commits an offence and is liable on summary conviction to the penalty specified in section 242(2).
+(1) Every person who acts contrary to, or fails to comply with, a direction or prohibition given under this Act, or under an authority given to a local authority or to a member or officer of a local authority, commits an offence and is liable on conviction to the penalty specified in section 242(2).
 (2) An offence or penalty prescribed by this Act, or by regulations or bylaws made under this Act, must not be treated as repealing or otherwise affecting the provisions of any other Act under which the same act or default is also prescribed as an offence or for which a penalty is prescribed.
 (3) A person to whom subsections (1) and (2) apply may be proceeded against—
   (a) under this Act, or the bylaw or regulation made under this Act; or
@@ -2655,9 +2655,9 @@ Every person who wilfully contravenes clause 11(2) of Schedule 7—
 
 **Offences against bylaws**
 
-### 239 Offences punishable on summary conviction
-(1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(4) or (5), as the case may be, who breaches a bylaw made under Part 8.
-(2) A District Court presided over by 2 or more Justices has jurisdiction in respect of any summary offence that is a breach of a bylaw made under section 147.
+### 239 Breach of bylaw
+(1) Every person commits an offence and is liable on conviction to the penalty set out in section 242(4) or (5), as the case may be, who breaches a bylaw made under Part 8.
+(2) A District Court presided over by 2 or more Justices has jurisdiction in respect of any offence that is a breach of a bylaw made under section 147.
 
 **Defences**
 
@@ -2674,10 +2674,10 @@ It is a defence to any offence under this Act or under bylaws made under this Ac
     (i) the action or event could not reasonably have been foreseen or prevented by the defendant; and
     (ii) the effects of the act or omission of the defendant were adequately remedied or mitigated by the defendant after the offence occurred.
 
-**Information laid by local authority**
+**Time for filing charging document**
 
-### 241 Laying of information
-Despite the provisions of the Summary Proceedings Act 1957, a local authority may lay an information for a summary offence under this Act within 6 months after the time when the matter giving rise to the information first became known, or should have become known, to the local authority.
+### 241 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a local authority may file a charging document in respect of an offence against this Act within 6 months after the time when the matter giving rise to the charge first became known, or should have become known, to the local authority.
 
 ### Subpart 2 — Penalties
 
@@ -2697,7 +2697,7 @@ In this subpart,—
 
 ### 244 Proceedings for infringement offences
 A person who is alleged to have committed an infringement offence may either—
-  (a) be proceeded against under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice under section 245.
 
 ### 245 Issue of infringement notices
@@ -2707,7 +2707,7 @@ A person who is alleged to have committed an infringement offence may either—
 (2) An infringement notice may be served—
   (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence; or
   (b) by post addressed to that person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
+(3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) details of the alleged infringement offence sufficient to inform fairly a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee specified for that offence:
