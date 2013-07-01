@@ -1,7 +1,7 @@
 # District Courts Act 1947
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
-> An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
+> An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the District Courts Act 1947.
@@ -27,7 +27,7 @@ _Consolidation as at 2012-10-01_
   - **Registrar** means the Registrar of a court, and includes any Deputy Registrar
   - **rules** means the District Courts Rules made under section 122
   - **trial Judge** means a Judge appointed under section 28B to exercise the criminal jurisdiction of the courts under Part 2A.
-(2) Except as expressly provided in this Act, nothing in this Act shall be deemed to relate to any court in respect of the exercise of the criminal jurisdiction referred to in the Summary Proceedings Act 1957 and every reference to a court shall be deemed to relate to a court in which civil proceedings may be taken.
+(2) Except as expressly provided in this Act, nothing in this Act shall be deemed to relate to any court in respect of the exercise of the criminal jurisdiction referred to in the Criminal Procedure Act 2011 and every reference to a court shall be deemed to relate to a court in which civil proceedings may be taken.
 
 ## Part 1 — Constitution and administration
 
@@ -39,14 +39,14 @@ _Consolidation as at 2012-10-01_
 
 ### 4 Appointment of places for holding of courts
 (1) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of civil jurisdiction.
-(2) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of summary criminal jurisdiction under the Summary Proceedings Act 1957.
-(2A) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of criminal jurisdiction in respect of indictable offences under Part 2A.
+(2) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct Judge-alone trials in accordance with the Criminal Procedure Act 2011.
+(2A) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct jury trials in accordance with the Criminal Procedure Act 2011.
 (3) The Governor-General may from time to time authorize any court held in any city, borough, or other place appointed under the last preceding subsection to deal with any specified class of matters not within the criminal jurisdiction of the court.
 (4) Notwithstanding anything in the foregoing provisions of this section a Judge may hold or direct the holding of a particular sitting of a court at any place he deems convenient.
 (5) The Governor-General may at any time in like manner amend or revoke any appointment or authorization made under the provisions of this section.
 
 ### 4A Sittings of court at other places
-(1) Where any civil or summary criminal proceedings are pending in any court the party issuing the proceedings may, or if the proceedings are to be defended, or if a Judge has directed either generally or specifically that the attendance of a party is required, then any party may, apply to the court for the proceedings to be heard at any other convenient place. A further application may, from time to time, be made for the hearing to be continued or completed in any other place.
+(1) Where any civil or Judge-alone criminal proceedings are pending in any court the party issuing the proceedings may, or if the proceedings are to be defended, or if a Judge has directed either generally or specifically that the attendance of a party is required, then any party may, apply to the court for the proceedings to be heard at any other convenient place. A further application may, from time to time, be made for the hearing to be continued or completed in any other place.
 (2) If a Judge is satisfied that in all the circumstances as between the parties the proceedings could be more conveniently or fairly heard or continued to be heard at some place, other than in a court appointed under this Act, and that suitable accommodation for a hearing at such place is available the Judge shall, unless for special reasons relating to the particular proceedings he directs otherwise, make an order, upon such terms and conditions as he thinks fit, that the proceedings be heard or be continued to be heard at a sitting of the court held at that other place and may at that time, or at any subsequent time, fix a date and time for any such hearing.
 (3) With the consent of all parties an order under this provision may be made by the Registrar.
 (4) At all times any such proceedings shall be heard and determined as proceedings of the court and at the conclusion of any such hearing the papers shall be returned and the result and any necessary minutes recorded in the books of the court.
@@ -90,6 +90,10 @@ _Consolidation as at 2012-10-01_
 (3) With the prior approval of the Governor-General, the Chief District Court Judge may resign that office without resigning his office as a Judge.
 (4) Whenever by reason of illness, absence from New Zealand, or any other cause the Chief District Court Judge is prevented from exercising the duties of his office, the Governor-General may, by writing under his hand, appoint 1 of the other Judges to act as Chief District Court Judge until the Chief District Court Judge resumes his duties, and during that period to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief District Court Judge.
 
+### 5B Appointment of jury trial Judges
+(1) The Governor-General must, by warrant, appoint sufficient Judges to exercise the criminal jurisdiction of the courts in respect of jury trials under the Criminal Procedure Act 2011.
+(2) The fact that a Judge is appointed under this section does not limit or affect the power of that Judge to exercise any other jurisdiction of the court or the powers of a Judge.
+
 ### 6 Salaries and allowances
 (1) There must be paid to the Chief District Court Judge, to the Principal Environment Judge, to the Principal Family Court Judge, to the Principal Youth Court Judge, and to the other Judges, out of public money, without further appropriation than this section,—
   (a) salaries at the rates from time to time determined by the Remuneration Authority; and
@@ -111,7 +115,7 @@ _Consolidation as at 2012-10-01_
 Every Judge, by virtue of his office,—
   (a) shall be a Justice of the Peace for New Zealand:
   (b) shall, though sitting alone, have all such powers, functions, and discretions, unless otherwise specially provided, as now are or hereafter may be exercised by 2 Justices:
-  (c) shall have full power to do alone whatever is authorized to be done by 2 Justices under the Summary Proceedings Act 1957, or under any other Act now or hereafter in force in New Zealand:
+  (c) shall have full power to do alone whatever is authorized to be done by 2 Justices under the Criminal Procedure Act 2011, or under any other Act now or hereafter in force in New Zealand:
   (d) shall be a Coroner for New Zealand.
 
 ### 9 Assignment and rostering of District Court Judges
@@ -167,13 +171,42 @@ Every Judge, by virtue of his office,—
 
 ### 11C Functions and powers of Community Magistrates
 (1) The functions and powers of Community Magistrates are to carry out such functions and powers as are conferred on Community Magistrates—
-  (a) by the Summary Proceedings Act 1957; or
+  (a) by the Criminal Procedure Act 2011; or
   (b) by the Summary Offences Act 1981; or
   (c) by any other enactment.
 (2) Each Community Magistrate is to sit in such courts at such times as the Chief District Court Judge may from time to time direct after consultation with—
   (a) the Chief Community Magistrate; or
   (b) if the office of Chief Community Magistrate is vacant, such other Community Magistrate as the Chief District Court Judge thinks fit.
 (3) The fact that a Community Magistrate sits in any particular court is conclusive evidence of his or her authority to do so.
+
+### 11CA No proceeding against Community Magistrate unless he or she acted without jurisdiction
+(1) No proceeding may be commenced against any Community Magistrate for any act done by him or her, unless he or she has exceeded his or her jurisdiction or has acted without jurisdiction.
+(2) If a warrant to seize property or warrant of commitment is granted by a Community Magistrate in good faith in reliance on a conviction or order entered or made by 1 or more Justices or 1 or more Community Magistrates, no proceeding may be commenced against the Community Magistrate who granted the warrant by reason of any defect in the conviction or order, or by reason of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
+
+### 11CB No proceeding against Community Magistrate to be commenced in District Court
+No proceeding against any Community Magistrate by any person claiming to have been injured by an act done by the Community Magistrate in excess of jurisdiction or without jurisdiction may be commenced in a District Court.
+
+### 11CC Onus of proof
+In any proceeding commenced against a Community Magistrate by a person claiming to have been injured by an act done by the Community Magistrate in excess of jurisdiction or without jurisdiction, the onus of proving the excess or want of jurisdiction lies on the person alleging it.
+
+### 11CD Plaintiff may be ordered to give security for costs
+(1) This section applies to any proceeding commenced against a Community Magistrate by a person claiming to have been injured by an act done by the Community Magistrate in excess of jurisdiction or without jurisdiction.
+(2) The High Court or any Judge of that court, on application by the Community Magistrate at any time before the day fixed for the trial of the proceeding, may order the plaintiff to give security for the costs of the proceeding to the satisfaction of the Registrar of the High Court in a sum not exceeding $500.
+(3) If security is ordered to be given, the court or Judge may direct that in the meantime all proceedings are stayed.
+
+### 11CE Indemnity to Community Magistrate
+(1) Subsection (2) applies to any Community Magistrate against whom a judgment has been entered to pay damages or costs to any person injured as a result of any act done by the Community Magistrate in excess of jurisdiction or without jurisdiction.
+(2) The Community Magistrate must be indemnified by the Crown to the full amount of the judgment if he or she produces a certificate signed by a Judge of the High Court stating that, in the Judge's opinion,—
+  (a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
+  (b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused.
+(3) Subsections (4) and (5) apply if a Community Magistrate settles a claim against him or her by paying or agreeing to pay an agreed amount of damages or costs before proceedings are commenced, or before or during trial of the proceeding.
+(4) The Community Magistrate must be indemnified by the Crown to the full amount of the amount paid or agreed to be paid if he or she produces a certificate signed by a Judge of the High Court stating that, in the Judge's opinion,—
+  (a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
+  (b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused; and
+  (c) the amount paid or agreed to be paid was fair and reasonable.
+(5) If the High Court Judge is not satisfied of the matter in subsection (4)(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
+(6) Application for a certificate under any of subsections (2), (4), or (5) may be made by a Community Magistrate at any time to a Judge in chambers, and the Judge has power to grant the certificate after considering all evidence that is given before him or her either orally or in the form of affidavits.
+(7) A copy of the application must be served by the Community Magistrate on the Attorney-General, who is entitled to appear and oppose it.
 
 ### 11D Chief Community Magistrate
 (1) The Governor-General may from time to time, by warrant under the Governor-General's hand and on the advice of the Minister of Justice, appoint a Chief Community Magistrate.
@@ -274,10 +307,10 @@ Sections 121, 128, and 129 of the Search and Surveillance Act 2012 (which relate
 **Miscellaneous provisions as to officers**
 
 ### 18 Penalty for assaulting officers
-If any person assaults an officer of a court while in the execution of his duty, that person shall be liable, on an order made by a Judge in that behalf, to a fine not exceeding $300, and the bailiff or any constable may take him into custody, with or without warrant, and bring him before a Judge: provided that nothing in this section shall be deemed to prevent proceedings in respect of that assault being taken against that person under some other Act instead of under this section.
+If any person assaults an officer of a court while in the execution of his duty, that person shall be liable, on an order made by a Judge in that behalf, to a fine not exceeding $300, and the bailiff or any constable may take him into custody, with or without warrant, and bring him before a Judge:provided that nothing in this section shall be deemed to prevent proceedings in respect of that assault being taken against that person under some other Act instead of under this section.
 
 ### 19 Misconduct of officers
-(1) If any officer of a court is charged—it shall be lawful for a Judge to inquire into the matter in a summary way.
+(1) If any officer of a court is charged—it shall be lawful for a Judge to inquire into the matter.
   (a) with extortion or misconduct while acting under colour or pretence of the process of the court; or
   (b) with not duly paying or accounting for any money levied or received by him under the authority of this Act,—
 (2) For the purpose of any such inquiry as aforesaid, the Judge may summon and enforce the attendance of all necessary parties in like manner as the attendance of witnesses in any action may be enforced.
@@ -285,15 +318,15 @@ If any person assaults an officer of a court while in the execution of his duty,
 
 ### 20 Officers of court not to act as solicitors therein
 (1) Except as provided by this Act or the rules or by any other enactment, no officer of a court shall be directly or indirectly engaged as solicitor or agent for any party in any proceedings in any court.
-(2) Every person who contravenes the provisions of this section shall, for each offence, be liable on summary conviction to a fine not exceeding $150.
+(2) Every person who contravenes the provisions of this section shall, for each offence, be liable on conviction to a fine not exceeding $150.
 
 **Sittings**
 
 ### 21 Place of sittings
 (1) Regular sittings of the courts for the despatch of civil business may be held in the courthouse in any city, borough, or other place appointed under subsection (1) of section 4.
 (2) Special or adjourned sittings for the despatch of civil business may be held in any such courthouse as aforesaid or in any other place wheresoever which the Judge deems convenient.
-(3) Sittings for the despatch of summary criminal business by the courts may be held in the courthouse in any city, borough, or place appointed under subsection (2) of section 4, or in any other place wheresoever which the Judge or the Justice or Justices or the Community Magistrate or Community Magistrates constituting the court deem convenient.
-(4) Sittings for the conduct of trials on indictment may be held in a courthouse in any city, borough, or place appointed for the purpose under section 4(2A).
+(3) Sittings for the despatch of Judge-alone criminal business by the courts may be held in the courthouse in any city, borough, or place appointed under subsection (2) of section 4, or in any other place wheresoever which the Judge or the Justice or Justices or the Community Magistrate or Community Magistrates constituting the court deem convenient.
+(4) Sittings for the conduct of jury trials may be held in a courthouse in any city, borough, or place appointed for the purpose under section 4(2A).
 
 ### 22 Times of sittings
 (1) Sittings for the despatch of civil business and sittings for the despatch of criminal business shall be held on such days and at such times as may be appointed by the Judge exercising jurisdiction at the place in which the sittings are held:provided that the days appointed for regular sittings shall be subject to the approval of the Chief District Court Judge.
@@ -305,103 +338,7 @@ If any person assaults an officer of a court while in the execution of his duty,
 
 ## Part 2 — Criminal jurisdiction
 
-### 24 Criminal jurisdiction
-[Repealed]
-
-### 25 Jurisdiction as to fugitive offenders
-[Repealed]
-
-### 26 Informations and complaints to be filed in nearest court
-[Repealed]
-
-### 27 Place of hearing of informations and complaints
-[Repealed]
-
-### 28 Criminal Record Book
-[Repealed]
-
 ## Part 2A — Criminal jurisdiction in respect of indictable offences
-
-### 28A Extent of jurisdiction under Part 2A
-(1) A court that is sitting at a place appointed under section 4(2A) and is presided over by a trial Judge has jurisdiction under this Part in respect of the following offences:
-  (a) any offence for which the accused elects under section 66 of the Summary Proceedings Act 1957 to be tried by a jury:
-  (b) all indictable offences under any enactment (other than the offences referred to in Parts 1 and 2 of Schedule 1A):
-  (c) the indictable offences referred to in Part 1 of Schedule 1A, in any case where—
-    (i) the proceedings are transferred to the court under section 184Q of the Summary Proceedings Act 1957; or
-    (ii) a person pleads guilty under section 160 or 184J of the Summary Proceedings Act 1957, before he or she is committed for trial or sentence for any such offence:
-  (d) conspiring to commit an indictable offence to which paragraph (b) or (c) applies:
-  (e) attempting to commit an indictable offence to which paragraph (b) or (c) applies, or inciting or counselling or attempting to procure any person to commit any such offence, which is not committed:
-  (f) being an accessory after the fact to any indictable offence to which paragraph (b) or (c) applies.
-(2) Notwithstanding anything in any of paragraphs (c) to (f) of subsection (1), a court shall not have jurisdiction under this Part to try a person charged with an offence against any of sections 109, 113, 115, 116, and 117 of the Crimes Act 1961 if the charge relates to proceedings that were held in the High Court.
-(3) Despite subsection (1), a court does not have jurisdiction to try a person charged with a stage-3 offence (within the meaning of section 86A of the Sentencing Act 2002).
-
-### 28B Appointment of trial Judges
-(1) The Governor-General shall from time to time, by warrant under his hand, appoint sufficient trial Judges to exercise the criminal jurisdiction of the courts under this Part.
-(2) Nothing in this Part shall limit or affect the power of a trial Judge to exercise any of the other jurisdictions of the courts or the powers of a Judge.
-
-### 28C Trial Judge not to act in certain cases
-[Repealed]
-
-### 28D Constitution and procedure of court
-(1) Subject to sections 361B to 361E of the Crimes Act 1961, every trial upon indictment under this Part shall be held before a trial Judge and a jury of 12 persons.
-(2) The provisions of the Juries Act 1981, so far as they are applicable and with the necessary modifications, shall apply to every such trial.
-(3) Where any person is committed to a District Court for trial, the provisions of Parts 12 and 13 of the Crimes Act 1961, so far as they are applicable and with the necessary modifications, shall apply until the matter is finally disposed of.
-
-### 28E Powers of court
-(1) Any court exercising jurisdiction under this Part may summons witnesses; and sections 20 and 26 to 29 of the Summary Proceedings Act 1957, with any necessary modifications, shall apply.
-(2) Any court exercising jurisdiction under this Part may adjourn any trial and grant the accused person bail; and section 46 of the Summary Proceedings Act 1957 and sections 28 to 34 of the Bail Act 2000, with any necessary modifications, shall apply.
-(2A) Where, by virtue of subsection (2) or of any of the provisions applied by that subsection, an accused person is granted or refused bail, or any District Court Judge varies or revokes or substitutes or imposes any condition of bail, or refuses to vary or revoke or substitute or impose any condition of bail, the provisions of sections 41 and 42 of the Bail Act 2000, as far as they are applicable and with all necessary modifications, shall apply accordingly.
-(2B) Where a court makes an order under section 200, 202, or 205 of the Criminal Procedure Act 2011 or refuses to make any such order, either the prosecutor or the applicant may appeal to the High Court against the making of that order or refusal; and the provisions of section 115C of the Summary Proceedings Act 1957, as far as they are applicable and with all necessary modifications, shall apply accordingly.
-(3) Any court exercising jurisdiction under this Part may grant leave to the defendant to withdraw a plea of guilty at any time before he has been sentenced or otherwise dealt with.
-
-### 28F Maximum sentences
-(1) This subsection applies to any case where—
-  (a) a person is found guilty on indictment in a District Court; or
-  (b) a person who has been committed to a District Court for trial, or whose trial has been transferred to a District Court by order made under section 184Q of the Summary Proceedings Act 1957, pleads guilty—
-    (i) under section 321 of the Crimes Act 1961, at any time before the commencement of the trial; or
-    (ii) under section 356 of that Act, either when called upon to plead or subsequently during the trial.
-(2) In any case to which subsection (1) applies, the court may sentence the person to imprisonment or a fine or both, not exceeding,—
-  (a) in the case of imprisonment, the maximum term prescribed by law; or
-  (b) in the case of a fine, the maximum amount prescribed by law or, if no maximum amount is so prescribed, $10,000.
-(3) This subsection applies to any case where—
-  (a) a person pleads guilty under section 160 or 184J of the Summary Proceedings Act 1957, to—
-    (i) any offence for which the accused elects trial by jury under section 66 of the Summary Proceedings Act 1957; or
-    (ii) any indictable offence under any enactment (other than the offences referred to in Part 2 of Schedule 1A); or
-    (iii) any offence to which section 28A(1)(d), (e), or (f) applies; and
-  (b) the court accepts jurisdiction.
-(4) In any case to which subsection (3) applies,—
-  (a) any trial Judge may sentence the person to imprisonment or a fine or both, not exceeding,—
-    (i) in the case of imprisonment, the maximum term prescribed by law; or
-    (ii) in the case of a fine, the maximum amount prescribed by law or, if no maximum amount is so prescribed, $10,000:
-  (b) any Judge who is not a trial Judge may sentence the person to imprisonment or a fine or both, not exceeding the maximum term or amount prescribed by section 7 of the Summary Proceedings Act 1957.
-(5) Despite subsections (1) to (4), a court does not have jurisdiction to impose a sentence in respect of a stage-3 offence (within the meaning of section 86A of the Sentencing Act 2002).
-
-### 28G Judge may decline to sentence
-Notwithstanding section 28F, in any case to which that section would otherwise apply, the Judge may decline to sentence the offender under that section and instead commit him to the High Court for sentence; and sections 184K, 184L, and 184T of the Summary Proceedings Act 1957, with any necessary modifications, shall apply.
-
-### 28H Appeal against sentence
-(1) This section applies in any case where a sentence is imposed under section 28F(4).
-(2) If this section applies, then,—
-  (a) in any case where the sentence imposed exceeds the maximum term of imprisonment or the maximum fine that may be imposed by a District Court Judge under section 7 of the Summary Proceedings Act 1957 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000 or both),—
-    (i) the person sentenced may appeal to the Court of Appeal under section 383(1A) of the Crimes Act 1961; and
-    (ii) the Solicitor-General may appeal, with the leave of the Court of Appeal, to the Court of Appeal under section 383(2A) of the Crimes Act 1961; and
-  (b) in any other case,—
-    (i) the person sentenced may appeal to the High Court under section 115(2A) of the Summary Proceedings Act 1957; and
-    (ii) the informant, with the consent of the Solicitor-General given under section 115A(2) of the Summary Proceedings Act 1957, may appeal against the sentence to the High Court under section 115A(1A) of the Summary Proceedings Act 1957.
-(2A) This section is subject to section 384A of the Crimes Act 1961.
-
-### 28I Enforcement of fines
-(1) If a court exercising jurisdiction under this Part imposes 1 or more fines, Part 3 of the Summary Proceedings Act 1957 applies subject to any necessary modifications and subject to the modification in subsection (2).
-(2) Despite section 90 of the Summary Proceedings Act 1957, the period of imprisonment that the court may impose on the offender for the non-payment of the fine or fines must not exceed, for each fine, the lesser of—
-  (a) the maximum term of imprisonment to which the offender was liable on conviction; or
-  (b) a period of 2 years.
-(3) In this section, fine has the meaning given to it in section 79 of the Summary Proceedings Act 1957.
-
-### 28J Transfer of proceedings
-(1) Where any person is committed under section 184N of the Summary Proceedings Act 1957 to a District Court for trial, or where proceedings have been transferred to a District Court for trial by order made under section 184Q of that Act, the accused person or the prosecutor may, either before or after an indictment is presented, apply to a Judge of the High Court for an order directing that the person be tried in the High Court.
-(2) If it appears to the Judge, after giving the accused person and the prosecutor reasonable opportunity to be heard on the matter, that the accused person should be tried in the High Court, he may order that the proceedings be transferred to the High Court for the trial of the accused person at the place specified in the order.
-(3) Notwithstanding subsections (1) and (2), if a Judge of the High Court is satisfied that an indictment pending in a District Court in any city, borough, or other place is ready for trial and that it may be more expeditiously dealt with at a sitting of the High Court at that city, borough, or place, he may, with the consent of the accused person and the prosecutor, order that the proceedings be transferred to the High Court for the trial of the accused person at the place specified in the order.
-(4) Where an order is made under this section, sections 322 to 326 of the Crimes Act 1961, with any necessary modifications, shall apply as if the District Court were the court of committal and the High Court were the substituted court.
 
 ## Part 3 — Civil jurisdiction and transfer of proceedings
 
@@ -417,7 +354,7 @@ Notwithstanding section 28F, in any case to which that section would otherwise a
 (1) The courts shall have jurisdiction to hear and determine any proceeding for the recovery of any penalty, expenses, contribution, or other like demand which is recoverable by virtue of any enactment for the time being in force, if—
   (a) it is not expressly provided by that or any other enactment that the demand shall be recoverable only in some other court; and
   (b) the amount claimed in the proceeding does not exceed the sum of $200,000.
-(2) For the purposes of this section the expression penalty shall not include a fine to which any person is liable on conviction on indictment or on summary conviction.
+(2) For the purposes of this section the expression penalty shall not include a fine to which any person is liable on conviction.
 
 ### 31 Extending jurisdiction in actions for recovery of land
 (1) The courts shall have jurisdiction to hear and determine any proceeding for the recovery of land where the rent (if any) payable in respect thereof does not exceed the rate of $62,500 a year or where the value of the land in question does not exceed $500,000 in the following cases:
@@ -479,7 +416,7 @@ Every court, as regards any cause of action for the time being within its jurisd
   (b) give such and the like effect to every ground of defence or counterclaim equitable or legal,—
 
 ### 42 Ancillary powers of Judge
-(1) A Judge shall have jurisdiction in any proceeding pending to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in Chambers.
+(1) A Judge shall have jurisdiction in any proceeding pending to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
 (2) Notwithstanding subsection (1), an interlocutory injunction restraining a party to a proceeding (whether domiciled, resident or present in New Zealand) from removing from New Zealand, or otherwise dealing with, assets in New Zealand is the only interlocutory injunction in the nature of a Mareva injunction that a Judge may grant.
 (3) Without limiting the power to make an order for the detention, custody, or preservation of any property, it is hereby declared that nothing in this Act authorises a Judge to make an Anton Piller order.
 
@@ -709,7 +646,7 @@ A proceeding may be brought in the High Court on a judgment or order of a Distri
 **Determination of questions concerning rules**
 
 ### 70A Application of rules
-If, in any civil proceeding, any question arises as to the application of any provision of rules made under section 122 or the High Court Rules, the Court may, either on the application of a party or on its own initiative, determine the question and give any directions it thinks fit in the interests of justice.
+If, in any civil proceeding, any question arises as to the application of any provision of rules made under section 122 or the High Court Rules, the court may, either on the application of a party or on its own initiative, determine the question and give any directions it thinks fit in the interests of justice.
 
 ## Part 5 — Appeals
 
@@ -769,9 +706,7 @@ All appeals under section 72 must be by way of rehearing.
 For the purposes of enforcement proceedings, a judgment or order of the High Court under paragraph (a) or paragraph (c) of section 76(1), or section 77(2), must be treated as if it were a judgment or order of the District Court in which the decision appealed against was made.
 
 ### 78A Right of appeal in respect of contempt of court
-(1) This subsection applies to any order under section 112 other than an order to the effect only that a person be taken into custody and detained until the rising of the court.
-(2) A person against whom an order to which subsection (1) applies has been made may appeal to the High Court against it.
-(3) Sections 116 to 144 of the Summary Proceedings Act 1957 apply to the appeal (as far as they are applicable, and with all necessary modifications) as if the person were a defendant who had been convicted on an information and sentenced.
+[Repealed]
 
 ## Part 6 — Enforcement of judgments
 
@@ -832,8 +767,8 @@ Notice of appeal shall not operate as a stay of proceedings under the decision a
 (2) Where the judgment debtor is arrested pursuant to this section, the following provisions shall apply:
   (a) the judgment debtor shall be brought before a Judge or a Registrar as soon as possible for the purpose of commencing or continuing the examination:
   (b) the judgment debtor shall be bailable as of right:
-  (c) section 46 of the Summary Proceedings Act 1957 and Parts 1 to 3 of the Bail Act 2000 shall apply with any necessary modifications as if any such appearance at the examination before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-  (d) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any constable or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a constable under section 21(1) of that Act.
+  (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply with any necessary modifications as if any such appearance at the examination before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
+  (d) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a constable under section 21(1) of that Act.
 
 ### 84D Conduct of examination
 (1) An examination under section 84B shall be made orally on oath before a District Court Judge or Registrar.
@@ -910,10 +845,10 @@ In sections 84G to 84M, unless the context otherwise requires,—
 (3) All sums so deducted shall be deemed to have been paid by the judgment debtor in satisfaction of the judgment debtor's liability to pay the judgment debt.
 (4) Where a judgment debtor in respect of whom an attachment order is in force leaves or is dismissed from the employment of the employer, the employer shall within 7 days notify the Registrar of the court in which the attachment order was issued.
 (5) Where the employer makes default in the payment of any money in satisfaction of any such charge, that money shall become a debt due by the employer to the judgment creditor, and may be recovered by the judgment creditor by action in any court of competent jurisdiction.
-(6) Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
+(6) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
 
 ### 84K Wrongful treatment of employee
-(1) Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of an attachment order having been served on the employer.
+(1) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of an attachment order having been served on the employer.
 (2) In the prosecution for an offence against subsection (1) in which it is proved that the employer, within 6 months after the serving on the employer of an attachment order in respect of any employee, dismissed the employee or altered the employee's position in the employer's business or undertaking to the employee's prejudice, it shall be deemed to be proved that the action was taken by reason of the order having been served on the employer unless the employer proves to the contrary.
 (3) This section also applies to attachment orders made in the High Court.
 
@@ -968,10 +903,10 @@ In sections 84G to 84M, unless the context otherwise requires,—
 (5) A warrant under subsection (4) shall cease to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
 (6) Where a judgment debtor is arrested under a warrant issued under subsection (4), the following provisions shall apply:
   (a) the judgment debtor shall be bailable as of right:
-  (b) section 46 of the Summary Proceedings Act 1957 and Parts 1 to 3 of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
-  (c) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any constable or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a constable under section 21(1) of that Act.
-(7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction on an information, had been sentenced to community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
-(8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court on an information.
+  (b) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
+  (c) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+(7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction, had been sentenced to community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
+(8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court.
 (9) Detention pursuant to this section shall not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
 (10) Section 30 of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
 
@@ -999,14 +934,14 @@ In sections 84G to 84M, unless the context otherwise requires,—
   (a) may seize the vehicle at any time:
   (b) must, on the direction of the Registrar, seize the vehicle.
 (4) A person commits an offence if, without reasonable excuse, he or she tampers with, removes, or attempts to remove a device attached to a vehicle under subsection (1).
-(5) A person who commits an offence under subsection (4) is liable on summary conviction to a fine not exceeding $1,000.
+(5) A person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $1,000.
 
 ### 86 Disposal of bills of exchange, etc, seized
 (1) The bailiff shall deliver all bills of exchange, promissory notes, bonds, specialties, or other securities for money which have been seized or taken to the Registrar, for the benefit of the party upon whose application execution has issued, as security or securities for the amount directed to be levied by the execution, or so much thereof as has not been otherwise levied or raised.
 (2) The said party may sue in the name of the person against whom execution has issued, or in the name of any person in whose name the person against whom execution has issued might have sued, for the recovery of the sum or sums secured or made payable thereby when the time of payment thereof arrives.
 
 ### 87 Penalty for rescue of goods seized
-If any person rescues or attempts to rescue any goods seized in execution under a warrant of distress, he shall be liable, either on an order made by the Judge in that behalf or on summary conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
+If any person rescues or attempts to rescue any goods seized in execution under a warrant of distress, he shall be liable, either on an order made by the Judge in that behalf or on conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
 
 **Sale of goods seized**
 
@@ -1188,7 +1123,7 @@ If any person—any officer of the court, with or without the assistance of any 
 (4) A table of all fees payable shall be posted in a conspicuous place in every Registrar's office.
 
 ### 114 Enforcement of fines
-The payment of any fine imposed by a court under this Act may be enforced, upon the order of a Judge, in like manner as the payment of any fine imposed on summary conviction may be enforced under the provisions of the Summary Proceedings Act 1957.
+The payment of any fine imposed by a court under this Act may be enforced, upon the order of a Judge, in like manner as the payment of any fine imposed on conviction may be enforced under the provisions of the Summary Proceedings Act 1957.
 
 ### 115 Fines and fees to be paid to Crown Bank Account
 All fees and fines payable in respect of proceedings in courts or before Judges shall be paid into a Crown Bank Account or a Departmental Bank Account in accordance with the Public Finance Act 1989:provided that fees in respect of keeping possession, and of storing, removing, and selling goods seized under a warrant shall be paid to the bailiff or person charged with the execution of the warrant, to be paid by him to the person entitled thereto.
@@ -1201,7 +1136,7 @@ All fees and fines payable in respect of proceedings in courts or before Judges 
 
 ### 116A Proof of service of documents by officer or constable
 (1) Where any summons or any other document is served by any officer of a court or by any constable, the service may be proved either by an endorsement on a copy of the document showing the fact and the time and mode of service or in any other manner prescribed by the rules. Any such endorsement shall be signed by the person who served the summons or document.
-(2) Every officer or constable who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
+(2) Every officer or constable who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
 (3)
 
 ### 117 Subtenant to give notice of proceeding to subtenant's immediate landlord
@@ -1217,7 +1152,7 @@ Every District Court Judge has, at all times, the same immunities as a Judge of 
 No privilege shall be allowed to any solicitor to exempt him from the jurisdiction of a court.
 
 ### 121 Constables, etc, to assist
-(1) All constables shall aid and assist any court or Judge in the execution of all and any of the duties imposed upon the court or Judge by this or any other Act; and if any constable neglects or refuses so to do he shall be liable on summary conviction, where no other penalty is provided, to a fine not exceeding $75.
+(1) All constables shall aid and assist any court or Judge in the execution of all and any of the duties imposed upon the court or Judge by this or any other Act; and if any constable neglects or refuses so to do he shall be liable on conviction, where no other penalty is provided, to a fine not exceeding $75.
 (2) It shall be the duty of the keeper of every prison or lock-up on the request of the bailiff or constable to whom a warrant of committal or a writ of arrest has been issued to hold the prisoner or defendant in the custody of the bailiff or constable until the prisoner or defendant may, by the most convenient means of transport, be conducted to the place of imprisonment named in the warrant or brought before the court named in the writ, as the case may be.
 
 ### 122 District Courts Rules
@@ -1295,181 +1230,6 @@ Where under any Act any power, authority, or jurisdiction is given to Judges, th
 
 ## Schedule 1A — Offences triable in either District Court or High Court and offences triable only in High Court
 
-| Section | Offence |
-| --- | --- |
-| Section 104 | Corruption and bribery of law enforcement officer |
-| Section 105 | Corruption and bribery of official |
-| Section 105A | Corrupt use of official information |
-| Section 105B | Use or disclosure of personal information disclosed in breach of section 105A |
-| Section 105C | Bribery of foreign public official |
-| Section 105D | Bribery outside New Zealand of foreign public official |
-| Section 128‡ | Sexual violation |
-| Section 128* | Rape |
-| Sections 128, 128B | Sexual violation |
-| Section 129‡ | Attempt to commit sexual violation |
-| Section 129(1) | Attempted sexual violation |
-| Section 129(2) | Attempted assault with intent to commit sexual violation |
-| Section 129A‡ | Inducing sexual connection by coercion |
-| Section 129A(1) | Inducing sexual connection by threat |
-| Section 132(1)‡ | Sexual intercourse with girl under 12 |
-| Section 132(1) | Sexual connection with child under 12 |
-| Section 132(2) | Attempted sexual connection with child under 12 |
-| Section 132(3) | Indecent act on child under 12 |
-| Section 142‡ | Anal intercourse |
-| Section 142** | Sodomy |
-| Section 142A | Compelling indecent act with animal |
-| Section 144A | Sexual conduct with children outside New Zealand |
-| Section 144C | Organising or promoting child sex tours |
-| Section 188 | Wounding with intent |
-| Section 191 | Aggravated wounding or injury |
-| Section 198 | Discharging firearm or doing dangerous act with intent |
-| Section 198A(1) | Using firearm against law enforcement officer, etc |
-| Section 199 | Acid throwing |
-| Section 200(1) | Poisoning with intent |
-| Section 201 | Infecting with disease |
-| Section 203(1)† | Endangering transport |
-| Section 204 | Impeding rescue |
-| Section 208‡ | Abduction of woman or girl |
-| Section 208 | Abduction for purposes of marriage or sexual connection |
-| Section 209 | Kidnapping |
-| Section 232(1) | Aggravated burglary |
-| Section 235(1)(a) and (c)† | Aggravated robbery (causing grievous bodily harm) |
-| Section 235 | Aggravated robbery |
-| Section 235(1)(b)† | Aggravated robbery (with other person or persons) |
-| Section 236(1) | Assault with intent to rob |
-| Section 239(1) | Demanding with intent to steal, etc |
-| Section 240A† | Aggravated burglary |
-| Section 267(1) | Arson |
-| Section 269(1) | Intentional damage |
-| Section 270 | Endangering transport |
-| Section 294† | Arson |
-| Section 298(1)† | Wilful damage |
-| *as it read before 1 February 1986 |  |
-| **as it read before 8 August 1986 |  |
-| †as it read before 1 October 2003 |  |
-| ‡as it read before 20 May 2005 |  |
-
-| Section | Offence |
-| --- | --- |
-| Section 6 | Dealing with controlled drugs (where the charge relates to a class A or class B controlled drug) |
-| Section 10(1) | Aiding offences against corresponding law of another country |
-| Section 12C | Commission of offences outside New Zealand |
-
-| Section | Offence |
-| --- | --- |
-| Section 16 | Inducing or compelling persons to provide commercial sexual services or earnings from prostitution |
-
-| Section | Offence |
-| --- | --- |
-| Section 58 | Misstatement in advertisement or registered prospectus |
-
-| Section | Offence |
-| --- | --- |
-| Section 68(1) | Party to murder outside New Zealand |
-| Section 68(2) | Inciting murder outside New Zealand (not committed) |
-| Section 69(1) | Party to any other crime outside New Zealand |
-| Section 69(2) | Inciting treason outside New Zealand (not committed) |
-| Section 69(3) | Aiding and abetting crime outside New Zealand |
-| Section 73 | Treason (or conspiracy to commit treason) |
-| Section 74(3) | Attempted treason |
-| Section 76 | Accessory to, or failure to prevent, treason |
-| Section 77 | Inciting to mutiny |
-| Section 78 | Espionage |
-| Section 79(1) | Sabotage |
-| Section 92(1) | Piracy |
-| Sections 93, 94 | Piratical acts |
-| Section 95 | Attempts to commit piracy |
-| Section 96 | Conspiring to commit piracy |
-| Section 97 | Accessory after the fact to piracy |
-| Section 98(1) | Dealing in slaves |
-| Section 98C | Smuggling migrants |
-| Section 98D | Trafficking in people by means of coercion or deception |
-| Section 100 | Judicial corruption |
-| Section 101 | Bribery of judicial officer, etc |
-| Section 102 | Corruption and bribery of Minister of the Crown |
-| Section 103 | Corruption and bribery of member of Parliament |
-| Section 172 | Murder |
-| Section 173 | Attempted murder |
-| Section 174 | Attempting to procure murder (not committed) |
-| Section 175 | Conspiracy to murder |
-| Section 176 | Accessory after the fact to murder |
-| Section 177 | Manslaughter |
-| Section 178 | Infanticide |
-| Section 179 | Aiding and abetting suicide |
-| Section 180(2) | Surviving party of suicide pact |
-| Section 182 | Killing unborn child |
-| Section 183(1) | Procuring abortion |
-| Section 237 | Blackmail |
-| Section 238(1)† | Extortion by certain threats |
-| Section 301† | Wrecking |
-| †as it read before 1 October 2003 |  |
-
-| Section | Offence |
-| --- | --- |
-| Section 7 | Using, etc, an anti-personnel mine |
-
-| Section | Offence |
-| --- | --- |
-| Section 3 | Hijacking |
-| Section 5 | Other crimes relating to aircraft |
-| Section 5A | Crimes relating to international airports |
-
-| Section | Offence |
-| --- | --- |
-| Section 6 | Chemical weapons |
-| Section 8 | Riot control agents |
-
-| Section | Offence |
-| --- | --- |
-| Section 3 | Crimes against persons |
-| Section 4 | Crimes against premises or vehicles |
-| Section 5 | Threats against persons |
-| Section 6 | Threats against premises or vehicles |
-| Section 8(1) | Hostage-taking |
-
-| Section | Offence |
-| --- | --- |
-| Section 3 | Acts of torture |
-
-| Section | Offence |
-| --- | --- |
-| Section 3(4) | Grave breaches of Conventions or First Protocol |
-
-| Section | Offence |
-| --- | --- |
-| Section 56C(2) | Contempt of court |
-| Section 56O | Contempt of Federal Court of Australia |
-
-| Section | Offence |
-| --- | --- |
-| Section 4(1)(a)–(h) | Crimes relating to ships |
-| Section 4(2)(a), (b) | Crimes relating to ships |
-| Section 4(3)(a), (b) | Crimes relating to ships |
-| Section 5(1)(a)–(e) | Crimes relating to fixed platforms |
-| Section 5(2)(a), (b) | Crimes relating to fixed platforms |
-| Section 5(3)(a), (b) | Crimes relating to fixed platforms |
-
-| Section | Offence |
-| --- | --- |
-| Sections 5–8, 14 | Offences against Act |
-
-| Section | Offence |
-| --- | --- |
-| Section 5 | Nuclear explosions prohibited |
-
-| Section | Offence |
-| --- | --- |
-| Section 7(1) | Terrorist bombing |
-| Section 8(1), (2A) | Financing of terrorism |
-| Section 9(1) | Prohibition on dealing with property of, or derived or generated from property of, terrorist and associated entities |
-| Section 10(1) | Prohibition on making property, or financial or related services, available to terrorist and associated entities |
-| Section 12(1) | Recruiting members of terrorist groups |
-| Section 13(1) | Participating in terrorist groups |
-| Section 13A | Harbouring or concealing terrorists |
-| Section 13B | Offences involving use and movement of unmarked plastic explosives |
-| Section 13C | Offences involving physical protection of nuclear material |
-| Section 13D | Importation, acquisition, etc, of radioactive material |
-
 ## Schedule 2 — Enactments (repealed by this Act) formerly regulating or providing for matters which can be regulated or provided for by rules
 
 ## Schedule 3 — Enactments repealed
@@ -1509,39 +1269,3 @@ This Act is the District Courts Amendment Act 2011.
 (2) A person affected by any order or direction that was made before the commencement of section 22 of this Act by a Registrar under section 84B of the principal Act (as it read immediately before that commencement) may, on and after that commencement, apply to a District Court Judge for a review of the order or direction under section 84N of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
 (3) If, before the commencement of section 14 of this Act, the examination of a judgment debtor had commenced under section 84B of the principal Act (as it read immediately before that commencement) as to the judgment debtor's means for satisfying the judgment debt, the District Court may, on and after that commencement, do any 1 or more of the things referred to in section 84E(1) of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
 (4) If, before the commencement of section 23 of this Act, a judgment debtor was examined under section 84B of the principal Act (as it read immediately before that commencement) as to the judgment debtor's means for satisfying the judgment debt, a judgment creditor may, on and after that commencement, apply for an order of community work under section 84O(1) of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
