@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -1165,12 +1165,12 @@ The administering body, in the case of a reserve vested in that administering bo
   (a) is in possession of any firearm, weapon, trap, net, or other like object in a reserve; or
   (b) discharges any firearm, weapon, or other instrument on a reserve; or
   (c) from outside a reserve, shoots at any fauna or any other object or thing inside the reserve with any firearm, weapon, or other instrument,—
-(5) Where any person commits an offence against subsection (1)(j), the Minister or the Commissioner or the administering body, as the case may be, may cause the removal of any objects deposited or thrown in breach of that subsection, and the cost of that removal shall be assessed by a District Court Judge and shall be recoverable summarily from that person in like manner as a fine.
-(6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
+(5) Where any person commits an offence against subsection (1)(j), the Minister or the Commissioner or the administering body, as the case may be, may cause the removal of any objects deposited or thrown in breach of that subsection, and the cost of that removal shall be assessed by a District Court Judge and shall be recoverable from that person in like manner as a fine.
+(6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
 
 ### 95 Seizure and forfeiture of property
 (1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in section 94(1)(f), or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in section 93(5), if he has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act.
-(2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the information is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
+(2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the charge is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
   (a) in any case where the property seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with pursuant to the Wildlife Act 1953:
   (b) in any case where the property seized is a protected New Zealand object, it shall be dealt with as follows:
     (i) where pursuant to the Protected Objects Act 1975 it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
@@ -1198,14 +1198,14 @@ The administering body, in the case of a reserve vested in that administering bo
 (2) Where cattle, sheep, horses, or other animals of any kind whatsoever which are branded or which have a reputed owner are found trespassing on a reserve,—
   (a) the administering body of the reserve or, if the reserve is not under the control and management of an administering body, the Commissioner may issue once a week for 2 consecutive weeks, in some newspaper circulating in the locality, a notice calling on the owner or reputed owner to remove the cattle, sheep, horses, or other animals from the reserve, or from any other place to which they may have been transferred pending their removal by the owner or their disposal pursuant to the provisions of this subsection, and giving warning that if they are not removed within 14 days from the date of the first notice they will be destroyed, sold, or otherwise disposed of; and
   (b) if any such cattle, sheep, horses, or other animals are not removed within the time mentioned in the notice, the administering body or the Commissioner, as the case may be, may cause them to be destroyed, sold, or otherwise disposed of, and no liability shall attach to the administering body or the Crown or the Commissioner or any other person for any damage occasioned thereby.
-(3) Any person convicted of an offence against section 94(1)(b) shall, in addition to any penalty for which he may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine.
+(3) Any person convicted of an offence against section 94(1)(b) shall, in addition to any penalty for which he may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
 (4) Nothing in this section applies to wild animals (as defined in section 2 of the Wild Animal Control Act 1977).
 
 ### 97 Damage by fire
 (1) Every person commits an offence against this Act who, without being authorised (the proof of which shall be on the person charged) by the Minister, or the Commissioner, or the administering body, as the case may require,—
   (a) lights on any land (including the foreshore, a public road, or a highway), or permits to be lighted thereon, a fire which spreads into and destroys any bush or natural growth on or damages the reserve in any way; or
   (b) being the lessee or licensee of any land in a reserve, lights or permits to be lighted on that land a fire which destroys any bush or natural growth on or damages the reserve in any way.
-(2) Every person who commits an offence against this section shall, in addition to the penalty for the offence, pay for all damage done and for the cost of extinguishing the fire and expenses incurred in investigating the origin of the fire. That damage or cost shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine.
+(2) Every person who commits an offence against this section shall, in addition to the penalty for the offence, pay for all damage done and for the cost of extinguishing the fire and expenses incurred in investigating the origin of the fire. That damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
 
 ### 98 Offences with respect to officers or rangers
 Every person commits an offence against this Act who—
@@ -1213,8 +1213,8 @@ Every person commits an offence against this Act who—
   (b) offers violence to, or assaults, obstructs, or threatens, or attempts to intimidate, or uses abusive or threatening language or behaves in a threatening manner to, any ranger or employee of the Crown or of any administering body while that ranger or employee is acting in the exercise of his powers or the discharge of his duties under this Act; or
   (c) gives, or agrees to give, or offers to any such ranger or employee of the Crown or of any administering body any gift or consideration as an inducement or reward for any act done or to be done or any forbearance observed or to be observed, or any favour shown or to be shown by that ranger or employee, or who, being a ranger or employee of the Crown or a member, ranger, or employee of any administering body, accepts or agrees to accept or solicits any such gift or consideration as aforesaid.
 
-### 99 Time within which information may be laid
-Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this Act or any regulations under this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+### 99 Time for filing charging document
+Despite section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 100 Stopping and searching of boats
 (1) Any officer who has good cause to suspect that an offence against this Act or any regulations made under section 123 or any bylaw made under section 106 has been committed on or from or in respect of any boat or by any person on any boat, he may, while that boat is within the territorial sea of New Zealand (as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977),—
@@ -1242,12 +1242,12 @@ Notwithstanding anything in the Summary Proceedings Act 1957, any information in
 (4) Without limiting the provisions of section 98, any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
 
 ### 101 Proceedings in respect of offences
-(1) All offences against this Act or any regulations or bylaws under this Act shall be punishable on summary conviction on the information of—
+(1) All charging documents in respect of offences against this Act or any regulations or bylaws under it must be filed in the name of—
   (a) the Commissioner, or some person appointed by him or by the Minister, in any case where the reserve is vested in the Crown and an administering body has not been appointed to control and manage the reserve; or
   (b) the principal administrative officer or chief executive of any administering body in which any reserve is vested or which has been appointed to control and manage any reserve, or some other person appointed in writing in that behalf by that administering body; or
   (c) some person appointed by a Minister of the Crown other than the Minister of Conservation where that other Minister has been appointed to control and manage the reserve under section 22 or section 36.
-(2) Any appointment under subsection (1) may be for the purpose of laying an information in respect of a particular offence, or may be a general appointment to lay informations in respect of offences.
-(3) Any officer or servant of the Department or of the administering body of the reserve in respect of which the offence is alleged to have been committed, although not the informant, may appear and conduct the prosecution in all proceedings for offences against this Act or any regulations or bylaws under this Act.
+(2) Any appointment under subsection (1) may be for the purpose of filing a charging document in respect of a particular offence, or may be a general appointment to file charging documents in respect of offences.
+(3) Any officer or servant of the Department or of the administering body of the reserve in respect of which the offence is alleged to have been committed, although not the person who filed the charging document, may appear and conduct the prosecution in all proceedings for offences against this Act or any regulations or bylaws under this Act.
 
 ### 102 Evidence of offences
 (1) In every case where under section 94 wilful intent must be shown, that intent shall be presumed until the contrary is shown.
@@ -1272,8 +1272,8 @@ Every person who commits a breach of any bylaw under this Act commits an offence
 
 ### 105 Application of fines
 Subject to section 73 of the Public Finance Act 1989, all fines recovered under this Act shall—provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of section 94 and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
-  (a) in the case of a fine recovered on the information of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
-  (b) in the case of a fine recovered on the information of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
+  (a) in the case of a fine recovered in respect of a charging document filed in the name of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
+  (b) in the case of a fine recovered in respect of a charging document filed in the name of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
 
 **Bylaws**
 
@@ -1568,39 +1568,3 @@ Where under any provision of this Act the consent or approval of the Minister is
 | Lookout Hill Wildlife Management Reserve | Category B |  |
 | Rotokino Wildlife Management Reserve | Category B |  |
 | Paynes Gully Extension Wildlife Management Reserve | Category B |  |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
