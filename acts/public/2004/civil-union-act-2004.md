@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -223,14 +223,14 @@ The purpose of section 18 is to allow couples who are married or in a civil unio
 ### 30 Offence to issue licence or solemnise civil union contrary to Act
 (1) A Registrar who knowingly and wilfully issues a licence contrary to this Act commits an offence.
 (2) A Registrar or civil union celebrant who knowingly and wilfully solemnises a civil union contrary to section 14 or section 15 commits an offence.
-(3) A person is liable, on conviction on indictment for an offence against subsection (1) or subsection (2), to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $10,000, or to both.
-(4) An exempt body that knowingly and wilfully solemnises a civil union otherwise than in accordance with its rules and procedures as most recently notified to the Registrar-General commits an offence and is liable on conviction on indictment to a fine not exceeding $10,000.
+(3) A person is liable, on conviction for an offence against subsection (1) or subsection (2), to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $10,000, or to both.
+(4) An exempt body that knowingly and wilfully solemnises a civil union otherwise than in accordance with its rules and procedures as most recently notified to the Registrar-General commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 31 Offence to purport to solemnise civil union
-Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, if he or she purports to solemnise a civil union as a civil union celebrant knowing that he or she is not a civil union celebrant.
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years, if he or she purports to solemnise a civil union as a civil union celebrant knowing that he or she is not a civil union celebrant.
 
 ### 32 Offences in connection with false statements relating to civil union
-Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully—
   (a) makes or causes to be made any false declaration for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register, a false statement of any particular required to be known and registered; or
   (c) gives a Registrar a document that purports to be a copy of a notice of objection when it is not in fact a copy of a notice of objection.
