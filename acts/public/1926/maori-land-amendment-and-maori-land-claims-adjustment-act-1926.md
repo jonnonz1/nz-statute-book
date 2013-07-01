@@ -1,148 +1,141 @@
 # Maori Land Amendment and Maori Land Claims Adjustment Act 1926
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to further amend the laws relating to Maori lands, and to determine certain claims and disputes in relation to Maori lands, and to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court and for other purposes
 
 ### 1 Short Title
 This Act may be cited as the Maori Land Amendment and Maori Land Claims Adjustment Act 1926.
 
-### 2
+### 2 Interpretation
 [Repealed]
 
-### 3
+### 3 Amendment of principal Act
 [Repealed]
 
-### 4
+### 4 Amendment of section 7 of the Native Land Amendment Claims Adjustment Act 1925
 [Repealed]
 
-### 5
+### 5 Authorizing variation of terms of payment of rent
 [Repealed]
 
-### 6
+### 6 Authorizing execution by Maori Land Board of renewed leases
 [Repealed]
 
-### 7
+### 7 Amending section 17 of the Native Land Amendment and Native Land Claims Adjustment Act 1922
 [Repealed]
 
-### 8
+### 8 Authorizing Maori Land Board to make advances
 [Repealed]
 
-### 9
+### 9 Making provision for Board moneys to be a common fund
 [Repealed]
 
-### 10
+### 10 Amendment of section 417 of the principal Act
 [Repealed]
 
-### 11
+### 11 Authorizing the provisional registration of mortgages to State loan Department
 [Repealed]
 
-### 12
+### 12 Board may be empowered to administer land when rates in default
 [Repealed]
 
-### 13
+### 13 Amending section 140 of the Native Land Act 1909
 [Repealed]
 
-## Part  — Taupo waters
+**Taupo waters**
 
 ### 14 Bed of Lake Taupo vested in Crown
 For the purpose of giving effect to an agreement entered into under the provisions of section 29 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1924, it is hereby enacted as follows:
-(1) The bed of the lake known as Lake Taupo, and the bed of the Waikato River extending from Lake Taupo to and inclusive of the Huka Falls, together with the right to use the respective waters, are hereby declared to be the property of the Crown, freed and discharged from the Maori customary title (if any) or any other Maori freehold title thereto:
-  Provided that there shall be reserved to the Maoris all islands situate in the said lake and not heretofore specifically alienated by the Maoris, together with the right of ingress, egress, and regress over the waters of such lake to any island:
-  Provided further that the Governor-General may reserve any portion of the bed of the lake or any Crown lands on the border thereof for the use of Maoris, and may vest the management and control thereof in the Board hereinafter mentioned or in any trustee.
-(2) There shall be reserved to the members of the Tuwharetoa tribe the right to fish for and catch for their own use any fish in the said lake that are indigenous to the said lake, but no such fish shall be sold except with the consent of the Board hereinafter mentioned. The sale of any such fish without consent shall be deemed to be unlawful, and any person who commits any such offence shall be liable on summary conviction to a penalty not exceeding $10.
-(3) Subject as herein mentioned, there shall be reserved to the public a right of way over a strip of land not exceeding 20 metres in width around the margin of the said lake. Should any dispute arise as to the position or location of such right of way the matter shall be referred to the Surveyor-General, whose decision thereon shall be final:
-  Provided that the Governor-General may from time to time, by Proclamation, exempt any portion thereof from public use, or restrict or limit the right of such public user in such manner as he may think fit, and thereupon the public right of user over the portion specified shall cease or be limited accordingly.
-(3A) For the purposes of subsection (3) of this section, the margin of the said lake shall be the 358.378 metres contour in terms of Taupo Datum (which is the same as 357.015 metres in terms of Moturiki Datum), whether or not that contour is for the time being covered by the waters of the said lake, or such other margin as may from time to time be defined by the Governor-General by Proclamation.
+(1) The bed of the lake known as Lake Taupo, and the bed of the Waikato River extending from Lake Taupo to and inclusive of the Huka Falls, together with the right to use the respective waters, are hereby declared to be the property of the Crown, freed and discharged from the Maori customary title (if any) or any other Maori freehold title thereto:provided that there shall be reserved to the Maoris all islands situate in the said lake and not heretofore specifically alienated by the Maoris, together with the right of ingress, egress, and regress over the waters of such lake to any island:provided further that the Governor-General may reserve any portion of the bed of the lake or any Crown lands on the border thereof for the use of Maoris, and may vest the management and control thereof in the Board hereinafter mentioned or in any trustee.
+(2) There shall be reserved to the members of the Tuwharetoa tribe the right to fish for and catch for their own use any fish in the said lake that are indigenous to the said lake, but no such fish shall be sold except with the consent of the Board hereinafter mentioned. The sale of any such fish without consent shall be deemed to be unlawful, and any person who commits any such offence shall be liable on conviction to a penalty not exceeding 5 pounds.
+(3) Subject as herein mentioned, there shall be reserved to the public a right of way over a strip of land not exceeding 20 metres in width around the margin of the said lake. Should any dispute arise as to the position or location of such right of way the matter shall be referred to the Surveyor-General, whose decision thereon shall be final:provided that the Governor-General may from time to time, by Proclamation, exempt any portion thereof from public use, or restrict or limit the right of such public user in such manner as he may think fit, and thereupon the public right of user over the portion specified shall cease or be limited accordingly.
+(3A) For the purposes of subsection (3), the margin of the said lake shall be the 358.378 metres contour in terms of Taupo Datum (which is the same as 357.015 metres in terms of Moturiki Datum), whether or not that contour is for the time being covered by the waters of the said lake, or such other margin as may from time to time be defined by the Governor-General by Proclamation.
 (4)
   (a) The Governor-General may from time to time, by Proclamation, declare the bed of any river or stream flowing into the said lake, or such portion of such bed as may be described in the Proclamation, to be Crown land, and thereupon the land so proclaimed shall become Crown land freed from the customary or other title of Maoris, and the Crown shall have the right to use and control the waters flowing over such bed.
-  (b) The Governor-General may from time to time, by Proclamation, reserve to holders of special licences a right of way over a strip of land not exceeding 20 metres in width along the banks of the beds of rivers or streams so vested in the Crown, and such holders shall be deemed to have the right of access accordingly:
-    Provided that the Governor-General may from time to time, by Proclamation, exempt any defined portion thereof from use by the holders of special licences, or may restrict or limit the right of user thereof in such manner or to such persons or class of persons as he thinks fit, and the right of user on the portion specified shall cease or be limited accordingly.
-  (c) The Crown shall have the exclusive right to let for camping sites any part of the land over which a right of way is so reserved, and it shall not be lawful for any person owning an interest in the land over which a right of way is reserved to alienate or deal with the land comprised in such right of way except with the consent of the Governor-General in Council:
-    Provided that if any person having an estate or interest in such land, or being possessed of any valid rights of camping or fishing thereon, is injuriously affected or suffers damage through the exercise of any powers conferred by this subsection he shall be entitled to compensation for such injury.
+  (b) The Governor-General may from time to time, by Proclamation, reserve to holders of special licences a right of way over a strip of land not exceeding 20 metres in width along the banks of the beds of rivers or streams so vested in the Crown, and such holders shall be deemed to have the right of access accordingly:provided that the Governor-General may from time to time, by Proclamation, exempt any defined portion thereof from use by the holders of special licences, or may restrict or limit the right of user thereof in such manner or to such persons or class of persons as he thinks fit, and the right of user on the portion specified shall cease or be limited accordingly.
+  (c) The Crown shall have the exclusive right to let for camping sites any part of the land over which a right of way is so reserved, and it shall not be lawful for any person owning an interest in the land over which a right of way is reserved to alienate or deal with the land comprised in such right of way except with the consent of the Governor-General in Council:provided that if any person having an estate or interest in such land, or being possessed of any valid rights of camping or fishing thereon, is injuriously affected or suffers damage through the exercise of any powers conferred by this subsection he shall be entitled to compensation for such injury.
   (d) Any person claiming compensation as aforesaid (herein called the claimant) must, within 3 months from the date of the publication of the Proclamation in respect of which the claim arises, make and lodge with the Director-General of Conservation a claim therefor, giving full particulars of the amount and nature of his claim, the grounds of such claim, and the name and address of the claimant.
   (e) All claims for compensation shall be determined by a Commissioner to be appointed from time to time by the Governor-General. Such Commissioner shall have all the powers and jurisdiction conferred upon Compensation Courts by Part 5 of the Public Works Act 1981, and shall be deemed to be a Compensation Court accordingly. It shall not be necessary that assessors be appointed, but the Court may appoint one or more assessors to assist it in its deliberations.
   (f) All sums of money found to be due hereunder by the award of the Compensation Court shall be paid out of the Consolidated Account to the person entitled without further appropriation than this Act.
-(4A) The Governor-General may from time to time, by Proclamation, define any area of land over which a right of way for the time being exists under subsection (3) or subsection (4)(b) of this section, being land which on the 26th day of September 1926 was Maori customary land or Maori freehold land. Every Proclamation under this subsection shall have effect according to its tenor.
+(4A) The Governor-General may from time to time, by Proclamation, define any area of land over which a right of way for the time being exists under subsection (3) or subsection (4)(b), being land which on 26 September 1926 was Maori customary land or Maori freehold land. Every Proclamation under this subsection shall have effect according to its tenor.
 (5) Any Proclamation made under this section shall be conclusive of its own validity, but may from time to time be amended, varied, or revoked as the Governor-General may think fit.
-(6) No person owning an estate or interest in any land over which a right of way is granted pursuant to this section shall be deemed to obstruct any such right of way by reason only of the erection of fences over or upon it if reasonable and ready access by gates or otherwise is provided for foot passengers through or over such fence:
-  Provided that no fence or building shall be erected upon any place let or laid out by the Crown as a camping site without the consent of the Minister of Conservation.
+(6) No person owning an estate or interest in any land over which a right of way is granted pursuant to this section shall be deemed to obstruct any such right of way by reason only of the erection of fences over or upon it if reasonable and ready access by gates or otherwise is provided for foot passengers through or over such fence:provided that no fence or building shall be erected upon any place let or laid out by the Crown as a camping site without the consent of the Minister of Conservation.
 (7) The Crown may expend such sums as may from time to time be appropriated by Parliament for the purpose in providing and laying out sites for camping grounds for anglers, and in the erection thereon of necessary buildings for their accommodation, and in otherwise providing for their convenience. Such sites may be laid out upon the rights of way granted or proclaimed under this section, or upon Crown land, or upon any other land acquired for the purpose.
 (8) For the purpose of regulating fishing and other use of the waters in this section referred to, the Governor-General may, by Order in Council, define a district (herein called the said district) in which the provisions of this section shall apply.
 (9) The operation of the Fisheries Act 1908, so far as it applies to the said district, shall be modified as follows:
-  (a) Paragraph (e) of section 88 and section 90 of the said Act shall have no force within such district:
-  (b) No licence issued by or on behalf of any acclimatisation society, and no licence issued under the regulations regarding trout fishing in the Rotorua Acclimatisation District, shall have any force or effect within the district defined under this section:
-  (c) Such members of the Tuwharetoa Tribe as are nominated by the Board hereinafter referred to shall be entitled to have issued to them, free of charge, licences to fish for imported fish in accordance with the regulations:
-    Provided that not more than 200 such licences shall be issued in any one year without the consent of the Governor-General in Council:
-  (d) The Governor-General may, by Order in Council, make special regulations as to any matter or thing relating to or that is in any manner deemed necessary for the due administration of this section. Sections 98 and 99 of the Fisheries Act 1908 shall apply to such regulations as fully and effectually as if they were regulations made under that Act. The power to make regulations shall include the power, in so far as there may not be provision for doing so under the Harbours Act 1950 to license boats and vessels plying for hire over or upon the waters herein referred to, with power to impose such conditions as may be deemed necessary or prudent for the safety and convenience of passengers, to prescribe fees therefor, to declare the grounds upon which a licence may be revoked or suspended, and to restrain any person from plying for hire with unlicensed boats or vessels. It shall also include the power to prescribe the fees to be paid for fishing licences and camping sites within such district. The said fees need not be uniform, but may differentiate between such classes of persons as are defined by the regulations, and any class or classes may include divisions of age, or of residence or non-residence within such district, or by reference to fishermen from overseas and those permanently resident within the Dominion of New Zealand, or in any other manner that the Governor-General in Council may see fit. Such licence fees may be made payable in respect of a whole season or any lesser part thereof, and a licence may limit the rights of the holder thereof to be exercised only within the said district or at some particular place or locality within the said district:
-  (e) Where there is a conflict in any respect between the general regulations under the Fisheries Act 1908 and the special regulations made in accordance with the provisions of this section, the provisions of the special regulations shall prevail within the said district.
-(10) With the exception of the provisions of subsection (9) hereof, none of the provisions of this section shall affect the rights of any owner of General land within the said district at the date of the passing of this Act, but any person hereafter acquiring any Maori land within the said district shall be deemed to acquire it subject to the rights reserved to the Crown by this section, and it shall be so subject.
+  (a) paragraph (e) of section 88 and section 90 of the said Act shall have no force within such district:
+  (b) no licence issued by or on behalf of any acclimatisation society, and no licence issued under the regulations regarding trout fishing in the Rotorua Acclimatisation District, shall have any force or effect within the district defined under this section:
+  (c) such members of the Tuwharetoa Tribe as are nominated by the Board hereinafter referred to shall be entitled to have issued to them, free of charge, licences to fish for imported fish in accordance with the regulations:provided that not more than 200 such licences shall be issued in any one year without the consent of the Governor-General in Council:
+  (d) the Governor-General may, by Order in Council, make special regulations as to any matter or thing relating to or that is in any manner deemed necessary for the due administration of this section. Sections 98 and 99 of the Fisheries Act 1908 shall apply to such regulations as fully and effectually as if they were regulations made under that Act. The power to make regulations shall include the power, in so far as there may not be provision for doing so under the Harbours Act 1950 to license boats and vessels plying for hire over or upon the waters herein referred to, with power to impose such conditions as may be deemed necessary or prudent for the safety and convenience of passengers, to prescribe fees therefor, to declare the grounds upon which a licence may be revoked or suspended, and to restrain any person from plying for hire with unlicensed boats or vessels. It shall also include the power to prescribe the fees to be paid for fishing licences and camping sites within such district. The said fees need not be uniform, but may differentiate between such classes of persons as are defined by the regulations, and any class or classes may include divisions of age, or of residence or non-residence within such district, or by reference to fishermen from overseas and those permanently resident within the Dominion of New Zealand, or in any other manner that the Governor-General in Council may see fit. Such licence fees may be made payable in respect of a whole season or any lesser part thereof, and a licence may limit the rights of the holder thereof to be exercised only within the said district or at some particular place or locality within the said district:
+  (e) where there is a conflict in any respect between the general regulations under the Fisheries Act 1908 and the special regulations made in accordance with the provisions of this section, the provisions of the special regulations shall prevail within the said district.
+(10) With the exception of the provisions of subsection (9), none of the provisions of this section shall affect the rights of any owner of General land within the said district at the date of the passing of this Act, but any person hereafter acquiring any Maori land within the said district shall be deemed to acquire it subject to the rights reserved to the Crown by this section, and it shall be so subject.
 (11) Notwithstanding anything in this section, the Minister of Conservation may with the concurrence of the Tuwharetoa Maori Trust Board, by notice in the Gazette,—
-  (a) Fix the forms and classes of fishing licences:
-  (b) Fix the scope and effect of fishing licences or any specified class of fishing licences:
-  (c) Fix the fees payable for any fishing licence.
-(12) Any notice made under subsection (11) of this section shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+  (a) fix the forms and classes of fishing licences:
+  (b) fix the scope and effect of fishing licences or any specified class of fishing licences:
+  (c) fix the fees payable for any fishing licence.
+(12) Any notice made under subsection (11) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
-### 15
+### 15 Payment of annual sum to Tuwharetoa Trust Board authorised
 [Repealed]
 
-### 16
+### 16 Tuwharetoa Trust Board constituted
 [Repealed]
 
-### 17
+### 17 Repeals
 [Repealed]
 
-### 18
+### 18 Reopening investigation of Raumatangi Block
 [Repealed]
 
-### 19
+### 19 Authorizing amendment of title of Puketotara Block
 [Repealed]
 
-### 20
+### 20 Providing for amended description of Rotoiti Scenic Reserve
 [Repealed]
 
-### 21
+### 21 Authorizing readjustment of shares between Hone Tuari's family
 [Repealed]
 
-### 22
+### 22 Authorizing issue of title for Lots 20 and 75, Tahawai Parish
 [Repealed]
 
-### 23
+### 23 Crown may accept gift of Te Koru Pa
 [Repealed]
 
-### 24
+### 24 Enabling rectification of Marangairoa 1D titles
 [Repealed]
 
-### 25
+### 25 Authorizing issue of title for Section 890, Block XI, Bruce Bay Survey District
 [Repealed]
 
-### 26
+### 26 Enabling confirmation of sale of Akura 8C 1 Block.
 [Repealed]
 
-### 27
+### 27 Permitting appeals to be lodged in respect of Tarawera Block
 [Repealed]
 
-### 28
+### 28 Permitting adjustments with regard to the successors to Te Mahuri Rauroha, deceased
 [Repealed]
 
-### 29
+### 29 Enabling further owners to be admitted into title to Kopuni Block
 [Repealed]
 
-### 30
+### 30 Extending time for appeal regarding sheep on Wharekauri 1G Block
 [Repealed]
 
-### 31
+### 31 Enabling Court to exercise jurisdiction with regard to Ohinemutu and Whakarewarewa Villages
 [Repealed]
 
-### 32
+### 32 Enabling rehearing of application to succeed to interest of Waaka te Koi, deceased, in Te Akau A No 5 Block
 [Repealed]
 
-### 33
+### 33 Enabling Tapuinikau A and Tapuinikau B2 to be created a scenic reserve
 [Repealed]
 
-### 34
+### 34 Enabling exemption of Native land from liability for rates
 [Repealed]
 
-### 35
+### 35 Chief Judge may refer matters in Schedule for report
 [Repealed]
 
 ## Schedule 1
