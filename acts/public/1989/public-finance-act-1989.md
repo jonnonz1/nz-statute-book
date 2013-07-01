@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-03-08_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -1777,15 +1777,15 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
     (ii) the improper use of any public financial resource.
 
 ### 77 Penalties for offences
-(1) Every person who commits an offence against subsection (1) of section 76 is liable on summary conviction,—
+(1) Every person who commits an offence against subsection (1) of section 76 is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $5,000.
-(2) Every person who commits an offence against subsection (2) of section 76 is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (2) of section 76 is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $5,000:
   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $15,000.
 
 ### 78 Time for commencing proceedings
-Notwithstanding section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years from the time when the matter of the information arose.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 79 Information to be provided to Treasury
 (1) The Treasury may from time to time request information from a department in relation to the financial management, financial performance, or banking activities of the department or in relation to the management or control of any Crown asset or liability.
