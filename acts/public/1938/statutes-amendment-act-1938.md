@@ -1,5 +1,5 @@
 # Statutes Amendment Act 1938
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend certain Acts of the General Assembly of New Zealand.
 
@@ -218,8 +218,8 @@ Section three of the Physical Welfare and Recreation Act 1937, is hereby amended
 
 ### 46 Imitation, etc, of bank-notes
 (1) This section shall be read together with and deemed part of the Police Offences Act 1927.
-(2) If any person makes, or causes to be made, or uses for any purpose whatsoever, or utters, any document purporting to be, or in any way resembling, or so nearly resembling as to be calculated to deceive, any bank-note, or any part thereof, he shall be guilty of an offence against this section and shall be liable on summary conviction to a fine not exceeding ten dollars, and it shall be lawful for the Court dealing with the case to order the document in respect of which the offence was committed, and any copies of that document, or any plates, blocks, dies, or other instruments used for, or capable of being used for, printing or reproducing any such document which are in the possession of the offender to be destroyed.
-(3) If any person whose name appears on any document the making of which is an offence under this section refuses, without lawful excuse, to disclose to a constable on being so required the name and address of the person by whom it was printed or otherwise made, he shall be liable on summary conviction to a fine not exceeding twenty dollars.
+(2) If any person makes, or causes to be made, or uses for any purpose whatsoever, or utters, any document purporting to be, or in any way resembling, or so nearly resembling as to be calculated to deceive, any bank-note, or any part thereof, he shall be guilty of an offence against this section and shall be liable on conviction to a fine not exceeding ten dollars, and it shall be lawful for the Court dealing with the case to order the document in respect of which the offence was committed, and any copies of that document, or any plates, blocks, dies, or other instruments used for, or capable of being used for, printing or reproducing any such document which are in the possession of the offender to be destroyed.
+(3) If any person whose name appears on any document the making of which is an offence under this section refuses, without lawful excuse, to disclose to a constable on being so required the name and address of the person by whom it was printed or otherwise made, he shall be liable on conviction to a fine not exceeding twenty dollars.
 (4) The fact that the name of any person appears on any document in respect of which any person is charged with an offence under subsection two of this section, or on any other document used or distributed in connection with that document, shall, in the absence of proof to the contrary, be sufficient evidence that the first-mentioned person caused the document to be made.
 (5) For the purposes of this section the term bank-note has the same meaning as in section two hundred and eighty-eight of the Crimes Act 1908.
 
