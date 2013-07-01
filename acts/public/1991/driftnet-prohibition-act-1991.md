@@ -1,5 +1,5 @@
 # Driftnet Prohibition Act 1991
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to prohibit driftnet fishing activities and to implement the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific
 
@@ -89,11 +89,11 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
     (i) has on board any driftnet, or is otherwise equipped for driftnet fishing; or
     (ii) has within the preceding 3 months been engaged in driftnet fishing (whether within or outside New Zealand fisheries waters or the Convention Area); or
   (b) any foreign vessel is to be used to supply any food, fuel, or other goods and services acquired or to be acquired in New Zealand to any vessel engaged or to be engaged in driftnet fishing in New Zealand fisheries waters or the Convention Area,—
-(2) No vessel shall—unless the direction is withdrawn by the Director-General under subsection (3)(c).
+(2) No vessel shall—unless the direction is withdrawn by the Director-General under subsection (3)﻿(c).
   (a) enter the internal waters of New Zealand in contravention of any direction given under subsection (1); or
   (b) having entered the internal waters of New Zealand, fail in contravention of any direction given under subsection (1) to leave those waters as soon as is reasonably practicable,—
 (3) A direction under subsection (1)—
-  (a) shall be notified to the master or owner of the vessel in such manner as may be practicable in the circumstances:
+  (a) shall be notified to the master or owner of the vessel in such manner as may be practicable in the circumstances; and
   (b) shall, if given otherwise than in writing, be recorded in writing and forwarded to the owner or master of the vessel as soon as is reasonably practicable; and
   (c) may at any time be withdrawn by the Director-General, upon being satisfied that the vessel is not engaged or to engage in driftnet fishing, or is not to supply vessels engaged or to engage in driftnet fishing in New Zealand fisheries waters or the Convention Area.
 (4) Nothing in this section shall prevent a vessel from entering or remaining in the internal waters of New Zealand for such period as is necessary for the purposes of obtaining such food, fuel, and other goods and services necessary to enable it to proceed safely and directly to a port outside New Zealand.
@@ -114,7 +114,7 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
   (a) stop (where appropriate), enter, and inspect the premises, and examine (by opening where necessary) any property, record, document, or other article therein:
   (b) require any person to give any explanation or information concerning the premises, or any fish, marine life, property, record, document, or other article therein:
   (c) take copies of any record or document referred to in paragraph (a), where the record or document is relevant to a suspected offence against this Act.
-(3) Nothing in subsection (1)(b)(iv) or subsection (2)(b) requires a person to answer any question where to do so would tend to incriminate that person.
+(3) Nothing in subsection (1)﻿(b)﻿(iv) or subsection (2)﻿(b) requires a person to answer any question where to do so would tend to incriminate that person.
 (3A) The provisions of subparts 1, 4, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 (4) An enforcement officer may, for the purpose of exercising any power under this section to take copies of any record or document, take possession of and remove from the place where it is kept, for such period of time as is reasonable in the circumstances, any such record or document.
 
@@ -124,7 +124,7 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
   (b) considers that there is a real risk that the person may not be able to be served with proceedings under this Act, or may not appear to answer any such proceedings,—
 (2) Where an enforcement officer arrests a person pursuant to subsection (1),—
   (a) the officer shall cause the person to be delivered into the custody of a constable as soon as practicable; and
-  (b) if the person so delivered into custody is released by a constable without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be the duties of an enforcement officer and not of a constable.
+  (b) if the person so delivered into custody is issued with a summons pursuant to sections 28 to 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act are the duties of an enforcement officer and not of a constable.
 
 ### 15 Powers of seizure
 (1) An enforcement officer may seize—
@@ -182,8 +182,8 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
 
 ### 26 Proceedings for offences
 (1) Any offence against this Act that is committed within New Zealand fisheries waters, or within the Convention Area by a New Zealand citizen or by use of a New Zealand vessel, shall be deemed to have been committed in New Zealand.
-(2) Every offence against this Act shall be punishable on summary conviction.
-(3) Notwithstanding section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+(2)
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 27 Strict liability
 In any prosecution for an offence against any of sections 4 to 12 it shall not be necessary for the prosecution to prove that the defendant intended to commit an offence.
@@ -200,7 +200,7 @@ In any prosecution for an offence against any of sections 4 to 12 it shall not b
     (iii) the transportation, transhipment, landing, or processing of the fish or marine life to which the offence relates was conducted at the direction or request of an enforcement officer, or was conducted in respect of fish or marine life disposed of by the Director-General or Minister pursuant to section 18 or section 19 or section 30:
   (d) in the case of an offence against section 10, the defendant satisfies the court that the vessel was not to be used for driftnet fishing in New Zealand fisheries waters or the Convention Area:
   (e) in the case of an offence against section 11, the defendant satisfies the court that the defendant did not know, and could not with the exercise of reasonable diligence have ascertained, that the vessel to which the food, fuel, or other goods and services were, or were to be, supplied was engaged or was to engage in driftnet fishing in the relevant area.
-(2) Where the owner or master of a vessel is charged with an offence specified in subsection (1)(a) or subsection (2)(b) of section 25, the defences referred to in paragraphs (a) and (c)(i) of subsection (1) of this section shall not be available to the defendant owner or master unless the defendant satisfies the court that the defendant took all reasonable steps to ensure that the offence would not occur.
+(2) Where the owner or master of a vessel is charged with an offence specified in subsection (1)﻿(a) or subsection (2)﻿(b) of section 25, the defences referred to in paragraphs (a) and (c)﻿(i) of subsection (1) of this section shall not be available to the defendant owner or master unless the defendant satisfies the court that the defendant took all reasonable steps to ensure that the offence would not occur.
 (3) In any proceedings for an offence against this Act, it shall be a defence if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
 
 ### 29 Evidence in proceedings
@@ -246,39 +246,3 @@ In any prosecution for an offence against any of sections 4 to 12 it shall not b
 The following regulations are hereby revoked:
   (a) the Exclusive Economic Zone (Driftnet) Regulations 1989 (SR 1989/197):
   (b) the Fisheries (Driftnet) Regulations 1989 (SR 1989/198).
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
