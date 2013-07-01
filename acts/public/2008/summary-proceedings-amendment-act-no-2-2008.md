@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 2008
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2008.
@@ -572,26 +572,10 @@ The enactments specified in Schedule 2 are repealed.
 The Acts and regulations in Schedule 3 are consequentially amended in the manner indicated in that schedule.
 
 ### 19 Review of new Part 5 of principal Act
-(1) The Solicitor-General, or any other person nominated by the Solicitor-General for the purpose, must as soon as practicable after the expiry of 2 years from the commencement of Part 5 of the principal Act (as inserted by section 12 of this Act) conduct a review of the operation of Part 5.
-(2) The Solicitor-General or other person conducting the review must—
-  (a) consult with—
-    (i) the New Zealand Law Society:
-    (ii) the Ministry of Justice:
-    (iii) any other person or body he or she considers appropriate to consult with; and
-  (b) report on the outcome of that review to the Minister of Justice within 6 months of commencing it; and
-  (c) advise in that report whether Part 5 should be retained, amended, or replaced.
+[Repealed]
 
 ### 20 Transitional provision
-(1) If, before the commencement of section 12 of this Act, an information has been laid indictably or a defendant has elected trial by jury under section 66, the preliminary hearing must proceed as if this Act had not been passed.
-(2) Despite subsection (1), proceedings against a defendant who has elected trial by jury under section 66 or in respect of whom an information has been laid indictably, must be conducted in accordance with the principal Act as amended by section 12 of this Act if,—
-  (a) before the preliminary hearing has begun, the defendant named in the information absconds and he or she is not located until more than 1 month after the commencement of this Act; or
-  (b) after the commencement of section 12 of this Act,—
-    (i) the information or one of the informations is withdrawn and another information is substituted; or
-    (ii) an additional information, arising from the same transaction, or set of circumstances, or incident, or series of incidents, is laid; or
-    (iii) an information is laid against another person, charging him or her with an offence arising from the same transaction, or set of circumstances, or incident, or series of incidents, specified in the first information, and the prosecutor wishes the charges against both defendants to be heard together.
-(3) No hearing or other proceeding is invalid only because—
-  (a) it was conducted in accordance with subsection (1) when it ought to have been conducted in accordance with subsection (2); or
-  (b) it was conducted in accordance with subsection (2) when it ought to have been conducted in accordance with subsection (1).
+[Repealed]
 
 ## Schedule 1 — Other amendments
 
