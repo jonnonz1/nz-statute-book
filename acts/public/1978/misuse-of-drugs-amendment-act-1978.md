@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -430,7 +430,7 @@ Where, in any case to which section 38 or section 39 of this Act applies, it app
 **Enforcement of fines**
 
 ### 43 Enforcement of fines
-(1) If the Court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
+(1) If the Court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or Part 3 of the Summary Proceedings Act 1957 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
 (2) The Court or the Registrar may make any orders as are appropriate under any of the provisions specified in subsection (1) in respect of any money or assets that are treated as belonging to the offender under section 42 (which are deemed to be the offender's property for the purposes of this subsection).
 (3) In subsection (2), Registrar—
   (a) means any Registrar of the High Court or a District Court; and
