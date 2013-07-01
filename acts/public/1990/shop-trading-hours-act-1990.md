@@ -1,5 +1,5 @@
 # Shop Trading Hours Act Repeal Act 1990
-_Consolidation as at 2001-04-11_
+_Consolidation as at 2013-07-01_
 
 > An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
 
@@ -50,7 +50,7 @@ In this Act, unless the context otherwise requires,—
 Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre, being a shop the sole or principal business of which is the sale of plants or garden supplies or both.
 
 ### 5 Offence
-(1) The occupier of a shop that is not closed in accordance with section 3 commits an offence against this Act, and is liable, on summary conviction, to a fine not exceeding $1,000.
+(1) The occupier of a shop that is not closed in accordance with section 3 commits an offence against this Act, and is liable, on conviction, to a fine not exceeding $1,000.
 (2) For the purposes of subsection (1),—
   (a) the occupier of a shop,—
     (i) includes any agent, manager, supervisor, or other person acting or apparently acting in general management or control of the shop; and
@@ -60,8 +60,8 @@ Section 3(1) does not apply to a shop on Easter Sunday if it is a garden centre,
     (ii) offers goods for sale otherwise than in a shop; or
     (iii) delivers goods to a customer otherwise than in a shop,—
 (3) In any proceedings for an offence against this Act,—
-  (a) it is sufficient to allege in the information that a place is a shop and to state in the information the name of its ostensible occupier, or a style or title under which its occupier is usually known or carries on business; and
-  (b) the information may from time to time be amended as to the actual name of the occupier of the place.
+  (a) it is sufficient to allege in the charging document that a place is a shop and to state in the charging document the name of its ostensible occupier, or a style or title under which its occupier is usually known or carries on business; and
+  (b) the charge may from time to time be amended as to the actual name of the occupier of the place.
 
 ### 6 Shop Trading Hours Act 1977 repealed
 (1) The following enactments are hereby repealed:
