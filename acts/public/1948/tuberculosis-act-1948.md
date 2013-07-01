@@ -1,5 +1,5 @@
 # Tuberculosis Act 1948
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the treatment, care, and assistance of persons suffering or having suffered from tuberculosis, and for preventing the spread of tuberculosis
 
@@ -197,7 +197,7 @@ Every person commits an offence against this Act who in any way resists, obstruc
 Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section shall be liable to a fine not exceeding $40 and (if the offence is a continuing one) to a further fine not exceeding $4 for every day during which the offence continues.
 
 ### 27 Offences punishable summarily
-All proceedings in respect of offences against this Act or against any regulations made under or pursuant to this Act shall be taken in a summary way under the Summary Proceedings Act 1957.
+[Repealed]
 
 ### 28 Service of notices
 (1) Except as otherwise expressly provided in any regulations under this Act, any notice required or authorised under this Act to be given to any person may be delivered to him either personally or by sending it to his last known place of abode or business by messenger or by ordinary post or by registered letter.
