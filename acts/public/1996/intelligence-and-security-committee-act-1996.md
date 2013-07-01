@@ -1,5 +1,5 @@
 # Intelligence and Security Committee Act 1996
-_Consolidation as at 1996-07-02_
+_Consolidation as at 2013-07-01_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by establishing an Intelligence and Security Committee
 
@@ -176,6 +176,6 @@ There is hereby established a committee to be known as the Intelligence and Secu
 (1) No person who is, or has at any time been, a person assisting the Committee by virtue of an appointment under section 13(7) or a person appearing before the Committee in any capacity, shall, either directly or indirectly, except in the performance of that person's functions or duties under this Act, or in the exercise of that person's powers under this Act, or with the written authority of the Committee or its chairperson,—
   (a) make a record of, or disclose to any person, any information acquired by the person assisting the Committee in his or her capacity as a person assisting the Committee or acquired by the person appearing before the Committee by virtue of that person's appearance before the Committee; or
   (b) make use of any such information.
-(2) Every person commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of section 19 or subsection (1).
+(2) Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of section 19 or subsection (1).
 (3) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
 (4) Amendment(s) incorporated in the Act(s).
