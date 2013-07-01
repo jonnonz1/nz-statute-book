@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2006-10-25_
+_Consolidation as at 2013-07-01_
 
 ## Preamble
 He kōrero whakataki
@@ -129,7 +129,7 @@ In this Act, unless the context otherwise requires,—
 (2) No person other than the Service may, either alone or with another person, trade or carry on business—
   (a) under a name listed in subsection (1)(a) or (b); or
   (b) under a name, knowing that it so resembles a name listed in subsection (1)(a) or (b) as to be likely to mislead a person.
-(3) A person who breaches subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $2,500.
+(3) A person who breaches subsection (2) commits an offence and is liable on conviction to a fine not exceeding $2,500.
 
 ### Subpart 3 — Te Pūtahi Paoho
 
