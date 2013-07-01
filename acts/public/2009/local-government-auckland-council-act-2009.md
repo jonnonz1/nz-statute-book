@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -739,11 +739,11 @@ If work is urgent and necessary because of any defective equipment or other emer
 
 ### 74 Offence not to comply with any of sections 65, 66, and 69
 (1) An Auckland water organisation that fails to comply with any of sections 65, 66, and 69 commits an offence.
-(2) An Auckland water organisation that commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) An Auckland water organisation that commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) In addition to any penalty imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 75 Offences relating to carrying out work on water supply or wastewater assets of Auckland water organisation without notice
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who wilfully or negligently carries out work on, or in relation to, a water supply or wastewater asset of an Auckland water organisation that is not a local authority without first—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who wilfully or negligently carries out work on, or in relation to, a water supply or wastewater asset of an Auckland water organisation that is not a local authority without first—
   (a) notifying the organisation of the intention to carry out the work; and
   (b) obtaining written authorisation from the organisation (which may include terms or conditions that the organisation thinks fit).
 (2) It is not an offence under subsection (1) if the work concerned—
@@ -763,8 +763,8 @@ If work is urgent and necessary because of any defective equipment or other emer
   (c) a water race; or
   (d) a drainage work; or
   (e) anything forming part of, or connected with, any water supply or wastewater work or property not referred to in paragraphs (a) to (d).
-(2) Every person commits an offence who wilfully destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000, or to both.
-(3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on summary conviction to a fine not exceeding $20,000.
+(2) Every person commits an offence who wilfully destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000, or to both.
+(3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to a fine not exceeding $20,000.
 
 ### 77 Liability for damage by wilful or negligent behaviour towards water supply or wastewater work
 A person who wilfully or negligently destroys, damages, stops, obstructs, or otherwise interferes with any water supply or wastewater works or property owned, constructed, acquired, or used by an Auckland water organisation that is not a local authority is liable for, as the case may be,—
