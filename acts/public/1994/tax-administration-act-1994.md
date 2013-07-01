@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3120,7 +3120,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iii) any other enactment imposing taxes or duties payable to the Crown; or
   (b) carrying into effect the powers, duties, and functions of the Commissioner under the New Zealand Superannuation Act 1974.
 (4) Nothing in subsection (1), (1B) or (3) shall be deemed to prohibit the Commissioner from—
-  (a) communicating such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected indictable or summary offence, being a prosecution or an investigation in relation to any misappropriation or attempted misappropriation by any person in respect of money payable by the department to another person or by any person in respect of money entrusted to that person by, for, or on behalf of, another person for payment to the department:
+  (a) communicating such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected offence, being a prosecution or an investigation in relation to any misappropriation or attempted misappropriation by any person in respect of money payable by the department to another person or by any person in respect of money entrusted to that person by, for, or on behalf of, another person for payment to the department:
     provided that no communication under this paragraph shall be made in respect of any person to whom any such money was payable, or by, or for, or on behalf of, whom any such money was entrusted, unless that person or that person's legal personal representative, or, where that person is a company, the authorised officer of that company, consents to the communication:
   (b) divulging or communicating any matter or thing or producing in any court any document, that the Commissioner considers desirable for the purposes of any investigation into any suspected offence or prosecution under the Crimes Act 1961, where the investigation or prosecution is in relation to any tax imposed or payable or any refund made or claimed under the Goods and Services Tax Act 1985, and any such matter or thing shall be deemed to be divulged or communicated and any such document shall be deemed to be produced for the purpose of carrying into effect the Goods and Services Tax Act 1985:
   (c) divulging or communicating any matter or thing to the Director of the Serious Fraud Office, or producing in any court any document, that the Commissioner considers desirable for the purposes of any investigation or prosecution in relation to any suspected inland revenue offence, and any such matter or thing shall be deemed to be divulged or communicated, and any such document shall be deemed to be produced, for the purpose of carrying into effect the Acts referred to in subparagraphs (i), (ii), and (iia) of subsection (1)﻿(a) or any other enactment imposing taxes or duties payable to the Crown:
@@ -3377,7 +3377,7 @@ Despite section 81, the Commissioner may supply personal information about an id
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines defaulter information** —
     (a) means information that identifies a fines defaulter; and
@@ -6598,34 +6598,31 @@ A natural person who is resident in New Zealand commits an offence against this 
 (6) The onus of proof for the purposes of an application for a court order under section 17A rests with the Commissioner.
 
 ### 149B Proceedings for offences
-(1) The offences specified in—are triable on indictment on the information of the Commissioner.
-  (a) sections 143A(1)﻿(d) and 143B(1) and (2); and
-  (b) sections 147(1) and 148(1), where the principal offence is triable on indictment,—
-(2) The other offences specified in this Act are triable summarily on the information of the Commissioner.
-(3) Nothing in subsection (1) or subsection (2) applies to offences against section 143G.
+(1) A charging document for an offence against this Act may be filed only by the Commissioner.
+(2) Nothing in subsection (1) applies to offences against section 143G.
 
-### 150 Information may charge several offences
-(1) An information may charge the defendant with any number of offences against this Act (other than offences against any of sections 143A(1)﻿(b), 143B(1)﻿(b), 143C(1), 143D(1), 143E(1), 143F(1), 143H(1), and 147(1)), or against the provisions of any former Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
-(2) If an information charges more than 1 offence, particulars of each offence charged shall be set out separately in the information.
+### 150 Charging document may charge several offences
+(1) A charging document may charge the defendant with any number of offences against this Act (other than offences against any of sections 143A(1)﻿(b), 143B(1)﻿(b), 143C(1), 143D(1), 143E(1), 143F(1), 143H(1), and 147(1)), or against the provisions of any former Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
+(2) If a charging document charges more than 1 offence, particulars of each offence charged shall be set out separately in the charging document.
 (3) All charges shall be heard together unless the court, either before or at any time during the hearing, considers it just that a charge should be heard separately and makes an order to that effect.
 (4) In this section and in sections 150A, 150B, and 152, references—and references to sections 143A(1)﻿(b), 143H(1), and 147(1), are to be construed accordingly.
   (a) to an offence against section 143A(1)﻿(b) or section 143H(1) means an offence relating to any of sections 6 to 12, 16 to 20, 35, 40, 81 to 87, 105, 147, 150C, 224(1), and 227; and
   (b) to an offence against section 147(1) means an offence relating to any of sections 16 to 19, 35, and 40,—
 
-### 150A Information may be laid within 10 years for income tax and GST offences
-(1) An information for an offence against—may be laid at any time within 10 years after the termination of the year in which the offence was committed.
+### 150A Charging document may be filed within 10 years for income tax and GST offences
+(1) A charging document for an offence against—may be filed at any time within 10 years after the termination of the year in which the offence was committed.
   (a) this Act (other than an offence against any of sections 143A(1)﻿(b), 143B(1)﻿(b), 143C(1), 143D(1), 143E(1), 143F(1), 143H(1), and 147(1)); or
   (b) any regulation made under section 225 of this Act or under the Income Tax Act 2007 or the Goods and Services Tax Act 1985—
 (2) Subsection (1) applies only where the offence against this Act relates to a tax law that is a provision of the Income Tax Act 2007 or the Goods and Services Tax Act 1985, or to an obligation that exists in relation to either of those Acts.
 
-### 150B Information may be laid within 4 years for stamp duty and gaming duty offences
-(1) An information for an offence against—may be laid at any time within 4 years after the date on which the offence was committed.
+### 150B Charging document may be filed within 4 years for stamp duty and gaming duty offences
+(1) A charging document for an offence against—may be filed at any time within 4 years after the date on which the offence was committed.
   (a) this Act (other than an offence against any of sections 143A(1)﻿(b), 143B(1)﻿(b), 143C(1), 143D(1), 143E(1), 143F(1), 143H(1), and 147(1)); or
   (b) any regulation made under the Gaming Duties Act 1971—
 (2) Subsection (1) applies only if the offence against this Act relates to a tax law that is a provision of the Gaming Duties Act 1971, or to an obligation that exists under that Act.
 
-### 150C Authority to lay information
-The fact that an officer of the department authorised in that behalf by the Commissioner lays an information for an offence against this Act or any other tax law is conclusive evidence of the officer's authority to do so.
+### 150C Authority to file charging document
+The fact that an officer of the department authorised in that behalf by the Commissioner files a charging document for an offence against this Act or any other tax law is conclusive evidence of the officer's authority to do so.
 
 ### 150D Evidence in proceedings for failure to furnish returns or information
 In any proceedings against a person for refusing or failing to provide a tax return or written information or to produce for inspection any documents as and when required by any Act or by the Commissioner, a certificate signed by the Commissioner, that the tax return, information, documents have not been received at the time required shall, in the absence of proof to the contrary, be sufficient evidence that the person has refused or failed to furnish the return, information, documents, as the case may be.
@@ -6655,7 +6652,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
   (b) every record to which this section relates, and every copy purporting to be a copy of an original record that would have been admissible in evidence in accordance with subsection (5) if it were available for that purpose and proof had been given as provided in that subsection or, where applicable, in subsection (8), shall be deemed to be a document to which section 5 of the Evidence Amendment Act 1952 applies.
 (11) Where, in any specified proceedings, the Commissioner intends to tender in evidence under this section a record or copy of a record or entry in a record or in a copy of a record, the Commissioner shall give to the other party or parties, as the case may be, notice of that intention not less than 7 days before the hearing, specifying the record or copy or entry intended to be tendered in evidence.
 (12) Where a notice is given by the Commissioner under subsection (11), the other party or parties, as the case may be, may at any time before the hearing apply to the court for an order that a record or copy or entry specified in the notice is not to be admitted in evidence upon the ground that it is or is likely to be false or fraudulent or that for any other reason it is inexpedient in the interests of justice that the record or copy or entry should be admitted, and if the court is satisfied as to the grounds of the application it shall order accordingly.
-(13) Subsections (9) and (10), and also subsection (8) where an affidavit has been filed, shall, with the necessary modifications, apply with respect to the hearing of an application under subsection (12) as if it were the hearing of the information for the offence and as if the record or copy or entry had been tendered in evidence.
+(13) Subsections (9) and (10), and also subsection (8) where an affidavit has been filed, shall, with the necessary modifications, apply with respect to the hearing of an application under subsection (12) as if it were the hearing of the charge for the offence and as if the record or copy or entry had been tendered in evidence.
 (14) Nothing in this section affects the provisions of section 5 of the Banking Act 1982, and that section shall apply to all specified proceedings.
 (15) For the purposes of this section, where it appears to the court that a record or a copy of a record is part of the records kept or held in relation to a business, the court may infer that the record or copy and entries in the record or copy were made in the regular course of business by a person in carrying on that business.
 (16) This section applies with respect to the following:
