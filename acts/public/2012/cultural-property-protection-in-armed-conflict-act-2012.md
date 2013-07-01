@@ -1,5 +1,5 @@
 # Cultural Property (Protection in Armed Conflict) Act 2012
-_Consolidation as at 2012-12-11_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
@@ -132,20 +132,20 @@ This Act binds the Crown.
 **Penalties**
 
 ### 12 Penalties for Part 2 offences
-(1) A person who commits an offence mentioned in subsection (2) is liable on conviction on indictment,—
+(1) A person who commits an offence mentioned in subsection (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 14 years:
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 (2) The offences are—
   (a) a grave violation offence:
   (b) an offence against section 8(1) where the offence aided, abetted, incited, counselled, or procured is a grave violation offence.
-(3) A person who commits an offence mentioned in subsection (4) is liable on conviction on indictment,—
+(3) A person who commits an offence mentioned in subsection (4) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 7 years:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 (4) The offences are—
   (a) a serious violation offence other than a grave violation offence:
   (b) an offence against section 8(1) where the offence aided, abetted, incited, counselled, or procured is a serious violation offence other than a grave violation offence:
   (c) an offence against section 8(2)(a).
-(5) A person who commits an offence against section 8(2)(b) or (c) is liable on conviction on indictment,—
+(5) A person who commits an offence against section 8(2)(b) or (c) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding half the maximum term to which the individual would have been liable if he or she had committed the serious violation offence in question:
   (b) in the case of a body corporate, to a fine not exceeding half the maximum fine to which the body would have been liable if it had committed the serious violation offence in question.
 
@@ -246,21 +246,21 @@ In this Part, unless the context otherwise requires,—
 **Penalties**
 
 ### 18 Penalties for Part 3 offences
-(1) A person who commits an enhanced protection offence is liable on conviction on indictment,—
+(1) A person who commits an enhanced protection offence is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 (2) An enhanced protection offence is—
   (a) an offence against section 15(1) or 17(1); or
   (b) an offence against section 16(1) where the offence aided, abetted, incited, counselled, or procured is an offence against section 15(1); or
   (c) an offence against section 16(2)(a) where the offence that the person conspired to commit is an offence against section 15(1).
-(3) A person who commits a non-enhanced protection offence is liable on conviction on indictment,—
+(3) A person who commits a non-enhanced protection offence is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (4) A non-enhanced protection offence is—
   (a) an offence against section 15(2) or 17(2); or
   (b) an offence against section 16(1) where the offence aided, abetted, incited, counselled, or procured is an offence against section 15(2); or
   (c) an offence against section 16(2)(a) where the offence that the person conspired to commit is an offence against section 15(2).
-(5) A person who commits an offence against section 16(2)(b) or (c) is liable on conviction on indictment to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
+(5) A person who commits an offence against section 16(2)(b) or (c) is liable on conviction to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
 
 **Search, seizure, and forfeiture**
 
@@ -511,7 +511,7 @@ In this Part, Convention emblem means the distinctive emblem of the Convention (
 (4) Registered trade mark has the meaning given by section 5(1) of the Trade Marks Act 2002.
 
 ### 38 Penalties for Part 4 offences
-A person who commits an offence against section 36(1) or (3) is liable on summary conviction,—
+A person who commits an offence against section 36(1) or (3) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
