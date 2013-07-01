@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -465,29 +465,30 @@ Notwithstanding anything in this Act, a body may be buried in any place, even th
 ## Part 8 — Offences and penalties
 
 ### 54AA Offences concerning doctor's certificate or certificate relating to stillbirth
-A person who contravenes or fails to comply with section 46AA or 46A commits an offence and is liable, on summary conviction, to a fine not exceeding $1,000.
+A person who contravenes or fails to comply with section 46AA or 46A commits an offence and is liable, on conviction, to a fine not exceeding $1,000.
 
 ### 54 Offences concerning burials
-Any person who, contrary to any of the provisions of sections 36, 41, 46, 47, and 48:commits an offence and shall be liable to a fine not exceeding 200 pounds.
+Any person who, contrary to any of the provisions of sections 36, 41, 46, 47, and 48:commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds.
   (a) buries a body in any place in which the burial of that body is not permitted; or
   (b) fails to give notice of the burial of a body to the nearest District Court Judge or Justice; or
   (c) buries a body without obtaining the necessary sanction—
 
 ### 55 Unlawful exhumation
-Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under section 51 or in breach of the conditions of any such licence commits an offence and shall be liable to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months:provided that no person shall be prosecuted for an offence against this section except upon an information laid by a constable, an officer of the Ministry of Health, an officer of the Ministry of Maori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
+(1) Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under section 51 or in breach of the conditions of any such licence commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months.
+(2) Proceedings for an offence against this section may only be commenced by a member of the Police, an officer of the Ministry of Health, an officer of the Ministry of Māori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
 
 ### 56 Offences concerning cremation
-(1) Any person who commits a breach of any regulation made pursuant to section 37, or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
-(2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable to imprisonment for a term not exceeding 2 years.
-(3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under section 37 commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+(1) Any person who commits a breach of any regulation made pursuant to section 37, or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable on conviction to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
+(2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
+(3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under section 37 commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 (4) Amendment(s) incorporated in the Act(s).
 
 ### 57 Trespass by animals
-(1) Any person who permits any animal to enter any cemetery or burial ground or Maori burial ground contrary to any regulations or bylaws which may be made under this Act or otherwise than in accordance with any such regulations or bylaws, or, if there are no such regulations or bylaws applicable thereto, except with the permission of the local authority or trustees or managers or person or persons having the control and management of the Maori burial ground, as the case may be, commits an offence and shall be liable to a fine not exceeding 20 pounds and to a further fine not exceeding 5 pounds in respect of every animal so entering.
+(1) Any person who permits any animal to enter any cemetery or burial ground or Maori burial ground contrary to any regulations or bylaws which may be made under this Act or otherwise than in accordance with any such regulations or bylaws, or, if there are no such regulations or bylaws applicable thereto, except with the permission of the local authority or trustees or managers or person or persons having the control and management of the Maori burial ground, as the case may be, commits an offence and shall be liable on conviction to a fine not exceeding 20 pounds and to a further fine not exceeding 5 pounds in respect of every animal so entering.
 (2) The owner of any animal, and the person for the time being in charge of any animal, who fails to take reasonable precautions to prevent such animal from entering a cemetery, burial ground, or Maori burial ground contrary to subsection (1), shall be deemed to have permitted such entry.
 
 ### 58 Offences punishable on summary conviction
-Except where this Act otherwise provides, every offence against this Act or against any regulations or bylaws made under this Act shall be punishable on summary conviction.
+[Repealed]
 
 ## Part 9 — Regulations, savings, and repeals
 
