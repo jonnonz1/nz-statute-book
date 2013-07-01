@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2009-11-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
@@ -11,12 +11,12 @@ _Consolidation as at 2009-11-01_
 In this Act, unless the context otherwise requires,—
   - **applicant** , in relation to any application, means the person by whom or on whose behalf that application is made
   - **application** , except in section 12, means an application for a grant
-  - **Assistant Commissioner** means an Assistant Commissioner of Plant Variety Rights appointed under section 30(1)(b)
-  - **Commissioner** means the Commissioner of Plant Variety Rights appointed in accordance with section 30(1)(a); and includes an Assistant Commissioner
+  - **Assistant Commissioner** means an Assistant Commissioner of Plant Variety Rights appointed under section 30(1)﻿(b)
+  - **Commissioner** means the Commissioner of Plant Variety Rights appointed in accordance with section 30(1)﻿(a); and includes an Assistant Commissioner
   - **convention party** means an entity that for the time being—
     (a) is declared by an order under section 38A to be a convention party for the purposes of this Act; or
     (b) is a contracting party to the body that, on the commencement of the Plant Variety Rights Amendment Act 1999, was known as the International Union for the Protection of New Varieties of Plants (constituted under the international agreement then called the International Convention for the Protection of New Varieties of Plants)
-  - **denomination** , in relation to any protected variety, or any variety that was a protected variety until the grant made in respect of it expired, means the distinguishing name or identification approved for that variety by the Commissioner under section 10(2)(a)
+  - **denomination** , in relation to any protected variety, or any variety that was a protected variety until the grant made in respect of it expired, means the distinguishing name or identification approved for that variety by the Commissioner under section 10(2)﻿(a)
   - **grant** means a grant of plant variety rights under this Act
   - **grantee** means the holder of a grant; and, in relation to a protected variety, means the holder of a grant in respect of that variety
   - **Journal** means the Plant Variety Rights Journal required to be published by section 34(1)
@@ -98,7 +98,7 @@ After an application is made, the Commissioner shall hold it and any document, i
   (c) has received the prescribed fee; and
   (d) is satisfied that that variety is new, distinct, homogeneous, and stable.
 (3) The Commissioner shall approve a proposed denomination for a variety if, and only if, in the opinion of the Commissioner, it complies with the prescribed requirements.
-(4) For the purposes of subsection (2)(d),—
+(4) For the purposes of subsection (2)﻿(d),—
   (a) subject to subsection (6), a variety is new if there has been no sale of that variety with the agreement of any relevant owner of that variety—
     (i) in New Zealand, for more than 12 months before the date on which that application was made; and
     (ii) overseas, for more than 6 years before that date in the case of a woody plant, or for more than 4 years before that date in every other case:
@@ -106,18 +106,18 @@ After an application is made, the Commissioner shall hold it and any document, i
   (c) a variety is stable if, in its essential characteristics, it remains true to its description—
     (i) where the applicant concerned has described particular cycles of reproduction or multiplication for that variety, at the end of each such cycle; and
     (ii) in every other case, after repeated propagation or reproduction.
-(5) In determining, for the purposes of subsection (2)(d), whether or not the Commissioner is satisfied that a variety is homogeneous, the Commissioner shall have regard to the particular features of its sexual reproduction or vegetative propagation (whichever is applicable to it).
-(6) Where, to increase the stock of a variety or for evaluation trials or tests of a variety, its owner makes arrangements under which—for the purposes of subsection (4)(a), no account shall be taken of any sale under that arrangement of—
+(5) In determining, for the purposes of subsection (2)﻿(d), whether or not the Commissioner is satisfied that a variety is homogeneous, the Commissioner shall have regard to the particular features of its sexual reproduction or vegetative propagation (whichever is applicable to it).
+(6) Where, to increase the stock of a variety or for evaluation trials or tests of a variety, its owner makes arrangements under which—for the purposes of subsection (4)﻿(a), no account shall be taken of any sale under that arrangement of—
   (a) reproductive material of that variety is to be sold to or used by some other person; and
   (b) any unused portion of that reproductive material, and all the material of any sort produced from that reproductive material, is—
     (i) to be sold to that owner, by that other person; or
     (ii) otherwise to become the property of that owner,—
   (c) reproductive material of that variety by that owner to that other person; or
   (d) material of any sort of that variety by that other person to that owner.
-(7) For the purposes of subsection (2)(d), a variety does not cease to be new by virtue only of the sale at any time of—that, having been produced during the breeding, increase of stock, tests, or trials, of that variety, is not (or no longer) required for any of those activities.
+(7) For the purposes of subsection (2)﻿(d), a variety does not cease to be new by virtue only of the sale at any time of—that, having been produced during the breeding, increase of stock, tests, or trials, of that variety, is not (or no longer) required for any of those activities.
   (a) material that is not reproductive material; or
   (b) reproductive material disposed of for purposes other than reproduction,—
-(8) For the purposes of subsection (4)(b), the characteristics by which a variety may be distinguished from others may be morphological, physiological, or of any other kind or description, so long as those characteristics are capable of precise description and recognition.
+(8) For the purposes of subsection (4)﻿(b), the characteristics by which a variety may be distinguished from others may be morphological, physiological, or of any other kind or description, so long as those characteristics are capable of precise description and recognition.
 
 ### 11 Varieties bred or discovered by 2 or more persons independently
 Subject to section 12, where—the Commissioner shall make a grant to that one of those 2 or more applicants whose application in respect of that variety was made first.
@@ -126,7 +126,7 @@ Subject to section 12, where—the Commissioner shall make a grant to that one o
   (c) the Commissioner is satisfied that, but for this section, each of those 2 or more applicants is or would be entitled to a grant in respect of that variety,—
 
 ### 12 Priorities resulting from earlier overseas applications
-Where—sections 10(4)(b) and 11 shall apply to that application for a grant in New Zealand as if it had been made when that equivalent application was accepted.
+Where—sections 10(4)﻿(b) and 11 shall apply to that application for a grant in New Zealand as if it had been made when that equivalent application was accepted.
   (a) any person makes an application for a grant in New Zealand in respect of a variety in respect of which that person has earlier,—
     (i) after a convention party that is a State, part of a State, or a territory for whose international relations a State is responsible most recently became a convention party, made in and under the law of that convention party an equivalent application that has been accepted; or
     (ii) after a convention party that is not a State, part of a State, or a territory for whose international relations a State is responsible most recently became a convention party, made under the rules of that convention party an equivalent application that has been accepted; and
@@ -160,11 +160,11 @@ Where—the Commissioner shall cancel that grant, and shall make a new grant to 
   (d) that the grantee was not, at the time that grant was made, an owner of that variety; or
   (e) that the grantee of that variety, after being requested by the Commissioner to provide the Commissioner (within a period specified by the Commissioner) with reproductive material capable of producing that variety with its characteristics as described when the grant was made, has failed to do so; or
   (f) that that grantee, after being requested by the Commissioner to allow the Commissioner (within a period specified by the Commissioner) to inspect the measures taken for the maintenance of that variety, or to provide documents or information in relation to that variety, has failed to do so; or
-  (g) that any annual grant fee in relation to the grant has not been paid within the prescribed period; or
+  (g) that any annual grant fee in relation to the grant has not been paid within the prescribed period.
   (h)
 (3) Before cancelling a grant under subsection (2), the Commissioner shall give the grantee written notice of intention to do so and, unless that grantee shows sufficient cause within 28 days of the date of the notice why that grant should not be cancelled, shall cancel that grant on the expiration of that period.
 (4) Where—the Commissioner shall deal with all applications in respect of that variety as if that grant had never been made.
-  (a) the Commissioner has cancelled a grant under subsection (2)(d); and
+  (a) the Commissioner has cancelled a grant under subsection (2)﻿(d); and
   (b) any application (other than the application in respect of which that grant was made) has at any time (whether before or after the making of that grant) been made in respect of the variety concerned,—
 
 ### 17 Rights of grantees
@@ -329,7 +329,7 @@ Where any person has appealed against any decision of the Commissioner, the oper
   (a) delivering it to the person to whom it has to be given or on whom it has to be served; or
   (b) leaving it at the usual or last known place of abode or address for service in New Zealand of that person; or
   (c) sending it by post in a registered letter addressed to that person at that person's usual or last known place of abode or address for service in New Zealand.
-(2) Where a notice or document is sent by post in the manner described in subsection (1)(c), it shall be deemed to have been given or served at the time at which the letter would have been delivered in the ordinary course of post.
+(2) Where a notice or document is sent by post in the manner described in subsection (1)﻿(c), it shall be deemed to have been given or served at the time at which the letter would have been delivered in the ordinary course of post.
 
 ### 36 Fees and refunds
 (1) Subject to this Act, there shall be paid in respect of grants and applications, and in respect of other matters relating to grants arising under this Act, the fees (if any) from time to time prescribed; and all such fees shall be paid into the Public Account to the credit of a Crown Bank Account.
@@ -344,7 +344,7 @@ Where any person has appealed against any decision of the Commissioner, the oper
 (4) Every person who wilfully or negligently sells reproductive material in contravention of section 22 commits an offence.
 (5) Every person who, by using on that person's place of business or on any document issued by that person or otherwise the words Plant Variety Rights Office or any other words, suggests that that person's place of business is or is officially connected with the Office commits an offence.
 (6) Every person who acts in contravention of section 31(2) commits an offence.
-(7) Every person who commits an offence against this Act shall be liable on summary conviction to a fine not exceeding $1,000.
+(7) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $1,000.
 (8) Amendment(s) incorporated in the Act(s).
 
 ### 38 Regulations
