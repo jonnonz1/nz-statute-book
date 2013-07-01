@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -975,7 +975,7 @@ In this section and in sections 64 and 65,—
 
 ### 69 Offence and penalty provision
 (1) In relation to an activity to which an RMA permission right applies, it is an offence to commence the activity in the relevant customary title area unless the relevant customary marine title group has given permission under section 66(2) or is to be treated as having given permission under section 67(4).
-(2) Every person who commits an offence against subsection (1) is liable, on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable, on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 2 years or a fine not exceeding $300,000:
   (b) in the case of a person other than a natural person, to a fine not exceeding $600,000.
 (3) A person convicted of an offence under this section is also liable for the full value of—
@@ -995,7 +995,7 @@ In this section and in sections 64 and 65,—
 (1) Subsection (3) applies only if, in relation to the exercise of a resource consent,—
   (a) the RMA permission right is applicable; and
   (b) a resource consent is exercised without the permission of the customary marine title group being obtained.
-(2) If proceedings for an offence are commenced in the Environment Court, the Summary Proceedings Act 1957 applies as if a reference to the District Court were a reference to the Environment Court, with any other necessary modifications.
+(2) If proceedings for an offence are commenced in the Environment Court, the Criminal Procedure Act 2011 applies as if a reference to the District Court were a reference to the Environment Court, with any other necessary modifications.
 (3) The Environment Court may make enforcement orders to—
   (a) prohibit a person from continuing the activity:
   (b) require a person to remove any structure or other work or materials from the customary marine title area:
@@ -1126,7 +1126,7 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
 
 ### 81 Compliance
 (1) A local authority that has statutory functions in the location of a wāhi tapu or wāhi tapu area that is subject to a wāhi tapu protection right must, in consultation with the relevant customary marine title group, take any appropriate action that is reasonably necessary to encourage public compliance with any wāhi tapu conditions.
-(2) Every person commits an offence who intentionally fails to comply with a prohibition or restriction notified for that wāhi tapu or wāhi tapu area, and is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person commits an offence who intentionally fails to comply with a prohibition or restriction notified for that wāhi tapu or wāhi tapu area, and is liable on conviction to a fine not exceeding $5,000.
 (3) Despite subsection (2), the offence provisions of the Historic Places Act 1993 apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right—
   (a) is protected by a heritage covenant under section 6 of that Act; or
   (b) has interim registration under section 26 of that Act.
@@ -1543,7 +1543,7 @@ The register is a public register within the meaning of section 58 of the Privac
   (b) the preservation or protection of the natural environment of the common marine and coastal area or any specified part of that area:
   (c) prohibiting or regulating the construction or use of structures in the common marine and coastal area or any specified part of that area, and providing for the removal or destruction of those structures:
   (d) prohibiting or regulating the placing or deposit of objects in the common marine and coastal area or any specified part of that area, and providing for the removal or destruction of those objects:
-  (e) prescribing offences punishable on summary conviction by a fine not exceeding $5,000 in any one case:
+  (e) prescribing offences punishable on conviction by a fine not exceeding $5,000 in any one case:
   (f) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister of Conservation must not make a recommendation under subsection (1) unless satisfied that—
   (a) the proposed regulations are necessary for the proper management of the common marine and coastal area or of the specified part to which the proposed regulations relate; and
@@ -1564,7 +1564,7 @@ The register is a public register within the meaning of section 58 of the Privac
 (2) If the Director-General or a delegate of the Director-General has reasonable grounds to believe that the use or the location of a vehicle, vessel, or other moveable thing in the common marine and coastal area constitutes a breach of any regulations made under section 120 or any bylaws made under section 121, the Director-General or the delegate may—
   (a) take charge, or authorise another person to take charge, of the vehicle, vessel, or thing for the purpose of moving it or preparing it for movement; and
   (b) move, or authorise another person to move, the vehicle, vessel, or thing to another location.
-(3) A person who intentionally fails to comply with a direction given under subsection (1) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both.
+(3) A person who intentionally fails to comply with a direction given under subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both.
 (4) Every person who fails to comply with a direction given under subsection (1) may be arrested without warrant by any constable.
 (5) The Director-General may from time to time, either generally or particularly, delegate the power conferred by subsection (1) or (2) to any of the following persons:
   (a) a warranted officer within the meaning of the Conservation Act 1987:
