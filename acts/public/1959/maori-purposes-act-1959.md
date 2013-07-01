@@ -1,5 +1,5 @@
 # Maori Purposes Act 1959
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the law relating to Maoris and Maori land, and for other purposes
 
@@ -68,7 +68,7 @@ Nothing in any entry permit shall entitle the holder to enter on any land not ve
   (a) at all times enter upon and pass along the Lake or the borders or banks thereof:
   (b) at all times enter upon any boat or launch in or upon the Lake:
   (c) exercise such powers as may be vested in wardens or stipendiary rangers, as the case may be, by this Part or by any regulations made under this Part.
-(2) Every person who assaults, resists, or obstructs any warden or stipendiary ranger in the execution of any powers conferred on him by this Part or by any regulations under this Part commits on offence against this Part.
+(2) Every person who assaults, resists, or obstructs any warden or stipendiary ranger in the execution of any powers conferred on him by this Part or by any regulations under this Part commits an offence against this Part.
 (3) The production by a warden or stipendiary ranger of his warrant of appointment shall be sufficient evidence of that appointment.
 (4) Nothing in this section shall be construed to confer any power of apprehension or arrest on any warden or stipendiary ranger.
 
@@ -81,7 +81,7 @@ Nothing in any entry permit shall entitle the holder to enter on any land not ve
 Every person commits an offence against this Part who does any act in contravention of this Part or fails to comply with any provision of this Part.
 
 ### 11 Penalty for offences
-Every person who commits an offence against this Part is liable on summary conviction to a fine not exceeding $100.
+Every person who commits an offence against this Part is liable on conviction to a fine not exceeding $100.
 
 ### 12 Who may commence proceedings for offences
 No proceedings may be commenced for an offence against this Part except on the information of a Trustee or warden or stipendiary ranger.
@@ -92,7 +92,7 @@ From any fines recovered in proceedings for offences against this Part there sha
 ### 14 Modification of provisions of Conservation Act 1987
 The operation of the Conservation Act 1987, in its application to the Lake, is hereby modified as follows:
   (a) section 26ZO of that Act shall not apply:
-  (b) section 26R(4)(b) of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words the area in that provision were the words the Lake.
+  (b) section 26R(4)﻿(b) of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words the area in that provision were the words the Lake.
 
 ### 15 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as he thinks necessary or expedient for the purpose of giving full effect to the provisions of this Part and for the due administration thereof.
