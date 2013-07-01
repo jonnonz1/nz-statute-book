@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -546,9 +546,9 @@ This Act binds the Crown.
 (5) Section 24 does not prevent a conveyancing practitioner from providing conveyancing services.
 
 ### 28 Proceedings in respect of offences against any provision of sections 21 to 24
-(1) An information in respect of an offence against any provision of sections 21 to 24 may be laid only—
+(1) A charging document in respect of an offence against any provision of sections 21 to 24 may be filed only—
   (a) by the President of the New Zealand Law Society; or
-  (b) by a person authorised by the Council of the New Zealand Law Society to lay that information.
+  (b) by a person authorised by the Council of the New Zealand Law Society to file that charging document.
 (2) In any proceedings for an offence against any provision of sections 21 to 24, a certificate purporting to be signed by the executive director of the New Zealand Law Society or a person authorised by the Council of the New Zealand Law Society to sign that certificate and stating that at any time or during any period specified in the certificate any person was not, and was not deemed to be, the holder of a current practising certificate as a barrister, or as a barrister and solicitor, as the case may require,—
   (a) is admissible in evidence; and
   (b) is, in the absence of proof to the contrary, sufficient evidence of the matters stated in it.
@@ -591,10 +591,10 @@ A person who, in contravention of section 21, acts as a barrister or as a solici
 (2) This section is subject to the exceptions set out in section 36 or section 388(3).
 
 ### 34 Proceedings in respect of offence against section 32 or section 33
-(1) An information in respect of an offence against section 32 or section 33 may be laid only—
+(1) A charging document in respect of an offence against section 32 or 33 may be filed only—
   (a) by the President of the New Zealand Law Society; or
   (b) by the President of the New Zealand Society of Conveyancers; or
-  (c) by a person authorised by the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers to lay that information.
+  (c) by a person authorised by the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers to file that charging document.
 (2) In any proceedings for an offence against section 32 or section 33, a certificate of any of the following kinds is admissible in evidence and is, in the absence of proof to the contrary, sufficient evidence of the matters stated in it:
   (a) a certificate purporting to be signed by the executive director of the New Zealand Law Society or a person authorised by the Council of the New Zealand Law Society to sign that certificate and stating that at any time or during any period specified in the certificate any person was not, and was not deemed to be, the holder of a current practising certificate as a barrister, or as a barrister and solicitor, as the case may require:
   (b) a certificate purporting to be signed by the executive director of the New Zealand Society of Conveyancers or a person authorised by the Council of the New Zealand Society of Conveyancers to sign that certificate and stating that at any time or during any period specified in the certificate any person was not, and was not deemed to be, the holder of a current practising certificate as a conveyancing practitioner.
@@ -729,7 +729,7 @@ Without prejudice to Schedule 1 or any of the provisions of this Part, a practit
 **Penalty**
 
 ### 46 Penalty
-A person who commits an offence against section 21 or section 22 or section 23 or section 24 or section 26 or section 30(6) or section 32 or section 33 or section 35 or section 37(6) or section 45 is liable on summary conviction,—
+A person who commits an offence against section 21 or section 22 or section 23 or section 24 or section 26 or section 30(6) or section 32 or section 33 or section 35 or section 37(6) or section 45 is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $50,000:
   (b) in the case of a corporation, to a fine not exceeding $150,000.
 
@@ -747,7 +747,7 @@ This Part does not limit or affect—
   (h) section 236 of the Employment Relations Act 2000; or
   (i) section 108(3) of the Human Rights Act 1993; or
   (j) section 101 of the Patents Act 1953; or
-  (k) section 37 of the Summary Proceedings Act 1957; or
+  (k) section 10 of the Criminal Procedure Act 2011; or
   (l) section 190 of the Trade Marks Act 2002.
 
 ## Part 3 — Admission and enrolment of barristers and solicitors
@@ -1334,11 +1334,11 @@ The rules to which section 100 applies and amendments to any such rules are regu
     (i) the practitioner or incorporated firm; or
     (ii) a person who, or body that, is, in relation to the practitioner, a related person or entity; or
   (b) the practitioner or incorporated firm takes control of money belonging to that person.
-(4) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1) or subsection (2).
+(4) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1) or subsection (2).
 
 ### 111 Obligation to account for trust money and valuable property
 (1) If, in the course of the practice of a practitioner or an incorporated firm, the practitioner, a related person or entity, or the incorporated firm receives or holds money or other valuable property on behalf of any person, the practitioner, related person or entity, or incorporated firm must account properly for the money or other valuable property to the person on whose behalf the money or other valuable property is held.
-(2) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
+(2) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
 
 ### 112 Obligation to keep records in respect of trust accounts and valuable property
 (1) If, in the course of the practice of a practitioner or an incorporated firm, the practitioner, a related person or entity, or the incorporated firm receives or holds money or other valuable property in trust on behalf of any person, the practitioner, related person or entity, or incorporated firm—
@@ -1355,7 +1355,7 @@ The rules to which section 100 applies and amendments to any such rules are regu
     (ii) invest money for any other person:
     (iii) have a trust account:
     (iv) receive fees or disbursements in advance of an invoice being issued.
-(3) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
+(3) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
 
 ### 113 Protection of money received
 (1) No money to which section 110(1) or (2) applies is available for the payment of the debts of any other creditor of the practitioner, related person or entity, or incorporated firm; nor is any such money liable to be attached or taken in execution under the order or process of any court at the instance of any such creditor.
@@ -2003,7 +2003,7 @@ A Standards Committee may take possession of any money or other property entrust
 
 ### 171 Offences
 (1) Every person commits an offence against this Act who, having possession or control of any records or documents belonging to a practitioner or former practitioner or any related person or entity or held in a practitioner's or former practitioner's or related person's or entity's possession or under a practitioner's or former practitioner's or related person's or entity's control in the course of the practitioner's or former practitioner's or related person's or entity's practice, refuses or fails without lawful justification or excuse to deliver them or cause them to be delivered to a Standards Committee forthwith on demand made by that Standards Committee for the purposes of section 169 or section 170.
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000.
 
 ### 172 Warrant to search premises
 (1) A Standards Committee may apply to a Judge of the High Court or a District Court Judge for a warrant to empower any member of the Standards Committee, or any other person on its behalf, to enter upon any premises, by force if necessary, and search for any money or other property or any records or documents of which the Standards Committee is entitled to take possession under section 169 and to remove them to such place as the member or person thinks fit.
@@ -2688,7 +2688,7 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 The Disciplinary Tribunal may, from time to time, make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before it.
 
 ### 251 Contempt of Disciplinary Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Disciplinary Tribunal, an officer of the Disciplinary Tribunal, or any witness, during that person's sitting or attendance in the Disciplinary Tribunal, or in going to or returning from the Disciplinary Tribunal; or
   (b) wilfully interrupts or obstructs the proceedings of the Disciplinary Tribunal or otherwise misbehaves in the Disciplinary Tribunal; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the Disciplinary Tribunal in the course of the hearing of any proceedings.
@@ -2796,23 +2796,23 @@ The provisions of Schedule 4 have effect in relation to the Disciplinary Tribuna
   (d) does not answer any question that is lawfully asked by the Disciplinary Tribunal:
   (e) does not provide any documents, things, or information the summons requires the person to provide.
 (2) A person summoned to attend a hearing of the Disciplinary Tribunal is not to be convicted of an offence against subsection (1) unless witnesses' expenses are paid or tendered to that person in accordance with clause 7(4) of Schedule 4.
-(3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000.
+(3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000.
 
 ### 262 Obstruction
 (1) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives any Standards Committee, investigator, or other person in the execution of any powers conferred on that Standards Committee, investigator, or other person by section 147 or section 164 or section 169 or section 170 or section 172 or section 173.
 (2) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives the Legal Complaints Review Officer, or any person to whom any of the functions and powers of the Legal Complaints Review Officer have been delegated under this Act, in the performance of any of the functions, or the exercise of any of the powers, conferred on the Legal Complaints Review Officer or any such delegate by this Act.
-(3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000.
+(3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000.
 
 ### 263 Publication
 (1) Every person commits an offence who, without lawful excuse, acts in contravention of any order made by the Disciplinary Tribunal under any of paragraphs (a) to (c) of section 240(1).
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000.
 
 ### 264 Liability of principal for acts of agent, etc
 (1) Where an offence is committed against any provision of sections 261 to 263 by any person acting as the agent or employee of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person is, without prejudice to the liability of the first-mentioned person, liable under that provision in the same manner and to the same extent as if he or she had committed the offence if it is proved that the act that constituted the offence was committed with his or her authority, permission, or consent or that it was attributable to any neglect on his or her part.
 (2) Where any body corporate is convicted of an offence against any provision of sections 261 to 263, every director and every person concerned in the management of the company is guilty of a like offence if it is proved that the act that constituted the offence was committed with his or her authority, permission, or consent or that it was attributable to neglect on his or her part.
 
-### 265 Time for laying information
-Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against any provision of sections 261 to 263 may be laid at any time within 2 years after the time when the matter of the information arose.
+### 265 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against any provision of sections 261 to 263 ends on the date that is 2 years after the date on which the offence was committed.
 
 **Jurisdiction of High Court and Court of Appeal**
 
@@ -3288,7 +3288,7 @@ Contributions required, by a resolution made under section 312(1) or section 313
 (6) A revocation of an election made under section 317(1) by an incorporated firm is effected by the delivery to the society to which the election was delivered of a written revocation signed by all the directors and shareholders of the incorporated firm.
 
 ### 319 Offence
-A practitioner commits an offence and is liable on summary conviction to a fine not exceeding $25,000 who, at a time when both an election made by that practitioner under section 317(1) and the practising certificate to which that election relates are in force, receives, in the course of providing regulated services to the public, any money or other valuable property in trust for another person.
+A practitioner commits an offence and is liable on conviction to a fine not exceeding $25,000 who, at a time when both an election made by that practitioner under section 317(1) and the practising certificate to which that election relates are in force, receives, in the course of providing regulated services to the public, any money or other valuable property in trust for another person.
 
 ### 320 Application of Lawyers' Fidelity Fund
 (1) Subject to this Part, the Lawyers' Fidelity Fund must be held and applied for the purpose of reimbursing persons who suffer pecuniary loss by reason of a claim event arising from the action of a person who is—
@@ -3465,7 +3465,7 @@ Section 334 does not apply to any conditional fee agreement that relates to—
 (2) Where any money to which this section applies is held on behalf of a person who cannot be found and has no known agent with the authority to receive the money, the person by whom the money is held may, if that person thinks fit, pay the money to the Commissioner of Inland Revenue and send to the Commissioner particulars of the payment and of the person on whose behalf the money was held; and the person by whom the money was held is thereupon relieved from all further liability in respect of the money so paid.
 (3) All money paid to the Commissioner of Inland Revenue under this section is to be deemed to have been so paid as unclaimed money, and section 11 of the Unclaimed Money Act 1971 is to apply to it.
 (4) Where a person has paid any money to the Commissioner of Inland Revenue under this section, the Commissioner may at any time require that person or any other person to give to the Commissioner all such information as the Commissioner may require in relation to the ownership of the money, including information as to the steps taken to trace the person on whose behalf the money was held.
-(5) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who refuses or wilfully neglects to give any such information that is in that person's possession or control when so required, or wilfully gives any false information in answer to any such requisition.
+(5) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who refuses or wilfully neglects to give any such information that is in that person's possession or control when so required, or wilfully gives any false information in answer to any such requisition.
 
 **Protection of Councils of New Zealand Law Society and New Zealand Society of Conveyancers and other persons**
 
@@ -4187,7 +4187,7 @@ No person holding office as the chairperson or deputy chairperson of the Discipl
   (a) if it is to be served under subclause (1)(a), be served at least 24 hours before the attendance of the witness is required:
   (b) if it is to be served under subclause (1)(b), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is to be treated as having been served when it would have been served in the ordinary course of post.
-(4) The person requiring attendance of the witness must pay or tender to the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scale prescribed by regulations made under the Summary Proceedings Act 1957.
+(4) The person requiring attendance of the witness must pay or tender to the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scale prescribed by regulations made under the Criminal Procedure Act 2011.
 
 ### 8 Witnesses' expenses
 (1) Every witness giving evidence or attending to give evidence at the hearing of any proceedings before the Disciplinary Tribunal is entitled, at the direction of the Disciplinary Tribunal, to such sum for his or her expenses and loss of time as the Disciplinary Tribunal may determine.
