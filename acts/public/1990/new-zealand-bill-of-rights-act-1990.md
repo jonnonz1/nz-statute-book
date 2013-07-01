@@ -1,5 +1,5 @@
 # New Zealand Bill of Rights Act 1990
-_Consolidation as at 1994-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato affirm, protect, and promote human rights and fundamental freedoms in New Zealand; andbto affirm New Zealand's commitment to the International Covenant on Civil and Political Rights
 
@@ -112,7 +112,7 @@ Everyone who is charged with an offence—
   (b) shall be released on reasonable terms and conditions unless there is just cause for continued detention; and
   (c) shall have the right to consult and instruct a lawyer; and
   (d) shall have the right to adequate time and facilities to prepare a defence; and
-  (e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for more than 3 months; and
+  (e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for 2 years or more; and
   (f) shall have the right to receive legal assistance without cost if the interests of justice so require and the person does not have sufficient means to provide for that assistance; and
   (g) shall have the right to have the free assistance of an interpreter if the person cannot understand or speak the language used in court.
 
