@@ -1,24 +1,24 @@
 # Trade Unions Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the regulation and management of trade unions in New Zealand
 
 ### 1 Short Title, etc
 (1) The Short Title of this Act is the Trade Unions Act 1908.
-(2) This Act is a consolidation of the enactments mentioned in Schedule 1 hereto, and with respect to those enactments the following provisions shall apply:
-  (a) All offices, appointments, Orders in Council, orders, regulations, rules, certificates, registers, registrations, records, instruments, and generally all acts of authority which originated under any of the said enactments, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
-  (b) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+(2) This Act is a consolidation of the enactments mentioned in Schedule 1, and with respect to those enactments the following provisions shall apply:
+  (a) all offices, appointments, Orders in Council, orders, regulations, rules, certificates, registers, registrations, records, instruments, and generally all acts of authority which originated under any of the said enactments, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+  (b) all matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
 
 ### 2 Interpretation
 In this Act, if not inconsistent with the context,—
   - **Secretary** and respectively include any officer of a trade union acting in the capacity of such secretary or treasurer, or any other person so acting, whether an officer of the union or not
   - **Trade union** means any combination, whether temporary or permanent, for regulating the relations between workers and employers, or between workers and workers, or between employers and employers, or for imposing restrictive conditions on the conduct of any trade or business, whether such combination would or would not, if this Act had not come into operation, have been deemed to have been an unlawful combination by reason of some one or more of its purposes being in restraint of trade
-    Provided that this Act shall not affect—
-      (a) Any agreement between partners as to their own business:
-      (b) Any agreement between an employer and those employed by him as to such employment:
-      (c) Any agreement in consideration of the sale of the goodwill of a business, or of instruction in any profession, trade, or handicraft.
+Provided that this Act shall not affect—
+  (a) any agreement between partners as to their own business:
+  (b) any agreement between an employer and those employed by him as to such employment:
+  (c) any agreement in consideration of the sale of the goodwill of a business, or of instruction in any profession, trade, or handicraft.
 
-## Part  — Criminal provisions
+**Criminal provisions**
 
 ### 3 Trade union not criminal
 The purposes of any trade union shall not, by reason merely that they are in restraint of trade, be deemed to be unlawful so as to render any member of such trade union liable to criminal prosecution for conspiracy or otherwise.
@@ -27,29 +27,29 @@ The purposes of any trade union shall not, by reason merely that they are in res
 The purposes of any trade union shall not, by reason merely that they are in restraint of trade, be unlawful so as to render void or voidable any agreement or trust.
 
 ### 5 Trade union contracts when not enforceable
-Nothing in this Act shall enable any Court to entertain any legal proceeding instituted with the object of directly enforcing or recovering damages for the breach of any of the following agreements, namely:But nothing in this section shall be deemed to constitute any of the above-mentioned agreements unlawful.
-  (a) Any agreement between members of a trade union as such, concerning the conditions on which any members for the time being of such trade union shall or shall not sell their goods, transact business, employ, or be employed:
-  (b) Any agreement for the payment by any person of any subscription or fine to a trade union:
-  (c) Any agreement for the application of the funds of a trade union—
-    (i) To provide benefits to members; or
-    (ii) To furnish contributions to any employer or worker not a member of such trade union, in consideration of such employer or worker acting in conformity with the rules or resolutions of such trade unions; or
-    (iii) To discharge any fine imposed on any person by sentence of a Court of justice:
-  (d) Any agreement made between one trade union and another:
-  (e) Any bond to secure the performance of any of the above-mentioned agreements:
+Nothing in this Act shall enable any court to entertain any legal proceeding instituted with the object of directly enforcing or recovering damages for the breach of any of the following agreements, namely:But nothing in this section shall be deemed to constitute any of the above-mentioned agreements unlawful.
+  (a) any agreement between members of a trade union as such, concerning the conditions on which any members for the time being of such trade union shall or shall not sell their goods, transact business, employ, or be employed:
+  (b) any agreement for the payment by any person of any subscription or fine to a trade union:
+  (c) any agreement for the application of the funds of a trade union—
+    (i) to provide benefits to members; or
+    (ii) to furnish contributions to any employer or worker not a member of such trade union, in consideration of such employer or worker acting in conformity with the rules or resolutions of such trade unions; or
+    (iii) to discharge any fine imposed on any person by sentence of a court of justice:
+  (d) any agreement made between one trade union and another:
+  (e) any bond to secure the performance of any of the above-mentioned agreements:
 
 ### 6 Certain Acts not to apply to trade unions
 (1) The following Acts, that is to say,—shall not apply to any trade union registered under this Act, and the registration of any such trade union under any of the said Acts shall be void.
-  (a) The Companies Act 1955;
-  (ab) The Companies Act 1993;
-  (b) The Life Insurance Act 1908;
-  (c) The Friendly Societies and Credit Unions Act 1982; and
-  (d) The Industrial and Provident Societies Act 1908—
-(2) The validity of the registration before the 31st day of October 1936 of any company or society under the Companies Act 1908, the Friendly Societies Act 1908, the Companies Act 1933, or any of the Acts specified in subsection (1) of this section shall not be questioned on the ground that such company or society is or was a trade union unless on the date of its registration under that Act it was a registered trade union.
+  (a) the Companies Act 1955;
+  (ab) the Companies Act 1993;
+  (b) the Life Insurance Act 1908;
+  (c) the Friendly Societies and Credit Unions Act 1982; and
+  (d) the Industrial and Provident Societies Act 1908—
+(2) The validity of the registration before 31 October 1936 of any company or society under the Companies Act 1908, the Friendly Societies Act 1908, the Companies Act 1933, or any of the Acts specified in subsection (1) of this section shall not be questioned on the ground that such company or society is or was a trade union unless on the date of its registration under that Act it was a registered trade union.
 
 ### 7 Application of certain provisions of Friendly Societies Act
 Notwithstanding anything in the last preceding section a trade union, whether registered or unregistered, which insures or pays money on the death of a child under 10 years of age shall be deemed to be within the provisions of section 46 of the Friendly Societies and Credit Unions Act 1982.
 
-## Part  — Registered trade unions
+**Registered trade unions**
 
 ### 8 Registry of trade unions
 (1) Any 7 or more members of a trade union may, by subscribing their names to the rules of the union, or otherwise complying with the provisions of this Act with respect to registry, register such trade union under this Act, provided that if any one of the purposes of such trade union is unlawful such registration shall be void.
@@ -62,19 +62,19 @@ Notwithstanding anything in the last preceding section a trade union, whether re
 ### 10 Property of trade unions vested in trustees
 (1) All real and personal estate whatsoever belonging to any trade union registered under this Act shall be vested in the trustees for the time being of the trade union appointed as provided by this Act, for the use and benefit of such trade union and the members thereof, and the real and personal estate of any branch of a trade union shall be vested in the trustees of such branch, or of the trustees of the trade union, if the rules of the trade union so provide, and be under the control of such trustees, their respective executors or administrators, according to their respective claims and interests.
 (2) On the death or removal of any such trustees the same shall vest in the succeeding trustees for the same estate and interest as the former trustees had therein, and subject to the same trusts, without any conveyance or assignment whatsoever, save and except in the case of funds invested in any debentures, bonds, or Treasury bills issued under any Act which shall be transferred into the names of such new trustees.
-(3) In all actions, or indictments, or summary proceedings before any Court of summary jurisdiction touching or concerning any such property, the same shall be stated to be the property of the person or persons for the time being holding the said office of trustee, in their proper names, as trustees of such trade union, without any further description.
+(3) In all proceedings before a court touching or concerning any such property, the same shall be stated to be the property of the person or persons for the time being holding the said office of trustee, in their proper names, as trustees of such trade union, without any further description.
 
 ### 11 Provision in case of absence, etc, of trustee
 (1) Where any person, being or having been a trustee of a trade union or of any branch of a trade union, and whether appointed before or after the legal establishment thereof, in whose name any funds, debentures, securities, or money belonging to such union or branch are standing, either jointly with another or others, or solely, is absent from New Zealand, or becomes bankrupt, or files any petition, or executes any deed, assignment, arrangement, or composition with his creditors, or becomes a lunatic, or is dead, or has been removed from his office of trustee, or if it is unknown whether such person is living or dead, the Registrar, on application in writing from the secretary and 3 members of the union or branch, and on proof satisfactory to him, may direct the transfer of such funds, debentures, securities, or money into the names of any other persons as trustees for the union or branch.
 (2) Such transfer shall be made by the surviving or continuing trustees, and if there are no such trustees, or if such trustees refuse or are unable to make such transfer, the Registrar may direct that, where such funds, debentures, securities, or money—
-  (a) Are standing in the books of the Minister of Finance, or are in his control, such transfer be made by the Minister or some officer of the Government to be named in the order:
-  (b) Are standing in the books or in the control of any bank or banking corporation or other corporation or body, such transfer be made by some officer of such bank or banking corporation, or other corporation or body, to be named in the order:
-  (c) Are standing in the books or are in the hands or control of any other person or persons, such transfer be made by such person or persons.
+  (a) are standing in the books of the Minister of Finance, or are in his control, such transfer be made by the Minister or some officer of the Government to be named in the order:
+  (b) are standing in the books or in the control of any bank or banking corporation or other corporation or body, such transfer be made by some officer of such bank or banking corporation, or other corporation or body, to be named in the order:
+  (c) are standing in the books or are in the hands or control of any other person or persons, such transfer be made by such person or persons.
 (3) The Minister of Finance and every such bank and banking corporation, and all corporations, companies, and persons, and their officers and servants respectively, are hereby indemnified for anything done by him or them, or any of his or their officers, in pursuance of this section against any claim or demand of any person injuriously affected thereby.
 
 ### 12 Actions by or against trustees
-(1) The trustees of any trade union registered under this Act, or any other officer of such trade union authorised so to do by the rules thereof, are hereby empowered to bring or defend, or cause to be brought or defended, any action, prosecution, or complaint in any Court touching or concerning the property, right, or claim to property of the trade union.
-(2) In all cases concerning the real or personal property of such trade union the trustees shall and may sue and be sued in any Court in their proper names, without other description than the title of their office.
+(1) The trustees of any trade union registered under this Act, or any other officer of such trade union authorised so to do by the rules thereof, are hereby empowered to bring or defend, or cause to be brought or defended, any action, prosecution, or complaint in any court touching or concerning the property, right, or claim to property of the trade union.
+(2) In all cases concerning the real or personal property of such trade union the trustees shall and may sue and be sued in any court in their proper names, without other description than the title of their office.
 (3) No such action, prosecution, or complaint shall be discontinued or shall abate by the death or removal from office of such persons or any of them, but the same shall and may be proceeded in by their successor or successors as if such death, resignation, or removal had not taken place; and such successor shall pay or receive the like costs as if the action, prosecution, or complaint had been commenced in their names for the benefit of or to be reimbursed from the funds of such trade union, and the summons to be issued to such trustee or other officer may be served by leaving the same at the registered office of the trade union.
 
 ### 13 Limitation of responsibility of trustees
@@ -83,12 +83,13 @@ A trustee of any trade union registered under this Act shall not be liable to ma
 ### 14 Treasurer of trade union to account
 (1) Every treasurer of a trade union registered under this Act, at such times as by the rules of such trade union he should render such account as hereinafter mentioned, or on being required so to do, shall render to the trustees of the trade union, or to the members of such trade union at a meeting of the trade union, a just and true account of all money received and paid by him since he last rendered the like account, and of the balance then remaining in his hands, and of all bonds or securities of such trade union; which account the said trustees shall cause to be audited by some fit and proper person or persons to be appointed by them.
 (2) Such treasurer, if thereunto required, on the said account being audited shall forthwith hand over to the said trustees the balance which on such audit appears to be due from him, and shall also, if required, hand over to such trustees all securities and effects, books, papers, and property of the said trade union in his hands or custody.
-(3) If he fails to do so the trustees of the trade union may sue him in any Court of competent jurisdiction for the balance appearing to have been due from him upon the account last rendered by him, and for all the money since received by him on account of the trade union, and for the securities and effects, books, papers, and property in his hands or custody, leaving him to set off in such action the sums (if any) he may have since paid on account of the trade union; and in such action the trustees shall be entitled to recover their full costs of suit, to be taxed as between solicitor and client.
+(3) If he fails to do so the trustees of the trade union may sue him in any court of competent jurisdiction for the balance appearing to have been due from him upon the account last rendered by him, and for all the money since received by him on account of the trade union, and for the securities and effects, books, papers, and property in his hands or custody, leaving him to set off in such action the sums (if any) he may have since paid on account of the trade union; and in such action the trustees shall be entitled to recover their full costs of suit, to be taxed as between solicitor and client.
 
 ### 15 Punishment for withholding money
-If any officer, member, or other person being or representing himself to be a member of a trade union registered under this Act, or the nominee, executor, administrator, or assignee of a member thereof, or any person whatsoever, by false representation or imposition obtains possession of any money, securities, books, papers, or other effects of such trade union, or, having the same in his possession, wilfully withholds or fraudulently misapplies the same, or wilfully applies any part of the same to purposes other than those expressed or directed in the rules of such trade union, or any part thereof, he shall, on complaint made by any person on behalf of such trade union, or by the Registrar, be liable on summary conviction to a fine not exceeding $100 and costs, and to be ordered to deliver up all such property, or to repay all money applied improperly, and in default of such delivery or repayment, or of the payment of such fine and costs aforesaid, to be imprisoned . . . for any term not exceeding 6 months; but nothing herein shall prevent any such person from being proceeded against by way of indictment, if not previously convicted of the same offence under the provisions of this Act.
+(1) If any officer, member, or other person being or representing himself to be a member of a trade union registered under this Act, or the nominee, executor, administrator, or assignee of a member thereof, or any person whatsoever, by false representation or imposition obtains possession of any money, securities, books, papers, or other effects of such trade union, or, having the same in his possession, wilfully withholds or fraudulently misapplies the same, or wilfully applies any part of the same to purposes other than those expressed or directed in the rules of such trade union, or any part thereof, he shall, in proceedings commenced by any person on behalf of such trade union, or by the Registrar, be liable on conviction to a fine not exceeding 50 pounds and costs, and to be ordered to deliver up all such property, or to repay all money applied improperly, and in default of such delivery or repayment, or of the payment of such fine and costs aforesaid, to be imprisoned for any term not exceeding 6 months.
+(2) Nothing in this section prevents a person being proceeded against under any other enactment for an offence constituted by conduct in a particular case that is the same as conduct punishable under this section if the person has not previously been convicted under this section in respect of that particular conduct.
 
-## Part  — Registry of Trade Unions
+**Registry of Trade Unions**
 
 ### 16 Registrar of trade unions. Annual report
 (1) The person for the time being holding office as the Registrar of Incorporated Societies under the Incorporated Societies Act 1908 shall be the Registrar under this Act.
@@ -96,25 +97,25 @@ If any officer, member, or other person being or representing himself to be a me
 
 ### 17 Regulations for registry
 With respect to the registry under this Act of a trade union, and of the rules thereof, the following provisions shall have effect:
-  (a) An application to register the trade union and printed copies of the rules, together with a list of the titles and names of the officers, shall be sent to the Registrar:
-  (b) The Registrar, on being satisfied that the trade union has complied with the regulations respecting registry in force under this Act, shall register such trade union and such rules:
-  (c) No trade union shall be registered under a name identical with that under which any other existing trade union has been registered, or so nearly resembling such name as to be likely to deceive the members or the public:
-  (d) Where a trade union applying to be registered has been in operation for more than a year before the date of such application, there shall be delivered to the Registrar before the registry thereof a general statement of the receipts, funds, effects, and expenditure of such trade union, in the same form and showing the same particulars as if it were the annual general statement required as hereinafter mentioned to be transmitted annually to the Registrar:
-  (e) The Registrar on registering such trade union shall issue a certificate of registry, which certificate, unless proved to have been withdrawn or cancelled, shall be conclusive evidence that the provisions of this Act with respect to registry have been complied with.
+  (a) an application to register the trade union and printed copies of the rules, together with a list of the titles and names of the officers, shall be sent to the Registrar:
+  (b) the Registrar, on being satisfied that the trade union has complied with the regulations respecting registry in force under this Act, shall register such trade union and such rules:
+  (c) no trade union shall be registered under a name identical with that under which any other existing trade union has been registered, or so nearly resembling such name as to be likely to deceive the members or the public:
+  (d) where a trade union applying to be registered has been in operation for more than a year before the date of such application, there shall be delivered to the Registrar before the registry thereof a general statement of the receipts, funds, effects, and expenditure of such trade union, in the same form and showing the same particulars as if it were the annual general statement required as hereinafter mentioned to be transmitted annually to the Registrar:
+  (e) the Registrar on registering such trade union shall issue a certificate of registry, which certificate, unless proved to have been withdrawn or cancelled, shall be conclusive evidence that the provisions of this Act with respect to registry have been complied with.
 
 ### 18 Rules of registered trade unions
 With respect to the rules of a trade union registered under this Act the following provisions shall have effect:
-  (a) The rules of every such trade union shall contain provisions in respect of the several matters mentioned in Schedule 2 hereto:
-  (b) A copy of the rules shall be delivered by the trade union to every person on demand on payment of a sum not exceeding 10 cents.
+  (a) the rules of every such trade union shall contain provisions in respect of the several matters mentioned in Schedule 2:
+  (b) a copy of the rules shall be delivered by the trade union to every person on demand on payment of a sum not exceeding 1 shilling.
 
 ### 19 Registered office of trade union
-(1) Every trade union registered under this Act shall have a registered office to which all communications and notices may be addressed; if any trade union under this Act is in operation for 7 days without having such an office, such trade union and every officer thereof shall each be liable to a fine not exceeding $10 for every day during which it is so in operation.
+(1) Every trade union registered under this Act shall have a registered office to which all communications and notices may be addressed; if any trade union under this Act is in operation for 7 days without having such an office, such trade union and every officer thereof shall each be liable to a fine not exceeding 5 pounds for every day during which it is so in operation.
 (2) Notice of the situation of such registered office, and of any change therein, shall be given to the Registrar and be recorded by him, and until such notice is given the trade union shall not be deemed to have complied with the provisions of this Act.
 
 ### 20 Withdrawal or cancelling of certificate
 (1) No certificate of registration of a trade union shall be withdrawn or cancelled otherwise than by the Registrar and in the following cases:
-  (a) At the request of the trade union, to be evidenced in such manner as the Registrar from time to time directs:
-  (b) On proof to his satisfaction that the certificate has been obtained by fraud or mistake, or that the registration of the trade union has become void under section 8 hereof, or that such trade union has wilfully, and after notice from the Registrar, violated any of the provisions of this Act, or has ceased to exist.
+  (a) at the request of the trade union, to be evidenced in such manner as the Registrar from time to time directs:
+  (b) on proof to his satisfaction that the certificate has been obtained by fraud or mistake, or that the registration of the trade union has become void under section 8, or that such trade union has wilfully, and after notice from the Registrar, violated any of the provisions of this Act, or has ceased to exist.
 (1A) If a trade union makes default in forwarding to the Registrar the annual returns required by section 28 of this Act, the Registrar may send by post to the last known officers of the union a letter inquiring whether the union is in existence, and, if within 2 months of sending the letter, the Registrar does not receive any answer thereto, or receives an answer to the effect that the union is defunct, the union shall for the purposes of subsection (1) of this section be deemed to have ceased to exist, and the Registrar may, subject to the provisions of subsection (2) of this section, cancel the certificate of registration thereof.
 (2) Not less than 2 months' previous notice in writing, specifying briefly the ground of any proposed withdrawal or cancelling of certificate (unless where the same is shown to have become void as aforesaid, in which case it shall be the duty of the Registrar to cancel the same forthwith), shall be given by the Registrar to a trade union before the certificate of registration of the same can be withdrawn or cancelled (except at its request).
 (3) A trade union whose certificate of registration has been withdrawn or cancelled shall, from the time of such withdrawal or cancelling, absolutely cease to enjoy as such the privileges of a registered trade union, but without prejudice to any liability actually incurred by such trade union, which may be enforced against the same as if such withdrawal or cancelling had not taken place.
@@ -123,7 +124,7 @@ With respect to the rules of a trade union registered under this Act the followi
 A person under the age of 20 but above the age of 14 years may be a member of a trade union, unless provision is made in the rules thereof to the contrary; and may, subject to the rules of the trade union, enjoy all the rights of a member except as herein provided, and execute all instruments and give all acquittances necessary to be executed or given under the rules; but shall not be a member of the committee of management, trustee, or treasurer of the trade union.
 
 ### 22 Payments to nominees of deceased members
-A member of a trade union not being under the age of 14 years may, by writing under his hand, delivered at or sent to the registered office of the trade union, nominate any person not being an officer or servant of the trade union (unless such officer or servant is the husband, wife, civil union partner, de facto partner, father, mother, child, brother, sister, nephew, or niece of the nominator) to whom any money payable on the death of such member not exceeding $100 shall be paid at his decease, and may from time to time revoke or vary such nomination by a writing under his hand similarly delivered or sent; and on receiving satisfactory proof of the death of a nominator, the trade union shall pay to the nominee the amount due to the deceased member not exceeding the sum aforesaid.
+A member of a trade union not being under the age of 14 years may, by writing under his hand, delivered at or sent to the registered office of the trade union, nominate any person not being an officer or servant of the trade union (unless such officer or servant is the husband, wife, civil union partner, de facto partner, father, mother, child, brother, sister, nephew, or niece of the nominator) to whom any money payable on the death of such member not exceeding 50 pounds shall be paid at his decease, and may from time to time revoke or vary such nomination by a writing under his hand similarly delivered or sent; and on receiving satisfactory proof of the death of a nominator, the trade union shall pay to the nominee the amount due to the deceased member not exceeding the sum aforesaid.
 
 ### 23 Change of name
 (1) A trade union may, with the approval in writing of the Registrar, change its name by the consent of not less than two-thirds of the total number of members.
@@ -139,25 +140,27 @@ Notice in writing of every change of name or amalgamation, signed, in the case o
 The rules of every trade union shall provide for the manner of dissolving the same, and notice of every dissolution of a trade union under the hand of the secretary and 7 members of the same shall be sent within 14 days thereafter to the Registrar.
 
 ### 27 Failure to give notice
-A trade union which fails to give any notice or send any document which it is required by this Act to give or send, and every officer or other person bound by the rules thereof to give or send the same, or if there is no such officer, then every member of the committee of management of the union, unless proved to have been ignorant of or to have attempted to prevent the omission to give or send the same, is liable to a fine not exceeding $10 and not less than $2, recoverable at the suit of the Registrar or of any person aggrieved, and to an additional fine of the like amount for each week during which the omission continues.
+A trade union which fails to give any notice or send any document which it is required by this Act to give or send, and every officer or other person bound by the rules thereof to give or send the same, or if there is no such officer, then every member of the committee of management of the union, unless proved to have been ignorant of or to have attempted to prevent the omission to give or send the same, is liable to a fine not exceeding 5 pounds and not less than 1 pound, recoverable at the suit of the Registrar or of any person aggrieved, and to an additional fine of the like amount for each week during which the omission continues.
 
 ### 28 Annual returns
-(1) A general statement of the receipts, funds, effects, and expenditure of every trade union registered under this Act shall be transmitted to the Registrar before the 1st day of June in every year, and shall show fully the assets and liabilities at the date, and the receipts and expenditure of the trade union during the year preceding the date, to which it is made out.
+(1) A general statement of the receipts, funds, effects, and expenditure of every trade union registered under this Act shall be transmitted to the Registrar before 1 June in every year, and shall show fully the assets and liabilities at the date, and the receipts and expenditure of the trade union during the year preceding the date, to which it is made out.
 (2) Such statement shall show separately the expenditure in respect of the several objects of the trade union, and shall be prepared and made out up to such date, in such form, and shall comprise such particulars as the Registrar from time to time requires.
 (3) Every member of and depositor in any such trade union shall be entitled to receive, on application to the treasurer or secretary of that trade union, a copy of such general statement, without making any payment for the same.
 (4) Together with such general statement there shall be sent to the Registrar a copy of all alterations of rules and new rules and changes of officers made by the trade union during the year preceding the date up to which the general statement is made out, and a copy of the rules of the trade union as they exist at that date.
-(5) Every trade union which fails to comply with or acts in contravention of this section, and also every officer of the trade union so failing, is each liable to a fine not exceeding $10 for each offence.
-(6) Every person who wilfully makes or orders to be made any false entry in or any omission from any such general statement or in or from the return of such copies of rules or alterations of rules, is liable to a fine not exceeding $100 for each offence.
+(5) Every trade union which fails to comply with or acts in contravention of this section, and also every officer of the trade union so failing, is each liable to a fine not exceeding 5 pounds for each offence.
+(6) Every person who wilfully makes or orders to be made any false entry in or any omission from any such general statement or in or from the return of such copies of rules or alterations of rules, is liable to a fine not exceeding 50 pounds for each offence.
 
 ### 29 Circulating false copies of rules, etc
-If any person with intent to mislead or defraud gives to any member of a trade union registered under this Act, or to any person intending or applying to become a member of such trade union, a copy of any rules or of any alterations or amendments of the same other than those respectively which exist for the time being, on the pretence that the same are the existing rules of such trade union, or that there are no other rules of such trade union, or if any person with the intent aforesaid gives a copy of any rules to any person on the pretence that such rules are the rules of a trade union registered under this Act which is not so registered, he shall be liable on indictment to a fine not exceeding $100, or to imprisonment . . . for any term not exceeding 2 years.
+If any person with intent to mislead or defraud gives to any member of a trade union registered under this Act, or to any person intending or applying to become a member of such trade union, a copy of any rules or of any alterations or amendments of the same other than those respectively which exist for the time being, on the pretence that the same are the existing rules of such trade union, or that there are no other rules of such trade union, or if any person with the intent aforesaid gives a copy of any rules to any person on the pretence that such rules are the rules of a trade union registered under this Act which is not so registered, he or she commits an offence and is liable on conviction to a fine not exceeding 50 pounds, or to imprisonment for any term not exceeding 2 years.
 
-## Part  — Miscellaneous
+**Miscellaneous**
 
-### 30 Summary proceedings for offences, fines, etc
+### 30 Proceedings for offences, fines, etc
 With respect to offences the following provisions shall have effect:
-  (a) All offences and fines under this Act (otherwise than under section 29 hereof) may be prosecuted and recovered in a summary way, in the manner directed by the Summary Proceedings Act 1957, as respects a prosecution against a trade union or branch, or its officers, in the place where the registered office of the trade union is, or where the offence was committed, or as respects any prosecution against any person other than a trade union or branch, or its officers, in the place where such person is resident at the time of the institution of such prosecution, or where the offence was committed:
-  (b) In any information or complaint under this Act it is sufficient to describe the offence in the words of this Act, and no exemption, proviso, excuse, or qualification accompanying the description of the offence in this Act need be specified or negatived.
+  (a) proceedings for offences against this Act must be commenced by filing a charging document in accordance with the Criminal Procedure Act 2011,—
+    (i) in the case of a prosecution against a trade union or branch, or its officers, in the place where the registered office of the trade union is, or where the offence was committed; or
+    (ii) in the case of a prosecution against any person other than a trade union or branch, or its officers, in the place where such person is resident at the time of the institution of such prosecution, or where the offence was committed:
+  (b) in any charge under this Act it is sufficient to describe the offence in the words of this Act, and no exemption, proviso, excuse, or qualification accompanying the description of the offence in this Act need be specified or negatived.
 
 ### 31 Governor-General may make regulations
 (1) The Governor-General may from time to time make regulations respecting registry and procedure under this Act, and the seal and forms to be used for such registry, and the duties and functions of the Registrar, and the inspection of documents kept by the Registrar under this Act, and generally for carrying this Act into effect.
@@ -168,7 +171,7 @@ With respect to offences the following provisions shall have effect:
 (1) The Governor-General may from time to time determine a scale of fees to be paid for matters to be transacted or for the inspection of documents under this Act.
 (2) All fees and money received by the Registrar under or by virtue of this Act shall be paid into the Public Account and form part of the Consolidated Account.
 
-### 33
+### 33 Expenses of Act
 [Repealed]
 
 ### 34 Proof of instruments
