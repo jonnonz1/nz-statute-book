@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -226,7 +226,7 @@ With respect to the books of account of Maori Associations, the following provis
 (1) Any Maori who—commits an offence against this Act.
   (a) disturbs any congregation assembled for public worship, or any public meeting, or any meeting for any lecture, concert, or entertainment, or any audience at any theatre, whether or not a charge for admission has been made, or interferes with the conduct of any religious service in any church, chapel, burial ground, or other public building or place; or
   (b) in or in view of any public place as defined by section 40 of the Police Offences Act 1927, or within the hearing of any person therein, behaves in a riotous, offensive, threatening, insulting, or disorderly manner, or uses any threatening, abusive or insulting words, or strikes or fights with any other person—
-(2) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the Summary Proceedings Act 1957 in respect of an offence committed against section 3 of the Police Offences Act 1927, but no person shall be punished twice for the same offence.
+(2) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the Criminal Procedure Act 2011 in respect of an offence committed against section 3 of the Police Offences Act 1927, but no person shall be punished twice for the same offence.
 
 ### 31 Prevention of drunkenness
 A Maori Warden may at any reasonable time enter any licensed premises in any area where he is authorised to carry out his duties and warn the licensee or any servant of the licensee to abstain from selling or supplying liquor to any Maori who in the opinion of the Warden is in a state of intoxication, or is violent, quarrelsome, or disorderly, or is likely to become so, whether intoxicated or not, and if the licensee or any servant of the licensee thereafter on the same day supplies liquor to that Maori, the licensee and, if the servant had been warned by the Warden, the servant, commits an offence against this Act.
@@ -247,7 +247,7 @@ A Maori Warden may at any reasonable time enter any licensed premises in any are
   (c) the liquor has been taken to and consumed in a meeting place in accordance with a permit given under this section.
 (7) Nothing in this section shall apply in relation to any liquor consumed in any dwellinghouse by persons for the time being resident therein or to any liquor in any licensed premises or shall be deemed to confer upon any constable or Maori Warden the power to enter without warrant any dwellinghouse unless the person in lawful occupation consents to the entry.
 (8) A Maori Committee for any area in which a meeting place is situated may, in respect of the meeting place, issue a written permit for the introduction of intoxicating liquor into the meeting place for the purpose of being consumed therein at any gathering of Maoris other than a gathering for the purposes of a dance. Any such permit shall prescribe the nature and place of the gathering and may contain such conditions as the Maori Committee thinks fit in respect of the supply and the consumption of liquor. A copy of every such permit shall be supplied to the senior constable for the area and the permit shall not have any effect until the copy is so supplied.
-(9) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the Summary Proceedings Act 1957 in respect of an offence committed against section 59 of the Statutes Amendment Act 1939, but no person shall be punished twice for the same offence.
+(9) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the Criminal Procedure Act 2011 in respect of an offence committed against section 59 of the Statutes Amendment Act 1939, but no person shall be punished twice for the same offence.
 (10) In subsection (6)(a), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ### 34 Prohibition orders against Maoris
@@ -262,12 +262,12 @@ A Maori Warden may at any reasonable time enter any licensed premises in any are
 (3) Every person who fails to comply with any direction given to him under this section or who does any act that is for the time being forbidden under this section commits an offence against this Act:provided that no person shall be deemed to have committed an offence under this section unless the Maori Warden had reasonable grounds for believing that in all the circumstances of the case the direction or prohibition was necessary in the interests of the defendant or of any other person or of the public.
 
 ### 36 Imposition of penalties by Maori Committees
-(1) If a Maori Committee is satisfied that an offence has been committed by a Maori against section 30, section 32, section 33, or section 35, it may authorise proceedings to be taken in a summary manner under the Summary Proceedings Act 1957 in respect of the offence or it may, in its discretion, impose on the offender a penalty in respect thereof of such amount as it thinks fit, not exceeding 10 pounds:provided that no penalty shall be imposed by a Maori Committee under this subsection if the person charged elects to be dealt with summarily under the Summary Proceedings Act 1957, and before imposing any penalty, the Committee shall make known to the offender his right of election and the nature of the charge against him.
-(2) No person shall have a penalty imposed on him under this section for an offence in respect of which summary proceedings have been taken under the Summary Proceedings Act 1957 and no person shall have a penalty imposed on him under the Summary Proceedings Act 1957 for an offence for which a penalty has been imposed under this section.
+(1) If a Maori Committee is satisfied that an offence has been committed by a Maori against section 30, section 32, section 33, or section 35, it may authorise proceedings to be taken under the Criminal Procedure Act 2011 in respect of the offence or it may, in its discretion, impose on the offender a penalty in respect thereof of such amount as it thinks fit, not exceeding 10 pounds:provided that no penalty shall be imposed by a Maori Committee under this subsection if the person charged elects to be dealt with under the Criminal Procedure Act 2011, and before imposing any penalty, the Committee shall make known to the offender his right of election and the nature of the charge against him.
+(2) No person shall have a penalty imposed on him under this section for an offence in respect of which proceedings have been taken under the Criminal Procedure Act 2011 and no person shall have a penalty imposed on him under the Criminal Procedure Act 2011 for an offence for which a penalty has been imposed under this section.
 (3) For the purpose of investigating any offence referred to in subsection (1) and determining the amount of the penalty, a Maori Committee may, subject to any directions of the Minister, adopt such form of procedure as it may think suitable:provided that a Committee shall not impose any penalty on an offender without giving him a reasonable opportunity of being heard in his own defence.
 (4) In any case where a person fails to pay any penalty duly imposed by a Maori Committee under this section, the amount of the penalty shall be recoverable in the District Court as a debt due to the Committee by the person so failing to pay the penalty:provided that that person may defend the proceedings, and in any such case the matter shall be reheard by the court which in its discretion may give judgment for the plaintiff for the amount of the penalty or such less amount as it thinks fit or may give judgment for the defendant.
 (5) The amount of any penalties imposed by a Maori Committee under this section shall be paid to the Committee and shall form part of its funds.
-(6) The amount of any penalty imposed under the Summary Proceedings Act 1957 pursuant to proceedings authorised in that behalf under this section, and the amount of any penalty so imposed on a person who has elected under this section to be dealt with summarily under that Act, shall be paid into the funds of the Maori Committee of the Maori Committee area within which the offence was committed:provided that there shall be deducted from the amount of any such penalty and credited to the Ordinary Revenue Account of the Consolidated Fund an amount equal to 5% of the penalty.
+(6) The amount of any penalty imposed under the Criminal Procedure Act 2011 pursuant to proceedings authorised in that behalf under this section, and the amount of any penalty so imposed on a person who has elected under this section to be dealt with under that Act, shall be paid into the funds of the Maori Committee of the Maori Committee area within which the offence was committed:provided that there shall be deducted from the amount of any such penalty and credited to the Ordinary Revenue Account of the Consolidated Fund an amount equal to 5% of the penalty.
 
 **Miscellaneous provisions**
 
@@ -285,7 +285,7 @@ Every Maori Association shall be a body corporate with perpetual succession and 
 (2) Every instrument or document purporting to have been executed in accordance with the provisions of this section shall, in the absence of proof to the contrary, be deemed for all purposes to have been duly executed.
 
 ### 40 Associations may acquire land
-Any Maori Association may,, acquire any land or interest in land, whether by way of purchase, lease, or otherwise, for any communal purposes, and may sell, lease, sublease, mortgage, or otherwise dispose of any such land or interest so acquired.
+Any Maori Association may acquire any land or interest in land, whether by way of purchase, lease, or otherwise, for any communal purposes, and may sell, lease, sublease, mortgage, or otherwise dispose of any such land or interest so acquired.
 
 ### 40A Property of former Maori Tribal Committees and Maori Tribal Executive Committees
 (1) All the real and personal property which was on 1 January 1963 vested in any Maori Tribal Committee or in any Maori Tribal Executive Committee shall as from that date, without the necessity of any instrument of transfer or other assurance, be transferred to and vest in the corresponding Maori Committee or Maori Executive Committee under this Act.
@@ -295,7 +295,7 @@ Any Maori Association may,, acquire any land or interest in land, whether by way
 No member of a Maori Association shall be personally liable for any act done or omitted by the Association or by any member thereof in good faith in pursuance or in intended pursuance of the powers and authority of the Association.
 
 ### 42 Penalties
-Every person who commits an offence against this Act for which no penalty is specifically provided shall be liable on summary conviction to a fine not exceeding 20 pounds.
+Every person who commits an offence against this Act for which no penalty is specifically provided shall be liable on conviction to a fine not exceeding 20 pounds.
 
 ### 43 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
