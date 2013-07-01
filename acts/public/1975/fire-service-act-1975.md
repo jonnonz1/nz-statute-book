@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -1292,8 +1292,8 @@ Section 72C shall apply in respect of every person who is a member of the New Ze
 (3) The Commission may offer a reward, not exceeding $500, for information leading to the conviction of any person committing an offence under any of the provisions of paragraphs (b) to (g) of subsection (1) within any Fire District or within any rural area in which it has authority, and may pay the reward out of its revenues.
 
 ### 89 Penalties
-(1) Every person who commits an offence under any of the provisions of paragraphs (a) to (c) of section 88(1) shall be liable on summary conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $500 or both.
-(2) Every person who commits an offence under any other provision of this Act, being a provision in respect of which no penalty is otherwise provided for, shall be liable on summary conviction to a fine not exceeding $200 and, if the offence is a continuing one, to a further fine not exceeding $20 for every day during which the offence continues.
+(1) Every person who commits an offence under any of the provisions of paragraphs (a) to (c) of section 88(1) shall be liable on conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $500 or both.
+(2) Every person who commits an offence under any other provision of this Act, being a provision in respect of which no penalty is otherwise provided for, shall be liable on conviction to a fine not exceeding $200 and, if the offence is a continuing one, to a further fine not exceeding $20 for every day during which the offence continues.
 
 ### 90 Fines
 (1) All fines recovered under this Act shall be paid to the Commission and form part of the revenue of the Commission.
@@ -1328,7 +1328,7 @@ Section 72C shall apply in respect of every person who is a member of the New Ze
   (nf) prescribing the form of—
     (i) applications under sections 21C and 21H; and
     (ii) notifications under section 21E:
-  (o) prescribing offences for breaches of any such regulations, or for failure to comply with any lawful direction thereunder, and prescribing, on summary conviction, a fine not exceeding $200 in respect of any such offence, and, if the offence is a continuing one, to a further fine not exceeding $20 for every day during which the offence continues:
+  (o) prescribing offences for breaches of any such regulations, or for failure to comply with any lawful direction thereunder, and prescribing, on conviction, a fine not exceeding $200 in respect of any such offence, and, if the offence is a continuing one, to a further fine not exceeding $20 for every day during which the offence continues:
   (p) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (3)
 (4)
