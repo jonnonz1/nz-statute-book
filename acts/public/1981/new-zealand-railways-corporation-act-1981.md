@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -204,7 +204,7 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
   provided that nothing in this Act shall impose on the Corporation any liability in respect of the goods left on the premises of the Corporation if, by virtue of any such terms and conditions, they are so left, or deemed to be so left, at the risk of the person leaving them.
 (6) The Corporation may make special agreements with any person for insuring any goods delivered upon the railway against all loss or damage from any cause whatever or for insuring the Corporation against all liability in respect of any such loss or damage; and, for the purposes of the premiums in respect of any such insurance, may increase or diminish the charges payable on the goods.
 (7) The Corporation may enter into any kind of contract for the carriage of goods described in section 8 of the Carriage of Goods Act 1979.
-(8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
+(8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
 (9) If in any such document there is any understatement of the quantity, weight, measurement, or value of the goods, or any misdescription of their nature, which if undetected might lead to their being charged for at less than the proper rate, then, in lieu of charges at the ordinary rate, and irrespective of any person's liability under the last preceding subsection, and whether the understatement or misdescription is wilful or not, charges at a special rate to be fixed by the Corporation, not exceeding double the ordinary rate on the whole consignment, shall be payable in respect of the goods.
 
 ### 19 Conveyance of hazardous substances and dangerous goods
@@ -716,7 +716,7 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (b) a copy of all regulations relating to matters affecting the public shall be fixed and maintained in a conspicuous place at every station at which tickets are sold:
     provided that the validity of any regulation, or the liability of any person under any regulation, shall not be affected by any non-compliance with this provision:
   (c) regulations may be so made as to apply generally to all railways and other services lawfully carried on by the Corporation or to any particular railway or service or part of a railway or service:
-  (d) every person who acts in contravention of any regulation under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $100:
+  (d) every person who acts in contravention of any regulation under this section commits an offence and shall be liable on conviction to a fine not exceeding $100:
   (e) if in the opinion of the Corporation the breach of any regulation would cause or be likely to cause danger or annoyance to the public or hindrance to the proper use or working of a railway, the Corporation may authorise any employee, whether in person or otherwise, summarily to interfere or othewise take all proper steps to prevent the occurrence of the danger, annoyance, or hindrance, or the continuance or repetition thereof; and the taking of any such steps shall not relieve any person from any penalty to which he may be liable in respect of the breach of any such regulation.
 
 ### 111 Scales of charges
@@ -773,7 +773,7 @@ Notwithstanding the definition of Government service in section 2 of the Governm
 ## Part 10 — General provisions
 
 ### 115 Offences
-(1) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
+(1) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
   (a) places any rolling stock on a railway, not having lawful authority to do so; or
   (b) moves any part of the rolling stock on a railway, or leaves the same on any part of a railway, not having lawful authority to do so; or
   (c) moves any signal, points, or stop blocks without lawful authority, or shows any signal likely to mislead; or
@@ -787,14 +787,14 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (k) uses or attempts to use any certificate or order for a concession ticket or reduction in fare without being entitled to do so; or
   (l) uses or attempts to use any ticket which is not transferable and has not been issued to him or to some person on his behalf; or
   (m) makes or procures to be made to any employee, or to any agent of the Corporation, or in any document delivered to any such employee or agent, any false statement respecting the age or occupation of any person, or respecting any other matter on which the charge for any ticket is dependent,—
-(2) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding $500.
+(2) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding $500.
   (a) neglects, delays, or refuses to produce or deliver up his ticket immediately it is called for by any employee on any train or other vehicle or elsewhere on the railway; or
   (b) without reasonable cause uses, or attempts to use, or interferes with any braking appliances provided in any railway carriage, or any door in any omnibus for use in cases of emergency; or
   (c) writes, draws, affixes, impresses, or exhibits any placard, bill, statement, word, picture, drawing, or sign on any railway, or sells or attempts to sell any articles on any railway, without being authorised to do so by the Corporation; or
   (d) neglects to shut any gate or slip panel in any fence forming the boundary of, or upon adjoining, any railway,—
 
 ### 116 Penalties for damage to railways
-If any person not having lawful authority or the written permission of the Corporation does, or causes or procures to be done, any of the following things—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
+If any person not having lawful authority or the written permission of the Corporation does, or causes or procures to be done, any of the following things—that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
   (a) encroaches on land being part of any railway by making any building, fence, ditch, drain, or other obstacle, or planting any tree or shrub thereon; or
   (b) digs up, removes, or alters in any way the soil or surface of any such land; or
   (c) fills up, diverts, alters, or obstructs any ditch, drain, or watercourse which directly carries water off any such land or is made to protect the same, or does any act whereby any such ditch, drain, or watercourse is stopped, or the natural flow of water therein is obstructed; or
