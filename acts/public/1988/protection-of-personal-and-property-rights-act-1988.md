@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -401,8 +401,8 @@ Where a property order is made in respect of any person subject to a personal or
   (b) within 30 days after the expiry of each year during which his or her managership continues, a statement relating to the property, as at the expiry of that year, of the person for whom the manager is acting and to the management of that property by the manager during that year:
   (c) within 30 days after the date on which the manager ceases in accordance with section 52 to hold office as manager, a statement relating to the property, as at that date, of the person for whom the manager was acting and to the management of that property by the manager during the period commencing with the expiry of the last complete year of his or her managership and ending with that date.
 (2A) Notwithstanding anything in subsections (1) and (2)(b), the court may specify both the period of 12 months that, in relation to any managership, is to constitute a year for the purposes of any statement required to be filed under subsection (2)(b) and the transitional arrangements that, in relation to statements required to be filed under subsection (2)(b), are to apply in relation to a change of balance date.
-(3) Every manager commits an offence and is liable upon conviction on indictment to imprisonment for a term not exceeding 3 years who, in a statement filed under this section, includes any particular knowing it to be false.
-(4) Every manager commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who fails to file a statement when required to do so by subsection (2).
+(3) Every manager commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 years who, in a statement filed under this section, includes any particular knowing it to be false.
+(4) Every manager commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails to file a statement when required to do so by subsection (2).
 
 ### 46 Statement to be examined by or on behalf of Public Trust
 (1) Where any statement is filed in a court under section 45 by any manager who is not a trustee corporation, the Registrar of the court shall forthwith transmit 1 copy of the statement to Public Trust, and send the other copy to the person for whom the manager is acting.
@@ -636,7 +636,7 @@ The objectives of a pre-hearing conference shall be—
 
 ### 71 Power to require attendance at pre-hearing conference
 (1) Where a person fails to comply with a request under section 66 to attend a pre-hearing conference, a District Court Judge may, on the request of the Registrar of the court, issue a summons requiring the person to attend a pre-hearing conference at a time and place to be specified in the summons.
-(2) Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply to a summons under this section as if it were a witness summons issued under that section.
+(2) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
 ### 72 Privilege
 (1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made in the course of a pre-hearing conference.
@@ -686,7 +686,7 @@ In any proceedings under this Act, whether by way of hearing in the first instan
 (1) Without limiting anything in section 77, in respect of any application for the exercise of the court's jurisdiction under this Act, a court may, of its own motion, call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) A witness called by a court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
 (3) A witness called by a court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or the person in respect of whom the application is made.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+(4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by a court under this section shall be paid in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
 
 ### 79 Attendance at hearings
@@ -1017,7 +1017,7 @@ An attorney must promptly comply with any request for information relating to th
 
 ### 99C Attorney as to property must keep records
 (1) An attorney under an enduring power of attorney in relation to a donor's property must keep records of each financial transaction entered into by the attorney under the enduring power of attorney while the donor is mentally incapable.
-(2) An attorney who fails without reasonable excuse to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(2) An attorney who fails without reasonable excuse to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 99D Medical certification of incapacity
 (1) A certificate of the donor's mental incapacity under this Part must be—
@@ -1112,7 +1112,7 @@ A person dealing with an attorney acting under an enduring power of attorney in 
   (b) the certificate—
     (i) is signed by the attorney or, if the attorney is a corporation, an officer or employee of the corporation authorised by the corporation for the purposes of this subsection; and
     (ii) is given immediately before, or any time after, the doing of a thing by the attorney.
-(7) A person who knowingly gives a false certificate commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(7) A person who knowingly gives a false certificate commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (8) An event revoking the power of attorney means any event described in section 106(1) in which the enduring power of attorney ceases to have effect.
 
 ### 104 Disclaimer by attorney
