@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -1989,11 +1989,11 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 (2) A person commits an offence who, being the operator of a risk management programme or a person who is required to operate under a risk management programme, or a person subject to the requirements of a regulated control scheme, contravenes or fails to comply with any provision of this Act knowing that the contravention or failure—
   (a) may create, directly or indirectly, a risk to human or animal health; or
   (b) may, directly or indirectly, increase the likelihood of an existing risk to human or animal health.
-(3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
-(4) A person who commits an offence against subsection (1) is liable—
+(3)
+(4) A person who commits an offence against subsection (1) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $500,000:
   (b) in the case of an individual, to imprisonment for a term not exceeding 5 years and a fine not exceeding $100,000.
-(5) A person who commits an offence against subsection (2) is liable—
+(5) A person who commits an offence against subsection (2) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $300,000:
   (b) in the case of an individual, to imprisonment for a term not exceeding 2 years and a fine not exceeding $75,000.
 
@@ -2007,8 +2007,8 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (f) falsifies, removes, suppresses, or tampers with any samples, test procedures, test results, or evidence taken or seized by an animal product officer, official assessor, recognised agency, or other recognised or authorised person in the exercise of their functions or powers under this Act; or
   (g) falsifies, removes, suppresses, or tampers with any samples, test procedures, or test results taken by or for an operator of a registered risk management programme for the purposes of that programme or this Act, or by or for a person subject to the requirements of a regulated control scheme for the purposes of that scheme or this Act; or
   (h) aids, abets, incites, counsels, procures, or conspires with any other person to commit an offence under this section.
-(2) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
-(3) A person who commits an offence against subsection (1) is liable—
+(2)
+(3) A person who commits an offence against subsection (1) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $500,000:
   (b) in the case of an individual, to imprisonment for a term not exceeding 5 years and a fine not exceeding $100,000.
 
@@ -2017,23 +2017,23 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (a) any animal material to which any of Parts 2 to 5 apply that, to the person's knowledge, does not or no longer meets any relevant specification under Part 4 or requirement under Part 5, or the requirements of any relevant regulation; or
   (b) any animal product to which any of Parts 2 to 5 apply that, to the person's knowledge, has not been processed in accordance with the requirements of Parts 2 to 5 that apply to the product, or is not otherwise fit for intended purpose.
 (2) A person commits an offence against this Act who sells or offers for sale, or has in possession for sale, any animal material or animal product for human or animal consumption that purports or is represented to have been produced or processed in accordance with Parts 2 to 4, but that, to the person's knowledge, has not been processed in accordance with those Parts.
-(3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
+(3)
 (4) Where in any proceedings for an offence against this section knowledge on the part of the defendant is an essential element of the offence with which the defendant is charged, that knowledge is to be presumed until the contrary is proved.
-(5) A person who commits an offence against this section is liable—
+(5) A person who commits an offence against this section is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $500,000:
   (b) in the case of an individual, to imprisonment for a term not exceeding 2 years and a fine not exceeding $100,000.
 
 ### 129 Presenting non-complying animal material for processing
 (1) A person commits an offence against this Act who, knowing that the animal material is or is likely to be processed for human or animal consumption, presents for sale or processing (whether directly or by an agent) any animal material that fails to comply with any requirement of Parts 2 to 4 that applies to it.
 (2) Where in any proceedings for an offence against this section knowledge on the part of the defendant is an essential element of the offence with which the defendant is charged, that knowledge is to be presumed until the contrary is proved.
-(3) A person who commits an offence under this section is liable on summary conviction—
+(3) A person who commits an offence under this section is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $100,000:
   (b) in the case of an individual, to a fine not exceeding $20,000.
 
 ### 130 Offence to export unless registered
 (1) A person commits an offence against this Act who, being a person who is required to be registered as an exporter in relation to the animal material or product concerned, without being so registered exports any animal material or animal product to which Part 5 applies other than in accordance with an exemption granted under section 9 or section 50 or by regulations made under this Act.
-(2) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
-(3) A person who commits an offence against subsection (1) is liable—
+(2)
+(3) A person who commits an offence against subsection (1) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $300,000:
   (b) in the case of an individual, to a fine not exceeding $50,000.
 
@@ -2055,18 +2055,18 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (bc) being a dual operator butcher, kills an animal that is homekill or recreational catch at any premises or place where regulated animal product is processed or traded; or
   (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of Parts 2 to 4 (except as permitted by sections 67(2)(b)(ii), 68(2)(b)(ii), and 69; or
   (d) presents an animal to a homekill or recreational service provider for killing or processing as homekill when the person is not an owner of the animal who has been actively involved in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the presentation of the animal.
-(3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
-(4) A person who commits an offence against subsection (1) is liable—
+(3)
+(4) A person who commits an offence against subsection (1) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $500,000:
   (b) in the case of an individual, to imprisonment for a term not exceeding 2 years and a fine not exceeding $100,000.
-(5) A person who commits an offence against subsection (2) is liable—
+(5) A person who commits an offence against subsection (2) is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $300,000:
   (b) in the case of an individual, to a fine not exceeding $75,000.
 (6) Where in any proceedings for an offence under this section knowledge on the part of the defendant is an essential element of the offence with which the defendant is charged, that knowledge is to be presumed until the contrary is proven.
 
 ### 132 Breach of compliance order
 (1) A person commits an offence against this Act who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order or interim compliance order issued under section 150 or section 151.
-(2) A person who commits an offence against this section is liable on summary conviction to—
+(2) A person who commits an offence against this section is liable on conviction to—
   (a) a fine not exceeding—
     (i) $300,000, in the case of a body corporate; or
     (ii) $50,000, in the case of an individual; and
@@ -2078,7 +2078,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (b) an assistant of such a person; or
   (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the Food Act 1981 in relation to a food safety programme that is registered as a risk management programme pursuant to section 34),—
 (2) A person commits an offence against this Act who, with intent to deceive, personates or pretends to be an animal product officer, official assessor, recognised risk management programme verifier or recognised risk management programme verifying agency, or a person referred to in subsection (1)(c).
-(3) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding—
+(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
   (a) $250,000, in the case of a body corporate; or
   (b) $50,000, in the case of an individual.
 
@@ -2088,7 +2088,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (b) being a recognised agency, breaches or fails to carry out any of the duties specified in section 112G; or
   (c) being a recognised person, breaches or fails to carry out any of the duties specified in section 112H; or
   (d) being a registered exporter, breaches or fails to carry out any of the duties specified in section 51.
-(2) A person who commits an offence under subsection (1) is liable on summary conviction—
+(2) A person who commits an offence under subsection (1) is liable on conviction—
   (a) in the case of a breach or failure in relation to any of the duties specified in subsection (3), to—
     (i) in the case of a body corporate, a fine not exceeding $200,000:
     (ii) in the case of an individual, a fine not exceeding $50,000:
@@ -2112,7 +2112,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (b) any provision of any regulations made under this Act the failure to comply with which is specified in those regulations as an offence; or
   (c) any direction, condition, notice, or requirement lawfully given, made, or imposed by or under this Act.
 (2) In proceedings for an offence against this section it is not necessary for the prosecution to show that the defendant intended to commit the offence.
-(3) A person who commits an offence against this section for which no other penalty is specified is liable on summary conviction—
+(3) A person who commits an offence against this section for which no other penalty is specified is liable on conviction—
   (a) in the case of a body corporate, to a fine not exceeding $100,000:
   (b) in the case of an individual, to a fine not exceeding $20,000.
 
@@ -2182,9 +2182,9 @@ Where a body corporate is convicted of an offence against this Act, every direct
 (1) Any act or omission on behalf of a body corporate or other person (both called the principal) by a director, agent, or employee (each called the agent) of the principal is to be treated for the purposes of this Act as being also the act or omission of the principal.
 (2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of sections 126, 127, 128, 131(1)(b), 131(1)(c), and 131(2)(b), it is a good defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
-### 145 Offences generally punishable on summary conviction
-(1) Except as provided in sections 126(3), 127(2), 128(3), 130(2), and 131(3), every offence against this Act or any regulations made under this Act is punishable on summary conviction.
-(2) Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+### 145 Time limit for filing charging document for offence against section 129 or 135
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 129 or 135 of this Act ends on the date that is 2 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 **Compliance orders**
 
@@ -2545,42 +2545,6 @@ A person who is required by or under section 159 to keep records or any other in
 (2) For the purposes of sections 20, 21 and 22 of the Interpretation Act 1999, this Act, together with the Animal Products (Ancillary and Transitional Provisions) Act 1999, is to be treated as having repealed the Meat Act 1981 and the Apiaries Act 1969 and (with effect on the commencement of the Animal Products Amendment Act 2005) the Dairy Industry Act 1952 and having been passed in substitution for those Acts (but without preventing the Biosecurity Act 1993 from being similarly treated in relation to relevant provisions of the Apiaries Act 1969).
 
 ## Schedule
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ### 1 Title
 This Act is the Animal Products Amendment Act 2012.
