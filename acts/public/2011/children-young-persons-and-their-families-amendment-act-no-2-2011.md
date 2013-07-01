@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Amendment Act (No 2) 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Children, Young Persons, and Their Families Amendment Act (No 2) 2011.
@@ -36,7 +36,7 @@ The amendments made by section 4 apply in relation to a proceeding being dealt w
   (b) is charged with a category 3 or 4 offence, other than murder or manslaughter, and elects to be tried by a jury; or
   (c) is to have a jury trial and be tried with a person with whom he or she is jointly charged, in accordance with section 277.
 (2) All applicable pre-trial processes must take place before a Youth Court, up to and including—
-  (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with section 57(3)(b) of the Criminal Procedure Act 2011; and
+  (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011; and
   (b) in the case of a charge of murder or manslaughter, transferring the proceeding to the High Court in accordance with section 36(2) of the Criminal Procedure Act 2011.
 (3) For the purposes of the pre-trial processes referred to in subsection (2),—
   (a) a Youth Court has all the powers of a District Court; and
@@ -47,12 +47,12 @@ The amendments made by section 4 apply in relation to a proceeding being dealt w
 
 ### 276 Child or young person may forgo right to jury trial and elect to have proceedings determined by Youth Court
 (1) This section applies if—
-  (a) a child aged 12 or 13 years charged with an offence specified in section 272(1)(b) or (c) elects trial by jury; or
+  (a) a child aged 12 or 13 years charged with an offence specified in section 272(1)﻿(b) or (c) elects trial by jury; or
   (b) a young person charged with a category 3 or 4 offence, other than murder or manslaughter, elects trial by jury.
-(2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with section 57(3)(b) of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
+(2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
 (3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that he or she wishes to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in a Youth Court by a Youth Court Judge.
 (4) If a young person elects to have the charge heard and determined in a Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the young person in accordance with this Act.
-(5) If a child elects to have the charge heard and determined in a Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if he or she were a young person (but subject to section 272A(1)(a), (c), and (d)).
+(5) If a child elects to have the charge heard and determined in a Youth Court by a Youth Court Judge, the Youth Court has the jurisdiction to hear and determine the charge and otherwise deal with the child in accordance with this Act as if he or she were a young person (but subject to section 272A(1)﻿(a), (c), and (d)).
 
 ### 277 Provisions applicable where child, young person, or adult jointly charged
 (1) If a child or young person is charged with any offence jointly with any other person or persons (whether 1 or more young persons, adults, or children), this section applies.
@@ -71,7 +71,7 @@ The amendments made by section 4 apply in relation to a proceeding being dealt w
 (9) If any defendant, not being a child or young person, is convicted in a Youth Court,—
   (a) any sentence imposed or order made must be one that could have been imposed or made if that defendant had been convicted following a trial in a District Court; and
   (b) that defendant must for all purposes, including section 184 of the Criminal Procedure Act 2011, be deemed to have been convicted in a District Court.
-(10) If an adult is tried with a child or young person in the Youth Court under subsection (6)(b) or (7), the following apply in respect of the adult, with the necessary modifications:
+(10) If an adult is tried with a child or young person in the Youth Court under subsection (6)﻿(b) or (7), the following apply in respect of the adult, with the necessary modifications:
   (a) all applicable pre-trial processes under subparts 1 to 3 of Part 3 of the Criminal Procedure Act 2011; and
   (b) sections 60 to 62(1), 62(3) to 65, and 116 of that Act (which relate to sentence indications).
 (11) This section is subject to sections 272A, 274, and 275.
@@ -82,7 +82,7 @@ The amendments made by section 4 apply in relation to a proceeding being dealt w
 (3) If the offence with which the young person is charged is a category 3 offence,—
   (a) the level of trial court is a District Court, unless an order is made under section 68 or 70 of the Criminal Procedure Act 2011 that the trial be held in the High Court; and
   (b) the place of trial is,—
-    (i) in the case of a District Court trial, the District Court nearest to the Youth Court that adjourned the proceeding for trial callover in accordance with section 57(3)(b) of the Criminal Procedure Act 2011 that has jurisdiction to conduct jury trials; or
+    (i) in the case of a District Court trial, the District Court nearest to the Youth Court that adjourned the proceeding for trial callover in accordance with section 57(3)﻿(b) of the Criminal Procedure Act 2011 that has jurisdiction to conduct jury trials; or
     (ii) in the case of a High Court trial, the High Court at the place nearest to the Youth Court that dealt with the pre-trial processes in accordance with section 275(2).
 (4) This section is subject to—
   (a) any order made under section 4A of the District Courts Act 1947 or section 157 of the Criminal Procedure Act 2011; and
@@ -95,7 +95,7 @@ The amendments made by section 4 apply in relation to a proceeding being dealt w
 (3) If it is satisfied that the charge against the young person is proved, the court may make an order under any of the provisions of section 283(e) to (j)—
   (a) when it discharges the charge; or
   (b) at any earlier time after it completes the inquiry referred to in subsection (1).
-(4) The court must not exercise the power in subsection (3)(b) unless section 281(1) is complied with.
+(4) The court must not exercise the power in subsection (3)﻿(b) unless section 281(1) is complied with.
 
 ### 355 Application of Part 6 of Criminal Procedure Act 2011
 (1) The provisions of Part 6 of the Criminal Procedure Act 2011,—
