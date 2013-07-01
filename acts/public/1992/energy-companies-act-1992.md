@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -131,7 +131,7 @@ Subject to section 8, the interim trustees holding office in respect of a Board 
 (3) In any case to which subsection (1)(g) applies,—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction or the sentence and, in the event of an appeal against the conviction or against the sentence or both, until the appeal is determined; and
   (b) the interim trustee concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as an interim trustee during the period of that leave of absence.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who does any act as an interim trustee while incapacitated under subsection (1), except—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who does any act as an interim trustee while incapacitated under subsection (1), except—
   (a) where the incapacity arises under paragraph (a) of that subsection; or
   (b) while on leave of absence pursuant to paragraph (f) or paragraph (g) of that subsection.
 
