@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -40,7 +40,7 @@ The purpose of this Act is—
     (b) tainted property as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **Trial Chamber** means the Trial Chamber of the ICC.
 (2) For the purposes of this Act, a person is not liable to be detained in a New Zealand prison if the person is—
-  (a) subject to a suspended sentence of imprisonment imposed under the Criminal Justice Act 1985 that has not been activated; or
+  (a)
   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
   (ba) subject to a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c)
@@ -101,7 +101,7 @@ For the purposes of any provision of the Statute or the Rules that confers a pow
 **International crimes**
 
 ### 9 Genocide
-(1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere,—
+(1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere,—
   (a) commits genocide; or
   (b) conspires or agrees with any person to commit genocide, whether that genocide is to take place in New Zealand or elsewhere.
 (2) For the purposes of this section, genocide is an act referred to in Article 6 of the Statute.
@@ -110,14 +110,14 @@ For the purposes of any provision of the Statute or the Rules that confers a pow
   (b) in any other case, imprisonment for life or a lesser term.
 
 ### 10 Crimes against humanity
-(1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a crime against humanity.
+(1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a crime against humanity.
 (2) For the purposes of this section, a crime against humanity is an act specified in Article 7 of the Statute.
 (3) The penalty for a crime against humanity is,—
   (a) if the offence involves the wilful killing of a person, the same as the penalty for murder:
   (b) in any other case, imprisonment for life or a lesser term.
 
 ### 11 War crimes
-(1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a war crime.
+(1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a war crime.
 (2) For the purposes of this section, a war crime is an act specified in—
   (a) Article 8(2)(a) of the Statute (which relates to grave breaches of the First, Second, Third, and Fourth Geneva Conventions); or
   (b) Article 8(2)(b) of the Statute (which relates to other serious violations of the laws and customs applicable in international armed conflict); or
@@ -171,10 +171,10 @@ Proceedings may be brought for an offence against any of sections 15 to 21 if—
 **Offences against administration of justice**
 
 ### 15 Corruption of Judge
-(1) Every Judge is liable on conviction on indictment to imprisonment for a term not exceeding 14 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
+(1) Every Judge commits an offence and is liable on conviction to imprisonment for a term not exceeding 14 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
   (a) done or omitted by that Judge in his or her judicial capacity; or
   (b) to be done or to be omitted by that Judge in his or her judicial capacity.
-(2) Every Judge, the Registrar, and the Deputy Registrar is liable on conviction on indictment to imprisonment for a term not exceeding 7 years if, in New Zealand or elsewhere, that Judge, Registrar, or Deputy Registrar corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
+(2) Every Judge, the Registrar, and the Deputy Registrar commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years if, in New Zealand or elsewhere, that Judge, Registrar, or Deputy Registrar corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
   (a) done or omitted by that Judge, Registrar, or Deputy Registrar, in his or her official capacity (other than an act or omission to which subsection (1) applies); or
   (b) to be done or omitted by that Judge, Registrar, or Deputy Registrar, in his or her official capacity (other than an act or omission to which subsection (1) applies).
 (3) In this section and in sections 16 and 21,—
@@ -184,29 +184,29 @@ Proceedings may be brought for an offence against any of sections 15 to 21 if—
 (4) In this section and in sections 16 and 17, bribe has the same meaning as it has in section 99 of the Crimes Act 1961.
 
 ### 16 Bribery of Judge, etc
-(1) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge in respect of any act or omission by that Judge in his or her judicial capacity.
-(2) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge or the Registrar or the Deputy Registrar in respect of an act or omission by that Judge, Registrar, or Deputy Registrar in his or her official capacity (other than an act or omission to which subsection (1) applies).
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge in respect of any act or omission by that Judge in his or her judicial capacity.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge or the Registrar or the Deputy Registrar in respect of an act or omission by that Judge, Registrar, or Deputy Registrar in his or her official capacity (other than an act or omission to which subsection (1) applies).
 
 ### 17 Corruption and bribery of official of ICC
-(1) Every official of the ICC is liable to imprisonment on conviction on indictment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
+(1) Every official of the ICC commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act—
   (a) done or omitted by that officer in his or her official capacity; or
   (b) to be done or omitted by that officer in his or her official capacity.
-(2) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 3 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence an official of the ICC in respect of an act or omission by that officer in his or her official capacity.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence an official of the ICC in respect of an act or omission by that officer in his or her official capacity.
 (3) In this section and in section 21, an official of the ICC means a person employed under Article 44 of the Statute.
 
 ### 18 False evidence
 (1) Every person who gives evidence for the purposes of a proceeding before the ICC or in connection with a request made by the ICC that contains an assertion that, if made in a judicial proceeding in New Zealand as evidence on oath, would be perjury, gives false evidence.
-(2) A person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, gives false evidence.
+(2) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, gives false evidence.
 (3) Despite subsection (2), if the false evidence is given in order to obtain the conviction of a person for an offence for which the maximum punishment is not less than 3 years’ imprisonment, the punishment may be imprisonment for a term not exceeding 14 years.
 
 ### 19 Fabricating evidence before ICC
-Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, with intent to mislead the ICC, fabricates evidence by any means other than the giving of false evidence.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, with intent to mislead the ICC, fabricates evidence by any means other than the giving of false evidence.
 
 ### 20 Conspiracy to defeat justice in ICC
-Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, in relation to any proceedings, request, or other matter referred to in the Statute, conspires to obstruct, prevent, pervert, or defeat the course of justice.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, in relation to any proceedings, request, or other matter referred to in the Statute, conspires to obstruct, prevent, pervert, or defeat the course of justice.
 
 ### 21 Interference with witnesses or officials
-Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere,—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere,—
   (a) dissuades or attempts to dissuade any person, by threats, force, bribery or other means, from giving evidence for the purposes of a proceeding before the ICC or in connection with a request made by the ICC; or
   (b) makes threats or uses force against any Judge, the Registrar, the Deputy Registrar, or any official of the ICC with intent to influence or punish that person, in respect of an act—
     (i) done or omitted by that person or any Judge, the Registrar, the Deputy Registrar, or any official of the ICC, in his or her official capacity; or
@@ -384,7 +384,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 (2) The person—
   (a) is not entitled to bail as of right; and
   (b) may not go at large without bail.
-(3) If the District Court remands the person on bail, the District Court may impose any conditions of bail that the District Court thinks fit in addition to any conditions that the District Court may impose under section 31(1) to (3) of the Bail Act 2000 (as applied by section 49 of that Act).
+(3) If the District Court remands the person on bail, the District Court may impose any conditions of bail that the District Court thinks fit in addition to any conditions that the District Court may impose under section 30(1), (2), and (4) of the Bail Act 2000.
 (4) Without limiting the other factors that may be taken into account in making a decision to grant bail, the District Court must have regard to the following:
   (a) the gravity of the alleged crimes:
   (b) whether there are urgent and exceptional circumstances that favour the grant of bail; and
@@ -399,15 +399,15 @@ After receiving a request under section 33, the District Court Judge must issue 
 
 ### 41 Powers of District Court
 (1) In proceedings under this Part, except as expressly provided in this Act or in regulations made under section 179 or section 180,—
-  (a) a District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a summary offence alleged to have been committed within the jurisdiction of New Zealand; and
+  (a) a District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a category 1 or 2 offence alleged to have been committed within the jurisdiction of New Zealand; and
   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
-    (i) Part 2 and sections 203, 204, and 206 of the Summary Proceedings Act 1957:
+    (i) subparts 1 and 3 of Part 4, Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011:
     (ii) Parts 1 (except sections 9 to 12), 2, and 3 of the Bail Act 2000:
     (iii) sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(2) Despite section 4 of the Summary Proceedings Act 1957, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
-(3) Despite subsections (1) and (2) of section 46 of the Summary Proceedings Act 1957, a decision to remand a person in custody or on bail may be made only by a Judge.
+(2) In accordance with section 355 of the Criminal Procedure Act 2011, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+(3) Despite section 168(1) and (2) of the Criminal Procedure Act 2011, a decision to remand a person in custody or on bail may be made only by a Judge.
 (4)
-(5) Section 184T of the Summary Proceedings Act 1957 and sections 52 and 54 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
+(5) Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
 (6) To avoid doubt, if an application is made for the variation of conditions of bail of a person who is detained under section 46 or section 49, the procedure in section 40(1) and (2) applies.
 
 ### 42 Detention in place other than prison
@@ -459,7 +459,7 @@ After receiving a request under section 33, the District Court Judge must issue 
   (a) the District Court has determined in accordance with section 43 that a person is eligible for surrender; or
   (b) a person has consented to surrender to the ICC in accordance with section 45.
 (2) If this section applies, the District Court must—
-  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 42 of this Act or section 184T(3) of the Summary Proceedings Act 1957 pending the surrender of the person to the ICC or the person’s discharge according to law; and
+  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 42 of this Act or section 169 of the Criminal Procedure Act 2011 pending the surrender of the person to the ICC or the person’s discharge according to law; and
   (b) send to the Minister a copy of the warrant of detention and such report on the case as the court thinks fit; and
   (c) inform a person to whom subsection (1)(a) applies that,—
     (i) subject to section 70, the person will not be surrendered until the expiration of 15 days after the date of the issue of the warrant; and
@@ -653,30 +653,14 @@ If a request for surrender of a person is received from the ICC and 1 or more St
 
 **Appeals against determinations of eligibility for surrender**
 
-### 67 Appeal on question of law only by way of case stated
+### 67 Appeal on question of law only
 (1) This section applies if a District Court determines under section 43 that a person is or is not eligible for surrender in relation to any crime for which surrender is sought, and either party considers the determination erroneous in point of law.
-(2) If this section applies, the party may appeal against the determination to the High Court by way of case stated for the opinion of the High Court on a question of law only.
+(2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
 (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court that made the determination a notice of appeal in the prescribed form.
 
-### 68 Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000
-(1) The following provisions of the Summary Proceedings Act 1957 apply with any necessary modifications to an appeal under this Part as if it were an appeal under Part 4 of that Act against the determination by a District Court of an information or complaint:
-  (a) section 107(3) to (8) (appeal on question of law only by way of case stated):
-  (b) section 108 (no appeal on ground of improper admission or rejection of evidence):
-  (c) section 109 (District Court Judge or Justice may refuse a case if appeal frivolous):
-  (d) section 110 (certiorari not to be required when appeal upon case stated):
-  (e) section 111 (case may be sent back for amendment):
-  (f) section 113 (appeal on point of law may be removed into Court of Appeal):
-  (g) section 123 (powers of Judge of High Court as to extension of time):
-  (h)
-  (i) section 129 (abandonment of appeal):
-  (j) section 130 (presentation of case by party in custody):
-  (k) section 131 (power of High Court to direct rehearing of information or complaint):
-  (l) section 133 (dismissal of appeal for non-prosecution):
-  (m) section 134 (registrar to certify decision on appeal):
-  (n) section 136 (custody of person after determination of appeal):
-  (o) section 143 (no court fees payable on appeal by person sentenced to detention):
-  (p) section 144 (appeal to Court of Appeal).
-(2) Section 47 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under Part 4 of the Summary Proceedings Act 1957 against the determination by a District Court of an information or complaint.
+### 68 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
+(1) Section 59 of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under subpart 8 of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
+(2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
 
 ### 69 Custody pending determination of appeal
 (1) A District Court may order that the person who is the subject of the determination continue to be detained or, as the case may be, issue a warrant for the arrest and detention of the person, pending the determination of the appeal if—
@@ -1841,39 +1825,3 @@ Amendment(s) incorporated in the Act(s).
 | --- | --- | --- |
 |  | (b) | The Bureau shall have a representative character, taking into account, in particular, equitable geographical distribution and the adequate representation of the principal legal systems of the world. |
 |  | (c) | The Bureau shall meet as often as necessary, but at least once a year. It shall assist the Assembly in the discharge of its responsibilities. |
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
