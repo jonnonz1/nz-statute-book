@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act 2011.
@@ -137,7 +137,7 @@ Sections 84A to 84E are repealed and the following sections substituted:Filing o
   (5) If the judgment debtor or relevant officer is arrested under this section, the following provisions apply:
     (a) the judgment debtor or relevant officer must be brought before a Judge or Registrar as soon as possible for the purpose of commencing or continuing the hearing:
     (b) the judgment debtor or relevant officer is bailable as of right:
-    (c) section 46 of the Summary Proceedings Act 1957 and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
+    (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
     (d) if the judgment debtor or relevant officer cannot practicably be brought before a Judge or Registrar, then a Police employee or bailiff may take the bail bond of the judgment debtor or relevant officer, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail bond were taken by a Police employee under section 21(1) of that Act.
   (6) In this section, summons means—
     (a) a summons to attend a hearing under section 84D:
@@ -258,7 +258,7 @@ Section 84O is repealed and the following sections are substituted:Contempt proc
   (3) The court may, on the application of a judgment creditor, order the judgment debtor to do community work, not exceeding 200 hours, as the court thinks fit.
   (4) Alternatively, the court may impose any of the orders referred to in section 79(1), (3), or (4) or do any of the things referred to in section 84EC(2) instead of or in addition to ordering the judgment debtor to do community work under subsection (3).
   (5) An order made under subsection (3) has effect as if it were a sentence of community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, apply accordingly.
-  (6) If a District Court, acting under this section, orders a respondent to do community work, the judgment debtor has the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court on an information.
+  (6) If a District Court, acting under this section, orders a respondent to do community work, the judgment debtor has the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court before a Judge alone in relation to a charge.
   (7) An order made under subsection (3) does not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
   (1) On receipt of an application under section 84O(3), the Registrar must—
     (a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
@@ -277,7 +277,7 @@ Section 84O is repealed and the following sections are substituted:Contempt proc
     (a) the judgment debtor must be brought before a Judge or, if a Judge is not available, the Registrar:
     (b) if the judgment debtor is brought before the Registrar, the Registrar must appoint a time and place for the judgment debtor to appear before a Judge for the purpose of commencing or continuing the hearing:
     (c) the judgment debtor is bailable as of right:
-    (d) section 46 of the Summary Proceedings Act 1957 and Parts 1 to 3 of the Bail Act 2000 apply, with any modifications that may be necessary, as if the hearing of the application referred to in subsection (1) were the hearing of a charge:
+    (d) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any modifications that may be necessary, as if the hearing of the application referred to in subsection (1) were the hearing of a charge:
     (e) if the judgment debtor cannot practicably be brought immediately before a Judge or Registrar, then any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
 
 ### 24 Judgment debtor doing community work to be discharged on payment
