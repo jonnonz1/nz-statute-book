@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2009-11-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -101,7 +101,7 @@ This Act binds the Crown.
   (b) the first-mentioned person knows that the harassment is likely to cause the other person, given his or her particular circumstances, to reasonably fear for—
     (i) that other person's safety; or
     (ii) the safety of any person with whom that other person is in a family relationship.
-(2) Every person who commits an offence against this section is liable, on summary conviction, to imprisonment for a term not exceeding 2 years.
+(2) Every person who commits an offence against this section is liable, on conviction, to imprisonment for a term not exceeding 2 years.
 
 ## Part 3 — Civil harassment
 
@@ -243,8 +243,8 @@ Sections 11 and 13, so far as applicable and with the necessary modifications, a
 (1) Every person commits an offence who, without reasonable excuse,—
   (a) does any act in contravention of a restraining order; or
   (b) fails to comply with any condition of a restraining order.
-(2) Subject to subsection (3), every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years where—
+(2) Subject to subsection (3), every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years where—
   (a) that person has previously been convicted on at least 2 different occasions of a qualifying offence; and
   (b) at least 2 of those qualifying offences were committed not earlier than 3 years before the commission of the offence being dealt with by the court.
 (4) For the purposes of subsection (3), a qualifying offence, in relation to the offence being dealt with by the court, is an offence against subsection (1), where the 2 offences are committed in respect of—
@@ -267,7 +267,7 @@ Sections 11 and 13, so far as applicable and with the necessary modifications, a
 (7) Nothing in this section limits or affects any other power conferred on a constable to require a person to supply any particulars.
 
 ### 27 Offence
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, having been required by any constable to supply any particulars or evidence under section 26, without reasonable excuse,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, having been required by any constable to supply any particulars or evidence under section 26, without reasonable excuse,—
   (a) refuses or fails to supply the particulars or evidence; or
   (b) supplies any particulars or evidence knowing that the particulars or evidence are false in a material respect.
 
@@ -374,7 +374,7 @@ Except where the court making the order appealed from otherwise directs,—
 
 ### 41 Contravention of orders made under section 39
 (1) Every person commits an offence who breaches any order made under section 39(1)(a) or section 39(1)(b) or evades or attempts to evade any such order.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 (3) The breach of any order made under section 39(1)(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
