@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -128,11 +128,11 @@ Sections 7 to 9, and the principles in them guiding the treatment of victims, do
 (2) The events referred to in subsection (1)(d) are—
   (a) the first appearance in court, in connection with the offence, of the person accused of the offence:
   (b) any preliminary hearing relating to the offence:
-  (c) any defended hearing, or trial, relating to the offence:
+  (c) any trial relating to the offence:
   (d) any hearings set down for sentencing for the offence:
   (e) any hearings of appeals (if any) against conviction of the offence, or against the sentence imposed, or to be imposed, for the offence, or both.
 (3) Nothing in this section prevents information of a kind that, under this section, must be given to a victim of an offence, from also being given to any other person (for example, to a person who was disadvantaged by the offence).
-(4) In this section, investigating authorities means persons or bodies investigating the offence in the performance or exercise of their official functions, powers, or duties; but does not include a person exercising or performing functions, powers, or duties of a probation officer under the Criminal Justice Act 1985 or any other enactment.
+(4) In this section, investigating authorities means persons or bodies investigating the offence in the performance or exercise of their official functions, powers, or duties; but does not include a person exercising or performing functions, powers, or duties of a probation officer under any enactment.
 
 ### 13 Limits on duties to give information under sections 11 and 12
 (1) Nothing in section 11 or section 12 requires any person to give information if good reason for withholding the information would exist under any of sections 6, 7, and 9 of the Official Information Act 1982, if a request for that information were made under that Act.
@@ -358,7 +358,7 @@ Sections 32 to 38 and 47 apply to a victim to whom this section applies only if 
 (2) However, notice under subsection (1)(c)(i) or (ii) need not be given if, before it has been practicable to give the notice, the accused or offender returns or is returned to the place of prison detention or to the residence in which he or she is on home detention.
 (3) In this section, prison detention—
   (a) means detention in a prison (or in a Police station or other place of confinement in accordance with section 35 of the Corrections Act 2004); and
-  (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in section 142A(1) of the Criminal Justice Act 1985; but
+  (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in section 34A(1) of the Corrections Act 2004; but
   (c) does not include detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
   (d) does not include detention of a kind referred to in section 37(1)(a) or (b) of this Act.
 
