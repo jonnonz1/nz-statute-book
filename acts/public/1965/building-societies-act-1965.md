@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to building societies
 
@@ -55,7 +55,7 @@ _Consolidation as at 2012-07-01_
   - **special resolution** has the meaning assigned to it by section 81
   - **terminating society** has the meaning assigned to it by section 10; and, where a permanent society in existence at the commencement of this Act had, on 1 August 1965, shareholders in terminating groups, includes that part of the society's activities which relates to terminating groups.
 (2) For the purposes of Part 7A, conversion date means the date shown on the certificate of incorporation of a society as a company under the Companies Act 1955 or the Companies Act 1993, as the case may be, issued pursuant to section 113D.
-(3) For the purposes of any enactment in this Act which provides that an officer of a society who is in default shall be liable to imprisonment or to a fine, the expression officer who is in default means any officer of the society who knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in the enactment.
+(3) For the purposes of any enactment in this Act which provides that an officer of a society who is in default shall be liable on conviction to imprisonment or to a fine, the expression officer who is in default means any officer of the society who knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in the enactment.
 (4)
 (5) Any reference in this Act to contravention of any provision of this Act, or of any regulations or directions thereunder, shall include a reference to failure to comply with that provision.
 
@@ -266,7 +266,7 @@ If the Registrar refuses to register the rules, the society may submit the rules
 ### 20 Copies of rules to be supplied on request
 (1) On the request of any person, a society shall supply to that person a complete printed copy of its rules with a copy of the society's certificate of incorporation annexed to it.
 (2) The society shall be entitled to charge a sum not exceeding 5 shillings for every such copy of its rules.
-(3) If any society fails to comply with the requirements of subsection (1), the society, and every officer of the society who is in default, shall be guilty of an offence and shall be liable to a fine not exceeding 50 pounds.
+(3) If any society fails to comply with the requirements of subsection (1), the society, and every officer of the society who is in default, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 50 pounds.
 
 **Name of society**
 
@@ -282,7 +282,7 @@ If the Registrar refuses to register the rules, the society may submit the rules
 ### 22 Society to use registered name
 (1) A society shall not use any name or title other than its registered name:
   provided that the Registrar may from time to time, by writing, authorise any society to use for any specified purpose or purposes any abbreviation of that name approved by him in that behalf.
-(2) If any society contravenes the provisions of subsection (1), the society, and every director of the society who is a party to the contravention, shall be guilty of an offence and shall be liable to a fine not exceeding 10 pounds and, if the offence is a continuing one, to a further fine not exceeding 10 pounds for every day during which the offence has continued.
+(2) If any society contravenes the provisions of subsection (1), the society, and every director of the society who is a party to the contravention, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 10 pounds and, if the offence is a continuing one, to a further fine not exceeding 10 pounds for every day during which the offence has continued.
 
 ### 23 Change of name
 (1) Subject to the provisions of this Act, a society may change its name by special resolution.
@@ -335,7 +335,8 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
 
 ### 28 Business not to be commenced before incorporation
 (1) No society, and no persons representing themselves to be a society, shall commence business without first obtaining a certificate of incorporation under this Act.
-(2) Every society or person who acts in contravention of this section commits an offence and is liable, on information laid by the FMA, to a fine not exceeding 5 pounds for every day during which business has been carried on without a certificate of incorporation having been obtained.
+(2) Every society or person who acts in contravention of this section commits an offence and is liable on conviction to a fine not exceeding $10 for every day during which business has been carried on without a certificate of incorporation having been obtained.
+(3) Proceedings for an offence against this section must be commenced by the FMA.
 
 ### 29 Minimum subscription by founding members
 (1) A society incorporated after the commencement of this Act shall not commence any business or borrow any money unless there has been produced to the Registrar evidence satisfying him that all those members who signed a copy of the rules for sending to the Registrar under section 13—and that the Registrar has issued to the society his certificate that the requisite evidence has been so produced.
@@ -345,7 +346,7 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
 (2) If at the end of the period of 2 months beginning with the date on which the society became a body corporate the requisite evidence has not been produced to the Registrar under subsection (1), the Registrar may if he thinks fit cancel the registration of the society, and the society shall cease to enjoy the privileges of a society under this Act.
 (3) Notice of the cancellation of registration of a society under subsection (2) shall be published by the Registrar in the Gazette, and in such other ways as appear to him to be expedient for informing the public, and the Registrar must register the cancellation.
 (4) The provisions of Schedule 2 shall have effect in respect of shares issued in conformity with subsection (1), for the purpose of ensuring that the conditions attaching to the shares are observed until the end of the period of 5 years beginning with the date on which the Registrar issued his certificate to the society under that subsection.
-(5) If any society commences business or borrows any money in contravention of this section, the society shall be guilty of an offence and shall be liable on conviction on indictment to a fine not exceeding 500 pounds; and every officer of the society who is in default shall be guilty of an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both.
+(5) If any society commences business or borrows any money in contravention of this section, the society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 500 pounds; and every officer of the society who is in default shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both.
 
 ### 30 Commencement of advertising
 [Repealed]
@@ -680,9 +681,9 @@ Every society shall have at least 2 directors.
   (a) any loan made by the society; or
   (b) any policy of insurance effected through the society or issued by a person nominated or selected by the society.
 (2) If any director or other officer contravenes any of the foregoing provisions of this section—
-  (a) that director or other officer commits an offence and shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both; and
-  (b) if, having been convicted of an offence against subsection (1), that director or other officer fails to pay to the society the amount or value of the commission referred to in that subsection, as and when directed to do so by the convicting court, that director or other officer commits a further offence and shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both.
-(3) If any person pays to any director or other officer any commission to which this section applies, that person commits an offence and shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both.
+  (a) that director or other officer commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both; and
+  (b) if, having been convicted of an offence against subsection (1), that director or other officer fails to pay to the society the amount or value of the commission referred to in that subsection, as and when directed to do so by the convicting court, that director or other officer commits a further offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both.
+(3) If any person pays to any director or other officer any commission to which this section applies, that person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $100, or to both.
 (4) In this section, commission includes any gift, bonus, or benefit.
 
 ### 88 Notice of changes in holding of certain offices
@@ -696,7 +697,7 @@ Every society shall have at least 2 directors.
 ### 89 Office management
 (1) Every society shall establish and maintain a system to ensure the safe custody of all mortgage instruments, deeds, and documents of title belonging to or held by the society.
 (2) A society shall not be taken to have established a proper system under this section unless, under the system, on each occasion on which any such instrument, deed, or document of title is released from such safe custody, the consent is obtained of the board of directors or of a person authorised by the board to give such consent.
-(3) If a director of a society—he commits an offence and shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding 200 pounds, or to both.
+(3) If a director of a society—he commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding 200 pounds, or to both.
   (a) fails to take all reasonable steps to ensure compliance by the society with this section; or
   (b) has by his own wilful act been the cause of any default by the society thereunder—
 (4) It shall be a defence to a charge of an offence against paragraph (a) of subsection (3) to prove that the person charged had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the requirements of this section were complied with and was in a position to discharge that duty.
@@ -750,7 +751,7 @@ Every society shall have at least 2 directors.
   (b) be in such form and contain such information as may be prescribed.
 
 ### 94 Offences under sections 90 to 93
-(1) Every director of a society commits an offence, and shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $400, who—
+(1) Every director of a society commits an offence, and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $400, who—
   (a) fails to take all reasonable steps to comply or, as the case may require, to ensure compliance by the society, with the requirements of any of the provisions of sections 90 to 93; or
   (b) has by any wilful act been the cause of any default by the society under any such provision.
 (2) In any proceedings against any person in respect of an offence against subsection (1)(a), it shall be a defence to prove that the person charged had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the requirements of the provision in question were complied with and was in a position to discharge that duty.
@@ -1120,7 +1121,7 @@ Where a society becomes converted into a company pursuant to this Part and that 
 ### 113P Prohibition of bonus ballots after expiry of 3 years from conversion date
 (1) No company into which a society has become converted in accordance with this Part, and no person acting on behalf of any such company, shall, at any time after the expiry of 3 years from the conversion date, conduct any ballot for the purpose of ascertaining the entitlement of any person to receive prizes.
 (2) Every company that, at any time after its conversion from a society pursuant to this Part, is under a liability to any person to hold ballots for the purpose of ascertaining the entitlement of any person to receive prizes shall, before the expiry of 3 years from the conversion date, except to the extent that such liabilities may have been otherwise discharged, discharge those liabilities in accordance with regulations made under section 113Q.
-(3) Every company, and every person acting on behalf of a company, commits an offence and is liable to a fine not exceeding $1,000 who—
+(3) Every company, and every person acting on behalf of a company, commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) conducts any ballot in contravention of subsection (1); or
   (b) fails to comply with the provisions of subsection (2).
 
@@ -1169,7 +1170,7 @@ A society may be dissolved in the manner prescribed by its rules.
 ### 116 Provisions as to dissolution under last 2 preceding sections
 (1) The provisions of this section shall have effect in relation to the dissolution of a society under section 114 or section 115.
 (2) The provisions of this Act shall continue to apply in relation to the society as if the liquidators or other persons conducting its dissolution, or, as the case may be, the trustees appointed under the instrument of dissolution, were the board of directors of the society.
-(3) Such liquidators, trustees, or other persons as aforesaid shall, within 28 days from the termination of the dissolution, send to the Registrar for registration an account and statement of financial position signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the way in which those assets and liabilities have been applied and discharged; and if they fail to do so each of them shall be guilty of an offence and shall be liable to a fine not exceeding 5 pounds for every day during which the default has continued.
+(3) Such liquidators, trustees, or other persons as aforesaid shall, within 28 days from the termination of the dissolution, send to the Registrar for registration an account and statement of financial position signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the way in which those assets and liabilities have been applied and discharged; and if they fail to do so each of them shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 5 pounds for every day during which the default has continued.
 (4)
 (5) Except with the consent of the Registrar—shall be of any effect if the purpose of the proposed dissolution is to effect or facilitate the transfer of the society's engagements to any other society.
   (a) no resolution, instrument of dissolution, or other proceeding for the dissolution of a society; and
@@ -1281,9 +1282,9 @@ A person may, on payment of the prescribed fee (if any), inspect—
   (b) the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
   (c) any person authorised by that Registrar or Deputy Registrar to receive such records or information.
 (6) The Minister or the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act may, by written notice to that person, require a person for the time being holding the office of Registrar or Deputy Registrar to give a direction under subsection (5); and that person shall comply with any such requirement.
-(7) If any society refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1), any document that the Registrar or authorised person has under that subsection required it to produce, the society commits an offence and shall be liable to a fine not exceeding $1,000.
-(8) If any officer of a society or other person refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1), any document within the power or control of that officer or person that the Registrar or authorised person has under that subsection required that officer or person to produce, that officer or person commits an offence and shall be liable to a fine not exceeding $1,000.
-(9) Any person who wilfully obstructs or hinders the Registrar, or any person authorised by the Registrar for the purposes of subsection (1), while the Registrar or authorised person is making an inspection, or a record, or taking possession of, or removing any documents pursuant to that subsection, commits an offence and shall be liable to a fine not exceeding $1,000.
+(7) If any society refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1), any document that the Registrar or authorised person has under that subsection required it to produce, the society commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(8) If any officer of a society or other person refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1), any document within the power or control of that officer or person that the Registrar or authorised person has under that subsection required that officer or person to produce, that officer or person commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(9) Any person who wilfully obstructs or hinders the Registrar, or any person authorised by the Registrar for the purposes of subsection (1), while the Registrar or authorised person is making an inspection, or a record, or taking possession of, or removing any documents pursuant to that subsection, commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
 (10) Nothing in this section limits or affects legal professional privilege.
 
 ### 122B Registrar may refuse to disclose information relating to inspection
@@ -1376,26 +1377,28 @@ Without prejudice to section 124, the Registrar may, if he thinks fit, cancel th
 (1) Every person commits an offence who—
   (a) by false representation or imposition obtains possession of any money, securities, books, papers, or other effects of a society; or
   (b) having any of the same in his possession, withholds or misapplies them, or wilfully applies any part of them to purposes other than those authorised by the society's rules or by this Act.
-(2) Every person who commits an offence against this section shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both.
+(2) Every person who commits an offence against this section shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both.
 (3) The court by which any person is convicted of an offence against this section may order him to deliver up or repay to the society any money, securities, books, papers, or other effects in respect of which he is so convicted.
-(4) An information in respect of an offence against this section may not be laid by a member of the society, unless he is authorised to do so by the society or the board of directors or the Registrar.
+(4) Proceedings in respect of an offence against this section may not be commenced by a member of the society, unless he is authorised to do so by the society or the board of directors or the Registrar.
 
 ### 133 False statements in documents
-(1) If any person wilfully makes, or orders or allows to be made, any false statement in any document to which this section applies, or by erasure, omission, or otherwise wilfully falsifies any such document, he commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds or to both.
+(1) If any person wilfully makes, or orders or allows to be made, any false statement in any document to which this section applies, or by erasure, omission, or otherwise wilfully falsifies any such document, he commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds or to both.
 (2) This section applies—
   (a) to any document sent to the Registrar under or pursuant to this Act; and
   (b) to any document consisting of a statement issued by a society pursuant to subsection (1) of section 34.
 
 ### 134 Summary jurisdiction in respect of indictable offences
-Part 2 of Schedule 1 of the Summary Proceedings Act 1957 is hereby amended in the manner indicated in Schedule 5.
+[Repealed]
 
-### 135 Offences punishable on summary conviction
-(1) Except where this Act otherwise provides, every offence against this Act, or against any regulations made under this Act, shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information laid by the Registrar in respect of any offence against this Act to which that section applies may, subject to subsection (3), be laid at any time within 2 years beginning from the date on which evidence, sufficient in the opinion of the Registrar to justify a prosecution for the offence, comes to his knowledge.
-(3) Nothing in subsection (2) shall authorise the laying of an information in respect of any such offence at a time more than 3 years after the date on which the offence was committed.
+### 135 Time for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against section 29(5), 132(2), or 133(1); and
+  (b) the limitation period in respect of any other offence against this Act ends on the date that is 2 years after the date on which evidence, sufficient in the opinion of the Registrar to justify a prosecution for the offence, comes to the Registrar's knowledge.
+(2) Nothing in subsection (1)(b) authorises the filing of a charging document in respect of an offence at a time more than 3 years after the date on which the offence was committed.
+(3) Subsection (1) is subject to subsection (2).
 
 ### 136 General penalty for offences
-Every society or person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding 500 pounds.
+Every society or person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding 500 pounds.
 
 ### 137 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
