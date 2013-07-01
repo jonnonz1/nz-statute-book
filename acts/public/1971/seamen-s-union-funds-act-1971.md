@@ -1,24 +1,25 @@
 # Seamen's Union Funds Act 1971
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the management of the assets of the deregistered New Zealand Seamen's Industrial Union of Workers, and for matters incidental thereto
 
 ## Preamble
-WHEREAS the registration of the New Zealand Seamen's Industrial Union of Workers was cancelled, pursuant to section 198 of the Industrial Conciliation and Arbitration Act 1954, by notice in the Gazette on the 5th day of November 1971: And whereas it is expedient that pending the registration of a new union provision be made for the management and administration of the assets of the former union, for the discharge of its lawful obligations, and also that provision be made for the vesting in a new union of the assets of the former union, and for other incidental and subsidiary matters:
+Whereas the registration of the New Zealand Seamen's Industrial Union of Workers was cancelled, pursuant to section 198 of the Industrial Conciliation and Arbitration Act 1954, by notice in the Gazette on 5 November 1971:
+And whereas it is expedient that pending the registration of a new union provision be made for the management and administration of the assets of the former union, for the discharge of its lawful obligations, and also that provision be made for the vesting in a new union of the assets of the former union, and for other incidental and subsidiary matters.
 
 ### 1 Short Title
 This Act may be cited as the Seamen's Union Funds Act 1971.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Assets of the Union** means all real or personal property of the Union or of any of its branches; and, without limiting the generality of the foregoing provisions of this definition, includes—and also includes every estate or interest in real or personal property of which The Federated Seamen's Union of New Zealand Industrial Association of Workers, or the Auckland Federated Seamen's Industrial Union of Workers, or the Wellington Federated Seamen's Industrial Union of Workers, or The Dunedin Federated Seamen's Industrial Union of Workers (being predecessors of the Union) is registered as the proprietor at the date of the passing of this Act
-    (a) Bank notes and other currency, postal notes, money orders, promissory notes, and bills of exchange, and any other negotiable instruments payable in currency; and
-    (b) Any amount deposited in a bank, and any amount for which cheques can be drawn on a bank pursuant to an arrangement for the time being subsisting; and
-    (c) Any real or personal property of any member or officer or position-holder of the Union or any of its branches, if that property was the property of the Union or any branch on the 4th day of November 1971; and
-    (d) All real and personal property of the Union or any of its branches which at any time has been transferred to or vested in any person in trust for the Union or of any of its branches or has been disposed of without adequate consideration in money or money's worth;—
+  - **assets of the Union** means all real or personal property of the Union or of any of its branches; and, without limiting the generality of the foregoing provisions of this definition, includes—and also includes every estate or interest in real or personal property of which The Federated Seamen's Union of New Zealand Industrial Association of Workers, or the Auckland Federated Seamen's Industrial Union of Workers, or the Wellington Federated Seamen's Industrial Union of Workers, or The Dunedin Federated Seamen's Industrial Union of Workers (being predecessors of the Union) is registered as the proprietor at the date of the passing of this Act
+    (a) bank notes and other currency, postal notes, money orders, promissory notes, and bills of exchange, and any other negotiable instruments payable in currency; and
+    (b) any amount deposited in a bank, and any amount for which cheques can be drawn on a bank pursuant to an arrangement for the time being subsisting; and
+    (c) any real or personal property of any member or officer or position-holder of the Union or any of its branches, if that property was the property of the Union or any branch on 4 November 1971; and
+    (d) all real and personal property of the Union or any of its branches which at any time has been transferred to or vested in any person in trust for the Union or of any of its branches or has been disposed of without adequate consideration in money or money's worth;—
   - **Manager** means Public Trust as Manager of the assets of the Union
   - **Minister** means the Minister of Labour
-  - **The Union** means the organisation known as The New Zealand Seamen's Industrial Union of Workers on the 4th day of November 1971.
+  - **Union** means the organisation known as The New Zealand Seamen's Industrial Union of Workers on 4 November 1971.
 
 ### 3 Appointment of Manager
 Public Trust is hereby appointed to be the Manager of the assets of the Union.
@@ -32,17 +33,17 @@ Public Trust is hereby appointed to be the Manager of the assets of the Union.
 
 ### 5 Powers of Manager
 The Manager shall have the following powers:
-  (a) To take and retain possession of all assets of the Union, and in particular, but without limiting the generality of the power conferred by this paragraph, to demand, receive, and hold all instruments of title to any of the assets which are or may be in the possession or under the control of any person, whether or not employed by the Union or any branch thereof, with all related documents, records, and lists or instruments of title:
-  (b) To have full and free access to any books of accounts, documents, and records of the Union or of any branch of the Union, and make copies thereof or take extracts therefrom, and, if he considers it necessary, to take and retain possession thereof:
-  (c) To complete, carry out, perform, or enforce in such manner as he may think fit any contracts entered into by the Union or any branch thereof before the 5th day of November 1971 and exercise any powers conferred by any such contract:
-  (d) To do any act or thing requisite to obtaining or perfecting the title to any of the assets:
-  (e) To bring any action or other proceedings relating to the assets or to the recovery thereof, and defend, confess, or compromise, or submit to judgment in, any action, claim, demand, or proceeding touching the assets:
-  (f) To insure against fire or accident or otherwise any of the assets:
-  (g) To employ or appoint servants, clerks, and agents on such terms and subject to such conditions as he thinks fit:
-  (h) To appoint an agent to do anything that the Manager is authorised to do as Manager of the assets of the Union; to delegate all or any of his powers and functions, either generally or particularly, to any person or class of persons, and to revoke any such delegation:
-  (i) To open in any bank in New Zealand an account in the name of the Manager, and operate on the account in such manner and to such extent as the Manager may from time to time determine:
-  (j) To exercise as if he were trustee of the assets all powers which he could exercise under the Trustee Act 1956 or any other Act or law:
-  (k) Such other powers as may be conferred on the Manager by regulations made pursuant to section 9 of this Act.
+  (a) to take and retain possession of all assets of the Union, and in particular, but without limiting the generality of the power conferred by this paragraph, to demand, receive, and hold all instruments of title to any of the assets which are or may be in the possession or under the control of any person, whether or not employed by the Union or any branch thereof, with all related documents, records, and lists or instruments of title:
+  (b) to have full and free access to any books of accounts, documents, and records of the Union or of any branch of the Union, and make copies thereof or take extracts therefrom, and, if he considers it necessary, to take and retain possession thereof:
+  (c) to complete, carry out, perform, or enforce in such manner as he may think fit any contracts entered into by the Union or any branch thereof before 5 November 1971 and exercise any powers conferred by any such contract:
+  (d) to do any act or thing requisite to obtaining or perfecting the title to any of the assets:
+  (e) to bring any action or other proceedings relating to the assets or to the recovery thereof, and defend, confess, or compromise, or submit to judgment in, any action, claim, demand, or proceeding touching the assets:
+  (f) to insure against fire or accident or otherwise any of the assets:
+  (g) to employ or appoint servants, clerks, and agents on such terms and subject to such conditions as he thinks fit:
+  (h) to appoint an agent to do anything that the Manager is authorised to do as Manager of the assets of the Union; to delegate all or any of his powers and functions, either generally or particularly, to any person or class of persons, and to revoke any such delegation:
+  (i) to open in any bank in New Zealand an account in the name of the Manager, and operate on the account in such manner and to such extent as the Manager may from time to time determine:
+  (j) to exercise as if he were trustee of the assets all powers which he could exercise under the Trustee Act 1956 or any other Act or law:
+  (k) such other powers as may be conferred on the Manager by regulations made pursuant to section 9.
 
 ### 6 Liabilities, expenses, and remuneration
 (1) The Manager may pay or satisfy out of the assets of the Union all debts, liabilities, and obligations of the Union or any branch of the Union, so far as the law binds and the assets in his hands and available for the purpose extend.
@@ -53,20 +54,20 @@ The Manager shall have the following powers:
 
 ### 7 Disposal of assets
 (1) Where the Minister is satisfied that a new union of workers representing seamen (other than officers) employed in the deck department or engine room department of New Zealand ships (including New Zealand Government ships) has after the passing of this Act been registered under the Industrial Conciliation and Arbitration Act 1954, he shall, by notice in the Gazette, declare that—
-  (a) The new union has been so registered under the name specified in the notice; and
-  (b) On the date specified in the notice (being the date of the notice or any later date), the assets of the Union then vested in Public Trust shall vest in the new union pursuant to subsection (2) of this section.
+  (a) the new union has been so registered under the name specified in the notice; and
+  (b) on the date specified in the notice (being the date of the notice or any later date), the assets of the Union then vested in Public Trust shall vest in the new union pursuant to subsection (2).
 (2) On the publication of that notice in the Gazette,—
-  (a) Those assets of the Union shall on the date specified in the notice vest by virtue of this subsection in the new union named in the notice; and
-  (b) All the liabilities and obligations of the Union or of the Manager on that date shall become liabilities and obligations of the new union.
+  (a) those assets of the Union shall on the date specified in the notice vest by virtue of this subsection in the new union named in the notice; and
+  (b) all the liabilities and obligations of the Union or of the Manager on that date shall become liabilities and obligations of the new union.
 (3) Where Public Trust has not been registered as the proprietor of an asset of the Union, a certificate of Public Trust to the effect that the asset is vested in Public Trust under section 4(1) must be accepted by all courts, registrars, and other persons as sufficient evidence that subsection (2) applies to the asset.
 (4) In this section the expressions New Zealand ship, New Zealand Government ship, and seamen have the same meanings as in the Shipping and Seamen Act 1952.
 
 ### 8 Offences
 (1) Every person commits an offence against this Act who—
-  (a) Acts in contravention of or fails to comply in any respect with any requirement lawfully made under this Act:
-  (b) Resists, obstructs, deceives, or attempts to deceive the Manager or any other person who is exercising or attempting to exercise any power or function under this Act:
-  (c) Knowingly or negligently makes any false or misleading statement or any material omission in any information or particulars furnished to the Manager or any other person under or for the purposes of this Act.
-(2) Every person who commits an offence against this Act is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, or to both.
+  (a) acts in contravention of or fails to comply in any respect with any requirement lawfully made under this Act:
+  (b) resists, obstructs, deceives, or attempts to deceive the Manager or any other person who is exercising or attempting to exercise any power or function under this Act:
+  (c) knowingly or negligently makes any false or misleading statement or any material omission in any information or particulars furnished to the Manager or any other person under or for the purposes of this Act.
+(2) Every person who commits an offence against this Act is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, or to both.
 
 ### 9 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
