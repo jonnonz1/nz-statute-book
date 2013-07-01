@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -489,7 +489,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (2) If an order under section 49 applies to an associated person of a relevant person, the associated person commits an offence if the associated person—
   (a) knew, or ought reasonably to have known, that the order applied to the associated person; and
   (b) refuses or fails, without reasonable excuse, to comply with the order.
-(3) Every person who commits an offence against subsection (1) or (2) is liable on summary conviction to a fine not exceeding $300,000.
+(3) Every person who commits an offence against subsection (1) or (2) is liable on conviction to a fine not exceeding $300,000.
 
 ### Subpart 5 — Miscellaneous provisions relating to powers
 
@@ -513,7 +513,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
   (a) to the FMA; or
   (b) as directed by the FMA in accordance with section 59(3); or
   (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993.
-(2) A person authorised under section 52 who wilfully contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(2) A person authorised under section 52 who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000.
 
 ### 55 Protection from liability for persons exercising powers
 Without limiting any other statutory protection from liability, no person is liable for any act done or omitted to be done by the person in the exercise or intended exercise of the person's powers under section 25 or 54 unless the person acts in bad faith.
@@ -579,7 +579,7 @@ Without limiting any other statutory protection from liability, no person is lia
   (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
-(4) A person who refuses or fails, without reasonable excuse, to comply with any conditions commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(4) A person who refuses or fails, without reasonable excuse, to comply with any conditions commits an offence and is liable on conviction to a fine not exceeding $200,000.
 
 **Other offences**
 
@@ -596,7 +596,7 @@ Without limiting any other statutory protection from liability, no person is lia
   (e) deceives or attempts to deceive or knowingly misleads the FMA or a specified person referred to in section 25(5) in providing evidence to either of them; or
   (f) wilfully acts in contravention of any order made by the FMA under section 44.
 (2) A body corporate commits an offence under subsection (1)(d) if it is required to appear under section 25(1)(d) and, without reasonable excuse, an authorised representative on its behalf refuses or fails to appear, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $300,000.
 
 **Other miscellaneous provisions**
 
@@ -1084,39 +1084,3 @@ The FMA is authorised to require payment to it of the costs incurred by the FMA 
   (b) the publication in the Gazette of a notice of an exemption under section 48 of the Act.
 
 ## Schedule 4 — Amendments to replace references to Securities Commission or Government Actuary
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
