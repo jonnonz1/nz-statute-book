@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -9,7 +9,7 @@ _Consolidation as at 2009-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
+  - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
   - **Commonwealth representative** means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, Head of Mission, Consular Officer, Pro-consul, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission
   - **oath** means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise
   - **person acting judicially** means any person having in New Zealand by law or by consent of parties authority to hear, receive, and examine evidence
@@ -39,7 +39,7 @@ Where an oath has been duly administered and taken, the fact that the person to 
 
 ### 6 Unlawful administration of oaths
 (1) No person shall administer, or cause or allow to be administered, or cause or allow to be received, any oath, affidavit, or affirmation relating to any matter or thing in respect of which that person has not jurisdiction or cognisance by some law in force for the time being.
-(2) Every person who wilfully acts in contravention of subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding 50 pounds.
+(2) Every person who wilfully acts in contravention of subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $100.
 (3) Nothing in this section shall extend to any oath, affidavit, or affirmation before any Justice of the Peace or Community Magistrate relating to the preservation of the peace or the prosecution, trial, or punishment of offences, or relating to any proceedings before the House of Representatives or before any Committee thereof, or to any oath, affidavit, or affirmation for the purpose of legal proceedings in any other country or required by the laws of any other country to give validity to any instrument in writing designed to be used in that country.
 
 **Declarations**
