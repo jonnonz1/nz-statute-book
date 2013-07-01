@@ -1,5 +1,5 @@
 # Mercenary Activities (Prohibition) Act 2004
-_Consolidation as at 2004-10-22_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Mercenary Activities (Prohibition) Act 2004.
@@ -60,14 +60,14 @@ This Act binds the Crown.
 **Recruiting, using, financing, and training of mercenary**
 
 ### 7 Recruiting person to be mercenary
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in hostilities in an armed conflict—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in hostilities in an armed conflict—
   (a) with the intention that the person being recruited make private gain from taking part in hostilities in the armed conflict; and
   (b) knowing that the person being recruited has been or is being promised by, or on behalf of, a party to the armed conflict, material compensation substantially in excess of that promised or paid to combatants of similar rank and functions in the armed forces of that party.
 (2) Subsection (1) does not apply if the person being recruited—
   (a) is a citizen of a party to the armed conflict or ordinarily resident in territory controlled by a party to the armed conflict; or
   (b) is, or once recruited will be, a member of the armed forces of a party to the armed conflict; or
   (c) will be sent by a State that is not a party to the armed conflict on official duty as a member of its armed forces.
-(3) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in a concerted act of violence—
+(3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in a concerted act of violence—
   (a) with the intention that the person being recruited make significant private gain from taking part in the concerted act of violence; and
   (b) knowing that the person being recruited has been or is being promised material compensation to take part in the concerted act of violence.
 (4) Subsection (3) does not apply if the person being recruited—
@@ -76,12 +76,12 @@ This Act binds the Crown.
   (c) is, or once recruited will be, a member of the armed forces of the State on whose territory the concerted act of violence is undertaken.
 
 ### 8 Using mercenary
-Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who,—
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,—
   (a) knowing that a person is a mercenary of the kind described in section 5(1)(a), uses that person to take part in hostilities in an armed conflict; or
   (b) knowing that a person is a mercenary of the kind described in section 5(1)(b), uses that person to take part in a concerted act of violence.
 
 ### 9 Financing mercenary
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, without lawful justification or reasonable excuse, provides funds intending that those funds be used, or knowing that they are to be used, in full or in part,—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, without lawful justification or reasonable excuse, provides funds intending that those funds be used, or knowing that they are to be used, in full or in part,—
   (a) to enable a person who is a mercenary of the kind described in section 5(1)(a) to take part in hostilities in an armed conflict; or
   (b) to enable a person who is a mercenary of the kind described in section 5(1)(b) to take part in a concerted act of violence.
 (2) In subsection (1), funds—
@@ -90,23 +90,23 @@ Every person commits an offence, and is liable on conviction on indictment to im
 (3) In a prosecution for financing a mercenary, it is not necessary for the prosecutor to prove that the funds provided were actually used, in full or in part, to enable a mercenary to take part in hostilities in an armed conflict or take part in a concerted act of violence.
 
 ### 10 Training prospective mercenary
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who trains a person to take part in hostilities in an armed conflict—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in hostilities in an armed conflict—
   (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)(a) once the person has completed the training; or
   (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)(a) once the person has completed the training.
-(2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who trains a person to take part in a concerted act of violence—
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in a concerted act of violence—
   (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)(b) once the person has completed the training; or
   (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)(b) once the person has completed the training.
 
 ### 11 Training mercenary
-Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who,—
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,—
   (a) knowing that a person is a mercenary of the kind described in section 5(1)(a), trains that person to take part in hostilities in an armed conflict; or
   (b) knowing that a person is a mercenary of the kind described in section 5(1)(b), trains that person to take part in a concerted act of violence.
 
 **Mercenary taking part in hostilities or concerted act of violence**
 
 ### 12 Mercenary taking part in hostilities or concerted act of violence
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(a), intentionally takes part directly in hostilities in an armed conflict.
-(2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(b), intentionally takes part directly in a concerted act of violence.
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(a), intentionally takes part directly in hostilities in an armed conflict.
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(b), intentionally takes part directly in a concerted act of violence.
 
 **Extraterritorial jurisdiction**
 
