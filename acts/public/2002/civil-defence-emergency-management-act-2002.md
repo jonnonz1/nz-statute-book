@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2012-03-25_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -861,7 +861,7 @@ A person commits an offence who intentionally fails to comply with a direction g
 A person commits an offence who intentionally personates or falsely represents himself or herself to be the Director, a Controller, a member of a Civil Defence Emergency Management Group, or a person acting under the authority of any of those persons, or any person duly authorised or employed for carrying out any provision of this Act or any civil defence emergency management plan.
 
 ### 104 Penalty for offences
-A person who commits an offence against this Act is liable on summary conviction,—
+A person who commits an offence against this Act is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
