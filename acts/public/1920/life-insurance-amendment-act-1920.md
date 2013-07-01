@@ -1,5 +1,5 @@
 # Life Insurance Amendment Act 1920
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to amend the Life Insurance Act 1908, and make other alterations in the law with reference to life insurance
 
@@ -66,4 +66,4 @@ The Governor-General may, by Order in Council, make any regulations which he may
 Every person who signs or deposits any statement or prepares any balance sheet required by this Act, knowing the same to be false in any particular, is liable to a fine not exceeding $100.
 
 ### 16 Fines recoverable summarily
-All fines imposed by this Act shall be recoverable in a summary way.
+[Repealed]
