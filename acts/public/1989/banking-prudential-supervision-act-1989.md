@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -296,11 +296,11 @@ The Bank shall, from time to time, advise the Minister on—
   (c) put in circulation; or
   (d) demand payment of; or
   (e) deposit or offer to deposit in any bank,—
-(3) Every person who contravenes subsection (1) or subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person who contravenes subsection (1) or subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000.
 
 ### 29 Making or issuing of other bank notes or coins
 (1) No person shall make or issue any bank note or coin, other than a bank note or coin issued under this Act.
-(2) Every person who contravenes subsection (1) commits an offence against this Act and shall be liable on conviction on indictment,—
+(2) Every person who contravenes subsection (1) commits an offence against this Act and shall be liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
@@ -811,7 +811,7 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
 **Penalty for offences against this Part**
 
 ### 66M Penalty for offences
-(1) A person who commits an offence against any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence against any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000; and
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
 (2) The provisions are—
@@ -1879,7 +1879,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 **Penalties for offences against this Part**
 
 ### 156AA Penalty for miscellaneous offences
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 (2) The provisions are—
@@ -1891,7 +1891,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (f) section 115 (which relates to the unauthorised disclosure of the fact that a direction has been given).
 
 ### 156AB Penalty for offences relating to supply of information, etc
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000:
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
 (2) The provisions are—
@@ -1903,7 +1903,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (f) section 99(3) (which relates to hindering, obstructing, or delaying the conduct of an inspection).
 
 ### 156AC Penalty for offences relating to registration of banks, disclosure statements, prudential supervision of registered banks, etc
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 18 months or to a fine not exceeding $200,000:
   (b) in the case of a body corporate, to a fine not exceeding $2,000,000.
 (2) The provisions are—
@@ -2023,7 +2023,7 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 **Penalties for offences against this Part**
 
 ### 156J Penalties for offences
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; and
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 (2) The provisions are—
@@ -2398,7 +2398,7 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 **Penalties for offences against this Part**
 
 ### 156ZQ Penalties for offences
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,—
+(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000; or
   (b) in the case of a body corporate, to a fine not exceeding $750,000.
 (2) The provisions are—
@@ -2814,7 +2814,7 @@ A person appointed under section 157ZJ(2)(b) must not enter and search any place
   (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
 
 ### 157ZP Person who does not comply with section 157ZO commits offence
-Every person who does not comply with section 157ZO commits an offence and is liable, on summary conviction,—
+Every person who does not comply with section 157ZO commits an offence and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; or
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -2858,11 +2858,11 @@ Every deposit taker commits an offence who—
 (3) A deposit taker is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the deposit taker has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the deposit taker.
 
 ### 157ZU Power of court to discharge deposit taker
-(1) If a deposit taker is charged with an offence against section 157ZR or 157ZS, the court may direct that the defendant be discharged if the court considers that the alleged contravention was in respect of matters that were immaterial.
+(1) If a deposit taker is charged with an offence against section 157ZR or 157ZS, the court may direct that the charge against the defendant be dismissed if the court considers that the alleged contravention was in respect of matters that were immaterial.
 (2) A direction under subsection (1) may be made at any stage of the proceeding—
   (a) on the motion of the court or on the application of the defendant; and
   (b) after giving both the prosecutor and the defendant a reasonable opportunity to be heard on the matter.
-(3) A discharge under this section is deemed to be an acquittal.
+(3) The dismissal of a charge under this section is deemed to be an acquittal.
 (4) Nothing in this section limits sections 106 to 109 of the Sentencing Act 2002.
 
 ### 157ZV Liability of directors
@@ -2884,14 +2884,14 @@ If a body corporate is convicted of an offence under section 157ZR or 157ZS, eve
 (2) Every trustee commits an offence who makes a statement to the Bank in relation to its obligations to the Bank, including providing an attestation, knowing it to be false or misleading in a material particular.
 
 ### 157ZX Penalties for offences
-(1) Every deposit taker who commits an offence under section 157ZR(a) is liable, on summary conviction,—
+(1) Every deposit taker who commits an offence under section 157ZR(a) is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 18 months or to a fine not exceeding $200,000, or both; or
   (b) in the case of a body corporate, to a fine not exceeding $2,000,000.
-(2) Every deposit taker who commits an offence under any other provision in section 157ZR or 157ZS is liable, on summary conviction,—
+(2) Every deposit taker who commits an offence under any other provision in section 157ZR or 157ZS is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or both; or
   (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
-(3) Every director who commits an offence under section 157ZV is liable, on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, or both.
-(4) Every trustee who commits an offence under any provision in section 157ZW is liable, on summary conviction, to a fine not exceeding $200,000.
+(3) Every director who commits an offence under section 157ZV is liable, on conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, or both.
+(4) Every trustee who commits an offence under any provision in section 157ZW is liable, on conviction, to a fine not exceeding $200,000.
 
 **Miscellaneous**
 
@@ -3150,14 +3150,14 @@ A person is not excused from answering any question, supplying any information, 
   (b) the answering of any question in a way that is false or misleading in a material particular, or the supply of any information, or the production of any document, or the provision of any explanation that is false or misleading in a material particular, may be used in evidence against that person in a prosecution for any offence under this Act arising from that act.
 
 ### 176 Penalties for offences
-Every person who commits an offence against this Act for which no penalty is provided except in this section is liable on summary conviction—
+Every person who commits an offence against this Act for which no penalty is provided except in this section is liable on conviction—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
-### 177 Time limit for prosecutions
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this Act may be laid,—
-  (a) in the case of an offence against section 28 or section 30, within 3 years from the time when the matter of the information arose; or
-  (b) in any other case, within 6 years from the time when the matter of the information arose.
+### 177 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act,—
+  (a) in the case of an offence against section 28 or 30, ends on the date that is 3 years after the date on which the offence was committed; or
+  (b) in any other case, ends on the date that is 6 years after the date on which the offence was committed.
 
 ### 178 Evidence
 (1) A copy of a resolution of the Bank certified by the Governor to be correct shall, in the absence of proof to the contrary, be sufficient evidence of the resolution in any proceedings.
@@ -3347,39 +3347,3 @@ Any authorisations or consents relating to the use of a restricted word that wer
 
 ### 52 Existing applications
 An application for registration as a registered bank under the principal Act that has been made, but not determined or withdrawn, before the date of commencement of this Act must continue to be dealt with in accordance with the principal Act and any regulations made under that Act as if this Act had not been enacted.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
