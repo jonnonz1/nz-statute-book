@@ -1,14 +1,14 @@
 # Life Insurance Act 1908
-_Consolidation as at 2012-03-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
 ### 1 Short Title, etc
 (1) The Short Title of this Act is the Life Insurance Act 1908.
-(2) This Act is a consolidation of the enactments mentioned in Schedule 1 hereto, and with respect to those enactments the following provisions shall apply:
-  (a) All deposits, offices, appointments, regulations, registers, registrations, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
-  (b) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
-(3) This Act is divided into Parts, as follows:PART 1—Life Insurance Companies. (Sections 2 to 40.)PART 2—Life Insurance Policies. (Sections 41 to 80.)
+(2) This Act is a consolidation of the enactments mentioned in Schedule 1, and with respect to those enactments the following provisions shall apply:
+  (a) all deposits, offices, appointments, regulations, registers, registrations, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+  (b) all matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+(3) This Act is divided into Parts, as follows:Part 1—Life Insurance Companies. (Sections 2 to 40.)Part 2—Life Insurance Policies. (Sections 41 to 80.)
 
 ## Part 1 — Life insurance companies
 
@@ -222,23 +222,23 @@ _Consolidation as at 2012-03-07_
 
 ### 41 Interpretation
 In this Part of this Act, if not inconsistent with the context,—
-  - **Assignment** means an assignment of a policy made in accordance with the provisions of this Part of this Act otherwise than by way of mortgage as herein defined, and includes a surrender to the company issuing it
-  - **Company** means any person or association, whether incorporated or otherwise, not being established under any Act relating to friendly societies, which issues or is liable under policies as herein defined; and includes companies now or hereafter established out of New Zealand as well as those now or hereafter established in New Zealand, and mutual associations as well as proprietary; and also includes the Tower Corporation under the Tower Corporation Act 1990 (P)
-  - **Mortgage** means an instrument made in accordance with the provisions of this Act, and given as security over a policy for the payment, either certainly or contingently, of a sum of money, with or without interest thereon, or for the performance of any condition or agreement
-  - **Policy** means any contract, so long as such contract remains in force, heretofore or hereafter lawfully entered into by a company, the terms of which are dependent upon the contingencies of human life
-  - **Policyholder** , , and mean respectively the person for the time being legally entitled to a policy
+  - **assignment** means an assignment of a policy made in accordance with the provisions of this Part of this Act otherwise than by way of mortgage as herein defined, and includes a surrender to the company issuing it
+  - **company** means any person or association, whether incorporated or otherwise, not being established under any Act relating to friendly societies, which issues or is liable under policies as herein defined; and includes companies now or hereafter established out of New Zealand as well as those now or hereafter established in New Zealand, and mutual associations as well as proprietary; and also includes the Tower Corporation under the Tower Corporation Act 1990 (P)
+  - **mortgage** means an instrument made in accordance with the provisions of this Act, and given as security over a policy for the payment, either certainly or contingently, of a sum of money, with or without interest thereon, or for the performance of any condition or agreement
+  - **policy** means any contract, so long as such contract remains in force, heretofore or hereafter lawfully entered into by a company, the terms of which are dependent upon the contingencies of human life
+  - **policyholder** , , and mean respectively the person for the time being legally entitled to a policy
   - **Secretary** means the principal officer for the time being in New Zealand of a company, or any other officer whom the company appoints to act as secretary within the meaning of this Act; and, in respect of all matters under the Tower Corporation Act 1990 (P), means the Tower Corporation and any officer to whom the Commissioner delegates any of his powers, functions, or duties under this Act.
 
 ### 41A Interest payable from 91st day after date of death
 (1) Where—the company shall, in addition to that money and at the same time as that money is paid to that person, pay to that person interest on that money in respect of the period beginning on the 91st day after the date of death and ending with the close of the day on which that money is paid to that person.
-  (a) Any money becomes payable by a company under a policy as a result of the death, on or after the 1st day of April 1986, of the person on whose life the policy was effected; and
-  (b) That money is not paid, within 90 days after the date of death, to the person entitled to that money,—
-(2) Notwithstanding anything in subsection (1) of this section, where—nothing in that subsection shall require the company to pay interest on the money so related and so required to be calculated (in this section called the assets related money) but if, after the claim requirements have been satisfied, the assets related money is not paid, within 14 days after the earliest possible date on which it could have been paid, to the person entitled to the assets related money, the company shall, in addition to the assets related money and at the same time as the assets related money is paid to that person, pay to that person interest on the assets related money in respect of the period beginning on the 15th day after that earliest possible date and ending with the close of the day on which the assets related money is paid to that person.
-  (a) Any money becomes payable by a company under a policy as a result of the death, on or after the 1st day of April 1986, of the person on whose life the policy was effected; and
-  (b) The whole or part of the money that so becomes payable—
-    (i) Is related to the value of identifiable assets of a fund named in the policy; and
-    (ii) Is required by the policy to be calculated as at a date later than the date of death,—
-(3) The interest payable pursuant to subsection (1) or subsection (2) of this section shall be paid at the rate specified in the policy or at the rate from time to time prescribed for the purposes of section 87 of the Judicature Act 1908, whichever is the greater.
+  (a) any money becomes payable by a company under a policy as a result of the death, on or after 1 April 1986, of the person on whose life the policy was effected; and
+  (b) that money is not paid, within 90 days after the date of death, to the person entitled to that money,—
+(2) Notwithstanding anything in subsection (1), where—nothing in that subsection shall require the company to pay interest on the money so related and so required to be calculated (in this section called the assets related money) but if, after the claim requirements have been satisfied, the assets related money is not paid, within 14 days after the earliest possible date on which it could have been paid, to the person entitled to the assets related money, the company shall, in addition to the assets related money and at the same time as the assets related money is paid to that person, pay to that person interest on the assets related money in respect of the period beginning on the 15th day after that earliest possible date and ending with the close of the day on which the assets related money is paid to that person.
+  (a) any money becomes payable by a company under a policy as a result of the death, on or after 1 April 1986, of the person on whose life the policy was effected; and
+  (b) the whole or part of the money that so becomes payable—
+    (i) is related to the value of identifiable assets of a fund named in the policy; and
+    (ii) is required by the policy to be calculated as at a date later than the date of death,—
+(3) The interest payable pursuant to subsection (1) or subsection (2) shall be paid at the rate specified in the policy or at the rate from time to time prescribed for the purposes of section 87 of the Judicature Act 1908, whichever is the greater.
 (4) The provisions of this section shall have effect notwithstanding any provision to the contrary in any agreement or in any contract of insurance.
 
 **Assignments and mortgages of policies**
@@ -247,25 +247,24 @@ In this Part of this Act, if not inconsistent with the context,—
 No company shall be bound to receive, or be liable in any way to be affected by, express, implied, or constructive notice, however given, of any trust hereafter created affecting any policy.
 
 ### 43 Registration of transfer of policy
-(1) Every assignment of a policy by way of ordinary transfer shall be by transfer endorsed upon the policy, in the form or to the effect set forth in Schedule 8 hereto, and signed, or, in the case of a corporation, sealed, by the transferor and transferee; and shall be registered in a book to be provided by the secretary for that purpose, and the date of such registration shall be inserted in the form of transfer, which shall also be signed by the secretary, and thereafter such assignment shall have the effect of vesting the policy absolutely in the assignee, who shall thereupon become the holder of the policy and may thereafter sue in his own name on the policy assigned, and the receipt of such assignee shall be a valid discharge both at law and in equity for all money payable under the policy:
-  Provided that every transfer or assignment of a policy made before the 1st day of September 1885 (being the date of the coming into operation of the Life Assurance Policies Act 1884 Amendment Act 1885), by separate deed or assignment shall be deemed to be valid.
-(2) Except in the case of assignments by way of ordinary transfer, an assignment shall be registered by leaving the same with the policy at the office of the company, whereupon the secretary shall, if in his opinion the assignment is in due form and properly executed, endorse on the policy a memorandum in the form or to the effect set forth in Schedule 9 hereto, and shall retain the assignment in the office of the company, and return the policy, with the said endorsement thereon, signed by himself, to the person leaving the same, unless the assignment is by way of surrender to the company liable under the policy, in which case he shall retain the policy.
+(1) Every assignment of a policy by way of ordinary transfer shall be by transfer endorsed upon the policy, in the form or to the effect set forth in Schedule 8, and signed, or, in the case of a corporation, sealed, by the transferor and transferee; and shall be registered in a book to be provided by the secretary for that purpose, and the date of such registration shall be inserted in the form of transfer, which shall also be signed by the secretary, and thereafter such assignment shall have the effect of vesting the policy absolutely in the assignee, who shall thereupon become the holder of the policy and may thereafter sue in his own name on the policy assigned, and the receipt of such assignee shall be a valid discharge both at law and in equity for all money payable under the policy:provided that every transfer or assignment of a policy made before 1 September 1885 (being the date of the coming into operation of the Life Assurance Policies Act 1884 Amendment Act 1885), by separate deed or assignment shall be deemed to be valid.
+(2) Except in the case of assignments by way of ordinary transfer, an assignment shall be registered by leaving the same with the policy at the office of the company, whereupon the secretary shall, if in his opinion the assignment is in due form and properly executed, endorse on the policy a memorandum in the form or to the effect set forth in Schedule 9, and shall retain the assignment in the office of the company, and return the policy, with the said endorsement thereon, signed by himself, to the person leaving the same, unless the assignment is by way of surrender to the company liable under the policy, in which case he shall retain the policy.
 (3) No assignment shall be of any validity until registered as herein provided, but this requirement shall not apply to assignments to the company issuing the policy.
 (4) If any assignment is upon any trust, such trust shall be effected by way of declaration of trust by some separate instrument, and no notice of any such trust shall be inserted in the assignment or endorsed upon the policy.
-(5) If the assignment is by way of surrender to the company liable under the policy assigned, it shall be in the form or to the effect set forth in Schedule 10 hereto.
-(6) An assignment of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand need not be registered, but, subject to the provisions of subsection (7) of this section, shall take effect from the date thereof in the same manner as if it were registered.
-(7) No assignment otherwise than by way of ordinary transfer of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 21 hereto, and signed, or, in the case of a corporation, sealed, by the assignor and assignee.
+(5) If the assignment is by way of surrender to the company liable under the policy assigned, it shall be in the form or to the effect set forth in Schedule 10.
+(6) An assignment of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand need not be registered, but, subject to the provisions of subsection (7), shall take effect from the date thereof in the same manner as if it were registered.
+(7) No assignment otherwise than by way of ordinary transfer of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 21, and signed, or, in the case of a corporation, sealed, by the assignor and assignee.
 
 ### 44 Form and registration of mortgages
-(1) Every mortgage made shall be in the form or to the effect set forth in Schedule 11 hereto and executed by the mortgagor.
-(2) A mortgage, if not to the company liable under the policy, shall be registered by leaving the same, executed as aforesaid, with the policy and a certified copy of the mortgage, at the office of the company, whereupon the secretary shall, if the mortgage is in his opinion in due form and properly executed, endorse on such policy a memorandum, in the form or to the effect set forth in Schedule 12 hereto; and also shall endorse on the mortgage a memorandum of the same having been registered, in the form or to the effect set forth in Schedule 13 hereto; and shall retain the certified copy of the mortgage in the office of the company, and shall return the policy and the original mortgage, with the respective endorsements thereon signed by himself, to the person leaving the same.
+(1) Every mortgage made shall be in the form or to the effect set forth in Schedule 11 and executed by the mortgagor.
+(2) A mortgage, if not to the company liable under the policy, shall be registered by leaving the same, executed as aforesaid, with the policy and a certified copy of the mortgage, at the office of the company, whereupon the secretary shall, if the mortgage is in his opinion in due form and properly executed, endorse on such policy a memorandum, in the form or to the effect set forth in Schedule 12; and also shall endorse on the mortgage a memorandum of the same having been registered, in the form or to the effect set forth in Schedule 13; and shall retain the certified copy of the mortgage in the office of the company, and shall return the policy and the original mortgage, with the respective endorsements thereon signed by himself, to the person leaving the same.
 (3) No such mortgage shall be of any validity until registered as herein provided.
 (4) A mortgage of a policy to the company issuing the policy and a mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand need not be registered, but shall take effect from the date thereof in the same manner as if it were registered.
-(5) Notwithstanding anything in subsection (4) of this section, no mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 22 hereto, and signed, or, in the case of a corporation, sealed, by the mortgagor and the mortgagee.
+(5) Notwithstanding anything in subsection (4), no mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 22, and signed, or, in the case of a corporation, sealed, by the mortgagor and the mortgagee.
 
 ### 45 Covenants, etc, implied in mortgages
-(1) There shall be implied in every mortgage, not being a mortgage to the company liable under the policy mortgaged, the covenants, powers, conditions, and agreements set forth in Schedule 14 hereto, and such implied provisions shall have the like effect as if the same had respectively been set forth in such mortgage at length.
-(2) There shall be implied in every mortgage to the company liable under the policy mortgaged the covenants, powers, conditions, and agreements set forth in Schedule 15 hereto, and such implied provisions shall have the like effect as if the same had respectively been set forth in such mortgage at length.
+(1) There shall be implied in every mortgage, not being a mortgage to the company liable under the policy mortgaged, the covenants, powers, conditions, and agreements set forth in Schedule 14, and such implied provisions shall have the like effect as if the same had respectively been set forth in such mortgage at length.
+(2) There shall be implied in every mortgage to the company liable under the policy mortgaged the covenants, powers, conditions, and agreements set forth in Schedule 15, and such implied provisions shall have the like effect as if the same had respectively been set forth in such mortgage at length.
 (3) All or any of the covenants, powers, provisos, conditions, and agreements set forth in Schedules 14 or 15 may, if so expressed in the mortgage, be negatived, modified, or altered, or others may be added to the same, in any way not inconsistent with the provisions of this Act.
 
 ### 46 Several mortgages may be registered
@@ -281,16 +280,16 @@ A mortgagee, when he has sold a policy under the power of sale implied in his mo
 No company whose secretary is required to register an assignment by a mortgagee, nor any purchaser from a mortgagee, shall be bound to inquire into the propriety or regularity of the sale, or be affected in any way by notice (express, implied, or constructive) that the same is in any way improper or irregular, or be bound or concerned to see to the application of the proceeds of a sale by a mortgagee.
 
 ### 50 How mortgages discharged
-(1) Where the sum secured by a mortgage has been paid off either wholly or in part, or where for any other reason the mortgagee has become bound to discharge the mortgage either wholly or partially he shall endorse on the mortgage held by him a memorandum of discharge in the form or to the effect set forth in Schedule 16 hereto, and the same, when registered, shall effectually release and discharge the policy from the mortgage to the extent specified in the memorandum of discharge.
+(1) Where the sum secured by a mortgage has been paid off either wholly or in part, or where for any other reason the mortgagee has become bound to discharge the mortgage either wholly or partially he shall endorse on the mortgage held by him a memorandum of discharge in the form or to the effect set forth in Schedule 16, and the same, when registered, shall effectually release and discharge the policy from the mortgage to the extent specified in the memorandum of discharge.
 (2) If any one or more of such discharges are only partial, further discharges, as often as the case may require, may be executed in the like form and registered in the like manner as specified in the preceding subsection.
-(3) A memorandum of discharge or of partial discharge of a mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand need not be registered, but, subject to the provisions of subsection (4) of this section, shall take effect from the date thereof in the same manner as if it were registered.
-(4) No memorandum of discharge or of partial discharge of a mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 23 hereto, and signed, or, in the case of a corporation, sealed, by the mortgagee.
+(3) A memorandum of discharge or of partial discharge of a mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand need not be registered, but, subject to the provisions of subsection (4), shall take effect from the date thereof in the same manner as if it were registered.
+(4) No memorandum of discharge or of partial discharge of a mortgage of a policy issued by a company that is established out of New Zealand and does not have a place of business in New Zealand shall be of any validity unless there is endorsed on the policy a memorandum in the form or to the effect set forth in Schedule 23, and signed, or, in the case of a corporation, sealed, by the mortgagee.
 
 ### 51 How discharges registered
-A memorandum of discharge shall be registered by leaving the mortgage, with such memorandum endorsed thereon, together with the policy, at the office of the company, whereupon the secretary shall, if the same is in his opinion in due form and properly executed, endorse on such policy a memorandum in the form or to the effect set forth in Schedule 17 hereto; and shall also endorse on the mortgage a memorandum of the same having been registered, in the form or to the effect set forth in Schedule 18 hereto; and shall return the mortgage and policy so endorsed to the person leaving the same, unless the mortgage is to the company, in which case the mortgage and policy shall be retained by the secretary.
+A memorandum of discharge shall be registered by leaving the mortgage, with such memorandum endorsed thereon, together with the policy, at the office of the company, whereupon the secretary shall, if the same is in his opinion in due form and properly executed, endorse on such policy a memorandum in the form or to the effect set forth in Schedule 17; and shall also endorse on the mortgage a memorandum of the same having been registered, in the form or to the effect set forth in Schedule 18; and shall return the mortgage and policy so endorsed to the person leaving the same, unless the mortgage is to the company, in which case the mortgage and policy shall be retained by the secretary.
 
 ### 52 How title to policy acquired by bankruptcy, etc, registered
-Where the right to a policy is acquired by bankruptcy, or under a will or intestacy, or under a writ of execution issued out of any Court whatsoever, the person so acquiring such right and desiring to have his title to the policy registered shall produce the policy to the secretary, with the evidence necessary to establish such right; and the secretary, if satisfied with the said evidence, or with such further evidence as he may call for, shall endorse on the policy a memorandum in the form or to the effect set forth in Schedule 19 hereto, signed by himself, and return the policy to the person so acquiring title thereto, and such endorsement shall vest the policy in such person as fully and effectually as if it had been assigned to him under the provisions hereof.
+Where the right to a policy is acquired by bankruptcy, or under a will or intestacy, or under a writ of execution issued out of any Court whatsoever, the person so acquiring such right and desiring to have his title to the policy registered shall produce the policy to the secretary, with the evidence necessary to establish such right; and the secretary, if satisfied with the said evidence, or with such further evidence as he may call for, shall endorse on the policy a memorandum in the form or to the effect set forth in Schedule 19, signed by himself, and return the policy to the person so acquiring title thereto, and such endorsement shall vest the policy in such person as fully and effectually as if it had been assigned to him under the provisions hereof.
 
 ### 53 Registration, etc, of assignment of mortgages
 All the provisions of this Act as to assignment of policies, registration thereof, or otherwise registering title to a policy shall, mutatis mutandis, be read and construed as applicable to assignments of mortgages, registration thereof, and otherwise registering title to mortgages.
@@ -345,73 +344,73 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
 
 ### 66B Insurance by minor who is of or over the age of 10 years
 (1) A minor of or over the age of 10 years may do, execute, suffer, and perform all acts, deeds, matters, and things necessary or proper for the purpose of effecting a policy on the minor's own life.
-(2) Subsection (1) of this section is,—
-  (a) In the case of a minor who has not attained the age of 16 years, subject to section 6 of the Minors' Contracts Act 1969; and
-  (b) In the case of a minor who has attained the age of 16 years, subject to section 5(2) of the Minors' Contracts Act 1969.
-(3) Subsection (1) of this section is subject to sections 67A, 67C, 67D, and 67E of this Act.
+(2) Subsection (1) is,—
+  (a) in the case of a minor who has not attained the age of 16 years, subject to section 6 of the Minors' Contracts Act 1969; and
+  (b) in the case of a minor who has attained the age of 16 years, subject to section 5(2) of the Minors' Contracts Act 1969.
+(3) Subsection (1) is subject to sections 67A, 67C, 67D, and 67E.
 
 ### 66C Dealings by minors with policies
 (1) Where any policy effected on the life of a minor is owned by the minor, the minor,—
-  (a) If of or over the age of 16 years, may—
-    (i) Surrender the policy:
-    (ii) Give discharges for the money payable under the policy:
+  (a) if of or over the age of 16 years, may—
+    (i) surrender the policy:
+    (ii) give discharges for the money payable under the policy:
     (iii) dispose of the policy by will in accordance with section 9 or 10 of the Wills Act 2007 or section 2 of the Wills Amendment Act 1969 or section 6 of the Wills Amendment Act 1955:
-    (iv) Dispose of the policy or interest therein or deal with the same in any manner authorised by this Act:
-  (b) If under the age of 16 years, may, with the approval of a District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a) of this subsection.
-(2) Subsection (1) of this section shall apply whether or not the policy was effected in the first place by the minor.
-(3) Subsection (1)(a) of this section shall apply whether the policy has been effected before or after the minor attained the age of 16 years.
+    (iv) dispose of the policy or interest therein or deal with the same in any manner authorised by this Act:
+  (b) if under the age of 16 years, may, with the approval of a District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a).
+(2) Subsection (1) shall apply whether or not the policy was effected in the first place by the minor.
+(3) Subsection (1)(a) shall apply whether the policy has been effected before or after the minor attained the age of 16 years.
 (4) Where a minor of or over the age of 16 years—section 5(2) of the Minors' Contracts Act 1969 shall apply to the surrender or discharge and to every contract so entered into.
-  (a) Exercises the power conferred on the minor by subsection (1)(a)(i) or subsection (1)(a)(ii) of this section; or
-  (b) Enters into a contract in relation to any policy to which subsection (1) of this section applies—
+  (a) exercises the power conferred on the minor by subsection (1)(a)(i) or subsection (1)(a)(ii); or
+  (b) enters into a contract in relation to any policy to which subsection (1) applies—
 (5)
 
 ### 66D Presumption in respect of policies issued and dispositions made
-(1) So far as concerns the company issuing any policy, and so far as concerns any person claiming under any disposition of a policy made bona fide and for valuable consideration, it shall be conclusively presumed, subject to subsection (2) of this section,—
-  (a) That the person who effected the policy was, at the time when that person effected the policy, of or over the age of 10 years; and
-  (b) That the person who disposed of the policy was, at the time when that person disposed of the policy, of or over the age of 16 years.
-(2) The presumption set out in subsection (1) of this section shall not apply where the company issuing the policy, or the person claiming under any disposition of the policy made bona fide and for valuable consideration, had, at the time of the issue, actual knowledge that the person purporting to effect the policy was under the age of 10 years or had, at the time of the disposition, actual knowledge that the person purporting to dispose of the policy was under the age of 16 years.
+(1) So far as concerns the company issuing any policy, and so far as concerns any person claiming under any disposition of a policy made bona fide and for valuable consideration, it shall be conclusively presumed, subject to subsection (2),—
+  (a) that the person who effected the policy was, at the time when that person effected the policy, of or over the age of 10 years; and
+  (b) that the person who disposed of the policy was, at the time when that person disposed of the policy, of or over the age of 16 years.
+(2) The presumption set out in subsection (1) shall not apply where the company issuing the policy, or the person claiming under any disposition of the policy made bona fide and for valuable consideration, had, at the time of the issue, actual knowledge that the person purporting to effect the policy was under the age of 10 years or had, at the time of the disposition, actual knowledge that the person purporting to dispose of the policy was under the age of 16 years.
 (3) Nothing in this section applies in respect of any policy effected in accordance with a contract approved under section 9 of the Minors' Contracts Act 1969.
 
 ### 67 Insurance on life of minor who is under the age of 16 years
 (1) A policy on the life of a minor who is under the age of 16 years may be effected by any of the following persons:
-  (a) The parents or guardians of the minor, or one of them:
-  (b) A parent or guardian of the minor and the spouse of that parent or guardian, jointly:
-  (c) Any person who has obtained the consent of a District Court to do so.
+  (a) the parents or guardians of the minor, or one of them:
+  (b) a parent or guardian of the minor and the spouse of that parent or guardian, jointly:
+  (c) any person who has obtained the consent of a District Court to do so.
 (2) Except as provided in subsection (1) of this section or in section 66A or section 66B or section 67A of this Act or in section 9 of the Minors' Contracts Act 1969, no person may effect a policy on the life of a minor who is under the age of 16 years.
-(3) Subsection (1) of this section is subject to sections 67B to 67E of this Act.
+(3) Subsection (1) is subject to sections 67B to 67E.
 
 ### 67A Endowment insurances on lives of minors
 It shall be lawful for any company to issue, on the life of a minor of any age, a policy that provides for the payment of money—
-  (a) On the expiration of a certain period; or
-  (b) On the attainment of a specified age by the minor in respect of whom the policy is issued.
+  (a) on the expiration of a certain period; or
+  (b) on the attainment of a specified age by the minor in respect of whom the policy is issued.
 
 **Limitations on payments in respect of death of minors**
 
 ### 67B Limitation on total amount of payments where deceased minor under the age of 10 years
 (1) No company shall knowingly pay, on the death of a minor who is under the age of 10 years, any sum that is more than the total of the following amounts:
-  (a) The total amount of premiums paid under the policy issued by the company on the life of the minor, together with interest thereon (compounded annually) at the rate prescribed for the purposes of section 87 of the Judicature Act 1908 at the date of the death of the minor; and
-  (b) The amount that, when added to any other sum permitted by this paragraph to be paid by any other company or by any friendly society, equals $2,000 or such larger sum as may from time to time be specified by Order in Council for the purposes of this paragraph.
-(2) Nothing in subsection (1) of this section limits section 41A of this Act and interests under that section may be paid in addition to the amounts required to be aggregated for the purposes of subsection (1) of this section and irrespective to the limit imposed by that subsection.
+  (a) the total amount of premiums paid under the policy issued by the company on the life of the minor, together with interest thereon (compounded annually) at the rate prescribed for the purposes of section 87 of the Judicature Act 1908 at the date of the death of the minor; and
+  (b) the amount that, when added to any other sum permitted by this paragraph to be paid by any other company or by any friendly society, equals $2,000 or such larger sum as may from time to time be specified by Order in Council for the purposes of this paragraph.
+(2) Nothing in subsection (1) limits section 41A and interests under that section may be paid in addition to the amounts required to be aggregated for the purposes of subsection (1) of this section and irrespective to the limit imposed by that subsection.
 
 ### 67C Limitation on persons to whom payments may be made where deceased minor under the age of 16 years
-No company shall pay, on the death of a minor who is under the age of 16 years, any sum under any policy issued on or after the 1st day of April 1986 to any person other than—
-  (a) A person specified in section 67(1) of this Act; or
-  (b) An executor or administrator of a person specified in section 67(1) of this Act; or
-  (c) A person to whom payment may be made under section 65(2) of the Administration Act 1969; or
-  (d) Any person who is entitled to that sum by virtue of an assignment approved under section 66C(1)(b) of this Act.
+No company shall pay, on the death of a minor who is under the age of 16 years, any sum under any policy issued on or after 1 April 1986 to any person other than—
+  (a) a person specified in section 67(1); or
+  (b) an executor or administrator of a person specified in section 67(1); or
+  (c) a person to whom payment may be made under section 65(2) of the Administration Act 1969; or
+  (d) any person who is entitled to that sum by virtue of an assignment approved under section 66C(1)(b).
 
 ### 67D Company to supply statement in respect of limitations
 (1) No company shall issue a policy on the life of a minor who is under the age of 16 years unless—
-  (a) A statement explaining the effect of sections 67B and 67C of this Act is set out in the proposal for the policy; and
-  (b) The person effecting the policy has signed a separate acknowledgment that that person is aware of the limitations imposed by those sections.
-(2) The issue of a policy in contravention of subsection (1) of this section shall not make the policy illegal, unenforceable, or of no effect.
+  (a) a statement explaining the effect of sections 67B and 67C is set out in the proposal for the policy; and
+  (b) the person effecting the policy has signed a separate acknowledgment that that person is aware of the limitations imposed by those sections.
+(2) The issue of a policy in contravention of subsection (1) shall not make the policy illegal, unenforceable, or of no effect.
 
 ### 67E Offences
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who,—
-  (a) Being a company, contravenes section 67B or section 67C or section 67D(1) of this Act; or
-  (b) Being a person claiming money on the death of a minor under the age of 16 years,—
-    (i) Produces to the company from which the money is claimed a false certificate of death or one fraudulently obtained; or
-    (ii) In any way attempts to defeat the provisions of this Act with respect to payments upon the death of minors.
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who,—
+  (a) being a company, contravenes section 67B or section 67C or section 67D(1); or
+  (b) being a person claiming money on the death of a minor under the age of 16 years,—
+    (i) produces to the company from which the money is claimed a false certificate of death or one fraudulently obtained; or
+    (ii) in any way attempts to defeat the provisions of this Act with respect to payments upon the death of minors.
 
 ### 68 Certain policies excluded from the operation of last preceding section
 [Repealed]
@@ -432,7 +431,7 @@ Public Trust (whether acting under section 69(1) or by special appointment), or 
 The payment made to Public Trust, or to any other trustee under this Act, shall be a valid and sufficient discharge to the company for the insurance money so paid: and the company shall not be bound to see to the application of such money, or be liable for the subsequent misapplication or non-application thereof by any such trustee.
 
 ### 73 How insurance money received by trustee may be invested
-(1) The money received by Public Trust, acting under subsection (2) of section 69 hereof, or by any trustee hereunder, unless otherwise directed by the instrument of appointment in the case of one specially appointed, may be invested by such trustee in New Zealand Government securities, or in the securities of any territorial authority or regional council within the meaning of the Local Government Act 2002.
+(1) The money received by Public Trust, acting under subsection (2) of section 69, or by any trustee hereunder, unless otherwise directed by the instrument of appointment in the case of one specially appointed, may be invested by such trustee in New Zealand Government securities, or in the securities of any territorial authority or regional council within the meaning of the Local Government Act 2002.
 (2) Such money may also be invested on first mortgage of freehold land in New Zealand, but so that not more than two-thirds of the value of the same, as valued under the Rating Valuations Act 1998 or by a registered valuer specially appointed by such trustee to value the same, shall be so advanced, with full power, however, to such trustee from time to time to alter, vary, and transpose the investments held.
 
 ### 74 Income not required for maintenance, etc, to be capitalised
@@ -447,8 +446,7 @@ All or any part of the annual income arising from the investment of the insuranc
 
 ### 75A Wife may insure her own or her husband's life for her own benefit
 (1)
-(2) A policy of insurance effected by any person on his or her own life, and expressed to be for the benefit of his or her spouse, de facto partner (whether of the same or different sex), or his or her children, or his or her spouse or de facto partner (whether of the same or different sex) and his or her children, or any of them, shall create a trust in favour of the objects therein named; and the money payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts:
-  Provided that if it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive, out of the money payable under the policy, a sum equal to the premiums so paid.
+(2) A policy of insurance effected by any person on his or her own life, and expressed to be for the benefit of his or her spouse, de facto partner (whether of the same or different sex), or his or her children, or his or her spouse or de facto partner (whether of the same or different sex) and his or her children, or any of them, shall create a trust in favour of the objects therein named; and the money payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts:provided that if it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive, out of the money payable under the policy, a sum equal to the premiums so paid.
 (3) The insured may by the policy, or by any memorandum under his or her hand, appoint a trustee or trustees of the money payable under the policy, and from time to time appoint a new trustee or new trustees thereof; and may make provision for the appointment of a new trustee or new trustees thereof, and for the investment of the money payable under any such policy.
 (4) In any default of any such appointment of a trustee, the policy, immediately on its being effected, shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
 (5) If at the time of the death of the insured, or at any time afterwards, there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by any Court having jurisdiction under the provisions of the Trustee Act 1956.
@@ -461,19 +459,18 @@ All or any part of the annual income arising from the investment of the insuranc
 
 ### 77 Provisions as to settlement policies
 The following provisions shall have effect as regards all policies issued under section 8 of the New Zealand Government Insurance and Annuities Act 1870, or section 16 of the Government Insurance and Annuities Act 1874, or under section 48 of the Life Assurance Companies Act 1873, or under any enactment passed or to be passed in substitution thereof respectively:
-  (a) The amount secured by such policy, where the insurance is effected for the benefit of more than one, may, if not apportioned in the policy, be apportioned by the husband by any deed or instrument in writing under his hand, or by his last will and testament, as he deems proper:
-  (b) Where no apportionment is made in any policy as aforesaid, or by deed, instrument in writing, or will as aforesaid, all parties interested in the said insurance shall be held to share equally in the same:
-  (c) When it is stated in such policy that the insurance is for the benefit of the wife, or wife and any one or more of the children, of the insured, or of his wife or of the children generally, without specifying her or their names, then the word wife shall mean the wife living at the time when the policy becomes payable; and children shall, unless otherwise defined in the policy, mean the children of the insured, whether or not of the same marriage, living at the time when the policy becomes payable, and shall include a child or children en ventre sa mere at such time:
-  (d) Where a wife's name is not stated in any policy, the husband, by a written application signed by him and attested by a witness, may apply to the company to have such name inserted in the policy, and the company may thereupon direct the secretary to insert the wife's name accordingly in the policy in such manner as it thinks best:
-  (e) In a similar manner and by a like procedure the husband, on remarriage, may require the name of his then wife to be substituted for that of any former wife inserted in such policy:
-  (f) Where such a policy is effected for the benefit of more persons than one, and the sum assured has been apportioned by the person whose life is assured, such apportionment shall be valid notwithstanding that all the persons mentioned as beneficiaries in the policy may not be included in such apportionment; and the payment made by the company in terms of such apportionment shall be deemed to release the company from all claims under the policy:
-  (g) Any person having taken out such a policy with right to participate in the profits may, subject to the regulations or bylaws of the company issuing the policy, from time to time either direct the application of such profits in payment or reduction of premiums, or direct the same, when converted into a reversionary bonus, to be added to the insurance money; and the share of each person, when more than one are benefited, shall, in the case of such additions, be proportionately increased. If no direction is given, then the profits shall be converted into a reversionary bonus:
-  (h) The benefit of any such policy shall revert to the insured when the child for whose benefit it was effected, or the surviving child for whose benefit it exists, dies without issue before the insured, or when the wife for whose benefit solely it exists predeceases her husband with or without issue; and the benefit of any share in an apportionment shall likewise revert to the insured when the child to whom it was apportioned dies without issue before the insured, or when the wife to whom it was apportioned predeceases her husband with or without issue:
-  (i) Where the insured and all the persons beneficially interested under such a policy are sui juris, they may jointly assign, mortgage, discharge, or otherwise deal with the policy as fully and effectually as the assured could have done if he held it for his own use and benefit only:
-  (j) Where a policy reverts to the insured in whole or for a share or shares, the insured may deal with such policy or share or shares as if the insurance had been effected and been always held for his own benefit:
-  (k) Any person who has taken out such a policy, and who finds himself unable to continue to pay the premiums, may from time to time borrow on the security of the policy, from the company who issued the same, or from any person, such sum as may be necessary to keep the policy in force, such loans to be secured by mortgage on the policy:
-    Provided that no such mortgage shall operate to secure the payment of the money advanced on the security thereof unless the money so advanced is at the time of advancing the same wholly applied in making the payments necessary to keep the policy in force:
-  (l) Notwithstanding anything in any law or statute, or in any rule of law or equity to the contrary, the holder of any such policy may from time to time, with the consent of his wife living at the time, borrow on the security of the policy such sums as he thinks fit, and grant a mortgage on the policy as a security for any such loan.
+  (a) the amount secured by such policy, where the insurance is effected for the benefit of more than one, may, if not apportioned in the policy, be apportioned by the husband by any deed or instrument in writing under his hand, or by his last will and testament, as he deems proper:
+  (b) where no apportionment is made in any policy as aforesaid, or by deed, instrument in writing, or will as aforesaid, all parties interested in the said insurance shall be held to share equally in the same:
+  (c) when it is stated in such policy that the insurance is for the benefit of the wife, or wife and any one or more of the children, of the insured, or of his wife or of the children generally, without specifying her or their names, then the word wife shall mean the wife living at the time when the policy becomes payable; and children shall, unless otherwise defined in the policy, mean the children of the insured, whether or not of the same marriage, living at the time when the policy becomes payable, and shall include a child or children en ventre sa mere at such time:
+  (d) where a wife's name is not stated in any policy, the husband, by a written application signed by him and attested by a witness, may apply to the company to have such name inserted in the policy, and the company may thereupon direct the secretary to insert the wife's name accordingly in the policy in such manner as it thinks best:
+  (e) in a similar manner and by a like procedure the husband, on remarriage, may require the name of his then wife to be substituted for that of any former wife inserted in such policy:
+  (f) where such a policy is effected for the benefit of more persons than one, and the sum assured has been apportioned by the person whose life is assured, such apportionment shall be valid notwithstanding that all the persons mentioned as beneficiaries in the policy may not be included in such apportionment; and the payment made by the company in terms of such apportionment shall be deemed to release the company from all claims under the policy:
+  (g) any person having taken out such a policy with right to participate in the profits may, subject to the regulations or bylaws of the company issuing the policy, from time to time either direct the application of such profits in payment or reduction of premiums, or direct the same, when converted into a reversionary bonus, to be added to the insurance money; and the share of each person, when more than one are benefited, shall, in the case of such additions, be proportionately increased. If no direction is given, then the profits shall be converted into a reversionary bonus:
+  (h) the benefit of any such policy shall revert to the insured when the child for whose benefit it was effected, or the surviving child for whose benefit it exists, dies without issue before the insured, or when the wife for whose benefit solely it exists predeceases her husband with or without issue; and the benefit of any share in an apportionment shall likewise revert to the insured when the child to whom it was apportioned dies without issue before the insured, or when the wife to whom it was apportioned predeceases her husband with or without issue:
+  (i) where the insured and all the persons beneficially interested under such a policy are sui juris, they may jointly assign, mortgage, discharge, or otherwise deal with the policy as fully and effectually as the assured could have done if he held it for his own use and benefit only:
+  (j) where a policy reverts to the insured in whole or for a share or shares, the insured may deal with such policy or share or shares as if the insurance had been effected and been always held for his own benefit:
+  (k) any person who has taken out such a policy, and who finds himself unable to continue to pay the premiums, may from time to time borrow on the security of the policy, from the company who issued the same, or from any person, such sum as may be necessary to keep the policy in force, such loans to be secured by mortgage on the policy:provided that no such mortgage shall operate to secure the payment of the money advanced on the security thereof unless the money so advanced is at the time of advancing the same wholly applied in making the payments necessary to keep the policy in force:
+  (l) notwithstanding anything in any law or statute, or in any rule of law or equity to the contrary, the holder of any such policy may from time to time, with the consent of his wife living at the time, borrow on the security of the policy such sums as he thinks fit, and grant a mortgage on the policy as a security for any such loan.
 
 **Annual statement, etc, by company**
 
