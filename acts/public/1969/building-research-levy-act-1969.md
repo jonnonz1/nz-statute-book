@@ -1,5 +1,5 @@
 # Building Research Levy Act 1969
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to authorise the levying of building contractors to provide money for research into improved techniques and materials for use in the building industry
 
@@ -72,8 +72,8 @@ This Act shall bind the Crown.
 (4) Subsection (3) shall not apply—
   (a) to the disclosure of information in the form of a summary of similar information provided by or obtained from a number of builders, local authorities, or employers, if the summary is so framed as not to enable particulars relating to any particular business to be ascertained from it; or
   (b) to any disclosure of information made for the purpose of any legal proceedings pursuant to this Act or any other Act, or for the purposes of any report of any such proceedings.
-(5) If any person wilfully fails to comply with any requirements made under subsection (1) or subsection (2), he commits an offence and is liable on summary conviction to a fine not exceeding $200, or on a second or subsequent conviction $400.
-(6) If any person—he commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
+(5) If any person wilfully fails to comply with any requirements made under subsection (1) or subsection (2), he commits an offence and is liable on conviction to a fine not exceeding $200, or on a second or subsequent conviction $400.
+(6) If any person—he commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
   (a) knowingly or recklessly provides, pursuant to any requirement made under subsection (1) or subsection (2), any information which is false in a material particular; or
   (b) wilfully discloses any information in contravention of subsection (3)—
 (7) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
@@ -126,7 +126,7 @@ This Act shall bind the Crown.
 (3) The remuneration of any auditor appointed under subsection (1) shall be fixed by the association at its annual general meeting. The remuneration of any auditor appointed under subsection (2) shall be fixed by the board of the association.
 (4) As soon as practicable after the end of each financial year the board of the association shall cause the income and expenditure account and the statement of financial position for that year to be sent to the auditor or auditors who shall thereupon audit and report on those documents. The auditor or auditors shall, on completion of the audit, return the audited income and expenditure account and statement of financial position to the board, which shall then cause those documents and the report of the auditor or auditors to be submitted to the next annual general meeting of the association for the approval of the meeting.
 (5) All the provisions of section 166 of the Companies Act 1955 (which section relates to auditors' reports and auditors' rights of access to books of account and to attend and be heard at general meetings), so far as they are applicable and with the necessary modifications, shall apply to the association as if it were a company registered under the Companies Act 1955. For the purposes of this subsection the term profit and loss account in the said section 166 shall be construed as meaning income and expenditure account.
-(6) Any unqualified person who acts as auditor of the association commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(6) Any unqualified person who acts as auditor of the association commits an offence and is liable on conviction to a fine not exceeding $200.
 
 ### 13 Copy of statement of financial position to be sent to Minister and members
 (1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the income and expenditure account and statement of financial position of the association together with a copy of the report of the auditor and auditors thereon.
@@ -143,7 +143,7 @@ The provisions of sections 11 to 14 shall apply to the association notwithstandi
 **Miscellaneous provision**
 
 ### 16 Offences by officers of the association
-(1) Every officer of the association commits an offence, and is liable on summary conviction to a fine not exceeding $200, who—
+(1) Every officer of the association commits an offence, and is liable on conviction to a fine not exceeding $200, who—
   (a) fails, without reasonable excuse, to take all reasonable steps to secure compliance by the association with any requirement imposed on it by this Act; or
   (b) wilfully does any act in contravention of the provisions of this Act, or, in any case where the association contravenes any such provision, connives at the contravention.
 (2) For the purposes of this section, the term officer means any member of the board of the association and any paid secretary thereof.
