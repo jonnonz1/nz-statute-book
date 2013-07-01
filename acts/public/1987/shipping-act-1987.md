@@ -1,5 +1,5 @@
 # Shipping Act 1987
-_Consolidation as at 1995-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to promote fair dealing and safeguard competition in New Zealand's outwards shipping services, and to discourage discrimination against New Zealand shipping and trading interests by foreign governments
 
@@ -111,7 +111,7 @@ Notwithstanding section 8 of the Ministry of Transport Act 1968, the Minister sh
   (b) any of the powers conferred on the Minister by section 7.
 
 ### 11 Offences
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 who—
   (a) refuses or fails without reasonable excuse to comply with any direction given under section 7; or
   (b) furnishes any particulars of any agreement to which a direction made under section 7 applies, knowing that the particulars are false or misleading; or
   (c) fails without reasonable excuse to supply information requested by a person carrying out an investigation under section 5 for the purposes of that investigation.
