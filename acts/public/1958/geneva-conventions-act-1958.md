@@ -1,5 +1,5 @@
 # Geneva Conventions Act 1958
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 > An Act to enable effect to be given to certain International Conventions done at Geneva on 12 August 1949 and to certain Protocols additional to those Conventions and for purposes connected therewith
 
@@ -26,7 +26,7 @@ This Act may be cited as the Geneva Conventions Act 1958.
 **Punishment of offenders against Conventions or First Protocol**
 
 ### 3 Punishment for grave breaches of Conventions or First Protocol
-(1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the First Protocol is guilty of an indictable offence.
+(1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the First Protocol is guilty of an offence.
 (2) For the purposes of this section—
   (a) a grave breach of the First Convention is a breach of that Convention involving an act referred to in Article 50 of that Convention committed against persons or property protected by that Convention:
   (b) a grave breach of the Second Convention is a breach of that Convention involving an act referred to in Article 51 of that Convention committed against persons or property protected by that Convention:
@@ -98,7 +98,7 @@ This Act may be cited as the Geneva Conventions Act 1958.
   (c) the following emblem in red on, and completely surrounded by, a white ground, that is to say, a lion passing from right to left of, and with its face turned towards, the observer, holding erect in its raised right forepaw a scimitar, with, appearing above the lion's back, the upper half of the sun shooting forth rays, or the designation Red Lion and Sun:
   (d) any design consisting of a white or silver cross with vertical and horizontal arms of the same length on, and completely surrounded by, a red ground, being the heraldic emblem of the Swiss Confederation, or any other design so nearly resembling that design as to be capable of being mistaken for that heraldic emblem:
   (e) any design or wording so nearly resembling any of the emblems or designations specified in the foregoing provisions of this subsection as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems.
-(2) If any person contravenes the foregoing provisions of this section he shall be guilty of an offence and be liable on summary conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
+(2) If any person contravenes the foregoing provisions of this section he shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
 (3) The Minister of Defence or a person authorised by that Minister to give consents under this section shall not refuse to give such a consent, and shall not withdraw such a consent, except for the purpose of giving effect to the provisions of the Conventions or of the Protocols.
 (4) In the case of a trade mark registered before the passing of this Act, the foregoing provisions of this section shall not apply by reason only of its consisting of or containing a design or wording which reproduces or resembles an emblem or designation specified in paragraph (b) or paragraph (c) of subsection (1).
 (5) Where a person is charged with using a design or wording to which subsection (4) applies for any purpose and it is proved that he used it otherwise than as, or as part of, a trade mark registered as aforesaid, it shall be a defence for him to prove—
@@ -130,7 +130,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (c) in the application of this Act to Tokelau, as including the Administrator of Tokelau.
   (d)
 (4) The other Ministers specified in this Act may exercise the powers conferred on them by this Act in the Cook Islands, and Tokelau.
-(5) All criminal jurisdiction conferred by this Act may be exercised by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction. For the purposes of this subsection, subsection (1) of section 3 shall apply as if the word indictable were omitted.
+(5) All criminal jurisdiction conferred by this Act may be exercised by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction.
 (6)
 
 ### 11 Repeal and savings
