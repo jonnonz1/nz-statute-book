@@ -1,5 +1,5 @@
 # Primary Products Marketing Act 1953
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the establishment of Marketing Authorities for the purpose of regulating the marketing of primary products and to make provisions with respect to those Authorities
 
@@ -136,7 +136,7 @@ Every Marketing Authority is a public entity as defined in section 4 of the Publ
 [Repealed]
 
 ### 14 Offences
-(1) Every person who commits or attempts to commit or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit any offence against any regulations made under this Act for which no specific penalty is prescribed in the regulations shall be liable on summary conviction to a fine not exceeding 200 pounds, in the case of an individual, and, in the case of a company or other corporation, to a fine not exceeding 1,000 pounds.
+(1) Every person who commits or attempts to commit or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit any offence against any regulations made under this Act for which no specific penalty is prescribed in the regulations shall be liable on conviction to a fine not exceeding 200 pounds, in the case of an individual, and, in the case of a company or other corporation, to a fine not exceeding 1,000 pounds.
 (2) No penalty in excess of that provided in subsection (1) shall be prescribed in any regulations under this Act.
 
 ### 15 Protection of persons acting under authority of this Act or of regulations thereunder
