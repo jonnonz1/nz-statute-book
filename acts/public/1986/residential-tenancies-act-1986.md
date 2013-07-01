@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -741,7 +741,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (a) entry upon the premises by the landlord other than as permitted by or under any of subsections (1) to (3):
   (b) failure by the tenant, without reasonable excuse, to allow the landlord to enter upon the premises in any circumstances in which the landlord is entitled to enter under subsection (2) or subsection (3).
 (5) Notwithstanding anything in subsection (2) or subsection (3) or subsection (4), the landlord shall not use force or the threat of force to enter or attempt to enter the premises while the tenant, or any other person with the permission of the tenant, is in the premises.
-(6) Every landlord who breaches subsection (5) commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(6) Every landlord who breaches subsection (5) commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 (7) In this section premises does not include land or facilities.
 (8) Nothing in this section shall apply in respect of any tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971.
 
@@ -986,7 +986,7 @@ Sections 62A to 62D do not absolve the tenant from any responsibility imposed on
 
 ### 63 Entry without order of Tribunal prohibited
 (1) No person shall enter into possession of any residential premises in the occupation of a tenant except with the consent of the tenant or pursuant to an order for possession made by the Tribunal and duly enforced in accordance with section 106.
-(2) Notwithstanding anything in section 57 of the Crimes Act 1961, every person who, otherwise than pursuant to a possession order duly enforced in accordance with section 106, enters onto any land or into any land, being residential premises to which this Act applies, for the purpose of taking possession of that land or building without the consent of the tenant commits an offence and is liable to a fine not exceeding $2,000.
+(2) Notwithstanding anything in section 57 of the Crimes Act 1961, every person who, otherwise than pursuant to a possession order duly enforced in accordance with section 106, enters onto any land or into any land, being residential premises to which this Act applies, for the purpose of taking possession of that land or building without the consent of the tenant commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 64 Possession orders
 (1) Subject to subsection (2), on the application of any person entitled to possession of the premises following the termination of a tenancy, the Tribunal shall make an order granting possession of the premises to that person.
@@ -1336,7 +1336,7 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
 (5) Every such determination, and every provision of any such determination, in respect of which no date is specified under subsection (4) shall come into force on the date of the making of the determination.
 
 ### 70 Tenancy Adjudicators to be protected
-Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's duties under this Act, shall have and enjoy the same protection as Justices of the Peace acting in their criminal jurisdiction have and enjoy under Part 7 of the Summary Proceedings Act 1957.
+Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's duties under this Act, shall have and enjoy the same protection as Justices of the Peace acting in their criminal jurisdiction have and enjoy under sections 4A to 4F of the Justices of the Peace Act 1957.
 
 ### 71 Conduct of Tribunal and stationing of Tenancy Adjudicators
 (1) The Principal Tenancy Adjudicator shall be responsible for ensuring the orderly and expeditious discharge of the business of the Tribunal throughout New Zealand, and accordingly may, subject to subsection (2) and to such consultation with the other Tenancy Adjudicators as is appropriate and practicable, give all such directions as are contemplated by the succeeding provisions of this section.
@@ -1533,7 +1533,7 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
   (d) the statement is otherwise admissible in any criminal proceedings in which a person is charged with an offence arising from the making of the statement.
 
 ### 90 Tenancy Mediator to observe confidentiality
-(1) Every Tenancy Mediator commits an offence and is liable to a fine not exceeding $1,000 who discloses to any other person any information or statement received by or made to the Tenancy Mediator in the course of, and for the purposes of or in connection with, the mediation of any dispute.
+(1) Every Tenancy Mediator commits an offence and is liable on conviction to a fine not exceeding $1,000 who discloses to any other person any information or statement received by or made to the Tenancy Mediator in the course of, and for the purposes of or in connection with, the mediation of any dispute.
 (2) Nothing in subsection (1) shall apply if—
   (a) the person from whom the information is received or by whom the statement is made consents to the disclosure; or
   (b) there are reasonable grounds to believe that disclosure is necessary to prevent or minimise the danger of injury to any person or damage to any property; or
@@ -1757,20 +1757,20 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 (2) The Tribunal may make an order under subsection (1) on its own initiative or on the application of the applicant who applied for the order, under section 109, against the person sought to be restrained.
 (3) The Tribunal must specify the term of the order, which may not exceed 6 years.
 (4) Every person commits an offence who, being subject to an order under this section, intentionally contravenes the order.
-(5) A person who commits an offence against subsection (4) is liable on summary conviction to a fine not exceeding $2,000.
+(5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $2,000.
 
 ### 110 Failing to answer witness summons
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who, having been summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any document or thing, without reasonable cause,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, having been summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any document or thing, without reasonable cause,—
   (a) fails to attend in accordance with the summons; or
   (b) refuses to promise to tell the truth, or refuses to give evidence, or refuses to answer any question that the person is lawfully required by the Tribunal to answer concerning the subject of the proceedings; or
   (c) fails to produce any such document or thing lawfully required to be produced.
 (2) No person who is summoned shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there has been paid or tendered to that person a sum for travelling expenses according to the scale for the time being prescribed.
 
 ### 111 Giving false evidence
-Every person commits an offence and is liable on indictment to imprisonment for a term not exceeding 3 years who, after promising to tell the truth pursuant to section 97(2), makes any assertion as to a matter of fact, opinion, belief, or knowledge knowing that assertion to be false and intending thereby to mislead the Tribunal.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who, after promising to tell the truth pursuant to section 97(2), makes any assertion as to a matter of fact, opinion, belief, or knowledge knowing that assertion to be false and intending thereby to mislead the Tribunal.
 
 ### 112 Contempt
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
   (a) wilfully assaults, insults, or obstructs a Tenancy Adjudicator, or any witness or any officer of the Tribunal during a sitting of the Tribunal or while a Tenancy Adjudicator, a witness, or an officer of the Tribunal is going to, or returning from, a sitting of the Tribunal; or
   (b) wilfully assaults, insults, or obstructs any person in attendance at a sitting of the Tribunal; or
   (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Tribunal; or
@@ -1860,7 +1860,7 @@ The chief executive must ensure that assistance is reasonably available from his
 (6) A Tenancy Mediator who enters any premises under this section must,—
   (a) on initial entry, produce evidence of his or her identity; and
   (b) while subsequently on the premises, produce that evidence to any person who reasonably requests to see it.
-(7) Every person commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, obstructs or hinders any Tenancy Mediator in the exercise of the power conferred by subsection (1).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, obstructs or hinders any Tenancy Mediator in the exercise of the power conferred by subsection (1).
 
 ### 115 Principal Tenancy Adjudicator may issue practice directions
 For the purpose of ensuring that the application and administration of this Act is consistent throughout New Zealand, the Principal Tenancy Adjudicator may from time to time issue, for the guidance of other Tenancy Adjudicators, officers of the Tribunal, and parties before the Tribunal, any directions, notes, guidelines, or suggestions (not being inconsistent with this Act or any rules made under section 116) that the Principal Tenancy Adjudicator considers necessary or desirable.
@@ -2018,7 +2018,7 @@ No money from time to time standing to the credit of the Residential Tenancies T
 
 ### 133 Tribunal or chief executive may require terms of tenancy agreement
 (1) The Tribunal or the chief executive may, at any time during the currency of a tenancy agreement or within 12 months after its termination, by notice in writing, require the landlord to inform the Tribunal or the chief executive of the provisions of the agreement.
-(2) Every person who, without reasonable excuse, fails to comply with such a notice within 10 working days after receiving it commits an offence and is liable to a fine not exceeding $400.
+(2) Every person who, without reasonable excuse, fails to comply with such a notice within 10 working days after receiving it commits an offence and is liable on conviction to a fine not exceeding $400.
 
 ### 134 Waiver by landlord of breach by tenant
 A waiver by the landlord of any breach by the tenant, or a failure by the landlord to enforce any obligation by the tenant, shall not,—but any such waiver or failure to enforce may be taken into consideration by the Tribunal if the landlord subsequently applies to the Tribunal for an order terminating the tenancy.
@@ -2073,9 +2073,8 @@ Where this Act requires notice to be given of any thing and prescribes a followi
 (3) Subject to subsection (4), any provision of any transaction, contract, or arrangement entered into in contravention of subsection (1) that would have the effect of, in any way, whether directly or indirectly, defeating, evading, or preventing the operation of any of the provisions of this Act shall be of no effect.
 (4) All money paid and the value of any other consideration for the tenancy provided by the tenant (not being rent lawfully recoverable by the landlord) or, where the transaction takes the form of an option to purchase the premises to which the transaction relates, by the person on whom the option to purchase is conferred, shall be recoverable as a debt due to the tenant or prospective purchaser by the landlord.
 
-### 138 Offences triable summarily
-(1) Every offence against any of the provisions of this Act, except section 111, or against any regulations made under this Act, shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act, or against any regulations made under this Act, may be laid at any time within 1 year after the time when the matter of the information arose.
+### 138 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 139 Regulations relating to accommodation brokers
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
