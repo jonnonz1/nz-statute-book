@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -1098,14 +1098,13 @@ A person who fails to comply with section 14(1) must be taken to have contravene
 **Proceedings for offences generally**
 
 ### 111 Proceedings for offences generally
-(1) Every offence against this Act is punishable on summary conviction.
-(2) Despite section 14 of the Summary Proceedings Act 1957, any information for an offence against section 99 may be laid at any time within 1 year after the facts alleged in the information have been brought to the knowledge of the informant.
+[Repealed]
 
 **Proceedings for infringement offences**
 
 ### 112 Proceedings for infringement offences
 (1) If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be issued with an infringement notice as provided in section 113.
 (2) If an infringement notice has been issued under section 113, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
 
@@ -1310,7 +1309,7 @@ A person must not communicate to any person any information acquired in the cour
 (2) A notice or document that is sent to a person at a fax number or an email address must be treated as received by that person not later than 2 days after the date on which it is sent.
 (3) A notice or document that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
 (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
-(5) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
+(5) An infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
 
 **Levy regulations**
 
@@ -1612,39 +1611,3 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
 (6) To avoid doubt, nothing in this clause affects the right of any person to apply, in accordance with law, for judicial review.
 
 ## Schedule 2 — Enactments amended
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
