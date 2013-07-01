@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Amendment Act 2010
-_Consolidation as at 2010-04-19_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Hazardous Substances and New Organisms Amendment Act 2010.
@@ -273,12 +273,12 @@ Anything done, before the commencement of this Act, in enforcing the principal A
   (a) must be dealt with as if this Act had not been enacted, if they were incurred before the commencement of this Act; or
   (b) may be recovered in accordance with the principal Act as amended by this Act, if they were incurred on or after the commencement of this Act, regardless of when the enforcement to which the costs relate occurred.
 
-### 38 Transitional provision for laying information
-(1) Subsection (2) applies to an information in respect of an offence against the principal Act that relates to a hazardous substance.
-(2) The information must be laid—
+### 38 Transitional provision for filing charging document
+(1) Subsection (2) applies to a charge in respect of an offence against the principal Act that relates to a hazardous substance.
+(2) The charging document must be filed—
   (a) as if this Act had not been enacted, if the incident, situation, or set of circumstances to which the offence relates occurred before the commencement of this Act; or
   (b) in accordance with the principal Act as amended by this Act in all other cases.
-(3) Subsection (4) applies to an information in respect of an offence against the principal Act that relates to a new organism.
-(4) The information must be laid—
-  (a) as if this Act had not been enacted, if the matter of the information arose before the commencement of this Act; or
+(3) Subsection (4) applies to a charge in respect of an offence against the principal Act that relates to a new organism.
+(4) The charging document must be filed—
+  (a) as if this Act had not been enacted, if the offence was committed before the commencement of this Act; or
   (b) in accordance with the principal Act as amended by this Act in all other cases.
