@@ -1,5 +1,5 @@
 # Securities Trustees and Statutory Supervisors Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Securities Trustees and Statutory Supervisors Act 2011.
@@ -122,7 +122,7 @@ A licensee must comply with every condition imposed on the licence.
 (4) A person commits an offence if—
   (a) the person represents that the person is licensed to be a statutory supervisor in respect of a retirement village; and
   (b) the person does not hold a licence that covers the retirement village.
-(5) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $300,000.
+(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $300,000.
 
 ### 9 Requirement to be licensed: exception for certain FMA appointees
 Sections 6 and 8(1) and (2) do not apply to a person appointed as an FMA appointee under section 22 or 37.
@@ -311,9 +311,9 @@ A licence must state the following information:
   (a) must be given no later than 6 months after the date of the appointment of the person who gives the notice:
   (b) ceases to be effective if the person who gives the notice ceases to hold the position referred to in subsection (1) or (2):
   (c) must specify a reasonable time within which the documents must be provided.
-(4) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(4) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (5) A document provided pursuant to a notice under this section may be used only for the purpose of performing the functions of the position referred to in subsection (1) or (2).
-(6) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for the purpose of performing the functions of the position to which the FMA appointee or new appointee has been appointed commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(6) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for the purpose of performing the functions of the position to which the FMA appointee or new appointee has been appointed commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (7) In this section,—
   - **existing appointee** has the meaning given in section 22(1)(a) or 23(1)(a)
   - **FMA appointee** has the meaning given in section 22(2)(b)
@@ -477,7 +477,7 @@ A cancellation notice must—
   (b) the date by which each step must be taken.
 (3) The existing appointee must comply with the direction.
 (4) To avoid doubt, a direction must not be inconsistent with the relevant governing document, but may require the appointee to seek specified amendments to the document.
-(5) A person who, without reasonable excuse, fails to comply with a direction under subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(5) A person who, without reasonable excuse, fails to comply with a direction under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000.
 
 ### 37 Removal notice: FMA may replace existing appointee
 (1) If an affected person does not remove the existing appointee by written notice under section 38(1) or otherwise appoint a person as the trustee or statutory supervisor in place of the existing appointee before the final removal date, the FMA may appoint a person (the FMA appointee) to that position for a period of 6 months beginning on the final removal date.
@@ -515,11 +515,11 @@ A cancellation notice must—
   (a) must be given no later than 6 months after the date of the appointment of the person who gives the notice or, in the case of a notice under subsection (3), within 6 months after the existing appointee's reinstatement:
   (b) ceases to be effective if the person who gives the notice ceases to be the trustee or statutory supervisor in respect of the affected security or the statutory supervisor in respect of the affected retirement village:
   (c) must specify a reasonable time within which the documents must be provided.
-(5) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(5) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (6) A document provided pursuant to a notice under this section may be used only for the purpose of—
   (a) performing the functions of the trustee or statutory supervisor in respect of the affected security; or
   (b) performing the functions of the statutory supervisor in respect of the affected retirement village.
-(7) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for a purpose referred to in subsection (6) commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(7) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for a purpose referred to in subsection (6) commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
 ### 40 Appeal to High Court against removal notice, etc
 (1) A licensee may appeal to the High Court against a decision to give a removal notice, variation notice, or cancellation notice under section 32(2)(b) to (d).
@@ -619,7 +619,7 @@ If a trustee or statutory supervisor has reasonable grounds to believe that a su
   (a) the step or steps that the trustee or statutory supervisor must take in relation to the issue or the issuer (or both); and
   (b) the date by which each step must be taken.
 (4) The trustee or statutory supervisor must comply with the direction.
-(5) A person who fails, without reasonable excuse, to comply with a direction commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(5) A person who fails, without reasonable excuse, to comply with a direction commits an offence and is liable on conviction to a fine not exceeding $200,000.
 (6) To avoid doubt, the fact that the FMA has not given a direction under this section does not affect the FMA's ability to apply for orders under sections 41, 42, and 50.
 
 ### 50 FMA may apply to High Court for orders relating to securities
