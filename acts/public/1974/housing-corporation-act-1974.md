@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -345,7 +345,7 @@ So far as concerns any lender or holder,—
   (b) the name Housing New Zealand Corporation; or
   (c) any other name so resembling either of those names as to be calculated to deceive.
 (2A) Subsections (1) and (2) do not prevent HNZ from continuing to use the name Housing New Zealand.
-(3) Any person who contravenes subsection (2) commits an offence and shall be liable on summary conviction to a fine not exceeding $100 and to a further fine not exceeding $10 for each day on which the offence has continued.
+(3) Any person who contravenes subsection (2) commits an offence and shall be liable on conviction to a fine not exceeding $100 and to a further fine not exceeding $10 for each day on which the offence has continued.
 
 ### 43A Conveyancing
 (1) Where, pursuant to paragraph (c) of section 19(4), the Corporation draws or prepares any conveyance, deed, agreement, or lease of a kind mentioned in that paragraph for or on behalf of any other person (hereafter in this section called the client), the solicitor referred to in that paragraph shall, in the drawing or preparing of that document and in the provision of any legal advice or legal service attendant upon that work, be deemed for all purposes to be employed by the client, and shall not be subject to direction by the Corporation or by any employee of the Corporation.
