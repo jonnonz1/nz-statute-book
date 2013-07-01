@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -1604,12 +1604,12 @@ Every permit holder must—
   (d) section 94, which relates to persons administering this Act holding a pecuniary interest in a mining permit.
 (3) Every person commits an offence against this Act who wilfully obstructs, hinders, resists, or deceives any person in the execution of any powers conferred on that person by or under this Act.
 (3A) Every person commits an offence against this Act who knowingly provides altered, false, incomplete, or misleading information (including royalty returns) to the chief executive or any other person in respect of a matter or thing under this Act or the regulations.
-(4) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against subsection (1) may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the chief executive.
+(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the Secretary.
 
 ### 101 Penalties
-(1) Every person who commits an offence against section 100(1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $400,000, and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
-(2) Every person who commits an offence against section 100(2) is liable on summary conviction to a fine not exceeding $20,000, and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues.
-(3) Every person who commits an offence against section 100(3) is liable on summary conviction to a fine not exceeding $3,000.
+(1) Every person who commits an offence against section 100(1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $400,000, and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
+(2) Every person who commits an offence against section 100(2) is liable on conviction to a fine not exceeding $20,000, and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues.
+(3) Every person who commits an offence against section 100(3) is liable on conviction to a fine not exceeding $3,000.
 (3A) Every person who commits an offence against section 100(3A) is liable on summary conviction to a fine not exceeding $800,000.
 (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
 (5) Where a person is convicted of an offence against section 77, the court may, instead of, or in addition to, imposing a fine, cancel or revoke the right of access or impose additional conditions on the right where it considers it is appropriate to do so in the circumstances.
