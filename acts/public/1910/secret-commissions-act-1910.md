@@ -1,16 +1,16 @@
 # Secret Commissions Act 1910
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act for the prohibition of secret commissions
 
 ### 1 Short Title and commencement
-This Act may be cited as the Secret Commissions Act 1910, and shall come into operation on the 1st day of January 1911.
+This Act may be cited as the Secret Commissions Act 1910, and shall come into operation on 1 January 1911.
 
 ### 2 Interpretation
 In this Act, unless a contrary intention appears,—
-  - **Agent** includes any person who is or has been, or desires or intends to be, employed by or acting for any other person, whether as agent, servant, broker, auctioneer, architect, solicitor, director, or in any other capacity whatever, either alone or jointly with any other person
-  - **Principal** includes any person by whom an agent is or has been, or intends or desires to be, employed, or for whom an agent acts or has acted, or intends or desires to act
-  - **Consideration** means valuable consideration of any kind; and particularly includes discounts, commissions, rebates, bonuses, deductions, percentages, employment, payment of money (whether by way of loan, gift, or otherwise howsoever), and forbearance to demand any money or valuable thing.
+  - **agent** includes any person who is or has been, or desires or intends to be, employed by or acting for any other person, whether as agent, servant, broker, auctioneer, architect, solicitor, director, or in any other capacity whatever, either alone or jointly with any other person
+  - **principal** includes any person by whom an agent is or has been, or intends or desires to be, employed, or for whom an agent acts or has acted, or intends or desires to act
+  - **consideration** means valuable consideration of any kind; and particularly includes discounts, commissions, rebates, bonuses, deductions, percentages, employment, payment of money (whether by way of loan, gift, or otherwise howsoever), and forbearance to demand any money or valuable thing.
 
 ### 3 Gifts to agent without consent of principal an offence
 (1) Every person is guilty of an offence who corruptly gives, or agrees or offers to give, to any agent any gift or other consideration as an inducement or reward for doing or forbearing to do, or for having done or forborne to do, any act in relation to the principal's affairs or business (whether such act is within the scope of the agent's authority or the course of his employment as agent or not), or for showing or having shown favour or disfavour to any person in relation to the principal's affairs or business.
@@ -46,28 +46,30 @@ Every person is guilty of an offence who, with or without authority, does on beh
 (2) Except as provided by this section, evidence shall not be admissible in any proceeding for an offence against this Act to show that any such gift or consideration as is mentioned in this Act is customary in any trade or calling, nor shall the customary nature of any such gift or consideration be any defence in such proceedings.
 
 ### 12 Consent of Attorney-General necessary for prosecution
-(1) No prosecution for an offence against this Act shall be commenced without the leave of the Attorney-General; and the Attorney-General shall, in granting leave to institute a prosecution, determine whether the offence shall be dealt with as an indictable offence or as one punishable on summary conviction, and the prosecution shall take place accordingly and not otherwise.
-(2) The leave of the Attorney-General may be granted without notice to the defendant, and it shall not be necessary in any information or indictment to state that such leave has been granted, or the terms thereof. Objections to an information or indictment for want of such leave or for want of conformity to the terms thereof shall be taken before the District Court Judge, or by motion to quash the indictment, before the defendant is given in charge to the jury upon his trial, and not otherwise; and if the District Court Judge or Judge is satisfied that such leave has not been granted, or that the terms thereof have not been conformed to, the information or indictment shall be dismissed or quashed, as the case may be.
+(1) No prosecution for an offence against this Act may be commenced without the leave of the Attorney-General.
+(2) The leave of the Attorney-General may be granted without notice to the defendant and it is not necessary in the charge to state that leave has been granted, or to state the terms of that leave.
+(3) Objections to a charge for want of leave, or for want of conformity to the terms of leave, must be made before a District Court Judge before the trial, and if the District Court Judge is satisfied that leave has not been granted, or that the terms thereof have not been conformed to, the District Court Judge must either—
+  (a) permit the prosecutor to withdraw the charge; or
+  (b) dismiss the charge.
 
 ### 13 Penalty on conviction
-(1) Any person convicted on indictment of an offence against this Act is liable, if a corporation, to a fine not exceeding $2,000; and if any other person, to imprisonment for any period not exceeding 2 years or to a fine not exceeding $1,000.
-(2) Any person convicted summarily of an offence against this Act is liable, if a corporation, to a fine not exceeding $200; and if any other person, to imprisonment for any period not exceeding 3 months or to a fine not exceeding $100.
+Any person convicted of an offence against this Act is liable, if a corporation, to a fine not exceeding $2,000; and if any other person, to imprisonment for any period not exceeding 2 years or to a fine not exceeding $1,000.
 
 ### 14 Proceedings to be before District Court Judge only
-An information under the Summary Proceedings Act 1957 for an offence against this Act, whether the proceedings are by way of summary conviction or otherwise, shall be taken and heard before a District Court Judge only.
+[Repealed]
 
 ### 15 Incriminating answers and discovery
 No person shall in any civil or criminal proceedings be excused from answering any question put either viva voce or by interrogatory, or from making any discovery of documents, on the ground that the answer or discovery may criminate or tend to criminate him in respect of an offence against this Act; but his answer shall not be admissible in evidence against him in any criminal proceedings for an offence against this Act.
 
 ### 16 Persons deemed to be agents within the meaning of this Act
 (1) For the purposes of this Act—
-  (a) Every officer of a corporation and every member of a governing body of a corporation shall be deemed to be an agent of the corporation:
-  (b) Every officer or member of any local authority, Board, Council, committee, or other body of persons, whether incorporated or unincorporated, charged by statute with any public functions shall be deemed to be an agent of that local authority, Board, Council, committee, or other body:
-  (c) Every person in the service of the Crown, or acting for or on behalf of the Crown, or holding any office in the public service, shall be deemed to be an agent of the Crown:
-  (d) Every partner in a firm shall be deemed to be an agent of the firm:
-  (e) An executor, administrator, or trustee shall be deemed to be an agent of the beneficiaries under the will, intestacy, or trust:
-  (f) The committee of the estate of a person of unsound mind shall be deemed to be the agent of that person:
-  (g) An arbitrator, umpire, or valuer shall be deemed to be an agent of every party to the arbitration or valuation:
-  (h) A liquidator of a company shall be deemed to be an agent of the company.
+  (a) every officer of a corporation and every member of a governing body of a corporation shall be deemed to be an agent of the corporation:
+  (b) every officer or member of any local authority, Board, Council, committee, or other body of persons, whether incorporated or unincorporated, charged by statute with any public functions shall be deemed to be an agent of that local authority, Board, Council, committee, or other body:
+  (c) every person in the service of the Crown, or acting for or on behalf of the Crown, or holding any office in the public service, shall be deemed to be an agent of the Crown:
+  (d) every partner in a firm shall be deemed to be an agent of the firm:
+  (e) an executor, administrator, or trustee shall be deemed to be an agent of the beneficiaries under the will, intestacy, or trust:
+  (f) the committee of the estate of a person of unsound mind shall be deemed to be the agent of that person:
+  (g) an arbitrator, umpire, or valuer shall be deemed to be an agent of every party to the arbitration or valuation:
+  (h) a liquidator of a company shall be deemed to be an agent of the company.
 (2) If by virtue of the provisions of this Act any agent is deemed to be the agent of 2 or more principals in respect of the same matter, this Act shall apply to each of those principals in the same manner as if he was the sole principal.
 (3) Nothing in this section shall be so construed as to restrict in any manner the meaning of the terms agent or principal as used in this Act.
