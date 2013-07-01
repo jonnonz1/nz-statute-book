@@ -1,5 +1,5 @@
 # Fisheries Act 1983
-_Consolidation as at 2005-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and reform the law relating to the management and conservation of fisheries and fishery resources within New Zealand and New Zealand fisheries waters
 
@@ -114,7 +114,7 @@ This Act shall bind the Crown.
   (c) to authorise the boarding, search, seizure, taking of possession, detention, or forfeiture under this Act of any such foreign fishing craft, or of any equipment or fish on board the craft, or the arrest of any crew member of such craft, in respect of any offence relating to fishing within the exclusive economic zone; or
   (d) to authorise the imposition of a term of imprisonment on any crew member of any such foreign fishing craft in respect of any such offence.
 (2) Nothing in Part 3 or section 60 shall apply to fishing by foreign fishing craft within the exclusive economic zone.
-(3) Where, but for the provisions of subsection (1), a person would be liable to suffer imprisonment for the commission of any offence, he shall instead of such imprisonment be liable on summary conviction to a fine not exceeding in the case of any licensee, owner, or master of the foreign fishing craft $10,000, and not exceeding in the case of any other crew member of the foreign fishing craft $1,000.
+(3) Where, but for the provisions of subsection (1), a person would be liable to suffer imprisonment for the commission of any offence, he shall instead of such imprisonment be liable on conviction to a fine not exceeding in the case of any licensee, owner, or master of the foreign fishing craft $10,000, and not exceeding in the case of any other crew member of the foreign fishing craft $1,000.
 (4) Any offence against this Act that is committed within the exclusive economic zone of New Zealand shall be deemed to have been committed in New Zealand.
 
 ### 3A Conversion factors
