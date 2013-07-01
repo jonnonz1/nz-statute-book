@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -1119,7 +1119,7 @@ Where the Secretary, in determining any claim for a pension or allowance under t
 
 ### 89 Pensions and allowances absolutely inalienable
 (1) No pension or allowance under this Act shall be capable of being assigned or charged or of passing to any other person by operation of law:provided that nothing herein shall be construed to prevent the Secretary from authorising, with or without the consent of the person to whom the pension or allowance was granted, the payment of the whole or any portion thereof to any other person for the benefit of the person to whom it was granted or for the benefit of the person’s spouse or partner or of any dependent child or dependent children.
-(2) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $100 who demands or accepts any certificate or any acknowledgment or undertaking that would constitute a legal or equitable assignment of or charge upon any pension or allowance under this Act if the same were capable of being legally assigned or charged.
+(2) Every person commits an offence and shall be liable on conviction to a fine not exceeding $100 who demands or accepts any certificate or any acknowledgment or undertaking that would constitute a legal or equitable assignment of or charge upon any pension or allowance under this Act if the same were capable of being legally assigned or charged.
 
 ### 90 Recovery of payments made in error
 (1) If any pension or allowance under this Act is granted to any person not entitled thereto or if any instalment of any such pension or allowance is paid to any person not entitled to receive the same or is paid in excess of the proper rate, any amount so paid in error may be recovered at the suit of the Secretary, as a debt due to the Crown by the person to whom it was so paid, or the Secretary may make any necessary adjustments in any instalment or instalments of that or any other pension or allowance thereafter becoming payable.
@@ -1129,14 +1129,13 @@ Where the Secretary, in determining any claim for a pension or allowance under t
 Except as may be otherwise provided in this or any other Act, no account shall be taken of any pension or allowance payable under this Act in respect of the disablement or death of any person for the purpose of assessing the amount payable by or to any person, as compensation or damages, in respect of any accident that is or may be the basis of a claim for a pension or allowance under this Act.
 
 ### 92 Offences
-Every person commits an offence against this Act and shall be liable on summary conviction to a fine not exceeding $200 or to imprisonment for 12 months who—
+Every person commits an offence against this Act and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for 12 months who—
   (a) makes any false statement to or otherwise misleads or attempts to mislead an Appeal Board, the Secretary, a national review officer, or a claims panel, or any other officer or person concerned in the administration of this Act; or
   (b) whether or not he is a claimant for a pension or allowance under this Act, does not faithfully disclose all particulars properly required to be disclosed by him in relation to any claim; or
   (c) accepts payment of any instalment of any pension or allowance under this Act to which he is not entitled.
 
-### 93 Proceedings for offences
-(1) Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957, an information for any offence against this Act may be laid at any time within 12 months after the facts alleged in the information have been brought to the knowledge of the person by whom the proceedings are instituted.
-(2) All proceedings for offences against this Act shall be taken before a District Court Judge.
+### 93 Time for filing charge
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of the person by whom the proceedings are instituted.
 
 ### 94 Money payable out of Crown Bank Account
 (1) There shall from time to time be paid out of a Crown Bank Account, from money appropriated by Parliament for the purpose,—
