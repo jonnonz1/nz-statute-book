@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -62,7 +62,7 @@ _Consolidation as at 2009-07-01_
   - **special patient** means—
     (a) a person who is liable to be detained in a hospital under an order made under—
       (i) section 24(2)(a) or section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
-      (ii) section 184T(3) of the Summary Proceedings Act 1957; or
+      (ii) section 169 of the Criminal Procedure Act 2011; or
     (b) a person who is remanded to a hospital under section 23 or section 35 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     (c) a person who is liable to be detained in a hospital under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and who has not ceased, under section 48 of this Act, to be a special patient; or
     (d) a person who is liable to be detained in a hospital, either following an application under section 45(2) or arrangements made under section 46, and who has not ceased, under section 48, to be a special patient; or
@@ -384,7 +384,7 @@ In any proceedings on an application for a compulsory treatment order, whether b
 (1) Without limiting anything in section 22, on any application for a compulsory treatment order, the court may, of its own motion, call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
 (3) A witness called by the court under this section may be examined and re-examined by the court, and may be cross-examined by or on behalf of any party to the proceedings.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+(4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by the court under this section must be met, in accordance with the prescribed scale of witnesses' expenses, in the first instance from any appropriation by Parliament for the purpose.
 
 ### 24 Proceedings not open to public
@@ -799,7 +799,7 @@ Every patient is entitled to be dealt with in a manner that accords with the spi
 Every patient is entitled to medical treatment and other health care appropriate to his or her condition.
 
 ### 67 Right to be informed about treatment
-Every patient is entitled to receive an explanation of the expected effects of any treatment offered to the patient, including the expected benefits and the likely side-effects, before the treatment is commenced.
+Every patient is entitled to receive an explanation of the expected effects of any treatment offered to the patient, including the expected benefits and the likely side effects, before the treatment is commenced.
 
 ### 68 Further rights in case of visual or audio recording
 (1) Every patient is entitled to be informed where it is intended to make or use a videotape or other visual or audio recording of any interview with, or any other part of the treatment of, the patient.
@@ -1004,8 +1004,8 @@ The provisions set out in Schedule 1 shall apply in respect of a review of a pat
 (3) If, on the examination of the person so ordered to be brought before the Judge, and on the evidence of any medical or other witnesses, the Judge is satisfied—the Judge shall, unless the person is a special patient or is legally detained for some other cause, order that the person be discharged from the hospital forthwith.
   (a) that the person is detained illegally in the hospital as a patient; or
   (b) that the person is fit to be discharged from the hospital,—
-(4) If the person has been found to be unfit to stand trial and is detained as a special patient under section 24 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and it appears to the satisfaction of the Judge that the person is capable of being tried or committed for trial on the charge or indictment against him or her, the Judge has (without prejudice to subsection (5)) the same powers as the Attorney-General has under section 31 of that Act to direct that the person be brought before a court under that section.
-(5) If the person has been found unfit to stand trial and is detained as a special patient by virtue of section 24 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the Judge may, if in the circumstances of the case the Judge considers it proper to do so and if the interests of justice so permit (whether or not the person is capable of being tried or committed for trial), direct that the charge or indictment be dismissed.
+(4) If the person has been found to be unfit to stand trial and is detained as a special patient under section 24 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and it appears to the satisfaction of the Judge that the person is capable of being tried on the charge against him or her, the Judge has (without prejudice to subsection (5)) the same powers as the Attorney-General has under section 31 of that Act to direct that the person be brought before a court under that section.
+(5) If the person has been found unfit to stand trial and is detained as a special patient by virtue of section 24 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the Judge may, if in the circumstances of the case the Judge considers it proper to do so and if the interests of justice so permit (whether or not the person is capable of being tried), direct that the charge be dismissed.
 (6) On giving any direction under subsection (5), the Judge may order that the person be released from compulsory status; but if it appears to the Judge that the person is not fit to be released from that status, the Judge shall order that the person be further detained in a hospital under this Act, and the last-mentioned order shall have effect as an inpatient order made under Part 2.
 (7) For the purposes of any examination under this section, the Judge shall have power—
   (a) to summon any medical or other witnesses to testify on oath in respect of any matter involved in the examination, and to produce any relevant documents; and
@@ -1228,9 +1228,9 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (4) Notwithstanding subsection (3), every member of a Review Tribunal, and every deputy of any such member, shall, unless the member sooner dies, or resigns, or is removed from office under any of the preceding provisions of this section, continue in office until his or her successor is appointed notwithstanding the expiry of his or her term of office.
 
 ### 107 Convener
-(1) The members of a Review Tribunal shall from time to time elect 1 of their number to be the convener of the Review Tribunal.
+(1) The members of a Review Tribunal shall from time to time elect one of their number to be the convener of the Review Tribunal.
 (2) The convener shall preside at every meeting of the Review Tribunal at which he or she is present.
-(3) If the convener is not present at any meeting, the members present shall elect 1 of their number to preside at that meeting.
+(3) If the convener is not present at any meeting, the members present shall elect one of their number to preside at that meeting.
 
 ### 108 Fees and travelling allowances
 (1) Every Review Tribunal is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
@@ -1365,14 +1365,14 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
     (i) in the conduct of an assessment examination of a proposed patient; or
     (ii) in the assessment or treatment of a patient; and
   (d) the person in charge of a home, house, or other place where a proposed patient or patient resides.
-(2) Every such person who intentionally ill-treats or intentionally neglects any such proposed patient or patient commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+(2) Every such person who intentionally ill-treats or intentionally neglects any such proposed patient or patient commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 115 Assisting patient on community treatment order not to attend for treatment
 (1) Subsection (2) applies to a person who is employed in or about a place at which a patient who is subject to a community treatment order is required to attend for treatment.
-(2) Every such person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she—
+(2) Every such person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she—
   (a) intentionally permits any such patient not to attend, or to attempt not to attend, at the place; or
   (b) connives at any such absence or attempted absence.
-(3) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she—
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she—
   (a) intentionally instigates or assists any patient who is subject to a community treatment order not to attend, or to attempt not to attend, at any place at which the patient is required to attend for treatment; or
   (b) intentionally assists any patient who is so absent to avoid, or to attempt to avoid, being taken to the place.
 
@@ -1386,32 +1386,31 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (b) intentionally assists any patient who is so absent to avoid, or to attempt to avoid, being retaken.
 
 ### 116 Unlawful publication of reports of proceedings before Review Tribunal
-A person who contravenes clause 8(1) of Schedule 1 commits an offence against this Act and is liable to a fine not exceeding $10,000.
+A person who contravenes clause 8(1) of Schedule 1 commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000.
 
 ### 117 Obstruction of inspection
-Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the Director of Area Mental Health Services in respect of any hospital or service that is being visited by a district inspector or an official visitor, or a responsible clinician, or an employee in any such hospital or service,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the Director of Area Mental Health Services in respect of any hospital or service that is being visited by a district inspector or an official visitor, or a responsible clinician, or an employee in any such hospital or service,—
   (a) conceals or attempts to conceal from the district inspector or official visitor, or refuses or wilfully neglects to show to the district inspector or official visitor, any part of the hospital or service or any person detained or being treated in it; or
   (b) in any other manner wilfully obstructs or attempts to obstruct the district inspector or official visitor in the conduct of his or her official duties.
 
 ### 118 False or misleading certificates
-Every person commits an offence and is liable to a fine not exceeding $5,000 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) includes or causes to be included in any certificate under this Act any particular that he or she knows to be false or misleading in any material respect; or
   (b) negligently includes or negligently causes to be included in any such certificate any particular that is false or misleading in any material respect.
 
 ### 119 Further offences involving false or misleading documents, etc
-Every person commits an offence and is liable to a fine not exceeding $2,000 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
   (a) intentionally omits, or intentionally causes any other person to omit, to state in any notice, statement, or entry under this Act any particular prescribed or required by or under this Act to be included in the notice, statement, or entry; or
   (b) includes or causes to be included in any such notice, statement, or entry any particular that he or she knows to be false in any material respect; or
   (c) negligently includes or negligently causes to be included in any such notice, statement, or entry any particular that is false or misleading in any material respect.
 
-### 120 Offences punishable on summary conviction
-(1) Except where this Act otherwise provides, every offence against this Act, or against any regulations made under this Act, shall be punishable on summary conviction.
-(2) Every information for any such offence, not being an offence punishable on conviction on indictment, shall be laid by—
+### 120 Who may commence proceedings
+Proceedings for an offence against this Act must be commenced by—
   (a) the Director or some other person authorised in writing by the Director in a particular case; or
   (b) any constable.
 
 ### 121 General penalty
-Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $500.
+Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $500.
 
 ### 122 Matters of justification or excuse
 (1) Every person in charge of a hospital, responsible clinician, duly authorised officer, constable, or other person who relies on any notice purportedly given under section 9 or section 11 or section 13, or on any order purporting to be a compulsory treatment order, shall be protected from criminal responsibility if he or she acts in good faith under the belief that the notice was properly given by a person having authority to give it or the order was properly made by a court having jurisdiction to make it.
@@ -1651,7 +1650,7 @@ For the purposes of any review of a patient's condition, a Review Tribunal may r
 (1) Without limiting anything in clause 5, for the purposes of a review of a patient's condition, a Review Tribunal may, of its own motion, call as a witness any person whose evidence may, in its opinion, be of assistance to the Tribunal.
 (2) A witness called by the Tribunal under this clause shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
 (3) A witness called by the Tribunal under this clause may be examined and re-examined by the Tribunal, and may be cross-examined by or on behalf of any party to the proceedings.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the Tribunal under this clause as if that person had been called by a party to the proceedings.
+(4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the Tribunal under this clause as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by the Tribunal under this clause must be met, in accordance with the prescribed scale of witnesses' expenses, in the first instance from any appropriation by Parliament for the purpose.
 
 ### 7 Proceedings not open to public
