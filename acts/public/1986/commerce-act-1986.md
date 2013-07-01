@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -229,7 +229,7 @@ Nothing in the Evidence Amendment Act 1980 applies in relation to the applicatio
 ### 11 Associate members
 (1) The Minister may from time to time appoint any person to be an associate member of the Commission.
 (1A) Subsection (1) applies despite section 28(1)(b) of the Crown Entities Act 2004.
-(2) An associate member shall be appointed only in relation to a matter or a class of matters to be specified in that member's notice of appointment, and for such period, not exceeding 5 years, as is specified in that instrument.
+(2) An associate member shall be appointed only in relation to a matter or a class of matters to be specified in that member's notice of appointment, and for such period, not exceeding 5 years, as is specified in that notice.
 (3) Subject to subsection (4), an associate member shall be deemed to be a member of the Commission for the purposes of the performance or exercise of any function, duty, or power of a member of the Commission under this Act or any other Act; and except where this section or the context otherwise requires, a reference in this Act or in any other Act to a member of the Commission must be construed as including a reference to an associate member.
 (4) An associate member may attend and vote only at a meeting of the Commission relating to the matter or class of matters specified in that member's notice of appointment (including a meeting relating to matters incidental to the matter or class of matters so specified).
 (5) An associate member may only be appointed in relation to a matter or class of matters arising under an Act under which the Commission is required to act independently under section 8(2).
@@ -1916,7 +1916,7 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (b) each person to whom a draft determination was sent under section 62(2), and any other person whose presence at the conference is considered by the Commission to be desirable, is entitled to attend and participate personally or, in the case of a body corporate, be represented by a person who, or by persons each of whom, is a director, officer, or employee of the body corporate:
   (c) a person participating in the conference in accordance with paragraph (b) is entitled to have another person or other persons present to assist him:
   (d) no other person is entitled to be present.
-(2) The Commission may require any employee of the Commission to attend a conference called under section 62 where in the opinion of the Commission that officer may assist the Commission in the determination of the application.
+(2) The Commission may require any employee of the Commission to attend a conference called under section 62 where in the opinion of the Commission that employee may assist the Commission in the determination of the application.
 (3) At every conference called under section 62 the Commission shall provide for as little formality and technicality as the requirements of this Act and a proper consideration of the application permits.
 (4) The Commission shall cause such record of the conference to be made as is sufficient to set out the matters raised by the persons participating in the conference.
 (5) Any member of the Commission attending the conference may terminate the conference when that member is of the opinion that a reasonable opportunity has been given for the expression of the views of persons participating in the conference.
@@ -2229,7 +2229,7 @@ The court may make an order that a person must not, without the leave of the cou
 ### 80E Offence to act in contravention of order made under section 80C
 (1) Every person commits an offence who acts in contravention of an order made under section 80C.
 (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
-(3) The offence is triable on indictment.
+(3)
 
 ### 81 Injunctions may be granted by court for contravention of Part 2
 The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following—
@@ -2377,8 +2377,8 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (1) A person commits an offence if—
   (a) the person, knowing that particular goods or services are subject to information disclosure regulation, intentionally contravenes any information disclosure requirement relating to those goods or services; or
   (b) the person is subject to an order under section 86A and fails to comply with the order by the date, or within the period, specified.
-(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
-(3) Despite section 14 of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(3)
 
 ### 86C Orders where negotiate/arbitrate regulation applies
 (1) The court may, on the application of a party (party A) to negotiation or arbitration in respect of goods or services that are subject to negotiate/arbitrate regulation, make either or both of the following orders:
@@ -2423,8 +2423,8 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (1) A person commits an offence if—
   (a) the person, knowing that particular goods or services are subject to price-quality regulation, intentionally contravenes a price-quality requirement in respect of the goods or services; or
   (b) the person is subject to an order under section 87C(1)(b) and fails to comply with the order.
-(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
-(3) Despite section 14 of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(3)
 
 ### 87C Injunction and other orders relating to price-quality regulation
 (1) If the court is satisfied that goods or services that are subject to price-quality regulation are being supplied, or are likely to be supplied, in contravention of any price-quality requirement applying with respect to those goods or services, the court may do either or both of the following:
@@ -2580,7 +2580,7 @@ The Commission may exercise any power under sections 98 and 98A notwithstanding 
 ### 99A Commission may receive information and documents on behalf of Australian Competition and Consumer Commission
 (1) Where the Australian Competition and Consumer Commission requires any person resident or carrying on business in New Zealand to furnish any information or any class of information or produce any document or class of documents to it pursuant to section 155A of the Trade Practices Act 1974, the information or class of information may be furnished or the document or class of documents may be produced to the Commission for transmission to the Australian Competition and Consumer Commission.
 (2) The Commission shall deliver the information or class of information furnished or the document or class of documents produced to it to the Australian Competition and Consumer Commission as soon as practicable.
-(3) Every person who—commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+(3) Every person who—commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
   (a) refuses or fails, without reasonable excuse, to comply with a requirement referred to in subsection (1); or
   (b) in purported compliance with such a requirement, furnishes information or produces a document knowing it to be false or misleading—
 
@@ -2710,7 +2710,7 @@ The Commission must not provide information to an overseas regulator that the Co
   (a) where that order was made in connection with any application for, or any notice seeking, any clearance or authorisation under Part 5, after the expiry of 20 working days from the date on which the Commission makes a final determination in respect of that application or notice, or, where that application or notice is withdrawn before any such determination is made, after the date on which the application or notice is withdrawn:
   (b) where that order was made in connection with any other investigation or inquiry conducted by the Commission, after the conclusion of that investigation or inquiry.
 (3) On the expiry of any order made under subsection (1), the provisions of the Official Information Act 1982 shall apply in respect of any information, document, or evidence that was the subject of that order.
-(4) Every person who, contrary to any order made by the Commission under subsection (1), publishes or communicates any information or document or evidence commits an offence and is liable, on summary conviction, to a fine not exceeding $4,000 in the case of a person not being a body corporate, and $12,000 in the case of a body corporate.
+(4) Every person who, contrary to any order made by the Commission under subsection (1), publishes or communicates any information or document or evidence commits an offence and is liable, on conviction, to a fine not exceeding $4,000 in the case of a person not being a body corporate, and $12,000 in the case of a body corporate.
 
 ### 100A Commission may state case for opinion of High Court
 (1) The Commission may at any time state a case for the opinion of the court on any question of law arising in any matter before it.
@@ -2737,7 +2737,7 @@ The Commission must not provide information to an overseas regulator that the Co
   (b) refuse to take an oath or make an affirmation as a witness; or
   (c) refuse to answer any question; or
   (d) refuse to produce to the Commission any book or document that that person is required to produce.
-(4) Any person who contravenes subsection (1) or subsection (2) or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+(4) Any person who contravenes subsection (1) or subsection (2) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
 (5) Proceedings for an offence against subsection (4) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
 
 ### 104 Determinations of Commission
