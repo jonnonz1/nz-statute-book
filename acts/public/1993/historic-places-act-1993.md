@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2012-03-13_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbto continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcto establish the Maori Heritage Council; anddto amend and consolidate the Historic Places Act 1980
 
@@ -716,7 +716,7 @@ The production of any document purporting to contain a printed copy of any bylaw
 The Trust shall cause printed copies of all bylaws to be kept at an office of the Trust, and to be available for sale to members of the public at a reasonable price.
 
 ### 65 Penalty for breach of bylaws
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acts in contravention of or fails to comply with any bylaw under this Act.
+Every person commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of or fails to comply with any bylaw under this Act.
 
 **Employees**
 
@@ -885,7 +885,7 @@ The members of the Council are entitled to be paid, out of money appropriated by
 (1) Every person commits an offence who intentionally—without the authority of the Trust or any person or body authorised by the Trust in that behalf.
   (a) destroys, damages, or modifies any historic place, historic area, property, or thing vested in or under the control of the Trust; or
   (b) causes any such area, place, property, thing, or land to be destroyed, damaged, or modified,—
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of destruction, to a fine not exceeding $100,000:
   (b) in the case of damage or modification, to a fine not exceeding $40,000.
 
@@ -893,7 +893,7 @@ The members of the Council are entitled to be paid, out of money appropriated by
 (1) Every person commits an offence in respect of an historic place, historic area, wahi tapu, or wahi tapu area protected by a heritage covenant who, knowing or having reasonable cause to suspect that the historic place, historic area, wahi tapu, or wahi tapu area is protected by a heritage covenant, intentionally—otherwise than in accordance with the provisions of that heritage covenant.
   (a) destroys, damages, or modifies that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area; or
   (b) causes that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area to be destroyed, damaged, or modified,—
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of destruction, to a fine not exceeding $100,000:
   (b) in the case of damage or modification, to a fine not exceeding $40,000.
 
@@ -901,15 +901,15 @@ The members of the Council are entitled to be paid, out of money appropriated by
 (1) Every person commits an offence who, knowing or having reasonable cause to suspect that a site is an archaeological site,—without the authority of the Trust or any person or body authorised by the Trust in that behalf.
   (a) destroys, damages, or modifies that archaeological site; or
   (b) causes that archaeological site to be destroyed, damaged, or modified,—
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of destruction, to a fine not exceeding $100,000:
   (b) in the case of damage or modification, to a fine not exceeding $40,000.
 
 ### 100 Offence of breaching conditions of authority
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under section 14(1) or section 15.
+Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under section 14(1) or section 15.
 
 ### 101 Offence of refusing access, etc
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,500 who—
   (a) refuses to let a person authorised by or under section 21 to have access to an archaeological site or historic place for a purpose referred to in that section; or
   (b) obstructs any person—
     (i) in the carrying out of any investigation under section 13; or
@@ -917,19 +917,19 @@ Every person commits an offence and is liable on summary conviction to a fine no
     (iii) in the exercise of any power referred to in section 21(3).
 
 ### 102 Offence of carrying out archaeological investigation in breach of conditions or without written permission
-(1) Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under section 18(1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under section 18(1).
+(1) Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under section 18(1) commits an offence and is liable on conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under section 18(1).
 
 ### 103 Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration
 (1) Every person commits an offence who—without (in the case of an historic place) the authority of the Trust or any person or body authorised by the Trust for the purpose or (in the case of a wahi tapu) the authority of the Maori Heritage Council or any person or body authorised by the Council for the purpose.
   (a) demolishes, damages, modifies, or extends any historic place that has interim registration under section 26, or causes any such place to be demolished, damaged, modified, or extended; or
   (b) destroys, damages, or modifies any wahi tapu that has interim registration under section 26, or causes any such wahi tapu to be destroyed, damaged, or modified,—
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of demolition or destruction, to a fine not exceeding $100,000:
   (b) in the case of alteration, extension, damage, or modification, to a fine not exceeding $40,000.
 
 ### 104 Other offences
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who, without the authority of the Trust or any person or body authorised by the Trust in that behalf,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,500 who, without the authority of the Trust or any person or body authorised by the Trust in that behalf,—
   (a) intentionally enters upon any land or historic place vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
   (b) intentionally takes any animal or vehicle upon any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
   (c) intentionally lights any fire on any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
@@ -984,11 +984,11 @@ Every person commits an offence and is liable on summary conviction to a fine no
 ### 107 Offender to give name and address
 (1) Where any person is found offending against this Act, it shall be lawful for any officer or employee of the Trust or any person authorised in writing in that behalf by the Trust or any employee of the department for the time being responsible for the administration of this Act authorised in writing in that behalf by the chief executive or any constable to require the offender forthwith to desist from the offence and also to give his or her name and address.
 (2) If the offender, after being so required, fails to give his or her name or address, or gives a false name or address, or wilfully continues the offence, he or she commits a further offence against this Act.
-(3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
+(3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 (4) The Trust may apply to the court for a writ of injunction to restrain any person from breach of any duty or obligation imposed upon him or her by this Act, if he or she has threatened or already commenced to commit the breach or the Trust has reasonable cause to believe that such a breach is likely to occur.
 
-### 108 Time within which information may be laid
-Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 12 months from the time the offence was committed.
+### 108 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 
 ## Part 6 — Miscellaneous provisions
 
