@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2013-04-29_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -28,7 +28,6 @@ In this Act, unless the context otherwise requires,—
   - **panel information** , in relation to a person named on a jury list and on a panel, means the jury list information about the person that must be included on the panel in accordance with the jury rules
   - **party** includes, in criminal cases, the Crown or other prosecutor
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004
-  - **probation officer** has the same meaning as in section 2(1) of the Criminal Justice Act 1985
   - **protected particulars** , in relation to a person named on a jury list and on a panel, means the jury list information about the person that is not panel information about the person
   - **public prosecution** means criminal proceedings against a defendant for an offence and commenced by or on behalf of—
     (a) the Crown (including, without limitation, by a person who is, and is acting in his or her capacity as, a Crown solicitor, an employee or officer of a government department, or a Police employee); or
@@ -75,7 +74,7 @@ The following persons shall not serve on any jury in any court on any occasion:
   (aa) the Governor-General:
   (a) members of the Executive Council of New Zealand:
   (b) members of the House of Representatives:
-  (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges and Community Magistrates:
+  (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges, and Community Magistrates:
   (d) visiting Justices under the Corrections Act 2004, and members of the Parole Board:
   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of District Courts:
   (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
@@ -171,7 +170,7 @@ A jury list remains current until it is replaced by a new list provided by the E
   (a) may show the copy or any copies of it (the document) to a party in proceedings that are due to be heard during the week for which the jurors on the panel are summoned to attend for jury service; but
   (b) must not leave the document in the party’s possession; and
   (c) must take all reasonable steps to ensure that the party does not copy the document.
-(4) Every person who, in connection with proceedings that are due to be heard during the week for which the jurors on the panel are summoned to attend for jury service, receives, or makes a copy or copies of, a copy of the panel must return the copy or copies to the Registrar or a member of the court registry staff as soon as practicable after the case is opened or the accused is given in charge.
+(4) Every person who, in connection with proceedings that are due to be heard during the week for which the jurors on the panel are summoned to attend for jury service, receives, or makes a copy or copies of, a copy of the panel must return the copy or copies to the Registrar or a member of the court registry staff as soon as practicable after the case is opened or the defendant is given in charge.
 (5) However, subsection (4) does not apply to—
   (a) the Registrar or a member of the court registry staff; and
   (b) any other person if the court or a Judge, in the court’s or Judge’s discretion and on a written application for the purpose, orders that the other person need not return the copy or copies.
@@ -310,10 +309,10 @@ Where any case is to be tried by a jury, the persons who are to comprise the jur
 Subject to the powers of a Judge to discharge a juror under section 22, the jury to try the case shall comprise the first 12 persons selected under section 18 who remain after all proper challenges have been allowed.
 
 ### 20 Swearing of jurors
-After the jury is constituted but before the case is opened or the accused given in charge, the jurors shall be sworn in the form and manner prescribed by the jury rules.
+After the jury is constituted but before the case is opened or the defendant given in charge, the jurors shall be sworn in the form and manner prescribed by the jury rules.
 
 ### 21 Foreperson
-(1) After the jurors have been sworn but before the case is opened or the accused is given in charge, the jury shall retire to choose a foreperson.
+(1) After the jurors have been sworn but before the case is opened or the defendant is given in charge, the jury shall retire to choose a foreperson.
 (2) Despite subsection (1) the court may direct that the jury choose a foreperson at a time different from that specified in subsection (1).
 
 ### 22 Discharge of juror or jury
@@ -338,7 +337,7 @@ After the jury is constituted but before the case is opened or the accused given
 ### 22A Consequences of discharge under section 22
 (1) If a juror is discharged under section 22(1)(b),—
   (a) the discharge of the juror does not affect the juror’s liability to serve on any other jury:
-  (b) the court may, if the discharge occurs before the case is opened or the accused is given in charge, require a further juror to be selected from the panel and sworn under sections 18 and 20:
+  (b) the court may, if the discharge occurs before the case is opened or the defendant is given in charge, require a further juror to be selected from the panel and sworn under sections 18 and 20:
   (c) the choice of a foreperson is not affected (even if 1 or more replacement jurors are selected and sworn under paragraph (b)) if that choice has already been made and the juror who was chosen as foreperson is not the juror discharged:
   (d) if the juror has, by the time he or she is discharged, been chosen as foreperson, another foreperson must be chosen under section 21 from among the other jurors (including any 1 or more replacement jurors selected and sworn under paragraph (b)).
 (2)
@@ -373,7 +372,7 @@ If any person selected as a juror is—he may be challenged, and shall be discha
 
 ### 24 Challenges without cause
 (1) In every case to be tried before a jury, each of the parties is entitled to challenge without cause 4 jurors only.
-(2) However, if 2 or more accused persons in a criminal case are indicted together, the Crown or other prosecutor is entitled to challenge without cause 8 jurors only.
+(2) However, if 2 or more defendants in a criminal case are charged together, the Crown or other prosecutor is entitled to challenge without cause 8 jurors only.
 (3) If a juror is discharged and is to be replaced with another under section 22A(1)(b), each party is entitled in the selection of the new juror to exercise the number of challenges without cause that the party has not already exercised.
 
 ### 25 Challenges for cause
@@ -387,7 +386,7 @@ If any person selected as a juror is—he may be challenged, and shall be discha
 Every challenge shall be made before the juror takes a seat.
 
 ### 27 Directions to stand by
-(1) In a criminal case, the Judge, on an application made to him by the Crown or other prosecutor with the consent of the accused person or any of the accused persons, or by the accused person or any of the accused persons with the consent of the Crown or other prosecutor, shall direct any number of jurors to stand by until all the jurors have been called who are available for the purpose of trying that indictment.
+(1) In a criminal case, the Judge, on an application made to him by the Crown or other prosecutor with the consent of the defendant or any of the defendants, or by the defendant or any of the defendants with the consent of the Crown or other prosecutor, shall direct any number of jurors to stand by until all the jurors have been called who are available for the purpose of trying that charge.
 (2) Notwithstanding subsection (1), a Judge of his own motion may give a direction under that subsection where he is satisfied that it is in the interests of justice to do so.
 
 **Views**
@@ -426,32 +425,32 @@ Every challenge shall be made before the juror takes a seat.
 **Majority verdicts**
 
 ### 29C Criminal cases
-(1) In this section, majority verdict means, in relation to a jury that, at the time of its verdict, consists of a certain number of jurors, a verdict agreed to by all except 1 of them.
-(2) The Court may accept a majority verdict in a criminal case if—
+(1) In this section, majority verdict means, in relation to a jury that, at the time of its verdict, consists of a certain number of jurors, a verdict agreed to by all except one of them.
+(2) The court may accept a majority verdict in a criminal case if—
   (a) the jury, having retired to consider its verdict, has deliberated for at least 4 hours; and
   (b) the jurors have not reached a unanimous verdict; and
-  (c) the foreperson of the jury has stated in open Court—
+  (c) the foreperson of the jury has stated in open court—
     (i) that there is no probability of the jury reaching a unanimous verdict; and
     (ii) that the jury has reached a majority verdict; and
-  (d) the Court considers that the jury has had a period of time for deliberation that the Court thinks reasonable, having regard to the nature and complexity of the trial.
-(3) If the case involves 2 or more charges, or 2 or more persons charged, the Court may accept a majority verdict in relation to 1 or some of the charges or persons charged, in which case nothing in this section applies to the other charges or the other persons charged.
+  (d) the court considers that the jury has had a period of time for deliberation that the court thinks reasonable, having regard to the nature and complexity of the trial.
+(3) If the case involves 2 or more charges, or 2 or more persons charged, the court may accept a majority verdict in relation to 1 or some of the charges or persons charged, in which case nothing in this section applies to the other charges or the other persons charged.
 (4) Nothing in this section—
-  (a) prevents the Court from taking a poll of the jury; or
-  (b) affects section 339 of the Crimes Act 1961 (which relates to criminal cases where part of the charge is proved).
-(5) If, in terms of section 339 of the Crimes Act 1961, the crime charged, as described in the enactment creating the crime or as charged in the count, includes the commission of any other crime, the Court may accept a majority verdict on the crime charged instead of a unanimous verdict on the included crime.
+  (a) prevents the court from taking a poll of the jury; or
+  (b) affects section 110 or 143 of the Criminal Procedure Act 2011.
+(5) If, in terms of section 110 or 143 of the Criminal Procedure Act 2011, the offence charged, as described in the enactment creating the offence or as charged in the charge, includes the commission of any other offence, the court may accept a majority verdict on the offence charged instead of a unanimous verdict on the included offence.
 
 ### 29D Civil cases
 (1) In this section, majority verdict means, in relation to a jury that, at the time of its verdict, consists of a certain number of jurors, a verdict agreed to by at least three-fourths of them.
-(2) The Court may accept a majority verdict in a civil case if—
+(2) The court may accept a majority verdict in a civil case if—
   (a) the jury, having retired to consider its verdict, has deliberated for at least 4 hours; and
   (b) the jurors have not reached a unanimous verdict; and
-  (c) the foreperson of the jury has stated in open Court—
+  (c) the foreperson of the jury has stated in open court—
     (i) that there is no probability of the jury reaching a unanimous verdict; and
     (ii) that the jury has reached a majority verdict; and
-  (d) the Court considers that the jury has had a period of time for deliberation that the Court thinks reasonable, having regard to the nature and complexity of the trial.
+  (d) the court considers that the jury has had a period of time for deliberation that the court thinks reasonable, having regard to the nature and complexity of the trial.
 (3) Nothing in this section—
-  (a) prevents the Court from taking a poll of the jury; or
-  (b) affects any practice in civil cases by which a Court may, with the consent of all parties, accept a verdict that is not a unanimous verdict.
+  (a) prevents the court from taking a poll of the jury; or
+  (b) affects any practice in civil cases by which a court may, with the consent of all parties, accept a verdict that is not a unanimous verdict.
 
 **Miscellaneous provisions**
 
@@ -468,10 +467,12 @@ Where any party in a civil case requires a jury, that party shall pay to the Reg
   (b) wilfully refuses or neglects to serve when called upon.
 (2) Before imposing a fine on a person under subsection (1), the court must first inform that person of the default and afford that person a reasonable chance to explain it.
 (3) If a person who is summoned to appear and serve as a juror fails to answer when called, the court may issue a warrant to secure the attendance of that person before the court.
-(4) For the purposes of Part 4 of the Summary Proceedings Act 1957 and, if the fine is imposed by the High Court, for the purposes of Part 13 of the Crimes Act 1961, the imposition of a fine under subsection (1) is to be treated as a sentence; and those Parts of those Acts apply as if the person on whom the fine has been imposed had been convicted on an information and sentenced.
+(4) For the purposes of Part 6 of the Criminal Procedure Act 2011,—
+  (a) the imposition of a fine under subsection (1) is to be treated as a sentence; and
+  (b) that Part applies as if the person on whom the fine has been imposed had been convicted on a charge and sentenced.
 
 ### 32A Employees absent on jury service not to be prejudiced
-(1) An employer commits an offence and is liable on summary conviction to a fine not exceeding $10,000 if the employer does either of the following actions because an employee of the employer is required to be absent from employment on jury service:
+(1) An employer commits an offence and is liable on conviction to a fine not exceeding $10,000 if the employer does either of the following actions because an employee of the employer is required to be absent from employment on jury service:
   (a) dismisses, or threatens to dismiss, the employee without the consent of the employee:
   (b) otherwise prejudices the position of the employee without the consent of the employee.
 (2) If an employer is alleged to have committed, or is convicted of, an offence against subsection (1) in respect of an action and an employee, then that employee,—
@@ -486,7 +487,7 @@ Where any party in a civil case requires a jury, that party shall pay to the Reg
     (b) does not include not paying the employee remuneration of any kind for the period the employee is required to be absent from employment on jury service.
 
 ### 32B Identity and address of serving or former juror or prospective juror not generally to be disclosed
-(1) A person commits an offence and is liable on summary conviction to the penalty stated in subsection (2) if the person wilfully publishes any material, broadcasts any matter, or otherwise discloses any information, that identifies, or that may lead to the identification of, a juror or former juror.
+(1) A person commits an offence and is liable on conviction to the penalty stated in subsection (2) if the person wilfully publishes any material, broadcasts any matter, or otherwise discloses any information, that identifies, or that may lead to the identification of, a juror or former juror.
 (2) The penalty is imprisonment for a term not exceeding 3 months, or a fine not exceeding $10,000, or both.
 (3) In this section,—
   - **former juror** includes a person who attended for jury service
@@ -566,24 +567,3 @@ For the purposes of the first compilation of jury lists after 1 January 1982,—
 (2) The repeal by subsection (1) of the Juries Act 1908 shall not affect the abolition by section 176 of that Act of all attaints and inquests referred to in that section.
 
 ## Schedule  — Enactments repealed
-
-### 1 Title
-This Act is the Juries Amendment Act 2008.
-
-### 2 Commencement
-(1) This Act (except sections 4, 11, 12, and 19) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
-(2) Sections 4, 11, 12, and 19 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
-
-### 5 Transitional provision
-(1) For the following purposes the amendments made by section 4 must be treated as if they are in force on and after the date that is 6 months before the date (the commencement) on which section 4 came into force:
-  (a) the constitution of jury districts for use on and after the commencement:
-  (b) the preparation of new jury lists for use on and after the commencement.
-(2) Nothing in section 4 affects the validity of any of the following:
-  (a) a jury list or jury panel that was prepared and in use immediately before the commencement:
-  (b) the composition of any jury that was constituted before the commencement and continued to serve on or after that date:
-  (c) the composition of any jury that was constituted after the commencement from a jury list that was prepared and in use immediately before that date:
-  (d) a summons that was issued under the principal Act before the commencement, and is intended to continue to have effect on or after that date.
-
-### 15 New sections 22 to 22C substituted
-(1) Amendment incorporated in the principal Act.
-(2) This section and 16 (amendments and repeals consequential on new sections 22 to 22C substituted) apply only to any trial for which a jury is constituted on or after the date on which this section comes into force.
