@@ -1,5 +1,5 @@
 # Door to Door Sales Act 1967
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to regulate agreements for the sale of goods and the provision of services on credit, hire purchase agreements, and agreements for the hire of goods, entered into at places other than appropriate trade premises
 
@@ -147,16 +147,16 @@ In any proceedings it shall be a question of fact whether any representation, st
 Section 44 of the Mercantile Law Act 1908 shall not apply to any credit agreement that is made at a place other than appropriate trade premises if sections 5 and 7 apply to that agreement.
 
 ### 14 Offences
-(1) Any vendor who knowingly fails, after a notice of cancellation has been given pursuant to section 7, to repay any money paid by a purchaser, or to redeliver any goods supplied in part exchange shall be guilty of an offence against this Act and (without prejudice to the rights of the purchaser to recover such money or goods by action in a court of competent jurisdiction) shall be liable on summary conviction to a fine not exceeding $200.
-(2) A purchaser who knowingly fails in terms of section 10 to redeliver at his own premises any goods delivered to him pursuant to an agreement, shall be guilty of an offence against this Act and (without prejudice to the rights of the vendor to recover the goods by action in a court of competent jurisdiction) shall be liable on summary conviction to a fine not exceeding $200.
+(1) Any vendor who knowingly fails, after a notice of cancellation has been given pursuant to section 7, to repay any money paid by a purchaser, or to redeliver any goods supplied in part exchange shall be guilty of an offence against this Act and (without prejudice to the rights of the purchaser to recover such money or goods by action in a court of competent jurisdiction) shall be liable on conviction to a fine not exceeding $200.
+(2) A purchaser who knowingly fails in terms of section 10 to redeliver at his own premises any goods delivered to him pursuant to an agreement, shall be guilty of an offence against this Act and (without prejudice to the rights of the vendor to recover the goods by action in a court of competent jurisdiction) shall be liable on conviction to a fine not exceeding $200.
 (2A) Every person commits an offence against this Act who, being the vendor under any agreement that the purchaser may cancel under this Act, stipulates for or demands or accepts, before the end of the period within which the agreement may be so cancelled, the whole or any part of the consideration to be provided by or on behalf of the purchaser under the agreement if—
   (a) the goods that are the subject of the agreement comprise mainly books or printed matter; or
   (b) the agreement is one to which section 3 or subsection (1) of section 3A applies.
 (3) On conviction of any person of an offence under subsection (1) the court may make an order for the payment by that person of an amount equal to the money paid by the purchaser under an agreement which has been cancelled under this Act or for the return of goods given by the purchaser in part exchange or for the payment of money in terms of section 9(3).
 (4) On conviction of any person of an offence under subsection (2) the court may make an order for the redelivery by the person of the goods to which the agreement relates.
 
-### 15 Time for laying information
-Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+### 15 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 16 Application
 This Act shall not have any effect in relation to any credit agreement made before the date of the commencement of this Act.
