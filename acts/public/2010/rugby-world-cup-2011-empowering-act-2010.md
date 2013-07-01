@@ -1,5 +1,5 @@
 # Rugby World Cup 2011 (Empowering) Act 2010
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Rugby World Cup 2011 (Empowering) Act 2010.
@@ -611,7 +611,7 @@ An approval, a declaration, a test approval or declaration, or a change to the c
 ### 47 Offences and penalties
 (1) The offences and penalties prescribed by or under an enactment that would, but for this Part, apply to an approval, a declaration, or a test approval or declaration apply to the breach of an approval, a declaration, or a test approval or declaration granted or made under this Part.
 (2) In an enactment that would apply, but for this Part, a reference to an approval that could be granted, given, or authorised under that enactment is to be read as a reference to an approval given under this Part.
-(3) Every person who breaches an interim injunctive order commits an offence and is liable, on summary conviction, to a fine,—
+(3) Every person who breaches an interim injunctive order commits an offence and is liable, on conviction, to a fine,—
   (a) in the case of a natural person, not exceeding $300,000; and
   (b) in the case of a person other than a natural person, not exceeding $600,000; and
   (c) in each case, if the offence is a continuing offence, not exceeding $10,000 for every day or part of a day during which the offence continues.
