@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1455,7 +1455,7 @@ The functions of the disciplinary committee are to—
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 111 Witnesses' fees, allowances, and expenses
-(1) A witness appearing before the disciplinary committee under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Summary Proceedings Act 1957.
+(1) A witness appearing before the disciplinary committee under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Criminal Procedure Act 2011.
 (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
 
 ### 112 Protection for witnesses and counsel in disciplinary proceeding
@@ -1475,16 +1475,16 @@ The FMA must fund the disciplinary committee.
 **Offences: Restrictions on providing services and holding out**
 
 ### 114 Offence of providing financial adviser service without being permitted to do so
-(1) A person who provides a financial adviser service set out in section 18 when not permitted to do so under that section and section 17 commits an offence and is liable on summary conviction,—
+(1) A person who provides a financial adviser service set out in section 18 when not permitted to do so under that section and section 17 commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of an entity, to a fine not exceeding $50,000.
-(2) A person who provides a financial adviser service set out in section 19 or 20 when not permitted to do so under those sections and section 17 commits an offence and is liable on summary conviction,—
+(2) A person who provides a financial adviser service set out in section 19 or 20 when not permitted to do so under those sections and section 17 commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of an entity, to a fine not exceeding $10,000.
 (3) A person (A) has a defence to a charge under subsection (1) or (2) if A proves on the balance of probabilities that A did not know, and ought not reasonably to have known, that A did not come within the requirements of the relevant section or sections.
 
 ### 115 Offence of holding out as authorised financial adviser, financial planner, investment planner, or QFE
-A person who knowingly or recklessly contravenes section 20A, 20B, or 20C commits an offence and is liable on summary conviction,—
+A person who knowingly or recklessly contravenes section 20A, 20B, or 20C commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of an entity, to a fine not exceeding $50,000.
 
@@ -1494,31 +1494,31 @@ A person who knowingly or recklessly contravenes section 20A, 20B, or 20C commit
 **Disclosure offences: Financial advisers, QFEs, and brokers**
 
 ### 117 Failure to make disclosure under or in accordance with disclosure obligation
-A person who knowingly or recklessly contravenes a disclosure obligation commits an offence and is liable on summary conviction to a fine,—
+A person who knowingly or recklessly contravenes a disclosure obligation commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
 **Conduct offences: Financial advisers and brokers**
 
 ### 118 Offence of misleading or deceptive conduct by financial adviser or broker
-A person who knowingly or recklessly contravenes section 34(1) or section 77L commits an offence and is liable on summary conviction to a fine,—
+A person who knowingly or recklessly contravenes section 34(1) or section 77L commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
 ### 119 Offence of misleading, deceptive, or confusing advertisement by financial adviser or broker
-A person who knowingly or recklessly contravenes section 35(1) or section 77M commits an offence and is liable on summary conviction to a fine,—
+A person who knowingly or recklessly contravenes section 35(1) or section 77M commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
 ### 120 Offence of contravening restrictions on use of term sharebroker
-A person who knowingly or recklessly contravenes section 77N commits an offence and is liable on summary conviction to a fine,—
+A person who knowingly or recklessly contravenes section 77N commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $10,000:
   (b) in the case of an entity, not exceeding $50,000.
 
 **Offences: Authorised financial advisers only**
 
 ### 121 Offence of recommending offer of securities when subscription illegal
-A person who contravenes section 38(1) commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+A person who contravenes section 38(1) commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
 ### 122 Offence of contravening requirement that authorised financial adviser pay client’s money into separate trust account
 [Repealed]
@@ -1533,52 +1533,52 @@ A person who contravenes section 38(1) commits an offence and is liable on summa
 [Repealed]
 
 ### 126 Offence of failing to comply with terms and conditions of authorisation
-A person who contravenes section 45(1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+A person who contravenes section 45(1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 127 Offence of failing to comply with FMA's direction
-A person who fails to comply with a direction of the FMA given under section 61(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+A person who fails to comply with a direction of the FMA given under section 61(3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 128 Offence of contravening condition of disciplinary committee’s order
-A person who contravenes a condition of an order made by the disciplinary committee under section 101(3)(e) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+A person who contravenes a condition of an order made by the disciplinary committee under section 101(3)(e) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 **Offences: QFEs and QFE groups only**
 
 ### 129 Offence of failing to comply with terms and conditions of QFE status
-(1) If a QFE contravenes section 46(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
+(1) If a QFE contravenes section 46(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $25,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
-(2) If a partner entity of a QFE contravenes section 46(1), every partner entity of the QFE commits an offence and is liable on summary conviction to a fine not exceeding $25,000.
+(2) If a partner entity of a QFE contravenes section 46(1), every partner entity of the QFE commits an offence and is liable on conviction to a fine not exceeding $25,000.
 
 ### 130 Offence of misleading or deceptive conduct in relation to financial adviser service by employee, agent, or nominated representative
-(1) If a QFE knowingly or recklessly contravenes section 47(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $300,000:
+(1) If a QFE knowingly or recklessly contravenes section 47(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $300,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
-(2) If an associated entity of a QFE knowingly or recklessly contravenes section 47(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $300,000:
+(2) If an associated entity of a QFE knowingly or recklessly contravenes section 47(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $300,000:
   (a) the associated entity of the QFE:
   (b) the QFE:
   (c) every partner entity of the QFE.
 
 ### 131 Offence of misleading, etc, advertisement of financial adviser service by employee, agent, or nominated representative
-(1) If a QFE knowingly or recklessly contravenes section 48(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $300,000:
+(1) If a QFE knowingly or recklessly contravenes section 48(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $300,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
-(2) If an associated entity of a QFE knowingly or recklessly contravenes section 48(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $300,000:
+(2) If an associated entity of a QFE knowingly or recklessly contravenes section 48(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $300,000:
   (a) the associated entity of the QFE:
   (b) the QFE:
   (c) every partner entity of the QFE.
 
 ### 132 Offence of failing to comply with FMA's direction
-If a QFE fails to comply with a direction of the FMA given under section 75F(3), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
+If a QFE fails to comply with a direction of the FMA given under section 75F(3), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $25,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
 
 ### 133 Offence of failing to comply with obligations in relation to authorised financial advisers
-If a QFE or a partner entity contravenes section 76(1)(e), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $50,000:
+If a QFE or a partner entity contravenes section 76(1)(e), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $50,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
 
 ### 134 Offence of failing to provide annual report
-If a QFE contravenes section 77(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
+If a QFE contravenes section 77(1), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $25,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
 
@@ -1590,39 +1590,39 @@ An entity, being the QFE of a QFE group or a partner entity, has a defence to an
 **Offences: Broking services only**
 
 ### 134B Offence of receiving client money if offer for subscription illegal
-A person who contravenes section 77O commits an offence and is liable on summary conviction to a fine,—
+A person who contravenes section 77O commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
 ### 134C Offence of contravening requirement to pay client money into separate trust account
-A person who contravenes section 77P commits an offence and is liable on summary conviction to a fine,—
+A person who contravenes section 77P commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 ### 134D Offence of failing to account for client money and client property
-A person who contravenes section 77Q commits an offence and is liable on summary conviction to a fine,—
+A person who contravenes section 77Q commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 ### 134E Offence in relation to records of client money and client property
-A person who contravenes any of section 77R(1) to (3) commits an offence and is liable on summary conviction to a fine,—
+A person who contravenes any of section 77R(1) to (3) commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 ### 134F Offence of breaching restrictions on use of client money and client property
-A person who contravenes section 77S commits an offence and is liable on summary conviction to a fine,—
+A person who contravenes section 77S commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 ### 134G Offence of failing to comply with FMA's direction
-A person who fails to comply with a direction of the FMA given under section 77V commits an offence and is liable on summary conviction to a fine,—
+A person who fails to comply with a direction of the FMA given under section 77V commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 **Miscellaneous offences**
 
 ### 135 Offence of failing to comply with FMA's direction in respect of breach of disclosure or conduct obligation
-A person who fails to comply with a direction of the FMA given under section 49(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+A person who fails to comply with a direction of the FMA given under section 49(3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 **Miscellaneous offences**
 
@@ -1631,7 +1631,7 @@ A person who fails to comply with a direction of the FMA given under section 49(
   (a) either orally or in writing, made any declaration or representation knowing it to be false or misleading in a material particular; or
   (b) produced to the FMA or made use of any document knowing it to contain a declaration or representation referred to in paragraph (a); or
   (c) produced to the FMA or made use of any document knowing that it was not genuine.
-(2) A person who commits an offence under this section is liable on summary conviction to a fine,—
+(2) A person who commits an offence under this section is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
@@ -1642,7 +1642,7 @@ A person who fails to comply with a direction of the FMA given under section 49(
   (c) does not give evidence under oath when required to do so; or
   (d) does not answer any question that is lawfully asked by the disciplinary committee; or
   (e) does not provide any documents, things, or information that the summons requires the person to provide.
-(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
 (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under section 111 have not been paid or tendered to him or her.
 
 ### Subpart 4 — Injunctions, banning orders, and other remedies
@@ -1684,9 +1684,10 @@ A banning order may prohibit or restrict the person against whom it is made from
   (c) contributing, as employee or agent, to the provision of financial adviser services or broking services.
 
 ### 137E Offence of contravening banning order
-A person who acts in contravention of a banning order commits an offence and is liable on conviction on indictment,—
+(1) A person who acts in contravention of a banning order commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
 
 **Orders to preserve assets to satisfy claims**
 
@@ -1729,9 +1730,10 @@ A person who acts in contravention of a banning order commits an offence and is 
 (2) This section has effect subject to the Insolvency Act 2006.
 
 ### 137J Offence of breaching orders
-A person commits an offence who contravenes an order by the court under sections 137G or 137H that is applicable to the person and is liable on conviction on indictment,—
+(1) A person commits an offence who contravenes an order by the court under sections 137G or 137H that is applicable to the person and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
 
 **Pecuniary and compensatory orders for contravening wholesale certification requirement**
 
@@ -1800,7 +1802,7 @@ A temporary banning order may prohibit or restrict a person from doing all or an
 (4) A person that considers that a decision of the FMA in respect of a temporary banning order is wrong in law may appeal against the decision to the High Court on a question of law only.
 
 ### 137S Offence of failing to comply with FMA's orders
-(1) A person who contravenes a temporary banning order commits an offence and is liable on summary conviction to a fine not exceeding $30,000.
+(1) A person who contravenes a temporary banning order commits an offence and is liable on conviction to a fine not exceeding $30,000.
 (2) No person may be convicted of an offence against subsection (1) if—
   (a) the person proves that the contravention occurred without the person's knowledge or without the person's knowledge of the order; or
   (b) the contravention was in respect of matters that, in the court's opinion, were immaterial; or
@@ -1864,7 +1866,7 @@ On an appeal under this Part, the District Court may order any party to the appe
 ### 146 Appeal on question of law
 (1) A party to an appeal under this Part may appeal to the High Court against any determination of law arising in the appeal.
 (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
-(3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
+(3) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (4) Subsection (3) overrides subsection (2).
@@ -2007,8 +2009,8 @@ A standard condition, or a variation or revocation of a standard condition, that
   (o) prescribing information that must be contained in a QFE's annual report:
   (p) prescribing the procedure of the code committee:
   (q) prescribing the procedure of the disciplinary committee:
-  (r) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of this Act or the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (in addition to any other transitional provisions in those Acts) apply during the whole or any part of the transitional implementation period ending on 30 June 2013:
-  (s) providing that, subject to any conditions stated in the regulations, specified provisions of this Act or the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (including definitions), or provisions of other Acts amended by this Act or the Financial Service Providers (Registration and Dispute Resolution) Act 2008, do not apply, or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on 30 June 2013:
+  (r)
+  (s)
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) In subsection (1), prescribing the form includes specifying additional content, means of communication, or any other requirement of form without necessarily specifying the use of a particular form.
 (3) Regulations for the purposes of subsection (1) may make different provision for different classes of financial adviser or broker, financial adviser service or broking service, and client, and for different circumstances in which a financial adviser service or broking service is provided.
@@ -2047,9 +2049,11 @@ The breach of a term or condition of an exemption provided by regulations made u
 ### 159 Exemption or regulation in respect of specified overseas jurisdictions
 [Repealed]
 
-### 160 Time for laying information for summary offences
-(1) Any information for an offence against this Act punishable on summary conviction may be laid at any time within 3 years after the date of the offence.
-(2) Subsection (1) applies despite section 14 of, or anything else to the contrary in, the Summary Proceedings Act 1957.
+### 160 Time for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against section 137E or 137J of this Act; and
+  (b) the limitation period in respect of an offence against section 114, 115, 116, 120, 126, 127, 128, 134C, 134D, 134E, 134F, 134G, 135, or 137 of this Act ends on the date that is 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 161 Ministry must review and report on operation of Act
 (1) The Ministry must, not later than 5 years after the commencement of this section,—
