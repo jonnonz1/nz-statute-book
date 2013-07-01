@@ -1,5 +1,5 @@
 # Patriotic and Canteen Funds Act 1947
-_Consolidation as at 2005-05-17_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the administration and control of moneys raised for patriotic purposes and of the accumulated profits and surplus property of the Canteen Board and for matters incidental thereto
 
@@ -274,7 +274,7 @@ Nothing contained in sections 46 and 47 shall operate in any way to limit the Ne
 (1) If any moneys belonging to the Funds or to any Provincial Fund or any property vested in any Council have been expended, applied, or used for any unauthorised purpose, those moneys or the value of that property may be recovered to the use of the appropriate fund or Council to which they lawfully belong by the Minister, or by any person authorised in that behalf by the Minister, from the person or body by whom they were so expended, applied, or used as if those moneys or that value were a debt owing jointly and severally by all the defendants in the proceedings.
 (2) Every person who expends, or applies, or authorises, or joins in authorising, the expenditure or application of any such moneys or other property for any unauthorised purpose commits an offence against this Act.
 (3) Every person who commits any breach of the provisions of this Act, or of any order or direction of any person authorised under this Act to make or give that order or direction, or who, for the benefit of himself or any other person makes any misleading statement to or otherwise misleads or attempts to mislead any person duly acting for any purpose under this Act, commits an offence against this Act.
-(4) Every person who commits an offence against this Act shall be liable on summary conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
+(4) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
 
 ### 50 Regulations
 The Governor-General may by Order in Council make regulations making provision for all matters deemed necessary for the due administration of, and for giving full effect to, the provisions of this Act.
