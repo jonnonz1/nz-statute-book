@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -54,7 +54,7 @@ This Act shall bind the Crown.
 
 ### 9 Members and officers to maintain secrecy
 (1) Every member of the Authority and every person engaged or employed in connection with the work of the Authority shall maintain and aid in maintaining the secrecy of all matters which come to his knowledge when carrying out his functions or duties under this Act, and shall not communicate any such matters to any person except in the discharge of his functions and duties under this Act.
-(2) Every person commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who wilfully acts in contravention of subsection (1).
+(2) Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who wilfully acts in contravention of subsection (1).
 
 ### 10 Remuneration and travelling allowances
 (1) The Authority is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
