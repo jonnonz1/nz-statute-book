@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1335,7 +1335,7 @@ The Tribunal shall consist of—
   (a) order that any hearing held by it be heard in private, either as to the whole or any portion thereof:
   (b) make an order prohibiting the publication of any report or account of the evidence or other proceedings in any proceedings before it (whether heard in public or in private) either as to the whole or any portion thereof:
   (c) make an order prohibiting the publication of the whole or part of any books or documents produced at any hearing of the Tribunal.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
 
 ### 108 Persons entitled to be heard
 (1) Any person who is a party to the proceedings before the Tribunal, and any person who satisfies the Tribunal that he or she has an interest in the proceedings greater than the public generally, may appear and may call evidence on any matter that should be taken into account in determining the proceedings.
@@ -1371,7 +1371,7 @@ The Tribunal must notify the Attorney-General promptly of the bringing of procee
 (3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 111 Witnesses' allowances
-(1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations shall apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
 (2) On each occasion on which the Tribunal issues a summons under section 109(1), the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
 (3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) Where a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness shall be paid by that party.
@@ -1387,7 +1387,7 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
   (c) fails to produce any such paper, document, record, or thing.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 (3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
 
 ### 114 Power to commit for contempt
@@ -1432,7 +1432,7 @@ No member of the Tribunal shall be personally liable for any act done or omitted
   (a) an order for the award of costs under section 92L; and
   (b) an order for the award of damages under section 92M; and
   (c) an interim order under section 95.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 92I or an interim order of the Tribunal made under section 95.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 92I or an interim order of the Tribunal made under section 95.
 
 ### 122 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
@@ -1532,7 +1532,7 @@ The High Court shall have power to make such order as to the whole or any part o
 (2) No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982.
 (3) No person shall be liable to prosecution for an offence against any enactment, other than section 143, by reason of that person's compliance with any requirement of a Commission under section 127.
 (4) Where the attendance of any person is required by a Commission under section 127, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
-  (a) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
   (b) the Commission shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
 ### 129 Disclosure of certain matters not to be required
@@ -1557,7 +1557,7 @@ The High Court shall have power to make such order as to the whole or any part o
 ## Part 6 — Inciting racial disharmony
 
 ### 131 Inciting racial disharmony
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,—being matter or words likely to excite hostility or ill-will against, or bring into contempt or ridicule, any such group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,—being matter or words likely to excite hostility or ill-will against, or bring into contempt or ridicule, any such group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
   (a) publishes or distributes written matter which is threatening, abusive, or insulting, or broadcasts by means of radio or television words which are threatening, abusive, or insulting; or
   (b) uses in any public place (as defined in section 2(1) of the Summary Offences Act 1981), or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting,—
 (2) For the purposes of this section, publishes or distributes and written matter have the meaning given to them in section 61.
@@ -1582,7 +1582,7 @@ No prosecution for an offence against section 131 shall be instituted without th
   (a) refuses to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
   (b) refuses any other person the use of any facilities in that place or vehicle which are available to members of the public; or
   (c) requires any other person to leave or to cease to use that place or vehicle or those facilities,—
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $3,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $3,000.
 (3) In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
 
 ### 135 No prosecution without Attorney-General's consent
@@ -1626,7 +1626,7 @@ The Commission must not, in any report or statement made pursuant to this Act, m
 [Repealed]
 
 ### 143 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $3,000 who—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who—
   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act:
   (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commission or a Commissioner or any other person under this Act:
   (c) makes any false statement knowing it to be false or intentionally misleads or attempts to mislead the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act.
