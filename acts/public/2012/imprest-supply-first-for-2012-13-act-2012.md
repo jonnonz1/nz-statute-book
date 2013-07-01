@@ -1,5 +1,5 @@
 # Imprest Supply (First for 2012/13) Act 2012
-_Consolidation as at 2012-08-28_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (First for 2012/13) Act 2012.
