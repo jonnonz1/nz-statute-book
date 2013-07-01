@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2012-03-19_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -13,13 +13,12 @@ _Consolidation as at 2012-03-19_
   - **authorised officer** has the meaning given in section 4 of the Policing Act 2008
   - **claim of right** has the same meaning as it has in section 2(1) of the Crimes Act 1961
   - **constable** has the meaning given in section 4 of the Policing Act 2008
-  - **crime** means an offence for which the offender may be proceeded against by indictment
-  - **crime involving dishonesty** means any crime described in Part 10 of the Crimes Act 1961, except the crimes described in sections 267 to 272.
-  - **crime involving violence** means an offence against any of the provisions listed in Schedule 3
+  - **crime involving dishonesty** has the meaning given to it in section 2(1) of the Crimes Act 1961
   - **intoxicating liquor** means any spirits, wine, ale, beer, porter, stout, cider, or perry, or any other fermented, distilled, or spirituous liquor, which on analysis is found to contain more than 2 parts percent of proof spirit
-  - **is liable** means is liable on summary conviction
+  - **is liable** means is liable on conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
+  - **offence involving violence** means an offence against any of the provisions listed in Schedule 3
   - **Police dog** has the meaning given in section 4 of the Policing Act 2008
   - **Police dog handler** has the meaning given in section 4 of the Policing Act 2008
   - **prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
@@ -74,30 +73,30 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 
 ### 6 Associating with convicted thieves
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who habitually associates with a convicted thief in circumstances from which it can reasonably be inferred that the association is likely to lead to the commission of a crime involving dishonesty by that person or any such thief.
-(2) No information for an offence against this section shall be laid unless the defendant has been warned by any constable on at least 3 separate occasions that his continued association with the convicted thief may lead to a charge being brought against him under this section.
+(2) No charging document for an offence against this section may be filed unless the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the convicted thief may lead to a charge being brought against him or her under this section.
 (2A) To avoid any doubt, if a person who is a convicted thief habitually associates with another convicted thief in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (3) In this section convicted thief means a person who has been convicted on at least 3 separate occasions of a crime involving dishonesty.
 
 ### 6A Associating with violent offenders
-(1) Every person commits an offence against this section who habitually associates with a violent offender in circumstances from which it can reasonably be inferred that the association will lead to the commission of a crime involving violence by that person or any such offender.
-(2) No information for an offence against this section may be laid unless—
+(1) Every person commits an offence against this section who habitually associates with a violent offender in circumstances from which it can reasonably be inferred that the association will lead to the commission of an offence involving violence by that person or any such offender.
+(2) No charging document for an offence against this section may be filed unless—
   (a) the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the violent offender may lead to a charge being brought against him or her under this section; and
-  (b) every warning under paragraph (a) in respect of an association with a violent offender is given not more than 7 years after the date of that violent offender's last conviction for a crime involving violence.
+  (b) every warning under paragraph (a) in respect of an association with a violent offender is given not more than 7 years after the date of that violent offender's last conviction for an offence involving violence.
 (3) This section does not apply in respect of any habitual association between 2 persons in either of the following circumstances:
   (a) where a protection order is in force under the Domestic Violence Act 1995, and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
   (b) where—
     (i) both persons are, or have been, in a domestic relationship (as defined by section 4 of that Act) with each other; and
-    (ii) the crimes involving violence, the commission of which can reasonably be inferred from that association, are crimes that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
+    (ii) the offences involving violence, the commission of which can reasonably be inferred from that association, are offences that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
 (4) To avoid any doubt, if a person who is a violent offender habitually associates with another violent offender in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (5) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
-(6) In this section violent offender means a person who has been convicted on at least 2 separate occasions of a crime involving violence.
+(6) In this section violent offender means a person who has been convicted on at least 2 separate occasions of an offence involving violence.
 
 ### 6B Associating with serious drug offenders
 (1) Every person commits an offence against this section who habitually associates with a serious drug offender in circumstances from which it can reasonably be inferred that the association will lead to the commission of a serious drug offence by that person or any such offender.
 (2) This section does not apply in respect of a serious drug offence against—unless the serious drug offence involved dealing with a substantial amount of that drug or cultivation of that drug on a substantial scale, as the case may be.
   (a) section 6 of the Misuse of Drugs Act 1975 in relation to a Class C controlled drug specified or described in Part 1 of Schedule 3 of that Act (other than catha edulis plant or coca leaf); or
   (b) section 9 of that Act in relation to a prohibited plant of the genus Cannabis,—
-(3) No information for an offence against this section may be laid unless—
+(3) No charging document for an offence against this section may be filed unless—
   (a) the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the serious drug offender may lead to a charge being brought against him or her under this section; and
   (b) every warning under paragraph (a) in respect of an association with a serious drug offender is given not more than 7 years after the date of that serious drug offender's last conviction for a serious drug offence.
 (4) To avoid any doubt, if a person who is a serious drug offender habitually associates with another serious drug offender in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
@@ -268,11 +267,11 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
     (iv) the stability, control, and adjustment of prices of goods and services, rents, and other costs, and rates of wages, salaries, and other incomes:
     (v) the borrowing of money by the Government of New Zealand:
     (vi) the entering into of overseas trade agreements.
-(2) No information shall be laid against any person for—except with the consent of the Attorney-General:
+(2) No charging document may be filed against any person for—except with the consent of the Attorney-General:
   (a) an offence against this section; or
   (b) the offence of conspiring to commit an offence against this section; or
   (c) the offence of attempting to commit an offence against this section,—
-  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
+  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
 (3) The Attorney-General may, before deciding whether or not to give his consent under subsection (2), make such inquiries as he thinks fit.
 
 **Intimidation, obstruction, and hindering Police**
@@ -325,12 +324,12 @@ Every person is liable to a fine not exceeding $200 who—
 
 **Loitering and trespass**
 
-### 28 Being found in public place preparing to commit crime
-(1) Every person commits an offence who is found in any public place behaving in a manner from which it can reasonably be inferred that he is preparing to commit a crime.
+### 28 Being found in public place preparing to commit offence
+(1) Every person commits an offence who is found in any public place behaving in a manner from which it can reasonably be inferred that he is preparing to commit an imprisonable offence.
 (2) Every person who commits an offence against this section is liable—
   (a) to a fine not exceeding $2,000; or
   (b) for a second or subsequent offence within a period of 12 months, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
-(3) In determining for the purposes of a prosecution under this section whether it can reasonably be inferred from anything proved to have been done by the defendant at the material time that he was preparing to commit a crime, the court may have regard to his previous convictions of a similar nature (if any), and for that purpose evidence of any such conviction shall be admissible accordingly.
+(3) In determining for the purposes of a prosecution under this section whether it can reasonably be inferred from anything proved to have been done by the defendant at the material time that he was preparing to commit an imprisonable offence, the court may have regard to his previous convictions of a similar nature (if any), and for that purpose evidence of any such conviction shall be admissible accordingly.
 
 ### 29 Being found on property, etc, without reasonable excuse
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who is found without reasonable excuse—
@@ -396,13 +395,13 @@ In section 38B to 38E,—
 
 ### 38B Commission of infringement offence
 (1) Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice under section 38C.
 (2) No person arrested under section 39 may be served with an infringement notice under section 38C.
 
 ### 38C Infringement notices
 (1) Where a constable observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any constable (not necessarily the constable who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) is to be treated as having been served on that person when it was posted.
+(2) Any constable (not necessarily the constable who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, it (or the copy) is to be treated as having been served on that person when it was posted.
 (3) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee; and
@@ -428,21 +427,21 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of sections 9 to 11, 29, and 30, is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
 
 ### 40 Jurisdiction
-(1) Every offence against this Act shall be punishable on summary conviction by a District Court presided over by a Judge.
+(1) Every offence against this Act shall be punishable on conviction by a District Court presided over by a Judge.
 (2) Notwithstanding subsection (1), a District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against sections 4, 7, 17 to 20, 22, 25, 26, and 30 to 38.
-(3) Nothing in section 20A of the Summary Proceedings Act 1957 (which prescribes a special summary procedure for certain minor offences) shall apply in respect of any offence against this Act for which the defendant has been arrested.
+(3)
 
-### 41 Information alleging imitation of court documents
-In any information for an offence against section 18, it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
+### 41 Charge alleging imitation of court documents
+In any charge for an offence against section 18, it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
 
-### 42 Information alleging false claim of qualifications
-No information for an offence against section 20 shall be laid without the consent of the Attorney-General.
+### 42 Charge alleging false claim of qualifications
+No charging document for an offence against section 20 may be filed without the consent of the Attorney-General.
 
 ### 43 No jury trial for offence of assault
-Section 66 of the Summary Proceedings Act 1957 (which relates to the right of a defendant to elect trial by jury) shall not apply with respect to any offence against section 9 or section 10.
+[Repealed]
 
 ### 44 Defendant may be convicted of lesser charge of disorderly behaviour
-Where the commission of an offence against section 3 is not proved, but the evidence proves an offence against section 4, the defendant may be convicted of an offence against that latter section notwithstanding that the information alleges an offence against section 3 only.
+Where the commission of an offence against section 3 is not proved, but the evidence proves an offence against section 4, the defendant may be convicted of an offence against that latter section notwithstanding that the charge alleges an offence against section 3 only.
 
 ### 45 Seizure and forfeiture
 (1) Any constable may seize and remove any intoxicating liquor which there is reasonable ground to suppose is intended for consumption in contravention of subsection (1) or subsection (3) of section 38, and the vessels containing the liquor.
@@ -479,7 +478,7 @@ Amendment(s) incorporated in the Act(s).
 
 ## Schedule 2 — Enactments consequentially repealed
 
-## Schedule 3 — Crimes involving violence
+## Schedule 3 — Offences involving violence
 
 | Provision of Crimes Act 1961 | Subject matter |
 | --- | --- |
