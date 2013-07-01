@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2011-07-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
@@ -222,13 +222,13 @@ This Act shall bind the Crown.
 (2A) As soon as practicable after the expiry of an intelligence warrant that authorises electronic tracking, the Director must ensure that any records resulting from the electronic tracking undertaken under that warrant are destroyed, except to the extent that those records are relevant—
   (a) to the detection of activities prejudicial to security; or
   (b) to the gathering of foreign intelligence information essential to security.
-(3) Every person who knowingly fails to comply with subsection (1) or (2A) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person who knowingly fails to comply with subsection (1) or (2A) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 4H Prevention or detection of serious crime
 (1) Despite sections 4(1)(a) and 4G(1)(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
 (2) In subsection (1), serious crime means,—
-  (a) in relation to New Zealand, any indictable offence; and
-  (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an indictable offence.
+  (a) in relation to New Zealand, any offence punishable by 2 or more years' imprisonment; and
+  (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an offence punishable by 2 or more years' imprisonment.
 
 **Retrieval of previously installed devices**
 
@@ -395,13 +395,13 @@ The appointment of the Director, and the employment of an officer of the Securit
 (1) An officer or employee of the Security Intelligence Service, or a former officer or employee of the Service, shall not disclose or use any information gained by or conveyed to him through his connection with the Service otherwise than in the strict course of his official duties or as authorised by the Minister.
 (2) A person who, by any intelligence warrant, is authorised to intercept or seize any communication or to undertake electronic tracking, or is requested to give any assistance in making any such interception or seizure or electronic tracking, or to make the services of other persons available to the Security Intelligence Service, shall not disclose the existence of the warrant, or disclose or use any information gained by or conveyed to him when acting pursuant to the warrant, otherwise than as authorised by the warrant or by the Minister or the Director.
 (3) A person who acquires knowledge of any information knowing that it was gained as a result of any interception or seizure, or electronic tracking, in accordance with an intelligence warrant shall not knowingly disclose that information otherwise than in the course of his duty.
-(4) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine not exceeding $2,000 who fails to comply with or acts in contravention of the foregoing provisions of this section.
+(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $2,000 who fails to comply with or acts in contravention of the foregoing provisions of this section.
 
 ### 13 Personation
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $200, or to both, who (not being the Director or an officer or employee of the Security Intelligence Service) describes himself or otherwise holds himself out as the Director or an officer or employee of the Security Intelligence Service, unless he establishes that the manner and circumstances in which he did the act which is proved were such as to raise no reasonable inference that he was describing himself or otherwise holding himself out as being in reality the Director or such an officer or employee.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $200, or to both, who (not being the Director or an officer or employee of the Security Intelligence Service) describes himself or otherwise holds himself out as the Director or an officer or employee of the Security Intelligence Service, unless he establishes that the manner and circumstances in which he did the act which is proved were such as to raise no reasonable inference that he was describing himself or otherwise holding himself out as being in reality the Director or such an officer or employee.
 
 ### 13A Restriction on publication and broadcasting of information regarding staff
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000, who (except with the written consent of the Minister) publishes or causes or allows to be published in a newspaper or other document, or broadcasts or causes or allows to be broadcast by radio or television or otherwise, the fact that any person is—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000, who (except with the written consent of the Minister) publishes or causes or allows to be published in a newspaper or other document, or broadcasts or causes or allows to be broadcast by radio or television or otherwise, the fact that any person is—
   (a) a member of the New Zealand Security Intelligence Service other than the Director; or
   (b) is connected in any way with a member of the New Zealand Security Intelligence Service.
 (2) Nothing in this section shall restrict the broadcasting or reporting of proceedings in Parliament.
