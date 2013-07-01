@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2013-06-18_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -882,7 +882,9 @@ Where any person has neglected or omitted to do any act or thing in the precise 
 ### 112 Authority or Agency may state case for opinion of High Court
 (1) The Authority or any Agency may state a case for the opinion of the High Court on any question of law arising in any proceedings before it.
 (2)
-(3) The provisions of section 78 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply to any case stated under this section as if the reference in subsection (3) of that section to either party were a reference to any party to the proceedings before the Authority or Agency.
+(3) The High Court may order the removal into the Court of Appeal of any case stated under this section; and on the removal the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
+(4) Either party may, with the leave of the High Court or of the Court of Appeal, appeal to the Court of Appeal against any decision of the High Court on a case stated under this section, and subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications as if it were an appeal under section 303 of that Act.
+(5) On the removal of any case to the Court of Appeal or on an appeal to the Court of Appeal under this section, the decision of the Court of Appeal is final; and the same judgment must be entered in the High Court, and the same execution and other consequences and proceedings follow, as if the decision had been given in the High Court.
 
 ### 113 Decisions to be given in writing
 Every decision of the Licensing Authority or of a District Licensing Agency, and the reasons for the decision, shall be recorded in writing, and a copy shall be given to—
@@ -1059,8 +1061,8 @@ In considering any application for the renewal of a manager's certificate, the L
 (3) For the purposes of exercising the power conferred by this section, an inspector may—
   (a) require the production of any licence, or any book, notice, record, list, or other document that is required by this Act to be kept, and examine and make copies of it; and
   (b) require the licensee or manager to provide any information or assistance reasonably required by the inspector relating to any matter within the duties of the licensee or manager.
-(4) Every person commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, refuses or fails to admit to any licensed premises any inspector who demands entry under this section.
-(5) Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises, without reasonable excuse, refuses or fails—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, refuses or fails to admit to any licensed premises any inspector who demands entry under this section.
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises, without reasonable excuse, refuses or fails—
   (a) to produce the licence or any document when required to do so under paragraph (a) of subsection (3); or
   (b) to provide any assistance or information when required to do so under paragraph (b) of that subsection.
 
@@ -1308,13 +1310,13 @@ No person who has a right of appeal in respect of any decision of the Licensing 
 **Unlicensed persons and unlicensed premises**
 
 ### 151 Sales by unlicensed person
-Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $40,000 who, not being the holder of a licence, sells, or exposes or keeps for sale, any liquor.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $40,000 who, not being the holder of a licence, sells, or exposes or keeps for sale, any liquor.
 
 ### 152 Allowing unlicensed premises to be used for sale of liquor
-Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $40,000 who, being the occupier or one of the occupiers of any unlicensed premises, allows any other person to sell, or expose or keep for sale, any liquor on or from the premises.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $40,000 who, being the occupier or one of the occupiers of any unlicensed premises, allows any other person to sell, or expose or keep for sale, any liquor on or from the premises.
 
 ### 153 Use of unlicensed premises as place of resort for consumption of liquor
-(1) Every person commits an offence and is liable to a fine not exceeding $20,000 who, being the occupier or having or taking part in the care, management, or control of any unlicensed premises, allows those premises to be kept or used as a place of resort for the consumption of liquor.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who, being the occupier or having or taking part in the care, management, or control of any unlicensed premises, allows those premises to be kept or used as a place of resort for the consumption of liquor.
 (2) Subsection (1) does not apply to the consumption of liquor—
   (a) by any person on any premises on which that person resides, whether that person is the occupier of the premises or not; or
   (b) supplied to any person by way of gift by any person who resides on the premises on which the liquor is consumed.
@@ -1322,7 +1324,7 @@ Every person commits an offence and is liable to imprisonment for a term not exc
 (4) For the purposes of subsection (1), premises may be deemed to be kept or used as a place of resort for the consumption of liquor even though they are open only for the use of particular persons or particular classes of persons, and not to all persons who wish to use them.
 
 ### 154 Persons found on unlicensed premises kept as place of resort for consumption of liquor
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who, not being a constable in the execution of his or her duty, is found on any unlicensed premises kept or used in breach of section 153.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, not being a constable in the execution of his or her duty, is found on any unlicensed premises kept or used in breach of section 153.
 (2) It is a defence to a charge under subsection (1) if the defendant satisfies the court that he or she—
   (a) was present on the premises for a lawful purpose; and
   (b) neither took part nor intended to take part in any unlawful sale, supply, or consumption of liquor.
@@ -1330,13 +1332,13 @@ Every person commits an offence and is liable to imprisonment for a term not exc
 **Excessive consumption of alcohol**
 
 ### 154A Promotion of excessive consumption of alcohol
-Every person commits an offence and is liable to a fine not exceeding $5,000 who, being a licensee or manager of licensed premises, does anything in the promotion of the business conducted on the premises, or in the promotion of any event or activity held or conducted on the premises, that is intended or likely to encourage persons on the licensed premises to consume alcohol to an excessive extent.
+Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, being a licensee or manager of licensed premises, does anything in the promotion of the business conducted on the premises, or in the promotion of any event or activity held or conducted on the premises, that is intended or likely to encourage persons on the licensed premises to consume alcohol to an excessive extent.
 
 **Minors**
 
 ### 155 Sale or supply of liquor to minors
-(1) Every person commits an offence and is liable to the penalty set out in subsection (2A) who, being the licensee or a manager of any licensed premises, sells or supplies any liquor, or allows any liquor to be sold or supplied, on or from the licensed premises to any person who is under the age of 18 years.
-(2) Every person commits an offence and is liable to the penalty set out in subsection (2A) who, not being the licensee or a manager of any licensed premises, sells or supplies any liquor, on or from the licensed premises to any person who is under the age of 18 years.
+(1) Every person commits an offence and is liable on conviction to the penalty set out in subsection (2A) who, being the licensee or a manager of any licensed premises, sells or supplies any liquor, or allows any liquor to be sold or supplied, on or from the licensed premises to any person who is under the age of 18 years.
+(2) Every person commits an offence and is liable on conviction to the penalty set out in subsection (2A) who, not being the licensee or a manager of any licensed premises, sells or supplies any liquor, on or from the licensed premises to any person who is under the age of 18 years.
 (2A) The penalty is,—
   (a) in the case of a licensee,—
     (i) a fine not exceeding $10,000; or
@@ -1364,7 +1366,7 @@ Subsections (1) and (2) of section 155 do not apply to the supply of liquor on l
 [Repealed]
 
 ### 160 Purchasing liquor for minors
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who purchases or acquires any liquor on or from any licensed premises with the intention of supplying the liquor, or any of it, to any person who is under the age of 18 years.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who purchases or acquires any liquor on or from any licensed premises with the intention of supplying the liquor, or any of it, to any person who is under the age of 18 years.
 (2) Subsection (1) applies irrespective of any liability that may attach to the licensee or any manager or other person in respect of the sale or supply of the liquor.
 (3) Subsection (1) does not apply to a person who purchases or acquires any liquor with the intention of supplying it to—
   (a)
@@ -1375,7 +1377,7 @@ Subsections (1) and (2) of section 155 do not apply to the supply of liquor on l
 
 ### 161 Employment of minors
 (1)
-(2) Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the licensee of any licensed premises, employs any person who is under the age of 18 years in any capacity in any restricted area on the licensed premises while that area is open for the sale of liquor.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the licensee of any licensed premises, employs any person who is under the age of 18 years in any capacity in any restricted area on the licensed premises while that area is open for the sale of liquor.
 (3) Subsection (2) does not apply to the employment in a restricted area of any person—
   (a) for the purpose of—
     (i) preparing or serving any meal; or
@@ -1399,12 +1401,12 @@ In sections 162B to 162D,—
 
 ### 162B Commission of infringement offence
 Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 162C.
 
 ### 162C Infringement notices
 (1) Where a constable observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any constable (not necessarily the constable who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) is to be treated as having been served on that person when it was posted.
+(2) Any constable (not necessarily the constable who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, it (or the copy) is to be treated as having been served on that person when it was posted.
 (3) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee; and
@@ -1420,8 +1422,8 @@ Where any person is alleged to have committed an infringement offence, that pers
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 163 Minors in restricted areas or supervised areas
-(1) Every person commits an offence and is liable to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any restricted area on any licensed premises.
-(2) Every person commits an offence and is liable to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any supervised area on any licensed premises unless that person is accompanied by his or her parent or guardian.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any restricted area on any licensed premises.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any supervised area on any licensed premises unless that person is accompanied by his or her parent or guardian.
 (3) Subsections (1) and (2) do not apply to any person—
   (a) who is an employee or agent of the licensee, or a person acting under any contract with the licensee or a manager, and who is in the restricted area or supervised area for the purpose of—
     (i) cleaning, repairing, maintaining, altering, or restocking the area or any equipment in the area; or
@@ -1434,7 +1436,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (4) Subsections (1) and (2) do not apply to a person who is in a restricted area or supervised area on licensed premises at the request of a constable acting in the course of his or her duties.
 
 ### 164 Permitting minors to be in restricted areas or supervised areas
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the licensee or manager of any licensed premises, allows any person who is under the age of 18 years to enter or remain in any restricted area or supervised area on the licensed premises in contravention of section 163.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the licensee or manager of any licensed premises, allows any person who is under the age of 18 years to enter or remain in any restricted area or supervised area on the licensed premises in contravention of section 163.
 (2) It is a defence to a charge under subsection (1) if the defendant proves that he or she believed on reasonable grounds that the person to whom the charge relates had attained the age of 18 years.
 (2A) Without limiting subsection (2), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person whose age is material to the offence, indicating that that person was of or over the age of 18 years.
 (3) It is a defence to a charge under subsection (1) if the defendant satisfies the court that, as soon as the defendant or any employee of the licensee became aware of the situation, reasonable steps were taken to remove each person concerned from the restricted area or supervised area.
@@ -1442,7 +1444,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 **Other offences on licensed premises**
 
 ### 165 Unauthorised sale or supply
-(1) Every person commits an offence and is liable to the penalty set out in subsection (2) who, being the licensee or a manager of any licensed premises, sells or supplies liquor to any person at any time when the licensee is not authorised by the licence or this Act to sell to that person.
+(1) Every person commits an offence and is liable on conviction to the penalty set out in subsection (2) who, being the licensee or a manager of any licensed premises, sells or supplies liquor to any person at any time when the licensee is not authorised by the licence or this Act to sell to that person.
 (2) The penalty is,—
   (a) in the case of a licensee,—
     (i) a fine not exceeding $20,000; or
@@ -1451,8 +1453,8 @@ All infringement fees paid in respect of infringement offences must be paid into
   (b) in the case of a manager, a fine not exceeding $20,000.
 
 ### 166 Sale or supply of liquor to intoxicated person
-(1) Every person commits an offence and is liable to the penalty set out in subsection (4) who, being the licensee or a manager of any licensed premises, sells or supplies liquor to any other person who is already intoxicated.
-(2) Every person commits an offence and is liable to the penalty set out in subsection (4) who, not being the licensee or a manager of any licensed premises, sells or supplies liquor to any other person who is already intoxicated.
+(1) Every person commits an offence and is liable on conviction to the penalty set out in subsection (4) who, being the licensee or a manager of any licensed premises, sells or supplies liquor to any other person who is already intoxicated.
+(2) Every person commits an offence and is liable on conviction to the penalty set out in subsection (4) who, not being the licensee or a manager of any licensed premises, sells or supplies liquor to any other person who is already intoxicated.
 (3) Subsection (2) applies irrespective of any liability that may attach to the licensee or any manager in respect of the same offence.
 (4) The penalty is,—
   (a) in the case of a licensee,—
@@ -1463,7 +1465,7 @@ All infringement fees paid in respect of infringement offences must be paid into
   (c) in the case of a person (not being a licensee or manager), a fine not exceeding $2,000.
 
 ### 167 Allowing person to become intoxicated
-(1) Every person commits an offence and is liable to the penalty set out in subsection (2) who, being the licensee or a manager of any licensed premises, allows any person to become intoxicated on the licensed premises.
+(1) Every person commits an offence and is liable on conviction to the penalty set out in subsection (2) who, being the licensee or a manager of any licensed premises, allows any person to become intoxicated on the licensed premises.
 (2) The penalty is,—
   (a) in the case of a licensee,—
     (i) a fine not exceeding $10,000; or
@@ -1472,17 +1474,17 @@ All infringement fees paid in respect of infringement offences must be paid into
   (b) in the case of a manager, a fine not exceeding $10,000.
 
 ### 168 Allowing drunkenness or disorderly conduct on licensed premises
-(1) Every person commits an offence and is liable to a fine not exceeding $4,000 who, being the licensee or a manager of any licensed premises,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $4,000 who, being the licensee or a manager of any licensed premises,—
   (a) allows any intoxicated person to be or to remain on the licensed premises; or
   (b) allows any violent, quarrelsome, insulting, or disorderly conduct to take place on the licensed premises.
 (2) It is a defence to a charge under subsection (1) if the defendant satisfies the court that, as soon as the defendant or any employee of the licensee became aware of the situation, reasonable steps were taken in respect of each person concerned, either to take that person to a place of safety on the licensed premises or to remove that person from the licensed premises.
 
 ### 169 Sales of spirits otherwise than in a glass
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises or an employee of the licensee, sells or supplies any spirits to any person, for consumption on the licensed premises, otherwise than in a drinking vessel of a capacity not exceeding 500 millilitres.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises or an employee of the licensee, sells or supplies any spirits to any person, for consumption on the licensed premises, otherwise than in a drinking vessel of a capacity not exceeding 500 millilitres.
 (2) Subsection (1) does not apply to the sale or supply of any spirits to a person who is a lodger on the licensed premises for consumption in that part of the licensed premises in which that person lodges.
 
 ### 170 Being on licensed premises outside licensing hours
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who is found in any part of any licensed premises, other than club premises, that is used principally or exclusively for the sale, supply, or consumption of liquor—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who is found in any part of any licensed premises, other than club premises, that is used principally or exclusively for the sale, supply, or consumption of liquor—
   (a) at any time later than 30 minutes after the premises are required to close for the sale of liquor; or
   (b) at any other time when the premises are required to be closed for the sale of liquor.
 (2) Subsection (1) does not apply to—
@@ -1500,14 +1502,14 @@ All infringement fees paid in respect of infringement offences must be paid into
   (b) that person's presence on the premises at that time is justified in terms of the special licence.
 
 ### 171 Allowing person on licensed premises outside licensing hours
-Every person commits an offence and is liable to a fine not exceeding $10,000 who, being the licensee or a manager of any licensed premises, allows any person to be on the licensed premises in contravention of section 170.
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being the licensee or a manager of any licensed premises, allows any person to be on the licensed premises in contravention of section 170.
 
 ### 172 Making false representation to licensees, etc
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who falsely represents in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.
-(2) Every person commits an offence and is liable to a fine not exceeding $1,000 who falsely represents otherwise than in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who falsely represents in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who falsely represents otherwise than in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.
 
 ### 172A Licensee's offences in respect of manager
-Every person commits an offence and is liable to a fine not exceeding $5,000 who, being a licensee, fails, without reasonable excuse, to—
+Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, being a licensee, fails, without reasonable excuse, to—
   (a) appoint a manager as required by any of sections 26, 49, 71, or 84:
   (b) ensure that section 115 is complied with:
   (c) comply with section 130.
@@ -1518,8 +1520,8 @@ Every person commits an offence and is liable to a fine not exceeding $5,000 who
 (1) Where a riot occurs, or there is reasonable ground for believing that a riot may occur, in any place, any District Court Judge or any 2 or more Justices or any 1 or more Community Magistrates may, at the request of the senior constable for the time being acting in that place, order every licensee in or within a specified distance of that place to close his or her licensed premises for the sale of liquor during such time as may be specified in the order.
 (2) Any constable may use such force as may be necessary for the purpose of closing any licensed premises to which the order applies.
 (3) No order made under this section shall have any effect beyond the expiry of the day on which it is made.
-(4) Every person commits an offence and is liable to a fine not exceeding $10,000 who, being the licensee or a manager of any licensed premises to which the order applies, keeps the premises open for the sale of liquor in contravention of the order.
-(5) Every person commits an offence and is liable to a fine not exceeding $2,000 who sells any liquor on or from any licensed premises to which the order applies at any time while the order remains in force.
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being the licensee or a manager of any licensed premises to which the order applies, keeps the premises open for the sale of liquor in contravention of the order.
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who sells any liquor on or from any licensed premises to which the order applies at any time while the order remains in force.
 
 ### 174 Closure of premises in case of fighting, etc
 (1) Where fighting or serious disorder breaks out, or there is reasonable ground for believing that fighting or serious disorder is about to break out, on any licensed premises, any constable may order the licensee or a manager to close the premises, or any specified part of them, for the sale of liquor until good order has been restored, and may order any person to leave the premises or that specified part of them.
@@ -1529,8 +1531,8 @@ Every person commits an offence and is liable to a fine not exceeding $5,000 who
   (a) may revoke the order either unconditionally or subject to such conditions as the Judge or the Justices or the Community Magistrate or Community Magistrates may think fit to impose; or
   (b) may refuse to revoke the order.
 (5) No order made under this section shall have any effect beyond the expiry of the day on which it is made.
-(6) Every person commits an offence and is liable to a fine not exceeding $10,000 who, being the licensee or a manager of the licensed premises, keeps the premises or the specified part of them open for the sale of liquor in contravention of the order.
-(7) Every person commits an offence and is liable to a fine not exceeding $2,000 who sells any liquor on or from the licensed premises or the specified part of them at any time while the order remains in effect.
+(6) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being the licensee or a manager of the licensed premises, keeps the premises or the specified part of them open for the sale of liquor in contravention of the order.
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who sells any liquor on or from the licensed premises or the specified part of them at any time while the order remains in effect.
 
 **Further powers of Police**
 
@@ -1540,10 +1542,10 @@ Every person commits an offence and is liable to a fine not exceeding $5,000 who
 (3) For the purposes of exercising the power conferred by this section, a constable may—
   (a) require the production of any licence, or any book, notice, record, list, or other document that is required by this Act to be kept, and examine and make copies of it; and
   (b) require the licensee or manager to provide any information or assistance reasonably required by the constable relating to any matter within the duties of the licensee or manager.
-(4) Every person commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse,—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse,—
   (a) refuses or fails to admit to any licensed premises any constable who demands entry under this section; or
   (b) delays unreasonably in admitting to any licensed premises any constable who demands entry under this section.
-(5) Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises, without reasonable excuse, refuses or fails—
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the licensee or a manager of any licensed premises, without reasonable excuse, refuses or fails—
   (a) to produce the licence or any document when required to do so under paragraph (a) of subsection (3); or
   (b) to provide any assistance or information when required to do so under paragraph (b) of that subsection.
 
@@ -1553,7 +1555,7 @@ Every person commits an offence and is liable to a fine not exceeding $5,000 who
   (b) the date of birth of that person, where that person's age is or may be material to the suspected offence.
 (2) If the constable has reasonable ground to suppose that any such particulars are false, he or she may require the person to supply satisfactory evidence of those particulars.
 (3) If any person, without reasonable excuse, refuses or fails to supply any particulars or evidence when required to do so by any constable under this section, and persists in that refusal or failure after being cautioned by the constable, that person may be arrested, without warrant, by any constable.
-(4) Every person commits an offence and is liable to a fine not exceeding $1,000 who, having been required by any constable to supply any particulars or evidence under this section, without reasonable excuse,—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, having been required by any constable to supply any particulars or evidence under this section, without reasonable excuse,—
   (a) refuses or fails to supply the particulars or evidence; or
   (b) supplies any particulars or evidence knowing that the particulars or evidence are false in a material respect.
 
@@ -1593,13 +1595,13 @@ In any proceedings for an offence against any of the provisions of this Act in r
 The licensee of any licensed premises shall not be responsible for any offence against this Act committed by any manager of those premises except where the licensee is a party to the offence.
 
 ### 182 Offences to be punishable on summary conviction
-Every offence against this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 183 Court may order forfeiture in certain cases
 On the conviction of any person of an offence against this Act, the court may declare any liquor found in the possession of the offender or on the premises where the offence occurred, together with the containers and packages containing the liquor, to be forfeited to the Crown.
 
 ### 184 Notice of prosecution or conviction of managers and licensees
-(1) Any person who lays an information for an offence against this Act against a manager of any licensed premises shall send a copy of the information to the licensee.
+(1) Any person who files a charging document in respect of an offence against this Act against a manager of any licensed premises must send a copy of the charging document to the licensee.
 (2) On the conviction of any manager of any licensed premises of an offence against this Act, the Registrar of the court by which the conviction is entered shall send a notice of the conviction, together with any recommendation made by the court in respect of the manager's certificate, to—
   (a) the licensee; and
   (b) the Secretary of the Licensing Authority.
@@ -1714,7 +1716,7 @@ If on the day appointed for the first or any subsequent election of members of a
 (3) In any case to which subsection (1)(h) applies,—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction or the sentence and, in the event of an appeal against the conviction or against the sentence or both, until the appeal is determined; and
   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
-(4) Every person commits an offence and is liable to a fine not exceeding $1,000 who does any act as a member of a trust while incapacitated under subsection (1), except—
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who does any act as a member of a trust while incapacitated under subsection (1), except—
   (a) where the incapacity arises under paragraph (e) of that subsection; or
   (b) while on leave of absence pursuant to paragraph (g) or paragraph (h) of that subsection.
 
