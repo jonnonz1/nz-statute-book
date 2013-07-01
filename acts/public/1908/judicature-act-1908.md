@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-06-04_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -607,7 +607,7 @@ Every oath, affidavit, or affirmation taken or made before any such Commissioner
 (2) Sections 16B, 16C(3), and 16D of the Acts and Regulations Publication Act 1989 apply accordingly.
 
 ### 51B Rules Committee
-(1) For the purposes of this Act and the District Courts Act 1947, there is a Rules Committee consisting of—
+(1) For the purposes of this Act and the District Courts Act 1947 and the Criminal Procedure Act 2011, there is a Rules Committee consisting of—
   (a) the Chief Justice:
   (ab) the Chief High Court Judge:
   (b) 2 other Judges of the High Court appointed by the Chief Justice:
@@ -706,7 +706,7 @@ Nothing in this Act affects the powers of a court or Judge to discharge a juror 
 ### 56A Failure of witness to attend
 (1) If any witness who is compellable to attend to give evidence at the hearing of any civil proceeding in the High Court and who has been duly summoned fails to attend at the time and place appointed, the court may issue a warrant to arrest him and bring him before the court, and may adjourn the hearing.
 (2) The court may impose on any such witness who fails without just excuse (the proof of which excuse shall be on him) to attend as aforesaid a fine not exceeding $500.
-(3) No witness shall be compellable to attend at the hearing of any civil proceeding in the High Court unless at the time of the service of the order of subpoena, or at some other reasonable time before the hearing, a sum in respect of his allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957 is tendered or paid to him.
+(3) No witness shall be compellable to attend at the hearing of any civil proceeding in the High Court unless at the time of the service of the order of subpoena, or at some other reasonable time before the hearing, a sum in respect of his allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Criminal Procedure Act 2011 is tendered or paid to him.
 
 ### 56B Refusal of witness to give evidence
 (1) If any witness in any civil proceeding in the High Court, without offering any just excuse, refuses to give evidence when required, or refuses to produce any document which he has been required to produce, or refuses to be sworn, or having been sworn refuses to answer such questions concerning that proceeding as are put to him, the court may order that, unless he sooner consents to give evidence or to produce the document or to be sworn or to answer thse questions put to him, as the case may be, he be detained in custody for any period not exceeding 7 days, and may issue a warrant for his arrest and detention in accordance with the order.
@@ -833,7 +833,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
     (iv) a witness in proceedings before that court; or
   (b) wilfully interrupts or obstructs the proceedings; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the proceedings.
-(2) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
 
 ### 56P Arrangements to facilitate sittings
 (1) The Chief Justice of New Zealand may make arrangements with the Chief Justice of the Federal Court for the purposes of giving effect to this Part.
@@ -936,9 +936,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 (3) Every nomination under subsection (2) must be made either—
   (a) in respect of a specified case or specified cases; or
   (b) in respect of every case to be heard by the Court of Appeal during a specified period not exceeding 3 months.
-(4) For the purposes of this section, the term criminal proceeding means—
-  (a) any appeal or application to the Court of Appeal under the Crimes Act 1961 (other than under section 406 of that Act) or under the Summary Proceedings Act 1957:
-  (b) any case stated for the opinion of the Court of Appeal under the Crimes Act 1961.
+(4) For the purposes of this section, criminal proceeding means an appeal or application to the Court of Appeal under Part 6 of the Criminal Procedure Act 2011.
 
 ### 58B Composition of civil appeals division or divisions
 (1) For the purposes of any civil proceeding that is heard by a division of the court, the Court of Appeal comprises—
@@ -3054,8 +3052,8 @@ Except when the court otherwise orders, a defendant who has been served out of N
     (ii) a hearing or trial date for a proceeding classified as an ordinary defended proceeding and the making of appropriate trial directions; and
     (iii) a date and arrangements for any further case management, issues, or pre-trial conference; and
   (e) other appropriate matters that have already been discussed by the parties.
-(4) The parties must either file a joint memorandum addressing the Schedule 5 matters no later than 10 days before the conference, or file separate memoranda addressing those matters in accordance with subclause (5).
-(5) If separate memoranda are filed, the plaintiff or applicant must file the first memorandum stating that party's position on the matters in Schedule 5. That memorandum must be filed 10 days before the conference, followed no later than 5 days before the conference by memoranda from the other parties, each memorandum stating the party's agreement or disagreement with memoranda already filed, and, in the case of disagreement, the reasons for disagreement and the different position contended for.
+(4) The parties must either file a joint memorandum addressing the Schedule 5 matters no later than 10 working days before the conference, or file separate memoranda addressing those matters in accordance with subclause (5).
+(5) If separate memoranda are filed, the plaintiff or applicant must file the first memorandum stating that party's position on the matters in Schedule 5. That memorandum must be filed 10 working days before the conference, followed no later than 5 working days before the conference by memoranda from the other parties, each memorandum stating the party's agreement or disagreement with memoranda already filed, and, in the case of disagreement, the reasons for disagreement and the different position contended for.
 (6) Memoranda filed under subclause (4) or (5) may also address matters that fall within subclause (3)(e).
 (7) The joint memorandum referred to in subclause (4) may be combined with any joint memorandum filed in relation to discovery under rule 8.11.
 (8) A separate memorandum referred to in subclause (5) may be combined with any separate memorandum filed in relation to discovery under rule 8.11.
@@ -3363,7 +3361,7 @@ A Judge may make an interlocutory order subject to any just terms or conditions,
 (3) If a party elects to have an order sealed, or is required by the court or by these rules to have an order sealed, the following provisions apply:
   (a) the party must file an original order together with sufficient copies so that the party and the other parties who have given an address for service can each receive a duplicate sealed order:
   (b) the order must be in form G 34:
-  (c) the order must specify both the date on which it was made and the date on which it was sealed:
+  (c) the order must specify the date on which it was made:
   (d) the Registrar, when satisfied with the form of the order, must sign and seal the original and every copy:
   (e) the Registrar must mark every copy with the word duplicate:
   (f) the Registrar must retain the original on the file:
@@ -5367,13 +5365,13 @@ Any judgment obtained by default under rule 15.7 or 15.8 may be set aside or var
   (a) the plaintiff, being under a duty or obligation to the defendant not to enter judgment on the admission, acted contrary to that duty or obligation in entering judgment; or
   (b) the plaintiff, in entering judgment, acted fraudulently, unconscionably, or in wilful or reckless disregard of the defendant’s rights.
 (6) Upon an application under subclause (5), the court may direct that a proceeding be brought to determine whether judgment was wrongfully entered.
-(7) This rule does not affect rule 8.15.
+(7) This rule does not affect rule 8.48.
 
 ### 15.17 Admission of defence
 (1) When a party’s original or amended statement of defence alleges any ground of defence that goes to the whole of any cause of action alleged by the other party, the other party may file and serve an admission of that ground of defence.
 (2) If the admitted ground of defence arose after the filing of the pleading containing the cause of action to which it refers, the party filing and serving the admission is entitled to an order for that party’s costs in respect of the cause of action to which the admission applies, up to the time of filing the statement of defence, unless the court otherwise orders.
 (3) Subject to subclause (2), a party on whom an admission has been served under subclause (1) may at any time afterwards seal judgment upon the cause of action to which the admission relates.
-(4) This rule does not affect rule 8.15.
+(4) This rule does not affect rule 8.48.
 
 #### Subpart 4 — Discontinuance
 
@@ -6437,6 +6435,7 @@ Applications to the court under the following enactments must be made by origina
   (c) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 294(5), 295, 299, and Part 15A of the Companies Act 1993:
   (d) sections 34, 41, 95, 97, and 126 of the Coroners Act 2006:
   (e) sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
+  (ea) sections 32 and 33 of the Cultural Property (Protection in Armed Conflict) Act 2012:
   (f) section 166E of the Customs and Excise Act 1996:
   (g) section 43(6) of the District Courts Act 1947:
   (h) the Habeas Corpus Act 2001:
@@ -6550,11 +6549,11 @@ Rule 9.74 applies to a proceeding commenced by originating application.
 
 ### 20.1 Application of this Part
 (1) This Part applies to appeals to the court under any enactment other than—
-  (a) the Summary Proceedings Act 1957:
+  (a) the Criminal Procedure Act 2011:
   (b) the Arbitration Act 1996:
   (c) the Bail Act 2000:
   (d) appeals by way of case stated under Part 21 of these rules.
-(2) For the purposes of subclause (1)(a), appeals under an enactment that incorporates provisions (whether modified or not) of the Summary Proceedings Act 1957 are not appeals under the Summary Proceedings Act 1957.
+(2) For the purposes of subclause (1)(a), appeals under an enactment that incorporates provisions (whether modified or not) of the Criminal Procedure Act 2011 are not appeals under the Criminal Procedure Act 2011.
 (3) This Part applies subject to any express provision in the enactment under which the appeal is brought or sought to be brought.
 
 ### 20.2 Interpretation
@@ -6679,13 +6678,13 @@ Despite rule 20.6(1)(c), the court may dispense with service on a party of a not
 (3) The cross-appeal is taken to have been dismissed, subject to the appellant’s right to apply for an order as to costs, if the respondent signs, files, and serves on every other party a statement to the effect that the respondent abandons the cross-appeal.
 
 ### 20.13 Security for appeal
-(1) This rule applies to an appeal other than an appeal for which the appellant has been granted legal aid under the Legal Services Act 2000.
+(1) This rule applies to an appeal other than an appeal for which the appellant has been granted legal aid under the Legal Services Act 2011.
 (2) The Judge must fix security for costs at the case management conference relating to the appeal, unless the Judge considers that in the interests of justice no security is required.
 (3) The amount of security must be fixed in accordance with the following formula, unless the Judge otherwise directs:a× b2where—ais the daily recovery rate for the proceeding as classified by the Judge under rule 14.4; andbis the number of half days estimated by the Judge as the time required for the hearing.
 (4) Security must be paid to the Registrar at the registry of the court no later than 10 working days after the case management conference, unless the Judge otherwise directs.
 (5) Except in the case of an appeal under the District Courts Act 1947 (where non-compliance with the security order results in a deemed abandonment of the appeal under section 74), if the security is not paid within the time specified under subclause (4), the respondent may apply for an order dismissing the appeal.
 (6) The Judge must defer the fixing of security until the application for legal aid has been determined if—
-  (a) an appellant has applied for legal aid under the Legal Services Act 2000; and
+  (a) an appellant has applied for legal aid under the Legal Services Act 2011; and
   (b) at the time of the case management conference, the application has not been determined.
 
 #### Subpart 4 — Matters leading up to hearing
@@ -9852,6 +9851,18 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
+| *Omit if order is issued as of right. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| †If this order seeks less than the full amount for which judgment was sealed, add the following words: “(less than the full amount of the judgment debt)”. |
+| --- |
+
+| *Select one. |
+| --- |
+
 | *Select one. |
 | --- |
 | †If this order seeks less than the full amount for which judgment was sealed, add the following words: (less than the full amount of the judgment debt). |
@@ -9859,14 +9870,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| *Select one. |
-| --- |
-| †If this order seeks less than the full amount for which judgment was sealed, add the following words: (less than the full amount of the judgment debt). |
-
-| *Select one. |
-| --- |
-
-| *If this order seeks less than the full amount for which judgment was sealed, add the following words: (Less than the full amount of the judgment debt is being charged by this order.) |
+| *If this order seeks less than the full amount for which judgment was sealed, add the following words: “(less than the full amount of the judgment debt is being charged by this order)”. |
 | --- |
 
 | *Select depending on whether enforcement is sought for less than the full amount for which judgment was sealed. If less than the full amount, add the following words: (, which is less than the full amount of the judgment debt). |
@@ -10457,7 +10461,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| Name of company | Registered office | Plaintiff'ssolicitor | Date of filing of statement of claim |
+| Name ofcompany | Registeredoffice | Plaintiff'ssolicitor | Date of filing of statement of claim |
 | --- | --- | --- | --- |
 
 | *Select one. |
@@ -10466,7 +10470,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| Name of company | Registered office | Plaintiff'ssolicitor | Date of filing of statement of claim |
+| Name ofcompany | Registeredoffice | Plaintiff'ssolicitor | Date of filing of statement of claim |
 | --- | --- | --- | --- |
 
 | *Select one. |
