@@ -1,5 +1,5 @@
 # Chatham Islands Council Act 1995
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato reform the local government of the Chatham Islands by establishing a Chatham Islands Council with appropriate functions, duties, and powers:bto dissolve the Chatham Islands County Council:cto make provision incidental to the establishment of the Chatham Islands Council and the dissolution of the Chatham Islands County Council
 
@@ -162,7 +162,7 @@ All money received by the Chatham Islands Council from council dues collected in
   (b) remit all or part of a penalty added under paragraph (a).
 (5B) Subsection (5A) applies only to council dues that are payable 3 months or more after the commencement of the Chatham Islands Council Amendment Act 2002.
 (6) The Chatham Islands Council may at any time revoke a notice given under subsection (3) by giving to the person to whom that notice was given a written notice revoking the notice given under subsection (3).
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500—
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500—
   (a) who fails to comply with a notice under subsection (3); or
   (b) who fails to comply with subsection (5).
 
@@ -188,7 +188,7 @@ The Chatham Islands Council may, for the purpose of ensuring that council dues a
     (i) is being transported on any such ship or aircraft; or
     (ii) has been transported on any such ship or aircraft; or
     (iii) is to be transported on any such ship or aircraft.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who wilfully obstructs or hinders any Verification Officer in the execution of his or her duties.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who wilfully obstructs or hinders any Verification Officer in the execution of his or her duties.
 
 ### 21 Warrant of appointment
 (1) The Chatham Islands Council shall supply to every officer or agent appointed as a Verification Officer under section 20 a written warrant under the seal of the Chatham Islands Council evidencing that the appointed officer or agent has the authority vested in a Verification Officer by that section.
@@ -197,13 +197,13 @@ The Chatham Islands Council may, for the purpose of ensuring that council dues a
 (4) Every person appointed as a Verification Officer shall, on the termination of his or her appointment, surrender to the Chatham Islands Council the warrant supplied to that person under subsection (1).
 
 ### 22 Offence of acting without warrant
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, not being the holder of a warrant under section 21, represents himself or herself to be a Verification Officer.
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, not being the holder of a warrant under section 21, represents himself or herself to be a Verification Officer.
 
 ### 23 Offences of masters, owners, etc
 (1) Every person commits an offence who, being a master, owner, consignor, consignee, shipper, aircraft pilot, or agent,—
   (a) evades or attempts to evade the payment of any council dues; or
   (b) makes a false declaration in respect of any goods liable to payment of council dues.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction—
+(2) Every person who commits an offence against subsection (1) is liable on conviction—
   (a) to a fine not exceeding $1,500; or
   (b) where the amount of the council dues which that person has evaded or attempted to evade or in respect of which that person has made a false declaration exceeds $1,500, to a fine not exceeding the amount of those dues.
 (3) The imposition on any person of a fine upon that person's conviction for an offence against subsection (1) does not preclude the Chatham Islands Council from recovering the amount of any unpaid council dues in respect of any goods to which the offence related.
