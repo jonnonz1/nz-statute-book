@@ -1,5 +1,5 @@
 # Cancer Registry Act 1993
-_Consolidation as at 2004-09-18_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the compilation of a statistical record of the incidence of cancer in its various forms, to provide a basis for the better direction of programmes for research and for cancer prevention
 
@@ -49,7 +49,7 @@ This Act binds the Crown.
 (2) Nothing in subsection (1) applies in respect of proceedings for an offence against section 8.
 
 ### 8 Offences
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $500 who—
   (a) fails, without reasonable excuse, to comply with the requirements of section 5 or section 6(2); or
   (b) knowingly supplies information that is false or misleading in purported compliance with section 5 or section 6(2).
 
