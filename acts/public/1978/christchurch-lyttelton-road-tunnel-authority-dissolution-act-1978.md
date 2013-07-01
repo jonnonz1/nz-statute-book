@@ -1,5 +1,5 @@
 # Christchurch–Lyttelton Road Tunnel Authority Dissolution Act 1978
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2013-07-01_
 
 > An Act to abolish tolls for use of the Christchurch–Lyttelton Road Tunnel and to dissolve the Christchurch–Lyttelton Road Tunnel Authority
 
@@ -47,7 +47,7 @@ Subject to such apportionment of costs and expenses and to such other conditions
 (2) The New Zealand Transport Agency may from time to time, in respect of the tunnel, make, revoke, or alter any bylaw which the Authority could have made, revoked, or altered under the Christchurch–Lyttelton Road Tunnel Act 1956.
 (3) The making, revocation, or alteration of any such bylaw shall be by resolution of the New Zealand Transport Agency and be done in the same manner as the New Zealand Transport Agency may make, revoke, and alter bylaws under the Government Roading Powers Act 1989.
 (4) For the purposes of the Land Transport Act 1998, any bylaw made under this section is to be treated as being made under section 22AB of the Land Transport Act 1998.
-(5) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $200 and, if the offence is a continuing one, to a further fine not exceeding $10 for every day or part of a day during which the offence has continued.
+(5) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on conviction to a fine not exceeding $200 and, if the offence is a continuing one, to a further fine not exceeding $10 for every day or part of a day during which the offence has continued.
 
 ### 9 Repeal
 The Christchurch–Lyttelton Road Tunnel Act 1956 is hereby repealed.
