@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2011-07-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -181,11 +181,11 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
 (3) Every such examination by the Inspector-General shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 (4) Subject to subsection (5), every person who appears as a witness before the Inspector-General shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in courts of law.
 (5) Where any person is bound by the provisions of any enactment (being an Act of Parliament or any regulations within the meaning of the Regulations (Disallowance) Act 1989 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter, compliance by that person with a requirement of the Inspector-General (being a requirement made pursuant to subsection (1)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
-(6) Witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957—and those regulations, with all necessary modifications, shall apply accordingly.
+(6) Witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011—and those regulations, with all necessary modifications, shall apply accordingly.
   (a) shall be paid by the Inspector-General to any person who appears as a witness before the Inspector-General pursuant to a summons under subsection (2); and
   (b) may, if the Inspector-General so decides, be paid by the Inspector-General to any other person who appears as a witness before the Inspector-General;—
 (7) For the purposes of this section the Inspector-General shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
-(8) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who—
+(8) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Inspector-General or any other person in the exercise of his or her powers under this Act:
   (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Inspector-General or any other person under this Act:
   (c) wilfully makes any false statement to or misleads or attempts to mislead the Inspector-General or any other person in the exercise of his or her powers under this Act.
@@ -249,7 +249,7 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
   (a) make a record of, or disclose to any person, any information acquired by reason of the person holding or acting in that office; or
   (b) make use of any such information.
 (2) Nothing in subsection (1) applies in relation to the disclosure or use of any information after its disclosure or use has been approved in writing by the Minister.
-(3) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000 or to both, who acts in contravention of subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000 or to both, who acts in contravention of subsection (1).
 (4) The Inspector-General and any employee of the Inspector-General shall be deemed for the purposes of sections 105 and 105A of the Crimes Act 1961 to be officials.
 (5) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
 (6) Amendment(s) incorporated in the Act(s).
@@ -260,7 +260,7 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
   (b) in any other case, to material that the Inspector-General has approved for release (the approval being an approval given in writing after the Inspector-General has consulted, in relation to security requirements, with the chief executive of the intelligence and security agency to which the inquiry or complaint relates).
 (2) No person contravenes subsection (1) by reason only of publishing, or broadcasting, or distributing, or disclosing the fact that any inquiry has been conducted by the Inspector-General.
 (3) Every person commits an offence who publishes or broadcasts or causes to be published or broadcast or otherwise distributes or discloses any report or account in contravention of subsection (1).
-(4) Every person who commits an offence against subsection (3) is liable on summary conviction—
+(4) Every person who commits an offence against subsection (3) is liable on conviction—
   (a) in the case of a company or other corporation, to a fine not exceeding $50,000; and
   (b) in the case of a natural person to imprisonment for a term not exceeding 1 year or to a fine not exceeding $10,000 or to both.
 (5) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
