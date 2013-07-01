@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -11,7 +11,7 @@ _Consolidation as at 2010-07-07_
 In this Act, unless the context otherwise requires,—
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **holder** , in relation to any unclaimed money, means a holder within the meaning of section 5; and includes any person acting for or on behalf of the holder; and also includes the personal representative of the holder
-  - **officer of the department** means any person employed in the Inland Revenue Department
+  - **officer of the Department** means any person employed in the Inland Revenue Department
   - **owner** , in relation to any unclaimed money, means the person entitled to the unclaimed money; and includes any other person claiming under or on behalf of that person
   - **savings bank** means—
     (a) Post Office Bank Limited:
@@ -91,9 +91,9 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
 Notwithstanding the provisions of this Act, but without affecting the liability of the holder to pay unclaimed money to the Crown, the Commissioner may from time to time, pursuant to a special arrangement, exempt in writing any holder or any class of holder from compliance with all or any of the provisions of section 6, section 7, or subsection (1) of section 8, either absolutely or conditionally, or in respect of specified kinds of unclaimed money.
 
 ### 10 Examination of accounts
-(1) The Commissioner or any officer of the department authorised by him in that behalf may at any time examine any register kept by a holder pursuant to section 6 and any accounts of the holder which relate to money which is or may be unclaimed money, and for that purpose may require the production of any book, voucher, or document relating to such money. If any error is found in the register furnished to the Commissioner or any such officer or in any notice sent to any owner, the Commissioner or the officer may require the same to be amended.
-(2) The Commissioner or any officer of the department authorised by him in that behalf shall at all times have full and free access to all books and documents for the purpose of inspecting them for the purposes of this Act, and for this purpose may, without fee, make extracts from or copies of any such books or documents.
-(3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the department authorised by him in that behalf furnish in writing any information or produce any books or documents which may be in his knowledge, or his possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
+(1) The Commissioner or any officer of the Department authorised by him in that behalf may at any time examine any register kept by a holder pursuant to section 6 and any accounts of the holder which relate to money which is or may be unclaimed money, and for that purpose may require the production of any book, voucher, or document relating to such money. If any error is found in the register furnished to the Commissioner or any such officer or in any notice sent to any owner, the Commissioner or the officer may require the same to be amended.
+(2) The Commissioner or any officer of the Department authorised by him in that behalf shall at all times have full and free access to all books and documents for the purpose of inspecting them for the purposes of this Act, and for this purpose may, without fee, make extracts from or copies of any such books or documents.
+(3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the Department authorised by him in that behalf furnish in writing any information or produce any books or documents which may be in his knowledge, or his possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
 
 ### 11 Commissioner may make payment to claimant
 (1) If any claimant makes any demand against the Commissioner for any money—the Commissioner, on being satisfied that the claimant is the owner of the money demanded by him, shall cause payment to be made by him.
@@ -105,12 +105,12 @@ Notwithstanding the provisions of this Act, but without affecting the liability 
 (5) No claimant shall be entitled to interest on the amount of any money for which demand on the Commissioner is made by him or on the amount of any money payment of which is made to him under this section.
 
 ### 12 Officers to maintain secrecy
-(1) The Commissioner and every officer of the department shall maintain and aid in maintaining the secrecy of all matters which come to his knowledge in the course of his duties under this Act, and shall not communicate any such matters to any person, except for the purpose of carrying this Act into effect:
+(1) The Commissioner and every officer of the Department shall maintain and aid in maintaining the secrecy of all matters which come to his knowledge in the course of his duties under this Act, and shall not communicate any such matters to any person, except for the purpose of carrying this Act into effect:
   provided that the Commissioner may make available for publication the names of owners of unclaimed money paid to the Commissioner under this Act or any former Act and the amounts received belonging to those owners.
-(2) Every person who wilfully acts in contravention of the provisions of this section is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200.
+(2) Every person who wilfully acts in contravention of the provisions of this section is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200.
 
 ### 13 Offences
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who wilfully or negligently—
+Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who wilfully or negligently—
   (a) being a holder, fails to comply with any provision of section 6, section 7, subsection (1) of section 8, or section 10, or with any condition on which the Commissioner has granted exemption under section 9; or
   (b) being a director, manager, secretary, or other officer of the holder, authorises or permits that failure to comply.
 
@@ -128,8 +128,4 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (d) the Unclaimed Moneys Amendment Act 1958.
 (2) Subject to section 11, the enactments hereby repealed shall continue to apply, as if this Act had not been passed, to all money which before the commencement of this Act has become unclaimed money under any provision of any such enactment.
 
-## Schedule  — Register of money unclaimed held by [name of holder] on 1 June [year]
-
-| Name, occupation, and last known address of owner on books | Total amount due to owner | Description of unclaimed money | Date of posting notice to owner | Unclaimed money paid to owner |
-| --- | --- | --- | --- | --- |
-| Date | Amount |  |  |  |
+## Schedule
