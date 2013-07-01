@@ -1,13 +1,13 @@
 # Crown Grants Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to grants of land by the Crown
 
 ### 1 Short Title, etc
 (1) The Short Title of this Act is the Crown Grants Act 1908.
-(2) This Act is a consolidation of the enactments mentioned in Schedule 1 hereto, and with respect to those enactments the following provisions shall apply:
-  (a) All Crown grants, certificates, orders, notifications, registers, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
-  (b) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+(2) This Act is a consolidation of the enactments mentioned in Schedule 1, and with respect to those enactments the following provisions shall apply:
+  (a) all Crown grants, certificates, orders, notifications, registers, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+  (b) all matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires,—
   - **Director-General** means the Director-General within the meaning of section 2 of the Survey Act 1986
   - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act.
 
-## Part  — Issue of grants
+**Issue of grants**
 
 ### 3 Director-General's certificate
 No Crown grant of any land shall be issued unless and until a Director-General has given a certificate in the prescribed form to the effect that such land has been disposed of in conformity with some law (to be specified in such certificate) for the time being in force for the disposal of Crown lands, and that all money then due in respect of such land has been received by him in cash, except where otherwise by law provided.
@@ -38,16 +38,16 @@ Where a correction of the plan on a grant is required under this Act, the expens
 (3) All such grants shall be countersigned by the Minister or other person duly appointed by the Governor-General in that behalf.
 
 ### 9 Date of grant
-Every Crown grant shall be dated as of the day whereon it is signed by the Governor-General, and such date shall be deemed to be the day of the issue thereof .
+Every Crown grant shall be dated as of the day whereon it is signed by the Governor-General, and such date shall be deemed to be the day of the issue thereof.
 
-## Part  — Duplicate grants
+**Duplicate grants**
 
 ### 10 Where grant lost or destroyed
 (1) Where a Crown grant has been lost, or destroyed by fire or other inevitable accident, the Governor-General, on evidence to his satisfaction by statutory declaration of the loss or destruction of such grant, may authorise the issue of a duplicate or transcript, certified under the hand of the Minister, of the original grant so lost or destroyed, and may cause the Seal of New Zealand to be attached to such duplicate or transcript.
 (2) Every such duplicate or transcript shall have the same effect to all intents and purposes as the original grant in lieu whereof it is issued.
 (3) If such grant be so lost or destroyed before the expiration of 3 months after notice of its being ready for delivery has been published in the district wherein the land comprised in the grant is situate, no fees shall be payable upon the delivery of the duplicate or transcript to the person entitled to receive the same; but otherwise the fees payable on the original grant, and the same amount on the duplicate or transcript, shall be paid before such delivery.
 
-## Part  — Correction or cancellation of grants
+**Correction or cancellation of grants**
 
 ### 11 Where grant to wrong person, land may be reconveyed or grant cancelled
 (1) Where the name of any person not entitled to the land comprised in any Crown grant is inserted by mistake in any grant of such land instead of the name of the person really entitled thereto, or where the name of any person entitled to be included in the grant as a grantee has been omitted, a reconveyance of such land to Her Majesty shall be endorsed on the grant, and executed by the person to whom the land has by mistake been granted.
@@ -70,23 +70,23 @@ Every grant on or in which any such amended description is endorsed or entered a
 ### 16 New grant may be issued in certain cases
 The Governor-General, in special cases on the recommendation of the Minister, or in cases of grants wherein any important errors occur and have been proved to the satisfaction of the Governor-General, by statutory declaration or otherwise, to exist, whatever the nature of the errors may be, in lieu of causing any erroneous Crown grant to be corrected as aforesaid, may cause the same to be cancelled, and in lieu thereof may issue a new grant of the land comprised in the original grant.
 
-## Part  — Effect of cancellation
+**Effect of cancellation**
 
 ### 17 Mode and effect of cancellation
 (1) For the purpose of cancelling any grant a statement that the same is cancelled shall be written on the face of the copy thereof filed in the register of grants in the Minister's office, which statement shall be signed by the Governor-General and countersigned by the Minister, and sealed with the Minister's official seal.
-(2) Such cancellation shall annul and make void the cancelled grant as effectually as if the same were repealed under section 19 hereof.
+(2) Such cancellation shall annul and make void the cancelled grant as effectually as if the same were repealed under section 19.
 (3) Before cancellation of the register copy of any grant the grant itself shall be delivered to the Minister, and after such cancellation the same shall be destroyed.
 
 ### 18 Certain cancelled grants declared void ab initio
-(1) Every grant purporting to have been cancelled prior to the 8th day of October 1866 (being the date of the passing of the Crown Grants Act 1866) under the authority of any Governor of New Zealand, and every grant, whether formally cancelled or not, of any land of which a new grant has been duly issued prior to that date by any such Governor, and recorded in the proper office for the record of the same, shall be deemed to be and to have been absolutely void ab initio to all intents and purposes.
+(1) Every grant purporting to have been cancelled prior to 8 October 1866 (being the date of the passing of the Crown Grants Act 1866) under the authority of any Governor of New Zealand, and every grant, whether formally cancelled or not, of any land of which a new grant has been duly issued prior to that date by any such Governor, and recorded in the proper office for the record of the same, shall be deemed to be and to have been absolutely void ab initio to all intents and purposes.
 (2) No grant issued in lieu of any such previous grant shall be void, or voidable, or liable to be set aside in any Court or by any process of law, on the ground of the prior issue or existence of the previous grant.
 
-## Part  — Repeal of grants
+**Repeal of grants**
 
 ### 19 Mode of repeal
 Grants from the Crown under the Seal of New Zealand may be repealed by any process in the High Court that may be authorised by its rules in substitution for proceedings by writ of scire facias.
 
-## Part  — Antevesting of the legal estate
+**Antevesting of the legal estate**
 
 ### 20 Deeds of transfer to be valid
 (1) All deeds executed by grantees of lands comprised in grants from the Crown, their heirs, executors, administrators, and assigns, after the dates at which they became entitled respectively to Crown grants of the said lands, but before the dates of the Crown grants by which the same were granted, shall, for the purpose of completing the titles of parties to such deeds, but for no other purpose, be deemed to have the same force and effect as though the said grants had been respectively executed immediately upon the grantees named therein becoming entitled to receive the same respectively.
@@ -94,12 +94,12 @@ Grants from the Crown under the Seal of New Zealand may be repealed by any proce
 
 ### 21 Date when grantee becomes entitled to grant
 (1) The dates whereon grantees shall be deemed respectively to become entitled to receive Crown grants of their lands shall be,—
-  (a) In the case of grantees of land purchased from the Crown under any Land Act or regulations for the time being in force where payment of the purchase money alone entitles the grantee to a grant, then the date of payment of such purchase money or of the last instalment thereof:
-  (b) In the case of grantees of land the title to which is acquired by residence or occupation for a specified term, or by making improvements to a certain extent and of a certain value upon the land occupied, or by the fulfilment of any other conditions, whether in addition to or without the payment of purchase money, then the date on which (the purchase money, if any, having been paid) the prescribed term of residence or occupation is completed and the prescribed conditions fulfilled:
-  (c) In the case of grantees of land the title to which has been determined by the Maori Land Court, or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, then the date of the certificate or order issued by that Court or authority in respect of that land:
-  (d) In any case where any specified block or section of land has been sold before being surveyed under the Act or land regulations affecting the same, and, after the sale thereof, has been found to contain a greater number of acres than it was supposed to contain at the time of the sale, and the acreage in excess has been paid for in accordance with the said Act or regulations, then the date, with respect to the whole of such block or section, of the original purchase of the portion thereof:
-  (e) In the case where a fresh grant has been issued in lieu of any grant cancelled as aforesaid, then the date whereon the legal estate in the land granted vested in the grantee, or was intended to vest in him, under the cancelled grant:
-  (f) In any case not included in this section, but within the provisions of section 23 of the Crown Grants Act 1883, then the date provided for by that section.
+  (a) in the case of grantees of land purchased from the Crown under any Land Act or regulations for the time being in force where payment of the purchase money alone entitles the grantee to a grant, then the date of payment of such purchase money or of the last instalment thereof:
+  (b) in the case of grantees of land the title to which is acquired by residence or occupation for a specified term, or by making improvements to a certain extent and of a certain value upon the land occupied, or by the fulfilment of any other conditions, whether in addition to or without the payment of purchase money, then the date on which (the purchase money, if any, having been paid) the prescribed term of residence or occupation is completed and the prescribed conditions fulfilled:
+  (c) in the case of grantees of land the title to which has been determined by the Maori Land Court, or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, then the date of the certificate or order issued by that Court or authority in respect of that land:
+  (d) in any case where any specified block or section of land has been sold before being surveyed under the Act or land regulations affecting the same, and, after the sale thereof, has been found to contain a greater number of acres than it was supposed to contain at the time of the sale, and the acreage in excess has been paid for in accordance with the said Act or regulations, then the date, with respect to the whole of such block or section, of the original purchase of the portion thereof:
+  (e) in the case where a fresh grant has been issued in lieu of any grant cancelled as aforesaid, then the date whereon the legal estate in the land granted vested in the grantee, or was intended to vest in him, under the cancelled grant:
+  (f) in any case not included in this section, but within the provisions of section 23 of the Crown Grants Act 1883, then the date provided for by that section.
 (2) In any case where under any Act or regulations heretofore in force a date is prescribed upon which a grantee became entitled to receive a Crown grant of land, but the grant has not issued before the coming into operation of this Act, then the same shall be issued in accordance with such Act or regulations.
 
 ### 22 Date to be certified
@@ -108,7 +108,7 @@ Grants from the Crown under the Seal of New Zealand may be repealed by any proce
 (3) Any certificate required under the foregoing provisions shall be forwarded by or through the Chief Surveyor to the Minister before the execution of the grant.
 
 ### 23 Entry of date in habendum of grant
-(1) In all the foregoing cases the Chief Surveyor or other officer charged with the preparation of Crown grants may insert in the habendum of any grant of land with respect to which it is desired to antevest the legal estate as aforesaid, the date in each case as ascertained and certified with respect to the class of cases to which such grant may belong, and the date so inserted shall, for the purposes of section 21 hereof, be deemed to be the date whereon the grantee became entitled to a Crown grant of the lands comprised therein.
+(1) In all the foregoing cases the Chief Surveyor or other officer charged with the preparation of Crown grants may insert in the habendum of any grant of land with respect to which it is desired to antevest the legal estate as aforesaid, the date in each case as ascertained and certified with respect to the class of cases to which such grant may belong, and the date so inserted shall, for the purposes of section 21, be deemed to be the date whereon the grantee became entitled to a Crown grant of the lands comprised therein.
 (2) Where a grantee becomes entitled at different times to grants of 2 or more blocks or sections of land, and all such blocks or sections are comprised in one and the same grant, the dates whereon he acquired title to the said blocks or sections respectively may be inserted in the habendum of the grant, together with references to the said blocks or sections respectively; and every such insertion shall have the same force and effect to all intents and purposes, as regards the particular block or section to which it refers, as the insertion of one date would have had as regards the whole of the land had the grantee acquired title to the whole of the land at the same date.
 
 ### 24 Endorsement of date on grant previously executed
@@ -127,13 +127,13 @@ Where the Chief Surveyor makes a statutory declaration to the effect that an err
 ### 28 Effect of corrections
 Every endorsement made under the 2 last preceding sections shall be as effectual, for the purpose of antevestment, as if the date therein named had been originally inserted in or endorsed on the Crown grant in accordance with the provisions of this Act.
 
-## Part  — Registration and delivery of grants
+**Registration and delivery of grants**
 
 ### 29 Registration and delivery of grants
 In every case where a Crown grant has been executed the following provisions shall apply:
-  (a) The Chief Surveyor shall forward the grant to the Registrar of Deeds for the registration district in which the land is situate, and shall notify in the Gazette the fact that it has been so forwarded and is there ready for delivery to the person entitled on payment of fees and on registration:
-  (b) On full payment of all custody and registration fees payable in respect of the grant, the Registrar of Deeds shall register it and deliver it to the person entitled:
-  (c) Where the land is situate in more districts than one, the Chief Surveyor shall forward it to the Registrar for such one of the districts as he thinks fit. Such Registrar, after payment to him of all fees as aforesaid, shall register the grant in his own books and then forward it to the Registrar of the other district, who shall register it and return it to the first-mentioned Registrar for delivery to the person entitled.
+  (a) the Chief Surveyor shall forward the grant to the Registrar of Deeds for the registration district in which the land is situate, and shall notify in the Gazette the fact that it has been so forwarded and is there ready for delivery to the person entitled on payment of fees and on registration:
+  (b) on full payment of all custody and registration fees payable in respect of the grant, the Registrar of Deeds shall register it and deliver it to the person entitled:
+  (c) where the land is situate in more districts than one, the Chief Surveyor shall forward it to the Registrar for such one of the districts as he thinks fit. Such Registrar, after payment to him of all fees as aforesaid, shall register the grant in his own books and then forward it to the Registrar of the other district, who shall register it and return it to the first-mentioned Registrar for delivery to the person entitled.
 
 ### 30 Grant may be deposited in certain cases
 Where a dispute arises as to the person to whom any Crown grant of land ought to be delivered, the officer for the time being having the custody thereof, upon payment by any person of all the fees payable in respect thereof, and for the registration and deposit thereof, may cause the same to be registered in the proper registration office, and afterwards may deposit the same for safe custody and reference under the Deeds Registration Act 1908; and such officer, and every other person, shall be thereby indemnified against all actions, claims, and demands in respect of the grant.
@@ -148,13 +148,13 @@ Where a dispute arises as to the person to whom any Crown grant of land ought to
 (3) No certificate of title under the Land Transfer Act 1952 shall be issued in lieu of any such grant until all the fees on the grant have been paid.
 
 ### 33 Entries by Registrar where grant cancelled
-(1) Where a grant has been cancelled under section 11 hereof by reason of the name of any person not entitled to the land having been inserted therein by mistake, every entry in the books of a Registrar of Deeds relating to such land shall be cancelled by writing opposite thereto, or across the face thereof, a memorandum in the words Cancelled by authority of the Crown Grants Act 1908.
+(1) Where a grant has been cancelled under section 11 by reason of the name of any person not entitled to the land having been inserted therein by mistake, every entry in the books of a Registrar of Deeds relating to such land shall be cancelled by writing opposite thereto, or across the face thereof, a memorandum in the words Cancelled by authority of the Crown Grants Act 1908.
 (2) Such memorandum shall be signed by the Registrar; and such entry shall be thereby cancelled, and shall thereafter be of no force or effect.
 
 ### 34 Entries may be amended where new grant issued
-Where a grant has been cancelled under section 12 hereof by reason of any error in the name of the grantee, the Registrar may, at his discretion, in lieu of cancelling the entries in his books relating to the land comprised in the grant, correct the name of the grantee, wherever it occurs in such entries, in accordance with the name in the new grant issued in lieu of the cancelled grant; and every entry so corrected shall be of the same force and effect as if it had been originally made in such corrected form.
+Where a grant has been cancelled under section 12 by reason of any error in the name of the grantee, the Registrar may, at his discretion, in lieu of cancelling the entries in his books relating to the land comprised in the grant, correct the name of the grantee, wherever it occurs in such entries, in accordance with the name in the new grant issued in lieu of the cancelled grant; and every entry so corrected shall be of the same force and effect as if it had been originally made in such corrected form.
 
-## Part  — Effect of grants
+**Effect of grants**
 
 ### 35 Seaward boundary of land granted
 Where in any grant the ocean, sea, or any sound, bay, or creek, or any part thereof affected by the ebb or flow of the tide, is described as forming the whole or part of the boundary of the land granted, such boundary or part thereof shall be deemed and taken to be the line of high-water mark at ordinary tides.
@@ -166,8 +166,7 @@ Where in any grant the ocean, sea, or any sound, bay, or creek, or any part ther
 (4) Where any such road is taken and laid down in manner aforesaid on the land comprised in any grant by any person lawfully authorised in that behalf, the land conveyed by the grant shall be deemed, from the date of the laying down of the road, to be all the land therein described to be granted, with the exception of the portion thereof taken for the road, which portion shall be deemed to be vested in the Crown.
 
 ### 36A Reservation of land for railways and other public works
-Whenever in any Crown grant there has been or hereafter may be reserved rights at any time to take part of the land comprised therein for railways or other public works of any kind, the provisions of section 36 of this Act shall apply as if references in that section to roads were references to railways or those other public works, as the case may be:
-  Provided that, where before the commencement of this section any land was taken for railways or other public works after the period of 5 years from the issue of the grant, no compensation shall be claimed by or paid to the owner of the land.
+Whenever in any Crown grant there has been or hereafter may be reserved rights at any time to take part of the land comprised therein for railways or other public works of any kind, the provisions of section 36 shall apply as if references in that section to roads were references to railways or those other public works, as the case may be:provided that, where before the commencement of this section any land was taken for railways or other public works after the period of 5 years from the issue of the grant, no compensation shall be claimed by or paid to the owner of the land.
 
 ### 36B Removal of lapsed reservations from title
 Where any reservation in any Crown grant to take part of the land for roads or railways or other public works of any kind lapses through effluxion of time, the District Land Registrar may enter a memorial in the register that the reservation has lapsed.
@@ -175,13 +174,12 @@ Where any reservation in any Crown grant to take part of the land for roads or r
 ### 37 Roadway to include railway
 Where, by express words in any grant, or by implication from the exercise of any power given by an Act of the Parliament of New Zealand, the right to take a road through the land granted is reserved to the Crown, that right shall be deemed to include the right to make a railway over and upon the reserved roadway.
 
-## Part  — Evidence of grants
+**Evidence of grants**
 
 ### 38 Copies of grants as evidence
-Every copy of a Crown grant kept as of record, purporting to be a copy of any grant from the Crown of any land situate in New Zealand, and every copy certified under the hand of the Minister to be a true and faithful transcript of any such copy kept as of record, shall be admitted in evidence for all purposes for which the original grant might have been so admitted:
-  Provided that no copy purporting to be certified as aforesaid shall be admitted in evidence without proof of the Minister's signature appearing on the certificate, but his appointment as Minister need not be proved.
+Every copy of a Crown grant kept as of record, purporting to be a copy of any grant from the Crown of any land situate in New Zealand, and every copy certified under the hand of the Minister to be a true and faithful transcript of any such copy kept as of record, shall be admitted in evidence for all purposes for which the original grant might have been so admitted:provided that no copy purporting to be certified as aforesaid shall be admitted in evidence without proof of the Minister's signature appearing on the certificate, but his appointment as Minister need not be proved.
 
-## Part  — Fees on grants
+**Fees on grants**
 
 ### 39 Grant fee and acreage fee
 There shall be paid to the Director-General, or other officer appointed to receive the same, a fee of $2 upon every Crown grant of lands not exceeding in extent 50 hectares, and upon every Crown grant of land exceeding that area an additional fee of 1 cent for every hectare in excess of 50 hectares.
@@ -192,9 +190,9 @@ There shall be paid to the Director-General, or other officer appointed to recei
 
 ### 41 Custody fees
 (1) There shall be paid to the Director-General upon all grants not delivered but remaining in the charge or custody of a Chief Surveyor or other officer charged with the delivery of the same, a custody fee of 2.5 cents for every month during which they have so remained or so remain—
-  (a) Subsequent to the month of December 1866 in the case of grants issued prior to the passing of the Crown Grants Act 1866; and
-  (b) In the case of all other grants, after the expiration of 3 months from the date of a public notice by the Commissioner or other authorised officer that such grants are ready for delivery.
-(1A) The maximum sum payable under subsection (1) of this section in respect of custody fees on any one grant shall not exceed $2.
+  (a) subsequent to the month of December 1866 in the case of grants issued prior to the passing of the Crown Grants Act 1866; and
+  (b) in the case of all other grants, after the expiration of 3 months from the date of a public notice by the Commissioner or other authorised officer that such grants are ready for delivery.
+(1A) The maximum sum payable under subsection (1) in respect of custody fees on any 1 grant shall not exceed $2.
 (2)
 
 ### 42 Certain grants exempt from custody fee
@@ -203,28 +201,25 @@ No grants issued or to be issued under any order of the Maori Land Court, or any
 ### 43 Fee for certified copy
 There shall be paid upon every certified copy of the record copy of a Crown grant in the office of the Minister a fee of $1.
 
-## Part  — Recovery of fees and expenses
+**Recovery of fees and expenses**
 
 ### 44 Outstanding fees under prior Acts
 All unpaid fees, expenses, and other charges payable or required to be paid under any Act or enactment heretofore in force relating to Crown grants shall be deemed to be payable under this Act, and may be recovered accordingly.
 
 ### 45 Liability for and recovery of fees
 (1) The following persons are jointly and severally liable to pay the fees due in respect of any Crown grant, as well as the fees payable on the registration thereof under the Deeds Registration Act 1908:
-  (a) The grantees named therein; and
-  (b) All persons in whom any legal estate of inheritance in the whole or any part of the land comprised therein is vested, whether as beneficial owners, or as trustees, or as mortgagees.
+  (a) the grantees named therein; and
+  (b) all persons in whom any legal estate of inheritance in the whole or any part of the land comprised therein is vested, whether as beneficial owners, or as trustees, or as mortgagees.
 (2) A certificate signed by the Registrar of Deeds stating that, upon inspection of the Crown grant and of the books in his office, it appears that any such legal estate as aforesaid in all the land comprised in the grant appears to be vested in any persons, shall, for the purposes of this Act, be conclusive proof that such persons are jointly and severally liable to pay the said fees.
-(3) Such certificate may be in the form numbered (1) in Schedule 2 hereto, and it shall be admitted in evidence without proof of the signature or official position of the officer whose signature it purports to bear.
-(4) The said fees are recoverable in a summary way by the Director-General on complaint before—
-  (a) A District Court Judge; or
-  (b) Any 2 Justices who, for the purpose of hearing any such complaint, have the same powers and jurisdiction in all respects as Justices have in the case of complaints made under the Summary Proceedings Act 1957; or
-  (c) Any one or more Community Magistrates who, for the purpose of hearing any such complaint, have the same powers and jurisdiction in all respects as 2 or more Justices have in the case of complaints made under the Summary Proceedings Act 1957.
-(5) Such complaint may be in the form numbered (2) in Schedule 2 hereto, and may be laid at any time after the matter of the complaint arose, anything in the Summary Proceedings Act 1957 to the contrary notwithstanding.
+(3) Such certificate may be in the form numbered (1) in Schedule 2, and it shall be admitted in evidence without proof of the signature or official position of the officer whose signature it purports to bear.
+(4)
+(5)
 
 ### 46 Recovery of fees, etc, in case of Maori land grants
-The power of recovering expenses given to the Chief Surveyor by section 7 hereof, and all powers of recovering fees given by this Act to the Director-General, are hereby, in so far as regards any Crown grant issued under an order of the Maori Land Court or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, conferred on the Surveyor-General, who may, by himself or by any person duly authorised by him in that behalf, at any time exercise the same.
+The power of recovering expenses given to the Chief Surveyor by section 7, and all powers of recovering fees given by this Act to the Director-General, are hereby, in so far as regards any Crown grant issued under an order of the Maori Land Court or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, conferred on the Surveyor-General, who may, by himself or by any person duly authorised by him in that behalf, at any time exercise the same.
 
 ### 47 Trustee or mortgagee paying fees may charge the same
-(1) Every trustee or mortgagee who pays on any Crown grant any fees payable by him under section 45 hereof shall be entitled to charge the same as part of the necessary expenses of fulfilling his trust, or to add the same to the mortgage debt, as the case may be.
+(1) Every trustee or mortgagee who pays on any Crown grant any fees payable by him under section 45 shall be entitled to charge the same as part of the necessary expenses of fulfilling his trust, or to add the same to the mortgage debt, as the case may be.
 (2) Every person who pays any fees in respect of a Crown grant shall have a lien thereon for the fees so paid.
 
 ## Schedule 1 — Enactments consolidated
