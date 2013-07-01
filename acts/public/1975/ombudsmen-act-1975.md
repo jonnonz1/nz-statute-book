@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -171,7 +171,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
   (c) must not take into account the information or any information in the document, paper, or thing in forming any opinion concerning the release of any other information, unless the Ombudsman considers the claim of privilege is not valid and has notified the person concerned of that decision.
 (6) Except on the trial of any person for perjury within the meaning of the Crimes Act 1961 in respect of his sworn testimony, no statement made or answer given by that or any other person in the course of any inquiry by or any proceedings before an Ombudsman shall be admissible in evidence against any person in any court or at any inquiry or in any other proceedings, and no evidence in respect of proceedings before an Ombudsman shall be given against any person.
 (7) No person shall be liable to prosecution for an offence against any enactment, other than this Act, by reason of his compliance with any requirement of an Ombudsman under this section.
-(8) Where any person is required by an Ombudsman to attend before him for the purposes of this section, the person shall be entitled to the same fees, allowances, and expenses as if he were a witness in a court, and the provisions of any regulations in that behalf made under the Summary Proceedings Act 1957 and for the time being in force shall apply accordingly. For the purposes of this subsection an Ombudsman shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
+(8) Where any person is required by an Ombudsman to attend before him for the purposes of this section, the person shall be entitled to the same fees, allowances, and expenses as if he were a witness in a court, and the provisions of any regulations in that behalf made under the Criminal Procedure Act 2011 and for the time being in force shall apply accordingly. For the purposes of this subsection an Ombudsman shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
 
 ### 20 Disclosure of certain matters not to be required
 (1) Where the Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or paper or thing—an Ombudsman shall not require the information or answer to be given or, as the case may be, the document or paper or thing to be produced.
@@ -272,13 +272,13 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
 
 ### 28A Protection of name
 (1) No person, other than an Ombudsman appointed under this Act, may use the name Ombudsman in connection with any business, trade, or occupation or the provision of any service, whether for payment or otherwise, or hold himself, herself, or itself out to be an Ombudsman except pursuant to an Act or with the prior written consent of the Chief Ombudsman.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 29 Annual report
 Without limiting the right of an Ombudsman to report at any other time, but subject to the provisions of subsection (7) of section 22 and to any rules for the guidance of the Ombudsmen made by the House of Representatives and for the time being in force, the Ombudsmen shall in each year make a report to the House of Representatives on the exercise of their functions under this Act and the Official Information Act 1982 and the Local Government Official Information and Meetings Act 1987 and the Protected Disclosures Act 2000.
 
 ### 30 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $200 who—
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200 who—
   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists an Ombudsman or any other person in the exercise of his powers under this Act:
   (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of an Ombudsman or any other person under this Act:
   (c) wilfully makes any false statement to or misleads or attempts to mislead an Ombudsman or any other person in the exercise of his powers under this Act:
