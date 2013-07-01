@@ -1,5 +1,5 @@
 # New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987
-_Consolidation as at 1998-08-20_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage an active and effective contribution by New Zealand to the essential process of disarmament and international arms control, and to implement in New Zealand the following treaties:athe South Pacific Nuclear Free Zone Treaty of 6 August 1985 (the text of which is set out in Schedule 1):bthe Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water of 5 August 1963 (the text of which is set out in Schedule 2):cthe Treaty on the Non-Proliferation of Nuclear Weapons of 1 July 1968 (the text of which is set out in Schedule 3):dthe Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Sea-bed and the Ocean floor and in the Subsoil Thereof of 11 February 1971 (the text of which is set out in Schedule 4):ethe Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction of 10 April 1972 (the text of which is set out in Schedule 5)
 
@@ -80,14 +80,14 @@ Nothing in this Act shall be interpreted as limiting the immunities of—
 
 ### 14 Offences and penalties
 (1) Every person commits an offence against this Act who contravenes or fails to comply with any provision of sections 5 to 8.
-(2) Every person who commits an offence against this Act is liable on conviction on indictment to imprisonment for a term not exceeding 10 years.
+(2) Every person who commits an offence against this Act is liable on conviction to imprisonment for a term not exceeding 10 years.
 
 ### 15 Consent of Attorney-General to proceedings in relation to offences
-(1) No information shall be laid against any person for—except with the consent of the Attorney-General:
+(1) No charging document may be filed against any person for—except with the consent of the Attorney-General:
   (a) an offence against this Act; or
   (b) the offence of conspiring to commit an offence against this Act; or
   (c) the offence of attempting to commit an offence against this Act,—
-  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for any such person's arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
+  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for any such person's arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
 (2) The Attorney-General may, before deciding whether or not to give consent under subsection (1), make such inquiries as the Attorney-General thinks fit.
 
 **Public Advisory Committee on Disarmament and Arms Control**
@@ -107,7 +107,7 @@ There is hereby established a committee to be called the Public Advisory Committ
 (1) The Committee shall consist of 9 members, of whom—
   (a) one shall be the Minister for Disarmament and Arms Control, who shall be the Chairman; and
   (b) 8 shall be appointed by the Minister of Foreign Affairs and Trade.
-(2) Each member of the Committee appointed under subsection (1)(b) shall be appointed for such term not exceeding 3 years as may be specified in the instrument of appointment, but may from time to time be reappointed.
+(2) Each member of the Committee appointed under subsection (1)﻿(b) shall be appointed for such term not exceeding 3 years as may be specified in the instrument of appointment, but may from time to time be reappointed.
 (3) Any such member may be removed from office for incapacity, neglect of duty, or misconduct proved to the satisfaction of the Minister of Foreign Affairs and Trade, or may resign by notice in writing to that Minister.
 (4) The functions and powers of the Committee shall not be affected by any vacancy in its membership.
 
