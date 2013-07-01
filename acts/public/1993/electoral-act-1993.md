@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -530,7 +530,7 @@ The House of Representatives shall have as its members those persons who are ele
 The Chairperson and every member of the Commission who holds office under section 28(2)(e) or section 28(3)(b), unless he or she sooner ceases to be a member as provided in section 30, shall cease to be a member on the date on which the first periodical census of population is taken after the date of his or her appointment.
 
 ### 30 Extraordinary vacancies
-The Chairperson or any member of the Commission who holds office under section 28(2)(e) or section 28(3)(b) may resign his or her appointment by writing addressed to the Governor-General, in which case, or in case of any such member being convicted of any indictable offence, or of his or her refusing to act, or of his or her death or mental or physical incapacity, or of his or her absence from New Zealand when his or her services are required, the Governor-General may, by Order in Council, appoint another person in his or her stead on the same nomination as in the case of the original appointment:provided that, if Parliament is not in session at the time, an appointment of a member to represent the Government or the Opposition may be made on the nomination of the Prime Minister or of the Leader of the Opposition, as the case may be.
+The Chairperson or any member of the Commission who holds office under section 28(2)(e) or section 28(3)(b) may resign his or her appointment by writing addressed to the Governor-General, in which case, or in case of any such member being convicted of an offence punishable by imprisonment for life or by 2 or more years' imprisonment, or of his or her refusing to act, or of his or her death or mental or physical incapacity, or of his or her absence from New Zealand when his or her services are required, the Governor-General may, by Order in Council, appoint another person in his or her stead on the same nomination as in the case of the original appointment:provided that, if Parliament is not in session at the time, an appointment of a member to represent the Government or the Opposition may be made on the nomination of the Prime Minister or of the Leader of the Opposition, as the case may be.
 
 ### 31 Remuneration and travelling allowances
 There shall be paid out of money appropriated by Parliament for the purpose to the Chairperson and each member of the Commission who holds office under section 28(2)(e) or section 28(3)(b) remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly, and the Commission shall be a statutory board for the purposes of that Act.
@@ -701,7 +701,7 @@ The following persons are not qualified to be a candidate or to be elected as a 
   (c) a Returning Officer.
 
 ### 48 Offence for public servant or Returning Officer to sit
-Every member of Parliament who sits or votes therein after his or her seat has become vacant by reason of that member having become a public servant or having been appointed as a Returning Officer, knowing that his or her seat is so vacant, shall be liable on summary conviction to a fine not exceeding $400.
+Every member of Parliament who sits or votes therein after his or her seat has become vacant by reason of that member having become a public servant or having been appointed as a Returning Officer, knowing that his or her seat is so vacant, shall be liable on conviction to a fine not exceeding $400.
 
 ### 49 Candidate not disqualified if name removed from roll without cause
 (1) This section applies to a person—
@@ -774,7 +774,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (cb) if he or she accepts nomination as, or otherwise agrees to be, a candidate for election, or agrees to appointment as—
     (i) a member of Parliament (or other governing body) of a country, State, territory, or municipality, in any country other than New Zealand; or
     (ii) a member of any governing body of any association of countries, States, territories, or municipalities exercising governing powers, of which New Zealand is not a member (for example, the European Union); or
-  (d) if he or she is convicted of a crime punishable by imprisonment for a term of 2 years or upwards, or is convicted of a corrupt practice, or is reported by the High Court in its report on the trial of an election petition to have been proved guilty of a corrupt practice; or
+  (d) if he or she is convicted of an offence punishable by imprisonment for life or by 2 or more years' imprisonment, or is convicted of a corrupt practice, or is reported by the High Court in its report on the trial of an election petition to have been proved guilty of a corrupt practice; or
   (e) if he or she becomes a public servant; or
   (ea) if he or she is appointed as a Returning Officer; or
   (f) if he or she resigns his or her seat by signing a written notice that is addressed and delivered to the Speaker; or
@@ -811,15 +811,15 @@ Despite section 55(1)(b) and (c), the seat of a member of Parliament does not be
 (2) Where a member of Parliament is received or detained in a hospital in accordance with an inpatient order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, the person in charge of that hospital shall, as soon as may be, give notice to the Speaker of the reception or detention.
 (3) Where the Speaker receives a notice under subsection (1) or subsection (2), the Speaker shall forthwith transmit the notice to the Director-General of Health, who, together with some medical practitioner named by the Speaker, shall without delay visit and examine the member to whom the notice relates, and shall report to the Speaker whether the member is mentally disordered.
 (4) If the report is to the effect that the member is mentally disordered the Speaker shall, at the expiration of 6 months from the date of the report if Parliament is then in session, and, if not, then as soon as may be after the date of the commencement of the next ensuing session, require the said Director-General, together with the said medical practitioner or some other medical practitioner named by the Speaker, again to visit and examine the member; and, if they report that he or she is still mentally disordered, the Speaker shall forthwith lay both reports before the House of Representatives, and thereupon the seat of the member shall be vacant.
-(5) Every person having charge of any hospital in which any member of Parliament is so received or detained, who wilfully commits a breach of subsection (2) shall be liable on summary conviction to a fine not exceeding $2,000.
+(5) Every person having charge of any hospital in which any member of Parliament is so received or detained, who wilfully commits a breach of subsection (2) shall be liable on conviction to a fine not exceeding $2,000.
 
 ### 57 Registrar of court to notify cause of vacancy in certain cases
-(1) The Registrar of the court in which any member of Parliament has been convicted of a crime punishable by imprisonment for a term of 2 years or upwards, or has been convicted of a corrupt practice, shall, within 48 hours after the conviction, notify the fact to the Speaker.
-(2) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $100 who, being the Registrar of a court, fails to send any notice required by subsection (1).
+(1) The Registrar of the court in which any member of Parliament has been convicted of an offence punishable by imprisonment for life or by 2 or more years' imprisonment, or has been convicted of a corrupt practice, shall, within 48 hours after the conviction, notify the fact to the Speaker.
+(2) Every person commits an offence and shall be liable on conviction to a fine not exceeding $100 who, being the Registrar of a court, fails to send any notice required by subsection (1).
 
 ### 58 Registrar of Births and Deaths to notify Speaker of death of member
 (1) The Registrar of Births and Deaths by whom the death of any member of Parliament is registered shall, within 12 hours of making the registration, notify the fact to the Speaker.
-(2) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $100 who, being a Registrar of Births and Deaths, fails to send any notice required by subsection (1).
+(2) Every person commits an offence and shall be liable on conviction to a fine not exceeding $100 who, being a Registrar of Births and Deaths, fails to send any notice required by subsection (1).
 
 ### 59 No person to be candidate for more than 1 district or on more than 1 list
 (1) No person shall at any general election be—
@@ -1182,7 +1182,7 @@ Except as provided in sections 76 to 78,—
 (5) Where it appears to the Registrar that an applicant is qualified to be registered as an elector of another electoral district, the Registrar shall forthwith send the application to the Registrar of that district.
 (6) Every person commits an offence against this section who, being required by this section to apply for registration as an elector during any period, knowingly and wilfully fails to so apply.
 (7) No person who applies for registration as an elector shall be liable to prosecution for an earlier failure to apply for registration as an elector.
-(8) Every person who commits an offence against this section shall be liable on summary conviction to a fine not exceeding $100 on a first conviction, and to a fine not exceeding $200 on any subsequent conviction.
+(8) Every person who commits an offence against this section shall be liable on conviction to a fine not exceeding $100 on a first conviction, and to a fine not exceeding $200 on any subsequent conviction.
 (9) Notwithstanding anything in subsections (1) to (7) or in section 72(9), no person is required to apply for registration as an elector while that person is living on Campbell Island or Raoul Island.
 
 ### 83 Updating of electoral rolls
@@ -1340,7 +1340,7 @@ The Registrar must, not later than 14 days after the registration of a person (i
   (b) a person in respect of whom a welfare guardian appointed for that person under section 12(1) of the Protection of Personal and Property Rights Act 1988 or an attorney appointed by that person under an enduring power of attorney holds office,—
 (2A) A person to whom subsection (1) applies (but not a person who is required by subsection (2) to comply with subsection (1)) may, instead of giving a written notice to the Registrar of the change of place of residence and the address of the new place of residence, notify the Registrar of them by supplying that information to the Registrar using an electronic medium approved for the purpose by the Electoral Commission.
 (3) Every person commits an offence who knowingly and wilfully fails to comply with subsection (1) or subsection (2).
-(4) Every person who commits an offence against this section shall be liable on summary conviction to a fine not exceeding $50 on a first conviction, and to a fine not exceeding $100 on any subsequent conviction.
+(4) Every person who commits an offence against this section shall be liable on conviction to a fine not exceeding $50 on a first conviction, and to a fine not exceeding $100 on any subsequent conviction.
 
 ### 91 Effect of failure to notify change of address
 A registered elector who has changed his or her place of residence within an electoral district as aforesaid shall not be disqualified from voting at an election in that district by reason only that he or she has not given notice of that change of address as required by section 90.
@@ -1828,7 +1828,7 @@ If the Electoral Commission is required in accordance with this Act to supply in
 
 ### 116 Offences relating to use of electoral information
 (1) Every person commits an offence who knowingly and wilfully supplies, receives, or uses information supplied in electronic form, or derived from information supplied in electronic form, under section 112, 113, or 114 for a purpose other than a purpose authorised by those sections.
-(2) Every person who commits an offence against this section is liable on summary conviction,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of information supplied, received, or used for a commercial purpose, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
 
@@ -1838,25 +1838,25 @@ If the Electoral Commission is required in accordance with this Act to supply in
   (a) the processing or manipulation is done, or the change is effected, by or on behalf of the person by whom the information was obtained; and
   (b) the information, in its different form, is used only for purposes authorised by the provision under which it was obtained.
 (3) It shall not be an offence against subsection (1) to process, manipulate, or otherwise change information obtained pursuant to any of the provisions of sections 112 to 114 or contained in any habitation index or any printed roll into a different form if the information was obtained under this Act more than 10 years before the date on which the processing or manipulation is done or the change is effected.
-(4) Every person who commits a breach of subsection (1) is liable on summary conviction to a fine not exceeding $50,000.
+(4) Every person who commits a breach of subsection (1) is liable on conviction to a fine not exceeding $50,000.
 (5) Every person commits an offence who—any information the production of which contravenes subsection (1).
   (a) uses for any purpose; or
   (b) supplies to any person—
-(6) Every person who commits a breach of subsection (5) is liable on summary conviction,—
+(6) Every person who commits a breach of subsection (5) is liable on conviction,—
   (a) where the use or supply was for a commercial purpose, to a fine not exceeding $50,000; or
   (b) where the use or supply was for any other purpose, to a fine not exceeding $10,000.
 
 ### 117A Offence relating to misuse of electoral information supplied under section 111D
 (1) Every person commits an offence who knowingly and wilfully supplies, receives, or uses information of a kind described in section 111C(2) that is provided by, or derived from information provided by, the Electoral Commission under section 111D, for any purpose other than a purpose authorised by section 111D(4) or section 111F(4).
-(2) Every person who commits an offence against this section is liable on summary conviction,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of information supplied, received, or used for a commercial purpose, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
 
 ### 118 False statements or declarations
-Every person who knowingly and wilfully makes a false statement in any application, certificate, declaration, or information supplied (by written notice or electronically) under section 82(4A), 83A(3), or 90 for the purposes of this Part shall be liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
+Every person who knowingly and wilfully makes a false statement in any application, certificate, declaration, or information supplied (by written notice or electronically) under section 82(4A), 83A(3), or 90 for the purposes of this Part shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
 
 ### 119 Wilfully misleading Registrar
-Every person shall for each offence be liable on summary conviction to a fine not exceeding $2,000 who—
+Every person shall for each offence be liable on conviction to a fine not exceeding $2,000 who—
   (a) wilfully misleads any Registrar in the compilation of any roll or list, or wilfully enters or causes to be entered thereon any false or fictitious name or qualification or the name of any person whom he or she knows to be dead:
   (b) signs the name of any person, whether requested to do so or not, or any false or fictitious name to any form of application or objection for the purposes of this Part either as applicant, objector, or witness:
   (c) signs his or her name as witness to any signature upon any such form of application or objection without either seeing the signature written or hearing the person signing declare that the signature is in his or her own handwriting and that the name so signed is his or her own proper name.
@@ -1865,7 +1865,7 @@ Every person shall for each offence be liable on summary conviction to a fine no
 Where the Registrar believes that any person has committed an offence against section 119, he or she shall report the facts on which that belief is based to the New Zealand Police.
 
 ### 121 Failure to deliver application
-Every person shall be liable on summary conviction to a fine not exceeding $2,000 who, having obtained possession of an application for registration signed by any other person for the purpose of being delivered to the Registrar for registration, wilfully fails so to deliver it so that the applicant’s name is not entered on the roll.
+Every person shall be liable on conviction to a fine not exceeding $2,000 who, having obtained possession of an application for registration signed by any other person for the purpose of being delivered to the Registrar for registration, wilfully fails so to deliver it so that the applicant’s name is not entered on the roll.
 
 **Miscellaneous provisions**
 
@@ -2434,7 +2434,7 @@ The provisions of this Act as to an equality of votes between constituency candi
   (a) 3 days’ notice of the proposed public meeting shall be given to the governing body of the school:
   (b) the use of the school shall be granted in the order of receipt of applications by or on behalf of the candidates:
   (c) no candidate shall have the use of the same room on a second occasion if any other candidate who has not before used it desires to make use of it at the same time under this section.
-(2) If it is proved that any such meeting was not a public meeting within the meaning of this section, the person by whom and the candidate on whose behalf the meeting was convened shall each be liable on summary conviction to a fine not exceeding $1,000.
+(2) If it is proved that any such meeting was not a public meeting within the meaning of this section, the person by whom and the candidate on whose behalf the meeting was convened shall each be liable on conviction to a fine not exceeding $1,000.
 (3) For the purposes of this section, the term candidate means—
   (a) any person who has declared his or her intention of becoming a candidate either by advertisement in a newspaper, or by circular, or by announcement at a public meeting, or by duly consenting to nomination, but does not include a candidate who has withdrawn his or her nomination; or
   (b) any person whose name has been included in a list submitted under section 127.
@@ -2506,8 +2506,8 @@ The provisions of this Act as to an equality of votes between constituency candi
 ### 162 Employees to have time off to vote
 (1) Subject to the provisions of this section, on the polling day at any election every employer shall allow every worker in his or her employment who is an elector of any electoral district in which the election is being held, and who has not had a reasonable opportunity of voting before commencing work, to leave his or her work for the purpose of voting not later than 3 o’clock in the afternoon for the remainder of the day, and it shall not be lawful for any employer to make any deduction from any remuneration payable to any such worker in respect of any time after the time of his or her leaving his or her work as aforesaid.
 (2) Where any such worker is required to work after 3 o’clock in the afternoon of polling day for the purpose of carrying on any essential work or service, his or her employer shall on that day allow the worker to leave his or her work for a reasonable time for the purpose of voting, and it shall not be lawful for the employer to make any deduction from any remuneration payable to the worker in respect of any time, not exceeding 2 hours, occupied in voting as aforesaid.
-(3) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $1,000 who contravenes subsection (1) or subsection (2).
-(4) Every master of a ship that happens to be in any port in New Zealand at the time of any general election or by-election in any district, at the request of any of the crew being registered or qualified to be registered as electors of that district, shall allow them to go ashore at a proper time to admit of their voting at the election; and every master who without reasonable cause commits any breach of this subsection shall be liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person commits an offence and shall be liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1) or subsection (2).
+(4) Every master of a ship that happens to be in any port in New Zealand at the time of any general election or by-election in any district, at the request of any of the crew being registered or qualified to be registered as electors of that district, shall allow them to go ashore at a proper time to admit of their voting at the election; and every master who without reasonable cause commits any breach of this subsection shall be liable on conviction to a fine not exceeding $1,000.
 (5) For the purposes of this section,—
   - **employer** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **master** , in relation to any ship, includes any person (except a pilot) having command or charge of the ship
@@ -2538,15 +2538,15 @@ No person not actually engaged in voting may remain in a polling place other tha
 (1) No scrutineer or other official or unofficial person shall communicate with any voter in a polling place either before or after the voter has given his or her vote, except only the issuing officer (with an interpreter if necessary), who may ask the questions he or she is authorised to put, and give such general directions as may assist any voter to give his or her vote, and in particular may on request inform a voter orally of the names of—
   (a) all the constituency candidates in alphabetical order with their party designations; and
   (b) all the parties in alphabetical order who have submitted a party list, and the names of the candidates on each list in the order of preference submitted by the party in accordance with section 127.
-(2) Every person who offends against this section shall be liable on summary conviction to a fine not exceeding $400 and may at once be removed from the polling place by order of the manager.
+(2) Every person who offends against this section shall be liable on conviction to a fine not exceeding $400 and may at once be removed from the polling place by order of the manager.
 
 ### 166 Questions may be put to voters
 (1) The issuing officer may, and if so required by any scrutineer shall, before allowing any person to vote, put to that person the following questions:
   (a) are you the person whose name appears as AB in the electoral roll now in force for the [name of district] Electoral District?
   (b) have you already voted at this election in this or any other electoral district?
 (2) In every such case the issuing officer shall require the questions to be answered in writing signed by the person to whom they are put.
-(3) Every person to whom those questions are put who does not answer them, or does not answer the first in the affirmative and the second in the negative, shall be liable on summary conviction to a fine not exceeding $1,000, and shall be prohibited from voting then or afterwards at that election.
-(4) Every person who wilfully and knowingly makes a false answer to either of the questions that the issuing officer may put to that person under this section shall be liable on summary conviction to a fine not exceeding $1,000.
+(3) Every person to whom those questions are put who does not answer them, or does not answer the first in the affirmative and the second in the negative, shall be liable on conviction to a fine not exceeding $1,000, and shall be prohibited from voting then or afterwards at that election.
+(4) Every person who wilfully and knowingly makes a false answer to either of the questions that the issuing officer may put to that person under this section shall be liable on conviction to a fine not exceeding $1,000.
 
 ### 167 Issue of ordinary ballot papers
 (1) Every issuing officer must, in accordance with this section, issue ballot papers to every elector who applies to vote.
@@ -2559,7 +2559,7 @@ No person not actually engaged in voting may remain in a polling place other tha
     (ii) the number of the page, and the number of the line, on which the elector’s name appears on the roll:
   (d) ensure that the official mark of the issuing officer is placed on the ballot paper to indicate that it was issued by an authorised person:
   (e) issue the ballot paper to the elector.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, being an issuing officer, fails to comply with the requirements of this section.
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, being an issuing officer, fails to comply with the requirements of this section.
 
 ### 168 Method of voting
 (1) The voter, having received a ballot paper,—
@@ -2588,7 +2588,7 @@ No person not actually engaged in voting may remain in a polling place other tha
 (2) At the request of any such voter, any person nominated by the voter, or, if no person is so nominated, the issuing officer, shall accompany the voter into one of the inner compartments provided for the marking of ballot papers, and the ballot paper may there be marked by the voter with the assistance of the person nominated or, as the case may be, of the issuing officer, or may be marked by the person nominated or, as the case may be, by the issuing officer in accordance with the instructions of the voter.
 (3) A voter to whom subsection (2) applies, whether or not he or she nominates a person for the purposes of that subsection, may nominate a person or another person, as the case may require, to inspect the ballot paper before it is deposited in the ballot box.
 (4) Any elector voting as a special voter may vote in the manner prescribed by this section, with any necessary modifications, or in any manner prescribed by regulations made under this Act.
-(5) Every person commits an offence, and shall be liable on summary conviction to a fine not exceeding $1,000, who, being a person who is present in accordance with this section or with any regulations when an elector votes, communicates at any time to any person any information obtained as to the constituency candidate or party for whom the voter is about to vote or has voted, or as to the number on the ballot paper given to the voter.
+(5) Every person commits an offence, and shall be liable on conviction to a fine not exceeding $1,000, who, being a person who is present in accordance with this section or with any regulations when an elector votes, communicates at any time to any person any information obtained as to the constituency candidate or party for whom the voter is about to vote or has voted, or as to the number on the ballot paper given to the voter.
 (6) Regulations made under section 267 may make provision for electors who are wholly or partially blind to vote by means of devices that enable them to vote without assistance despite the fact that they are wholly or partially blind.
 
 ### 171 Procedure when second vote given in same name
@@ -2702,7 +2702,7 @@ If any person proposing to vote at any election gives as his or her name the nam
   (b) require the scrutineer to leave the restricted area.
 
 ### 174G Offences in relation to count of early votes conducted before close of poll
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who,—
   (a) not being a scrutineer appointed under section 174F, enters, on polling day, a restricted area without the express authorisation of the Returning Officer; or
   (b) being a scrutineer appointed under section 174F, enters, on polling day, a restricted area with a device that enables information to be conveyed to a person or machine outside the area; or
   (c) leaves, on polling day, a restricted area without the express authorisation of the Returning Officer.
@@ -2995,16 +2995,16 @@ Nothing in section 180 or section 181 requires the electorate votes or the party
 (3) Whenever ballot papers are delivered to a Returning Officer by or on behalf of the printer who has printed the ballot papers,—
   (a) the Returning Officer must give or send the printer a receipt specifying the total number of ballot papers received by the Returning Officer; and
   (b) the printer must see that all copies of ballot papers other than those delivered to the Returning Officer are immediately destroyed.
-(4) Every person commits an offence and is liable on summary conviction to a fine of $2,000 who fails to comply with a requirement imposed on the person by this section.
+(4) Every person commits an offence and is liable on conviction to a fine of $2,000 who fails to comply with a requirement imposed on the person by this section.
 
 ### 196A Unlawful possession of ballot paper
-(1) Every person is liable on summary conviction to a fine not exceeding $2,000 who, without authority under this Act or regulations made under this Act, obtains possession of any ballot paper.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who retains any ballot paper in his or her possession after leaving a polling place.
+(1) Every person is liable on conviction to a fine not exceeding $2,000 who, without authority under this Act or regulations made under this Act, obtains possession of any ballot paper.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who retains any ballot paper in his or her possession after leaving a polling place.
 
 **Offences at elections**
 
 ### 197 Interfering with or influencing voters
-(1) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $20,000 who at an election—
+(1) Every person commits an offence and shall be liable on conviction to a fine not exceeding $20,000 who at an election—
   (a) in any way interferes with any elector, either in the polling place or while the elector is on the way to the polling place with the intention of influencing the elector or advising the elector as to the elector’s vote:
   (b) at any time on polling day before the close of the poll in or in view or hearing of any public place holds or takes part in any demonstration or procession having direct or indirect reference to the poll by any means whatsoever:
   (c) at any time on polling day before the close of the poll makes any statement having direct or indirect reference to the poll by means of any loudspeaker or public address apparatus or cinematograph or television apparatus:
@@ -3053,7 +3053,7 @@ All expenses incurred by the Returning Officer in carrying out the power conferr
 Every person is guilty of a corrupt practice who, with the intention of influencing the vote of any elector, at any time on polling day before the close of the poll, or at any time on any of the 2 days immediately preceding polling day, publishes, distributes, broadcasts, or exhibits, or causes to be published, distributed, broadcast, or exhibited, in or in view of any public place a statement of fact that the person knows is false in a material particular.
 
 ### 200 Erasing and altering official mark on ballot paper
-Every person shall be liable on summary conviction to a fine not exceeding $2,000 who erases, obliterates, or alters any official mark, stamp, or writing on any ballot paper, or places thereon any writing, print, or other matter which might lead persons to believe that it was put thereon by any official or person duly authorised in that behalf.
+Every person shall be liable on conviction to a fine not exceeding $2,000 who erases, obliterates, or alters any official mark, stamp, or writing on any ballot paper, or places thereon any writing, print, or other matter which might lead persons to believe that it was put thereon by any official or person duly authorised in that behalf.
 
 ### 201 Offences in respect of ballot papers and ballot boxes
 (1) Every person commits an offence against this section who—
@@ -3062,10 +3062,10 @@ Every person shall be liable on summary conviction to a fine not exceeding $2,00
   (c) fraudulently puts into any ballot box any paper other than the ballot paper that he or she is authorised by law to put therein:
   (d) fraudulently takes out of a polling place any ballot paper:
   (e) without due authority destroys, takes, opens, or otherwise interferes with any ballot box, or box or packet or parcel of ballot papers, then in use for the purposes of an election, or in course of transmission by post or otherwise, or thereafter whenever the same may be kept as a record of the election.
-(2) Every person who commits an offence against this section shall be liable on conviction on indictment,—
+(2) Every person who commits an offence against this section shall be liable on conviction,—
   (a) if a Returning Officer or a polling place official in attendance at a polling place, to imprisonment for a term not exceeding 2 years:
   (b) if any other person, to imprisonment for a term not exceeding 6 months.
-(3) Every person who attempts to commit any offence against this section shall be liable on conviction on indictment to imprisonment for a term not exceeding one-half of the longest term to which a person committing the offence may be sentenced.
+(3) Every person who attempts to commit any offence against this section shall be liable on conviction to imprisonment for a term not exceeding one-half of the longest term to which a person committing the offence may be sentenced.
 (4) Every person who commits an offence against this section or who attempts to commit an offence against this section is guilty of a corrupt practice.
 
 ### 202 Property to be stated as being in Returning Officer
@@ -3124,7 +3124,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3149,7 +3149,7 @@ In this Part, unless the context otherwise requires,—
   (b) at any time during the regulated period has been an unregistered promoter.
 (2) A promoter to whom this section applies must take all reasonable steps to retain the records, documents, and accounts that are necessary to enable verification of the advertising expenses incurred as an unregistered promoter in relation to an election advertisement.
 (3) Subsection (2) applies until the close of the day that is 3 years after polling day for the election to which the advertisement relates.
-(4) Every promoter who fails, without reasonable excuse, to comply with subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(4) Every promoter who fails, without reasonable excuse, to comply with subsection (2) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 204F Election advertisement to include promoter statement
 (1) A person may publish or cause or permit to be published an election advertisement only if the advertisement includes a promoter statement.
@@ -3317,8 +3317,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $25,400 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $50,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $51,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3390,7 +3390,7 @@ If a candidate considers that there is no relevant information to disclose under
 (3) A return filed by the candidate in accordance with subsection (2) is deemed to be filed within the time period specified in section 205K(1).
 
 ### 205N Offences relating to return of candidate's election expenses
-(1) A candidate who fails to comply with section 205K is liable on summary conviction to—
+(1) A candidate who fails to comply with section 205K is liable on conviction to—
   (a) a fine not exceeding $40,000; and
   (b) if he or she has been elected, a further fine not exceeding $400 for every day that he or she sits or votes in the House of Representatives until the return is filed.
 (2) A candidate who files a return under section 205K that is false in any material particular is guilty of—
@@ -3402,7 +3402,7 @@ If a candidate considers that there is no relevant information to disclose under
 
 ### 205O Obligation to retain records necessary to verify return of candidate's election expenses
 (1) A candidate must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable a return under section 205K to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
-(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 205P Duty of Electoral Commission
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
@@ -3456,9 +3456,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,082,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $25,400 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,400 for each electoral district contested by a candidate for the party.
+  (a) $1,091,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,700 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -3565,7 +3565,7 @@ A person is eligible to be appointed as an auditor under section 206J unless tha
 If a party secretary considers that there is no relevant information to disclose under section 206I, the party secretary must file a nil return under that section.
 
 ### 206N Offences relating to return of party's election expenses
-(1) A party secretary who fails, without reasonable excuse, to comply with section 206I is liable on summary conviction to a fine not exceeding $40,000.
+(1) A party secretary who fails, without reasonable excuse, to comply with section 206I is liable on conviction to a fine not exceeding $40,000.
 (2) A party secretary who files a return under section 206I that is false in any material particular is guilty of—
   (a) a corrupt practice if he or she filed the return knowing it to be false in any material particular; or
   (b) an illegal practice in any other case unless the party secretary proves that—
@@ -3575,7 +3575,7 @@ If a party secretary considers that there is no relevant information to disclose
 
 ### 206O Obligation to retain records necessary to verify return of party's election expenses
 (1) A party secretary must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable a return under section 206I to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
-(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 206P Duty of Electoral Commission
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
@@ -3616,7 +3616,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $305,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $308,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
@@ -3680,7 +3680,7 @@ Every person is guilty of—
   (b) may require the registered promoter to provide any information and explanation that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
 
 ### 206ZE Offences relating to return of registered promoter's election expenses
-(1) A registered promoter who fails, without reasonable excuse, to comply with section 206ZC is liable on summary conviction to a fine not exceeding $40,000.
+(1) A registered promoter who fails, without reasonable excuse, to comply with section 206ZC is liable on conviction to a fine not exceeding $40,000.
 (2) A registered promoter who files a return under section 206ZC that is false in any material particular is guilty of—
   (a) a corrupt practice if the registered promoter filed the return knowing it to be false in any material particular:
   (b) an illegal practice in any other case unless the registered promoter proves that—
@@ -3691,7 +3691,7 @@ Every person is guilty of—
 
 ### 206ZF Obligation to retain records necessary to verify return of registered promoter's election expenses
 (1) A registered promoter must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable a return filed under section 206ZC to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
-(2) A registered promoter who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A registered promoter who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 206ZG Duty of Electoral Commission
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
@@ -3777,7 +3777,7 @@ All references to an amount or value of a donation or contribution are inclusive
 (6) For the purposes of sections 209 and 210, any amount given back by a candidate under subsection (4), or by a party secretary under subsection (5), is taken not to have been received by the candidate or the party secretary, as the case may be.
 
 ### 207D Offence relating to contravention of section 207C
-A donor who fails to comply with section 207C with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+A donor who fails to comply with section 207C with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207E Identity of donor to be disclosed by transmitter, if known
 (1) When a transmitter transmits a donation to a candidate or party secretary on behalf of the donor, the transmitter must disclose to the candidate or party secretary—
@@ -3787,14 +3787,14 @@ A donor who fails to comply with section 207C with the intention of concealing t
 (2) Where a transmitter does not disclose, or is unable to disclose, the information required by subsection (1)(b), then the donation must be treated as an anonymous donation.
 
 ### 207F Offence relating to contravention of section 207E
-A transmitter who fails to comply with section 207E with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+A transmitter who fails to comply with section 207E with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207G Disclosure of identity of donor
 (1) If any person involved in the administration of the affairs of a candidate in relation to his or her election campaign knows the identity of the donor of an anonymous candidate donation exceeding $1,500, the person must disclose the identity of the donor to the candidate.
 (2) If a candidate, list candidate, or any person involved in the administration of the affairs of a party knows the identity of the donor of an anonymous party donation exceeding $1,500, the candidate, list candidate, or person must disclose the identity of the donor to the party secretary.
 
 ### 207H Offence relating to contravention of section 207G
-A person who fails to comply with section 207G with the intention of concealing the identity of the donor commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+A person who fails to comply with section 207G with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207I Anonymous donation may not exceed $1,500
 (1) If an anonymous candidate donation exceeding $1,500 is received by a candidate, the candidate must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,500.
@@ -3837,11 +3837,11 @@ A person who fails to comply with section 207G with the intention of concealing 
 
 ### 207M Records of candidate donations
 (1) A candidate must keep proper records of all candidate donations received by him or her.
-(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207N Records of party donations
 (1) A party secretary must keep proper records of all party donations received by him or her.
-(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207O Duty of Electoral Commission in relation to donations
 (1) If the Electoral Commission believes that any person has committed an offence against this subpart or subparts 4 to 6 of this Part, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
@@ -3967,7 +3967,7 @@ The Electoral Commission—
 If a candidate considers that there is no relevant information to disclose under section 209, the candidate must file a nil return under that section.
 
 ### 209B Offences relating to return of candidate donations
-(1) A candidate who fails, without reasonable excuse, to comply with section 209 is liable on summary conviction to—
+(1) A candidate who fails, without reasonable excuse, to comply with section 209 is liable on conviction to—
   (a) a fine not exceeding $40,000; and
   (b) if he or she has been elected, a further fine not exceeding $400 for every day that he or she sits or votes in the House of Representatives until the return is filed.
 (2) A candidate who files a return under section 209 that is false in any material particular is guilty of—
@@ -3978,7 +3978,7 @@ If a candidate considers that there is no relevant information to disclose under
 
 ### 209C Obligation to retain records necessary to verify return of candidate donations
 (1) A candidate must take all reasonable steps to ensure that all records, documents, and accounts that are necessary to enable a return under section 209 to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
-(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 209D Return of candidate donations to be sent by Chief Electoral Officer to Electoral Commission
 [Repealed]
@@ -4076,7 +4076,7 @@ If a party secretary considers that there is no relevant information to disclose
 (6) A return must be filed under subsection (1) or (2) within 10 working days of the donation being received by the party secretary.
 
 ### 210D Offences relating to return of party donations
-(1) A party secretary commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who fails, without reasonable excuse, to comply with—
+(1) A party secretary commits an offence and is liable on conviction to a fine not exceeding $40,000 who fails, without reasonable excuse, to comply with—
   (a) section 210:
   (b) section 210C.
 (2) A party secretary who files a return under section 210 or 210C that is false in any material particular is guilty of—
@@ -4087,7 +4087,7 @@ If a party secretary considers that there is no relevant information to disclose
 
 ### 210E Obligation to retain records necessary to verify return of party donations
 (1) A party secretary must take all reasonable steps to ensure that all records, documents, and accounts that are necessary to enable returns under sections 210 and 210C to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the returns or in relation to any matter to which the returns relate.
-(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 210F Return of party donations to be publicly available
 (1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, the following returns and reports:
@@ -4254,12 +4254,12 @@ Every person is guilty of an illegal practice who induces or procures to vote at
 (2) For the purposes of this section, the expression cinematograph film or film includes any screen advertisement of any description.
 
 ### 224 Punishment for corrupt or illegal practice
-(1) Every person who is guilty of any corrupt practice is liable on conviction on indictment to either or both of the following:
+(1) Every person who is guilty of any corrupt practice is liable on conviction to either or both of the following:
   (a) a term of imprisonment not exceeding 2 years:
   (b) a fine not exceeding—
     (i) $100,000 in the case of a person who is a constituency candidate, party secretary, or registered promoter and who is convicted of any corrupt practice under Part 6A; or
     (ii) $40,000 in any other case.
-(2) Every person who is guilty of any illegal practice is liable on conviction on indictment to a fine not exceeding—
+(2) Every person who is guilty of any illegal practice is liable on conviction to a fine not exceeding—
   (a) $40,000 in the case of a person who is a constituency candidate, party secretary, or registered promoter and who is convicted of any illegal practice under Part 6AA or 6A; or
   (b) $40,000 in the case of a person who is an unregistered promoter and who is convicted of any illegal practice under section 204B or 204D; or
   (c) $10,000 in any other case.
@@ -4271,15 +4271,15 @@ Every person is guilty of an illegal practice who induces or procures to vote at
 Any person charged with a corrupt practice may, if the circumstances warrant that finding, be found guilty of an illegal practice; and any person charged with an illegal practice may be found guilty of that offence notwithstanding that the act constituting the offence amounted to a corrupt practice.
 
 ### 226 Time limit for prosecutions
-(1) A prosecution under any of the following provisions must be commenced within 6 months of the date on which the return was required to be filed:
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a prosecution under any of the following provisions must be commenced within 6 months of the date on which the return was required to be filed:
   (a) section 205N(1):
   (b) section 206N(1):
   (c) section 209B(1):
   (d) section 210D(1)(a).
-(1A) A prosecution under section 210D(1)(b) or 206ZE(1) must be commenced—
+(1A) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a prosecution under section 210D(1)(b) or 206ZE(1) must be commenced—
   (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
   (b) not later than 3 years after the offence was committed.
-(2) A prosecution against any person for a corrupt practice or an illegal practice must be commenced—
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a prosecution against any person for a corrupt practice or an illegal practice must be commenced—
   (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
   (b) not later than 3 years after the corrupt practice or illegal practice was committed.
 
@@ -4287,7 +4287,7 @@ Any person charged with a corrupt practice may, if the circumstances warrant tha
 [Repealed]
 
 ### 227 Punishment for disqualified person voting
-If any person, while his or her name is on the Corrupt Practices List for any district, votes or applies for a ballot paper or applies to vote as a special voter at any election in that or any other district, he or she shall, notwithstanding that his or her name may be on the main roll or any supplementary roll, be liable on summary conviction to a fine not exceeding $4,000, and his or her vote shall be void.
+If any person, while his or her name is on the Corrupt Practices List for any district, votes or applies for a ballot paper or applies to vote as a special voter at any election in that or any other district, he or she shall, notwithstanding that his or her name may be on the main roll or any supplementary roll, be liable on conviction to a fine not exceeding $4,000, and his or her vote shall be void.
 
 ### 228 Reversal of disqualification procured through perjury
 Where the name of any person is entered on the Corrupt Practices List for any district by reason of any conviction or any report by the High Court, and any witness who gave evidence against that person in the proceedings resulting in that conviction or report is convicted of perjury in respect of that evidence, that person may apply to the High Court, and that court, if satisfied that the conviction or report so far as it relates to that person was based on perjury, may order that the name of that person be removed from the Corrupt Practices List.
