@@ -1,5 +1,5 @@
 # Fencing of Swimming Pools Act 1987
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to promote the safety of young children by requiring the fencing of certain swimming pools
 
@@ -56,7 +56,7 @@ Nothing in this Act shall apply in respect of—
 (4) The fact that a person complies with any obligation imposed by this section shall not excuse that person from any other duty imposed by law.
 
 ### 9 Offence
-(1) Every person who, without reasonable cause, fails to comply with any obligation imposed by section 7 or section 8 commits an offence and is liable on summary conviction to a fine not exceeding $500 and, where the failure is a continuing one, to a further fine not exceeding $50 for every day on which the failure has continued.
+(1) Every person who, without reasonable cause, fails to comply with any obligation imposed by section 7 or section 8 commits an offence and is liable on conviction to a fine not exceeding $500 and, where the failure is a continuing one, to a further fine not exceeding $50 for every day on which the failure has continued.
 (2) Where the owner or person entitled to possession or control of a pool to which this Act applies is not entitled to possession of the property on which the pool is situated or the immediate pool area (whether because of any tenancy agreement, agreement to occupy a hotel room, motel, or camping ground, or otherwise) it shall be a defence to any proceedings for any offence described in subsection (1) in relation to section 8 if the court is satisfied that the owner took all reasonable steps—
   (a) to ensure that the obligation was complied with; and
   (b) to ensure that the persons in possession of the property or entitled or likely to be in the immediate pool area are made aware of the existence of the pool.
