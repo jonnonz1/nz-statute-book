@@ -1,5 +1,5 @@
 # Mining Tenures Registration Act 1962
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the registration under the Land Transfer Act 1952 of residence site and business site licences, certain special site licences, and leases of land in mining districts, and for matters incidental thereto
 
@@ -53,7 +53,7 @@ _Consolidation as at 2009-07-01_
   (a) in the case of a licence of unalienated Crown land (not being Maori ceded land), be served by the Mining Registrar on the Commissioner of Crown Lands, on the person in occupation of the land or of any part thereof, and also on such other persons and in such manner as the Warden directs:
   (b) in the case of a licence of other land, be served by the Mining Registrar on the person in occupation of the land or of any part thereof and also on such other persons and in such manner as the Warden directs.
 (6) Without limiting the powers of the Warden to make any order under subsection (2), the Warden may under that subsection grant a new licence to any person occupying the whole or part of the land comprised in an existing licence, if he is satisfied that—
-  (a) the occupier would, if the land were freehold land subject to the Land Transfer Act 1952, be entitled if application were made under the Trustee Act 1957 to an order vesting in him the whole or part of the land; or
+  (a) the occupier would, if the land were freehold land subject to the Land Transfer Act 1952, be entitled if application were made under the Trustee Act 1956 to an order vesting in him the whole or part of the land; or
   (b) the occupier had been in possession of the land comprised in the licence, or part of that land, as the case may be, for a period of not less than 12 years and that his possession had been adverse to the title of the registered licensee; or
   (c) it is just and equitable on any ground whatsoever that a licence be granted to the occupier of the whole or part of the land.
 (7) On any application to the Warden under subsection (1), the Warden may receive as evidence any statement, document, information, or matter that may in his opinion assist him to deal effectually with the application, whether or not the same would be otherwise admissible in a court of law.
@@ -80,7 +80,7 @@ _Consolidation as at 2009-07-01_
 (3) The Mining Registrar may require any person of any of the classes hereinafter mentioned to give any information, explanation, or evidence, in writing upon oath or otherwise, concerning the licence or instrument, or to attend at the time specified in the notice at the office of the Mining Registrar nearest to the place where that person resides, and give to the Mining Registrar that information, explanation, or evidence orally upon oath or otherwise. The classes of persons referred to in this subsection are the following:
   (a) any person appearing from the register kept in the office of the Mining Registrar to be the owner of, or of any estate or interest in, the licence or claiming to be the owner of the licence or of any estate or interest therein:
   (b) any person being the solicitor or agent of, and acting on behalf of, any of the aforesaid persons.
-(4) If upon a requisition in writing made by the Mining Registrar for any purpose mentioned in the foregoing provisions of this section any person without reasonable cause refuses or neglects to comply with the requisition, he commits an offence, and is liable on summary conviction to a fine not exceeding 5 pounds for every day during which the refusal or neglect has continued.
+(4) If upon a requisition in writing made by the Mining Registrar for any purpose mentioned in the foregoing provisions of this section any person without reasonable cause refuses or neglects to comply with the requisition, he commits an offence, and is liable on conviction to a fine not exceeding $10 for every day during which the refusal or neglect has continued.
 
 ### 7 Provisions as to lost or destroyed licences
 (1) Where on making an inquiry under section 3 with respect to any licence the Mining Registrar is satisfied that—the Mining Registrar shall serve notice on the person appearing to him to be the licensee requiring him within 3 months after service on him of the notice to apply to the Warden for the grant of a licence of the land comprised in the original licence, and advising him that if he fails to do so the licence will be cancelled at the expiration of that period.
@@ -168,7 +168,7 @@ Any licensee who transfers to any other person any licence that has been brought
     (i) such costs, charges, expenses, and other payments as the Director-General of Lands considers reasonable to include in the purchase price; and
     (ii) the value or purchase price, or an appropriate proportion thereof, of any land granted by the Crown by way of exchange or part exchange for the land acquired by the Crown and being purchased by the licensee:
   (b) if the licensee gives such notice on or after the expiry of that period of 5 years, the purchase price shall be the market value of the land, exclusive of improvements, on the date of such notice.
-(2B) The provisions of section 122 of the Land Act 1948, so far as they are applicable and with the necessary modifications, shall apply in respect of the fixing of the purchase price under subsection (2A)(b).
+(2B) The provisions of section 122 of the Land Act 1948, so far as they are applicable and with the necessary modifications, shall apply in respect of the fixing of the purchase price under subsection (2A)﻿(b).
 (3) In fixing the purchase price of any land in any case where no rent, licence fees, or other money are payable annually under the licence, the Director-General of Lands shall—
   (a) in the case of land used principally for residential, farming, agricultural, or horticultural purposes, fix a price not exceeding the price that would be payable if the land were held under a residence site licence granted when the first-mentioned licence was granted:
   (b) in the case of land used principally for any other purposes, fix a price not exceeding the price that would be payable if the land were held under a business site licence granted when the first-mentioned licence was granted.
@@ -266,7 +266,7 @@ The Governor-General may from time to time, by Order in Council, make all such r
 
 | Number of section | Subject matter |
 | --- | --- |
-| 15 | Director-General of Lands may delegate its powers |
+| 15 | Director-General of Lands may delegate his or her powers |
 | 18 | Appeals to High Court against decisions of Director-General of Lands |
 | 19 | Questions of law may be submitted to Judge |
 | 20 | Procedure on appeals and on questions submitted to High Court |
