@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -306,7 +306,7 @@ Nothing in this Act shall derogate from the provisions of—
 (2) Every person commits an offence against this Act who—
   (a) except under the authority of any enactment, places or leaves any structure or trap or chemical or other substance in any place where a marine mammal is or is likely to be and which injures or harms, or is likely to injure or harm, any marine mammal:
   (b) uses any vehicle, vessel, aircraft, or hovercraft to herd or harass any marine mammal.
-(3) Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on summary conviction before a District Court Judge, to a fine not exceeding—
+(3) Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction before a District Court Judge, to a fine not exceeding—
   (a) in the case of an offence against section 17 or subsection (2) of this section, $30,000; and
   (b) in any other case, $10,000.
 
@@ -314,7 +314,7 @@ Nothing in this Act shall derogate from the provisions of—
 Where any person is charged with an offence under this Act arising out of his taking or doing, without a permit or authority, any action for the taking or doing of which a permit or authority is required, the onus shall be on that person to prove that at the relevant time he held the required permit or authority.
 
 ### 25 Proceedings in respect of offences
-Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
 
 ### 26 Defences in respect of certain offences
 (1) Where any person (not being a New Zealand citizen) is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters or, not being an offence concerning the importing of any marine mammal or marine mammal product, relates only to marine mammals taken beyond those outer limits.
@@ -366,39 +366,3 @@ Where any person causes an officer to incur any expense that he would not otherw
   (b) the Order in Council dated 18 August 1913, and published in the Gazette on 21 August 1913 at pages 2633 and 2634, whereby a date was declared for the sections mentioned in paragraph (a) of this subsection to come into operation in New Zealand.
 
 ## Schedule Schedule — Enactments amended
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
