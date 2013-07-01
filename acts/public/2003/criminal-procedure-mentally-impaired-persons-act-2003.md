@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -18,7 +18,6 @@ The purpose of this Act is to restate the law formerly set out in Part 7 of the 
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **acquittal on account of insanity** includes a dismissal of an information by a District Court on account of the insanity of the person charged
   - **care recipient** has the same meaning as that given to the expression care recipient no longer subject to the criminal justice system in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **compulsory care order** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **compulsory treatment order** means a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992
@@ -64,45 +63,42 @@ This Act binds the Crown.
 
 ### 8 Postponement of finding
 (1) A court may, if it thinks it is in the interests of the defendant to do so, postpone the determination of the question whether a defendant is unfit to stand trial.
-(2) However, at a hearing or trial, a court may not postpone the determination of that question beyond the stage at which all the evidence is concluded.
+(2) However, at a trial, a court may not postpone the determination of that question beyond the stage at which all the evidence is concluded.
 (3) When a court postpones the determination of the question whether a defendant is unfit to stand trial, the court may not determine the question if—
   (a) the defendant is acquitted; or
-  (b) the information against the defendant is dismissed.
+  (b) the charge is dismissed.
 
 ### 9 Court must be satisfied of defendant's involvement in offence
 A court may not make a finding as to whether a defendant is unfit to stand trial unless the court is satisfied, on the balance of probabilities, that the evidence against the defendant is sufficient to establish that the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged.
 
-### 10 Inquiry at summary hearing into defendant's involvement
-(1) This section applies if a defendant is proceeded against summarily.
-(2) If the question whether the defendant is unfit to stand trial is to be determined before the hearing of the information, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in section 9.
-(3) The provisions of Part 5 of the Summary Proceedings Act 1957 that relate to the conduct of a committal hearing, so far as they are applicable and with any modifications, apply to every hearing held under subsection (2).
-(4) If the question whether the defendant is unfit to stand trial is to be determined in the course of the hearing, the court must ascertain whether it is satisfied of the matter specified in section 9.
-(5) For the purpose of subsection (4), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
-  (a) consider any evidence presented at the hearing:
+### 10 Inquiry before trial into defendant's involvement in the offence
+(1) This section applies if the question whether the defendant is unfit to stand trial arises before the trial.
+(2) The court must ascertain whether the court is satisfied of the matter specified in section 9.
+(3) For the purposes of subsection (2), the court may consider—
+  (a) any formal statements that have been filed under section 85 of the Criminal Procedure Act 2011:
+  (b) any oral evidence that has been taken in accordance with an order made under section 92 of the Criminal Procedure Act 2011:
+  (c) any other evidence that is submitted by the prosecutor or defendant.
+
+### 11 Inquiry during Judge-alone trial into defendant's involvement
+(1) This section applies if the question whether the defendant is unfit to stand trial is to be determined during a Judge-alone trial.
+(2) The court must ascertain whether it is satisfied of the matter specified in section 9.
+(3) For the purposes of subsection (2), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
+  (a) consider any evidence presented at the trial:
   (b) hear any new evidence.
 
-### 11 Inquiry into defendant's involvement if committal proceedings required
-(1) This section applies if committal hearings under Part 5 of the Summary Proceedings Act 1957 are required.
-(2) If the question whether the defendant is unfit to stand trial is to be determined before or without a committal hearing, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in section 9.
-(3) The provisions of Part 5 of the Summary Proceedings Act 1957 that relate to committal hearings, so far as they are applicable and with any necessary modifications, apply to every hearing held under subsection (2).
-(4) A hearing held under subsection (2) takes the place of a committal hearing under Part 5 of the Summary Proceedings Act 1957.
-(5) If the question whether the defendant is unfit to stand trial is to be determined in the course of a committal hearing, the court must ascertain whether it is satisfied of the matter specified in section 9.
-(6) For the purpose of subsection (5), the court may (whether on the application of the party or on the court's own initiative) do either or both of the following:
-  (a) consider any evidence presented at the committal hearing:
-  (b) hear any new evidence.
-(7) A District Court Judge must preside over a court that conducts a special hearing under subsection (2) or determines whether the defendant is unfit to stand trial in the course of a committal hearing.
-
-### 12 Inquiry at trial into defendant's involvement
-(1) If the question whether the defendant is unfit to stand trial is to be determined in the course of a trial, the court must ascertain whether it is satisfied of the matter specified in section 9.
-(2) For the purpose of subsection (1), the court may (whether on the application of a party or on the court's own initiative) do 1 or more of the following:
-  (a) consider any evidence presented for the purposes of the standard committal or at the committal hearing or at the trial:
-  (b) rehear any of the evidence presented for the purposes of the standard committal or of the committal hearing:
-  (c) hear any new evidence at any stage before the commencement of the closing addresses.
+### 12 Inquiry during jury trial into defendant's involvement
+(1) This section applies if the question whether the defendant is unfit to stand trial is to be determined during a jury trial.
+(2) The court must ascertain whether it is satisfied of the matter specified in section 9.
+(3) For the purposes of subsection (2), the court may do 1 or more of the following:
+  (a) consider any formal statements that have been filed under section 85 of the Criminal Procedure Act 2011:
+  (b) consider any oral evidence that has been taken in accordance with an order made under section 92 of the Criminal Procedure Act 2011:
+  (c) consider any evidence presented at the trial:
+  (d) hear any new evidence at any stage before the commencement of the closing addresses.
 
 ### 13 Outcome of consideration of defendant's involvement
 (1) When the court has ascertained, in accordance with any of sections 10 to 12, whether the court is satisfied of the matter specified in section 9, the court must record its finding on the matter.
-(2) If the court is not satisfied of the matter specified in section 9, the court must discharge the defendant.
-(3) A discharge under subsection (2) does not amount to an acquittal.
+(2) If the court is not satisfied of the matter specified in section 9, the court must dismiss the charge against the defendant under section 147 of the Criminal Procedure Act 2011.
+(3)
 (4) If the court is satisfied of the matter specified in section 9, the court must proceed to determine the matters specified in section 14.
 
 ### 14 Determining if defendant unfit to stand trial
@@ -112,7 +108,7 @@ A court may not make a finding as to whether a defendant is unfit to stand trial
   (b) find whether or not the defendant is unfit to stand trial; and
   (c) record the finding made under paragraph (b).
 (3) The standard of proof required for a finding under subsection (2) is the balance of probabilities.
-(4) If the court records a finding under subsection (2) that the defendant is fit to stand trial, the court must commence or continue the hearing or trial, or commit the defendant for trial, as the case may require.
+(4) If the court records a finding under subsection (2) that the defendant is fit to stand trial, the court must continue the proceedings.
 
 ### 15 Jurisdiction may be exercised in absence of defendant
 The jurisdiction under any of sections 10 to 14 may be exercised in the absence of the defendant if the court is satisfied that the defendant is too mentally impaired to come to court.
@@ -123,12 +119,12 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
   (b) that the defendant is unfit to stand trial or, as the case may be, fit to stand trial.
 (2) For the purposes of an appeal under this section,—
   (a) the finding appealed against is to be regarded as a conviction; and
-  (b) the provisions of the Crimes Act 1961 or the Summary Proceedings Act 1957 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
+  (b) the provisions of Part 6 of the Criminal Procedure Act 2011 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
 
 ### 17 Matters for appellate court on appeal under section 16
-(1) If, on an appeal under section 16, the court is satisfied that the evidence against the defendant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the court must quash the finding appealed against and direct that the appellant be discharged.
-(2) A discharge under subsection (1) does not amount to an acquittal.
-(3) In the case of an appeal against a finding relating to the appellant's fitness to stand trial, the court must (except where the appellant has been discharged under subsection (1)) consider the evidence of 2 health assessors, and confirm or quash the finding relating to the appellant's mental impairment.
+(1) If, on an appeal under section 16, the court is satisfied that the evidence against the defendant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the court must quash the finding appealed against and dismiss the charge against the appellant.
+(2)
+(3) In the case of an appeal against a finding relating to the appellant's fitness to stand trial, the court must (except where the charge against the appellant has been dismissed under subsection (1)) consider the evidence of 2 health assessors, and confirm or quash the finding relating to the appellant's mental impairment.
 (4) If the court is satisfied that the appellant is mentally impaired, the court must—
   (a) give the appellant and the respondent an opportunity to be heard and to present evidence as to whether the appellant is unfit to stand trial; and
   (b) confirm or quash the finding relating to the appellant's fitness to stand trial.
@@ -144,13 +140,13 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
   (a) that the evidence against the defendant is not sufficient to establish that the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged:
   (b) that the defendant is mentally impaired:
   (c) that the defendant is unfit to stand trial.
-(2) The provisions of the Crimes Act 1961 and the Summary Proceedings Act 1957 relating to appeals, so far as they are applicable and with any necessary modifications, apply to an appeal under subsection (1).
+(2) The provisions of Part 6 of the Criminal Procedure Act 2011 relating to appeals, so far as they are applicable and with any necessary modifications, apply to an appeal under subsection (1).
 
 ### Subpart 2 — Acquittals on account of insanity
 
 ### 20 Finding of insanity
-(1) If, at a hearing or trial, the defendant gives evidence as to his or her insanity and the jury or (if there is no jury) the Judge finds the defendant not guilty on account of his or her insanity, the Judge must record that finding.
-(2) Before or at a hearing or trial, the Judge must record a finding that the defendant is not guilty on account of his or her insanity if—
+(1) If, at a trial, the defendant gives evidence as to his or her insanity and the jury or (if there is no jury) the Judge finds the defendant not guilty on account of his or her insanity, the Judge must record that finding.
+(2) Before or at a trial, the Judge must record a finding that the defendant is not guilty on account of his or her insanity if—
   (a) the defendant indicates that he or she intends to raise the defence of insanity; and
   (b) the prosecution agrees that the only reasonable verdict is not guilty on account of insanity; and
   (c) the Judge is satisfied, on the basis of expert evidence, that the defendant was insane within the meaning of section 23 of the Crimes Act 1961 at the time of the commission of the offence.
@@ -160,15 +156,15 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
 ### 21 Appeal against acquittal on account of insanity
 (1) A defendant who is acquitted on account of his or her insanity may appeal against the verdict or decision, and, for the purposes of such an appeal,—
   (a) the verdict or decision is to be regarded as a conviction; and
-  (b) the provisions of the Crimes Act 1961 or the Summary Proceedings Act 1957 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
+  (b) the provisions of Part 6 of the Criminal Procedure Act 2011 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
 (2) On such an appeal, the court may—
-  (a) allow the appeal, and direct that a verdict of acquittal or a decision to dismiss the information be substituted for the verdict or decision given at the trial or hearing:
+  (a) allow the appeal, and direct that a verdict of acquittal or a decision to dismiss the charge be substituted for the verdict or decision given at the trial:
   (b) dismiss the appeal:
-  (c) exercise a power, whether to direct a new trial or a rehearing or otherwise, that it could have exercised if the appeal were an appeal against conviction.
+  (c) exercise a power, whether to direct a new trial or otherwise, that it could have exercised if the appeal were an appeal against conviction.
 (3) If the court thinks that (except for the appellant's insanity) the proper verdict or decision would have been that the appellant was guilty of an offence other than the offence charged, the court—
   (a) may not allow the appeal merely because the appellant ought to have been acquitted of the offence charged; and
   (b) may direct that the other offence be substituted for the offence charged.
-(4) If, on such an appeal, the appellate court is satisfied that the finding of insanity ought not to stand, and is satisfied that, in the absence of such a finding, the proper verdict or decision would have been that the appellant was guilty of an offence (whether of the offence charged or any other offence of which the appellant could have been found guilty at the trial or hearing), the appellate court—
+(4) If, on such an appeal, the appellate court is satisfied that the finding of insanity ought not to stand, and is satisfied that, in the absence of such a finding, the proper verdict or decision would have been that the appellant was guilty of an offence (whether of the offence charged or any other offence of which the appellant could have been found guilty at the trial), the appellate court—
   (a) must substitute for the verdict or decision given a verdict of guilty of the offence or a conviction for the offence; and
   (b) may exercise a power in relation to the appellant (such as sentencing the appellant) that is available to the court where the verdict or decision appealed against was given.
 (5) Unless the appellate court otherwise directs, the term of any sentence of imprisonment passed by it under subsection (4) begins to run as if passed on the date on which the verdict or decision appealed against was given.
@@ -176,7 +172,7 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
 ### 22 Release on bail or detention of appellant pending appeal
 (1) An appellant under section 21 in respect of whom an order of detention has been made under any of sections 23, 24, and 25 may be granted bail in the same manner as if he or she had been convicted and sentenced to a term of imprisonment.
 (2) If the appellant is not released on bail, the appellant must be detained in accordance with the order of detention while his or her appeal is pending.
-(3) The court hearing the appeal, or the Judge who presided at the trial or, as the case may be, the District Court Judge who presided over the court whose decision is appealed against, may make any other order that may be thought fit for the custody of the appellant if the appellant is not released on bail while his or her appeal is pending.
+(3) The court hearing the appeal, or the Judge who presided at the trial, may make any other order that may be thought fit for the custody of the appellant if the appellant is not released on bail while his or her appeal is pending.
 
 ### Subpart 3 — Detention, treatment, and care of persons found unfit to stand trial or acquitted on account of insanity
 
@@ -231,7 +227,7 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
 
 ### 29 Appeals against orders under section 24 or section 25 or section 27
 (1) If the court makes an order or a decision under section 24 or section 25 or section 27, the defendant and the prosecution have the same right of appeal against the order or decision as the defendant or, as the case requires, the prosecution would have if the order or decision were a sentence.
-(2) The provisions of the Crimes Act 1961 or the Summary Proceedings Act 1957 relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
+(2) The provisions of Part 6 of the Criminal Procedure Act 2011 relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
 (3) On such an appeal, the court may—
   (a) dismiss the appeal:
   (b) vary the order appealed against:
@@ -343,7 +339,7 @@ An order under section 34(1)(b)(ii) is to be regarded as a compulsory care order
 (4) If the court makes an order under subsection (2)(c) for a person's detention and assessment in a hospital or secure facility, it must record the reasons why it would have been inappropriate to order the detention of the person in a prison for that assessment.
 (5) Subsection (1)—
   (a) has effect despite other enactments; but
-  (b) is subject, in the case of a defendant who is under 20 years, to section 142 of the Criminal Justice Act 1985 and to section 15 of the Bail Act 2000.
+  (b) is subject, in the case of a defendant who is under 20 years, to sections 171 to 175 of the Criminal Procedure Act 2011 and to section 15 of the Bail Act 2000.
 
 ### 39 Directions as to assessments
 (1) On making an order under section 38(1) that a health assessor prepare an assessment report or at any time while a matter for which the report is required remains to be determined, the court may direct that another health assessor provide a second opinion on the person to whom the report relates (the subject).
@@ -366,7 +362,7 @@ An order under section 34(1)(b)(ii) is to be regarded as a compulsory care order
 (1) Even though a person has not yet been detained in a hospital or secure facility for the full period specified in an order under section 38(2)(c), the person may be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or Police custody for 1 or more of the purposes specified in subsection (3).
 (2) If the assessment report on a person is sent to the court before the expiry of the period for which a person has been ordered to be detained in a hospital or secure facility under section 38(2)(c), the person must be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or Police custody for 1 or more of the purposes specified in subsection (3).
 (3) The purposes for transferring a person to court or penal or Police custody, referred to in subsection (1) or subsection (2), are—
-  (a) the hearing or trial of a charge against the person:
+  (a) any hearing or the trial in respect of a charge against the person:
   (b) the sentencing of the person:
   (c) an appeal against the conviction of the person or against a sentence or order imposed on the person.
 (4) The transfer of a person under subsection (1) or subsection (2) to court or penal or Police custody is sufficient authority for the detention of the person in that custody until the expiry of the period for which the person has been ordered to be detained in a hospital or secure facility under section 38(2)(c).
@@ -452,3 +448,12 @@ Amendment(s) incorporated in the Act(s).
 The Acts specified in the Schedule are amended in the manner indicated in that schedule.
 
 ## Schedule Schedule — Consequential amendments to other enactments
+
+### 1 Title
+This Act is the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on the day that is 2 years after the date on which this Act receives the Royal assent unless it is brought into force on an earlier date appointed by the Governor-General by Order in Council.
+
+### 5 Application of amendments made by section 4
+The amendments made by section 4 apply in relation to a proceeding for an offence that was commenced before section 4 came into force in accordance with the provisions of sections 397 and 399 to 401 of the Criminal Procedure Act 2011.
