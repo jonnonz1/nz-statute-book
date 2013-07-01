@@ -1,5 +1,5 @@
 # Insurance Law Reform Act 1977
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to effect certain reforms in the law governing contracts of insurance
 
@@ -58,9 +58,9 @@ This Act shall bind the Crown.
 (1) A provision of a contract of insurance prescribing any manner in which or any limit of time within which notice of any claim by the insured under such contract must be given or prescribing any limit of time within which any suit or action by the insured must be brought shall—
   (a) if that contract of insurance is embodied in a life policy and the claim, suit, or action relates to the death of the insured, not bind the insured; and
   (b) in any other case, bind the insured only if in the opinion of the arbitrator or court determining the claim the insurer has in the particular circumstances been so prejudiced by the failure of the insured to comply with such provision that it would be inequitable if such provision were not to bind the insured.
-(2) Where—that greater cost shall not constitute prejudice to the insurer for the purposes of subsection (1)(b), but the insurer shall not be obliged to apply or pay in repairing, replacing, or reinstating the property a greater sum than that for which he would have been liable if the notice of claim had been given in the manner or within the time so prescribed.
-  (a) the insured under any contract of insurance to which subsection (1)(b) applies fails to give notice of any claim in any manner or within any limit of time prescribed by the contract; and
-  (b) the cost of repairing, replacing, or reinstating any property when it falls to be met is greater than that which would have applied if the notice had been given in the manner or within the time so prescribed,—
+(2) Where—that greater cost shall not constitute prejudice to the insurer for the purposes of subsection (1)﻿(b), but the insurer shall not be obliged to apply or pay in repairing, replacing, or reinstating the property a greater sum than that for which he would have been liable if the notice of claim had been given in the manner or within the time so prescribed.
+  (a) the insured under any contract of insurance to which subsection (1)﻿(b) applies fails to give notice of any claim in any manner or within any limit of time prescribed by the contract; and
+  (b) the cost of repairing, replacing, or reinstating any property when it fails to be met is greater than that which would have applied if the notice had been given in the manner or within the time so prescribed,—
 
 ### 10 Salesman, etc, to be agents of insurer
 (1) A representative of the insurer who acts for the insurer during the negotiation of any contract of insurance, and so acts within the scope of his actual or apparent authority, shall be deemed, as between the insured and the insurer and at all times during the negotiations until the contract comes into being, to be the agent of the insurer.
@@ -80,8 +80,8 @@ Where—the insured shall not be disentitled to be indemnified by the insurer by
 (1) A form of proposal for insurance that contains or purports to be an application for shares in a company must not be issued by or on behalf of the company.
 (2) If any person makes a proposal for insurance to a company, the company must not allot shares to that person without first receiving an application for shares that is contained in a document separate from the proposal for insurance.
 (3) If a company contravenes this section,—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000:
-  (b) every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000 if it is proved—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $10,000:
+  (b) every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000 if it is proved—
     (i) that the act that constituted the offence under paragraph (a) took place with his or her authority, permission, or consent; or
     (ii) that he or she—
       (A) knew, or could reasonably be expected to have known, that the offence under paragraph (a) was to be or was being committed; and
