@@ -1,5 +1,5 @@
 # Ozone Layer Protection Act 1996
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to help protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer and to implement in New Zealand the Vienna Convention for the Protection of the Ozone Layer and the Montreal Protocol on Substances that Deplete the Ozone Layer
 
@@ -122,7 +122,7 @@ If the regulations authorise the Environmental Protection Authority to impose co
   (a) shall require that the code of practice incorporate appropriate training programmes for persons in the business; and
   (b) shall set out any other matters to be incorporated in the code of practice, and any matters incidental thereto; and
   (c) shall advise the recipient of the offences prescribed by subsection (3) and section 13.
-(3) Any person or representative who fails, within 6 months after the date on which any such notice is sent to the person, to submit for approval a code of practice complying with the notice, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
+(3) Any person or representative who fails, within 6 months after the date on which any such notice is sent to the person, to submit for approval a code of practice complying with the notice, commits an offence, and is liable on conviction to a fine not exceeding $1,000.
 
 **Accreditation**
 
@@ -131,7 +131,7 @@ If the regulations authorise the Environmental Protection Authority to impose co
   (a) the installation, servicing, modifying, or dismantling of any equipment containing or designed to use, or manufactured using, any ozone depleting substance; or
   (b) the direct handling of ozone depleting substances involving a possible risk of release of those substances into the atmosphere,—
 (2) The purpose of accreditation shall be to ensure that persons handling ozone depleting substances are aware of their obligations under this Act and have sufficient knowledge to comply with those obligations.
-(3) Any person who is required to be accredited under this section commits an offence who, without being accredited,—and is liable on summary conviction to a fine not exceeding $10,000.
+(3) Any person who is required to be accredited under this section commits an offence who, without being accredited,—and is liable on conviction to a fine not exceeding $10,000.
   (a) installs, services, modifies, or dismantles any equipment containing or designed to use, or manufactured using, any ozone depleting substance; or
   (b) otherwise directly handles ozone depleting substances in a way that involves a possible risk of release of those substances into the atmosphere,—
 
@@ -141,7 +141,7 @@ If the regulations authorise the Environmental Protection Authority to impose co
   (b) the conditions for accreditation; and
   (c) the system for granting accreditation; and
   (d) such other matters as the notice may specify.
-(2) Any person who fails without reasonable excuse, within 6 months after the date on which any such notice is sent to the person, to submit a draft accreditation scheme, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
+(2) Any person who fails without reasonable excuse, within 6 months after the date on which any such notice is sent to the person, to submit a draft accreditation scheme, commits an offence, and is liable on conviction to a fine not exceeding $1,000.
 
 **Forms**
 
@@ -200,9 +200,9 @@ Without limiting the circumstances in which a person may have a lawful justifica
   (c) the release could not reasonably have been avoided.
 
 ### 15 Penalties
-(1) Every person who commits an offence against paragraph (a) or paragraph (b) or paragraph (c) of section 13 is liable on summary conviction to a fine not exceeding $200,000.
-(2) Every person who commits an offence against paragraph (d) or paragraph (e) of section 13 is liable on summary conviction to a fine not exceeding $100,000.
-(3) Every person who commits an offence against paragraph (f) of section 13 is liable on summary conviction to a fine not exceeding $10,000.
+(1) Every person who commits an offence against paragraph (a) or paragraph (b) or paragraph (c) of section 13 is liable on conviction to a fine not exceeding $200,000.
+(2) Every person who commits an offence against paragraph (d) or paragraph (e) of section 13 is liable on conviction to a fine not exceeding $100,000.
+(3) Every person who commits an offence against paragraph (f) of section 13 is liable on conviction to a fine not exceeding $10,000.
 
 ## Part 3 — Regulations
 
@@ -213,7 +213,7 @@ Without limiting the circumstances in which a person may have a lawful justifica
   (c) giving effect to New Zealand's obligations under the Convention and the Protocol:
   (d) giving effect to the terms of any other international agreement relating to the protection of the ozone layer to which New Zealand is a party:
   (da) prescribing the particulars of permits and exemptions to be shown in the Ozone Layer Protection Register:
-  (e) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this Act, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+  (e) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this Act, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
   (f) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and its due administration.
 (2) A prohibition imposed under this section—
   (a) may be general; or
@@ -258,7 +258,7 @@ The powers conferred by this Part may be exercised to the extent reasonably nece
 (4) Every officer exercising any of the powers conferred under this section shall, at the time of exercising that power, and thereafter on request, produce—
   (a) evidence of that person's appointment as an officer; and
   (b) evidence of that person's identity.
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who refuses or fails to comply with any requirement of an officer under this section.
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who refuses or fails to comply with any requirement of an officer under this section.
 (6) Nothing in this section shall limit or affect the privilege against self-incrimination.
 
 ### 23 Search warrants
@@ -334,39 +334,3 @@ This Act is the Ozone Layer Protection Amendment Act 2011.
 
 ### 19 Transitional provision
 Despite this Act and section 54 of the Environmental Protection Authority Act 2011, an application for a permit or exemption made before the commencement of this section must be determined by the Minister responsible for the administration of the Ozone Layer Protection Act 1996 as if this Act and the Environmental Protection Authority Act 2011 had not been passed.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
