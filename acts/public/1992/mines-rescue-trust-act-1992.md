@@ -1,5 +1,5 @@
 # Mines Rescue Trust Act 1992
-_Consolidation as at 1992-10-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for—athe recognition of a trust board to carry on the functions of the Coal Mining Industries Welfare Council; andbthe dissolution of the Council; andcthe vesting of the Council's assets and liabilities in the trust board; anddmatters incidental thereto
 
@@ -111,7 +111,7 @@ On the appointed day,—
   (c) knowingly omit from any information given under section 8 any material matter; or
   (d) knowingly omit from the answer to any question asked under section 8 any material matter; or
   (e) subject to subsection (4) of section 8, fail without reasonable cause to comply with a requirement under that section.
-(2) Every person who fails to comply with any provision of subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who fails to comply with any provision of subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $2,000.
 (3) Where—
   (a) any person has failed to comply with any provision of subsection (1); and
   (b) the person is an employee or agent of some other person; and
