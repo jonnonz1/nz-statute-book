@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -890,8 +890,8 @@ No lease of mortgaged or encumbered land shall be binding upon the mortgagee exc
   (a) in the case of a company within the meaning of section 2 of the Companies Act 1955, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of section 90 of that Act:
   (b) in the case of a company within the meaning of section 2 of the Companies Act 1993, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of section 95 of that Act.
 (2) Where a company acts in contravention of or fails to comply with subsection (1),—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $5,000:
-  (b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, unless the director shows that—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
+  (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
     (i) the company took all reasonable and proper steps to ensure that the requirements of that subsection would be complied with; or
     (ii) he or she took all reasonable steps to ensure that the company complied with the requirements of that subsection; or
     (iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of that subsection.
@@ -924,8 +924,8 @@ Without limiting the powers conferred on the Registrar by section 167, where app
   (b) record in its share register, against the entry relating to the licence, the fact that the licence has been mortgaged, together with the registered number of the mortgage, or, as the case may be, that the mortgage has been discharged.
 (6) A company that issues a new share certificate to replace a certificate that has been lost or defaced and on which particulars of a mortgage of a licence had been recorded must record those particulars on the new certificate.
 (7) Where a company acts in contravention of or fails to comply with subsection (5) or subsection (6),—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $5,000:
-  (b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, unless the director shows that—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
+  (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
     (i) the director did not know of and could not reasonably have been expected to know of the contravention or failure to comply; or
     (ii) the director took all reasonable steps to ensure that the applicable requirements would be complied with.
 
@@ -962,8 +962,8 @@ Except with the consent of the mortgagee or, in any case to which section 121I a
 (3) On receipt of the licence or notice forwarded in accordance with paragraph (a) or paragraph (b) of subsection (1) and, where necessary, on compliance by the company with subsection (2), the Registrar must, without fee, register the cancellation or revocation or rescission or surrender of the licence.
 (4) No cancellation, revocation, rescission, or surrender to which this section applies has any force or effect until it has been registered under subsection (3).
 (5) Where a company contravenes or fails to comply with subsection (1) or subsection (2),—
-  (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $5,000:
-  (b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, unless the director shows that—
+  (a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
+  (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
     (i) the company took all reasonable and proper steps to ensure that the requirements of the relevant subsection would be complied with; or
     (ii) he or she took all reasonable steps to ensure that the company complied with the requirements of the relevant subsection; or
     (iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of the relevant subsection.
@@ -1248,7 +1248,7 @@ Every paper instrument executed and registered under this Act is presumed to hav
 ### 164 Correctness of instrument to be certified
 (1) No Registrar shall receive any application for bringing land under this Act, or any instrument purporting to deal with or affect any estate or interest under the provisions hereof, unless there is endorsed thereon a certificate that the same is correct for the purposes of this Act, signed by the applicant or party claiming under or in respect of the instrument, or by a practitioner employed by that applicant or party:provided that where any instrument has not been certified as correct under the foregoing provisions of this subsection any other person who is a party to the instrument or claims any interest thereunder or in respect thereof or his legal personal representative may apply to the High Court for authority to certify that the instrument is correct for the purposes of this Act, and the court may order accordingly if it is satisfied that it is just and expedient that the authority be granted; and, upon production of a sealed copy of the order, the Registrar may register the instrument if it is certified as correct for the purposes of this Act by the person so authorised.
 (2) A corporation may authorise any person to certify on its behalf.
-(3) Every person who falsely or negligently certifies to the correctness of any such application or other instrument commits an offence, and is liable on summary conviction before a District Court Judge to a fine not exceeding $100.
+(3) Every person who falsely or negligently certifies to the correctness of any such application or other instrument commits an offence, and is liable on conviction before a District Court Judge to a fine not exceeding $100.
 
 ### 164A Certification
 (1) Every instrument to which this subsection applies must contain a certification that complies with subsection (3).
@@ -1473,7 +1473,7 @@ Except as hereinafter provided, the Registrar shall deal with all such applicati
 
 ### 189 Registrar may require surrender of instruments affecting title
 (1) The Registrar may at any time require every person having possession or control of any instruments constituting or in any manner affecting the title to the land the subject of an application to surrender the same to the Registrar.
-(2) Every person who refuses or neglects to surrender any such instrument within a reasonable time after being duly required to do so commits an offence against this Act, and shall be liable on summary conviction to a fine not exceeding $10 for every day during which the refusal or neglect is continued.
+(2) Every person who refuses or neglects to surrender any such instrument within a reasonable time after being duly required to do so commits an offence against this Act, and shall be liable on conviction to a fine not exceeding $10 for every day during which the refusal or neglect is continued.
 (3) The Registrar shall not deliver any certificate of title under the provisions of this Part to the person entitled to that certificate until all instruments constituting or in any manner affecting the previous title of the applicant, and being in the possession or under the control of the applicant, have been surrendered to the Registrar.
 
 ### 190 Registrar may issue ordinary or limited certificate of title
@@ -1590,7 +1590,7 @@ Every Registrar, in addition to the powers otherwise conferred by this or any ot
   (e) he may administer oaths, or may take a statutory declaration in lieu of administering an oath.
 
 ### 212 Not producing instruments when required by Registrar
-If, upon requisition in writing made by a Registrar for any purpose mentioned in the last preceding section confirming any matter entered or intended to be entered on a computer register, any proprietor or other person without reasonable cause refuses or neglects—he commits an offence and is liable on summary conviction before a District Court Judge to a fine not exceeding $10 for each day during which his refusal or neglect continues; and the offender shall, in addition thereto, be liable to make compensation to any person who has sustained loss or damage by reason of his refusal or neglect.
+If, upon requisition in writing made by a Registrar for any purpose mentioned in the last preceding section confirming any matter entered or intended to be entered on a computer register, any proprietor or other person without reasonable cause refuses or neglects—he commits an offence and is liable on conviction before a District Court Judge to a fine not exceeding $10 for each day during which his refusal or neglect continues; and the offender shall, in addition thereto, be liable to make compensation to any person who has sustained loss or damage by reason of his refusal or neglect.
   (a) to produce, surrender, or deposit any instrument, or to allow the same to be inspected; or
   (b) to give any explanation which he is hereinbefore required to give—
 
@@ -1651,7 +1651,7 @@ Rules may be made in manner provided by the Judicature Amendment Act 1930 for re
 **Offences**
 
 ### 225 Fraudulently procuring certificate of title, etc
-(1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $1,000, who—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $1,000, who—
   (a) fraudulently procures, assists in fraudulently procuring, or is privy to the fraudulent procurement of any certificate of title or other instrument, or of any entry in the register, or of any erasure or alteration in any entry in the register, or in any instrument or form issued by the Registrar-General or any Registrar; or
   (ab) fraudulently procures, assists in fraudulently procuring, or is privy to the fraudulent procurement of—
     (i) the recording, lodgement, presentation, or registration of any information, instrument, matter or thing under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; or
@@ -1662,7 +1662,7 @@ Rules may be made in manner provided by the Judicature Amendment Act 1930 for re
 (2) Any certificate of title, entry, erasure, recording, deletion, or alteration so procured or made by fraud shall be void as between all parties or privies to the fraud.
 
 ### 226 Other offences under Act
-Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 4 years, who—
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 4 years, who—
   (a) forges, or procures to be forged, or assists in forging the seal of any Registrar, or the name, signature, or handwriting of any officer of the Land Registry Office, in cases where that officer is by this Act or the Land Transfer Acts expressly or impliedly authorised to affix his signature; or
   (b) stamps, or procures to be stamped, or assists in stamping any document with any forged seal of any Registrar or fraudulently stamps or procures to be stamped or assists in stamping any document with the seal of any Registrar; or
   (c) forges, or procures to be forged, or assists in forging the name, signature, or handwriting of any person whomsoever to any instrument which is by this Act or the Land Transfer Acts, or in pursuance of any power contained in any such Act, expressly or impliedly authorised to be signed by that person; or
