@@ -720,7 +720,7 @@ Every person to whom section 51 applies commits an offence and is liable on conv
   (a) before, during, or after the voting period:
   (b) directly or indirectly:
   (c) on his or her own or through another person.
-(3) Every person who is the holder of a licence for the retail sale of liquor (within the meaning of the Sale of Liquor Act 1989) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision—
+(3) Every person who is the holder of a licence for the retail sale of alcohol (within the meaning of the Sale and Supply of Alcohol Act 2012) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision—
   (a) to any person when the supply is demanded for the purpose of treating; or
   (b) to any persons, whether electors or not, for the purpose of getting votes for any response, and without receiving payment for it at the time when it is supplied.
 (4) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
