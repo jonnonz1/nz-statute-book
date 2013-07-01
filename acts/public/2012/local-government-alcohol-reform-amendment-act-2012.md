@@ -1,5 +1,5 @@
 # Local Government (Alcohol Reform) Amendment Act 2012
-_Consolidation as at 2012-12-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Local Government (Alcohol Reform) Amendment Act 2012.
@@ -11,7 +11,7 @@ This Act comes into force on the day 12 months after the date on which it receiv
 This Act amends the Local Government Act 2002 (the principal Act).
 
 ### 4 New sections 147 to 147C substituted
-Section 147 is repealed and the following sections are substituted:Power to make bylaws for alcohol control purposesCriteria for making or continuing bylawsCriteria for making resolutions relating to bylaws Signage for areas in which bylaws for alcohol control purposes apply
+Section 147 is repealed and the following sections are substituted:Power to make bylaws for alcohol control purposesCriteria for making or continuing bylawsCriteria for making resolutions relating to bylawsSignage for areas in which bylaws for alcohol control purposes apply
   (1) In this section,—
     - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
     - **licensed premises** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
@@ -87,7 +87,7 @@ Section 239 is repealed and the following sections are substituted:Offences in r
     (a) the breach were an infringement offence within the meaning of that Act; and
     (b) the person who has committed the breach has committed the offence; and
     (c) the references in subsection (9) of that section to a defendant's being found guilty of, or pleading guilty to, an infringement offence for which an infringement notice has been issued were references to the person's being found to have committed, or admitting to having committed, the breach;—
-  (2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by the laying of an information under the Summary Proceedings Act 1957, or by the filing of a notice of prosecution under section 20A of that Act.
+  (2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011.
   (3) Subsection (2) overrides subsection (1) and section 21(1)(a) of the Summary Proceedings Act 1957.
 
 ### 7 New sections 243 and 244 substituted
@@ -103,11 +103,11 @@ Sections 243 and 244 are repealed and the following sections substituted:Interpr
       (b) includes a breach of an alcohol ban.
   (2) The definition in subsection (1) of enforcement officer overrides the definition of that term in section 5.
   (1) A person who is alleged to have committed an infringement offence specified as such by regulations under section 259(a) may either—
-    (a) be proceeded against under the Summary Proceedings Act 1957; or
+    (a) be proceeded against under the Criminal Procedure Act 2011; or
     (b) be served with an infringement notice under section 245.
   (2) A person who is alleged to have committed a breach of an alcohol ban—
     (a) may be served with an infringement notice under section 245; and
-    (b) must not be proceeded against under the Summary Proceedings Act 1957.
+    (b) must not be proceeded against under the Criminal Procedure Act 2011.
 
 ### 8 Issue of infringement notices
 Section 245 is amended by repealing subsection (2) and substituting the following subsections:
