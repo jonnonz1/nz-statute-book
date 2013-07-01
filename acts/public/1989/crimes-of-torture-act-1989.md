@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -15,7 +15,6 @@ This Act may be cited as the Crimes of Torture Act 1989.
       (iii) intimidating or coercing that person or some other person; or
     (b) for any reason based on discrimination of any kind;—
   - **the Convention** means the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 10 December 1984, a copy of the English text of which is set out in Schedule 1
-  - **conviction on indictment** has the same meaning as in section 3 of the Crimes Act 1961
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **public official** means—
     (a) any person in the service of Her Majesty in right of New Zealand, including—
@@ -33,12 +32,12 @@ This Act may be cited as the Crimes of Torture Act 1989.
 The purpose of this Part is to enable New Zealand to meet its international obligations under the Convention.
 
 ### 3 Acts of torture
-(1) Every person is liable upon conviction on indictment to imprisonment for a term not exceeding 14 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,—
+(1) Every person is liable upon conviction to imprisonment for a term not exceeding 14 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,—
   (a) commits an act of torture; or
   (b) does or omits an act for the purpose of aiding any person to commit an act of torture; or
   (c) abets any person in the commission of an act of torture; or
   (d) incites, counsels, or procures any person to commit an act of torture.
-(2) Every person is liable upon conviction on indictment to imprisonment for a term not exceeding 10 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,—
+(2) Every person is liable upon conviction to imprisonment for a term not exceeding 10 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,—
   (a) attempts to commit an act of torture; or
   (b) conspires with any other person to commit an act of torture; or
   (c) is an accessory after the fact to an act of torture.
