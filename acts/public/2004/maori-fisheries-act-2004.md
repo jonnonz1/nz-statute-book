@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2013-07-01_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -2571,7 +2571,7 @@ A transferred employee is not entitled to receive any payment or any other benef
 (2) No person, other than the person to whom the name applies, either alone or with another person, may operate or carry on business or activities—
   (a) under a name specified in subsection (1); or
   (b) under any other name, knowing that the name so resembles a specified name as to be likely to mislead a person.
-(3) A person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 (4) It is a defence in any prosecution for an offence against subsection (3) if the defendant proves that, either alone or with any other person or persons, the defendant has carried on business continuously under the name to which the prosecution relates from any date before the commencement of this Act.
 
 ### Subpart 4 — Repeal and consequential amendments
