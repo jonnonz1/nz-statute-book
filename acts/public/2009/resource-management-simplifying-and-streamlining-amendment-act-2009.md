@@ -1,5 +1,5 @@
 # Resource Management (Simplifying and Streamlining) Amendment Act 2009
-_Consolidation as at 2009-09-22_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Resource Management (Simplifying and Streamlining) Amendment Act 2009.
@@ -2497,13 +2497,13 @@ The amendments made by this Act apply to a national policy statement whether the
 (3) Subsections (1) and (2) also apply as if a requirement to alter a designation or heritage order were a requirement for a designation or heritage order.
 
 ### 158 Enforcement proceedings
-(1) Subsection (2) applies to an application for an enforcement order or to an information that—
+(1) Subsection (2) applies to an application for an enforcement order or to a charging document that—
   (a) relates to acts or omissions before the commencement of this section; and
   (b) either—
-    (i) was lodged or laid before the commencement of this section but, immediately before the commencement of this section, had not proceeded to the stage at which no further appeal was possible; or
-    (ii) is lodged or laid after the commencement of this section.
-(2) The application, or the proceedings relating to the information, must be determined as if the amendments made by this Act had not been made.
-(3) The period for laying an information in respect of an offence against section 338(1A) or (1B) of the principal Act is the period specified in section 338(4) of the principal Act, as amended by this Act, only if the offence is committed after the commencement of this section.
+    (i) was lodged or filed before the commencement of this section but, immediately before the commencement of this section, had not proceeded to the stage at which no further appeal was possible; or
+    (ii) is lodged or filed after the commencement of this section.
+(2) The application, or the proceedings relating to the charge, must be determined as if the amendments made by this Act had not been made.
+(3) The period for filing a charging document in respect of an offence against section 338(1A) or (1B) of the principal Act is the period specified in section 338(4) of the principal Act, as amended by this Act, only if the offence is committed after the commencement of this section.
 
 ### 159 Outstanding applications for resource consent where further information requested
 (1) A consent authority must determine that an application for a resource consent has lapsed if—
