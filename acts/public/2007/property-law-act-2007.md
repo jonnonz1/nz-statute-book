@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -333,7 +333,7 @@ A disclaimer of land is not valid unless it is made by deed or by order of a cou
       (A) the attorney; or
       (B) if the attorney is a body corporate, a director or officer of the body corporate or a person acting on behalf of the body corporate in another capacity; and
     (ii) is given immediately before, or at any time after, the doing of a thing by the attorney.
-(4) A person who knowingly gives a false certificate under subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) A person who knowingly gives a false certificate under subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (5) If the power of attorney is an enduring power of attorney within the meaning of Part 9 of the Protection of Personal and Property Rights Act 1988,—
   (a) section 103C of that Act applies to it instead of subsections (1) to (4); but
   (b) if a certificate of non-revocation of the power of attorney was given in respect of the enduring power of attorney before the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, subsections (1) to (4) of this section apply to the certificate instead of section 103C of the Protection of Personal and Property Rights Act 1988.
@@ -1533,7 +1533,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
   (b) the date on which the mortgagee entered into possession of the mortgaged land or goods:
   (c) a brief description of the mortgaged land or goods:
   (d) the address of the registered office of the mortgagee if the mortgagee is a body corporate, or the address of the mortgagee’s residence if the mortgagee is an individual, or an address specified by the mortgagee as an address to which communications relating to the mortgaged land or goods may be addressed.
-(3) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the mortgagee, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the mortgagee, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 157 Address to which notice to current mortgagor must be sent
 (1) The notice required by section 156 must be sent to the current mortgagor—
@@ -1582,7 +1582,7 @@ A mortgagee in possession of mortgaged land, goods, or accounts receivable must 
   (j) details of any amounts likely to be available for payment to other creditors of the current mortgagor:
   (k) any other prescribed information.
 (3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee’s rights or powers.
-(4) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 163 Further reports by mortgagee in possession
 (1) A mortgagee in possession of mortgaged land or goods, or a person who was a mortgagee in possession of mortgaged land or goods, must prepare a report or a further report summarising the state of affairs with respect to the land or goods not later than 2 months—
@@ -1596,7 +1596,7 @@ A mortgagee in possession of mortgaged land, goods, or accounts receivable must 
   (e) details of any amounts likely to be available for payment to other creditors of the current mortgagor; and
   (f) any other prescribed information.
 (3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee’s rights or powers.
-(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 164 Extension of time for preparing reports
 The Registrar may, on the application of a mortgagee or other person who is required to prepare a report under section 162 or 163, extend the period within which the report must be prepared.
@@ -1616,7 +1616,7 @@ The Registrar may, on the application of a mortgagee or other person who is requ
   (d) a covenantor:
   (e) any other person with an interest in all or part of the land or goods.
 (3) If the current mortgagor is a body corporate registered under an enactment, the mortgagee or other person who prepares a report under section 162 or 163 must, within 5 working days after preparing the report, send a copy of the report to the Registrar.
-(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 166 Persons entitled to inspect reports
 A person to whom a report must be sent on request under section 165 is entitled to inspect the report during normal business hours at—
@@ -1634,7 +1634,7 @@ A person to whom a report must be sent on request under section 165 is entitled 
     (v) the Takeovers Act 1993.
 (2) The mortgagee or other person who is required to prepare a report under section 162 or 163 must report the fact referred to in subsection (1)(b) to the Registrar.
 (3) A report made under subsection (2), and any communications between the mortgagee or other person and the Registrar relating to that report, are protected by absolute privilege.
-(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Withdrawal from possession**
 
@@ -1680,7 +1680,7 @@ A mortgagee who withdraws from possession of mortgaged land, goods, or accounts 
 ### 173 Notice that mortgagee has withdrawn from possession
 (1) If the current mortgagor is a body corporate registered under an enactment, a mortgagee who withdraws from possession of all or part of the mortgaged land or goods must, not later than 5 working days after the date of withdrawal, send or deliver notice in writing of the withdrawal to the Registrar.
 (2) Subsection (1) does not apply to a mortgagee who withdrew from possession of the land or goods before 1 January 2008.
-(3) If a person fails to comply with this section, the person, and, if the person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) If a person fails to comply with this section, the person, and, if the person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Protection for directors**
 
@@ -2611,7 +2611,7 @@ The matters referred to in section 262(b) are—
   (a) the destruction or damage was intentionally done or caused by the lessee or the lessee’s agent; or
   (b) the destruction or damage was the result of an act or omission by the lessee or the lessee’s agent that—
     (i) occurred on or about the leased premises or on or about the whole or any part of the land on which the premises are situated; and
-    (ii) constitutes an indictable offence within the meaning of the Summary Proceedings Act 1957; or
+    (ii) constitutes an imprisonable offence; or
   (c) any insurance moneys that would otherwise have been payable to the lessor for the destruction or damage are irrecoverable because of an act or omission of the lessee or the lessee’s agent.
 
 ### 270 Rights of lessor if insurance for leased premises or land is affected by negligence of lessee or lessee’s agent
