@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -597,7 +597,7 @@ The Director-General may amend or revoke a dog control permit issued under secti
 (2) The Director-General may, in the Director-General's absolute discretion, refund or waive payment of all or any part of any sum paid or required to be paid pursuant to this section.
 
 ### 56I Offences
-(1) Every person commits an offence against this Act and is liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000 or to both who,—
+(1) Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000 or to both who,—
   (a) being the owner of a dog or a person in charge of a dog, allows that dog, in contravention of section 56A, to be in a national park; or
   (b) being a person who is authorised, by or under this Act, to take a dog into a national park, fails to keep under proper control a dog that he or she has taken into a national park; or
   (c) being the owner or a person in charge of a dog, fails to comply with any condition of a dog control permit.
@@ -605,7 +605,7 @@ The Director-General may amend or revoke a dog control permit issued under secti
 
 ### 56J Power of ranger to request information
 (1) Any ranger may, for the purposes of dog control in any national park request any person who is in that national park and who appears to be in charge of any dog to state his or her own name, address, and date of birth, and, where that person claims not to be the owner of the dog, to state the name and address of the owner of the dog.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, without reasonable excuse, fails or refuses to comply with any lawful request under subsection (1), or wilfully states a false name or address or date of birth in response to such a request.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, without reasonable excuse, fails or refuses to comply with any lawful request under subsection (1), or wilfully states a false name or address or date of birth in response to such a request.
 (3) Any ranger who is a constable and who—may arrest that person without a warrant.
   (a) has good cause to suspect that an offence against subsection (2) has been committed by any person; and
   (b) has warned that person of the provisions of this subsection; and
@@ -671,12 +671,12 @@ Any local authority may from time to time make contributions out of its general 
 (5) Where any person is found discharging a firearm in contravention of subsection (4), section 61(6) shall apply in respect of that firearm in all respects as if it were illegally in the possession of that person in the park.
 (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, be liable to pay the cost of repairing or restoring any damage done to the park, or to any plant or property growing or being in the park in the course of committing such an offence.
 (7) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence and in addition to any costs for which he may be liable under subsection (6), be liable to pay twice the full market value of any animal or substance removed from the park if the District Court Judge is satisfied that the animal or substance was so removed in the course of committing such an offence for commercial or other gain.
-(8) For the purposes of subsections (6) and (7), the cost or value shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine.
+(8) For the purposes of subsections (6) and (7), the cost or value shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
 
 ### 61 Seizure and forfeiture of property
 (1) Any ranger may seize any item found in the possession of any person in a park, if he has reasonable cause to believe that that person, in obtaining possession of the item, committed an offence against this Act.
 (2)
-(3) If, in any case to which paragraph (a) or (b) applies, no proceedings are taken in respect of that offence within 6 months after that seizure, or in proceedings taken within that period the information is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
+(3) If, in any case to which paragraph (a) or (b) applies, no proceedings are taken in respect of that offence within 6 months after that seizure, or in proceedings taken within that period the charge is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
   (a) in any case where the item seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with under the Wildlife Act 1953:
   (b) in any case where the item seized is a protected New Zealand object, it shall be dealt with as follows:
     (i) where, under the Protected Objects Act 1975, it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
@@ -706,7 +706,7 @@ Any local authority may from time to time make contributions out of its general 
   (a) any costs incurred by the Minister in giving or issuing any notice under subsection (3); and
   (b) the expenses of mustering, keeping, destroying, selling, or otherwise disposing of the animal in accordance with this section; and
   (c) the cost of repairing or restoring any damage done to the park by the animal.
-(6) The costs and expenses referred to in subsection (5) shall be assessed by a District Court Judge and shall be recoverable summarily in like manner as a fine.
+(6) The costs and expenses referred to in subsection (5) shall be assessed by a District Court Judge and shall be recoverable in like manner as a fine.
 (7) All money received by the Minister under this section shall be paid into a Crown Bank Account and dealt with in accordance with section 57.
 (8) Nothing in this section applies to wild animals (as defined in section 2 of the Wild Animal Control Act 1977).
 
@@ -745,19 +745,19 @@ Every person commits an offence against this Act who—
   (e) the master of any New Zealand Government ship within the meaning of section 2(1) of the Shipping and Seamen Act 1952.
 
 ### 67 Proceedings in respect of offences
-(1) All offences against this Act or any bylaws under this Act shall be punishable on summary conviction on the information of the Director-General, or some person appointed by him or by the Minister.
-(2) Any appointment under subsection (1) may be for the purpose of laying an information in respect of a particular offence, or may be a general appointment to lay informations in respect of offences.
-(3) Any officer of the Department, although not the informant, may appear and conduct the prosecution in any proceedings for offences against this Act or any bylaws made under this Act.
+(1) Only the Director-General, or some person appointed by the Director-General or by the Minister, may file a charging document for an offence against this Act or any bylaws made under this Act.
+(2) An appointment under subsection (1) may be for the purpose of filing a charging document in respect of a particular offence, or may be a general appointment to file charging documents in respect of offences.
+(3) Any officer in the department, although not the person who filed the charging document, may appear and conduct the prosecution in any proceedings for offences against this Act or any bylaws made under this Act.
 
-### 68 Time within which information may be laid
-Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 12 months after the date of the discovery of the offence.
+### 68 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or against any bylaws made under it ends on the date that is 12 months after the date on which the offence is discovered.
 
 ### 69 Presumptions relating to offences
 (1) If, in the vicinity of a park, any person is found in possession of any plant, stone, mineral, egg, nest, animal, taonga tūturu, or relic, or any part of any such thing, and, upon being required by any ranger fails or refuses to give a satisfactory account of the manner in which he became possessed of the same, it shall be evidence that he has removed it from the park.
 (2) In any proceedings for an offence under this Act or any bylaws made under this Act, it shall be presumed in the absence of proof to the contrary, that all maps, plans, and copies of maps or plans appearing to be certified as true under the hand of a Chief Surveyor are so certified without production of the original records and without the personal attendance of those officers or proof of their signatures.
 
 ### 70 Penalty for offences
-Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on summary conviction,—
+Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction,—
   (a) where the offence was committed by an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,500, and where the offence is a continuing one, to a further fine not exceeding $250 for every day on which the offence has continued:
   (b) where the offence was committed by a corporation, to a fine not exceeding $25,000, and, where the offence is a continuing one to a further fine not exceeding $2,500 for every day on which the offence has continued.
 
@@ -872,39 +872,3 @@ Nothing in this Act shall affect the Manapouri - Te Anau Development Act 1963 or
   (b) where the application has not been publicly notified in accordance with section 52 of the principal Act, be dealt with under the said section 49:
   (c) where the application is for a permit, or the application is for a lease or licence or an easement but does not require public notification under the principal Act, be dealt with under the said section 49.
 (2) Except as provided in section 17W of the Conservation Act 1987, section 49 of the principal Act (as so substituted) does not affect any lease, licence, permit, or easement granted before the commencement of that section, but that section shall apply to every renewal of such a lease, licence, permit, or easement.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
