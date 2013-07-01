@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -1021,14 +1021,14 @@ A court may sentence any person who commits an offence against this Act to a sen
   (a) may take into account salaries, wages, and incidental expenses incurred in the investigation of the act constituting the offence or in remedying the loss or damage caused by the act; and
   (b) must take into account all other relevant factors.
 
-### 68 Offences to be tried summarily
-(1) Every offence against this Act or against any regulations under this Act shall be punishable on summary conviction before a District Court Judge alone.
-(2) Any officer or servant of the Department, although not the informant, and any fish and game ranger, may appear and conduct the prosecution in all proceedings for offences against this Act.
+### 68 Conduct of proceedings and recovery of fines
+(1)
+(2) Any officer or servant of the Department, and any fish and game ranger, may appear and conduct the prosecution in all proceedings for offences against this Act.
 (3) The court by which any person is convicted of any such offence may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and that part of the fine shall be paid to that person by the Registrar of the court in which the conviction is recorded.
 (4) Any direction of the court under subsection (3) shall not be entered in the conviction, but shall form the subject matter of a separate order.
 
 ### 68A Proceedings in respect of offences
-Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
+Notwithstanding anything to the contrary in section 25 of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
 
 ### 68AB Mens rea and strict liability offences
 (1) In any prosecution for an offence under any of the provisions listed in subsection (5), the prosecution must prove that the defendant intended to commit the offence.
@@ -1065,7 +1065,7 @@ Notwithstanding anything to the contrary in section 14 of the Summary Proceeding
 (1) Any animal or any part of any animal or any egg or nest of any animal that has been unlawfully caught or killed or taken or unlawfully had in possession is hereby declared to be forfeited to Her Majesty.
 (2) It shall be the duty of every ranger or constable or other authorised person who has seized or otherwise obtained possession of any such animal or part of any animal or egg or nest of any such animal to forward immediate notification thereof to the Director-General (or, in the case of any such animal or part of any animal or egg or nest seized by a fish and game ranger, to the Director), who, on the conviction of any person for unlawfully catching, hunting, killing, or taking the same or having the same in his possession, or, if no such person can be traced within 6 months after the seizure or taking possession, shall, in order to give effect to the forfeiture as aforesaid, give such orders as he thinks fit for the disposal of the thing seized, and those orders shall immediately on receipt thereof be carried out by the person to whom they are given.
 (3) In the case of all other property lawfully seized or taken into possession under this Act, the property shall be retained by the Director-General or the Director, as the case may be, pending the trial of any person for the offence in respect of which the property was seized or taken into possession. If no such person can be traced within 6 months after the seizure or taking into possession, the property shall be deemed to be forfeited to the Crown, and shall be disposed of as the Director-General or the Director, as the case may be, directs. Where proceedings are taken against any person in respect of the offence, the property seized or taken into possession shall, when the proceedings are completed, be returned to the person last in possession of the property, unless the court, where it enters a conviction, directs that the property or any part of it be forfeited to the Crown, in which case the property or part thereof, as the case may be, shall be deemed to be forfeited to the Crown accordingly, and shall be disposed of as the Director-General or the Director, as the case may be, directs.
-(4) Notwithstanding anything in the Public Finance Act 1977, the power conferred on the Director-General or the Director by subsection (3) to direct the disposal of any property forfeited to the Crown under that subsection shall, in any case where the prosecution was commenced on the information of an officer of a Fish and Game Council, include power to dispose of the property to that Council, without consideration, for the purposes of sale; and the property shall be sold by the Council and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council.
+(4) Notwithstanding anything in the Public Finance Act 1977, the power conferred on the Director-General or the Director by subsection (3) to direct the disposal of any property forfeited to the Crown under that subsection shall, in any case where the prosecution was commenced by an officer of a Fish and Game Council, include power to dispose of the property to that Council, without consideration, for the purposes of sale; and the property shall be sold by the Council and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council.
 
 **Miscellaneous**
 
