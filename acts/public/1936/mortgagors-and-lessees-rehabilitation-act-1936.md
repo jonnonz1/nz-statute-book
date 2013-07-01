@@ -1,5 +1,5 @@
 # Mortgagors and Lessees Rehabilitation Act 1936
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the adjustment of the liabilities of mortgagors and lessees in certain cases, and for matters incidental thereto
 
@@ -210,7 +210,7 @@ The applicant may from time to time file in the court an amended list of credito
 Every list of creditors or debtors and every statement of assets and liabilities, and every amendment of any such list or statement, filed by an applicant pursuant to the foregoing provisions of this Act shall be verified by the statutory declaration of the applicant.
 
 ### 34 Right to inspect filed statements
-(1) Any person whose name appears on any list of creditors or debtors filed by an applicant pursuant to the foregoing provisions of this Act, and any other person who claims, in writing addressed to the Registrar, that he is a creditor of the applicant, may at any time during the office hours of the court inspect the filed list of creditors or debtors or the filed statement of the applicant's assets and liabilities, and any amendment of such list or statement. If any person, not being a creditor of the applicant, knowingly makes to the Registrar for the purposes of this section a false representation to the effect that he is a creditor of the applicant, he shall be guilty of an offence, and shall be liable on summary conviction to a fine of 50 pounds.
+(1) Any person whose name appears on any list of creditors or debtors filed by an applicant pursuant to the foregoing provisions of this Act, and any other person who claims, in writing addressed to the Registrar, that he is a creditor of the applicant, may at any time during the office hours of the court inspect the filed list of creditors or debtors or the filed statement of the applicant's assets and liabilities, and any amendment of such list or statement. If any person, not being a creditor of the applicant, knowingly makes to the Registrar for the purposes of this section a false representation to the effect that he is a creditor of the applicant, he shall be guilty of an offence, and shall be liable on conviction to a fine of 50 pounds.
 (2) Any inspection under this section may be made personally by the creditor or debtor or person claiming to be a creditor, as aforesaid, or may be made by any other person acting as the authorised agent of a creditor or debtor.
 (3) Any person inspecting the list of creditors or debtors or statement of assets and liabilities pursuant to the foregoing provisions of this section may take any copy thereof or extract therefrom.
 
@@ -408,7 +408,7 @@ Provision may from time to time be made by regulations under this Act for the pu
 
 ### 65 Prohibiting publication of reports of proceedings of court or Adjustment Commission
 (1) Except with the consent of the court or Adjustment Commission, no report or account of any sitting of the court or of any Adjustment Commission, or of any application, evidence, or proceedings before the court or Adjustment Commission, or of any list published in the Gazette as provided in the last preceding section, shall be published in any newspaper or other document.
-(2) Every person who publishes or causes to be published any report or account in contravention of the provisions of this section commits an offence, and shall be liable on summary conviction to a fine of 50 pounds.
+(2) Every person who publishes or causes to be published any report or account in contravention of the provisions of this section commits an offence, and shall be liable on conviction to a fine of 50 pounds.
 
 ### 66 Application of fire insurance moneys in restitution of destroyed or damaged property
 Notwithstanding anything to the contrary in any rule of law or in any Act or instrument, where any property that is subject to a mortgage to which this Act applies or that is comprised in an adjustable lease is destroyed or damaged by fire, the court or any Adjustment Commission may, if it considers that the circumstances of the case warrant such a course, order that any moneys received by any mortgagee or lessor under any contract of insurance in respect of the destruction or damage shall be applied in or towards rebuilding, repairing, or replacing the destroyed or damaged property.
