@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2013-07-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1456,8 +1456,18 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   (c) not changed on that date by an Order in Council made under section 79(1) and (3A).
 (3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
 
+### 79AC Rates of duties on motor spirits increased by 3 cents on 1 July in 2013, 2014, and 2015
+(1) In accordance with section 76G(1), this section amends the Excise and Excise-equivalent Duties Table.
+(2) A rate in that Table is amended by this section only if the rate is one that is—
+  (a) a rate of excise duty or excise-equivalent duty on motor spirits (as defined in subsection (4)); and
+  (b) a rate of that kind expressed either as a rate per l or as a rate per l ms; and
+  (c) not a component of a rate of that kind that is a component expressed as plus a stated amount per g of Pb; and
+  (d) in force immediately before 1 July in 2013, 2014, or 2015.
+(3) The rate is on that date replaced with a new rate calculated by adding to the rate the amount of 3 cents.
+(4) Motor spirits, in this section, means any 1 or more fuels that are, or that contain, motor spirit.
+
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
-(1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
+(1) At any time during the second financial year, or the third financial year, that follows the financial year in which any current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
 (2) In this section,—
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the purposes of this section by the Minister of Finance and notified in the Gazette
   - **motor spirits** means motor spirit and fuels containing motor spirit specified in excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2207.20.23, 2207.20.35, 2710.19.13, 2710.19.15, 2710.19.21, 2710.19.25, 2710.19.27, 2710.19.39, 2710.19.64, 2710.19.70, 3824.90.87, 3824.90.93, and 3824.90.97 set out in the Excise and Excise-equivalent Duties Table.
@@ -2020,7 +2030,7 @@ A person is not liable to the imposition of a penalty under section 128A, if—
   (b) that person satisfies the chief executive that the person formed a view as to the relevant facts pertaining to the entry which, while incorrect, was reasonable having regard to the information available to that person when the entry was prepared; or
   (c) that person satisfies the chief executive that he or she acted in good faith on information provided by the importer, exporter, or supplier of the goods to which the entry relates, and reliance on the accuracy or completeness of the information so provided was reasonable in the circumstances; or
   (d)
-  (e) an information for an offence against this Act has been laid in relation to the error or omission; or
+  (e) a charging document for an offence against this Act has been filed in relation to the error or omission; or
   (f) the period between the date of lodgement of the entry of the goods and the date on which the error or omission was first identified exceeds 4 years; or
   (g) the provisions of section 127 apply.
 
@@ -2517,7 +2527,7 @@ Where a document in a foreign language is presented to a Customs officer in rela
   (b) a Customs officer may at any time, unless an order has been made under paragraph (a), return the documents or goods to the person from whom they were taken or apply to a District Court Judge for an order as to their disposal; and on any such application the District Court Judge may make any order that a court may make under paragraph (a):
   (c) if proceedings for an offence relating to the goods or documents are not brought within a period of 3 months after the date on which possession of the document or goods was taken, any person claiming to be entitled to the goods or documents may, after the expiration of that period, apply to a District Court Judge for an order that they be delivered to that person; and on any such application the District Court Judge may adjourn the application, on such terms as he or she thinks fit, for proceedings to be brought, or may make any order that a court may make under paragraph (a).
 (5) Where a person is convicted in proceedings for an offence relating to documents or goods to which this section applies, and an order is made under this section, the operation of the order shall be suspended,—
-  (a) in any case until the expiration of the time prescribed by the Summary Proceedings Act 1957 or, as the case may require, the time prescribed by the Crimes Act 1961 for the filing of notice of appeal or of an application for leave to appeal; and
+  (a) in any case until the expiration of the time prescribed by Part 6 of the Criminal Procedure Act 2011 for the filing of notice of appeal or of an application for leave to appeal; and
   (b) where notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
   (c) where application for leave to appeal is filed within the time so prescribed, until the application is determined and, where leave to appeal is granted, until the determination of the appeal.
 (6) Where the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may by order annul or vary the order made under this section; and that order, if annulled shall not take effect, and, if varied, shall take effect as so varied.
@@ -2562,7 +2572,7 @@ A Customs officer may, without warrant, seize and detain goods if—
   (a) the completion of all relevant investigations, if they show that the goods are not tainted property:
   (b) the expiry of the investigation period.
 (3) However, the Customs need not return the goods as provided in subsection (2), and may continue to detain them until the relevant proceedings or requests (including any resulting applications) are determined if, on or before the expiry of the investigation period,—
-  (a) an information is laid in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or
+  (a) a charging document is filed in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or
   (b) a foreign country makes a request to the Attorney-General under any of the following sections of the Mutual Assistance in Criminal Matters Act 1992:
     (i) section 54 (relating to a request to enforce a foreign restraining order); and
     (ii) section 60 (relating to an interim foreign restraining order).
@@ -2632,7 +2642,7 @@ A Customs officer may, without warrant, seize and detain goods if—
 (1A) A Customs officer who has reasonable cause to suspect that a person has carried some other person into New Zealand on a craft, and that the carriage of the other person into New Zealand on the craft constituted an offence against section 98C(1) (which makes it an offence to smuggle unauthorised migrants) of the Crimes Act 1961 may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, and on the craft or elsewhere, arrest the person without warrant.
 (2) A constable who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against section 176, 188A, 209, or 211 may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, arrest that person without warrant.
 (3) Where a Customs officer arrests a person under a power conferred by this section, the officer shall, unless the person is sooner released, as soon as practicable call a constable to his or her aid and deliver the arrested person into the custody of that constable.
-(4) If the person delivered into custody is released by a constable without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be the duties of a Customs officer and not of a constable.
+(4) If the person so delivered into custody is issued with a summons pursuant to sections 28 and 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act relating to the filing of a charging document are the duties of a Customs officer and not of a constable.
 
 ### 175 Protection of persons acting under authority of Act
 Neither the Crown nor a Customs officer, constable, a member of the Armed Forces, an authorised person, or a person lawfully assisting any such person is liable for the loss of or damage to any document, goods, vehicle, or craft occasioned by anything done or omitted to be done or purporting to have been done by a Customs officer, constable, member of the Armed Forces, authorised person, or person lawfully assisting in the exercise of any power conferred on him or her by this Act unless he or she has not acted in good faith or has acted without reasonable care.
@@ -2760,7 +2770,7 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (a) knowingly and without lawful authority by any means gains access to or attempts to gain access to any Customs computerised entry processing system; or
   (b) having lawful access to any Customs computerised entry processing system, knowingly uses or discloses information obtained from such a computer system for a purpose that is not authorised; or
   (c) knowing that he or she is not authorised to do so, receives information obtained from any Customs computerised entry processing system, and uses, discloses, publishes, or otherwise disseminates such information.
-(2) Every person who commits an offence against this section is liable on conviction on indictment,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $15,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -2769,7 +2779,7 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (a) by any means knowingly falsifies any record or information stored in any Customs computerised entry processing system; or
   (b) knowingly damages or impairs any Customs computerised entry processing system; or
   (c) knowingly damages or impairs any duplicate tape or disc or other medium on which any information obtained from a Customs computerised entry processing system is held or stored otherwise than with the permission of the chief executive.
-(2) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $25,000.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $25,000.
 
 ### 184 Offences in relation to security of, or unauthorised use of, unique user identifiers
 (1) A registered user of a Customs computerised entry processing system who fails to comply with or acts in contravention of any condition imposed by the chief executive relating to the security of that registered user's unique user identifier commits an offence.
@@ -3012,7 +3022,7 @@ It is a defence to any prosecution for an offence against sections 191 to 194A i
   (b) in the case of the second conviction of that person, to a fine not exceeding $4,000:
   (c) in the case of any subsequent conviction, to a fine not exceeding $6,000.
 (5) Every person commits an offence who, with intent to defeat the purposes of this Act, destroys, alters, or conceals any book, document, or record required to be kept under this Act, or sends or attempts to send out of New Zealand any such book, document, or record.
-(6) Every person who commits an offence under subsection (5) is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000.
+(6) Every person who commits an offence under subsection (5) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000.
 (7) If, in any prosecution for an offence alleged to have been committed against subsection (5), it is proved that the person charged with the offence has destroyed, altered, or concealed any book, document, or record, or has sent, or attempted to send, out of New Zealand, any such book, document, or record, it shall be presumed in the absence of evidence to the contrary that in so doing that person intended to defeat the purposes of this Act.
 
 ### 205A Offences relating to failure to give Customs access to information
@@ -3075,7 +3085,7 @@ For the purposes of this Act,—
   (b) in the case of a body corporate to a fine not exceeding $10,000.
 (4) It is not a defence in a prosecution for an offence referred to in subsection (3) that the defendant had no knowledge or no reasonable cause to believe that the goods in respect of which the offence was committed were prohibited imports or prohibited exports, as the case may be.
 (4A) However, it is a defence in a prosecution for an offence relating to an export of goods prohibited by or under section 56(1)(c) if the defendant proves that, through no fault of the relevant exporter, the relevant exporter did not actually receive the Secretary's notice of the prohibition sent under section 56(2D).
-(5) Every person who commits an offence against subsection (1A) is liable on conviction on indictment,—
+(5) Every person who commits an offence against subsection (1A) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (6) Section 132A of the Films, Videos, and Publications Classification Act 1993 (which specifies an aggravating factor to be taken into account in sentencing, etc, for certain publications offences) applies to an offence against subsection (1A) of this section, and an offence of that kind is also a relevant offence as defined in section 145A(1) of that Act (which relates to extraterritorial jurisdiction).
@@ -3206,16 +3216,16 @@ For the purposes of this Act,—
 An attempt to commit an offence against this Act is an offence punishable in the same manner and gives rise to the same cause for seizure as if the offence attempted had been committed.
 
 ### 220 Offences punishable on summary conviction
-Except where this Act otherwise provides, every offence against this Act, or against any regulations made under this Act, is punishable on summary conviction.
+[Repealed]
 
-### 221 Laying of information
-(1) Every information under the Summary Proceedings Act 1957 for any offence against this Act (other than one for an offence against section 216 of this Act) must be laid by—
+### 221 Filing of charging document
+(1) Proceedings for any offence against this Act (other than for an offence against section 216) must be commenced by—
   (a) the chief executive; or
   (b) any Customs officer nominated by the chief executive; or
   (c) any person who is not a Customs officer but is an agent or employee of the Customs nominated by the chief executive.
 (2) Any Customs officer or agent or employee of the Customs purporting to act pursuant to a nomination of the chief executive under subsection (1)(b) or (c) is, in the absence of proof to the contrary, presumed to have been so nominated.
-(3) An information under the Summary Proceedings Act 1957 for an offence against section 216 of this Act must be laid by the Registrar of a Customs Appeal Authority.
-(4) Any information for an offence against this Act may, despite anything to the contrary in the Summary Proceedings Act 1957, be laid at any time within 5 years after the date of the offence.
+(3) Proceedings for an offence against section 216 of this Act must be commenced by the Registrar of a Customs Appeal Authority.
+(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 5 years after the date on which the offence was committed.
 
 ### 222 Court may order payment of money in respect of duty
 (1) Where any person is convicted of an offence against section 176, 177, 187, or 188 and the court is of the opinion that the offence has been committed for the purpose of enabling the destruction or concealment of any evidence that would support a claim for duty under this Act, the court may, in addition to any other penalty, order the defendant to pay to the Crown such further sum in respect of that claim as it thinks fit.
@@ -3228,7 +3238,7 @@ Except where this Act otherwise provides, every offence against this Act, or aga
     (i) in relation to goods; and
     (ii) in circumstances that the chief executive is satisfied would not amount to more than minor offending:
   (b) an offence against this Act that is not punishable by imprisonment.
-(2) At any time before an information is laid against a person for an offence to which this section applies, the chief executive may accept from the person—
+(2) At any time before a charging document has been filed against a person for an offence to which this section applies, the chief executive may accept from the person—
   (a) a written admission that he or she committed the offence; and
   (b) a request that the offence be dealt with summarily by the chief executive; and
   (c) payment of an amount, not exceeding the limit specified in subsection (2B), that the chief executive thinks just in the circumstances of the case in full satisfaction of any fine or other penalty to which the person would otherwise be liable under this Act.
@@ -3423,7 +3433,7 @@ All the provisions of this Act with respect to the forfeiture of goods extend an
 ## Part 15 — Evidence
 
 ### 239 Burden of proof
-(1) In any proceedings under this Act instituted by or on behalf of or against the Crown (other than a prosecution for an indictable offence) every allegation made on behalf of the Crown in any statement of claim, statement of defence, plea, or information, that relates to—shall be presumed to be true unless the contrary is proved.
+(1) In any proceedings under this Act instituted by or on behalf of or against the Crown (other than a prosecution for an offence against section 182(2), 183(2), 205(6), or 209(5)) every allegation made on behalf of the Crown in any statement of claim, statement of defence, plea, or charge, that relates to—shall be presumed to be true unless the contrary is proved.
   (a) the identity or nature of any goods; or
   (b) the value of any goods for duty; or
   (c) the country or time of exportation of any goods; or
@@ -3435,7 +3445,7 @@ All the provisions of this Act with respect to the forfeiture of goods extend an
 (4) Notwithstanding the foregoing provisions of this section, in any proceedings for an offence against this Act where it is alleged that the defendant intended to commit the offence, the prosecution has the burden of proving that intent beyond reasonable doubt.
 
 ### 240 Documents made overseas
-In any proceeding under this Act (other than a prosecution for an indictable offence) the court may admit in evidence as proof of any fact in issue a document made in a country outside New Zealand, whether the document is legally admissible as evidence in other proceedings or not.
+In any proceeding under this Act (other than a prosecution for an offence against section 182(1), 183(1), 205(5), or 209(1A)) the court may admit in evidence as proof of any fact in issue a document made in a country outside New Zealand, whether the document is legally admissible as evidence in other proceedings or not.
 
 ### 241 Proof of rules made under section 288
 (1) The production of a copy of the Gazette purporting to contain a copy of any rule made under section 288(1) that is required to be published in the Gazette shall, in all courts and in all proceedings, be sufficient evidence, until the contrary is proved, of the existence, publication, and provisions of the rule, and of the date of its coming into force.
@@ -3554,7 +3564,7 @@ For the purposes of dealing with the matters before it, an Authority may of its 
 Every witness giving evidence, and every counsel or agent or other person appearing before the Authority, shall have the same privileges and immunities as witnesses and counsel in courts of law.
 
 ### 265 Witnesses' allowances
-(1) Every witness attending the hearing to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations shall apply accordingly.
+(1) Every witness attending the hearing to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
 (2) On each occasion on which the Authority issues a summons under section 262, the Authority shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
 (3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Authority, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) The whole or part of any amount fixed under subsection (2) may, with the consent of the witness, be paid or tendered in the form of vouchers or tickets.
@@ -3742,7 +3752,7 @@ In sections 280D and 280E, unless the context otherwise requires,—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
   - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
