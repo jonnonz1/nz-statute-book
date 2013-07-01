@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2012-12-05_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to receivers
 
@@ -109,7 +109,7 @@ _Consolidation as at 2012-12-05_
   (l) a person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
   (m) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
 (2) A body corporate must not be appointed or act as a receiver.
-(3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 6 Appointment of receivers under deeds and agreements
 (1) A receiver may be appointed in respect of the property of a person by, or in the exercise of a power conferred by, a deed or agreement to which that person is a party.
@@ -133,7 +133,7 @@ _Consolidation as at 2012-12-05_
     (iv) a brief description of the property in receivership.
 (2) Where the appointment of the receiver is in addition to a receiver who already holds office or is in place of a person who has vacated office as receiver, as the case may be, every notice under this section must state that fact.
 (3) If the grantor is a body corporate, the receiver must, within 7 days after being appointed, send a copy of the public notice to the Registrar.
-(4) Every receiver who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) Every receiver who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 9 Application of section 92 of Property Law Act 1952 to receivers
 [Repealed]
@@ -142,7 +142,7 @@ _Consolidation as at 2012-12-05_
 (1) Where a receiver is appointed in relation to a specific asset or specific assets, every deed or agreement entered into, and every document issued, by or on behalf of the grantor or the receiver that relates to the asset or assets and on which the name of the grantor appears must state that a receiver has been appointed.
 (2) Where a receiver is appointed in any other case, every deed or agreement entered into, and every document issued, by or on behalf of the grantor or the receiver and on which the name of the grantor appears must state that a receiver has been appointed.
 (3) A failure to comply with subsection (1) or subsection (2) does not affect the validity of the deed or agreement or document.
-(4) Every person who—commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(4) Every person who—commits an offence and is liable on conviction to a fine not exceeding $5,000.
   (a) contravenes subsection (1) or subsection (2); or
   (b) knowingly or wilfully authorises or permits a contravention of subsection (1) or subsection (2)—
 
@@ -156,7 +156,7 @@ _Consolidation as at 2012-12-05_
 (5) A receiver appointed by the court may resign office by giving not less than 7 days' notice of his or her intention to resign to the Registrar of the court that made the appointment.
 (6) A person vacating the office of receiver must, where practicable, provide such information and give such assistance in the conduct of the receivership to his or her successor as that person reasonably requires.
 (7) On the application of a person appointed to fill a vacancy in the office of receiver, the court may make any order that it considers necessary or desirable to facilitate the performance of the receiver's duties.
-(8) Every person who fails to comply with subsection (3) or subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(8) Every person who fails to comply with subsection (3) or subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 12 Obligations of grantor
 (1) A grantor and, in the case of a grantor that is a body corporate, every director of the grantor, must—
@@ -250,7 +250,7 @@ A receiver must keep money relating to the property in receivership separate fro
   (d) amounts owing, as at the date of appointment, to creditors of the grantor having preferential claims; and
   (e) amounts likely to be available for payment to creditors other than those referred to in paragraph (c) or paragraph (d).
 (3) A receiver may omit from the report details of any proposals for disposal of the property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
-(4) A receiver who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) A receiver who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 24 Further reports by receiver
 (1) Not later than 2 months after—a receiver or a person who was a receiver at the end of the receivership, as the case may be, must prepare a further report summarising the state of affairs with respect to the property in receivership as at those dates, and the conduct of the receivership, including all amounts received and paid, during the period to which the report relates.
@@ -262,7 +262,7 @@ A receiver must keep money relating to the property in receivership separate fro
   (c) amounts owing, as at the date of the report, to creditors of the grantor having preferential claims; and
   (d) amounts likely to be available as at the date of the report for payment to creditors other than those referred to in paragraph (b) or paragraph (c).
 (3) A receiver may omit from the report required to be prepared in accordance with subsection (1)(a) details of any proposals for disposal of property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
-(4) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(4) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 25 Extension of time for preparing reports
 A period of time within which a person must prepare a report referred to in section 23 or section 24 may be extended, on the application of that person, by—
@@ -279,7 +279,7 @@ A period of time within which a person must prepare a report referred to in sect
   (b) any other person with an interest in any of the property in receivership; or
   (c) the authorised agent of any of them—
 (4) Within 7 days after preparing a report under section 23 or section 24 in relation to a grantor that is a body corporate, the person who prepared the report must send or deliver a copy of the report to the Registrar.
-(5) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(5) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 27 Persons entitled to inspect reports
 A person to whom a report must be sent in accordance with section 26 is entitled to inspect the report during normal office hours at the office of the person required to send it.
@@ -293,11 +293,11 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (d) the Financial Reporting Act 1993; or
   (e) the Takeovers Act 1993—
 (1A) A report made under subsection (1), and any communications between the receiver and Registrar relating to that report, are protected by absolute privilege.
-(2) A receiver who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) A receiver who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 29 Notice of end of receivership
 (1) Not later than 7 days after the receivership of a grantor that is a body corporate ceases, the person who held office as receiver at the end of the receivership must send or deliver to the Registrar notice in writing of the fact that the receivership has ceased.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 30 Preferential claims
 (1) This section applies to a receiver of the property of a grantor that is a company, other than a company in liquidation at the time of the receiver's appointment, and who was appointed under a security agreement that created or provided for a security interest that—
