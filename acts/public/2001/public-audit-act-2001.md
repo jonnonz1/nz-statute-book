@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -317,13 +317,13 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
   (b) intentionally refuses or fails to comply with any lawful requirement of the Auditor-General or any other person under this Act:
   (c) makes a statement or gives information to the Auditor-General or any other person exercising powers under this Act, knowing that the statement or information is false or misleading:
   (d) represents directly or indirectly that the person holds any authority under this Act when that person knowingly does not hold that authority.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $5,000.
 
 ### 40 Time for commencing proceedings
-(1) Despite section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years from the time when the matter of the information arose.
-(2) Despite the Summary Proceedings Act 1957 or any other Act, proceedings against any member of a local authority, as such, under any Act may be commenced at any time within 2 years after the commission of the act in respect of which the proceedings are taken.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+(2) Despite the Criminal Procedure Act 2011 or any other Act, proceedings against any member of a local authority, as such, under any Act may be commenced at any time within 2 years after the commission of the act in respect of which the proceedings are taken.
 
 ### 41 Protection from liability
 (1) This section applies to—
