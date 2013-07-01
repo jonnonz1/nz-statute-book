@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -638,7 +638,7 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
 **Offences**
 
 ### 65 Offences
-(1) The following persons commit an offence and are liable on summary conviction to a fine not exceeding $100,000:
+(1) The following persons commit an offence and are liable on conviction to a fine not exceeding $100,000:
   (a) a producer who contravenes regulations made under section 22(1)(a):
   (b) any person (other than a producer) who knowingly contravenes regulations made under section 22(1)(a):
   (c) a person who contravenes regulations made under section 23(1)(c), (d), (e), (f), or (i):
@@ -647,8 +647,8 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
   (f) a person who, in providing records or other information required by regulations made under section 23(1)(i) or 86(1)(a), (b), or (c), knowingly—
     (i) supplies false or misleading information; or
     (ii) makes any material omission.
-(2) A territorial authority that fails to comply with section 55(3) commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
-(3) The following persons commit an offence and are liable on summary conviction to a fine not exceeding $5,000:
+(2) A territorial authority that fails to comply with section 55(3) commits an offence and is liable on conviction to a fine not exceeding $20,000.
+(3) The following persons commit an offence and are liable on conviction to a fine not exceeding $5,000:
   (a) a person who intentionally prevents an enforcement officer or auditor from carrying out his or her statutory functions or duties; or
   (b) a person who—
     (i) refuses to give information when required to do so by an enforcement officer or auditor acting under section 79; or
@@ -658,7 +658,7 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
 (5) Costs under subsection (4) must be assessed by the court.
 
 ### 66 Offences against bylaws
-Every person commits an offence who breaches a bylaw made under section 56 and is liable on summary conviction to a fine not exceeding $20,000.
+Every person commits an offence who breaches a bylaw made under section 56 and is liable on conviction to a fine not exceeding $20,000.
 
 ### 67 Additional penalty for contravention involving commercial gain
 (1) If a person is convicted of an offence under section 65, the court may, on the application of the Secretary or the territorial authority, as the case may be, in addition to any penalty that the court may impose under that section, order the person to pay an amount not exceeding the value of any commercial gain resulting from the contravention, if the court is satisfied that the contravention occurred in the course of producing a commercial gain.
@@ -704,11 +704,12 @@ In any prosecution for an offence specified in section 65(1)(a), (c), or (e), 65
   (a) that the act or omission that constituted the offence took place with that person’s authority, permission, or consent; or
   (b) that he or she knew or could reasonably have been expected to know that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
-**Time for laying informations**
+**Time for filing charge**
 
-### 71 Time for laying informations
-(1) An information in respect of an offence against this Act may be laid at any time within 12 months after the time when the matter giving rise to the information first became known, or should have become known, to the person laying the information.
-(2) An information in respect of an offence against a bylaw made under section 56 may be laid at any time by the territorial authority concerned within 6 months after the time when the matter giving rise to the information first became known, or should have become known, to the territorial authority.
+### 71 Time for filing charge
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the matter giving rise to the charge first became known, or should have become known, to the person who commences the proceedings; and
+  (b) the limitation period in respect of an offence against a bylaw made under section 56 ends on the date that is 6 months after the date on which the matter giving rise to the charge first became known, or should have become known, to the territorial authority that commences the proceedings.
 
 **Injunctions**
 
@@ -725,7 +726,7 @@ In any prosecution for an offence specified in section 65(1)(a), (c), or (e), 65
 
 ### 73 Proceedings for infringement offences
 A person who is alleged to have committed an infringement offence may either—
-  (a) be proceeded against under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice under section 74.
 
 ### 74 Issue and service of infringement notices
@@ -735,7 +736,7 @@ A person who is alleged to have committed an infringement offence may either—
 (2) An infringement notice may be served—
   (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence; or
   (b) by post addressed to the person’s last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person under subsection (2)(b) must be treated as having been served on the person when it was posted.
+(3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on the person when it was posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) details of the alleged infringement offence sufficient to fairly inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee specified for the offence:
@@ -991,39 +992,3 @@ The Board may regulate its own proceedings, subject to the provisions of this Pa
   (a) in the manner set out in section 93(2); and
   (b) for the purpose of receiving nominations for members of the Board.
 (2) For the purposes of this Act, the process must be treated as complying with section 93.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
