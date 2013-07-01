@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -15,7 +15,8 @@ This Act comes into force on a date to be appointed by the Governor-General by O
     (i) the Part or subpart in Schedule 3 or 4 in which the activity is listed applies; and
     (ii) the person, if carrying out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3, falls within a class of persons prescribed in an Order in Council that applies that subpart; and
   (b) applies subject to sections 2C(3), 217 to 221, and 63A, 64A, 178A, and 178B.
-(2) Part 1 of Schedule 3 and Parts 1 and 3 of Schedule 4 apply on and after 1 January 2008.
+(2) Part 1 of Schedule 3 and Part 1 of Schedule 4 apply on and after 1 January 2008.
+(2A) Part 3 of Schedule 4 applies on and after 1 July 2013.
 (3) Subpart 1 of Part 2 of Schedule 3 and Part 4 of Schedule 4 apply on and after 1 January 2009.
 (4) Part 3 of Schedule 3, subpart 1 of Part 4 of Schedule 3, and subpart 1 of Part 2 of Schedule 4 apply on and after 1 January 2010.
 (5) Subpart 1 of Part 5 of Schedule 3 applies on and after 1 January 2011.
@@ -2406,13 +2407,13 @@ Any amendment or assessment made by the EPA for the purpose of this Act that is 
       (C) by a pre-1990 forest land allocation plan; or
     (iv) fails to notify the EPA of a matter that is required to be notified under section 112; or
     (v) fails to notify the EPA, within the time required, of a matter required to be notified under section 84(2)(b) or 192(3).
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
   (b) the second time the person is convicted of that offence, to a fine not exceeding $16,000:
   (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000.
 
 ### 130 Offence for breach of section 99
-Every person to whom section 99(1) applies who knowingly acts in contravention of section 99 commits an offence and is liable on summary conviction to—
+Every person to whom section 99(1) applies who knowingly acts in contravention of section 99 commits an offence and is liable on conviction to—
   (a) imprisonment for a term not exceeding 6 months; or
   (b) a fine not exceeding $15,000; or
   (c) both.
@@ -2421,7 +2422,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
 (1) A person commits an offence against this Act if the person, without reasonable excuse,—
   (a) fails to provide information to the EPA or an enforcement officer when required to do so under section 94; or
   (b) fails to appear before the EPA or an enforcement officer, or fails to produce any document or documents, when required to do so under section 95.
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $12,000; or
   (b) in the case of a body corporate, to a fine not exceeding $24,000.
 
@@ -2440,7 +2441,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (g) wilfully obstructs, hinders, resists, or deceives a person exercising a power conferred on that person under this Part or Part 5; or
   (h) wilfully interferes with any survey, investigation, test, or measurement carried out by an enforcement officer or a person assisting an enforcement officer under section 100; or
   (i) refuses to provide information that an enforcement officer has demanded from that person under section 100(2)(d).
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -2455,7 +2456,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
     (iii) by a pre-1990 forest land allocation plan; or
   (d) fails to provide information to the EPA or any other person when required to do so under this Part or Part 5; or
   (e) provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the EPA or any other person in respect of a matter in this Part and Part 5.
-(2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to—
+(2) Every person who commits an offence against subsection (1) is liable on conviction to—
   (a) imprisonment for a term not exceeding 5 years; or
   (b) a fine not exceeding $50,000; or
   (c) both imprisonment and a fine.
@@ -2584,9 +2585,10 @@ If a body corporate is convicted of an offence under this Part, every director a
 (2) Despite subsection (1), if a principal is charged under this Part in relation to the act or omission of an agent for an offence against any of sections 132(1)(c) to (f) or 133, it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
 ### 142 Limitation period for commencement of proceedings
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against—
-  (a) section 131 or 132(1)(a), (b), (g), (h), or (i) may be laid at any time within 2 years from the time when the matter of the information arose:
-  (b) section 129, 130, or 132(1)(c) to (f) may be commenced at any time within 7 years from the time when the matter of the information arose.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against—
+  (a) section 131 or 132(1)(a), (b), (g), (h), or (i) ends on the date that is 2 years from the date on which the offence was committed:
+  (b) section 129, 130, or 132(1)(c) to (f) ends on the date that is 7 years from the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 143 Evidence in proceedings
 (1) In any proceedings for an offence against this Part or Part 5, a certificate or document (including an electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or the document, as the case may require:
@@ -3977,7 +3979,7 @@ Despite anything in this Act, the first emissions return submitted by a person t
 
 ### Subpart 2 — Liquid fossil fuels sector
 
-### 198 Registration as participant by purchasers of jet fuel
+### 198 Registration as participant by purchasers of obligation fuel
 (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 3 of Schedule 4 may be submitted to the EPA at any time.
 (2) If the EPA registers a person as a participant under section 57 in respect of an activity listed in Part 3 of Schedule 4,—
   (a) the EPA must notify, under section 57(6)(b), every person who is registered under section 56 in respect of an activity in Part 2 of Schedule 3; and
@@ -3987,18 +3989,18 @@ Despite anything in this Act, the first emissions return submitted by a person t
   (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the notice issued under section 58(3)(b) and (c).
 
 ### 199 Historical information sufficient to satisfy EPA
-(1) A person who carries out an activity listed in Part 3 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of obligation jet fuel purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
-(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 3 of Schedule 4 on the basis of that information.
+(1) A person who carries out an activity listed in Part 3 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of obligation fuel purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
+(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy itself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 3 of Schedule 4 on the basis of that information.
 (3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in Part 3 of Schedule 4.
 
-### 200 Effect of purchasing less than the threshold level of obligation jet fuel
-If a person is a participant in respect of the activity listed in Part 3 of Schedule 4, and in any year the volume of obligation jet fuel that the person purchases is less than, or the person knows that the volume purchased will be less than, the threshold specified in Part 3 of Schedule 4—
+### 200 Effect of purchasing less than threshold level of obligation fuel
+If a person is a participant in respect of the activity listed in Part 3 of Schedule 4, and in any year the volume of obligation fuel that the person purchases is less than, or the person knows that the volume purchased will be less than, the threshold specified in Part 3 of Schedule 4—
   (a) the person is not required to notify the EPA under section 59(1) that the person has ceased, or will cease, to carry out the activity; and
   (b) the EPA must not, under section 59(2), treat the person as having ceased to carry out the activity; and
   (c) the person remains a participant in respect of the activity until the person’s name is removed, in accordance with this Act, from the register that is kept for the purposes of section 57.
 
-### 201 Effect of registration by purchasers of jet fuel
-A participant in respect of an activity listed in Part 2 of Schedule 3 is not required to surrender units in respect of obligation jet fuel that is purchased by a person who is a participant in respect of an activity listed in Part 3 of Schedule 4.
+### 201 Effect of registration by purchasers of obligation fuel
+A participant in respect of an activity listed in Part 2 of Schedule 3 is not required to surrender units in respect of obligation fuel that is purchased by a person who is a participant in respect of an activity listed in Part 3 of Schedule 4.
 
 ### 202 Activities added to Part 2 of Schedule 3
 (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, amend Part 2 of Schedule 3 by adding activities relating to the following matters:
