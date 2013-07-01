@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1207,7 +1207,7 @@ In this Part, unless the context otherwise requires,—
 (4) A copy of any such application shall be served on the authority either before or immediately after it is lodged with the court.
 (5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the application to the applicant and the authority, and they shall be entitled to be present and to be heard, either personally or by their counsel or by an officer of the authority.
 (6) On hearing the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(7) Every person on whom a notice has been served under this section commits an offence against this Act if he fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on summary conviction to a fine not exceeding $5 for every day or part of a day during which the offence has continued; and the authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
+(7) Every person on whom a notice has been served under this section commits an offence against this Act if he fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on conviction to a fine not exceeding $5 for every day or part of a day during which the offence has continued; and the authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
   (a) the expiry of the time in which application may be made to a court, if he has not exercised that right; or
   (b) the date of the court's order, if an application to set aside the notice has been made and it has not been set aside; or
   (c) the date on which any application to the court has been withdrawn by the applicant—
@@ -1449,7 +1449,7 @@ There shall be for every local railway on which passengers are carried an office
   (a) until 2 months after notice in writing of the intention of opening it has been given by its proprietors to the Minister; and
   (b) until 30 days after notice in writing has been given by such proprietors to the Minister of the time when the railway or portion of railway will be in their opinion sufficiently completed for the safe conveyance of passengers and ready for inspection; and
   (c) unless and until the Minister has given notice in writing to such proprietors that he has received from the person appointed under section 178 a certificate that the railway or the portion of it, as the case may be, is safe and fit for traffic.
-(2) The proprietors of any local railway or portion of any local railway who open it or cause it to be opened without such notices having been duly given, commit an offence and shall be liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the railway or portion continues open until the said notices are duly given and the Minister has given his notice under subsection (1)(c) to the proprietors.
+(2) The proprietors of any local railway or portion of any local railway who open it or cause it to be opened without such notices having been duly given, commit an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the railway or portion continues open until the said notices are duly given and the Minister has given his notice under subsection (1)(c) to the proprietors.
 
 ### 180 Minister may postpone opening or working of local railway
 (1) If the person appointed to inspect any local railway or portion of local railway, after inspecting it, reports in writing to the Minister that in his opinion the opening or the continued working of it would be dangerous to the public or to the persons employed on the railway, owing to—the Minister may from time to time—
@@ -1459,22 +1459,22 @@ There shall be for every local railway on which passengers are carried an office
   (d) order the proprietors of the railway to postpone its opening or discontinue working it, as the case may require, for any period not exceeding 1 month at any one time, until it appears to the Minister that the opening may take place or the working may be resumed without danger to the public; or
   (e) where an authorising order has been made under the Tramways Act 1908, direct that the works thereby authorised shall be completed in accordance with that order and any plan or documents mentioned in it, without suspending the traffic upon the tramway.
 (2) The proprietors shall be entitled to a copy of the report on which any such order is founded.
-(3) If any order made by the Minister under this section is not complied with by the proprietors of any local railway affected by it, they commit an offence and shall be liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the order is not complied with.
+(3) If any order made by the Minister under this section is not complied with by the proprietors of any local railway affected by it, they commit an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the order is not complied with.
 
 ### 181 Notice to Minister of accidents
 (1) The General Manager of every local railway shall, within 48 hours after the occurrence upon the railway under his management of any accident which causes serious personal injury to any member of the public or to any person employed on the railway or which causes serious damage to the line, appliances, rolling stock, or plant, give notice of the accident by telegram or telephone to the Minister.
-(2) If any such General Manager wilfully omits to give such a notice he commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
+(2) If any such General Manager wilfully omits to give such a notice he commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 182 Inquiry as to accidents
 (1) The Minister may cause an inquiry to be held in such manner as he thinks fit into any accident referred to in section 181 and, for the purpose of preventing the recurrence of any such accident, may direct the proprietors of the local railway to—
   (a) make such alterations as are necessary in the construction or equipment of the railway or the rolling stock, plant, or machinery used on or in connection with it, or in the method of working it; and
   (b) discontinue the working of the railway, or the use of such rolling stock, plant, or machinery, or the method of working them, as the case may require, until such alteration has been made.
-(2) If any such direction is not complied with, the proprietors of the local railway commit an offence and shall be liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the non-compliance continues.
+(2) If any such direction is not complied with, the proprietors of the local railway commit an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the non-compliance continues.
 
 ### 183 Returns of accidents
 (1) The Minister may order the General Manager of any local railway to make up and deliver to the Minister returns of serious accidents occurring in the course of the public traffic on the railway under his management, whether attended with personal injury or not.
 (2) Such returns shall be made up in such form and manner as the Minister considers necessary with a view to the public safety.
-(3) If any such returns are not so delivered within 14 days after they have been required, the General Manager commits an offence and shall be liable on summary conviction to a fine not exceeding $50 for every day or part of a day during which he neglects to deliver them.
+(3) If any such returns are not so delivered within 14 days after they have been required, the General Manager commits an offence and shall be liable on conviction to a fine not exceeding $50 for every day or part of a day during which he neglects to deliver them.
 
 ## Part 15 — Defence works
 
@@ -1482,7 +1482,7 @@ There shall be for every local railway on which passengers are carried an office
 The Crown is hereby empowered to construct and maintain any defence work in accordance with the Building Act 2004, where that Act applies to the work.
 
 ### 185 Destroying or altering defence works
-Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $1,000 who, on land held by the Crown, mutilates, defaces, takes away, destroys, or alters the position of, any defence work, survey peg, mark, block, post, or pole set up or affixed thereon, or who wilfully obstructs any officer, surveyor, or his assistants or employees engaged in carrying out any defence work, or any survey of any land to be taken, acquired, or held for the purposes of a defence work.
+Every person commits an offence and shall be liable on conviction to a fine not exceeding $1,000 who, on land held by the Crown, mutilates, defaces, takes away, destroys, or alters the position of, any defence work, survey peg, mark, block, post, or pole set up or affixed thereon, or who wilfully obstructs any officer, surveyor, or his assistants or employees engaged in carrying out any defence work, or any survey of any land to be taken, acquired, or held for the purposes of a defence work.
 
 ## Part 16 — Protection of public works (including aerodromes)
 
@@ -1902,7 +1902,7 @@ Every person who wilfully obstructs any engineer, overseer, employee, or other p
 
 ### 242 Offences and penalties
 (1) Every person commits an offence against this Act who acts in contravention of or fails to comply in any respect with any provision of this Act or of any regulations or bylaws for the time being in force under this Act.
-(2) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section shall be liable on summary conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $20 for every day or part of a day during which the offence has continued.
+(2) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section shall be liable on conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $20 for every day or part of a day during which the offence has continued.
 
 ### 243 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -1956,9 +1956,6 @@ Every claim for compensation under the Public Works Act 1928 that—before 1 Feb
 ## Schedule 3
 
 | $ |
-| --- |
-
-| Total claim: |
 | --- |
 
 | $ |
