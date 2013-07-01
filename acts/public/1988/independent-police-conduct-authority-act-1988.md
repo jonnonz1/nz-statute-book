@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Act 1988
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
@@ -210,7 +210,7 @@ The Authority may at any time—
   (a) no statement made or answer given by any person in the course of any investigation by or proceedings before the Authority shall be admissible in evidence against that or any other person in any court or in any inquiry or other proceeding; and
   (b) no evidence in respect of proceedings before the Authority shall be given against any person.
 (5) Where the attendance of any person is required by the Authority under section 24, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
-  (a) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
   (b) the Authority shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
 ### 26 Disclosure of certain matters not to be required
@@ -294,7 +294,7 @@ The Authority shall not, in any opinion or recommendation given under section 27
 [Repealed]
 
 ### 37 Offences
-Every person commits an offence under this Act and is liable on summary conviction to a fine not exceeding $2,000 who,—
+Every person commits an offence under this Act and is liable on conviction to a fine not exceeding $2,000 who,—
   (a) without reasonable excuse, obstructs, hinders, or resists the Authority or any person in the exercise of their powers under this Act:
   (b) without reasonable excuse, refuses or fails to comply with any requirement of the Authority or any person under this Act:
   (c) makes any statement or gives any information to the Authority, or to any person exercising powers under this Act, knowing that the statement or information is false or misleading.
