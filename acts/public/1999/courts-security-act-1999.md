@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2013-06-04_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for—athe security of courts; andbthe safety of the public and others who access and use the courts
 
@@ -342,7 +342,7 @@ A court security officer may not exercise any of the powers or duties in section
 (1) A person commits an offence who resists or assaults or wilfully obstructs, or incites or encourages any person to resist, assault, or obstruct,—
   (a) a court security officer who is exercising any of the powers or duties in sections 12 to 23 or 26 or 28; or
   (b) a person who is helping a court security officer to exercise any such power or duty.
-(2) A person who commits an offence against this section is liable on summary conviction by a court presided over by a District Court Judge or 2 or more justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months.
+(2) A person who commits an offence against this section is liable on conviction by a court presided over by a District Court Judge or 2 or more justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months.
 
 **Immunities**
 
