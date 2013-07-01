@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -670,12 +670,12 @@ A person may be charged with an offence under any of sections 63 to 70 whether o
 (1) In proceedings for an offence under any of sections 63(1)(a), 64(1), 67(1)(a), and 68(1)(a), it is presumed, in the absence of evidence to the contrary, that the person alleged to be neither licensed nor exempt is not in fact exempt from the requirement to be licensed.
 (2) In proceedings for an offence under section 63(1)(b), 67(1)(b), or 68(1)(b), it is presumed, in the absence of proof to the contrary to the standard of the balance of probabilities, that the person alleged to be neither licensed nor exempt from the requirement to be licensed is not in fact exempt.
 
-### 75 Proceedings for offences generally
-(1) Except as provided in subsection (2), every offence against this Act is punishable on summary conviction.
-(2) An offence against any of sections 63(1)(a), 64(1), 65(1), 67(1)(a), and 68(1)(a) is punishable on conviction on indictment.
-(3) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this Act punishable on summary conviction may be laid at any time within 2 years after the earlier of—
-  (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an employee of the Department responsible for the enforcement of this Act; or
-  (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to such an employee.
+### 75 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against any of sections 63(1)(a), 64(1), 65(1), 67(1)(a), and 68(1)(a); and
+  (b) the limitation period in respect of an offence against any other offence against this Act ends on the date that is 2 years after the earlier of—
+    (i) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an employee of the Department responsible for the enforcement of this Act; or
+    (ii) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to such an employee.
 
 ## Part 2 — Miscellaneous provisions
 
@@ -763,7 +763,7 @@ The Registrar may at any time make any amendments to the register that are neces
 ### 85 Appeal to High Court on question of law
 (1) If dissatisfied with a decision of the District Court as being erroneous in law, a party to an appeal under this Part may appeal to the High Court on a question of law only.
 (2) The appeal must be heard and determined in accordance with rules of court.
-(3) Part 4 of the Summary Proceedings Act 1957 (together with other provisions of that Act that are applied in that Part) applies to the appeal—
+(3) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (4) Subsection (3) overrides subsection (2).
@@ -890,7 +890,7 @@ Section 142(1)(j) of the Immigration Act 1987 is repealed.
 Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:Immigration Advisers Licensing Act 2007section 77.
 
 ### 97 Summary Proceedings Act 1957 amended
-Part 2 of Schedule 1 of the Summary Proceedings Act 1957 is amended by inserting the following item in its appropriate alphabetical order:Immigration Advisers Licensing Act 200763(1)(a)Provision of immigration advice unless licensed or exempt64(1)Holding out as immigration adviser unless licensed or exempt65(1)Holding out as licensed immigration adviser67(1)(a)Asking for or receiving fee or reward for immigration advice when neither licensed nor exempt68(1)(a)Employing or contracting unlicensed or non-exempt person as immigration adviser.
+[Repealed]
 
 ## Schedule  — Provisions applying in relation to Tribunal
 
@@ -922,12 +922,12 @@ No person holding office as a member of the Tribunal is deemed by reason of his 
 (3) The power to issue a summons under this clause may be exercised by the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal.
 
 ### 7 Witnesses' expenses
-(1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The Tribunal may disallow the whole or any part of any sum payable under subclause (1).
 
 ### 8 Power to take evidence on oath
 (1) The Tribunal may take evidence on oath and, for that purpose, the Tribunal or any other person acting under the express or implied direction of the Tribunal may administer the oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 9 Protection and privileges of witnesses
 Every person has the same privileges in relation to—as witnesses have in a court of law.
@@ -943,39 +943,3 @@ Neither the Tribunal, nor any member, officer, or agent of the Tribunal, is unde
 
 ### 11 Tribunal to have seal
 The Tribunal must have a seal, which must be judicially noticed in all courts and for all purposes.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
