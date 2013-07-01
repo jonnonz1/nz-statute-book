@@ -1,5 +1,5 @@
 # Credit (Repossession) Act 1997
-_Consolidation as at 2005-06-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to govern the taking of possession of consumer goods by a creditor under a security agreement
 
@@ -133,7 +133,7 @@ A creditor or a creditor’s agent must not exercise a right to enter premises i
   (a) any person who has been convicted within the preceding 5 years of any offence involving violence against the person, or of any crime involving dishonesty within the meaning of section 2 of the Crimes Act 1961:
   (b) any person on whom there has been imposed, at any time, a sentence of imprisonment for a term of 10 years or more or a sentence of imprisonment for life:
   (c) any person who has been released from a prison within the preceding year.
-(2) Every disqualified person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, who, being a creditor or a creditor’s agent,—
+(2) Every disqualified person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, being a creditor or a creditor’s agent,—
   (a) enters, or attempts to enter, any premises for the purpose of taking possession of any consumer goods or for any other purpose in connection with any consumer goods; or
   (b) takes, or attempts to take, possession of any consumer goods.
 (3) Any creditor or creditor’s agent who enters, or attempts to enter premises, is, for the purpose of this section, presumed, in the absence of evidence to the contrary, to be entering for the purpose of taking possession of consumer goods or for another purpose in connection with consumer goods.
@@ -153,7 +153,7 @@ Every creditor or creditor’s agent who exercises a right of entry of premises 
 (3) The creditor or creditor’s agent must take such steps as are reasonably practicable to ensure that the premises are not left obviously open.
 
 ### 19 Offence to obstruct taking possession of consumer goods
-Every person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $10,000 who wilfully and forcibly obstructs a creditor or a creditor’s agent who is lawfully exercising any power to take possession of consumer goods.
+Every person commits an offence against this Act, and is liable on conviction to a fine not exceeding $10,000 who wilfully and forcibly obstructs a creditor or a creditor’s agent who is lawfully exercising any power to take possession of consumer goods.
 
 ## Part 3A — Rules that apply in relation to taking possession of accessions
 
@@ -410,9 +410,8 @@ A District Court has jurisdiction to exercise any of the powers conferred by any
 (4) Any reference in this section to $3,000 is, if a greater amount is from time to time specified in section 10 of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
 (5) The reference in subsection (3) of this section to $5,000 is, if a greater amount is from time to time specified in section 13 of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
 
-### 41 Offences to be punishable on summary conviction
-(1) Every offence against this Act is punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+### 41 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 42 No contracting out
 (1) The provisions of this Act have effect despite any provision to the contrary in any security agreement.
