@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -6975,7 +6975,7 @@ When a party to an appeal notifies the Registrar of the High Court—the appeal 
     (ii) that any application lodged under section 303 has been complied with—
 
 ### 308 Appeals to the Court of Appeal
-(1) Section 144 of the Summary Proceedings Act 1957 applies in respect of a decision of the High Court under section 299 of this Act as if the decision has been made under section 107 of the Summary Proceedings Act 1957.
+(1) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court under section 299 as if the decision had been made under section 300 of that Act.
 (2) Subsection (1) does not apply to appeals against a determination of the High Court under section 299 if that determination related to a decision of the Environment Court under section 149U. Instead, section 149V(3) to (7) apply.
 
 ## Part 11A — Act not to be used to oppose trade competitors
@@ -7447,15 +7447,15 @@ Every abatement notice shall be in the prescribed form and shall state—
     (i) section 283, which relates to non-attendance or refusal to co-operate with the Environment Court:
     (ii) any summons or order to give evidence issued or made pursuant to section 41:
   (c) contravenes, or permits a contravention of, any provision (as provided in Schedule 10) specified in an instrument for the creation of an esplanade strip or in an easement for an access strip, or enters a strip which is closed under section 237C.
-(4) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against subsection (1), (1A), or (1B) may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the local authority or consent authority.
+(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1), (1A), or (1B) ends on the date that is 6 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the local authority or consent authority.
 
 ### 339 Penalties
 (1) Every person who commits an offence against section 338(1), (1A), or (1B) is liable on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 2 years or a fine not exceeding $300,000:
   (b) in the case of a person other than a natural person, to a fine not exceeding $600,000.
 (1A) Every person who commits an offence against section 338(1), (1A), or (1B) is also liable on conviction, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues.
-(2) Every person who commits an offence against section 338(2) is liable on summary conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
-(3) Every person who commits an offence against section 338(3) is liable on summary conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against section 338(2) is liable on conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(3) Every person who commits an offence against section 338(3) is liable on conviction to a fine not exceeding $1,500.
 (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
 (5) If a person is convicted of an offence against section 338, the court may, instead of or in addition to imposing a fine or a term of imprisonment, make 1 or more of the following orders:
   (a) the orders specified in section 314:
@@ -7478,7 +7478,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (1) Where—the court may order that the amount of the fine so unpaid be levied by distress and sale of the ship and its equipment.
   (a) the master or owner of a ship is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
   (b) any fine or other monetary penalty imposed by a court under section 339 or section 339B in respect of that offence is not paid on time,—
-(2) Without limiting subsection (1), where any master or owner of a ship—the agent of the ship shall be civilly liable to pay to the Crown or, where a local authority caused the information in respect of that offence to be laid, to that local authority, such amount of that fine or monetary penalty as remains unpaid and the Crown or that local authority may recover that amount from that agent as a debt.
+(2) Without limiting subsection (1), where any master or owner of a ship—the agent of the ship shall be civilly liable to pay to the Crown or, if the proceedings in relation to the offence were commenced by or on behalf of a local authority, to that local authority, such amount of that fine or monetary penalty as remains unpaid and the Crown or that local authority may recover that amount from that agent as a debt.
   (a) is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
   (b) fails to pay the full amount of any fine or other monetary penalty imposed by the court under section 339 or section 339B,—
 (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
@@ -7535,7 +7535,7 @@ It is a defence to prosecution for an offence of contravening or permitting a co
     (ii) as soon as practicable after that damage occurred, all reasonable steps were taken to prevent the escape of the harmful substance or contaminant or water or, if any such escape could not be prevented, to minimise any escape.
 
 ### 342 Fines to be paid to local authority instituting prosecution
-(1) Subject to subsection (2), where a person is convicted of an offence under section 338 and the court imposes a fine, the court shall, if the information for that offence was laid on behalf of a local authority, order that the fine be paid to that local authority.
+(1) Subject to subsection (2), where a person is convicted of an offence under section 338 and the court imposes a fine, the court shall, if the proceedings in relation to the offence were commenced by or on behalf of a local authority, order that the fine be paid to that local authority.
 (2) There shall be deducted from every amount payable to a local authority under subsection (1), a sum equal to 10% thereof, and this sum shall be credited to a Crown Bank Account.
 (3) Notwithstanding anything in subsection (2), where any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a local authority under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
 (4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the local authority entitled to it under the order.
@@ -7553,12 +7553,12 @@ In sections 343B to 343D—
 
 ### 343B Commission of infringement offence
 Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 343C.
 
 ### 343C Infringement notices
 (1) Where an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) shall be deemed to have been served on that person when it was posted.
+(2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case, it (or the copy) shall be deemed to have been served on that person when it was posted.
 (3) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified for that offence; and
@@ -7624,18 +7624,18 @@ A local authority shall be entitled to retain all infringement fees received by 
 (5) Where a notice or other document is sent by post to a person in accordance with subsection (1)(c) or (d), it shall be deemed, in the absence of proof to the contrary, to be received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
 
 ### 352A Mode of service of summons on master or owner of ship
-(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 338 for contravening sections 15A, 15B, or 15C, service on the defendant of a summons or other document is effected for the purposes of the Summary Proceedings Act 1957—
+(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 338 for contravening sections 15A, 15B, or 15C, service on the defendant of a summons or other document is effected for the purposes of the Criminal Procedure Act 2011—
   (a) if it is delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
   (b) if it is sent to the agent of the ship by registered letter addressed to that agent on behalf of the defendant at the agent's last known or usual place of residence or the agent's place of business.
 (1A) Subsection (1) applies despite any other enactment.
-(2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with section 24 of the Summary Proceedings Act 1957, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
+(2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with rules made under the Criminal Procedure Act 2011, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
 (3) Unless the contrary is shown, the time at which service shall be deemed to have been effected on the defendant shall be,—
   (a) where service is effected in accordance with subsection (1)(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent's attention, as the case may be; or
   (b) where service is effected in accordance with subsection (1)(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post.
 (4) In this section,—
   - **District Court Judge** means a District Court Judge appointed under the District Courts Act 1947
   - **Justice** has the same meaning as in section 2 of the Justice of the Peace Act 1957
-  - **Registrar** has the same meaning as in section 2(1) of the Summary Proceedings Act 1957.
+  - **Registrar** has the same meaning as in section 2(1) of the Criminal Procedure Act 2011.
 
 ### 353 Notices and consents in relation to Maori land
 Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under section 181(4) of that Act, unless otherwise provided by the local authority.
@@ -9696,13 +9696,13 @@ The amendments made by this Act apply to a national policy statement whether the
 (3) Subsections (1) and (2) also apply as if a requirement to alter a designation or heritage order were a requirement for a designation or heritage order.
 
 ### 158 Enforcement proceedings
-(1) Subsection (2) applies to an application for an enforcement order or to an information that—
+(1) Subsection (2) applies to an application for an enforcement order or to a charging document that—
   (a) relates to acts or omissions before the commencement of this section; and
   (b) either—
-    (i) was lodged or laid before the commencement of this section but, immediately before the commencement of this section, had not proceeded to the stage at which no further appeal was possible; or
-    (ii) is lodged or laid after the commencement of this section.
-(2) The application, or the proceedings relating to the information, must be determined as if the amendments made by this Act had not been made.
-(3) The period for laying an information in respect of an offence against section 338(1A) or (1B) of the principal Act is the period specified in section 338(4) of the principal Act, as amended by this Act, only if the offence is committed after the commencement of this section.
+    (i) was lodged or filed before the commencement of this section but, immediately before the commencement of this section, had not proceeded to the stage at which no further appeal was possible; or
+    (ii) is lodged or filed after the commencement of this section.
+(2) The application, or the proceedings relating to the charge, must be determined as if the amendments made by this Act had not been made.
+(3) The period for filing a charging document in respect of an offence against section 338(1A) or (1B) of the principal Act is the period specified in section 338(4) of the principal Act, as amended by this Act, only if the offence is committed after the commencement of this section.
 
 ### 159 Outstanding applications for resource consent where further information requested
 (1) A consent authority must determine that an application for a resource consent has lapsed if—
