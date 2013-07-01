@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato ensure that employees in the State services are imbued with the spirit of service to the community; andbto promote efficiency in the State services and other agencies; andcto ensure the responsible management of the State services; anddto maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeto ensure that every employer in the State services is a good employer; andfto promote equal employment opportunities in the State services; andgto provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhto repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
@@ -773,7 +773,7 @@ Despite the provisions of section 74,—
 
 ### 76 Offence to attempt to influence employer
 (1) Every person commits an offence against this section who directly or indirectly solicits or endeavours to influence, with respect to decisions on the matters described in section 77F, any employer or any other person or persons to whom the employer has, under this Act or any other Act, delegated powers.
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 (3) Nothing in this section shall apply to any person giving information or advice or making representations to the employer or to any other person or persons acting under delegation from the employer in respect of any matter at the request or invitation of the employer or to any other person or persons acting under delegation.
 (4) Nothing in this section is to be construed so as to prevent any union from making representations to the employer or to any other person or persons acting under delegation from the employer on any matter affecting the salaries, wages, or conditions of employment of any employees who are members of that union.
 
@@ -995,7 +995,7 @@ An employer in the State services may contribute to a superannuation scheme for 
 
 ### 85 Offence to attempt to influence Commissioner or chief executive
 (1) Every person commits an offence against this section who directly or indirectly solicits or endeavours to influence the Commissioner or any Commissioner or any chief executive or any other person or persons to whom the Commissioner or the chief executive has delegated powers under section 23 or section 41 with respect to decisions on the matters described in section 5 or section 33.
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 (3) Nothing in this section shall apply to any person giving information or advice or making representations to the Commissioner or to the chief executive or to any other person or persons acting under delegation from the Commissioner or the chief executive in respect of any matter at the request or invitation of the Commissioner or the chief executive or to any other person or persons acting under delegation.
 (4) Nothing in this section shall be construed so as to prevent any organisation, being an organisation representing employees or any class or classes thereof, from making representations to the Commissioner or to the chief executive or to any other person or persons acting under delegation from the Commissioner or the chief executive on any matter affecting the salaries, wages, or conditions of employment of any employee or class of employees.
 (5) Nothing in this section shall be construed so as to prevent the Commissioner from making representations to the chief executive, or the chief executive making representations to the Commissioner, (or to any person or persons acting under delegation in either case) on any matter whatever, whether relating to a decision on an individual employee or otherwise.
