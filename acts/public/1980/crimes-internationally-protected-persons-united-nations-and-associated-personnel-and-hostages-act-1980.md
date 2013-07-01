@@ -1,5 +1,5 @@
 # Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-07-01_
 
 > An Act to give effect to—athe Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, 1973; andbthe Convention Against the Taking of Hostages 1979; andcthe Convention on the Safety of United Nations and Associated Personnel 1994; anddthe Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel 1994;—and for matters incidental to the implementation of those Conventions
 
@@ -19,7 +19,6 @@ _Consolidation as at 2010-11-29_
       (i) the Secretary-General of the United Nations; or
       (ii) a specialised agency of the United Nations; or
       (iii) the International Atomic Energy Agency—
-  - **conviction on indictment** has the same meaning as in section 3 of the Crimes Act 1961
   - **internationally protected person** , in relation to an alleged act or omission that constitutes a crime by virtue of or against any of sections 3 to 6, means—
     (a) a person who, at the time of the alleged act or omission, is—and is outside the territory of the State in which he or she holds office:
       (i) a Head of State; or
@@ -62,7 +61,7 @@ _Consolidation as at 2010-11-29_
   (c) the act or omission is one that constitutes, or would, if done or made in New Zealand, constitute,—
     (i) a crime referred to or described in a provision of the Crimes Act 1961 specified in Schedule 1; or
     (ii) an attempt to commit such a crime, if the crime is not itself constituted by a mere attempt.
-(2) Every one who commits a crime against this section is liable on conviction on indictment to the same penalty to which he or she would have been liable had he or she been charged with a crime against the relevant provision of the Crimes Act 1961.
+(2) Every one who commits a crime against this section is liable on conviction to the same penalty to which he or she would have been liable had he or she been charged with a crime against the relevant provision of the Crimes Act 1961.
 
 ### 4 Crimes against premises or vehicles
 (1) Without limiting anything in the Crimes Act 1961, every one commits a crime who does an act or omits to do an act, if—
@@ -74,7 +73,7 @@ _Consolidation as at 2010-11-29_
   (d) the act or omission is one that constitutes, or would, if done or made in New Zealand, constitute,—
     (i) a crime referred to or described in a provision of the Crimes Act 1961 specified in Schedule 2; or
     (ii) an attempt to commit such a crime, if the crime is not itself constituted by a mere attempt.
-(2) Every one who commits a crime against this section is liable on conviction on indictment to the same penalty to which he would have been liable had he been charged with a crime against the relevant provision of the Crimes Act 1961.
+(2) Every one who commits a crime against this section is liable on conviction to the same penalty to which he would have been liable had he been charged with a crime against the relevant provision of the Crimes Act 1961.
 
 ### 5 Threats against persons
 (1) Every one commits a crime who threatens to do an act, if—
@@ -86,7 +85,7 @@ _Consolidation as at 2010-11-29_
   (b) he or she makes the threat in New Zealand or outside New Zealand; and
   (c) he or she makes the threat to or in relation to a person whom he or she knows to be a United Nations person or an associated person; and
   (d) he or she makes the threat with the intention of compelling the person, or any other person, to do or refrain from doing an act.
-(2) Every one who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding—whichever is the lesser.
+(2) Every one who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding—whichever is the lesser.
   (a) 7 years; or
   (b) the term of years prescribed by the relevant provision of the Crimes Act 1961 in respect of the crime that he would have committed had he carried out his threat in New Zealand,—
 
@@ -104,7 +103,7 @@ _Consolidation as at 2010-11-29_
     (i) premises that he or she knows to be the official premises or private residence of a United Nations person or an associated person; or
     (ii) a vehicle that he or she knows is used by a United Nations person or an associated person; and
   (d) he or she makes the threat with the intention of compelling the person, or any other person, to do or refrain from doing an act.
-(2) Every one who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 years.
+(2) Every one who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding 3 years.
 
 ### 6A Sections 3 to 6 not to apply to certain United Nations operations
 Sections 3 to 6 do not apply, in relation to United Nations personnel and associated personnel, to a United Nations operation—
@@ -129,7 +128,7 @@ Notwithstanding anything in sections 3 to 6, in any proceedings brought under an
   (a) the act of hostage-taking takes place in New Zealand; and
   (b) the alleged offender and the hostage are New Zealand citizens; and
   (c) the alleged offender is in New Zealand.
-(3) Every one who commits the crime of hostage-taking is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(3) Every one who commits the crime of hostage-taking is liable on conviction to imprisonment for a term not exceeding 14 years.
 
 **General provisions**
 
