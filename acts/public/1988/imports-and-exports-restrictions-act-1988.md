@@ -1,5 +1,5 @@
 # Imports and Exports (Restrictions) Act 1988
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -157,9 +157,9 @@ The provisions of this Act are in addition to, and not in substitution for, the 
   (b) in either case, an amount equal to 3 times the value of the goods to which the offence relates,—
 (5) Any goods in respect of which any offence against this section is committed shall be forfeited.
 (6) Any Order in Council made under section 3 or section 3A may prescribe fines, in the case of an individual, not exceeding $5,000, and in the case of a body corporate, not exceeding $25,000, for the breach of any provision of any such Order in Council not being a breach which is an offence against any of the foregoing provisions of this section.
-(7) Every offence against this section or against any Order in Council made under section 3 or section 3A shall be punishable on summary conviction.
-(8) Every information under the Summary Proceedings Act 1957 for an offence against this section or against any Order in Council made under section 3 or section 3A shall be laid by the chief executive.
-(9) Notwithstanding anything in the Summary Proceedings Act 1957, any information for an offence against this section or against any Order in Council made under section 3 or section 3A may be laid within 3 years after the date of the offence.
+(7)
+(8) Proceedings for an offence against this section or against any Order in Council made under section 3 or 3A of this Act must be commenced by the chief executive.
+(9) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section or against any Order in Council made under section 3 or 3A ends on the date that is 3 years after the date on which the offence was committed.
 (10) When the amount of a fine under this section is to be determined by reference to the value of any goods, their value shall be estimated according to the price for which goods of the like kind and of the best quality, on which duties (if any) have been paid, are available in New Zealand at the time of the offence.
 
 ### 5 Delegation of powers by Minister and Secretary
