@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2012-09-28_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1162,7 +1162,7 @@ A creditor or his or her lawyer may at any reasonable time inspect the record of
   (a) any examination of a person summoned by the Assignee; or
   (b) any matter arising in the course of that examination.
 (2) On the Assignee's application, the court may permit publication of a report under the conditions that the court imposes.
-(3) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 or both.
+(3) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 or both.
 
 ### 170 Examination provisions also apply when Assignee appointed receiver and manager of debtor's property
 Sections 165 to 169 also apply when the Assignee has been appointed a receiver and manager of all or part of a debtor's property under section 50, and references in sections 165 to 169 to the bankrupt must be read with all necessary modifications as if they were references to the debtor.
@@ -1724,7 +1724,7 @@ The Assignee may, but is not required to, carry out any duty or exercise any pow
 (1) A person commits an offence if that person—
   (a) makes, or authorises the making of, a claim under section 247(1) that is false or misleading in a material particular knowing that it is false or misleading; or
   (b) omits, or authorises the omission of, any matter from a claim under section 247(1) knowing that the omission makes the claim false or misleading.
-(2) A person who commits an offence under this section is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000 or both.
+(2) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000 or both.
 
 ### 249 Assignee's powers when secured creditor values property subject to charge and proves for balance
 (1) If a secured creditor values the property subject to the charge and seeks to prove for the balance due, the Assignee must—
@@ -2572,8 +2572,8 @@ A summary instalment order is not current if it has been discharged or all the i
 (2) It is a defence if A proves,—
   (a) in a case to which subsection (1)(b)(i) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was affected by a summary instalment order:
   (b) in a case to which subsection (1)(b)(ii) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was affected by a summary instalment order.
-(3) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
-(4) No matter what section 14 of the Summary Proceedings Act 1957 says, an information for an offence under this section may be laid at any time within 2 years after the time when the matter of the information arose.
+(3) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
+(4)
 
 ### Subpart 4 — No asset procedure
 
@@ -2644,8 +2644,8 @@ A debtor who has applied for entry to the no asset procedure must not obtain cre
 (2) It is a defence if A proves,—
   (a) in a case to which subsection (1)(a) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was admitted to the no asset procedure:
   (b) in a case to which subsection (1)(b) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was admitted to the no asset procedure.
-(3) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
-(4) Despite anything that section 14 of the Summary Proceedings Act 1957 says, an information for an offence under this section may be laid at any time within 2 years after the date of the offence.
+(3) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
+(4)
 
 **Termination and discharge**
 
@@ -2993,8 +2993,6 @@ A notice of appeal does not halt proceedings under the decision under appeal unl
 
 ### Subpart 3 — Offences by bankrupt
 
-**Indictable offences**
-
 ### 419 Offences in relation to debts
 (1) A bankrupt (B) commits an offence if B did not, when contracting a debt, expect to be able to pay the debt when it fell due for payment, as well as pay all B's other debts (including future and contingent debts).
 (2) A bankrupt (B) commits an offence if B has materially contributed to, or increased the extent of, B's insolvency by gambling or by rash and hazardous speculations or by unjustifiable spending or by extravagance in living.
@@ -3056,8 +3054,9 @@ A bankrupt (B) commits an offence if, after an application for B's adjudication 
 (3) A bankrupt (B) does not commit an offence under section 421 if B proves that at the material time B had no intention to deceive.
 (4) A bankrupt (B) does not commit an offence under section 422(a), (b), or (d) if B proves that at the material time B had no intent to conceal the state of his or her affairs or to defeat the law.
 
-### 428 Penalties for indictable offences by bankrupt
-A bankrupt who commits an offence under any of sections 419 to 426 is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $10,000 or both.
+### 428 Penalties for offences under sections 419 to 426 by bankrupt
+(1) A bankrupt who commits an offence under any of sections 419 to 426 is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $10,000 or both.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against any of sections 419 to 426.
 
 **Offences in relation to record of transactions**
 
@@ -3065,14 +3064,15 @@ A bankrupt who commits an offence under any of sections 419 to 426 is liable on 
 (1) A bankrupt (B) commits an offence if, for any period during the 3 years immediately before B's adjudication,—
   (a) B might reasonably be expected, because of B's occupation or transactions for the period, to keep a record of those transactions; and
   (b) B failed to keep and preserve a proper record of the transactions.
-(2) Despite anything that the Summary Proceedings Act 1957 says, an information for an offence under this section may be laid against a bankrupt at any time within 2 years after the date of his or her adjudication.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence under this section ends on the date that is 2 years after the date of his or her adjudication.
 
 ### 430 Failure to keep proper records with intent to conceal
-A bankrupt (B) commits an offence if, with intent to conceal the true state of his or her affairs, B has failed to keep and preserve a proper record of B's transactions.
+(1) A bankrupt (B) commits an offence if, with intent to conceal the true state of his or her affairs, B has failed to keep and preserve a proper record of B's transactions.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
 
 ### 431 Penalties for offences relating to records
-(1) A person who commits an offence under section 429 is liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
-(2) A person who commits an offence under section 430 is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $10,000 or both.
+(1) A person who commits an offence under section 429 is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
+(2) A person who commits an offence under section 430 is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $10,000 or both.
 
 ### 432 When bankrupt deemed not to have kept or preserved proper record
 (1) For the purposes of sections 429 and 430, a bankrupt (B) is deemed not to have kept a proper record of his or her transactions if, being engaged in any trade or business, B has not kept the necessary books and accounts.
@@ -3087,9 +3087,9 @@ A bankrupt (B) commits an offence if, with intent to conceal the true state of h
   (b) a record of all goods purchased in the course of B's business, with the original invoices:
   (c) a daily record of all goods sold on credit.
 
-**Summary offences**
+**Offences in relation to Assignee**
 
-### 433 Summary offences
+### 433 Offences in relation to Assignee
 (1) A bankrupt (B) commits an offence if B—
   (a) fails without reasonable excuse to do any of the things required of B by section 67 or 87 or subpart 2 of Part 3 or subpart 5 of Part 3 or to comply with any of the provisions of section 299 or 307; or
   (b) refuses or neglects to answer fully and truthfully all proper questions put to B at any examination held under this Act; or
@@ -3098,18 +3098,24 @@ A bankrupt (B) commits an offence if, with intent to conceal the true state of h
   (e) has within 2 years before B's adjudication, at a time when B was unable to pay B's debts as they became due, given, with intent to defraud B's creditors, any undue preference to any of B's creditors; or
   (f) while a bankrupt and without having first obtained the consent of the Assignee,—
     (i) leaves, or attempts to leave, New Zealand, temporarily or permanently; or
-    (ii) makes preparations for leaving New Zealand, temporarily or permanently; or
-  (g) before B obtains a final order or discharge, or before a suspended order of discharge takes effect under this Act,—
-    (i) alone, or jointly with another person, obtains credit of $1,000 or more; or
-    (ii) incurs liability to any person of $1,000 or more for the purpose of obtaining credit for another person.
-(2) Despite anything that section 14 of the Summary Proceedings Act 1957 says, an information for any of the offences in subsection (1) may be laid against a bankrupt at any time within 2 years after the date of the offence.
+    (ii) makes preparations for leaving New Zealand, temporarily or permanently.
+  (g)
+(2)
 
-### 434 Defences to summary offences of obtaining credit
-(1) A bankrupt (B) does not commit an offence under section 433(1)(g)(i) if B proves that, before obtaining the credit of $1,000 or more, B informed the person giving the credit that B was an undischarged bankrupt.
-(2) A bankrupt (B) does not commit an offence under section 433(1)(g)(ii) if B proves that, before incurring the liability of $1,000 or more, the person giving the credit was informed that the person incurring the liability was an undischarged bankrupt.
+### 433A Offence in relation to obtaining credit
+A bankrupt (B) commits an offence if B, before B obtains a final order or discharge, or before a suspended order of discharge takes effect under this Act,—
+  (a) alone, or jointly with another person, obtains credit of $1,000 or more; or
+  (b) incurs liability to any person of $1,000 or more for the purpose of obtaining credit for another person.
 
-### 435 Penalty for summary offences by bankrupt
-A person who commits an offence under section 433(1) is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 or both.
+### 434 Defences to offence of obtaining credit
+(1) A bankrupt (B) does not commit an offence under section 433A(a) if B proves that, before obtaining the credit of $1,000 or more, B informed the person giving the credit that B was an undischarged bankrupt.
+(2) A bankrupt (B) does not commit an offence under section 433A(b) if B proves that, before incurring the liability of $1,000 or more, the person giving the credit was informed that the person incurring the liability was an undischarged bankrupt.
+
+### 434A Limitation period for offences against section 433 or 433A
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence against section 433 or 433A ends on the date that is 2 years after the date on which the offence was committed.
+
+### 435 Penalty for offences under sections 433 and 433A
+A person who commits an offence under section 433 or 433A is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000, or both.
 
 **Offences in relation to management of companies**
 
@@ -3117,18 +3123,16 @@ A person who commits an offence under section 433(1) is liable on summary convic
 (1) A bankrupt commits an offence if he or she—
   (a) acts as a director of a company; or
   (b) fails without reasonable excuse to comply with section 149.
-(2) Despite anything that section 14 of the Summary Proceedings Act 1957 says, an information in respect of an offence under subsection (1) may be laid at any time within 2 years after the date of the offence.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (1) ends on the date that is 2 years after the date on which the offence was committed.
 
 ### 437 Penalties for offence in relation to management of companies
-A person who commits an offence under section 436 is liable,—
-  (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years:
-  (b) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
+A person who commits an offence under section 436 is liable, on conviction, to imprisonment for a term not exceeding 2 years.
 
 **Assignee's discretion to prosecute**
 
 ### 438 Assignee may prosecute if reasonable grounds certified by Crown Solicitor
 (1) If the Assignee has reason to suspect that a person (X) has committed an offence under this Act, the Assignee may refer the case to the appropriate Crown Solicitor.
-(2) The Assignee may lay an information against X if the Crown Solicitor certifies that there are reasonable grounds for prosecuting X.
+(2) The Assignee may file a charging document against X if the Crown Solicitor certifies that there are reasonable grounds for prosecuting X.
 
 ### 439 Assignee has immunity for prosecution if certificate given by Crown Solicitor
 No action may be taken against the Assignee for malicious prosecution in relation to a prosecution under this Act if the Crown Solicitor certified that there were reasonable grounds for bringing the prosecution.
@@ -3140,7 +3144,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (a) makes a statement to any Assignee or person concerned in the administration of this Act, knowing that the statement is false in a material particular; or
   (b) wilfully misleads, or attempts to mislead, any Assignee or person concerned in the administration of this Act; or
   (c) without reasonable excuse, fails or refuses to answer any question put to him or her by the Assignee.
-(2) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
+(2) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
 
 ### 441 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
