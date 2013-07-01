@@ -1,5 +1,5 @@
 # Unsolicited Goods and Services Act 1975
-_Consolidation as at 1987-03-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide greater protection for the recipients of unsolicited goods or of invoices in respect of unordered goods or services
 
@@ -38,7 +38,7 @@ Every person commits an offence who, not having reasonable cause to believe ther
   (a) brings or threatens to bring any legal proceedings; or
   (b) places or causes to be placed the name of any person on a list of defaulters or debtors or threatens to do so; or
   (c) invokes or causes to be invoked any other collection procedures or threatens to do so.
-(2) Every person who commits an offence against this section is liable on summary conviction—
+(2) Every person who commits an offence against this section is liable on conviction—
   (a) in the case of an individual, to a fine not exceeding $750; or
   (b) in the case of a body corporate, to a fine not exceeding $1,500.
 
@@ -49,7 +49,7 @@ Notwithstanding any Act or rule of law to the contrary, the recipient of unsolic
 
 ### 7 Ordering goods without authority
 (1) No person shall make a request in the name of another person that goods be sent to that other person where, if those goods were sent to that other person, those goods would be unsolicited goods unless the first-mentioned person has the express or implied authority of that other person to make that request.
-(2) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $300.
+(2) Every person who acts in contravention of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $300.
 
 ### 8 Invoices for unordered goods and services
 (1) Every person commits an offence who, not having reasonable cause to believe there is a right to payment, sends to another person any invoice, or document that has the appearance of an invoice, in respect of goods or services that have not been ordered or requested by the person to whom the invoice or document has been sent.
@@ -74,7 +74,7 @@ Notwithstanding any Act or rule of law to the contrary, the recipient of unsolic
   (b) rendering in a country to which this section applies a service which, if rendered in New Zealand would have been a prescribed service, unless in relation to the contract for rendering the service subsection (1) of section 9 or a provision in the law of that country, being a provision that corresponds to that subsection, has been complied with.
 
 ### 11 General penalty
-Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on summary conviction—
+Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction—
   (a) in the case of an individual, to a fine not exceeding $500; or
   (b) in the case of a body corporate, to a fine not exceeding $1,000.
 
