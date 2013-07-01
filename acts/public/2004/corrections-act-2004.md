@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2013-06-04_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -418,7 +418,7 @@ A hearing adjudicator has the following powers and functions:
   (b) ceases to hold office if he or she dies:
   (c) ceases to hold office if he or she is, under the Insolvency Act 2006, adjudged bankrupt:
   (d) may, at any time, be removed from the office by the Governor-General for inability to perform the functions of office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General:
-  (e) has and enjoys, in the performance of his or her duties under this Act, the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under Part 7 of the Summary Proceedings Act 1957.
+  (e) has and enjoys, in the performance of his or her duties under this Act, the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under sections 4A to 4F of the Justices of the Peace Act 1957.
 
 ### 19A Health centre managers
 (1) For every prison (not being a contract prison or Police jail), the chief executive must appoint, under the State Sector Act 1988, a health centre manager.
@@ -572,6 +572,13 @@ The chief executive must appoint as many suitable employees of the department as
     (ii) a further period of detention in a Police jail that extends beyond the period authorised under paragraph (b) is justified,—
 (6) The chief executive must consult with the Commissioner of Police before exercising the power conferred by subsection (5)(b).
 (7) In this section, references to persons sentenced to imprisonment include references to persons committed to prison or otherwise liable to be detained in custody, except for the purposes of any remand pending or during trial or sentence.
+
+### 34A Detention of child or young person serving sentence of imprisonment
+(1) Notwithstanding anything in this Act,—
+  (a) any young person who is serving a sentence of imprisonment may be detained under that sentence in any residence approved by the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 and the chief executive; and
+  (b) any child who is serving a sentence of imprisonment must be detained under that sentence in such a residence.
+(2) The provisions of this Act and of the Parole Act 2002, and regulations made under those Acts, continue to apply, with any necessary modifications, to a child or young person who is detained for the time being in a residence in accordance with subsection (1).
+(3) For the purposes of this section, the terms child, young person, and residence have the same meanings as they have in the Children, Young Persons, and Their Families Act 1989.
 
 ### 35 Detention during transit
 (1) While any prisoner or other person in custody is being taken to or from any prison, he or she may be detained in any other prison or in a Police station or hospital.
@@ -938,7 +945,7 @@ Any temporary removal from prison under section 62—
 
 ### 65 Removal of prisoner for judicial purposes
 (1) A prisoner may be—
-  (a) brought up for trial, summary hearing, or sentence (or for any bail application, remand, adjournment, or other ancillary proceeding); and
+  (a) brought up for trial or sentence (or for any bail application, remand, adjournment, or other ancillary proceeding); and
   (b) removed by or under the direction of the prison manager from one prison to another or from one place of confinement to another for any of these purposes or for the purpose of undergoing sentence.
 (2) Subsection (3) applies if—
   (a) a prisoner is charged with an offence, not being the offence for which the prisoner is in custody; or
@@ -1874,10 +1881,10 @@ Any hearing or application under any of sections 133 to 138 may be conducted or,
   (g) without reasonable excuse, has in his or her possession any unauthorised item while in a prison:
   (h) attempts to do any of the things described in paragraphs (a) to (g).
 (1A) Subsection (1)(g) does not apply to a prisoner.
-(1B) A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both, who—
+(1B) A person is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both, who—
   (a) commits an offence against subsection (1)(a), (b), (c), or (g); or
   (b) commits an offence against subsection (1)(h) by attempting to do any thing described in subsection (1)(a), (b), (c), or (g).
-(1C) A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both, who—
+(1C) A person is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both, who—
   (a) commits an offence against any of subsection (1)(d) to (f); or
   (b) commits an offence against subsection (1)(h) by attempting to do any thing described in any of subsection (1)(d) to (f).
 (2) Subsection (1)(e) and (f) do not apply to anything done by an officer, staff member, or probation officer in the course of his or her duties.
@@ -1891,10 +1898,10 @@ Any hearing or application under any of sections 133 to 138 may be conducted or,
 (1) Every prisoner (whether inside or outside a prison) commits an offence who, except with the express authority of the prison manager or the chief executive,—
   (a) uses an electronic communication device knowing that he or she is not authorised to use it; or
   (b) knowingly has an electronic communication device in his or her possession.
-(2) A prisoner who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both.
+(2) A prisoner who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both.
 
 ### 142 Trespassing in, or loitering about, prison
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both who,—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both who,—
   (a) without reasonable excuse, deliberately trespasses on any land, knowing or having reasonable cause to believe that it is part of a prison; or
   (b) loiters about a place where prisoners are detained or employed, and refuses or fails to leave after being warned by a constable or a staff member of the prison.
 
@@ -1903,8 +1910,8 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (a) holds or attempts to hold any restricted communication with a prisoner outside a prison under the control of any person, without the permission of the person under whose control the prisoner is; or
   (b) delivers or attempts to deliver, or causes to be delivered, to any prisoner outside a prison under the control of any person any thing, without the permission of the person under whose control the prisoner is.
 (2) Subsection (1)(a) does not apply to any thing done by an officer, staff member, or probation officer in the course of his or her duties.
-(2A) A person who commits an offence against subsection (1)(a) or (b) is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
-(2B) Despite subsection (2A), an officer, staff member, or probation officer who commits an offence against subsection (1)(b) is liable to imprisonment for a term not exceeding 12 months, to a fine not exceeding $5,000, or to both.
+(2A) A person who commits an offence against subsection (1)(a) or (b) is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
+(2B) Despite subsection (2A), an officer, staff member, or probation officer who commits an offence against subsection (1)(b) is liable on conviction to imprisonment for a term not exceeding 12 months, to a fine not exceeding $5,000, or to both.
 (3) In this section restricted communication means—
   (a) any communication that may prejudice the maintenance of the law, the safe custody of the prisoner, the well-being of any victim of an offence committed by that prisoner, the safety of any person, or the security of any prison:
   (b) any communication whatsoever that takes place after the person, in whose control the prisoner is, has forbidden that communication or directed that it cease.
@@ -1913,16 +1920,16 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 (1) Every person commits an offence who, not being an employee of the department on whom powers or functions are conferred by this Act or a security officer, by words, conduct, or demeanour,—
   (a) pretends that he or she is an employee of the department with powers or functions under this Act or a security officer; or
   (b) puts on or assumes the dress, name, designation, or description of an employee of the department with powers or functions under this Act or a security officer.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
 
 ### 145 Failure to comply with direction or requirement under section 101(2)
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse, fails to comply with any direction or requirement given or made by an officer under section 101(2).
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse, fails to comply with any direction or requirement given or made by an officer under section 101(2).
 
 ### 146 Contravention of section 110A or 118
-Every person who acts in contravention of section 110A or 118 commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+Every person who acts in contravention of section 110A or 118 commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 147 Injuring, interfering with, or obstructing dog used for searching
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both who, without lawful excuse,—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both who, without lawful excuse,—
   (a) injures a dog used or intended to be used for searching under section 97; or
   (b) intentionally interferes with, or obstructs, such a dog.
 
@@ -1932,7 +1939,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (b) intentionally fails to provide assistance under section 191.
 (2) It is a defence in any proceedings for an offence against subsection (1)(a) if the court is satisfied that the Minister did not have reasonable grounds for believing that in all the circumstances of the case the direction to requisition property was necessary for the safe custody and welfare of prisoners.
 (3) It is a defence in any proceedings for an offence against subsection (1)(b) if the court is satisfied that the person had reasonable grounds for not providing assistance.
-(4) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+(4) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $5,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -2549,6 +2556,12 @@ If a prison manager believes on reasonable grounds that an unauthorised electron
     (i) the reports forwarded to the chief executive under section 199D(1A), (2), and (3); and
     (ii) the reports made to the chief executive under section 199E(3)(b)—
   (b) a summary of any actions taken, during that year, in relation to the management of contract prisons as a result of any matters raised in any report so forwarded or made, whether during that year or any previous year.
+
+### 190A Minister may approve subsidies for voluntary groups
+(1) The Minister may from time to time, with the concurrence of the Minister of Finance, approve the payment, out of money appropriated by Parliament for the purpose, of contributions towards the expenses of—
+  (a) any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme involved with the care of persons detained in or released from prisons or subject to community-based sentences:
+  (b) any organisation, whether formed before or after the commencement of this Act, that has as its object or one of its objects the assistance of persons detained in or released from prisons or subject to community-based sentences.
+(2) In approving any contribution, the Minister may impose any conditions that the Minister thinks fit with respect to its expenditure and accounting for that expenditure.
 
 **Requisitioning of land and buildings for use as temporary corrections prisons**
 
