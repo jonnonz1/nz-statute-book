@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -68,7 +68,7 @@ This Act may be cited as the Local Authorities (Members' Interests) Act 1968.
 (2) Every person whose office is vacated pursuant to subsection (1) shall thereby be disqualified for being elected or appointed as a member of the local authority or committee, as the case may be, until the next general or ordinary election or appointment, as the case may be, of members thereof.
 
 ### 5 Penalty for acting unlawfully
-Every person commits an offence who does any act as a member of any local authority or of a committee thereof while incapacitated under section 3, and is liable on summary conviction to a fine not exceeding $200.
+Every person commits an offence who does any act as a member of any local authority or of a committee thereof while incapacitated under section 3, and is liable on conviction to a fine not exceeding $200.
 
 ### 6 Member of local authority or committee not to discuss or vote on question in which he has pecuniary interest
 (1) A member of a local authority or of a committee thereof shall not vote on or take part in the discussion of any matter before the governing body of that local authority or before that committee in which he has, directly or indirectly, any pecuniary interest, other than an interest in common with the public.
@@ -106,7 +106,7 @@ Every person commits an offence who does any act as a member of any local author
   (k) any Fire Brigade Committee—
 
 ### 7 Penalty for discussing or voting when pecuniarily interested
-(1) Where any person does any act in contravention of or fails to comply with any provision of subsection (1) of section 6, he commits an offence and is liable on summary conviction to a fine not exceeding $100.
+(1) Where any person does any act in contravention of or fails to comply with any provision of subsection (1) of section 6, he commits an offence and is liable on conviction to a fine not exceeding $100.
 (2) It shall be a defence in proceedings for an offence against subsection (1) if the defendant proves that when he took part in the discussion of, or, as the case may be, voted on, the matter before the local authority or committee he did not know and had no reasonable opportunity of knowing that he had a pecuniary interest in that matter other than an interest in common with the public.
 (3) On the conviction of any person under subsection (1), he shall be deemed to have been granted leave of absence from the local authority and from every committee thereof, and shall not be capable of acting as a member of the local authority or of any committee thereof—
   (a) if no appeal is lodged against the conviction, until the time for lodging an appeal against the conviction has expired:
