@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -1945,7 +1945,7 @@ The Director-General may amend or revoke any dog control permit issued under sec
 (2) The Director-General may, in the Director-General's absolute discretion, refund or waive payment of all or any part of any sum paid or required to be paid under this section.
 
 ### 26ZZP Offences
-Every person commits an offence against this Act and is liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000 or to both who,—
+Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000 or to both who,—
   (a) being the owner of a dog or a person in charge of a dog, allows that dog, in contravention of section 26ZZG, to enter or remain in any part of a controlled dog area; or
   (b) being the holder of a dog control permit issued to that person under section 26ZZH(1), takes any dog to which that permit relates into any part of the controlled dog area otherwise than in accordance with the conditions of that permit; or
   (c) being the owner of a dog or a person in charge of a dog, fails to keep under his or her immediate or apparent control a dog that he or she has taken into a controlled dog area; or
@@ -1955,12 +1955,12 @@ Every person commits an offence against this Act and is liable on summary convic
 (1) A person commits an offence if the person is the owner, or a person in charge, of a dog that attacks protected wildlife in a controlled dog area or an open dog area and causes—
   (a) the death of protected wildlife; or
   (b) injury to protected wildlife so that it becomes necessary to destroy the wildlife to end its suffering.
-(2) The person is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000, or both.
+(2) The person is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000, or both.
 (3) The court must, on convicting the person, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
 
 ### 26ZZR Power of warranted officer to request information
 (1) Any warranted officer may, for the purposes of dog control in any controlled dog area, request any person who is in that controlled dog area and who appears to be in charge of any dog to state his or her own name, address, and date of birth, and, where that person claims not to be the owner of the dog, to state the name and address of the owner of the dog.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, without reasonable excuse, fails or refuses to comply with any lawful request under subsection (1), or wilfully states a false name or address or date of birth in response to such a request.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, without reasonable excuse, fails or refuses to comply with any lawful request under subsection (1), or wilfully states a false name or address or date of birth in response to such a request.
 (3) Any warranted officer who is a constable and who—may arrest that person without a warrant.
   (a) has good cause to suspect that an offence against subsection (2) has been committed by any person; and
   (b) has warned that person of the provisions of this subsection; and
@@ -2137,8 +2137,8 @@ Every person commits an offence who—
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on that person by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ### 43 Proceedings for offences
-(1) Subject to subsection (2), all proceedings in respect of offences against this Act shall be under the Summary Proceedings Act 1957.
-(2) Notwithstanding section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 1 year of the time when the alleged offence was committed.
+(1) Subject to subsection (2), all proceedings in respect of offences against this Act shall be under the Criminal Procedure Act 2011.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 (3) Prosecutions and proceedings in respect of offences under this Act may be commenced and taken in the name of the Director-General.
 (4) The court by which any person is convicted of any offence against this Act may direct that any part (not exceeding half) of any fine recovered shall be paid to any person instrumental in securing the conviction (not being a person in the employment of the Crown acting in the course of the person's official duties); and that part of the fine shall be paid to the person by the Registrar of the court in which the conviction is recorded.
 (5) A direction of the court under subsection (4) shall not be entered in the conviction concerned, but shall form the subject matter of a separate order.
@@ -2183,7 +2183,7 @@ Every person who commits an offence against this Act for which no penalty is pre
     (i) if it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, kept in the custody of the Director-General:
     (ii) in every other case, it shall be delivered to the person who is entitled to its custody under the Protected Objects Act 1975.
 (7) Any person whose property has been forfeited to the Crown under this section or any person having a legal or equitable interest in any such property (being, in neither case, a person convicted of an offence out of which the forfeiture arose) may apply to the Minister within 30 days of the conviction concerned for the release of the property forfeited; and the Minister may order the release of the property on payment to the Crown of any amount the Minister thinks appropriate, being an amount not exceeding the amount the items forfeited are estimated by the Director-General to be likely to realise if sold by public auction in New Zealand.
-(7A) Notwithstanding anything in this section, the following provisions shall apply where a prosecution is commenced on the information of an officer of a Fish and Game Council:
+(7A) Notwithstanding anything in this section, the following provisions shall apply where a prosecution is commenced by an officer of a Fish and Game Council:
   (a) the forfeited property shall be disposed of by the Minister to that Council for the purposes of sale and may be sold by that Council, and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council:
   (b) subject to section 73(2) of the Public Finance Act 1989, all fines imposed and recovered in proceedings taken by a Fish and Game Council for any breach of this Act or any regulations or notice made under this Act shall be paid to the Council of the region or district in which the fines were received, for the purpose of the distribution, rearing, cultivation, and protection of fish in the region or district of that Council.
 (8) Any forfeiture directed, or redemption payment imposed, under this section shall be in addition to, and not in substitution for, any other penalty that may be imposed.
@@ -2698,39 +2698,3 @@ This Act amends the Conservation Act 1987.
 ### 8 Transitional provision for application for concession if process initiated
 (1) This section applies if, before the commencement of this Act, the Minister exercised a power under section 17ZG(2)(a) to initiate a process that relates to any application for a concession.
 (2) The principal Act, as amended by this Act, applies to the process, and any application for a concession to which the process relates, which is made or proposed to be made on or after the commencement of this Act, must be dealt with accordingly.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
