@@ -1,5 +1,5 @@
 # Companies Reregistration Act 1993
-_Consolidation as at 1998-06-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the reregistration of existing companies under the Companies Act 1993
 
@@ -250,10 +250,10 @@ If a company that is deemed to have been reregistered in accordance with section
 (2) Section 391 of the Companies Act 1993 shall apply, with such modifications as may be necessary, in relation to the sending of any notice or other document under this Act to a specified person.
 
 ### 17 Offences
-(1) Every director of a company who,—commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(1) Every director of a company who,—commits an offence and is liable on conviction to a fine not exceeding $5,000.
   (a) having voted in favour of a resolution referred to in subsection (1)(a)(ii) of section 4, fails to sign a certificate in accordance with subsection (1)(b) of that section; or
   (b) having voted in favour of a resolution referred to in paragraph (b) of subsection (1) of section 6, fails to sign a certificate in accordance with paragraph (c) of that subsection,—
-(2) Where a company fails to comply with section 10(4), the company and every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Where a company fails to comply with section 10(4), the company and every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) It is a defence to a director charged with an offence against subsection (2) if the director proves that—
   (a) the company took all reasonable and proper steps to ensure that the requirements of section 10(4) would be complied with; or
   (b) he or she took all reasonable steps to ensure that the company complied with the requirements of that subsection; or
