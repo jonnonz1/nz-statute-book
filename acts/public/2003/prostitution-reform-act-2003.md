@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -69,7 +69,7 @@ No contract for the provision of, or arranging the provision of, commercial sexu
   (c) if the person operates a brothel, display health information prominently in that brothel; and
   (d) not state or imply that a medical examination of a sex worker means the sex worker is not infected, or likely to be infected, with a sexually transmissible infection; and
   (e) take all other reasonable steps to minimise the risk of sex workers or clients acquiring or transmitting sexually transmissible infections.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) The obligations in this section apply only in relation to commercial sexual services provided for the business and to sex workers and clients in connection with those services.
 (4) In this section, health information means information on safer sex practices and on services for the prevention and treatment of sexually transmissible infections.
 
@@ -77,7 +77,7 @@ No contract for the provision of, or arranging the provision of, commercial sexu
 (1) A person must not provide or receive commercial sexual services unless he or she has taken all reasonable steps to ensure a prophylactic sheath or other appropriate barrier is used if those services involve vaginal, anal, or oral penetration or another activity with a similar or greater risk of acquiring or transmitting sexually transmissible infections.
 (2) A person must not, for the purpose of providing or receiving commercial sexual services, state or imply that a medical examination of that person means that he or she is not infected, or likely to be infected, with a sexually transmissible infection.
 (3) A person who provides or receives commercial sexual services must take all other reasonable steps to minimise the risk of acquiring or transmitting sexually transmissible infections.
-(4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 10 Application of Health and Safety in Employment Act 1992
 (1) A sex worker is at work for the purposes of the Health and Safety in Employment Act 1992 while providing commercial sexual services.
@@ -90,7 +90,7 @@ No contract for the provision of, or arranging the provision of, commercial sexu
   (a) broadcast on radio or television; or
   (b) published in a newspaper or periodical, except in the classified advertisements section of the newspaper or periodical; or
   (c) screened at a public cinema.
-(2) A person who does any of the things described in subsection (1), or who authorises any of the things described in that subsection to be done, commits an offence and is liable on summary conviction to,—
+(2) A person who does any of the things described in subsection (1), or who authorises any of the things described in that subsection to be done, commits an offence and is liable on conviction to,—
   (a) in the case of a body corporate, a fine not exceeding $50,000; and
   (b) in any other case, a fine not exceeding $10,000.
 (3) In this section, advertisement means any words, or any pictorial or other representation, used to notify the availability of, or promote the sale of, commercial sexual services, either generally or specifically.
@@ -137,7 +137,7 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
     (ii) of any other misconduct that is likely to damage seriously the reputation of any person; or
     (iii) that any person is unlawfully in New Zealand:
   (d) supply, or withhold supply of, any controlled drug within the meaning of the Misuse of Drugs Act 1975.
-(3) Every person who contravenes subsection (1) commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(3) Every person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 14 years.
 
 ### 17 Refusal to provide commercial sexual services
 (1) Despite anything in a contract for the provision of commercial sexual services, a person may, at any time, refuse to provide, or to continue to provide, a commercial sexual service to any other person.
@@ -179,7 +179,7 @@ No person may receive a payment or other reward that he or she knows, or ought r
 (2) No person may receive commercial sexual services from a person under 18 years of age.
 
 ### 23 Offence to breach prohibitions on use in prostitution of persons under 18 years
-(1) Every person who contravenes section 20, section 21, or section 22 commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+(1) Every person who contravenes section 20, section 21, or section 22 commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years.
 (2) No person contravenes section 20 merely by providing legal advice, counselling, health advice, or any medical services to a person under 18 years of age.
 (3) No person under 18 years of age may be charged as a party to an offence committed on or with that person against this section.
 
@@ -238,7 +238,7 @@ No person may receive a payment or other reward that he or she knows, or ought r
 (4) Section 199 of the Summary Proceedings Act 1957 applies to any thing seized in the course of an inspection (as if the inspector were a constable and with any other necessary modifications).
 
 ### 29 Obstructing inspectors
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who intentionally obstructs, hinders, or deceives an inspector in the execution of a power or duty under this Act.
+Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who intentionally obstructs, hinders, or deceives an inspector in the execution of a power or duty under this Act.
 
 **Powers of entry**
 
@@ -264,7 +264,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 
 ### 34 Operators of businesses of prostitution to hold certificates
 (1) Every operator of a business of prostitution (other than a company) must hold a certificate issued under section 35.
-(2) Every person who, while required by subsection (1) to hold a certificate, does not hold a certificate commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who, while required by subsection (1) to hold a certificate, does not hold a certificate commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) If a person who is charged under subsection (2) claims that he or she is not an operator because he or she is a sex worker at a small owner-operated brothel and is not an operator of any other business of prostitution, it is for the person charged to prove that assertion on the balance of probabilities.
 (4) Despite subsection (2), no person may be convicted of an offence under that subsection if the period during which the person does not hold a certificate is the first 6 months after this section comes into force.
 
@@ -338,11 +338,11 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (a) is disqualified from holding a certificate as a result of a conviction for any offence referred to in section 36(2); or
   (b) has had his or her waiver of disqualification cancelled.
 (2) The cancellation of the certificate takes effect 5 days after notification of the cancellation is sent to the certificate holder at the address supplied in his or her application for a certificate.
-(3) A person whose certificate is cancelled commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
+(3) A person whose certificate is cancelled commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
 
 ### 40 Operator to produce certificate on request
 (1) A constable may, on producing evidence that he or she is a constable, require any person whom the member believes on reasonable grounds is an operator to produce that person's certificate for inspection, and the person must produce his or her certificate to the member, or to another constable at a local Police station, within 24 hours of the request.
-(2) If a request under subsection (1) is made to the holder of a certificate, that holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to produce his or her certificate as required by that subsection.
+(2) If a request under subsection (1) is made to the holder of a certificate, that holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to produce his or her certificate as required by that subsection.
 
 ### 41 Court records
 (1) Court records concerning the identity of applicants for certificates, applicants for waiver of disqualification, and certificate holders may be searched, inspected, or copied only by—
@@ -350,7 +350,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (b) the Registrar; and
   (c) the Police, but only for the purpose of investigating an offence.
 (2) Nothing in this section limits the power of the Registrar to prepare and supply (whether for use by the Department for Courts or any other purpose) statistical information about applicants for certificates, applicants for waiver of disqualification, and certificate holders, as long as the information is supplied in a form that does not identify individual applicants or certificate holders.
-(3) A person who, in contravention of this section, obtains or uses information that is sourced from, or purports to be sourced from, the court records referred to in this section commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) A person who, in contravention of this section, obtains or uses information that is sourced from, or purports to be sourced from, the court records referred to in this section commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -436,39 +436,3 @@ Amendment(s) incorporated in the Act(s).
   (c) imposing a penalty for the offence.
 
 ## Schedule  — Consequential amendments to enactments
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
