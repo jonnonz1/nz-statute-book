@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2011-10-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -2112,7 +2112,7 @@ In proceedings brought under this Act with respect to a literary, dramatic, or m
 (8)
 
 ### 131A Time for laying information
-Despite section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against section 131 may be laid at any time within 3 years of the time when the matter of the information arose.
+[Repealed]
 
 ### 132 Order for delivery up in criminal proceedings
 (1) The court before which proceedings are brought against a person for an offence against section 131 may, if it is satisfied that, at the time of the defendant's arrest or charge,—order that the infringing copy or object be delivered up to the copyright owner or to such other person as the court may direct.
@@ -3278,7 +3278,7 @@ The rights conferred by this Part exist in relation to a performance until the e
   (a) without the consent of the performer, if the person knows that the recording was made without the performer's consent; or
   (b) if the copy is made for purposes different from those for which the performer gave his or her consent, and the person knows that the performer has not consented to the copying of the recording for different purposes; or
   (c) if the original recording was made in accordance with any of the exemptions contained in any of sections 175 to 179 or sections 181 to 191, and the copy is made for different purposes, and the person knows that the performer has not consented to the copying of the recording for those different purposes.
-(4) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on summary conviction,—
+(4) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on conviction,—
   (a) in the case of an offence against subsection (1), to a fine not exceeding $5,000 for every illicit recording to which the offence relates, but not exceeding $50,000 in respect of the same transaction, or to imprisonment for a term not exceeding 3 months:
   (b) in the case of an offence against subsection (2) or subsection (3), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 months.
 (5) Where any person is convicted of an offence against this section in circumstances where that offence involves the making of profit or gain, that offence shall be deemed to have caused a loss of property for the purposes of section 32(1)(a) of the Sentencing Act 2002, and the provisions of that Act relating to the imposition of the sentence of reparation shall apply accordingly.
@@ -3290,7 +3290,7 @@ The rights conferred by this Part exist in relation to a performance until the e
 
 ### 200 False representation of authority to give consent
 (1) Every person commits an offence against this section who represents falsely that he or she is authorised by any person to give consent for the purposes of this Part in relation to a performance, unless he or she believes on reasonable grounds that he or she is entitled to do so.
-(2) A person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000.
+(2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000.
 
 ### 201 Liability of officers of body corporate
 Where any body corporate is convicted of an offence against section 198 or section 200, every director and every person concerned in the management of the body corporate shall be guilty of the offence if it is proved—
@@ -3389,7 +3389,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 (3) Every sitting of the Tribunal shall be held in such place as the Tribunal deems convenient.
 (4) Every sitting of the Tribunal shall be held in public unless the Tribunal in any particular case, having regard to the interests of the parties and of all other persons concerned, considers that the sitting or any part of it should be held in private.
 (5) The Tribunal may make an order prohibiting the publication of any report or description of the proceedings or of any part of the proceedings.
-(6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (5).
+(6) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (5).
 (7) Any sitting of the Tribunal may be adjourned from time to time and from place to place.
 
 ### 214 Procedure of Tribunal
@@ -3425,7 +3425,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 (3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 218 Witnesses' allowances
-(1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations shall apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
 (2) On each occasion on which the Tribunal issues a summons under section 216, the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
 (3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) Where a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness shall be paid by that party.
@@ -3442,11 +3442,11 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
   (c) fails to produce any such paper, document, record, or thing.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 (3) No person summoned to attend before the Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 218.
 
 ### 221 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
@@ -3513,7 +3513,7 @@ In sections 226A to 226E, unless the context otherwise requires,—
   (a) A intends the service to enable or assist B to circumvent a technological protection measure; and
   (b) A knows that the service will, or is likely to, be used to infringe copyright in a TPM work.
 (3) A person (A) commits an offence who, in the course of business, publishes information enabling or assisting another person to circumvent a technological protection measure if A intends that the information will be used to infringe copyright in a TPM work.
-(4) A person who commits an offence under this section is liable on conviction on indictment to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
+(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
 
 ### 226D When rights of issuer of TPM work do not apply
 (1) The rights that the issuer of a TPM work has under section 226B do not prevent or restrict the exercise of a permitted act.
@@ -3575,10 +3575,10 @@ A copyright owner or licensee of a work has the same rights in relation to a con
 (1) A person (A) who contravenes section 226H commits an offence if—
   (a) A knows that the copyright management information has been removed or modified without the authority of the copyright owner or exclusive licensee; and
   (b) A knows that dealing in the work will induce, enable, facilitate, or conceal an infringement of the copyright in the work.
-(2) A person who commits an offence under subsection (1) is liable on conviction on indictment to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
 
 ### 227 Offence of fraudulently receiving programmes
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who, with intent to avoid payment of any charge applicable to the reception of a programme included in a communication work provided from a place in New Zealand, receives such a programme.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, with intent to avoid payment of any charge applicable to the reception of a programme included in a communication work provided from a place in New Zealand, receives such a programme.
 (2) Where any body corporate is convicted of an offence against this section, every director and every person concerned in the management of the body corporate shall be guilty of the offence if it is proved—
   (a) that the act that constituted the offence took place with his or her authority, permission, or consent; and
   (b) that he or she—
@@ -3698,7 +3698,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) any specified class or classes of sound recordings; or
     (iii) any film or specified class or classes of films,—
   (p) regulating the making, importation, sale, hire, or use of decoding equipment:
-  (q) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under paragraph (p), and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offences:
+  (q) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under paragraph (p), and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offences:
   (r) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 
 **Transitional provisions and savings**
