@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -235,8 +235,8 @@ Until the end of 30 June 2012, the directors of Watercare Services Limited—
 (5) Section 26 applies in respect of the Auckland Regional Council Trade Waste Bylaw 1991.
 
 ### 26 Offences for breach of Auckland Regional Council Trade Waste Bylaw 1991
-(1) Every person who breaches section 5 of the Auckland Regional Council Trade Waste Bylaw 1991 (as continued by section 25(3) of this Act) commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
-(2) Despite the Summary Proceedings Act 1957, Watercare Services Limited may lay an information for an offence against subsection (1) at any time within 6 months after the time when the matter giving rise to the information first became known, or should have become known, to Watercare Services Limited.
+(1) Every person who breaches section 5 of the Auckland Regional Council Trade Waste Bylaw 1991 (as continued by section 25(3) of this Act) commits an offence and is liable on conviction to a fine not exceeding $200,000.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, Watercare Services Limited may file a charging document for an offence against subsection (1) at any time within 6 months after the time when the matter giving rise to the charge first became known, or should have become known, to Watercare Services Limited.
 (3) It is a defence to an offence under subsection (1) if the court is satisfied—
   (a) that—
     (i) the act giving rise to the offence was necessary to save or protect life or health or prevent injury, or to prevent serious damage to property, or to avoid actual or likely damage to the environment; and
