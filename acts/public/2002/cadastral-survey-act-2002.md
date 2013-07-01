@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -250,7 +250,7 @@ Every application for a licence under this Part must be made to the Board and mu
 (2) The Board may at any time, if it thinks fit, on the written application of a licensed cadastral surveyor, remove the name of the cadastral surveyor from the register.
 
 ### 31 Offences relating to licences
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000 who, for the purpose of obtaining a licence or renewal of a licence under this Part (either for himself or herself, or for any other person),—
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000 who, for the purpose of obtaining a licence or renewal of a licence under this Part (either for himself or herself, or for any other person),—
   (a) either orally or in writing, makes any declaration or representation that to his or her knowledge is false or misleading in a material particular; or
   (b) produces to the Board or makes use of any document, knowing it to contain any such declaration or representation; or
   (c) produces to the Board or makes use of any document, knowing that it is not genuine.
@@ -374,7 +374,7 @@ The Board is not required to investigate, and may decline to accept, a complaint
 
 ### 43 Surrender of licences
 (1) A cadastral surveyor whose licence is cancelled or suspended under this Part must, within 14 days after the date on which written notice of the cancellation or suspension has been given to him or her, deliver to the Board the current licence issued to him or her under this Act.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who wilfully fails to comply with subsection (1).
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who wilfully fails to comply with subsection (1).
 
 ### 44 Publication of orders
 (1) This section applies to—
@@ -465,16 +465,16 @@ Section 50 expires at the end of 12 months after the commencement of this Act.
 ## Part 6 — Offences and penalties
 
 ### 54 Obstruction of cadastral surveyor
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who knowingly obstructs or hinders a cadastral surveyor, or a person assisting a cadastral surveyor, in—
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who knowingly obstructs or hinders a cadastral surveyor, or a person assisting a cadastral surveyor, in—
   (a) performing the cadastral surveyor's duties and functions in relation to a cadastral survey; or
   (b) ascertaining or marking out a boundary or cadastral survey line; or
   (c) fixing, placing, restoring, repairing, or setting up a cadastral survey mark.
 
 ### 55 Interference with survey marks
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who knowingly or recklessly takes, destroys, or alters the position of, or markings on, a survey mark that has been placed or set up—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who knowingly or recklessly takes, destroys, or alters the position of, or markings on, a survey mark that has been placed or set up—
   (a) for the control of cadastral surveys; or
   (b) for the purposes of any cadastral survey conducted under, or for the purposes of, this Act or another Act.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who (having taken, destroyed, or altered the position of, or markings on, a survey mark) fails to notify the taking, destruction, or alteration to the Surveyor-General as soon as practicable after doing so.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who (having taken, destroyed, or altered the position of, or markings on, a survey mark) fails to notify the taking, destruction, or alteration to the Surveyor-General as soon as practicable after doing so.
 (3) Every person who is convicted of an offence against subsection (1) or subsection (2) is also liable to pay the costs (including any associated cadastral survey costs) of repairing, replacing, or restoring to its proper position, or restoring the markings on, the survey mark concerned.
 (4) The costs in subsection (3) are—
   (a) the costs as assessed by a District Court Judge; and
@@ -485,16 +485,16 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (b) making payment for any of those things to be done.
 
 ### 56 False cadastral survey marks
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who places in position in relation to any land a peg or mark—
+Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who places in position in relation to any land a peg or mark—
   (a) that is not a cadastral survey mark properly placed; and
   (b) with the intention of causing any person to believe that it is a cadastral survey mark placed in that position for the purposes of a cadastral survey.
 
 ### 57 Unlicensed persons not to act as licensed cadastral surveyors
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, not being a licensed cadastral surveyor or a person acting under the direction of a licensed cadastral surveyor, performs or executes, or undertakes to perform or execute, anything for the purposes of a cadastral survey.
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, not being a licensed cadastral surveyor or a person acting under the direction of a licensed cadastral surveyor, performs or executes, or undertakes to perform or execute, anything for the purposes of a cadastral survey.
 (2) However, subsection (1) does not apply to anything done under the authority of another enactment by a person who is not a licensed cadastral surveyor.
 
 ### 58 Offences relating to terms implying person is licensed cadastral surveyor
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who,—
+Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who,—
   (a) not being a licensed cadastral surveyor, uses, or causes or permits to be used, written words, titles, or initials, or an abbreviation of words, titles, or initials, that are intended to cause or may reasonably cause a person to believe that the person using them is a licensed cadastral surveyor or is qualified to act as a licensed cadastral surveyor:
   (b) knowing that another person is not licensed under this Act, and with intent to deceive, makes a statement or does an act calculated to suggest that the other person is a cadastral surveyor or is licensed under this Act; or
   (c) with intent to deceive, makes use of a licence issued to him or her or to another person under this Act.
@@ -508,7 +508,7 @@ In sections 60 to 63,—
 
 ### 60 Commission of infringement offence
 If any person is alleged to have committed an infringement offence, the person may either—
-  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice under section 61.
 
 ### 61 Infringement notices
@@ -516,7 +516,7 @@ If any person is alleged to have committed an infringement offence, the person m
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to the person at the person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
+(3) An infringement notice sent to a person under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee; and
