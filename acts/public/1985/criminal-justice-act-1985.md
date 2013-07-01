@@ -1,5 +1,5 @@
 # Criminal Justice Act 1985
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform and revise the law relating to criminal justice, and to repeal and replace the Criminal Justice Act 1954 and its amendments
 
