@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -1898,7 +1898,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 **Penalties for offences**
 
 ### 43 Penalties for failing to comply with Part 1
-(1) A person who commits an offence against any of the sections set out in subsection (2) is liable on conviction on indictment to—
+(1) A person who commits an offence against any of the sections set out in subsection (2) is liable on conviction to—
   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
   (b) in the case of a body corporate, a fine not exceeding $1,000,000.
 (2) The sections are—
@@ -1907,31 +1907,31 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (c) section 11D (criminal liability for false or misleading appearance of trading, etc).
 
 ### 43A Penalties for failing to comply with Part 2
-(1) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $30,000:
+(1) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $30,000:
   (a) section 19ZD (offence for failure to comply with directors' and officers' disclosure obligation):
   (b) section 35BA (offence for failure to comply with substantial holding disclosure obligation).
-(2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000:
+(2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000:
   (a) section 19ZF (offences relating to directors' and officers' interests register):
   (b) section 32 (conditions of exemption for trustee corporations and nominee companies):
   (c) section 35E (offences relating to substantial holdings register):
   (d) section 35H (offence for failing to publish information on substantial holdings or disclosures).
 
 ### 43B Penalties for failing to comply with Part 2B
-(1) A person who commits an offence against section 36ZX (offence for failing to comply with monitoring of registered exchange provisions) is liable on summary conviction to a fine not exceeding $30,000.
-(2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
+(1) A person who commits an offence against section 36ZX (offence for failing to comply with monitoring of registered exchange provisions) is liable on conviction to a fine not exceeding $30,000.
+(2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 36A(1) (no holding out as securities exchange unless registered):
   (b) section 36B(1) (no operation of securities markets unless registered (if restriction applies)):
   (c) section 36FB(1) (no operation by registered exchange of unregistered market):
   (d) section 36G(1) (registered exchange must operate markets under market rules that comply with subpart 1A of Part 2B):
   (e) section 36ZYB (offence for breach of terms or conditions of authorisation).
-(3) A person who commits an offence against section 36N (market rules must be available for public inspection) is liable on summary conviction to a fine not exceeding $5,000.
-(4) A person who commits an offence against section 36U(1)(a) (effect of exceeding control limit) is liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
+(3) A person who commits an offence against section 36N (market rules must be available for public inspection) is liable on conviction to a fine not exceeding $5,000.
+(4) A person who commits an offence against section 36U(1)(a) (effect of exceeding control limit) is liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
 
 ### 43C Penalties for failing to comply with Part 3
-(1) A person who commits an offence under section 39 (contravention of section 38 an offence) is liable on conviction on indictment,—
+(1) A person who commits an offence under section 39 (contravention of section 38 an offence) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
-(2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
+(2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 37A(1) (no holding out as futures exchange unless authorised):
   (b) section 37B(1) (no operation of futures markets unless authorised (if restriction applies)):
   (c) section 37E(1) (no operation by authorised futures exchange of unauthorised futures market).
@@ -1940,17 +1940,17 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 [Repealed]
 
 ### 43E Penalties for failing to comply with this Part
-(1) An individual who commits an offence against either of the following sections is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
+(1) An individual who commits an offence against either of the following sections is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (a)
   (b) section 43I (persons automatically banned from management).
-(2) A person who commits an offence against any of the sections set out in subsection (3) is liable on conviction on indictment,—
+(2) A person who commits an offence against any of the sections set out in subsection (3) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 (3) The sections are—
   (a)
   (b)
   (c) section 43T (offence of contravening orders to preserve assets to satisfy claims).
-(4) A person who commits an offence against section 42J (offence of failing to comply with FMA's orders) is liable on summary conviction to a fine not exceeding $30,000.
+(4) A person who commits an offence against section 42J (offence of failing to comply with FMA's orders) is liable on conviction to a fine not exceeding $30,000.
 
 ### Subpart 5 — Other court orders
 
@@ -2055,9 +2055,11 @@ A person commits an offence who contravenes an order by the court under section 
 
 ### Subpart 6 — General
 
-### 43U Time for laying information for summary offences
-(1) Any information for an offence against this Act punishable on summary conviction may be laid at any time within 3 years after the date of the offence.
-(2) Subsection (1) applies despite section 14 of, or anything else to the contrary in, the Summary Proceedings Act 1957.
+### 43U Time for filing charging document for certain offences
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against section 39, 43H, 43I, 43M, 43N, or 43T of this Act; and
+  (b) the limitation period in respect of an offence against section 36A(1), 36B(1), 36G(1), 36P(1), or 36Z of this Act ends on the date that is 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 43V Evidence not otherwise admissible
 In the exercise of its jurisdiction under this Act, the court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
