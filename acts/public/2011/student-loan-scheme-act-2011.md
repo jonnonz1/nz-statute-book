@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1558,18 +1558,17 @@ Section 159 applies to a borrower if—
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000.
 (3) If an employer is convicted of an offence against subsection (1), the Court may order the payment of compensation to the borrower for loss or damage suffered as a result of the offence.
 
-### 164 Proceedings to be taken summarily
-A proceeding for an offence against section 163 must be taken by way of summary prosecution before a District Court Judge upon the information of the Commissioner.
+### 164 Proceedings to be commenced by Commissioner
+A proceeding for an offence against section 163 must be commenced by the filing of a charging document in the name of the Commissioner.
 
-### 165 Information may charge several offences
-(1) An information may charge the defendant with any number of offences against section 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
-(2) If an information charges more than 1 offence,—
-  (a) particulars of each offence charged must be set out separately in the information; and
+### 165 Charge may charge several offences
+(1) A charge may charge the defendant with any number of offences against section 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
+(2) If a charging document charges more than 1 offence,—
+  (a) particulars of each offence charged must be set out separately in the charging document; and
   (b) all of those charges must be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
-### 166 Information may be laid within 10 years
-(1) An information for an offence against section 163 may be laid at any time within 10 years after the end of the tax year in which the offence was committed.
-(2) Subsection (1) applies despite anything in the Summary Proceedings Act 1957 or in any other Act.
+### 166 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 163 ends on the date that is 10 years after the end of the year in which the offence was committed.
 
 ### Subpart 4 — Borrower's right to object to loan manager about details of loan advances
 
