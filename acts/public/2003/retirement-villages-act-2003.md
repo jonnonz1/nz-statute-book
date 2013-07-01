@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -776,18 +776,18 @@ In accordance with sections 79 to 86, the District Court must hear and determine
 In accordance with sections 76 to 83, a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under section 82(3)(c) to (e).
 
 ### 79 Contraventions of certain provisions an offence
-(1) Every person commits an offence who, without reasonable excuse, contravenes any of sections 12, 18(3), 22(1), 25(1), 32, 33(1), 35, 38(1), 39, or 97(3), or includes any material that is false or misleading in an application for an exemption under section 41 or section 93, and is liable on summary conviction,—
+(1) Every person commits an offence who, without reasonable excuse, contravenes any of sections 12, 18(3), 22(1), 25(1), 32, 33(1), 35, 38(1), 39, or 97(3), or includes any material that is false or misleading in an application for an exemption under section 41 or section 93, and is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $30,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(2) Every person commits an offence who, without reasonable excuse, contravenes any of sections 17, 19(3), 26(1), 27(1), 28(1), 29, 30(1), 34(2), 59(2), 92(2), or 98(5) and is liable on summary conviction,—
+(2) Every person commits an offence who, without reasonable excuse, contravenes any of sections 17, 19(3), 26(1), 27(1), 28(1), 29, 30(1), 34(2), 59(2), 92(2), or 98(5) and is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $15,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
-(3) Every person commits an offence who, without reasonable excuse, contravenes any of sections 13, 16, 26, 70(2), 92(2), 95(2), 96(4), or 98(2) and (3) and is liable on summary conviction,—
+(3) Every person commits an offence who, without reasonable excuse, contravenes any of sections 13, 16, 26, 70(2), 92(2), 95(2), 96(4), or 98(2) and (3) and is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
-(4) Every auditor of a retirement village commits an offence who fails to comply with any reasonable request made under section 47 by the statutory supervisor, the Registrar, or the Retirement Commissioner and is liable on summary conviction to a fine not exceeding $10,000.
-(5) Every operator of a retirement village commits an offence who fails to comply with any reasonable request made under section 46 and is liable on summary conviction to a fine not exceeding $10,000.
-(6) Every person commits an offence who, without reasonable excuse, contravenes any other provision of this Act and is liable on summary conviction to a fine not exceeding $5,000.
+(4) Every auditor of a retirement village commits an offence who fails to comply with any reasonable request made under section 47 by the statutory supervisor, the Registrar, or the Retirement Commissioner and is liable on conviction to a fine not exceeding $10,000.
+(5) Every operator of a retirement village commits an offence who fails to comply with any reasonable request made under section 46 and is liable on conviction to a fine not exceeding $10,000.
+(6) Every person commits an offence who, without reasonable excuse, contravenes any other provision of this Act and is liable on conviction to a fine not exceeding $5,000.
 (7) Proceedings under this section may be commenced at any time within 3 years after the matter giving rise to the contravention arose.
 
 ### 80 Injunctions may be granted by court for contravention of certain provisions
