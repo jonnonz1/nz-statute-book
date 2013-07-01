@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -181,7 +181,7 @@ The Commissioner may, under section 41 of the State Sector Act 1988, delegate to
   (i) to recover rents, purchase moneys, and other moneys due to the Crown in respect of any sales, leases, licences, or other disposition of Crown land:
   (j) such other duties as may from time to time be assigned to him by the Board.
 (2) Subject to any general or special directions given by the Board, the Commissioner may delegate to any officer of the department any of the powers set out in the last preceding subsection. The provisions of subsections (3), (4), (5), and (6) of section 15 shall apply, with the necessary modifications, to any delegation by the Commissioner under this subsection.
-(3) All actions and proceedings by or on behalf of Her Majesty respecting Crown land within any district or respecting any contract relating thereto, or any breach of any such contract, or any trespass thereon, or any damages accruing by reason of trespass thereon, or for the recovery of any rents, purchase moneys, or other moneys in respect of Crown land, or in respect of any damages or wrongs whatsoever in any way suffered by the Crown in respect of Crown land, and any proceedings for the breach of any provision of this Act, may be commenced, prosecuted, and carried on by and in the name of the Commissioner on behalf of Her Majesty, and the Commissioner may be plaintiff, or defendant, or informant, as the case may require, in any such action or proceeding.
+(3) All actions and proceedings by or on behalf of Her Majesty respecting Crown land within any district or respecting any contract relating thereto, or any breach of any such contract, or any trespass thereon, or any damages accruing by reason of trespass thereon, or for the recovery of any rents, purchase moneys, or other moneys in respect of Crown land, or in respect of any damages or wrongs whatsoever in any way suffered by the Crown in respect of Crown land, and any proceedings for the breach of any provision of this Act, may be commenced, prosecuted, and carried on by and in the name of the Commissioner on behalf of Her Majesty, and the Commissioner may be plaintiff, or defendant, or prosecutor, as the case may require, in any such action or proceeding.
 (4) All documents which require to be executed for the purposes of this Act by or on behalf of Her Majesty, or by or on behalf of the Board, may, unless otherwise provided by this Act, be executed by the Commissioner and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty, or by or on behalf of the Board, as the case may be.
 
 ### 25 Recovery of possession of Crown land
@@ -1349,7 +1349,7 @@ Where any person is employed to make a valuation for the purposes of this Act he
   (d) takes or removes from lands of the Crown any bark, flax, mineral, gravel, guano, or other substance whatever:
   (e)
   (f) uses, sells, or otherwise disposes of any wood, timber, bark, flax, mineral, gravel, guano, or other substance whatever knowing the same to have been removed unlawfully from lands of the Crown.
-(3) No person shall be convicted under this section except on the information of the Commissioner or of some person appointed in writing by him.
+(3) Only the Commissioner, or some person appointed in writing by the Commissioner, may file a charging document for an offence under this section.
 (4) If any person is found on any lands of the Crown having in his possession any live or dead timber, trees, bark, flax, mineral, gravel, guano, or other substance, he shall for the purposes of this section be deemed, in the absence of proof to the contrary, to have cut, stripped, dug, or removed the same from the lands of the Crown, and the onus shall lie on him of proving that he did not do so or that he had authority to do so.
 (5) In any proceedings under this section the onus of proving that the defendant had a right, title, or licence to do the act in respect of which the proceedings are laid shall lie on the defendant.
 (6) In any such proceedings the averment that any lands in question are lands of the Crown shall be sufficient without proof of that fact, unless the defendant proves to the contrary, and all plans, maps, leases, licences, certificates, and copies certified as true under the hand of the Commissioner or Chief Surveyor shall be sufficient evidence of their contents without production of original records, and without the personal attendance of those officers or proof of their signatures.
@@ -1382,8 +1382,8 @@ Where any person is employed to make a valuation for the purposes of this Act he
 (3)
 
 ### 182 Offences
-(1) Except where otherwise provided in this Act, every person who commits an offence against this Act is liable on summary conviction to a fine not exceeding $400 or to imprisonment for any term not exceeding 1 year, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
-(2) Notwithstanding section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 1 year from the time when the matter of the information arose.
+(1) Except where otherwise provided in this Act, every person who commits an offence against this Act is liable on conviction to a fine not exceeding $400 or to imprisonment for any term not exceeding 1 year, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 183 Service of notices
 Any notice required to be given to or served on any person for the purposes of this Act may be given or served by causing the same to be delivered to that person, or to be left at his usual or last known place of abode or business, or at the address stated by him in any application or other document under this Act, or to be sent by registered letter addressed to him at that place of abode or business or address.
