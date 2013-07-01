@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2698,7 +2698,7 @@ For the purposes of this Part, the Corporation may determine—
 (3) The Corporation may require any person who provides a statement under subsection (1) to provide further information, and the person must comply with the requirement.
 
 ### 242 Failure to provide statement
-(1) A person who is required to deliver any statement, document, or other information under section 241 and who intentionally fails to do so commits an offence against this Act, and is liable to the penalty specified in section 315.
+(1) A person who is required to deliver any statement, document, or other information under section 241 and who intentionally fails to do so commits an offence against this Act, and is liable on conviction to the penalty specified in section 315.
 (2) Subsection (1) does not apply where a statement, document, or other information is to be provided to the Commissioner as an agent of the Corporation.
 
 ### 243 Power to assess levies
@@ -3361,16 +3361,16 @@ To avoid doubt, goods and services tax under the Goods and Services Tax Act 1985
 
 **Informations**
 
-### 313 Informations
-(1) Despite anything in section 14 of the Summary Proceedings Act 1957 or in any other Act, any information in respect of any offence against this Act, or against any regulations made under this Act, may be laid at any time within 5 years after the termination of the year in which the offence was committed.
-(2) An information may charge the defendant with any number of offences against this Act (whether arising under this section or otherwise) or against any regulations made under this Act.
-(3) An information that charges more than 1 such offence must set out separately the particulars of each offence charged.
-(4) Multiple charges must be heard together unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
+### 313 Charges
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act, or any regulations made under it, ends on the date that is 5 years after the termination of the year in which the offence was committed.
+(2) A charging document may charge the defendant with any number of offences against this Act (whether arising under this section or otherwise) or against regulations made under this Act.
+(3) A charging document that charges more than 1 such offence must set out separately the particulars of each offence charged.
+(4) Multiple charges must be heard together unless the court, either before or at any time during the trial, considers it just that any charge should be heard separately and makes an order to that effect.
 
 **Summary conviction**
 
 ### 314 Summary conviction
-An offence against this Act is punishable on summary conviction unless the contrary is specified.
+[Repealed]
 
 **General fine**
 
