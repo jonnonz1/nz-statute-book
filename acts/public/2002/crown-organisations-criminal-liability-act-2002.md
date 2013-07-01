@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
 This Act binds the Crown.
 
 ### 6 Prosecutions against Crown organisations
-(1) A Crown organisation may be prosecuted (by the bringing of proceedings in the manner provided for in the Summary Proceedings Act 1957) for any of the following offences:
+(1) A Crown organisation may be prosecuted (by the bringing of proceedings in the manner provided for in the Criminal Procedure Act 2011) for any of the following offences:
   (a) an offence against the Building Act 2004:
   (b) an offence under section 49 or section 50 of the Health and Safety in Employment Act 1992:
   (c) an offence against the Resource Management Act 1991:
@@ -58,7 +58,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
 (2) Proceedings brought against a Crown organisation for an offence referred to in section 6 must be instituted against the organisation in its own name, and must not cite the Crown as a defendant.
 (3) A Crown organisation is liable on conviction for an offence referred to in section 6 to the same penalties that could be imposed on any body corporate convicted of the same offence.
 (4) Despite subsection (3), a court may not sentence a Crown organisation to pay a fine in respect of an offence referred to in section 6.
-(5) This section is subject to section 54 of the Health and Safety in Employment Act 1992, sections 77A and 115A of the Summary Proceedings Act 1957, and section 4(9) of the Resource Management Act 1991.
+(5) This section is subject to section 54 of the Health and Safety in Employment Act 1992, sections 176 and 246 of the Criminal Procedure Act 2011, and section 4(9) of the Resource Management Act 1991.
 
 ### 9 Rights and privileges of Crown organisations
 (1) A Crown organisation that is charged with an offence referred to in section 6 has, in relation to the charge and the hearing and determination of the charge, the same rights and privileges as a body corporate charged with an offence of the same kind.
