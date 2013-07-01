@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -286,7 +286,7 @@ Nothing done by any forestry officer, by an employee of the Ministry, or by any 
 **Offences**
 
 ### 54 False entries or returns
-Every person who makes or causes to be made, in any book, return, declaration, or statement required by this Act or by the regulations thereunder to be kept or made, any entry or writing which he knows to be false in any material particular commits an offence and shall be liable on summary conviction to a fine not exceeding $500:
+Every person who makes or causes to be made, in any book, return, declaration, or statement required by this Act or by the regulations thereunder to be kept or made, any entry or writing which he knows to be false in any material particular commits an offence and shall be liable on conviction to a fine not exceeding $500:
   provided that if it be proved that the payment of royalties or other moneys payable to the Crown has been evaded, and that the false entry or writing has been made or used for any purpose in connection with the evasion, the court may add to the fine imposed on the conviction a further penalty not exceeding 3 times the amount of the moneys, the payment whereof shall be proved to have been so evaded.
 
 ### 55 Unlawful cutting or removal of forest produce
@@ -313,7 +313,7 @@ Every person commits an offence against this Act who—
   (c) counterfeits upon or unlawfully fixes to any forest produce any marks, label, or certificate used by and appropriated for the use of forestry officers or other persons in the exercise of their duties under this Act, or without due authority makes or causes to be made or uses or causes to be used, or has, in that person's possession, any brand, stamp, or badge that resembles or purports to be a brand, stamp, or badge such as is usually used by forestry officers or other persons when exercising powers under this Act.
 
 ### 61 General penalty for offences
-Every person who commits an offence against this Act shall be liable on summary conviction,—
+Every person who commits an offence against this Act shall be liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000 and, if the offence is a continuing one, to a further fine not exceeding $200 for every day during which the offence continues:
   (b) in the case of a body corporate, to a fine not exceeding $12,000, and, if the offence is a continuing one, to a fine not exceeding $1,200 for every day during which the offence continues.
 
@@ -619,8 +619,8 @@ Every person commits an offence who—
   (i) gives to any forestry officer, under this Part, any particulars knowing that they are false or misleading in any material respect.
 
 ### 67U Penalties
-(1) Every person who commits an offence against any of paragraphs (a) to (f) of section 67T is liable on summary conviction to a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
-(2) Every person who commits an offence against any of paragraphs (g) to (i) of section 67T is liable on summary conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(1) Every person who commits an offence against any of paragraphs (a) to (f) of section 67T is liable on conviction to a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+(2) Every person who commits an offence against any of paragraphs (g) to (i) of section 67T is liable on conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
 (3) Where any body corporate is convicted of an offence against this Act, every director and every person concerned in the management of the body corporate shall be guilty of a like offence if it is proved—
   (a) that the act that constituted the offence took place with his or her authority, permission, or consent; or
   (b) that he or she knew or could be reasonably expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
@@ -922,7 +922,7 @@ Nothing in this Part derogates from any provision of the Resource Management Act
   (ba) providing for the registration of sawmills and other related factories or industrial plants; authorising the Secretary to require sawmill operators to furnish information for the purposes of this Act; and prescribing the mode of registration and the fees to be paid in respect of registration:
   (bb) prescribing such matters as are necessary or expedient for regulating the registration of sustainable forest management plans under the Land Transfer Act 1952:
   (bc) providing for the establishment and functions of advisory committees, consisting of persons to be appointed by the Minister, to advise the Minister on phytosanitary matters arising in relation to forestry:
-  (c) prescribing offences for the breach of any regulations under this Act, or of the conditions of any licence, lease, permit, or other authority under this Act, and prescribing, on summary conviction,—
+  (c) prescribing offences for the breach of any regulations under this Act, or of the conditions of any licence, lease, permit, or other authority under this Act, and prescribing, on conviction,—
     (i) in the case of an individual, a term of imprisonment not exceeding 1 month, or a fine not exceeding $2,000, and, if the offence is a continuing one, a further fine not exceeding $200 for every day during which the offence continues, or to both such imprisonment and fine:
     (ii) in the case of a body corporate, a fine not exceeding $12,000, and, if the offence is a continuing one, a further fine not exceeding $1,200 for every day during which the offence continues:
   (d) prescribing the matters in respect of which fees are payable under this Act, the amounts of those fees or the method by which they are to be assessed, and the persons liable for payment of the fees:
