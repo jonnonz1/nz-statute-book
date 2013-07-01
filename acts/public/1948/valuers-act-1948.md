@@ -1,5 +1,5 @@
 # Valuers Act 1948
-_Consolidation as at 2005-12-15_
+_Consolidation as at 2013-07-01_
 
 > An Act to make provision for the registration of land valuers, to constitute the New Zealand Institute of Valuers, and for matters incidental thereto
 
@@ -81,11 +81,11 @@ The general functions of the Institute are—
     (i) holds a certificate that is or would be recognised by the Board for the purposes of section 19; or
     (ii) has passed such examination or examinations as are or would be approved by the Board for the purposes of section 19.
 (5) Admission to membership of the Institute under subsection (4) may in any particular case be on such terms and conditions as the Council thinks fit.
-(6) The Council may admit to membership of the Institute any other person who meets any other qualification for membership from time to time prescribed by rules made by the Institute under section 16(1)(b).
+(6) The Council may admit to membership of the Institute any other person who meets any other qualification for membership from time to time prescribed by rules made by the Institute under section 16(1)﻿(b).
 
 ### 11A Exempting from membership of the Institute registered valuers with conscientious objection to membership
 (1) Notwithstanding anything in section 11, where any registered valuer satisfies the Board that he has a conscientious objection to becoming a member of the Institute, the Board may exempt him from membership of the Institute, subject to such conditions as the Board may impose; and, while any such exemption continues and all conditions governing the exemption are complied with, the person who is granted the exemption shall not be a member of the Institute.
-(2) Every registered valuer who is for time being so exempted from membership of the Institute shall from time to time pay to the Board the fees or other payments, annual or otherwise, that he would be required to pay to the Institute if he were a member of the Institute.
+(2) Every registered valuer who is for the time being so exempted from membership of the Institute shall from time to time pay to the Board the fees or other payments, annual or otherwise, that he would be required to pay to the Institute if he were a member of the Institute.
 (3) If any fee or other payment payable to the Board by a registered valuer under this section is not paid within 3 months after it is due, the Board may direct the Registrar to remove the name of the valuer from the register, and the Registrar shall remove that name accordingly. If any person whose name is removed from the register under this subsection satisfies the Registrar that all such fees and other payments have been paid, the Registrar shall, on payment of the prescribed fee, restore the name of that person to the register.
 (4) All provisions of this Act and of the rules and code of ethics of the Institute relating to the discipline of members of the Institute, all the provisions of the rules of the Institute regulating the charges that may be made by registered valuers for work as such, and the provisions of subsection (2) of section 35 (which requires public valuers to have annual practising certificates) shall apply with respect to every person exempted from membership of the Institute under this section as if he were a member of the Institute.
 
@@ -195,16 +195,16 @@ Every person who wilfully makes or causes to be made any false entry in or falsi
 
 **Disciplinary powers of the Board**
 
-### 31 Removal of name from register if registered valuer guilty of indictable offence or grave misconduct
+### 31 Removal of name from register if registered valuer guilty of offence or grave misconduct
 (1) The Board may cause the name of any registered valuer to be removed from the register if it is satisfied, after inquiry as hereinafter provided, but not otherwise,—
-  (a) that he has been guilty of such improper conduct as renders him in the opinion of the Board unfit to be registered under this Act, or has been convicted (either before or after his registration) of an indictable offence punishable by imprisonment for a term of 2 years or upwards:
+  (a) that he has been guilty of such improper conduct as renders him in the opinion of the Board unfit to be registered under this Act, or has been convicted (either before or after his registration) of an offence punishable by imprisonment for a term of 2 years or upwards:
   (b) that he has been convicted (either before or after his registration) of an offence which tends to dishonour him in the public estimation:
   (c) that he has been guilty of such improper, unethical, or incompetent conduct in the performance of his duties as a valuer as in the opinion of the Board renders him unfit to be registered under this Act.
 (2) Unethical conduct for the purposes of paragraph (c) of the last preceding subsection means conduct in breach of the code of ethics prescribed by the rules of the Institute.
 (3) The name of any valuer shall not be removed from the register under paragraph (a) or paragraph (b) of subsection (1) by reason of any offence committed before the date of his registration, if at that date the Board was aware of his conviction in respect of that offence.
 
 ### 32 Inquiry by Board into charges of misconduct
-(1) Every complaint that any registered valuer has been guilty of any act or default specified in the last preceding section shall be referred to the Valuer-General who shall investigate the matter and report thereon in writing to the Board:provided that the Council of the Institute may appoint a person to investigate and report in writing to the Board on a complaint that a registered valuer has been guilty of an act or default specified in subsection (1)(c) of that section, and if it does so the Valuer-General shall not investigate the complaint and report thereon to the Board.
+(1) Every complaint that any registered valuer has been guilty of any act or default specified in the last preceding section shall be referred to the Valuer-General who shall investigate the matter and report thereon in writing to the Board:provided that the Council of the Institute may appoint a person to investigate and report in writing to the Board on a complaint that a registered valuer has been guilty of an act or default specified in subsection (1)﻿(c) of that section, and if it does so the Valuer-General shall not investigate the complaint and report thereon to the Board.
 (2) The Board shall, unless it is satisfied that there is no reasonable ground for the complaint, hold an inquiry into the matter, and shall give to the valuer concerned not less than 30 clear days' notice in writing of its intention to hold the inquiry, and of the time and place of hearing, and of the nature of the charge to be inquired into. The notice may be served personally or by registered letter addressed to the valuer concerned at his last known place of business or abode.
 (3) At the inquiry the valuer concerned shall be entitled to be present and to be heard, and may, if he thinks fit, be represented by counsel or otherwise.
 (4) The Valuer-General or, as the case may be, the person appointed under the proviso to subsection (1) to investigate the complaint shall not be competent to act as a member of the Board for the purposes of the inquiry or of the deliberations of the Board thereon.
@@ -263,7 +263,7 @@ Every monetary penalty imposed by the Board under section 33, and any sum ordere
 ### 37 Application of fees, etc, received by the Board
 (1) The Registrar shall take and receive the fees prescribed by regulations made under this Act as payable to the Board in respect of the matters specified in the regulations.
 (2) Until the prescribed fee has been paid the Registrar may decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable.
-(3) All fees, monetary penalties, and other moneys received on behalf of the Board under this Act shall be forthwith paid into such person carrying on in New Zealand the business of banking as the Board may determine to the credit of an account to be called the Valuers Registration Board Account, and may be applied by the Board as follows:
+(3) All fees, monetary penalties, and other moneys received on behalf of the Board under this Act shall be forthwith paid to such person carrying on in New Zealand the business of banking as the Board may determine to the credit of an account to be called the Valuers Registration Board Account, and may be applied by the Board as follows:
   (a) in payment of the expenses incurred by the Board in respect of this Act, including the cost of the audit of its accounts:
   (b) in payment of any fees or allowances payable in accordance with this Act to members of the Board:
   (bb) in the making of grants for educational purposes which in the opinion of the Board will be of benefit to the profession of land valuing:
@@ -310,7 +310,7 @@ As soon as practicable after the entry in the register of any person's name, or 
 (3) Nothing in this section shall prevent or be deemed to prevent any person from being employed as a valuer or from using in connection with his occupation the word valuer.
 
 ### 43 Offences
-Every person who commits an offence against this Act shall, where no other penalty for that offence is provided elsewhere in this Act, be liable on summary conviction to a fine not exceeding $500, and, where the offence is a continuing one, to a further fine not exceeding $50 for every day during which the offence continues.
+Every person who commits an offence against this Act shall, where no other penalty for that offence is provided elsewhere in this Act, be liable on conviction to a fine not exceeding $500, and, where the offence is a continuing one, to a further fine not exceeding $50 for every day during which the offence continues.
 
 ### 44 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
