@@ -1,5 +1,5 @@
 # Family Benefits (Home Ownership) Act 1964
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the making of advances for housing purposes against the capitalised value of family benefits
 
@@ -42,22 +42,22 @@ Subject to the provisions of section 7, the following purposes are hereby declar
 **Administration**
 
 ### 4 Administration
-(1) This Act shall be administered in the department by the chief executive, and the chief executive shall administer this Act and shall exercise all the powers conferred on it by this Act under the general direction and control of the Minister.
-(2) In the exercise of its powers, functions, and discretions under this Act the chief executive shall comply with any general or special directions given to it in writing by the Minister. As soon as practicable after giving any such direction, the Minister shall publish in the Gazette and lay before Parliament a copy of the direction.
+(1) This Act shall be administered in the department by the chief executive, and the chief executive shall administer this Act and shall exercise all the powers conferred on him or her by this Act under the general direction and control of the Minister.
+(2) In the exercise of its powers, functions, and discretions under this Act the chief executive shall comply with any general or special directions given to him or her in writing by the Minister. As soon as practicable after giving any such direction, the Minister shall publish in the Gazette and lay before Parliament a copy of the direction.
 
 ### 5 Delegation of powers of chief executive
-(1) With the written consent of the Minister, the chief executive may from time to time, either generally or particularly, delegate to any Registrar or other officer of the department such of its powers under this Act or under any regulations under this Act as the chief executive determines.
+(1) With the written consent of the Minister, the chief executive may from time to time, either generally or particularly, delegate to any Registrar or other officer of the department such of his of her powers under this Act or under any regulations under this Act as the chief executive determines.
 (2) Subject to the provisions of this section and to any general or special directions given or conditions attached by the chief executive, the officer to whom any powers are delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on him directly by this section and not by delegation.
 (3) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (4) Any delegation under this section may be made to a specified officer or to officers of a specified class, or may be made to the holder or holders for the time being of a specified office or class of offices.
 (5) Any delegation under this section may be at any time revoked by the chief executive, in whole or in part, and no such delegation shall prevent the exercise of any power by the chief executive.
 (6) Any applicant or beneficiary affected by any decision made by any officer in the exercise of any powers conferred on him by delegation under this section may, within 3 months after the communication of the decision to him, appeal therefrom to the chief executive.
-(7) The chief executive shall review every decision appealed from as aforesaid, and may at any time, of its own motion, review any other decision made by any officer in the exercise of any powers conferred on him by delegation under this section, and in any such case the chief executive may confirm, vary, or revoke the decision.
+(7) The chief executive shall review every decision appealed from as aforesaid, and may at any time, of his or her own motion, review any other decision made by any officer in the exercise of any powers conferred on him by delegation under this section, and in any such case the chief executive may confirm, vary, or revoke the decision.
 
 **Advances for housing purposes**
 
 ### 6 Advances for housing purposes
-Subject to the provisions of this Act, and notwithstanding anything in the Social Security Act 1964, on the application of a beneficiary who pursuant to section 10 of this Act is eligible to receive such an advance, the chief executive may, in its discretion, authorise the making of an advance for any housing purpose to the beneficiary of an amount not exceeding the capitalised value of the family benefit or benefits payable to the beneficiary:provided that—
+Subject to the provisions of this Act, and notwithstanding anything in the Social Security Act 1964, on the application of a beneficiary who pursuant to section 10 of this Act is eligible to receive such an advance, the chief executive may, in his or her discretion, authorise the making of an advance for any housing purpose to the beneficiary of an amount not exceeding the capitalised value of the family benefit or benefits payable to the beneficiary:provided that—
   (a) where application is made for an advance against the capitalised value of the family benefits payable in respect of 2 or more children of the beneficiary, the advance together with the amount of the unpaid balance of any other advance under this Act or under the Family Benefits (Home Ownership) Act 1958 previously made to the beneficiary shall not exceed $4,000:
   (b) no such advance shall be made of an amount which, together with the amount of any previous advance or advances under this Act or under the Family Benefits (Home Ownership) Act 1958, is less than 200 pounds.
 
@@ -172,7 +172,7 @@ For the purposes of this Act, the amount of the unpaid balance of an advance sha
 
 ### 21 Interest on unpaid balance of advance
 (1) Where an order is made under paragraph (a) of subsection (2) of section 18 declaring that the unpaid balance of an advance became repayable on the death of the child, the unpaid balance of the advance shall bear interest from that date at the rate of 5 pounds per cent per annum.
-(2) In all other cases the chief executive, in its discretion, may determine the rate of interest (if any) payable on the unpaid balance of the advance, but in no case shall that rate be higher than 5 pounds per cent per annum.
+(2) In all other cases the chief executive, in his or her discretion, may determine the rate of interest (if any) payable on the unpaid balance of the advance, but in no case shall that rate be higher than 5 pounds per cent per annum.
 
 ### 22 Recovery of unpaid balance
 The unpaid balance of an advance that has become repayable pursuant to this Act and any interest thereon may be recovered as a debt due to the Crown at the suit of the chief executive, or the chief executive, or the Commission may make any necessary adjustments in any instalments of the benefit or any other benefit under the Social Security Act 1964 payable or thereafter becoming payable to the beneficiary or to the spouse of the beneficiary.
@@ -199,8 +199,8 @@ No fee shall be payable under any Act in respect of registration of any document
     (i) fails, within a reasonable time after being required so to do, to supply in writing to the chief executive any information reasonably required by the chief executive for the purpose of ascertaining whether or not the conditions on which the advance was made have been fulfilled or whether or not any event has occurred by reason of which the advance or any part thereof has become repayable; or
     (ii) supplies any such information knowing it to be false or misleading in any material particular; or
   (c) except in a case to which paragraph (a) or paragraph (b) applies, wilfully fails to comply with any of the requirements of subsection (4) of section 8.
-(2) Any person who commits an offence against paragraph (a) or paragraph (b) of subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
-(3) Every person who commits an offence against paragraph (c) of subsection (1) is liable on summary conviction to a fine not exceeding 50 pounds.
+(2) Any person who commits an offence against paragraph (a) or paragraph (b) of subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
+(3) Every person who commits an offence against paragraph (c) of subsection (1) is liable on conviction to a fine not exceeding 50 pounds.
 
 ### 27 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof.
