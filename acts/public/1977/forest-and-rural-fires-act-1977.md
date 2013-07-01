@@ -1,5 +1,5 @@
 # Forest and Rural Fires Act 1977
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the safeguarding of life and property by the prevention, detection, control, restriction, suppression and extinction of fire in forest and rural areas and other areas of vegetation
 
@@ -122,7 +122,7 @@ _Consolidation as at 2011-04-01_
       (va) reclaimed land vested in the Crown under section 30 or 31 of that Act; and
       (vi) any other land or class of land (whether or not vested in or administered by the Crown) declared by the Minister of Conservation by notice in the Gazette to be a State area for the purposes of this Act; but
     (b)
-    (c) unless declared to be a State area by notice in the Gazette under paragraph (a)(vi), does not include—
+    (c) unless declared to be a State area by notice in the Gazette under paragraph (a)﻿(vi), does not include—
       (i) any area included in a rural fire district:
       (ii) any conservation area for the time being expressly excluded from any State area by the Director-General of Conservation, by notice in the Gazette:
       (iii) any Fire District within the meaning of the Fire Service Act 1975:
@@ -253,7 +253,7 @@ The Fire Authority of each territorial area shall be the territorial authority h
 
 ### 12 Duties of Fire Authorities
 (1) Every Fire Authority must promote and carry out fire control measures in its district.
-(1A) Every Fire Authority must comply with the standards set by the National Rural Fire Authority under section 14A(2)(k) of the Fire Service Act 1975.
+(1A) Every Fire Authority must comply with the standards set by the National Rural Fire Authority under section 14A(2)﻿(k) of the Fire Service Act 1975.
 (2) Any Fire Authority may, in its discretion, promote and carry out such fire control measures as it thinks fit in any area or place adjoining its district in which there is no Fire Authority, and for that purpose it may do any thing which it could do if it were the Fire Authority for that area or place.
 (3) Subject to the prior approval of the National Rural Fire Authority and publication in the Gazette, any Fire Authority may make, amend, or revoke bylaws for the purposes of subsection (1), and, subject to the like approval, may enforce the same as if breaches thereof were offences under this Act; and such bylaws may include provision for costs, expenses, and charges, and for salaries and administration.
 (4) A Fire Authority must keep and maintain a current fire plan for its district.
@@ -270,7 +270,7 @@ The Fire Authority of each territorial area shall be the territorial authority h
   (b) appoint 1 Rural Fire Officer as Principal Rural Fire Officer.
 (3A) Every warranted officer appointed under section 59(1) of the Conservation Act 1987 shall be a Rural Fire Officer for every State area.
 (3B) Where no Principal Rural Fire Officer has been appointed for a State area,—shall have all the powers of a Principal Rural Fire Officer in respect of the area.
-  (a) any Rural Fire Officer appointed for that area under subsection (3)(a); and
+  (a) any Rural Fire Officer appointed for that area under subsection (3)﻿(a); and
   (b) any warranted officer referred to in subsection (3A),—
 (4) Deputies of officers and employees may be appointed under this section or under section 14.
 (5) Any Fire Authority may in its discretion allocate to its officers, employees, and servants such responsibilities as may from time to time appear to it appropriate and necessary.
@@ -404,7 +404,7 @@ The Fire Authority of each territorial area shall be the territorial authority h
 
 ### 24 Special permits when lighting of fires in open air prohibited
 (1) Notwithstanding sections 20, 21, and 23, a Fire Officer may by special permit authorise the lighting of a fire in the open air—
-  (a) where a warning is in force under section 20(1), or with the approval of the Principal Fire Officer during a prohibited fire season or where a warning is in force under section 20(2) or where a prohibition is in force under section 21(1)(a), in order in each case to prevent, reduce, or overcome any hazard to life or health or in other serious emergency:
+  (a) where a warning is in force under section 20(1), or with the approval of the Principal Fire Officer during a prohibited fire season or where a warning is in force under section 20(2) or where a prohibition is in force under section 21(1)﻿(a), in order in each case to prevent, reduce, or overcome any hazard to life or health or in other serious emergency:
   (b) during a prohibited fire season, where weather or other conditions have so temporarily reduced the fire hazard as to make it apparently safe to light the fire.
 (2) Every such special permit shall be issued subject to provision for supervision on behalf of the Fire Authority and to any other appropriate special conditions for fire control in the public interest.
 
@@ -496,9 +496,9 @@ Where fire hazard conditions exist, any Fire Authority may at any time and from 
   (h) he may shut off or disconnect, or order any person having control thereof to shut off or disconnect, the supply of gas or electricity to any building which is on fire or which is in the vicinity of any fire:
   (i) he may order to withdraw, and (in the event of a failure or refusal to withdraw) remove or direct any Fire Officer or any member of any fire brigade present at the fire to remove, any persons who interfere by their presence or otherwise with the firefighting operations or who are on or in any land, building, or premises then burning or threatened by fire, unless they have a pecuniary interest therein or in any goods or valuables whatsoever thereon:
   (j) he may, at the time of the fire or afterwards, pull down or shore up any wall or building which is in his opinion so damaged by fire as to be or to be likely to become dangerous to life or property, and the expense of any such operation shall be borne by the owner of the building, and shall be paid by him to the Fire Authority.
-(2) The person who is appointed as a deputy of a Principal Fire Officer under subsection (1)(a) shall be a Fire Officer or a brigade officer or a person who (in the opinion of the Principal Fire Officer) is otherwise competent in the circumstances to exercise the powers and perform the duties of a Principal Fire Officer under this section.
-(3) While a deputy of a Principal Fire Officer is acting in the place of a Principal Fire Officer under subsection (1)(a), the deputy shall have all the powers and duties conferred and imposed on the Principal Fire Officer by this section.
-(4) Every person commits an offence against this Act who resists, deceives, harasses, or knowingly obstructs any Principal Fire Officer or Rural Fire Officer, or any person appointed as a deputy under subsection (1)(a), or any Fire Officer, member of a brigade, or other person acting under the instructions or control of such Principal Fire Officer or Rural Fire Officer or deputy, in the exercise or attempted exercise of any power, or the performance or attempted performance of any function or duty, conferred or imposed by this section.
+(2) The person who is appointed as a deputy of a Principal Fire Officer under subsection (1)﻿(a) shall be a Fire Officer or a brigade officer or a person who (in the opinion of the Principal Fire Officer) is otherwise competent in the circumstances to exercise the powers and perform the duties of a Principal Fire Officer under this section.
+(3) While a deputy of a Principal Fire Officer is acting in the place of a Principal Fire Officer under subsection (1)﻿(a), the deputy shall have all the powers and duties conferred and imposed on the Principal Fire Officer by this section.
+(4) Every person commits an offence against this Act who resists, deceives, harasses, or knowingly obstructs any Principal Fire Officer or Rural Fire Officer, or any person appointed as a deputy under subsection (1)﻿(a), or any Fire Officer, member of a brigade, or other person acting under the instructions or control of such Principal Fire Officer or Rural Fire Officer or deputy, in the exercise or attempted exercise of any power, or the performance or attempted performance of any function or duty, conferred or imposed by this section.
 
 ### 37 Police to assist Fire Officers
 Every constable present at any fire is empowered to support and assist the Fire Officer in the maintenance of his authority and in enforcing due obedience by all persons to his orders in the execution of his duty.
@@ -522,7 +522,7 @@ Every constable present at any fire is empowered to support and assist the Fire 
 (4) Fire Officers and other officers of the Fire Authority district affected shall be subject to the authority of any person appointed under subsection (1) and shall carry out all instructions given by that person or on that person's behalf.
 
 ### 40 Backburning
-(1) Notwithstanding the foregoing provisions of this Act, every person commits an offence against this Act who in any district sets fire to any vegetation by way of backburn except, pursuant to specific directions given by the Principal Fire Officer or Rural Fire Officer, or given by a deputy appointed by the Principal Fire Officer under section 36(1)(a).
+(1) Notwithstanding the foregoing provisions of this Act, every person commits an offence against this Act who in any district sets fire to any vegetation by way of backburn except, pursuant to specific directions given by the Principal Fire Officer or Rural Fire Officer, or given by a deputy appointed by the Principal Fire Officer under section 36(1)﻿(a).
 (2) If, pursuant to subsection (1), the Principal Fire Officer aforesaid or Rural Fire Officer, or any person acting pursuant to specific directions given by the Principal Fire Officer (or his deputy), sets fire to any vegetation by way of backburn, the amount of the loss or damage suffered as a direct result of that action by the owner of the land on which the vegetation exists shall for the purposes of this Act be deemed to be part of the costs incurred in the control and suppression of the fire for the prevention of the spread of which the vegetation was set on fire, and the amount of the loss or damage so suffered shall be refunded to the owner either by the Fire Authority or, in a case to which section 39 applies or in which the Minister of Conservation is the Fire Authority, out of money appropriated by Parliament for the purpose:
   provided that nothing in this subsection shall apply in respect of any loss or damage to property the amount whereof is recoverable under any policy of insurance.
 (3) This section shall not preclude the lighting of a burnout.
@@ -565,7 +565,7 @@ Every Fire Authority of a rural fire district shall periodically cause an estima
   (b) any land subject to a conservation covenant pursuant to section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987:
   (c) any land subject to a Nga Whenua Rahui kawenata pursuant to section 77A of the Reserves Act 1977 or section 27A of the Conservation Act 1987:
   (d) any land declared to be protected private land under section 76 of the Reserves Act 1977:
-  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)(i) and 21(2)(a) of that Act.
+  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)﻿(i) and 21(2)﻿(a) of that Act.
 (4) In determining the persons on whom such levy is to be imposed and the proportions in which it is to be met by those persons, the Fire Authority shall have regard to the following matters:
   (a) the benefit likely to be derived from the operations of the Fire Authority:
   (b) the risks of a fire occurring on the land or spreading on to that land or from that land to adjacent land:
@@ -585,7 +585,7 @@ Every Fire Authority of a rural fire district shall periodically cause an estima
   (b) any land subject to a conservation covenant pursuant to section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987:
   (c) any land subject to a Nga Whenua Rahui kawenata pursuant to section 77A of the Reserves Act 1977 or section 27A of the Conservation Act 1987:
   (d) any land declared to be protected private land under section 76 of the Reserves Act 1977:
-  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)(i) and 21(2)(a) of that Act.
+  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)﻿(i) and 21(2)﻿(a) of that Act.
 (4) In determining whether a levy is to be imposed under this section and the amount of any such levy, the Fire Authority shall have regard to the following matters:
   (a) the value of the property which has been saved and for the protection of which the firefighting operations were to any extent directed:
   (b) the extent of the assistance in connection with the firefighting operations rendered by or on behalf of any person upon whom the Fire Authority may be entitled to impose the levy:
@@ -605,7 +605,7 @@ Every Fire Authority of a rural fire district shall periodically cause an estima
   (b) any land subject to a conservation covenant pursuant to section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987:
   (c) any land subject to a Nga Whenua Rahui kawenata pursuant to section 77A of the Reserves Act 1977 or section 27A of the Conservation Act 1987:
   (d) any land declared to be protected private land under section 76 of the Reserves Act 1977:
-  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)(i) and 21(2)(a) of that Act.
+  (e) any land held under an open space covenant pursuant to section 22 of the Queen Elizabeth the Second National Trust Act 1977, or any land which is acquired by the Queen Elizabeth the Second National Trust for the purpose of open space as provided by sections 20(2)﻿(i) and 21(2)﻿(a) of that Act.
 (4) In determining whether a levy is to be imposed under this section and the amount of any such levy, the Fire Authority shall have regard to the following matters:
   (a) the value of the property which has been saved and for the protection of which the firefighting operations were to any extent directed:
   (b) the extent of the assistance in connection with the firefighting operations rendered by or on behalf of any person upon whom the Fire Authority may be entitled to impose the levy:
@@ -624,7 +624,7 @@ Every Fire Authority of a rural fire district shall periodically cause an estima
 
 ### 49 Appeals against levies and determinations
 (1) Any person—may at any time within 1 month after notice of the levy or determination has been given to him, request the National Rural Fire Officer to appoint a Rural Fire Mediator to give in the public interest a final decision regarding the requirements of the levy or determination.
-  (a) upon whom a levy is imposed under section 45 or section 46 or section 46A, or who is liable to meet the levy; or
+  (a) upon whom a levy is imposed under section 45 or section 46 or section 46A, or who is liable to meet the levy—
   (b)
 (2) Pending the decision of the mediator the levy or determination in question shall be deemed to be suspended.
 
@@ -664,7 +664,7 @@ Where damage to property is caused by any officer, servant, employee, or member 
 (2) In any action or proceeding taken against the Crown, or the National Rural Fire Authority, or any Fire Authority, or any officer, servant, or employee of any of them, or against any brigade or officer, servant, employee, or member of a brigade for their failure or neglect to make, or their negligence in making, adequate provision for the fire control, it shall be a defence to show—
   (a) that the provisions made were in accordance with—
     (i) a fire plan approved by the Crown or by the Fire Authority; or
-    (ii) an operational instruction issued pursuant to section 27A of the Fire Service Act 1975; or
+    (ii) an operational instruction issued pursuant to section 27A of the Fire Service Act 1975; and
     (iii)
   (b) that the officers, servants, members, or employees had complied with all relevant requirements and instructions of the Crown or the National Commander or the National Rural Fire Officer or the Fire Authority or the brigade.
 
@@ -715,22 +715,22 @@ Any local authority or other public body which owns or controls any land on whic
   (e) wilfully prevents, obstructs, interferes with, impairs, or otherwise renders inoperative or less effectual any apparatus or any other fire control measure:
   (f) fails without reasonable excuse to provide any information or deliver any return as and when required by the National Rural Fire Officer, pursuant to any provision of this Act:
   (g) provides any information or makes any return pursuant to this Act which to that person's knowledge is false in any material particular.
-(2) Every person who commits an offence against section 20 or section 21 shall be liable on summary conviction—
+(2) Every person who commits an offence against section 20 or section 21 shall be liable on conviction—
   (a) in the case of an individual, to imprisonment for a period not exceeding 6 months, or to a fine not exceeding $2,000; and, if the offence is a continuing one, to a further fine not exceeding $200 for every day during which the offence continues:
   (b) in the case of a body corporate, to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day during which the offence continues.
-(3) Every person who commits an offence against any of sections 23, 25, 26 and 40 shall be liable on summary conviction—
+(3) Every person who commits an offence against any of sections 23, 25, 26 and 40 shall be liable on conviction—
   (a) in the case of an individual, to imprisonment for a period not exceeding 2 months, or to a fine not exceeding $1,500; and, if the offence is a continuing one, to a further fine not exceeding $150 for every day during which the offence continues:
   (b) in the case of a body corporate, to a fine not exceeding $7,500, and, if the offence is a continuing one, to a further fine not exceeding $750 for every day during which the offence continues.
-(4) Every person who commits an offence under any other provision of this Act, being a provision in respect of which no penalty is otherwise provided for, shall be liable on summary conviction—
+(4) Every person who commits an offence under any other provision of this Act, being a provision in respect of which no penalty is otherwise provided for, shall be liable on conviction—
   (a) in the case of an individual, to imprisonment for a period not exceeding 1 month, or to a fine not exceeding $400, or to both such imprisonment and such fine; and, if the offence is a continuing one, to a further fine not exceeding $40 for every day during which the offence continues:
   (b) in the case of a body corporate, to a fine not exceeding $2,000, and, if the offence is a continuing one, to a further fine not exceeding $200 for every day during which the offence continues.
-(5) Every person who is convicted of any offence against this Act shall be liable for any costs, loss, damage or expense that is incurred or suffered by any Fire Authority and is caused by the act constituting the offence in addition to the penalty for the offence, and the amount payable in respect of that liability may, on application to the court by the informant or Fire Authority, be awarded by the court in fixing the penalty and may be recovered as a fine. In assessing the amount so payable the court may take into account the costs and other expenses incurred in the investigation of the act constituting the offence and in remedying the damage caused by that act and all other relevant factors.
+(5) Every person who is convicted of any offence against this Act shall be liable for any costs, loss, damage or expense that is incurred or suffered by any Fire Authority and is caused by the act constituting the offence in addition to the penalty for the offence, and the amount payable in respect of that liability may, on application to the court by the prosecutor or Fire Authority, be awarded by the court in fixing the penalty and may be recovered as a fine. In assessing the amount so payable the court may take into account the costs and other expenses incurred in the investigation of the act constituting the offence and in remedying the damage caused by that act and all other relevant factors.
 (6) Where any money is recovered under section 58 of the National Parks Act 1952 or under section 105 of the Reserves Act 1977 or under any other enactment in respect of any costs, loss, damage or expense incurred or suffered by a Fire Authority in extinguishing or attempting to extinguish any fire, the money so recovered shall be paid to the Fire Authority.
 (7)
 (8) Proceedings against any person who, outside of a district, lights a fire in the open air without a special permit under section 24 in any area where a warning is in force under section 20(1) may, without complying with the requirements of subsection (7), be taken by any local authority having territorial jurisdiction over the place where the fire was lit.
 
-### 62 Time within which information may be laid
-Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this Act or any regulation under this Act may be laid at any time within 12 months from the date of the discovery of the offence.
+### 62 Time within which charging document must be filed
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was discovered.
 
 ### 63 Notices
 (1) The National Rural Fire Officer or any Fire Officer may give public notice of the exercise of any of his powers under this Act or of any order, direction, restriction, requirement, or condition given or imposed by him under this Act, and all persons shall be bound thereby. For the purposes of this section the term public notice means a notice published in a newspaper circulating in the locality in which the matter of the notice arises or to which it relates.
@@ -772,7 +772,7 @@ The New Zealand Fire Service Commission shall, in its annual report under sectio
 
 ### 67 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for any purpose for which regulations are contemplated by this Act, and may make all such other regulations as may be necessary or expedient for giving effect to this Act and for the due administration thereof:
-  provided that where no such regulations have been made, and in cases where any such regulations do not apply, the National Rural Fire Authority may give such directions by way of fire control measures as he considers necessary and appropriate, and such directions shall have the force of regulations under this Act.
+  provided that where no such regulations have been made, and in cases where any such regulations do not apply, the National Rural Fire Authority may give such directions by way of fire control measures as it considers necessary and appropriate, and such directions shall have the force of regulations under this Act.
 (2) Without limiting the general power hereinbefore conferred, it is hereby declared that regulations may be made under this section for all or any of the following purposes:
   (a) prescribing measures to be taken and the apparatus and fire patrols to be provided and maintained by sawmillers and other persons engaged in industrial operations in any district for the purposes of fire control:
   (b) prescribing forms and particulars of signs to be used for particular purposes, and requiring the use of such forms or the display of such signs:
