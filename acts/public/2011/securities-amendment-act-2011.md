@@ -1,5 +1,5 @@
 # Securities Amendment Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Securities Amendment Act 2011.
@@ -344,7 +344,7 @@ The following heading and sections are inserted after section 43M (as inserted b
       (i) any change in respect of which the FMA is required to notify the Registrar (for example, an order made under section 43G); or
       (ii) any change that occurs after the period within which allotments of securities may be made under the prospectus has ended as a result of section 37A(1)(c); or
       (iii) any other change that is prescribed.
-  (3) An issuer commits an offence and is liable on summary conviction to a fine not exceeding $300,000 if the issuer,—
+  (3) An issuer commits an offence and is liable on conviction to a fine not exceeding $300,000 if the issuer,—
     (a) without reasonable excuse, contravenes subsection (1); or
     (b) in purported compliance with subsection (1), supplies a document, information, or other matter knowing it to be false or misleading.
   (4) This section does not apply to changes that occur, or investment statements that are distributed, before the commencement of this section.
@@ -651,7 +651,7 @@ Schedule 1 is repealed.
 (5) In subsection (3), current prospectus—
   (a) means a prospectus that was registered before the commencement of this subsection and under which allotments may still be made in accordance with the principal Act after that commencement; but
   (b) does not include a prospectus if no allotments of securities will be made under the prospectus after the date that is 40 working days after the commencement of this subsection.
-(6) An issuer commits an offence and is liable on summary conviction to a fine not exceeding $30,000 if the issuer,—
+(6) An issuer commits an offence and is liable on conviction to a fine not exceeding $30,000 if the issuer,—
   (a) without reasonable excuse, fails to comply with subsection (3); or
   (b) in purported compliance with that subsection, supplies information or a document knowing it to be false or misleading.
 
