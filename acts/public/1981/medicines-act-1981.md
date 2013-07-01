@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2011-09-22_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -307,7 +307,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (b) sell any medicine by wholesale; or
   (c) pack or label any medicine; or
   (d) operate any pharmacy,—
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 18 Sale of medicines by retail
 (1) Except as provided in sections 25, 27, and 30 to 33, or as may be permitted by regulations made under this Act, no person shall, in the course of any business carried on by that person, sell by retail, or supply in circumstances corresponding to retail sale, or distribute by way of gift or loan or sample or in any other way,—
@@ -686,7 +686,7 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
   (a) prohibit the importer or manufacturer, either indefinitely or for such period as may be specified in the notice, from selling or supplying the medicine; or
   (b) impose such conditions as may be specified in the notice on the sale or supply of the medicine by the importer or manufacturer.
 (4) The Minister may at any time, by a like notice, revoke any notice given under subsection (3), or vary, revoke, or add to any conditions imposed in any such notice.
-(5) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who sells or supplies any medicine in contravention of a notice given under subsection (3), or of a condition imposed in any such notice or in a notice given under subsection (4).
+(5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who sells or supplies any medicine in contravention of a notice given under subsection (3), or of a condition imposed in any such notice or in a notice given under subsection (4).
 
 ### 37 Powers of Minister to prohibit import, etc, of medicines
 (1) The Minister may from time to time, by notice in the Gazette, prohibit the import, manufacture, packing, sale, possession, supply, administration, or other use of medicines of any specified description or medical devices of any specified kind, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year; but he shall not exercise this power more than once in respect of medicines or medical devices so specified.
@@ -707,7 +707,7 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 (5) The fact that the Director-General does not exercise the powers conferred on him by this section in respect of a medical device shall not be deemed to warrant the safety of the medical device.
 (6) The Director-General may exercise the powers conferred on him by this section from time to time with respect to different importers or manufacturers of the same kind of medical devices, and the fact that he has not exercised any of those powers in respect of a particular kind of medical device, or that he has informed any person that he is satisfied of the safety of a particular kind of medical device, shall not prevent him from exercising any such power in respect of that kind of medical device where new information comes to his attention.
 (7) In any proceedings for an offence against this section in which it is alleged that 2 or more medical devices are of the same kind, it shall be presumed that those medical devices are of the same kind until the contrary is proved.
-(8) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who,—
+(8) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who,—
   (a) having received a notice under subsection (2) and failed to comply with subsection (3), sells the medical device; or
   (b) having received a notice under subsection (4), sells the medical device before he has been notified by the Director-General that he is satisfied of the safety of the medical device.
 
@@ -728,7 +728,7 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 
 ### 41 Duty of importer or manufacturer to report untoward effects of medicines
 (1) If at any time the importer or manufacturer in New Zealand of any medicine has reason to believe that any substantial untoward effects have arisen from the use of the medicine whether in New Zealand or elsewhere, the importer or manufacturer shall forthwith notify the Director-General of the nature of those effects and the circumstances in which they have arisen, so far as they are known to him.
-(2) Every person commits an offence against this Act and is liable to a fine not exceeding $1,000 who fails to comply with subsection (1).
+(2) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who fails to comply with subsection (1).
 
 ### 42 Duty of importer and manufacturer to have and produce specifications of medicines
 (1) No importer or manufacturer shall sell, or distribute by way of gift or loan or sample or in any other way, or advertise for sale, or advertise the availability of, any medicine other than a herbal remedy unless he is in possession of—
@@ -1034,7 +1034,7 @@ In this Part, unless the context otherwise requires,—
 (4) Nothing in this section applies to—
   (a) any medical advertisement that complies with any regulations made under this Act relating to the disclosure or otherwise of the name and address of the place of residence or business of the manufacturer or seller of the medicines of the description or medical devices of the kind advertised, or the agent of either of them; or
   (b) any medical advertisement relating to any description of medicines or any kind of medical devices in respect of which an exemption granted under or by virtue of this Act from the material provisions of any such regulations is for the time being in force.
-(5) Every person commits an offence and is liable to a fine not exceeding $1,000 who contravenes subsection (1).
+(5) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 60 Exemption for certain advertisements
 Without limiting any power to make regulations under this Act, nothing in section 57(1)(g) or section 58 or section 59 shall apply to any medical advertisement that—
@@ -1200,19 +1200,19 @@ No prosecutor or witness in any prosecution under this Act shall be compelled to
   (a) make any declaration or statement that he knows is false in any particular; or
   (b) utters, produces, or makes use of any such declaration or statement, or any document containing the same; or
   (c) utters, produces, or makes use of any document that he knows is not genuine.
-(2) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
 
 ### 76A Offences in relation to authorised prescribers
 Every pharmacist, person licensed to operate a pharmacy, or operator or manager of a pharmacy commits an offence against this Act who gives, offers, or agrees to give to any authorised prescriber or to any other person any money or other consideration as a commission on prescriptions.
 
 ### 77 Jurisdiction of District Courts
-(1) Every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+(1)
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 (3) The summons in any such proceedings shall not be made returnable in less than 14 days from the day on which it is served.
 (4) There shall be served with the summons in any such proceedings a copy of the analyst's certificate or report (if any) relating to the prosecution.
 
 ### 78 General penalty
-Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
 
 ### 79 Liability of principal for acts of agents, etc
 (1) Where an offence is committed against this Act or against any regulations made under this Act by any person acting as the agent or employee of another person, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence.
@@ -1267,7 +1267,7 @@ Every person who commits any offence against this Act for which no penalty is pr
 (3) When a court, pursuant to subsection (1), disqualifies a person from obtaining a new licence, no licence shall be issued to that person during the period specified by the court.
 (4) Any licence cancelled or required by the court for endorsement under this section shall be produced by the licensee in such manner and within such time as the court directs.
 (5) Every person commits an offence against this Act who, without reasonable excuse, fails to produce any licence in accordance with subsection (4).
-(6) For the purposes of Part 4 of the Summary Proceedings Act 1957, the cancellation or endorsement of a licence, or a disqualification, under this section shall be deemed to be a sentence or part of a sentence, as the case may be.
+(6) For the purposes of Part 6 of the Criminal Procedure Act 2011, the cancellation or endorsement of a licence, or a disqualification, under this section shall be deemed to be a sentence or part of a sentence, as the case may be.
 (7) The particulars of any cancellation, disqualification, or endorsement under this section, and the particulars of the conviction relating thereto, shall be notified in writing to the Director-General by the Registrar of the court.
 
 ### 84 Payment of expenses of analysis on conviction
@@ -1381,7 +1381,7 @@ In this Part, unless the context otherwise requires,—
 ### 96B Restrictions on specified biotechnical procedures
 (1) No person may conduct a specified biotechnical procedure otherwise than in accordance with an authorisation under section 96C or section 96D.
 (2) Subsection (1) applies to a person who continues, after the commencement of this section, to conduct a specified biotechnical procedure that was begun before that commencement.
-(3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200,000 who contravenes subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200,000 who contravenes subsection (1).
 
 ### 96C Authorisation of particular procedures
 (1) The Minister may, by notice in writing, authorise a person or a body of persons to conduct a particular specified biotechnical procedure.
@@ -1576,7 +1576,7 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
 (1) In this section the term manufacturer, in relation to a medicine, includes a person who, as owner, packs or causes to be packed medicines of that description for sale or supply.
 (2) For the purpose of enabling the making of regulations under this Act, or the giving of any notice under section 106, the Director-General may from time to time, by notice in writing to any manufacturer or importer in New Zealand of medicines of any description, or medical devices of any kind, require the manufacturer or importer to state correctly in writing to the Director-General the nature of the ingredients or components of such medicines or devices, and the proportions or manner in which those ingredients or components are contained in them.
 (3) The disclosure of any information pursuant to subsection (2) shall not prejudice any application subsequently made for a patent.
-(4) Every person commits an offence against this Act and is liable to a fine not exceeding $1,000 who fails to comply with any requirement under subsection (2).
+(4) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who fails to comply with any requirement under subsection (2).
 
 ### 108 Specified publications
 (1) In this section, and for the purposes of any regulations made under this Act, specified publication means—
