@@ -1,5 +1,5 @@
 # Engineering Associates Act 1961
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the registration and control of certain persons associated with or employed in engineering work, and for the encouragement of better qualification in that work
 
@@ -105,7 +105,7 @@ Every person commits an offence against this Act who wilfully makes or causes to
 (2) If no reply is received to the letter within 6 months after the date of the posting thereof, or if the letter is not duly delivered and is returned to the Registrar, the Registrar shall, if the Board so directs, remove from the register the name of the person to whom the letter was sent.
 (3) Any person whose name has been removed from the register under this section may apply to the Registrar to have his name restored to the register, and on payment of the prescribed fee his name shall, if the Board so directs, be restored to the register accordingly.
 (4) Every person registered under this Act who at any time changes his address as appearing in the register shall, within 3 months thereafter, send to the Registrar a notice of his new address; and the Registrar shall thereupon correct the entry in the register relating to that person accordingly.
-(5) Every person registered under this Act who fails to comply with the provisions of subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding 5 pounds.
+(5) Every person registered under this Act who fails to comply with the provisions of subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10.
 
 ### 18 Correction of register
 (1) If any person has been registered under this Act by reason of any false or fraudulent representation or declaration, made either orally or in writing, or if any person not entitled to be registered under this Act has been so registered, the Board shall cause the name of that person to be removed from the register, and the fact of the removal shall be notified by the Registrar in the Gazette.
@@ -185,7 +185,7 @@ Every person commits an offence against this Act who wilfully makes or causes to
 (2) If any question arises as to the amount to be paid under this section, it shall be determined by the Minister, whose decision shall be final.
 
 ### 29 Unauthorised expenditure
-The Board may, in any financial year, expend out of its funds for purposes not authorised by this Act or any other Act any sum or sums not amounting in the whole to more than 50 pounds.
+The Board may, in any financial year, expend out of its funds for purposes not authorised by this Act or any other Act any sum or sums not amounting in the whole to more than $100.
 
 **Miscellaneous**
 
@@ -205,7 +205,7 @@ As soon as practicable after the entry in the register of any person's name, or 
 (3) Every person commits an offence against this Act who, not being a member of an association, uses or causes or permits to be used any written words, titles, or initials, or any written abbreviation of any words, titles, or initials, which are intended to cause or may reasonably cause any person to believe that he is a member of an association when he is not a member, or that he has any status in an association when he does not have that status.
 
 ### 34 Penalty for offences
-Every person who commits an offence against this Act for which no penalty is provided in this Act elsewhere than in this section is liable on summary conviction to a fine not exceeding 50 pounds, and, where the offence is a continuing one, to a further fine not exceeding 5 pounds for every day during which the offence has continued.
+Every person who commits an offence against this Act for which no penalty is provided in this Act elsewhere than in this section is liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence has continued.
 
 ### 35 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
@@ -219,7 +219,7 @@ Every person who commits an offence against this Act for which no penalty is pro
   (g) providing for such other matters as may be necessary for the efficient discharge by the Board of its duties and functions under this Act:
   (h) providing for the constitution of an Appeal Tribunal and regulating the conduct of appeals under section 25:
   (i) providing for the taxation or review by the Board or the Investigation Committee or a District Court Judge of charges made by persons registered under this Act:
-  (j) prescribing fines, not exceeding 50 pounds, and in the case of a continuing offence a further fine not exceeding 5 pounds for every day during which the offence has continued, for the breach of any regulation made under this section.
+  (j) prescribing fines, not exceeding $100, and in the case of a continuing offence a further fine not exceeding $10 for every day during which the offence has continued, for the breach of any regulation made under this section.
 (3)
 
 ## Schedule Schedule — Rules and objects of associations
