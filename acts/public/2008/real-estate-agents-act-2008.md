@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -1099,7 +1099,7 @@ As soon as practicable after a person signs a contractual document and gives tha
 ### Subpart 1 — Offences and penalties
 
 ### 138 General penalty
-Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable,—
+Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $40,000; or
   (b) in the case of a company, to a fine not exceeding $100,000.
 
@@ -1108,7 +1108,7 @@ Every person who commits an offence against this Act for which no penalty is pro
 (2) All money forfeited to the Crown under subsection (1) is recoverable at the suit of the Crown in any court of competent jurisdiction, or may be assessed by the court by which the defendant is convicted, and be recoverable as a fine.
 
 ### 140 Offences to be punishable on summary conviction
-Every offence against this Act or regulations made under this Act is punishable on summary conviction.
+[Repealed]
 
 **Offences relating to requirement to be licensed**
 
@@ -1135,7 +1135,7 @@ A person commits an offence who employs or contracts, or continues to employ or 
 
 ### 145 Offence to fail to notify change in circumstances
 (1) A licensee or applicant for a licence commits an offence who, without reasonable excuse, fails to notify the Registrar of any change in circumstances as required by section 67.
-(2) Every person who commits an offence against this section is liable,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a company, to a fine not exceeding $50,000.
 
@@ -1151,7 +1151,7 @@ A person commits an offence who, without reasonable excuse, fails to comply with
 
 ### 148 Offence to fail to provide information or document
 (1) A person commits an offence who, without reasonable excuse, fails to comply with a requirement to produce any papers, documents, records, or things in accordance with a notice given under section 85.
-(2) Every person who commits an offence against this section is liable,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a company, to a fine not exceeding $50,000.
 
@@ -1166,7 +1166,7 @@ A person commits an offence who fails to disclose information in accordance with
 
 ### 152 Offence to render false accounts
 (1) A person commits an offence who renders an account purporting to be an account for any money received by him or her in his or her capacity as a licensee, knowing the account to be false in a material particular.
-(2) Every person who commits an offence against this section is liable,—
+(2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or a fine not exceeding $40,000, or both; or
   (b) in the case of a company, to a fine not exceeding $100,000.
 
@@ -1354,12 +1354,12 @@ No person holding office as a member of the Tribunal is deemed by reason of his 
 (3) The power to issue a summons under this clause may be exercised by the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal.
 
 ### 7 Witnesses’ expenses
-(1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The Tribunal may disallow the whole or any part of any sum payable under subclause (1).
 
 ### 8 Power to take evidence on oath
 (1) The Tribunal may take evidence on oath and, for that purpose, the Tribunal or any other person acting under the express or implied direction of the Tribunal may administer the oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 9 Protection and privileges of witnesses
 Every person has the same privileges and immunities as witnesses have in a court of law in relation to—
