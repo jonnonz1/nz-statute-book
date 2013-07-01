@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -991,7 +991,7 @@ On any appeal under this Part, a District Court may order the person or body who
 ### 96 Appeal on question of law
 (1) If dissatisfied with a decision of the District Court as being erroneous in law, a party to an appeal under this Part may appeal to the High Court on a question of law only.
 (2) The appeal must be heard and determined in accordance with rules of court.
-(3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
+(3) Part 6 of the Criminal Procedure Act 2011 applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
 (4) Subsection (3) overrides subsection (2).
@@ -1415,21 +1415,21 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
 (2) The Minister must not recommend the making of regulations without consulting the Board.
 
 ### 148 Offences
-(1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000 or both, who, for the purpose of obtaining registration or a practising certificate (for himself or herself or for any other person),—
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000 or both, who, for the purpose of obtaining registration or a practising certificate (for himself or herself or for any other person),—
   (a) makes an oral or written declaration or representation that, to his or her knowledge, is false or misleading in a material particular; or
   (b) produces a document to the Board, or otherwise uses a document, knowing that it contains a declaration or representation that, to his or her knowledge, is false or misleading in a material particular; or
   (c) produces a document to the Board, or otherwise uses a document, knowing that it is not genuine.
-(2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds himself or herself out as a registered social worker when—
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds himself or herself out as a registered social worker when—
   (a) he or she is not a registered social worker; or
   (b) he or she is a registered social worker, but his or her registration is suspended.
-(3) Every registered social worker commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who is engaged or employed as a social worker contrary to section 25.
-(4) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds an employee or professional associate out as a registered social worker, knowing that the employee or associate—
+(3) Every registered social worker commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who is engaged or employed as a social worker contrary to section 25.
+(4) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds an employee or professional associate out as a registered social worker, knowing that the employee or associate—
   (a) is not a registered social worker; or
   (b) is a registered social worker—
     (i) whose registration is suspended; or
     (ii) who does not hold a current practising certificate; or
     (iii) who holds a current practising certificate that is suspended.
-(5) Every registered social worker commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who—
+(5) Every registered social worker commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who—
   (a) holds himself or herself out as holding a current practising certificate when—
     (i) he or she does not hold a current practising certificate; or
     (ii) his or her current practising certificate is suspended; or
@@ -1770,7 +1770,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 (3) If it is served by posting, the summons must be served at least 10 days before the day on which the attendance of the witness is required.
 
 ### 10 Witnesses' allowances
-(1) A witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations under the Summary Proceedings Act 1957, and those regulations (with any necessary modifications) apply accordingly.
+(1) A witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations under the Criminal Procedure Act 2011, and those regulations (with any necessary modifications) apply accordingly.
 (2) Each time the Tribunal issues a witness summons, it must fix an amount that, on the service of the summons or at some other reasonable time before the day on which the witness is required to attend, must be paid or tendered to the witness.
 (3) The amount fixed must be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) If a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness must be paid by that party.
@@ -1791,12 +1791,12 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
   (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to clause 7(1)(a); or
   (b) without reasonable excuse, fails to comply with any requirement of the Tribunal or any authorised person made under paragraph (b) or paragraph (c) of clause 7(1); or
   (c) without reasonable excuse, acts in contravention of, or fails to comply with, any order made by the Tribunal under clause 7(3) or any term or condition of such an order.
-(4) Every person who commits an offence against this clause is liable on summary conviction to a fine not exceeding $1,500.
+(4) Every person who commits an offence against this clause is liable on conviction to a fine not exceeding $1,500.
 (5) No person summoned to attend before the Tribunal may be convicted of an offence against subclause (1) unless travelling expenses were tendered or paid to him or her in accordance with clause 10.
 
 ### 13 Contempt of Tribunal
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
   (a) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (b) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
 (3) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the member's opinion, constitutes an offence against this section, whether or not the person is charged with the offence or any other offence; and any constable may take any steps reasonably necessary to enforce the exclusion.
