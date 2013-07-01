@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -55,7 +55,6 @@ In this Act, unless the context otherwise requires,—
     (a) an agency that holds or has access to information described in Schedule 5 of the Privacy Act 1993; and
     (b) the Department of Labour, the Inland Revenue Department, and the New Zealand Customs Service
   - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
-  - **offence** means any act or omission for which a person may be punished under the Crimes Act 1961 or any other enactment, whether on conviction on indictment or on summary conviction
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation officer** has the same meaning as in section 4(1) of the Sentencing Act 2002
   - **registrar** means a registrar of a District Court; and includes a deputy registrar of a District Court
@@ -197,7 +196,7 @@ This Act binds the Crown.
 (3) In deciding whether to permit the particulars referred to in subsection (1) to be published in a report or account, the court must have regard to—
   (a) the interests of any individual (including, without limitation, the applicant or appellant); and
   (b) the public interest.
-(4) Every person commits an offence if the person contravenes subsection (1) and is liable on summary conviction,—
+(4) Every person commits an offence if the person contravenes subsection (1) and is liable on conviction,—
   (a) in the case of an individual, to a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000, or both; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
@@ -231,13 +230,13 @@ This Act binds the Crown.
 
 ### 17 Offence to unlawfully disclose information required to be concealed
 (1) A person commits an offence if the person has access to criminal records, and knowing that he or she does not have lawful authority under this Act, or being reckless as to whether or not he or she has lawful authority under this Act, discloses to any person, body, or agency the criminal record, or information about the criminal record, of an eligible individual that is required to be concealed.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $20,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $20,000.
 
 ### 18 Offence to require or request that individual disregard scheme
 (1) A person commits an offence if, without lawful authority under this Act, the person requires or requests that an individual—
   (a) disregard the effect of the clean slate scheme when answering a question about his or her criminal record; or
   (b) disregard the effect of the clean slate scheme and disclose, or give consent to the disclosure of, his or her criminal record.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 **Exceptions**
 
@@ -269,7 +268,7 @@ This Act binds the Crown.
 
 ### 21 Relationship to other provisions
 (1) In this section, provision means a provision—
-  (a) of any enactment (including, without limitation, section 71(4) of the Summary Proceedings Act 1957 and any rules made under section 409 of the Crimes Act 1961); or
+  (a) of any enactment (including, without limitation, section 184 of the Criminal Procedure Act 2011 and any rules made under section 409 of the Crimes Act 1961); or
   (b) of a rule of law; or
   (c) contained in any contract, agreement, instrument, or document.
 (2) If a reference in a provision to—
