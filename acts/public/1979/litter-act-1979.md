@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -114,7 +114,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
 (10) Every occupier commits an offence who, having been served with a notice under this section,—
   (a) fails to comply with that notice (not being a notice that has been suspended under subsection (9)) within the time specified in the notice or within the time as extended under subsection (2):
   (b) fails to comply with any notice varied or confirmed by a territorial authority or a District Court Judge under this section within the time specified by the territorial authority or the District Court Judge.
-(11) Every person who commits an offence against subsection (10) is liable,—
+(11) Every person who commits an offence against subsection (10) is liable on conviction,—
   (a) in the case of a natural person, to a fine not exceeding $500 for each day on which the failure continues; or
   (b) in the case of a corporation, to a fine not exceeding $2,000 for each day on which the failure continues.
 
@@ -135,7 +135,7 @@ Every public authority, whether alone or acting jointly for the purposes of this
 (3) Every resolution under subsection (2) shall specify the nature of the infringement offence or offences and the fee (in this section and in section 14 referred to as the infringement fee) payable in respect of any such offence.
 (4) No infringement fee shall exceed $400.
 (5) Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the offence; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 14.
 (6) No infringement notice shall be issued by a Warden nor by any person deemed to be an Officer under section 6(1)(c), (d), (f), (h), or (j).
 
@@ -144,7 +144,7 @@ Every public authority, whether alone or acting jointly for the purposes of this
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to him at his last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post pursuant to subsection (2)(b) shall be deemed to have been served on the person when it was so posted.
+(3) An infringement notice sent to a person by post pursuant to subsection (2)(b) shall be deemed to have been served on the person when it was so posted.
 (4) Every infringement notice shall be in such form as the Governor-General may from time to time by Order in Council prescribe, and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee for the offence; and
@@ -166,19 +166,19 @@ A territorial authority may retain the infringement fee received by it for an in
 **Offences and penalties**
 
 ### 15 Deposit of litter in public place or on private land
-(1) Every person commits an offence and is liable, in the case of an individual, to a fine not exceeding $5,000 or, in the case of a body corporate, to a fine not exceeding $20,000, who deposits any litter or, having deposited any litter, leaves it—
+(1) Every person commits an offence and is liable on conviction, in the case of an individual, to a fine not exceeding $5,000 or, in the case of a body corporate, to a fine not exceeding $20,000, who deposits any litter or, having deposited any litter, leaves it—
   (a) in or on a public place; or
   (b) in or on private land without the consent of its occupier.
 (1A) Subsection (1) is subject to subsection (2).
-(2) Where any person commits an offence against subsection (1), and the litter deposited is of such a nature as is likely to endanger any person or to cause physical injury or disease or infection to any person coming into contact with it (being in particular any bottle whether broken or not, glass, article containing glass, sharp or jagged material, or any substance of a toxic or poisonous nature) that person is liable—
+(2) Where any person commits an offence against subsection (1), and the litter deposited is of such a nature as is likely to endanger any person or to cause physical injury or disease or infection to any person coming into contact with it (being in particular any bottle whether broken or not, glass, article containing glass, sharp or jagged material, or any substance of a toxic or poisonous nature) that person is liable on conviction—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 month, or to a fine not exceeding $7,500, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 
 ### 16 Wilful breaking of bottles or glass
-Every person commits an offence, and is liable to imprisonment for a term not exceeding 1 month or to a fine not exceeding $7,500, or to both, who wilfully breaks any bottle, or any glass, or any article made of glass, in or on any public place without lawful authority or without the express consent of the public authority having the control or management of the public place, or in or on any private land without lawful authority or without the express consent of the occupier of the private land.
+Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 month or to a fine not exceeding $7,500, or to both, who wilfully breaks any bottle, or any glass, or any article made of glass, in or on any public place without lawful authority or without the express consent of the public authority having the control or management of the public place, or in or on any private land without lawful authority or without the express consent of the occupier of the private land.
 
 ### 17 Offences in respect of Officers
-(1) Every person commits an offence, and is liable to a fine not exceeding $1,500, who—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,500, who—
   (a) wilfully obstructs a Litter Control Officer while acting in the execution of any of the powers or duties conferred on him by this Act:
   (b) fails within a reasonable time to comply with the requirement of a Litter Control Officer exercising the power conferred on him by section 6 or section 7:
   (c) after being required to disclose his true name and place of residence by a Litter Control Officer acting pursuant to the power conferred on him by section 6 or section 7—
@@ -192,7 +192,7 @@ Every person commits an offence, and is liable to imprisonment for a term not ex
 If a body corporate commits an offence against section 15, every director, manager, secretary, or other similar officer of the body corporate, and every person purporting to act in any such capacity, shall also be guilty of that offence if the act or omission constituting the offence occurred with his knowledge and consent.
 
 ### 19 Offences punishable on summary conviction
-Subject to section 13(5), every offence against this Act shall be punishable on summary conviction.
+[Repealed]
 
 ### 19A Strict liability for certain offences
 (1) In prosecuting an offence against a provision of this Act (other than an offence against section 16 or 17(1)(a)), the prosecution does not need to prove that the defendant intentionally committed the offence.
