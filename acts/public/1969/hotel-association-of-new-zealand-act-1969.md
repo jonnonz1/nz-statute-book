@@ -1,5 +1,5 @@
 # Hotel Association of New Zealand Act 1969
-_Consolidation as at 1995-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to constitute the Hotel Association of New Zealand and to provide for the assistance and control of its members
 
@@ -125,7 +125,7 @@ The disciplinary committee shall not make any finding or order adverse to a pers
 ### 14 Witnesses may be required to attend and give evidence
 (1) The disciplinary committee may, by notice in writing signed by its chairman, require any person to attend and give evidence before it at the hearing of any inquiry by it under this Act and to produce all books and documents in that person's custody or under his control relating to the subject matter of any such inquiry.
 (2) The disciplinary committee may require evidence to be given on oath, and either orally or in writing, and for that purpose the chairman of the committee may administer an oath.
-(3) Every person who without lawful justification refuses or fails to attend and give evidence when required to do so by the disciplinary committee, or to answer truly and fully any question put to him by a member of the disciplinary committee, or to produce to the disciplinary committee any book or document required of him, commits an offence against this Act and shall be liable on summary conviction to a fine not exceeding $100.
+(3) Every person who without lawful justification refuses or fails to attend and give evidence when required to do so by the disciplinary committee, or to answer truly and fully any question put to him by a member of the disciplinary committee, or to produce to the disciplinary committee any book or document required of him, commits an offence against this Act and shall be liable on conviction to a fine not exceeding $100.
 
 ### 15 Immunity of witnesses and counsel
 Witnesses and counsel shall have the same privileges and immunities in relation to inquiries conducted by the disciplinary committee under this Act as if they were proceedings in a court of law.
