@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2006-10-25_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -55,7 +55,7 @@ A person is a chartered professional engineer if he or she—
   (a) the title chartered professional engineer; or
   (b) any words, initials, or abbreviations of that title that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a chartered professional engineer.
 (2) Despite subsection (1), a person may use that title (or words, initials, or abbreviations of that title) in representing qualifications or titles awarded by overseas agencies in accordance with the rules.
-(3) A person who contravenes subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $5,000.
+(3) A person who contravenes subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $5,000.
 
 **Registration of chartered professional engineers**
 
@@ -244,7 +244,7 @@ Except as otherwise provided in this Act, a decision authority may regulate its 
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 31 Witnesses' fees, allowances, and expenses
-(1) A witness appearing before a decision authority under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed for the time being by regulations under the Summary Proceedings Act 1957.
+(1) A witness appearing before a decision authority under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed for the time being by regulations under the Criminal Procedure Act 2011.
 (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
 
 ### 32 Failure to comply with summons
@@ -254,7 +254,7 @@ Except as otherwise provided in this Act, a decision authority may regulate its 
   (c) does not give evidence under oath when required to do so; or
   (d) does not answer any question that is lawfully asked by a decision authority; or
   (e) does not provide any documents, things, or information that the summons requires the person to provide.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under section 31 have not been paid or tendered to him or her.
 
 ### 33 Protection for members of decision authorities and others for disciplinary matters
@@ -293,9 +293,9 @@ Subject to the order of the Council or District Court (as the case may be), ever
 (7) In reconsidering a decision referred back to it with a direction under this section, the decision authority must take account of the reasons for the direction and give effect to the direction.
 
 ### 38 Appeal to High Court on questions of law
-(1) If, in respect of any appeal to a District Court, a party to the appeal considers that the decision of the District Court Judge is wrong in law, the party may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) If, in respect of any appeal to a District Court, a party to the appeal considers that the decision of the District Court Judge is wrong in law, the party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section must be heard and determined by the High Court in accordance with rules of court.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they relate to appeals by way of case stated on questions of law only, apply, so far as they are applicable and with all necessary modifications, to every appeal under this section.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ## Part 3 — Registration Authority and Chartered Professional Engineers Council
 
@@ -562,7 +562,7 @@ On the end of the transitional period, the enactments specified in Schedule 2 ar
 (1) On and from the end of the transitional period, no person may use in connection with his or her business, trade, employment, calling, or profession—
   (a) the title registered engineer; or
   (b) any written words, titles, initials, or abbreviations of words, titles, or initials that are intended to cause, or that may reasonably cause, any other person to believe that he or she is registered under the Engineers Registration Act 1924.
-(2) A person who contravenes subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who contravenes subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $5,000.
 
 ## Schedule 1 — Further provisions applying to Council and its board
 
