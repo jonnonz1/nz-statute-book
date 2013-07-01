@@ -1,5 +1,5 @@
 # Maori Purposes Act 1931
-_Consolidation as at 2006-09-26_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate various amendments of the laws relating to Maori lands, to adjust certain claims and disputes, to bestow powers upon certain Boards and authorities, to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court, and for other purposes
 
@@ -330,7 +330,7 @@ With regard to the land known as Wainui or Section 313, Parish of Waimana, in th
   (h) the grant or regulating of fishing privileges:
   (i) generally regulating the use of the said reserves.
 (6) Any person offending against any such bylaw shall be liable on conviction to a penalty not exceeding 5 pounds.
-(7) All such penalties may be recovered in a summary manner, and shall be paid to the said Board and be applied as other moneys are hereinafter directed to be applied.
+(7) All such penalties may be recovered in accordance with Part 3 of the Summary Proceedings Act 1957, and shall be paid to the said Board and be applied as other moneys are hereinafter directed to be applied.
 (8) The Board is hereby empowered to lease any portion of the said reserves for such period not exceeding 21 years and subject to such rents or conditions and in such manner or form as it may think fit.
 (9) Any instrument requiring to be executed by the Board may be executed in the name of the Board by 3 members of the Board (one of whom shall be the Chairman); and any lease may be registered and may be dealt with in the same manner as if it were a lease of Crown lands granted by a Land Board, but the provisions of the Land Act 1924 shall not otherwise apply to any such lease.
 (10) All sums of money received under or by virtue of this section shall be applied in managing, administering, and improving the said reserves, and generally towards carrying into execution the purposes and objects of this section, and for any other purpose which the Minister of Maori Affairs may approve, although it may not be strictly applicable to such reserves or to the persons intended to benefit thereunder.
