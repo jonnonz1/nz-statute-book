@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2011-04-19_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -428,17 +428,17 @@ Where by this Act any act has to be done by or to any person in connection with 
 **Offences**
 
 ### 42 Offences in respect of designs required to be kept secret
-(1) Every person who fails to comply with any direction given under section 9, or who makes or causes to be made an application for the registration of a design in contravention of that section, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+(1) Every person who fails to comply with any direction given under section 9, or who makes or causes to be made an application for the registration of a design in contravention of that section, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
 (2) Where an offence against section 9 is committed by a body corporate, every person who at the time of the commission of the offence is a director, general manager, secretary, or other similar officer of the body corporate, or is purporting to act in any such capacity, shall be deemed to have committed that offence unless he proves that the offence was committed by the body corporate without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence by the body corporate as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
-(3)
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1).
 
 ### 43 Falsification of register, etc
-(1) Every person who makes or causes to be made a false entry in the register of designs, or a writing falsely purporting to be a copy of an entry in that register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
-(2)
+(1) Every person who makes or causes to be made a false entry in the register of designs, or a writing falsely purporting to be a copy of an entry in that register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1).
 
 ### 44 Fine for falsely representing a design as registered
-(1) Every person who falsely represents that a design applied to any article sold by him is registered in New Zealand in respect of that article commits an offence and shall be liable on summary conviction to a fine not exceeding 20 pounds; and for the purposes of this provision a person who sells an article having stamped, engraved, or impressed thereon or otherwise applied thereto the words registered in New Zealand or any other words expressing or implying that the design applied to the article is registered in New Zealand shall be deemed to represent that the design applied to the article is registered in respect of that article.
-(2) Every person who after the copyright in a registered design has expired, marks any article to which the design has been applied with the words registered in New Zealand or any word or words implying that there is subsisting copyright in the design in New Zealand or causes any such article to be so marked commits an offence and shall be liable on summary conviction to a fine not exceeding 20 pounds.
+(1) Every person who falsely represents that a design applied to any article sold by him is registered in New Zealand in respect of that article commits an offence and shall be liable on conviction to a fine not exceeding $40; and for the purposes of this provision a person who sells an article having stamped, engraved, or impressed thereon or otherwise applied thereto the words registered in New Zealand or any other words expressing or implying that the design applied to the article is registered in New Zealand shall be deemed to represent that the design applied to the article is registered in respect of that article.
+(2) Every person who after the copyright in a registered design has expired, marks any article to which the design has been applied with the words registered in New Zealand or any word or words implying that there is subsisting copyright in the design in New Zealand or causes any such article to be so marked commits an offence and shall be liable on conviction to a fine not exceeding $40.
 
 **Supplemental**
 
