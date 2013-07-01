@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -208,14 +208,14 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (3) Subject to section 13, every order made under subsection (2) of this section shall be final.
 
 ### 13 Appeal on question of law
-(1) Where any party to an objection under section 10 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) Where any party to an objection under section 10 is dissatisfied with the decision of a District Court on that objection as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they relate to appeals by way of case stated on questions of law only, shall apply, so far as they are applicable and with all necessary modifications, to every appeal under this section.
-(4) Subject to section 14, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined, or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+(4) Subject to section 14, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
 
 ### 14 Secretary may require immediate compliance
 (1) Notwithstanding sections 11 and 13(4), where a notice of objection is lodged under section 10 by any person in respect of any notice or requirement, the Secretary may advise the objector that the Secretary considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
-(2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
+(2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
 (3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of the Secretary, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
@@ -272,7 +272,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 Where the Secretary is performing any duty or exercising any power in respect of any place, or any fittings or gas appliance in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place or the fittings or the gas appliance, shall provide all such facilities and assistance as the Secretary may reasonably require.
 
 ### 21 Obstructing Secretary
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
   (a) intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
   (b) refuses or fails without reasonable excuse—
     (i) to produce any document when required to do so by the Secretary for the purposes of this Act; or
@@ -335,7 +335,7 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (5) Where any such work is rendered urgent and necessary by any defective equipment, or other emergency, the gas operator shall be excused from complying with the requirements of subsection (1) before commencing the work, but shall give the information required by subsection (2) as soon as practicable thereafter.
 
 ### 27 Offence
-(1) Every gas operator commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with section 25 or section 26.
+(1) Every gas operator commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with section 25 or section 26.
 (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
 
 ### 28 Appeals in relation to conditions imposed
@@ -349,9 +349,9 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (2) Subject to section 30, the decision of a District Court in the determination of an appeal under section 28 shall be final.
 
 ### 30 Appeal on question of law
-(1) Where any party to any appeal under section 28 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+(1) Where any party to any appeal under section 28 is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
 (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
-(3) The provisions of Part 4 of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they relate to appeals by way of case stated on questions of law only, shall apply, so far as they are applicable and with all necessary modifications, to every appeal under this section.
+(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 ### 31 Charging for access to road reserve
 (1) Notwithstanding anything in this Act or any other enactment, no local authority or other body or person having jurisdiction over any road shall require the payment, by or on behalf of any gas operator, of any amount of or in the nature of rent in respect of any fittings constructed or placed in, on, along, over, across, or under that road.
@@ -542,7 +542,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 43EA Membership of dispute resolution scheme
 (1) Every gas distributor and every gas retailer must be a member of the dispute resolution scheme, unless exempt under subsection (3).
-(2) A person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
 (3) A person need not be a member of a dispute resolution scheme if—
   (a) the person is a member of a class of industry participants identified in regulations made under section 43S(1) as a class that need not be a member; or
   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the Gazette that—
@@ -565,7 +565,7 @@ In this Part, unless the context otherwise requires,—
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
 ### 43EC Offence to fail to comply with District Court order
-(1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 43EB, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 43EB, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000.
 (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 43EB(4).
 
 **Gas industry regulation-making powers**
@@ -615,7 +615,7 @@ In this Part, unless the context otherwise requires,—
   (d) setting rules as to the offering, supply, advertisement, promotion, availability, and unbundling of regulated charging options:
   (e) specifying criteria for the Minister to exempt gas providers, or gas providers in relation to particular areas, from the application of the regulations if, in the opinion of the Minister, the gas providers materially comply with the objective of this section.
 (4) No gas provider that is a customer trust or a community trust may pay a domestic consumer who is on the required tariff option a different rebate only because the consumer is on the required tariff option.
-(5) Each trustee of a gas provider that contravenes subsection (4) commits an offence, and is liable on summary conviction to a fine not exceeding $20,000.
+(5) Each trustee of a gas provider that contravenes subsection (4) commits an offence, and is liable on conviction to a fine not exceeding $20,000.
 (6) If the components that make up the delivered gas are unbundled, regulations may be made under subsection (3) for each component, or group of components, of delivered gas to ensure that the objective of this section is achieved for the aggregate of all the components.
 (7) Subsection (6) applies regardless of whether different components of delivered gas are supplied by the same gas provider.
 (8) Regulations made under subsection (3) may provide for the way in which the total charge of the low-use domestic consumer is to be assessed, which may be (without limitation) calculated with reference to national data or the data relating to any gas retailer or gas distributor.
@@ -749,7 +749,7 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
 (3) In this subpart, unless the context otherwise requires, terms and conditions includes both contractual matters and other types of arrangements and requirements.
 
 ### 43T Supplementary empowering provision for regulations
-Any regulations made under this subpart may provide for offences that are punishable on summary conviction for a contravention of those regulations, or of rules made under section 43Q, and provide for fines not exceeding $20,000 for those offences.
+Any regulations made under this subpart may provide for offences that are punishable on conviction for a contravention of those regulations, or of rules made under section 43Q, and provide for fines not exceeding $20,000 for those offences.
 
 **Provisions that apply if gas governance regulations or rules are in force**
 
@@ -1170,7 +1170,7 @@ All gas supplied shall be of such quality and pressure as is for the time being 
 (2) For the purposes of this section and sections 46B and 54A, gas supply system means the distribution systems, gas installations, fittings, and gas appliances prescribed in regulations made under section 54, being distribution systems, gas installations, fittings, and gas appliances that form part of a system for conveying gas to consumers.
 
 ### 46B Offence to breach requirement to have safety management system
-Every person who, being a person that owns or operates a gas supply system, breaches section 46A commits an offence and is liable on summary conviction to a fine not exceeding $250,000.
+Every person who, being a person that owns or operates a gas supply system, breaches section 46A commits an offence and is liable on conviction to a fine not exceeding $250,000.
 
 ### 47 Testing and inspection of gasfitting work
 (1) Where any gasfitting is carried out, that work or, as the case may require, the gas installation or gas appliance in respect of which that work is carried out shall not be connected to a gas supply unless such testing, certification, and inspection as is required in respect of that work by regulations made under section 54 has been carried out.
@@ -1209,7 +1209,7 @@ Every person who, being a person that owns or operates a gas supply system, brea
 (3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on the Secretary shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
 
 ### 52 Penalty for obstructing officers
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who intentionally obstructs any person in the performance of any duty or in doing any work that that person has lawful authority to do under this Act.
+Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who intentionally obstructs any person in the performance of any duty or in doing any work that that person has lawful authority to do under this Act.
 
 ### 53 Notices in relation to Maori land
 (1) Where a notice or other document is to be given to the owner of land for the purposes of this Act, then, in the case of Maori land, the notice or other document may be served on the Registrar of the Maori Land Court in accordance with Part 10 of Te Ture Whenua Maori Act 1993, and the provisions of that Part shall apply accordingly.
@@ -1360,29 +1360,30 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (a) the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and
   (b) the person is required by this Act to take the action; and
   (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
-(3) Every person who commits an offence under this section is liable on conviction on indictment to—
+(3) Every person who commits an offence under this section is liable on conviction to—
   (a) imprisonment for a term of not more than 2 years; or
   (b) a fine of not more than $100,000 in the case of an individual, or $500,000 in the case of a body corporate; or
   (c) both.
 (4) A person charged with an offence under this section may be convicted of an offence under any other section in this Act as if the person had been charged under that section.
 (5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
+(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
 
 ### 57 Other offences
 (1) Every person commits an offence against this section who—
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 55; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 56(1)(a) or section 56(1)(b) or section 56(2) or section 56(3).
 (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to section 56.
-(3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000.
+(3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
-### 57A Time for laying information
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against any provision of this Act or against any regulations made under sections 54 or 55 may be laid at any time within 5 years after the time when the matter of the information arose.
+### 57A Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under section 54 or 55 ends on the date that is 5 years after the date on which the offence was committed.
 
 ### 57B Infringement offences
-(1) If a person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against summarily for the alleged offence under the Summary Proceedings Act 1957; or
+(1) If a person is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 57C.
-(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where the Secretary proceeds with an infringement offence summarily.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 57C Infringement notices
 (1) The Secretary may issue an infringement notice to a person if—
@@ -1392,7 +1393,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 (4) For the purposes of this section, enforcement action means,—
   (a) in relation to the Secretary,—
-    (i) the laying of an information under this Act; or
+    (i) the filing of a charging document under this Act; or
     (ii) the issuing of an infringement notice under this Act; and
   (b) in relation to a person other than the Secretary, the laying of an information under this Act.
 
@@ -1401,7 +1402,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 (2) An infringement notice may be served on a person—
   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post, addressed to the person at the person’s last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
 (4) An infringement notice must be in the prescribed form and must contain—
   (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
