@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 2005
-_Consolidation as at 2011-08-09_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 (1) This Act is the Misuse of Drugs Amendment Act 2005.
@@ -341,7 +341,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 36 Restriction on selling restricted substances to persons under 18 years
 (1) No person may sell a restricted substance to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 37 Defence to charge of selling restricted substance to person under 18 years
 (1) It is a defence to a charge in respect of a contravention of section 36(1) if the person charged proves—
@@ -359,13 +359,13 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 38 Restriction on persons under 18 years selling restricted substances
 (1) No person may sell a restricted substance unless that person is of or over the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 39 Restriction on supplying restricted substances to persons under 18 years
 (1) No person may supply a restricted substance to a person—
   (a) who is under the age of 18 years; or
   (b) with the intention that it be supplied (directly or indirectly) to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 (3) Nothing in subsections (1) or (2) applies to a person who is acting in pursuance of a duty, function, or power under this Part or any other enactment.
 (4) Subsection (1) applies irrespective of any liability that may attach to a person who has sold the restricted substance concerned to any other person.
 
@@ -383,7 +383,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 41 Restriction on place of sale or supply of restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to place of sale or supply applies from a place or premises that do not comply with that restriction.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 42 Restriction on free of charge distribution and rewards of restricted substances
 (1) No manufacturer, distributor, importer, or retailer of any restricted substance may—
@@ -399,7 +399,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (3) Nothing in subsection (2) applies in respect of any payment or reward to any person who purchases or attempts to purchase a restricted substance—
   (a) with the authority of the Director-General of Health, the Commissioner of Police, or some other person authorised for the purpose by the Director-General or the Commissioner; and
   (b) for the purpose of monitoring compliance with the provisions of this Part.
-(4) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(4) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -413,7 +413,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
   (d) on or in any other medium prescribed in regulations made under this Part.
 (2) No person may advertise a restricted substance to which a prescribed restriction relating to advertising applies in a way that does not comply with that restriction.
 (3) Every person who advertises a restricted substance to which a prescribed requirement relating to advertising applies must advertise the restricted substance in a way that complies with that requirement.
-(4) Every person who contravenes subsection (1), (2), or (3) commits an offence and is liable on summary conviction,—
+(4) Every person who contravenes subsection (1), (2), or (3) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -422,7 +422,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 44 Restrictions and requirements relating to labelling restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to labelling applies with a label that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to labelling applies must sell or supply the restricted substance with a label that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -431,7 +431,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 45 Restrictions and requirements relating to packaging restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to packaging applies in a package that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to packaging applies must sell or supply the restricted substance in a package that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -439,7 +439,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 46 Requirement relating to health warning
 (1) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to a health warning applies must sell or supply the restricted substance with the necessary health warning required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -447,14 +447,14 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 47 Requirement to display signage
 (1) Every person who sells a restricted substance to which a prescribed requirement relating to signage applies must display the signage required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 **Quantity, dosage, form, and serving restrictions and requirements**
 
 ### 48 Restrictions and requirements relating to quantity, dosage, form, or serving of restricted substances
 (1) No person may sell or supply a restricted substance to which a prescribed restriction relating to quantity, dosage, form, or serving applies in a quantity, dose, form, or serving that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance in relation to which a prescribed requirement relating to quantity, dosage, form, or serving applies must sell or supply the restricted substance in a quantity, dose, form, or serving that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -463,7 +463,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 ### 49 Restrictions and requirements relating to storage and display of restricted substances
 (1) No person who sells or supplies a restricted substance to which a prescribed restriction relating to storage or display applies may store or display the restricted substance in a way that does not comply with that restriction.
 (2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to storage or display applies must store or display the restricted substance in a way that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction,—
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -471,13 +471,13 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 
 ### 50 Requirement to manufacture restricted substances in accordance with code of practice
 (1) Every person who manufactures a restricted substance to which a code of manufacturing practice applies must manufacture the restricted substance in accordance with that code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
 ### 51 Restriction on import of restricted substances
 (1) No person may import into New Zealand a restricted substance to which a code of manufacturing practice applies unless the restricted substance meets or exceeds the minimum standards established by the code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -492,7 +492,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (3) A manufacturer, importer, or seller must,—
   (a) on receipt of a recall order, advise the Minister of the details of the manner in which that person proposes to comply with the order; and
   (b) when the recall order has been complied with, give written notice of that fact to the Minister.
-(4) Every person who fails to comply, in any respect, with any of the provisions of this section or any order issued under this section commits an offence and is liable on summary conviction,—
+(4) Every person who fails to comply, in any respect, with any of the provisions of this section or any order issued under this section commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -502,7 +502,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 (1) Every person who, in the course of any business, imports, prepares, processes, manufactures, packs, stores, carries, delivers, or sells any restricted substance, must—
   (a) keep, in some place of security at that person's place of business, any records required to be kept by that person by any regulations made under this Part; and
   (b) retain those records for the period of time prescribed in the regulations.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 
@@ -530,7 +530,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
   (a) the date it takes effect (which may be the date on which it is made or a later date); and
   (b) the date it expires (which must be a date at least 4 weeks and no more than 3 months after the date it takes effect).
 (4) Every person who contravenes an order made under subsection (2) commits an offence.
-(5) Every person who commits an offence under subsection (4) is liable on summary conviction to a fine not exceeding $2,000.
+(5) Every person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $2,000.
 
 **Enforcement officers**
 
@@ -560,74 +560,73 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 **Enforcement powers**
 
 ### 56 Entry and inspection for purposes of ensuring compliance with this Part
-(1) An enforcement officer or a member of the police may enter a place, if he or she believes there is a restricted substance in that place, to—
+(1) An enforcement officer or a constable may enter a place, if he or she believes there is a restricted substance in that place, to—
   (a) find out whether this Part is being complied with in relation to that restricted substance:
   (b) find out the extent to which this Part is not being complied with in relation to that restricted substance:
   (c) exercise the powers given by section 58.
 (2) Subsection (1) does not apply to a dwellinghouse or other residential accommodation.
-(3) An enforcement officer or a member of the police who enters a place under subsection (1) may do any or all of the following things:
+(3) An enforcement officer or a constable who enters a place under subsection (1) may do any or all of the following things:
   (a) inspect the place:
   (b) take photographs or videos of the place:
   (c) copy any documents or records (of any kind) relating to a restricted substance:
   (d) exercise the powers given by section 58:
   (e) inspect any article or material (for example, advertising material and display signage) in relation to which a restriction or requirement is imposed by or under this Part.
-(4) Nothing in subsection (2) prevents an enforcement officer or a member of the police from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
+(4) Nothing in subsection (2) prevents an enforcement officer or a constable from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
   (a) under authority given by or under an enactment (including another section of this Part); or
   (b) with the occupier's consent.
-(5) An enforcement officer or a member of the police who is exercising powers under this section in respect of or in a place, must,—
-  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a member of the police; and
+(5) An enforcement officer or a constable who is exercising powers under this section in respect of or in a place, must,—
+  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a constable; and
   (b) in the case of an enforcement officer who is asked by a person in charge to do so, produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both; and
   (c) explain to that person that the authority to enter is under this section.
 
 ### 57 Powers of entry and inspection if reasonable grounds to believe offence committed under this Part
-(1) An enforcement officer or a member of the police may enter a place if he or she has reasonable grounds to believe that—
+(1) An enforcement officer or a constable may enter a place if he or she has reasonable grounds to believe that—
   (a) there is a restricted substance in that place; and
   (b) an offence has been, is being, or will be committed under this Part in relation to that restricted substance in that place.
 (2) Subsection (1) does not apply to a dwellinghouse or other residential accommodation.
-(3) An enforcement officer or a member of the police who enters a place under subsection (1) may do any or all of the following things:
+(3) An enforcement officer or a constable who enters a place under subsection (1) may do any or all of the following things:
   (a) inspect the place:
   (b) take photographs or videos of the place:
   (c) seize any restricted substance, document or record (of any kind), or other article relating to a restricted substance (for example, any advertising or labelling material):
   (d) copy any documents or records (of any kind) relating to the restricted substance:
   (e) exercise the powers given by section 58.
-(4) Nothing in subsection (2) prevents a member of the police from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
+(4) Nothing in subsection (2) prevents a constable from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
   (a) with the consent of an occupier; or
   (b) under authority given by or under an enactment (including another section of this Part, for example, pursuant to a warrant issued under subsection (5)).
-(5) A District Court Judge may issue to a member of the police a warrant to enter any part of a dwellinghouse or other residential accommodation, if satisfied that there are reasonable grounds for believing that—
+(5) A District Court Judge may issue to a constable a warrant to enter any part of a dwellinghouse or other residential accommodation, if satisfied that there are reasonable grounds for believing that—
   (a) there is a restricted substance in the dwellinghouse or residential accommodation; and
   (b) an offence has been, is being, or will be committed under this Part in relation to that restricted substance in that dwellinghouse or residential accommodation.
 (6) A warrant issued under subsection (5) must state a period during which the warrant may be executed, which must not exceed 14 days from the date of its issue.
-(7) An enforcement officer or a member of the police exercising powers under this section in respect of or in a place must,—
-  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a member of the police; and
+(7) An enforcement officer or a constable exercising powers under this section in respect of or in a place must,—
+  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a constable; and
   (b) in the case of an enforcement officer who is asked by a person in charge to do so, produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both; and
   (c) explain to that person that the authority to enter is under this section.
 
 ### 58 Requirement to give identifying information
-(1) Subsection (2) applies to an enforcement officer or a member of the police who at any time believes on reasonable grounds that within the previous 14 days a restricted substance was sold to a person under the age of 18 years in a place.
-(2) An enforcement officer or a member of the police to whom this subsection applies may,—
-  (a) if he or she believes on reasonable grounds that the person who sold the restricted substance is in the place, require that person to give the enforcement officer or a member of the police his or her name and address; and
-  (b) if the person who sold the restricted substance is not present, require any other person in the place who appears to be in charge of it or any part of it, to give the enforcement officer or a member of the police the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) the person the enforcement officer or a member of the police believes on reasonable grounds sold the restricted substance.
-(3) An enforcement officer or a member of the police who suspects that a person is under the age of 17 years must not under subsection (2)(a) require the person to give the enforcement officer or member of the police his or her name and address unless—
+(1) Subsection (2) applies to an enforcement officer or a constable who at any time believes on reasonable grounds that within the previous 14 days a restricted substance was sold to a person under the age of 18 years in a place.
+(2) An enforcement officer or a constable to whom this subsection applies may,—
+  (a) if he or she believes on reasonable grounds that the person who sold the restricted substance is in the place, require that person to give the enforcement officer or a constable his or her name and address; and
+  (b) if the person who sold the restricted substance is not present, require any other person in the place who appears to be in charge of it or any part of it, to give the enforcement officer or a constable the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) the person the enforcement officer or a constable believes on reasonable grounds sold the restricted substance.
+(3) An enforcement officer or a constable who suspects that a person is under the age of 17 years must not under subsection (2)(a) require the person to give the enforcement officer or constable his or her name and address unless—
   (a) there is no other person in the place concerned who appears to be in charge of it; or
   (b) there is another person in the place who appears to be in charge of it, but the enforcement officer suspects that that person is also under the age of 17 years.
-(4) An enforcement officer or a member of the police who suspects that a person is under the age of 17 years must not under subsection (2)(b) require the person to give the enforcement officer or a member of the police the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
-(5) The powers given by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person's knowledge relating to) a person the enforcement officer or member of the police concerned believes to have sold a restricted substance to a person under the age of 18 years.
+(4) An enforcement officer or a constable who suspects that a person is under the age of 17 years must not under subsection (2)(b) require the person to give the enforcement officer or a constable the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
+(5) The powers given by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person's knowledge relating to) a person the enforcement officer or constable concerned believes to have sold a restricted substance to a person under the age of 18 years.
 
-### 59 Information laid under this Part
-(1) An information in respect of an offence against this Part may be laid at any time within 1 year after the time the matter it relates to arose.
-(2) Subsection (1) overrides section 14 of the Summary Proceedings Act 1957.
+### 59 Time for filing charging document under this Part
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
 
 **Offences relating to enforcement**
 
-### 60 Offence to obstruct enforcement officer or member of police under this Part
-(1) A person who obstructs an enforcement officer or a member of the police in the execution of any power or duty under this Part commits an offence.
-(2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+### 60 Offence to obstruct enforcement officer or constable under this Part
+(1) A person who obstructs an enforcement officer or a constable in the execution of any power or duty under this Part commits an offence.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
-### 61 Offence to make false statement to enforcement officer or member of police under this Part
+### 61 Offence to make false statement to enforcement officer or constable under this Part
 (1) A person commits an offence if—
-  (a) he or she makes a declaration or statement to an enforcement officer or a member of the police executing any power or fulfilling any duty under this Part; and
+  (a) he or she makes a declaration or statement to an enforcement officer or a constable executing any power or fulfilling any duty under this Part; and
   (b) he or she knows that the declaration or statement is false.
-(2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
 **Regulations**
 
