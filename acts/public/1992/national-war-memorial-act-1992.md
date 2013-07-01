@@ -1,5 +1,5 @@
 # National War Memorial Act 1992
-_Consolidation as at 2000-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for the control and maintenance of the National War Memorial
 
@@ -81,7 +81,7 @@ Subject to this Act, and to any directions given by the Minister, the National W
 (2) No person other than the Minister or the National War Memorial Advisory Council, shall, either alone or with any other person or persons,—
   (a) carry on business, or conduct any activities in relation to any name listed in paragraph (a) or paragraph (b) of subsection (1); or
   (b) carry on business, or conduct any activities in relation to any name knowing that that name so resembles any name listed in paragraph (a) or paragraph (b) of subsection (1) as to be likely to mislead any person.
-(3) Every person who contravenes subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+(3) Every person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
 
 ### 16 Amendment to Flags, Emblems, and Names Protection Act 1981
 Amendment(s) incorporated in the Act(s).
