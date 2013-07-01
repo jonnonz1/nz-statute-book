@@ -1,5 +1,5 @@
 # New Zealand Antarctic Institute Act 1996
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-01_
 
 > An Act to establish the New Zealand Antarctic Institute to manage New Zealand's Antarctic activities and to provide for incidental matters
 
@@ -66,7 +66,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Institute and
 (2) No person other than the Institute and the Board shall, either alone or with any other person or persons,—
   (a) trade or carry on business under any name listed in paragraphs (a) to (c) of subsection (1); or
   (b) trade or carry on business under any other name, knowing that that name so resembles any name listed in paragraphs (a) to (c) of subsection (1), as to be likely to mislead any person.
-(3) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+(3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
 
 ## Part 2 — Miscellaneous provisions
 
