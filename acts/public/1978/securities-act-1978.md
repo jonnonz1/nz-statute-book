@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -146,6 +146,7 @@ _Consolidation as at 2012-07-01_
   - **prospectus** means a document that contains an offer of securities to the public for subscription, and that is intended to be, or has been, delivered to the Registrar for registration under section 42
   - **qualified auditor** has the meaning given to it by section 2C
   - **receive** , in relation to a document, information, or other matter, includes receive by any form of electronic or other means of communication in a manner that enables the recipient to readily store the document, information, or other matter in a permanent form and, with or without the aid of any equipment, to retrieve and read it
+  - **register** means, except in respect of a register kept under section 51, the register of securities offers kept under sections 43N to 43S
   - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
   - **registered prospectus** means,—
     (a) except if paragraph (b) applies,—
@@ -699,7 +700,7 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
     (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption of a kind referred to in section 37AC(1)(e)(i), if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
     (iv) an investment statement relating to the security, unless an exemption from section 37A(1)(a) granted or provided under this Act applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption):
     (v) a statement to the effect that there is a registered prospectus in relation to the security and that, at the request of the person and on payment of any prescribed fee, the issuer will send the registered prospectus to the person:
-    (vi) a statement that describes the effect of section 363 of the Companies Act 1993 (as applied by section 66) in relation to that prospectus:
+    (vi) a statement that information concerning that prospectus can be obtained from the register:
     (vii) if the security is offered in a simplified disclosure prospectus, a copy of that simplified disclosure prospectus.
 (1A) However, subsection (1)(b)(iv) and (v) do not apply to securities that are offered in a simplified disclosure prospectus.
 (2) Subsection (1)(b)(v) and (vi) does not apply if an exemption from section 37(1) granted or provided under this Act applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption).
@@ -1007,7 +1008,7 @@ No advertisement shall contain a statement purporting to be made by an expert un
 (4) Where the FMA makes an order under this section,—
   (a) it shall forthwith notify the issuer of the securities that the order has been made and the reasons for making it; and
   (b) it may notify any other person that the order has been made and the reasons for making it.
-(5) Every person who contravenes an order made under this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) Every person who contravenes an order made under this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (6) It is a defence to a charge under subsection (5) if the defendant proves that the advertisement was distributed—
   (a) without the defendant's knowledge; or
   (b) without the defendant's knowledge of the order.
@@ -1280,6 +1281,119 @@ It is not the function of the Registrar, when acting under section 42 or 43, to 
     (iii) is false or misleading as to a material particular:
     (iv) omits any material particular.
 (2) This section does not limit section 22 of the Financial Markets Authority Act 2011 (which provides protection from liability for the FMA and its members and employees).
+
+**Register of securities offers**
+
+### 43N Register of securities offers
+(1) A register called the register of securities offers is established.
+(2) The register must be kept by the Registrar.
+(3) The register may be—
+  (a) an electronic register; or
+  (b) kept in any other manner that the Registrar thinks fit.
+(4) The register must be operated at all times unless—
+  (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
+  (b) otherwise provided in regulations.
+(5) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
+
+### 43O Purpose of register
+The purpose of the register is—
+  (a) to give public notice of offers of securities made under registered prospectuses; and
+  (b) to enable any person to—
+    (i) obtain information contained in, or concerning, registered prospectuses; and
+    (ii) obtain other information about, or copies of documents relating to, offers of securities made under registered prospectuses; and
+    (iii) compare information about offers of securities made under registered prospectuses; and
+  (c) to assist any person to decide whether or not to subscribe for securities offered to the public; and
+  (d) to assist any person to perform a financial adviser service (within the meaning of the Financial Advisers Act 2008) or to otherwise comment on an offer of securities to the public; and
+  (e) to assist any person—
+    (i) in the exercise of the person's powers under this Act or any other enactment; or
+    (ii) in the performance of the person's functions or duties under this Act or any other enactment.
+
+### 43P Contents of register
+(1) The register must contain all of the following information and documents, to the extent that the information or documents are relevant, for each registered prospectus:
+  (a) the name of the issuer and the issuer's financial service provider number (if any):
+  (b) the name of every promoter in relation to the offer and the promoter's financial service provider number, if any (subject to subsection (3)):
+  (c) the name of every relevant trustee or supervisor and the relevant trustee or supervisor's financial service provider number (if any):
+  (d) the name of the offer that is specified in the prospectus and the registration number for the prospectus (as specified in the certificate given under section 42):
+  (e) the type of security or securities being offered (for example, an equity security, a debt security, a participatory security, a unit in a unit trust, an interest in a superannuation scheme, or a life insurance policy):
+  (f) the date of the prospectus:
+  (g) the date specified in the prospectus as the last day on which the offer is able to be accepted or, if there is no such date, a statement to that effect:
+  (h) if there is any minimum or maximum number or amount of the securities being offered, the number or amount:
+  (i) the status of the prospectus (being a status that is determined and described in the prescribed manner):
+  (j) the date of registration of the prospectus and of every instrument that amends the prospectus:
+  (k) a copy of the prospectus and of every instrument that amends the prospectus:
+  (l) a copy of each investment statement distributed by or on behalf of the issuer in respect of the offer:
+  (m) a copy of any relevant deed (incorporating or together with all amendments to the deed):
+  (n) a copy of all documents that are required by the regulations to be attached to, or to accompany, the prospectus when it is delivered to the Registrar for registration:
+  (o) a copy of any certificate registered under section 37A(1A) and any financial statements that accompany that certificate:
+  (p) any notice or information provided by the FMA in respect of the prospectus or an investment statement for the offer under section 43J or 43K:
+  (q) a copy of the most recent financial statements of, or relating to, the issuer (and, if there is a scheme, the scheme) that have been registered under section 18 of the Financial Reporting Act 1993, together with a copy of the auditor's report on those statements:
+  (r) any documents, information, and other matters made publicly available under section 54C:
+  (s) any other prescribed matters.
+(2) However, the register is not required to contain information or documents that are prescribed as being information or documents that are not required to be contained in the register.
+(3) Subsection (1)(b) does not apply in respect of a director who is a promoter merely as a result of paragraph (b) of the definition of promoter in section 2.
+(4) The register must also contain—
+  (a) all other documents required to be registered by the Registrar under this Act; and
+  (b) any other prescribed information or documents.
+(5) In this section and section 43S,—
+  - **financial service provider number** , in relation to a person, is the number given to the person on the person's registration under the Financial Service Providers (Registration and Dispute Resolution) Act 2008
+  - **relevant deed** means, in the case of an offer of—
+    (a) debt securities, the trust deed:
+    (b) participatory securities, the deed of participation:
+    (c) units in a unit trust, the trust deed for the unit trust:
+    (d) interests in a superannuation scheme, the trust deed for the superannuation scheme
+  - **relevant trustee or supervisor** means, in the case of an offer of—
+    (a) debt securities, the trustee:
+    (b) participatory securities, the statutory supervisor:
+    (c) units in a unit trust, the unit trustee:
+    (d) interests in a superannuation scheme, the superannuation trustee.
+
+### 43Q Duty to notify relevant matters and provide certain documents and information to Registrar
+(1) An issuer must, in the prescribed manner,—
+  (a) notify the Registrar of any relevant changes in respect of a registered prospectus within 5 working days of becoming aware of the change; and
+  (b) provide to the Registrar a copy of any documents, information, and other matters made, or to be made, publicly available under section 54C before the date that is 5 working days after that material is made available under that section; and
+  (c) provide to the Registrar, before the date that is 5 working days after it is first distributed, a copy of each investment statement that is, or is to be, distributed by or on behalf of the issuer in respect of the offer.
+(2) In this section, relevant changes, in respect of a registered prospectus,—
+  (a) means—
+    (i) any change in the information referred to in section 43P(1)(a) to (h) in respect of the prospectus; or
+    (ii) any change in circumstances that would result in a change to the status of the prospectus as referred to in section 43P(1)(i); or
+    (iii) any other prescribed change that is relevant to the issuer, the scheme (if any), or the prospectus; but
+  (b) does not include—
+    (i) any change in respect of which the FMA is required to notify the Registrar (for example, an order made under section 43G); or
+    (ii) any change that occurs after the period within which allotments of securities may be made under the prospectus has ended as a result of section 37A(1)(c); or
+    (iii) any other change that is prescribed.
+(3) An issuer commits an offence and is liable on conviction to a fine not exceeding $300,000 if the issuer,—
+  (a) without reasonable excuse, contravenes subsection (1); or
+  (b) in purported compliance with subsection (1), supplies a document, information, or other matter knowing it to be false or misleading.
+(4) This section does not apply to changes that occur, or investment statements that are distributed, before the commencement of this section.
+
+### 43R Amendments to register
+(1) The Registrar may amend the register if—
+  (a) an issuer or the FMA informs the Registrar of information that is different from the information entered on the register; or
+  (b) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar.
+(2) The Registrar must amend the register if the regulations require the Registrar to do so in circumstances specified by the regulations.
+
+### 43S Search of register
+(1) A person may search the register in accordance with this Act or the regulations.
+(2) The register may be searched only by reference to the following criteria:
+  (a) the name of an offer as specified in a prospectus:
+  (b) the registration number of a prospectus:
+  (c) the name of an issuer:
+  (d) the name of a promoter:
+  (e) the name of a relevant trustee or supervisor:
+  (f) the financial service provider number of an issuer, a promoter, or a relevant trustee or supervisor:
+  (g) the status of a prospectus (being a status that is determined and described in the prescribed manner):
+  (h) prospectuses that have a particular date or have a date within a range of dates:
+  (i) prospectuses that were registered on a particular date or at any time during a range of dates:
+  (j) prospectuses under which offers are open for acceptance on a particular date or at any time during a range of dates:
+  (k) orders made by the FMA in respect of prospectuses that are in force on a particular date or at any time during a range of dates:
+  (l) the type of security being offered:
+  (m) any other prescribed criteria:
+  (n) any combination of the criteria in paragraphs (a) to (m).
+(3) A search of the register may be carried out only by the following persons for the following purposes:
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
+  (b) a person, for a purpose referred to in section 43O:
+  (c) a person, for the purpose of advising another person in connection with any of the purposes referred to in this section.
+(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
 
 ### 44 Suspension and cancellation of registration of registered prospectus
 [Repealed]
@@ -1797,16 +1911,12 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 (2) No person shall be convicted of an offence under subsection (1) if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the advertisement, believe that the statement was true.
 (3) Subject to subsection (4), where a registered prospectus that includes an untrue statement is distributed, every person who signed the prospectus, or on whose behalf the registered prospectus was signed for the purposes of section 41(1)(b), commits an offence.
 (4) No person shall be convicted of an offence under subsection (3) if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the prospectus, believe that the statement was true.
-(5) Every person who commits an offence against this section is liable—
-  (a) on conviction on indictment to—
-    (i) imprisonment for a term not exceeding 5 years; or
-    (ii) a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued; or
-  (b) on summary conviction to—
-    (i) imprisonment for a term not exceeding 3 months; or
-    (ii) a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(5) Every person who commits an offence against this section is liable on conviction to—
+  (a) imprisonment for a term not exceeding 5 years; or
+  (b) a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ### 59 Criminal liability for offering, distributing, or allotting in contravention of this Act
-(1) Subject to subsection (2), if an offer of a security is made to the public, or a registered prospectus relating to a security is distributed, or a security is allotted, in contravention of this Act, (or, in the case of an interest in a contributory mortgage, in contravention of regulations made under this Act),—each commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(1) Subject to subsection (2), if an offer of a security is made to the public, or a registered prospectus relating to a security is distributed, or a security is allotted, in contravention of this Act, (or, in the case of an interest in a contributory mortgage, in contravention of regulations made under this Act),—each commits an offence, and is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
   (a) the issuer of the security; and
   (b) every person who is a principal officer of the issuer at the time of the contravention; and
   (c) every promoter of the security; and
@@ -1814,6 +1924,7 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 (2) No person shall be convicted under subsection (1) for any such contravention if—
   (a) the contravention was in respect of matters which in the opinion of the court dealing with the case were immaterial, or was otherwise such as, in the opinion of the court having regard to all the circumstances of the case, ought reasonably to be excused; or
   (b) in the case of a person other than the issuer, in the opinion of the court dealing with the case, the contravention did not take place with his or her knowledge and consent.
+(3) In proceedings for an offence against this section, the burden of proving any of the matters described in subsection (2) lies on the defendant.
 
 ### 59A Criminal liability for delivering prospectus or amendment for registration that does not comply with various requirements
 (1) The issuer of securities to which a prospectus relates commits an offence if, when the prospectus is delivered to the Registrar for registration under this Act,—
@@ -1822,16 +1933,16 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 (2) The issuer of securities to which a registered prospectus relates commits an offence if—
   (a) an instrument to amend the prospectus is delivered to the Registrar for registration under this Act that would result, if the amendment were made, in the prospectus failing to comply with section 39(1) or 40; and
   (b) when the instrument is delivered for registration under this Act, the issuer knows, or ought reasonably to know, that if the amendment in the instrument were made it would result in the prospectus failing to comply with section 39(1) or 40.
-(3) An issuer that commits an offence under subsection (1) or (2) is liable, on summary conviction, to a fine not exceeding $30,000.
+(3) An issuer that commits an offence under subsection (1) or (2) is liable, on conviction, to a fine not exceeding $30,000.
 (4) This section applies in respect of prospectuses and instruments of amendment delivered to the Registrar for registration under this Act on or after the commencement of this section.
 
 ### 60 Other offences
-(1) Every person who—commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(1) Every person who—commits an offence and is liable on conviction to a fine not exceeding $5,000.
   (a)
   (b)
   (c)
   (d) without reasonable excuse, acts in contravention of, or fails to comply in any respect with, any provision of sections 35, 43B(1), 47, 50, 51, 52, and 54 or any requirement imposed pursuant to any of those sections—
-(2) If a person contravenes or fails to comply in any respect with any provision of sections 7, 37(4), 43D(1), 48, 53 to 53E, and 54A to 54C, or any requirement imposed pursuant to any of those sections, the person, and every principal officer thereof, commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
+(2) If a person contravenes or fails to comply in any respect with any provision of sections 7, 37(4), 43D(1), 48, 53 to 53E, and 54A to 54C, or any requirement imposed pursuant to any of those sections, the person, and every principal officer thereof, commits an offence, and is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
   provided that—
     (a) no person shall be convicted under this subsection in respect of any such contravention or failure to comply if the contravention or failure was in respect of matters which in the opinion of the court dealing with the case were immaterial, or was otherwise such as, in the opinion of the court having regard to all the circumstances of the case, ought reasonably to be excused:
     (b) no principal officer shall be convicted under this subsection in respect of any such contravention or failure to comply if, in the opinion of the court dealing with the case, the contravention or failure did not take place with his or her knowledge and consent.
@@ -1859,7 +1970,7 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 
 ### 60C Offence of contravening management banning order
-An individual who acts in contravention of a management banning order under section 60A commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+An individual who acts in contravention of a management banning order under section 60A commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 ### 60D Only 1 management banning order may be made for same conduct
 If conduct by a person constitutes grounds for making an order under any 1 or more of section 60A of this Act, section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
@@ -1872,7 +1983,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 (2A) The court may give leave for the purposes of subsection (2)—
   (a) at the time of conviction or making of the order, or at any other time on the application of the relevant person:
   (b) in respect of a particular incorporated or unincorporated body, a class of incorporated or unincorporated bodies, or incorporated or unincorporated bodies generally.
-(3) An individual who acts in contravention of this section commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+(3) An individual who acts in contravention of this section commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 ### 60F General provisions for bans and banning orders
 (1) The Registrar of the court must, as soon as practicable after the making of a management banning order by a court under section 60A,—
@@ -1934,7 +2045,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 (2) This section has effect subject to the Insolvency Act 1967.
 
 ### 60K Offence
-A person commits an offence who contravenes an order by the court under section 60H or section 60I that is applicable to the person and is liable on conviction on indictment,—
+A person commits an offence who contravenes an order by the court under section 60H or section 60I that is applicable to the person and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
@@ -1996,8 +2107,11 @@ In sections 61 to 61B,—
 ### 63A No liability under Fair Trading Act 1986 if not liable under this Act
 A court hearing a proceeding brought against a person under the Fair Trading Act 1986 must not find that person liable for conduct that is regulated by this Act if that person would not be liable for that conduct under this Act.
 
-### 64 Time in which information may be laid
-Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, any information for an offence against this Act punishable on summary conviction may be laid at any time within 3 years after the date of the offence.
+### 64 Time for filing charging document for certain offences
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in relation to an offence against section 58, 60C, 60E(3), or 60K of this Act; and
+  (b) the limitation period in respect of an offence against section 38B(5) or 60(1) of this Act ends on the date that is 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 65 Saving of liability under general law
 Nothing in this Act shall limit or diminish any liability that any person may incur under any rule of law or enactment other than this Act.
@@ -2045,8 +2159,7 @@ A person that considers that a decision of the FMA under any of the following pr
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 
 ### 66 Registers to be kept by Registrar for purposes of this Act
-(1) The Registrar shall cause to be kept in the office of each District Registrar of Companies such registers as he or she considers necessary for the purposes of this Act, and all matters required by this Act to be registered or recorded by the Registrar shall be recorded therein.
-(2) Sections 360, 361, and 363 of the Companies Act 1993 apply in respect of any documents kept by the Registrar for the purposes of this Act as if they were documents kept for the purposes of that Act.
+[Repealed]
 
 ## Part 3 — General investigation and enforcement powers
 
@@ -2195,6 +2308,19 @@ A person that considers that a decision of the FMA under any of the following pr
   (f)
   (g) prescribing the information and other matters that shall be included in trust deeds and deeds of participation for the purposes of this Act, and the clauses that shall be deemed to be contained in, or may be adopted by, such deeds; and different matters and clauses may be prescribed in respect of deeds relating to different kinds of securities and different classes of issuers:
   (h) regulating the offer to the public of interests in contributory mortgages; and prescribing requirements relating to the management of such interests, including requirements relating to the auditing thereof:
+  (ha) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for the register, including matters that relate to—
+    (i) the operation of the register:
+    (ii) the form of the register:
+    (iii) the information or documents to be contained in the register:
+    (iv) prescribing information and documents for the purposes of section 43P(2):
+    (v) the information and documents to be supplied under sections 41(2) and 43(2):
+    (vi) access to the register:
+    (vii) search criteria for the register:
+    (viii) circumstances in which amendments must be made to the register:
+    (ix) the manner in which the status of a registered prospectus is determined and manner in which that status is described in the register:
+  (hb) prescribing matters for the purposes of section 43Q, including—
+    (i) the manner in which information, documents, or other matters are notified or provided:
+    (ii) changes for the purposes of section 43Q(2)(a)(iii) and (b)(iii):
   (i) prescribing the places at which documents shall be delivered, and the number of copies of such documents required, for the purposes of this Act:
   (j) prescribing transitional and savings provisions relating to the coming into force of this Act; and without limiting the generality of the foregoing, any such regulation may provide that, subject to such terms and conditions as are specified in the regulation, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of Acts repealed by this Act shall continue to apply, in respect of any specified person or class of persons:
   (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing the fines, not exceeding $5,000, that may be imposed in respect of any such offence:
@@ -2360,7 +2486,7 @@ In this Part, country includes a State, a territory, a country, or a group of co
   (b) every person who is a principal officer of the issuer at the time of the contravention; and
   (c) every promoter of the security; and
   (d) every person who has authorised himself or herself to be named and is named in any advertisement relating to the security as a director of the issuer or as having agreed to become a director either immediately or after an interval of time.
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (3) No person may be convicted under subsection (1) for a contravention if—
   (a) the contravention was for matters that, in the opinion of the court, were immaterial, or that otherwise, in the opinion of the court, having regard to all the circumstances of the case, ought reasonably to be excused; or
   (b) in the case of a person other than the issuer, in the opinion of the court dealing with the case, the contravention did not take place with the person's knowledge and consent.
@@ -2537,7 +2663,7 @@ This Act amends the Securities Act 1978.
 (5) In subsection (3), current prospectus—
   (a) means a prospectus that was registered before the commencement of this subsection and under which allotments may still be made in accordance with the principal Act after that commencement; but
   (b) does not include a prospectus if no allotments of securities will be made under the prospectus after the date that is 40 working days after the commencement of this subsection.
-(6) An issuer commits an offence and is liable on summary conviction to a fine not exceeding $30,000 if the issuer,—
+(6) An issuer commits an offence and is liable on conviction to a fine not exceeding $30,000 if the issuer,—
   (a) without reasonable excuse, fails to comply with subsection (3); or
   (b) in purported compliance with that subsection, supplies information or a document knowing it to be false or misleading.
 
