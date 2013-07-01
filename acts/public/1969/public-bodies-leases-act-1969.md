@@ -1,5 +1,5 @@
 # Public Bodies Leases Act 1969
-_Consolidation as at 2004-07-07_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the powers of certain public bodies to lease land
 
@@ -116,7 +116,7 @@ In every renewable lease of farm land granted or renewed after the commencement 
 
 ### 16 Inspection of leased land
 (1) Any person authorised by the lessor in writing shall, on giving not less than 48 hours' notice in writing to the lessee or his agent, be entitled, at all reasonable times, to enter any farm land held on lease granted or renewed after the commencement of this Act by any lessor that is a leasing authority or a public body, whether the lease is granted or renewed under this Act or any other enactment, for the purpose of inspecting the land in order to ascertain whether the covenants implied on the part of the lessee by section 15 have been observed and performed by the lessee.
-(2) Every person who obstructs any person authorised as aforesaid in the making of an inspection, or who refuses to answer any reasonable question put to him in writing by any person so authorised, or who makes to him any wilful mis-statement, commits an offence, and is liable on summary conviction to a fine not exceeding $100.
+(2) Every person who obstructs any person authorised as aforesaid in the making of an inspection, or who refuses to answer any reasonable question put to him in writing by any person so authorised, or who makes to him any wilful mis-statement, commits an offence, and is liable on conviction to a fine not exceeding $100.
 
 ## Part 3 — General provisions
 
@@ -217,7 +217,7 @@ Where any lease of farm land granted by a leasing authority under the provisions
 (2) The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
 (3) Every reference in any other Act, regulation, rule, order, agreement, deed, instrument, application, notice, or other document whatsoever in force at the commencement of this Act to a lease granted under paragraph (e) or paragraph (f) or paragraph (g) of section 5 of the Public Bodies' Leases Act 1908 shall after the commencement of this Act be read as including a reference to a lease granted under paragraph (b) of section 11.
 
-## Schedule 1 — Provisions of renewable lease granted under section 7(1)(e) or section 11(b)
+## Schedule 1 — Provisions of renewable lease granted under section 7(1)﻿(e) or section 11(b)
 
 ### 1
 On the expiry by effluxion of time of the term hereby granted, the lessee shall have a right to obtain, in accordance with the provisions hereinafter contained, a renewal lease of the land hereby demised, at a rent [where the rent is to be reviewed at periodic intervals, insert for the first [number] years of the term of the renewal lease] to be determined in accordance with the said provisions, for the term of [the same period of years for which the original lease is granted or any shorter period, or, in the case of a lease of farm land, 21 years or 33 years, as the case requires] computed from the expiration of the lease hereby granted, and subject to the same covenants and provisions as this lease, including this present provision for the renewal thereof, and all provisions ancillary or in relation thereto. [Where the rent is to be reviewed at periodic intervals, add The rent for subsequent periods of [number] years of the term of the lease shall be determined in accordance with section 22 of the Public Bodies Leases Act 1969.]
@@ -275,7 +275,7 @@ Any notice by the lessee under clause 5 or clause 12 of his desire to accept a r
 The term of any renewal lease shall run from the date of the expiry of the prior lease, and the rent thereunder shall accrue as from the said date instead of the rent reserved in the prior lease, notwithstanding the fact that the renewal lease may not be executed until after that date.
 
 ### 17
-[In the case of a lease under section 7(1)(e)] If the lease hereby granted is not renewed in accordance with the foregoing provisions, or if it is determined by forfeiture, re-entry, or otherwise, all buildings, and improvements on the land demised shall absolutely revert to the lessor free from any payment or compensation whatever.
+[In the case of a lease under section 7(1)﻿(e)] If the lease hereby granted is not renewed in accordance with the foregoing provisions, or if it is determined by forfeiture, re-entry, or otherwise, all buildings, and improvements on the land demised shall absolutely revert to the lessor free from any payment or compensation whatever.
 
 ### 17
 [In the case of a lease of farm land under section 11(b)] If the lease hereby granted is not renewed in accordance with the foregoing provisions or is surrendered or is determined by re-entry or forfeiture, the lessee shall be entitled to compensation for improvements in accordance with the provisions of section 14 of the Public Bodies Leases Act 1969.
@@ -289,7 +289,7 @@ Nothing in the foregoing provisions shall exclude or restrict the right of the l
 ### 20
 The expression lessor as herein used includes the successors and assigns of the lessor, and the expression lessee as herein used includes the successors, executors, administrators, and assigns of the lessee.
 
-## Schedule 2 — Provisions of lease granted under section 7(1)(f)
+## Schedule 2 — Provisions of lease granted under section 7(1)﻿(f)
 
 ### 1
 Not earlier than 9 calendar months and not later than 3 calendar months before the expiry by effluxion of time of the term hereby granted, the lessor shall cause 2 separate valuations to be made by a person whom the lessor reasonably believes to be competent to make the valuation—namely, a valuation of all the buildings and improvements then on the land hereby demised, whether erected or made during or before the commencement of the term hereby granted [or a valuation of any specified descriptions of buildings or improvements, as the leasing authority thinks fit], and another valuation of the fair annual ground rent of the said land, without the buildings or improvements so to be valued, for a further term of [the same period of years for which the lease is granted or any shorter period] from the expiration of the term hereby granted, so that the rent shall be an even annual sum payable (throughout the term without increase or diminution during the term) (or, where the rent is to be reviewed at periodic intervals for the first [number] years of the term of the lease. The rent for subsequent periods of [number] years of the term of the lease shall be determined in accordance with section 22 of the Public Bodies Leases Act 1969).
@@ -349,10 +349,10 @@ In every case in which the right to a new lease is sold by auction the new term 
 The outgoing lessee shall have a right to bid for and to become the purchaser of the right to a new lease at any such auction.
 
 ### 20
-The lessor shall be bound in all cases to accept at any such auction the highest bid made thereat for the new lease, if that bid is not less than the upset annual ground rent as determined in manner aforesaid.
+The lessor shall be bound in all cases to accept at any such auction the highest bid made thereat for the new lease, if that bid is not less than the upset annual ground rent as determined in the manner aforesaid.
 
 ### 21
-If at any auction there is no bid equal to or greater than the upset annual ground rent as determined in manner aforesaid, then, at or (as the case may be) as from the expiry of the term hereby granted, the land hereby leased, with all buildings and improvements thereon (other than fixtures removable by the outgoing lessee before the expiration of the term), shall absolutely revert to the lessor free from any payment or compensation whatever.
+If at any auction there is no bid equal to or greater than the upset annual ground rent as determined in the manner aforesaid, then, at or (as the case may be) as from the expiry of the term hereby granted, the land hereby leased, with all buildings and improvements thereon (other than fixtures removable by the outgoing lessee before the expiration of the term), shall absolutely revert to the lessor free from any payment or compensation whatever.
 
 ### 22
 At every auction held under the foregoing provisions the conditions of sale shall be the same (so nearly as may be) as those in respect of the first auction hereinbefore provided for.
