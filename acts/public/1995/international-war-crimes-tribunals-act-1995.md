@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -85,7 +85,7 @@ This Act binds the Crown.
 ### 9 Remand
 (1) A person who is arrested under a warrant issued under section 7 shall, unless the warrant ceases to have effect under section 8, be brought before a Judge as soon as is practicable.
 (2) Subject to subsection (3), the Judge shall remand the person in custody or on bail for such period or periods as may be necessary to enable the Attorney-General to make a surrender determination under section 12.
-(3) Where any person is remanded in custody or on bail under this section, the provisions of sections 45, 45A, 46, and 47 of the Summary Proceedings Act 1957, and sections 28 to 38 of the Bail Act 2000 shall apply as if the person had been arrested for an offence punishable by imprisonment and with any other necessary modifications.
+(3) Where any person is remanded in custody or on bail under this section, the provisions of sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 32, 34 and 35, and 37 to 39 of the Bail Act 2000 shall apply as if the person had been arrested for an offence punishable by imprisonment and with any other necessary modifications.
 
 ### 10 Release from remand at direction of Attorney-General
 (1) Where a person has been remanded under section 9 and the Attorney-General is satisfied that there are special circumstances that make it unjust or otherwise inappropriate for the remand to continue, the Attorney-General shall, by notice in writing, order the release from custody of the person or the discharge of the conditions on which bail was granted to the person, as the case may be.
@@ -333,7 +333,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
     (v) a witness in proceedings before the Tribunal; or
   (b) wilfully interrupts or obstructs the proceedings.
 (2) Every person commits an offence who, wilfully and without lawful excuse, disobeys any order or direction of a Tribunal made or given in the course of its proceedings.
-(3) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+(3) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
 
 ## Part 5 — Forfeiture of proceeds of Tribunal offences
 
@@ -499,39 +499,3 @@ The Governor-General may from time to time, by Order in Council, make regulation
 Amendment(s) incorporated in the Act(s).
 
 ## Schedule Schedule
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
