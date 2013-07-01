@@ -1,5 +1,5 @@
 # Music Teachers Act 1981
-_Consolidation as at 2002-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Music Teachers Registration Act 1928, and to make better provision for the registration and control of music teachers and the advancement of music teaching
 
@@ -216,7 +216,7 @@ The Registrar shall, on request by any person registered under this Act, send th
 Until the council is first constituted in accordance with the rules of the institute as first approved after the commencement of this Act by the Director-General, the affairs of the institute shall be managed by the persons who immediately before the commencement of this Act were the officers of the federation and those persons shall, until the constitution of the council, have all the powers of the council.
 
 ### 31 Offences
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who—
+Every person commits an offence and is liable on conviction to a fine not exceeding $500 who—
   (a) supplies any information to the board or Registrar in relation to an application for registration knowing that the information is misleading or incorrect; or
   (b) not being currently registered under this Act, uses or causes to be used or exhibited any certificate, words, titles, or initials that might reasonably cause any other person to believe that he is so registered.
 
