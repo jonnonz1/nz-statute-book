@@ -1,5 +1,5 @@
 # Food Act 1981
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the law relating to the sale of food
 
@@ -507,10 +507,10 @@ Every territorial authority shall observe every guideline, so far as the guideli
 
 ### 8ZQ Non-compliance with exemption an offence
 (1) Every person commits an offence against this Act who, being the holder of an exemption, acts in contravention of, or fails or refuses to comply with, any condition of that exemption, in any case where that action, failure, or refusal may create, directly or indirectly, a risk to human health.
-(2) Every individual who commits an offence against subsection (1) is liable,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+(2) Every individual who commits an offence against subsection (1) is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000,—
-(3) Every body corporate who commits an offence against subsection (1) is liable,—and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(3) Every body corporate who commits an offence against subsection (1) is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000,—
 
@@ -524,10 +524,10 @@ Every territorial authority shall observe every guideline, so far as the guideli
   (a) where the Director-General granted the exemption, notify the Director-General; or
   (b) where a territorial authority granted the exemption, notify that territorial authority,—
 (3) Every person commits an offence against this Act who, being the holder of an exemption, fails to comply with the requirements of subsection (1) or subsection (2).
-(4) Every individual who commits an offence against subsection (3) is liable,—
+(4) Every individual who commits an offence against subsection (3) is liable on conviction,—
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $2,000:
   (b) in any other case, to a fine not exceeding $1,000.
-(5) Every body corporate who commits an offence against subsection (3) is liable,—
+(5) Every body corporate who commits an offence against subsection (3) is liable on conviction,—
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $10,000:
   (b) in any other case, to a fine not exceeding $2,000.
 
@@ -637,10 +637,10 @@ Where,—that person shall, within 14 days of so ceasing to be the approved audi
 
 ### 8ZZE Offence
 (1) Every person commits an offence against this Act who fails to comply with the requirements of section 8ZZ(3) or section 8ZZD.
-(2) Every individual who commits an offence against subsection (1) is liable,—
+(2) Every individual who commits an offence against subsection (1) is liable on conviction,—
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $2,000:
   (b) in any other case, to a fine not exceeding $1,000.
-(3) Every body corporate who commits an offence against subsection (1) is liable,—
+(3) Every body corporate who commits an offence against subsection (1) is liable on conviction,—
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $10,000:
   (b) in any other case, to a fine not exceeding $2,000.
 
@@ -679,10 +679,10 @@ Nothing in this Part limits section 42(1)(z) or any regulations made pursuant to
     (iii) the presence of which would be unexpected and unreasonable in food of that description prepared or packed for sale in accordance with good trade practice; or
   (c) any food in any package, or any package intended to contain food, if that package is made wholly or partly of a material that may render the food injurious to health or that may taint the food; or
   (d) any appliance that may render the food injurious to health or that may taint the food.
-(5) Every individual who contravenes any of the provisions of this section commits an offence and is liable,—
+(5) Every individual who contravenes any of the provisions of this section commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000.
-(6) Every body corporate who contravenes any of the provisions of this section commits an offence and is liable,—
+(6) Every body corporate who contravenes any of the provisions of this section commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000.
 
@@ -690,10 +690,10 @@ Nothing in this Part limits section 42(1)(z) or any regulations made pursuant to
 (1) No person shall sell any food or appliance—
   (a) that bears or has attached to it, or is contained in a package that bears or has attached to it, any false or misleading statement, word, brand, picture, label, or mark purporting to indicate the nature, suitability, quantity, quality, strength, purity, composition, weight, origin, age, effects, or proportion of the food or appliance, or of the food or appliance contained in the package, as the case may require, or of any ingredient or nutrient or other constituent of the food or any component of the appliance; or
   (b) that has been packaged, processed, or treated in a manner that is false or misleading in relation to any of the matters mentioned in paragraph (a).
-(2) Every individual who contravenes any of the provisions of this section commits an offence and is liable,—
+(2) Every individual who contravenes any of the provisions of this section commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000.
-(3) Every body corporate who contravenes any of the provisions of this section commits an offence and is liable,—
+(3) Every body corporate who contravenes any of the provisions of this section commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000.
 
@@ -706,16 +706,16 @@ Nothing in this Part limits section 42(1)(z) or any regulations made pursuant to
   (e) makes any statement prohibited, by any regulations made under this Act or by any food standard, to be made in an advertisement relating to any food of that description, kind, or class; or
   (f) is false, or is likely to deceive a purchaser, with regard to the nature, quality, strength, purity, composition, origin, age, or effects of the food or of any ingredient or nutrient or other constituent of the food.
 (2) For the purposes of subsection (1), any words, the inclusion of which in an advertisement are necessary in order to avoid a contravention of that subsection, shall, where they appear in an advertisement published by television or otherwise in a transitory manner on a screen, be disregarded unless they are exposed in clearly legible lettering for a length of time sufficient to enable them to be read by the ordinary viewer.
-(3) Every individual who contravenes any of the provisions of subsection (1) commits an offence and is liable,—
+(3) Every individual who contravenes any of the provisions of subsection (1) commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000.
-(4) Every body corporate who contravenes any of the provisions of subsection (1) commits an offence and is liable,—
+(4) Every body corporate who contravenes any of the provisions of subsection (1) commits an offence and is liable on conviction,—
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000.
 
 ### 11AA Contravention of Act, etc, knowing that will create risk to human health
 (1) Every person commits an offence against this Act who wilfully acts in contravention of, or fails or refuses to comply with any provision of, this Act or any regulations made under this Act or any food standard, knowing that the action, failure, or refusal may create, directly or indirectly, a risk to human health.
-(2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
 
 ### 11A Restriction on selling raw milk
 (1) Except as provided in subsections (2) and (3), no person shall sell, resell, or buy any raw milk.
@@ -900,10 +900,10 @@ No person shall—
   (b) by virtue of an exemption granted to that person under Part 1A, that person is exempt from compliance with those regulations,—
 
 ### 11Q Offences and penalties
-(1) Every individual who contravenes any of the provisions of section 11O or section 11P commits an offence and is liable,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+(1) Every individual who contravenes any of the provisions of section 11O or section 11P commits an offence and is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000,—
-(2) Every body corporate who contravenes any of the provisions of section 11O or section 11P commits an offence and is liable,—and, where the offence is a continuing one, to a further fine not exceeding $1,000, for every day or part of a day during which the offence continues.
+(2) Every body corporate who contravenes any of the provisions of section 11O or section 11P commits an offence and is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $1,000, for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000,—
 
@@ -1010,10 +1010,10 @@ Where, during the transition period,—that person shall, on request by any othe
 
 ### 11ZE Offences
 (1) Every person commits an offence against this Act who fails to comply with the requirements of section 11ZC or section 11ZD.
-(2) Every individual who commits an offence against subsection (1) is liable,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+(2) Every individual who commits an offence against subsection (1) is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $3,000,—
-(3) Every body corporate who commits an offence against subsection (1) is liable,—and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(3) Every body corporate who commits an offence against subsection (1) is liable on conviction,—and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
   (b) in any other case, to a fine not exceeding $5,000,—
 
@@ -1194,12 +1194,9 @@ In any prosecution for an offence against this Act or against any regulations ma
   (d) he refuses or fails to give to an officer any assistance that that officer may reasonably require him to give, or to give to an officer any information, or to produce or permit an officer to examine and make copies of and extracts from any books, documents, or other records, that that officer is expressly authorised by this Act to require to be given or produced or to examine or make, or may reasonably require to be given or produced or to examine or make, or when required to give any such information or to produce any such books, documents, or other records, knowingly makes any false statement in respect thereof.
 (3) In this section the term officer includes a local authority inspector.
 
-### 27 Jurisdiction of District Courts
-(1) Subject to section 11AA, every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 1 year after the time when the matter of the information arose.
-(3) The summons in any such proceedings shall not be made returnable in less than 14 days from the day on which it is served.
-(4)
-(5)
+### 27 Time for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+(2) Subsection (1) does not apply to an offence against section 11AA.
 
 ### 27A Copy of analyst's certificate or report to be served with summons
 (1) Where proceedings are brought for an offence against this Act or against any regulations made under this Act, there shall be served with the summons in any such proceedings a copy of the analyst's certificate or report (if any) relating to the prosecution.
@@ -1208,7 +1205,7 @@ In any prosecution for an offence against this Act or against any regulations ma
   (b) 2 analysts together, of whom 1 shall be nominated by the defendant and the other shall be either the analyst whose certificate or report is before the court or some other analyst appointed under this Act.
 
 ### 28 General penalty
-Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000, and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued.
+Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000, and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued.
 
 ### 29 Liability of principal for acts of agents, etc
 (1) Where an offence is committed against this Act or against any regulations made under this Act by any person acting as the agent or employee of another person, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence.
@@ -1373,39 +1370,3 @@ No person who does any act in pursuance or intended pursuance of any of the func
 (3) Any regulations made under subsection (1) may—in respect of different classes of persons, foods, or other matters.
   (a) prescribe different rates of fees or charges, or both; or
   (b) prescribe different methods by which fees or charges, or both, are to be assessed—
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
