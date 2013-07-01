@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2013-03-05_
+_Consolidation as at 2013-07-01_
 
 > Title
 
@@ -331,7 +331,7 @@ This Act applies to a ship if, and only if, it is—
 (3) On receipt by the Director-General of a complaint under this Part, a person appointed under section 14 may make further inquiries by way of investigation in respect of the complaint.
 (4) The person who investigates the complaint may take no further action if the complaint is trivial, frivolous, vexatious, or not made in good faith, or if, during the investigation, the person receives a satisfactory assurance that there will be no repetition of the cause for the complaint; and in any such case the person who made the complaint shall be advised of the reasons why no further action is being taken.
 (5) The person investigating the complaint may, on investigation, try to settle the cause of the complaint and obtain a satisfactory assurance against repetition of the cause of the complaint.
-(6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a complaint may be laid under the Summary Proceedings Act 1957 in respect of the relevant offence.
+(6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a charging document may be filed under section 14 of the Criminal Procedure Act 2011 in respect of the relevant offence.
 
 ### 17 Offences in respect of smoking
 (1) An employer who fails to comply with section 5(1) commits an offence.
@@ -360,8 +360,8 @@ This Act applies to a ship if, and only if, it is—
 (4) A person who commits an offence against section 17(9) is liable to a fine not exceeding $400.
 
 ### 18 Prosecution of offences
-(1) No prosecution for an offence against any provision of this Part shall be commenced except on the information of a person appointed pursuant to section 14.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part may be laid at any time within 1 year after the time when the matter of the information arose.
+(1) Every prosecution for an offence against this Part must be commenced by a person appointed under section 14.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 19 Protection of persons acting under authority of Act
 No person appointed under section 14 who does any act in pursuance or intended pursuance of any of the functions, duties, or powers conferred by or under this Act shall be under any civil or criminal liability in respect of the act, whether on the grounds of want of jurisdiction, or mistake of law or fact, or on any other ground unless he or she has acted in bad faith or without reasonable care.
@@ -781,8 +781,8 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 
 ### 37 Enforcement
 (1) It shall be the duty of the Director-General to enforce the provisions of this Part.
-(2) No prosecution for an offence against any provision of this Part shall be commenced except on the information of the Director-General or of some other person authorised for that purpose by the Director-General.
-(3) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part may be laid at any time within 1 year after the time when the matter of the information arose.
+(2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 38 Liability of employees, employers, agents, and principals
 (1) For the purposes of this Part, every person is deemed to publish a tobacco product advertisement, whether he or she does so on his or her own account or as the agent or employee of any other person.
@@ -809,13 +809,13 @@ In this section and sections 38B to 39,—
 
 ### 38B Commission of infringement offences
 A person who is alleged to have committed an infringement offence may either—
-  (a) be proceeded against for the alleged offence by the laying of an information under the Summary Proceedings Act 1957; or
+  (a) be proceeded against for the alleged offence by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 38C.
 
 ### 38C Infringement notices
 (1) If an enforcement officer observes a person committing an infringement offence, or he or she has reasonable cause to believe that such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
 (2) Any enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(3) An infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
 (4) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee; and
@@ -986,16 +986,16 @@ All infringement fees paid in respect of infringement offences must be paid into
   (b) if asked by the person to do so, must produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both.
 
 ### 41E Offences in respect of enforcement officers
-Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who—
+Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who—
   (a) intentionally obstructs, hinders, or resists an enforcement officer exercising or attempting to exercise powers under section 41A or section 41B; or
   (b) intentionally fails to comply with a requirement under section 41B; or
   (c) when required under section 41B to give information, gives information the person knows to be false or misleading.
 
 ### 41F Enforcement
 (1) It is the Director-General's duty to enforce this Part.
-(2) An information in respect of an offence against this Part must be laid by the Director-General or a person authorised by the Director-General.
-(3) An information in respect of an offence against this Part may be laid at any time within 1 year after the time the matter it relates to arose.
-(4) Subsection (3) overrides section 14 of the Summary Proceedings Act 1957.
+(2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+(4)
 
 ## Part 3 — Health Sponsorship Council
 
