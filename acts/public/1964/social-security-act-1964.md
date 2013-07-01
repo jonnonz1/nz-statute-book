@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-04-17_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -436,7 +436,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (ii) sections 27I to 27ZI (except section 27X) of, and Schedule 20 of, this Act (as preserved by section 256(1) of the Child Support Act 1991); or
     (iii) section 61CA of this Act; or
   (f) discharging the chief executive's functions under this Act or under any regulations in force under this Act or under the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 or under any welfare programme approved by the Minister under section 124(1)(d) of this Act.
-(3) A person who—commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) A person who—commits an offence and is liable on conviction to a fine not exceeding $2,000.
   (a) refuses or fails without reasonable excuse to comply with a notice under this section to the extent that the person is capable of complying with it; or
   (b) in purported compliance with such a notice knowingly or recklessly furnishes information which is false or misleading in any material particular, or attempts to do so,—
 (4) Nothing in subsection (1) requires any person to provide any information or produce any document that would be privileged in a court of law, except as provided in subsection (5).
@@ -650,7 +650,7 @@ If the Appeal Authority requests an appellant to appear before it and the appell
 (3) Every sitting of the Authority shall be held in private and in such place as it considers convenient having regard to the nature of the matters to be decided:
   provided that the Authority may, in any case if it considers that the interests of the parties to the appeal and of all other persons concerned will not be adversely affected, order that the sitting or any part of it shall be held in public.
 (4) It shall not be lawful to publish any part of the proceedings before the Appeal Authority unless in any case the Authority orders otherwise.
-(5) Every person who acts in contravention of subsection (4) commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
+(5) Every person who acts in contravention of subsection (4) commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 12O Costs
 (1) Where an appeal is allowed in whole or in part, or the whole or any part of the matter is referred back to the chief executive, the Authority may allow the appellant the costs of bringing the appeal or any part thereof.
@@ -677,7 +677,7 @@ On the determination of any appeal, the Secretary shall send to the chief execut
 (10) Subject to the provisions of this section, the case shall be dealt with in accordance with rules of court.
 
 ### 12R Appeals to Court of Appeal
-The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under section 12Q of this Act as if the determination were made under section 107 of the Summary Proceedings Act 1957.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a determination of the High Court on an appeal under section 12Q as if the determination had been made under section 300 of that Act.
 
 ### 12S Appeals to Supreme Court
 (1) Any person affected by a determination of the High Court made under section 12Q, or a determination of the Court of Appeal made under section 12R, may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
@@ -2595,7 +2595,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 
 ### 84 Benefits to be inalienable
 (1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964 or the Child Support Act 1991 or the Student Loan Scheme Act 2011 and of section 82 or 179(5) of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $100, who demands or accepts from any beneficiary any benefit order or any acknowledgment or undertaking where that demand, acceptance, acknowledgment, or undertaking would constitute a legal or an equitable assignment of or a charge upon any benefit if the benefit were capable of being legally assigned or charged.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $100, who demands or accepts from any beneficiary any benefit order or any acknowledgment or undertaking where that demand, acceptance, acknowledgment, or undertaking would constitute a legal or an equitable assignment of or a charge upon any benefit if the benefit were capable of being legally assigned or charged.
 (3)
 
 ### 84A Payment of benefit not to restrict right to maintenance
@@ -2710,7 +2710,7 @@ Any person who makes a deduction pursuant to a deduction notice shall be deemed 
   (b) on behalf of the Crown; and, without prejudice to any other remedies against the debtor or any other person, any amounts deducted shall be held in trust for the Crown and shall be recoverable under section 86 as if it were money payable under a benefit to which the person who made the deduction was not entitled.
 
 ### 86F Offences in relation to deduction notices
-Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $2,000 who—
+Every person commits an offence and shall be liable on conviction to a fine not exceeding $2,000 who—
   (a) fails to make any deduction required by a deduction notice; or
   (b) fails, after making a deduction, to pay the amount deducted to the department within the time specified in the notice; or
   (c) permits payment to or on behalf of any person, other than the department, of any amount held in trust for the Crown under section 86D or section 86E.
@@ -3460,7 +3460,7 @@ There shall from time to time be paid out of a Crown Bank Account out of money a
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002.
 (2) The purpose of this section is to facilitate the disclosure of information by the department to the Ministry of Justice for the purpose of enabling the Ministry of Justice to locate any beneficiary who is in default in the payment of any fine.
 (3) For the purpose of this section, the chief executive of the Ministry of Justice may from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, request the chief executive of the latter department to supply, from information kept by that department, the last known address and telephone number of any beneficiary.
@@ -3487,7 +3487,7 @@ Nothing in—to anything done, before 31 December 2001, which—
   (e) in relation to anything done before 1 February 1994, would otherwise have been unlawful under section 24(1) of the Human Rights Commission Act 1977 on the grounds of sex or marital status.
 
 ### 127 Offences
-Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
+Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
   (a) any benefit under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001; or
   (b) any exemption from any obligation under this Act; or
   (c) any payment from a Crown Bank Account in accordance with this Act; or
@@ -3495,12 +3495,11 @@ Every person who makes any statement knowing it to be false in any material part
   (e) a more favourable means assessment under section 69FA than he or she would otherwise have been entitled to; or
   (f) a more favourable means assessment under Part 4 than he or she would otherwise have been entitled to—
 
-### 128 Proceedings for offences
-(1) Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957, an information for any offence against this Act may be laid at any time within 12 months after the facts alleged in the information have been brought to the knowledge of any officer concerned in the administration of this Act.
-(2)
+### 128 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer concerned in the administration of this Act.
 
 ### 129 General penalty for offences
-Every person who commits an offence against this Act or any regulations made under this Act, for which no penalty is provided elsewhere than in this section, is liable on summary conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+Every person who commits an offence against this Act or any regulations made under this Act, for which no penalty is provided elsewhere than in this section, is liable on conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
 
 ### 130 Exemptions from stamp duty
 [Repealed]
@@ -4534,11 +4533,11 @@ In determining the base rate in relation to a person in respect of any period th
 
 ### 1 Applicable asset thresholds
 (1) This clause specifies the applicable asset thresholds that apply annually for the year 1 July 2012 to 30 June 2013 and for all later years beginning on 1 July.
-(2) Threshold A is $213,297 and applies to every resident assessed as requiring care—
+(2) Threshold A is $215,132 and applies to every resident assessed as requiring care—
   (a) who has no spouse or partner; or
   (b) whose spouse or partner is also a resident assessed as requiring care; or
   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under clause 2, to have Threshold A apply to him or her rather than Threshold B.
-(3) Threshold B is $116,806 and applies to every resident assessed as requiring care—
+(3) Threshold B is $117,811 and applies to every resident assessed as requiring care—
   (a) whose spouse or partner is not a resident assessed as requiring care; and
   (b) who has not elected, under clause 2, to have Threshold A apply to him or her.
 
@@ -4589,9 +4588,9 @@ For the purpose of a person's means assessment as to income under section 147,�
     (j) any amount paid by a funder in respect of the cost of contracted care services provided to the person or his or her spouse or partner:
     (k) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 155
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155):
-    (a) $945, if the person is single; or
-    (b) $1,890, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $2,835 if the person's spouse or partner is not a resident assessed as requiring care.
+    (a) $951, if the person is single; or
+    (b) $1,902, if the person's spouse or partner is a resident assessed as requiring care; or
+    (c) $2,852 if the person's spouse or partner is not a resident assessed as requiring care.
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
