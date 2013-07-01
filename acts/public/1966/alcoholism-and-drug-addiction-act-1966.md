@@ -1,5 +1,5 @@
 # Alcoholism and Drug Addiction Act 1966
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend the Reformatory Institutions Act 1909 and its amendments, and to make better provision for the care and treatment of alcoholics and drug addicts
 
@@ -36,7 +36,7 @@ This Act shall apply, in the same way as it applies to an alcoholic, to any pers
 (3) Any such Order may at any time be revoked by the Governor-General by Order in Council; and thereupon the institution shall cease to be an institution under this Act as from the date specified in that behalf in the last-mentioned Order.
 
 ### 6 Existing institutions
-Every institution which at the commencement of this Act is a certified Inebriates Home under the Reformatory Institutions Act 1909 shall be deemed to be a certified institution under this Act; and all the provisions of this Act shall apply thereto and to all persons received and detained therein, whether before or after the commencement of this Act:
+Every institution which at the commencement of this Act is a certified inebriates home under the Reformatory Institutions Act 1909 shall be deemed to be a certified institution under this Act; and all the provisions of this Act shall apply thereto and to all persons received and detained therein, whether before or after the commencement of this Act:
 provided that any person detained in any such institution at the commencement of this Act shall be discharged on the date on which he would have been discharged if this Act had not been passed unless an order is made under this Act for his discharge on an earlier date.
 
 ### 7 Supervising committees for certain institutions
@@ -155,13 +155,13 @@ Where the managers of an institution where a patient is detained pursuant to an 
 **Appeals**
 
 ### 23 Appeals against order of District Court Judge
-All the provisions of the Summary Proceedings Act 1957 in respect of appeals from convictions or orders shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to detention within the meaning of the Summary Proceedings Act 1957:
+All the provisions of Part 6 of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
 provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
 
 **Offences**
 
 ### 24 Unlawful detention in institution
-Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
+Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
 
 ### 25 Escaping from institution
 (1) Every patient commits an offence against this Act who—
@@ -233,10 +233,10 @@ No order, warrant, or other document made or issued in respect of any institutio
 (4) The determination of an application under section 9 may be adjourned in accordance with the provisions of section 23 of the Mental Health Act 1969 which section shall apply with such modifications as are necessary, but this subsection shall not limit any other power of the court, Judge, or District Court Judge to adjourn the determination of the application.
 
 ### 36 General penalty
-Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
+Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
 
 ### 37 Offences to be punishable on summary conviction
-Every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
+[Repealed]
 
 **Miscellaneous provisions**
 
