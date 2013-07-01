@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -225,7 +225,7 @@ Sections 4B, 4C, 4D, 5, 6, 7, 8, and 9 of the Commissions of Inquiry Act 1908 sh
 (7) Where the Authority makes, under subsection (4)(a), an order in relation to any series, no broadcaster shall broadcast that series or any programme in that series.
 
 ### 14 Offences
-Every broadcaster commits an offence and is liable on summary conviction to a fine not exceeding $100,000—
+Every broadcaster commits an offence and is liable on conviction to a fine not exceeding $100,000—
   (a) who fails to comply with an order made in respect of that broadcaster under section 13(1); or
   (b) who contravenes an order made under section 13A.
 
@@ -354,7 +354,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 (1) The Authority may from time to time make and promulgate rules in relation to broadcasters to ensure that recordings of programmes broadcast by them are retained by the broadcaster or some other person, and are able to be obtained by the broadcaster when required to do so by the Authority.
 (2) Any such rules may apply generally to all broadcasters, or may apply only to broadcasters of specified types or classes, and may from time to time be varied, amended, or revoked.
 (3) Any rules made under this section may require a broadcaster, when requested to do so by the Authority, to obtain recordings of programmes broadcast by that broadcaster and to make suitable arrangements to enable the Authority to view or hear any recordings held or obtained by the broadcaster.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
 (5) Rules made under this section shall be deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989.
 
 ### 30A Return on total revenue
@@ -389,7 +389,7 @@ Any annual levy that is not paid in accordance with this Act may be recovered fr
 The amount of the levy calculated under section 30B is exclusive of any goods and services tax payable under the Goods and Services Tax Act 1985.
 
 ### 30G Offence
-Every broadcaster commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who contravenes section 30A.
+Every broadcaster commits an offence and is liable on conviction to a fine not exceeding $100,000 who contravenes section 30A.
 
 ### 31 Funds of Authority
 The funds of the Authority include all annual levies paid by broadcasters under section 30B.
@@ -940,7 +940,7 @@ Nothing in section 4(1)(d) applies in relation to an election programme broadcas
 The Electoral Commission must, not later than 3 working days after it receives a statement under section 79C, make the statement available for public inspection, without payment, at any time between 9 am and 5 pm, on any day on which the office of the Electoral Commission is open.
 
 ### 80 Offences
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who—other than pursuant to, and in conformity with, this Part.
+Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who—other than pursuant to, and in conformity with, this Part.
   (a) fails to comply with section 70 or section 77(1) or section 79A or section 79B or section 79C; or
   (b) in an election period,—
     (i) broadcasts an election programme for or on behalf of a political party; or
@@ -964,7 +964,7 @@ Where the Electoral Commission believes that any person has committed an offence
   (a) Christmas Day; or
   (b) Good Friday; or
   (c) Easter Sunday.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who contravenes subsection (1) or subsection (2).
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who contravenes subsection (1) or subsection (2).
 (4) Nothing in this section prevents the inclusion in any programme broadcast on television or sound radio of a credit in respect of a sponsorship or underwriting arrangement entered into in relation to that programme.
 (5) Nothing in this section applies to any programme broadcast on television, where the signal for that programme—
   (a) originates outside New Zealand; and
