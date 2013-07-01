@@ -1,5 +1,5 @@
 # Maritime Crimes Act 1999
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-07-01_
 
 > An Act to give effect to the provisions of the Rome Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation and the Rome Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf
 
@@ -79,10 +79,10 @@ This Act does not apply in relation to—
 (2) Subsection (1) does not limit the generality of the expression in connection with the commission or attempted commission of.
 
 ### 7 Penalties for crimes against sections 4 and 5
-(1) A person who commits a crime against section 4(1) or section 4(2)(b) or section 4(3) or section 5(1) or section 5(2)(b) or section 5(3) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+(1) A person who commits a crime against section 4(1) or section 4(2)(b) or section 4(3) or section 5(1) or section 5(2)(b) or section 5(3) is liable on conviction to imprisonment for a term not exceeding 14 years.
 (2) A person who commits a crime against section 4(2)(a) or section 5(2)(a),—
-  (a) in circumstances where the conduct concerned is the same as conduct described as murder, must on conviction on indictment be sentenced to imprisonment for life; and
-  (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter, is liable on conviction on indictment to imprisonment for life.
+  (a) in circumstances where the conduct concerned is the same as conduct described as murder, must on conviction be sentenced to imprisonment for life; and
+  (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter, is liable on conviction to imprisonment for life.
 
 **Jurisdiction and application provisions**
 
@@ -129,7 +129,7 @@ Section 5 applies in respect of acts or omissions that occur outside New Zealand
   (b) in any other case, as soon as is reasonably practicable.
 (4) If a master delivers a person under subsection (1), the master must give to the authorities of the country any evidence relating to the alleged crime that is in the master's possession.
 (5) A master commits an offence who fails, without reasonable excuse, to comply with subsection (2) or subsection (3).
-(6) A master who commits an offence against subsection (5) is liable on summary conviction to a fine not exceeding $500.
+(6) A master who commits an offence against subsection (5) is liable on conviction to a fine not exceeding $500.
 
 ### 12 Power to search persons and baggage on ships
 (1) This section applies if, because of the distance from land or for any other reason, it is impractical for the master of a ship to obtain, within a reasonable time, the assistance of a constable in New Zealand or a law enforcement officer of another country.
