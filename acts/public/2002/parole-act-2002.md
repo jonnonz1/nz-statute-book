@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -126,7 +126,7 @@ This Act binds the Crown.
 (4) When an offender to whom this section applies is released under this Part, he or she must be treated in accordance with section 48(3) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or, as the case requires, section 69(3) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
 
 ### 11 Application of Part to offenders detained in social welfare residence
-This Part applies to every offender detained under section 142A of the Criminal Justice Act 1985 in a residence approved for the purpose of that section as if the offender were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in such a residence.
+This Part applies to every offender detained under section 34A of the Corrections Act 2004 in a residence approved for the purpose of that section as if the offender were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in such a residence.
 
 ### 12 This Part subject to other orders
 For the avoidance of doubt, a requirement in this Part that an offender be released from detention at a certain time is subject to any order of a court or other authority of competent jurisdiction that the offender be detained.
@@ -144,7 +144,7 @@ For the avoidance of doubt, a requirement in this Part that an offender be relea
 (5A) Subsection (1) does not apply to any information that may not be disclosed under a confidentiality order made under section 13AB.
 (6) Information provided or shown to an offender under this section must be used only for the purpose of assisting the offender to make submissions to the Board.
 (7) The Board must give a written copy of every order or determination to the offender who is the subject of the order or determination, along with information about how the offender may exercise any review or appeal rights that he or she has in relation to the order or determination.
-(8) Any person who publishes information provided under this section in a form that identifies, or enables the identification of, a victim (as defined in section 4 of the Victims' Rights Act 2002) commits an offence and is liable on summary conviction to,—
+(8) Any person who publishes information provided under this section in a form that identifies, or enables the identification of, a victim (as defined in section 4 of the Victims' Rights Act 2002) commits an offence and is liable on conviction to,—
   (a) in the case of an individual, a term of imprisonment not exceeding 3 months or a fine not exceeding $2,000; and
   (b) in the case of a body corporate, a fine not exceeding $10,000.
 
@@ -175,7 +175,7 @@ For the avoidance of doubt, a requirement in this Part that an offender be relea
 (6) In this section and in section 13AC, current matter, in relation to an offender, means a matter concerning the offender that is before the Board or is expected to come before the Board.
 
 ### 13AC Effect of confidentiality order
-(1) A person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, or to imprisonment for a term not exceeding 3 months, or to both, who intentionally contravenes a confidentiality order.
+(1) A person commits an offence, and is liable on conviction to a fine not exceeding $10,000, or to imprisonment for a term not exceeding 3 months, or to both, who intentionally contravenes a confidentiality order.
 (2) Despite any other enactment, the Board may hear a person whose identity may not be disclosed under a confidentiality order only if it is satisfied that procedures are in place to ensure that the hearing will not result in the disclosure of the person's identity to any person who is not, in terms of the order, permitted to have access to that information.
 (3) In any court proceeding that relates to the confidentiality order or to the related current matter, a person whose identity may not be disclosed under a confidentiality order has a privilege in information that discloses, or may lead to the disclosure of, the person's identity.
 (4) This section has effect despite anything in section 13 or 65, the Official Information Act 1982, or the Privacy Act 1993.
@@ -904,7 +904,10 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 (1) An appellant must forward a copy of his or her appeal to the Board.
 (2) On receiving a copy of an appeal, the Board must forward to the Registrar of the High Court all information in its possession regarding the decision appealed against.
 (3) The Registrar of the High Court must, on receipt of the information from the Board, set down the appeal for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held, and must notify the appellant and the Board accordingly.
-(4) Subject to this section and, with any necessary modifications, sections 119, 120, 123, 129, 130, 133, 134, 136, and 143 of the Summary Proceedings Act 1957 apply to an appeal under section 68 as if the order appealed against were an order made by a District Court Judge.
+(4) Subject to this section, sections 323, 325, 326, 328, 334, 335, 337 to 342, 351, 379, and 382 of the Criminal Procedure Act 2011 apply to an appeal under section 68 with the necessary modifications as if the order appealed against were an order made by a District Court Judge.
+(4A) Any Judge of the High Court may, on the application of the appellant or intending appellant,—
+  (a) review a decision of a District Court to refuse to extend the time allowed for lodging an appeal under section 68, and confirm the decision or reverse it and allow any extension of time that he or she thinks fit:
+  (b) in any other case, extend any time allowed for lodging an appeal under section 68.
 (5) On an appeal under section 68, the court may receive in evidence anything that the Board could have received at first instance.
 (6) The court is not bound to allow the appeal on the ground merely of the improper admission or rejection of evidence unless, in the opinion of the court, a substantive wrong or miscarriage of justice occurred because of it.
 
@@ -926,13 +929,13 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 **Offences**
 
 ### 71 Offence to breach conditions
-(1) Every offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any standard release conditions or any special conditions imposed by the Board.
+(1) Every offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any standard release conditions or any special conditions imposed by the Board.
 (2) The conviction and sentencing of an offender under this section does not limit the power to recall the offender from parole or compassionate release.
 
 ### 72 Offence to refuse entry to residence specified under residential restrictions
 (1) This section applies to a residence (the residence) in which an offender is required to reside under residential restrictions.
-(2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer who has identified himself or herself to enter into the residence if the offender is required to be in the residence at the time that the probation officer seeks entry.
-(3) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the residential restrictions (whether or not the offender is required to be in the residence at that time).
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer who has identified himself or herself to enter into the residence if the offender is required to be in the residence at the time that the probation officer seeks entry.
+(3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the residential restrictions (whether or not the offender is required to be in the residence at that time).
 (4) For the purposes of subsection (3), an authorised person is a person who—
   (a) is a probation officer and has identified himself or herself; or
   (b) accompanies a person described in paragraph (a); or
@@ -1071,7 +1074,9 @@ Pre-cd sentences do not have non-parole periods under this Act and, except for t
   (a) in a prison (or in a Police station in accordance with section 35 of the Corrections Act 2004):
   (b) in a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989, or detention in Police custody under section 238(1)(e) of that Act:
   (c) in a hospital or secure facility under any of sections 23, 35, 38(2), and 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
-  (d) in a hospital or secure facility pursuant to an order under section 171(2) of the Summary Proceedings Act 1957:
+  (d) in a hospital or secure facility pursuant to an order under—
+    (i) section 171(2) or 184T(3) or (4) of the Summary Proceedings Act 1957; or
+    (ii) section 169 of the Criminal Procedure Act 2011:
   (e) in a hospital following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
   (ea) in a secure facility following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
   (f) in a hospital under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
@@ -1093,7 +1098,7 @@ Pre-cd sentences do not have non-parole periods under this Act and, except for t
 (3) A person in charge of a detention place (other than a Police jail) who receives an application under subsection (2) must immediately review the record and, having reviewed it, must notify the offender in writing of—
   (a) whether the record is confirmed; or
   (b) the manner in which the record is amended.
-(4) If the offender is dissatisfied with the outcome of the review, he or she may appeal the review to the court that imposed the sentence, in which case Part 4 of the Summary Proceedings Act 1957, or (as the case may require) Part 13 of the Crimes Act 1961, applies so far as it is applicable and with any necessary modifications, to the appeal.
+(4) If the offender is dissatisfied with the outcome of the review, he or she may appeal the review to the court that imposed the sentence, in which case subpart 4 of Part 6 of the Criminal Procedure Act 2011 applies so far as it is applicable and with any necessary modifications, to the appeal.
 (5) An extradition offender or an ICC offender or a MACM offender (as defined in section 93) may exercise the rights in this section to review and appeal a record of pre-sentence detention (as recorded on their relevant certificates) in the same way as any other offender may seek a review and appeal against a determination of the record of pre-sentence detention.
 
 ### 93 Definition of extradition offender and ICC offender and MACM offender
@@ -1324,8 +1329,8 @@ The chief executive must ensure that, before an eligible offender is released fr
   (b) a copy of the health assessor's report; and
   (c) copies of any affidavits accompanying the application; and
   (d) a notice setting out the offender's rights and the procedures relating to the application.
-(2) A Judge of a sentencing court, or a Registrar, Justice, or Community Magistrate, may issue a summons to an offender in respect of whom an application under section 107F is made; and, in that case, sections 24 and 25 of the Summary Proceedings Act 1957 apply with all necessary modifications.
-(3) A Judge of a sentencing court may issue a warrant for the arrest of the offender if the Judge is of the opinion that a warrant is necessary to compel the attendance of the offender; and, in that case, sections 22 and 23 of the Summary Proceedings Act 1957 and section 316 of the Crimes Act 1961 apply with all necessary modifications.
+(2) A Judge of a sentencing court, or a Registrar, Justice, or Community Magistrate, may issue a summons to an offender in respect of whom an application under section 107F is made; and, in that case, rules in relation to service made under the Criminal Procedure Act 2011 apply with all necessary modifications.
+(3) A Judge of a sentencing court may issue a warrant for the arrest of the offender if the Judge is of the opinion that a warrant is necessary to compel the attendance of the offender; and, in that case, sections 162 and 163 of the Criminal Procedure Act 2011 and section 316 of the Crimes Act 1961 apply with all necessary modifications.
 (4) An offender who is the subject of an application for an extended supervision order must be present at the hearing of the application and may be represented by counsel.
 (5) During the hearing, the sentencing court may adjourn the hearing and,—
   (a) if the offender was brought to court under section 65(3) of the Corrections Act 2004, section 65 of that Act applies; or
@@ -1333,17 +1338,12 @@ The chief executive must ensure that, before an eligible offender is released fr
   (c) in any other case (subject to subsection (9)),—
     (i) the court may allow the offender to go at large during the period of the adjournment; or
     (ii) the offender may be granted bail in accordance with subsection (6).
-(6) If an offender who is the subject of an application for an extended supervision order may be granted bail,—
-  (a) the Bail Act 2000 applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right; and
-  (b) if the sentencing court is a District Court, Part 3 of that Act applies; and
-  (c) if the sentencing court is the High Court, Part 4 of that Act applies.
-(7) The following provisions of the Summary Proceedings Act 1957 apply, with all necessary modifications, to proceedings for an extended supervision order:
-  (a) section 71 (criminal records):
-  (b) section 201 (amendment of conviction, order, or warrant):
-  (c) section 203 (acts not generally to be done on Sunday), as if a warrant to arrest issued under this section were a warrant to arrest a person charged with an offence:
-  (d) section 204 (proceedings not to be questioned for want of form):
-  (e) section 206 (contempt of court).
-(8) Any summons, warrant, or other form that is prescribed under section 212 of the Summary Proceedings Act 1957 may, if modified appropriately, be used for the purposes of this section.
+(6) If an offender who is the subject of an application for an extended supervision order may be granted bail, the Bail Act 2000 applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right.
+(7) The following provisions of the Criminal Procedure Act 2011 apply, with all necessary modifications, to proceedings for an extended supervision order:
+  (a) section 184 (criminal records):
+  (b) section 365 (contempt of court):
+  (c) section 379 (proceedings not to be questioned for want of form).
+(8) Any summons, warrant, or other form for which the content is prescribed under section 386 of the Criminal Procedure Act 2011 may, if modified appropriately, be used for the purposes of this section.
 (9) Before the Corrections Act 2004 comes into force, section 26(2) of the Penal Institutions Act 1954 applies as if paragraph (a) of that subsection applies to an offender who is subject to an application for an extended supervision order.
 (10) Subpart 3 of Part 5 of the Criminal Procedure Act 2011 (which relates generally to name suppression) applies, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of sections 128 to 142A of the Crimes Act 1961.
 (11) The Costs in Criminal Cases Act 1967 applies, with all necessary modifications, to proceedings under this Part.
@@ -1503,7 +1503,7 @@ The chief executive must ensure that, before an eligible offender is released fr
 
 ### 107R Appeals against decisions of sentencing court
 (1) An appeal against a decision or order made by the sentencing court under section 107I, section 107M, or section 107N may be made by the offender to whom the decision or order relates or by the chief executive.
-(2) Every appeal must be to the Court of Appeal, and Part 13 of the Crimes Act 1961 applies, with all necessary modifications and subject to section 107H of this Act, as if the appeal were an appeal against sentence under section 383 of the Crimes Act 1961.
+(2) Every appeal must be to the Court of Appeal, and Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications, and subject to section 107H of this Act, as if the appeal were an appeal against sentence.
 (3) The lodging of an appeal against a decision or order does not prevent that decision or order taking effect according to its terms.
 
 ### 107S Review of Board decisions
@@ -1512,7 +1512,7 @@ Section 67 (which provides for reviews of decisions by the Board) applies to dec
 **Miscellaneous provisions**
 
 ### 107T Offence to breach extended supervision order
-An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 2 years.
+An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 107U Rules about court practice and procedure
 The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under section 107I, section 107M, or section 107N.
@@ -1675,7 +1675,7 @@ The Board may regulate its own procedure as it thinks fit, subject to this Act a
   (a) attend and give evidence; and
   (b) produce any books, papers, documents, records, or things in the person's possession or control that are relevant to the subject of the matter before the Board.
 (2) The chairperson or panel convenor may not exercise the power conferred by subsection (1) on the basis of an application or request, but may do so only on his or her own initiative.
-(3) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness's allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957.
+(3) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness's allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Criminal Procedure Act 2011.
 (4) The summons must be in writing and state the place and time at which the witness is required to attend.
 
 ### 118B Service of summons
@@ -1694,7 +1694,7 @@ Every witness giving evidence before the Board has the same privileges and immun
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by any member of the Board to answer concerning the subject of the matter before the Board; or
   (c) fails to produce any such book, paper, document, record, or thing.
-(2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 **General provisions about Board and members**
 
