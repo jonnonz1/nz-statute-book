@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -22,6 +22,7 @@ This Act is the KiwiSaver Act 2006.
   - **administration manager** ,—
     (a) in relation to a restricted KiwiSaver scheme, means a person to whom the trustees have contracted some or all of the administration of the scheme; and
     (b) in relation to any other KiwiSaver scheme, means a person to whom the manager has contracted some or all of the administration of the scheme
+  - **Australian complying superannuation scheme** means an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority
   - **automatic enrolment rules** means sections 10 to 21
   - **benefit** means a lump sum, allowance, refund, or other payment arising from membership of a KiwiSaver scheme
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
@@ -109,6 +110,7 @@ This Act is the KiwiSaver Act 2006.
   - **member’s account** , in relation to a member of a KiwiSaver scheme, includes any account held by that member in the KiwiSaver scheme
   - **member’s accumulation** , in relation to a member of a KiwiSaver scheme or a member of a registered superannuation scheme, means the net value of the total of—
     (a) the member’s contributions; and
+    (ab) an amount that was transferred from an Australian complying superannuation scheme and contributed to a KiwiSaver scheme; and
     (b) any vested employer contributions in respect of the member; and
     (c) any fee subsidies paid in respect of the member; and
     (d) the Crown contribution paid in respect of the member
@@ -710,7 +712,7 @@ This subpart applies when, because of a mistake,—
   (b) ending on the earlier of—
     (i) 3 months after the mistake is discovered by the person’s KiwiSaver scheme provider:
     (ii) 3 months after the mistake is notified to the provider by the Commissioner or another person:
-    (iii) the day the provider pays the member’s accumulation for the person to the Commissioner.
+    (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner.
 
 ### 59C Confirmed back-dated validation
 (1) This section applies if, during the period of initial back-dated validation under section 59B, the person described in section 59A—
@@ -727,20 +729,25 @@ This subpart applies when, because of a mistake,—
 (1) This section applies when the period of initial back-dated validation under section 59B ends, and confirmed back-dated validation under section 59C has not occurred.
 (2) The relevant provider must immediately—
   (a) provide the Commissioner with a notice stating, for the relevant person:
-    (i) the amount of contributions received directly by the provider (not via the Commissioner) and when they were received; and
+    (i) the amount of contributions received directly by the provider (not via the Commissioner), when they were received, and (if available) who they were paid by; and
     (ii) the amounts paid out by the provider under a mortgage diversion facility, and when they were paid out; and
     (iii) the amounts paid out by the provider to the person as permitted withdrawals, when they were paid out, the types of permitted withdrawals, and the amount of Crown contributions included in the permitted withdrawals; and
-  (b) pay the member’s accumulation for the person to the Commissioner, if the provider has not already done so.
+  (b) pay the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme, for the person to the Commissioner, if the provider has not already done so; and
+  (c) pay the amount that was transferred from an Australian complying superannuation scheme (the transferor scheme) or the amount of the member's accumulation (whichever amount is smaller), for the person to––
+    (i) the transferor scheme; or
+    (ii) an Australian complying superannuation scheme chosen by the person; or
+    (iii) an Australian complying superannuation scheme chosen by the Commissioner, if the person does not choose one and it is not appropriate to pay to the transferor scheme.
 (3) The Commissioner must pay, in accordance with subsection (4), as soon as practicable and without further authority than this section, an amount (the refund amount) equal to the total of—
   (a) the contributions received by the provider (whether directly or via the Commissioner), less the total of—
     (i) the amounts paid out by the provider under a mortgage diversion facility:
     (ii) the amounts paid out by the provider to the person as permitted withdrawals, excluding the amount of Crown contributions included in the permitted withdrawals:
     (iii) Crown contributions:
+    (iv) the amount that was transferred from an Australian complying superannuation scheme:
   (b) the contributions held in respect of the person in the holding account described in section 72, net of interest under section 84:
-  (c) the total amount of interest that the Commissioner would be liable for under section 84 on contributions described in paragraphs (a) and (b), excluding amounts described in paragraph (a)(i) to (iii) on a first-in first-out basis. For the purposes of calculating the amount of interest payable on the relevant contributions, the interest period in section 87 is treated as the number of days in the period—
+  (c) the total amount of interest that the Commissioner would be liable for under section 84 on contributions described in paragraphs (a) and (b), excluding amounts described in paragraph (a)(i) to (iv) on a first-in first-out basis. For the purposes of calculating the amount of interest payable on the relevant contributions, the interest period in section 87 is treated as the number of days in the period—
     (i) beginning on the day the Commissioner received the contribution or the provider received the contribution (if the contribution was not via the Commissioner):
     (ii) ending with the day that the Commissioner pays the refund amount under this section.
-(4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner’s best estimate of what they contributed, taking into account amounts described in subsection (3)(a)(i) and (ii).
+(4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner’s best estimate of what they contributed, taking into account amounts described in subsection (3)(a)(i) to (iv).
 (5) When the Commissioner has paid the refund amount, the amount of member’s accumulation for the person previously paid to the Commissioner (the accumulation money), and the contributions held by the Commissioner in respect of the person in the holding account described in section 72 including interest under section 84 (the holding account money) are treated in the following ways:
   (a) the accumulation money and the holding account money are public money, and are not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989:
   (b) subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
@@ -2168,7 +2175,7 @@ Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a
 (2) However, nothing in subsection (1) prevents a member’s interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
 
 ### 197 Offence to fail to provide information under this Part
-(1) Every person commits an offence against this Part, and is liable on summary conviction to a fine not exceeding the amount set out in section 199, who fails without reasonable excuse, as and when required by this Part or any regulations made under section 228,—
+(1) Every person commits an offence against this Part, and is liable on conviction to a fine not exceeding the amount set out in section 199, who fails without reasonable excuse, as and when required by this Part or any regulations made under section 228,—
   (a) to deliver any paper, document, record, report, copy, thing, or certificate; or
   (b) to allow a person to look at a paper, document, record, report, copy, or thing; or
   (c) to supply any return or to give any certificate or information.
@@ -2179,7 +2186,7 @@ Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a
   (d) if a person has a right to be advised of certain information, the trustees of the KiwiSaver scheme to which the information relates have a duty to ensure that the information is supplied to the person.
 
 ### 198 Other offences under this Part
-(1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding the amount set out in section 199, who knowingly or recklessly—
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding the amount set out in section 199, who knowingly or recklessly—
   (a) fails to carry out any direction or order of the FMA made under section 169(4)(a) or (b); or
   (b) fails to designate or appoint an independent trustee, if required to do so under section 172; or
   (c) as and when required by this Part or any regulations made under section 228, fails to deliver any paper, document, record, report, copy, thing, or certificate; or
@@ -2496,6 +2503,7 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
     (ii) half of the person’s contributions to their complying superannuation funds, but limited to 4% of their annual gross base salary or wages for each complying superannuation fund:
   (ia) an amount may not be diverted if it was received by the relevant provider before the provider has received from the person a request to divert amounts under the mortgage diversion facility:
   (j) employer contributions may not be diverted:
+  (jb) an amount that was transferred from an Australian complying superannuation scheme may not be diverted:
   (k) the facility is available for new mortgages and existing mortgages.
 (3) The regulations may specify all or any of the terms and conditions that apply to the mortgage diversion facility, including—
   (a) which types of mortgages qualify for participation in the diversion facility; and
@@ -2640,6 +2648,9 @@ If requested by the trustee, the manager must—
   (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
   (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member.
 
+### 4B Amounts from Australian complying superannuation schemes
+A member may withdraw the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount), if the member is 60 years or more and the member's retirement (as that term is defined in regulation 6.01(7) of the Superannuation Industry (Supervision) Regulations 1994 (Aust), with necessary modification for KiwiSaver scheme trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme)) is taken to have occurred.
+
 ### 5 Trustees and managers must pay permitted withdrawal as lump sum
 (1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must, at the member’s request, pay a permitted withdrawal as a lump sum.
 (2) Nothing in subclause (1) prevents a member purchasing annuities or a pension from all or part of the member’s accumulation or member’s interest that is withdrawn by that member.
@@ -2664,7 +2675,9 @@ A trustee (in the case of a restricted KiwiSaver scheme) or the manager (in the 
   (c) both of the following apply:
     (i) the land is, or is intended to be, the principal place of residence for the member or for the member and members of the member’s family; and
     (ii) the member is a qualifying person under the regulations.
-(4) A member may not make a withdrawal under this clause of more than an amount equal to the member’s accumulation less the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution) at the time of the withdrawal.
+(4) A member may not make a withdrawal under this clause of more than an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
+  (a) the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
+  (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
 (5) If a person holds an estate in land in any of the following circumstances, that estate must be disregarded for the purposes of subclause (3)(b)(ii):
   (a) the person holds the estate in land as a bare trustee:
   (ab) the estate in land is a leasehold estate:
@@ -2718,14 +2731,29 @@ If a member dies, the trustees (in the case of a restricted KiwiSaver scheme) or
   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
 
 ### 14 Withdrawal or transfer to foreign scheme in cases of permanent emigration
-(1) A member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member’s permanent emigration from New Zealand, withdraw an amount equal to the value of the member’s accumulation less the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) on the date of withdrawal.
-(2) A member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member’s permanent emigration from New Zealand, have the trustees or manager (as the case may be) transfer the member’s accumulation less the amount of Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) to a foreign superannuation scheme authorised for that purpose under regulations made under section 228.
+(1) Subject to clause 14B, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
+  (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
+  (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
+(2) Subject to clause 14B, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member's permanent emigration from New Zealand, have the trustees or the manager (as the case may be) transfer to a foreign superannuation scheme authorised for that purpose under regulations made under section 228 the member's accumulation, less the total of the following 2 amounts:
+  (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
+  (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
 (3) An application under subclause (1) or (2) must be in the form required by the trustees or manager (as the case may be) and must include—
   (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated from New Zealand; and
   (b) proof to the satisfaction of the trustees or manager (as the case may be)—
     (i) of the member’s departure from New Zealand (for example, evidence of confirmed travel arrangements, passport evidence, and evidence of any necessary visas); and
     (ii) that the member has resided at an overseas address at some time during the year following the member’s departure from New Zealand.
 (4) The trustees or manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (1) or (2) be verified by oath, statutory declaration, or otherwise.
+
+### 14B Exceptions to clause 14 for Australian permanent emigration
+(1) For a KiwiSaver scheme (but not for a complying superannuation fund) a member may not withdraw any amount, or have the trustees or the manager (as the case may be) transfer any amount, after the member's permanent emigration to Australia, except as provided by this clause.
+(2) At any time after the member's permanent emigration to Australia, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), have the trustees or the manager (as the case may be) transfer the member's accumulation to an Australian complying superannuation scheme.
+(3) As soon as practicable after receiving a satisfactory application, the trustees or the manager (as the case may be) must transfer the whole of the member's accumulation to the relevant Australian complying superannuation scheme and provide that scheme with any necessary information it reasonably requires.
+(4) An application under subclause (2) must be in the form required by the trustees or the manager (as the case may be) and must include––
+  (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated to Australia; and
+  (b) proof to the satisfaction of the trustees or the manager (as the case may be)––
+    (i) of the member's departure from New Zealand (see, for examples of proof: clause 14(3)(b)(i)); and
+    (ii) that the member has resided at an Australian address at some time following the member's departure from New Zealand.
+(5) The trustees or the manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
 
 ### 15 Contributions holiday
 A employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
