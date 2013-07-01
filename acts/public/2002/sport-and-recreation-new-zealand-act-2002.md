@@ -1,5 +1,5 @@
 # Sport and Recreation New Zealand Act 2002
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Sport and Recreation New Zealand Act 2002.
@@ -72,7 +72,7 @@ The functions of the Agency are to—
 [Repealed]
 
 ### 10 Restriction on directions
-The Minister may not give a direction to the Agency under section 103 of the Crown Entities Act 2004 in relation to the allocation of funds to, or for the benefit of, any persons, or in relation to a policy, practice, procedure, or decision, of the Agency regarding the allocation of funds to, or for the benefit of, any person.
+The Minister may not give a direction to the Agency under section 103 of the Crown Entities Act 2004 in relation to the allocation of funds to, or for the benefit of, any persons, or in relation to a policy, practice, procedure, or decision of the Agency regarding the allocation of funds to, or for the benefit of, any person.
 
 ### 11 Minister to publish notices and Ministerial directions
 [Repealed]
@@ -84,7 +84,7 @@ The Minister may not give a direction to the Agency under section 103 of the Cro
 (2) No person other than the Agency may, either alone or with any other person or persons,—
   (a) trade or carry on business under the name Sport and Recreation New Zealand; or
   (b) trade or carry on business under any other name, knowing that the name so resembles the name of the Agency as to be likely to mislead any person.
-(3) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+(3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
 (4) It is a defence in any prosecution for an offence against subsection (3) if the defendant proves that, either alone or with any other person or persons, the defendant has carried on business continuously under the name to which the prosecution relates from any date before the commencement of this Act.
 
 **Key provisions about board**
@@ -233,7 +233,7 @@ In addition to the matters in section 118(2) of the Crown Entities Act 2004, the
 [Repealed]
 
 ### 48 Loans and endowments
-(1) In the exercise of its powers the Agency may—
+(1) In the exercise of its powers, the Agency may—
   (a) make advances, with or without security, at rates of interest or free of interest, as determined by it; and
   (b)
   (c) establish endowments or create trusts, on terms and conditions and for objects within the purposes of this Act, that the Agency thinks fit; and
