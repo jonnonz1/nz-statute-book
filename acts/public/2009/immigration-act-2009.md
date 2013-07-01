@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2013-06-19_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -3532,7 +3532,7 @@ An immigration officer may, in carrying out the immigration officer’s function
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole or any part of any fine
   - **identifying information** means personal information that identifies an individual, which may include the individual’s passport number
@@ -4573,7 +4573,7 @@ Every person commits an offence against this Act who, not being an immigration o
   (a) did not know that the person was not entitled to do the work; and
   (b) took reasonable precautions and exercised due diligence to ascertain whether the person was entitled to do the work.
 (4) Except as provided in subsection (3), it is not a defence to a charge under subsection (1)(b) that the employer did not know that the person was not entitled under this Act to do that work.
-(5) An information alleging an offence against this section may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
+(5) A charge alleging an offence against this section may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
 (6) For the purposes of this section, an employer is treated as knowing that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this section), the employer has been informed of that fact in writing by an immigration officer.
 (7) No employer is liable for an offence against this section in respect of any period during which the employer continues to allow any person to work in the employer's service in compliance with the minimum requirements of any employment agreement (within the meaning of the Employment Relations Act 2000) relating to the giving of notice on termination of employment.
 
@@ -4611,7 +4611,7 @@ Every person commits an offence against this Act who, not being an immigration o
     (v) leaving premises unaccompanied:
   (c) preventing or hindering a labour inspector (within the meaning of the Employment Relations Act 2000) from entering or having access to any place or premises to which he or she is entitled to have access under any enactment.
 (5) Subsection (4) does not limit subsection (1)(b).
-(6) An information alleging an offence against subsection (1) may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
+(6) A charge alleging an offence against subsection (1) may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
 (7) For the purposes of this section, an employer is treated as knowing that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this section), the employer has been informed of that fact in writing by an immigration officer.
 (8) In this section, unlawful employee, in relation to an employer, means a person who the employer knows is not entitled under this Act to work in the employer’s service.
 
@@ -4625,7 +4625,7 @@ Every person commits an offence against this Act who, not being an immigration o
   (a) did not know that the person was not entitled to undertake the course of study; and
   (b) took reasonable precautions and exercised due diligence to ascertain whether the person was entitled to undertake that course.
 (5) Except as provided in subsection (4), it is not a defence to a charge under subsection (1)(b) that the education provider did not know that the person was not entitled under this Act to undertake that course of study.
-(6) An information alleging an offence against this section may specify any day on which it is alleged the person was undertaking the course of study, and need not state the day on which it is alleged that the person commenced the course.
+(6) A charge alleging an offence against this section may specify any day on which it is alleged the person was undertaking the course of study, and need not state the day on which it is alleged that the person commenced the course.
 (7) For the purposes of this section, allowing a person to undertake a course of study includes accepting the person for enrolment in the course.
 (8) For the purposes of this section, a person is treated as knowing that another person is not entitled under this Act to study in New Zealand if, at any time in the preceding 12 months (whether before or after the commencement of this section), the person has been informed of that fact in writing by an immigration officer.
 
@@ -4684,9 +4684,9 @@ In this Act, infringement offence means—
   (b) an offence prescribed as an infringement offence for the purposes of this Act by regulations made under section 400.
 
 ### 360 Proceedings for infringement offences
-If a person who is a carrier, or a person in charge, of any craft is alleged to have committed an infringement offence, that person may be either—
-  (a) proceeded against under the Summary Proceedings Act 1957; or
-  (b) served with an infringement notice under section 362.
+If a person who is a carrier, or a person in charge, of any craft is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice as provided in section 362.
 
 ### 361 Immigration officer may require information
 When considering whether to issue an infringement notice, an immigration officer may require the person concerned to provide all or any of the following information:
@@ -4710,7 +4710,7 @@ When considering whether to issue an infringement notice, an immigration officer
 (3) An infringement notice may be served—
   (a) by personal delivery to the carrier, or person in charge, of the craft who appears to have committed the infringement offence; or
   (b) by sending it by post to the last known place of residence or business of the carrier, or person in charge, of the craft.
-(4) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent by post is deemed to have been served on the carrier, or the person in charge, of the craft on the date it was posted.
+(4) An infringement notice sent by post is deemed to have been served on the carrier, or the person in charge, of the craft on the date it was posted.
 (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case, the provisions of that section apply with all necessary modifications.
 
 ### 363 Reminder notices
@@ -4798,20 +4798,20 @@ Every person signing a certificate under section 366 or 367 must, in the absence
 **Procedural provisions relating to offences**
 
 ### 370 Procedural provisions relating to offences
-(1) An offence against section 342(1)(b), 343(1)(a), (b), or (c)(i), 345, 348, or 351 is punishable on indictment.
-(2) All other offences against this Act or any regulations made under it are punishable on summary conviction.
-(3) A prosecution for an offence against this Act or any regulations made under it cannot be commenced except on the information of an immigration officer, a constable, or some other person authorised for that purpose by the Minister.
+(1)
+(2)
+(3) Only an immigration officer, a constable, or some other person authorised for the purpose by the Minister, may commence a proceeding for an offence against this Act or any regulations made under it.
 
 ### 371 Presumption of authority
 For the purposes of section 370(3), or any other proceedings under this Act, it is unnecessary to prove that—
   (a) a person is an immigration officer, a constable, or any other authorised person; or
-  (b) an information was laid by an immigration officer, a constable, or any other authorised person.
+  (b) proceedings were commenced by an immigration officer, a constable, or any other authorised person.
 
-### 372 Time for laying information
-(1) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this Act punishable on summary conviction may be laid at any time within 2 years after the earlier of—
+### 372 Time for filing charging document
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the earlier of—
   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an immigration officer; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an immigration officer.
-(2) To avoid doubt, section 14 of the Summary Proceedings Act 1957 and subsection (1) of this section do not apply to an offence referred to in section 370(1), whether the information for that offence is laid indictably or summarily.
+(2) Subsection (1) does not apply to the offences set out in sections 342(1)(b), 343(1)(a), (b), or (c)(i), 345, 348, and 351.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -5939,7 +5939,7 @@ Any document relating to proceedings before the Tribunal may be served outside N
 (2) Every witness giving evidence, and every counsel or agent or other person appearing before the Tribunal, has the same privileges and immunities as witnesses and counsel in courts of law.
 
 ### 16 Witnesses’ fees, allowances, and expenses
-(1) A witness appearing before the Tribunal under a summons is entitled to be paid witnesses’ fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Summary Proceedings Act 1957.
+(1) A witness appearing before the Tribunal under a summons is entitled to be paid witnesses’ fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Criminal Procedure Act 2011.
 (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served, or at some other reasonable time before the hearing.
 
 ### 17 Decisions of Tribunal
