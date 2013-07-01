@@ -1,5 +1,5 @@
 # Contraception, Sterilisation, and Abortion Act 1977
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to specify the circumstances in which contraceptives and information relating to contraception may be supplied and given to young persons, to define the circumstances under which sterilisations may be undertaken, and to provide for the circumstances and procedures under which abortions may be authorised after having full regard to the rights of the unborn child
 
@@ -20,13 +20,13 @@ In this Act, unless the context otherwise requires,—
   - **approved counselling service** means any person or agency appointed or approved by the Supervisory Committee under section 31
   - **contraceptive** means a substance or device or technique intended to prevent conception or implantation
   - **holder** , in relation to a licence issued under this Act, means,—
-    (a) in the case of a hospital the person who is for the time being in charge of the hospital, whether or not that person was in charge of it when the licence was issued:
+    (a) in the case of a hospital, the person who is for the time being in charge of the hospital, whether or not that person was in charge of it when the licence was issued:
     (b) in the case of any other institution, the person who is for the time being in charge of the institution, whether or not that person was in charge of it when the licence was issued
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **institution** means any hospital, clinic, or other premises in which it is proposed to perform abortions
   - **licence** means a licence issued under this Act
   - **licensed institution** means an institution in respect of which a licence is for the time being in force under this Act
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **practising obstetrician** or means a medical practitioner—
     (a) whose scope of practice includes obstetrics or gynaecology; or
     (b) who, in the opinion of the Supervisory Committee, is experienced in one or both of those branches of medicine
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 6 Standards for manufacture of condoms
 (1) No person shall manufacture for sale or sell any condom or other contraceptive device that does not comply with a standard for the time being approved for the purposes of this section by the Minister of Health by notice in the Gazette.
-(2) Every person who manufactures for sale or sells any condom or other contraceptive device in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(2) Every person who manufactures for sale or sells any condom or other contraceptive device in contravention of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (3) For the purposes of this section the term condom includes a prophylactic sheath.
 
 **Sterilisation**
@@ -70,7 +70,7 @@ Notwithstanding anything in any enactment or rule of law to the contrary, no per
   (c) whether the patient stayed in hospital for 1 or more nights:
   (d) whether the operation was performed post-partum.
 (2) No such report shall give the name or address of the patient.
-(3) Every medical practitioner who fails to comply with subsection (1), or contravenes subsection (2), commits an offence and is liable on summary conviction to a fine not exceeding $100.
+(3) Every medical practitioner who fails to comply with subsection (1), or contravenes subsection (2), commits an offence and is liable on conviction to a fine not exceeding $100.
 
 ### 9 Conditions relating to sterility not to be attached to loans or employment
 (1) It shall be unlawful for any person (in this subsection referred to as the lender), or any person acting or purporting to act on behalf of the lender,—
@@ -268,7 +268,7 @@ Subject to the provisions of this Act, no abortion shall be performed unless and
   (b) where he proposes to perform the abortion himself (in the event of it being authorised in accordance with this Act), he shall—
     (i) if he is himself a certifying consultant, refer the case to one other certifying consultant (who shall be a practising obstetrician or gynaecologist if the woman's own doctor is not) with a request that he, together with the woman's own doctor, determine, in accordance with section 33, whether or not to authorise the performance of an abortion; or
     (ii) if he is not himself a certifying consultant, refer the case to 2 certifying consultants (of whom at least 1 shall be a practising obstetrician or gynaecologist) with a request that they determine, in accordance with section 33, whether or not to authorise the performance of an abortion.
-(3) Where an operating surgeon to whom a case is referred under subsection (2)(a) is satisfied, after considering the case, that it is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of section 187A of the Crimes Act 1961 applies, he shall, if he is willing to perform the abortion, either—
+(3) Where an operating surgeon to whom a case is referred under subsection (2)﻿(a) is satisfied, after considering the case, that it is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of section 187A of the Crimes Act 1961 applies, he shall, if he is willing to perform the abortion, either—
   (a) if he is himself a certifying consultant, refer the case to 1 other certifying consultant (who shall be a practising obstetrician or gynaecologist if the operating surgeon is not, and who shall not be the woman's own doctor) with a request that he, together with the operating surgeon, determine, in accordance with section 33, whether or not to authorise an abortion; or
   (b) if he is not himself a certifying consultant, refer the case to 2 certifying consultants (of whom at least 1 shall be a practising obstetrician or gynaecologist, and of whom 1 may be the woman's own doctor) with a request that they determine, in accordance with section 33, whether or not to authorise the performance of an abortion.
 (4) Where any medical practitioner is required to refer any case to any other practitioner under this section, he shall refer it in accordance with the procedure for the time being prescribed by the Supervisory Committee.
@@ -283,7 +283,7 @@ Subject to the provisions of this Act, no abortion shall be performed unless and
 (3) If one of the certifying consultants is of the opinion that the case is one to which any of the said provisions applies and the other consultant is of the contrary opinion, they shall refer the case to another medical practitioner for his opinion, being a medical practitioner who is on the list of certifying consultants maintained under section 30(1).
 (4) If that other medical practitioner is of the opinion that the case is one to which any of the said provisions applies, the certifying consultant who is of the same opinion shall issue, in accordance with subsection (5), a certificate in the prescribed form authorising the performance of an abortion.
 (5) Where 2 certifying consultants determine that they should authorise an abortion, they shall forward the said certificate to the holder of the licence in respect of the licensed institution in which the abortion is to be performed.
-(5A) Where the operating surgeon is not one of the certifying consultants issuing the certificate, he shall endorse on the certificate a statement that he is willing to perform an abortion on the patient to whom the certificate relates, but a failure to comply with this requirement shall not invalidate the certificate for the purposes of section 37(1)(b) of this Act or section 187A(4) of the Crimes Act 1961.
+(5A) Where the operating surgeon is not one of the certifying consultants issuing the certificate, he shall endorse on the certificate a statement that he is willing to perform an abortion on the patient to whom the certificate relates, but a failure to comply with this requirement shall not invalidate the certificate for the purposes of section 37(1)﻿(b) of this Act or section 187A(4) of the Crimes Act 1961.
 (6) If, in respect of any case, any certifying consultant has not reached a decision within 14 days after it was referred to him, he shall advise the Supervisory Committee in writing of the matter, and of the reasons for the delay.
 
 ### 33A Performance of abortion by other practitioner
@@ -300,11 +300,11 @@ When the certifying consultants have made a decision in any case (whether they h
 (2) No such report shall give the name or address of any patient.
 
 ### 37 Offences
-(1) Every person who—commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
+(1) Every person who—commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
   (a) performs an abortion elsewhere than in a licensed institution; or
   (b) performs an abortion otherwise than in pursuance of a certificate issued by 2 certifying consultants under section 33,—
 (2) Nothing in subsection (1) shall apply to the performance of an abortion by a medical practitioner who believes that abortion is immediately necessary to save the life of the patient or to prevent serious permanent injury to her physical or mental health.
-(3) It shall be a defence to a charge brought under subsection (1)(b) if the defendant shows that he believed that a certificate had been issued in respect of the patient.
+(3) It shall be a defence to a charge brought under subsection (1)﻿(b) if the defendant shows that he believed that a certificate had been issued in respect of the patient.
 
 ### 38 Crimes Act 1961 not affected
 Nothing in sections 11 to 37 shall limit or affect any of the provisions of the Crimes Act 1961.
@@ -331,7 +331,7 @@ The Governor-General may from time to time by Order in Council make regulations 
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 
 ### 44 Female procuring her own miscarriage
-(1) Every female commits an offence and is liable on summary conviction to a fine not exceeding $200 who, with intent to procure miscarriage, whether she is pregnant or not,—
+(1) Every female commits an offence and is liable on conviction to a fine not exceeding $200 who, with intent to procure miscarriage, whether she is pregnant or not,—
   (a) unlawfully administers to herself, or permits to be administered to her, any poison or any drug or any noxious thing; or
   (b) unlawfully uses on herself, or permits to be used on her, any instrument; or
   (c) unlawfully uses on herself, or permits to be used on her, any other means whatsoever.
