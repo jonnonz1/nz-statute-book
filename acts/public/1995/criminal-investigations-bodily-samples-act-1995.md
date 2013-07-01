@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2011-12-05_
+_Consolidation as at 2013-07-01_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -18,14 +18,14 @@ _Consolidation as at 2011-12-05_
   - **blood sample** means a fingerprick sample or a venous sample
   - **bodily sample** or means a blood sample or a buccal sample
   - **buccal sample** means a sample of epithelial cells from inside the mouth taken by a device, or provided by other means, approved for the purpose under section 4B(1)﻿(b)
-  - **charged** , in relation to a person, means that an information charging the person with an offence has been filed in a District Court or Youth Court and a summons or warrant to arrest the person has been issued in respect of the offence charged
+  - **charged** , in relation to a person, means that a charging document charging the person with an offence has been filed in a District Court (including in relation to proceedings in the Youth Court)
   - **child** means a person of or over the age of 10 years but under the age of 14 years
   - **Commissioner** means the Commissioner of Police
   - **compulsion order** means a suspect compulsion order or a juvenile compulsion order
   - **conviction** includes—and has a corresponding meaning
     (a) a finding, by a Youth Court, that a charge against a young person is proved; and
     (b) an acquittal on account of insanity; and
-    (c) the dismissal of an information on account of insanity; and
+    (c) the dismissal of a charge on account of insanity; and
     (d) a finding that the person is unfit to stand trial;—
   - **databank compulsion notice** —
     (a) means a notice issued under section 39; and
@@ -44,7 +44,6 @@ _Consolidation as at 2011-12-05_
   - **forensic comparison** means the comparison of a DNA profile stored in a DNA profile databank with another DNA profile, where that comparison is undertaken for the purpose of confirming or disproving the involvement of any person in the commission of an offence
   - **imprisonable offence** means an offence punishable by a term of imprisonment; and includes an offence punishable by imprisonment for life
   - **independent adult** has the meaning given to it in section 2A
-  - **indictable offence** has the same meaning as it has in the Summary Proceedings Act 1957
   - **juvenile compulsion order** means an order made under section 23
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
@@ -203,14 +202,7 @@ Subject to section 8, every notice given pursuant to section 6(2)﻿(a)—
 (1) Nothing in section 6—
   (a) applies in respect of a suspect who is a child or was a child at the time the offence in relation to which the request is made was committed; or
   (b) makes a person of the kind referred to in paragraph (a) capable of consenting to the taking of a bodily sample in response to a request made under that section.
-(1A) However, a suspect may, in relation to an indictable offence, consent to the taking of a buccal sample as a result of a Part 2A request if the suspect is a child, or was a child, at the time the offence is alleged to have been committed, and cannot lawfully be prosecuted in relation to the offence because it is not an offence of any of the following kinds:
-  (a) the offence of murder or manslaughter:
-  (b) an indictable offence (other than murder or manslaughter)—
-    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
-    (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
-  (c) an indictable offence (other than murder or manslaughter)—
-    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
-    (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
+(1A) However, a suspect who is a child, or was a child at the time the offence is alleged to have been committed, may consent to the taking of a buccal sample as a result of a Part 2A request if, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, he or she may not be lawfully prosecuted under the Criminal Procedure Act 2011 for that offence.
 (2) Where a suspect request is made under section 6 to a suspect who is of or over the age of 14 years but under 17 years, that section and section 7 shall apply subject to the following modifications:
   (a) the constable who makes the suspect request shall take all reasonable steps to ensure that a copy of the notice required by section 6(2)﻿(a) to be handed to the suspect is also given to a parent of the suspect; and
   (b) the constable who makes the suspect request shall, in addition to informing the suspect of the matters specified in section 6(2)﻿(b), inform the suspect—
@@ -471,23 +463,17 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 **Authority to obtain buccal sample from suspect**
 
 ### 24C Authority to obtain buccal sample from suspect
-(1) Subject to section 72, in a criminal investigation in respect of an indictable offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and in relation to which that suspect may not be lawfully prosecuted, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if—
+(1) In a criminal investigation in respect of an offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and for which, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if—
   (a) both the suspect and a parent of the suspect have consented to the taking of a buccal sample under section 24G; and
   (b) the sample is taken in accordance with the procedures set out in Part 4.
-(2) Every reference in this Part to an indictable offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an indictable offence other than—
-  (a) the offence of murder or manslaughter; or
-  (b) an offence (other than murder or manslaughter)—
-    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
-    (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
-  (c) an offence (other than murder or manslaughter)—
-    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
-    (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
+(2) This section is subject to section 72.
+(3) Every reference in this Part to an offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an offence for which, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the Criminal Procedure Act 2011.
 
 **Obtaining buccal sample from suspect**
 
 ### 24D Request to consent to taking of buccal sample from suspect
 A constable may request that a suspect give a buccal sample (being a Part 2A request) if—
-  (a) there is good cause to suspect that the suspect has committed or may have committed an indictable offence for which the suspect may not lawfully be prosecuted (because the suspect is a child or was a child at the time the offence was committed); and
+  (a) there is good cause to suspect that the suspect has committed or may have committed an offence for which the suspect may not lawfully be prosecuted (because the suspect is a child or was a child at the time the offence was committed); and
   (b) the suspect—
     (i) is under the age of 17 years; and
     (ii) is a person in relation to whom an application for a declaration for care or protection may be made on the ground set out in section 14(1)﻿(e) of the Children, Young Persons, and Their Families Act 1989 if the suspect’s involvement in the offence tends to be confirmed by the analysis of a buccal sample; and
@@ -512,7 +498,7 @@ If a constable makes a Part 2A request, the Police must—
 A notice given under section 24E(a) must—
   (a) be in the prescribed form; and
   (b) contain the following particulars:
-    (i) a statement that it is believed that the suspect has or may have committed an indictable offence for which he or she may not be lawfully prosecuted and that the suspect is being requested to consent to the giving of a buccal sample in relation to that offence:
+    (i) a statement that it is believed that the suspect has or may have committed an offence for which he or she may not be lawfully prosecuted and that the suspect is being requested to consent to the giving of a buccal sample in relation to that offence:
     (ii) a statement that there are reasonable grounds to believe that analysis of the buccal sample will tend to confirm or disprove the suspect’s involvement in the commission of the offence:
     (iii) a statement that the buccal sample may not be taken from the suspect unless both the suspect and a parent of the suspect consent to the taking of the buccal sample:
     (iv) a statement that the suspect is under no obligation to give the buccal sample:
@@ -555,7 +541,7 @@ If a buccal sample is taken as a result of a Part 2A request, the Police must en
 ### 24J Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule
 (1) A constable may require a person who is of or over the age of 17 years to give a bodily sample if either—
   (a) the person is in the lawful custody of the Police and being detained for committing an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and is at a Police station or at any other place being used for Police purposes; or
-  (b) a constable has good cause to suspect the person of committing an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and intends to bring proceedings against the person in respect of that offence by way of summons.
+  (b) a constable has good cause to suspect the person of committing an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and intends to bring proceedings against the person in respect of that offence by filing a charging document.
 (2) The sample must be taken in accordance with the procedures set out in Part 4.
 (3) If subsection (1)﻿(b) applies, a constable may detain the person at any place—
   (a) in order for the bodily sample to be taken; and
@@ -564,7 +550,7 @@ If a buccal sample is taken as a result of a Part 2A request, the Police must en
 ### 24K Authority to take bodily sample from young person arrested or intended to be charged with relevant offence
 (1) A constable may require a young person to give a bodily sample if either—
   (a) the person has been arrested for a relevant offence; or
-  (b) a constable has good cause to suspect the person of committing a relevant offence and intends to bring proceedings against the person in respect of that offence by way of summons.
+  (b) a constable has good cause to suspect the person of committing a relevant offence and intends to bring proceedings against the person in respect of that offence by filing a charging document.
 (2) The sample must be taken in accordance with the procedures set out in Part 4.
 (3) If subsection (1)﻿(b) applies, a constable may detain the person at any place—
   (a) in order for the bodily sample to be taken; and
@@ -645,7 +631,7 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
     (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
     (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or a Youth Court makes an order under section 283 of the Children, Young Persons, and Their Families Act 1989:
   (ac) any DNA profile derived from a bodily sample taken from a young person under Part 2B if—
-    (i) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the information relating to the offence after finding that the offence was proved; and
+    (i) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and
     (ii) the offence in relation to which the order was made is a relevant offence, or a related offence:
   (b) subject to section 36, any DNA profile derived from a bodily sample taken from any person pursuant to this Part.
 
@@ -659,7 +645,7 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
     (iii) a District Court (rather than a Youth Court) convicted the person of the offence but did not impose a sentence of imprisonment.
 (3) In the case of a profile stored under section 26(ac), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
-  (b) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the information relating to the offence after finding that the offence was proved.
+  (b) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
 (4) The retention periods and effect of certain subsequent offences are as follows:Sentence or orderRetention period for order or convictionRetention period for subsequent offence Section 26(a) or (ab): section 283(a) to (n) order made by a Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by a Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by a District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by a District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
 (5) A person's DNA profile stored under section 26 may, unless otherwise provided by this Act, be stored indefinitely on a DNA profile databank if any of the following apply:
   (a) if the profile is stored in relation to an offence and a court imposes a sentence of imprisonment for the offence:
@@ -1241,8 +1227,8 @@ A blood sample taken from a person under this Act must be taken by a suitably qu
   (b) any other constable.
 (3) Nothing in this section requires a Judge to direct the issue of an arrest warrant if the Judge is satisfied that the person to whom the notice relates was unable to attend to give a bodily sample on the date specified in the notice due to reasons outside that person’s control.
 (4) In subsection (1), appropriate court means—
-  (a) if the young person has not yet been charged for the triggering offence, the court in which the charge would be laid; or
-  (b) if the young person has been charged for the triggering offence, the court in which the charge was laid.
+  (a) if the young person has not yet been charged for the triggering offence, the court in which the charge would be filed; or
+  (b) if the young person has been charged for the triggering offence, the court in which the charge was filed.
 
 ### 50D Form and effect of warrant issued under section 50C
 (1) A warrant issued under section 50C—
@@ -1566,11 +1552,11 @@ Where, pursuant to section 18(3)﻿(b)﻿(vi) or section 41C(2)﻿(c), any perso
 (2) The information required by subsection (1)﻿(eb) to (eg) must be provided together with a breakdown of those totals according to the ethnicity of the persons from whom the samples were taken, and the number of young persons from whom the samples were taken, so far as that information is known by the Police.
 
 ### 77 Offences
-(1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,—
   (a) for the purpose of the providing of a bodily sample pursuant to this Act, personates any other person; or
   (b) refuses to allow a bodily sample to be taken under a databank compulsion notice or under Part 2B and, as a result of that refusal, no sample is taken; or
   (c) having been given a notice under section 50B requiring him or her to attend on a specified date and at a specified place and time to give a bodily sample under Part 2B, fails to comply with that notice.
-(2) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years who—
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who—
   (a) knowingly falsifies any DNA profile stored on a DNA profile databank, or a Part 2B temporary databank, by the addition, deletion, or modification of any information in that profile; or
   (b) knowingly provides false information with the intent that it should be stored on a DNA profile databank or a Part 2B temporary databank; or
   (c) knowing that he or she is not authorised to do so, adds to or deletes from a DNA profile databank, or a Part 2B temporary databank, any information relating to any person; or
@@ -1580,7 +1566,7 @@ Where, pursuant to section 18(3)﻿(b)﻿(vi) or section 41C(2)﻿(c), any perso
   (e) in contravention of section 24S or 28,—
     (i) gains or attempts to gain access to a bodily sample to which that section applies; or
     (ii) uses any such bodily sample.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who publishes any name or particular in contravention of section 14 or section 19.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who publishes any name or particular in contravention of section 14 or section 19.
 
 ### 78 Breach of compulsion order or Part 3 order not punishable as contempt
 No proceedings for contempt of court shall be brought in respect of any refusal or failure to comply with a compulsion order or a Part 3 order.
