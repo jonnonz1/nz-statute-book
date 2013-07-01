@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 2011
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-07-01_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2011.
@@ -13,19 +13,7 @@ This Act is the Summary Proceedings Amendment Act (No 2) 2011.
 This Act amends the Summary Proceedings Act 1957.
 
 ### 4 Withdrawal of warrant
-Section 23 of the principal Act is amended by repealing subsection (2) and substituting the following subsection:
-  (2) A Registrar may, at any time before it is executed, withdraw a warrant to arrest a defendant or warrant to arrest a person required as a witness if—
-    (a) in the case of a warrant to arrest a defendant,—
-      (i) the warrant was issued under this Act or section 36 or 60 of the Bail Act 2000 because the defendant failed to appear at Court; and
-      (ii) the defendant reports to the Court (whether or not the defendant actually makes an appearance in the court that day); and
-      (iii) no breaches of bail by the defendant in relation to the charge have been recorded under section 38 of the Bail Act 2000; and
-      (iv) no other warrants for the arrest of the defendant in relation to the proceeding have been issued; and
-      (v) the defendant is charged with an offence for which the maximum penalty is 10 or less years' imprisonment:
-    (b) in the case of a warrant to arrest a witness,—
-      (i) the warrant was issued under this Act because the witness failed to appear at court; and
-      (ii) the witness reports to the Court (whether or not the defendant actually makes an appearance in the Court that day); and
-      (iii) no other warrants for the arrest of the witness in relation to the proceeding have been issued; and
-      (iv) the defendant in the proceeding is charged with an offence for which the maximum penalty is 10 or less years' imprisonment.
+[Repealed]
 
 ### 5 Transitional provision regarding withdrawal of warrants to arrest
 The power conferred on a Registrar by section 23(2) of the principal Act (as inserted by section 4 of this Act) may be exercised in relation to any warrant referred to in that subsection, whether the warrant was issued before or after the date on which section 4 came into force.
