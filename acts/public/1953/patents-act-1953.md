@@ -1,5 +1,5 @@
 # Patents Act 1953
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-07-01_
 
 > An Act to consolidate and amend certain enactments relating to patents
 
@@ -79,8 +79,8 @@ _Consolidation as at 2011-01-01_
 
 ### 6 Officers and employees of Patent Office not to acquire interest in any patent or prepare specifications
 (1) Every officer and employee of the Patent Office shall be incapable, during the period for which he holds his appointment and for 1 year thereafter, of applying in New Zealand for a patent or of acquiring directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in New Zealand.
-(2) Every officer and employee of the Patent Office commits an offence, and shall be liable on summary conviction to a fine not exceeding 50 pounds, if, during the period for which he holds his appointment and for 1 year thereafter, he applies in any country other than New Zealand for a patent or acquires directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in any country other than New Zealand.
-(3) Every officer and employee of the Patent Office commits an offence, and shall be liable on summary conviction to a fine not exceeding 20 pounds, if, outside the scope of his official duties, he drafts or prepares a specification or drawing or any part of a specification or drawing or makes a search of the records of the Patent Office for the use or information of any applicant or intending applicant for a patent under this Act.
+(2) Every officer and employee of the Patent Office commits an offence, and shall be liable on conviction to a fine not exceeding $100, if, during the period for which he holds his appointment and for 1 year thereafter, he applies in any country other than New Zealand for a patent or acquires directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in any country other than New Zealand.
+(3) Every officer and employee of the Patent Office commits an offence, and shall be liable on conviction to a fine not exceeding $40, if, outside the scope of his official duties, he drafts or prepares a specification or drawing or any part of a specification or drawing or makes a search of the records of the Patent Office for the use or information of any applicant or intending applicant for a patent under this Act.
 (4) Nothing in subsections (1) and (2) shall prevent any former officer or employee of the Patent Office who is practising as a solicitor or patent attorney from lawfully carrying out, within the period of 1 year specified in those subsections, any function that is merely incidental to that practice.
 
 **Application, investigation, opposition, etc**
@@ -282,7 +282,8 @@ _Consolidation as at 2011-01-01_
 (5) No person resident in New Zealand shall, except under the authority of a written permit granted by or on behalf of the Commissioner, make or cause to be made any application outside New Zealand for the grant of a patent for an invention unless—provided that this subsection shall not apply in relation to an invention for which an application for protection has first been filed in a country outside New Zealand by a person resident outside New Zealand.
   (a) an application for a patent for the same invention or substantially the same invention has been made in New Zealand not less than 6 weeks before the application outside New Zealand; and
   (b) either no directions have been given under subsection (1) or under section 26 in relation to the application in New Zealand, or all such directions have been revoked:
-(6) If any person fails to comply with any direction given under this section or makes or causes to be made an application for the grant of a patent in contravention of this section, he shall be guilty of an offence and shall be liable on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+(6) If any person fails to comply with any direction given under this section or makes or causes to be made an application for the grant of a patent in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
+(7) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1).
 
 ### 26 Inventions relating to atomic energy
 (1) Where an application has been made to the Commissioner for the grant of a patent, and it appears to the Commissioner that the invention which is the subject matter of the application relates to the production or use of energy derived from the atomic nucleus or research into matters connected therewith he shall serve a notice in writing on the Minister of Defence to that effect, and may, notwithstanding anything in this Act or any other Act, omit or delay the doing of anything which he would otherwise be required to do in relation to the application, and give directions for prohibiting or restricting the publication of information with respect to the subject matter of the application or the communication of that information to particular persons or classes of persons; and any person who contravenes any such direction commits an offence against this section.
@@ -293,7 +294,8 @@ _Consolidation as at 2011-01-01_
 (5) Where the Commissioner in the exercise of powers under subsection (1) omits or delays the doing of anything or gives directions for prohibiting or restricting the publication or communication of information, he may, subject to such conditions, if any, as he thinks fit to impose, extend the time limited by or under this Act for doing any act where he is satisfied that an extension ought to be granted by reason of the exercise of the powers aforesaid.
 (6) The right of a person to apply for, or obtain, a patent in respect of an invention shall not be prejudiced by reason only of the fact that the invention has previously been communicated to the Minister of Defence under this section, and a patent in respect of an invention shall not be held to be invalid by reason only that the invention has been communicated as aforesaid.
 (7) The power of a government department and persons authorised by a government department under section 55 shall include power to make, use, exercise, or vend an invention for such purposes relating to the production or use of atomic energy or research into matters connected therewith as the Minister of Defence thinks necessary or expedient, and any reference in that section or in sections 56 and 57 to the services of the Crown shall be construed as including a reference to those purposes.
-(8) Every person who commits an offence against this section shall be liable on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+(8) Every person who commits an offence against this section shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
+(9) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (8).
 
 **Treaty application**
 
@@ -921,7 +923,7 @@ Without prejudice to any provisions of this Act requiring the Commissioner to he
   (a) prescribing the manner in which statutory declarations in respect of proceedings under this Act may be made and subscribed:
   (b) prescribing the manner in which witnesses may be required to attend and to give evidence in any proceedings before the Commissioner:
   (c) making provision for the payment of the expenses of witnesses:
-  (d) imposing fines not exceeding 20 pounds for failure or refusal of any person so to attend and give evidence.
+  (d) imposing fines not exceeding $40 for failure or refusal of any person so to attend and give evidence.
 
 **Appeals**
 
@@ -978,7 +980,7 @@ In all proceedings before the court under this Act the costs of the Commissioner
   (a) to apply for or obtain patents in New Zealand or elsewhere; or
   (b) to prepare specifications or other documents for the purposes of this Act or of the patent law of any country; or
   (c) to give advice other than of a scientific or technicial nature as to the validity of patents or their infringement—
-(4) Any person who or company which fails to comply with or acts in contravention of the provisions of this section commits an offence, and shall be liable on summary conviction to a fine not exceeding 100 pounds.
+(4) Any person who or company which fails to comply with or acts in contravention of the provisions of this section commits an offence, and shall be liable on conviction to a fine not exceeding $200.
 (5) Nothing in this section shall be construed as prohibiting barristers or solicitors of the High Court of New Zealand from giving professional advice or taking such part in proceedings under this Act as has heretofore been taken by them.
 (6) Nothing in this section shall prevent the personal representative of a deceased patent attorney from carrying on the business or practice of the deceased patent attorney for a period not exceeding 3 years from the date of the death of the patent attorney, or for such further period (if any) as the court may allow, if the personal representative is himself registered as a patent attorney or employs a person who is registered as a patent attorney to manage the business or practice.
 
@@ -989,15 +991,16 @@ In all proceedings before the court under this Act the costs of the Commissioner
 **Offences**
 
 ### 105 Falsification of register, etc
-Every person who makes or causes to be made a false entry in any register kept under this Act, or a writing falsely purporting to be a copy of an entry in any such register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence, and shall be liable on conviction on indictment to imprisonment for any term not exceeding 2 years.
+(1) Every person who makes or causes to be made a false entry in any register kept under this Act, or a writing falsely purporting to be a copy of an entry in any such register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence, and shall be liable on conviction to imprisonment for any term not exceeding 2 years.
+(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1).
 
 ### 106 Unauthorised claim of patent rights
-(1) Every person who falsely represents that he or another person is the patentee of an invention or that he or another person has applied for a patent for an invention commits an offence and shall be liable on summary conviction to a fine not exceeding 100 pounds.
-(2) Every person who falsely represents that an article sold by him is patented in New Zealand or is the subject of an application for a patent in New Zealand commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+(1) Every person who falsely represents that he or another person is the patentee of an invention or that he or another person has applied for a patent for an invention commits an offence and shall be liable on conviction to a fine not exceeding $200.
+(2) Every person who falsely represents that an article sold by him is patented in New Zealand or is the subject of an application for a patent in New Zealand commits an offence and shall be liable on conviction to a fine not exceeding $100.
 (3) For the purposes of this section—provided that it shall be sufficient defence to any prosecution under this subsection to show that the article was patented or was the subject of an application for a patent at the time when and in the country where the words were stamped, engraved, or impressed on or otherwise applied to it.
   (a) a person shall be deemed to represent that an article is patented in New Zealand if there is stamped, engraved, or impressed on, or otherwise applied to, the article the word patent or patented, the words provisional patent, or some other word or words expressing or implying that a patent for the article has been obtained in New Zealand; and
   (b) a person shall be deemed to represent that an article is the subject of an application for a patent in New Zealand if there are stamped, engraved, or impressed on or otherwise applied to the article the words patent applied for or patent pending or some other word or words implying that an application for a patent for the article has been made in New Zealand:
-(4) Every person who uses on his place of business or on any document issued by him or otherwise the words Patent Office, or any other words suggesting that his place of business is or is officially connected with the Patent Office, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+(4) Every person who uses on his place of business or on any document issued by him or otherwise the words Patent Office, or any other words suggesting that his place of business is or is officially connected with the Patent Office, commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 107 Protection of Royal Arms, etc
 The grant of a patent under this Act shall not in itself authorise the patentee to use or place on any patented article any representation specified in sections 12 to 15 of the Flags, Emblems, and Names Protection Act 1981.
