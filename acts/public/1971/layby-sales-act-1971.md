@@ -1,5 +1,5 @@
 # Layby Sales Act 1971
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to layby sales of certain goods
 
@@ -46,7 +46,7 @@ Notwithstanding the provisions of section 22 of the Sale of Goods Act 1908, good
   (b) he has given the buyer a statement complying with that subsection within the 30 days immediately preceding the receipt of the request; or
   (c) the layby sale has been cancelled by the buyer and more than 30 days have elapsed since the date of cancellation.
 (3) Where the seller cancels a layby sale he shall, upon request, give to the buyer free of charge a statement complying with subsection (1) and, if the address of the buyer is known to the seller, he shall, whether the buyer requests it or not, give to the buyer, free of charge, such a statement within 7 days after the date of cancellation.
-(4) Every seller who makes default in complying with subsection (1) or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $200.
+(4) Every seller who makes default in complying with subsection (1) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $200.
 (5) Nothing in this section shall apply in respect of any layby sale under which the purchase price does not exceed $10.
 
 ### 8 Right of buyer to cancel layby sale
