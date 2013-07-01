@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2012-09-28_
+_Consolidation as at 2013-07-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -831,7 +831,7 @@ For the purposes of section 71, a disclosure document is a document that sets ou
 (1) A company must not give any financial assistance under section 76 unless the board of the company is satisfied on reasonable grounds that the company will, immediately after the giving of the financial assistance, satisfy the solvency test.
 (2) The directors who vote in favour of the giving of the financial assistance must sign a certificate stating that, in their opinion, the company will, immediately after the financial assistance is given, satisfy the solvency test and the grounds for that opinion.
 (3) If, after a resolution is passed under subsection (1) and before the financial assistance is given, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the financial assistance is given, satisfy the solvency test, any financial assistance given by the company is deemed not to have been authorised.
-(4) Every director of a company who fails to comply with subsection (2) commits an offence and is liable to the penalty set out in section 373(1).
+(4) Every director of a company who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in section 373(1).
 (5) The provisions of section 56 apply in relation to the giving of financial assistance by a company with such modifications as may be necessary.
 (6) In applying the solvency test for the purposes of this section,—
   - **assets** excludes amounts of financial assistance given by the company at any time under section 76 or section 107(1)(e) in the form of loans; and
@@ -5622,11 +5622,11 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (31) section 340(6)(b) (which relates to the filing of annual returns by overseas companies).
 
 ### 375 Proceedings for offences
-(1) The offences specified in—are triable summarily.
-  (a) subsections (1), (2), and (3) of section 373; and
-  (b) section 374—
-(2) The offences specified in subsection (4) of section 373 are triable on indictment.
-(3) Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, any information for an offence referred to in subsection (1) may be laid at any time within 3 years after the date of the offence.
+(1)
+(2)
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
+  (a) a charging document may be filed at any time in respect of an offence against section 373(4); and
+  (b) the limitation period in respect of an offence specified in section 373(1) or (2), or section 374 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 (4) Nothing in sections 377 to 380 affects the liability of any person under any other Act, but no person shall be convicted of an offence against any of those sections and a provision of any other Act in respect of the same conduct.
 
 ### 376 Defences
@@ -5678,7 +5678,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 
 ### 382 Persons prohibited from managing companies
 (1) Where—that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the court which may be given on such terms and conditions as the court thinks fit.
-  (a) a person has been convicted on indictment of any offence in connection with the promotion, formation, or management of a company; or
+  (a) a person has been convicted under any of subparagraphs (g) to (j) of section 373(4) of any offence in connection with the promotion, formation, or management of a company; or
   (b) a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (c)
 (2) A person intending to apply for the leave of the court under this section shall give to the Registrar not less than 10 days' notice of that person's intention to apply.
@@ -5688,7 +5688,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 
 ### 383 Court may disqualify directors
 (1) Where—the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company for such period not exceeding 10 years as may be specified in the order.
-  (a) a person has been convicted on indictment of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+  (a) a person has been convicted under section 373(4) of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
   (c) a person has, while a director of a company and whether convicted or not,—
     (i) persistently failed to comply with this Act or the Companies Act 1955, the Securities Act 1978, the Securities Markets Act 1988, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
@@ -5758,7 +5758,7 @@ A person who acts in contravention of a notice under section 385 is personally l
   (a) be a director of a phoenix company; or
   (b) directly or indirectly be concerned in or take part in the promotion, formation, or management of a phoenix company; or
   (c) directly or indirectly be concerned in or take part in the carrying on of a business that has the same name as the failed company's pre-liquidation name or a similar name.
-(2) A person who contravenes subsection (1) commits an offence and is liable on conviction on indictment to the penalty set out in section 373(4).
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(4).
 
 ### 386B Definitions for purpose of phoenix company provisions
 (1) In sections 386A to 386F,—
