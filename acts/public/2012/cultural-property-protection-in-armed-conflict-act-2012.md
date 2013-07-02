@@ -1,5 +1,5 @@
 # Cultural Property (Protection in Armed Conflict) Act 2012
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-02_
 
 ### 1 Title
 This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
@@ -554,11 +554,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 **Consequential amendments**
 
 ### 44 Consequential amendments to sections 12, 18, and 38
-(1) The purpose of this section is to make consequential amendments to sections 12, 18, and 38 on the date when the Criminal Procedure Act 2011 comes fully into force.
-(2) In section 12(1), (3), and (5), delete on indictment.
-(3) In section 18(1), (3), and (5), delete on indictment.
-(4) In section 38, delete summary.
-(5) This section expires and is repealed on the close of the day when the Criminal Procedure Act 2011 comes fully into force.
+[Repealed]
 
 ### 45 Amendment to Extradition Act 1999
 (1) This section amends the Extradition Act 1999.
