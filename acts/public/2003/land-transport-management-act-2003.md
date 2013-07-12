@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-12_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -1364,35 +1364,44 @@ In the course of performing its functions and exercising its powers, the Agency 
   (a) 2 persons to represent the regional council; and
   (b) 1 person from each territorial authority in the region to represent that territorial authority; and
   (c) 1 person to represent the Agency; and
-  (d) 1 person to represent the objective of economic development; and
-  (e) 1 person to represent the objective of safety and personal security; and
-  (f) 1 person to represent the objective of public health; and
-  (g) 1 person to represent the objective of access and mobility; and
-  (h) 1 person to represent the objective of environmental sustainability; and
-  (i) 1 person to represent cultural interests.
+  (d)
+  (e)
+  (f)
+  (g)
+  (h)
+  (i)
 (3) Each regional council that is a unitary authority, or a combination of unitary authorities (as the case may be), must appoint to its regional transport committee—
-  (a) 5 persons to represent the unitary authority; and
+  (a) 4 persons to represent the unitary authority; and
   (b) 1 person to represent the Agency; and
-  (c) 1 person to represent the objective of economic development; and
-  (d) 1 person to represent the objective of safety and personal security; and
-  (e) 1 person to represent the objective of public health; and
-  (f) 1 person to represent the objective of access and mobility; and
-  (g) 1 person to represent the objective of environmental sustainability; and
-  (h) 1 person to represent cultural interests.
+  (c)
+  (d)
+  (e)
+  (f)
+  (g)
+  (h)
 (4) A person specified in subsection (2)(a) to (c) and (3)(a) and (b) may only be appointed on the nomination of the relevant entity.
-(5) A person appointed under subsection (2)(d) to (i) or (3)(c) to (h)—
-  (a) must be from the wider regional community; and
-  (b) must not be a member or employee of that regional council, any other territorial authority in that region, or the Agency.
+(5)
 (6) Each regional council must appoint from its representatives the chair and deputy chair of the committee.
 (7) At any meeting of a regional transport committee, the chair, or any other person presiding at the meeting,—
   (a) has a deliberative vote; and
   (b) in the case of an equality of votes, does not have a casting vote (and therefore the act or question is defeated and the status quo is preserved).
-(8) The Minister may issue guidelines to regional councils concerning the requisite knowledge and skills of those persons to be appointed under subsections (2)(d) to (i) and (3)(c) to (h).
-(9) Despite subsection (1), 2 or more adjoining regional councils may establish a single regional transport committee under this section, in which case, subsections (2) to (8) apply with all necessary modifications.
+(8)
+(9) Despite subsections (1) to (3), 2 or more adjoining regional councils or Auckland Transport and 1 or more adjoining regional councils may agree in writing to establish a joint regional transport committee and prepare a regional land transport plan, in which case subsections (4), (6), and (7) apply with all necessary modifications.
+(9A) Despite subsections (1) to (3), the parties to a joint regional transport committee established under subsection (9) must appoint to the committee—
+  (a) 2 persons to represent each regional council that is a party to the agreement:
+  (b) 1 person to represent each territorial authority in the region of each regional council that is a party to the agreement:
+  (c) 1 person to represent the Agency:
+  (d) 2 persons to represent Auckland Transport if Auckland Transport is a party to the agreement.
+(9B) The agreement to establish a joint regional transport committee must specify the procedure for appointing the chair and deputy chair of the committee.
+(9C) The chair and deputy chair of a joint regional transport committee established under subsection (9) must,—
+  (a) in the case of a joint regional transport committee made up of adjoining regional councils, both be persons who represent a regional council:
+  (b) in the case of a joint regional transport committee made up of Auckland Transport and adjoining regional councils, both be persons who represent Auckland Transport or a regional council.
 (10) If a regional transport committee is established under subsection (9), any reference in Part 2 to a regional council is to be read as a reference to each of the regional councils that have established the committee.
+(10A) If Auckland Transport establishes a joint regional transport committee with 1 or more adjoining regional councils under subsection (9), any reference to a regional council in Part 2 must be treated as a reference to Auckland Transport and each of those adjoining regional councils.
+(10B) If a joint regional transport committee is established under subsection (9), references to a region in Part 2 must be treated as references to each of the regions that are represented on the joint regional transport committee.
 (11) If the area of a territorial authority falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
 (12) If subsection (11) applies, and a territorial authority fails to decide to join a regional transport committee, the Minister must direct the territorial authority to be represented by a particular regional transport committee.
-(13) If subsection (11) applies, the regional land transport programme and regional land transport strategy prepared by the regional transport committee that it joins applies to the entire area of the territorial authority.
+(13)
 (14) For the purposes of subsection (11), region has the same meaning as in section 5(1) of the Local Government Act 2002.
 (15) Nothing in this section applies to the Auckland Council or Auckland.
 
