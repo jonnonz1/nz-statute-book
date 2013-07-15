@@ -1,5 +1,5 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2013-05-01_
+_Consolidation as at 2013-07-15_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
@@ -58,7 +58,10 @@ This Act shall bind the Crown.
     (b) emergency benefit:
     (c) independent youth benefit:
     (d) invalid's benefit:
+    (da) jobseeker support:
     (e) sickness benefit:
+    (ea) sole parent support:
+    (eb) supported living payment:
     (f) unemployment benefit:
     (g) widow's benefit:
     (h) young parent payment:
