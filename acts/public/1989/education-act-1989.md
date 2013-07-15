@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 > An Act to reform the administration of education
 
@@ -5799,7 +5799,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 ### 226A Disclosure of enrolment information by institutions
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964
+  - **benefit** means jobseeker support under the Social Security Act 1964
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25
   - **specified period** means any period specified in a notice under subsection (3)
@@ -6320,7 +6320,7 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 ### 235F Disclosure of enrolment information by private training establishments
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964
+  - **benefit** means jobseeker support under the Social Security Act 1964
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act
   - **specified period** means any period specified in a notice under subsection (3)
@@ -8845,7 +8845,7 @@ Having regard to the provision of continuing education, the Minister may establi
 ### 162 Teachers to take oath of allegiance
 (1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, teachers college, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
 (2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
-(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding $100.
+(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on conviction to a fine not exceeding $100.
 
 ## Part 8 — General provisions
 
