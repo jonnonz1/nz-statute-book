@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -1457,7 +1457,7 @@ In this schedule, unless the context otherwise requires,—
 (1) In relation to an applicant for legal aid, income—
   (a) means the person's total gross income during the 12 months immediately before the application for legal aid, or during such other period of 12 months as the Commissioner considers appropriate in the circumstances; and
   (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1) of the Social Security Act 1964; and
-  (c) includes a benefit payable under Part 1 of the Social Security Act 1964; but does not include—
+  (c) includes a benefit payable under any of Parts 1A to 1P of the Social Security Act 1964; but does not include—
     (i) an orphan's benefit payable under section 28 of that Act; or
     (ii) an unsupported child's benefit payable under section 29 of that Act; or
     (iii) a child disability allowance payable under section 39A of that Act; or
