@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1357,7 +1357,7 @@ Where a specified agency derives or receives information produced by an authoris
     (i) specifying particulars of the discrepancy and of the adverse action that it proposes to take; and
     (ii) stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
   (b) until the expiration of those 5 working days.
-(1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 1964 from immediately suspending a sickness, training, unemployment, independent youth, or emergency benefit, or a job search allowance, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 280 of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice—and the adverse action shall not be taken until the expiration of those 5 working days.
+(1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 1964 from immediately suspending sole parent support, the supported living payment, an emergency benefit, jobseeker support, a young parent payment, or a youth payment, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 280 of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice—and the adverse action shall not be taken until the expiration of those 5 working days.
   (a) specifying particulars of the discrepancy and the suspension of benefit, and any other adverse action the department proposes to take; and
   (b) stating that the individual has 5 working days from the receipt of the notice to show cause why the benefit ought not to have been suspended or why the adverse action should not be taken, or both—
 (1B) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under subparts MA to MF and MZ of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under section 85G of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that—and the other adverse action must not be taken until expiration of those 5 working days.
@@ -1813,7 +1813,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Housing Restructuring and Tenancy Matters Act 1992 | Section 68 |
 | Immigration Act 2009 | Sections 294, 295, 298, 299, and 300 |
 | Motor Vehicle Sales Act 2003 | Sections 120 to 123 |
-| Social Security Act 1964 | Sections 126A and 126AB |
+| Social Security Act 1964 | Sections 126A, 126AB, and 126AC |
 | Social Welfare (Transitional Provisions) Act 1990 | Section 19D(3)(b) |
 | Student Loan Scheme Act 2011 | Section 208 |
 | Tax Administration Act 1994 | Sections 46A, 82, 83, 84, 85, 85A, 85B, 85E, 85G, and 85H |
