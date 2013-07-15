@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-07-15_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -158,7 +158,7 @@ No person is entitled to New Zealand superannuation unless the person—
   (b) New Zealand superannuation at the appropriate rate payable to a person who is single, in any case where—
     (i) that person is not entitled to New Zealand superannuation in his or her own right; but
     (ii) his or her spouse or partner is entitled to New Zealand superannuation and was entitled to make and had made an election under section 6(2) or section 11(2) of the Social Welfare (Transitional Provisions) Act 1990 before 1 October 1991; or
-  (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of an invalid’s benefit payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
+  (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under Part 4 of that Act.
 
 ### 18 Living alone rate of payment for spouses or partners of persons in long-term residential care in hospital or rest home
