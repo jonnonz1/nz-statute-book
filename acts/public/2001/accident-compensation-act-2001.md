@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2807,7 +2807,7 @@ If any person (with the consent of the Commissioner) changes the date of the ann
 (4) The Corporation must refund the excess benefit payment to the department responsible for the administration of the Social Security Act 1964—
   (a) if the Corporation knows that this section applies; or
   (b) if requested to do so by that department.
-(5) For the purposes of this section, an excess benefit payment includes a payment of any part of a married rate of benefit that is paid to the spouse or partner of the person who established the claim to the benefit.
+(5) For the purposes of this section, an excess benefit payment includes a payment of any part of a couple rate of benefit that is paid to the spouse or partner of the person who established the claim to the benefit.
 (6) Any amount that is treated under this section as having been paid in respect of any treatment, service, rehabilitation, related transport, compensation, grant, or allowance is deemed for all purposes to have been so paid.
 
 ### 253 Relationship with social security benefits: reimbursement to Corporation
@@ -4825,11 +4825,11 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) The minimum weekly earnings are—
   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
     (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person under the age of 18 years of invalid's benefit under the Social Security Act 1964; or
+    (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
   (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
     (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person over the age of 18 years of invalid's benefit under the Social Security Act 1964; or
+    (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (4)
 (5)
