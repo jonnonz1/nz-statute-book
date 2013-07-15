@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -78,13 +78,13 @@ _Consolidation as at 2013-07-01_
     (a) means a child whose ongoing daily care is shared substantially equally between 2 persons; but
     (b) does not include a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989
   - **social security benefit** means—and means a person who is in receipt of one of those benefits
-    (a) a domestic purposes benefit granted under section 27B of the Social Security Act 1964:
+    (a) sole parent support granted under section 20D of the Social Security Act 1964:
     (b) an unsupported child's benefit granted under section 29 of the Social Security Act 1964:
     (c) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made after 24 July 1990,—
-      (i) a widow's benefit granted under section 21 of that Act:
-      (ii) an invalid's benefit granted under section 40 of that Act:
-      (iii) an unemployment benefit:
-      (iv) a sickness benefit:
+      (i)
+      (ii) a supported living payment granted under section 40B on the ground of sickness, injury, disability, or total blindness of that Act:
+      (iii) jobseeker support:
+      (iv)
       (v) young parent payment:
     (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
@@ -390,14 +390,14 @@ Where—the liability of the liable parent to pay money towards the support of t
 
 ### 30 Meaning of term living allowance
 (1) For the purposes of this Act, the term living allowance shall have the meaning provided in subsections (2) to (4).
-(2) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross single rate of invalid's benefit in force on 1 January in the immediately preceding child support year.
+(2) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross single rate of supported living payment in force on 1 January in the immediately preceding child support year.
   (a) is not living with another person in a marriage, civil union or de facto relationship; and
   (b) has no dependent children—
-(3) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross married rate of unemployment benefit in force on 1 January in the immediately preceding child support year.
+(3) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross couple rate of jobseeker support in force on 1 January in the immediately preceding child support year.
   (a) is living with another person in a marriage, civil union or de facto relationship; and
   (b) has no dependent children—
 (4) A liable parent who has 1 or more dependent children is entitled to a living allowance for the child support year of an amount equal to the aggregate of—
-  (a) an amount equal to the gross married rate of invalid's benefit in force on 1 January in the immediately preceding child support year; and
+  (a) an amount equal to the gross couple rate of supported living payment in force on 1 January in the immediately preceding child support year; and
   (b) in relation to not more than the eldest 4 such children, the sum of the amounts provided in subsection (4A) or in subsection (4B) (as the case may be).
 (4A) For the child support year commencing on 1 April 2005, the living allowance allowed under subsection (4) is $2,444 in respect of each dependent child.
 (4B) For the child support years commencing on and after 1 April 2007, the living allowance allowed under subsection (4) in respect of each dependent child is the living allowance allowed in respect of each dependent child for the immediately preceding child support year, inflated by the inflation percentage (as defined in section 29(1)) for the child support year in relation to which the living allowance is being calculated.
@@ -409,9 +409,9 @@ Where—the liability of the liable parent to pay money towards the support of t
     (d) who is not financially independent; and
     (e) who is under 19 years of age; and
     (f) who is not living with another person in a marriage, civil union or de facto relationship
-  - **gross married rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (f) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
-  - **gross married rate of unemployment benefit** , in relation to any child support year, means the rate specified in clause (1)(e) of Schedule 9 of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
-  - **gross single rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (b) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007).
+  - **gross couple rate of jobseeker support** , in relation to any child support year, means the rate specified in clause (1)(e) of Schedule 9 of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
+  - **gross couple rate of supported living payment** , in relation to any child support year, means the rate (as specified in clause 1(f) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
+  - **gross single rate of supported living payment** , in relation to any child support year, means the rate (as specified in clause 1(b) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007).
 
 ### 31 Changes of circumstances that determine amount of living allowance
 (1) Where, at any time during any child support year,—the change shall be deemed not to have occurred until the day on which the person notifies the Commissioner thereof.
