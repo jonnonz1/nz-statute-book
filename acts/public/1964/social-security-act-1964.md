@@ -1,11 +1,13 @@
 # Social Security Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-15_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Social Security Act 1964.
 (2) This Act shall come into force on 1 April 1965.
+
+## Part 1 — Purpose, principles, general definitions, examples, and transitional and savings provisions relating to amendments to this Act
 
 ### 1A Purpose
 The purpose of this Act is—
@@ -18,7 +20,10 @@ The purpose of this Act is—
     (i) that where appropriate they should use the resources available to them before seeking financial support under this Act; and
     (ii) any financial support that they are eligible for or already receive, otherwise than under this Act, from publicly funded sources:
   (ca) to provide services to encourage and help young persons to move to education, training, and employment rather than to receiving financial support under this Act:
-  (d) to impose administrative and, where appropriate, work-related requirements on people seeking or receiving financial support under this Act, and, in the case of young persons, seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements.
+  (d) to impose, on the following specified people or young persons, the following specified requirements or obligations:
+    (i) on people seeking or receiving financial support under this Act, administrative and, where appropriate, work-related requirements; and
+    (ii) on young persons who are seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements; and
+    (iii) on people receiving certain financial support under this Act, social obligations relating to the education and primary health care of their dependent children.
 
 ### 1B Principles
 Every person exercising or performing a function, duty or power under this Act must have regard to the following general principles:
@@ -26,8 +31,6 @@ Every person exercising or performing a function, duty or power under this Act m
   (b) the priority for people of working age should be to find and retain work:
   (c) people for whom work may not currently be an appropriate outcome should be assisted to prepare for work in the future and develop employment-focused skills:
   (d) people for whom work is not appropriate should be supported in accordance with this Act.
-
-## Part 1 — Monetary benefits
 
 ### 2 Administration
 [Repealed]
@@ -43,7 +46,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph
   - **beneficiary** means a person who has been granted a benefit; and includes a person in respect of whom a benefit or part of a benefit has been granted
   - **benefit** —
-    (a) means a monetary benefit payable under this Part or Part 2; and
+    (a) means a monetary benefit payable under any of Parts 1A to 1P or Part 2; and
     (aa)
     (b) includes—
       (i) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001 and veterans' pensions payable under Part 6 of the War Pensions Act 1954:
@@ -93,7 +96,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
       (iii) who, under section 362 of that Act, is placed in the charge of the person:
-    (d) for the purposes only of Schedules 3, 6, 9, 16, 17, 18, and 26, does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
+    (d) for the purposes only of Schedules 3, 3A, 6, 9, 16, 17, 18, and 26, does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
     (e) does not include a child in respect of whom a young parent payment is being paid except in relation to that child's parent or step-parent
   - **disability services** has the same meaning as disability support services in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
@@ -112,8 +115,8 @@ Every person exercising or performing a function, duty or power under this Act m
   - **financially independent** , in relation to a person, means—
     (a) in full employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (SR 1998/277); or
-    (c) in receipt of payments under a Government-assisted scheme which the chief executive considers analogous to a benefit; or
-    (d) in receipt of a benefit under this Act
+    (c) in receipt of payments under a Government-assisted scheme which the chief executive considers analogous to a main benefit under this Act; or
+    (d) in receipt of a main benefit under this Act
   - **friendly society** means any friendly society or branch thereof registered under the Friendly Societies and Credit Unions Act 1982
   - **full employment** or , in relation to any person, means—
     (a) employment under a contract of service or apprenticeship which requires the person to work, whether on time or piece rates, no less than an average of 30 hours each week; or
@@ -195,19 +198,19 @@ Every person exercising or performing a function, duty or power under this Act m
   (b) in any other case, $80 a week
   - **Income Test 4** means that the applicable rate of benefit shall be reduced by 35 cents for every $1 of the total income of the beneficiary and his or her spouse or partner which is more than $80 a week
   - **income-tested benefit** means any of the following benefits:
-    (a) an unemployment benefit:
-    (aa) a sickness benefit:
-    (b) a domestic purposes benefit:
+    (a) jobseeker support:
+    (aa)
+    (b) sole parent support:
     (c) an emergency benefit:
     (d)
-    (e) an invalid's benefit:
+    (e) a supported living payment:
     (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension payable—
       (i) at the appropriate rate in clause 1 of Schedule 11 of the War Pensions Act 1954 if the pension is subject to abatement under section 74D of that Act; or
       (ii) at the appropriate rate in clause 2 of Schedule 11 of the War Pensions Act 1954:
     (g) an orphan's benefit:
     (h)
     (i) an unsupported child's benefit:
-    (j) a widow's benefit:
+    (j)
     (k) a youth payment:
     (l) a young parent payment
   - **living with a parent** , in relation to a person,—
@@ -217,7 +220,14 @@ Every person exercising or performing a function, duty or power under this Act m
       (ii) the person, at his or her own expense, provides accommodation for the parent in the home; or
       (iii) the person provides a substantial degree of care to the parent; or
       (iv) the home is a hostel, boardinghouse, or similar lodging, and the person and the parent pay for accommodation in it
-  - **married rate** , in relation to New Zealand superannuation, means the aggregate rate payable to a couple who are married, in a civil union, or in a de facto relationship, both of whom are entitled to receive New Zealand superannuation
+  - **main benefit under this Act** means a benefit that is—
+    (a) sole parent support; or
+    (b) a supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B; or
+    (c) a supported living payment on the ground of caring for a patient requiring care, under section 40D; or
+    (d) jobseeker support; or
+    (e) an emergency benefit; or
+    (f) a youth payment; or
+    (g) a young parent payment
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** , in relation to any provisions of this Act, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
@@ -231,7 +241,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **occupational therapist** means a health practitioner who is, or is deemed to be, registered with the Occupational Therapy Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of occupational therapy
   - **open employment** means employment other than sheltered employment
-  - **ordinarily resident** , in relation to any person, does not include being unlawfully resident in New Zealand
+  - **ordinarily resident in New Zealand** , in relation to any person, does not include being unlawfully resident in New Zealand
   - **overseas epidemic management notice** means a notice under section 61CE
   - **overseas pension** —
     (a) means a benefit, pension, or periodical allowance of a kind described in section 70(1); but
@@ -245,9 +255,9 @@ Every person exercising or performing a function, duty or power under this Act m
   - **part-time work-tested beneficiary** means—
     (a) a person with a youngest dependent child aged 5 or older, but under 14 years, who is—
       (i) a work-tested spouse or partner; or
-      (ii) a work-tested domestic purposes beneficiary; or
-      (iii) a work-tested widow's beneficiary; or
-    (b) a person who is a work-tested sickness beneficiary
+      (ii) a work-tested sole parent support beneficiary; or
+      (iii)
+  (b) a person who is granted jobseeker support on the ground of sickness, injury, or disability and who, under section 88F(4), must comply with the work test
   - **participation allowance** means a participation allowance under regulations made under section 132F
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **pay day** means the day or date from time to time fixed by the chief executive as the date on which an instalment of a benefit falls due for payment
@@ -288,54 +298,46 @@ Every person exercising or performing a function, duty or power under this Act m
   - **temporary employment** means full employment for a period of less than 26 weeks
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **veteran's pension** means a veteran's pension payable under Part 6 of the War Pensions Act 1954
-  - **work preparation exercise** has the meaning given to it in section 60HA(2)
   - **work test** , in relation to a person, means the person's obligations under section 102A(1); and has a corresponding meaning
-  - **work-test married rate** —
-    (a) means, in relation to an unemployment benefit or a sickness benefit, a rate in Schedule 9 that is payable to a person who is married or in a civil union or in a de facto relationship, other than a rate payable if the person's spouse or partner is entitled to a benefit in his or her own right:
-    (b) means, in relation to an invalid's benefit,—
+  - **work-test couple rate** —
+    (a) means, in relation to jobseeker support, a rate in Schedule 9 that is payable to a person who is married or in a civil union or in a de facto relationship, other than a rate payable if the person's spouse or partner is entitled to a benefit in his or her own right:
+    (b) means, in relation to a supported living payment,—
       (i) a rate in Schedule 6 payable to a person who is married or in a civil union or in a de facto relationship, other than a rate payable if the person's spouse or partner is entitled to a benefit in his or her own right; and
-      (ii) includes the rate payable under section 42(2) to the spouse or partner of a person receiving long-term residential care in a hospital or rest home:
+      (ii) includes the rate payable under section 40I(5) to the spouse or partner of a person receiving long-term residential care in a hospital or rest home:
     (c) means, in relation to an emergency benefit,—
       (i) a rate of the benefit payable to a person that includes a payment for the person's spouse or partner; and
       (ii) includes an emergency benefit paid to the spouse or partner of a resident assessed as requiring care (as defined in section 136) under regulations made under section 155
   - **work-tested beneficiary** means a person—
-    (a) who is granted an unemployment benefit; or
+    (a) who is granted jobseeker support (other than jobseeker support on the ground of sickness, injury, or disability); or
+    (aa) who is granted jobseeker support on the ground of sickness, injury, or disability, and who, under section 88F(4), must comply with the work test; or
     (b) who is—
       (i) a work-tested spouse or partner; or
-      (ii) a work-tested domestic purposes beneficiary; or
-      (iii) a work-tested widow's beneficiary; or
-      (iv) a work-tested sickness beneficiary
+      (ii) a work-tested sole parent support beneficiary; or
+      (iii)
+      (iv)
   - **work-tested benefit** —
-    (a) except in relation to a work-tested domestic purposes beneficiary, a work-tested sickness beneficiary, or a work-tested widow's beneficiary, means an unemployment benefit; and
-    (b) in relation to a work-tested spouse or partner, includes a sickness benefit, an emergency benefit, and an invalid's benefit; and
-    (c) in relation to a work-tested domestic purposes beneficiary, means a domestic purposes benefit under section 27B or 27C; and
-    (d) in relation to a work-tested sickness beneficiary, means a sickness benefit; and
-    (e) in relation to a work-tested widow's beneficiary, means a widow's benefit
-  - **work-tested domestic purposes beneficiary** means a person who has been granted a domestic purposes benefit under section 27B or 27C; and—
-    (a) who has no dependent children; or
-    (b) whose youngest dependent child—
-      (i) is aged 5 years or older, but under 18 years; or
-      (ii) is aged 18 years or older, and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
-  - **work-tested sickness beneficiary** means a person granted a sickness benefit who is required under section 54DA(1) to comply with the work test
+    (a) except in relation to a work-tested sole parent support beneficiary or a beneficiary receiving jobseeker support on the ground of sickness, injury, or disability who is not, under section 88F(4), required to comply with the work test, means jobseeker support; and
+    (b) in relation to a work-tested spouse or partner, includes an emergency benefit and a supported living payment; and
+    (c) in relation to a work-tested sole parent support beneficiary, means sole parent support under section 20D
+    (d)
+    (e)
+  - **work-tested sole parent support beneficiary** means a person—
+    (a) who has been granted sole parent support under section 20D; and
+    (b) whose youngest dependent child is aged 5 years or older
   - **work-tested spouse or partner** means a person—
     (a) who—
       (i) has no dependent child under 5 years (or has no dependent child at all); and
       (ii) is not subject to obligations under section 171; and
       (iii) has not been granted an exemption from the work test; and
     (b) who—
-      (i) is the spouse or partner of a person granted an unemployment benefit, a sickness benefit, or an invalid's benefit, (being, in each case, a benefit granted at a work-test married rate); or
+      (i) is the spouse or partner of a person granted jobseeker support or a supported living payment, (being, in each case, a benefit granted at a work-test couple rate); or
       (ii) both—
-        (A) is the spouse or partner of a person granted an emergency benefit at a work-tested married rate; and
+        (A) is the spouse or partner of a person granted an emergency benefit at a work-test couple rate; and
         (B) has under section 61A(1A) been required by the chief executive to comply with the work test; or
       (iii) is—
         (A) the spouse or partner of a person who is receiving long-term residential care in a hospital or rest home; and
         (B) aged under 60 years; and
-        (C) in receipt of an invalid's benefit under section 42(2) or an emergency benefit under regulations under section 155
-  - **work-tested widow's beneficiary** means a person who has been granted a widow's benefit; and—
-    (a) who has no dependent children; or
-    (b) whose youngest dependent child—
-      (i) is aged 5 years or older, but under 18 years; or
-      (ii) is aged 18 years or older, and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
+        (C) in receipt of a supported living payment under section 40I(5) or an emergency benefit under regulations under section 155
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (aa) the day observed as the anniversary of the appropriate province; and
@@ -362,20 +364,32 @@ Every person exercising or performing a function, duty or power under this Act m
   (e) whether the payment or credit or service is required to be made or provided to any other person and, if so, the relationship between them:
   (f) whether the person has assigned his or her right to receive the payment or credit or service:
   (g) any other matters that the chief executive considers, in the circumstances of the particular case, to be relevant.
-(5) For the avoidance of doubt, a dependent child of a person granted a benefit at a work-test married rate is also a dependent child of that person's spouse or partner for the purposes of the definition of the term work-tested spouse or partner in subsection (1).
+(5) For the avoidance of doubt, a dependent child of a person granted a benefit at a work-test couple rate is also a dependent child of that person's spouse or partner for the purposes of the definition of the term work-tested spouse or partner in subsection (1).
 (6) The definition of income in subsection (1) is at any time subject to any rules then in force under section 132H.
 
 ### 3A Delegation of powers by Minister
 [Repealed]
 
-**Administration**
+### 3B Status of examples
+(1) An example used in an enactment in or made under this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
+(2) If an example and a provision to which it relates are inconsistent, the provision prevails.
+
+### 3C Transitional and savings provisions relating to amendments to this Act
+Schedule 32 contains transitional and savings provisions that affect this Act’s other provisions as from time to time amended, repealed, or repealed and replaced.
 
 ### 4 Social Security Department
 [Repealed]
 
+## Part 1A — Administration: Ministerial directions, reviews, and appeals
+
+**Ministerial directions**
+
 ### 5 Chief executive to comply with directions
 (1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
 (2) As soon as practicable after giving a direction under subsection (1), the Minister must publish in the Gazette and present to the House of Representatives a copy of the direction.
+(3) A direction given under this section for the purposes of all or any of sections 60RAB(1)(b), 125AA(5), and 132AD(4)(c) (other than a direction of that kind that relates exclusively to an individual)—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
+  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 6 Social Security Commission
 [Repealed]
@@ -391,6 +405,8 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 10 Delegation of Director-General's powers
 [Repealed]
+
+**Reviews by benefits review committee**
 
 ### 10A Review of decisions
 (1) This section applies to—
@@ -419,6 +435,44 @@ Every person exercising or performing a function, duty or power under this Act m
 (9) On reaching a decision on any review, the review committee shall give written notification of its decision to the applicant for review and shall include in the notification—
   (a) the reasons for the review committee's decision; and
   (b) advice that the applicant has a right of appeal against the decision to the Social Security Appeal Authority.
+
+**Appeals to medical board**
+
+### 10B Right of appeal on medical grounds
+(1) Any applicant or beneficiary affected may appeal to the Board against a decision of the chief executive that is—
+  (a) a decision that a claim for a child disability allowance is declined, or that any such allowance is cancelled, in either case on the ground that the child is not a child with a serious disability (within the meaning of section 39A(1) and (2)); or
+  (b) a decision that a claim for a supported living payment on the ground of sickness, injury, disability, or total blindness is declined, or that any such benefit is cancelled, in either case on medical grounds; or
+  (c) a decision under section 60Q(1)(bb) that a person in receipt of a supported living payment on the ground of sickness, injury, disability, or total blindness has the capacity to comply with obligations under section 60Q(3); or
+  (d) a decision under section 60Q(1)(bc) that a person in receipt of a supported living payment on the ground of caring for a patient requiring care has the capacity to comply with obligations under section 60Q(3); or
+  (e) a decision that a claim for jobseeker support on the ground of sickness, injury, or disability is declined on medical grounds or on grounds relating to a person's capacity for work, or that a person's jobseeker support on the ground of sickness, injury, or disability is cancelled on medical grounds or on grounds relating to the person's capacity for work; or
+  (f) a determination under section 88F(2) that a jobseeker support beneficiary on the ground of sickness, injury, or disability has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work, and so is required to comply with the work test on and after a date specified in a notice under section 88F(4); or
+  (g) a confirmation, amendment, revocation, or replacement under section 88F(6) of a determination, and that results in a determination of the kind specified in paragraph (f) of this subsection; or
+  (h) a decision on medical grounds under section 88I(2) to decline an application under section 88H(2) by a beneficiary granted jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability) for deferral of all or any of the beneficiary's work test obligations; or
+  (i) a decision on medical grounds under section 88I(7) to revoke a deferral granted under section 88I of all or any work test obligations of a beneficiary granted—
+    (i) jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability); or
+    (ii) jobseeker support granted on the ground of sickness, injury, or disability; or
+  (j) any of the following made in reliance on any work ability assessment by a health practitioner under section 100B:
+    (i) a determination whether the person assessed is entitled to a benefit and, if so, what kind of benefit:
+    (ii) a determination whether the person assessed, being a person in receipt of jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability), is entitled on an application under section 88H, or under section 88I(4), to deferral of work test obligations under section 88I:
+    (iii) a determination whether the person assessed, being a person in receipt of jobseeker support on the ground of sickness, injury, or disability, has for the purposes of section 88F(2) the capacity to seek, undertake, and be available for part-time work:
+    (iv) a determination whether the person assessed, being a person who is subject to work test obligations or work preparation obligations under section 60Q, has the capacity to meet those obligations; or
+  (k) a decision under section 116C(2)(a) to the effect that a beneficiary does not have a good and sufficient reason, on the ground that the beneficiary is addicted to, or dependent on, controlled drugs, for either or both:
+    (i) not complying with a drug testing obligation under section 102B(1):
+    (ii) failing to apply for suitable employment that requires candidates to undertake drug tests; or
+  (l) a decision to decline a claim for a veteran's pension under section 70 of the War Pensions Act 1954, or to cancel any such pension, in either case on the ground of the applicant's or beneficiary's mental or physical infirmity.
+(2) An appeal under this section must be made within—
+  (a) 3 months after the decision has been communicated to that person; or
+  (b) any further period the Board may (if it considers there is good reason for the delay) allow on application made before or after the end of that 3-month period.
+(3) The chief executive is bound by the Board's decision on an appeal under this section.
+(4) The Board is to comprise 3 members to be appointed by the chief executive for the particular purpose, being medical practitioners, rehabilitation professionals (as defined in subsection (5)), or other persons having appropriate expertise in the fields of vocational training or vocational support for persons with sickness, injury, or disability.
+(5) Rehabilitation professional, in subsection (4), means a person who is—
+  (a) a person professionally engaged in the rehabilitation of persons from sickness or accident or with disabilities; or
+  (b) a nurse; or
+  (c) an occupational therapist; or
+  (d) a physiotherapist; or
+  (e) a psychologist.
+
+**Information and information-matching**
 
 ### 11 Power to obtain information
 (1) Subject to this section and to the code of conduct established under section 11B, the chief executive, for any purpose specified in subsection (2), may by notice in writing require any person (including any person who is an officer or employee in the service of the Crown in a government department or public body (other than as an officer of a court), in his or her official capacity,)—within a period (being not less than 5 working days after the notice is given) and in the manner specified in the notice, and without charge.
@@ -508,6 +562,8 @@ Every person exercising or performing a function, duty or power under this Act m
   (a) cause to suspect that the beneficiary has committed an offence under this Act or has obtained by fraud any payment or credit or advance under this Act:
   (b) the fact that the beneficiary or a spouse or partner of that beneficiary has failed within a reasonable time, or refused, to provide any information or produce any document in accordance with a request or requirement made to that person in accordance with subsection (1)(a).
 
+**Application process, pre-benefit activities, and investigation of claims for and grants of benefits**
+
 ### 11D Application process for benefits
 (1) A benefit must not be granted to an applicant unless the requirement stated in subsection (2) has been complied with.
 (2) The requirement referred to in subsection (1) is that the department has received—
@@ -522,13 +578,73 @@ Every person exercising or performing a function, duty or power under this Act m
     (i) already holds the information concerned; or
     (ii) already holds enough other information to determine the matter for which the information concerned is needed; and
   (b) may waive the requirement to complete an application form if satisfied that the department already holds a form relating to an application that has lapsed under subsection (8).
-(6) Subsection (1) is subject to subsection (5) and to section 81(3).
+(6) Subsection (1) is subject to subsection (5) and to section 81(3) and (4).
 (7) If the requirement stated in subsection (2) has been complied with, an application for a benefit must for the purposes of sections 80 and 80BA be treated as having been received on the date of first contact.
 (8) An application for a benefit lapses at the close of the period of 20 working days after the date of first contact (as from time to time extended under subsection (10)) unless, within the period, the requirement stated in subsection (2) has been complied with.
-(9) Subsection (8) does not apply to an application for a benefit made by a person resident in an overseas country to the competent authority of that country pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+(9) Subsection (8) does not apply to an application for a benefit made by a person ordinarily resident in an overseas country to the competent authority of that country pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990.
 (10) Before or after the expiration of the period referred to in subsection (8), the chief executive may extend that period, if in any particular case he or she thinks that there is a good and sufficient reason for non-compliance with the requirement stated in subsection (2) within that period.
 (11) The combined effect of subsections (1) and (8) is that an applicant whose application for a benefit has lapsed cannot become entitled to the benefit without applying for it again and establishing his or her eligibility to receive it.
-(12) This section is subject to section 96A.
+(12) This section is subject to sections 11E, 11G, and 11H.
+
+### 11E Pre-benefit activities: requirements
+(1) This section applies to a person if the person is—
+  (a) a person who contacts the department on or after 15 July 2013 requesting financial assistance under this Act, if the chief executive considers that the appropriate financial assistance would be a benefit that is—
+    (i) jobseeker support; or
+    (ii) sole parent support; or
+    (iii) an emergency benefit; or
+  (b) the spouse or partner (if, and only if, he or she is a spouse or partner who is not receiving or applying for a main benefit under this Act (as defined in section 3(1)), New Zealand superannuation, or a veteran's pension, in his or her own right) of a person who contacts the department on or after 15 July 2013 requesting financial assistance under this Act, if the chief executive considers that the appropriate financial assistance would be a benefit that is—
+    (i) jobseeker support; or
+    (ii) a supported living payment on the ground of sickness, injury, disability, or total blindness; or
+    (iii) an emergency benefit.
+(2) The chief executive may (for the purpose stated in section 1A(a)(ii)) require a person to whom this section applies (unless the chief executive has determined that the person has not the capacity to seek, undertake, and be available for part-time work) to do any or all of the following:
+  (a) undertake 1 or more stated pre-benefit activities:
+  (b) at any time before the benefit to which subsection (1)(a) or (b) applies commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
+  (c) at any time before the benefit to which subsection (1)(a) or (b) applies commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
+(3) Pre-benefit activity, in this section and sections 11F to 11H, means an activity that is not an activity in the community (as defined in section 3(1)), but is all or any of the following:
+  (a) attending and participating in an employment related seminar provided by the department or by any other person approved by the chief executive for the purpose:
+  (b) attending and participating in employment related training approved by the chief executive for the purpose:
+  (c) attending and participating in any interview with an officer of the department:
+  (d) completing any self-assessment or planning required by the chief executive:
+  (e) any other activity stated in regulations under section 132J.
+(4) Suitable employment, for the purposes of subsection (2),—
+  (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of subsection (1)(a)(ii) or (b), means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
+  (b) in relation to a person for whom the chief executive considers that the appropriate financial assistance under this Act would be jobseeker support on the ground of sickness, injury, or disability, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
+  (c) in relation to any other person, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a work-tested beneficiary.
+(5) A requirement under subsection (2) may be oral or written and, in the case only of a requirement under subsection (2)(a), may be revoked orally or in writing in accordance with subsection (7).
+(6) A pre-benefit activity stated under subsection (2)(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
+(7) The chief executive may revoke a requirement that the person undertake a pre-benefit activity under subsection (2)(a) if, and only if, the chief executive considers the requirement is no longer reasonable.
+
+### 11F Pre-benefit activities: department must explain requirements
+The chief executive must take reasonable and appropriate steps to make every person on whom any requirements are placed under section 11E(2) aware of the following:
+  (a) the person's obligations in relation to the requirements; and
+  (b) the consequences of failure to comply with the requirements; and
+  (c) when a requirement is to be, or has been, revoked, and when the revocation takes, or took, effect.
+
+### 11G Pre-benefit activities: consequences of non-compliance by applicant
+(1) In this section,—
+  - **applicant** means a person to whom section 11E(1)(a) applies
+  - **specified benefit** means the benefit to which section 11E(1)(a) applies.
+(2) The chief executive is not required to investigate under section 12 a claim for the specified benefit made by the applicant unless satisfied that the applicant has undertaken any required pre-benefit activities.
+(3) Subsection (2) applies whether or not the applicant has completed the form of application for the specified benefit.
+(4) If the applicant fails to undertake any required pre-benefit activities within 20 working days after the date of first contact, any application for the specified benefit the applicant has made lapses.
+(5) Subsection (4) overrides section 11D(7).
+(6) This subsection applies to an applicant if the chief executive considers that the applicant has, without a good and sufficient reason, failed to comply with a requirement under section 11E(2)(b) or (c).
+(7) If subsection (6) applies to an applicant, the chief executive must, as the case requires,—
+  (a) refuse to grant the applicant the specified benefit; or
+  (b) terminate any grant of the specified benefit already made to the applicant.
+
+### 11H Pre-benefit activities: consequences of non-compliance by applicant's spouse or partner
+(1) In this section,—
+  - **applicant** means a person who contacts the department in accordance with section 11E(1)(b)
+  - **applicant's spouse or partner** means an applicant's spouse or partner to whom section 11E(1)(b) applies
+  - **specified benefit** means the benefit to which section 11E(1)(b) applies.
+(2) This subsection applies to an applicant's spouse or partner if the chief executive considers that the applicant's spouse or partner—
+  (a) has failed to undertake a required pre-benefit activity within 20 working days after the date of the applicant's first contact; or
+  (b) has failed without a good and sufficient reason to comply with a requirement under section 11E(2)(b) or (c).
+(3) If subsection (2) applies to an applicant's spouse or partner, the applicant receives the following (if all or any of them is granted) at the following rate or rates only:
+  (a) the specified benefit—half of the rate of that benefit payable to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right:
+  (b) the accommodation supplement, temporary additional support, or both (if any), to which the applicant and the applicant's spouse or partner would apart from this subsection be entitled—half of the otherwise applicable rate or rates.
+(4) Subsection (3) overrides other provisions of this Act but does not preclude a review under section 81.
 
 ### 12 Investigation of claims and grant of benefits
 (1) Every claim for a benefit shall be investigated by the chief executive or by an officer of the department acting with the authority of the chief executive, and all benefits shall (subject to any delegation of the chief executive's powers under this Act) be granted by the chief executive.
@@ -581,24 +697,28 @@ The Authority shall have a seal, which shall be judicially noticed by all courts
 (1) The functions of the Appeal Authority shall be to sit as a judicial authority for the determination of appeals in accordance with section 12J of this Act and section 16A of the War Pensions Act 1954.
 (2) In hearing and determining any appeal, the Appeal Authority shall have all the powers, duties, functions, and discretions that the chief executive had in respect of the same matter.
 
+**Appeals to Appeal Authority**
+
 ### 12J Rights of appeal
 (1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—that has been confirmed or varied by a benefits review committee under section 10A, or that was made by the chief executive other than pursuant to a delegation.
-  (a) any of the provisions of Part 1, Part 2, Part 4, or Part 5; or
+  (a) any of the provisions of Parts 1A to 1P, Part 2, Part 4, or Part 5; or
   (b) section 124(1)(d); or
   (c) Part 1 of the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954; or
   (ca) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
   (d) the Family Benefits (Home Ownership) Act 1964; or
   (e) any regulations in force under section 132A or section 155—
+(1AA) No appeal lies under subsection (1)(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)(h) or (i) to the medical board.
+(1AB) No appeal lies under subsection (1)(a) against a decision under section 116C(2)(a) against which an appeal lies under section 10B(1)(g) to the medical board.
 (1A) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision—
   (a) that was made in relation to that person by the chief executive under the power conferred by section 19D(1)(a) of the Social Welfare (Transitional Provisions) Act 1990; and
   (b) that has been confirmed or varied by a benefits review committee under section 10A or that was made by the chief executive other than pursuant to a delegation.
 (1B) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
 (2) The Appeal Authority shall not have the authority to hear and determine any appeal on medical grounds or on grounds relating to incapacity, or capacity for work against any decision or determination of the chief executive in respect of—
-  (a) an invalid's benefit; or
+  (a) a supported living payment on the ground of sickness, injury, disability, or total blindness; or
   (b) a child disability allowance under section 39A; or
   (c)
   (d) a veteran's pension under section 70 of the War Pensions Act 1954; or
-  (e) a sickness benefit.
+  (e) jobseeker support on the ground of sickness, injury, or disability.
 (3)
 (4)
 
@@ -664,6 +784,8 @@ Where an appeal is allowed in whole or in part the Authority, if it considers it
 ### 12P Notice of decision
 On the determination of any appeal, the Secretary shall send to the chief executive and to the appellant a memorandum of the Authority's decision and the reasons for the decision, and the chief executive shall forthwith take all necessary steps to carry into effect the decision of the Authority.
 
+**Appeals to courts**
+
 ### 12Q Appeals to High Court on questions of law only
 (1) Where any party to any proceedings before the Authority is dissatisfied with any determination of the Authority as being erroneous in point of law, he may appeal to the High Court by way of case stated for the opinion of the court on a question of law only.
 (2)
@@ -682,8 +804,6 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
 ### 12S Appeals to Supreme Court
 (1) Any person affected by a determination of the High Court made under section 12Q, or a determination of the Court of Appeal made under section 12R, may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
 (2) Subsection (1) is by way of explanation only.
-
-**National superannuation**
 
 ### 13 National superannuation
 [Repealed]
@@ -709,47 +829,91 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
 ### 20 Additional benefit for South African War veterans
 [Repealed]
 
+## Part 1B — Sole parent support
+
+### 20A Sole parent support: meaning of applicant
+Applicant, in this section and sections 20B to 20H and Schedule 3A, means a person who is any of the following:
+  (a) a person who is the mother or father of 1 or more dependent children and who is living apart from, and has lost the support of or is being inadequately maintained by, the person's spouse or partner:
+  (b) a single person who is the mother or father of 1 or more dependent children:
+  (c) a person whose marriage or civil union has been dissolved, and who is the mother or father of 1 or more dependent children:
+  (d) a person who is the mother or father of 1 or more dependent children and who has lost the regular support of the person's spouse or partner because that spouse or partner is subject to a sentence of imprisonment and is—
+    (i) serving the sentence in a prison (as defined in section 3(1) of the Corrections Act 2004); or
+    (ii) subject to release conditions (as defined in section 4(1) of the Parole Act 2002) that prevent him or her undertaking employment:
+  (e) a person who is the mother or father of 1 or more dependent children and who has lost the regular support of the person's spouse or partner because that spouse or partner is subject to a sentence of supervision, intensive supervision, or home detention and is subject to conditions (including post-detention conditions of a sentence of home detention) that prevent that spouse or partner from undertaking employment:
+  (f) a person who is the mother or father of 1 or more dependent children and whose spouse or partner has died.
+
+### 20B Sole parent support: when dependent child may be regarded as applicant's child
+The chief executive may, in his or her discretion, regard a dependent child as being a child of an applicant, and the applicant as being the mother or father of the child, for the purposes of sections 20A and 20C to 20H and Schedule 3A, if—
+  (a) the child—
+    (i) is being maintained by the applicant; and
+    (ii) was at any time maintained by the applicant's spouse or partner; or
+  (b) neither an orphan's benefit nor an unsupported child's benefit is payable in respect of the child, but—
+    (i) section 28(a) is complied with for each of the child's natural or adoptive parents; or
+    (ii) section 29(b) is complied with for care for the child and full provision for the child's support; or
+  (c) the child's parents are unwilling to support the child because of circumstances the chief executive considers exceptional.
+
+### 20C Sole parent support: split custody
+(1) This section applies to the parents of 2 or more dependent children if—
+  (a) the parents are living apart; and
+  (b) each parent is the principal caregiver of 1 or more of the children; and
+  (c) but for this section, both parents would be entitled to sole parent support.
+(2) Only 1 of the 2 parents is entitled to sole parent support, and the parent who is entitled to sole parent support must be—
+  (a) the parent already receiving sole parent support in respect of any of the children; or
+  (b) the parent who the chief executive considers was the principal caregiver in respect of the children immediately before the parents began living apart, if no parent is already receiving sole parent support in respect of any of the children; or
+  (c) the parent who is the principal caregiver in respect of the youngest child, if neither parent was the principal caregiver in respect of the children before they began living apart, or the chief executive is unable to ascertain which parent was the principal caregiver in respect of the children immediately before they began living apart.
+(3) This section does not apply if each parent has become the principal caregiver in respect of at least 1 child under 1 or more orders—
+  (a) made by a court of competent jurisdiction; and
+  (b) about the role of providing day-to-day care for children.
+(4) Child, in this section, means a dependent child of the parents—
+  (a) born of their relationship; or
+  (b) adopted by the parents or by one of the parents during their marriage or civil union or de facto relationship.
+
+### 20D Sole parent support: standard eligibility requirements
+(1) An applicant is entitled to sole parent support if the chief executive is satisfied that the applicant—
+  (a) meets the residential requirements in section 74AA; and
+  (b) is aged 19 years or over; and
+  (c) is caring for a dependent child who is, or dependent children 1 or more of whom is or are, aged under 14 years; and
+  (d) is either—
+    (i) a person in section 20A(a), (b), (c), or (f) who is not living together with his or her spouse or partner (if any), or the other parent (if any) of that dependent child or of all or any of those dependent children; or
+    (ii) a person in section 20A(d) or (e).
+(2) Subsection (1) is subject to the other provisions of this Act.
+
+### 20E Sole parent support: obligations on beneficiaries
+A person who has been granted and receives sole parent support under section 20D must—
+  (a) comply with any obligation arising under section 60Q; and
+  (b) if he or she is a person to whom section 60RA applies, comply with the person's social obligations under section 60RA(3); and
+  (c) if he or she is a work-tested sole parent support beneficiary, comply with the work test.
+
+### 20F Sole parent support: payment
+(1) Sole parent support commences in accordance with section 80.
+(2) Sole parent support must be paid in weekly instalments, in accordance with section 82.
+(3) Payment of sole parent support may be suspended or cancelled in accordance with sections 80 to 82.
+(4) Subsection (3) does not limit any other provision in this Act.
+
+### 20G Sole parent support: rate
+(1) Sole parent support must be paid to a person granted that benefit at the rate in Schedule 3A.
+(2) Subsection (1) is subject to the other provisions of this Act.
+
+### 20H Sole parent support: expiry, and replacement with jobseeker support, when youngest dependent child 14
+(1) An applicant's sole parent support under section 20D expires on the date that the applicant's youngest dependent child turns 14 years old.
+(2) But the applicant's sole parent support is replaced with jobseeker support under section 88B that—
+  (a) commences on that date; and
+  (b) is deemed to be granted to him or her under section 88B as if he or she had applied for it.
+(3) However, if the chief executive believes on reasonable grounds that the applicant would not be eligible for jobseeker support on the date that the applicant’s youngest dependent child turns 14 years old,—
+  (a) the applicant is not transferred by subsection (2) to jobseeker support; and
+  (b) the chief executive must instead invite the applicant to apply for jobseeker support in accordance with section 11D.
+(4) Obligations or exemptions that immediately before the expiry under this section of the applicant's sole parent support under section 20D apply to the applicant continue after that expiry in respect of jobseeker support to which the applicant is transferred by subsection (2), but only if those obligations or exemptions are all or any of the following:
+  (a) obligations under sections 60GAG, 60RA, 60Q(2), 100B, 102, and 102A:
+  (b) exemptions under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support).
+(5) This section does not preclude a review under section 81 of whether the applicant satisfies the conditions of entitlement for jobseeker support under section 88B.
+
 **Widows' benefits**
 
 ### 21 Widows' benefits
-(1) Subject to the provisions of this Act,—shall be entitled to receive a widow's benefit under this Act.
-  (a) every widow who is aged 19 years or over and is the mother of 1 or more dependent children; and
-  (b) every widow (not being a widow to whom paragraph (a) applies) who satisfies the following conditions, namely:
-    (i) that she has had 1 or more children; and
-    (ii) that the duration of her marriage (or, if she was married more than once, the aggregate of the periods of the duration of her marriages) was not less than 15 years, or, in the alternative, that the aggregate of the periods of the duration of her marriage or marriages and any subsequent period during which she had the care and control of at least 1 of her children under 16 years of age was not less than 15 years; and
-  (c) every widow who, on the expiration of not less than 5 years after the date of her marriage, became a widow after she had attained the age of 50 years; and
-  (d) every widow (not being a widow to whom paragraph (c) applies) who satisfies all of the following conditions, namely:
-    (i) that she is not less than 50 years of age;
-    (ii) that she became a widow after she had attained the age of 40 years;
-    (iii) that the duration of her marriage (or, if she was married more than once, the aggregate of the periods of the duration of her marriages) was not less than 10 years; and
-    (iv) that not less than 15 years has elapsed since the date of her marriage or, if she was married more than once, the date of her first marriage,—
-(2) An applicant for a widow's benefit must meet the residential requirements in section 74AA.
-(2A) A woman who receives a benefit under this section must—
-  (a) comply with any obligation arising under section 60Q; and
-  (b) if she is a work-tested widow's beneficiary, comply with the work test.
-(2B)
-(2C)
-(2D)
-(3)
-(4)
-(5)
-(6) For the purposes of this section, the chief executive may, in the chief executive's discretion, regard a dependent child as being a child of an applicant, and the applicant as being the mother of the child, if—
-  (a) the child—
-    (i) is being maintained by the applicant; and
-    (ii) was at any time maintained by the applicant's husband; or
-  (b) section 28(a) or 29(b) applies to the child; or
-  (c) the child's parents are unwilling to support the child because of circumstances the chief executive considers exceptional.
-(7) For the purpose of determining eligibility for a benefit under this section, a woman whose civil union partner or de facto partner has died is treated in the same way as a widow is treated, and her civil union partner or de facto partner is treated in the same way as a husband of a widow is treated.
-(8) For the purpose of this section,—
-  (a) a reference in this section to a marriage must be read as a reference to a marriage or civil union or de facto relationship; and
-  (b) a reference in this section to being married must be read as a reference to being married or in a civil union or in a de facto relationship; and
-  (c) a reference in this section to a date of a marriage must be read as a reference to the date of a marriage or of entering into a civil union or a de facto relationship.
+[Repealed]
 
 ### 21A Widows' benefits: pre-benefit activities
-(1) This subsection applies to a person if—
-  (a) she contacts the department requesting financial assistance after the commencement of Part 3 of the Social Security (Youth Support and Work Focus) Amendment Act 2012; and
-  (b) the chief executive considers that the appropriate financial assistance for her would be a widow's benefit.
-(2) Section 96A(2) to (13) applies to a person to whom subsection (1) applies, but as if every reference to an unemployment benefit were a reference to a widow's benefit.
+[Repealed]
 
 ### 22 Benefits to wives of mental patients
 [Repealed]
@@ -758,9 +922,7 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
 [Repealed]
 
 ### 24 Rates of widows' benefits
-(1) Subject to the provisions of this Act, the rate of the widow's benefit payable to any beneficiary shall be the appropriate rate specified in Schedule 3.
-(2)
-(3)
+[Repealed]
 
 ### 25 Special provisions as to benefits to deserted wives
 [Repealed]
@@ -774,89 +936,22 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
 **Domestic purposes benefits**
 
 ### 27A Interpretation
-(1)
-(2)
-(3) For the purposes of sections 27B to 27D and Schedule 16, the chief executive may, in the chief executive's discretion, regard a dependent child as being a child of an applicant, and the applicant as being the mother or father of the child, if—
-  (a) the child—
-    (i) is being maintained by the applicant; and
-    (ii) was at any time maintained by the applicant's spouse or partner; or
-  (b) section 28(a) or 29(b) applies to the child; or
-  (c) the child's parents are unwilling to support the child because of circumstances the chief executive considers exceptional.
+[Repealed]
 
 ### 27B Domestic purposes benefits for solo parents
-(1) In this section the term applicant means—
-  (a) a woman who is the mother of 1 or more dependent children and who is living apart from, and has lost the support of or is being inadequately maintained by, her spouse or partner:
-  (b) a single woman who is the mother of 1 or more dependent children:
-  (c) a woman whose marriage or civil union has been dissolved, and who is the mother of 1 or more dependent children:
-  (d)
-  (e) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of imprisonment and is—
-    (i) serving the sentence in a prison; or
-    (ii) subject to release conditions (as that term is defined in section 4(1) of the Parole Act 2002) that prevent him or her undertaking employment:
-    (iii) serving the sentence on home detention, subject to detention conditions that prevent him or her undertaking employment:
-  (ea) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of supervision, intensive supervision, or home detention and is subject to conditions (including post-detention conditions of a sentence of home detention) that prevent him or her from undertaking employment:
-  (f) a man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother.
-(2) Subject to the provisions of this Act, an applicant shall be entitled to receive a domestic purposes benefit if the chief executive is satisfied that—
-  (aa) the applicant meets the residential requirements in section 74AA; and
-  (a) the applicant is aged 19 years or over; and
-  (b) the applicant is caring for a dependent child or children; and
-  (c) the applicant is not living together with his or her spouse or partner or with the other parent of the child, as the case may be.
-(2A) A person who receives a benefit under this section must—
-  (a) comply with all obligations arising under section 60Q; or
-  (b) comply with the work test if that person is a work-tested domestic purposes beneficiary.
-(2B)
-(2C)
-(3)
-(4)
-(5)
-(6)
+[Repealed]
 
 ### 27BA Split custody
-(1) If the parents of 2 or more dependent children—only 1 parent shall be entitled to a domestic purposes benefit in respect of the children.
-  (a) are living apart; and
-  (b) each parent is the principal caregiver of 1 or more of the children; and
-  (c) both parents are otherwise entitled to a domestic purposes benefit—
-(2) The parent entitled to a domestic purposes benefit under subsection (1) shall be—
-  (a) the parent already receiving a domestic purposes benefit in respect of any of the children; or
-  (b) the parent whom the chief executive considers was the principal caregiver in respect of the children immediately before the parents began living apart, if no parent is already receiving a domestic purposes benefit in respect of any of the children; or
-  (c) the parent who is the principal caregiver in respect of the youngest child, if neither parent was the principal caregiver in respect of the children before they began living apart, or the chief executive is unable to ascertain which parent was the principal caregiver in respect of the children immediately before they began living apart.
-(3) This section shall not apply where each parent has become the principal caregiver in respect of at least 1 child under 1 or more orders made by a court of competent jurisdiction, and about the role of providing day-to-day care for children.
-(4) This section shall apply only to a person who applies for a domestic purposes benefit on or after 1 October 1991, or where the department was not notified before 1 October 1991 that each parent was the principal caregiver in respect of 1 or more of the children.
-(5) In this section, child means a dependent child of the parents—
-  (a) born of their relationship; or
-  (b) adopted by the parents or by one of the parents during their marriage or civil union or de facto relationship.
+[Repealed]
 
 ### 27C Domestic purposes benefits for women alone
-(1) In this section—
-  - **marriage** includes a relationship in the nature of marriage although the 2 parties to the relationship are not legally married
-  - **relative** in relation to any person () means any of the following:
-    (a) a parent or step-parent of person A:
-    (b) a child of person A or a stepchild of person A who is over the age of 16 years:
-    (c) a grandparent or great grandparent of person A:
-    (d) a sister or brother or stepsister or stepbrother of person A:
-    (f) an aunt or uncle of person A:
-    (g) a child of a brother or sister of person A, or of a person with whom a brother or sister of person A is in a marriage or civil union or de facto relationship:
-    (h) a child of an uncle or aunt of person A, or of a person with whom an uncle or aunt of the person is in a marriage or civil union or de facto relationship
-  - **woman alone** means a woman who has never been married, in a civil union, or in a de facto relationship, or who has lost the support of her spouse or partner.
-(2) The Minister may from time to time, by notice in the Gazette, amend the definition of the term relative in subsection (1) by—and every such notice shall have effect according to its tenor.
-  (a) inserting any other class of relative:
-  (b) omitting any class of relative—
-(3) Subject to the provisions of this Act, a woman alone with no dependent children shall be entitled to receive a domestic purposes benefit if—
-  (a) she has had the care and control of 1 or more dependent children for not less than 15 years and ceased to have the care and control of such child or children after she had attained the age of 50 years; or
-  (b) she has had 1 or more children and the aggregate of the periods during which she was married or in a civil union or in a de facto relationship and any subsequent period during which she had the care and control of at least one of her dependent children was not less than 15 years, and she ceased to have the care and control of such a child after she had attained the age of 50 years; or
-  (c) she was married or in a civil union or in a de facto relationship for not less than 5 years and lost the support of her spouse or partner after she had attained the age of 50 years; or
-  (d) she had the responsibility for the full-time care and attention of an incapacitated relative for not less than 5 years and ceased to have responsibility for the said relative after she had attained the age of 50 years.
-(4) A woman who receives a benefit under this section must comply with the work test.
-(5)
-(6)
+[Repealed]
 
 ### 27CA Domestic purposes benefits under section 27B or 27C: pre-benefit activities
-(1) This subsection applies to a person if—
-  (a) he or she who contacts the department requesting financial assistance after the commencement of Part 3 of the Social Security (Youth Support and Work Focus) Amendment Act 2012; and
-  (b) the chief executive considers that the appropriate financial assistance for him or her would be a domestic purposes benefit under section 27B or 27C.
-(2) Section 96A(2) to (13) applies to a person to whom subsection (1) applies, but as if every reference to an unemployment benefit were a reference to a domestic purposes benefit under section 27B or 27C.
+[Repealed]
 
 ### 27D Applicants for domestic purposes benefits for women alone to meet residential qualifications in section 74AA
-An applicant for a benefit under section 27C must meet the residential requirements in section 74AA.
+[Repealed]
 
 ### 27E Continuation of benefit when benefit ceases to be payable in respect of children
 [Repealed]
@@ -865,109 +960,12 @@ An applicant for a benefit under section 27C must meet the residential requireme
 [Repealed]
 
 ### 27G Domestic purposes benefits for care at home of the sick or infirm
-(1) In this section, patient means any sick or infirm person receiving the full-time care and attention of an applicant for a domestic purposes benefit.
-(2) Subject to the provisions of this Act, an applicant who meets the residential requirements in section 74AA is entitled to receive a domestic purposes benefit under this section if the chief executive is satisfied that the applicant is required to give full-time care and attention at home to some other person (other than the applicant's spouse or partner) who would otherwise have to receive—
-  (a) hospital care, rest home care, or residential disability care, within the meaning of the Health and Disability Services (Safety) Act 2001; or
-  (b) care of the kind referred to in section 141 of the Children, Young Persons, and Their Families Act 1989; or
-  (c) care of a kind equivalent to any of those kinds of care.
-(2A) An applicant must not be granted a domestic purposes benefit under this section unless,—
-  (a) in the case of an applicant without a dependent child, he or she is aged at least 18 years:
-  (b) in any other case, he or she is aged at least 19 years.
-(3) Every application for a domestic purposes benefit under this section shall be supported by the certificate of a medical practitioner certifying that the patient requires the full-time care and attention of the applicant and that but for that care and attention the patient would have to receive such services; and the chief executive may, in the chief executive's discretion, require that the patient be examined by a medical practitioner to be nominated by the chief executive for the purpose, who shall determine whether the patient would, but for the full-time care and attention of the applicant, have to receive such services.
-(4) Any benefit granted under this section may, in the discretion of the chief executive, be continued for any period not exceeding 4 weeks notwithstanding that the patient was not during that period in the full-time care of the beneficiary.
-(4A) It is a condition of a benefit under this section that the beneficiary shall attend and participate in a mandatory interview if requested to do so under section 60HA.
-(5)
+[Repealed]
 
 ### 27H Rates of domestic purposes benefits
-(1) Subject to the provisions of this Act and to section 70A, the rate of domestic purposes benefit payable to any beneficiary under section 27B or section 27C shall be the appropriate rate specified in Schedule 16.
-(1A)
-(1B) Subject to the provisions of this Act, the rate of domestic purposes benefit payable to any beneficiary under section 27G shall be the appropriate rate specified in Schedule 17.
-(2) In determining the rate of domestic purposes benefit payable to any applicant to whom paragraph (e), or paragraph (f) of subsection (1) of section 27B, or section 27C, applies, such income of the spouse or partner of the applicant (including any pension or allowance under the War Pensions Act 1954) as the chief executive considers reasonable in the circumstances, having regard to the nature of the income and the means by which it was derived, shall be taken into account as if it were income derived by the applicant.
-
-**Contribution towards cost of domestic purposes benefits for solo parents**
-
-### 27I Interpretation
 [Repealed]
 
-### 27J Maintenance order or agreement suspended while benefit is paid
-[Repealed]
-
-### 27K Liable parent to contribute towards cost of benefit and child supplement
-[Repealed]
-
-### 27L Director-General to give liable parent notice of grant of benefit
-[Repealed]
-
-### 27M Liable parent to notify Director General of total income, etc
-[Repealed]
-
-### 27N Director-General to assess contribution and notify liable parent
-[Repealed]
-
-### 27O Notice of objection
-[Repealed]
-
-### 27P Grounds on which objection may be made
-[Repealed]
-
-### 27Q Procedure to be followed where objection received
-[Repealed]
-
-### 27R Hearing of objection by court
-[Repealed]
-
-### 27S Findings of court
-[Repealed]
-
-### 27T Appeal from decisions of courts
-[Repealed]
-
-### 27U Proceedings not open to public
-[Repealed]
-
-### 27V Restriction of publication of reports
-[Repealed]
-
-### 27W Costs
-[Repealed]
-
-### 27X Recovery of unpaid contributions
-[Repealed]
-
-### 27Y Deduction notices
-[Repealed]
-
-### 27Z Effect of deduction notices
-[Repealed]
-
-### 27ZA Liability of employer
-[Repealed]
-
-### 27ZB Protected earnings
-[Repealed]
-
-### 27ZC Variation or discharge of deduction notice
-[Repealed]
-
-### 27ZD Transaction fee
-[Repealed]
-
-### 27ZE Wrongful treatment of employee
-[Repealed]
-
-### 27ZF Extent to which deduction notices bind the Crown
-[Repealed]
-
-### 27ZG Relief in cases of serious hardship
-[Repealed]
-
-### 27ZH Review of contributions
-[Repealed]
-
-### 27ZI Service of notices, etc, by Director-General
-[Repealed]
-
-**Orphans' benefits**
+## Part 1C — Orphans' benefits, and unsupported child's benefit
 
 ### 28 Orphans' benefits
 A person who is a principal caregiver in respect of a dependent child shall be entitled to receive an orphan's benefit in respect of that child if—
@@ -1023,10 +1021,10 @@ Every orphan's benefit and every unsupported child's benefit shall, as the chief
 ### 39 Payment of family benefit not to restrict right to maintenance, compensation, or damages
 [Repealed]
 
-**Child disability allowance**
+## Part 1D — Child disability allowance
 
 ### 39A Child disability allowance
-(1) For the purposes of this section and of sections 39B to 39F, child with a serious disability means a dependent child who—
+(1) For the purposes of this section and of sections 39B to 39E, child with a serious disability means a dependent child who—
   (a) has a physical or mental disability;
   (b) because of that disability needs constant care and attention; and
   (c) is likely to need such care and attention permanently or for a period exceeding 12 months.
@@ -1054,64 +1052,118 @@ A child disability allowance shall not be payable under this Act in addition to�
 ### 39E Person to whom child disability allowance payable
 The chief executive may, in his or her discretion, pay a child disability allowance granted under section 39A to the person who is the principal caregiver in respect of the child or, if there is no such person, to the person for the time being having the care and control of the child.
 
-**Invalids' benefits**
+## Part 1E — Supported living payment
 
-### 39F Purpose of invalid's benefit
-(1) The purpose of the invalid's benefit is to provide income support to people who—
-  (a) have, and are likely to have in the future, a severely restricted capacity to support themselves through open employment because of sickness, injury, or disability; or
-  (b) are totally blind.
-(2) The purpose in subsection (1) is to be considered in the context of the expectation that people of working age support themselves directly or indirectly through employment, and that other measures are available for people who are temporarily unable to support themselves.
+### 40A Supported living payment: purpose
+(1) The purpose of the supported living payment is to provide income support to people because they are people who fall within any one of the following 3 categories:
+  (a) people who have, and are likely to have in the future, a severely restricted capacity to support themselves through open employment because of sickness, injury, or disability:
+  (b) people who are totally blind:
+  (c) people who are required to give full-time care and attention at home to some other person (other than their spouse or partner) who is a patient requiring care.
+(2) The purpose in subsection (1) is to be considered in the context of—
+  (a) the expectation that people of working age support themselves directly or indirectly through employment; and
+  (b) the fact that other measures are available for people who are temporarily unable to support themselves.
 
-### 40 Invalid's benefit
-(1) A person who is aged 16 years or more is eligible for an invalid's benefit if the chief executive is satisfied that—
-  (aa) the applicant meets the residential requirements in section 74AA; and
+### 40B Supported living payment: on ground of sickness, injury, disability, or total blindness: eligibility and ineligibility
+(1) A person is entitled to the supported living payment under this section if he or she satisfies the criteria in subsections (1A) and (1B), and—
+  (aa)
   (a) the person is totally blind; or
-  (b) the person is permanently and severely restricted in his or her capacity for work because of sickness, or because of injury or disability from accident or congenital defect.
+  (b) the person is permanently and severely restricted in his or her capacity for work because of sickness, or because of injury or disability arising (in either case) from accident or existing from birth.
+(1A) An applicant for the supported living payment under this section must be aged at least 16 years.
+(1B) An applicant for the supported living payment under this section must meet the residential requirements in section 74AA.
 (2) A person is permanently restricted in his or her capacity for work if the chief executive is satisfied that—
   (a) the restricting sickness, injury, or disability is expected to continue for at least the period set out in regulations made under this Act for the purposes of this section; or
   (b) the person is not expected to live for the period set out in those regulations, because the person's sickness, injury, or disability is terminal.
 (3) A person is severely restricted in his or her capacity for work if the chief executive is satisfied that the person is incapable of regularly working 15 or more hours a week in open employment.
-(3A) Subsection (3) is subject to section 44A.
-(4) A person who is not both permanently and severely restricted in his or her capacity for work must not be granted an invalid's benefit, unless he or she is totally blind.
-(5) A person must not be granted an invalid's benefit if the chief executive is satisfied that the person's restricted capacity for work, or total blindness, was self-inflicted and brought about by the person with a view to qualifying for a benefit.
-(6) A person who is granted a benefit under this section must—
-  (a) comply with a requirement under section 60Q; and
-  (b) comply with any other obligation arising under any of sections 60Q to 60S.
+(3A) Subsection (3) is subject to section 40K.
+(4) A person who is not both permanently and severely restricted in his or her capacity for work must not be granted a supported living payment under this section, unless he or she is totally blind.
+(5) A person must not be granted a supported living payment under this section if the chief executive is satisfied that the person's restricted capacity for work, or total blindness, was self-inflicted and brought about by the person with a view to qualifying for a benefit.
+(6)
+
+### 40C Supported living payment: on ground of sickness, injury, disability, or total blindness: medical examination
+(1) This section applies to a person who is an applicant for, or a person in receipt of, a supported living payment on the ground of sickness, injury, disability, or total blindness.
+(2) The chief executive may require the applicant or beneficiary to submit himself or herself for examination by a medical practitioner or a psychologist. The medical practitioner or psychologist must be agreed for the purpose between the applicant or beneficiary and the chief executive, or, failing agreement, must be nominated by the chief executive.
+(3) The medical practitioner or psychologist must certify whether, in the medical practitioner's or psychologist's opinion, the applicant or beneficiary is, or is not, or whether there is doubt about whether the applicant or beneficiary is or is not,—
+  (a) permanently and severely restricted in his or her capacity for work; or (as the case may be)
+  (b) totally blind.
+(4) A certificate given under this section must state the grounds upon which the opinion is founded.
+(5) A certificate given under this section must, in the case of doubt referred to in subsection (3), and may, in any other case, indicate a date for review of the permanency, severity, or both, of the applicant's or beneficiary's sickness, injury, or disability.
+
+### 40D Supported living payment: on ground of caring for patient requiring care: eligibility
+(1) A person is entitled to a supported living payment under this section if he or she satisfies the criteria in subsections (2) and (3), and the chief executive is satisfied that the person is required to give full-time care and attention at home to some other person (other than the person's spouse or partner) (in this section and sections 40E, 40H, and 40HA called the patient) who would otherwise have to receive care that is, or is equivalent to,—
+  (a) hospital care, rest home care, or residential disability care, within the meaning of the Health and Disability Services (Safety) Act 2001; or
+  (b) care of the kind referred to in section 141 of the Children, Young Persons, and Their Families Act 1989 (which is a section relating to care of severely disabled children and young persons).
+(2) An applicant must not be granted a supported living payment under this section unless,—
+  (a) in the case of an applicant without a dependent child, he or she is aged at least 18 years:
+  (b) in any other case, he or she is aged at least 19 years.
+(3) An applicant for a supported living payment under this section must meet the residential requirements in section 74AA.
+(4) A benefit granted under this section may, in the chief executive's discretion, be continued for a period not exceeding 28 days even though the patient was not during that period in the full-time care of the beneficiary.
+
+### 40E Supported living payment: on ground of caring for patient requiring care: medical examination
+(1) Every application for a supported living payment on the ground of care at home for a patient requiring care must be supported by the certificate of a medical practitioner certifying—
+  (a) that the patient requires the applicant's full-time care and attention; and
+  (b) that, but for that care and attention, the patient would have to receive care that is, or that is equivalent to, care of a kind specified in section 40D(1)(a) or (b).
+(2) The chief executive may, in the chief executive's discretion, require that the patient be examined by a medical practitioner to be nominated for the purpose by the chief executive.
+(3) A medical practitioner nominated under subsection (2) must determine whether the patient would, but for the applicant's full-time care and attention, have to receive care that is, or is equivalent to, care of a kind specified in section 40D(1)(a) or (b).
+
+### 40F Supported living payment: on ground of sickness, injury, disability, or total blindness: beneficiary's obligations
+A person who is granted a supported living payment on the ground of sickness, injury, disability, or total blindness, must,—
+  (a) if section 60Q(1)(bb) applies to the person, comply with any requirements under section 60Q(3); and
+  (b) if he or she is a person to whom section 60RA applies, comply with the person's social obligations under section 60RA(3).
+
+### 40G Supported living payment: on ground of sickness, injury, disability, or total blindness: spouse's or partner's obligations
+(1) This section applies to the spouse or partner of a person granted a supported living payment on the ground of sickness, injury, disability, or total blindness.
+(2) A person to whom this section applies—
+  (a) must comply with all obligations arising under section 60Q; and
+  (b) if he or she is a person to whom section 60RA applies, must comply with the person's social obligations under section 60RA(3); and
+  (c) if he or she is a work-tested spouse or partner, must comply with the work test.
+
+### 40H Supported living payment: on ground of caring for patient requiring care: beneficiary's obligations
+A person who is granted a supported living payment on the ground of care at home for a patient requiring care, must,—
+  (a) if section 60Q(1)(bc) applies to the person, comply with any requirements under section 60Q(3); and
+  (b) if he or she is a person to whom section 60RA applies, comply with the person's social obligations under section 60RA(3).
+
+### 40HA Supported living payment: on ground of caring for patient requiring care: spouse's or partner's obligations
+A person must comply with the person's social obligations under section 60RA(3) if the person—
+  (a) is a person with 1 or more dependent children; and
+  (b) is the spouse or partner of (whether or not receiving all or any of the benefit instead of, or as well as) the person who is granted a benefit that is a supported living payment on the ground of care at home for a patient requiring care; and
+  (c) is not a young person on whom obligations are placed under section 171(1) or (2).
+
+### 40I Supported living payment: rates
+(1) A supported living payment must be paid to a person granted that benefit at the appropriate rate in Schedule 6.
+(2) Subsection (1) is subject to the provisions of this Act.
+(3) This subsection applies to a person who is married or in a civil union or in a de facto relationship and—
+  (a) has a psychiatric, intellectual, physical, or sensory disability; and
+  (b) is receiving long-term residential care in a hospital or rest home because he or she has that disability; but
+  (c) has not been means assessed under Part 4.
+(4) A supported living payment payable to a person to whom subsection (3) applies is not apportioned under section 83 and must be paid, despite subsection (1), at half of the appropriate rate in Schedule 6.
+(5) A supported living payment payable to the spouse or partner of a person to whom subsection (3) applies (being a spouse or partner who is not receiving long-term residential care in a hospital or rest home) is not apportioned under section 83 and must be paid, despite subsection (1), at the rate in Schedule 6 that would be appropriate if he or she were entitled to a supported living payment in his or her own right and were single.
+
+### 40J Supported living payment: subsidy on totally blind beneficiaries' earnings
+In addition to the benefit computed as provided in section 40I, there shall be payable to every person who for the time being is in receipt of a supported living payment in respect of his total blindness and who is employed in any occupation an additional allowance equal to 25% of his average earnings for the year:
+  provided that an allowance shall not be granted under this section of such an amount that the total amount from all sources, including any benefit and the value of any benefits in kind, received by the beneficiary for his own use in any year shall exceed the appropriate amount specified in clause 2 of Schedule 6.
+
+### 40K Supported living payment: on ground of sickness, injury, or disability: encouraging open employment
+(1) The purpose of this section is to encourage specified recipients of a supported living payment to undertake open employment in order to establish whether they can sustain that employment and cease receiving that benefit.
+(2) This section applies to a person who—
+  (a) is receiving a supported living payment granted on the ground of permanent and severe restriction of capacity for work; but
+  (b) is with the chief executive's agreement undertaking open employment for a period agreed with the chief executive in order to establish whether the person can sustain open employment.
+(3) The period of open employment agreed with the chief executive under subsection (2)(b) must not exceed 26 weeks (even if that employment is, or is expected to be, for a period that is longer than the agreed period).
+(4) A person to whom subsection (2) applies does not lose his or her entitlement to a supported living payment by reason only of working 15 or more hours a week in open employment during the agreed period.
 
 ### 41 Residential qualifications for invalids' benefits
 [Repealed]
 
 ### 42 Rates of invalids' benefits
-(1) Subject to the provisions of this Act, the rate of the invalid's benefit payable to any beneficiary shall be the appropriate rate specified in clause 1 of Schedule 6.
-(2) Despite Schedule 6, where a person who is married or in a civil union or in a de facto relationship (other than a person who has been means assessed under Part 4) is receiving long-term residential care in a hospital or rest home because he or she has a psychiatric, intellectual, physical, or sensory disability,—and section 83 does not apply to either rate of benefit.
-  (a) the rate of invalid's benefit payable to the person receiving those services is one-half of the appropriate rate specified in that schedule; and
-  (b) the rate of invalid's benefit payable to that person's spouse or partner (being a spouse or partner who is not receiving long-term residential care in a hospital or rest home) is the appropriate rate of an invalid's benefit that would be payable under this Act if he or she was entitled to that benefit in his or her own right and was single,—
+[Repealed]
 
 ### 42A Obligations on spouse or partner of invalid's beneficiary
-(1) This section applies to the spouse or partner of a person granted an invalid's benefit at a work-test married rate.
-(2) A person to whom this section applies—
-  (a) must comply with—
-    (i) a requirement under section 60Q; and
-    (ii) any other obligation arising under any of sections 60Q to 60S; or
-  (b) if he or she is a work-tested spouse or partner, must comply with the work test.
-
-### 43 Subsidy on earnings of blind beneficiaries
-In addition to the benefit computed as provided in section 42, there shall be payable to every person who for the time being is in receipt of an invalid's benefit in respect of his total blindness and who is employed in any occupation an additional allowance equal to 25% of his average earnings for the year:
-  provided that an allowance shall not be granted under this section of such an amount that the total amount from all sources, including any benefit and the value of any benefits in kind, received by the beneficiary for his own use in any year shall exceed the appropriate amount specified in clause 2 of Schedule 6.
+[Repealed]
 
 ### 44 Medical examination of invalids
-(1) The chief executive may require an applicant for an invalid's benefit, or a person in receipt of an invalid's benefit, to submit himself or herself for examination by a medical practitioner or a psychologist. The medical practitioner or psychologist must be agreed for the purpose between the applicant or beneficiary and the chief executive, or, failing agreement, must be nominated by the chief executive.
-(2) The medical practitioner or psychologist must certify whether, in his or her opinion, the applicant or beneficiary is, or is not, or whether there is doubt about whether he or she is or is not, permanently and severely restricted in his or her capacity for work, or totally blind.
-(3) A certificate given under this section must state the grounds upon which the opinion is founded.
-(4) A certificate given under this section must, in the case of doubt referred to in subsection (2), and may, in any other case, indicate a date for review of the permanency, severity, or both, of the applicant's or beneficiary's sickness, injury, or disability.
+[Repealed]
 
 ### 44A Beneficiary receiving invalid's benefit may establish whether open employment is sustainable
-(1) The purpose of this section is to encourage persons who are receiving an invalid's benefit to undertake open employment in order to establish whether they can sustain that employment and cease receiving that benefit.
-(2) This section applies to a person who—
-  (a) is receiving an invalid's benefit granted on the ground of permanent and severe restriction of capacity for work; and
-  (b) with the agreement of the chief executive, is undertaking open employment for a period agreed with the chief executive to establish whether he or she can sustain such employment.
-(3) The period of open employment agreed with the chief executive under subsection (2)(b) must not exceed 26 weeks but the anticipated duration of that employment may be for a longer period than the agreed period.
-(4) A person to whom subsection (2) applies does not lose his or her entitlement to an invalid's benefit by reason only of working 15 or more hours a week in open employment during the agreed period.
+[Repealed]
 
 ### 45 Invalids' beneficiaries may be required to undertake activities
 [Repealed]
@@ -1145,107 +1197,33 @@ In addition to the benefit computed as provided in section 42, there shall be pa
 **Appeals**
 
 ### 53A Right of appeal on medical grounds
-(1) If—the applicant or beneficiary shall, at any time within 3 months after the decision of the chief executive has been communicated to that person or (if the Board considers there is good reason for the delay) within such further period as the Board may allow on application made either before or after the expiration of that period of 3 months, have a right of appeal to a Board.
-  (a) any claim for a child disability allowance is declined on the grounds that the child is not a child with a serious disability within the meaning of subsections (1) and (2) of section 39A, or if any such allowance is cancelled on those grounds; or
-  (b) any claim for an invalid's benefit is declined on medical grounds or any such benefit is cancelled on medical grounds; or
-  (ba) any claim for a sickness benefit is declined on medical grounds or on grounds relating to a person's capacity for work, or a person's sickness benefit is cancelled on medical grounds or on grounds relating to the person's capacity for work; or
-  (bab) under section 54DA(1), the chief executive requires a sickness beneficiary to comply with the work test; or
-  (bac) under section 54DA(3), the chief executive confirms a requirement under section 54DA(1) (that a sickness beneficiary complies with the work test); or
-  (bb)
-  (c)
-  (d)
-  (da) under section 60Q(7), the chief executive refuses to exempt a person receiving an invalid's benefit from the application of section 60Q; or
-  (e) any claim for a veteran's pension under section 70 of the War Pensions Act 1954, on the grounds of the applicant's mental or physical infirmity, is declined, or any such pension is cancelled on those grounds—
-(1A) The Board referred to in subsection (1) is to comprise 3 members to be appointed by the chief executive for the particular purpose, being medical practitioners, rehabilitation professionals, or other persons having appropriate expertise in the fields of vocational training or vocational support for persons with sickness, injury, or disability.
-(2) On any appeal heard pursuant to subsection (1), the chief executive shall be bound by the decision of the Appeal Board.
-(3) In this section, rehabilitation professional means—
-  (a) a person professionally engaged in the rehabilitation of persons from sickness or accident or with disabilities; and
-  (b) a nurse; and
-  (c) an occupational therapist; and
-  (d) a physiotherapist; and
-  (e) a psychologist.
+[Repealed]
 
 **Sickness benefits**
 
 ### 54 Sickness benefit: standard eligibility requirements
-(1) A person is entitled to a sickness benefit if he or she satisfies the criteria in subsections (2), (3), and (4), and—
-  (a) is not in full-time employment, is willing to undertake it, but because of sickness, injury, or disability is limited in his or her capacity to seek, undertake, or be available for full-time employment; or
-  (b) is in employment, but is losing earnings because, through sickness or injury, he or she is not actually working, or is working only at a reduced level.
-(2) An applicant for a sickness benefit—
-  (a) must be aged at least 18 years, in the case of an applicant without a dependent child:
-  (b) must be aged at least 19 years, in any other case.
-(3) An applicant for a sickness benefit must meet the residential requirements in section 74AA.
-(4) An applicant for a sickness benefit must have—
-  (a) no income; or
-  (b) an income of less than the amount that would fully abate the benefit.
-(5) Nothing in subsection (4) affects the entitlement of a person to receive a sickness benefit if, during a temporary period, the person has income sufficient to fully abate the benefit but otherwise fulfils the conditions of entitlement to the benefit.
-(6) For the purposes of subsection (1)(b), any payment made by a person to any other person who acts as his or her substitute during a period of sickness or injury may be treated as a loss of earnings by the first-mentioned person.
-(7) A person who is granted a benefit under this section (other than a person required to comply with the work test under section 54DA(1)) must—
-  (a) comply with a requirement under section 60Q; and
-  (b) comply with any other obligation arising under any of sections 60Q to 60S.
+[Repealed]
 
 ### 54A Sickness benefit: grounds of hardship
-(1) The chief executive may grant a sickness benefit under section 54 to a person who meets the criteria in subsections (1) and (2) of that section, but who does not meet the other criteria set out in that section, if—
-  (a) the person is suffering hardship; and
-  (b) the person is not qualified to receive any other benefit; and
-  (c) the person is unable to earn sufficient income to support the person and his or her spouse or partner and any dependent children.
-(2)
+[Repealed]
 
 ### 54B Sickness benefit: medical examinations
-(1) A person who applies for a sickness benefit must include in the application a certificate by—
-  (a) a medical practitioner; or
-  (b) a dentist (in respect of a condition that is within the ambit of his or her profession); or
-  (c) a midwife (in respect of a pregnancy, childbirth, or any related condition that is within the ambit of his or her profession); or
-  (d) a health practitioner of a kind specified in regulations made under section 132 (in respect of a condition within the ambit of his or her scope of practice).
-(2) The certificate under subsection (1) must—
-  (a) certify that the applicant's capacity for work is affected by sickness, injury, or disability; and
-  (b) indicate the nature of the sickness, injury, or disability, the extent to which the applicant's capacity for work is affected by it, and the length of time that effect is likely to last; and
-  (c) contain such other particulars as the chief executive may require.
-(3) The chief executive may at any time require an applicant for a sickness benefit or a sickness beneficiary to submit himself or herself for examination by a medical practitioner or psychologist. The medical practitioner or psychologist must be agreed for the purpose between the applicant or beneficiary and the chief executive or, failing agreement, must be nominated by the chief executive.
-(4) A medical practitioner or psychologist who conducts an examination under subsection (3) must prepare a report that states whether the applicant's or beneficiary's capacity for work is affected by sickness, injury, or disability, and how long that effect is likely to continue; and must send a copy of the report to the chief executive.
+[Repealed]
 
 ### 54C Sickness benefit: payment
 [Repealed]
 
 ### 54D Rates of sickness benefit
-(1) A sickness benefit must be paid to a sickness beneficiary at the appropriate rate in Schedule 9.
-(2)
-(3) If no payment is made under this section in respect of the spouse or partner of a sickness beneficiary, the chief executive may increase the rate of sickness benefit payable to the beneficiary by an amount not exceeding the amount specified in clause 2 of Schedule 9 in respect of any person who for the time being has the care of the home of the beneficiary.
-(4) An applicant is entitled to be paid the rate in clause 5 of Schedule 9 during any period when the applicant's spouse or partner is ineligible for a benefit because of—
-  (a) the application of section 60H (which relates to voluntary unemployment or loss of employment through misconduct, etc); or
-  (b) a strike, either by himself or herself, or by fellow members of the same union at the same place of employment.
+[Repealed]
 
 ### 54DA Sickness beneficiary may be required to comply with work test
-(1) The chief executive may, by notice in writing, require a person who is granted a sickness benefit under section 54 to comply with the work test from a date specified in the notice if the chief executive, having regard to the certificate and any report obtained under section 54B, is satisfied that the person has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work.
-(2) The date specified in a notice under subsection (1),—
-  (a) in the case of a new grant of the benefit, may be the date on which the benefit is first paid; but
-  (b) in any case, must not be a date before the date on which the chief executive reasonably considers the person will receive the notice.
-(3) The chief executive may at any time, whether on the application of the person or otherwise, review a requirement under subsection (1) and may confirm or revoke it.
+[Repealed]
 
 ### 54E Obligations of spouse or partner of sickness beneficiary
-From the time that payment of the sickness benefit commences, the spouse or partner of a person granted a sickness benefit at a work-test married rate—
-  (a) must comply with—
-    (i) a requirement under section 60Q; and
-    (ii) any other obligation arising under any of sections 60Q to 60S; or
-  (b) if he or she is a work-tested spouse or partner, must comply with the work test.
+[Repealed]
 
 ### 54F Transfer from community wage to sickness benefit on 1 July 2001
-(1) This section applies to a person who, immediately before 1 July 2001, was—
-  (a) in receipt of a community wage on the ground of the person's sickness, injury, or disability; and
-  (b) either—
-    (i) was fulfilling the conditions of entitlement to the community wage on that ground; or
-    (ii) was eligible to be granted a community wage on that ground under former section 90.
-(2) On 1 July 2001, in relation to a person to whom this section applies,—
-  (a) the community wage becomes a sickness benefit as if it were granted under section 54; and
-  (b) the person ceases to be subject to the work test; and
-  (c) any sanctions to which the person was subject under any of former sections 115, 116, or 118 cease to apply.
-(3) For the avoidance of doubt, the operation of subsection (2) does not affect—
-  (a) the rate of benefit paid to the person and his or her spouse (if any); and
-  (b) in relation to the person's spouse, any of the following:
-    (i) the requirements of section 54E:
-    (ii) any exemption from the work test under section 105:
-    (iii) a sanction under any of former sections 115 to 118 applying to the spouse.
-(4) In this section, former section means a section of this Act as it was before 1 July 2001.
+[Repealed]
 
 ### 55 Rates of sickness benefits
 [Repealed]
@@ -1256,8 +1234,6 @@ From the time that payment of the sickness benefit commences, the spouse or part
 ### 57 Period for which sickness benefit payable
 [Repealed]
 
-**Unemployment benefits**
-
 ### 58 Unemployment benefits
 [Repealed]
 
@@ -1266,8 +1242,6 @@ From the time that payment of the sickness benefit commences, the spouse or part
 
 ### 59A Mandatory interview or work test for spouse
 [Repealed]
-
-**Young job seekers' allowances**
 
 ### 59B Young job seekers' allowances
 [Repealed]
@@ -1331,19 +1305,25 @@ From the time that payment of the sickness benefit commences, the spouse or part
 ### 60GAC Department to explain obligations to beneficiaries
 [Repealed]
 
-**Further conditions of benefits**
+## Part 1F — Administration: further conditions of benefits, and obligations on beneficiaries
 
 ### 60GAD Purpose of sections 60GAE and 60GAF
 The purpose of sections 60GAE and 60GAF is to improve the financial and social outcomes for families that include people to whom those sections apply by providing earlier access to employment services and expectations, while recognising the care and development needs of children.
 
 ### 60GAE Beneficiaries having additional dependent child: general
 (1) This section applies to a person (the beneficiary parent) who (whether or not by having given birth) becomes a caregiver, or the principal caregiver, of a dependent child (an additional dependent child) while the person—
-  (a) is receiving a domestic purposes benefit, an invalid's benefit, a sickness benefit, an unemployment benefit, a widow's benefit, or an emergency benefit (whether in his or her own right, or as the spouse or partner of the person granted the benefit); and
+  (a) is receiving sole parent support, a supported living payment, jobseeker support, or an emergency benefit (whether in his or her own right, or as the spouse or partner of the person granted the benefit); and
   (b) is already a caregiver, or the principal caregiver, of a dependent child or children.
-(2) An additional dependent child aged 1 or over must not be included in the determination for the purposes of the definitions of part-time work-tested beneficiary, work-tested domestic purposes beneficiary, work-tested spouse or partner, and work-tested widow’s beneficiary in section 3(1) and section 60Q(1) of—
+(1A) Subsection (1) does not apply to a person at a time when—
+  (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
+  (b) he or she is ordinarily resident in that country.
+(2) An additional dependent child aged 1 or over must not be included in the determination for the purposes of the definitions of part-time work-tested beneficiary, work-tested sole parent support beneficiary, and work-tested spouse or partner in section 3(1) and section 60Q(1) or for the purposes of section 20D(1)(c) (which relates to eligibility for sole parent support) of—
   (a) the age of the youngest dependent child of the beneficiary parent concerned; and
   (b) whether the beneficiary parent concerned has a dependent child or children under 5 or 14 (and if so, how many).
 (3) Subsection (2) may apply to 2 or more additional dependent children of the same beneficiary parent.
+(3A) In applying subsection (2) to a beneficiary of a kind specified in one of the following paragraphs for the purposes only of section 20D(1)(c) (which relates to eligibility for sole parent support), An additional dependent child aged 1 or over must be read as An additional dependent child at all times after that child is born:
+  (a) a beneficiary transferred to jobseeker support by clause 2(11) of Schedule 32:
+  (b) a beneficiary whose sole parent support under section 20D expired on the date that the beneficiary's youngest dependent child turned 14 years old, and has been replaced with jobseeker support, under section 20H.
 (4) The chief executive may apply this section in relation to any dependent child or children of whom a person who already has any dependent child or children becomes a caregiver, or the principal caregiver, if satisfied that—
   (a) the person's situation is analogous to that of a person to whom subsection (1) applies; or
   (b) to do so would best achieve the purpose stated in section 60GAD.
@@ -1354,6 +1334,21 @@ The purpose of sections 60GAE and 60GAF is to improve the financial and social o
 The chief executive may refrain (for any period he or she thinks fit) from applying section 60GAE in relation to any additional dependent child or children (within the meaning of that section) if satisfied in any particular case that—
   (a) to do so would best achieve the purpose stated in section 60GAD; or
   (b) there are circumstances beyond the control of the beneficiary parent concerned making it inappropriate or unreasonable to apply that section.
+
+### 60GAG Obligations to work with contracted service providers
+(1) A person who is receiving in his or her own right, or as the spouse or partner of the person granted the benefit concerned, an emergency benefit, sole parent support, supported living payment, or jobseeker support, is subject to the following obligations:
+  (a) when required by the chief executive, to attend and participate in any interview with a contracted service provider specified by the chief executive:
+  (b) when required by the chief executive, to attend and participate in any assessment of the person undertaken on behalf of the chief executive by a contracted service provider specified by the chief executive:
+  (c) when required by the chief executive, to co-operate with a contracted service provider specified by the chief executive in facilitating the provision of the services that the provider has been contracted to provide in relation to the person’s obligations under all or any of the following:
+    (i) section 60Q (work preparation obligations):
+    (ii) section 60RA(3) (social obligations):
+    (iii) conditions (subject to which an emergency benefit is granted or continued) that the chief executive thinks fit to impose, or determines, under section 61(1) or (3):
+    (iv) section 102A (work test obligations):
+  (d) when required by the chief executive, to report to a contracted service provider specified by the chief executive on the person's compliance with the person's obligations under this Act as often as, and in the manner that, the provider reasonably requires.
+(2) The chief executive must take reasonable and appropriate steps to make every person on whom obligations are imposed under subsection (1) aware of—
+  (a) those obligations; and
+  (b) the consequences of failure to comply with those obligations.
+(3) A person who fails without a good and sufficient reason to comply with an obligation imposed on the person under subsection (1) is subject to the sanctions under section 117.
 
 ### 60GA Purposes of sections 60H to 60M
 [Repealed]
@@ -1371,8 +1366,8 @@ The chief executive may refrain (for any period he or she thinks fit) from apply
   - **unemployed** means resigning from or otherwise leaving employment, other than by dismissal.
 (2) This section applies to a person who is—
   (a) a person who is an applicant for a benefit if, on the grant of the benefit, he or she would be a work-tested beneficiary; or
-  (ab) a person who is an applicant for a sickness benefit if the chief executive would be able to require him or her to comply with the work test under section 54DA(1) from the date on which the benefit is first paid; or
-  (b) a person who is the spouse or partner of an applicant for a married rate of benefit, if, on the grant of the benefit, he or she would be a work-tested spouse or partner; or
+  (ab) a person who is an applicant for jobseeker support on the ground of sickness, injury, or disability if, on the grant of that benefit, the chief executive would be able to determine, under section 88F(2), that the person has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work (as defined in section 3(1)); or
+  (b) a person who is the spouse or partner of an applicant for a couple rate of benefit, if, on the grant of the benefit, he or she would be a work-tested spouse or partner; or
   (c) a work-tested beneficiary.
 (3) This section applies if the chief executive is satisfied that a person referred to in subsection (2)—
   (a) has voluntarily become unemployed without good and sufficient reason; or
@@ -1391,15 +1386,7 @@ The chief executive may refrain (for any period he or she thinks fit) from apply
 (7) Any amount that the chief executive directs to be repayable under subsection (6)(b) may be recovered from the person under section 86(1).
 
 ### 60HA Work preparation exercise
-(1) The chief executive may request a person to whom this section applies—
-  (a) to participate in 1 mandatory interview each year until the person is required to comply with the work test; and
-  (b) to participate in 1 activity under subsection (2)(b), but only in the year before the date that the person's youngest dependent child attains the particular age giving rise to an obligation on that person to comply with the work test.
-(2) A work preparation exercise is either or both of the following:
-  (a) a mandatory interview by or on behalf of the chief executive:
-  (b) an activity, set by the chief executive, for the purpose of preparing a person for employment.
-(3) This section applies to a beneficiary who is required under this Act to comply with a request under this section.
-(4) The chief executive may not make a request under subsection (1)(b) to a person who is granted a domestic purposes benefit under section 27G.
-(5) If a person fails without good and sufficient reason to comply with a request under this section, the chief executive must apply the appropriate penalty under this Act for a failure to comply with a request under this section.
+[Repealed]
 
 ### 60HB Effect of failure to attend or participate in mandatory interview
 [Repealed]
@@ -1460,14 +1447,23 @@ The purposes of section 60Q are—
 
 ### 60Q Certain obligations may be placed on beneficiaries and their spouses and partners
 (1) This section applies to every person (other than a person who is a work-tested beneficiary or is for the time being exempted under section 105) who—
-  (a) is the recipient of a benefit under section 21 (the widow's benefit) and has a youngest dependent child under the age of 5 years; or
-  (b) is the recipient of a benefit under section 27B (the domestic purposes benefit for solo parents) and has a youngest dependent child under the age of 5 years; or
+  (a) is the recipient of a benefit under section 20D (sole parent support) and has a youngest dependent child under the age of 5 years; or
+  (b)
+  (ba) is a sole parent with a dependent child under the age of 1 year, and is a recipient of a benefit under section 88B (jobseeker support) instead of a benefit under section 20D (sole parent support) solely because that child is an additional dependent child (within the meaning of section 60GAE(1)); or
+  (bb) is the recipient of a benefit under section 40B (supported living payment on the ground of sickness, injury, disability, or total blindness) if the chief executive is satisfied that the person has the capacity to comply with obligations under subsection (3); or
+  (bc) is the recipient of a benefit under section 40D (supported living payment on the ground of caring for patient requiring care) if the chief executive is satisfied that the person has the capacity to comply with requirements under subsection (3); or
   (c) is the spouse or partner of a person who—
-    (i) is the recipient of an emergency benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit; and
+    (i) is the recipient of an emergency benefit, a supported living payment, or jobseeker support; and
     (ii) has a youngest dependent child aged under 5 years.
-(2) A person to whom this section applies has a general obligation to take all steps that are reasonably practicable in his or her particular circumstances to prepare for employment and (in particular) an obligation to comply with any requirement under subsection (3).
-(3) The chief executive may, from time to time, require a person to whom this section applies—
+(1A) This section also applies (despite subsection (1)) to a person who—
+  (a) is a work-tested beneficiary (other than one to whom subsection (1)(ba) applies); and
+  (b) has been granted under section 88I a deferral of the person's work test obligations.
+(1B) The chief executive may require a recipient of a benefit under section 40B or 40D to attend and participate in an interview with an officer of the department, or other person on behalf of the chief executive, for the purpose of helping the chief executive to determine under subsection (1)(bb) or (bc) whether the recipient has the capacity to comply with obligations under subsection (3).
+(2) A person to whom this section applies (other than a person to whom subsection (1)(bb) or (bc) applies) has a general obligation to take all steps that are reasonably practicable in his or her particular circumstances to prepare for employment and (in particular) an obligation to comply with any requirement under subsection (3).
+(3) The chief executive may, from time to time, require a person to whom this section applies (including, without limitation, a person to whom subsection (1)(bb) or (bc) applies)—
   (a) to undertake planning for employment:
+  (aa) to attend and participate in an interview (other than one for the purpose specified in subsection (1B)) with an officer of the department or other person on behalf of the chief executive:
+  (ab) to report to the department or to any other person acting on behalf of the chief executive on the person's compliance with the person's obligations under this section as often as, and in the manner that, the chief executive reasonably requires:
   (b) to participate in or undertake (as the case requires) any of the following activities specified by the chief executive that the chief executive considers suitable to improve his or her work-readiness or prospects for employment:
     (i) a work assessment:
     (ii) a programme or seminar to increase particular skills or enhance motivation:
@@ -1480,6 +1476,60 @@ The purposes of section 60Q are—
 The chief executive must take reasonable and appropriate steps to make every person who is subject to obligations under section 60Q aware of—
   (a) those obligations; and
   (b) the consequences of failure to comply with them and (in particular) the sanctions that may be imposed under this Act for failing to comply with them.
+
+### 60RA Social obligations of certain beneficiaries with dependent children
+(1) This section applies to a person if the person—
+  (a) is a person with 1 or more dependent children; and
+  (b) is the person granted a benefit that is jobseeker support, sole parent support, a supported living payment, or an emergency benefit, or is the spouse or partner of (whether or not receiving all or any of the benefit instead of, or as well as) that person; and
+  (c) is not a young person on whom obligations are placed under section 171(1) or (2).
+(2) A dependent child (as defined in section 3(1)) of a person granted a benefit described in subsection (1)(b) is (despite section 3) for the purposes of this section and of all related provisions in this Act (for example, for the purposes of section 60RC) also a dependent child of that person’s spouse or partner (if any).
+(3) A person to whom this section applies has the following social obligations:
+  (a) to take all reasonable steps to ensure that every dependent child aged 3 years or more but less than 5 years and who is not enrolled at and regularly attending a registered school (as defined in section 2(1) of the Education Act 1989) is—
+    (i) enrolled in a recognised early childhood education programme (as defined in section 60RAB(1)); and
+    (ii) attending that programme to the minimum extent prescribed, or otherwise in the manner prescribed, for the purposes of this subparagraph by regulations made under section 132; and
+  (b) to take all reasonable steps to ensure that every dependent child aged 5 years or more but less than 6 years, and who is not a dependent child in respect of whom the person would qualify for an exemption from some or all of the person's work test obligations on the active teaching out of school grounds in section 60RAB(2), is—
+    (i) enrolled in a recognised early childhood education programme (as defined in section 60RAB(1)) and attending that programme to the minimum extent prescribed, or otherwise in the manner prescribed, for the purposes of this subparagraph by regulations made under section 132; or
+    (ii) enrolled at a registered school (as defined in section 2(1) of the Education Act 1989) and regularly attending that registered school; and
+  (c) to take all reasonable steps to ensure that every dependent child aged 6 years or more but less than 16 years is (except insofar as the child is excepted or exempted from the requirements of sections 20 and 25 of the Education Act 1989)—
+    (i) enrolled at a registered school (as defined in section 2(1) of that Act); and
+    (ii) regularly attending that registered school; and
+  (d) to take all reasonable steps to ensure that every dependent child is enrolled with a primary health care provider (for example, a primary health organisation, or a medical practitioner whose scope of practice is or includes general practice); and
+  (e) to take all reasonable steps to ensure that every dependent child under the age of 5 years is up to date with core checks (as defined in section 60RAB(4)) under—
+    (i) the programme that immediately before 15 July 2013 was known as Well Child; or
+    (ii) any similar programme established in its place; and
+  (f) when required by the chief executive, to attend and participate in any interview with an officer of the department or other person on behalf of the chief executive; and
+  (g) when required by the chief executive, to report to the department or to any other person acting on behalf of the chief executive on the person's compliance with the person's social obligations as often as, and in the manner that, the chief executive reasonably requires.
+
+### 60RAB Social obligations: definitions, work test obligations exemption grounds, and regulations
+(1) Recognised early childhood education programme, in section 60RA and this section, means—
+  (a) an approved early childhood education programme (as defined for the purposes of section 60RA(3) in regulations made under section 132AC); or
+  (b) an early childhood education programme approved by the chief executive having regard to all relevant approval criteria (if any) prescribed for the purposes of this paragraph in any general or special directions given to the chief executive in writing by the Minister under section 5; or
+  (c) a programme of early childhood education provided by a school that is currently designated under section 152(1) of the Education Act 1989 as a correspondence school.
+(2) The active teaching out of school grounds mentioned in section 60RA(3)(b) on which a person to whom section 60RA applies would qualify for an exemption from some or all of the person's work test obligations in respect of a dependent child (aged 5 years or more but less than 6 years) of the person, are the grounds specified in—
+  (a) regulation 6(2)(c) of the Social Security (Exemptions under Section 105) Regulations 1998; or
+  (b) an enactment that, with or without modification, replaces, or that corresponds to, that enactment.
+(3) Regulations made under section 132 that prescribe, for the purposes of section 60RA(3)(a)(ii) and (b)(i), the minimum extent of, or other required manner of, attending a recognised early childhood education programme may, without limitation,—
+  (a) prescribe, for all or any recognised early childhood programmes, target numbers of hours of attendance:
+  (b) prescribe different minimum numbers of hours of attendance for all or any different recognised early childhood programmes.
+(4) Core check, for a child and a programme to which section 60RA(3)(e) applies, means a check—
+  (a) of the child's health and well-being; and
+  (b) done under, and identified in contract or funding arrangements as an essential part of, the programme; and
+  (c) funded, directly or indirectly, through Vote Health.
+
+### 60RB Social obligations: department must explain requirements
+The chief executive must take reasonable and appropriate steps to make every beneficiary who has social obligations under section 60RA(3) aware of—
+  (a) the beneficiary's social obligations under section 60RA(3); and
+  (b) the consequences of failure to comply with them.
+
+### 60RC Social obligations: sanctions for failures to comply
+(1) A beneficiary who fails without good and sufficient reason to comply with a social obligation is, except as provided in subsections (2) and (3), subject to the sanctions in section 117.
+(2) A beneficiary's failure to comply with the social obligation in section 60RA(3)(c) (which relates to specified dependent children being enrolled at and regularly attending a registered school) cannot be the subject of sanctions under section 117 if that failure is the subject of a prosecution commenced against the beneficiary, and not withdrawn before it is finally determined, for an offence against—
+  (a) section 24(1) of the Education Act 1989 (failure to enrol); or (as the case requires)
+  (b) section 29(1) of the Education Act 1989 (irregular attendance).
+(3) Before giving the beneficiary a notice under section 113, and imposing a sanction under section 117, for a beneficiary's failure to comply with a social obligation under section 60RA(3), the chief executive must first be satisfied that, on at least 3 previous occasions, the department has had communication (of any kind, and in any manner) with the beneficiary in respect of the beneficiary's compliance with, or an actual or potential failure of the beneficiary to comply with, any social obligation of the beneficiary.
+(4) This subsection applies to a beneficiary on whom sanctions in section 117 have been imposed in respect of a failure by the beneficiary without good and sufficient reason to comply with a social obligation.
+(5) The chief executive may give a beneficiary to whom subsection (4) applies a notice (to be delivered in accordance with section 86J) to the effect that the department is to intensify its case management support in respect of the beneficiary.
+(6) A beneficiary to whom a notice under subsection (5) has been delivered in accordance with section 86J must, when required by the chief executive, attend and participate in any interview with an officer of the department.
 
 ### 60S Beneficiary must demonstrate commitment to employment plan at review
 [Repealed]
@@ -1505,42 +1555,48 @@ The chief executive must take reasonable and appropriate steps to make every per
 ### 60Z Effect of compliance or agreement to comply
 [Repealed]
 
-**Emergency benefits**
+## Part 1G — Emergency benefits
 
 ### 61 Chief executive may grant emergency benefit in cases of hardship
 (1) The chief executive may, in the chief executive's discretion and subject to such conditions as the chief executive thinks fit to impose, grant an emergency benefit under this Act on account of hardship to any person who satisfies the following conditions, namely:
   (a) that by reason of age, or of physical or mental disability, or of domestic circumstances, or for any other reason, he is unable to earn a sufficient livelihood for himself and his dependants (if any); and
-  (b) that he is not qualified to be granted any benefit:
-  provided that the chief executive may at any time, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit:
-  provided also that, where the chief executive is of the opinion that a person applying for or in receipt of an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit should undergo a course of training in any occupation, or should submit himself for examination at any medical or psychological clinic, or should receive any medical or other treatment, or should undergo any course of training for the improvement of his physical or mental capacities, or should do any work required of him, or should take more adequate steps to secure suitable employment, the chief executive may, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit; and in any such case the grant or continuance of the emergency benefit may be made subject to the condition that he shall comply with the requirements of the chief executive in respect of any such matters.
-(1A) Where the chief executive is considering granting an emergency benefit on the grounds of hardship under subsection (1), the chief executive must first consider whether to grant a sickness benefit under section 54A or an unemployment benefit under section 90 or a youth payment under section 161 or a young parent payment under section 167.
-(1B) This subsection applies to a person if, after the commencement of this subsection and before 15 July 2013, the person is aged 65 years old or older and is receiving a benefit under this Act that is not—
-  (a) a domestic purposes benefit for care of the sick or infirm; or
-  (b) an emergency benefit; or
-  (c) an invalid’s benefit; or
-  (d) temporary additional support.
-(1C) The chief executive may cancel the benefit being received by a person to whom subsection (1B) applies and grant the person instead an emergency benefit payable at the same rate of benefit as the benefit the person was receiving.
-(1D) In exercising the power given by subsection (1C), the chief executive is not required to—
-  (a) exercise discretion; or
-  (b) determine whether the person would meet the requirements in subsection (1) for an emergency benefit.
+  (b) that he is not qualified to be granted a main benefit under this Act, New Zealand superannuation, or a veteran's pension:
+  provided that the chief executive may at any time, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for a supported living payment, sole parent support, or jobseeker support:
+  provided also that, where the chief executive is of the opinion that a person applying for or in receipt of a supported living payment, sole parent support, or jobseeker support should undergo a course of training in any occupation, or should submit himself for examination at any medical or psychological clinic, or should receive any medical or other treatment, or should undergo any course of training for the improvement of his physical or mental capacities, or should do any work required of him, or should take more adequate steps to secure suitable employment, the chief executive may, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for a supported living payment, sole parent support, or jobseeker support; and in any such case the grant or continuance of the emergency benefit may be made subject to the condition that he shall comply with the requirements of the chief executive in respect of any such matters.
+(1A) Where the chief executive is considering granting an emergency benefit on the grounds of hardship under subsection (1), the chief executive must first consider whether to grant jobseeker support under section 88C or a youth payment under section 161 or a young parent payment under section 167.
+(1B)
+(1C)
+(1D)
 (2) The rate of the emergency benefit shall, in each case, be in the discretion of the chief executive, but, except in any case where the beneficiary is receiving medical or other treatment, shall not exceed the rate to which the beneficiary would be entitled if he were qualified to receive such other benefit as in the opinion of the chief executive is analogous to the emergency benefit.
 (3) Every emergency benefit shall commence on such date and shall be continued for such period and subject to such conditions as the chief executive in each case determines.
 
+### 61AA Social obligations of person granted emergency benefit
+A person must comply with the person's social obligations under section 60RA(3) if the person—
+  (a) is a person with 1 or more dependent children; and
+  (b) is a person granted a benefit that is an emergency benefit; and
+  (c) is not a young person on whom obligations are placed under section 171(1) or (2).
+
 ### 61A Obligations of spouse or partner of person granted emergency benefit
 (1) This section applies to—
-  (a) the spouse or partner of a person granted an emergency benefit at a work-test married rate; or
+  (a) the spouse or partner of a person granted an emergency benefit at a work-test couple rate; or
   (b) a person (being a person who is under the age of 60) granted an emergency benefit under regulations made under section 155.
-(1A) The chief executive may, by notice in writing, require the spouse or partner of a person granted an emergency benefit at a work-test married rate to comply with the work test if the chief executive is satisfied that it is appropriate and reasonable to require that spouse or partner to seek, undertake, and be available for—
-  (a) part-time work, in the case of a spouse or partner whose youngest dependent child is aged 6 or older but under 18 years; or
+(1A) The chief executive may, by notice in writing, require the spouse or partner of a person granted an emergency benefit at a work-test couple rate to comply with the work test if the chief executive is satisfied that it is appropriate and reasonable to require that spouse or partner to seek, undertake, and be available for—
+  (a) part-time work, in the case of a spouse or partner whose youngest dependent child is aged 5 or older but under 18 years; or
   (b) full-time employment, in any other case.
 (2) A person to whom this section applies—
   (a) must comply with—
     (i) a requirement under section 60Q; and
     (ii) any other obligation arising under any of sections 60Q to 60S; or
   (b) if he or she is a work-tested spouse or partner, must comply with the work test.
+(3) A person must comply with the person's social obligations under section 60RA(3) if the person—
+  (a) is a person with 1 or more dependent children; and
+  (b) is the spouse or partner of (whether or not receiving all or any of the benefit instead of, or as well as) a person granted a benefit that is an emergency benefit; and
+  (c) is not a young person on whom obligations are placed under section 171(1) or (2).
 
 ### 61B Special provisions in respect of child supplements
 [Repealed]
+
+## Part 1H — Administration: maintenance proceedings, and maintenance payable to the Crown
 
 ### 61C Special powers of chief executive in respect of maintenance
 In respect of any period in which a benefit is payable, any officer of the department, without special appointment, may, as if he or she were the beneficiary, institute or appear personally or by agent in any proceedings under the Family Proceedings Act 1980 or the Child Support Act 1991 for or relating to—
@@ -1560,7 +1616,7 @@ In respect of any period in which a benefit is payable, any officer of the depar
   (c) either the beneficiary or the chief executive or any officer of the department, acting for and on behalf of the beneficiary, may institute and prosecute proceedings under Part 7 of the Family Proceedings Act 1980 (as preserved by section 259(1) of the Child Support Act 1991) for the enforcement of the maintenance order.
 (3) While any maintenance debt remains payable, the chief executive shall be served with all proceedings instituted under the Family Proceedings Act 1980 in relation to the maintenance order, by the delivery of a true copy of all documents filed in the proceedings to the relevant office of the department nearest to the court in which the proceedings are filed. The chief executive or any officer of the department shall, without special appointment, be entitled to appear and be heard in those proceedings.
 
-**Epidemics**
+## Part 1I — Epidemics
 
 ### 61CB Payment of benefits during epidemic in New Zealand
 (1) This subsection applies to any period comprising—
@@ -1618,7 +1674,7 @@ While a domestic epidemic management notice is in force, and for any period afte
   (e) any conditions subject which assistance is to be given.
 (3) The programme, and the matters stated in the notice establishing it, override every other provision of this Act.
 
-**Lump sum payments after death**
+## Part 1J — Funeral grants
 
 ### 61D Interpretation
 (1) In sections 61DB, 61DC, and 61DD, unless the context otherwise requires,—
@@ -1677,7 +1733,7 @@ If a child dies the chief executive may, in the chief executive's discretion, pa
 ### 61DG Applications for lump sum payments after death
 [Repealed]
 
-**Accommodation supplement**
+## Part 1K — Accommodation supplement
 
 ### 61DH Purpose of accommodation supplement
 The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted financial assistance to help certain people with high accommodation costs to meet those costs.
@@ -1693,7 +1749,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
     (c) in relation to a person who is a boarder or lodger in any premises, 62% of the amount paid for board or lodging (excluding any arrears):
       provided that, where a person is a joint tenant or owner in common of any premises with another person or other persons living in the premises, that applicant's accommodation costs shall be the share of the total accommodation costs of the premises that the chief executive is satisfied the person is paying
   - **beneficiary** means any person who is being paid—
-    (a) an unemployment benefit or a sickness benefit, a widow's benefit, a domestic purposes benefit, an invalid's benefit, a youth payment, a young parent payment, or an emergency benefit; or
+    (a) jobseeker support, sole parent support, a supported living payment, a youth payment, a young parent payment, or an emergency benefit; or
     (b) New Zealand superannuation or a veteran's pension
   - **cash assets** —
     (a) means—
@@ -1790,7 +1846,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 ### 61FD Rate of tenure protection allowance
 [Repealed]
 
-**Temporary additional support**
+## Part 1L — Temporary additional support
 
 ### 61G Temporary additional support
 (1) The purpose of temporary additional support is to provide temporary financial assistance within the prescribed limits as a last resort to alleviate the financial hardship of people whose essential costs cannot be met from their chargeable income and other resources, while ensuring that people seeking or granted that assistance take reasonable steps to reduce their costs or increase their chargeable incomes.
@@ -1822,7 +1878,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   - **standard costs** has the same meaning as in section 132AB(1)(b)
   - **tax credit** means a credit of tax or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
 
-**Childcare assistance**
+## Part 1M — Childcare assistance
 
 ### 61GA Childcare assistance
 (1) The purpose of childcare assistance is to provide targeted financial assistance to help certain people meet the costs of childcare.
@@ -1830,6 +1886,8 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 (3) Childcare assistance granted to an applicant, in accordance with this section and regulations made under section 132AC, must be granted—
   (a) in the prescribed amount; and
   (b) for the prescribed period.
+
+## Part 1N — Administration: rates of benefits, and other provisions on monetary benefits
 
 **Alteration of rates of benefits**
 
@@ -1840,7 +1898,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (b) amend the definitions, in section 3(1), of the terms Income Test 1, Income Test 2, Income Test 3, and Income Test 4; and
   (c) amend Schedule 4 of the Social Welfare (Transitional Provisions) Act 1990; and
   (ca) amend Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; and
-  (d) amend Schedules 3, 16, and 31, and Schedules 4, 6, 9, 17 to 19, 22, 23, 26, 27, and 28—
+  (d) amend Schedules 3, 3A,16, and 31, and Schedules 4, 6, 9, 18, 19, 22, 23, 26, 27, and 28—
 (1A) An Order in Council made under subsection (1) may not increase the period of a benefit stand down for a given income.
 (2) Every Order in Council made under subsection (1) shall state the date from which it is to have effect (which may be a date before the date on which it was made) and shall apply to benefits, allowances, lump sum payments, subsidy rates, maximum amounts of supplements, asset limits, income exemptions, advances, cash assets tests, benefit stand down income test, and annual and weekly income tests payable or applicable in respect of the period commencing on the date from which it is to have effect and ending with the day before the date of its revocation by a subsequent Order in Council. In respect of lump sum payments on death, the Order in Council shall state that it applies in respect of persons who die on or after such date as may be specified in the Order in Council. Nothing in this subsection shall authorise any payment to be made before the order is made.
 (3) Every Order in Council made under this section and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 shall expire on the close of the period of 12 months commencing with the date on which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
@@ -1851,7 +1909,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 
 ### 61HA Annual CPI adjustment of rates of certain benefits
 (1) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
-(2) The rates of benefits set out in Schedules 3, 4, 6, 9, 16, 17, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(2) The rates of benefits set out in Schedules 3, 3A, 4, 6, 9, 16, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
@@ -1895,7 +1953,7 @@ Where a child aged 18 years or over is not financially independent and is attend
 [Repealed]
 
 ### 66 Exemption of income from friendly or like society
-(1) Notwithstanding anything to the contrary in this Act, where an applicant for New Zealand superannuation, a widow's benefit, a domestic purposes benefit, an invalid's benefit, or a sickness benefit, or the husband or the wife or the partner of any such applicant, is in receipt of a sick benefit from a friendly society or a like benefit from any other source, the chief executive, in computing pursuant to this Act the rate of any such benefit, shall take no account of any income up to, in the aggregate, the amount specified in Schedule 10 received by way of sick benefit from a friendly society or by way of like benefit from any other source.
+(1) Notwithstanding anything to the contrary in this Act, where an applicant for New Zealand superannuation, sole parent support, a supported living payment, or jobseeker support on the ground of sickness, injury, or disability, or the husband or the wife or the partner of any such applicant, is in receipt of a sick benefit from a friendly society or a like benefit from any other source, the chief executive, in computing pursuant to this Act the rate of any such benefit, shall take no account of any income up to, in the aggregate, the amount specified in Schedule 10 received by way of sick benefit from a friendly society or by way of like benefit from any other source.
 (2) If any question arises as to whether any income received or receivable is of a like nature to a sick benefit payable by a friendly society, it shall be determined by the chief executive.
 
 ### 66A Special exemption for severe disablement
@@ -1946,9 +2004,11 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 ### 69B Television-licence-fee concessions
 [Repealed]
 
+## Part 1O — Disability provisions
+
 ### 69C Disability allowance
 (1) The chief executive may, in the chief executive's discretion, grant a disability allowance at a rate not exceeding the amount specified in Schedule 19, to or on account of—
-  (a) any person who is in receipt of an invalid's benefit, a widow's benefit, a domestic purposes benefit, an unemployment benefit or a sickness benefit, a youth payment, or a young parent payment, or a related emergency benefit payable under section 61; or
+  (a) any person who is in receipt of a supported living payment, sole parent support, jobseeker support, a youth payment, or a young parent payment, or a related emergency benefit payable under section 61; or
   (b)
   (c) any person whose income, including the income of the person's spouse or partner and any New Zealand superannuation or veteran's pension payable to the person or the person's spouse or partner, is less than the appropriate amount in Part 3 of Schedule 31; or
   (d) the dependent spouse or partner or dependent child of any person referred to in paragraphs (a) to (c).
@@ -1970,7 +2030,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 (3) Before a disability allowance is granted under this section, the chief executive may require the applicant, or the spouse or partner or child of the applicant, as the case may require, to be examined by a medical practitioner nominated by the chief executive for the purpose.
 (4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a war disablement pension under the War Pensions Act 1954, or an entitlement under the Accident Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
 (5) Notwithstanding anything in this section but subject to section 68A, if—the chief executive shall grant a special disability allowance at the rate specified in Schedule 19 to the recipient for the purpose of defraying expenses arising from the hospitalisation of the spouse or partner.
-  (a) a person who is married or in a civil union or in a de facto relationship (the recipient) is in receipt of New Zealand superannuation or a veteran's pension, or of an invalid's benefit, or an unemployment benefit or a sickness benefit, or a related emergency benefit; and
+  (a) a person who is married or in a civil union or in a de facto relationship (the recipient) is in receipt of New Zealand superannuation or a veteran's pension, or of a supported living payment on the ground of sickness, injury, disability, or total blindness, or jobseeker support, or a related emergency benefit; and
   (b) the recipient's spouse or partner is either—
     (i) a patient in a hospital (as defined in section 75(1)) who is in receipt of a reduced benefit under section 75(3) or (4); or
     (ii) a resident assessed as requiring care (as defined in section 136), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or 142,—
@@ -2055,6 +2115,8 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
   (b) whose ability to pay for home-based disability support services has been assessed under this section—
 (9) Every person whose ability to pay for home-based disability support services has been assessed under this section must forthwith advise the department of any change in the circumstances of that person or his or her spouse or partner that affects that person's ability to pay for his or her home-based disability support services.
 
+## Part 1P — Administration: overseas pensions, other conditions of benefits, reviews, and payments, debts, and deductions
+
 **Overseas pensions**
 
 ### 69G Reasonable steps to be taken to obtain overseas pension
@@ -2123,18 +2185,19 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (b) the amount of the overseas pension that that overseas pensioner is entitled to receive or has received in that period.
 (5) Subsections (3) and (4) shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
+**Other conditions of benefits**
+
 ### 70A Rates of benefits for sole parents may be reduced
 (1) This section applies to any beneficiary—
   (a) who is a sole parent; and
   (b) who is in receipt of one of the following benefits:
-    (i) a domestic purposes benefit granted under section 27B; or
-    (ii) a widow's benefit granted, on an application made after 24 July 1990, under section 21; or
-    (iii) an invalid's benefit granted, on an application made after 24 July 1990, under section 40; or
+    (i) sole parent support under section 20D; or
+    (ii)
+    (iii) a supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B; or
     (iiia)
-    (iv) a sickness benefit; or
-    (v) an unemployment benefit; or
+    (iv)
+    (v) jobseeker support; or
     (va) a young parent payment; or
-    (va)
     (vi) an emergency benefit granted, on an application made after 31 July 1991, under section 61; and
   (c) who, in respect of any dependent child in the care of the beneficiary, fails or refuses—
     (i) to identify who is in law the other parent of that child; or
@@ -2200,7 +2263,7 @@ Notwithstanding anything to the contrary in this Act,—
     (ii) a pension or a mother's allowance granted to that person as the widow of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine; or
     (iii) an allowance in respect of services rendered as an attendant on a disabled member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine,—
     provided also that, if a mother's allowance is payable to a widow under the War Pensions Act 1954, the rate of benefit shall not exceed the benefit that could be paid to that widow if she had no dependent child or children:
-    provided further that any person may receive an invalid's benefit or a sickness benefit, or a youth payment or young parent payment granted pursuant to section 158(2)(c)(ii) or 164(2)(c)(ii) to a person who qualifies for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a) on the ground of his or her sickness, injury, or disability or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
+    provided further that any person may receive a supported living payment on the ground of sickness, injury, disability, or total blindness, or jobseeker support on the ground of sickness, injury, or disability, or a youth payment or young parent payment granted pursuant to section 158(2)(c)(ii) or 164(2)(c)(ii) to a person who qualifies for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a) on the ground of his or her sickness, injury, or disability or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
   (c) where any part of a benefit is payable in respect of the spouse or partner of an applicant, that part shall not be paid for any period when a personal benefit is payable in respect of the spouse or partner.
 
 ### 73 Limitation where applicant entitled to claim under Family Protection Act 1955
@@ -2224,11 +2287,15 @@ Notwithstanding anything to the contrary in this Act,—
 (1) A person who applies for a benefit of a kind stated in subsection (2) after 27 May 2007 is not eligible for it unless he or she—
   (a) is a New Zealand citizen, or is a person who holds a residence class visa under the Immigration Act 2009; and
   (b) is ordinarily resident in New Zealand when he or she first applies for the benefit; and
-  (c) except in the case of a person who is recognised as a refugee or a protected person in New Zealand under the Immigration Act 2009, has resided continuously in New Zealand for a period of at least 2 years at any one time after the day on which paragraph (a) first applied to him or her.
-(1A) Subsection (1) does not apply to a person at a time when—
+  (c) except in the case of a person who is recognised as a refugee or a protected person in New Zealand under the Immigration Act 2009, has resided continuously in New Zealand for a period of at least 2 years at any one time,—
+    (i) if subsection (1A) applies to the person,—
+      (A) before he or she applies for the benefit; or
+      (B) before a decision on his or her claim for the benefit is made under section 12; and
+    (ii) in any other case, after the day on which paragraph (a) first applied to him or her.
+(1A) Subsection (1)(a) and (b) do not apply to a person at a time when—
   (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
   (b) he or she is ordinarily resident in that country.
-(2) The benefits referred to in subsection (1) are a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, an unemployment benefit, and a widow's benefit.
+(2) The benefits referred to in subsection (1) are a youth payment, a young parent payment, a supported living payment, jobseeker support, and sole parent support.
 
 ### 74A Persons unlawfully resident or present in New Zealand
 (1) A person is not entitled to receive a benefit who is—
@@ -2254,20 +2321,57 @@ Notwithstanding anything to the contrary in this Act,—
 
 ### 75 Beneficiaries in hospital
 (1) For the purposes of this section, hospital means a hospital operated by a district health board within the meaning of the New Zealand Public Health and Disability Act 2000.
-(2) Notwithstanding anything to the contrary in this Act or in the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954, if a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who is in receipt of a benefit (other than an unsupported child's benefit or an orphan's benefit), or who becomes entitled to receive such a benefit, is a patient in a hospital for a period of 13 weeks or less, the rate of the benefit shall not be affected.
-(3) If a person to whom subsection (2) applies (other than a person in receipt of, or entitled to receive, a veteran's pension or a person who is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142) is a patient in a hospital for more than 13 weeks, the rate of benefit payable on and after the commencement of the 14th week of hospitalisation, subject to subsection (4), shall be the rate specified in Schedule 22.
+(2) If a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who is in receipt of a main benefit under this Act), or who becomes entitled to receive such a benefit, is a patient in a hospital for a period of 13 weeks or less, the rate of the benefit is, despite anything to the contrary in this Act, unaffected.
+(3) If a person to whom subsection (2) applies is a patient in a hospital for more than 13 weeks, the rate of benefit payable on and after the commencement of the 14th week of hospitalisation, subject to subsection (4), shall be the rate specified in Schedule 22.
 (4) Notwithstanding the provisions of subsection (3), the chief executive may in the chief executive's discretion—
   (a) pay to any patient to whom that subsection applies a higher rate than the rate specified in Schedule 22 after having regard to the patient's personal financial circumstances.
   (b)
-(5) If, after 13 weeks' hospitalisation, the benefit of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (3) or subsection (4), and that person's spouse or partner either is not in hospital or has been in hospital for less than 13 weeks, any benefit payable to or in respect of the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
+(5) If, after 13 weeks' hospitalisation, the benefit of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (3) or subsection (4), and that person's spouse or partner either is not in hospital or has been in hospital for less than 13 weeks, a main benefit under this Act payable to or in respect of the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
   (a) the maximum rate of benefit payable to a single person; and
   (b) the maximum rate of benefit payable in respect of a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving a benefit.
 (6) In any case where the rate of a benefit has been reduced in accordance with this section and the beneficiary in hospital is absent from the hospital for not more than 28 days, the rate of benefit payable on return to hospital shall be determined as if that absence has not occurred.
 (7) Nothing in this section shall be construed to entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of benefit, as a result of hospitalisation, than would otherwise have been payable.
-(8) Nothing in this section applies to New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001.
+(8)
 
 ### 75A Beneficiaries in institutions under Alcoholism and Drug Addiction Act 1966
 Notwithstanding anything to the contrary in this Act, where a beneficiary, or any other person in respect of whom a benefit is payable, is a resident of an institution certified under the Alcoholism and Drug Addiction Act 1966 (not being a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992) or of any institution which is fulfilling a similar purpose to an institution certified under that Act, the rate of any benefit payable in respect of the period of residence in such institution shall be determined by the chief executive after taking into account all of the beneficiary's financial circumstances and commitments.
+
+### 75B Effect on benefit of warrant to arrest beneficiary
+(1) This section applies to a beneficiary who is not an excluded beneficiary (as defined in subsection (2)) if the chief executive is satisfied (based on information available to the chief executive) that—
+  (a) criminal proceedings have been commenced against the beneficiary in a New Zealand court for an offence (other than an offence of a class, description, or kind excluded from the operation of this paragraph by regulations made under section 132L); and
+  (b) a New Zealand court has (or 1 or more of the court's Judges or Registrars has or have) in, or in connection with, those criminal proceedings, issued a warrant for the beneficiary's arrest; and
+  (c) at least 28 days have elapsed since the date on which the warrant was issued.
+(2) Excluded beneficiary, in subsection (1), means,—
+  (a) for the purposes of subsections (3) to (6), a beneficiary who is—
+    (i) a young person (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989); or
+    (ii) a beneficiary who is not receiving a main benefit under this Act, New Zealand superannuation, or a veteran’s pension; or
+    (iii) a beneficiary (for example, one who is receiving a main benefit under this Act, New Zealand superannuation, or a veteran’s pension, but) who falls within a class, description, or kind of beneficiary excluded from the operation of all of the provisions of this section by regulations made under section 132L; and
+  (b) for the purposes of subsections (7) and (8), a beneficiary who is—
+    (i) a young person (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989); or
+    (ii) a beneficiary who falls within a class, description, or kind of beneficiary excluded from the operation of all of the provisions of this section by regulations made under section 132L.
+(3) The chief executive must as soon as practicable give the beneficiary a notice (to be delivered in accordance with section 86J) that—
+  (a) allows a period of 10 working days within which the beneficiary may dispute that he or she is the person to whom the warrant to arrest applies or take steps to resolve the warrant; and
+  (b) specifies the steps that the beneficiary may take to dispute that he or she is the person to whom the warrant to arrest applies or to resolve the warrant; and
+  (c) specifies the consequences of the beneficiary's not resolving the warrant within that 10-working-day period.
+(4) A notice under subsection (3) involving information supplied by the Ministry of Justice under section 126AC may be combined with a notice of adverse action given under section 103(1) of the Privacy Act 1993.
+(5) This subsection applies to the beneficiary unless, at the end of the 10-working-day period specified in the notice, the chief executive is satisfied (based on evidence provided by the beneficiary, or other information available to the chief executive, or both) of 1 of the following:
+  (a) that the beneficiary is not the person to whom the warrant applies; or
+  (b) that the beneficiary has taken all reasonable steps to resolve the warrant, but the warrant has for reasons beyond the beneficiary's control not been resolved; or
+  (c) that the warrant has been resolved.
+(6) The benefit of a beneficiary to whom subsection (5) applies is not payable until the chief executive is satisfied (based on information provided by the beneficiary, otherwise available to the chief executive, or both) of 1 of the following:
+  (a) that the beneficiary is not the person to whom the warrant applies; or
+  (b) that the warrant has been resolved.
+(7) Despite subsections (1)(c) and (3) to (6), the chief executive may suspend immediately the benefit of a beneficiary to whom subsection (1)(a) and (b) apply if satisfied that—
+  (a) the department has received from the New Zealand Police a written request to suspend the beneficiary's benefit on the ground that the Commissioner of Police on reasonable grounds considers the beneficiary to be a risk to public safety; and
+  (b) that request is signed by the Commissioner of Police or a constable who is of or above the level of position of inspector.
+(8) As soon as is reasonably practicable after a suspension under subsection (7) of the benefit of a beneficiary, the chief executive must give the beneficiary a notice (to be delivered in accordance with section 86J) that—
+  (a) communicates the fact of, and reason for, the suspension; and
+  (b) specifies the steps that the beneficiary may take to dispute that he or she is the person to whom the warrant applies or to resolve the warrant.
+(9) The following apply to a benefit that is not payable under subsection (6), or that is suspended under subsection (7), as if the benefit had been suspended under section 117:
+  (a) section 80C (effect of work test on entitlement to supplementary benefits and on spouses or partners):
+  (b) section 120 (modified effect in some cases of sanctions on rate of benefit for people married or in civil union or de facto relationship):
+  (c) section 121 (effect of sanctions on benefit of sole parent).
+(10) However, section 120(1) (which protects a spouse or partner), but no other provision of section 120, ceases to apply under subsection (9)(b) to the benefit at the close of the 28th day after the date on which it becomes not payable under subsection (6) or, as the case requires, is suspended under subsection (7).
 
 ### 76 Forfeiture of benefit during detention in a prison
 (1) Except as provided in subsection (2) or subsection (3), a benefit shall not be payable in respect of any period during which the beneficiary is imprisoned or detained in, or is an escapee from, a prison, pursuant to a sentence of imprisonment, preventive detention, or corrective training.
@@ -2277,19 +2381,49 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
 (5) For the purposes of this section, the chief executive may in the chief executive's discretion regard as a period of imprisonment or detention in a prison, or a period of remand in custody, any period during which a person is a patient in a hospital within the meaning of section 75(1) while serving a sentence of imprisonment, preventive detention, or corrective training, or while remanded in custody.
 (6) For the purposes of this section, a person shall still be considered to be imprisoned or detained if he or she has been released from a prison, for any purpose authorised by the Corrections Act 2004, for a period not exceeding 24 hours.
 
-### 77 Effect of absence of beneficiary from New Zealand
-(1) Except as provided in this section or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990 or in sections 21 to 35 of the New Zealand Superannuation and Retirement Income Act 2001 or in sections 74E to 74T of the War Pensions Act 1954, a benefit is not payable while a beneficiary is absent from New Zealand.
-(2) A benefit (other than an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or a youth payment or young parent payment) that would otherwise be payable to a beneficiary shall be payable in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied that the absence does not affect the beneficiary's eligibility for the benefit.
-(3) The chief executive may, in the chief executive's discretion, pay an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or a youth payment or young parent payment that would otherwise be payable to a beneficiary in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied—
-  (a) that the requirements set out in subsection (2) have been met; or
-  (b) that for humanitarian reasons the beneficiary is required to be absent from New Zealand.
-(3A) The chief executive may, in the chief executive's discretion, pay an invalid's benefit for a period (not exceeding 6 weeks) in which a beneficiary (not being a work-tested spouse or partner of an invalid's beneficiary) is absent from New Zealand, where the chief executive is satisfied that the beneficiary would, but for his or her absence from New Zealand, continue to be eligible for the invalid's benefit.
+### 77 Effect of absence of beneficiary from New Zealand: provisions
+(1) A benefit is not payable while a beneficiary is absent from New Zealand unless the benefit is so payable under—
+  (a) the other provisions of this section; or
+  (b) any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990; or
+  (c) sections 21 to 35 of the New Zealand Superannuation and Retirement Income Act 2001; or
+  (d) sections 74E to 74T of the War Pensions Act 1954.
+(2) A benefit is payable to a beneficiary in respect of any 1 or more absences of the beneficiary from New Zealand equal to or shorter than 4 weeks in total in any 52-week period if—
+  (a) the benefit is not a benefit of a kind specified in subsection (2A); and
+  (b) the benefit would, but for those 1 or more absences, be payable to the beneficiary; and
+  (c) the chief executive is satisfied that the 1 or more absences do not affect the beneficiary's eligibility for the benefit.
+(2A) The kinds of benefits referred to in subsections (2)(a) and (3)(a) are—
+  (a) sole parent support for a work-tested beneficiary:
+  (ab) supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B, for a work-tested spouse or partner:
+  (b) jobseeker support (other than jobseeker support for a spouse or partner who is not a work-tested spouse or partner):
+  (c) an emergency benefit:
+  (d) any benefit that, but for the 1 or more absences referred to in subsection (2) or (3), would be payable to a beneficiary who is subject to 1 or more requirements made under section 60Q(3):
+  (e) a youth payment or young parent payment.
+(3) The chief executive may, in the chief executive's discretion, pay a benefit to a beneficiary in respect of any 1 or more absences of the beneficiary from New Zealand equal to or shorter than 4 weeks in total in any 52-week period if—
+  (a) the benefit is a benefit of a kind specified in subsection (2A); and
+  (b) the benefit would, but for those 1 or more absences, be payable to the beneficiary; and
+  (c) the chief executive is satisfied that the payment of the benefit complies with any applicable criteria prescribed for the purposes of this subsection by regulations made under section 132.
+(3AA) If satisfied that relevant qualifying circumstances (as defined for the purposes of this subsection by regulations made under section 132) apply to or in respect of a beneficiary, the chief executive may, in the chief executive's discretion, determine that a benefit may be paid under subsection (2) or (3) in respect of any 1 or more absences of the beneficiary from New Zealand longer than 4 weeks in total in any 52-week period.
+(3A) The chief executive may, in the chief executive's discretion, pay a supported living payment on the ground of sickness, injury, disability, or total blindness for a period (not exceeding 6 weeks) in which a beneficiary (not being a work-tested spouse or partner of a supported living payment beneficiary) is absent from New Zealand for the sole or predominant purpose of competing in any overseas multinational or international Special Olympic or Paralympic Games competition, if the chief executive is satisfied that the beneficiary would, but for his or her absence from New Zealand, continue to be eligible for the supported living payment.
 (4) The chief executive may, in the chief executive's discretion, pay a benefit to any person who would otherwise be entitled to receive it, but who is absent from New Zealand for any period or periods not exceeding 2 years in total because—
   (a) that person or his or her spouse or partner, dependent child, or sibling is receiving medical treatment overseas for which the Ministry of Health is granting assistance; or
-  (b) the person is in receipt of an invalid's benefit granted on the grounds of his or her sickness, injury, disability, or total blindness, and is absent from New Zealand in order to receive vocational training or disability assistance-dog training; and the chief executive is satisfied that—
+  (b) the person is in receipt of a supported living payment granted on the grounds of his or her sickness, injury, disability, or total blindness, and is absent from New Zealand in order to receive vocational training or disability assistance-dog training; and the chief executive is satisfied that—
     (i) the training is an activity, or is linked to a goal, included in the person's employment plan; and
     (ii) the person could not obtain the training in New Zealand during the period or periods of absence.
 (5) For the purposes of this section, if a person who is absent from New Zealand would have become entitled to a benefit during his or her absence but for subsection (1), the person's absence shall be regarded as having commenced on the day he or she would have become so entitled.
+(6) A beneficiary who proposes to be absent from New Zealand has a duty imposed by this subsection to notify an officer of the department, before that absence, of the beneficiary's forthcoming absence from New Zealand. No beneficiary has any entitlement under subsection (2), (3), (3AA), (3A), or (4) to be paid a benefit while overseas unless that beneficiary has performed that duty, and therefore notified an officer of the department, before that absence, of the beneficiary's forthcoming absence.
+(7) In particular, if the beneficiary fails to perform his or her duty to notify under subsection (6), and after departing from New Zealand notifies an officer of the department of the beneficiary's current absence from New Zealand, the beneficiary's entitlement under subsection (2), (3), (3AA), (3A), or (4) to be paid a benefit while overseas (if the beneficiary is otherwise qualified to be paid that benefit) commences no earlier than the date of the notification.
+(8) Despite subsections (6) and (7), the chief executive may, in his or her discretion, authorise the beneficiary's entitlement under subsection (2), (3), (3AA), (3A), or (4) to commence on or after the beneficiary's departure if the chief executive is satisfied that—
+  (a) both the beneficiary's absence from New Zealand, and the beneficiary's failure to notify an officer of the department, before that absence, of the beneficiary's forthcoming absence from New Zealand, are justified for 1 or more good and sufficient humanitarian reasons (as the term humanitarian reasons is defined for the purposes of this paragraph by regulations made under section 132); and
+  (b) the beneficiary after departing from New Zealand notified an officer of the department of the beneficiary's current absence from New Zealand as soon as was reasonably practicable in the circumstances.
+(9) Nothing in subsections (2) to (8) applies to the following:
+  (a) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001:
+  (b) veterans' pensions payable under Part 6 of the War Pensions Act 1954:
+  (c) entitlements pursuant to an agreement or convention that is given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+
+### 77A Effect of absence of beneficiary from New Zealand: department must explain provisions
+The chief executive must take reasonable and appropriate steps to make every person who is, or appears to the chief executive to be likely to be, affected by a provision of section 77 aware of—
+  (a) the existence, and substance, of the provision; and
+  (b) the consequences or possible consequences of the operation of the provision.
 
 ### 78 Effect of absence of beneficiary from New Zealand on residential qualification
 (1) If any person leaves New Zealand while in receipt of a benefit and returns to take up ordinary residence in New Zealand at any time within 5 years, he shall not, on a subsequent application for a benefit of the same class, be required to comply with the residential qualifications applicable in the case of an original application for a benefit of that class.
@@ -2308,7 +2442,7 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (b) the date the application for it was received.
 (2) A benefit is subject to a stand down, and commences on a date calculated in accordance with section 80BA, if—
   (a) the benefit is a work-tested benefit or a youth payment or a young parent payment (other than a youth payment or a young parent payment granted to a person undertaking employment-related training or who is enrolled in a course of secondary instruction) and the applicant is not subject to a non-entitlement period; or
-  (b) the benefit is a widow's benefit, a domestic purposes benefit, a sickness benefit, or an invalid's benefit.
+  (b) the benefit is sole parent support, jobseeker support on the ground of sickness, injury, or disability, or a supported living payment.
 (3) Subsection (2) is subject to subsections (5) to (10) (which relate to exemptions from the benefit stand down).
 (4) If the applicant is subject to a non-entitlement period,—
   (a) a work-tested benefit granted conditionally under section 123B is subject to a stand down and commences on a date calculated in accordance with section 80BA if—
@@ -2318,14 +2452,14 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
     (i) the date the applicant became entitled to receive it; or
     (ii) the date the application for it was received.
 (5) A benefit shall commence on the latest of the date the person became entitled to receive it, or the day after the date the person's employment ceased, or the date the application for it was received, if—
-  (a) the benefit is an unemployment benefit, a youth payment, or a young parent payment and the person is participating in a training course approved by the chief executive; or
-  (b) the benefit is a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, or an unemployment benefit applied for by a person who has entered a refuge following the breakdown of the person's marriage, civil union, or de facto relationship; or
-  (c) the benefit is a sickness benefit, and the applicant—
+  (a) the benefit is a youth payment or a young parent payment and the person is participating in a training course approved by the chief executive; or
+  (b) the benefit is sole parent support, a youth payment, a young parent payment, a supported living payment, or jobseeker support applied for by a person who has entered a refuge following the breakdown of the person's marriage, civil union, or de facto relationship; or
+  (c) the benefit is jobseeker support on the ground of sickness, injury, or disability, and the applicant—
     (i) is suffering from a chronic illness; and
-    (ii) has applied for a sickness benefit, or a community wage on the grounds of sickness, injury, or disability, for that illness on a prior occasion; or
-  (ca) the benefit is an invalid's benefit, and the applicant—
-    (i) is sick or is suffering from an injury or disability from accident or congenital defect; and
-    (ii) has applied for an invalid's benefit on the grounds of that sickness, injury, or disability on a prior occasion; or
+    (ii) has applied for a sickness benefit, or a community wage or jobseeker support (in either case) on the grounds of sickness, injury, or disability, for that illness on a prior occasion; or
+  (ca) the benefit is a supported living payment on the ground of sickness, injury, disability, or total blindness, and the applicant—
+    (i) is sick or is suffering from an injury or disability from accident or existing from birth; and
+    (ii) has applied for an invalid's benefit or a supported living payment (in either case) on the ground of that sickness, injury, or disability on a prior occasion; or
   (d) the applicant for the benefit—
     (i) previously received a benefit which was cancelled because he or she was imprisoned or detained for less than 31 days in a prison (as defined in the Corrections Act 2004); and
     (ii) applied for the benefit immediately following his or her release from the prison.
@@ -2348,8 +2482,8 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (a) the person has become eligible for the benefit while receiving another benefit; and
   (b) the benefit is granted instead of that other benefit.
 (14) A disability allowance shall commence on the same day that a benefit commences if that allowance was applied for at the same time as the benefit and the benefit is—
-  (a) a widow's benefit, a domestic purposes benefit, a young parent payment, or a sickness benefit; or
-  (b) an invalid's benefit.
+  (a) sole parent support, a young parent payment, or jobseeker support on the ground of sickness, injury, or disability; or
+  (b) a supported living payment.
 
 ### 80AA Minister may allow back-dating of benefit where earlier failure to grant it based on error
 (1) With the consent of the Minister (given in relation to a particular applicant or applicants of a stated kind or description) a benefit (or a benefit of a stated kind) may commence at a time earlier than the time an application for it was made.
@@ -2398,6 +2532,9 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
       (xii)
       (xiii)
     (ab) the amount of any youth payment or young parent payment received by the person:
+    (ac) the amount of any sole parent support received by the person:
+    (ad) the amount of any supported living payment received by the person:
+    (ae) the amount of any jobseeker support received by the person:
     (b) the amount of any tax withheld or deducted for any of those benefits under section RD 11(3) of the Income Tax Act 2007
   - **redundancy payment** means a payment (before the deduction of income tax) made in relation to the termination of a person's employment if—but does not include—
     (a) the main reason for the termination is that the person's position is or will be superfluous to the employer's needs, and the person is not a seasonal worker; or
@@ -2440,9 +2577,14 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
   (a) benefits except those described in paragraph (b) commence on the later of—
     (i) the day on which the stand down period ends; or
     (ii) the day on which the application for the benefit is received:
-  (b) a benefit—commences on the day on which the stand down period ends.
-    (i) that is a widow's benefit, a domestic purposes benefit, an invalid's benefit, a youth payment, a young parent payment or a sickness benefit; and
-    (ii) for which the application is received within 28 days after the date on which the person becomes entitled to the benefit—
+  (b) a benefit commences on the day on which the stand down period ends if the application for the benefit is received within 28 days after the date on which the person becomes entitled to the benefit, and the benefit is—
+    (i) sole parent support; or
+    (ii) a supported living payment; or
+    (iii) jobseeker support granted on the ground of sickness, injury, or disability; or
+    (iv) jobseeker support granted to a sole parent; or
+    (v) jobseeker support granted to a person who has recently lost the financial support of his or her spouse or partner by reason of death, the spouses or partners commencing to live apart, or the ending of a de facto relationship; or
+    (vi) a youth payment; or
+    (vii) a young parent payment.
 (5) This section is subject to section 80BB (which relates to delayed redundancy and retirement payments) and section 80BC (which relates to seasonal workers made redundant after a seasonal lay-off).
 
 ### 80BB Delayed redundancy and retirement payments
@@ -2468,21 +2610,66 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
 (1) Every benefit shall end on a date the chief executive sets, to be—
   (a) a date no earlier than the pay day before the date on which entitlement to the benefit ceased; and
   (b) a date no later than the pay day after that date.
-(2) The general provision in subsection (1) is subject to subsections (3) to (7).
-(3) Subsection (4) applies to a person receiving New Zealand superannuation, a veteran's pension, a widow's, domestic purposes, invalid's, or youth payment, or young parent payment, or an unemployment benefit or a sickness benefit, or a related emergency benefit.
+(2) The general provision in subsection (1) is subject to subsections (3) to (8).
+(3) Subsection (4) applies to a person receiving New Zealand superannuation, a veteran's pension, sole parent support, a supported living payment, jobseeker support, a youth payment, or a young parent payment or a related emergency benefit.
 (4) If a person referred to in subsection (3) dies, the benefit ends 4 weeks following the death if—
   (a) the person leaves a spouse or partner or a child; and
   (b) the spouse or partner or child are not entitled to a lump sum payment under section 56 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 444 of the Accident Insurance Act 1998 or section 382 of the Accident Compensation Act 2001.
-(5) In all other cases—
-  (a)
-  (b) every benefit ends—
-    (i) on the date of the beneficiary's death; or
-    (ii) on a date set by the chief executive (being a date no later than 4 weeks after the date of the beneficiary's death).
-(6) A benefit or a rate of benefit payable to a sole parent ends 8 weeks after the beneficiary stops caring for the dependent child concerned if the beneficiary stops caring for the child because of a sudden change of circumstances beyond the beneficiary's control.
-(6A) A domestic purposes benefit under section 27G or a rate of that benefit ends 8 weeks after the beneficiary stops caring for the sick or infirm person concerned if the beneficiary stops caring for the sick or infirm person because the person dies, or is admitted to hospital, or enters residential care.
+(5) In all other cases, every benefit ends on a date set by the chief executive (being a date no later than 28 days after the date of the beneficiary's death).
+(6) A benefit or a rate of benefit payable to a sole parent ends 28 days after the beneficiary stops caring for the dependent child concerned if the beneficiary stops caring for the child because of a sudden change of circumstances beyond the beneficiary's control.
+(6A) A supported living payment under section 40D or a rate of that benefit ends 28 days after the beneficiary stops caring for the patient requiring care concerned if the beneficiary stops caring for that patient because that patient dies, or is admitted to hospital, or enters residential care.
 (7) An orphan's benefit or unsupported child's benefit ends—
   (a) on the date the child ceases to be entitled to the benefit; or
   (b) on a date set by the chief executive (being a date no later than 4 weeks after the date the child ceases to be entitled to the benefit).
+(8) A supported living payment on the ground of sickness, injury, disability, or total blindness and that is cancelled on medical grounds ends on a date set by the chief executive (being a date no later than 28 days after that cancellation of that benefit).
+
+### 80BE Expiry and re-grant of specified benefits
+(1) If it has not ceased earlier, a beneficiary's entitlement to a specified benefit ceases on the expiry date for that specified benefit (as those terms are defined in subsection (5)), and that benefit expires on that date. The specified benefit may be re-granted if that beneficiary reapplies for it in accordance with requirements in this Act or in regulations under section 132M for re-grant of it.
+(2) The chief executive must, not less than 20 working days before the expiry date for the specified benefit, give notice to that beneficiary stating—
+  (a) that entitlement to that benefit will cease unless the beneficiary reapplies for that benefit and it is re-granted; and
+  (b) the date on which entitlement to that benefit will cease; and
+  (c) what the beneficiary must do to reapply for that benefit and the period within which he or she must do so.
+(3) Subsection (2) does not apply if, at the time the chief executive is required to give notice under that subsection, the specified benefit—
+  (a) is suspended because the beneficiary is undertaking temporary employment; or
+  (b) is not for the time being payable under this Act (for example, under section 76 or 77); or
+  (c) is suspended under any provision of this Act other than section 117.
+(4) However, if at any time before the expiry date for that benefit any of the circumstances described in subsection (3) no longer exist, then the chief executive must, as soon as practicable, take reasonable steps to advise the beneficiary of the matters set out in subsection (2)(a) to (c).
+(5) In this section and section 80BF,—
+  - **expiry date** , in relation to a specified benefit, means the expiry date prescribed for that specified benefit by regulations under section 132M
+  - **specified benefit** means a benefit that is—
+    (a) jobseeker support; or
+    (b) sole parent support, supported living payment, or emergency benefit, unless that benefit is for the time being declared not to be a specified benefit for the purposes of this section and section 80BF by regulations under section 132M(1)(a).
+(6) Regulations under section 132M(1)(a) that declare a benefit referred to in subsection (5)(b) of this section not to be a specified benefit for the purposes of this section and section 80BF may, without limitation, declare not to be a specified benefit for those purposes either or both of the following:
+  (a) that benefit as granted on only 1 or more specified available eligibility grounds:
+  (b) that benefit as granted to only 1 or more specified categories, classes, or kinds of beneficiaries.
+(7) However, a specified benefit that expires under this section in the week that is, or is the week immediately before, the week that includes 26 December in a year must (despite section 80BD(1) and the rest of this section) continue to be paid until the first Monday after 2 January in the immediately following year.
+(8) However, the chief executive may, in any circumstances in which an exemption from expiry may be considered that are specified for the purposes of this section by regulations under section 132M, and by notice in writing copied as soon as practicable to every beneficiary concerned, exempt from expiry under this section, until an identified event or situation or time, and on identified conditions (if any), all or any specified benefits of an identified beneficiary or of all beneficiaries who fall within an identified class or description.
+
+### 80BF Requirements for re-grant of specified benefits
+(1) No specified benefit may be re-granted under this section to a person to whom section 80BE applies unless—
+  (a) the department has received—
+    (i) a reapplication form (provided by the chief executive for the purpose) completed by or on behalf of the beneficiary and his or her spouse or partner (if any) to the chief executive's satisfaction; and
+    (ii) any supporting evidence reasonably required by the chief executive; and
+  (b) the beneficiary and the beneficiary's work-tested spouse or partner (if any) have participated, to the satisfaction of the chief executive, in a comprehensive work assessment of a kind specified by the chief executive.
+(2) Subsection (1)(b) is subject to subsection (8).
+(3) If, in relation to a person, the requirements of subsection (1) are completed on or before the expiry date (as defined in section 80BE(5)) for the person's specified benefit,—
+  (a) the chief executive must re-grant the person's specified benefit if the chief executive is satisfied that the person meets or continues to meet the eligibility criteria for that benefit; and
+  (b) if re-granted, that benefit commences on that expiry date.
+(4) If, in relation to a person, the requirements of subsection (1) are completed after, but within 20 working days after, the expiry date for the person's specified benefit, and the chief executive is satisfied that there were exceptional circumstances that prevented those requirements from being completed on or before that expiry date,—
+  (a) the chief executive must re-grant the person's specified benefit if the chief executive is satisfied that—
+    (i) the person meets the eligibility criteria for that benefit set out in section 88B; and
+    (ii) after that expiry date, and unless exceptional circumstances prevented the person from doing so, the person continued to meet the eligibility criteria for that benefit; and
+  (b) if re-granted, that benefit commences on that expiry date.
+(5) If a person intending to reapply for the specified benefit contacts the department on or before the expiry date for the person's specified benefit,—
+  (a) the chief executive may set a time (being a time within 10 working days after that expiry date) before which the requirements of subsection (1) are to be completed; and
+  (b) if those requirements are completed before that time, the chief executive may re-grant that benefit under subsection (4).
+(6) Subsections (1) to (5) override section 11D(1).
+(7) The specified benefit must not be re-granted under this section to a person, and any reapplication form received from or on behalf of that person must be treated as an application form for the purposes of section 11D(2), if the requirements of subsection (1)—
+  (a) are not completed within 20 working days after the expiry date for the person's specified benefit; or
+  (b) were completed within that time but after that expiry date, and the chief executive is satisfied that there were no exceptional circumstances that prevented those requirements from being completed on or before that expiry date.
+(8) For the purposes of this section, a failure of a beneficiary's work-tested spouse or partner to participate in a comprehensive work assessment in accordance with subsection (1)(b)—
+  (a) must not be treated as a failure to complete the requirements of subsection (1); but
+  (b) must be treated as a failure by that spouse or partner to comply with his or her work test obligations.
 
 ### 80C Effect of work test on entitlement to supplementary benefits and on spouses or partners
 (1) A person is not entitled to receive an emergency benefit under section 61, or an accommodation supplement under section 61EA, or temporary additional support under section 61G or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004, while—
@@ -2500,17 +2687,22 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
   (d) that the incapacity in respect of which the claim was made occurred; or
   (e) that the applicant would have become entitled to that benefit—
 
+**Reviews, payments, debts, and deductions**
+
 ### 81 Review of benefits
 (1) The chief executive may from time to time review any benefit in order to ascertain—and for that purpose may require the beneficiary or his or her spouse or partner to provide any information or to answer any relevant question orally or in writing, and in the manner specified by the chief executive. If the beneficiary or his or her spouse or partner fails to comply with such a requirement within such reasonable period as the chief executive specifies, the chief executive may suspend, terminate, or vary the rate of benefit from such date as the chief executive determines.
   (a) whether the beneficiary remains entitled to receive it; or
   (b) whether the beneficiary may not be, or may not have been, entitled to receive that benefit or the rate of benefit that is or was payable to the beneficiary—
 (2) If, after reviewing a benefit under subsection (1), the chief executive is satisfied that the beneficiary is no longer or was not entitled to receive the benefit or is or was entitled to receive the benefit at a different rate, the chief executive may suspend, terminate, or vary the rate of the benefit from such date as the chief executive reasonably determines.
 (3) If, after reviewing a benefit under subsection (1), the chief executive considers the beneficiary is more appropriately entitled to receive some other benefit, the chief executive may, in his or her discretion, cancel the benefit the beneficiary was receiving and grant that other benefit commencing from the date of cancellation.
+(4) If, after reviewing under subsection (1) a benefit granted on a stated eligibility ground for that benefit, the chief executive considers that the beneficiary is more appropriately entitled to receive that benefit on another eligibility ground for that benefit, the chief executive may—
+  (a) cancel that benefit on the stated eligibility ground; and
+  (b) grant that benefit instead on the other eligibility ground commencing from the date of cancellation.
 
 ### 82 Payment of benefits
 (1) Every benefit shall be payable by instalments of such number of weeks' benefit on such day or date or such days or dates in the month as the chief executive from time to time determines.
 (2) The amount of a weekly instalment of a benefit that is payable at an annual rate shall be ascertained by dividing the annual rate by 52.
-(2A) The following benefits are paid in respect of a 7-day week: a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, an emergency benefit, an unemployment benefit, and a widow's benefit.
+(2A) The following benefits are paid in respect of a 7-day week: sole parent support, a youth payment, a young parent payment, a supported living payment, an emergency benefit, and jobseeker support.
 (3) Except as otherwise provided in this Act, every instalment of a benefit shall be paid to or on account of the beneficiary personally:
   provided that for good cause the chief executive may, in the chief executive's discretion, direct that payment of the whole or any part of an instalment, or any number of instalments, be paid—
     (a) to or on account of some other person authorised by the beneficiary or, in the case of a beneficiary who lacks sufficient capacity in law, to any person appointed by the chief executive for the purpose of receiving it; or
@@ -2751,24 +2943,7 @@ Every person commits an offence and shall be liable on conviction to a fine not 
 (1) This section applies to any payment before the commencement of this section of a benefit or other assistance under this Act to a person in respect of a child who is a dependent child within the meaning of paragraph (c) of the definition of that term in section 3(1) (as that definition was substituted by section 4(1) of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010).
 (2) The payment must be taken to be, and to always have been, as valid and authorised as if that definition were in force, and applied in respect of the payment, when it was made.
 
-## Part 1A — Family care grants
-
-### 86L Renewal of family care grants
-[Repealed]
-
-### 86M Duty to advise change of circumstances, etc, affecting entitlement to grant
-[Repealed]
-
-### 86N Method of ascertaining income
-[Repealed]
-
-### 86O Overpayments
-[Repealed]
-
-### 86P Application to family care grants of certain provisions of Part 1
-[Repealed]
-
-## Part 2 — Unemployment benefit and work testing
+## Part 2 — Jobseeker support, and administration: assessing work ability, work-testing, and sanctions
 
 ### 87 Purposes of this Part
 [Repealed]
@@ -2776,49 +2951,172 @@ Every person commits an offence and shall be liable on conviction to a fine not 
 ### 88 Overview of this Part
 [Repealed]
 
+**Definitions of terms in this Part**
+
 ### 88A Interpretation
 In this Part, unless the context otherwise requires,—
+  - **controlled drug** has the same meaning as in section 2(1) of the Misuse of Drugs Act 1975
+  - **drug test** , for a person, means a test to detect the presence in the person’s body of 1 or more controlled drugs
+  - **evidential drug test** , for a person, means a drug test that, when undertaken by the person, complies with a standard that is—
+    (a) a standard for drug tests for evidential purposes; and
+    (b) a New Zealand standard, joint Australian/New Zealand standard, or other national or international standard; and
+    (c) prescribed (whether under sections 22 to 25 of the Standards Act 1988, or otherwise) in regulations made under section 132
+  - **fail** , for a person and a drug test, means,—
+    (a) if the drug test is a screening drug test or an evidential drug test, not to pass the drug test; or
+    (b) if the drug test is an evidential drug test, to waive in the situation specified in section 102B(4), and so under that section be taken for the purposes of this Act to have failed, that evidential drug test
   - **job-search activity** means an activity undertaken by a work-tested beneficiary for the purpose of seeking or obtaining employment
+  - **pass** , for a person and a drug test, means to undertake the drug test with the consequence that the drug test produces a valid result that,—
+    (a) if the drug test is a screening drug test, does not indicate the presence in the person's body of 1 or more controlled drugs at or above the minimum level identified in the standard (prescribed in regulations made under section 132) with which the test complies; and
+    (b) if the drug test is an evidential drug test, does not detect for evidential purposes the presence in the person’s body of 1 or more controlled drugs at or above the minimum level identified in the standard (prescribed in regulations made under section 132) with which the test complies
   - **recognised community activity** means voluntary work
+  - **screening drug test** , for a person, means a drug test that—
+    (a) may indicate the presence in the person’s body of 1 or more controlled drugs; and
+    (b) is quicker, less formal, and less expensive than, and is designed for use in conjunction with, a drug test for evidential purposes; and
+    (c) complies with a standard that is—
+      (i) a standard for drug tests for screening purposes; and
+      (ii) a New Zealand standard, joint Australian/New Zealand standard, or other national or international standard; and
+      (iii) prescribed (whether under sections 22 to 25 of the Standards Act 1988, or otherwise) in regulations made under section 132
   - **voluntary work** means work undertaken by a person for no remuneration (other than any reimbursement of direct expenses) for a non-profit community organisation or other person, and that is of benefit to the community; but does not include activities in the community, or work undertaken as part of a work experience or work exploration activity.
 
-**Unemployment benefit**
+**Jobseeker support**
 
-### 89 Unemployment benefit: standard eligibility requirements
-(1) A person is entitled to an unemployment benefit if he or she satisfies the criteria in subsections (2), (3), and (4), and—
+### 88B Jobseeker support: standard eligibility requirements
+(1) A person is entitled to jobseeker support if he or she satisfies the criteria in subsections (2), (3), and (4), and—
   (a) is not in full-time employment, but—
     (i) is seeking it; and
     (ii) is available for it; and
     (iii) is willing and able to undertake it; and
     (iv) has taken reasonable steps to find it; or
-  (b)
-  (c)
-(2) An applicant for an unemployment benefit—
+  (b) is not in full-time employment, but would comply with subparagraphs (i) to (iv) of paragraph (a) but for circumstances that would qualify the person for an exemption under section 105 from some or all work test obligations; or
+  (c) is not in full-time employment and is willing to undertake it but, because of sickness, injury, or disability, is limited in his or her capacity to seek, undertake, or be available for it; or
+  (d) is in employment, but is losing earnings because, through sickness or injury, he or she is not working at all, or is working only at a reduced level.
+(2) An applicant for jobseeker support—
   (a) must be aged at least 18 years, in the case of an applicant without a dependent child:
   (b) must be aged at least 19 years, in any other case.
-(3) An applicant for an unemployment benefit must meet the residential requirements in section 74AA.
-(4) An applicant for an unemployment benefit must have—
+(3) An applicant for jobseeker support must meet the residential requirements in section 74AA.
+(4) An applicant for jobseeker support must have—
   (a) no income; or
-  (b) an income of less than the amount that would fully abate the benefit.
-(5) Nothing in subsection (4) affects the entitlement of a person to receive an unemployment benefit if, during a temporary period, the person has income sufficient to fully abate the benefit but the person otherwise fulfils the conditions of entitlement to the benefit.
-(6)
+  (b) an income of less than the amount that would fully abate that benefit.
+(5) Nothing in subsection (4) affects the entitlement of a person to receive jobseeker support if, during a temporary period, the person has income sufficient to fully abate that benefit but the person otherwise fulfils the conditions of entitlement to that benefit.
+(6) Nothing in subsection (1)(a) or (4) affects the entitlement of a person receiving jobseeker support at the rate in clause 1(ab) or (ba) of Schedule 9 to receive jobseeker support if, during a temporary period, the person engages in full-time employment, and the income from that employment and the person's other income when calculated over a 52-week period under section 64(2A) is less than the amount that would fully abate the benefit.
+(7) A sick or injured person (A) may treat as a loss of A's earnings for the purposes of subsection (1)(d) a payment A makes to any other person (B) who acts as A's substitute during A's sickness or injury.
 
-### 90 Unemployment benefit: grounds of hardship
-(1) The chief executive may grant an unemployment benefit under section 89 to a person who meets the criteria in section 89(1) and (2), but who does not meet the other criteria in that section, if—
+### 88C Jobseeker support: grounds of hardship
+(1) The chief executive may grant jobseeker support under section 88B to a person who meets the criteria in section 88B(1) and (2) but who does not meet the other criteria in section 88B if—
   (a) the person is suffering hardship; and
   (b) the person is not qualified to receive any other benefit; and
   (c) the person is unable to earn sufficient income to support the person and his or her spouse or partner and any dependent children.
-(2) Despite section 91, the chief executive may, during the period between the end of one academic year and the start of the next, grant an unemployment benefit under section 89 to a full-time student.
-(3) Despite section 91, the chief executive may, during the period between the end of one academic year and the start of the next, grant an unemployment benefit under section 89 to a full-time student who is aged 16 or 17 if the chief executive is satisfied that—
-  (a) any of paragraphs (a) to (d) of section 159(2) applies to the student; or
+(2) The chief executive may, under the exception in section 88D(a), during the period between the end of one academic year and the start of the next, grant jobseeker support under section 88B to a full-time student.
+(3) The chief executive may, under the exception in section 88D(a), during the period between the end of one academic year and the start of the next, grant jobseeker support under section 88B to a full-time student who is aged 16 years or 17 years if the chief executive is satisfied that—
+  (a) any of paragraphs (a) to (c) of section 159(2) applies to the student; or
   (b) the student is married or in a civil union or in a de facto relationship.
 
-### 91 Unemployment benefit: ineligibility
-(1) No person is eligible to be granted an unemployment benefit if he or she—
-  (a) is a full-time student (other than in the situation described in section 90(2) or (3)); or
+### 88D Jobseeker support: ineligibility
+No person is eligible to be granted jobseeker support if he or she—
+  (a) is a full-time student (other than in the situation described in section 88C(2) or (3)); or
   (b) is unemployed because of a strike undertaken by himself or herself, or by fellow members of the same union at the same place of employment; or
   (c) became unemployed or took leave with or without pay from the person's employment for the purpose, in the opinion of the chief executive, of undertaking employment-related training.
-(2)
+
+### 88E Jobseeker support: on ground of sickness, injury, or disability: medical examination
+(1) A person making an application for jobseeker support on the ground of sickness, injury, or disability (the applicant) must include in the application a certificate that complies with subsections (2) and (3).
+(2) A certificate complies with this subsection only if it is given—
+  (a) by a medical practitioner in respect of any condition; or
+  (b) by a dentist in respect of a condition that is within the ambit of his or her profession; or
+  (c) by a midwife in respect of a pregnancy, childbirth, or any related condition that is within the ambit of his or her profession; or
+  (d) by a health practitioner of a kind specified for the purposes of this paragraph in regulations made under section 132 and in respect of a condition within the ambit of his or her scope of practice.
+(3) A certificate complies with this subsection only if it—
+  (a) certifies that the applicant's capacity for work is affected by sickness, injury, or disability; and
+  (b) indicates the nature of the sickness, injury, or disability concerned, the extent to which the applicant's capacity for work is affected by it, and the length of time that effect is likely to last; and
+  (c) contains any other particulars the chief executive may under this paragraph require.
+(4) The chief executive may at any time require the applicant or a jobseeker support beneficiary to submit himself or herself for examination by a medical practitioner or psychologist. The medical practitioner or psychologist must be agreed for the purpose between the applicant or beneficiary and the chief executive or, failing agreement, must be nominated by the chief executive.
+(5) The medical practitioner or psychologist must prepare, and must send the chief executive a copy of, a report that indicates—
+  (a) whether the applicant's or beneficiary's capacity for work is affected by sickness, injury, or disability; and
+  (b) the extent to which the applicant's or beneficiary's capacity for work is affected by the sickness, injury, or disability concerned; and
+  (c) whether, and if so, for how long, that capacity is likely to continue to be affected by the sickness, injury, or disability concerned.
+
+### 88F Jobseeker support: obligations on beneficiaries
+(1) A person granted jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability) must (subject to sections 88J and 105) comply with the work test from the time that payment of jobseeker support commences.
+(2) The chief executive must after granting a person jobseeker support on the ground of sickness, injury, or disability, and may at any later time, determine whether the person has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work (as defined in section 3(1)).
+(3) A determination under subsection (2) must be made after having had regard to—
+  (a) the relevant certificate, and any relevant report obtained, under section 88E; and
+  (b) any relevant work ability assessment under sections 100B and 100C.
+(4) A determination under subsection (2) that the person granted jobseeker support on the ground of sickness, injury, or disability has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work has the consequence that the person is required to comply with the work test on and after a date specified in a written notice (of the determination's making and effects) that the chief executive must give the person.
+(5) The date specified in a written notice under subsection (4),—
+  (a) in the case of a new grant of jobseeker support, may be the date on which that benefit is first paid; but
+  (b) in any case, must not be a date before the date on which the chief executive reasonably considers the person will receive the notice.
+(6) The chief executive may at any time, whether on the application of the person or otherwise, review a determination under subsection (2), and may confirm, amend, revoke, or revoke and replace it and any related written notice under subsection (4).
+(7) A determination under subsection (2) that the person granted jobseeker support on the ground of sickness, injury, or disability has not, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work has the consequence that the person is entitled to (even if he or she has not sought one) a deferral under section 88I(6) of all of the person's work test obligations.
+(8) A person must comply with the person's social obligations under section 60RA(3) if the person—
+  (a) is a person with 1 or more dependent children; and
+  (b) is the person granted a benefit that is jobseeker support; and
+  (c) is not a young person on whom obligations are placed under section 171(1) or (2).
+
+### 88G Jobseeker support: obligations of spouse or partner of person granted it
+From the time that payment of the jobseeker support commences, the spouse or partner of a person granted jobseeker support,—
+  (a) if the benefit is granted at a work-test couple rate, must comply with a requirement under section 60Q; and
+  (b) if he or she is a person to whom section 60RA applies, must comply with his or her social obligations under section 60RA(3); and
+  (c) if he or she is a work-tested spouse or partner, must comply with the work test.
+
+### 88H Jobseeker support: application for deferral of work test obligations
+(1) A person granted jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability) may apply to the chief executive for a deferral of all of the person's work test obligations on the grounds that he or she—
+  (a) is a sole parent with a dependent child under the age of 1 year; and
+  (b) is a recipient of jobseeker support instead of sole parent support under section 20D solely because that child is an additional dependent child (within the meaning of section 60GAE(1)).
+(2) A person granted jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability) may apply to the chief executive for a deferral of all of the person's work test obligations on the grounds that he or she has, because of his or her sickness, injury, or disability (being a sickness, injury, or disability that arose or became apparent only after he or she was granted jobseeker support), either—
+  (a) no capacity for work; or
+  (b) capacity only for work that is less than part-time work (as defined in section 3(1)).
+(3) The chief executive may require an applicant to verify any particulars relevant to an application under this section in such manner as the chief executive specifies either generally or specifically.
+
+### 88I Jobseeker support: chief executive's powers and duties to defer work test obligations
+(1) The chief executive may defer all of the beneficiary’s work test obligations if satisfied, on an application under section 88H(1) or in accordance with subsection (4) of this section, that the beneficiary complies with both of paragraphs (a) and (b) of section 88H(1).
+(2) The chief executive may defer all of the beneficiary's work obligations if satisfied, on an application by the beneficiary under section 88H(2) or in accordance with subsection (4) of this section, that the beneficiary has, because of his or her sickness, injury, or disability, either—
+  (a) no capacity for work; or
+  (b) capacity only for work that is less than part-time work (as defined in section 3(1)).
+(3) A deferral under this section must be in writing and may be granted—
+  (a) for a time set by the chief executive; or
+  (b) on conditions set by the chief executive; or
+  (c) for both a time and on conditions set by the chief executive.
+(4) The chief executive may grant to a beneficiary granted jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability) a deferral under this section on the ground set out in (as the case may be) section 88H(1) or (2) whether or not a formal application is made by or on behalf of the beneficiary to whom it relates.
+(5) A determination under subsection (1) or (2) must be made after having had regard to—
+  (a) the relevant certificate, and any relevant report obtained, under section 88E; and
+  (b) any relevant work ability assessment under sections 100B and 100C.
+(6) The chief executive must grant a deferral under this section to a person who is the subject of a determination of the kind referred to in section 88F(7) (even if the person has not applied for, or otherwise sought, the deferral).
+(7) The chief executive may from time to time review a deferral granted under this section, and may extend, vary, or revoke it.
+
+### 88J Jobseeker support: effect of deferral
+While a deferral under section 88I is in force,—
+  (a) the work test obligations of the beneficiary concerned are deferred for the time specified in the deferral; and
+  (b) sections 60P, 60Q, and 60R apply to the beneficiary concerned as if he or she were not a work-tested beneficiary.
+
+### 88K Jobseeker support: deferred or exempted people must notify change of circumstances
+(1) This section applies to a person who is, or is deemed to have been, granted a deferral under section 88I.
+(2) A person to whom this section applies must notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the deferral.
+(3) This section does not limit or affect the obligation under section 105(5A) of a person who is, or is deemed to have been, granted an exemption under section 105 (for example, an exemption under section 105 from work test obligations) to notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the exemption.
+
+### 88L Jobseeker support: payment
+(1) Payment of jobseeker support commences in accordance with section 80.
+(2) Jobseeker support must be paid in weekly instalments in accordance with section 82.
+(3) Payment of jobseeker support may be suspended or cancelled in accordance with sections 80 to 82.
+(4) Subsection (3) does not limit any other provision in this Act.
+
+### 88M Jobseeker support: rates
+(1) Jobseeker support must be paid to a person granted that benefit at the appropriate rate in Schedule 9.
+(2) If no payment is made under this section in respect of the spouse or partner of a person granted jobseeker support, the chief executive may increase the rate of jobseeker support payable to a beneficiary by an amount not exceeding the amount specified in clause 2 of Schedule 9 in respect of any person who for the time being has the care of the home of that beneficiary.
+(3) Subsection (4) applies to an applicant for jobseeker support who has a spouse or partner who is ineligible for a benefit for a period because of—
+  (a) the application of section 60H (which relates to voluntary unemployment or loss of employment through misconduct, etc); or
+  (b) the application of section 117 (which relates to sanctions that may be imposed for failures to comply with work test or other obligations and work preparation interviews and exercises); or
+  (c) a strike, either by himself or herself, or by fellow members of the same union at the same place of employment.
+(4) The rate of jobseeker support that an applicant to whom this subsection applies under subsection (3) is entitled to receive during the period of non-entitlement of his or her spouse or partner is the appropriate rate in clause 5 of Schedule 9.
+
+**Unemployment benefit**
+
+### 89 Unemployment benefit: standard eligibility requirements
+[Repealed]
+
+### 90 Unemployment benefit: grounds of hardship
+[Repealed]
+
+### 91 Unemployment benefit: ineligibility
+[Repealed]
 
 ### 92 Community wage: application on grounds of sickness, injury, or disability
 [Repealed]
@@ -2842,138 +3140,72 @@ In this Part, unless the context otherwise requires,—
 [Repealed]
 
 ### 96A Unemployment benefit: pre-benefit activities
-(1) This section applies to a person if—
-  (a) he or she contacts the department requesting financial assistance after the commencement of this section; and
-  (b) the chief executive considers that the appropriate financial assistance for him or her would be an unemployment benefit.
-(2) The chief executive may (for the purpose stated in section 1A(a)(ii)) require a person to whom this section applies to do any or all of the following:
-  (a) undertake 1 or more stated pre-benefit activities:
-  (b) at any time before an unemployment benefit commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
-  (c) at any time before an unemployment benefit commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
-(2A) For the purposes of subsection (2), suitable employment,—
-  (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of section 21A or 27CA, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
-  (b) in relation to any other person, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a work-tested beneficiary.
-(3) A requirement under subsection (2) may be oral or written.
-(4) A pre-benefit activity stated under subsection (2)(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
-(5) The chief executive is not required to investigate the person's claim for an unemployment benefit under section 12 unless satisfied that the person has undertaken any required pre-benefit activities.
-(6) Subsection (5) applies whether or not the person has completed the form of application for an unemployment benefit.
-(7) If the person fails to undertake any required pre-benefit activities within 20 working days after the date of first contact, any application for an unemployment benefit the person has made lapses.
-(8) Subsection (7) overrides section 11D(7).
-(9) This subsection applies to a person if the chief executive considers that he or she has, without a good and sufficient reason, failed to comply with a requirement under paragraph (b) or (c) of subsection (2).
-(10) If subsection (9) applies to a person, the chief executive must, as the case requires,—
-  (a) refuse to grant the person an unemployment benefit; or
-  (b) terminate any grant of unemployment benefit already made to the person.
-(11) This subsection applies to a person if—
-  (a) his or her application for an unemployment benefit has lapsed under subsection (7); or
-  (b) he or she has been refused an unemployment benefit under subsection (10)(a); or
-  (c) his or her grant of unemployment benefit has been terminated under subsection (10)(b).
-(12) A person to whom subsection (11) applies cannot become entitled to an unemployment benefit without applying for it again and establishing his or her eligibility to receive it.
-(13) In this section, pre-benefit activity—
-  (a) means any of the following:
-    (i) attending and participating in an employment related seminar provided by the department, or by any other person approved by the chief executive for the purpose:
-    (ii) attending and participating in employment related training approved by the chief executive for the purpose:
-    (iii) attending and participating in any interview with an officer of the department:
-    (iv) completing any self-assessment or planning required by the chief executive:
-    (v) any other activity specified in regulations under section 132J; but
-  (b) does not include activity in the community.
+[Repealed]
 
 ### 96B Department must explain obligations in relation to pre-benefit activities
-The chief executive must take reasonable and appropriate steps to make every person on whom requirements are placed under section 96A(2) aware of—
-  (a) the person's obligations in relation to the requirements; and
-  (b) the consequences of failure to comply with the requirements.
+[Repealed]
 
 ### 97 Unemployment benefit: obligations on beneficiaries
-(1) A person granted an unemployment benefit is subject to the work test from the time that payment of the unemployment benefit commences.
-(2) From the time that payment of an unemployment benefit commences, the spouse or partner of a person granted an unemployment benefit at a work-tested married rate—
-  (a) must comply with—
-    (i) a requirement under section 60Q; and
-    (ii) any other obligation arising under any of sections 60Q to 60S; or
-  (b) if he or she is a work-tested spouse or partner, must comply with the work test.
+[Repealed]
 
 ### 97A Immunisation benefit
 [Repealed]
 
 ### 98 Unemployment benefit: payment
-(1) Payment of an unemployment benefit commences in accordance with section 80.
-(2) An unemployment benefit must be paid in weekly instalments, in accordance with section 82.
-(3)
-(4)
-(5) Payment of an unemployment benefit may be suspended or cancelled in accordance with sections 80 to 82. This provision does not limit any other provision in this Act.
+[Repealed]
 
 ### 99 Unemployment benefit: rates
-(1) An unemployment benefit must be paid to a person granted the benefit at the appropriate rate in Schedule 9.
-(2)
-(3) If no payment is made under this section in respect of the spouse or partner of a person granted an unemployment benefit, the chief executive may increase the rate of unemployment benefit payable to a beneficiary by an amount not exceeding the amount specified in clause 2 of Schedule 9 in respect of any person who for the time being has the care of the home of the beneficiary.
-(4) If an applicant for an unemployment benefit has a spouse or partner who is ineligible for a benefit because of—then the rate of unemployment benefit that the applicant is entitled to receive during the period of non-entitlement of the spouse or partner is the appropriate rate in clause 5 of Schedule 9.
-  (a) the application of section 60H (which relates to voluntary unemployment or loss of employment through misconduct etc); or
-  (ab) the application of section 117 (which relates to sanctions that may be imposed for failures to comply with work test or other obligations and work preparation interviews and exercises); or
-  (b) a strike, either by himself or herself, or by fellow members of the same union at the same place of employment,—
+[Repealed]
 
 ### 99AA Unemployment benefit: expiry
-(1) If it has not ceased earlier, an unemployment beneficiary's entitlement to the unemployment benefit ceases on the expiry date for that benefit (as defined in subsection (5)), and the benefit expires on that date (but an unemployment benefit may be re-granted under section 99AB if the beneficiary reapplies for the benefit in accordance with that section).
-(2) The chief executive must, not less than 20 working days before the expiry date for an unemployment benefit, give notice to the beneficiary stating—
-  (a) that entitlement to the benefit will cease unless the beneficiary reapplies for the benefit and it is re-granted; and
-  (b) the date on which entitlement to the benefit will cease; and
-  (c) what the beneficiary must do to reapply for the benefit and the time within which he or she must do so.
-(3) Subsection (2) does not apply if, at the time the chief executive is required to give notice under that subsection, the unemployment benefit—
-  (a) is suspended because the beneficiary is undertaking temporary employment; or
-  (b) is not for the time being payable under this Act (for example, under section 76 or 77); or
-  (c) is suspended under any provision of this Act other than section 117.
-(4) However, if at any time before the expiry date for the benefit any of the circumstances described in subsection (3) no longer exist, then the chief executive must, as soon as practicable, take reasonable steps to advise the beneficiary of the matters set out in paragraphs (a) to (c) of subsection (2).
-(5) In this section and in section 99AB,—
-  - **expiry date** , in relation to an unemployment benefit, means the day that is the 12-month anniversary of the date on which the benefit commenced or last commenced, as the case may be
-  - **unemployment beneficiary** means—
-    (a) a person who has been granted an unemployment benefit under section 89; or
-    (b) a person who has been re-granted an unemployment benefit under section 99AB.
+[Repealed]
 
 ### 99AB Unemployment benefit: requirements for re-grant
-(1) No unemployment benefit may be re-granted under this section to a person to whom section 99AA applies unless—
-  (a) the department has received—
-    (i) a reapplication form (provided by the chief executive for the purpose) completed by or on behalf of the beneficiary and his or her spouse or partner (if any) to the chief executive's satisfaction; and
-    (ii) any supporting evidence reasonably required by the chief executive; and
-  (b) the beneficiary and the beneficiary's work-tested spouse or partner (if any) have participated, to the satisfaction of the chief executive, in a comprehensive work assessment of a kind specified by the chief executive.
-(2) Subsection (1)(b) is subject to subsection (8).
-(3) If, in relation to a person, the requirements of subsection (1) are completed on or before the expiry date for the person's unemployment benefit,—
-  (a) the chief executive must re-grant the person's unemployment benefit if the chief executive is satisfied that the person meets or continues to meet the eligibility criteria for the benefit set out in section 89:
-  (b) if re-granted, the benefit commences on that expiry date.
-(4) If, in relation to a person, the requirements of subsection (1) are completed after, but within 20 working days after, the expiry date for the person's unemployment benefit, and the chief executive is satisfied that there were exceptional circumstances why those requirements could not have been completed on or before that date,—
-  (a) the chief executive must re-grant the person's unemployment benefit if the chief executive is satisfied that—
-    (i) the person meets the eligibility criteria for the benefit set out in section 89; and
-    (ii) after that expiry date, and unless exceptional circumstances prevented the person from doing so, the person continued to—
-      (A) seek, and be available for, full-time employment; and
-      (B) be willing and able to undertake it; and
-      (C) take reasonable steps to find it:
-  (b) if re-granted, the benefit commences on that expiry date.
-(5) If a person intending to reapply for an unemployment benefit contacts the department on or before the expiry date for the person's unemployment benefit,—
-  (a) the chief executive may set a time (not later than 10 working days after that expiry date) for completing the requirements of subsection (1); and
-  (b) if those requirements are completed within that time, the chief executive may re-grant the benefit under subsection (4).
-(6) Subsections (1) to (5) override section 11D(1).
-(7) An unemployment benefit must not be re-granted under this section to a person, and any reapplication form received from or on behalf of that person must be treated as an application form for the purposes of section 11D(2), if the requirements of subsection (1)—
-  (a) are not completed within 20 working days after the expiry date for the person's unemployment benefit; or
-  (b) were completed within that time but after that expiry date, and the chief executive is satisfied that there were no exceptional circumstances why those requirements could not have been completed on or before that expiry date.
-(8) For the purposes of this section, a failure of a beneficiary's work-tested spouse or partner to participate in a comprehensive work assessment in accordance with subsection (1)(b)—
-  (a) must not be treated as a failure to complete the requirements of subsection (1); but
-  (b) must be treated as a failure by that spouse or partner to comply with his or her work test obligations.
+[Repealed]
 
 ### 99A Transfer from community wage to unemployment benefit on 1 July 2001
-(1) This section applies to a person who, immediately before 1 July 2001, was—
-  (a) in receipt of a community wage on a ground other than the person's sickness, injury, or disability; and
-  (b) either—
-    (i) was fulfilling the conditions of entitlement to the community wage; or
-    (ii) was eligible to be granted a community wage under former section 90.
-(2) On 1 July 2001, in relation to a person to whom this section applies, the community wage becomes an unemployment benefit as if it were granted under section 89.
-(3) For the avoidance of doubt, the operation of subsection (2) does not affect, in relation to a person to whom this section applies and his or her spouse (if any),—
-  (a) the rate of benefit paid; and
-  (b) the obligations under section 97; and
-  (c) any requirement to undertake an organised activity under former section 111; and
-  (d) any exemption from the work test under section 105; and
-  (e) a sanction applying under any of former sections 115 to 118.
-(4) In this section, former section means a section of this Act as it was before 1 July 2001.
+[Repealed]
 
 ### 100 Department's obligations in respect of work testing and community wage
 [Repealed]
 
 ### 100A Extension of power of use by Crown of patented invention
 [Repealed]
+
+**Work ability assessment**
+
+### 100B Chief executive may require person to undergo assessment
+(1) This subsection applies to a person who is, or who is the spouse or partner of, a beneficiary in receipt of—
+  (a) sole parent support; or
+  (b) a supported living payment (except as provided in subsection (2)); or
+  (c) an emergency benefit; or
+  (d) jobseeker support.
+(2) Subsection (1)(b) does not apply to a person receiving a supported living payment on the ground of sickness, injury, or disability if, in the chief executive’s opinion,—
+  (a) the person is terminally ill; or
+  (b) the person has little or no capacity for work, and the person's condition is deteriorating or not likely to improve.
+(3) The chief executive may at any time require a person to whom subsection (1) applies to attend and participate in a work ability assessment made to determine, or help to determine, all or any of the following matters:
+  (a) whether the person is entitled to a benefit and, if so, what kind of benefit:
+  (b) if the person is in receipt of jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability), whether the person is entitled on an application under section 88H, or under section 88I(4), to a deferral of work test obligations under section 88I:
+  (c) if the person is in receipt of jobseeker support granted on the ground of sickness, injury, or disability, whether the person has for the purposes of section 88F(2) the capacity to seek, undertake, and be available for part-time work:
+  (d) whether the person is entitled on an application under section 105 on the ground of limited capacity to meet those obligations to an exemption from work test obligations or work preparation obligations under section 60Q:
+  (e) whether the person, being a person who is subject to work test obligations or work preparation obligations under section 60Q, has the capacity to meet those obligations:
+  (f) what is suitable employment for the person for the purposes of section 102A(1)(a), (b), or (c):
+  (g) what are suitable activities for the person for the purposes of section 60Q(3) or 102A(1)(f):
+  (h) what assistance and supports the person needs to obtain employment.
+(4) An assessment under subsection (3) must be undertaken in accordance with a procedure determined by the chief executive.
+(5) After an assessment under subsection (3) is made, the chief executive may determine the matter or matters in subsection (3) for which that assessment was made—
+  (a) in reliance on that assessment; or
+  (b) having regard to the assessment and to any alternative assessment under subsection (3).
+
+### 100C Reassessment
+(1) The chief executive may from time to time reassess under section 100B a person to whom section 100B(1) applies and who has earlier been assessed under section 100B.
+(2) A reassessment may be at a time, or after an interval, the chief executive thinks appropriate.
+(3) After a reassessment, the chief executive may determine the matter or matters in section 100B(3) for which that reassessment was made.
+
+### 100D Assessment or reassessment: department must explain requirements
+The chief executive must take reasonable and appropriate steps to make every person on whom requirements are imposed under section 100B, or under sections 100B and 100C, aware of—
+  (a) those requirements; and
+  (b) the consequences of failure to comply with those requirements.
 
 **Work test**
 
@@ -2986,7 +3218,7 @@ The purpose of sections 102 to 123D is—
 
 ### 102 Application of work test
 (1) The work test applies to a person while he or she is a work-tested beneficiary, and unless subsection (2) applies, the person is subject to the obligations of the work test set out in section 102A from,—
-  (a) in the case of a work-tested sickness beneficiary, the date specified in the chief executive's notice under section 54DA(1); or
+  (a) in the case of a person granted jobseeker support on the ground of sickness, injury, or disability, the date specified in the chief executive's notice under section 88F(4); and
   (b) in any other case, the date on which the work-tested benefit is first paid.
 (2) The work test does not apply to a work-tested beneficiary if the chief executive is satisfied that the beneficiary is undertaking employment of the kind required to satisfy the work test for that beneficiary.
 (3) A work test obligation set out in section 102A applies on—
@@ -3006,15 +3238,73 @@ The purpose of sections 102 to 123D is—
     (iii) a work experience or work exploration activity specified by the chief executive:
     (iv) employment-related training specified by the chief executive:
     (v) any other activity specified by the chief executive (including rehabilitation but not medical treatment); and
-  (g) to report to the department on his or her compliance with his or her work test obligations as often, and in the manner, as the chief executive from time to time reasonably requires; and
-  (h) in the case of a person in respect of whom a job seeker agreement was in force immediately before the commencement of section 23 of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010, and until directed otherwise by the chief executive,—
-    (i) to undertake the job-search activities set out in the agreement; and
-    (ii) to undertake and complete any job seeker development activity or recognised community activity described in the agreement (subject to the chief executive's taking reasonable steps to arrange for the person to undertake the activity); and
-    (iii) to undertake and complete any other activities set out in the agreement.
+  (g) to report to the department on his or her compliance with his or her work test obligations as often, and in the manner, as the chief executive from time to time reasonably requires.
+  (h)
+(1A) The drug testing obligations under section 102B(1) are included in, and form part of, each of the work test obligations under subsection (1)(a), (c), and (f)(ii) and (iv) (each of which obligations is extended, and not limited, by this subsection).
 (2) Subsection (1)(f) applies whether or not a beneficiary is subject to a sanction for failing to comply with the work test.
-(3) A person cannot be required under subsection (1) to undertake activity in the community (whether or not it is included in a job seeker agreement that continues to apply to him or her under subsection (1)(h)).
-(4) The failure by a beneficiary to undertake or complete a recognised community activity or activity in the community, as set out in a job seeker agreement that continues to apply to him or her, is not a failure to comply with a work test obligation for the purpose of section 115(1)(a).
+(3) A person cannot be required under subsection (1) to undertake activity in the community.
+(4)
 (5) If the chief executive requires a beneficiary to undertake an activity under subsection (1)(f), the chief executive must take reasonable steps to arrange for the beneficiary to undertake that activity.
+
+### 102B Work test obligations: drug testing obligations
+(1) The drug testing obligations referred to in section 102A(1A) are to undertake, and to pass, a drug test that a potential employer or a training provider requests candidates for employment or training to undertake, and to pass, by a specified time, and that is recognised by this Act because it is a drug test—
+  (a) of a kind described in subsection (2); and
+  (b) requested, and undertaken, lawfully (in particular, for a lawful health or safety purpose, or other lawful purpose), even though the employer or provider is not authorised or required by or under this Act to compel the candidate to undertake it.
+(2) A drug test is of a kind described in this subsection for the purposes of subsection (1)(a) if the drug test is—
+  (a) a screening drug test of the candidate undertaken without any associated later evidential drug test of the candidate; or
+  (b) an evidential drug test of the candidate if he or she has failed any associated prior screening drug test under paragraph (a); or
+  (c) an evidential drug test of the candidate undertaken without any associated prior screening drug test of the candidate.
+(3) A drug test undertaken by a candidate for employment or training on a request by the potential employer or training provider is for the purposes of subsection (1)(b) presumed to be requested, and undertaken, lawfully, unless the contrary is proved.
+(4) A candidate for employment or training is taken for the purposes of this Act to have failed an evidential drug test requested by a potential employer or a training provider if the candidate—
+  (a) fails an associated prior screening drug test requested by the employer or provider; and
+  (b) waives (in any manner) the evidential drug test.
+(5) For the purposes of subsection (1), the chief executive may, in the absence of evidence available to the chief executive and to the contrary effect, act on information given by the potential employer or training provider to the effect that a candidate has failed a screening drug test, an evidential drug test, or both.
+
+### 102C Work test obligations: drug testing obligations on referral to opportunity of suitable employment
+(1) This section applies to a work-tested beneficiary who has a work test obligation,—
+  (a) under section 102A(1)(c), to attend and participate in an interview for any opportunity of suitable employment to which the beneficiary is referred by the chief executive; and
+  (b) that, under section 102A(1A), includes the drug testing obligations under section 102B(1).
+(2) The employer providing the opportunity of suitable employment may, or may authorise the appropriate drug testing provider to, provide to the department (with or without the beneficiary's consent) the results of a screening drug test, an evidential drug test, or both if—
+  (a) that employer has (in accordance with section 102B(1) to (3)) requested the beneficiary to undergo, and to pass, by a specified time, a screening drug test, an evidential drug test, or both; and
+  (b) the beneficiary has by the specified time failed that drug test, or both of those drug tests.
+(3) The chief executive may reimburse the employer for the actual and reasonable costs (if, or insofar as, they do not exceed the maximum reimbursement amount prescribed for the purposes of this subsection by regulations made under section 132) of a screening drug test, an evidential drug test, or both that the employer has (in accordance with section 102B(1) to (3)) requested in respect of a work-tested beneficiary, if the chief executive—
+  (a) is provided under subsection (2) with the results of that drug test or those drug tests; and
+  (b) is satisfied that those results relate to the beneficiary, and that the beneficiary has failed that drug test or those drug tests.
+(4) Regulations made under section 132 prescribing maximum reimbursement amounts for the purposes of subsection (3) may, without limitation, prescribe different amounts of that kind based on either or both of the following:
+  (a) different kinds of drug tests:
+  (b) the same or different kinds of drug tests having been provided by different providers or by different agents or employees of the same or different providers.
+(5) Costs of a screening drug test requested (in accordance with section 102B(1) to (3)) by an employer in respect of, and failed by, a work-tested beneficiary cannot be reimbursed under subsection (3) if the beneficiary has undertaken, and passed, an associated later evidential drug test requested (in accordance with section 102B(1) to (3)) by that employer.
+(6) Costs reimbursed under subsection (3) are a debt due to the Crown from the beneficiary for the purpose of section 85A(e).
+
+### 102D Work test obligations: drug testing obligations: challenging sanction based solely on failing screening drug test
+(1) This section applies to a beneficiary if—
+  (a) an employer or a training provider has (in accordance with section 102B(1) to (3)) requested the beneficiary to undertake a screening drug test; and
+  (b) the beneficiary has failed that screening drug test; and
+  (c) that employer or training provider has not (in accordance with section 102B(1) to (3)) requested the beneficiary to undertake an associated later evidential drug test because the beneficiary has failed that screening drug test; and
+  (d) a sanction is to be imposed on the beneficiary (the beneficiary's benefit is to be reduced, suspended, or cancelled), under section 117, based on the beneficiary having failed that screening drug test.
+(2) The beneficiary may dispute the sanction to be imposed under section 117 by making to the department a request that the sample taken from the beneficiary for the screening drug test be subjected to an evidential drug test.
+(3) A request under subsection (2) must be made by the beneficiary in writing in a form approved by the chief executive, and must be made—
+  (a) after the beneficiary is given under section 113 a written notice relating to the sanction to be imposed; and
+  (b) after the beneficiary disputes the reduction, suspension, or cancellation (within the period for that purpose, of 5 working days from the giving of that written notice, that section 113(2)(e) requires to be stated in that written notice); and
+  (c) within a period that starts when the beneficiary disputes the reduction, suspension, or cancellation, and is a reasonable period specified by the department for the purpose.
+(4) A request under subsection (2) must include the beneficiary's consent to the department contacting the employer or training provider and a drug testing provider to arrange for the evidential drug test of the sample, and must authorise the drug testing provider that does the evidential drug test of the sample to provide to the department the results of that evidential drug test.
+(5) The department may proceed to impose the appropriate sanction as if the beneficiary had not disputed the sanction if—
+  (a) a request under subsection (2) does not include the consent and authorisation required by subsection (4); and
+  (b) that consent and authorisation is not provided in the period specified under subsection (3)(c).
+(6) If a request under subsection (2) is made to the department and includes the consent and authorisation required by subsection (4), then until the department is advised of the results of an evidential drug test of the beneficiary arranged by the department in accordance with the request,—
+  (a) any sanction imposed under section 117, and based on the beneficiary's having failed the associated prior screening drug test, is suspended:
+  (b) any failure for the purposes of sections 119 and 122(2), and based on the beneficiary's having failed the associated prior screening drug test, is suspended:
+  (c) the beneficiary is not liable under section 102C(6) for the actual and reasonable costs (if any) reimbursed to the employer under section 102C(3) of the beneficiary's associated prior screening drug test.
+(7) The actual and reasonable costs incurred by a drug testing provider in doing an evidential drug test arranged by the department in accordance with a request under subsection (2) are payable by the department.
+(8) If the beneficiary fails an evidential drug test arranged by the department in accordance with a request under subsection (2), that failure is for the purposes of section 116B(1)(e) treated as a new failure of the beneficiary’s work test and drug test obligations.
+(9) If the beneficiary fails an evidential drug test arranged by the department in accordance with a request under subsection (2), the following are a debt due to the Crown from the beneficiary for the purpose of section 85A(e):
+  (a) the actual and reasonable costs incurred by a drug testing provider in doing that evidential drug test:
+  (b) the actual and reasonable costs (if any) reimbursed to the employer under section 102C(3) of the beneficiary's associated prior screening drug test.
+
+### 102E Work test obligations: drug testing obligations: use and communication of drug test results
+Drug test results provided under, or under an authorisation given under, section 102B, 102C, or 102D—
+  (a) may be used by the chief executive or the department for the purposes of, or for the purposes of a review or appeal against a decision under, that section and all or any of sections 116B, 116C, 117, 119, and 122; but
+  (b) must not be used or communicated by the chief executive or the department for any other purposes.
 
 ### 103 Delayed application of work test: age of dependent child
 [Repealed]
@@ -3030,7 +3320,7 @@ The purpose of sections 102 to 123D is—
   (c) if, in granting the deferral, the chief executive required the person to participate in 1 or more organised activities, that requirement continues to apply as if the organised activities were job seeker development activities.
 
 ### 105 Exemption from obligations
-(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 or from complying with section 60HA.
+(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations, or obligations under section 60Q, or obligations under section 170 or 171.
 (2) The chief executive may grant the exemption on any ground specified in regulations made for the purpose under section 123D.
 (3) Before determining the application, the chief executive may require verification of matters relevant to the application in such manner as the chief executive specifies, either generally or specifically.
 (4) An exemption under this section may be granted—
@@ -3038,7 +3328,7 @@ The purpose of sections 102 to 123D is—
   (b) on conditions set by the chief executive; or
   (c) for both a time and on conditions set by the chief executive.
 (5) A beneficiary who has been granted an exemption from all of his or her work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 may be required to attend an interview with an officer of the department or other person on behalf of the chief executive. Failure to attend or participate in the interview may result in sanctions under section 117 or (as the case requires) section 173 or 174 being imposed.
-(5A) A person granted an exemption must notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the exemption.
+(5A) A person who is, or is deemed to be, granted an exemption under this section must notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the exemption.
 (6) The chief executive may from time to time review an exemption granted under this section, and may extend, vary, or revoke it.
 (7) The chief executive may grant an exemption under this section whether or not a formal application is made by or on behalf of the person to whom it relates.
 
@@ -3108,6 +3398,9 @@ The chief executive must take reasonable and appropriate steps to make every wor
   (e) stating that the beneficiary has 5 working days from the giving of the notice to dispute the reduction, suspension, or cancellation; and
   (f) advising the beneficiary to contact the department if the beneficiary wants to dispute or discuss the decision to reduce or suspend or cancel the benefit; and
   (g) containing a clear statement of the beneficiary's right, under section 10A, to apply for a review of the decision, and of the procedure for applying for a review.
+(2A) A notice given under this section to a beneficiary who on 2 or more occasions has failed to comply with 1 or more (whether the same or different) specified obligations under this Act may relate to and include those 2 or more failures, but for the purposes of sections 117 and 119—
+  (a) all the 2 or more failures included in the notice (so long as at least 2 of them are not disputed by the beneficiary) are treated as 1 failure; and
+  (b) the beneficiary must be sanctioned on that basis of that 1 failure (as a first, second, or third failure).
 (3) The reduction, suspension, or cancellation of the benefit must not take effect before the close of the 5 working days specified in the notice under subsection (2)(e).
 
 ### 114 Notices
@@ -3119,17 +3412,7 @@ A notice may be given under section 113 to a person—
   (c) by posting it in a letter addressed to that person at that place of residence or business or at that address, in which case the notice is given when it is posted.
 
 ### 115 Failure to comply with work test
-(1) The sanctions in section 117 may be imposed on a beneficiary if the chief executive considers that the beneficiary has, without a good and sufficient reason,—
-  (a) in the case of a work-tested beneficiary, failed to comply with any of the work test obligations as set out in section 102; or
-  (b) in the case of a beneficiary granted an exemption from the work test, failed to attend an interview as required under section 105(5).
-(2)
-(3) A beneficiary has a good and sufficient reason for not undertaking or completing an activity if—
-  (a) doing so was dependent upon the provision by the department of any assistance specified by the department; and
-  (b) that assistance was either not supplied, or not supplied to the extent, or in the manner, specified by the department.
-(4) A beneficiary who has 1 or more dependent children has a good and sufficient reason for not participating in or completing any activity required under section 102A(1)(f) or job seeker development activity if the activity involves participation during hours when it would be unreasonable to expect any dependent child of the person to be without that person's supervision.
-(5) A full-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, part-time work or employment averaging less than 15 hours a week is treated as someone to whom subsection (1) applies.
-(6) A part-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, employment averaging less than 15 hours a week is treated as someone to whom subsection (1) applies.
-(7) Section 60H(6) and (7) applies to subsections (5) and (6), with all necessary modifications.
+[Repealed]
 
 ### 115A Failure to comply with obligations under section 60GAB
 [Repealed]
@@ -3138,45 +3421,93 @@ A notice may be given under section 113 to a person—
 [Repealed]
 
 ### 116A Failure to comply with obligations under section 60Q(2)
-The sanctions stated in section 117 must be imposed on a person on whom an obligation has been imposed under section 60Q(2) if the chief executive considers that the person has, without a good and sufficient reason, failed to comply with it.
+[Repealed]
+
+### 116B Failures to comply with obligations
+(1) The sanctions stated in section 117 must be imposed on a person when any of the following paragraphs applies to the person:Obligations related to contracted service providersSocial obligations of certain beneficiaries with dependent childrenObligations related to work preparation or to work ability assessmentWork test obligations (including drug testing obligations) and work-tested beneficiariesInterview obligation of beneficiary exempted from work test
+  (a) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with an obligation under section 60GAG(1) to comply with a requirement under section 60GAG(1)(a) to (d); or
+  (b) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with a social obligation that the person has under section 60RA(3), and that the person's failure to comply with that social obligation is a failure in respect of which section 60RC(3) permits the chief executive to impose a sanction under section 117; or
+  (c) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with a general obligation under section 60Q(2) or an obligation under section 60Q(2) to comply with a requirement under section 60Q(3); or
+  (d) the chief executive considers that the person has, without a good and sufficient reason, failed to undergo an assessment that the person is required to undergo under section 100B; or
+  (e) the person is a work-tested beneficiary, and the chief executive considers that the person has, without a good and sufficient reason, failed to comply with any of the work test obligations as set out in section 102A (including, without limitation, any drug testing obligations under section 102B(1) that, under section 102A(1A), are included in, and form part of, a work test obligation under section 102A(1)(a), (c), or (f)(ii) or (iv)); or
+  (f) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests; or
+  (g) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a full-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, part-time work or employment averaging less than 15 hours a week; or
+  (h) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a part-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, employment averaging less than 15 hours a week; or
+  (i) the person is a beneficiary granted an exemption from the work test, and the chief executive considers that the person has, without a good and sufficient reason, failed to attend an interview as required under section 105(5).
+(2) Section 60H(6) and (7) (which relate to dealing with voluntary unemployment or loss of employment through misconduct, etc) apply with all necessary modifications to a person to whom subsection (1)(g) or (h) of this section applies.
+(3) A work-tested beneficiary who indicates that he or she would fail a drug test that an employer would require for an opportunity of suitable employment is for the purposes of subsection (1)(f) taken to be a person who fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests (and therefore to be a person required by subsection (1)(f) to be treated as a person to whom subsection (1)(e) applies).
+(4) Subsection (3) does not limit the generality of subsections (1)(e) and (f).
+
+### 116C Good and sufficient reasons for specified failures to comply
+(1) A beneficiary has for the purposes of section 116B a good and sufficient reason for not undertaking or completing an activity if—
+  (a) doing so was dependent upon the provision by the department of any assistance specified by the department; and
+  (b) that assistance was either not supplied, or not supplied to the extent, or in the manner, specified by the department.
+(2) A beneficiary has for the purposes of section 116B a good and sufficient reason for not complying with a drug testing obligation under section 102B(1), or for failing to apply for suitable employment that requires candidates to undertake drug tests, or for both, if the chief executive is satisfied—
+  (a) that the person is addicted to, or dependent on, 1 or more controlled drugs; or
+  (b) that the person is undertaking treatment—
+    (i) for addiction to, or dependence on, 1 or more controlled drugs; and
+    (ii) provided by a health practitioner, or other person, who is professionally engaged in the treatment or rehabilitation of people using, or who have used, controlled drugs; and
+    (iii) of a kind approved by the chief executive; or
+  (c) that the person should be treated as one to whom paragraph (b) applies because he or she is awaiting assessment for, or an opportunity to undertake, treatment of the kind specified in paragraph (b); or
+  (d) that, insofar as the person is using a particular controlled drug of a kind the presence of which in the person's body can be or may be detected by an evidential drug test, that particular controlled drug has been lawfully prescribed, and the person is using only the dosage of that particular controlled drug lawfully prescribed, for the person by a health practitioner; or
+  (e) that the person falls within, or the person's circumstances fall within, another ground or other grounds specified for the purposes of this paragraph by regulations made under section 132.
+(3) A beneficiary who has 1 or more dependent children has for the purposes of section 116B a good and sufficient reason for not participating in or completing any activity required under section 102A(1)(f) if the activity involves participation during hours when it would be unreasonable to expect any dependent child of the person to be without that person's supervision.
+(4) This section does not limit the generality of section 116B.
 
 ### 117 Sanctions that may be imposed for failures
-(1) The sanctions that the chief executive must apply in respect of failures under section 115 or section 116A are,—
+(1AA) If 2 or more failures of a beneficiary to comply with 1 or more specified obligations under this Act are under section 113(2A) included by the chief executive in a notice given to the beneficiary under section 113,—
+  (a) all the 2 or more failures included in the notice (so long as at least 2 of them are not disputed by the beneficiary) are treated as 1 failure for the purposes of this section and section 119; and
+  (b) the beneficiary must be sanctioned on that basis of that 1 failure (as a first, second, or third failure).
+(1) The sanctions that the chief executive must apply in respect of failures under section 116B are,—
   (a) for a first failure,—
-    (i) the person's benefit must be reduced by 50% until the person recomplies; and
-    (ii) if the person has not recomplied within 4 weeks after the date on which the reduction took effect, the person's benefit must be reduced by a further 50% (so that the total reduction is 100%) until the person recomplies:
-  (b) for a second failure (being a failure that occurs after the person has recomplied following a first failure), suspension of the person's benefit until the person recomplies:
-  (c) for a third failure (being a failure that occurs after the person has recomplied following a second failure), cancellation of the benefit.
-(2) A person whose benefit is cancelled under subsection (1)(c)—
-  (a) is not entitled to receive any benefit for 13 weeks from the date of cancellation; and
-  (b) if the person wishes to again become entitled to a benefit, must apply for the benefit and establish his or her eligibility for it.
+    (i) the person's benefit (unless it is not a main benefit under this Act) must be reduced by 50% until the person recomplies; and
+    (ii) if the person has not recomplied within 4 weeks after the date on which the reduction took effect, the person's benefit (unless it is not a main benefit under this Act) must be reduced by a further 50% (so that the total reduction is 100%) until the person recomplies:
+  (b) for a second failure (being a failure that occurs after the person has recomplied following a first failure), suspension of the person's benefit (unless it is not a main benefit under this Act) until the person recomplies:
+  (c) for a third failure (being a failure that occurs after the person has recomplied following a second failure), cancellation of the person's benefit (unless it is not a main benefit under this Act).
+(1A) Subsection (1) is subject to subsections (1B) and (1C).
+(1B) Cancellation under subsection (1)(c) of the person's benefit (unless it is not a main benefit under this Act) is the sanction that the chief executive must apply if any failure referred to in subsection (1) is a failure under section 116B(1)(e) to comply with the obligation in section 102A(1)(b) (the work test obligation to accept any offer of suitable employment).
+(1C) Subsection (1B) applies whether the failure under section 116B(1)(e) and that is mentioned in subsection (1B) is for the purposes of subsection (1) a first, a second, or a third failure.
+(2) A person whose main benefit under this Act is cancelled under subsection (1)(c)—
+  (a) is not entitled to receive any main benefit under this Act for 13 weeks from the date of cancellation; and
+  (b) if the person wishes to again become entitled to a main benefit under this Act, must apply for the benefit and establish his or her eligibility for it.
 (3) Subsection (2) is subject to sections 120 and 121, and to sections 123 to 123B.
-(4) If a person's unemployment benefit is reduced or suspended under subsection (1) and the person is re-granted an unemployment benefit under section 99AB, the reduction or suspension continues to apply to the re-granted unemployment benefit on and after its commencement until the person recomplies.
+(4) If a person's specified benefit (as defined in section 80BE(5)) is reduced or suspended under subsection (1) of this section and the person is re-granted a specified benefit under section 80BF, the reduction or suspension continues to apply to the re-granted specified benefit on and after its commencement until the person recomplies.
 
 ### 118 Penalties for failure to participate in organised activity to satisfaction of chief executive
 [Repealed]
 
 ### 119 Calculation of failure rate
 (1) In calculating the number of failures under section 117, the chief executive—
-  (a) may count applicable failures only while the same benefit has been continuously paid in respect of the beneficiary; and
-  (ab) if the benefit being paid in respect of the beneficiary is a work-tested benefit (benefit A), may count applicable failures incurred while another work-tested benefit was earlier paid in respect of the beneficiary (benefit B) if benefit A and benefit B have been paid continuously in respect of the beneficiary; but
-  (b) may not count any failure if—
-    (i) it is not of a kind to which that particular section applies; or
-    (ii) it occurred more than 12 months before the failure for which the calculation is made if, during that period, that beneficiary has not incurred a failure to which any of those sections applies.
-(2) For the purpose of subsection (1)(b)(ii), a failure under section 115 or section 116A is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
+  (a) may count applicable failures only during a period of continuous payment in respect of the beneficiary of the same benefit or of 2 or more different benefits; and
+  (ab) if the benefit being paid in respect of the beneficiary is a benefit (benefit A), may count applicable failures incurred while another benefit was earlier paid in respect of the beneficiary (benefit B) if benefit A and benefit B have been paid continuously in respect of the beneficiary; but
+  (b) must not count a failure if—
+    (i) it is not a failure of a kind to which section 117 applies under section 116B(1); or
+    (ii) it occurred more than 12 months before the failure for which the calculation is made if, during that period, that beneficiary has not incurred a failure of a kind in section 116B(1) to which section 117 applies.
+(1A) Subsections (1)(a) and (ab) and (3) apply only to 1 or more main benefits under this Act.
+(1B) For the purposes of subsection (1)(a), 2 or more different benefits paid to a beneficiary do not give rise to a period of continuous payment in respect of the beneficiary of those 2 or more different benefits if—
+  (a) one of those 2 or more different benefits is a youth payment or a young parent payment; and
+  (b) the other of, or (as the case may be) the rest of, those 2 or more different benefits is any 1 or more or all of sole parent support, supported living payment, jobseeker support, and emergency benefit.
+(1C) Subsection (1B) does not limit or affect subsection (1)(a) applying (under section 176(2)) with all necessary modifications to the imposition of sanctions under sections 173 and 174 in respect of failures—
+  (a) by a young person receiving a youth payment or a young parent payment; and
+  (b) that are failures, without good and sufficient reason, to comply with an obligation placed on him or her by section 170; and
+  (c) during a period of continuous payment in respect of the young person of the same benefit (being a youth payment or a young parent payment) or of 2 or more different benefits (being a youth payment and a young parent payment, in whatever sequence paid).
+(2) For the purpose of subsection (1)(b)(ii), a failure under section 116B is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
 (3) In determining whether a benefit has been continuously paid in respect of the beneficiary, the chief executive must disregard any period during which the benefit was cancelled or suspended because the beneficiary commenced in employment that continued for less than 10 working days.
-(3A) For the purpose of subsection (1)(a), the chief executive must treat an unemployment benefit that expires under section 99AA, and an unemployment benefit re-granted to the beneficiary under section 99AB, as the same benefit.
+(3A) For the purpose of subsection (1)(a), the chief executive must treat a specified benefit that expires under section 80BE, and a specified benefit re-granted to the beneficiary under section 80BF, as the same benefit.
 (4) Nothing in subsection (1)(b)(ii) affects the implementation, after the 12-month period, of a sanction based on any prior calculation of the number of failures by a person to comply with the appropriate work test obligation or other obligation imposed by this Act.
 (5) In this section, working day means a day on which a person was required to work in the employment referred to in subsection (3).
+(6) This section is subject to sections 113(2A) and 117(1AA) (which relate to 2 or more failures of a person to comply with 1 or more specified obligations under this Act being—
+  (a) included in a notice given to the person under section 113; and
+  (b) treated for the purposes of section 117 and this section as 1 failure).
 
 ### 120 Modified effect in some cases of sanctions on rate of benefit for people married or in civil union or de facto relationship
-(1) If the reduction, suspension, or cancellation under section 117 of a benefit payable at a work-test married rate results from the failure of one of the spouses or partners in respect of whom the benefit is paid to comply with a work-test obligation—
+(1) If the reduction, suspension, or cancellation under section 117 of a benefit payable at a work-test couple rate results from the failure of one of the spouses or partners in respect of whom the benefit is paid to comply with a work-test obligation—
   (a) it applies to only half the applicable rate of the benefit before any abatement on account of income; and
   (b) the other spouse or partner is entitled to receive half of that rate (and the appropriate income test applies to that rate, but at half the abatement rate in that test).
-(1A) If the reduction, suspension, or cancellation under section 117 of a benefit payable at a work-test married rate results from failures of both spouses or partners to comply with work test obligations, and they have no dependent children,—
+(1A) If the reduction, suspension, or cancellation under section 117 of a benefit payable at a work-test couple rate results from failures of both spouses or partners to comply with work test obligations, and they have no dependent children,—
   (a) the reduction, suspension, or cancellation in respect of each spouse or partner applies only to 50% of the applicable rate of the benefit before abatement on account of income payable in respect of that spouse or partner; and
   (b) any amount of the benefit payable to the spouses or partners after that reduction, suspension, or cancellation is applied is subject to the appropriate income test but at half the abatement rate under that test.
-(2) If the suspension or cancellation under section 60H or 117 of a benefit payable at a work-test married rate results from section 60H(3) applying to both work-tested spouses or partners or the failure of both work-tested spouses or partners in respect of whom the benefit is paid to comply with work-test obligations, and they have 1 or more dependent children,—
+(2) If the suspension or cancellation under section 60H or 117 of a benefit payable at a work-test couple rate results from section 60H(3) applying to both work-tested spouses or partners or the failure of both work-tested spouses or partners in respect of whom the benefit is paid to comply with work-test obligations, and they have 1 or more dependent children,—
   (a) the suspension or cancellation applies to only half the applicable rate of the benefit before any abatement on account of income; and
   (b) the spouses or partners are entitled to receive half that rate (and the appropriate income test applies to that rate).
 (3) Section (2)(b) is subject to section 83.
@@ -3185,32 +3516,56 @@ The sanctions stated in section 117 must be imposed on a person on whom an oblig
 [Repealed]
 
 ### 121 Effect of sanctions on benefit of sole parent
-Where under section 60H or section 117 the payment of a benefit of a person who is a sole parent is to be suspended or cancelled,—
+Where under section 60H or section 117 the payment of a main benefit under this Act of a person who is a sole parent is to be suspended or cancelled,—
   (a) the suspension or cancellation applies only to 50% of the applicable rate of the benefit before any abatement on account of income; and
   (b) the person is entitled during the period of suspension or cancellation to receive 50% of that rate of benefit, and the appropriate income test applies to that rate but at half the abatement rate in that income test.
 
 **General provisions**
 
 ### 122 Meaning of recompliance
-In relation to a failure under section 115 or section 116A, a person recomplies (for the purpose of section 117) if the person remedies the relevant failure or, if it is not possible to remedy the failure, the person undertakes to the satisfaction of the chief executive,—
-  (a) in the case of a work-tested beneficiary, an activity that is the same as, or substantially similar to, the activity that the person failed to comply with under the applicable work test obligation; or
-  (b)
+(1) A person recomplies (for the purpose of section 117) in relation to a failure (or, as the case may be, to 2 or more failures) under section 116B and that has (or have) been included in a notice given to the person under section 113 (the relevant failure or failures) if the person remedies the relevant failure (or, if the person has failed to comply with 2 or more obligations of a kind referred to in section 116B(1), the person remedies all the relevant failures) included in the notice.
+(2) Despite subsection (1), a person who is a work-tested beneficiary recomplies (for the purpose of section 117) in relation to each relevant failure it is not possible to remedy if the person undertakes to the chief executive's satisfaction an activity that is the same as, or substantially similar to, the activity that the person failed to comply with under the applicable work test obligation.
+(3) Despite subsection (1), a person recomplies (for the purpose of section 117) in relation to a relevant failure under section 116B(1)(e) to comply with any drug testing obligations under section 102B(1) if,—
+  (a) in the case of a first failure of that kind in a 12-month period, the person undertakes in a manner that is satisfactory to the chief executive that the person will not use controlled drugs (except any use of a particular controlled drug that is lawfully prescribed, and only the dosage of that particular controlled drug that is lawfully prescribed, for the person by a health practitioner):
+  (b) in the case of a second failure of that kind in a 12-month period, the person undertakes in a manner that is satisfactory to the chief executive to do both of the following:
+    (i) to pass a drug test of the kind stated in section 122A(2)(a) or (b), and to do so within 25 working days after the date of the person's undertaking; and
+    (ii) to provide evidence that satisfies the chief executive that the person has passed a drug test of that kind, and to do so within 30 working days after the date of the person's undertaking.
+(4) The calculation of the number of failures for the purposes of subsection (3) is independent and separate from, and therefore does not affect, the calculation (in accordance with section 119) of the number of failures for the purposes of section 117.
+(5) The department must take reasonable and appropriate steps to make a person who has given an undertaking in accordance with subsection (3)(b) aware of the following matters:
+  (a) the consequences of failing to comply with the undertaking; and
+  (b) the location of a drug testing provider that the person can use to undertake a drug test of the kind stated in section 122A(2)(a) or (b); and
+  (c) that the actual and reasonable costs charged by the provider for performing, on 1 occasion only within the period, a drug test of the kind stated in section 122A(2)(a) or (b) are paid by the department, but are also recoverable from the person as a debt due to the Crown for the purposes of section 85A(e).
 
-### 123 Effect of ceasing to be subject to obligation to comply with section 60HA or work test or section 170 or 171
+### 122A Recomplying after second failure to comply with drug testing obligations
+(1) This section applies to a work-tested beneficiary who has undertaken under section 122(3)(b) to do both of the following:
+  (a) to pass a drug test of the kind stated in subsection (2)(a) or (b) of this section, and to do so within the 25-working-day period in section 122(3)(b)(i) (the testing period); and
+  (b) to provide evidence that satisfies the chief executive that the person has passed a drug test of that kind, and to do so within the 30-working-day period in section 122(3)(b)(ii) (the results period).
+(2) The beneficiary must at a time that is within the testing period attend at the location of a drug testing provider for the purpose of undertaking a drug test that is—
+  (a) a screening drug test of the beneficiary and, if the beneficiary fails that screening drug test, an evidential drug test of the beneficiary; or
+  (b) an evidential drug test of the beneficiary undertaken without any associated prior screening drug test of the beneficiary.
+(3) The actual and reasonable costs charged by the provider for performing, on 1 occasion only within the testing period, a drug test in accordance with subsection (2)(a) or (b) are—
+  (a) payable by the department; but also
+  (b) a debt due to the Crown from the beneficiary for the purpose of section 85A(e).
+(4) A beneficiary who fails a screening drug test or an evidential drug test or both performed within the testing period may (in order to try to comply with the beneficiary's undertaking despite that failure) undertake, at the beneficiary's expense, further drug testing within the testing period.
+(5) A beneficiary who does not pass a drug test of the kind stated in subsection (2)(a) or (b) within the testing period must for the purpose of section 117(1)(c) be treated as a person who has failed a third time within a 12-month period to comply with any drug testing obligations in section 102B(1).
+
+### 123 Effect of ceasing to be subject to obligation to comply with work test or section 170 or 171, social obligation, or work preparation obligation
 (1) This section applies to a person—
-  (a) whose benefit has been suspended, or who is not entitled to a benefit for 13 weeks, under section 60H or section 117 or section 173 or 174; and
+  (a) whose benefit has been suspended or reduced, or who is not entitled to a main benefit under this Act for 13 weeks, under section 60H or section 117 or section 173 or 174; and
   (b) who either—
     (i) ceases to be a work-tested beneficiary (other than because of the imposition of that suspension or 13-week period); or
-    (ia) ceases to be a beneficiary who is required to comply with a request under section 60HA or obligations under section 170 or 171 (other than because of the imposition of that suspension or 13-week period); or
-    (ii) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA or section 170 or 171.
+    (ia) ceases to be a beneficiary who is required to comply with obligations under section 170 or 171 (other than because of the imposition of that suspension or 13-week period); or
+    (ii) obtains, under section 105, an exemption from the work test or section 170 or 171.
 (2) From the date the chief executive decides he or she is satisfied this section applies to a person,—
-  (a) the period of suspension of the benefit ends; or
+  (a) the period of suspension or reduction of the benefit ends; or
   (b) the person is no longer subject to the 13-week period and that period lapses.
-(3) If a person to whom subsection (2)(b) applies wishes to again become entitled to a benefit, the person must apply for the benefit and establish the person's eligibility to receive it.
+(3) If a person to whom subsection (2)(b) applies wishes to again become entitled to a main benefit under this Act, the person must apply for the benefit and establish the person's eligibility to receive it.
+(3A) A sanction imposed on a person under section 117 (as applied by sections 60RC(1) and 116B(1)(b)) in respect of a social obligation that the person had under section 60RA(3) ceases to apply to the person on the person ceasing to have that social obligation under section 60RA(3).
+(3B) A sanction imposed on a person under section 117 (as applied by section 116B(1)(c)) in respect of either a general obligation of the person under section 60Q(2), or an obligation of the person under section 60Q(2) or (3) to comply with a requirement under section 60Q(3), ceases to apply to the person on the person ceasing to have that obligation.
 (4) In subsection (1), benefit includes part of a benefit.
 
 ### 123A Effect of employment on non-entitlement period
-(1) This section applies to a person who is not entitled to a benefit for 13 weeks because of the operation of section 60H or section 117.
+(1) This section applies to a person who is not entitled to a main benefit under this Act for 13 weeks because of the operation of section 60H or section 117.
 (2) If a person to whom this section applies completes a period of employment approved by the chief executive for the purposes of this section of not less than 6 weeks, the remainder of the 13-week period lapses.
 (3)
 (4) In subsection (1), benefit includes part of a benefit.
@@ -3224,12 +3579,12 @@ In relation to a failure under section 115 or section 116A, a person recomplies 
     (iii) part-time work (in the case of a part-time work-tested beneficiary).
 (2) If a person to whom this section applies participates satisfactorily in the approved activity or activities for a continuous period of 6 weeks,—
   (a) the remainder of the period of non-entitlement lapses; and
-  (b) if the person wishes to again become entitled to a benefit, the person must apply for the benefit and establish his or her eligibility for it.
-(3) Despite subsection (2)(b), if the person applies for a benefit, the chief executive must grant the person a benefit during the person's satisfactory participation in the approved activity or activities.
+  (b) if the person wishes to again become entitled to a main benefit under this Act, the person must apply for the benefit and establish his or her eligibility for it.
+(3) Despite subsection (2)(b), if the person applies for a main benefit under this Act, the chief executive must grant the person a main benefit under this Act during the person's satisfactory participation in the approved activity or activities.
 (4) Payment of a benefit granted under subsection (3) is subject to the condition that the person is liable to repay the whole of any amount paid during the non-entitlement period if he or she fails to complete a continuous period of 6 weeks of satisfactory participation in an approved activity or activities, or fails to continue satisfactory participation until the end of the non-entitlement period (whichever is earlier).
 (5) No obligation to repay under subsection (4) arises if the reason for the person's failure is that he or she—
-  (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with a request under section 60HA or obligations under section 170 or 171; or
-  (b) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA or section 170 or 171.
+  (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with obligations under section 170 or 171; or
+  (b) obtains, under section 105, an exemption from the work test or an exemption from complying with section 170 or 171.
 (6) If the person is still entitled to the benefit at the end of the period of satisfactory participation or non-entitlement (as the case may be), payment of the benefit is no longer subject to the condition in subsection (4).
 (7) Any amount the person is liable to repay under this section may be recovered by the chief executive under section 86(1).
 
@@ -3242,11 +3597,13 @@ In relation to a failure under section 115 or section 116A, a person recomplies 
 
 ### 123D Regulations
 Without limiting the general power to make regulations conferred by section 132, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 or the obligation to comply with section 60HA and specifying the grounds on which exemptions may be granted for each of those categories.
+  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 and specifying the grounds on which exemptions may be granted for each of those categories.
   (b)
   (c)
 
-## Part 3 — General provisions
+## Part 3 — Administration: young persons services, welfare programmes and other money payable, preferred suppliers, contracts with administration service providers, artificial limbs, information disclosure, application of Human Rights Act 1993, and offences and general penalty
+
+**Young persons services**
 
 ### 123E Services to encourage young persons to move to education, training, and employment
 The chief executive may do either or both of the following things:
@@ -3288,6 +3645,8 @@ The chief executive may do either or both of the following things:
   (e) all submissions made in the course of the consultation required by subsection (2).
 (4) After conducting the review, the chief executive must report to the Minister on its findings, and make to the Minister any recommendations arising from them that the chief executive considers appropriate.
 
+**Welfare programmes and other money payable**
+
 ### 124 Money payable out of Crown Bank Account
 (1) There shall from time to time be paid out of a Crown Bank Account, from money appropriated by Parliament for the purpose,—
   (a) all money required to be expended in providing benefits and making other payments under this Act:
@@ -3322,10 +3681,10 @@ The chief executive may do either or both of the following things:
 (2) This subsection applies to a payment made to a person out of a Crown Bank Account by way of special assistance pursuant to subsection (1)(d) or subsection (1C) if—
   (a) either—
     (i) it was obtained by fraud; or
-    (ii) the spouse or partner of the person made a false statement to or otherwise misled an officer engaged in the administration of Part 1, in relation to his or her income or other personal circumstances; and
+    (ii) the spouse or partner of the person made a false statement to or otherwise misled an officer engaged in the administration of this Act, in relation to his or her income or other personal circumstances; and
   (b) as a result, it exceeded the amount (if any) that, in the chief executive's opinion, would otherwise have been paid.
 (2A) Sections 81 and 86, as far as they are applicable and with any necessary modifications, apply to a payment to which subsection (2) applies—
-  (a) as if it were made by way of benefit under Part 1; and
+  (a) as if it were made by way of benefit under Parts 1A to 1P; and
   (b) as if the person to whom it was made were a beneficiary entitled to a benefit of the amount (if any) that, in the chief executive's opinion, would have been payable if (as the case may be)—
     (i) the fraud had not occurred; or
     (ii) the false statement had not been made; or
@@ -3356,17 +3715,20 @@ The chief executive may do either or both of the following things:
 ### 125 Advances to beneficiaries and war pensioners for repair or maintenance of home, etc
 [Repealed]
 
+**Contracts with administration service providers**
+
 ### 125A Chief executive may contract with service providers
 (1) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a contracted service provider) for the provision by the contracted service provider of services—
-  (a) that are—
+  (a) that, in relation to young persons, are—
     (i) services of the kind referred to in section 123E(a); or
     (ii) services in relation to Part 5; and
+  (ab) that, in relation to persons other than young persons, are services in relation to all or any of Parts 1 to 1P and 2; and
   (b) that are services of a kind or description stated for the purposes of this section by regulations under this Act.
 (2) The chief executive must not enter into a contract with a person, body, or organisation for the provision of services of a kind stated in subsection (1) unless the chief executive is satisfied that it—
   (a) is suitable to provide the services specified in the contract; and
-  (b) is suitable to work with young persons in providing those services; and
+  (b) is suitable to work with persons to whom the services relate in providing those services; and
   (c) has the powers and capacity to enter into and perform a contract for those services.
-(3) In this section, young person has the meaning given by section 157.
+(3)
 
 ### 125B Contracts with service providers: contents and form
 (1) A contract under section 125A—
@@ -3378,13 +3740,13 @@ The chief executive may do either or both of the following things:
 
 ### 125C Release of personal information to and by contracted service provider
 (1) The purpose of this section is—
-  (a) to authorise the department and any contracted service provider to disclose to each other relevant personal information about young persons to whom the provider's contract under section 125A applies; and
-  (b) to assist the department to exercise and perform powers and functions under Part 5 and section 123E(a) and the provider to provide services under the contract; and
+  (a) to authorise the department and any contracted service provider to disclose to each other relevant personal information about persons to whom the provider's contract under section 125A applies; and
+  (b) to assist the department to exercise and perform powers and functions under the provisions specified in section 125A(1)(a) or, as the case requires, 125A(1)(ab) and the provider to provide services under the contract; and
   (c) to enable the prescription of—
     (i) the circumstances in which the personal information may be disclosed; and
     (ii) conditions governing the disclosure of the personal information; and
     (iii) conditions governing the way in which the personal information is to be dealt with by the person to whom it is disclosed.
-(2) This section applies to any personal information about a young person or young persons to whom a contract under section 125A applies that is held by the contracted service provider concerned or the department.
+(2) This section applies to any personal information about a person or persons to whom a contract under section 125A applies that is held by the contracted service provider concerned or the department.
 (3) For the purposes of this section, regulations under this Act may state—
   (a) the circumstances in which a contracted service provider and its employees may release or disclose to the chief executive and employees of the department information to which this section applies held by the contracted service provider and the conditions with which the chief executive and employees of the department must comply in dealing with the information; or
   (b) the circumstances in which the chief executive and employees of the department may release or disclose to a contracted service provider and its employees information to which this section applies held by the department and the conditions with which the contracted service provider and its employees must comply in dealing with the information.
@@ -3444,8 +3806,12 @@ The chief executive must ensure that there are published, no later than 1 Octobe
   (a) applies to a complaint under subsection (1) as if the regulations concerned and section 125D together constituted a code of practice issued under Part 6 of that Act; and
   (b) applies to a complaint under subsection (2) as if the information-sharing agreement concerned were a code of practice issued under Part 6 of that Act.
 
+**Artificial limbs**
+
 ### 126 Cost of repair and replacement of artificial limbs
 There shall from time to time be paid out of a Crown Bank Account out of money appropriated by Parliament for the purpose such sums as may be necessary to defray the reasonable cost of the repair or renewal by the New Zealand Artificial Limb Board, or by any other body or person specified from time to time by the Minister, by notice in the Gazette, of any artificial arm, hand, leg, or foot belonging to any person who is entitled to have that artificial limb repaired or renewed free of charge pursuant to the provisions of Part 1 of Schedule 1 of the Accident Compensation Act 2001.
+
+**Information disclosure**
 
 ### 126A Information on beneficiaries and former beneficiaries may be disclosed to Ministry of Justice for fines enforcement purposes
 (1) In this section, unless the context otherwise requires,—
@@ -3475,6 +3841,18 @@ There shall from time to time be paid out of a Crown Bank Account out of money a
   (a) there is an agreement between the department and the Registrar-General in accordance with section 99 of the Privacy Act 1993; and
   (b) the request is in accordance with the agreement.
 
+### 126AC Disclosure to department of warrant to arrest beneficiary for determining effect on benefit
+(1) The purpose of this section is to authorise and require the disclosure of information by the Ministry of Justice to the department for the purpose of enabling the department to implement effectively section 75B (which relates to the effect on a benefit of a warrant to arrest the beneficiary).
+(2) For the purpose of this section, the chief executive of the Ministry of Justice must from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, provide the latter chief executive with information about individuals for whose arrest a New Zealand court has (or 1 or more of the court's Judges or Registrars has or have) at least 28 days before the provision of the information issued a warrant to arrest in criminal proceedings against the individual for an offence (being a warrant of that kind that has not been executed or withdrawn).
+(3) The information must be provided unless provision of the information is limited or prohibited by any enactment or by any order or direction of the court.
+(4) The information provided must, without limitation, include the individual’s name (including any alias), date of birth, and last known address, and the nature of the offence charged.
+(5) The chief executive of the department responsible for the administration of this Act may supply the information received to any officer or employee who is—
+  (a) an officer or employee of the department; and
+  (b) authorised by that chief executive to receive it.
+(6) The information must be provided in a form determined by agreement between the 2 chief executives.
+
+**Application of Human Rights Act 1993**
+
 ### 126B Certain grounds of discrimination in Human Rights Act 1993 not to apply
 Nothing in—to anything done, before 31 December 2001, which—
   (a) section 44 of the Human Rights Act 1993 applies or ever applied; or
@@ -3485,6 +3863,8 @@ Nothing in—to anything done, before 31 December 2001, which—
     (iii) any document (including a manual) of the type referred to in section 22(1) of the Official Information Act 1982; and
   (d) would otherwise be or have been unlawful by reason of the prohibited grounds of discrimination in section 21(1)(a) or (b) of the Human Rights Act 1993; or
   (e) in relation to anything done before 1 February 1994, would otherwise have been unlawful under section 24(1) of the Human Rights Commission Act 1977 on the grounds of sex or marital status.
+
+**Offences and general penalty**
 
 ### 127 Offences
 Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
@@ -3527,6 +3907,8 @@ Any declaration required for the purposes of this Act may be made before any per
 
 ### 131G Privacy Commissioner to report on compliance with section 131C
 [Repealed]
+
+## Part 3A — Administration: regulations and rules, annual reports, and repeals and savings
 
 ### 132 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
@@ -3612,6 +3994,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2)
 (3)
 (4)
+(5) Regulations under this section that define the term approved early childhood education programme for the purposes of all or specified provisions of those regulations also define that term for the purposes of sections 60RA(3) and 170(2)(c).
 
 ### 132AD Regulations on use of disability allowance to fund specified expenses
 (1) The Governor-General may, by Order in Council, make regulations relating to the use of a disability allowance to fund specified expenses.
@@ -3732,7 +4115,7 @@ Without limiting the general power to make regulations conferred by section 132,
 (2) This section does not limit or affect the generality of section 132.
 
 ### 132J Regulations stating pre-benefit activities
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations stating pre-benefit activities for the purposes of section 96A.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations stating pre-benefit activities for the purposes of sections 11E, 11G, and 11H.
 (2) The Minister must not recommend the making of regulations under subsection (1) unless, in his or her opinion, each pre-benefit activity concerned is likely to—
   (a) increase the awareness of the people undertaking it of opportunities for employment; or
   (b) strengthen incentives for the people undertaking it to move into employment; or
@@ -3745,6 +4128,24 @@ Without limiting the general power to make regulations conferred by section 132,
   (b) define the kinds of budgeting activities that the chief executive may require a person to undertake under section 82(6B) and the terms and conditions of those activities:
   (c) prescribe the circumstances in which the power referred to in section 82(6B) may be exercised.
 (2) Nothing in subsection (1) limits section 132.
+
+### 132L Regulations relating to effect on benefit of warrant to arrest beneficiary
+(1) The Governor-General may by Order in Council make regulations for the purpose of section 75B (which relates to the effect on a benefit of a warrant to arrest a beneficiary), including, without limitation,—
+  (a) provisions prescribing classes, descriptions, or kinds of offences excluded from the operation of section 75B(1)(a):
+  (b) provisions prescribing for the purposes of section 75B(2)(a)(iii) or, as the case requires, section 75B(2)(b)(ii), classes, descriptions, or kinds of beneficiary excluded from the operation of all of the provisions of section 75B, and who are therefore excluded beneficiaries for the purposes of section 75B(3) to (6) or, as the case requires, section 75B(7) and (8):
+  (c) provisions for any other matters contemplated by section 75B, necessary for its administration, or necessary for giving it full effect.
+(2) Nothing in this section limits section 132.
+
+### 132M Regulations relating to expiry and re-grant of specified benefits
+(1) The Governor-General may by Order in Council make regulations for the purpose of sections 80BE and 80BF (which relate to expiry and re-grant of specified benefits), including, without limitation, provisions that—
+  (a) declare a benefit that is sole parent support, supported living payment, or emergency benefit (including, without limitation, that benefit as granted in either or both of the ways specified in section 80BE(6)(a) and (b)) not to be a specified benefit for the purposes of sections 80BE and 80BF:
+  (b) prescribe the expiry date or expiry dates for every benefit that is a specified benefit for the purposes of sections 80BE and 80BF:
+  (c) specify circumstances in which the chief executive may under section 80BE(8) consider an exemption from expiry under section 80BE.
+(2) Regulations under subsection (1)(b) may, without limitation, prescribe the same expiry date, or 2 or more different expiry dates, for all or any combination of the following:
+  (a) each specified benefit for the purposes of sections 80BE and 80BF:
+  (b) each specified benefit for the purposes of sections 80BE and 80BF insofar as that benefit is granted on each of 2 or more different specified eligibility grounds:
+  (c) each specified benefit for the purposes of sections 80BE and 80BF insofar as that benefit is (on all, or any specified, eligibility grounds) granted to a specified category, class, or kind of applicants, recipients, or beneficiaries.
+(3) Nothing in this section limits section 132.
 
 ### 133 Annual reports
 (1) The Minister charged with the administration of any Part of this Act shall, as soon as practicable after the close of each financial year, cause to be prepared a report of the operations carried out under that Part during the financial year.
@@ -4029,8 +4430,8 @@ In this Part and in Schedule 26,—
       (ii) any body or organisation approved under section 396 of that Act
   - **service costs** has the same meaning as in section 61E(1)
   - **specified beneficiary** means a person who is married, in a civil union, or in a de facto relationship and receives in his or her own right—
-    (a) a domestic purposes benefit under section 27G; or
-    (b) an emergency benefit, invalid's benefit, sickness benefit, or unemployment benefit; or
+    (a)
+    (b) an emergency benefit, supported living payment, or jobseeker support; or
     (c) New Zealand superannuation paid at a rate specified in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
     (d) a veteran’s pension paid at a rate specified in clause 2 of Schedule 11 of the War Pensions Act 1954
   - **teen parent unit** means an educational facility for teenage parents attached to a State school (within the meaning of the Education Act 1989)
@@ -4094,11 +4495,11 @@ The chief executive may grant a youth payment under section 159 or 160 to a youn
       (A) the close of the calendar year in which the young person turned 18; and
       (B) the close of the day the course ends.
 (2) While a youth payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted any of the following benefits:
-  (a) a widow’s benefit:
-  (b) a domestic purposes benefit:
-  (c) a sickness benefit:
+  (a) sole parent support:
+  (b)
+  (c)
   (d) an emergency benefit:
-  (e) an unemployment benefit.
+  (e) jobseeker support.
 
 ### 163 Youth payment: rate and components
 (1) A youth payment is payable at the appropriate rate set out in Schedule 26, which includes the component set out in that schedule.
@@ -4161,11 +4562,11 @@ The chief executive may grant a young parent payment under section 165 or 166 to
       (A) the close of the calendar year in which the young person turned 19; and
       (B) the close of the day the course ends.
 (2) While a young parent payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted the following benefits:
-  (a) a widow’s benefit:
-  (b) a domestic purposes benefit:
-  (c) a sickness benefit:
+  (a) sole parent support:
+  (b)
+  (c)
   (d) an emergency benefit:
-  (e) an unemployment benefit.
+  (e) jobseeker support.
 
 ### 169 Young parent payment: rate and components
 (1) A young parent payment is payable at the appropriate rate set out in Schedule 26, which includes the component set out in that schedule.
@@ -4195,7 +4596,7 @@ The chief executive may grant a young parent payment under section 165 or 166 to
   (b) to keep every dependent child under the age of 5 years up-to-date with checks under—
     (i) the programme that immediately before the commencement of section 24 of the Social Security (Youth Support and Work Focus) Amendment Act 2012 was known as WellChild; or
     (ii) any similar programme established in its place:
-  (c) to ensure the child’s attendance at an approved early childhood education programme (as defined in regulations under this Act) or other suitable childcare while the young person is in education, training, work-based learning, or part-time work.
+  (c) to ensure the child’s attendance at an approved early childhood education programme (as defined for the purposes of this paragraph in regulations under section 132AC) or other suitable childcare while the young person is in education, training, work-based learning, or part-time work.
 (3) Except as provided in subsection (4), the obligations in subsections (1) and (2) apply to a young person receiving a youth support payment from the time that it is first paid to the young person.
 (4) Where a young person receiving a young parent payment is the principal caregiver of his or her youngest dependent child and the child is aged under 12 months, the obligation in subsection (1)(a) begins to apply (in relation to the young person) only on the earlier of the following days:
   (a) the first day on which—
@@ -4214,7 +4615,7 @@ The chief executive may grant a young parent payment under section 165 or 166 to
   (b) is not subject to the work test or to obligations under section 60Q.
 (3) A failure without good and sufficient reason to comply with any of the obligations placed on a young person under this section,—
   (a) for a young person who would, but for subsection (1)(b) or (2)(b), be subject to the work test, is a failure to comply with the work test for the purposes of section 117; and
-  (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to obligations under section 60Q, is a failure to comply with section 60Q(2) for the purposes of section 116A.
+  (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to obligations under section 60Q, is a failure to comply with section 60Q(2) for the purposes of section 116B.
 
 ### 172 Department to explain obligations to young person
 The chief executive must take reasonable and appropriate steps to make every young person who is subject to obligations under section 170 or 171 aware of—
@@ -4230,8 +4631,8 @@ The chief executive must take reasonable and appropriate steps to make every you
     (ii) if the young person has not satisfied the obligation (or, if he or she has failed to comply with 2 or more obligations, if he or she has not satisfied all of them) within 4 weeks after the date on which the suspension took effect, suspend the whole of the youth payment and any incentive payments until the young person satisfies the obligation or obligations; and
   (b) for a third failure, cancel the youth payment and any incentive payments.
 (2) A person whose benefit is cancelled under subsection (1)(b)—
-  (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
-  (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
+  (a) is not entitled to be granted a main benefit under this Act for 13 weeks from the date of the cancellation; and
+  (b) if he or she wishes to become entitled to a main benefit under this Act again, must apply for it and establish his or her eligibility for it.
 (3) Subsection (2) is subject to sections 123 to 123B.
 (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
   (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
@@ -4246,8 +4647,8 @@ The chief executive must take reasonable and appropriate steps to make every you
     (i) cancel the young person’s young parent payment; and
     (ii) cancel any incentive payments.
 (2) A person whose benefit is cancelled under subsection (1)(b)—
-  (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
-  (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
+  (a) is not entitled to be granted a main benefit under this Act for 13 weeks from the date of the cancellation; and
+  (b) if he or she wishes to become entitled to a main benefit under this Act again, must apply for it and establish his or her eligibility for it.
 (3) Subsection (2) is subject to sections 123 to 123B and section 177.
 (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
   (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
@@ -4336,12 +4737,25 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 2 — Rates of age benefits
 
-## Schedule 3 — Rates of widows' benefits
+## Schedule 3 — Rates of generally abolished former widows' benefits under section 21 as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
 | 1 | To a beneficiary with 1 or more dependent children | $295.37 a week, subject to Income Test 1 |
 | --- | --- | --- |
 | 2 | To a beneficiary without any dependent children | $214.79 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
+
+## Schedule 3A — Rate of sole parent support
+
+### 1
+To a beneficiary with 1 or more dependent children: $295.37 a week, subject to Income Test 1.
+
+### 2
+For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
+
+### 3
+For the purposes of clause 1, the chief executive may, in his or her discretion, treat all or any part of the income (including, without limitation, any pension or allowance under the War Pensions Act 1954) of the spouse or partner of an applicant to whom section 20A(d) or (f) applies as if it were income derived by that applicant if the chief executive—
+(a) has had regard to its nature and the means by which it was derived; and
+(b) considers that treatment of it to be reasonable in the circumstances.
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
@@ -4354,7 +4768,7 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 5 — Rates of family benefits
 
-## Schedule 6 — Rates of invalids' benefits
+## Schedule 6 — Rates of supported living payment benefits
 
 | 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $208.58 a week, subject to Income Test 1 |
 | --- | --- | --- | --- |
@@ -4362,26 +4776,32 @@ The chief executive may assign a contracted service provider to a young person,�
 |  | (c) | To a single beneficiary with 1 or more dependent children | $338.60 a week, subject to Income Test 1 |
 |  | (d) |  |  |
 |  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $214.79 a week, subject to Income Test 2 |
-|  | (f) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $214.79 a week, increased by $214.79 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
+|  | (f) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $214.79 a week, increased by $214.79 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
 |  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $214.79 a week, subject to Income Test 1 |
+|  | (h) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right | $214.79 a week, subject to Income Test 1 |
 | provided that, in computing the income of any beneficiary for the purpose of this schedule, the chief executive shall— |  |  |  |
 |  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 |  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $344.79 a week, increased by $42.96 a week if the beneficiary is a single person |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $344.79 a week, increased by $42.96 a week if the beneficiary is a single person |
+| 3 |  | Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $214.79 a week. |  |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
 ## Schedule 8 — Rates of benefit payable to person receiving a sickness benefit immediately before 1 July 1998
 
-## Schedule 9 — Rates of unemployment benefits and sickness benefits
+## Schedule 9 — Rates of jobseeker support
 
 | 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $137.47 a week, subject to Income Test 3 |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | living with a parent (as that term is defined in section 3(1)); and |  |
 |  |  | (ii) | whose benefit commenced on or after 1 July 1998 |  |
 |  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $171.84 a week, subject to Income Test 3 |
+|  | (ab) | To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support— |  | $214.79 a week, subject to Income Test 1 |
+|  |  | (i) | by clause 2(9) and (11) of Schedule 32; or |  |
+|  |  | (ii) | by clause 10(6) and (8) of Schedule 32 |  |
 |  | (b) | To any other single beneficiary without dependent children |  | $206.21 a week, subject to Income Test 3 |
-|  | (c) | To a single beneficiary with 1 or more dependent children |  | $295.37 a week, subject to Income Test 3 |
+|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $295.37 a week, subject to Income Test 1 |
+|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $295.37 a week, subject to Income Test 1 |
 |  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $171.84 a week, subject to Income Test 4 |
 |  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $171.84 a week, increased by $171.84 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
 |  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $171.84 a week, subject to Income Test 3 |
@@ -4392,12 +4812,17 @@ The chief executive may assign a contracted service provider to a young person,�
 | 2 | Maximum increase in respect of a housekeeper |  |  | $171.84 a week |
 | 3 | [Repealed] |  |  |  |
 | 4 | [Repealed] |  |  |  |
-| 5 | Special rate of benefit for persons to whom section 99(4) applies |  |  | $171.84 a week, subject to Income Test 4 |
+| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $171.84 a week, subject to Income Test 4 |
+| 5A | A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(ba), includes, without limitation, any such beneficiary who is— |  |  |  |
+|  | (a) | a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or |  |  |
+|  | (b) | a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32; or |  |  |
+|  | (c) | a beneficiary whose entitlement to jobseeker support arose from applying for it, and being granted it, after 14 July 2013. |  |  |
+| 5B | For the purposes of clause 1(ba) and of clause 1(c), the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary’s personal earnings used to meet the cost of childcare for any of the beneficiary’s dependent children. |  |  |  |
 | 6 | [Repealed] |  |  |  |
 
-## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand superannuation payable under section 16, invalids', widows', domestic purposes, and sickness benefits only)
+## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (stated benefits only)
 
-| Maximum rate | $2 a week in the case of a sickness benefit, and $104 a year in any other case |
+| Maximum rate | $2 a week in the case of jobseeker support on the ground of sickness, injury, or disability, and $104 a year in the case of New Zealand Superannuation, supported living payment on the ground of sickness, injury, disability, or total blindness, or sole parent support |
 | --- | --- |
 
 ## Schedule 11 — Special income exemption in respect of earnings from domestic and nursing service
@@ -4413,7 +4838,7 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 15 — Maximum rate of rehabilitation allowance
 
-## Schedule 16 — Rates of domestic purposes benefits
+## Schedule 16 — Rates of generally abolished former DPB for solo parents under section 27B as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
 | 1 | To a beneficiary with 1 or more dependent children | $295.37 a week, subject to Income Test 1 |
 | --- | --- | --- |
@@ -4421,16 +4846,6 @@ The chief executive may assign a contracted service provider to a young person,�
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
-
-| 1 | To a single beneficiary under the age of 18 years without dependent children | $208.58 a week, subject to Income Test 1 |
-| --- | --- | --- |
-| 2 | To any other single beneficiary without dependent children | $257.75 a week, subject to Income Test 1 |
-| 3 | To a single beneficiary with 1 or more dependent children | $338.60 a week, subject to Income Test 1 |
-| 4 |  |  |
-| 5 | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $214.79 a week, subject to Income Test 2 |
-| 6 | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $214.79 a week, subject to Income Test 1 |
-| 7 | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $214.79 a week, subject to Income Test 1 |
-| 8 | Notwithstanding anything in clauses 5 to 7, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $214.79 a week. |  |
 
 ## Schedule 18 — Accommodation supplement
 
@@ -4441,29 +4856,29 @@ For the purposes of this schedule—
 - **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician):Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara–Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
 - **Area 4** means any part of New Zealand not included in Area 1, Area 2, or Area 3
 - **base rate** means, subject to clause 4A,—
-  (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of benefit he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
-  (b) in relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 under subparts MA to MF and MZ of the Income Tax Act 2007:
-  (c) in relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
-  (d) in relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subparts MA to MF and MZ of the Income Tax Act 2007, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
-  (da) in relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner is not entitled to an accommodation supplement under section 80C, the rate specified in paragraph (d) as if a rate of benefit were paid in respect of that spouse or partner:
+  (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of a main benefit under this Act he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
+  (b) in relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of a main benefit under this Act he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 under subparts MA to MF and MZ of the Income Tax Act 2007:
+  (c) in relation to any other single beneficiary, the maximum weekly rate of a main benefit under this Act he or she would be entitled to receive before any abatement or deduction:
+  (d) in relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) applies), the maximum weekly rate of a main benefit under this Act he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subparts MA to MF and MZ of the Income Tax Act 2007, plus the maximum weekly rate of a main benefit under this Act paid in respect of his or her spouse or partner:
+  (da) in relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner is not entitled to an accommodation supplement under section 80C, the rate specified in paragraph (d) as if a rate of a main benefit under this Act were paid in respect of that spouse or partner:
   (e) in relation to a single non-beneficiary with 1 or more dependent children,—
-    (i) the appropriate maximum weekly rate of unemployment benefit; plus
+    (i) the appropriate maximum weekly rate of jobseeker support; plus
     (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
-  (f) in relation to any other single non-beneficiary, the weekly rate of unemployment benefit at the rate in clause 1(b) of Schedule 9 before any abatement or deduction:
+  (f) in relation to any other single non-beneficiary, the weekly rate of jobseeker support at the rate in clause 1(b) of Schedule 9 before any abatement or deduction:
   (g) in relation to a non-beneficiary who is married or in a civil union or in a de facto relationship,—
-    (i) the appropriate maximum weekly rate of unemployment benefit; plus
+    (i) the appropriate maximum weekly rate of jobseeker support; plus
     (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
-    (iii) the maximum weekly rate of unemployment benefit that would have been payable in respect of his or her spouse or partner.
+    (iii) the maximum weekly rate of jobseeker support that would have been payable in respect of his or her spouse or partner.
 
 ### 2
 The amount of accommodation supplement assessed under this schedule shall be reduced—
 (a)
-(b) in the case of a non-beneficiary, by 25 cents for every $1 of the combined weekly income of the applicant and any spouse or partner of the applicant in excess of the amount of income that would prevent payment of an unemployment benefit—
+(b) in the case of a non-beneficiary, by 25 cents for every $1 of the combined weekly income of the applicant and any spouse or partner of the applicant in excess of the amount of income that would prevent payment of jobseeker support—
   (i) in the case of a single applicant without dependent children, at the maximum rate in clause 1(b) of Schedule 9; or
   (ii) in the case of any other applicant, at the appropriate maximum rate in Schedule 9.
 
 ### 3
-In assessing the income of a person in receipt of a widow's benefit or a domestic purposes benefit or a young parent payment for the purposes of section 61EC and of this schedule, the chief executive, in his or her discretion, may disregard an amount of up to $20 a week of that person's earnings which are used to meet the cost of placing his or her dependent child or dependent children in a day-care centre registered under the Child Care Centre Regulations 1985 or in any other day-care facility approved by the chief executive.
+In assessing the income of a person in receipt of sole parent support or a young parent payment for the purposes of section 61EC and of this schedule, the chief executive, in his or her discretion, may disregard an amount of up to $20 a week of that person's earnings which are used to meet the cost of placing his or her dependent child or dependent children in a day-care centre registered under the Child Care Centre Regulations 1985 or in any other day-care facility approved by the chief executive.
 
 ### 4
 Every accommodation supplement assessed under this schedule shall be rounded up to the complete dollar.
@@ -4492,9 +4907,9 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $42.64 a week |
+| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act | $42.64 a week |
 | --- | --- | --- |
-| 2 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to the amount specified in clause 1. |
+| 2 |  |  |
 
 ## Schedule 23 — Transition to work allowance
 
@@ -4634,7 +5049,7 @@ The weekly contribution payable by a person whose income is assessed is the pers
 
 ### 1
 In this schedule, specified outgoings, in relation to any person, means the annual total of—
-((a)) the maximum rate for the time being of an invalid's benefit that would be payable to the person if he or she was qualified to receive such a benefit:
+((a)) the maximum rate for the time being of a supported living payment that would be payable to the person if he or she was qualified to receive such a benefit:
 ((b)) an amount of $10 per week (for the purpose of paying costs incidental to the provision of home help):
 ((c)) the following employment-related expenses of the person and his or her spouse or partner, calculated on an annual basis:
   ((i)) fees or subscriptions payable on an annual or regular basis to any union:
@@ -4685,6 +5100,309 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 | 13 | For a sole parent with 1 dependent child | $710.02 |
 | 14 | For any other sole parent | $748.07 |
 
+## Schedule 32 — Transitional and savings provisions related to amendments to this Act
+
+**Social Security Amendment Act 2001**
+
+### 1 Transfer from community wage to unemployment benefit on 1 July 2001
+(1) This clause applies to a person who, immediately before 1 July 2001, was—
+  (a) in receipt of a community wage on a ground other than the person's sickness, injury, or disability; and
+  (b) either—
+    (i) fulfilling the conditions of entitlement to the community wage; or
+    (ii) eligible to be granted a community wage under former section 90.
+(2) On 1 July 2001, in relation to a person to whom this clause applies, the community wage becomes an unemployment benefit as if it were granted under section 89 (as in force on 1 July 2001).
+(3) For the avoidance of doubt, the operation of subclause (2) does not affect, in relation to a person to whom this clause applies and his or her spouse (if any),—
+  (a) the rate of benefit paid; and
+  (b) the obligations under section 97 (as in force on 1 July 2001); and
+  (c) any requirement to undertake an organised activity under former section 111; and
+  (d) any exemption from the work test under section 105; and
+  (e) a sanction applying under any of former sections 115 to 118.
+(4) In this clause, former section means a section of this Act as it was before 1 July 2001.
+
+**Social Security (Benefit Categories and Work Focus) Amendment Act 2013**
+
+### 2 Transfer from DPBs for solo parents and widows' benefits to sole parent support or jobseeker support on 15 July 2013
+Widows' benefits and DPBs for solo parents abolished
+(1) The following are (subject to the savings in clause 3) abolished on 15 July 2013:
+  (a) domestic purposes benefits under section 27B:
+  (b) widows' benefits under section 21.
+Applications made, but not determined, before 15 July 2013, or made after 14 July 2013 but before 15 August 2013
+(2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
+  (a) an application for a domestic purposes benefit under section 27B or for a widow's benefit under section 21, and that is made, but is not decided or determined by the chief executive, before 15 July 2013; or
+  (b) an application for a domestic purposes benefit under section 27B or for a widow's benefit under section 21, and that is made after 14 July 2013 but before 15 August 2013.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit,—
+  (a) he or she must be treated as a person to whom subclause (6)(a) applies if, at the close of 14 July 2013, he or she was a person with a dependent child aged under 14 years; and
+  (b) he or she must be treated as a person to whom subclause (9)(a) applies if, at the close of 14 July 2013, he or she was a person without a dependent child aged under 14 years; but
+  (c) he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may be treated,—
+  (a) if made in respect of a person with a dependent child aged under 14 years, as an application for sole parent support; and
+  (b) if made in respect of a person without a dependent child aged under 14 years, as an application for jobseeker support.
+(5) Requirements or consequences of failures that apply to the applicant under section 21A or 27CA at the close of 14 July 2013 continue to apply to the applicant after 14 July 2013 as if they could be, and had been, imposed under sections 11E to 11G in respect of an application that under subclause (4) is treated as an application for sole parent support or, as the case requires, jobseeker support.
+Transfer to sole parent support of beneficiaries with dependent child aged under 14 years
+(6) This subclause applies to a person with a dependent child aged under 14 years who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27B or a widow's benefit under section 21; or
+  (b) had been granted a domestic purposes benefit under section 27B, or a widow's benefit under section 21, that was subject to a stand down period under sections 80 to 80BA.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no sole parent support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(8) A person to whom subclause (6) applies is, subject to subclauses (7) and (13) to (18) and to a review under section 81, entitled to sole parent support at the appropriate rate in Schedule 3A (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)(b).
+Transfer to jobseeker support of beneficiaries without dependent child aged under 14 years
+(9) This subclause applies to a person without a dependent child aged under 14 years who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27B or a widow's benefit under section 21; or
+  (b) had been granted a domestic purposes benefit under section 27B, or a widow's benefit under section 21, that was subject to a stand down period under sections 80 to 80BA.
+(10) Subclause (9) applies to a person even if the benefit in subclause (9)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (11) commences until the suspension or reduction would have ended, or the benefit in subclause (9)(a) or (b) would otherwise have become payable again.
+(11) A person to whom subclause (9) applies is, subject to subclauses (10) and (12) to (18) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (9)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (9)(b).
+Savings relating to transfer to sole parent or jobseeker support
+(12) If a person to whom subclause (9) applies is, immediately before 15 July 2013 and under section 80BD(6), continuing to receive a domestic purposes benefit under section 27B or a widow's benefit under section 21(1)(a) for 8 weeks after the person stops caring for the child because of a sudden change of circumstances beyond the person's control,—
+  (a) the person is after transferring to jobseeker support not entitled to the rate of jobseeker support in clause 1(ab) of Schedule 9 unless immediately before 15 July 2013 he or she would have been entitled to a domestic purposes benefit for women alone under section 27C, or to a widow's benefit on a ground specified in section 21(1)(b), (c), or (d); and
+  (b) the person’s jobseeker support commences at the end of that 8-week period.
+(13) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (9) applies is entitled under subclause (11) is the 12-month anniversary of the date on which the person's domestic purposes benefit under section 27B, or widow's benefit under section 21, commenced or, as the case may be, last commenced.
+(14) Obligations under sections 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) or (9)(a) applies continue after 14 July 2013 in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
+(15) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
+(16) Failures under section 115 or 116A by a person to whom subclause (6)(a) or (9)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
+(17) A person whose domestic purposes benefit under section 27B, or widow's benefit under section 21, was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive sole parent support or jobseeker support for 13 weeks from the date of cancellation.
+(18) Subclause (17) does not limit section 117(2)(a).
+Clause does not apply to reciprocity agreement applicants or recipients
+(19) Subclauses (2) to (18) do not apply to a person to whom clause 3(1) or (3) applies.
+
+### 3 Reciprocity agreement applicants for, or recipients of, certain DPBs for solo parents or widows' benefits
+Reciprocity agreement applicants may be granted former benefit as if it had not been abolished
+(1) This subclause applies to a widow or widower who, immediately before 15 July 2013, was ordinarily resident in New Zealand or an overseas country, and had made an application pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990 for, and had entitlement to, but had not yet in response to the application been granted,—
+  (a) a widow's benefit under section 21; or
+  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)(f).
+(2) A widow or widower to whom subclause (1) applies may be granted the benefit in subclause (1)(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and if granted to the widow or widower that benefit commences as it would have done had those provisions not been repealed, and continues so long as—
+  (a) the widow or widower continues to meet the conditions of entitlement to that benefit in those provisions; and
+  (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
+  (c) the widow or widower continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
+Reciprocity agreement recipients' entitlement continues as if former benefits not abolished
+(3) This subclause applies to a person who, immediately before 15 July 2013, was ordinarily resident in an overseas country, and was receiving, or granted and entitled to receive, pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990,—
+  (a) a widow's benefit under section 21; or
+  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)(f).
+(4) Subclause (3) applies to a person even if the benefit in subclause (3)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no benefit of the person that is continued by subclause (5) commences until the suspension or reduction would have ended, or the benefit in subclause (3)(a) or (b) would otherwise have become payable again.
+(5) A person to whom subclause (3) applies is, subject to subclause (4) and to a review under section 81, entitled to the benefit in subclause (3)(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and that benefit continues so long as—
+  (a) the person continues to meet the conditions of entitlement to that benefit in those provisions; and
+  (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
+  (c) the person continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
+Alteration, and annual CPI adjustment, of rates of saved former benefits
+(6) Sections 61H and 61HA must for the purposes of subclauses (2) and (5) be treated as continuing to authorise amendments and require adjustments to Schedules 3 and 16 on and after 15 July 2013.
+
+### 4 Transfer from invalids' benefits and DPBs for care of sick or infirm to supported living payment on 15 July 2013
+Invalids' benefits renamed, and DPBs under section 27G abolished
+(1) On 15 July 2013,—
+  (a) invalids' benefits under section 40 are renamed as the supported living payment under section 40B:
+  (b) domestic purposes benefits under section 27G are abolished and replaced with the supported living payment under section 40D.
+Applications made, but not determined, before 15 July 2013, or made after 14 July 2013 but before 15 August 2013
+(2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the invalids' benefit, an application that is either—
+  (a) an application for an invalid's benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
+  (b) an application for an invalid's benefit, and that is made after 14 July 2013 but before 15 August 2013.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the invalids' benefit before it was renamed, he or she must be treated as a person to whom subclause (8)(a) applies, but he or she must be granted the invalids' benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the invalids' benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the invalids' benefit would have.
+(4) If it is determined under subclause (2) that the applicant had no entitlement to the invalids' benefit before it was renamed, the applicant's application may (without limiting section 11D(4)) be treated as an application for a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness.
+(5) An application for a domestic purposes benefit under section 27G made, but not decided or determined by the chief executive, before 15 July 2013, must after 14 July 2013 be determined under this subclause in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit.
+(6) If it is determined under subclause (5) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (15)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(7) If it is determined under subclause (5) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for a supported living payment under section 40D on the ground of caring for a patient requiring care.
+Transfer from invalid's benefit to supported living payment under section 40B
+(8) This subclause applies to a person who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, an invalid's benefit; or
+  (b) had been granted an invalid's benefit that was subject to a stand down period under sections 80 to 80BA.
+(9) Subclause (8) applies to a person even if the benefit in subclause (8)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (10) commences until the suspension or reduction would have ended, or the benefit in subclause (8)(a) or (b) would otherwise have become payable again.
+(10) A person to whom subclause (8) applies is, subject to subclauses (9) and (11) to (14) and to a review under section 81, entitled to a supported living payment under section 40B at the appropriate rate in Schedule 6 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (8)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (8)(b).
+Transitional and savings provisions related to transfer to supported living payment under section 40B
+(11) Obligations under section 60Q(2), and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to the spouse or partner (if any) of a person to whom subclause (8)(a) applies continue after 14 July 2013 in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
+(12) Failures under section 116A by the spouse or partner (if any) of a person to whom subclause (8)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
+(13) A person whose invalid's benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive a supported living payment under section 40B for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)(a).
+Transfer from DPB for care of sick or infirm to supported living payment under section 40D
+(15) This subclause applies to a person who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27G; or
+  (b) had been granted a domestic purposes benefit under section 27G that was subject to a stand down period under sections 80 to 80BA.
+(16) Subclause (15)(a) applies, without limitation, to a domestic purposes benefit under section 27G that the person is entitled to continue to receive under the savings provision that is section 30(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012.
+(17) Subclause (15) applies to a person even if the benefit in subclause (15)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (18) commences until the suspension or reduction would have ended, or the benefit in subclause (15)(a) or (b) would otherwise have become payable again.
+(18) A person to whom subclause (15) applies is, subject to subclauses (17) and (19) and to a review under section 81, entitled to a supported living payment under section 40D at the appropriate rate in Schedule 6 as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (15)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (15)(b).
+Transitional and savings provisions related to transfer to supported living payment under section 40D
+(19) The following so far as they relate to a person to whom subclause (15) applies cease to exist on 15 July 2013, but the person may if considered to have the capacity to do so be required to comply with section 60Q(3):
+  (a) requests under section 60HA made before 15 July 2013:
+  (b) applications under section 105 to be exempted from complying with any such requests:
+  (c) exemptions under section 105 arising from applications of that kind:
+  (d) the imposition or effects of sanctions imposed under section 60U (as repealed on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012) because of failures to comply with any such requests.
+
+### 5 Social Security (Supported Living Payments Benefit) Regulations 1998
+The Social Security (Supported Living Payments Benefit) Regulations 1998, as renamed and amended on 15 July 2013 by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013, after 14 July 2014—
+  (a) must be treated as if they set out a period for the purposes of section 40B(2)(a); and
+  (b) may be further amended, revoked, or revoked and replaced, accordingly.
+
+### 6 Transfer to emergency benefit of certain people 65 years old or older
+The repeal of subsections (1B) to (1D) of section 61 (effected on 15 July 2013 by section 27(2) of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013) does not limit or affect any transfer, or entitlement arising from a transfer, under those subsections before their repeal.
+
+### 7 Transfer from unemployment benefit to jobseeker support on 15 July 2013
+Unemployment benefit abolished
+(1) The unemployment benefit is abolished on 15 July 2013.
+Applications made, but not determined, before 15 July 2013, or made after 14 July 2013 but before 15 August 2013
+(2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
+  (a) an application for the unemployment benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
+  (b) an application for the unemployment benefit, and that is made after 14 July 2013 but before 15 August 2013.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support.
+(5) Requirements or consequences of failures that apply to the applicant under section 96A at the close of 14 July 2013 continue to apply to the applicant after 14 July 2013 as if they could be, and had been, imposed under sections 11E to 11G in respect of an application that under subclause (4) is treated as an application for jobseeker support.
+Transfer from unemployment benefit to jobseeker support
+(6) This subclause applies to a person who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, an unemployment benefit; or
+  (b) had been granted an unemployment benefit that was subject to a stand down period under sections 80 to 80BA.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)(b).
+Savings relating to transfer to jobseeker support
+(9) A notice given to a person under section 99AA(2) before 15 July 2013, and stating that the person's entitlement to the unemployment benefit will cease unless the person reapplies for that benefit and it is re-granted, continues in force after 14 July 2013 as if given under section 80BE(2) in respect of the jobseeker support to which the person is entitled under subclause (8).
+(10) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (6) of this clause applies is entitled under subclause (8) of this clause is the 12-month anniversary of the date on which the person's unemployment benefit commenced or, as the case may be, last commenced.
+(11) Obligations under sections 60Q(2), 97(1) and (2)(b), 102, and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
+(12) Failures under section 115 or 116A by a person to whom subclause (6)(a) applies or by his or her spouse or partner (if any), and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
+(13) A person whose unemployment benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)(a).
+
+### 8 Transfer from sickness benefit to jobseeker support on 15 July 2013
+Sickness benefit abolished
+(1) The sickness benefit is abolished on 15 July 2013.
+Applications made, but not determined, before 15 July 2013, or made after 14 July 2013 but before 15 August 2013
+(2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
+  (a) an application for a sickness benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
+  (b) an application for a sickness benefit, and that is made after 14 July 2013 but before 15 August 2013.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (5)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support on the ground of sickness, injury, or disability.
+Transfer from sickness benefit to jobseeker support
+(5) This subclause applies to a person who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, a sickness benefit under section 54 or 54A or
+  (b) had been granted a sickness benefit that was subject to a stand down period under sections 80 to 80BA.
+(6) Subclause (5) applies to a person even if the benefit in subclause (5)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (7) commences until the suspension or reduction would have ended, or the benefit in subclause (5)(a) or (b) would otherwise have become payable again.
+(7) A person to whom subclause (5) applies is, subject to subclauses (6) and (8) to (14) and to a review under section 81, entitled to jobseeker support on the ground of sickness, injury, or disability at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (5)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (5)(b).
+Savings relating to transfer to jobseeker support
+(8) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (5) applies is entitled under subclause (5) is the 12-month anniversary of the date on which the person's sickness benefit commenced or, as the case may be, last commenced.
+(9) Obligations under sections 54(7), 54E, 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (5)(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (7).
+(10) A determination, and a requirement to comply with the work test, that are made under section 54DA(1) in respect of a person to whom subclause (5) applies are, after 14 July 2013, deemed to be a determination under section 88F(2) and notice under section 88F(4) in respect of that person.
+(11) A person to whom subclause (5) applies, and in respect of whom no determination and requirement under section 54DA(1) have been made before 15 July 2013, is deemed to have been granted on 15 July 2013 a deferral under section 88I(2) of all his or her work test obligations for the rest of the period (which the chief executive must identify by reference to the medical evidence supplied to the chief executive before 15 July 2013) of the beneficiary’s limited capacity to engage in full-time employment because of sickness, injury, or disability.
+(12) Failures under section 115 or 116A by a person to whom subclause (5)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (7).
+(13) A person whose sickness benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)(a).
+
+### 9 Social Security (Jobseeker Support—Medical Examinations) Regulations 2010
+The Social Security (Jobseeker Support—Medical Examinations) Regulations 2010, as renamed and amended on 15 July 2013 by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013, after 14 July 2013—
+  (a) must be treated as if they specify a kind of health practitioner for the purposes of section 88E(2)(d); and
+  (b) may be further amended, revoked, or revoked and replaced, accordingly.
+
+### 10 Transfer from DPBs for women alone to jobseeker support on 15 July 2013
+DPBs for women alone abolished
+(1) Domestic purposes benefits under section 27C are abolished on 15 July 2013.
+Applications made, but not determined, before 15 July 2013, or made after 14 July 2013 but before 15 August 2013
+(2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
+  (a) an application for a domestic purposes benefit under section 27C, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
+  (b) an application for a domestic purposes benefit under section 27C, and that is made after 14 July 2013 but before 15 August 2013.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support.
+(5) Requirements or consequences of failures that apply to the applicant under section 27CA at the close of 14 July 2013 continue to apply to the applicant after 14 July 2013 as if they could be, and had been, imposed under sections 11E to 11G in respect of an application that under subclause (4) is treated as an application for jobseeker support.
+Transfer from DPBs for women alone to jobseeker support
+(6) This subclause applies to a person who, immediately before 15 July 2013,—
+  (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27C; or
+  (b) had been granted a domestic purposes benefit under section 27C that was subject to a stand down period under sections 80 to 80BA.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the reduction or suspension would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
+  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)(b).
+Savings relating to transfer to jobseeker support
+(9) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (6) applies is entitled under subclause (8) is the 12-month anniversary of the date on which the person's domestic purposes benefit under section 27C commenced or, as the case may be, last commenced.
+(10) Obligations under sections 102 and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) applies continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
+(11) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
+(12) Failures under section 115 by a person to whom subclause (6)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
+(13) A person whose domestic purposes benefit under section 27C was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)(a).
+
+### 11 Appeals, and appeal boards, under section 53A
+Appeals made, but not decided, before 15 July 2013
+(1) An appeal made under section 53A but not decided before 15 July 2013 continues, and must be decided under section 10B, after 14 July 2013, as if it had been made under section 10B.
+Boards appointed under section 53A
+(2) Every Board appointed under section 53A for an appeal to which subclause (1) applies continues after 14 July 2013 as if it had been appointed, and the appeal had been made, under section 10B.
+
+### 12 Temporary exemption from full-time student ineligibility for certain transferees to jobseeker support
+(1) This subclause applies to a person who is a full-time student (as defined in section 3(1)) at the close of 14 July 2013, is receiving a main benefit under this Act (as defined in subclause (3)) at the close of 14 July 2013, and is transferred to jobseeker support on 15 July 2013—
+  (a) under clause 2(11) in respect of a domestic purposes benefit under section 27B or 27C; or
+  (b) under clause 2(11) in respect of a widow's benefit under section 21; or
+  (c) under clause 8(7) in respect of a sickness benefit under section 54 or 54A.
+(2) This subclause applies to a person who is a full-time student (as defined in section 3(1)) at the close of 14 July 2013, is receiving a main benefit under this Act (as defined in subclause (3)) at the close of 14 July 2013, and is transferred to jobseeker support at any time after 14 July 2013—
+  (a) from that main benefit (either directly, or via 1 or more other benefits); and
+  (b) under section 20H, or after a review under section 81(1) and under section 81(3).
+(3) Main benefit under this Act, in subclauses (1) and (2), means a benefit that is—
+  (a) a widow's benefit under section 21; or
+  (b) a domestic purposes benefit under section 27B, 27C, or 27G; or
+  (c) an invalid's benefit under section 40; or
+  (d) a sickness benefit under section 54 or 54A; or
+  (e) an unemployment benefit under section 89 or 90; or
+  (f) an emergency benefit under section 61; or
+  (g) a youth payment (under Part 5); or
+  (h) a young parent payment (under Part 5).
+(4) A person to whom subclause (1) or (2) applies is, for the period in subclause (5),—
+  (a) excepted from the application of the jobseeker support ineligibility ground in section 88D(a); and
+  (b) deemed to have been exempted under section 105 from all his or her work test obligations or, as the case may be, work preparation obligations under section 60Q.
+(5) The period referred to in subclause (4)—
+  (a) begins,—
+    (i) for a person to whom subclause (1) applies, on 15 July 2013:
+    (ii) for a person to whom subclause (2) applies, on the date on which the person transfers to jobseeker support under section 20H or 81(3); and
+  (b) ends (whether subclause (1) or (2) applies to the person) at the earliest of the following times:
+    (i) the close of 14 July 2015:
+    (ii) the time when the person’s jobseeker support ends:
+    (iii) the time when the person ceases to be a full-time student (as defined in section 3(1)):
+    (iv) the time when the person's exception and exemption under this clause end under subclause (7).
+(6) Despite subclause (5)(b), the chief executive may, in his or her discretion, decide that the period referred to in subclause (4) does not end at the time specified in subclause (5)(b)(ii) or (iii).
+(7) The exception and exemption under subclause (4)(a) and (b) of a person to whom subclause (1) or (2) applies end under this subclause if the chief executive is satisfied at a time before 15 July 2015 that the amount of work (if any) passed by the person in any period (for example, a semester) in a course in which the person was enrolled was equivalent to half of, or less than half of, a full-time course.
+(8) Full-time course, in subclause (7), has the same meaning as in regulation 2(1) of the Student Allowances Regulations 1998.
+
+### 13 Residential requirements: overseas residents' entitlements under reciprocity agreements unaffected by section 74AA(1)(c)
+Nothing in section 74AA(1)(c) (as replaced on 15 July 2013) applies on or after 15 July 2013 to a benefit granted to a person pursuant to an agreement or convention with the government of another country and at a time before 15 July 2013 when—
+  (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in the agreement or convention set out in a schedule of the order had force and effect so far as they relate to New Zealand; and
+  (b) the person is ordinarily resident in that country.
+
+### 14 When beneficiaries can be paid benefit while overseas: travel booked before, but occurring after, 15 July 2013
+(1) This clause applies to a beneficiary's absence overseas, but only if that absence involves travel from New Zealand that—
+  (a) occurs on or after 15 July 2013; but
+  (b) was booked before 15 July 2013.
+(2) The chief executive may, for the purpose of avoiding any net adverse effects on the beneficiary of section 77 (as amended on 15 July 2013), and in the chief executive's discretion, determine the beneficiary's entitlements in respect of the absence under section 77 (as in force immediately before 15 July 2013).
+
+### 15 Saving of failures and sanctions not saved by other clauses
+(1) This clause applies to a person's failure before 15 July 2013 if it is—
+  (a) a failure under section 115(1)(a) (to comply with work test obligations in sections 102 and 102A); or
+  (b) a failure under section 115(1)(b) (for a beneficiary granted an exemption from the work test, to attend an interview as required under section 105(5)); or
+  (c) a failure before 20 August 2012 under section 115A (to comply with independent youth benefits obligations under section 60GAB); or
+  (d) a failure under section 116A (to comply with work preparation obligations under section 60Q(2) (as replaced on 15 October 2012)); or
+  (e) a failure that, under section 171(3)(a), is a failure to comply with the work test for the purposes of section 117 because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171; or
+  (f) a failure that, under section 171(3)(b), is a failure to comply with section 60Q(2) (as replaced on 15 October 2012) for the purposes of section 116A because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171.
+(2) The failure and any related sanction under section 117 before 15 July 2013 both continue to count for determining the number of failures of the person, and every appropriate related sanction under section 117, after 14 July 2013.
+(3) This clause does not limit any other provisions of this schedule that save or transfer obligations, failures, or sanctions that applied to a person immediately before 15 July 2013.
+
+### 16 Unamended references to former benefits or amounts
+(1) This clause applies to a reference only if the reference is in an enactment that is—
+  (a) in force on or after 15 July 2013; and
+  (b) not an enactment that is the whole of, or a portion of, or made under, the Social Security Act 1964; and
+  (c) not amended by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013.
+(2) A reference in column 1 of a row of the following table to a former benefit or amount under this Act must, unless the context otherwise requires, be read as a reference to the new benefit or amount in column 2 of that row.Column 1Former benefit or amountColumn 2New benefit or amountWidow's benefit under, or under section 21 of, this Act, and payable to a person with 1 or more dependent children Sole parent support under section 20D (if the person has a dependent child aged under 14 years)Widow's benefit under, or under section 21 of, this Act, and payable to a person with no, or with 1 or more, dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenSole parent support under section 20D (if the person has a dependent child aged under 14 years)Domestic purposes benefit under section 27B, or payable to a person with 1 or more dependent childrenJobseeker support under section 88B (if the person has no dependent child aged under 14 years)Domestic purposes benefit under section 27C, or payable to a person, or to a woman alone, with no dependent childrenJobseeker support under section 88BAn amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The corresponding amount in Schedule 3A (for sole parent support)An amount in Schedule 16 (rates of domestic purposes benefits under section 27B or 27C)The amount in clause 1(ba) of Schedule 9 (for jobseeker support)Domestic purposes benefit under section 27G, or for the care at home of the sick or infirmSupported living payment under section 40D on the ground of caring for a patient requiring careAn amount in Schedule 17 (rates of domestic purposes benefits under section 27G)The appropriate amount in Schedule 6 (rates of supported living payment benefits)Invalid's benefit under, or under section 40 of, this ActSupported living payment under section 40B on the ground of sickness, injury, disability, or total blindnessSickness benefitJobseeker support under section 88BUnemployment benefitJobseeker support under section 88B
+
+### 17 Regulations for transitional and savings purposes
+(1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
+  (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013:
+  (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
+(2) The Minister must not recommend the making of regulations under subclause (1) unless satisfied that those regulations—
+  (a) are reasonably necessary for either or both of the purposes in subclause (1)(a) and (b); and
+  (b) are consistent with the purposes of this Act.
+(3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of clauses 2 to 16, and may—
+  (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
+  (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
+(4) No regulations made under this clause may be made, or continue in force, after the close of 14 July 2016.
+
 ### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
 
@@ -4715,16 +5433,6 @@ This Act may be cited as the Social Security Amendment Act 1975, and shall be re
 (4) This section shall be deemed to have come into force on 2 July 1975.
 
 ### 1 Short Title
-This Act may be cited as the Social Security Amendment Act (No 2) 1977, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
-
-## Part 1 — Monetary benefits
-
-### 6 Domestic purposes benefit for women alone
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the provisions of subsection (1), if any person was, immediately before the commencement of this section, in receipt of a domestic purposes benefit under section 27C of the principal Act, the chief executive may, in the chief executive's discretion, continue to pay the benefit as if this section had not been enacted.
-(3) This section shall come into force on 1 April 1978.
-
-### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1978, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
 
 ### 16 Additional benefit
@@ -4732,74 +5440,6 @@ This Act may be cited as the Social Security Amendment Act 1978, and shall be re
 (2) Notwithstanding the provisions of subsection (1), if any person in receipt of New Zealand superannuation was, immediately before the commencement of this section, in receipt of additional benefit under section 61E of the principal Act, the chief executive may, in the chief executive's discretion, pay to such a person a benefit under section 61G of that Act.
 ((3)) Amendment(s) incorporated in the Act(s).
 (4) This section shall be deemed to have come into force on 31 August 1978.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Security Amendment Act 1983, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
-(2) Except as provided in sections 2(2), 3(3), 7(5), 8(6), 9(2), 11(2), 12(3), 13(5), and 14(5), this Act shall come into force on the day on which it receives the Governor-General's assent.
-
-### 8 Repealing provisions relating to sickness benefit for a married person
-((1)) Amendment(s) incorporated in the Act(s).
-(2)
-((3)) Amendment(s) incorporated in the Act(s).
-(4) Notwithstanding the provisions of subsections (1) to (3), if any person was, immediately before the commencement of this section, in receipt of a sickness benefit under section 54A of the principal Act, the chief executive shall continue to pay that benefit as if this section had not been enacted.
-(5) Notwithstanding the provisions of subsections (1) to (3), any application for a sickness benefit under section 54A of the principal Act received by the chief executive in respect of any period of incapacity which commenced before 1 January 1984 shall be dealt with and determined as if this section had not been enacted.
-(6) This section shall come into force on 1 January 1984.
-
-### 16 Validating notices given to liable parents
-Every notice of grant of a domestic purposes benefit under section 27L of the principal Act, and every notice of required contribution under section 27N of that Act, given to a liable parent on or after 1 April 1981 and before the date of commencement of this Act, shall be valid and effective notwithstanding any want of form because it does not sufficiently conform to the forms prescribed in the Social Security (Contribution Towards Cost of Domestic Purposes Benefit) Regulations 1981; and the liability of any liable parent who has received any such notice shall be deemed to have commenced in the manner and at the time provided by section 27K(2) of the principal Act notwithstanding that there may have been a defect of that kind in the notice given to him.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Security Amendment Act 1986, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
-(2) Except as provided in subsection (3) and in sections 3(2) and 22(3), this Act shall come into force on 1 October 1986.
-(3) Part 2 (other than section 22) shall come into force on a date to be appointed by the Governor-General by Order in Council, and different dates may be so appointed in respect of different provisions of Part 2.
-
-## Part 1 — Monetary benefits
-
-### 10 Abolition of Handicapped Child's Appeal Board
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding anything in subsection (1), any appeal that has been commenced under section 39F of the principal Act and is pending at the commencement of this section shall be heard and determined,—
-  (a) if the hearing of the appeal has not commenced, under section 53A of the principal Act; and
-  (b) if the hearing of the appeal has commenced, as if this Act had not been passed.
-
-### 11 Abolition of Appeal Board in respect of invalid's benefit
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding anything in subsection (1), any appeal that has been commenced under section 45 of the principal Act and is pending at the commencement of this section shall be heard and determined,—
-  (a) if the hearing of the appeal has not commenced, under section 53A of the principal Act; and
-  (b) if the hearing of the appeal has commenced, as if this Act had not been passed.
-
-### 14 Child supplement discontinued
-((1)) Amendment(s) incorporated in the Act(s).
-(2)
-(3)
-(4)
-((5), (6)) Amendment(s) incorporated in the Act(s).
-((7)) Notwithstanding the provisions of subsections (l) to (6), the discontinuance of child supplement shall not affect, reduce, or extinguish any entitlement under the principal Act to a child supplement in respect of any period before 1 October 1986, and any application for a child supplement under section 61A of the principal Act received by the chief executive in respect of any period before 1 October 1986 shall be dealt with and determined as if subsections (1) to (6) had not been enacted.
-
-### 17 Family care grants discontinued
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the provisions of subsection (1), the discontinuance of family care grants shall not affect, reduce, or extinguish any entitlement under the principal Act to a family care grant in respect of any period before 1 October 1986, and any application for a family care grant under Part 1A of the principal Act received by the chief executive in respect of any period before 1 October 1986 shall be dealt with and determined as if subsection (1) had not been enacted.
-
-### 1 Short Title
-This Act may be cited as the Social Security Amendment Act 1987, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
-
-## Part 1 — Amendments to principal Act
-
-### 10 Removal of exemption from liable parent scheme
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding subsection (1), if any person, immediately before the commencement of this section, was in receipt of a domestic purposes benefit to which section 2 of the Social Security Amendment Act 1980 applied, the chief executive shall continue to assess and pay the benefit as if subsection (1) had not been enacted until the benefit is first renewed under section 80(4) of the principal Act.
-(3) This section shall come into force on 1 October 1987.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Security Amendment Act (No 2) 1991, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
-(2) Except as provided in sections 5(2), 18(3), and 23(2), this Act shall come into force on 1 August 1991.
-
-### 4 Domestic purposes benefits for sole parents
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the provisions of section 27B(2)(a) of the principal Act (as substituted by subsection (1)), a person who is under the age of 18 years but who would otherwise be entitled to receive a domestic purposes benefit, shall be entitled to receive a domestic purposes benefit if he or she was a sole parent in receipt of a benefit immediately before the commencement of this section.
-
-### 7 Invalids' benefits
-((1)) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the provisions of section 40 of the principal Act (as amended by subsection (1)), a person who is under the age of 16 years but who would otherwise be entitled to receive an invalid's benefit, shall be entitled to receive an invalid's benefit if he or she was in receipt of, or had applied for, an invalid's benefit before 1 August 1991.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Child Support Act 1991.
@@ -4952,55 +5592,6 @@ Notwithstanding section 3, the chief executive may make an advance under section
 ### 24 Money payable out of Crown Bank Account
 ((1)–(3)) Amendment(s) incorporated in the Act(s).
 (4) It is declared that the Minister of Social Welfare or, as the case may require, the Minister of Social Security has always had the power under section 124(1)(d) of the principal Act to establish and approve any welfare programme for special assistance for the purposes of that section; and every such welfare programme that has at any time been so approved, and any payments or grants of special assistance and actions taken under it, are confirmed and declared to be and always to have been valid.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Security Amendment Act 1998, and is part of the Social Security Act 1964 (the principal Act).
-(2) Part 1 comes into force on 1 July 1998.
-(3) Part 2 comes into force on 1 September 1998.
-(4) Part 3 and Schedule 1 come into force on 1 October 1998.
-(5) Part 4 and Schedule 2 come into force on 1 February 1999.
-
-## Part 1 — Amendments to principal Act coming into force on 1 July 1998
-
-### 3 Sickness benefits
-((1)) Amendment(s) incorporated in the Act(s).
-(2) If a person was receiving a sickness benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
-
-### 5 Unemployment benefits
-((1)) Amendment(s) incorporated in the Act(s).
-(2) If a person was receiving an unemployment benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
-
-### 6 Young job seekers' allowances
-((1)) Amendment(s) incorporated in the Act(s).
-(2) If a person was receiving a young job seeker's allowance immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
-
-### 7 Training benefits: qualifications
-((1)) Amendment(s) incorporated in the Act(s).
-(2) If a person was receiving a training benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
-
-### 8 Independent youth benefits: basic qualifications
-((1)) Amendment(s) incorporated in the Act(s).
-(2) If a person was receiving an independent youth benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Security (Work Test) Amendment Act 1998, and is part of the Social Security Act 1964 (the principal Act).
-(2) This Act comes into force on 1 October 1998.
-
-## Part 1 — Amendments to principal Act
-
-### 4 Voluntary unemployment or loss of employment through misconduct, etc
-((1), (2)) Amendment(s) incorporated in the Act(s).
-(3) Nothing in subsection (1) entitles a person who, before 1 October 1998, had his or her benefit reduced under section 60H of the principal Act, to receive the benefit without that reduction until either the expiry of the period for which the reduction was imposed under that section, or the person becomes entitled to another rate of benefit under the principal Act.
-
-## Part 2 — Repeals and transitional provisions
-
-### 10 Transitional provisions relating to persons subject to sanction on commencement of this section
-(1) This section applies to every person who, immediately before the date of commencement of this section, was subject to a non-entitlement period of 13 weeks or a reduced benefit for 13 weeks, under section 60H or section 60JA of the principal Act.
-(2) A person to whom this section applies may,—
-  (a) in the case of a person who was participating in a programme or project referred to in section 60KA of the principal Act, continue to participate in that programme or project; or
-  (b) in any other case, continue his or her non-entitlement period or continue to receive a reduced benefit and, subject to section 60KA, participate in a programme or project referred to in that section.
-(3) Section 60KA of the principal Act is deemed to continue to apply to persons referred to in subsection (2) of this section as if that section had not been repealed by section 8.
-(4) Where a person was, immediately before the date of commencement of this section, subject to any sanction under the principal Act other than a sanction referred to in subsection (1), that sanction is revoked with effect on the commencement of this section and any work-test failure on the person's part that occurred before that date is not to be counted as a work-test failure on or after that date.
 
 ### 1 Short Title
 (1) This Act is the Social Security (Personal Development and Employment) Amendment Act 2002.
