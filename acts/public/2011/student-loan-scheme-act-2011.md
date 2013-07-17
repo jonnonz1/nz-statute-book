@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-17_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1815,7 +1815,7 @@ The Commissioner must, as soon as practicable,—
   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under section 19 in accordance with a decision of the Commissioner under subpart 5 of Part 4.
 
 ### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
-Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, and 114 of the Tax Administration Act 1994 and sections LC 10, RM 2, RM 4, and RM 6, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
+Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, and 114 of the Tax Administration Act 1994 and sections LC 10, RM 2, and RM 4, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
   (a) every reference to a taxpayer or a person were a reference to a borrower; and
   (b) every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) every reference to income tax were a reference to a repayment obligation; and
