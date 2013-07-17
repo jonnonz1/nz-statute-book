@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-17_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -14,7 +14,7 @@ _Consolidation as at 2013-07-01_
 (1) The purpose of this Act is to re-enact the administrative provisions contained in the Income Tax Act 1976 and the Inland Revenue Department Act 1974 in a reorganised form.
 (2) The reorganisation of the provisions and the changes of style and language carried out by this Act in relation to the provisions of those Acts are not intended to affect the interpretation or effect of those provisions as they are included in this Act.
 (3) A reference in this Act to the time of commencement of a provision shall be construed as a reference to the time of commencement of the corresponding provision in the Income Tax Act 1976 or the Inland Revenue Department Act 1974.
-(4) Except as otherwise expressly provided, the provisions of this Act that are not in Part 6 (which relates to assessments) and that correspond to provisions of the Income Tax Act 1976 do not apply to any of the Inland Revenue Acts other than the Income Tax Act 2007, the Income Tax Act 2004, the Income Tax Act 1994, and the Taxation Review Authorities Act 1994.
+(4)
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -1513,6 +1513,13 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (d) attach a copy of the shareholder dividend statement for the dividend, if the dividend is derived by the share user:
   (e) be given to the relevant share supplier and the Commissioner when the dividend is paid or as soon as possible after it is paid.
 
+### 30D Statements to shareholders when certain assets held by companies
+(1) This section applies for an income year to a company to which 1 or more of sections DG 11 to DG 19 of the Income Tax Act 2007 applies.
+(2) The company must provide the following information, as applicable, to every shareholder of the company for the income year to enable the shareholder to calculate the amount of a deduction that may be allowed for the income year in relation to an asset to which subpart DG of that Act applies:
+  (a) their share of a net asset balance for the income year:
+  (b) their share of an outstanding profit balance for the income year:
+  (c) other necessary information for the income year.
+
 ### 31 Maori authority to give notice of amounts distributed
 (1) A Maori authority that makes a taxable Maori authority distribution to a member must, at the time the distribution is made, give to the member a notice that contains the following details:
   (a) the name of the Maori authority:
@@ -1554,6 +1561,9 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (a) their status requirements under section HM 55D(3) of the Income Tax Act 2007 are met; and
   (b) their information details required under section 28D(1) are unchanged.
 (8) If the PIE receives no response to its request under subsection (7), they may continue to treat the investor as a notified foreign investor, if that is their existing treatment.
+(9) A notice required by this section may be given electronically to—
+  (a) the investor, if the investor agrees to have the notice given in that way:
+  (b) a person authorised to act on behalf of the investor, if the person and the investor agree to have the notice given in that way.
 
 ### 32 Records of specified charitable, benevolent, philanthropic, or cultural bodies
 (1) All gift-exempt bodies must keep in New Zealand sufficient records in the English language to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
@@ -4353,8 +4363,8 @@ In this Part—
     (iv) section 91AAD or 91AAE in relation to livestock; or
     (v) any of sections 91AAF to 91AAM in relation to depreciation; or
     (vi) section EA 3(8) of the Income Tax Act 2007 in relation to accrual expenditure; or
-  (f) any Order in Council or regulation made under section 225 of this Act or under any of the Acts listed in paragraphs (a) to (eb) of this subsection, except—
-    (i) any provision to the extent that it is or could be the subject of a determination referred to in paragraph (e) or (eb); or
+  (f) any Order in Council or regulation made under section 225 of this Act or under any of the Acts listed in paragraphs (a) to (ec) of this subsection, except—
+    (i) any provision to the extent that it is or could be the subject of a determination referred to in paragraph (e), (eb), or (ec); or
     (ii) section RD 24 of the Income Tax Act 2007.
 (1A) The Commissioner may make a binding ruling under section 91GB.
 (2) The Commissioner may also make a binding ruling on how the Commissioner will exercise his or her discretion under a provision specified in subsection (1).
@@ -5438,7 +5448,7 @@ Except so far as may be expressly provided to the contrary in this Act or the In
   (j) any matter which by any provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
-    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 6, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A and 184 of this Act:
+    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A and 184 of this Act:
     (iv) any of sections 21 to 23, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89M, 92, 106, 107, 108, 108A, 108B, 109, 110, 111, 113 to 116, 118, 120A to 120U, 131, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, and 183F, 225B of this Act,—
   (k) any matter in respect of which it is expressly provided that there shall be no right of objection or challenge to the decision or determination of the Commissioner.
 
@@ -5651,7 +5661,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
   (e) a matter which by a provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
-    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 6, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
+    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
     (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
@@ -5927,16 +5937,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 [Repealed]
 
 ### 140C Transitional imputation penalty tax payable in some circumstances
-(1) This section applies when a company has an end of year debit balance under section OA 3(3) and (4) of the Income Tax Act 2007 for its imputation credit account as at 31 March 2013, if the company is treated, for the purposes of this section, as having only the balances and adjustments referred to in subsections (2) and (3).
-(2) For the purposes of subsection (1), for the transitional period, the following adjustments must be made to the company's ICA balance at the end of the company's 2010–11 income year for transactions occurring after the end of that income year:
-  (a) first, the company must subtract any overpayment of income tax for the 2010–11 or earlier income year in which the company was an ICA company:
-  (b) secondly, the company must subtract—
-    (i) any payment for an income year after the 2010–11 income year:
-    (ii) any amount that is or would be refundable for an income year after the 2010–11 income year:
-  (c) thirdly, the company must add any income tax paid for the 2010–11 or earlier income year in which the company was an ICA company.
-(3) For the purposes of subsection (1), the company must include in its ICA balance the ICA credits and debits for transactions occurring after the end of the company's 2010–11 income year to the extent to which those credits and debits relate to memorandum account debits, credits, and balances dealt with, arising, or calculated using an old company tax rate, but excluding any amount taken into account under subsection (2).
-(4) The company is liable for a special tax known as imputation penalty tax.
-(5) The amount of imputation penalty tax is 10% of the positive difference between zero and the end of year debit balance described in subsection (1).
+[Repealed]
 
 ### 140CA Transitional FDP penalty tax payable in some circumstances
 [Repealed]
@@ -7420,7 +7421,7 @@ A taxpayer seeking the remission of an amount or of a liability to pay an amount
 (2) Without limiting subsection (1), a taxpayer is never liable to pay interest or a civil penalty in respect of a tax liability or obligation that is cancelled.
 
 ### 184 Refund of tax paid on income subsequently exempted by Order in Council
-If a double tax agreement exempts from tax any income derived before the date of the Order in Council that gives effect to the double tax agreement, and the Commissioner is satisfied tax has been paid in relation to that income, and written application is made by or on behalf of the taxpayer at any time within 4 years after the date of the Order in Council, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4 to RM 6, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
+If a double tax agreement exempts from tax any income derived before the date of the Order in Council that gives effect to the double tax agreement, and the Commissioner is satisfied tax has been paid in relation to that income, and written application is made by or on behalf of the taxpayer at any time within 4 years after the date of the Order in Council, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4, RM 5, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
 
 ### 184AA Refund of tax: deductible amounts of interest
 (1) This section applies when a person is allowed a deduction under section DB 3B of the Income Tax Act 2007, section DB 3B of the Income Tax Act 2004, or section DB 2 of the Income Tax Act 1994.
