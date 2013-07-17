@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-17_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -149,7 +149,8 @@ This Act is the KiwiSaver Act 2006.
   - **restricted KiwiSaver scheme** or means a KiwiSaver scheme identified as a restricted scheme on the KiwiSaver schemes register
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
-      (i) salary or wages described in section RD 5(4), (6)(b), (6)(c), and (8) and RD 68 of the Income Tax Act 2007; and
+      (i) salary or wages described in section RD 5(4), (6)(b) to (bd), (6)(c), and (8) and RD 68 of the Income Tax Act 2007; and
+      (ia) a payment under a Voluntary Bonding Scheme that is funded by the Ministry for Primary Industries, the Ministry of Health, or the Ministry of Education; and
       (ib)
       (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
@@ -159,7 +160,7 @@ This Act is the KiwiSaver Act 2006.
         (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
-      (ii) the amount is a redundancy payment (as defined in section YA 1 of the Income Tax Act 2007)
+      (ii) the amount is a redundancy payment for the purposes of the Income Tax Act 2007
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **trust deed** , in relation to a KiwiSaver scheme or a registered superannuation scheme,—
     (a) means the trust deed that sets out the trusts governing the scheme, as amended from time to time; and
