@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-07-17_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2180,7 +2180,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (b) be made the subject of any set-off, charge, or assignment:
   (c) be claimed or deducted under any notice or other instrument issued under any enactment (other than under regulations made under section 132C).
 (3C) If the benefit referred to in an arrangement made under subsection (3)(a) is New Zealand superannuation, the chief executive must pay any amount received from the overseas pensioner under the arrangement into the New Zealand Superannuation Fund established under the New Zealand Superannuation and Retirement Income Act 2001, in accordance with arrangements made from time to time by the chief executive with the Guardians of New Zealand Superannuation.
-(4) For the purposes of this Act and section CW 28 of the Income Tax Act 2007, a payment under subsection (3)(b) shall, in respect of the period to which the payment relates, be deemed to be payment of—
+(4) For the purposes of this Act, a payment under subsection (3)(b) shall, in respect of the period to which the payment relates, be deemed to be payment of—
   (a) the benefit or benefits that are payable to that overseas pensioner in that period under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001, at the rate at which that benefit or those benefits are so payable but reduced in accordance with subsection (1); and
   (b) the amount of the overseas pension that that overseas pensioner is entitled to receive or has received in that period.
 (5) Subsections (3) and (4) shall come into force on a date to be appointed by the Governor-General by Order in Council.
