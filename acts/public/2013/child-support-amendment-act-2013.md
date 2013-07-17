@@ -1,5 +1,5 @@
 # Child Support Amendment Act 2013
-_Consolidation as at 2013-04-16_
+_Consolidation as at 2013-07-17_
 
 ### 1 Title
 This Act is the Child Support Amendment Act 2013.
@@ -18,7 +18,7 @@ This Act amends the Child Support Act 1991.
 The Long Title is repealed.
 
 ### 5 Interpretation
-(1) Section 2(1) is amended by repealing the following definitions: child support percentage, eligible applicant, eligible custodian, liable parent, principal provider of ongoing daily care, properly made, qualifying custodian, relevant average weekly earnings amount, shared custody child, substantially equal sharing of ongoing daily care, and taxable income.
+(1) Section 2(1) is amended by repealing the following definitions: child support percentage, eligible applicant, eligible custodian, income amount order, last relevant tax year, liable parent, principal provider of ongoing daily care, qualifying custodian, relevant average weekly earnings amount, shared custody child, substantially equal sharing of ongoing daily care, and taxable income.
 (2) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
   - **adjusted taxable income** has the meaning in section 35
   - **annual amount of child support** means the amount payable in a child support year by a liable parent in respect of a qualifying child
@@ -34,7 +34,14 @@ The Long Title is repealed.
   - **child expenditure amount** has the meaning set out in section 30(2)
   - **child expenditure table** means, in relation to a child support year, the child expenditure table approved by the Commissioner under section 36D applying to that year
   - **child support group** , in relation to a parent who, at a particular time, has more than 1 qualifying child, means the qualifying children of that parent who all share the same other parent and in relation to whom child support for that time has been assessed or is being assessed
+  - **income amount order** means a determination under Part 5A, 6A, or 6B, or an order under Part 7, that, in relation to a person who is subject to a formula assessment, substitutes a new—
+    (a) child support income amount; or
+    (b) amount of taxable income or adjusted taxable income; or
+    (c) annual amount of child support
   - **income percentage** means, in relation to a parent of a qualifying child, that parent's percentage of the combined child support income amounts of all the child's parents, as determined under section 33
+  - **last relevant tax year** means,—
+    (a) in a case where a parent's taxable income for the most recent tax year was derived solely from withholding income, and has no adjustments of the sort referred to in section 35(1), the calendar year ending in that tax year:
+    (b) in any other case, the tax year immediately preceding the most recent tax year
   - **liable parent** means,—
     (a) in relation to a parent subject to a formula assessment, a parent of a qualifying child who the Commissioner determines under section 17 is a liable parent of the child; and
     (b) in relation to any other parent, a parent who is liable to pay child support under section 58(1) or 68(1)
@@ -59,7 +66,7 @@ The following section is inserted after section 3:Transitional and savings provi
 
 ### 8 New section 4A inserted
 The following section is inserted after section 4:Overview of child support payable under formula assessment
-  (1) A parent or non-parent carer of a qualifying child, who does not live with a parent of the child in a marriage, civil union, or de facto relationship, may apply to the Commissioner for a formula assessment of child support payable for that child by a liable parent.
+  (1) A parent or non-parent carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable for that child by a liable parent.
   (2) The Commissioner will then determine the proportion of care that each carer of the child provides, and the income of each parent of the child, and, using that information, will identify the parent or parents who are liable to pay child support, and the carer or carers who are entitled to receive child support, in respect of the child.
   (3) A person will be a liable parent in respect of a child if his or her income percentage (which is a percentage of the combined child support income amounts of both the child's parents) is greater than the person's care cost percentage (which is a cost percentage directly related to the proportion of care that the parent provides to the child).
   (4) If annual child support is payable by a liable parent for a qualifying child, the amount is determined under Part 2. It is worked out by deducting the liable parent's care cost percentage from their income percentage, and then multiplying the result by the appropriate amount set out in the relevant child expenditure table (which identifies, amongst other things, the average annual expenditure on children in New Zealand, by reference to average weekly earnings).
@@ -81,7 +88,7 @@ The following section is inserted after section 4:Overview of child support paya
 Sections 8 to 24 and the headings above sections 8, 11, 14, 18, and 21 are repealed and the following sections and headings substituted:Assumptions about parents of childApplication for formula assessmentWho may apply for formula assessmentSocial security beneficiaries must apply for formula assessmentForm of applicationMultiple applications in single formDeemed application by beneficiaryNotification by Commissioner of applicationDetermining care cost percentagesCommissioner to establish proportions of careHow Commissioner establishes proportions of careDetermining care cost percentagesLiable parents and receiving carersDetermining who are liable parents and receiving carersEffect of being liable parent or receiving carerBeginning of liability to pay child support under formula assessmentWhen liability to pay child support starts
   (1) The Commissioner is entitled to assume, for the purposes of a formula assessment, that a qualifying child has 2 parents, and that those parents are living apart.
   (2) However, if the Commissioner believes on reasonable grounds that either of those assumptions is incorrect, the Commissioner must apply the provisions of this Act, with any necessary modifications, to reflect the true position as determined by the Commissioner.
-  (1) Any parent or carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable by a liable parent in respect of the child, if the applicant is not living with a parent of the child in a marriage, civil union, or de facto relationship.
+  (1) Any parent or carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable by a liable parent in respect of the child, if the applicant is not living with that parent in a marriage, civil union, or de facto relationship.
   (2) However, if a qualifying child is a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989, then, despite subsection (1), the only person who may apply for a formula assessment in relation to the child is either of the following:
     (a) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
     (b) a body or organisation approved under section 396 of that Act.
@@ -149,6 +156,7 @@ Sections 8 to 24 and the headings above sections 8, 11, 14, 18, and 21 are repea
   (1) The Commissioner must determine the liable parents and receiving carers of each qualifying child, in accordance with this section.
   (2) A parent of a qualifying child is a liable parent of that child if the parent's income percentage (as determined under section 33) is greater than or equal to their care cost percentage for that child (as determined under section 16).
   (3) A parent of a qualifying child is a receiving carer of the child if the parent's income percentage is less than their care cost percentage for the child.
+  (3A) Despite subsections (2) and (3), a parent whose income percentage is 100% and whose care cost percentage is also 100% is a receiving carer.
   (4) A non-parent carer of a qualifying child is a receiving carer of the child if the carer provides at least 35% of ongoing daily care to the child.
   (1) A person who the Commissioner determines is a liable parent of a child is liable to make payments of child support in respect of that child, unless the parent's liability is assessed as nil in accordance with section 31(1).
   (2) A person who the Commissioner determines is a receiving carer of a child is a person in relation to whom child support payments in respect of the child are payable, unless no child support is payable in accordance with section 36A(3) or 36C(4).
@@ -210,7 +218,7 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
     (c) for a parent to whom section 36A applies (whether or not section 36 also applies),—
       (i) the amount determined in accordance with the formula set out in section 30(1); or
       (ii) if the multi-group cap applies, the amount determined under the multi-group cap applying to the child, but only if it is less than the amount referred to in subparagraph (i); or
-      (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less than either amount referred to in subparagraph (i) or (ii).
+      (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less than each of the amounts referred to in subparagraph (i) or (ii).
   (3) The multi-group cap for a child is the amount determined as follows: (100% – c%) × mwhere—c%is the parent's care cost percentage in relation to the childmis the multi-group cost of the child, as determined under section 36(4).
   (4) The purpose of the multi-group cap is to avoid liable parents paying more in child support than they would pay if all the children for whom they are liable to pay child support were living together.
   If, after assessing the annual amount of child support payable by a liable parent in respect of each of his or her qualifying children, the Commissioner determines that the total amount payable by the parent is less than the minimum annual rate referred to in section 72(1)(a), the Commissioner must, despite sections 30 and 31(2),—
@@ -229,9 +237,9 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
     (a) income that is exempt income under section CW 32 of the Income Tax Act 2007 (child support and spousal maintenance):
     (b) income referred to in section MB 11 of the Income Tax Act 2007 (income derived by dependent children):
     (c) income referred to in section MB 12 of the Income Tax Act 2007 (non-residents' foreign-sourced income of the person's spouse or partner).
-  (2) However, in relation to any period before the close of the day before 1 April 2015, a person's adjusted taxable income for a child support year is the person's taxable income without the adjustments referred to in subsection (1).
-  (3) A person's taxable income must be taken to be their income from employment for the calendar year immediately preceding the start of the child support year if—
-    (a) it was derived solely from withholding income; and
+  (2) However, for the purposes of an assessment of child support for the child support year commencing 1 April 2014 only, the adjustments referred to in subsection (1) must not be applied to a person's taxable income.
+  (3) A person's taxable income must be taken to be their income from employment for the calendar year immediately preceding the start of the child support year if, in the most recent tax year,—
+    (a) the person's taxable income was derived solely from withholding income; and
     (b) no adjustments of the sort referred to in subsection (1) are made.
   (4) If subsection (3) does not apply, a person's taxable income for a child support year must be taken to be their taxable income in the tax year immediately preceding the most recent tax year, inflated by the inflation percentage for the child support year.
   (5) The adjustments under subsection (1) that must be applied are those that applied in the tax year immediately preceding the most recent tax year.
@@ -489,6 +497,16 @@ Section 89D is amended by inserting the following subsection after subsection (1
 ### 22 Requirements in relation to objections
 Section 92 is amended by inserting the following subsection after subsection (3):
   (3A) An objection against a decision referred to in section 90(1)(b) (about the proportion of care that a carer provides to a child) must be based only on the information that was before the Commissioner at the time the decision establishing the proportion of care was made.
+
+**Amendments to Part 6A**
+
+### 22A Application for determination
+(1) Section 96B(1) is amended by omitting A qualifying custodian or a liable parent and substituting Any liable parent or receiving carer of a qualifying child.
+(2) Section 96B(2)(a) is amended by omitting , the qualifying custodian, and the liable parent concerned.
+(3) Section 96B is amended by repealing subsection (3) and substituting the following subsection:
+  (3) The parties to the application are—
+    (a) the applicant; and
+    (b) every other liable parent or receiving carer of the qualifying child.
 
 **Amendment to Part 6B (Commissioner-initiated administrative reviews)**
 
