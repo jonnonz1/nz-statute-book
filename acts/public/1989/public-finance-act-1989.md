@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 > Title
 
@@ -19,8 +19,8 @@ _Consolidation as at 2013-07-01_
     (ii) the Government's management of its assets and liabilities; and
   (b) establishes lines of responsibility for effective and efficient management of public financial resources; and
   (c) specifies the principles for responsible fiscal management in the conduct of fiscal policy and requires regular reporting on the extent to which the Government's fiscal policy is consistent with those principles; and
-  (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments, Offices of Parliament, and organisations named or described in Schedule 4; and
-  (e) provides for the application of financial management incentives and for the accountability of organisations named or described in Schedule 4; and
+  (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies; and
+  (e) provides for the application of financial management incentives and for the accountability of Schedule 4 organisations and Schedule 4A companies; and
   (ea) places limits on the ownership of the companies named in Schedule 5; and
   (f) safeguards public assets by providing statutory authority and control for the—
     (i) borrowing of money; and
@@ -33,6 +33,13 @@ _Consolidation as at 2013-07-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **annual financial statements of the Government** means the annual consolidated financial statements for the Government reporting entity prepared under section 27
+  - **appropriation administrator** ,—
+    (a) in relation to an appropriation made to the Crown, means the department that administers the appropriation on behalf of the appropriation Minister; and
+    (b) in relation to an appropriation made to an Office of Parliament, means that Office of Parliament
+  - **appropriation Minister** ,—
+    (a) in relation to an appropriation made to an Office of Parliament, means the Speaker; and
+    (b) in relation to an appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service, means the Speaker; and
+    (c) in relation to any other appropriation, means the Minister responsible for that appropriation
   - **asset** means an asset that is defined, recognised, and measured in accordance with generally accepted accounting practice
   - **Auditor-General** has the meaning given to it by section 4 of the Public Audit Act 2001
   - **bank** , in relation to a bank operating within New Zealand, means the Reserve Bank of New Zealand or a registered bank under the Reserve Bank of New Zealand Act 1989
@@ -47,8 +54,12 @@ _Consolidation as at 2013-07-01_
   - **Budget** means the Minister's statement in moving the second reading of the first Appropriation Bill for a financial year
   - **capital expenditure** means the costs of assets acquired or developed (including tangible, intangible, or financial assets and any ownership interest in entities, but excluding inventories)
   - **carrying amount** has the meaning given to it under generally accepted accounting practice
+  - **category** ,—
+    (a) in relation to expenses, means a grouping of similar or related expenses; and
+    (b) in relation to capital expenditure, means a grouping of similar or related items of capital expenditure
   - **chief executive** means,—
     (a) in the case of a department, the head of the department and includes a chief executive appointed under the State Sector Act 1988:
+    (aa) in the case of a departmental agency, the person holding office under section 31 of the State Sector Act 1988 as the chief executive of the departmental agency:
     (b) in the case of a Crown entity, the chief executive officer of the Crown entity:
     (c) in the case of an Office of Parliament, the head of the Office concerned
   - **class of outputs** or means a grouping of similar outputs
@@ -60,17 +71,28 @@ _Consolidation as at 2013-07-01_
     (c) does not include—
       (i) an Office of Parliament; or
       (ii) a Crown entity; or
-      (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986
+      (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986; or
+      (iv) a Schedule 4 organisation; or
+      (v) a Schedule 4A company; or
+      (vi) a mixed ownership model company
   - **Crown Bank Account** means any of the bank accounts opened and maintained under section 65R
   - **Crown entity** has the meaning given to it by section 7(1) of the Crown Entities Act 2004
   - **department** —
     (a) means—
-      (i) a department or instrument of the Government or any branch or division of the Government; or
-      (ii) the Office of the Clerk of the House of Representatives; or
-      (iii) the Parliamentary Service; but
+      (i) a department (as defined in section 27A(1) and (2) of the State Sector Act 1988); or
+      (ii) the New Zealand Defence Force; or
+      (iii) the New Zealand Police; or
+      (iv) the New Zealand Security Intelligence Service; or
+      (v) the Parliamentary Counsel Office; or
+      (vi) the Office of the Clerk of the House of Representatives; or
+      (vii) the Parliamentary Service; but
     (b) does not include—
       (i) a body corporate or other legal entity that has the power to contract; or
       (ii) an Office of Parliament
+  - **departmental** ,—
+    (a) in relation to expenses, means expenses incurred by a department or an Office of Parliament; and
+    (b) in relation to capital expenditure, means capital expenditure incurred by a department or an Office of Parliament
+  - **departmental agency** has the meaning given in section 27A of the State Sector Act 1988 (see also section 27B of that Act)
   - **Departmental Bank Account** means any of the bank accounts opened, maintained, and operated under section 65S
   - **departmental revenue** means revenue generated by a department or an Office of Parliament resulting from the supply by the department or Office of goods, services, rights, or money to other parties, including the Crown
   - **derivative transaction** means—
@@ -98,15 +120,25 @@ _Consolidation as at 2013-07-01_
   - **Government reporting entity** means—
     (a) the Sovereign in right of New Zealand; and
     (b) the legislative, executive, and judicial branches of the Government of New Zealand
+  - **host department** , in relation to a departmental agency, has the meaning given in section 27A(1) and (2) of the State Sector Act 1988
   - **impact** means the contribution made to an outcome by a specified set of outputs, or actions, or both
   - **intelligence and security department** means—
     (a) the New Zealand Security Intelligence Service; or
     (b) the Government Communications Security Bureau
+  - **lend money** —
+    (a) includes—
+      (i) deferring payment for any goods or services supplied or works constructed for any person, organisation, or government; and
+      (ii) entering into hire purchase agreements or agreements that are of the same or a substantially similar nature; and
+      (iii) entering into finance lease arrangements or arrangements that are of the same or a substantially similar nature; but
+    (b) does not include selling or supplying goods or services on credit for a period of 90 days or less from the date the credit is supplied
   - **liability** means a liability that is defined, recognised, and measured in accordance with generally accepted accounting practice
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
   - **mixed ownership model company** has the meaning set out in section 45P
   - **multi-class output expense appropriation** has the meaning given to it by section 7(3)(b)
+  - **non-departmental** ,—
+    (a) in relation to expenses, means expenses incurred on behalf of the Crown, other than by a department or an Office of Parliament; and
+    (b) in relation to capital expenditure, means capital expenditure incurred on behalf of the Crown, other than by a department or an Office of Parliament
   - **Office of Parliament** means the Parliamentary Commissioner for the Environment (and that Commissioner's office), the Office of Ombudsmen, and the Auditor-General
   - **operating surplus** means the amount by which departmental revenue exceeds the expenses of a department
   - **other expenses** means any expenses incurred by the Crown, a department, or an Office of Parliament that are other than—
@@ -122,8 +154,11 @@ _Consolidation as at 2013-07-01_
   - **outputs** —
     (a) means goods or services that are supplied by a department, Crown entity, Office of Parliament, or other person or body; and
     (b) includes goods or services that a department, Crown entity, Office of Parliament, or other person or body has agreed or contracted to supply on a contingent basis, but that have not been supplied
+  - **permanent legislative authority** ,—
+    (a) in relation to incurring expenses or capital expenditure, means an express authority given by or under an Act other than an Appropriation Act to incur expenses or capital expenditure without further appropriation (see, for example, section 65H(2), which relates to certain finance expenses, and section 9 of the Ombudsmen Act 1975, which relates to salaries and allowances of Ombudsmen); and
+    (b) in relation to spending public money, means an express authority given by or under an Act to spend public money without further authority (see, for example, section 6)
   - **principles of responsible fiscal management** has the meaning given to it by section 26G(1)
-  - **public money** means all money received by the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money or money received and held by Crown entities
+  - **public money** means all money received by or on behalf of the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money
   - **public security** means any security issued under section 63 or any provision of any other Act; and includes any loan or credit agreement, guarantee, indemnity, bond, note, debenture, bill of exchange, Treasury bill, Government stock, and any other security representing part of the public debt of New Zealand
   - **remeasurements** —
     (a) means revisions of prices or estimates that result from revised expectations of future economic benefits or obligations that change the carrying amounts of assets or liabilities; but
@@ -133,10 +168,12 @@ _Consolidation as at 2013-07-01_
       (iii) expenses that arise from the consumption of assets during the reporting period; or
       (iv) interest income or interest expenses
   - **responsible Minister** means,—
-    (a) in relation to a department, the Minister or Ministers for the time being responsible for the financial performance of the department:
-    (b) in relation to an organisation named or described in Schedule 4, the Minister or Ministers for the time being responsible for the financial performance of that organisation:
-    (c) in relation to an Office of Parliament, to the Office of the Clerk of the House of Representatives, or to the Parliamentary Service, the Speaker
-    (d)
+    (a) in relation to an Office of Parliament, to the Office of the Clerk of the House of Representatives, or to the Parliamentary Service, the Speaker:
+    (b) in relation to any other department, the Minister for the time being responsible for the financial performance of the department:
+    (c) in relation to a Schedule 4 organisation, the Minister for the time being responsible for the financial performance of the organisation:
+    (d) in relation to a Schedule 4A company, the Minister and the other shareholding Minister or Ministers
+  - **Schedule 4 organisation** means an organisation named or described in Schedule 4
+  - **Schedule 4A company** means a company named in Schedule 4A
   - **Secretary** means the Secretary to the Treasury, being the chief executive of the Treasury
   - **Speaker** means—
     (a) the Speaker of the House of Representatives; or
@@ -165,6 +202,9 @@ _Consolidation as at 2013-07-01_
 (4)
 (5) Notwithstanding any other provision of this Act, where this Act provides that a power may be exercised by both the Minister and the Secretary, the power may be exercised by the Secretary only in so far as the Minister has not otherwise directed.
 
+### 2A Provisions affecting application of amendments to this Act
+Schedule 1 contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013 (see section 88).
+
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
 
@@ -172,22 +212,34 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 3A Power to amend Schedule 4
-(1) The Governor-General may, by Order in Council, amend Schedule 4—
-  (a) to add to column 1 any of the following:
-    (i) the name of any body established by or under an Act:
-    (ii) the name of any statutory office (except an Office of Parliament) or statutory officer established by or under an Act:
-    (iii) the name of any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has power to appoint, a majority of the trustees:
-    (iv) subject to subsection (2), the name of any company:
-  (b) to apply to an organisation that is in column 1 any provision of the Crown Entities Act 2004 (other than section 165) that is listed in column 2:
-  (c) to omit from column 1 any of the following (and to omit from column 2 any provision of the Crown Entities Act 2004 that applies to it):
-    (i) the name of any body, officer, trust, or company in recognition of its dissolution or removal from the register under the Companies Act 1993:
-    (ii) the name of any company subject to subsection (3):
-    (iii) the name of any trust in respect of which the Crown ceases to have the power to appoint a majority of the trustees:
-    (iv) the name of any body, officer, trust, or company that becomes a Crown entity under the Crown Entities Act 2004 or a State enterprise under the State-Owned Enterprises Act 1986:
-  (d) to substitute, in column 1, the name of any body, officer, trust, or company in recognition of a change in its name:
-  (e) to omit from column 2 the application of any provision of the Crown Entities Act 2004 to any 1 or more organisations named in column 1.
-(2) An Order in Council may be made under subsection (1)(a)(iv) only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that more than 50% of the issued ordinary shares in the capital of the company to which the order relates are held by Ministers of the Crown on behalf of the Crown.
-(3) An Order in Council may be made under subsection (1)(c)(ii) only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that at least 50% of the issued ordinary shares in the capital of the company to which the order relates are no longer held by Ministers of the Crown on behalf of the Crown.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 4—
+  (a) to add the name or description of—
+    (i) any body, office (except an Office of Parliament), or officer established by or under an Act; or
+    (ii) any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has the power to appoint, a majority of the trustees:
+  (b) to apply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4 (other than section 165 of that Act):
+  (c) to disapply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4:
+  (d) to substitute the name of an organisation in recognition of a change in its name:
+  (e) to remove the name or description of an organisation.
+(2) The Minister must recommend that an Order in Council be made to remove the name or description of an organisation from Schedule 4 if, and only if, the Minister is satisfied that—
+  (a) the organisation has become a company or a Crown entity; or
+  (b) in the case of a body, office, or officer established by or under an Act, the body, office, or officer has been disestablished; or
+  (c) in the case of a trust,—
+    (i) the trust has been wound up; or
+    (ii) the Crown no longer has the power to appoint a majority of the trustees.
+
+### 3AB Power to amend Schedule 4A
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 4A—
+  (a) to add the name of a company that meets the following criteria:
+    (i) Ministers of the Crown hold, on behalf of the Crown, more than 50% of the issued ordinary shares in the capital of the company; and
+    (ii) shares in the company are not listed on a registered market (within the meaning of the Securities Markets Act 1988); and
+    (iii) the company is not a Crown entity or a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986:
+  (b) to apply to a company any provision of the Crown Entities Act 2004 that appears in Schedule 4A (other than section 165 of that Act):
+  (c) to disapply to a company any provision of the Crown Entities Act 2004 that appears in Schedule 4A:
+  (d) to substitute the name of a company in recognition of a change in its name:
+  (e) to remove the name of a company.
+(2) The Minister must recommend that an Order in Council be made to remove the name of a company from Schedule 4A if the Minister is satisfied that—
+  (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
+  (b) the company no longer meets the criteria set out in subsection (1)(a).
 
 ### 3B Power to amend Schedule 5 to reflect name changes
 The Governor-General may, by Order in Council, amend Schedule 5 to replace the name of any company in recognition of a change in its name.
@@ -209,11 +261,16 @@ The Governor-General may, by Order in Council, amend Schedule 5 to replace the n
   (a) a remeasurement of an asset or a liability; or
   (b) an operating loss incurred by—
     (i) a Crown entity named or described in the Crown Entities Act 2004; or
-    (ii) an organisation named or described in Schedule 4; or
+    (ia) a Schedule 4 organisation; or
+    (ii) a Schedule 4A company; or
     (iia) a mixed ownership model company listed in Schedule 5; or
     (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986; or
     (iv) the Reserve Bank of New Zealand; or
     (v) any other entity whose financial statements must be consolidated into the financial statements of the Government to comply with generally accepted accounting practice.
+
+### 4A Authority to incur expenses or capital expenditure under Imprest Supply Act
+(1) The authority given by an Imprest Supply Act to incur expenses or capital expenditure in a financial year in advance of appropriation is an authority under an Act for the purposes of sections 4(1) and 26C(1).
+(2) However, subsection (1) does not apply unless an appropriation for the expenses or capital expenditure is made before the end of the financial year.
 
 ### 5 Public money must not be spent unless in accordance with statutory authority
 The Crown or an Office of Parliament must not spend public money, except as expressly authorised by or under an Act (including this Act).
@@ -245,6 +302,19 @@ Public money may be spent, without further authority than this section, for the 
   (a) to the extent required by section 14 or, as the case may be, section 15, relate to each class of outputs in that appropriation; and
   (b) explain why those classes of outputs have been grouped under that one appropriation.
 
+### 7C Responsibility for, and administration and use of, appropriations
+(1) An appropriation is made to the Crown or an Office of Parliament.
+(2) In the case of an appropriation made to the Crown,—
+  (a) a Minister (the appropriation Minister) is responsible for the appropriation; and
+  (b) the appropriation must be administered by 1 department (the appropriation administrator) on behalf of the appropriation Minister; and
+  (c) if the appropriation is an appropriation for departmental expenses or a multi-category appropriation, any other department may incur expenses against the appropriation—
+    (i) at the direction of the appropriation Minister; or
+    (ii) with the agreement of the appropriation administrator.
+(3) Despite subsection (2)(a), the Speaker is responsible for any appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service.
+(4) In the case of an appropriation made to an Office of Parliament,—
+  (a) the Speaker is responsible for the appropriation; and
+  (b) the appropriation must be administered by that Office of Parliament.
+
 ### 8 Appropriation limited by amount
 The authority to incur expenses or capital expenditure provided by an appropriation under an Appropriation Act—
   (a) is limited to the amount specified for the appropriation by or under that Act; and
@@ -273,7 +343,7 @@ The authority to incur expenses or capital expenditure provided by an appropriat
 
 ### 11 Expenses or payments authorised other than by Appropriation Act
 (1) If an Act (other than an Appropriation Act) expressly provides for payments to be appropriated by or under that Act, any expense or capital expenditure incurred that gives rise to the need for those payments may be incurred without further appropriation than this section.
-(2) Each expense or capital expenditure incurred in accordance with an appropriation by or under an Act (other than an Appropriation Act) must be managed and accounted for in the same manner as expenses or capital expenditure incurred in accordance with an Appropriation Act.
+(2) Each expense or capital expenditure incurred in accordance with an appropriation, or other authority, by or under an Act (other than an Appropriation Act) must be managed and accounted for in the same manner as expenses or capital expenditure incurred in accordance with an Appropriation Act.
 
 ### 12 Timing of first Appropriation Bill for financial year
 Except as otherwise provided by a resolution of the House of Representatives, the first Appropriation Bill that relates to a financial year must be introduced into the House of Representatives before the end of the first month after the start of that financial year.
@@ -338,7 +408,7 @@ The Minister must present to the House of Representatives the Supplementary Esti
     (ii) any committee of the House of Representatives that considered the proposal.
 
 ### 19 Power of Secretary to obtain information
-(1) The Secretary may request a department or an entity referred to in section 27(3)(a) to (f), or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of—
+(1) The Secretary may request a department, a departmental agency, or an entity referred to in section 27(3)(a) to (f), or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of—
   (a) the Estimates; and
   (b) the other supporting information referred to in section 15; and
   (c) the Supplementary Estimates.
@@ -348,14 +418,12 @@ The Minister must present to the House of Representatives the Supplementary Esti
 (3) If a date is specified under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives—
   (a) the Estimates or other supporting information referred to in section 15; and
   (b) the Supplementary Estimates.
-(4) A department or entity to whom the request is made must comply with the request.
+(4) A department, departmental agency, or entity to whom the request is made must comply with the request.
 
 **Other provisions relating to appropriations**
 
 ### 20 Departments may incur output expenses for, or on behalf of, other departments
-(1) This section applies if an output is supplied by a department (A) for, or on behalf of, another department (B) in accordance with an agreement between A and B.
-(2) Output expenses may be incurred by A, without further appropriation than this section, up to the amount of revenue earned from B.
-(3) However, A must return to B any revenue earned by the supply of the output that is not utilised toward the costs of the output.
+[Repealed]
 
 ### 21 Expenses restricted by revenue
 (1) If a class of outputs is supplied by a department, output expenses may be incurred, without further appropriation than this section, up to the amount of revenue expected to be earned by that class of outputs from parties other than the Crown.
@@ -393,7 +461,7 @@ The Minister must present to the House of Representatives the Supplementary Esti
   (a) a state of emergency or state of civil defence emergency is declared under the Civil Defence Act 1983 or the Civil Defence Emergency Management Act 2002; or
   (b) a situation occurs that affects the public health or safety of New Zealand or any part of New Zealand that the Government declares to be an emergency.
 (2) The Minister may approve expenses or capital expenditure to be incurred to meet the emergency or disaster and, whether or not there is an appropriation by Parliament available for the purpose and despite sections 4, 8, and 9, the expenses or capital expenditure may be incurred accordingly.
-(3) If expenses or capital expenditure that have not been appropriated are incurred under subsection (2), the Minister must publish a notice in the Gazette, stating that the expenses or capital expenditure have been so incurred.
+(3)
 (4) Public money may be spent, without further authority than this section, for the purpose of meeting expenses or capital expenditure incurred in accordance with subsection (2) that have not been appropriated.
 (5) A statement about any expenses and capital expenditure incurred under this section in any financial year that have not been appropriated must be included in—
   (a) the annual financial statements of the Government; and
@@ -699,12 +767,12 @@ The Minister may arrange for the following to be published in advance of their b
   (b) for purchase by members of the public.
 
 ### 26Z Power of Secretary to obtain information
-(1) The Secretary may request any department or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in sections 26L, 26N, 26O, 26Q, 26S, and 26T.
+(1) The Secretary may request any department, any departmental agency, or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in sections 26L, 26N, 26O, 26Q, 26S, and 26T.
 (2) A request under subsection (1)—
   (a) must be in writing; and
   (b) may state the date by which, and the manner in which, the information requested must be provided.
 (3) If a date is stated under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives, or for publishing, the report or update for which the information is being requested.
-(4) A department or entity to whom the request is made must comply with the request.
+(4) A department, departmental agency, or entity to whom the request is made must comply with the request.
 
 ## Part 3 — Reporting by Government reporting entity
 
@@ -721,7 +789,8 @@ The Minister may arrange for the following to be published in advance of their b
     (v) any additional information and explanations needed to fairly reflect the consolidated financial operations of the Government reporting entity for the financial year and its consolidated financial position at the end of that year.
 (3) The annual financial statements of the Government must include the Government reporting entity's interests in—
   (a) all Crown entities named or described in the Crown Entities Act 2004:
-  (b) all organisations named or described in Schedule 4:
+  (ab) all Schedule 4 organisations:
+  (b) all Schedule 4A companies:
   (ba) all mixed ownership model companies listed in Schedule 5:
   (c) all State enterprises named in Schedule 1 of the State-Owned Enterprises Act 1986:
   (d) all Offices of Parliament:
@@ -740,17 +809,17 @@ The Minister may arrange for the following to be published in advance of their b
   (d) a statement that, in the opinion of the Minister, and of any other Minister designated by the Prime Minister for the purpose of this paragraph, the financial statements fairly reflect the consolidated financial position and operations of the Government reporting entity for the reporting period.
 
 ### 29A Power of Secretary to obtain information
-(1) The Secretary may request any department or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government reporting entity that is included in the annual financial statements referred to in section 27, to supply to the Secretary any information that is necessary to enable—
+(1) The Secretary may request any department, any departmental agency, or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government reporting entity that is included in the annual financial statements referred to in section 27, to supply to the Secretary any information that is necessary to enable—
   (a) the preparation of those financial statements and the monthly financial statements referred to in section 31A; or
   (b) the Minister or the Secretary to meet their obligations under section 29.
 (2) A request under subsection (1)—
   (a) must be in writing; and
   (b) may state the date by which, and the manner in which, the information requested must be provided.
 (3) If a date is stated under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives, or for publishing, the annual or monthly financial statements of the Government.
-(4) A department or entity to whom the request is made must comply with the request.
+(4) A department, departmental agency, or entity to whom the request is made must comply with the request.
 
 ### 29B Auditor-General to be auditor of Government reporting entity
-For the purposes of this Act the Government reporting entity is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+For the purposes of this Act, the Government reporting entity is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 30 Audit report
 (1) The Treasury must forward the annual financial statements of the Government to the Auditor-General not later than the end of the second month following the end of the financial year to which those statements relate.
@@ -758,14 +827,15 @@ For the purposes of this Act the Government reporting entity is a public entity 
   (a) audit the annual financial statements of the Government; and
   (b) provide an audit report on those statements to the Treasury within 30 days after receiving them.
 
-### 31 Annual financial statements must be presented to House of Representatives
+### 31 Annual financial statements must be presented to House of Representatives and published
 (1) The Treasury must forward the annual financial statements of the Government and the audit report to the Minister.
 (2) The Minister must present the annual financial statements and the audit report, together with the statement of responsibility, to the House of Representatives—
   (a) not later than 10 working days after the Treasury receives the audit report; or
   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
-(3) The Minister must arrange for the annual financial statements, the audit report, and the statement of responsibility to be published—
+(3) The Minister must arrange for the annual financial statements, the audit report, and the statement of responsibility to be published, on an Internet site maintained by or on behalf of the Treasury,—
   (a) as soon as practicable after they have been presented to the House of Representatives; but
   (b) in any case, not later than 15 working days after the audit report is provided to the Treasury.
+(4) The Secretary must ensure that the annual financial statements, the audit report, and the statement of responsibility remain available on that Internet site for inspection by members of the public for at least 5 financial years after the financial year to which the annual financial statements relate.
 
 ### 31A Monthly financial statements of Government
 (1) The Treasury must, as soon as practicable after the end of each month (except the first 2 months and the last month) in each financial year, prepare consolidated financial statements for the Government reporting entity for the period of the financial year to the end of the month concerned.
@@ -778,19 +848,14 @@ For the purposes of this Act the Government reporting entity is a public entity 
       (A) budgeted figures for the period of the financial year to the end of the month concerned:
       (B) comparative actual figures for the period of the previous financial year to the end of the corresponding month.
 (3) The monthly financial statements prepared under subsection (1) must be for the same Government reporting entity as the annual financial statements prepared under section 27 for the financial year to which the monthly financial statements relate.
-(4) The Minister must arrange for the monthly financial statements to be published not later than,—
+(4) The Minister must arrange for the monthly financial statements to be published, on an Internet site maintained by or on behalf of the Treasury, not later than,—
   (a) in the case of the financial statements to the end of November, the last day of January in the following year; and
   (b) in the case of the financial statements to the end of December, the last day of February in the following year; and
   (c) in any other case, 6 weeks after the end of the period to which they relate.
+(5) The Secretary must ensure that the monthly financial statements remain available on that Internet site for inspection by members of the public for at least 5 financial years after the financial year to which the monthly financial statements relate.
 
 ### 31B Publication, inspection, and purchase of financial statements of Government reporting entity
-(1) The Minister shall, in respect of the annual and monthly consolidated financial statements for the Government reporting entity required by sections 27 and 31A, arrange for publication in the Gazette of a notice—
-  (a) indicating, where the financial statements are published in advance of or without being laid before the House of Representatives, that the financial statements have been published; and
-  (b) showing where copies of the financial statements are available for inspection free of charge; and
-  (c) showing where copies of the financial statements are available for purchase.
-(2) The Secretary shall, for at least 6 months after the date of the publication of the notice required by subsection (1), cause copies of the financial statements of the Government reporting entity referred to in that notice to be available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public.
+[Repealed]
 
 ### 32 Monthly cash flow statements
 [Repealed]
@@ -807,35 +872,43 @@ For the purposes of this Act the Government reporting entity is a public entity 
 (5) Despite subsection (3), the report does not need to include a statement of service performance in relation to a part of an appropriation or a class of outputs on which another entity is required to report in its statement of service performance if an Appropriation Act that lists the appropriation or class of outputs so provides.
 (6) The Minister responsible for the appropriation or class of outputs must arrange for the report to be published if he or she is requested to do so by the Minister.
 
-## Part 4 — Reporting by departments
+## Part 4 — Reporting by departments and departmental agencies
 
-### 33 Interpretation
-In this Part, any activities, bodies, or statutory offices that are funded by way of appropriation and that are not natural persons or separate legal entities must be taken to be part of a department.
+### 33 Extended meaning of department for purpose of Part 4
+In this Part, the following activities, bodies, and statutory offices must be taken to be part of a department:
+  (a) any activities, other than activities performed by a natural person or separate legal entity, that are funded by way of appropriation administered by the department:
+  (b) any bodies or statutory offices, other than natural persons or separate legal entities, that are funded by way of appropriation administered by the department.
 
 **Responsibilities of chief executives**
 
-### 34 Responsibilities of departmental chief executives: financial management
-The chief executive of a department—
-  (a) is responsible to the responsible Minister for the financial management and financial performance of the department; and
+### 34 Responsibilities of chief executives: financial management of departmental matters
+(1) The chief executive of a department—
+  (a) is responsible to the responsible Minister for the financial management, financial performance, and financial sustainability of the department; and
   (b) must comply with any lawful financial actions required by the Minister or the responsible Minister.
+(2) The chief executive of a department that administers an appropriation—
+  (a) is responsible to the appropriation Minister for what is achieved with departmental expenses and departmental capital expenditure under that appropriation; and
+  (b) is responsible for advising the appropriation Minister on the efficiency and effectiveness of any departmental expenses or departmental capital expenditure under that appropriation.
+(3) However, if a department other than the appropriation administrator, or any departmental agency, incurs departmental expenses or departmental capital expenditure against the appropriation at the direction of the appropriation Minister (under section 7C(2)(c)(i)), then the chief executive of that department or departmental agency, rather than the chief executive of the appropriation administrator, has the responsibility specified in subsection (2)(a) in respect of that expenditure.
 
-### 34A Forecast financial statements of departments
-[Repealed]
+### 35 Responsibilities of chief executives: financial management of non-departmental matters
+The chief executive of a department is responsible for—
+  (a) the financial management of, and financial reporting on, appropriations for non-departmental expenses and non-departmental capital expenditure administered by the department; and
+  (b) advising the appropriation Minister on the efficiency and effectiveness of expenditure under those appropriations; and
+  (c) the financial management of, and financial reporting on, assets, liabilities, and revenue managed by the department on behalf of the Crown; and
+  (d) advising the Minister responsible for those assets, liabilities, and revenue on their performance.
 
-### 35 Responsibilities of departmental chief executives: reporting
-The chief executive of a department is responsible to the responsible Minister for ensuring that the department complies with the reporting requirements imposed on the department by or under this or any other Act.
-
-### 36 Departmental chief executives not responsible for financial performance of other entities
-The chief executive of a department is not responsible for the outputs or financial performance of a Crown entity named or described in the Crown Entities Act 2004, an organisation named or described in Schedule 4, or a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986, even though the Crown entity, organisation, or State enterprise is wholly or partly funded through a Vote administered by the department.
+### 36 Responsibilities of chief executives: reporting
+(1) The chief executive of a department is responsible to the responsible Minister for ensuring that the department complies with the reporting requirements imposed on the department by or under this or any other Act.
+(2) The chief executive of a departmental agency is responsible, to the Minister for the time being responsible for the performance of the departmental agency, for ensuring that the departmental agency complies with the reporting requirements imposed on the departmental agency by or under this or any other Act.
 
 **Power of chief executives to obtain information**
 
-### 37 Power of departmental chief executives to obtain information
-(1) The chief executive of a department may request any specified person to supply to the chief executive any information that is necessary to enable the chief executive to carry out his or her responsibilities in relation to the department under sections 34 and 35.
+### 37 Power of chief executives to obtain information
+(1) The chief executive of a department or departmental agency may request any specified person to supply to the chief executive any information that is necessary to enable the chief executive to carry out his or her responsibilities in relation to the department or departmental agency (as applicable) under sections 34 to 36.
 (2) A request under subsection (1)—
   (a) must be in writing; and
   (b) may state the date by which, and the manner in which, the information requested must be provided.
-(3) If a date is stated under subsection (2)(b), that date must be reasonable, having regard to the time limits prescribed by this Act or any other Act for the department to discharge its reporting obligations.
+(3) If a date is stated under subsection (2)(b), that date must be reasonable, having regard to the time limits prescribed by this Act or any other Act for the department or departmental agency to discharge its reporting obligations.
 (4) A specified person to whom the request is made must comply with the request.
 (5) Nothing in this section limits or affects the privilege against self-incrimination.
 (6) In this section, specified person means a person who is responsible for any activities, bodies, or statutory offices that, under section 33, are taken to be part of a department.
@@ -930,33 +1003,38 @@ The information required under section 38 must set out and explain for the perio
 **Reporting requirements—Annual reports**
 
 ### 43 Departments must prepare annual reports
-(1) As soon as practicable after the end of each financial year, a department must—
-  (a) prepare a report on the operations of the department for that financial year; and
-  (b) provide the report to its responsible Minister.
-(2) Subsection (1) does not derogate from any provision in any other Act that requires the chief executive of a department to present an annual report, but it is not necessary for the chief executive to provide a separate report under each enactment.
+(1) As soon as practicable after the end of each financial year, each department must prepare a report on the operations of the department for that financial year, excluding operations on which any departmental agency hosted by the department is required to report under section 43A.
+(2) Not later than 15 working days after receiving an audit report under section 45D, the department must provide the annual report and the audit report to its responsible Minister.
+(3) This section does not limit any provision in any other Act that requires the chief executive of a department to provide an annual report, but the chief executive need not provide a separate report under each enactment.
 
-### 44 Obligation to present and publish departmental annual reports
-(1) A responsible Minister must present a department's annual report to the House of Representatives—
-  (a) not later than 15 working days after the audit report is provided under section 45D; or
+### 43A Departmental agencies must prepare annual reports
+(1) As soon as practicable after the end of each financial year, each departmental agency must prepare a report on the operations of the departmental agency for that financial year.
+(2) As soon as practicable after the end of the financial year, but not later than 15 working days after the audit date (as defined in section 44(6)), the departmental agency must provide the annual report and any applicable audit report to—
+  (a) the Minister for the time being responsible for the performance of the departmental agency; and
+  (b) the responsible Minister for the departmental agency's host department.
+(3) This section does not limit any provision in any other Act that requires the chief executive of a departmental agency to provide an annual report, but the chief executive need not provide a separate report under each enactment.
+
+### 44 Obligation to present and publish annual reports
+(1) A responsible Minister must present to the House of Representatives—
+  (a) the annual report of a department for which he or she is the responsible Minister and any applicable audit report; and
+  (b) the annual report of any departmental agency hosted by a department for which he or she is the responsible Minister and any applicable audit report.
+(2) The responsible Minister (or the Minister referred to in subsection (3)(b), if applicable) must comply with subsection (1)—
+  (a) not later than 15 working days after the audit date; or
   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
-(2) A department must publish its annual report—
-  (a) as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 15 working days after the audit report is provided under section 45D; and
+(3) A Minister other than the responsible Minister may present an annual report and audit report (if any) to the House of Representatives if—
+  (a) those reports are presented in a document that includes another report or other information (see subsection (5)); and
+  (b) that other Minister is responsible for presenting that other report or information.
+(4) A department or departmental agency must publish its annual report and any applicable audit report—
+  (a) as soon as practicable after the annual report has been presented to the House of Representatives, but, if subsection (2)(b) applies, not later than 15 working days after the audit date; and
   (b) in accordance with the manner (if any)—
     (i) prescribed by regulations made under this Act; or
-    (ii) specified in instructions issued under this Act.
-(3) If a department's annual report is published in advance of it being presented to the House of Representatives, the responsible Minister must arrange for the publication in the Gazette of a notice indicating that the annual report has been published.
-
-### 44A Laying before House of Representatives of financial statements of Crown entities (other than school Boards of Trustees and Reserves Boards)
-[Repealed]
-
-### 44B Annual report in relation to schools' sector
-[Repealed]
-
-### 44C Annual financial statements of school Boards of Trustees
-[Repealed]
-
-### 44D Annual financial statements of Reserves Boards
-[Repealed]
+    (ii) specified in instructions issued by the Minister under section 80A.
+(5) The annual report of a department or departmental agency may be presented or published in a document that includes any other report or information, whether or not that other report or information relates to the department or departmental agency, but only if each report or set of information is separately identifiable within that document.
+(6) In this section,—
+  - **audit date** means,—
+    (a) in the case of a department, the date on which the department receives an audit report; and
+    (b) in the case of a departmental agency, the date on which the departmental agency's host department receives an audit report
+  - **audit report** means an audit report under section 45D.
 
 ### 45 Contents of departmental annual report
 (1) A department's annual report must contain the following information in respect of the financial year to which it relates:
@@ -967,7 +1045,17 @@ The information required under section 38 must set out and explain for the perio
   (e) the audit report provided under section 45D; and
   (f) any other matters that relate to or affect the department's operations that the department is required, has undertaken, or wishes to report on in its annual report.
 (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the department's performance during the financial year (including an assessment against the intentions, measures, and standards set out at the start of the financial year in the information on the department's future operating intentions in accordance with sections 40 and 41).
+(2A) However, a department's annual report need not include information that any departmental agency hosted by the department is required to include in its annual report under section 45AA.
 (3) The annual report must be dated and signed on behalf of the department by its chief executive.
+
+### 45AA Contents of departmental agency annual report
+(1) The annual report of a departmental agency must contain the following information in respect of the financial year to which it relates:
+  (a) an assessment of the departmental agency's operations; and
+  (b) an assessment of the departmental agency's progress in relation to any of the host department's future operating intentions that are relevant to the departmental agency; and
+  (c) information about the departmental agency's management of its organisational health and capability; and
+  (d) any other matters that relate to or affect the departmental agency's operations that the departmental agency is required, has undertaken, or wishes to report on in its annual report.
+(2) The annual report of a departmental agency must identify the departmental agency's host department.
+(3) The annual report must be dated and signed on behalf of the departmental agency by its chief executive.
 
 ### 45A Statement of service performance
 A department's statement of service performance must—
@@ -1044,37 +1132,47 @@ A department's statement of service performance must—
 ### Subpart 1 — Special annual reporting requirements
 
 ### 45H Application of subpart
-(1) This subpart applies to—
-  (a) an entity that must provide an annual report that includes audited annual financial statements for presentation to the House of Representatives; and
-  (b) an entity that must provide audited annual financial statements (rather than an annual report) for presentation to the House of Representatives.
-(2) For the purposes of subsection (1)(b), this subpart must be read as if, with all necessary modifications, every reference to an annual report were a reference to audited financial statements.
+(1) This subpart applies to the following entities:
+  (a) a department and any other entity that must provide an annual report that includes audited annual financial statements for presentation to the House of Representatives; and
+  (b) a departmental agency; and
+  (c) an entity that must provide audited annual financial statements (rather than an annual report) for presentation to the House of Representatives.
+(2) For the purposes of subsection (1)(c), this subpart must be read as if, with all necessary modifications, every reference to an annual report were a reference to audited financial statements.
 (3) In this section and sections 45I to 45K, provide, in relation to a report or set of statements, means to comply with the requirements of an Act (including this Act) for the report or, as the case may be, the set of statements to be—
   (a) forwarded to an entity's auditor; or
   (b) provided to a Minister; or
   (c) presented to the House of Representatives.
 
 ### 45I First annual report for newly established entities
-(1) The Minister may (at the Minister's discretion) exempt an entity that is established within 4 months before the end of a financial year from the obligation to provide an annual report for that financial year.
-(2) Despite subsection (1), an entity that administers an appropriation must, as soon as practicable after the end of that financial year, provide—
-  (a) the statements required by section 45B(2)(c) and (d) (which comprise the statement of actual expenses and capital expenditure against appropriations and the statement of unappropriated expenses and capital expenditure); and
+(1) The Minister may (at the Minister's discretion) exempt an entity that is established during the last 4 months of a financial year from the obligation to provide an annual report for that financial year.
+(2) Despite subsection (1), an entity that administers an appropriation must, after the end of that financial year, provide the following statements and report as if they were an annual report:
+  (a) the statements of expenses and capital expenditure required by section 45B(2)(c) and (d); and
   (b) an audit report on those statements.
-(3) An entity that is exempted under subsection (1) must, as soon as practicable after the end of the next financial year, provide an annual report that covers the period from the date on which it is established until the end of that next financial year.
-(4) To avoid doubt, the annual report referred to in subsection (3) must contain the information required to be included in the entity's annual report (except that the information must be in respect of the period referred to in that subsection).
-(5) Subsections (1) to (4) also apply to an entity that, within 4 months before the end of a financial year, becomes subject to the requirement to provide an annual report for presentation to the House of Representatives.
+(3) An entity that is exempted under subsection (1) must, after the end of the entity's first full financial year, provide an annual report that covers the period from the date on which the entity is established until the end of the entity's first full financial year.
+(4) To avoid doubt, the annual report referred to in subsection (3) must contain the information required to be included in the entity's annual report, except that the information must be in respect of the period referred to in that subsection.
+(5) Subsections (1) to (4) also apply to an entity that, during the last 4 months of a financial year, becomes subject to the requirement to provide an annual report for presentation to the House of Representatives.
 
 ### 45J Final annual report for disestablished entities
-(1) An entity that is disestablished before the end of a financial year must, as soon as practicable after the date on which it is disestablished, provide a final report (as if the final report were an annual report) for the period up until that date.
-(2) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for completing a final report to another party,—
+(1) An entity that is disestablished must provide a final report for the period—
+  (a) commencing at the start of the financial year in which the entity is disestablished; and
+  (b) ending on the date on which the entity is disestablished (the disestablishment date).
+(2) The final report must be—
+  (a) prepared as if it were an annual report; and
+  (b) provided not later than 3 months after the disestablishment date.
+(3) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for providing a final report to another party,—
   (a) the Minister may approve the transfer of that responsibility; and
-  (b) if the Minister does so, the party to whom that responsibility is transferred must sign the statement of responsibility.
-(3) Subsections (1) and (2) also apply to an entity that, before the end of the financial year, ceases to be subject to the requirement to provide an annual report for presentation to the House of Representatives.
+  (b) if the Minister does so, each party with responsibility for providing the final report must sign the statement of responsibility for the report in respect of the matters in the report for which the party is responsible.
 
-### 45K Timing of special annual reports, etc
-(1) An entity that reports under section 45I must provide the statements and reports required under that section within the period specified in legislation for the entity to provide its annual report.
-(2) An entity that reports under section 45J must provide the final report within 20 working days after the end of the period specified in legislation for the entity to provide its annual report (except that the period so specified must start on the date on which the entity is disestablished, rather than at the end of the financial year).
-(3) Despite subsection (2) and section 45J(1), the Minister may allow an entity that ceases to be subject to the requirement to provide an annual report before the end of a financial year, but that is not disestablished, to provide the final report as soon as practicable after the end of the financial year on—
-  (a) the condition that the entity's final report contains the information that the entity is required to include in its annual report for at least the period up until the date on which it ceases to be so subject; and
-  (b) any other conditions that the Minister thinks fit.
+### 45K Final annual report for entities that cease to be subject to requirement to provide annual report
+(1) An entity that ceases to be subject to the requirement to provide an annual report for presentation to the House of Representatives must provide a final report for the period—
+  (a) commencing at the start of the financial year in which the entity ceases to be subject to the requirement to provide an annual report; and
+  (b) ending on the date on which the entity ceases to be subject to the requirement to provide an annual report (the specified date).
+(2) The final report must be—
+  (a) prepared as if it were an annual report; and
+  (b) provided not later than 3 months after the specified date.
+(3) Despite subsection (2)(b), the Minister may allow the entity to provide the final report later than 3 months after the specified date on any conditions that the Minister thinks fit.
+(4) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for providing a final report to another party,—
+  (a) the Minister may approve the transfer of that responsibility; and
+  (b) if the Minister does so, each party with responsibility for providing the final report must sign the statement of responsibility for the report in respect of the matters in the report for which the party is responsible.
 
 ### 45L Minister may allow certain information to be included in another entity's annual report if operations transferred
 (1) This section applies if—
@@ -1090,30 +1188,57 @@ A department's statement of service performance must—
     (ii) the entity to whom those operations are transferred has not been exempted under section 45I; and
   (b) only if the Minister is satisfied that the inclusion of that information in the other entity's annual report in accordance with paragraph (a)(i) does not unreasonably compromise accountability for the performance of those operations during that financial year.
 
-### Subpart 2 — Application of provisions of Crown Entities Act 2004 to organisations named or described in Schedule 4
+### Subpart 2 — Application of Crown Entities Act 2004 to Schedule 4 organisations
 
-### 45M Provisions of Crown Entities Act 2004 that apply to all Schedule 4 organisations
-(1) The following provisions of the Crown Entities Act 2004 apply to an organisation named or described in Schedule 4, as if the organisation were a Crown entity under the Crown Entities Act 2004:
+### 45M Application of Crown Entities Act 2004 to Schedule 4 organisations
+(1) The following sections of the Crown Entities Act 2004, and any regulations that apply to the matters referred to in those sections, apply to a Schedule 4 organisation as if the organisation were a Crown entity under that Act:
   (a) sections 133 and 134 (which relate to supply of information):
-  (b) sections 154 to 156 and any regulations that apply to the matters referred to in those sections:
-  (c) section 158 (which relates to bank accounts).
-(2) Section 150 of the Crown Entities Act 2004 applies to an organisation that is named or described in Schedule 4 and that is not required to produce an annual report as if the annual financial statements required under subsection (1)(b) were an annual report.
-(3) An organisation named or described in Schedule 4 that is required to produce a statement of service performance must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
-(4) The provisions applied by this section apply to the organisation subject to any negation or modification of the provision in the entity's Act.
-(5) A provision that applies to a parent organisation, and any negation or modification of the provision in the entity's Act, applies also to the subsidiaries of the organisation, except to the extent that the entity's Act provides otherwise.
+  (b) sections 154 to 156 (which relate to annual financial statements, statements of responsibility, and audit reports):
+  (c) section 158 (which relates to bank accounts):
+  (d) if there is a tick in a column of the table in Schedule 4 of this Act alongside the name or description of the organisation, the section indicated in the heading of that column:
+  (e) if section 139 of the Crown Entities Act 2004 (which is the obligation to prepare a statement of intent) applies to the organisation under paragraph (d), sections 138 and 141 to 149 of that Act (which also relate to statements of intent):
+  (f) if section 150 of the Crown Entities Act 2004 (which is the obligation to prepare, present, and publish an annual report) applies to the organisation under paragraph (d), sections 151 (other than subsection (1)(b)), 152, and 154 to 157 of that Act (which also relate to annual reports).
+(2) The responsible Minister for a Schedule 4 organisation that is required, under subsection (1)(d), to produce a statement of service performance under section 153 of the Crown Entities Act 2004 must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
+(3) If a Schedule 4 organisation is established or regulated under an Act, the provisions applied by this section apply to the organisation subject to any express negation or modification of the provision in that Act.
 
-### 45N Some provisions of Crown Entities Act 2004 applied to some Schedule 4 organisations
-(1) A provision of the Crown Entities Act 2004 that is listed in column 2 of Schedule 4 as applying to an organisation named or described in that schedule applies to that organisation as if the organisation were a Crown entity under the Crown Entities Act 2004.
-(2) However, the Minister may exempt an organisation named or described in Schedule 4 from any of the requirements in sections 141, 142, 151, and 152 of the Crown Entities Act 2004.
-(3) The exemption may be granted—
-  (a) if the Minister considers that it is necessary or expedient to grant the exemption; and
-  (b) by notice in writing to the organisation, on any conditions that the Minister thinks fit.
+### 45N Exemptions from certain sections of Crown Entities Act 2004 for Schedule 4 organisations
+(1) The Minister may exempt a Schedule 4 organisation, for 1 or more financial years or until further notice, from any of the requirements in sections 141, 151, and 152 of the Crown Entities Act 2004, other than the requirements in section 151(1)(c) to (e).
+(2) If the Minister considers that it is necessary or desirable to grant an exemption under this section, the Minister may grant the exemption—
+  (a) by notice in writing to the organisation; and
+  (b) on any conditions that the Minister thinks fit.
 
 ### 45O Special provisions relating to Reserves Boards
 (1) Despite section 45M(2), section 150(3) and (4) of the Crown Entities Act 2004 does not apply to a Reserves Board (as defined by section 2 of the Reserves Act 1977) and accordingly, the Minister of Conservation is not required to present the annual financial statements of a Reserves Board to the House of Representatives.
 (2) The Minister of Conservation must, in each year, send to each member of Parliament copies of the annual financial statements of a Reserves Board that manages a reserve in the member's electoral district.
 (3) The copies must be sent not later than 1 month after the date on which an audit report is provided by the Auditor-General on those financial statements.
 (4) The chief executive of the Department of Conservation must ensure that information about the financial performance of Reserves Boards is, in each year, included in the annual report of the Department of Conservation.
+
+## Part 5AAA — Non-listed companies in which the Crown is majority or sole shareholder
+
+### 45OA Application of Crown Entities Act 2004 to non-listed companies in which the Crown is majority or sole shareholder
+(1) The following provisions of the Crown Entities Act 2004 apply to a Schedule 4A company as if the company were a Crown entity company under the Crown Entities Act 2004:
+  (a) section 79 (which relates to formation and acquisition of shares):
+  (b) sections 81 and 82 (which require a constitution to be presented to the House of Representatives), except that section 81 must be read as if it required the constitution to contain a statement to the effect that the company is a company named in Schedule 4A of the Public Finance Act 1989:
+  (c) sections 83 and 84 (which relate to the shareholding Minister), except that, if the company is not 100% Crown-owned, the references in section 84 to a shareholding Minister must be read as if they were references to the shareholders:
+  (d) section 85 (which relates to the interface between the Crown Entities Act 2004 and the Companies Act 1993 and other Acts in respect of Crown entity companies):
+  (e) if the company is 100% Crown-owned,—
+    (i) section 88 (which sets out the shareholding Ministers' role):
+    (ii) section 88A (which sets out the monitor's role):
+  (f) sections 89 to 92, 94, and 95 (which relate to appointment, removal, and duties of board members), except that, if the company is not 100% Crown-owned, the reference in section 94(1) to duties owed to the shareholding Ministers must be read as a reference to duties owed to shareholders:
+  (g) sections 96, 97, and 99 (which relate to subsidiaries):
+  (h) section 100 (which relates to the acquisition of shares or interests in companies, trusts, and partnerships, etc):
+  (i) section 102 (which relates to the interface between the Crown Entities Act 2004 and the Companies Act 1993 and other Acts in respect of Crown entity subsidiaries):
+  (j) sections 107 to 111 and 113 (which relate to directions under section 107 of the Crown Entities Act 2004):
+  (k) section 114 (which relates to government directions):
+  (l) section 118 (which is the obligation to be a good employer):
+  (m) sections 132 to 135 (miscellaneous provisions):
+  (n) sections 136 to 157 (which relate to reporting obligations):
+  (o) section 158 (which relates to bank accounts):
+  (p) if there is a tick in a column of the table in Schedule 4A of this Act alongside the name of the company, the section indicated in the heading of that column.
+(2) In the case of a Schedule 4A company that is not 100% Crown-owned, subsection (1)(n) does not prevent the shareholders from agreeing on a process for minority shareholders to be involved in the process of preparing, reviewing, or amending the statement of intent or statement of performance expectations referred to in sections 136 to 157 of the Crown Entities Act 2004, but only if the agreed process is not inconsistent with those sections.
+(3) For the purposes of subsections (1) and (2), a Schedule 4A company is 100% Crown-owned if Ministers of the Crown, on behalf of the Crown, hold 100% of the issued ordinary shares in the capital of the company.
+(4) For the purposes of section 107(2)(a) of the Crown Entities Act 2004, Schedule 4A companies may be treated as a category of Crown entities.
+(5) If a Schedule 4A company is established or regulated under an Act, the provisions applied by this section apply to the company subject to any express negation or modification of the provision in that Act.
 
 ## Part 5A — Mixed ownership model companies
 
@@ -1228,8 +1353,8 @@ Despite anything in the State Sector Act 1988, the Minister must not delegate th
 
 ### 49 The Crown not liable for debts of Crown entities, etc
 (1) The Crown is not liable to contribute towards the payment of any debts or liabilities of—
-  (a) a Crown entity or an organisation named or described in Schedule 4; or
-  (b) a subsidiary of a Crown entity or of an organisation named or described in Schedule 4; or
+  (a) a Crown entity, a Schedule 4 organisation, or a Schedule 4A company; or
+  (b) a subsidiary of a Crown entity, a Schedule 4 organisation, or a Schedule 4A company; or
   (c) any entity in which a Crown entity has an interest; or
   (d) any other agency or body corporate that is controlled or wholly owned by the Crown.
 (2) However, this section does not apply in relation to—
@@ -1452,7 +1577,7 @@ Except as expressly authorised by any Act, the Crown must not enter (either dire
 (2) The Treasury may—
   (a) invest the money for any period and on any terms and conditions that it thinks fit; and
   (b) sell, or convert into money, any of the securities.
-(3) The following must be paid into a Crown Bank Account:
+(3) The following must be paid into a Crown Bank Account or, if the Minister directs, a Departmental Bank Account:
   (a) all interest received from the investment; and
   (b) all money received from—
     (i) the redemption or maturity of the investment; or
@@ -1472,11 +1597,7 @@ Except as expressly authorised by any Act, the Crown must not enter (either dire
 **Limits on lending by the Crown**
 
 ### 65K The Crown must not lend money except under statute
-The Crown must not lend money to a person or organisation, except—
-  (a) as expressly authorised by any Act; or
-  (b) if lending the money is necessary for the Crown to—
-    (i) meet a legal obligation; or
-    (ii) properly perform a function.
+Except as expressly authorised by any Act, the Crown must not lend money to a person or an organisation.
 
 ### 65L Minister may lend money to persons or organisations if in public interest
 (1) The Minister, on behalf of the Crown, may lend money to a person or organisation (whether the person or organisation is in New Zealand or elsewhere) if it appears to the Minister to be necessary or expedient in the public interest to do so.
@@ -1489,7 +1610,7 @@ The Crown must not lend money to a person or organisation, except—
 (2) The Minister may lend the money under subsection (1) on any terms and conditions that the Minister thinks fit.
 
 ### 65N Authority to lend money includes authority to defer payments
-For the purposes of sections 65L and 65M, the authority to lend money includes the authority to defer payment, on terms and conditions that the Minister thinks fit, for any goods or services supplied or works constructed for any person, organisation, or government.
+[Repealed]
 
 ### 65O Repayment of money lent by the Crown
 The Minister may, in relation to any money lent by the Crown under section 65L or section 65M,—
@@ -1573,8 +1694,8 @@ A bank at which public money is kept must send to the Treasury or the Auditor-Ge
 
 ### 65Z Auditor-General may direct Ministers to report to House of Representatives in cases involving unlawful expenses, etc
 (1) The Auditor-General may direct a Minister to report to the House of Representatives if the Auditor-General has reason to believe that expenses or capital expenditure for which that Minister is responsible have been incurred for a purpose that—
-  (a) is not lawful; or
-  (b) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act.
+  (a) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act; or
+  (b) is, for any other reason, unlawful.
 (2) The report must set out the following details:
   (a) the nature and extent of any alleged breach of the appropriation or other authority that the Auditor-General has reason to believe has occurred; and
   (b) the events that gave rise to the alleged breach; and
@@ -1595,8 +1716,8 @@ A bank at which public money is kept must send to the Treasury or the Auditor-Ge
 
 ### 65ZA Auditor-General may stop payments out of Bank Accounts
 (1) This section applies if the Auditor-General has reason to believe that any money to be paid out of a Crown Bank Account or a Departmental Bank Account may be applied for a purpose that—
-  (a) is not lawful; or
-  (b) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act.
+  (a) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act; or
+  (b) is, for any other reason, unlawful.
 (2) If this section applies, the Auditor-General may direct the Minister, the Treasury or, as the case may be, the department concerned to stop payments out of that Crown Bank Account or Departmental Bank Account.
 
 ### 65ZB Application of this subpart to Offices of Parliament
@@ -1619,18 +1740,14 @@ Except as expressly authorised by any Act, it is not lawful for any person to gi
 (1) The Minister, on behalf of the Crown, may give, in writing, a guarantee or indemnity to a person, organisation, or government if it appears to the Minister to be necessary or expedient in the public interest to do so.
 (2) The Minister may—
   (a) give the guarantee or indemnity on any terms and conditions that the Minister thinks fit; and
-  (b) in the case of a guarantee, give the guarantee in respect of the performance or non-performance of any duties or obligations by the person, organisation, or government.
-(3) If the contingent liability of the Crown under a guarantee or indemnity given under this section exceeds $10,000,000, the Minister must, as soon as practicable after the guarantee or indemnity is given,—
-  (a) publish in the Gazette a statement that the guarantee or indemnity has been given; and
-  (b) present the statement to the House of Representatives.
+  (b) in the case of a guarantee, give the guarantee in respect of the performance or non-performance of any duties or obligations by a person, organisation, or government.
+(3) If the contingent liability of the Crown under a guarantee or an indemnity given by the Minister under subsection (1) exceeds $10 million, the Minister must, as soon as practicable after giving the guarantee or indemnity, present a statement to the House of Representatives that the guarantee or indemnity has been given.
 (4) The statement may contain any details about the guarantee or indemnity that the Minister considers appropriate.
 
 ### 65ZE Departments may give guarantee or indemnity specified in regulations if in public interest
 (1) A department, on behalf of or in the name of the Crown, may give, in writing, a guarantee or indemnity of a type specified in regulations made under section 81 to a person or organisation if it appears to the department to be necessary or expedient in the public interest to do so.
 (2) A department must give the guarantee or indemnity on the prescribed terms and conditions (if any).
-(3) If the contingent liability of the Crown under a guarantee or indemnity given by a department under subsection (1) exceeds $10,000,000, the responsible Minister must, as soon as practicable after the guarantee or indemnity is given,—
-  (a) publish in the Gazette a statement that the guarantee or indemnity has been given; and
-  (b) present the statement to the House of Representatives.
+(3) If the contingent liability of the Crown under a guarantee or an indemnity given by a department under subsection (1) exceeds $10 million, the responsible Minister must, as soon as practicable after the guarantee or indemnity is given, present to the House of Representatives a statement that the guarantee or indemnity has been given.
 (4) The statement may contain any details about the guarantee or indemnity that the responsible Minister considers appropriate.
 (5) This section does not limit section 65ZD.
 
@@ -1663,7 +1780,7 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 
 ### 67 Establishment of bank accounts for trust money
 (1) There shall be established at any bank or banks approved by the Minister a bank account or accounts to be known as Trust Bank Accounts, to be operated and maintained by the Treasury or by a department or any agent appointed by the Treasury.
-(2) All trust money shall be lodged in a Trust Bank Account.
+(2) All trust money must, as soon as practicable after being identified as trust money, be lodged in a Trust Bank Account.
 (3) The Minister or the Treasury may give directions as to any terms and conditions under which a Trust Bank Account may be operated.
 
 ### 68 Investment of trust money
@@ -1728,7 +1845,7 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 ### 71AA Delegation of Secretary's powers
 (1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in Schedule 1 of the State Sector Act 1988) any power—
   (a) conferred on the Secretary by this Act; or
-  (b) delegated to the Secretary by the Minister under this Act.
+  (b) conferred on the Minister by this Act and delegated to the Secretary by the Minister.
 (2) Without limiting subsection (1), the Secretary may delegate to the persons referred to in subsection (3) any power conferred on the Secretary by Part 6.
 (3) The persons are—
   (a) the Reserve Bank of New Zealand; or
@@ -1747,28 +1864,31 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 (3) Notwithstanding subsection (2), any expense incurred or sum of money paid by the Crown on behalf of, or at the request of, a local authority, and any money owing to the Crown by a local authority, may be deducted by the Crown from any subsidies or other money accruing or payable by the Crown to the local authority.
 
 ### 73 Payment of fines to local authorities and other organisations that conduct prosecutions
-(1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, or an organisation named or described in Schedule 4) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
+(1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, a Schedule 4 organisation, or a Schedule 4A company) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
 (2) There shall be deducted from every amount payable to a local authority or other organisation under subsection (1) a sum equal to 10% thereof, and this sum shall be credited to the Crown Bank Account or a Departmental Bank Account:
   provided that, where any money awarded by a court in respect of any loss or damage is recovered as a fine, no deduction under this subsection shall be made in respect of that money.
 
 ### 74 Unclaimed money
-(1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, Crown entity, or organisation named or described in Schedule 4 that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
+(1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, Crown entity, Schedule 4 organisation, or Schedule 4A company that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
 (2) Notwithstanding section 66, all money deposited with the Treasury under subsection (1) shall be public money and be paid into the Crown Bank Account.
-(3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, or Crown entity concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
+(3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, Crown entity, organisation, or company concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
 (4) No person shall have any right of action against the Treasury or the Crown in respect of any investment or non-investment of any money to which this section relates.
 (5) If any person claims any money deposited with the Treasury under subsection (1) and establishes a claim to the satisfaction of the Treasury, the money shall be paid to the person out of the Crown Bank Account without further appropriation than this section.
 (6) Where any money paid to any claimant under this section, is afterwards claimed by any other person, neither the Treasury nor the Crown shall be under any liability to such other person by reason of having paid money to the first claimant.
 
 ### 75 Minister may exercise powers relating to bona vacantia
 (1) Where any property or right belongs to the Sovereign as bona vacantia, the Minister may from time to time on behalf of the Sovereign, exercise any power, function, and right (including any power of disposal) and undertake and perform any obligation, in respect of or in connection with the property or right that could be exercised, undertaken, or performed by the Sovereign.
-(2) Where the Minister or any department, on the application of any persons, performs any act under subsection (1) the Minister or department shall be entitled to charge such person with all reasonable fees and costs incurred.
-(3) Nothing in this section shall derogate from any other enactment or rule of law.
+(2) If the Minister or any department or departmental agency, on the application of any person, performs an act under subsection (1), the Minister, department, or departmental agency is entitled to charge the person all reasonable fees and costs incurred.
+(3) Nothing in subsection (1) or (2) limits any other enactment or rule of law.
+(4) If the Minister, a department, or a departmental agency performs an act under subsection (1) that involves the transfer or disposal of property or a right, that transfer or disposal may be made without further authority than this section.
+(5) If the Minister, a department, or a departmental agency performs an act under subsection (1) that involves the spending of public money, that money may be paid out of a Crown Bank Account without further authority than this section.
+(6) Subsections (4) and (5) do not affect the validity of anything done before those subsections come into force.
 
 ### 76 Offences
 (1) Every person commits an offence against this Act who, without reasonable excuse,—
   (a) refuses or fails to produce any information that is in that person's possession or under that person's control in relation to the financial management, financial performance, or banking activities of a department or in relation to the management or control of any Crown asset or liability when required to do so pursuant to this Act; or
   (b) resists or obstructs any person acting in the discharge of that person's functions or duties or in the exercise of that person's powers under this Act.
-(2) Every person commits an offence against this Act who—
+(2) Every person commits an offence against this Act who,—
   (a) without reasonable excuse, refuses or neglects to pay any public money into a Crown Bank Account or a Departmental Bank Account; or
   (b) without reasonable excuse, refuses or neglects to pay any trust money into a Trust Bank Account; or
   (c) makes any statement or declaration, or gives any information or certificate, required by or pursuant to this Act, knowing it to be false or misleading; or
@@ -1795,8 +1915,10 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) if there is no agreement under paragraph (a), only if the Minister and the responsible Minister jointly decide that the Treasury may make the request.
 
 ### 80 Treasury instructions
-(1) Subject to the provisions of this Act and of any regulations made under this Act, the Treasury may issue instructions to departments for all or any of the purposes specified in section 81(1)(a), (ab), (b), (bc), (bd), or (c) to (e).
-(2) A chief executive of a department must comply with any instructions issued under this section to the extent that the instructions apply to that department.
+(1) Subject to the provisions of this Act and of any regulations made under this Act, the Treasury may—
+  (a) issue instructions to departments or departmental agencies for the purpose specified in section 81(1)(a); and
+  (b) issue instructions to departments for all or any of the purposes specified in section 81(1)(ab), (b), (bc), (bd), and (c) to (e).
+(2) A chief executive of a department or departmental agency must comply with any instructions issued under this section to the extent that the instructions apply to that department or departmental agency.
 (3) Despite subsections (1) and (2), the Treasury may issue instructions under this section to an intelligence and security department—
   (a) only if the Secretary and the chief executive of that department agree and only to the extent of that agreement; or
   (b) if there is no agreement under paragraph (a), only if the Minister and the responsible Minister jointly decide that the Treasury may issue the instructions.
@@ -1811,10 +1933,12 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (3) The Minister may issue instructions,—
   (a) for all or any of the purposes specified in section 81(1)(ac) or (ba), to—
     (i) a department; or
+    (ia) a departmental agency; or
     (ii) an Office of Parliament; or
-    (iii) an organisation named or described in Schedule 4; and
+    (iii) a Schedule 4 organisation; or
+    (iv) a Schedule 4A company; and
   (b) for all or any of the purposes specified in section 81(1)(a), (b), or (c), to an entity referred to in section 27(3)(a) to (f).
-(4) A chief executive of a department, an Office of Parliament, an organisation named or described in Schedule 4, or an entity referred to in section 27(3)(a) to (f) must comply with any instructions issued under this section to the extent that the instructions apply to that department, Office, organisation, or entity.
+(4) A chief executive of a department, a departmental agency, an Office of Parliament, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in section 27(3) must comply with any instructions issued under this section to the extent that the instructions apply to that department, departmental agency, Office, organisation, company, or entity.
 (5) Any instructions issued under this section for the purposes of section 81(1)(ba) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
 (6) Any instructions issued under this section—
   (a) are to be treated as regulations for the purposes of the Regulations (Disallowance) Act 1989; but
@@ -1823,11 +1947,11 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 
 ### 81 Regulations, Orders in Council, and notices
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) requiring information to be supplied to the Treasury by departments and any entities referred to in section 27(3)(a) to (f) to enable the Treasury to properly fulfil the functions imposed on it by the Government or any Act:
+  (a) requiring information to be supplied to the Treasury by departments, departmental agencies, and any entities referred to in section 27(3)(a) to (f) to enable the Treasury to properly fulfil the functions imposed on it by the Government or any Act:
   (ab) prescribing the processes and data standards to be used when supplying the information required under paragraph (a):
-  (ac) prescribing minimum requirements concerning the publication of information that departments, Offices of Parliament, and organisations named or described in Schedule 4 must publish under this Act:
-  (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, Crown entities, or organisations named or described in Schedule 4 must apply in their financial reporting:
-  (ba) prescribing the non-financial reporting standards that Ministers, departments, Offices of Parliament, or organisations named or described in Schedule 4 must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
+  (ac) prescribing minimum requirements concerning the publication of information that departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies must publish under this Act:
+  (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, Crown entities, Schedule 4 organisations, or Schedule 4A companies must apply in their financial reporting:
+  (ba) prescribing the non-financial reporting standards that Ministers, departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, or Schedule 4A companies must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
   (bb) specifying the types of guarantees or indemnities that may be given by departments on behalf of or in the name of the Crown under section 65ZE:
   (bc) prescribing the terms and conditions that must apply to those guarantees or indemnities referred to in paragraph (bb):
   (bd) prescribing any other matters relating to those guarantees or indemnities referred to in paragraph (bb):
@@ -1845,7 +1969,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 
 ### 82 Consultation and approval requirements for regulations or instructions relating to reporting standards
 (1) This section applies to—
-  (a) any regulations that are proposed to be made under section 81(1)(ba) or any instructions that are proposed to be issued by the Minister to departments or organisations named or described in Schedule 4, under section 80A, for the purposes of section 81(1)(ba); and
+  (a) any regulations that are proposed to be made under section 81(1)(ba) or any instructions that are proposed to be issued by the Minister to departments, departmental agencies, Schedule 4 organisations, or Schedule 4A companies, under section 80A, for the purposes of section 81(1)(ba); and
   (b) any regulations that are proposed to be made under section 81(1)(ac) or (ba) in relation to Offices of Parliament or any instructions that are proposed to be issued by the Minister to Offices of Parliament, under section 80A, for the purposes of section 81(1)(ac) or (ba).
 (2) The Minister must prepare and submit to the Speaker a draft of any regulations or instructions to which this section applies.
 (3) The Speaker must present the draft regulations or instructions to the House of Representatives as soon as is reasonably practicable.
@@ -1854,20 +1978,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (6) The Minister must, as soon as practicable after issuing instructions to which subsection (1) applies, present them to the House of Representatives.
 
 ### 83 Abolition of certain accounts
-(1) The following accounts are hereby abolished:
-  (a) the Public Account:
-  (b) the Consolidated Account:
-  (c) the Loans Account:
-  (d) the Reserve Account:
-  (e) the Loans Redemption Account:
-  (f) the Trust Account:
-  (g) the Energy Account.
-(2) All bank accounts forming part of any of the accounts specified in subsection (1) on 1 July 1989 shall be deemed to form part of the Crown Bank Account.
-(3) Notwithstanding subsection (2), all money held in an imprest account operated by a department on 1 July 1989 shall be transferred to and deemed part of a Departmental Bank Account opened and operated by that department.
-(4) Notwithstanding subsection (2) all money held in the Public Account to the credit of the Trust Account which is trust money pursuant to section 66 at 1 July 1989 shall be transferred to a Trust Bank Account and dealt with in accordance with Part 7. Where money is held in the Trust Account on 30 June 1989 but it is uncertain whether such money is public money or trust money under this Act, then notwithstanding section 66, such money shall, at the discretion of the Minister, be deemed to be trust money until no later than 1 January 1990.
-(5) Any investment of money relating to subsection (4) shall be deemed to be an investment of trust money under Part 7.
-(6) Subject to subsections (3) and (4), all money that, if this section had not been passed, would be payable into or out of any of the accounts specified in subsection (1), shall be paid into or out of a Crown Bank Account.
-(7) Every reference to any of the accounts specified in subsection (1) in any Act, regulation, order, agreement, deed, instruction, application, notice, or other document whatever shall, unless the context otherwise requires, be read as a reference to a Crown Bank Account.
+[Repealed]
 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
@@ -1880,33 +1991,78 @@ Notwithstanding the repeal by section 87 of—those provisions shall continue to
   (g) all other stock.
 
 ### 85 Government stock in United Kingdom
-(1) Notwithstanding section 163 or any other provision of the Public Finance Act 1977 or any other provision of this Act, sections 2, 41 to 47, and 49 of the New Zealand Loans Act 1953 shall continue to have effect in respect of all New Zealand Government securities (as defined in that Act) that—as if the Public Finance Act 1977 and this Act had not been passed and as if references in sections 41 and 47 of the New Zealand Loans Act 1953 to the New Zealand Public Account in London were references to the Crown Bank Account and the reference in section 43 of the New Zealand Loans Act 1953 (as amended by section 4(4) of the Public Revenues Amendment Act 1963) to the Consolidated Revenue Account was a reference to the Crown Bank Account.
-  (a) have been registered with the Bank of England in the United Kingdom before the day this Act comes into force; and
-  (b) have not been transferred to the register kept in New Zealand pursuant to section 44 of that Act—
-(2) Any New Zealand Government securities transferred to the register kept in New Zealand pursuant to section 44 of the New Zealand Loans Act 1953 shall be deemed to be Government stock issued pursuant to section 63 of this Act.
+[Repealed]
 
 ### 86 Consequential amendments
-(1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
-(2) The amendments to sections 2, 5, 9, and 10 of the Goods and Services Tax Act 1985 specified in Schedule 1 are to apply to supplies made on or after 1 July 1989.
+[Repealed]
 
 ### 87 Repeals
-The enactments specified in Schedule 2 are hereby repealed.
+[Repealed]
 
-### 88 Transitional provisions
-(1) Notwithstanding section 87, the provisions of section 52A of the Public Finance Act 1977 and Schedule 5 of that Act shall remain in force until the coming into force of the first Appropriation Act after 1 July 1989 or, in the case of the revolving funds operated by the Department of Internal Affairs, and the Department of Maori Affairs, after 1 July 1990:
-  provided that each revolving fund specified in Schedule 5 shall become a Departmental Bank Account operated by the department specified as the operating department in that schedule.
-(2) Notwithstanding Part 3, until 1 July 1991 the financial statements of the Crown prepared pursuant to sections 27 and 28 need not include the statements described in section 27(2)(a) and (b) and the statement of cash flows prepared in accordance with section 27(2)(c) shall be a receipts and payments statement.
-(3) Notwithstanding anything in this Act, until the close of 30 June 1993 the Housing Corporation of New Zealand is deemed to be a department for the purposes of sections 7 and 9:
-  provided that nothing in this subsection shall deem the money of Housing New Zealand Corporation to be public money.
-(4)
-(5) Notwithstanding any provision in any Act requiring receipts of any kind to be paid into a Departmental Bank Account, where a department is administering a Vote for which public money is appropriated pursuant to Mode A, the Treasury may direct that such receipts are to be paid into the Crown Bank Account.
-(6) All money held on behalf of the Crown in an account outside the Public Account (as that term is defined in the Public Finance Act 1977)—
-  (a) which is public money pursuant to this Act at 1 July 1989 shall be transferred to and deemed part of the Crown Bank Account or a Departmental Bank Account in accordance with section 20;
-  (b) which is trust money pursuant to section 66 at 1 July 1989 shall be transferred to a Trust Bank Account and dealt with in accordance with Part 7.
-(7) Where money is held on behalf of the Crown in an account outside the Public Account on 30 June 1989 but it is uncertain whether such money is public money or trust money under this Act, then notwithstanding section 66, such money shall, at the discretion of the Minister, be deemed to be trust money until no later than 1 January 1990.
-(8) Any investment of money relating to paragraph (a) of subsection (6) shall be deemed to be an investment of public money under Part 2, and any investment of money relating to paragraph (b) of subsection (6) or subsection (7) shall be deemed to be an investment of trust money under Part 7.
+### 88 Application, savings, and transitional provisions relating to amendments to Act
+The application, savings, and transitional provisions set out in Schedule 1, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
 
-## Schedule 1 — Enactments consequentially amended
+## Schedule 1 — Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013
+
+### 1 Interpretation
+In this schedule,—
+  - **2013/14 financial year** means the financial year ending with 30 June 2014
+  - **2014/15 financial year** means the financial year ending with 30 June 2015
+  - **amendment Act** means the Public Finance Amendment Act 2013
+  - **commencement date** means the date on which the amendment Act comes into force
+  - **new provision** means a provision of this Act as amended or inserted by the amendment Act, and has a corresponding meaning
+  - **old provision** means a provision of this Act as in force immediately before its amendment or repeal by the amendment Act, and has a corresponding meaning.
+
+**General application of provisions relating to financial year**
+
+### 2 Amendments made on 1 July 2014 apply to 2014/15 financial year and subsequent financial years
+(1) This clause applies to any provision of this Act that—
+  (a) relates to a financial year; and
+  (b) is amended on 1 July 2014 by Part 2 of the amendment Act.
+(2) The provision must,—
+  (a) to the extent that it relates to the 2014/15 financial year and subsequent financial years, be treated as if it were amended on the commencement date rather than 1 July 2014; and
+  (b) to the extent that it relates to previous financial years, be treated as if it were not amended on 1 July 2014.
+(3) This clause is subject to clause 3.
+
+### 3 Multi-category appropriations may be used in 2013/14 financial year
+Despite clause 2, in the 2013/14 financial year,—
+  (a) old section 7(1) must be read as if it included, as a type of appropriation, a multi-category appropriation described in new section 7A(1)(g) (as inserted by section 59 of the amendment Act); and
+  (b) any new provision that relates to a multi-category appropriation must, for the purposes of the multi-category appropriation and any expenses or capital expenditure incurred under it, be treated as if it were amended on the commencement date.
+
+### 4 Annual report for 2013/14 financial year must include forecast financial statements for 2014/15 financial year
+Despite clause 2, old section 45 must be read as if it included a requirement for a department's annual report for the 2013/14 financial year to include forecast financial statements for the 2014/15 financial year that comply with new section 45BA (as inserted by section 86 of the amendment Act).
+
+### 5 First information on strategic intentions under new section 38 must relate to 2014/15 financial year and subsequent financial years
+(1) A department must provide to its responsible Minister, under new section 38 (as inserted by section 80 of the amendment Act), information on its strategic intentions for the 2014/15 financial year and at least the following 3 financial years.
+(2) A department must comply with subclause (1) not later than the day on which it provides, to its responsible Minister, its annual report for the 2013/14 financial year.
+
+**Additional transitional provisions applicable to Schedule 4 organisations and Schedule 4A companies**
+
+### 6 Additional transitional provisions applicable to Schedule 4 organisations and Schedule 4A companies
+(1) Clauses 1 to 3 of Schedule 1AAA of the Crown Entities Act 2004 (the CEA transitional schedule) apply to Schedule 4 organisations and Schedule 4A companies, except that references in clause 1 of the CEA transitional schedule to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
+(2) If new section 139 of the Crown Entities Act 2004 applies to a Schedule 4 organisation or a Schedule 4A company, then clause 4 of the CEA transitional schedule also applies to the organisation or company, except that references in that clause to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
+
+### 7 Exception to section 45OA(1)(g) for Crown Fibre Holdings Limited in respect of certain subsidiaries
+(1) Despite section 45OA(1)(g), section 97 of the Crown Entities Act 2004 (which sets out rules that apply to a parent Crown entity in respect of its subsidiaries) does not apply to Crown Fibre Holdings Limited in respect of a specified subsidiary.
+(2) For the purposes of subclause (1), specified subsidiary means a subsidiary that, on the commencement date, is a company with no shareholders other than—
+  (a) Crown Fibre Holdings Limited; and
+  (b) the Crown; and
+  (c) 1 of the following:
+    (i) Chorus Limited:
+    (ii) Enable Services Limited:
+    (iii) Northpower Limited:
+    (iv) Waikato Networks Limited:
+    (v) a wholly owned subsidiary of Chorus Limited, Enable Services Limited, Northpower Limited, or Waikato Networks Limited.
+(3) This clause is repealed on the close of 30 June 2021.
+
+### 8 Application of Crown Entities Act 2004 to Tāmaki Redevelopment Company Limited's statement of intent for 2013/14 financial year
+(1) Despite new section 45OA(1)(n),—
+  (a) sections 138 to 144, 145(a) and (b), and 146 of the Crown Entities Act 2004 do not apply to TRCL's first statement of intent; and
+  (b) sections 145(c) and 149—
+    (i) do not apply to TRCL's first statement of intent; but
+    (ii) apply to an amendment to TRCL's first statement of intent.
+(2) If TRCL's first statement of intent includes information described in section 141(1)(b), (c), (d), (f), (g), or (h) or section 142(1)(b) (a specified provision) of the Crown Entities Act 2004, section 147 of that Act applies as if the information were included in TRCL's first statement of intent under the specified provision.
+(3) In this clause, TRCL's first statement of intent means Tāmaki Redevelopment Company Limited's statement of intent for the 2013/14 financial year.
 
 ## Schedule 2 — Enactments repealed
 
@@ -1919,15 +2075,9 @@ The enactments specified in Schedule 2 are hereby repealed.
 |  | 139 | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
-| Crown Asset Management Limited |  |  |  |  |  |  |  |  |
-| Crown Fibre Holdings Limited |  |  |  |  |  |  |  |  |
-| Dispute Resolution Services Limited |  |  |  |  |  |  |  |  |
-| Health Benefits Limited |  |  |  |  |  |  |  |  |
 | Leadership Development Centre Trust |  |  |  |  |  |  |  |  |
-| Learning State Limited |  |  |  |  |  |  |  |  |
 | the Māori Trustee |  |  |  |  |  |  |  |  |
 | National Pacific Radio Trust |  |  |  |  |  |  |  |  |
-| The Network for Learning Limited |  |  |  |  |  |  |  |  |
 | New Zealand Fish and Game Council and Fish and Game Councils |  |  |  |  |  |  |  |  |
 | New Zealand Game Bird Habitat Trust Board |  |  |  |  |  |  |  |  |
 | New Zealand Government Property Corporation |  |  |  |  |  |  |  |  |
@@ -1935,14 +2085,24 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Ngai Tahu Ancillary Claims Trust |  |  |  |  |  |  |  |  |
 | Pacific Co-operation Foundation |  |  |  |  |  |  |  |  |
 | Pacific Island Business Development Trust |  |  |  |  |  |  |  |  |
-| Research and Education Advanced Network New Zealand Limited |  |  |  |  |  |  |  |  |
 | Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |
 | Road Safety Trust |  |  |  |  |  |  |  |  |
 | Sentencing Council |  |  |  |  |  |  |  |  |
-| Southern Response Earthquake Services Limited |  |  |  |  |  |  |  |  |
-| Tāmaki Redevelopment Company Limited |  |  |  |  |  |  |  |  |
 | Te Ariki trust |  |  |  |  |  |  |  |  |
-| Transferee companies under the New Zealand Railways Corporation Restructuring Act 1990 in which the Crown holds 50% or more of the issued ordinary shares |  |  |  |  |  |  |  |  |
+
+## Schedule 4A — Non-listed companies in which Crown is majority or sole shareholder
+
+| Company | Sections of Crown Entities Act 2004 (relating to financial powers) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 161 | 162 | 163 | 164 | 165 |
+| Crown Asset Management Limited |  | ✓ | ✓ | ✓ |  |
+| Crown Fibre Holdings Limited |  |  |  |  |  |
+| Dispute Resolution Services Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
+| The Network for Learning Limited |  |  |  |  |  |
+| Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Southern Response Earthquake Services Limited | ✓ | ✓ |  | ✓ |  |
+| Tāmaki Redevelopment Company Limited | ✓ | ✓ | ✓ | ✓ |  |
 
 ## Schedule 5 — Mixed ownership model companies
 
