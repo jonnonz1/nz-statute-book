@@ -1,5 +1,5 @@
 # Clerk of the House of Representatives Act 1988
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-18_
 
 > An Act to provide for the appointment of the Clerk of the House of Representatives and of other officers of the House of Representatives, and to establish, by Act of Parliament, the Office of the Clerk of the House of Representatives
 
@@ -89,8 +89,9 @@ The Clerk of the House of Representatives shall be the principal officer of the 
 ### 16 Responsibility of Clerk
 The Clerk of the House of Representatives shall be responsible to the Speaker of the House of Representatives, on behalf of the House, for the efficient, effective, and economic management of the Office of the Clerk of the House of Representatives.
 
-### 17 Functions of State Services Commission in relation to Office
-(1) The State Services Commission may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the State Services Commission by section 6 of the State Sector Act 1988.
+### 17 Functions of State Services Commissioner in relation to Office
+(1) The State Services Commissioner may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the State Services Commissioner by section 6 of the State Sector Act 1988.
+(1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Office of the Clerk of the House of Representatives and its separation from the executive government.
 (2) For the purposes of this section, section 6 of the State Sector Act 1988 shall apply with all necessary modifications and as if the Office of the Clerk of the House of Representatives were a department within the meaning of that Act and as if the Clerk of the House of Representatives were the chief executive of that department.
 (3) The Clerk of the House of Representatives must consult the State Services Commissioner before issuing any code of conduct in the exercise of his or her functions under section 3(d).
 (4) The State Services Commissioner may advise the Speaker of the House of Representatives on any matter concerning ethics, values, and standards in relation to the Office of the Clerk.
