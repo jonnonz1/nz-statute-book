@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 > Title
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
     (a) the bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
     (b) any other securities that are for the time being approved by the Minister for the purposes of this Act
   - **Corporation** means Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1)
-  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **existing company** —
     (a) means HNZ or Community Housing Limited (a company that on the commencement of the Housing Corporation Amendment Act 2001 was duly incorporated under the Companies Act 1993); and
     (b) includes any subsidiary (within the meaning of the Companies Act 1993) of an existing company
@@ -64,7 +64,7 @@ The Corporation's objectives are—
   (c)
 
 ### 3C Communication of the Crown's social objectives
-(1) To enable the Corporation to achieve the objective stated in section 3B(a) and to prepare its statements of intent, the Minister must, at least 2 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
+(1) To enable the Corporation to achieve the objective stated in section 3B(a) and to prepare or review its statements of intent, the Minister must, at least 3 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
 (2) Each of the Corporation's statements of intent must state—
   (a) the objectives most recently notified by the Minister; and
   (b) the steps that the group comprising the Corporation and any Crown entity subsidiaries proposes to take in the financial year concerned and the next 2 financial years to achieve those objectives.
