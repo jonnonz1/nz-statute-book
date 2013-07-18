@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-07-18_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -11,10 +11,10 @@ _Consolidation as at 2011-02-01_
 In this Act, unless the context otherwise requires,—
   - **board** , in relation to a Crown Research Institute or a Crown entity subsidiary of a Crown Research Institute, has the same meaning as in section 127 of the Companies Act 1993
   - **constitution** , in relation to a Crown Research Institute, means the constitution of the Crown Research Institute under section 29 of the Companies Act 1993
-  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **Crown Research Institute** means a company established as a Crown Research Institute under section 11
   - **multi-parent subsidiary** has the same meaning as in section 10 of the Crown Entities Act 2004
-  - **parent Crown Research Institute** has the same meaning as in section 8(1) of the Crown Entities Act 2004, with any necessary modifications
+  - **parent Crown Research Institute** has the same meaning as in section 8 of the Crown Entities Act 2004, with any necessary modifications
   - **research** means scientific research; and includes scientific development and related services
   - **responsible Minister** means,—
     (a) in relation to a Crown Research Institute, the Minister of Finance and the other shareholding Minister or Ministers:
