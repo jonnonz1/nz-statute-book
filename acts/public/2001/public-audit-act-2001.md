@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -296,7 +296,7 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 (2) The Speaker must present the draft annual plan to the House of Representatives as soon as reasonably practicable.
 (3) The Auditor-General, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft annual plan, may amend the plan as the Auditor-General thinks necessary but must indicate in the plan the nature of any changes to the Auditor-General’s work programme priorities requested by the Speaker or any committee of the House of Representatives but not included in the plan.
 (4) The Auditor-General must present a completed annual plan to the Speaker before the beginning of each financial year and the Speaker must then present it to the House of Representatives.
-(5) If the annual plan is completed in time, the Auditor-General may include it with the final information about the Auditor-General’s future operating intentions that the Auditor-General must provide to the Speaker under section 45G(1)(c) of the Public Finance Act 1989.
+(5)
 
 ### 37 Annual report of Auditor-General
 (1) As soon as practicable after the end of each financial year, the Auditor-General must prepare and present an annual report to the House of Representatives in accordance with section 43 of the Public Finance Act 1989.
