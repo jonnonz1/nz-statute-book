@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -445,7 +445,7 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
 (3) Despite sections 21 and 22, the following provisions do not apply to a member of the armed forces, or an officer who is not also a constable:
   (a) section 18 of the Misuse of Drugs Act 1975 (which confers powers of search and seizure):
   (b) section 13A of the Misuse of Drugs Amendment Act 1978 (which confers powers in relation to internal concealment):
-  (c) sections 56 to 58 of the Misuse of Drugs Amendment Act 2005 (which confer enforcement powers in relation to restricted substances):
+  (c)
   (d) section 23 of the Search and Surveillance Act 2012 (which confers powers in relation to internal searches):
   (e) sections 48 and 49 of the Search and Surveillance Act 2012 (which confer powers in relation to surveillance devices).
 
