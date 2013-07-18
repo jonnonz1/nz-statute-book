@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2778,7 +2778,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
   (b)
   (c) the name and address of the person to whom all correspondence from the members should be sent.
 (1A) The annual report must also include (in addition to any other requirements)—
-  (a) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Authority (if any), and comprising the same statements that are required by section 42(2) of the Public Finance Act 1989 as if the Fund were a Crown entity; and
+  (a) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Authority (if any); and
   (b) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Authority's expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
   (c) a statement of the investment policies, standards, and procedures for the Fund established by the Authority under section 15L; and
   (d) a statement, signed by the chairperson of the board and the chief executive of the Authority (if any), certifying whether or not the investment policies, standards, and procedures for the Fund have been complied with throughout that financial year; and
