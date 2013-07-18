@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-07-12_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -116,6 +116,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) a department of State:
     (c) a Crown entity (as defined in section 7 of the Crown Entities Act 2004):
     (ca) an organisation named or described in Schedule 4 of the Public Finance Act 1989:
+    (cb) a company named in Schedule 4A of the Public Finance Act 1989:
     (d) a State enterprise (as defined in section 2 of the State-Owned Enterprises Act 1986):
     (e) a local authority:
     (f) a council-controlled organisation
