@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -20,7 +20,7 @@ The purpose of this Act is to—
 In this Act, unless the context otherwise requires,—
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
-    (b) includes an organisation named or described in Schedule 4 of the Public Finance Act 1989
+    (b) includes an organisation named or described in Schedule 4, or a company named in Schedule 4A, of the Public Finance Act 1989
   - **Crown organisation** means a Crown entity, government department, or government-related organisation
   - **government department** means a government department named in Schedule 1 of the State Sector Act 1988
   - **government-related organisation** means—
