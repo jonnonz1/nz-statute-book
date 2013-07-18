@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -515,6 +515,7 @@ The Parliamentary Service Commission is a public entity as defined in section 4 
 
 ### 15 Functions of State Services Commissioner in relation to Parliamentary Service
 (1) The State Services Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the State Services Commissioner by section 6 of the State Sector Act 1988.
+(1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
 (2) For the purposes of this clause, section 6 of the State Sector Act 1988 applies, with all necessary modifications, as if—
   (a) the Service were a department; and
   (b) the General Manager of the Service were the chief executive of that department.
