@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2013-06-30_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -488,10 +488,12 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 ### 45 Restrictions on some trespass surveillance and use of interception device
 (1) Nothing in this subpart authorises any enforcement officer to undertake trespass surveillance (other than by means of a tracking device) except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 44, 45, 50, 51, 54, or 55 of the Arms Act 1983.
+  (b) against section 44, 45, 50, 51, 54, or 55 of the Arms Act 1983; or
+  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 (2) Nothing in this subpart authorises any enforcement officer to use an interception device except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 44, 45, 50, 51, 54, or 55 of the Arms Act 1983.
+  (b) against section 44, 45, 50, 51, 54, or 55 of the Arms Act 1983; or
+  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 
 **Surveillance device warrants**
 
@@ -3711,6 +3713,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 45(1) | Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against section 49(1) or (2) of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence | All (except sections 118 and 119) |
 |  | 45(2) | Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that, as consequence of inspection of place of business under section 44 of Pork Industry Board Act 1997, there are reasonable grounds to believe that there are certain documents relating to levy money or slaughter of pigs, or pork products from pigs subject to that levy, at that place | All (except sections 118 and 119) |
 | Prostitution Reform Act 2003 | 30(1) | Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against section 23 or 34 of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence | All |
+| Psychoactive Substances Act 2013 | 77 | Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except subpart 3) |
+|  | 79 | Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against Psychoactive Substances Act 2013 | All (except sections 118 and 119 apply to constables only) |
 | Radiation Protection Act 1965 | 24(2) | Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against Radiation Protection Act 1965 may obtain and execute search warrant | All (except that sections 118 and 119 apply to constables only) |
 | Radiocommunications Act 1989 | 120 | Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against Radiocommunications Act 1989 or any regulations made under section 134(1)(g) of that Act | All (except sections 118 and 119) |
 | Reserve Bank of New Zealand Act 1989 | 66I | Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under Reserve Bank of New Zealand Act 1989 | All (except sections 118 and 119) |
