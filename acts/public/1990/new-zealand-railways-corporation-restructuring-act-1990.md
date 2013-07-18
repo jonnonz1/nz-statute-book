@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Restructuring Act 1990
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-07-18_
 
 > An Act to enable the New Zealand Railways Corporation to be restructured, to provide for the vesting in companies incorporated under the Companies Act 1955 and in the Crown of railways assets and liabilities, to amend the New Zealand Railways Corporation Act 1981, and to provide for related matters
 
@@ -71,7 +71,7 @@ This Act binds the Crown.
 (5A) If the Crown transferee company is registered under the Companies Act 1955 and is a private company, the Ministers and their nominees shall, on the date specified in the Order in Council, resolve to increase the capital of the company to the amount specified in the order and shall subscribe for shares of the kind, number, nominal value, and terms as may be specified in the order, which shall be deemed to be paid up to the extent specified in the order.
 (5B) If the Crown transferee company is a company registered under the Companies Act 1993, the board of the company shall, on the date specified in the Order in Council, issue to the Ministers in equal proportions, credited as paid up to the extent specified in the order, shares of such kind, number, terms, and for such consideration as are specified in the order.
 (5C) On the date specified in the Order in Council, the Crown transferee company shall issue to the Minister of Finance debt securities of such kind, number, nominal value, and terms as are specified in the order.
-(6) Nothing in subsections (1)(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of shares issued pursuant to subsection (5) or subsection (5A) of this Act.
+(6) Nothing in subsections (1)﻿(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of shares issued pursuant to subsection (5) or subsection (5A) of this Act.
 (7) Nothing in this section prevents railways assets or railways liabilities vesting in a Crown transferee company for a consideration other than the issue of equity securities or debt securities.
 (8) Assets that have been fixed to, or placed under or over, any land may vest in the Crown or in a Crown transferee company under this Act notwithstanding that no interest in the land also vests in the Crown or in the Crown transferee company, as the case may be, under this Act, and in any such case—
   (a) the assets and the land shall be regarded as separate assets each capable of separate ownership; and
@@ -150,13 +150,7 @@ Where the rights and liabilities arising under a contract of service between a w
 [Repealed]
 
 ### 18 Application of Public Finance Act 1989
-(1) Every transferee company in which the Crown holds 50% or more of the issued ordinary shares is, for the purposes of subpart 2 of Part 5 of the Public Finance Act 1989, an organisation named or described in Schedule 4 of that Act.
-(2) Notwithstanding sections 163 to 165 of the Companies Act 1955 or sections 196 to 203 of the Companies Act 1993, as the case may be, the Auditor-General shall be the auditor of every transferee company to which subsection (1) relates, and of every subsidiary of any such transferee company, and, for the purposes of the Companies Act 1955 or the Companies Act 1993, as the case may be, shall have and may exercise the functions, duties, and powers of an auditor appointed under the Companies Act 1955 or the Companies Act 1993 and all such powers as it has under the Public Finance Act 1977 in respect of public money and public stores.
-(3) Without limiting the provisions of subsection (2), the board of a transferee company may, after consultation with the Auditor-General and if the Ministers so approve, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the transferee company or any subsidiary thereof.
-(4) On the date specified in any Order in Council made under section 19(2),—
-  (a) the Auditor-General shall cease to be the auditor of the transferee company and every subsidiary of the transferee company:
-  (b) any person or firm holding office as an additional auditor of the transferee company or any subsidiary of the transferee company under subsection (3) shall cease to hold that office:
-  (c) the directors of the transferee company and of every subsidiary of the transferee company shall appoint an auditor or auditors of the transferee company and every subsidiary of the transferee company, and every such appointment shall be deemed to have been made by the directors to fill a casual vacancy in the office of auditor under section 163(5) of the Companies Act 1955 or section 196(4) of the Companies Act 1993, as the case may be.
+[Repealed]
 
 ### 18A Half-yearly reports
 (1) Within 2 months after the end of the first half of each financial year of every transferee company in which the Crown holds 50% or more of the issued ordinary shares, the board of the company shall deliver to Ministers a report of its operations during that half-year.
@@ -165,7 +159,7 @@ Where the rights and liabilities arising under a contract of service between a w
 ### 19 Application of Ombudsmen Act 1975 and Official Information Act 1982
 (1) Every transferee company in which the Crown holds 50% or more of the ordinary shares shall be deemed to be—
   (a) a person named in Part 2 of Schedule 1 of the Ombudsmen Act 1975; and
-  (b) a person named in Schedule 1 of the Official Information Act 1982; and
+  (b) a person named in Schedule 1 of the Official Information Act 1982.
   (c)
 (2) For the purposes of this section, a date specified by the Governor-General, by Order in Council, as the date on which the Crown ceased to hold 50% or more of the ordinary shares in a transferee company shall be taken to be the date on which the Crown ceased to hold those shares.
 
@@ -213,7 +207,7 @@ For the purposes of this section and sections 23, 24, and 26,—
 (5) The person to whom an offer is made may, within 20 working days after receipt of the offer, give notice in writing to the transferee company or railway operator that that person requires the current market value of the land to be determined by the Land Valuation Tribunal and the transferee company or railway operator, as the case may be, shall, on receipt of the notice, refer the matter to that Tribunal for determination.
 (6) If—the transferee company or the railway operator may sell or otherwise dispose of the land to any person on such terms and conditions as it thinks fit.
   (a) an offer made under subsection (4) is not accepted within 40 working days after the making of the offer, or if an application has been made to the Land Valuation Tribunal, within 20 working days after the determination of the Tribunal, whichever is later, and the parties have not agreed on other terms for the sale of the land; or
-  (b) the Director-General gives notice to the transferee company or railway operator under subsection (4)(a) or subsection (4)(b);—
+  (b) the Director-General gives notice to the transferee company or railway operator under subsection (4)﻿(a) or subsection (4)﻿(b);—
 (7) Nothing in this section applies—
   (a) in relation to affected land that was acquired from a local authority; or
   (b) in a case where the successor of the person from whom any affected land was acquired is a local authority.
@@ -230,24 +224,24 @@ For the purposes of this section and sections 23, 24, and 26,—
 (2) Every transfer or other disposition to which subsection (1) applies, shall be deemed to be subject to a condition that—
   (a) the land being transferred or disposed of shall be held in one certificate of title with the owner's adjoining land; or
   (b) where subsection (4) applies, a covenant shall be entered into between the owner of the adjoining land and the territorial authority that the land being transferred or disposed of shall not, otherwise than in accordance with a subdivision consent under the Resource Management Act 1991, be transferred, leased, or otherwise disposed of except in conjunction with the owner's adjoining land.
-(3) The Corporation, transferee company, or the railway operator (as the case may be) shall consult with the District Land Registrar as to the practicality of a condition of a kind referred to in subsection (2)(a).
-(4) If the District Land Registrar advises the Corporation, transferee company, or railway operator (as the case may be) that a condition of a kind referred to in subsection (2)(a) is not practical, then any transfer or disposal of land to which subsection (1) applies shall be deemed to be subject to a condition of a kind referred to in subsection (2)(b).
-(5) Every condition of a kind referred to in subsection (2)(a) or (b) shall be endorsed on the survey plan giving effect to the subdivision to which subsection (1) applies, and the District Land Registrar shall not deposit that survey plan unless—
-  (a) he or she is satisfied that any condition of the kind referred to in subsection (2)(a) has been complied with as fully as may be possible in the office of the Registrar; or
-  (b) a covenant of a kind referred to in subsection (2)(b) has been lodged for registration.
-(6) Where a condition of a kind referred to in subsection (2)(a) has been complied with—
+(3) The Corporation, transferee company, or the railway operator (as the case may be) shall consult with the District Land Registrar as to the practicality of a condition of a kind referred to in subsection (2)﻿(a).
+(4) If the District Land Registrar advises the Corporation, transferee company, or railway operator (as the case may be) that a condition of a kind referred to in subsection (2)﻿(a) is not practical, then any transfer or disposal of land to which subsection (1) applies shall be deemed to be subject to a condition of a kind referred to in subsection (2)﻿(b).
+(5) Every condition of a kind referred to in subsection (2)﻿(a) or (b) shall be endorsed on the survey plan giving effect to the subdivision to which subsection (1) applies, and the District Land Registrar shall not deposit that survey plan unless—
+  (a) he or she is satisfied that any condition of the kind referred to in subsection (2)﻿(a) has been complied with as fully as may be possible in the office of the Registrar; or
+  (b) a covenant of a kind referred to in subsection (2)﻿(b) has been lodged for registration.
+(6) Where a condition of a kind referred to in subsection (2)﻿(a) has been complied with—
   (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually or being held under separate certificates of title, otherwise than in accordance with a subdivision consent under the Resource Management Act 1991; and
   (b) on the issue of a certificate of title, the District Land Registrar shall enter on the certificate of title a memorandum that the land is subject to this subsection.
-(7) Every covenant of a kind referred to in subsection (2)(b) shall be in writing, be signed by the owner of the adjoining land, have affixed to it the common seal of the territorial authority, and be deemed—
+(7) Every covenant of a kind referred to in subsection (2)﻿(b) shall be in writing, be signed by the owner of the adjoining land, have affixed to it the common seal of the territorial authority, and be deemed—
   (a) to be an instrument capable of registration under the Land Transfer Act 1952, and, when so registered, to create in favour of the territorial authority an interest in the land, in respect of which it is registered, within the meaning of section 62 of that Act; and
   (b) to run with the land and bind subsequent owners.
 (8) The territorial authority may at any time, after a survey plan giving effect to a subdivision to which subsection (1) applies has been deposited in the Land Registry Office, cancel in whole or in part—
-  (a) any condition of a kind referred to in subsection (2)(a); or
-  (b) any covenant of a kind referred to in subsection (2)(b).
+  (a) any condition of a kind referred to in subsection (2)﻿(a); or
+  (b) any covenant of a kind referred to in subsection (2)﻿(b).
 (9) Where a territorial authority cancels, in whole or in part, a condition or covenant in accordance with subsection (8), the territorial authority shall forward an authenticated copy of the resolution of the territorial authority cancelling or partially cancelling that condition or covenant to the District Land Registrar, who shall note the records accordingly.
 (10) Where—the land being transferred or disposed of shall be deemed to be and always to have been part of the adjoining land that is subject to that instrument; and all rights and obligations in respect of, and encumbrances on, that adjoining land shall be deemed also to be rights and obligations in respect of or encumbrances on, the land being transferred or disposed of; and the District Land Registrar shall enter upon all relevant certificates of title a memorandum to the effect that the land therein is subject to this subsection.
   (a) for the purpose of complying with conditions of a kind referred to in subsection (2)—
-    (i) a covenant of a kind referred to in subsection (2)(b) is registered in accordance with this section; or
+    (i) a covenant of a kind referred to in subsection (2)﻿(b) is registered in accordance with this section; or
     (ii) the land being transferred or disposed of is amalgamated in one certificate of title with adjoining land in accordance with this section; and
   (b) the adjoining land is already subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation of purchase is lawfully conferred or imposed; and
   (c) that power, right, or obligation becomes exercisable but is not able to be exercised or fully exercised because of subsection (5) or subsection (6)—
@@ -314,7 +308,7 @@ The enactments specified in Schedule 4 are hereby repealed.
 (2) Subsection (1) shall not apply in relation to any piece of land or interest in land that is excluded from section 39 by subsection (2) or subsection (3) of that section.
 
 ### 39 Resumption of land on recommendation of Waitangi Tribunal
-(1) Where the Waitangi Tribunal has, under section 8A(2)(a) of the Treaty of Waitangi Act 1975 (as applied by section 8HJ of that Act), recommended the return to Maori ownership of any land or interest in land that, immediately before being vested in a Crown transferee company pursuant to section 6 of this Act, was, land owned by the Crown or an interest owned by the Crown in land, as the case may be, that land or interest in land shall, if the recommendation has been confirmed with or without modifications under section 8B of that Act (as so applied) be resumed by the Crown in accordance with section 40 of this Act and returned to Maori ownership.
+(1) Where the Waitangi Tribunal has, under section 8A(2)﻿(a) of the Treaty of Waitangi Act 1975 (as applied by section 8HJ of that Act), recommended the return to Maori ownership of any land or interest in land that, immediately before being vested in a Crown transferee company pursuant to section 6 of this Act, was land owned by the Crown or an interest owned by the Crown in land, as the case may be, that land or interest in land shall, if the recommendation has been confirmed with or without modifications under section 8B of that Act (as so applied) be resumed by the Crown in accordance with section 40 of this Act and returned to Maori ownership.
 (2) This section shall not apply in relation to any piece of land that, at the date of its vesting in a Crown transferee company under section 6, was subject to—
   (a) a deferred payment licence issued under the Land Act 1948; or
   (b) a lease under which the lessee had the right of acquiring the fee simple.
@@ -343,7 +337,7 @@ Amendment(s) incorporated in the Act(s).
 ## Schedule 1 — Application of New Zealand Railways Corporation Act 1981 to railway operators
 
 ### 1
-Sections 115, and 116 of the New Zealand Railways Corporation Act 1981 shall apply to a railway operator and to every railway or service operated by a railway operator in the same way as they apply in relation to the Corporation and to the Corporation railway. Notwithstanding the foregoing provisions of this clause, nothing in paragraphs (f) to (l) of subsection (1) of section 115 of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operator that is not a Crown transferee company.
+Sections 115 and 116 of the New Zealand Railways Corporation Act 1981 shall apply to a railway operator and to every railway or service operated by a railway operator in the same way as they apply in relation to the Corporation and to the Corporation railway. Notwithstanding the foregoing provisions of this clause, nothing in paragraphs (f) to (l) of subsection (1) of section 115 of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operator that is not a Crown transferee company.
 
 ### 2
 Section 35(4) of the New Zealand Railways Corporation Act 1981 shall apply in relation to every railway operator in the same way as it applies in relation to the Corporation but as if the words as provided in this section were omitted.
@@ -372,7 +366,7 @@ The Corporation and officers of the Corporation shall have the same responsibili
 | “(ii) | a statement that the land is to be resumed under section 40 of the New Zealand Railways Corporation Restructuring Act 1990 pursuant to a recommendation of the Waitangi Tribunal; and”. |
 | --- | --- |
 
-| “(1) | After the expiration of the period of 20 working days specified in the notice served under section 23(1)(c) of this Act, the land intended to be taken shall be taken in the following manner: |  |  |
+| “(1) | After the expiration of the period of 20 working days specified in the notice served under section 23(1)﻿(c) of this Act, the land intended to be taken shall be taken in the following manner: |  |  |
 | --- | --- | --- | --- |
 |  | “(a) | subject to the provisions of section 32 of this Act— |  |
 |  |  | “(i) | a survey plan shall be prepared, in duplicate, showing accurately the position and extent of the land proposed to be taken; and |
