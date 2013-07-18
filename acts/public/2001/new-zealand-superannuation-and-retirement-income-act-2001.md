@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -367,7 +367,7 @@ The Fund consists of—
 (2) The Guardians must maintain and operate the accounts in accordance with any directions given by the Minister or the Treasury.
 (2A) Sections 114 and 115 of the Crown Entities Act 2004 do not apply to a direction under subsection (2).
 (3) The Guardians must ensure that the accounts are not overdrawn at any time.
-(4) The Public Finance Act 1989 (except sections 65I, 65J, 79, and 80) applies to the accounts with necessary modifications.
+(4) The Public Finance Act 1989 (except sections 65I, 65ZH(1)(g) and (h), 79, and 80) applies to the accounts with necessary modifications.
 (5) Money in the accounts is public money for the purpose of the Public Finance Act 1989. Other Fund money is not public money for that purpose.
 
 ### 40 Ownership of Fund
@@ -495,7 +495,7 @@ Schedule 3 applies to the board and its members.
   (a) the entity is a subsidiary of the Fund; or
   (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
-(4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of section 8 of the Crown Entities Act 2004).
+(4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)(c) of the Crown Entities Act 2004).
 
 ### 60 Establishment of investment policies, standards, and procedures
 (1) The Guardians must establish, and adhere to, investment policies, standards, and procedures for the Fund that are consistent with their duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
@@ -532,8 +532,10 @@ A statement of investment policies, standards, and procedures must cover (but is
 
 ### 64 Ministerial directions
 (1) The Minister may, after consultation with the Guardians, give directions to the Guardians regarding the Government’s expectations as to the Fund’s performance, including the Government’s expectations as to risk and return.
-(2) The Minister must not give a direction that is inconsistent with the Guardians’ duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
-(3) Despite section 104 of the Crown Entities Act 2004 the Minister may not give a direction to the Guardians in respect of the Fund except in accordance with this section.
+(2) Despite anything to the contrary in the Crown Entities Act 2004, the Minister—
+  (a) must not give a direction that is inconsistent with the Guardians’ duty to invest the Fund on a prudent, commercial basis, in accordance with section 58; and
+  (b) must not give a direction to the Guardians in respect of the Fund except in accordance with this section.
+(3)
 (4)
 (5)
 (6) The Guardians must notify the Minister of how the entity proposes to have regard to any direction.
