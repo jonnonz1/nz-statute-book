@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -40,7 +40,7 @@ _Consolidation as at 2013-07-01_
   - **craft** means any form of aircraft, ship, or other vehicle or vessel capable of being used to transport any substance to or from New Zealand from or to any country outside New Zealand
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
-    (b) includes an organisation named or described in Schedule 4 of the Public Finance Act 1989
+    (b) includes an organisation named or described in Schedule 4, or a company named in Schedule 4A, of the Public Finance Act 1989
   - **Customs officer** means any person holding office as a Customs officer appointed under the Customs and Excise Act 1996
   - **department** has the same meaning as in section 2 of the State Sector Act 1988
   - **develop** ,—
@@ -1015,7 +1015,7 @@ In sections 49B to 49K,—
   - **agricultural compound** means an agricultural compound (as defined in section 2(1) of the Agricultural Compounds and Veterinary Medicines Act 1997) that is or contains a hazardous substance or a new organism
   - **government agency** means—
     (a) a department specified in Schedule 1 of the State Sector Act 1988:
-    (b) a Crown entity specified in Schedule 4 of the Public Finance Act 1989
+    (b) a Crown entity specified in Schedule 4 or 4A of the Public Finance Act 1989
   - **interested government agency** means a government agency that, in the opinion of the Authority, is likely to have an interest in the approval of an agricultural compound or medicine in a special emergency
   - **medicine** means a medicine (as defined in section 3 of the Medicines Act 1981) that is or contains a hazardous substance or new organism
   - **responsible Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of—
