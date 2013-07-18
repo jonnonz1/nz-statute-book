@@ -1,5 +1,5 @@
 # Radio New Zealand Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 > An Act to facilitate the restructuring of Radio New Zealand Limited
 
@@ -11,7 +11,7 @@ _Consolidation as at 2013-07-01_
 In this Act, unless the context otherwise requires,—
   - **Charter** means the Charter of the public radio company as expressed in section 7
   - **constitution** means the articles of association and the memorandum of association of the public radio company while the public radio company is registered under the Companies Act 1955, and the constitution of the public radio company when the public radio company is registered under the Companies Act 1993
-  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **existing company** means the company that, at the commencement of this Act, is the State enterprise known as Radio New Zealand Limited
   - **governor** means any person who is appointed as a director of the public radio company in accordance with section 14
   - **public radio company** means the company that, at the commencement of this Act, is known as New Zealand Public Radio Limited
