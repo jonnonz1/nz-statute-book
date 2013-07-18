@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-07-18_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -527,12 +527,15 @@ There shall continue to be a department of State, to be known as the Inland Reve
 (4) An order made under subsection (1) becomes binding on the Commissioner on the 7th day after the date on which it is made.
 
 ### 7 Delegation of powers by Commissioner
-(1) The Commissioner may from time to time, either generally or particularly, by writing under the Commissioner's hand, delegate to such officer or officers of the department as the Commissioner thinks fit all or any of the powers of the Commissioner, except this power of delegation.
-(2) Subject to any general or special directions given or conditions imposed from time to time by the Commissioner, the officer to whom any powers are delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on the officer directly by this section and not by delegation.
-(3) Every officer purporting to act under any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(4) Any delegation under this section may be made to any specified officer, or to officers of a specified class, or to the holder or holders for the time being of a specified office or class of offices.
-(5) Unless and until any delegation under this section is revoked, it shall continue in force according to its tenor. In the event of the Commissioner by whom any such delegation is made ceasing to hold office that delegation shall, subject to subsection (6), continue in force according to its tenor.
-(6) Every delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Commissioner.
+(1) The Commissioner may delegate in accordance with sections 41 and 42 of the State Sector Act 1988 any of the Commissioner's functions or powers under this Act or any other Act (including functions or powers delegated to the Commissioner under this Act or any other Act), except that—
+  (a) the delegation of functions or powers delegated to the Commissioner by a Minister requires the prior written approval of that Minister; and
+  (b) the delegation of functions or powers delegated to the Commissioner by the State Services Commissioner requires the prior written approval of the State Services Commissioner.
+(2) However, the Commissioner may not delegate to a person outside the Public Service (as described in section 41(2A) of the State Sector Act 1988) any of the following functions or powers:
+  (a) the Commissioner’s functions or powers in relation to obtaining information from and about taxpayers (sections 16 to 21 of this Act); and
+  (b) the Commissioner’s functions or powers in relation to imposing civil and criminal penalties on taxpayers in various circumstances (Part 9 of this Act, subpart 3 of Part 4 of the Student Loan Scheme Act 2011, and Part 12 of the Child Support Act 1991); and
+  (c) the Commissioner’s functions or powers in relation to deducting amounts from payments due (section 157 of this Act, section 193 of the Student Loan Scheme Act 2011 but in respect only of the powers in section 157 of this Act, and section 154 of the Child Support Act 1991); and
+  (d) the Commissioner’s functions or powers in relation to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand (Part 10A of this Act).
+(3) Sections 41 and 42 of the State Sector Act 1988 apply to delegations under this section as if those delegations were made under section 41(1) of that Act.
 
 ### 7A Authorisation to take securities
 (1) The Commissioner may—
