@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-07-18_
 
 > An Act to reform the administration of education
 
@@ -1834,7 +1834,7 @@ The purpose of this Part is to provide for a range of interventions that may be 
 
 ### 78NA No compensation for loss of office
 (1) A trustee is not entitled to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office as a trustee.
-(2) A board must ensure, to the extent of its powers, that each of its Crown entity subsidiaries does not pay directors of the subsidiary any compensation or other payment or benefit, on any basis, for ceasing for any reason to hold office.
+(2) A board must ensure, to the extent that it is reasonably able to do so, that each of its Crown entity subsidiaries does not pay directors of the subsidiary any compensation or other payment or benefit, on any basis, for ceasing for any reason to hold office.
 (3) However, subsections (4) and (5) apply to a person who is entitled, at the commencement of this section under any contract or arrangement, to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office.
 (4) The entitlement is not affected by the enactment of this section.
 (5) The entitlement is cancelled on the date of reappointment of the trustee or director or of the member to the committee (if any).
@@ -8424,7 +8424,7 @@ Despite anything in this Part, a person may use or disclose his or her own natio
 | Section 10 | Interpretation |
 | Section 99 | Application to multi-parent subsidiaries |
 | Section 102 | Interface with Companies Act 1993 and other Acts |
-| Section 107 | Whole of government directions |
+| Section 107 | Directions under section 107 |
 | Section 113 | Safeguarding independence of Crown entities |
 | Section 114 | Crown entity must comply with directions given under statutory power of direction |
 | Section 115 | Procedure for all Ministerial directions |
@@ -8509,8 +8509,8 @@ In clauses 1B to 1E, unless the context otherwise requires,—
     (a) means the other party to the transaction, if the act of the board is a transaction; and
     (b) includes a person who has acquired property, rights, or interests from a board.
 
-### 1G Whole of government directions
-(1) A board must comply with any whole of government direction given under section 107 of the Crown Entities Act 2004.
+### 1G Directions under section 107 of Crown Entities Act 2004
+(1) A board must comply with any direction given under section 107 of the Crown Entities Act 2004.
 (2) The board may be dissolved under section 78I(1)﻿(e) if it does not.
 
 ### 2 Boards exempt from taxation
