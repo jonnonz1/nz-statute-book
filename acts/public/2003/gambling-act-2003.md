@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -2806,7 +2806,7 @@ Schedule 4 applies to the Lotteries Commission, its board members, its procedure
 
 ### 242 Ministerial directions
 (1)
-(2) Written directions given by the Minister under subsection (1) may require the Lotteries Commission to vary or revoke any rule made under section 243 or under previous gaming Acts, or to make a new rule under that section.
+(2) Written directions given by the Minister may require the Lotteries Commission to vary or revoke any rule made under section 243 or under previous gaming Acts, or to make a new rule under that section.
 (3) The Minister must consult with the Lotteries Commission before giving a direction to it.
 (4) As soon as practicable after giving a direction under this section, the Minister must—
   (a) publish a copy of it in the Gazette; and
