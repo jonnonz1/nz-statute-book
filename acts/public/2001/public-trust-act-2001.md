@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -28,7 +28,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of Public Trust
   - **common fund** means the common fund constituted under section 48
   - **court** , in relation to any matter, means a court having jurisdiction in that matter; and includes a Judge of that court
-  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **estate** means any property administered or held, managed, or controlled by Public Trust, whether as administrator or other trustee or as guardian, committee, manager, liquidator, receiver, agent, or attorney, or in any other capacity
   - **estate money** means money forming part of an estate
   - **fiduciary** means an administrator, trustee, guardian, committee, manager, liquidator, receiver, agent, or attorney, or a fiduciary in any other capacity
