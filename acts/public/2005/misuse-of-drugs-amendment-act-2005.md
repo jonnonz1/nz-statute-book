@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 (1) This Act is the Misuse of Drugs Amendment Act 2005.
@@ -262,453 +262,155 @@ If a person is detained under section 13A of the amendment Act when this Act com
 ## Part 3 — Restricted substances
 
 ### 31 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **advertising** —
-    (a) means any words, whether written, printed, or spoken, and any pictorial representation or design, used or appearing to be used to promote the sale of a substance (including, without limitation, any sign, publication, or leaflet); and
-    (b) includes any matter referred to in paragraph (a) that is represented in an electronic or digital medium
-  - **code of manufacturing practice** means a code of practice for the manufacturing of restricted substances issued or approved under section 63
-  - **distributor** means a person engaged in the business of selling restricted substances, otherwise than at retail only
-  - **enforcement officer** means an officer appointed under section 55
-  - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
-  - **restricted substance** means a substance specified or described in Schedule 4 that is not in a preparation, concentration, form, or use exempted from being a restricted substance by regulations made under this Part
-  - **retailer** means a person engaged in any business that includes the sale of restricted substances, at retail
-  - **sale** , in relation to a restricted substance, includes every method of disposition for valuable consideration, including, without limitation,—
-    (a) bartering; and
-    (b) offering or attempting to sell or having in possession for sale, or exposing, sending, or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and
-    (c) retailing; and
-    (d) wholesaling
-  - **substance** —
-    (a) means any mixture, preparation, or article that is manufactured for the primary purpose of being administered, ingested, inhaled, or injected in order to induce a psychoactive response; but
-    (b) does not include any—
-      (i) agricultural compound or veterinary medicine (as defined in section 2(1) of the Agricultural Compounds and Veterinary Medicines Act 1997):
-      (ii) controlled drug, controlled drug analogue, or precursor substance (as defined in section 2(1) of the principal Act):
-      (iii) dietary supplement (as defined in regulation 2(1) of the Dietary Supplements Regulations 1985 (SR 1985/208)):
-      (iv) food (as defined in section 2 of the Food Act 1981):
-      (v)
-      (vi) herbal remedy (as defined in section 2(1) of the Medicines Act 1981), medicine (as defined in section 3 of that Act), or related product (as defined in section 94 of that Act):
-      (vii) liquor (as defined in section 2 of the Sale of Liquor Act 1989):
-      (viii)
-  - **supply** means distribute or give, but does not include sell.
+[Repealed]
 
 **Functions of Expert Advisory Committee on Drugs under this Part**
 
 ### 32 Functions of Expert Advisory Committee on Drugs under this Part
-The functions of the Expert Advisory Committee on Drugs (as established under section 5AA of the principal Act) in relation to this Part are—
-  (a) to carry out evaluations of substances to assess whether they should be restricted substances; and
-  (b) to make recommendations to the Minister, in accordance with section 35(2), about—
-    (i) whether a substance should or should not be restricted; and
-    (ii) if in its view a substance should be a restricted substance, the kind of prescribed restrictions or requirements (if any) that it may be appropriate to attach to the substance; and
-  (c) to increase public awareness of the Committee's work in relation to restricted substances, by (for instance) the timely release of papers, reports, and recommendations.
+[Repealed]
 
 **Scheduling restricted substances**
 
 ### 33 Amendment to Schedule 4
-(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Schedule 4 by—
-  (a) adding the name or description of any substance to Schedule 4, in order that it become a restricted substance; or
-  (b) removing the name or description of any substance from Schedule 4, in order that it no longer be a restricted substance.
-(2) An Order in Council made under subsection (1) may not come into force except in accordance with a commencement order made under section 34.
-(3) Sections 5 to 10 of the Regulations (Disallowance) Act 1989 do not apply to an Order in Council made under subsection (1).
-(4) The Governor-General may, by Order in Council,—
-  (a) amend the name or description of any restricted substance named or described in Schedule 4, if the amendment is necessary for the purpose of making that name or description consistent with international scientific usage:
-  (b) update Schedule 4, if the update is necessary for the purpose of clarifying content or correcting drafting errors.
+[Repealed]
 
 ### 34 Procedure for bringing Order in Council into force
-(1) Subject to subsection (2), the Governor-General may, by Order in Council, make a commencement order bringing any Order in Council made under section 33(1) into force.
-(2) The commencement order may be made only after the Order in Council made under section 33(1) has been approved by resolution of the House of Representatives.
-(3) A resolution of the House of Representatives approving an Order in Council made under section 33(1) may be made at any time after—
-  (a) the date that is 28 days after the date on which notice that the Order in Council has been made is given in the Gazette ; or
-  (b) if the Gazette notice is given during the period commencing on 24 December in one year and ending on 15 January in the following year, 15 February of that following year.
-(4) An Order in Council made under section 33(1) lapses if—
-  (a) a motion to approve the Order in Council is defeated; or
-  (b) no motion to approve the Order in Council is agreed to within 1 year of its date of making.
+[Repealed]
 
 ### 35 Matters to which Minister must have regard before recommending Order in Council under section 33(1)
-(1) Before recommending to the Governor-General that an Order in Council be made under section 33(1), the Minister must, in respect of each substance referred to in the proposed Order in Council,—
-  (a) consult with, and consider any recommendations made by, the Expert Advisory Committee on Drugs, about the substance; and
-  (b) have regard to the matters set out in subsection (2).
-(2) The matters that the Minister must have regard to, and on which the Expert Advisory Committee on Drugs must make recommendations, are—
-  (a) the matters set out in section 4B(2) of the principal Act; and
-  (b) the following matters:
-    (i) the purposes for which the substance is currently manufactured, advertised, imported, or sold (including, without limitation, whether it is being manufactured, advertised, imported, or sold as a psychoactive substance):
-    (ii) the practicalities of imposing restrictions or requirements on the substance and the ability to enforce those restrictions and requirements:
-    (iii) the extent to which the substance is subject to regulation or control under any other enactment:
-    (iv) the risk of increasing the abuse of the substance due to increased awareness or knowledge of the substance's abuse potential if it is made a restricted substance:
-    (v) the risk of encouraging persons to use more dangerous substitutes in place of the substance:
-    (vi) whether alternatives to restrictions or requirements imposed on the substance are available and are likely to be effective in reducing the risks or harm resulting from abuse of the substance.
-(3) For the purposes of subsection (2), section 4B(2) of the principal Act applies as if every reference to drug were a reference to a substance (as defined in this Part).
+[Repealed]
 
 **Sale and supply restrictions**
 
 ### 36 Restriction on selling restricted substances to persons under 18 years
-(1) No person may sell a restricted substance to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+[Repealed]
 
 ### 37 Defence to charge of selling restricted substance to person under 18 years
-(1) It is a defence to a charge in respect of a contravention of section 36(1) if the person charged proves—
-  (a) that the contravention occurred without his or her knowledge; and
-  (b) that he or she took reasonable precautions and exercised due diligence in order to prevent the contravention of that section.
-(2) A person has the defence in subsection (1) if he or she proves that he or she—
-  (a) sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) for the person to whom the restricted substance was sold, indicating that the person was of or over the age of 18 years; and
-  (b) reasonably believed that the evidence of age document—
-    (i) was valid; and
-    (ii) related to the person to whom the restricted substance was sold.
-(3) Subsection (2) does not affect the generality of subsection (1).
-(4) It is not a defence to a charge in respect of a contravention of section 36(1)
-  (a) that the person to whom the restricted substance was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
-  (b) that the person charged believed on reasonable grounds that the person to whom the restricted substance concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
+[Repealed]
 
 ### 38 Restriction on persons under 18 years selling restricted substances
-(1) No person may sell a restricted substance unless that person is of or over the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+[Repealed]
 
 ### 39 Restriction on supplying restricted substances to persons under 18 years
-(1) No person may supply a restricted substance to a person—
-  (a) who is under the age of 18 years; or
-  (b) with the intention that it be supplied (directly or indirectly) to a person who is under the age of 18 years.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
-(3) Nothing in subsections (1) or (2) applies to a person who is acting in pursuance of a duty, function, or power under this Part or any other enactment.
-(4) Subsection (1) applies irrespective of any liability that may attach to a person who has sold the restricted substance concerned to any other person.
+[Repealed]
 
 ### 40 Defence to charge of supplying restricted substance to person under 18 years
-(1) It is a defence to a charge in respect of a contravention of section 39(1) if the person charged proves that he or she had no reasonable grounds to suspect that the person to whom he or she supplied the restricted substance was under. the age of 18 years.
-(2) A person has the defence in subsection (1) if he or she proves that he or she—
-  (a) sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) for the person to whom the restricted substance was supplied, indicating that the person was of or over the age of 18 years; and
-  (b) reasonably believed that the evidence of age document—
-    (i) was valid; and
-    (ii) related to the person to whom the restricted substance was supplied.
-(3) Subsection (2) does not affect the generality of subsection (1).
-(4) It is not a defence to a charge in respect of a contravention of section 39(1)—
-  (a) that the person being supplied was acquiring the restricted substance concerned for or on behalf of, or as agent for, a person of or over the age of 18 years; or
-  (b) that the person charged believed on reasonable grounds that the person being supplied was acquiring the restricted substance concerned for or on behalf of, or as agent for, a person of or over the age of 18 years.
+[Repealed]
 
 ### 41 Restriction on place of sale or supply of restricted substances
-(1) No person may sell or supply a restricted substance to which a prescribed restriction relating to place of sale or supply applies from a place or premises that do not comply with that restriction.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+[Repealed]
 
 ### 42 Restriction on free of charge distribution and rewards of restricted substances
-(1) No manufacturer, distributor, importer, or retailer of any restricted substance may—
-  (a) distribute a restricted substance free of charge; or
-  (b) supply a restricted substance to a person free of charge for subsequent distribution; or
-  (c) in the case of a retailer, supply a restricted substance to a person free of charge for the purpose of that retailer's business.
-(2) No manufacturer, distributer, importer, or retailer of any restricted substance may—
-  (a) offer any gift or cash rebate, or the right to participate in any contest, lottery, or game, to the purchaser of a restricted substance in consideration for the purchase of that restricted substance, or to any person in consideration for the provision of evidence of a purchase of that kind; or
-  (b) offer, to any retailer, a gift or cash rebate, or the right to participate in any contest, lottery, or game, as an inducement or reward in relation to—
-    (i) the purchase or sale of restricted substances by that retailer; or
-    (ii) the advertising of restricted substances inside that retailer's place of business; or
-    (iii) the display of restricted substances in a particular part of that retailer's place of business.
-(3) Nothing in subsection (2) applies in respect of any payment or reward to any person who purchases or attempts to purchase a restricted substance—
-  (a) with the authority of the Director-General of Health, the Commissioner of Police, or some other person authorised for the purpose by the Director-General or the Commissioner; and
-  (b) for the purpose of monitoring compliance with the provisions of this Part.
-(4) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Advertising restrictions and requirements**
 
 ### 43 Restrictions and requirements relating to advertising restricted substances
-(1) No person may advertise a restricted substance—
-  (a) on television; or
-  (b) on radio; or
-  (c) in any newspaper or other periodical publication printed and published in New Zealand; or
-  (d) on or in any other medium prescribed in regulations made under this Part.
-(2) No person may advertise a restricted substance to which a prescribed restriction relating to advertising applies in a way that does not comply with that restriction.
-(3) Every person who advertises a restricted substance to which a prescribed requirement relating to advertising applies must advertise the restricted substance in a way that complies with that requirement.
-(4) Every person who contravenes subsection (1), (2), or (3) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Labelling restrictions and requirements**
 
 ### 44 Restrictions and requirements relating to labelling restricted substances
-(1) No person may sell or supply a restricted substance to which a prescribed restriction relating to labelling applies with a label that does not comply with that restriction.
-(2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to labelling applies must sell or supply the restricted substance with a label that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Packaging restrictions and requirements**
 
 ### 45 Restrictions and requirements relating to packaging restricted substances
-(1) No person may sell or supply a restricted substance to which a prescribed restriction relating to packaging applies in a package that does not comply with that restriction.
-(2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to packaging applies must sell or supply the restricted substance in a package that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Health warning requirements**
 
 ### 46 Requirement relating to health warning
-(1) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to a health warning applies must sell or supply the restricted substance with the necessary health warning required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Signage requirements**
 
 ### 47 Requirement to display signage
-(1) Every person who sells a restricted substance to which a prescribed requirement relating to signage applies must display the signage required to comply with that requirement.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+[Repealed]
 
 **Quantity, dosage, form, and serving restrictions and requirements**
 
 ### 48 Restrictions and requirements relating to quantity, dosage, form, or serving of restricted substances
-(1) No person may sell or supply a restricted substance to which a prescribed restriction relating to quantity, dosage, form, or serving applies in a quantity, dose, form, or serving that does not comply with that restriction.
-(2) Every person who sells or supplies a restricted substance in relation to which a prescribed requirement relating to quantity, dosage, form, or serving applies must sell or supply the restricted substance in a quantity, dose, form, or serving that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Storage and display restrictions and requirements**
 
 ### 49 Restrictions and requirements relating to storage and display of restricted substances
-(1) No person who sells or supplies a restricted substance to which a prescribed restriction relating to storage or display applies may store or display the restricted substance in a way that does not comply with that restriction.
-(2) Every person who sells or supplies a restricted substance to which a prescribed requirement relating to storage or display applies must store or display the restricted substance in a way that complies with that requirement.
-(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Manufacturing requirement**
 
 ### 50 Requirement to manufacture restricted substances in accordance with code of practice
-(1) Every person who manufactures a restricted substance to which a code of manufacturing practice applies must manufacture the restricted substance in accordance with that code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 ### 51 Restriction on import of restricted substances
-(1) No person may import into New Zealand a restricted substance to which a code of manufacturing practice applies unless the restricted substance meets or exceeds the minimum standards established by the code.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Recall**
 
 ### 52 Recall of restricted substances in certain circumstances
-(1) The Minister may, for the purpose of protecting the public, issue an order of the kind referred to in subsection (2) (a recall order) to any manufacturer, importer, or seller of any restricted substance.
-(2) The recall order is an order directing the recall of any restricted substance or requiring the destruction of any restricted substance because the restricted substance is—
-  (a) unsound or unfit for human consumption; or
-  (b) damaged, deteriorated, or perished; or
-  (c) contaminated with any poisonous, deleterious, or injurious substance.
-(3) A manufacturer, importer, or seller must,—
-  (a) on receipt of a recall order, advise the Minister of the details of the manner in which that person proposes to comply with the order; and
-  (b) when the recall order has been complied with, give written notice of that fact to the Minister.
-(4) Every person who fails to comply, in any respect, with any of the provisions of this section or any order issued under this section commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; or
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Record-keeping requirement**
 
 ### 53 Requirement to keep records relating to restricted substances
-(1) Every person who, in the course of any business, imports, prepares, processes, manufactures, packs, stores, carries, delivers, or sells any restricted substance, must—
-  (a) keep, in some place of security at that person's place of business, any records required to be kept by that person by any regulations made under this Part; and
-  (b) retain those records for the period of time prescribed in the regulations.
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $5,000; or
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+[Repealed]
 
 **Certain persons prohibited from selling or manufacturing restricted substances**
 
 ### 54 Certain persons prohibited from selling or manufacturing restricted substances
-(1) This section applies if a person has been convicted of any offence under this Part and, within 2 years of being sentenced for that offence, he or she is convicted of another offence or offences under this Part.
-(2) If this section applies, the court imposing the sentence for the second or subsequent offence may (in addition to any sentence it might impose and any other order in the nature of a penalty it might make) make an order—
-  (a) prohibiting any or all of the following:
-    (i) the sale of any restricted substances by or on behalf of the person:
-    (ii) the sale of any restricted substances at the place or premises at which the second or subsequent offence occurred:
-    (iii) the manufacture of any restricted substances by or on behalf of the person:
-    (iv) the manufacture of any restricted substances at the place or premises at which the second or subsequent offence occurred; or
-  (b) prohibiting any or all of the following:
-    (i) the sale of restricted substances of a stated kind by or on behalf of the person:
-    (ii) the sale of restricted substances of a stated kind in the premises or at the place in which the second or subsequent offence occurred:
-    (iii) the manufacture of restricted substances of a stated kind by or on behalf of the person:
-    (iv) the manufacture of restricted substances of a stated kind in the premises or at the place in which the second or subsequent offence occurred; or
-  (c) imposing any conditions or restrictions (or both) it thinks fit on any or all of the following:
-    (i) the sale of restricted substances by or on behalf of the person:
-    (ii) the sale of restricted substances at the premises or place at which the second or subsequent offence occurred:
-    (iii) the manufacture of restricted substances by or on behalf of the person:
-    (iv) the manufacture of restricted substances at the premises or place at which the second or subsequent offence occurred.
-(3) The order must state—
-  (a) the date it takes effect (which may be the date on which it is made or a later date); and
-  (b) the date it expires (which must be a date at least 4 weeks and no more than 3 months after the date it takes effect).
-(4) Every person who contravenes an order made under subsection (2) commits an offence.
-(5) Every person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $2,000.
+[Repealed]
 
 **Enforcement officers**
 
 ### 55 Enforcement officers
-(1) The Director-General of Health may appoint enforcement officers to enforce this Part.
-(2) A person appointed as an enforcement officer may be a person appointed by name or may be the holder for the time being of a particular position.
-(3) A person appointed under subsection (1) is not by virtue of that appointment alone—
-  (a) an officer or employee of the Public Service; or
-  (b) a person to whom the State Sector Act 1988 or the Government Superannuation Fund Act 1956 applies.
-(4) The Director-General of Health must not appoint a person under subsection (1) unless the Director-General is satisfied that he or she is suitably qualified and trained and is a fit and proper person for appointment as an enforcement officer.
-(5) The Director-General of Health may do any or all of the following:
-  (a) appoint persons to enforce only some of the provisions of this Part:
-  (b) appoint persons to exercise only some of the powers given to enforcement officers by this Part:
-  (c) appoint persons subject to limitations or restrictions on their exercise of enforcement powers.
-(6) Every enforcement officer must have an instrument of appointment identifying the holder as an enforcement officer appointed under this section.
-(7) An enforcement officer's instrument of appointment must state—
-  (a) that he or she is appointed to enforce—
-    (i) all the provisions of this Part; or
-    (ii) only stated provisions of this Part; or
-    (iii) all the provisions of this Part other than certain stated provisions; and
-  (b) that he or she is appointed to exercise—
-    (i) all enforcement powers; or
-    (ii) only stated enforcement powers; or
-    (iii) all enforcement powers other than certain stated powers; and
-  (c) all limitations and restrictions (if any) imposed under subsection (5)(c) on his or her exercise of enforcement powers.
+[Repealed]
 
 **Enforcement powers**
 
 ### 56 Entry and inspection for purposes of ensuring compliance with this Part
-(1) An enforcement officer or a constable may enter a place, if he or she believes there is a restricted substance in that place, to—
-  (a) find out whether this Part is being complied with in relation to that restricted substance:
-  (b) find out the extent to which this Part is not being complied with in relation to that restricted substance:
-  (c) exercise the powers given by section 58.
-(2) Subsection (1) does not apply to a dwellinghouse or other residential accommodation.
-(3) An enforcement officer or a constable who enters a place under subsection (1) may do any or all of the following things:
-  (a) inspect the place:
-  (b) take photographs or videos of the place:
-  (c) copy any documents or records (of any kind) relating to a restricted substance:
-  (d) exercise the powers given by section 58:
-  (e) inspect any article or material (for example, advertising material and display signage) in relation to which a restriction or requirement is imposed by or under this Part.
-(4) Nothing in subsection (2) prevents an enforcement officer or a constable from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
-  (a) under authority given by or under an enactment (including another section of this Part); or
-  (b) with the occupier's consent.
-(5) An enforcement officer or a constable who is exercising powers under this section in respect of or in a place, must,—
-  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a constable; and
-  (b) in the case of an enforcement officer who is asked by a person in charge to do so, produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both; and
-  (c) explain to that person that the authority to enter is under this section.
+[Repealed]
 
 ### 57 Powers of entry and inspection if reasonable grounds to believe offence committed under this Part
-(1) An enforcement officer or a constable may enter a place if he or she has reasonable grounds to believe that—
-  (a) there is a restricted substance in that place; and
-  (b) an offence has been, is being, or will be committed under this Part in relation to that restricted substance in that place.
-(2) Subsection (1) does not apply to a dwellinghouse or other residential accommodation.
-(3) An enforcement officer or a constable who enters a place under subsection (1) may do any or all of the following things:
-  (a) inspect the place:
-  (b) take photographs or videos of the place:
-  (c) seize any restricted substance, document or record (of any kind), or other article relating to a restricted substance (for example, any advertising or labelling material):
-  (d) copy any documents or records (of any kind) relating to the restricted substance:
-  (e) exercise the powers given by section 58.
-(4) Nothing in subsection (2) prevents a constable from entering a dwellinghouse or other residential accommodation and exercising the powers referred to in subsection (3)—
-  (a) with the consent of an occupier; or
-  (b) under authority given by or under an enactment (including another section of this Part, for example, pursuant to a warrant issued under subsection (5)).
-(5) A District Court Judge may issue to a constable a warrant to enter any part of a dwellinghouse or other residential accommodation, if satisfied that there are reasonable grounds for believing that—
-  (a) there is a restricted substance in the dwellinghouse or residential accommodation; and
-  (b) an offence has been, is being, or will be committed under this Part in relation to that restricted substance in that dwellinghouse or residential accommodation.
-(6) A warrant issued under subsection (5) must state a period during which the warrant may be executed, which must not exceed 14 days from the date of its issue.
-(7) An enforcement officer or a constable exercising powers under this section in respect of or in a place must,—
-  (a) if a person in charge of the place is present on initial entry, identify himself or herself to the person in charge as an enforcement officer or a constable; and
-  (b) in the case of an enforcement officer who is asked by a person in charge to do so, produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both; and
-  (c) explain to that person that the authority to enter is under this section.
+[Repealed]
 
 ### 58 Requirement to give identifying information
-(1) Subsection (2) applies to an enforcement officer or a constable who at any time believes on reasonable grounds that within the previous 14 days a restricted substance was sold to a person under the age of 18 years in a place.
-(2) An enforcement officer or a constable to whom this subsection applies may,—
-  (a) if he or she believes on reasonable grounds that the person who sold the restricted substance is in the place, require that person to give the enforcement officer or a constable his or her name and address; and
-  (b) if the person who sold the restricted substance is not present, require any other person in the place who appears to be in charge of it or any part of it, to give the enforcement officer or a constable the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) the person the enforcement officer or a constable believes on reasonable grounds sold the restricted substance.
-(3) An enforcement officer or a constable who suspects that a person is under the age of 17 years must not under subsection (2)(a) require the person to give the enforcement officer or constable his or her name and address unless—
-  (a) there is no other person in the place concerned who appears to be in charge of it; or
-  (b) there is another person in the place who appears to be in charge of it, but the enforcement officer suspects that that person is also under the age of 17 years.
-(4) An enforcement officer or a constable who suspects that a person is under the age of 17 years must not under subsection (2)(b) require the person to give the enforcement officer or a constable the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be of or over the age of 17 years.
-(5) The powers given by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person's knowledge relating to) a person the enforcement officer or constable concerned believes to have sold a restricted substance to a person under the age of 18 years.
+[Repealed]
 
 ### 59 Time for filing charging document under this Part
-Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+[Repealed]
 
 **Offences relating to enforcement**
 
 ### 60 Offence to obstruct enforcement officer or constable under this Part
-(1) A person who obstructs an enforcement officer or a constable in the execution of any power or duty under this Part commits an offence.
-(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
+[Repealed]
 
 ### 61 Offence to make false statement to enforcement officer or constable under this Part
-(1) A person commits an offence if—
-  (a) he or she makes a declaration or statement to an enforcement officer or a constable executing any power or fulfilling any duty under this Part; and
-  (b) he or she knows that the declaration or statement is false.
-(2) Every person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $1,000.
+[Repealed]
 
 **Regulations**
 
 ### 62 Regulations
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:Exemptions—Place of sale or supply restrictionsAdvertising restrictions and requirementsLabelling restrictions and requirementsPackaging restrictions and requirementsHealth warning requirementsSignage requirementsQuantity, dosage, form, and serving requirementsStorage and display restrictionsRecord-keeping requirementsGeneral
-  (a) exempting any specified preparation, concentration, form, or use of a restricted substance from being a restricted substance:
-  (b) prescribing restrictions on the places and premises from which restricted substances may be sold or supplied, or both, including, without limitation, restrictions of the following kinds:
-    (i) a restriction completely prohibiting the sale or supply, or both, of restricted substances from premises of a specified kind (for example, from non-fixed premises, such as a vehicle):
-    (ii) a restriction prohibiting the sale of restricted substances from certain types of retail premises (for example, premises where liquor is sold):
-    (iii) a restriction prohibiting the sale or supply, or both, of restricted substances from places where children or minors gather (for example, schools or recreational facilities):
-  (c) prescribing restrictions on the location, manner, way, medium, or form in which advertising for restricted substances may appear, including, without limitation, restrictions of the following kinds:
-    (i) a restriction completely prohibiting sponsorship activities relating to restricted substances:
-    (ii) a restriction on advertising restricted substances in certain places (for example, near schools):
-    (iii) a restriction on using certain forms or themes of advertising for restricted substances (for example, advertising that appeals to children):
-  (d) prescribing requirements relating to the location, manner, way, medium, and form in which advertising for restricted substances, if undertaken, is to appear, including, without limitation, a requirement that advertising for restricted substances include certain information (for example, the ingredients contained in the restricted substance):
-  (e) prescribing restrictions on the manner, way, medium, or form in which the labelling of restricted substances is to appear for the purposes of sale or supply, or both, including, without limitation, prohibiting certain kinds of labelling (for example, labelling designed to appeal to children or that associates restricted substances with youth culture):
-  (f) prescribing requirements relating to the manner, way, medium, or form in which the labelling of restricted substances is to appear for the purposes of sale or supply, or both (for example, requiring that the inner and outer packages for restricted substances both carry labels specifying certain prescribed matters):
-  (g) prescribing restrictions on the size and type of packaging for restricted substances for the purposes of sale or supply, or both:
-  (h) prescribing requirements as to the size and type of packaging for restricted substances for the purposes of sale or supply, or both (for example, that packaging is to be tamper-proof or child-proof):
-  (i) prescribing restrictions on the type of material and the medium or form of the material that may be inserted in packages that hold restricted substances for the purposes of sale or supply, or both, including, without limitation, a restriction prohibiting the inclusion of written material of a certain kind (for example, material that associates restricted substances with youth culture):
-  (j) prescribing requirements as to the content of any material required to be inserted in packages that hold restricted substances for the purposes of sale, supply, or both, including, without limitation, a requirement that certain material be inserted in the package (for example, informational leaflets relating to contraindications for use of the restricted substance):
-  (k) prescribing requirements relating to the material, and the medium or form of the material that is to be inserted in packages that hold restricted substances for the purposes of sale, supply, or both, including, without limitation, a requirement that material be presented in a certain way (for example, printed in a certain size or manner):
-  (l) prescribing requirements that health warnings accompany restricted substances for the purposes of sale or supply, or both, including, without limitation, the following kinds of requirements:
-    (i) a requirement that a health warning accompany a restricted substance that specifies that the restricted substance should not be taken with certain other things (for example, liquor, drugs, other restricted substances, or medicines):
-    (ii) a requirement that a health warning accompany a restricted substance that specifies that the restricted substance should not be taken when a person is in a specified condition or situation (for example, the person is pregnant, breast-feeding, driving, or operating heavy machinery):
-    (iii) a requirement that a health warning accompany the restricted substance that states where to obtain help should adverse effects occur as a result of taking the restricted substance:
-  (m) prescribing requirements as to the manner, way, medium, or form in which health warnings are, if required, to appear (for example, that the health warning is to be on the label or advertising of a package containing restricted substances):
-  (n) prescribing requirements relating to signage that is to be displayed when restricted substances are sold:
-  (o) prescribing requirements as to the manner, way, medium, and form in which signage, if required, is to be displayed when restricted substances are sold (for example, a requirement that a person selling a restricted substance display a sign of a particular size stating that the restricted substance may not be sold to a person under the age of 18 years or stating a recommended maximum dosage):
-  (p) prescribing restrictions on the quantity or form of restricted substances that may be sold or supplied together at any one time:
-  (q) prescribing requirements relating to the quantity or form of restricted substances that may be sold or supplied together at any one time:
-  (r) prescribing restrictions on the maximum dosage or serving of restricted substances that may be sold or supplied at any one time:
-  (s) prescribing requirements relating to the maximum dosage or serving of restricted substances that may be sold or supplied at any one time:
-  (t) prescribing restrictions on the storage or display of restricted substances for the purposes of sale or supply, or both, including, without limitation, a restriction on the maximum amount of any restricted substance that may be stored in any premises at any one time:
-  (u) prescribing restrictions on the manner of storage and display of restricted substances for the purposes of sale or supply, or both, including, without limitation, a restriction that a restricted substance must not be displayed in a particular place (for example, a position in a shop where it is visible from the street):
-  (v) prescribing requirements relating to the storage or display, or both, of restricted substances for the purposes of sale or supply, or both (for example, a requirement that sellers of a restricted substance must store it at or below a certain temperature):
-  (w) prescribing requirements for specified persons to keep records under this Part and the period of time for which those records must be retained:
-  (x) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
-(2) Any regulations made under subsection (1) may apply to all restricted substances, any class or description of restricted substances, or any particular restricted substance.
+[Repealed]
 
 **Code of manufacturing practice**
 
 ### 63 Code of manufacturing practice
-(1) The Director-General of Health may from time to time issue, approve, amend, or revoke a code of practice for the manufacturing of restricted substances.
-(2) Before issuing, approving, amending, or revoking a code of practice under subsection (1), the Director-General of Health must consult with the organisations for the time being recognised by the Director-General as representing the interests of those persons involved in the manufacture or importation of restricted substances who will or may be affected by the code of practice.
-(3) A failure to comply with subsection (2) does not affect the validity of a code of practice issued or amended under this section, or the validity of a revocation of a code of practice under this section.
-(4) Any code of practice issued or approved by the Director-General of Health under subsection (1) may apply to all restricted substances, any class or description of restricted substances, or any particular restricted substance.
-(5) The Director-General of Health, when issuing, approving, amending, or revoking a code of practice, must—
-  (a) notify the issue, approval, amendment, or revocation of the code in the Gazette ; and
-  (b) show in the notice the date of the issue, approval, amendment, or revocation of the code; and
-  (c) specify in the notice the place or places at which copies of the code or the amendment are available for inspection or purchase.
-(6) The Director-General of Health must ensure that copies of the codes of practice and any amendments to those codes issued or approved under this section are available for inspection at the place or places specified in the notice given under subsection (5).
-(7) A code of practice, or an amendment or revocation of a code of practice, does not have any force or effect under this Part until notified in the Gazette.
+[Repealed]
 
 **Relationship of this Part to other specified enactments**
 
 ### 64 Relationship of this Part to specified enactments
-(1) Nothing in this Part affects or derogates from an Act specified in subsection (3).
-(2) In the event of any inconsistency between the provisions of an Act specified in subsection (3), or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Part, the provisions of that Act and any regulations made under that Act prevail.
-(3) The Acts are the—
-  (a) Customs and Excise Act 1996:
-  (b) Fair Trading Act 1986:
-  (c) Imports and Exports (Restrictions) Act 1988:
-  (d) Ozone Layer Protection Act 1996.
+[Repealed]
 
 ### 65 Sections of principal Act that do not apply to restricted substances
-The following enactments in the principal Act do not apply to restricted substances:
-  (a) the definition of supply in section 2(1):
-  (b) section 12:
-  (c) section 13(1)(a):
-  (d) sections 14 to 16:
-  (e) section 18:
-  (f) sections 27 and 28:
-  (g) sections 32 and 33.
+[Repealed]
 
 ### 66 Application of section 31 of principal Act to this Part
-For the purposes of this Part, section 31(2) of the principal Act applies as if there were inserted,—
-  (a) after the words officer of Customs, the words or enforcement officer ; and
-  (b) after the words precursor substance, the words or restricted substance.
+[Repealed]
 
 ### 67 Administration of this Part
-This Part is administered in the Ministry of Health.
+[Repealed]
 
 ## Schedule 1 — New Part 3 added to Schedule 4 of principal Act
 
