@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -81,7 +81,7 @@ This Act binds the Crown.
   - **Corporation** means the Accident Compensation Corporation continued by section 259
   - **counsellor** means a counsellor of a type described in regulations made under this Act
   - **cover** has the meaning set out in section 8
-  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **Crown funding agreement** has the same meaning as in section 10 of the New Zealand Public Health and Disability Act 2000
   - **deceased claimant** means a claimant who dies and whose cover under section 20 or section 22 is for death or for physical injuries from which he or she dies
   - **decision** or includes all or any of the following decisions by the Corporation:
@@ -2616,7 +2616,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) prescribe classes of persons or organisations who are liable to pay levies under this section:
   (c) define those classes according to the profession concerned, the nature of the employment of the professional, any areas of specialisation, any areas in which the person does not practise, or on any other basis specified in the regulations.
 (2) Levies are payable by such persons or classes of persons or organisations as may be specified for the purpose by regulations made under this Act, and those levies are payable at a rate or rates prescribed by the regulations.
-(3) If levies are so payable, the levies must be calculated so that the cost of all claims (of the type covered by the levy) under the Treatment Injury Account is to be fully funded, unless the Minister otherwise directs under section 270.
+(3) If levies are so payable, the levies must be calculated so that the cost of all claims (of the type covered by the levy) under the Treatment Injury Account is to be fully funded, unless the Minister otherwise directs under section 103 of the Crown Entities Act 2004.
 (4) Claims referred to in subsection (3) do not include treatment injury suffered before the prescribed date from which premiums become payable under this section.
 (5) A levy must relate to a prescribed period.
 
@@ -3661,7 +3661,7 @@ The Minister may not make any recommendation in respect of regulations made unde
   (b) the Corporation considers all submissions on the proposed regulations that are received by the Corporation not later than the date stated under paragraph (a)(vii).
 (3) The Corporation must, before recommending to the Minister the making of regulations under this Act prescribing the rates of levies,—
   (a) develop a policy on fully funding the outstanding claims liability for the relevant Account; and
-  (b) have regard to that policy, in particular the funding requirements for the relevant Account, and any relevant policy direction given under section 270.
+  (b) have regard to that policy, in particular the funding requirements for the relevant Account, and any relevant policy direction given under section 103 of the Crown Entities Act 2004.
 (4) The Corporation must, after recommending to the Minister the making of regulations under this Act prescribing the rates of levies, publish in the Gazette, and in a daily newspaper circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice—
   (a) stating that such a recommendation has been made; and
   (b) stating where copies of the recommendation, and any information that accompanied the recommendation, may be obtained.
@@ -3770,7 +3770,7 @@ The purpose of this Part is to ensure that, despite the repeal of the 1998 Act a
 
 ### 345 Regulator's functions in respect of Non-Compliers Fund
 (1) The Minister may direct the Corporation to assume the Regulator's role in relation to the Non-Compliers Fund.
-(2) A direction under subsection (1) is a policy direction for the purposes of section 270.
+(2) A direction under subsection (1) is a policy direction for the purposes of section 103 of the Crown Entities Act 2004.
 (3) The effect of a direction under subsection (1) is that the Corporation assumes the role of the Regulator in all respects in relation to the Non-Compliers Fund and the Regulator has no further responsibilities in relation to the Fund.
 (4) The Corporation and the Regulator must then enter into an agreement to achieve the effect of the direction.
 
