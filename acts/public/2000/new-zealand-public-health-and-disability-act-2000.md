@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-07-18_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -68,7 +68,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
     (b) the person's interest that would, if the person were a member of the board of the DHB or a member of a committee of that board or a delegate of that board, be an interest in a transaction (within the meaning of subsection (2)) of the DHB; and
     (c) to avoid any doubt, the employment or engagement of the person, or of the person's spouse or partner, as an employee or contractor of the DHB
   - **Crown** means Her Majesty the Queen in right of New Zealand
-  - **Crown entity subsidiary** has the meaning set out in section 8(2) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the meaning set out in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **Crown funding agreement** has the meaning given to it by section 10
   - **DHB** means an organisation established as a DHB by or under section 19
   - **Director-General** means the chief executive or acting chief executive under the State Sector Act 1988 of the Ministry of Health
