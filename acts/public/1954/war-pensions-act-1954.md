@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -1009,8 +1009,8 @@ Every person who, immediately before the commencement of this Part, was entitled
   (b) Schedule 9 by increasing any percentage figure set out in that schedule.
 (2) Every Order in Council made under subsection (1) shall state the date from which it is to have effect (which may be a date before the date on which it was made) and shall apply to pensions, lump sum payments, and allowances payable in respect of the period commencing on the date from which it is to have effect and ending with the day before the date of its revocation by a subsequent Order in Council. Nothing in this subsection shall authorise any payment to be made before the order is made.
 (2A) The Order in Council must, for lump sum payments on death, state that it applies in respect of persons who die on or after the date that is specified in the Order in Council.
-(3) Every Order in Council made under this section and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 shall expire on the close of the period of 12 months commencing with the date on which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
-(4) Every such Order in Council which is laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989, and which has been revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was so laid, shall be deemed to be invalid in respect of the period it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act of Parliament passed before that date.
+(3) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented to the House, except so far as it is expressly validated and confirmed by an Act passed before that date.
+(4) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012, and revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date.
 (5) Every Order in Council made under this section shall have the force of law as if it was enacted by this Act.
 (6) The validity of any Order in Council made under this section shall not be affected by reason only of the repeal of an Act of Parliament validating and confirming it.
 
