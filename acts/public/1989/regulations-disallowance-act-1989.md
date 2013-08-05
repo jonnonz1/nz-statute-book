@@ -1,5 +1,5 @@
 # Regulations (Disallowance) Act 1989
-_Consolidation as at 1999-11-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato provide for the disallowance of statutory regulations; andbto repeal the Regulations Act 1936 and other enactments
 
