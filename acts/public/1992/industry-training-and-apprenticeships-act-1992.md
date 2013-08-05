@@ -1,5 +1,5 @@
 # Industry Training Act 1992
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—aprovide for the recognition and funding of organisations (to be known as industry training organisations) setting skill standards for, and administering the delivery of, industry-based training; andbencourage and improve industry-based training; andcrepeal the Technicians Training Act 1967 and the Apprenticeship Act 1983, and provide for the continued administration of contracts under those Acts; anddprovide for the protection of people receiving industry-based training under certain training arrangements in the nature of apprenticeship, or under contracts under the Technicians Training Act 1967 or the Apprenticeship Act 1983; andeprovide for other related matters
 
@@ -239,7 +239,7 @@ For the purposes of this Part,—
   (a) 1 industry training organisation by all qualifying members of the industry that is covered by that organisation; or
   (b) 1 industry training organisation by all qualifying members of a specific industry that is within the range of industries covered by that industry training organisation; or
   (c) more than 1 industry training organisation, jointly, by all qualifying members of an industry that is covered by those industry training organisations.
-(4) Every levy order is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 27 Restrictions on making of levy orders
 (1) The Minister must not recommend the making of a levy order unless he or she is satisfied that—
@@ -409,21 +409,21 @@ Every person who receives commercially sensitive information for the purposes of
 ### 51 Orders must be confirmed
 (1) Subsection (2) applies to a levy order that is made on or after 1 January and before 1 July in any year, and that—
   (a) has not been revoked with effect on or before 1 July in the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989.
+  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012.
 (2) If subsection (1) applies to a levy order, the order is deemed to be revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
 (3) Subsection (4) applies to a levy order that is made after 30 June and on or before 31 December in any year, and that—
   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989.
+  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012.
 (4) If subsection (3) applies to a levy order, the order is deemed to be revoked with the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed on or before that day.
 (5) The Minister on whose recommendation a levy order was made must, by notice published in the Gazette at least 6 months before the day with the close of which the order may (under subsection (2) or subsection (4)) be deemed to have been revoked, indicate the Minister’s intentions with regard to its continuing in force unless the levy order has already been—
   (a) revoked; or
-  (b) disallowed under the Regulations (Disallowance) Act 1989; or
+  (b) disallowed under Part 3 of the Legislation Act 2012; or
   (c) confirmed by an Act of Parliament.
 
 ### 52 Expiry of levy orders
 (1) A levy order expires 5 years after the day on which it was made unless it is sooner—
   (a) revoked; or
-  (b) disallowed under the Regulations (Disallowance) Act 1989.
+  (b) disallowed under Part 3 of the Legislation Act 2012.
 (2) A levy order is deemed to be revoked if the industry training organisation responsible for administering the levy ceases to be recognised.
 
 ## Schedule 1 — Consequential repeals
