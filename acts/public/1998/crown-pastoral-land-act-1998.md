@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2012-07-06_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -503,7 +503,7 @@ The Governor-General may, on the recommendation of the Minister, make regulation
   (b) take reasonable steps to bring the notice to the attention of lessees of pastoral leases; and
   (c) give interested persons a reasonable period of time, which must be specified in the notice, to make submissions on the proposed rules; and
   (d) consult persons who the Valuer-General considers represent the lessees of pastoral leases and the Valuer-General considers appropriate, having regard in each case to the content and effect of the proposed rules.
-(4) Any rule made under subsection (1) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012.
 (5) In the event of any conflict between any regulation made under section 23N and any rule made under subsection (1), the regulation prevails.
 
 ### 23P Valuer-General may designate individuals eligible to be appointed as assessors and expert determiners
