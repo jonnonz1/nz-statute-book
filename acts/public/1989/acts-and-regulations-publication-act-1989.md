@@ -1,5 +1,5 @@
 # Acts and Regulations Publication Act 1989
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato provide for the printing and publication of copies of Acts of Parliament and statutory regulations; andbto ensure that copies of Acts of Parliament and statutory regulations are available to the public; andcto provide for the Government Printing Office to cease to be a department of the Public Service
 
