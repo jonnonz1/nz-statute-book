@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2013-08-05_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -134,6 +134,7 @@ Upon the listing of the shares of a port company on a registered exchange's secu
   (a) direct that the port company need not prepare a statement of corporate intent under sections 8 and 9; and
   (b) inform the company that it may regard its current statement of corporate intent as ceasing to be of continuing effect.
 (3) Any direction under this section may be revoked at any time by the Minister, by notice in the Gazette, if the Minister is satisfied that the circumstances that led to the giving of the direction no longer exist.
+(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 15 Saving of certain transactions
 A failure by a port company to comply with—shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by a port company.
