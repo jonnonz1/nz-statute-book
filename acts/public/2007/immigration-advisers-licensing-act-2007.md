@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -365,8 +365,8 @@ If no application for the renewal of a licence is made on or before the date on 
 (2) The Registrar must also make copies of the code of conduct and the competency standards available for inspection free of charge (whether electronically or otherwise), and for purchase at a reasonable cost, at the head office of the Authority and at such other places (including overseas places) as the Registrar determines.
 (3) If the code of conduct or competency standards are notified only, and not published in the Gazette, the Gazette notice must specify where a copy may be inspected or obtained.
 
-### 39 Code and standards deemed to be regulations for purposes of disallowance
-The code of conduct and competency standards, and any amendment, revocation, or replacement of the code or standards, are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+### 39 Application of Legislation Act 2012 to code and standards
+The code of conduct and competency standards, and any amendment, revocation, or replacement of the code or standards, are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Immigration Advisers Complaints and Disciplinary Tribunal**
 
