@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -1123,7 +1123,7 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
   (c) provide for the licences issued in respect of any district for hunting or killing game to be available in any other district or districts or in all districts:
   (d) fix the fees payable for any licence to hunt or kill game:
   (e) fix the fees payable in respect of game bird habitat stamps, the basis on which such fees are payable, and the persons or bodies to whom such fees are payable.
-(3B) Any notice in the Gazette made under subsection (3A) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3B) A notice in the Gazette made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4)
 (5)
 
