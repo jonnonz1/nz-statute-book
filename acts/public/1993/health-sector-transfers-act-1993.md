@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -128,7 +128,7 @@ This Act binds the Crown.
 (5) Where a transferee referred to in a proposal is a person declared by Order in Council to be a transferee for the purposes of this Act, neither the proposal nor any amendment to the proposal shall be approved by the Governor-General by Order in Council unless the proposal or amendment has been agreed to by the transferee.
 (6) An Order in Council under this section—
   (a) shall identify the proposal or amendment approved, but need not incorporate it in the order; and
-  (b) shall be deemed to be a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) Nothing in this section prevents assets or liabilities being transferred to a transferee for a consideration other than the issue of shares or debt securities.
 
 ### 6 Application of transfer to third parties
