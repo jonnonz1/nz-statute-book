@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -108,7 +108,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 ### 15 House of Representatives may make rules for guidance of Ombudsmen
 (1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000, and may at any time in like manner revoke or vary any such rules.
 (2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or department or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
-(3) All rules made under this section shall be printed and published in accordance with the Acts and Regulations Publication Act 1989.
+(3) All rules made under this section must be published under the Legislation Act 2012 as if they were legislative instruments, but they are not disallowable instruments for the purposes of that Act and do not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 16 Mode of complaint
 (1) A complaint to an Ombudsman may be made in writing or orally.
@@ -156,7 +156,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
   (a) any person who is an officer or employee or member of any department or organisation named or specified in Schedule 1 and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
   (b) any complainant; or
   (c) with the prior approval of the Attorney-General in each case, any other person who in the Ombudsman's opinion is able to give any such information—
-(3) Subject to this section and to subsection (1) of section 20, any person who is bound by the provisions of any enactment (being any Act of Parliament or any regulations within the meaning of the Acts and Regulations Publication Act 1989 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, notwithstanding that compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
+(3) Subject to this section and to section 20(1), a person who is bound by the provisions of an enactment (being an Act or a legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, even if compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
 (4) Compliance with a requirement of an Ombudsman (being a requirement made pursuant to subsection (3)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
 (5) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in any court.
 (5A) In any investigation carried out under this Act pursuant to the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, nothing in subsection (5) prevents an Ombudsman from—for the purpose of determining whether the information, document, paper, or thing would be properly withheld, but not so as to give the Ombudsman any information, or enable the Ombudsman to make any use of the information, document, paper, or thing that he or she would not, apart from this subsection, be entitled to.
