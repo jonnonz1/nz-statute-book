@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -935,7 +935,7 @@ In any application for an order against a person under section 82, a finding of 
 (2) The Retirement Commissioner must also ensure that the information required to be given by public notice under subsection (1) can be accessed by the public at a website maintained by the Commissioner.
 
 ### 92 Status of code of practice
-(1) A code of practice is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(1) A code of practice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (2) While a code of practice is in force, it—
   (a) must be complied with by—
     (i) every operator of a retirement village:
