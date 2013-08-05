@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -629,7 +629,7 @@ The Commissioner has the following functions in relation to this subpart:
   (b) a Crown agent or Crown agents:
   (c) an autonomous Crown entity or autonomous Crown entities.
 (5) The Minister may approve government workforce policy as a Government Workforce Policy Statement.
-(6) A Government Workforce Policy Statement is not a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+(6) A Government Workforce Policy Statement is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 55C Government Workforce Policy Statement: process
 (1) As soon as practicable after the Minister's approval under section 55B(5), the Commissioner must—
