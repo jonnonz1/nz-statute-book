@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -2187,7 +2187,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (b) where the alteration in the law renders that supply exempt from tax or reduces the amount of tax charged or chargeable in relation to that supply, the supplier or the recipient may deduct from the agreed price in the said agreement or contract the amount of that tax or the reduction of that tax:
   provided that this subsection shall not apply where that contract or agreement is entered into after the expiry of the period of 3 months that commences with the coming into force of the alteration in the law:
   provided further that this subsection shall not apply to require a public authority to alter any amount agreed to be paid by the authority in respect of any supply of goods and services where the consideration for that supply is in the nature of a grant or subsidy.
-(3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any Act or by any regulation (within the meaning of the Regulations Act 1936), in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
+(3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any Act or by any legislative instrument (within the meaning of the Legislation Act 2012) or by any regulation (within the meaning of the Regulations Act 1936), in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
   (a) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation liable to be charged with tax or increases the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be increased by that amount of tax charged or chargeable; or
   (b) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation exempt from tax or reduces the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be exempted from tax or reduced by the amount of tax no longer charged or chargeable:
   provided that where any such Act or regulation prescribes or determines either a maximum or a minimum amount in respect of any supply of goods and services, that maximum or, as the case may be, minimum amount shall, for the purposes of any such Act or regulation, be deemed to be increased or, as the case may be, decreased, by the amount of tax charged or, as the case may be, tax no longer charged by virtue of this subsection:
