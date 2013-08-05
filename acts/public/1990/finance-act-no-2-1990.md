@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
 (3) For the purposes of the distribution of prizes retaining the characteristics of a lottery no unit in an approved unit trust shall have a better chance of winning a prize than 1 in 9 600.
 
 ### 4 Changes to prize structure
-The Governor-General may from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation by the Bank, authorise such variations to the provisions of an approved unit trust that relate to entitlements to and the distribution of prizes as may be specified in the order.
+The Governor-General may from time to time, by Order in Council published in the Gazette, on the advice of the Minister given in accordance with a recommendation by the Bank, authorise such variations to the provisions of an approved unit trust that relate to entitlements to and the distribution of prizes as may be specified in the order.
 
 ### 5 Holders of bonus bonds and Post Office bonus bonds to become unit holders in approved unit trust
 (1) On a date to be appointed by the Governor-General by Order in Council every person who, immediately before the date appointed, is the holder of a bonus bond or a Post Office bonus bond shall become the holder of a unit or units in an approved unit trust specified in the order corresponding in number to the number of units representing each dollar evidenced by the bond subject to all the rights and obligations attaching to that unit or those units by virtue of the unit trust as if that person had become the holder by subscription.
