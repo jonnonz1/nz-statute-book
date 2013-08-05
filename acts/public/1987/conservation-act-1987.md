@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -2261,7 +2261,7 @@ Every person who commits an offence against this Act for which no penalty is pre
   (b) fix the scope and effect of licences or any specified class of licences to fish for sports fish:
   (c) provide for the licences issued in respect of any region for sports fish to be available in any other region or regions or in all regions:
   (d) fix the fees payable for any licence to fish for sports fish.
-(2B) Any notice in the Gazette made under subsection (2A) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(2B) A notice in the Gazette made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
 (4) Before entering any premises pursuant to subsection (3), a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
 
