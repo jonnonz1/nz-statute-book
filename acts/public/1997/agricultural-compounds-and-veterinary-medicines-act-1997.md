@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -98,7 +98,7 @@ _Consolidation as at 2013-07-01_
   (a) any substance to be an agricultural compound; or
   (b) any entity to be a pest; or
   (c) any entity not to be a pest—
-(3) Every Order in Council made under subsection (2) is deemed to be a regulation for the purpose of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -1567,10 +1567,10 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 ### 81L Levy regulations to be confirmed
 (1) Where regulations imposing a levy have been made under the cost recovery sections on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where any regulations imposing a levy have been made under the cost recovery sections after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ### 82 Prohibition of importation or manufacture by registrant for non-payment of fees
 [Repealed]
