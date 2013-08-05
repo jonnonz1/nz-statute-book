@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -198,10 +198,12 @@ An immediate modification order that is disallowed under section 18 is revoked a
 (1) If the House of Representatives resolves to disallow an immediate modification order, the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
 (2) The notice must show the date on which the resolution was agreed to and be accompanied by the text of the resolution.
 (3) The notice is conclusive evidence of the day on which the resolution was agreed to.
-(4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under section 4 of the Acts and Regulations Publication Act 1989 as if it were a regulation.
+(4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under the Legislation Act 2012 as if it were a regulation.
 
-### 22 Application of Regulations (Disallowance) Act 1989
-An immediate modification order cannot be disallowed under the Regulations (Disallowance) Act 1989.
+### 22 Application of Part 3 of Legislation Act 2012
+An immediate modification order cannot be disallowed under Part 3 of the Legislation Act 2012 if a notice of motion under section 17 of this Act to disallow it—
+  (a) has lapsed; or
+  (b) has not been agreed to.
 
 **Other matters**
 
