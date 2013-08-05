@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -3220,9 +3220,10 @@ Every one who is accessory after the fact to any imprisonable offence, being an 
 No civil remedy for any act or omission shall be suspended by reason that such act or omission amounts to an offence.
 
 ### 406 Prerogative of mercy
-Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either—
+(1) Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either—
   (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person's right of appeal against conviction under section 229 of the Criminal Procedure Act 2011 was to a District Court or the High Court, to the High Court, and the question so referred shall then be heard and determined by the court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
   (b) if he desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
+(2) A reference under this section must be published in the Gazette.
 
 ### 406A Appeals against decisions made on references
 (1) With the leave of the court appealed to, a party to proceedings in which the High Court heard and determined a question referred to it under section 406(a) may appeal to the Court of Appeal or the Supreme Court against the High Court's determination of the question.
