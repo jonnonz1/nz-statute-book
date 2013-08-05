@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -925,7 +925,7 @@ The Rural Fire Fighting Fund shall be funded at such a level as will enable an e
   (b) the rate of the levy that shall be computed on all other property on—
     (i) the amount for which the property is insured for the period of the contract of fire insurance; and
     (ii) the period of the contract of fire insurance:
-(2A) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2A) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) The rate of the levy shall be reviewed annually by the Minister.
 (4) In reviewing the rate of the levy the Minister shall have regard to—
   (a) the total amount for which all properties in respect of which the levy is payable are insured at the latest available date, and the likelihood of any increase or decrease in that total amount:
@@ -1320,8 +1320,8 @@ Section 72C shall apply in respect of every person who is a member of the New Ze
   (l) prohibiting or restricting the sale for domestic use of any apparatus or equipment that may cause injury to persons by burning, or the ignition of clothing or fabrics, by contact with heating elements or flames:
   (m) controlling the sale and use of fire extinguishers:
   (n) prescribing standards of fire safety:
-  (na) prescribing the design, siting, installation, dimensions, markings, and recommended distance from buildings of fire hydrants, whether by reference to a New Zealand Standard or otherwise:
-  (nb) prescribing the design, installation, dimensions, and markings of riser mains, whether by reference to a New Zealand Standard or otherwise:
+  (na) prescribing the design, siting, installation, dimensions, markings, and recommended distance from buildings of fire hydrants:
+  (nb) prescribing the design, installation, dimensions, and markings of riser mains:
   (nc) prescribing, for the purposes of section 21A, the minimum amounts of hazardous substances stored or processed in a relevant building:
   (nd) prescribing, for the purposes of section 21B, the matters to be included in an evacuation scheme:
   (ne) prescribing, for the purposes of section 21B, the minimum standards required for automatic sprinkler systems:
