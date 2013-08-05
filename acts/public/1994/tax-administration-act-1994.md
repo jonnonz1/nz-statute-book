@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1887,6 +1887,7 @@ A return purporting to be made by or on behalf of any person shall for all purpo
     (i) a hard-copy transcript:
     (ii) an electronic form meeting the requirements of section 25 of the Electronic Transactions Act 2002; and
   (b) if no electronic form under paragraph (a)﻿(ii) of a return is retained, and the return is not an employer monthly schedule or annual reconciliation statement under section 57B, the hard-copy transcript must be signed under section 40 and held by the taxpayer or registered person on behalf of the Commissioner; and
+  (ba)
   (c) the information transmitted to the Commissioner shall be treated for the purposes of this Act and the Goods and Services Tax Act 1985 as if it were a return furnished under such provisions of this Act or the Goods and Services Tax Act 1985 as relate to the kind of return in question.
 (4) In this section, registered person has the same meaning as in section 2(1) of the Goods and Services Tax Act 1985.
 
@@ -7051,8 +7052,8 @@ Despite sections 173L and 173M, if a taxpayer makes a request to transfer a refu
   (c) the request is actioned before an assessment is made under Part 6.
 (2) The excess provisional tax that may be transferred on a particular date (date A) is calculated according to the formula:provisional tax paid − refunds − provisional tax liabilitywhere—
   (provisional tax paid) is the provisional tax paid for a tax year on or before date A, including:
-  (a) voluntary payments made under section RC 12 of the Income Tax Act 2007; and
-  (b) tax transferred to the taxpayer:
+    (a) voluntary payments made under section RC 12 of the Income Tax Act 2007; and
+    (b) tax transferred to the taxpayer:
   (refunds) are the refunds of the provisional tax that are paid to the taxpayer on or before date A, including transfers by the taxpayer or offsets by the Commissioner against unpaid tax
   (provisional tax liability) is the provisional tax payable by date A.
 (3) The Commissioner must not transfer an amount on date A if, as a result, the taxpayer would not satisfy their provisional tax liability in respect of the tax year on a date (date B) that falls after date A, unless the taxpayer requests a transfer back to their account to satisfy their provisional tax liability on date B.
@@ -7646,7 +7647,7 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
     (ii) the amount of the income-tested benefit received by the person:
     (iii) the amount of the WFF tax credit to which the person may be entitled, as determined by the chief executive of that department:
     (iv) any amount used or calculated by the chief executive of that department in determining the amount of the WFF tax credit to which a person may be entitled.
-(3) Every Order in Council made under subsection (1) is treated as being a regulation for the purpose of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 225B Order in Council amending Schedule 27
 (1) The Governor-General may from time to time, by Order in Council, amend Schedule 27 of the Income Tax Act 2007 by—
@@ -7785,16 +7786,6 @@ The Tax Administration Act 1994 is amended by this Part.
 ### 103 Relief from additional tax incurred due to default in payment of tax
 (1) Amendment(s) incorporated in the Act(s).
 (2) Notwithstanding subsection (1), a remission may be made under section 182 if the Commissioner considers that the request for the remission is received before the date on which this Act receives the Royal assent.
-
-### 1 Short Title
-This Act may be cited as the Taxation (Accrual Rules and Other Remedial Matters) Act 1999.
-
-## Part Part 2 — Amendments to Tax Administration Act 1994
-
-### 101 Extension of time bars
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies on and after 1 October 1996.
-(3) Despite subsection (2), subsection (1) does not apply to a waiver made under section 108B if the waiver was signed and delivered to the Commissioner before 17 November 1998.
 
 ### 1 Title
 This Act is the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001.
