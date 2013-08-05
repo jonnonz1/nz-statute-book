@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires,—
   - **Judge** means a High Court Judge
   - **offence** , in relation to the law of New Zealand, includes an offence against a law relating to taxation, Customs duty, or other revenue matters, or relating to foreign exchange control
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004
-  - **prisoner** means a person who is for the time being in the legal custody under the Corrections Act 2004
+  - **prisoner** means a person who is for the time being in legal custody under the Corrections Act 2004
   - **property** means real or personal property of every description, whether situated in New Zealand or elsewhere and whether tangible or intangible, and includes an interest in any such real or personal property
   - **Statute of the Tribunal** , in relation to any particular tribunal, means the statute of that tribunal, a copy of the English text of which is set out in the Schedule
   - **surrender warrant** means a warrant issued under section 14
@@ -71,7 +71,7 @@ This Act binds the Crown.
   (a) the Attorney-General receives from a Tribunal a request for the surrender of a person; and
   (b) the request is accompanied by an arrest warrant in relation to the person that was issued by the Tribunal, or by a copy of that warrant authenticated by the Tribunal,—
 (2) Where any notice is sent to a Judge under subsection (1), a copy of—shall also be sent to the Judge.
-  (a) the arrest warrant referred to in subsection (1)(b); and
+  (a) the arrest warrant referred to in subsection (1)﻿(b); and
   (b) the request made under section 4—
 
 ### 7 Issue of warrants
@@ -137,7 +137,7 @@ Where—the constable may apply to an issuing officer for the issue of a search 
     (i) to be placed in the custody of a specified person who is an officer of the Tribunal or other person authorised by the Tribunal; and
     (ii) to be transported to a place specified by the Tribunal; and
   (c) authorise the specified person to transport the eligible person in custody to a place specified by the Tribunal for the purpose of surrendering the eligible person to a person appointed by the Tribunal to receive the person.
-(2) A place referred to in subsection (1)(b) or (c) may be a place in or outside New Zealand.
+(2) A place referred to in subsection (1)﻿(b) or (c) may be a place in or outside New Zealand.
 
 ### 18 Release from remand
 (1) This section applies to a person—
@@ -155,7 +155,7 @@ Where—the constable may apply to an issuing officer for the issue of a search 
 (2) If the person is convicted of a Tribunal offence, time spent by the person in custody serving a sentence of imprisonment imposed by the Tribunal for the Tribunal offence is not to be counted as time towards the sentence referred to in subsection (1).
 
 ### 20 Expiry of New Zealand sentences while under Tribunal detention
-If—the Attorney-General must without delay inform the Tribunal of the expiry, and, if the Tribunal was required to give undertakings in accordance with section 15(1)(b), that the undertakings are no longer required to be complied with.
+If—the Attorney-General must without delay inform the Tribunal of the expiry, and, if the Tribunal was required to give undertakings in accordance with section 15(1)﻿(b), that the undertakings are no longer required to be complied with.
   (a) at the time a person was surrendered to a Tribunal under this Part, the person was serving a sentence of imprisonment in respect of an offence against the law of New Zealand; and
   (b) the sentence of imprisonment that the person was serving at that time expires while the person is being detained by, or on the order of, the Tribunal,—
 
@@ -231,7 +231,7 @@ Subject to section 57, where—the Attorney-General may, in writing, authorise a
   (a) a Tribunal makes a request to the Attorney-General for the attendance of a person—
     (i) at a hearing in a foreign country in connection with a proceeding before the Tribunal; or
     (ii) in a foreign country to assist an investigation being conducted by the Tribunal; and
-  (b) the person is in New Zealand and is not a person described in section 31(1)(b).
+  (b) the person is in New Zealand and is not a person described in section 31(1)﻿(b).
 (2) Where, on receipt of a request to which this section applies, the Attorney-General is satisfied—the Attorney-General may, subject to section 57, authorise, in writing, assistance to the Tribunal in accordance with this section and may assist in the making of arrangements to facilitate that attendance.
   (a) that the proceeding or investigation relates to a Tribunal offence; and
   (b) that there are reasonable grounds to believe that the person can give evidence relevant to the proceeding or assist the investigation; and
@@ -258,8 +258,8 @@ Subject to section 57, where—the Attorney-General may, in writing, authorise a
 (3) Where travel by a person to a foreign country is authorised in accordance with subsection (2), the Attorney-General may,—
   (a) in the case of a person who is a prisoner, direct that the prisoner be released from the prison in which that person is detained for the purpose of travelling to the foreign country to give evidence at the hearing, and may make arrangements for the prisoner to travel to the foreign country in the custody of a constable or a prison officer:
   (b) in the case of any other person to which this section applies, approve and arrange the travel of the person to the foreign country to give evidence at the hearing, and may obtain such approvals, authorities, and permissions as are required for the purpose, including the variation, discharge, or suspension of the conditions of the person's release, or the variation, cancellation, or suspension of the person's sentence, or of the conditions of the person's sentence.
-(4) A direction given, pursuant to subsection (3)(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the prison in which he or she is detained for the purposes of the direction.
-(5) Every person released under a direction given pursuant to subsection (3)(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in legal custody for the time being under the Corrections Act 2004.
+(4) A direction given, pursuant to subsection (3)﻿(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the prison in which he or she is detained for the purposes of the direction.
+(5) Every person released under a direction given pursuant to subsection (3)﻿(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in legal custody for the time being under the Corrections Act 2004.
 
 ### 32 Effect of removal to foreign country on prisoner's sentence
 Where a prisoner who is serving a sentence for an offence against the law of New Zealand is released from a New Zealand prison pursuant to a request by a Tribunal under section 31, the prisoner shall, while in custody in connection with the request (including custody outside New Zealand), be deemed to be continuing to serve that sentence.
@@ -451,7 +451,7 @@ Where—the Attorney-General shall, where the Tribunal concerned requests, give 
 (5) Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the Attorney-General shall direct the Commissioner of Police or designated constable to return the thing seized if—unless the thing seized is the subject of a dispute as to who is entitled to it.
   (a) the reason for its seizure no longer exists; or
   (b) it is decided that the thing is not to be used in evidence by the Tribunal concerned—
-(6) Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
+(6) Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)﻿(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
 
 ## Part 7 — Miscellaneous
 
@@ -493,7 +493,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 61 Additional tribunals to be added by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, declare a tribunal that has been established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations to be a tribunal for the purposes of this Act, and, for that purpose, may also, by the same Order in Council, add a new Part to the Schedule setting out the statute of that tribunal.
 (2) The Governor-General may from time to time, by Order in Council, declare that a tribunal has ceased to be a tribunal for the purposes of this Act and, for that purpose, may also, by the same Order in Council, omit the Part of the Schedule that sets out the statute of that tribunal.
-(3) An Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 62 Amendment to Diplomatic Privileges and Immunities Act 1968
 Amendment(s) incorporated in the Act(s).
