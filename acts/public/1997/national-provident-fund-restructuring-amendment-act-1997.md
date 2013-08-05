@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Amendment Act 1997
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—aAmend the National Provident Fund Restructuring Act 1990; andbAuthorise the amendment of the trust deeds for existing schemes for various purposes; andcProvide for the establishment of a new scheme or schemes for the purpose of paying pensions; anddProvide for the amalgamation of 2 or more of the existing schemes; andeProvide for other incidental matters
 
@@ -173,7 +173,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (3) The notice must—
   (a) Identify the draft amalgamation proposal approved, but need not incorporate it in the notice; and
   (b) State the appointed day for that proposal.
-(4) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+(4) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 22 Amendment of proposal
 (1) The Minister may, by notice in the Gazette, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
@@ -182,7 +182,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (4) The notice must—
   (a) Identify the amendment approved, but need not incorporate it in the notice; and
   (b) State the day on and from which the amendment has effect, which may be the appointed day or any later day.
-(5) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+(5) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 23 Implementation of proposal
 (1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
