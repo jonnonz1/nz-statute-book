@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -87,8 +87,8 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
 (1) The Governor-General may from time to time appoint a member of the Executive Council to hold office during his pleasure as Minister of Forestry.
 (2) The member of the Executive Council holding office as the Commissioner of State Forests when this Act comes into force shall be deemed to have been appointed as Minister of Forestry under this Act.
 (3) All references to the Commissioner of State Forests in any Act, regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, or other document whatsoever shall, unless inconsistent with the context, be read hereafter as references to the Minister of Forestry.
-(4) Any contract, agreement, licence, lease, permit, or other right or authority which the Minister is authorised to enter into or grant under this or any other enactment shall be entered into or granted by him in the name and on behalf of Her Majesty the Queen. All such contracts, agreements, licences, leases, permits, and other authorities that have been entered into or granted by the Commissioner of State Forests before this Act comes into force shall be deemed to have been entered into or granted by him on behalf of Her Majesty, and all rights, powers, and liabilities vested in or imposed upon the Commissioner of State Forests or the Minister by any such contracts, agreements, licences, leases, permits, and other rights and authorities shall be deemed to vest in Her Majesty when this Act comes into force.
-(5) The Minister may from time to time exercise on behalf of Her Majesty all Her Majesty's rights and powers under any such contract, agreement, licence, lease, permit, right, or authority.
+(4) Any contract, agreement, licence, lease, permit, or other right or authority which the Minister is authorised to enter into or grant under this or any other enactment shall be entered into or granted by him in the name and on behalf of the Sovereign. All such contracts, agreements, licences, leases, permits, and other authorities that have been entered into or granted by the Commissioner of State Forests before this Act comes into force shall be deemed to have been entered into or granted by him on behalf of the Sovereign, and all rights, powers, and liabilities vested in or imposed upon the Commissioner of State Forests or the Minister by any such contracts, agreements, licences, leases, permits, and other rights and authorities shall be deemed to vest in the Sovereign when this Act comes into force.
+(5) The Minister may from time to time exercise on behalf of the Sovereign all the Sovereign's rights and powers under any such contract, agreement, licence, lease, permit, right, or authority.
 
 ### 4 Delegation of Minister's powers
 [Repealed]
@@ -190,7 +190,7 @@ Nothing done by any forestry officer, by an employee of the Ministry, or by any 
 ### 25 Maps of State forest land to be prepared and recorded
 [Repealed]
 
-### 26 Working plans
+### 26 Management plans
 [Repealed]
 
 ### 27 Forest produce presumed to be the property of the Crown
@@ -818,7 +818,7 @@ The methods by which costs may be recovered under this subpart are as follows:
 
 ### 67ZM Levies
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, impose a levy payable to the Secretary for the purposes of wholly or partially funding a service provided or function performed by the Ministry or the Secretary for the purposes of this Act.
-(2) Every levy order is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(2) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 67ZN Contents of levy order
 (1) Every levy order under section 67ZM must specify—
@@ -865,10 +865,10 @@ The obligation of a person to pay any fee, levy, charge, or penalty under this s
 ### 67ZT Levy orders to be confirmed
 (1) If a levy order imposing a levy has been made under this subpart on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) If any levy order imposing a levy has been made under this subpart after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ### 67ZU Relationship of Part with Resource Management Act 1991
 Nothing in this Part derogates from any provision of the Resource Management Act 1991.
