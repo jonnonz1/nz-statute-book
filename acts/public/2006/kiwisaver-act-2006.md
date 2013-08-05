@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -804,7 +804,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
   (b) provide for additional rates at which employees may contribute under this subpart, instead of at the rates under that section.
 (2) The Order in Council must state the date from which the rate or rates is to have effect (which must be the first day of a tax year (as defined in section YA 1 of the Income Tax Act 2007)).
 (3) The Order in Council must state how it will apply (for example, whether it applies to the persons to whom this subpart already applies).
-(4) Every Order in Council made under this section and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 expires with the close of the 12-month period commencing on the date on which it was so laid, except in so far as it is expressly validated and confirmed by an Act of Parliament passed before that expiry date.
+(4) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires with the close of the 12-month period commencing on the date on which it was so laid, except in so far as it is expressly validated and confirmed by an Act of Parliament passed before that expiry date.
 (5) Every Order in Council made under this section has the force of law as if it were enacted by this Act.
 (6) The validity of any Order in Council made under this section is not affected by reason only of the repeal of an Act of Parliament validating and confirming it.
 
