@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato continue the Maritime Safety Authority of New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment
 
@@ -3866,7 +3866,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
 (3) The commencement of any rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
 (4) No rule made under this Act shall be invalid because it confers any discretion upon, or allows any matter to be determined or approved by the Authority, the Director, a regional council, or any other person, or allows the Authority, the Director, a regional council, or any other person to impose requirements as to the performance of any activities.
 (5) No breach of any rule made under this Act shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act or is expressly specified by this Act to be an offence against this Act.
-(6) Every rule made under this Act is hereby deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989, but shall not be a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(6) A rule made under this Act is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) So far as the bylaws of any local authority are inconsistent with or repugnant to any rule in force in the same locality, the bylaws shall be construed subject to the rule.
 (8) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make rules under this Act.
 
