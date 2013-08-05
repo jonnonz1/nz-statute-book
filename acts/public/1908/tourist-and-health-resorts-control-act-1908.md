@@ -1,5 +1,5 @@
 # Tourist and Health Resorts Control Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the administration and control of tourist and health resorts and reserves
 
@@ -22,10 +22,10 @@ In this Act, if not inconsistent with the context,—
 The expenses incident to the administration of this Act shall be defrayed out of sums to be from time to time appropriated by Parliament for that purpose.
 
 ### 5 Reserves in Schedule 2 to be administered under Act
-The control of any of the reserves generally described in Schedule 2 hereto, or of any reserve brought under this Act, may from time to time, by Order in Council gazetted, be vested in the Minister, and shall be administered under this Act.
+The control of any of the reserves generally described in Schedule 2 hereto, or of any reserve brought under this Act, may from time to time, by Order in Council published in the Gazette, be vested in the Minister, and shall be administered under this Act.
 
 ### 6 Reserves may be brought under Act
-The Governor-General may from time to time, by Order in Council gazetted, bring under this Act any reserve now or at any time hereafter made or administered under the Reserves Act 1977, the Thermal Springs Districts Act 1908, the Forests Act 1949, the Land Act 1948, or the Queenstown Reserves Act 1905, notwithstanding anything to the contrary in those Acts, and such reserve shall thereafter be administered under this Act:
+The Governor-General may from time to time, by Order in Council published in the Gazette, bring under this Act any reserve now or at any time hereafter made or administered under the Reserves Act 1977, the Thermal Springs Districts Act 1908, the Forests Act 1949, the Land Act 1948, or the Queenstown Reserves Act 1905, notwithstanding anything to the contrary in those Acts, and such reserve shall thereafter be administered under this Act:
   Provided that no such Order in Council shall affect any reserve vested in any local authority, Harbour Board, or Domain Board without its consent.
 
 ### 7 Money received to be paid into Public Account
