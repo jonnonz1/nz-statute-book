@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -400,34 +400,42 @@ All persons exercising functions in relation to the development of civil defence
   (d) the co-ordination of civil defence emergency management during a state of national emergency:
   (e) the period for which the plan remains in force.
 (3) The national civil defence emergency management plan may authorise a person to exercise the power in section 88.
-(4) A national civil defence emergency management plan made under this section is a regulation for the purposes of the Acts and Regulations Publication Act 1989, but is not a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) A national civil defence emergency management plan made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 40 Incorporation by reference
-(1) Any written material or document that, in the opinion of the Minister, is too large or otherwise impractical to be printed as part of a national civil defence emergency management plan may be incorporated by reference.
-(2) Any material incorporated by reference under this section is to be treated for all purposes as forming part of the plan.
-(3) If any amendment to the material incorporated by reference under this section is made, the amendment does not come into force as part of the plan until—
-  (a) an amendment to that effect to the plan has been made under this Act; or
-  (b) a date specified by the Minister by notice in the Gazette.
-(4) All material incorporated by reference under this section must be available at the office of the Director and copies of that material must be available for purchase for a reasonable charge.
+(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in a national civil defence emergency plan.
+(2) When this section applies, subpart 2 of Part 3 of the Legislation Act 2012 applies with the following modifications:
+  (a) section 51 does not apply:
+  (b) section 52 must be read as if—
+    (i) references to the chief executive were references to the Director; and
+    (ii) references to the inspection sites were references to the office of the Director:
+  (c) section 54 must be read as if references to the chief executive were references to the Director:
+  (d) section 56 does not apply.
 
 ### 41 Notification of proposed national civil defence emergency management plan
 (1) The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan unless the Minister—
-  (a) has publicly notified the proposed plan by—
+  (a) has made copies of the proposed plan available for inspection at the office of the Director, free of charge, for a reasonable period; and
+  (b) has stated where copies of the proposed plan are available for purchase; and
+  (c) has made copies of the proposed plan available, free of charge, on an Internet site maintained by or on behalf of the Director, except any part of the proposed plan where making it available in this manner would infringe copyright; and
+  (d) has publicly notified the proposed plan by—
     (i) publishing a notice in the Gazette; and
     (ii) publishing a notice in 1 or more daily newspapers circulating in the major metropolitan areas; and
     (iii) giving any other notification that the Minister considers appropriate, having regard to the persons likely to have an interest in the proposal; and
-  (b) has presented the proposed plan to the House of Representatives at least 90 days before making the recommendation.
+  (e) has presented the proposed plan to the House of Representatives at least 90 days before making the recommendation.
 (2) Every notice under this section must include—
   (a) a description of the proposed plan:
   (b) a statement that submissions on the proposed plan may be made in writing to the Minister by any person:
-  (c) a closing date for submissions (which must not be earlier than 40 working days after notification under this section):
+  (c) a closing date for submissions (which must not be earlier than 40 working days after the notification under this section):
   (d) a statement that every submission should state—
     (i) those aspects of the proposed plan that the submission supports; and
     (ii) those aspects of the proposed plan that the submission opposes; and
     (iii) the reasons for the support and opposition identified; and
     (iv) any specific alternatives to the proposed plan that the person making the submission wishes to recommend:
-  (e) a list of the places where a copy of the proposal for the plan may be obtained or inspected:
+  (e) a list of places where a copy of the proposed plan may be purchased or inspected:
   (f) an address for submissions.
+(3) The Minister may comply with subsection (1)(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) For the purposes of subsection (1)(c), the Minister may not rely on section 66 of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
+(5) In this section, proposed plan includes material incorporated by reference in the plan under section 40, together with a translation in an official New Zealand language, where that material is not in an official New Zealand language.
 
 ### 42 National civil defence emergency management plan must not be inconsistent with national civil defence emergency management strategy
 The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan if the plan will be inconsistent with the national civil defence emergency management strategy in force when the plan takes effect.
