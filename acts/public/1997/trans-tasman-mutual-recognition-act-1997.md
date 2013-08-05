@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -704,8 +704,9 @@ For the purposes of sections 78(2), 80(2), 82(2), 83(2), 85(2), and 87(2), terms
   (a) any rules and regulations made under the Act; and
   (b) any order, proclamation, notice, or other statutory instrument made or given under the Act.
 (4) In subsection (3), regulations—
-  (a) has the same meaning as it has in section 2 of the Acts and Regulations Publication Act 1989; and
-  (b) includes any instruments that have, under section 6A of the Regulations Act 1936 or section 14 of the Acts and Regulations Publication Act 1989 or any other Act, been printed or published as if they were regulations.
+  (a) has the same meaning as it has in the Interpretation Act 1999; and
+  (b) includes legislative instruments within the meaning of the Legislation Act 2012 ; and
+  (c) includes any instruments that have, under any Act, been printed or published as if they were regulations or legislative instruments.
 (5) A law specified in Schedules 1, 2, or 3, that deals not only with requirements described in section 10(2) relating to the sale of goods but also with the registration of an occupation, is excluded or exempted only to the extent that it deals with requirements described in section 10(2) relating to the sale of goods.
 
 ### 77 Exclusions
