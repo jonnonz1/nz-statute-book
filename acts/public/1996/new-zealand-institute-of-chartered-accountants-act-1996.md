@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -69,11 +69,11 @@ The functions of the Institute are—
 (4) The Council may at any time amend the code or revoke the code and replace it with a new code.
 (5) The Council must, no later than 14 days after passing any amendment to the code or replacing the code, deliver to the Registrar for registration a copy of the amendment or the new code.
 
-### 8 Application of Regulations (Disallowance) Act 1989 to certain rules and code of ethics
-The Regulations (Disallowance) Act 1989 applies to—as if they were regulations within the meaning of that Act.
-  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)(a), (b), and (f) to (j), and 19; and
-  (b) rules that relate to the entitlement of members to use the designation chartered accountant; and
-  (c) the code of ethics required by section 7—
+### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
+The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
+  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)(a), (b), and (f) to (j), and 19:
+  (b) rules that relate to the entitlement of members to use the designation chartered accountant:
+  (c) the code of ethics required by section 7.
 
 **Matters relating to disciplining of members**
 
