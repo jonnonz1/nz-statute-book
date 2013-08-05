@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -145,7 +145,7 @@ This Act binds the Crown.
 (1) The Minister of Justice may, by notice in the Gazette, approve the following:
   (a) an agency to determine the training criteria for persons taking, supervising the taking of, or dealing with buccal samples:
   (b) a device for taking, or other means of providing, buccal samples.
-(2) A notice issued under this section is deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) A notice in the Gazette made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 2 — Obtaining bodily samples from suspects
 
