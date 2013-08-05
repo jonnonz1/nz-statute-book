@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -602,9 +602,9 @@ Every oath, affidavit, or affirmation taken or made before any such Commissioner
 (3) Where any provision of the High Court Rules or of any rules made under section 51C restricts or excludes the application of the High Court Rules or any provisions of the High Court Rules, the provision that effects the restriction or exclusion shall have effect according to its tenor.
 (4) If in any civil proceedings any question arises as to the application of any provision of the High Court Rules or of any rules made under section 51C, the court may, either on the application of any party or of its own motion, determine the question and give such directions as it thinks fit.
 
-### 51A Publication of High Court Rules under Acts and Regulations Publication Act 1989
-(1) The High Court Rules, and any reprint of the High Court Rules, may be printed and published under section 14 of the Acts and Regulations Publication Act 1989 as if the High Court Rules were regulations within the meaning of that Act; and that section applies accordingly.
-(2) Sections 16B, 16C(3), and 16D of the Acts and Regulations Publication Act 1989 apply accordingly.
+### 51A Publication of High Court Rules under Legislation Act 2012
+(1) The High Court Rules, and any reprint of the High Court Rules, may be published under the Legislation Act 2012 as if the rules were a legislative instrument within the meaning of that Act.
+(2) The Legislation Act 2012 applies accordingly to rules published in that way.
 
 ### 51B Rules Committee
 (1) For the purposes of this Act and the District Courts Act 1947 and the Criminal Procedure Act 2011, there is a Rules Committee consisting of—
