@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -871,7 +871,7 @@ No public issuer is liable for any false or misleading information published und
 (3) A failure to comply with subsection (2) does not invalidate any notice published under section 36C.
 
 ### 36E Power to exempt securities markets and futures markets from Part 2 and this Part
-(1) The Minister may, by notice in the Gazette, exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of Part 2 and this Part.
+(1) The Minister may exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of Part 2 and this Part.
 (2) The exemption may be on any terms or conditions that the Minister thinks fit.
 (2A) The Minister must, in considering whether to grant an exemption, have regard to—
   (a) the nature of the relevant securities or futures market, or class of securities or futures markets; and
@@ -882,7 +882,16 @@ No public issuer is liable for any false or misleading information published und
 (3) The exemption has effect according to its tenor.
 (4) In determining whether or not to grant an exemption, the Minister must seek the advice of the FMA.
 (5) The Minister may vary an exemption in the same way as the exemption may be granted under this section.
-(6) The Minister may, by notice in the Gazette, revoke an exemption granted under this section.
+(6) The Minister may revoke an exemption granted under this section.
+(7) An exemption under this section is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) A class exemption under this section must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption—
+  (a) means an exemption of general application that applies to a class of securities markets or class of futures markets; but
+  (b) does not include an exemption granted in relation to a particular securities market or futures market.
+(9) An exemption that is not a class exemption under subsection (8) must, as soon as practicable after being granted, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(10) A notification in the Gazette for the purpose of subsection (9)(b) does not have to incorporate the exemption.
 
 **How to obtain registration of market**
 
@@ -905,7 +914,8 @@ No public issuer is liable for any false or misleading information published und
 (1) A notice of market registration under section 36F(3)—
   (a) must identify the market registered and the person that holds the market registration under that section (the registered exchange); and
   (b) must identify the proposed market rules approved for the market (if any), and must identify the existing market rules that apply to the market (if any), but need not incorporate them; and
-  (c) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989); and
+  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (ca) must be presented to the House of Representatives under section 41 of that Act; and
   (d) must, as soon as practicable after it is given, be—
     (i) published on an Internet site maintained by or on behalf of the FMA; and
     (ii) notified in the Gazette.
@@ -978,7 +988,8 @@ Sections 36K and 36L apply to proposed market rules provided to the FMA by an ap
 (3) The revision by the applicant or registered exchange of the proposed market rules or change during the approval period in response to comments by the FMA, and the resubmittal of the revised proposed market rules or change, does not result in the commencement of a new approval period under this section.
 (4) A notice under this section—
   (a) must identify the market rules, change, or changes to which it relates, but need not incorporate them; and
-  (b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989); and
+  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (ba) must be presented to the House of Representatives under section 41 of that Act; and
   (c) must, as soon as practicable after it is given, be—
     (i) published on an Internet site maintained by or on behalf of the FMA; and
     (ii) notified in the Gazette.
@@ -1021,7 +1032,9 @@ Sections 36K and 36L apply to proposed market rules provided to the FMA by an ap
 (2) A registered exchange that fails to comply with subsection (1) commits an offence (see section 43B for the maximum penalty of a $5,000 fine).
 
 ### 36O Application of Acts relating to regulations to contractual market rules
-To avoid doubt, market rules are not regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989 or for any other purpose.
+To avoid doubt, market rules are not—
+  (a) regulations for any purpose; or
+  (b) legislative instruments or disallowable instruments for the purposes of the Legislation Act 2012.
 
 ### 36P Registered exchange must not operate new market if proposed conduct rules or changes not approved
 [Repealed]
@@ -1439,6 +1452,7 @@ Every person who acts in contravention of a term or condition of an authorisatio
 (8A) A notice under subsection (8) may include any authorisation given under section 38.
 (9) The FMA may, by notice in the Gazette, declare any act or conduct to constitute dealing in a futures contract for the purposes of this Part.
 (10) The FMA may, by notice in the Gazette, vary or revoke any declaration made under this section.
+(11) Declarations to which subsection (7)(b) applies (but no other declarations made under this section) are legislative instruments for the purposes of the Legislation Act 2012, and all declarations made under this section are disallowable instruments for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 37A No holding out as futures exchange unless authorised under this Part
 (1) No person may, in connection with carrying on business in New Zealand,—
@@ -2146,9 +2160,9 @@ A person that considers that a decision of the FMA under any of the following pr
 
 ### 48A Status and publication of exemptions
 (1) An exemption granted under section 48—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) must be presented to the House of Representatives under section 4 of that Act.
-(2) A class exemption (but not any other exemption granted under section 48) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) A class exemption (but not any other exemption granted under section 48) is a legislative instrument for the purposes of the Legislation Act 2012.
 (3) An exemption granted under section 48 that is not a class exemption must, as soon as practicable after it is granted, be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
