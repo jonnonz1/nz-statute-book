@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -439,8 +439,8 @@ In prescribing matters under this subpart, the FMA must be guided by the followi
     (i) inspect the notice free of charge; or
     (ii) obtain a copy of the notice for a reasonable fee.
 (2) Each notice under section 32—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989; and
-  (b) must be presented to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 
 ### Subpart 4 — Register of licensed auditors and registered audit firms
 
