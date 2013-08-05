@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -730,8 +730,9 @@ The exercise of the power giving rise to a claim for compensation under this sub
 (4) An order may be retrospective only to the extent provided for in subsection (3).
 (5) So far as it is authorised by this Act, an order has the force of law as if it were enacted as a provision of this Act.
 
-### 76 Regulations (Disallowance) Act 1989 applies
-Despite section 75(5), the Regulations (Disallowance) Act 1989 applies to an Order in Council made under section 71.
+### 76 Application of Legislation Act 2012
+(1) Despite section 75(5), an Order in Council made under section 71 is a disallowable instrument for the purposes of the Legislation Act 2012.
+(2) An Order in Council made under section 71 is also a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### Subpart 8 — Miscellaneous provisions
 
