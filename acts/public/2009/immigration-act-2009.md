@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -500,7 +500,7 @@ A person who is unlawfully in New Zealand may not—
 (7) Any conditions referred to in subsection (5)(h) that relate to resident visas (other than conditions relating to travel) must specify the maximum period, not exceeding 5 years, for which they may be imposed.
 (8) Immigration instructions certified by the Minister under subsection (1)—
   (a) are statements of government policy:
-  (b) are not regulations for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+  (b) are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 23 Immigration instructions classified as residence instructions, temporary entry instructions, or transit instructions
 (1) The Minister must classify immigration instructions as—
@@ -1023,7 +1023,7 @@ An immigration officer may cancel a visa that the officer believes on reasonable
 (4) Any special direction made under subsection (2)(a) or (b)—
   (a) must be published in the Gazette, and notified in writing through diplomatic channels to any country concerned:
   (b) expires at the end of the period of 3 months (or such shorter period as is specified in the direction) following the day on which the direction was made, unless sooner cancelled by the Minister by a further special direction, or by regulations:
-  (c) is to be treated for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989) as if it were a regulation within the meaning of that Act.
+  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) A special direction under subsection (2)(a) or (b) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
 (6) A waiver under this section does not of itself entitle a person subject to the waiver to be granted entry permission.
 
@@ -1218,7 +1218,8 @@ The following persons may apply for a limited visa:
   (b) suspend any transit visa waiver specified in regulations for any class or classes of person.
 (5) A special direction made under subsection (4)—
   (a) must be published in the Gazette and notified in writing through diplomatic channels to any country concerned; and
-  (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations.
+  (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations; and
+  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) A special direction made under subsection (4) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
 (7) In this section, transit passenger means a person who—
   (a) arrives in New Zealand from another country while in transit to another overseas destination; and
@@ -4903,6 +4904,7 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
 (6) A special direction may revoke or amend any previous special direction.
 (7) Nothing in this section limits or affects the powers of the Minister to give all such instructions to the chief executive as the Minister thinks fit in the ordinary course of the administration of the immigration portfolio and of this Act.
 (8) The decision whether to grant a special direction is in the absolute discretion of the Minister.
+(9) A special direction is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act, unless this Act otherwise provides.
 
 ### 379 Immigration officer to act in accordance with special direction
 Any decision made, or discretion exercised, under this Act by an immigration officer must be made or exercised in accordance with any special direction that is—
