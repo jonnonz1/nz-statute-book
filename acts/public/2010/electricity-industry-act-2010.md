@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -368,7 +368,7 @@ The name, contact details, and business details of every person that, immediatel
 (4) Schedule 1 applies to any material incorporated by reference into the Code.
 
 ### 33 Status of Code
-(1) The Code is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publications Act 1989.
+(1) The Code is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (2) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
 
 **Making and amending Code**
@@ -900,7 +900,7 @@ This Part extends to persons outside New Zealand who are involved in a distribut
 (4) The Authority may grant an exemption on any terms and conditions that it reasonably considers are necessary to give effect to the purpose of this Part.
 (5) The Authority may in like manner vary or revoke any such exemption.
 (6) The Authority must make publicly available a list of all current exemptions under this section.
-(7) An exemption under this section is not a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+(7) An exemption under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 **Application of other Acts**
 
@@ -1196,7 +1196,7 @@ The purposes of sections 121 to 126 are—
   (a) must be notified in the Gazette, and publicised by the Minister and the consent authority, as soon as practicable after it is made; and
   (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the Resource Management Act 1991 but may not be before the date of the notice in the Gazette); and
   (c) takes effect as if it were a change to a condition that had been made by the consent authority; and
-  (d) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+  (d) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) The Minister must present a copy of the order to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
 
 ### 123 Existing agreements with other parties in respect of Waitaki Power Scheme
@@ -1647,11 +1647,12 @@ Material incorporated by reference into the main document that expires, is revok
   (a) an amendment to the main document states that the material ceases to have that legal effect; or
   (b) the Agency, by notice in the Gazette, states that the material ceases to have that legal effect.
 
-### 7 Acts and Regulations Publication Act 1989 not applicable
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
+### 7 Application of Legislation Act 2012
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012, except section 41, applies to material incorporated by reference in the main document, or to any amendment to, or replacement of, the material.
 
 ### 8 Application of Regulations (Disallowance) Act 1989
-The Regulations (Disallowance) Act 1989, except section 4, applies to material incorporated by reference in the main document, or to any amendment to, or replacement of, the material.
+[Repealed]
 
 ## Schedule 2 — When person is involved in distributor, generator, or retailer for purposes of Part 3
 
