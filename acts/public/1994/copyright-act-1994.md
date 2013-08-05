@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -56,7 +56,7 @@ _Consolidation as at 2013-07-01_
   - **country** includes every territory for whose international relations the Government of that country is responsible
   - **Crown** —
     (a) means Her Majesty the Queen in right of New Zealand; and
-    (b) includes a Minister of the Crown, a government department, and an Office of Parliament; but
+    (b) includes a Minister of the Crown, a government department, an Office of Parliament, and the Parliamentary Counsel Office; but
     (c) does not include—
       (i) a Crown entity; or
       (ii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986
@@ -103,7 +103,8 @@ _Consolidation as at 2013-07-01_
     (a) a body corporate or other legal entity that has the power to contract:
     (b) an Office of Parliament:
     (c) Public Trust:
-    (d) the Export Guarantee Office
+    (d) the Export Guarantee Office:
+    (e) the Parliamentary Counsel Office
   - **graphic work** includes—
     (a) any painting, drawing, diagram, map, chart, or plan; and
     (b) any engraving, etching, lithograph, woodcut, print, or similar work
@@ -144,8 +145,8 @@ _Consolidation as at 2013-07-01_
   - **Office of Parliament** means—
     (a) the Parliamentary Commissioner for the Environment (and that Commissioner's office):
     (b) the Office of Ombudsmen:
-    (c) the Auditor-General:
-    (d) the Parliamentary Counsel Office
+    (c) the Auditor-General
+    (d)
   - **performance** , except in Part 9,—
     (a) in the case of a literary work that is a lecture, address, speech, or sermon, includes delivery of that work; and
     (b) in general, includes any mode of visual or acoustic presentation of a literary, dramatic, musical, or artistic work, including presentation of the work by means of a sound recording, film, or communication work
@@ -156,9 +157,7 @@ _Consolidation as at 2013-07-01_
     (b) that is declared by Order in Council made under section 232 to be a foreign country to which any provision of this Act applies; and, with respect to the application of any provision of this Act to such a country, the provision shall be read subject to the terms of that Order in Council
   - **proceedings** includes a counterclaim; and references to the plaintiff and to the defendant in proceedings shall be construed accordingly
   - **published edition** means a published edition of the whole or any part of 1 or more literary, dramatic, or musical works
-  - **regulations** —
-    (a) has the same meaning as it has in section 2 of the Acts and Regulations Publication Act 1989; and
-    (b) includes any instruments that have, pursuant to section 6A of the Regulations Act 1936 or section 14 of the Acts and Regulations Publication Act 1989, been printed or published as if they were regulations
+  - **regulations** includes instruments published under Part 2 of the Legislation Act 2012 or under any corresponding former enactment
   - **rental** means any arrangement under which a copy of a work is made available—on terms that it will or may be returned
     (a) for payment (in money or money's worth); or
     (b) in the course of a business, as part of services or amenities for which payment is made,—
@@ -1367,7 +1366,7 @@ A notice referred to in section 92C(3) must—
 (4) The right does not apply in relation to any work made for the purpose of reporting current events.
 (5) The right does not apply in relation to the publication, in—of a literary, dramatic, musical, or artistic work made for the purposes of such publication or made available with the consent of the author for the purposes of such publication.
   (a) a newspaper, magazine, or similar periodical; or
-  (b) an encyclopedia, dictionary, yearbook, or other collective work of reference,—
+  (b) an encyclopaedia, dictionary, yearbook, or other collective work of reference,—
 (6) The right does not apply to any act done by or with the licence of the copyright owner in relation to a work in which copyright first vested in the author's employer under section 21(2) or in the director's employer under section 5(2)(b), if—
   (a) the author or director cannot readily be identified at the time of the act; or
   (b) in the case of a literary, dramatic, musical, or artistic work—
@@ -4063,7 +4062,7 @@ Section 111(2) does not apply in relation to an exclusive licence granted before
   (a) sections 22 and 23 of the 1962 Act; and
   (b) regulations 3(2) and 4 to 7 of the Copyright (Record Royalties) Regulations 1963—
 
-### 43 Notice may be given to chief executive of New Zealand Customs Service
+### 43 Notice may be given to Comptroller of Customs
 (1) Subject to subclause (2), where, before commencement, a notice was given in respect of a work under section 29 of the 1962 Act, and that notice had not been withdrawn and had not otherwise ceased to have effect before commencement, the notice shall have effect after commencement as if it had been accepted under section 136, and section 136 shall apply with any necessary modifications.
 (2) The notice shall, upon commencement, cease to have any effect in respect of—
   (a) any items sold in another country by or with the consent of the owner of the copyright in that country; and
