@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1520,7 +1520,7 @@ A statutory entity is a public authority for the purpose of the Inland Revenue A
 (2) The instructions in subsection (1) may be made in respect of all or any Crown entities, or categories or types of Crown entities.
 (3) The instructions in subsection (1) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to the instructions.
 (4) The Minister of Finance may exempt any Crown entities, or categories or types of Crown entities, from provisions of any instruction, and may amend or revoke that exemption in the same way.
-(5) The instructions are regulations for the purpose of the Regulations (Disallowance) Act 1989 but not the Acts and Regulations Publication Act 1989.
+(5) The instructions are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) The Minister must notify the instruction in the Gazette, and publish it on the Internet, as soon as practicable after issuing it.
 
 ### 175 Consultation with House of Representatives on reporting standards
