@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -761,7 +761,7 @@ All works, electrical installations, and electrical appliances shall be of such 
   (b) the exemption applies to the person; and
   (c) the work is done in accordance with the terms and conditions of the exemption; and
   (d) the work is carried out in a competent and safe manner.
-(4) A notice published under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 76 Exemption for work done under supervision
 A person (the supervised person) may do any prescribed electrical work, or assist in doing any prescribed electrical work, if—
@@ -929,7 +929,7 @@ In prescribing matters under section 84 or 85, the Board must be guided by the f
   (b) available at the office of the Board during business hours, so that members of the public may—
     (i) inspect the notice free of charge; or
     (ii) obtain a copy of the notice for a reasonable fee.
-(2) Each notice published under section 84 or 85 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) Each notice published under section 84 or 85 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **How to become registered**
 
@@ -1096,7 +1096,7 @@ A registered person is entitled to be issued with a practising licence under thi
     (i) the minimum standards for registration that those persons must meet in order to be registered as registered persons or issued with practising licences or to obtain renewals of practising licences; and
     (ii) the terms and conditions imposed by notices published under section 85 that must be complied with by those persons.
 (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
-(3) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) Each notice published in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Competence**
 
