@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3249,10 +3249,12 @@ Financial reporting standards incorporated by reference in regulations made unde
   (b) make the standards available for inspection during working hours, free of charge, at the department's head office and at any other place that the Secretary determines is appropriate.
 (2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under section 259(1)(dc).
 
-### 259I Acts and Regulations Publication Act 1989 not applicable to standards incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to—
+### 259I Application of Legislation Act 2012 to standards incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to—
   (a) financial reporting standards incorporated by reference in regulations made under section 259(1)(dc); or
   (b) an amendment to, or replacement of, those standards.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)(dc) that incorporate financial reporting standards by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
 
 ### 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
 (1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires financial reporting standards that are incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
@@ -3308,7 +3310,7 @@ The purpose of rules made under section 261B is to provide standard performance 
 (5) A rule comes into force 28 days after the date of its notification in the Gazette or on such later date as may be specified in the rule.
 
 ### 261C Status of rules
-A rule made under section 261B is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+A rule made under section 261B is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Incorporation by reference**
 
@@ -4840,7 +4842,7 @@ In deciding whether or not to constitute a community, the territorial authority 
 (4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)(e).
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
-(7) A determination by the Remuneration Authority under this clause is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (8) In this clause, local boards has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 7 Mandatory criteria for Remuneration Authority
