@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -318,7 +318,7 @@ The land described in Schedule 3 is declared—
   (b) exclude from the parliamentary precincts any land or premises that are part of the parliamentary precincts by virtue of this Act.
 (2) The House of Representatives may at any time revoke, vary, or modify a resolution under subsection (1).
 (3) No land or premises may be added under this section to the parliamentary precincts unless the Crown or the Parliamentary Corporation holds, on the date on which the resolution takes effect, an interest in the land or premises.
-(4) Any resolution made under subsection (1) must be printed and published in accordance with the Acts and Regulations Publication Act 1989, but is not a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) A resolution made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012.
 
 ### 26 Parliamentary precincts under control of Speaker
 (1) The control and administration of the whole of the parliamentary precincts is vested in the Speaker on behalf of the House of Representatives, whether Parliament is in session or not.
