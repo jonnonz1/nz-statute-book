@@ -1,5 +1,5 @@
 # Utilities Access Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Utilities Access Act 2010.
@@ -128,7 +128,7 @@ The purpose of the Code is to enable access by utility operators to transport co
 (2) The Minister may, instead of or as well as publishing amendments separately from the Code, publish the Code with amendments incorporated; but in that case the Code published on the Internet site must indicate what changes have been made and when.
 
 ### 15 Status of Code
-(1) A Code approved under section 12 is a regulation for the purpose of the Regulations (Disallowance) Act 1989, but is not a regulation for the purpose of the Acts and Regulations Publication Act 1989.
+(1) A Code approved under section 12 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012.
 (2) The Code must be presented to the House of Representatives no later than 16 days after the date on which it is made.
 
 ### 16 Amendment of Code
@@ -209,9 +209,10 @@ The purpose of the Code is to enable access by utility operators to transport co
     (ii) setting out where and when the material may be inspected free of charge, and how it may be purchased.
 (2) A failure to comply with subclause (1) does not invalidate the regulations that incorporate the material by reference.
 
-### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in the regulations.
+### 6 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in the regulations.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
 
 ### 7 Application of Regulations (Disallowance) Act 1989
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations made under section 18 to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of the Act made by subclause (1), applies to the regulations.
+[Repealed]
