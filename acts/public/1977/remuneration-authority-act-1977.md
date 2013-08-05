@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -128,7 +128,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (6) Any reference in this section to judicial officer includes any person appointed to the office of Solicitor-General.
 (7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a judicial officer referred to in subsection (2)(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
 (8) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
-(9) Every determination to which subsection (1) or subsection (2) applies shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.
+(9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
 ### 12C Allowances
 (1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the remuneration of any persons or group of persons pursuant to section 12(1)(a) (other than subparagraph (i)) or under any other enactment, the Authority may in relation to any such persons or to any member of that group of persons determine the nature and extent of the principal allowances that may be paid in addition to that remuneration.
@@ -165,7 +165,7 @@ There shall from time to time be appointed by the chief executive of the Departm
     (ii) the Speaker of the House of Representatives:
     (iii) the leader of the official Opposition; and
   (b) by publishing it in the Gazette not later than 14 days after the date on which a copy of it is given to the Prime Minister.
-(2) Every determination to which subsection (1) applies shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.
+(2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
 ### 17 Provisions relating to Parliamentary and judicial superannuation
 (1) Any determination under section 12(1)(b) or section 12B(2)(a) may contain provisions which modify, or are to apply instead of, provisions of the Government Superannuation Fund Act 1956.
