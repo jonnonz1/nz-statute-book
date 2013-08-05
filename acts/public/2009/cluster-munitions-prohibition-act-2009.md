@@ -1,5 +1,5 @@
 # Cluster Munitions Prohibition Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Cluster Munitions Prohibition Act 2009.
@@ -158,7 +158,7 @@ The provisions of the Customs and Excise Act 1996 that apply to prohibited impor
 (1) For the purposes of developing, or training persons in, techniques of cluster munition detection, clearance, or destruction, the Minister may from time to time, by notice in writing, authorise cluster munitions to be used, acquired, possessed, retained, or transferred.
 (2) The Minister must not make a notice under subsection (1) if the making of the notice will result in the total number of cluster munitions authorised by all notices made under subsection (1) exceeding the number determined for the time being by the Minister under subsection (3).
 (3) The Minister must from time to time specify, by notice in the Gazette, the number of cluster munitions determined by the Minister to be the number that for the time being is the minimum number that is absolutely necessary for the purposes referred to in subsection (1).
-(4) A notice made under subsection (1) or (3) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989 or the Regulations (Disallowance) Act 1989.
+(4) A notice under subsection (1) or (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012.
 
 ### Subpart 3 — Information
 
