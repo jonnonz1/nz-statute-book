@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -104,7 +104,7 @@ This Act binds the Crown.
 (3) Before making a recommendation, the Economic Development Minister must take into account the extent to which, in relation to the major event, emblems and words require protection in order to—
   (a) obtain maximum benefits for New Zealanders:
   (b) prevent unauthorised commercial exploitation at the expense of either a major event organiser or a major event sponsor.
-(4) A failure to comply with subsection (2)(c) does not affect the validity of an Order in Council made under subsection (1).
+(4) A failure to comply with subsection (2)﻿(c) does not affect the validity of an Order in Council made under subsection (1).
 
 ### 9 Declaration of protection period for major event
 (1) An Order in Council under section 8(1) must identify the relevant major event and declare the protection period for the major event.
@@ -140,11 +140,11 @@ ExampleThe Football World Cup finals are to be held in New Zealand in 2007. The 
       (A) the proper name of any town or road or other place in New Zealand; or
       (B) the legal or trade name (not being used for the purpose of defeating the intention of this subpart) of the person making the representation; or
       (C) an existing registered trade mark.
-(2) Nothing in subsection (1)(d)(iii) authorises a person to make a representation in a way likely to suggest to a reasonable person that there is an association between news, information, criticism, or a review about a major event and—
+(2) Nothing in subsection (1)﻿(d)﻿(iii) authorises a person to make a representation in a way likely to suggest to a reasonable person that there is an association between news, information, criticism, or a review about a major event and—
   (a) goods or services; or
   (b) a brand of goods or services; or
   (c) a person who provides goods or services.
-ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.All combinations of the words “Football”, “World”, and “Cup” are declared to be major event words under section 8.Example 1The World's Best Cup Makers Limited is a New Zealand business that was established in 1982. For many years it has advertised itself with a slogan that states “Maker of cups and trophies for all sporting events, from football to synchronised swimming!” and a logo that shows a football player kicking a football. The World's Best Cup Makers Limited continues to operate and promote itself in this way during the period when the Football World Cup finals are held in New Zealand.The World's Best Cup Makers Limited does not have the written authorisation of the major event organiser for the use of its company name, its advertising, its slogan, or its logo.This is not a breach of section 10 because of the exception in section 12(1)(d)(ii).Example 2Daily Newspaper A produces a 20-page Football World Cup supplement. It contains a schedule of the games to be played during the Football World Cup finals, an explanation of the rules of football, and details about each of the teams and the players and coaches in each of those teams. The supplement also contains a lot of advertising, none of which breaches section 10. However, Company B has paid Daily Newspaper A for the right to state on the cover of the supplement “Coverage of the Football World Cup finals is brought to you by Company B”.Neither Daily Newspaper A nor Company B has the written authorisation of the major event organiser for Company B's statement on the cover of the supplement.The content of the supplement and the advertising within it does not breach section 10 because of the exception in section 12(1)(d)(iii). However, both Daily Newspaper A and Company B are in breach of section 10 because of Company B's statement on the cover of the supplement.
+ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.All combinations of the words “Football”, “World”, and “Cup” are declared to be major event words under section 8.Example 1The World's Best Cup Makers Limited is a New Zealand business that was established in 1982. For many years it has advertised itself with a slogan that states “Maker of cups and trophies for all sporting events, from football to synchronised swimming!” and a logo that shows a football player kicking a football. The World's Best Cup Makers Limited continues to operate and promote itself in this way during the period when the Football World Cup finals are held in New Zealand.The World's Best Cup Makers Limited does not have the written authorisation of the major event organiser for the use of its company name, its advertising, its slogan, or its logo.This is not a breach of section 10 because of the exception in section 12(1)﻿(d)﻿(ii).Example 2Daily Newspaper A produces a 20-page Football World Cup supplement. It contains a schedule of the games to be played during the Football World Cup finals, an explanation of the rules of football, and details about each of the teams and the players and coaches in each of those teams. The supplement also contains a lot of advertising, none of which breaches section 10. However, Company B has paid Daily Newspaper A for the right to state on the cover of the supplement “Coverage of the Football World Cup finals is brought to you by Company B”.Neither Daily Newspaper A nor Company B has the written authorisation of the major event organiser for Company B's statement on the cover of the supplement.The content of the supplement and the advertising within it does not breach section 10 because of the exception in section 12(1)﻿(d)﻿(iii). However, both Daily Newspaper A and Company B are in breach of section 10 because of Company B's statement on the cover of the supplement.
 
 ### 13 Offences and penalty for breach of section 10
 (1) Every person commits an offence who knowingly breaches section 10.
@@ -221,7 +221,7 @@ In sections 18 to 20, a person advertises if that person—
   (b) receives consideration for the placement or the location of the advertisement.
 
 ### 22 Exceptions to sections 18 to 20
-Sections 18 to 20 do not apply to advertising—ExamplesThese examples refer to the clean zone and the clean period, as well as the clean transport routes and the associated clean periods, set out in the examples in section 16.Example 1Existing Business A carries on its business from a private building situated on private land on Stevens Street. Although the land is located within the overall parameters of the clean zone, because it is private land it has not been declared to be part of the clean zone. Existing Business A has a large billboard on the roof of its building advertising Existing Business A's services. This billboard has been there for many years. The advertising on the billboard is clearly visible from within the clean zone.Existing Business A does not have the written authorisation of the major event organiser for this advertising.This is not a breach of section 19 because of the exception in section 22(a).Example 2Two years before the final game of the Football World Cup is held, Company A pays Company B for the right to place advertisements advertising Company A's services on a number of billboards on the grass verge alongside State Highway 73. The billboards are all owned by Company B and are all located within the area that will be a clean transport route during the associated clean period. These billboards are maintained in this area throughout the 24 months leading up to the final game of the Football World Cup, throughout the clean period, and for a period after the final game.Neither Company A nor Company B has the written authorisation of the major event organiser for this advertising.This is not a breach of section 20 because of the exception in section 22(a).Example 3Amy attends the final game of the Football World Cup. She wears her favourite T-shirt and hat, which have advertising brands clearly visible upon them. She is also carrying a newspaper that has many advertisements within it. In order to get to the game, Amy catches a bus that travels along a clean transport route.Amy does not have the written authorisation of the major event organiser for this advertising.This is not a breach of section 18, 19, or 20 because of the exceptions in section 22(b)(i) and (c).
+Sections 18 to 20 do not apply to advertising—ExamplesThese examples refer to the clean zone and the clean period, as well as the clean transport routes and the associated clean periods, set out in the examples in section 16.Example 1Existing Business A carries on its business from a private building situated on private land on Stevens Street. Although the land is located within the overall parameters of the clean zone, because it is private land it has not been declared to be part of the clean zone. Existing Business A has a large billboard on the roof of its building advertising Existing Business A's services. This billboard has been there for many years. The advertising on the billboard is clearly visible from within the clean zone.Existing Business A does not have the written authorisation of the major event organiser for this advertising.This is not a breach of section 19 because of the exception in section 22(a).Example 2Two years before the final game of the Football World Cup is held, Company A pays Company B for the right to place advertisements advertising Company A's services on a number of billboards on the grass verge alongside State Highway 73. The billboards are all owned by Company B and are all located within the area that will be a clean transport route during the associated clean period. These billboards are maintained in this area throughout the 24 months leading up to the final game of the Football World Cup, throughout the clean period, and for a period after the final game.Neither Company A nor Company B has the written authorisation of the major event organiser for this advertising.This is not a breach of section 20 because of the exception in section 22(a).Example 3Amy attends the final game of the Football World Cup. She wears her favourite T-shirt and hat, which have advertising brands clearly visible upon them. She is also carrying a newspaper that has many advertisements within it. In order to get to the game, Amy catches a bus that travels along a clean transport route.Amy does not have the written authorisation of the major event organiser for this advertising.This is not a breach of section 18, 19, or 20 because of the exceptions in section 22(b)﻿(i) and (c).
   (a) if, in accordance with honest practices in industrial or commercial matters, the advertising is done by an existing organisation continuing to carry out its ordinary activities; or
   (b) on articles of clothing (including shoes) or other personal items being worn, carried, or used by—
     (i) a member of the public, unless that item is being worn, carried, or used in co-ordination with other persons with the intention that the advertising intrude on a major event activity or the attention of the associated audience; or
@@ -316,7 +316,7 @@ It is a defence to a prosecution for an offence against section 28, in relation 
 (1) Despite anything about registration in any other Act, a registering authority must not register—
   (a) an incorporated or unincorporated body under a name if the use by that body of that name, or of any word in that name, would be an offence against section 28:
   (b) an emblem on the application of any person if the use of that emblem by that person would be an offence against section 28.
-(2) However, a registering authority may authorise the registration of an incorporated or unincorporated body under a name to which subsection (1)(a) applies if the Registrar is satisfied that in the context in which it is intended to be used—
+(2) However, a registering authority may authorise the registration of an incorporated or unincorporated body under a name to which subsection (1)﻿(a) applies if the Registrar is satisfied that in the context in which it is intended to be used—
   (a) it is not likely to deceive any person; and
   (b) that name, or any word in that name,—
     (i) comprises the whole or part of the proper name of any town or road or other place in New Zealand which is to be used in full by the incorporated or unincorporated body; or
@@ -491,7 +491,7 @@ In any civil proceedings for a breach of any of sections 10, 17 to 20, and 25, t
   (c) if it is not reasonably practicable to erase, remove, cover, or obliterate the unauthorised representation or advertisement, to destroy the goods, material, or object; or
   (d) to erase or remove the unauthorised representation or advertisement from any land, building, structure, or surface (including the surface of an aircraft, boat, train, or vehicle); or
   (e) to cover the unauthorised representation or advertisement on any land, building, structure, or surface (including the surface of an aircraft, boat, train, or vehicle).
-(3) If an order under subsection (2)(a), (b), or (c) is not complied with, or it appears to the court likely that the order would not be complied with, the court may order that the relevant goods, material, or object be delivered to any person whom the court may direct—
+(3) If an order under subsection (2)﻿(a), (b), or (c) is not complied with, or it appears to the court likely that the order would not be complied with, the court may order that the relevant goods, material, or object be delivered to any person whom the court may direct—
   (a) to erase, remove, or obliterate the unauthorised representation or advertisement from the goods, material, or object; or
   (b) to cover the unauthorised representation or advertisement on the goods, material, or object; or
   (c) if it is not reasonably practicable to erase, remove, cover, or obliterate the unauthorised representation or advertisement, to destroy the goods, material, or object.
@@ -572,7 +572,7 @@ If the court decides that no order should be made under section 57, the person w
 
 ### 65 Application of Sentencing Act 2002
 If a person is convicted of an offence against section 13, 23, 26, 27, or 28 in circumstances where that offence involves the making of profit or gain,—
-  (a) that offence is deemed to have caused a loss of property for the purposes of section 32(1)(a) of the Sentencing Act 2002; and
+  (a) that offence is deemed to have caused a loss of property for the purposes of section 32(1)﻿(a) of the Sentencing Act 2002; and
   (b) the provisions of that Act that relate to the imposition of the sentence of reparation apply accordingly.
 
 ### 66 Liability of officers of body corporate
@@ -654,15 +654,15 @@ The Governor-General may, from time to time, by Order in Council,—
   (a) amend the Schedule by adding, omitting, or amending the specification or description of any emblem or word:
   (b) revoke the Schedule or a Part of the Schedule and substitute a new schedule or a new Part of the Schedule.
 
-### 81 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
-(1) An Order in Council made under section 7 or 8 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+### 81 Application of Legislation Act 2012
+(1) An Order in Council made under section 7 or 8 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (2) A notice in the Gazette under section 16—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives in accordance with section 4 of that Act; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of that Act.
 
 ### 82 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing the information that an event organiser must provide when applying under section 7(3)(a) for an event to be declared to be a major event under this Act:
+  (a) prescribing the information that an event organiser must provide when applying under section 7(3)﻿(a) for an event to be declared to be a major event under this Act:
   (b) prescribing the form of a warrant of appointment of an enforcement officer and any particulars that the warrant must contain for the purposes of section 39:
   (c) prescribing the form of formal warnings, and specifying the manner in which they must be issued under section 46:
   (d) prescribing the form of a search warrant for the purposes of section 69(a):
