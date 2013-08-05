@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -738,7 +738,7 @@ In this Part, unless the context otherwise requires,—
   (d) any or all of paragraphs (a) to (c).
 (4) Subsection (3) applies so that any part or element of goods or services can be dealt with separately.
 (5) The order must include an expiry date, which must be a date not later than 20 years after its date of commencement.
-(6) The order is a regulation within the meaning of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(6) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 52O Revocation or amendment of Order in Council
 (1) An Order in Council made under section 52N in respect of particular goods or services may not be revoked or significantly amended unless the Commission has held an inquiry into the goods or services.
@@ -769,6 +769,7 @@ In this Part, unless the context otherwise requires,—
   (b) publish a summary of it in the Gazette; and
   (c) make the whole determination publicly available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
+(9) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
 
 ### 52Q Amendment of section 52P determination
 (1) A section 52P determination may be amended in a material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
@@ -838,6 +839,7 @@ Every relevant input methodology relating to the supply of particular goods or s
   (b) the reasons for determining that methodology; and
   (c) how it is publicly available.
 (3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
+(4) A published input methodology is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
 
 ### 52X Amendment of input methodologies
 If the Commission proposes to amend an input methodology by making a material change, section 52V applies as if the amendment were a new input methodology.
@@ -1188,7 +1190,7 @@ Schedule 5 applies if the Commission wishes to incorporate material by reference
 (3) The exemption must be granted by notice in the Gazette, and takes effect from the date specified in the exemption (which must not be earlier than the date of the Gazette notice).
 (4) The Commission may, in like manner, vary or revoke any exemption.
 (5) The Commission must keep a list of all current exemptions made by it under this section available for public inspection free of charge during normal office hours of the Commission at the offices of the Commission.
-(6) An exemption under this section is not a regulation within the meaning of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+(6) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### Subpart 9 — Electricity lines services
 
@@ -2906,11 +2908,12 @@ Material incorporated by reference in a Part 4 determination that expires, is re
   (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
 
-### 8 Acts and Regulations Publication Act 1989 not applicable
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+### 8 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
 
 ### 9 Regulations (Disallowance) Act 1989 not applicable
-The Regulations (Disallowance) Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+[Repealed]
 
 ## Schedule 6 — Exemptions from Part 4 in respect of specific pipelines
 
