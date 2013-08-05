@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -453,9 +453,7 @@ A sales promotion scheme is authorised by this Act.
 (1) The Secretary may declare, by notice in the Gazette, that gambling that is ordinarily within a class is gambling of another class if—
   (a) the gambling does not satisfy the game rules that apply to the class into which the gambling would ordinarily fall; and
   (b) the Secretary considers that the level of risk associated with the gambling justifies the declaration.
-(2) A notice under subsection (1)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Class 1 gambling**
 
@@ -1636,9 +1634,7 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (b) as a percentage:
   (c) as an amount for each gaming machine.
 (5) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the passage of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of the Illegal Contracts Act 1970.
-(6) A notice by the Secretary under subsection (1)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(6) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 117 Secretary may investigate and audit licensees, grant recipients, and businesses at class 4 venues
 (1) The Secretary may, to the extent that is necessary to determine compliance with this Act, investigate and audit the generation and distribution of the proceeds from class 4 gambling, which may include—
@@ -2825,16 +2821,14 @@ Schedule 4 applies to the Lotteries Commission, its board members, its procedure
 (6) In making any rules under this section, the Lotteries Commission must have regard to the desirability of—
   (a) minimising the risk of players or participants in New Zealand lotteries becoming problem gamblers; and
   (b) minimising the risk of under-age gambling.
-(7) Rules made under this section are deemed to be regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(7) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 244 Minister may require Lotteries Commission products to comply with regulations and minimum standards
 (1) The Minister may, by notice to the Lotteries Commission,—
   (a) require that any New Zealand lottery or class of New Zealand lotteries must comply with the requirements of any regulations or minimum standards made under section 313 or section 327; and
   (b) accordingly, require the Commission to vary or revoke any relevant rule made under section 243, or make a new rule under that section, to ensure compliance.
 (2) The Minister must cause a copy of the notice to be published in the Gazette.
-(3) A notice under this section—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 245 Special purpose lotteries
 (1) The Minister may, from time to time, instruct the Lotteries Commission to promote a New Zealand lottery for any community purpose that the Minister thinks fit.
@@ -3079,9 +3073,7 @@ In addition to the powers specifically provided in this Act, the Board has all t
 (4) The Minister must appoint a member of each committee to be the presiding member.
 (5) The Minister may vary the purposes in respect of which any distribution committee has been established, and may disestablish any distribution committee.
 (6) Part 2 of Schedule 5 applies in relation to the members and proceedings of distribution committees.
-(7) A notice under subsection (1)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 281 Functions of distribution committees
 (1) The functions of each distribution committee are—
@@ -3257,9 +3249,7 @@ The transfers under section 298—
 (6) Every person who commits an offence—
   (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
   (b) against subsection (2) or subsection (3) is liable on conviction to a fine not exceeding $1,000.
-(7) A notice issued by the Minister under subsection (1)(c)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) A notice given under subsection (1)(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 302 Age restriction on class 4 gambling
 (1) Every person under 18 years commits an offence who participates in class 4 gambling.
@@ -3552,9 +3542,7 @@ The department responsible for the integrated problem gambling strategy must rep
   (b) is capable of being monitored and controlled electronically.
 (3) Minimum standards may incorporate, by reference, all or part of a principle, statement, standard, specification, or requirement that is published by, or on behalf of, any body or person in any country.
 (4) If a principle, statement, standard, specification, or requirement that is incorporated by reference into a minimum standard is amended, the amendment does not become part of the minimum standard until it is notified, by the Secretary, in the Gazette.
-(5) Minimum standards prescribed by the Secretary under this section—
-  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(5) Minimum standards prescribed by the Secretary under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 328 Secretary must give notice of minimum standard
 (1) The Secretary must publish a notice in the Gazette—
@@ -3864,9 +3852,7 @@ The Secretary may issue standard forms for the purposes of this Act and must mak
 (4) The Secretary may require the holder of a class 4 operator’s licence or a casino operator’s licence to display game rules prominently at a place used for gambling or on or near to gambling equipment.
 (5) If no game rules exist in respect of a particular gambling activity, a person may apply to the Secretary for the approval of game rules in relation to the activity.
 (6) An application under subsection (5) must include a full description of the gambling activity.
-(7) A game rule made, amended, or revoked under subsection (1)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) A rule, amendment, or revocation made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 368 Regulations relating to forms of gambling and gambling equipment
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
