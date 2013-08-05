@@ -1,5 +1,5 @@
 # Wellington Airport Act 1990
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2013-08-05_
 
 > An Act to provide for the incorporation of a company to own and operate Wellington International Airport, for the transfer of airport assets and liabilities of the Crown and the Wellington City Council to that company, and for the payment to the Crown and the Wellington City Council of the existing reserves of the airport
 
@@ -45,7 +45,7 @@ This Act shall bind the Crown.
 (8) Nothing in section 134 of the Companies Act 1955 or section 3A of the Airport Authorities Act 1966 applies to the company.
 
 ### 4A Provisions relating to holding of securities by Minister
-(1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person from the time being holding the office of that Minister.
+(1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person for the time being holding the office of that Minister.
 (2) Notwithstanding any other enactment or rule of law, it shall not be necessary to complete or register a transfer of securities upon a change in the person holding the office of the shareholding Minister.
 (3) A Minister may at any time or times, by written notice to the company, authorise, on such terms and conditions as are specified in the notice, such person as the Minister thinks fit to act as the Minister's representative at any or all of the meetings of shareholders of the company or of any class of such shareholders, and any person so authorised shall be entitled to exercise the same powers on behalf of the Minister as the Minister could exercise if present in person at the meeting or meetings.
 
@@ -54,7 +54,7 @@ This Act shall bind the Crown.
 (2) In the application of the Companies Act 1955 to the company, the following provisions of the Companies Act 1955 shall, subject to subsection (3), be construed as if references therein to 7 members were references to 2 members:
   (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
   (b) section 217(d), as to winding-up by the court when the number of members is reduced below the legal minimum:
-  (c) section 219(a)(i), as to the presentation of a winding-up petition by a contributory when the number of members is reduced below the legal minimum.
+  (c) section 219(a)﻿(i), as to the presentation of a winding-up petition by a contributory when the number of members is reduced below the legal minimum.
 (3) Subsections (1) and (2) shall have effect only if all equity securities in the airport company are held by—and shall cease to have effect upon the transfer of any equity securities in the airport company to any other person.
   (a) a Minister of the Crown or his or her nominee; or
   (b) a local authority within the meaning of the Local Government Act 2002 or its nominee; or
@@ -79,7 +79,7 @@ This Act shall bind the Crown.
   (a) specify the kind, number, nominal value, and terms of any equity securities that shall be issued by the company consequent upon the vesting in it of the airport assets and airport liabilities referred to in the order; and
   (b) specify the kind, number, nominal value, and terms (including interest) of any debt securities that shall be issued by the company consequent upon the vesting in it of the airport assets and airport liabilities referred to in the order; and
   (c) specify the date on which the equity securities and debt securities shall be issued.
-(5) On the date specified in the Order in Council pursuant to subsection (4)(c) the company shall—
+(5) On the date specified in the Order in Council pursuant to subsection (4)﻿(c) the company shall—
   (a) issue to the Ministers and the Council in accordance with subsection (6), and as fully paid up, equity securities of such kind, number, nominal value, and terms as are specified in the order:
   (b) issue to the Ministers and the Council in accordance with subsection (7) debt securities of such kind, number, nominal value, and terms as are specified in the order.
 (6) Equity securities issued by the company under subsection (5) shall be issued—except that on the first issue of such equity securities under paragraph (a) the equity securities issued shall be reduced by the number of equity securities subscribed for and issued on the incorporation of the company.
@@ -88,9 +88,10 @@ This Act shall bind the Crown.
 (7) Debt securities issued under subsection (5) shall be issued—
   (a) 66% to the Minister of Finance; and
   (b) 34% to the Council.
-(8) Nothing in subsections (1)(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (5).
+(8) Nothing in subsections (1)﻿(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (5).
 (9) Assets that are fixed to, or are under or over, any land may vest in the company under this Act notwithstanding that no interest in the land also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
 (10) Land to which any assets are fixed, and land under or over which are any assets, may vest in the company under this Act notwithstanding that no interest in the assets also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
+(11) An Order in Council made under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 8 Additional provisions relating to vesting of airport assets and airport liabilities in company
 (1) Nothing effected or authorised by this Act—
@@ -116,7 +117,7 @@ This Act shall bind the Crown.
   (b) the operation of the airport was an undertaking or function transferred from the Council to the company; and
   (c) the vesting day was the date of transfer; and
   (d) in section 5(2) of that Act, for the words Minister, after consultation with the Minister charged with the administration of the Act under which the local authorities or any of them are constituted and after making such other inquiries as he thinks fit, determines, there were substituted the words Minister of Local Government and the Minister of Civil Aviation and Meteorological Services shall determine; and
-  (c) every reference in that Act to the expression 2 years was a reference to the expression 1 year.
+  (e) every reference in that Act to the expression 2 years was a reference to the expression 1 year.
 (2) No person to whom the Local Authorities (Employment Protection) Act 1963 applies by virtue of subsection (1) shall be entitled to receive any payment or other benefit, not being a payment or benefit to which that person is entitled under that Act, by reason only of the application of that Act to that person.
 (3) Nothing in the Local Authorities (Employment Protection) Act 1963 (as applied by subsection (1)) shall affect any rights or liabilities under any provident, benefit, superannuation, or retirement fund or scheme of any person to whom that Act applies.
 
