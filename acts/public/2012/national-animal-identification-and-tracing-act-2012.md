@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2013-03-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -899,14 +899,14 @@ In making decisions under section 57, the Minister must have regard to the follo
 (1) Subsection (2) applies to regulations under section 62 that—
   (a) are made on or after 1 January and before 1 July in the same year; and
   (b) are not revoked with effect before or on 1 July in the next year; and
-  (c) are not stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) are not stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012.
 (2) The regulations are deemed to have been revoked at the close of 30 June in the next year unless they have been confirmed by an Act of Parliament passed before or on that day.
 (3) Subsection (4) applies to regulations under section 62 that—
   (a) are made on or after 1 July and before or on 31 December in the same year; and
   (b) are not revoked with effect before or on 1 January in the year after the next year; and
-  (c) are not stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) are not stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012.
 (4) The regulations are deemed to have been revoked at the close of 31 December in the year after the year in which they were made unless they have been confirmed by an Act of Parliament passed before or on that day.
 
 ### 65 Failure to pay
@@ -980,14 +980,14 @@ Second scenario: not industry-led initiative
 (2) Subsection (3) applies to an order that—
   (a) is made on or after 1 January and before 1 July in the same year; and
   (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012.
 (3) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
 (4) Subsection (5) applies to an order that—
   (a) is made on or after 1 July and before or on 31 December in the same year; and
   (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012.
 (5) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
 
 ### 69 Other regulations
@@ -2079,11 +2079,11 @@ If a body corporate is convicted of an offence against this Act, a director or m
     (ii) setting out where and when the material may be inspected free of charge, and how it may be purchased.
 (2) A failure to comply with subclause (1) does not invalidate the regulations or standards that incorporate the material by reference.
 
-### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations.
+### 6 Application of Legislation Act 2012 to material incorporated by reference
+(1) Subpart 1 of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
+(2) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
 
 ### 7 Application of Regulations (Disallowance) Act 1989
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of the Act made by subclause (1), applies to regulations.
+[Repealed]
 
 ## Schedule 4 — Enactments amended
