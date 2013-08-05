@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -137,7 +137,7 @@ In preparing a draft proposal, the Board shall—
 (2) The Minister shall not make a recommendation for the purpose of this section unless he or she is satisfied that sections 5 to 8 have been complied with.
 (3) The Order in Council under this section—
   (a) shall identify the draft proposal approved, but need not incorporate it in the order; and
-  (b) shall be deemed to be a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 10 Amendment of proposal by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve any amendment to the proposal at any time or times after it has been approved under section 9 and before the transfer day.
@@ -146,7 +146,7 @@ In preparing a draft proposal, the Board shall—
   (b) unless the amendment is approved in writing by the Board.
 (3) Any Order in Council under this section—
   (a) shall identify the amendment approved, but need not incorporate it in the order; and
-  (b) shall be deemed to be a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 10A Amendment of proposal after transfer day
 (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, approve any amendment to the proposal at any time or times after the transfer day.
@@ -156,7 +156,7 @@ In preparing a draft proposal, the Board shall—
   (c) the amendment is approved in writing by the Board.
 (3) Any Order in Council under this section—
   (a) shall identify the amendment approved, but need not incorporate it in the order; and
-  (b) shall be deemed to be a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) Every amendment approved under this section shall be deemed to have effect on and from the transfer day and the provisions of this Act shall apply to the proposal as so amended accordingly.
 
 **Implementation of proposal for restructuring of Fund**
@@ -1097,7 +1097,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (3) The notice must—
   (a) identify the draft amalgamation proposal approved, but need not incorporate it in the notice; and
   (b) state the appointed day for that proposal.
-(4) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+(4) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 22 Amendment of proposal
 (1) The Minister may, by notice in the Gazette, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
@@ -1106,7 +1106,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (4) The notice must—
   (a) identify the amendment approved, but need not incorporate it in the notice; and
   (b) state the day on and from which the amendment has effect, which may be the appointed day or any later day.
-(5) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+(5) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 23 Implementation of proposal
 (1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
