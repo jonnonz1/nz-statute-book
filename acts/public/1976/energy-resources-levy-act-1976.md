@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -49,9 +49,9 @@ This Act shall bind the Crown.
 
 ### 5 Rates of levy may be altered by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, reduce or increase any or all of the rates of levy specified in subsection (2) of section 4:provided that no such rate may be increased under this subsection to such an extent that it would exceed the rate specified in that subsection (2).
-(2) Every Order in Council made under this section and laid before Parliament in any session pursuant to the Regulations (Disallowance) Act 1989 shall—
-  (a) where the Order in Council is made on or before 30 June in any calendar year, expire on the close of the last day of that session except so far as it is expressly validated or confirmed by an Act of the Parliament of New Zealand passed during that session; and
-  (b) where the Order in Council is made on or after 1 July in any calendar year, expire on the close of the last day of the session of Parliament in the following calendar year except so far as it is expressly validated or confirmed by an Act of the Parliament of New Zealand passed during that session or the preceding session.
+(2) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 in any session expires as follows:
+  (a) if the Order in Council is made on or before 30 June in any calendar year, it expires on the close of the last day of that session except so far as it is expressly validated or confirmed by an Act passed during that session:
+  (b) if the Order in Council is made on or after 1 July in any calendar year, it expires on the close of the last day of the session of Parliament in the following calendar year except so far as it is expressly validated or confirmed by an Act passed during that session or the preceding session.
 (3) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (2), the rate or rates of levy altered by that Order in Council or provision shall, from the expiry of that Order in Council or provision and until it is or they are again altered, be the same as it was or they were immediately before that Order in Council or provision came into force.
 
 ### 6 Exemptions from levy
