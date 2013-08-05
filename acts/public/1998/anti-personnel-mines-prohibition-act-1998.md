@@ -1,5 +1,5 @@
 # Anti-Personnel Mines Prohibition Act 1998
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
 
@@ -224,7 +224,7 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the Convention set out in that schedule as are required to bring that text up to date:
   (b) revoke the Schedule, and substitute a new schedule setting out in an up-to-date form the text of the Convention.
-(3) Any order made under subsection (2) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Application to Tokelau**
 
@@ -247,32 +247,4 @@ Amendment(s) incorporated in the Act(s).
 ### 30 Further amendments to Arms Act 1983
 Amendment(s) incorporated in the Act(s).
 
-## Schedule Schedule — Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
-
-| Contents |  |  |
-| --- | --- | --- |
-| [This table is not part of the Convention and is included for convenience] |  |  |
-|  |  | Page |
-|  | Preamble |  |
-| 1. | General obligations | 20 |
-| 2. | Definitions | 21 |
-| 3. | Exceptions | 21 |
-| 4. | Destruction of stockpiled anti-personnel mines | 22 |
-| 5. | Destruction of anti-personnel mines in mined areas | 22 |
-| 6. | International cooperation and assistance | 24 |
-| 7. | Transparency measures | 25 |
-| 8. | Facilitation and clarification of compliance | 27 |
-| 9. | National implementation measures | 31 |
-| 10. | Settlement of disputes | 32 |
-| 11. | Meetings of the States Parties | 32 |
-| 12. | Review Conferences | 33 |
-| 13. | Amendments | 34 |
-| 14. | Costs | 35 |
-| 15. | Signature | 35 |
-| 16. | Ratification, acceptance, approval or accession | 35 |
-| 17. | Entry into force | 36 |
-| 18. | Provisional application | 36 |
-| 19. | Reservations | 36 |
-| 20. | Duration and withdrawal | 36 |
-| 21. | Depositary | 37 |
-| 22. | Authentic texts | 37 |
+## Schedule  — Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
