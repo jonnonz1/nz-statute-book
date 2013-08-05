@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -483,7 +483,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
 (2) The exemption may be granted on any terms and conditions that the chief executive thinks fit.
 (3) The chief executive may vary an exemption in the same way as an exemption may be granted under this section.
 (4) The chief executive may, by written notice to an entity, revoke an exemption granted under this section.
-(5) An exemption under this section is not a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 **Board or chief executive may treat entity and affiliated or closely related entities as single entity**
 
