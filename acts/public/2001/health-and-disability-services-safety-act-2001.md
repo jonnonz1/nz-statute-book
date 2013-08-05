@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -98,7 +98,7 @@ A person providing health care services of any kind must do so—
   (b) while meeting all relevant service standards; and
   (c) in compliance with any conditions subject to which the person was certified by the Director-General to provide health care services of that kind; and
   (d) in compliance with this Act; and
-  (e) if the services are rest home care, or geriatric services that are hospital care, in compliance with any applicable regulations under section 53(1)(a).
+  (e) if the services are rest home care, or geriatric services that are hospital care, in compliance with any applicable regulations under section 53(1)﻿(a).
 
 ### 10 Certification not to have effect as professional qualification
 Section 9 does not prevent an individual person who is not certified by the Director-General to provide health care services of any kind from providing health care services of that kind as the agent, employee, officer, or servant of some other person who is certified by the Director-General to provide health care services of that kind.
@@ -127,7 +127,7 @@ The Minister may, by written notice describing by name the standards concerned, 
 (2) Subsection (1) overrides section 28 of the State Sector Act 1988.
 
 ### 16 Status of notices
-(1) A notice under section 13 or section 14 is regulations for the purposes of the Regulations (Disallowance) Act 1989.
+(1) A notice under section 13 or 14 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (2) The Director-General may sign a written certificate that, on a day stated in the certificate, a document (or a document and 1 or more amendments to it) attached to the certificate constituted service standards for providing health or disability services of a kind or kinds stated in the certificate; and—
   (a) in the absence of proof to the contrary, the certificate is proof of the matters stated in it; and
   (b) a court or person acting judicially must take judicial notice of the Director-General's signature.
@@ -149,8 +149,8 @@ The Director-General must take all practicable steps to ensure that—
   (d) is satisfied that requiring providers of services of that kind to provide them in compliance with the standards approved would be in the public interest, having regard to—
     (i) the extent to which compliance would be likely to ensure the safe provision of services of that kind to the public; and
     (ii) the likely costs to providers of compliance.
-(2) The Minister may consult under subsection (1)(a)(ii) by reference to an existing document or documents relating to providing health or disability services.
-(3) Consultation under section 24 in relation to service standards for providing health care services of any kind is compliance with subsection (1)(a)(ii) for the purpose of approving new standards for providing some or all of the health care services of that kind.
+(2) The Minister may consult under subsection (1)﻿(a)﻿(ii) by reference to an existing document or documents relating to providing health or disability services.
+(3) Consultation under section 24 in relation to service standards for providing health care services of any kind is compliance with subsection (1)﻿(a)﻿(ii) for the purpose of approving new standards for providing some or all of the health care services of that kind.
 
 ### 19 Criteria for approval of amendments
 (1) The Minister must not approve amendments of service standards for providing health or disability services of any kind unless the Minister—
@@ -237,7 +237,7 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
   (c) the first standards for providing hospital care, residential disability care, and rest home care approved under this Act (not being standards that relate only to infection control or patient restraint):
   (d) the first standards for providing mental health services approved under this Act.
 (2) Until the commencement of an order under section 7(1) declaring mental health services provided otherwise than as part of hospital care, residential disability care, or rest home care to be services to which this Act applies,—
-  (a) the standards referred to in subsection (1)(d) have effect only as standards for providing mental health services provided as part of hospital care, residential disability care, or rest home care; and
+  (a) the standards referred to in subsection (1)﻿(d) have effect only as standards for providing mental health services provided as part of hospital care, residential disability care, or rest home care; and
   (b) the application of section 9 to persons providing mental health services is limited accordingly.
 
 **Certification of providers**
@@ -265,7 +265,7 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
   (b) may have regard to any other relevant matter.
 
 ### 28 Conditions
-(1) Conditions stated under section 26(2)(d) may be any conditions the Director-General thinks necessary or desirable to help achieve the purpose of this Act.
+(1) Conditions stated under section 26(2)﻿(d) may be any conditions the Director-General thinks necessary or desirable to help achieve the purpose of this Act.
 (2) The conditions may include—
   (a) requirements that the person concerned must obtain audit reports on the provision of the services concerned at stated dates or intervals:
   (b) requirements that the person concerned must at stated dates or intervals—
@@ -306,8 +306,8 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
     (i) a provision of this Act other than section 9; or
     (ii) a condition subject to which the person is certified to provide services of that kind; or
     (iii) a requirement or condition stated in a notice under section 23; or
-    (iv) if the services are rest home care, or geriatric services that are hospital care, any applicable regulations under section 53(1)(a).
-(4) Subsection (2) does not limit the circumstances in which the Director-General may cancel the certification of a person to provide health care services of any kind under subsection (3)(a).
+    (iv) if the services are rest home care, or geriatric services that are hospital care, any applicable regulations under section 53(1)﻿(a).
+(4) Subsection (2) does not limit the circumstances in which the Director-General may cancel the certification of a person to provide health care services of any kind under subsection (3)﻿(a).
 (5) The cancellation of a person's certification must be effected by written notice to the person, stating—
   (a) the name of the person; and
   (b) the kind or kinds of health care services to which it relates.
@@ -414,7 +414,7 @@ Promptly after giving a certified provider or prospective provider an audit repo
   (e) whether the provision of health care services in the other place has been satisfactorily audited by an auditing agency.
 
 ### 41 Right to monitor certain places
-(1) In addition to the powers stated in paragraphs (b) to (e) of section 42(1), an authorised person may at any time exercise any of the powers stated in subsection (2) if he or she has entered and inspected a place under section 40(1)(a) and is satisfied that health care services of any kind are being provided there—
+(1) In addition to the powers stated in paragraphs (b) to (e) of section 42(1), an authorised person may at any time exercise any of the powers stated in subsection (2) if he or she has entered and inspected a place under section 40(1)﻿(a) and is satisfied that health care services of any kind are being provided there—
   (a) by a person not certified by the Director-General to provide services of that kind; or
   (b) in contravention of a cessation order or a closing order.
 (2) The powers of an authorised person referred to in subsection (1) are the powers to—
@@ -441,7 +441,7 @@ Promptly after giving a certified provider or prospective provider an audit repo
 (2) The person is not required to answer the question if the answer may tend to incriminate him or her.
 
 ### 44 Search warrants
-(1) An authorised person may not under section 42(1)(a) enter any place that is a dwellinghouse, except—
+(1) An authorised person may not under section 42(1)﻿(a) enter any place that is a dwellinghouse, except—
   (a) with the consent of an occupier; or
   (b) pursuant to a search warrant under this section.
 (2) A District Court Judge, a Justice, or a court Registrar who is not a constable, may, on a written application made on oath by an authorised person, issue a search warrant in respect of a dwellinghouse, if satisfied that there are reasonable grounds to believe that health care services are being provided in the dwellinghouse (or in another place that cannot reasonably be entered except through the dwellinghouse), and that—
@@ -560,7 +560,7 @@ The Director-General may revoke a cessation order or a closing order if satisfie
     (ii) any minimum qualifications any of them must have:
   (b) prescribing fees for the purposes of this Act, or a means by which fees for the purposes of this Act may be calculated or ascertained:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) While there are in force service standards for providing health care services of any kind that state minimum levels of staffing in premises in which services of that kind are being provided, regulations under subsection (1)(a) do not apply in respect of services of that kind.
+(2) While there are in force service standards for providing health care services of any kind that state minimum levels of staffing in premises in which services of that kind are being provided, regulations under subsection (1)﻿(a) do not apply in respect of services of that kind.
 
 **Offences**
 
