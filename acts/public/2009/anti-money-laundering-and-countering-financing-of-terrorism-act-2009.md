@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -837,7 +837,7 @@ In this Part, unless the context otherwise requires,—
   (c) approve the proposed code of practice as amended by the Minister after consultation with the AML/CFT supervisor.
 (6) The responsible Minister approves a code of practice by notice in the Gazette, and the notice—
   (a) must either set out the code of practice or state where copies of the code of practice in hard copy or electronic format may be obtained or viewed:
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989, but is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 65 Amendment and revocation of codes of practice
 (1) A code of practice may be amended or revoked in the same manner as that in which it was made.
@@ -1600,7 +1600,15 @@ The Minister is not required to comply with section 154(3) in respect of the mak
   (e) the level of regulatory burden to which the reporting entity would be subjected in the absence of an exemption:
   (f) whether the exemption would create an unfair advantage for the reporting entity or disadvantage third party reporting entities:
   (g) the overall impact that the exemption would have on the integrity of, and compliance with, the AML/CFT regulatory regime.
-(4) Every exemption made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) An exemption under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A class exemption under this section must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption—
+  (a) means an exemption of general application that applies to a class of reporting entities or transactions; but
+  (b) does not include an exemption granted in relation to a particular reporting entity or transaction.
+(6) An exemption under this section that is not a class exemption under subsection (5) must, as soon as practicable after being granted, be—
+  (a) published on an Internet site maintained by or on behalf of the chief executive; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(7) A notification in the Gazette for the purpose of subsection (6)(b) does not have to incorporate the exemption.
 
 ### 158 Minister must consult before granting exemption
 Before granting an exemption under section 157, the Minister must consult with—
@@ -1612,7 +1620,7 @@ Before granting an exemption under section 157, the Minister must consult with�
 (2) The exemption—
   (a) must be granted for a period specified by the Minister but that period must not be more than 5 years; and
   (b) may, at any time, be varied or revoked by the Minister.
-(3) The exemption must be notified in the Gazette.
+(3)
 
 **Transitional and savings provisions**
 
