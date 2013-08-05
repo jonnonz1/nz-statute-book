@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -752,7 +752,7 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
   (d) specify the definitions, abbreviations, and units of measurement to apply within any or all railways or railway premises:
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule.
-(5) An ordinary rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) If a bylaw of a local authority is inconsistent with any ordinary rules in force in the same locality, the rules override the bylaws.
 (7) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
 
@@ -763,7 +763,7 @@ The procedure for making ordinary rules in section 161 of the Land Transport Act
 (1) The Agency may, in accordance with section 163 of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
 (2) The Agency may not make emergency rules unless it is impractical in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
-(4) An emergency rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 57 General provisions concerning making of rules
 The provisions of sections 164 to 166 of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
