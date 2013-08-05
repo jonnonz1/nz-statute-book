@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -75,7 +75,7 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (1C) An Order in Council may not be made under subsection (1B)(a) in relation to a controlled drug unless the name or description of the controlled drug is, at the same time, being moved from Schedule 1, 2, or 3, or from a Part or clause of Schedule 1, 2, or 3 to another of those schedules, Parts, or clauses.
 (1D) An Order in Council may not be made under subsection (1B)(b) in relation to a substance, preparation, mixture, or article unless its name or description is, at the same time, being added to Schedule 1, 2, or 3.
 (2) An Order in Council made under subsection (1) or subsection (1B) may not come into force except in accordance with a commencement order made under section 4A.
-(3) Sections 5 to 10 of the Regulations (Disallowance) Act 1989 do not apply to any Order in Council made under subsection (1) or subsection (1B).
+(3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) The Governor-General may, by Order in Council,—
   (a) amend the name or description of any substance, preparation, mixture, or article named or described in Schedule 1, Schedule 2, Schedule 3, or Schedule 5, if the amendment is necessary for the purpose of rendering that name or description consistent with international scientific usage:
   (b) update Schedule 1, Schedule 2, Schedule 3, or Schedule 5, if the update is necessary for the purpose of clarifying content or correcting drafting errors:
@@ -156,7 +156,9 @@ The classification of a drug under this Act is based on the risk of harm the dru
 ### 5A Approved laboratories
 (1) The Minister may from time to time, by notice in the Gazette, approve any laboratory for the purposes of this Act.
 (2) Any approval by the Minister of a laboratory as an approved laboratory for the purposes of this Act may be given on such terms and conditions as the Minister thinks fit and as are specified in the notice approving that laboratory.
-(3) Any notice given by the Minister in the Gazette for the purposes of subsection (1) shall be deemed to be a regulation for purposes of the Regulations (Disallowance) Act 1989 and the Interpretation Act 1999.
+(3) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
+  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
+  (b) a regulation for the purposes of the Interpretation Act 1999.
 
 ### 5B Functions of Minister
 For the purposes of this Act, the functions of the Minister include the provision and publication of reports, information, and advice concerning the misuse of drugs and the treatment of persons suffering from the misuse of drugs.
@@ -218,7 +220,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (h) any carrier may possess a controlled drug in the course of carriage to such extent as is necessary or incidental to his business:
   (i) any person who is permitted by or under this Act to import, export, supply, or administer a controlled drug may procure that drug from a person lawfully entitled to supply it and may possess that drug in the manner and for the purposes expressed or implied in that authority:
   (j) any person who is licensed or otherwise permitted under this Act to cultivate a prohibited plant may possess any controlled drug derived from that plant in the manner and for the purposes expressed or implied in that authority:
-  (k) any person who is permitted by or under this Act to possess a controlled drug may procure that drug from a person lawfully entitled to supply it, and may supply or use that drug in the manner and for the purposes expressed or implied in that authority.
+  (k) any person who is permitted by or under this Act to possess a controlled drug may procure that drug from a person lawfully entitled to supply it, and may supply or use that drug in the manner and for the purposes expressed or implied in that authority:
   (l) a person may, while entering or leaving New Zealand, possess a controlled drug required for treating the medical condition of the person or any other person in his or her care or control, if the quantity of drug is no greater than that required for treating the medical condition for 1 month, and the drug was—
     (i) lawfully supplied to the person by a medical practitioner, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist in New Zealand; or
     (ii) prescribed by a medical practitioner, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
@@ -375,7 +377,7 @@ A person charged with an offence against section 12B or section 243(2) or (3) of
     (iii) other than a needle or syringe that he or she obtained in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes; or
     (iv) other than a needle or syringe that the acquirer obtained on his or her behalf in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes; or
   (b) except as may be provided by regulations made under this Act, has in his possession the seed or fruit (not in either case being a controlled drug) of any prohibited plant which he is not authorised under this Act to cultivate.
-(2) Subsection (4) of section 9 shall apply in relation to a charge under paragraph (b) of subsection (1) as if, in the said subsection (4), a reference to the seed or fruit of a prohibited plant were substituted for the reference to the prohibited plant.
+(2) Subsection (4) of section 9 shall apply in relation to a charge under paragraph (b) of subsection (1) of this section as if, in the said subsection (4), a reference to the seed or fruit of a prohibited plant were substituted for the reference to the prohibited plant.
 (2A) No pharmacist, pharmacy employee, approved medical practitioner, or authorised representative commits an offence by selling or supplying any needle or syringe in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes.
 (3) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $500 or to both.
 (4) For the purposes of this section, unless the context otherwise requires,—
@@ -471,7 +473,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (5) Where—that person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
   (a) a body corporate is convicted of an offence against subsection (3); and
   (b) under section 17(2), a person (being a director or person concerned in the management of that body corporate) is also guilty of that offence,—
-(6) Every notice issued under subsection (1A) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(6) A notice issued under subsection (1A) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 23 Powers of Minister to prohibit prescribing, etc
 (1) Subject to subsection (2), the Minister may at any time, by notice in the Gazette,—
@@ -602,7 +604,9 @@ In any proceedings against any person in respect of any offence against this Act
     (c) a member of the Senior Air Security Specialist trade, or of the Air Security Specialist trade, of the Royal New Zealand Air Force:
     (d) an officer of the Air Security specialisation of the Operational Support Branch of the Royal New Zealand Air Force
   - **served** means served as if the certificate were a document required to be served in accordance with rules made under the Criminal Procedure Act 2011.
-(6) Any notice given by the Minister in the Gazette for the purposes of subsection (1) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Interpretation Act 1999.
+(6) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
+  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
+  (b) a regulation for the purposes of the Interpretation Act 1999.
 
 ### 32 Forfeiture
 (1) Every person convicted of an offence against this Act shall, in addition to any penalty imposed pursuant to this Act, forfeit to Her Majesty, by virtue of such conviction, all articles, if any, in respect of which the offence was committed and in the possession of such person.
@@ -919,7 +923,7 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Phenampromide** (N-(1-methyl-2-piperidinoethyl) propionanilide)
 - **Phenazocine** (2′-hydroxy-5,9-dimethyl-2-phenethyl-6,7-benzomorphan)
 - **Phendimetrazine** (3,4-dimethyl-2-phenylmorpholine)
-- **1-phenethyl-4-phenyl-4-piperidinol** .
+- **1-phenethyl-4-phenyl-4-piperidinol**
 - **Phenmetrazine** (3-methyl-2-phenylmorpholine)
 - **Phenomorphan** (3-hydroxy-N-phenethylmorphinan)
 - **Phenoperidine** (1-(3-hydroxy-3-phenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester)
@@ -985,7 +989,7 @@ Substances containing any proportion of a substance mentioned in clause 2, 3, 4,
 - **Acetyldihydrocodeine**
 - **Ethylmorphine** (3-ethylmorphine)
 - **Nicocodine** (6-nicotinylcodeine)
-- **Nicodicodine** (6-nicotinyldihydrocodeine or nicotinic acid ester of dihydrocodeine
+- **Nicodicodine** (6-nicotinyldihydrocodeine or nicotinic acid ester of dihydrocodeine)
 - **Norcodeine** (N-demethylcodeine)
 - **Pholcodine** (morpholinylethylmorphine)
 - **Propiram** (N-(1-methyl-2-piperidinoethyl)-N-2-pyridylpropionamide).
@@ -1142,7 +1146,8 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 
 ## Schedule 5 — Amount, level, or quantity at and over which controlled drugs are presumed to be for supply
 
-### 1 The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
+### 1
+The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
 Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixture
 
 ### 2
@@ -1412,7 +1417,7 @@ The Commissioner of Police shall include in every annual report prepared by the 
   (b) the number of applications for renewals of detention warrants made under section 13I by any constable or (as the case may require) any officer of Customs:
   (c) the number of such applications referred to in each of the preceding paragraphs of this section that were granted and the number that were refused:
   (d) the average duration of the detention warrants (including renewals) granted on applications by constables or (as the case may require) officers of Customs:
-  (e) the number of prosecutions that have been instituted in which has been adduced evidence obtained directly during the detention of any persons pursuant to detention warrants granted on applications by constables or (as the case may require) officers of Customs, and the results of those prosecutions.
+  (e) the number of prosecutions that have been instituted in which has been adduced evidence obtained directly during the detention of any persons pursuant to detention warrants granted on applications by constables or (as the case may require) officers of Customs, and the results of those prosecutions:
   (f) the number of rub-down searches and strip searches undertaken by constables or Customs officers under section 13EA.
 
 **Imposition of fines**
@@ -1468,7 +1473,7 @@ This Part shall be administered by the Ministry of Justice.
 ### 6 Transitional provisions
 (1) Notwithstanding the amendment, by section 5, of subsections (1), (2), and (2A) of section 31 of the principal Act,—
   (a) section 31(2) of the principal Act shall, after the commencement of this section, continue to apply, in respect of any certificate that is referred to in section 31(2) of the principal Act and that was given before the commencement of this section, as if section 5 had not been passed:
-  (b) Subsection (2A) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section) shall, after the commencement of this section, continue to apply, in respect of the receipt of any substance, preparation, mixture, or article before the commencement of this section, as if section 5 had not been passed.
+  (b) subsection (2A) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section) shall, after the commencement of this section, continue to apply, in respect of the receipt of any substance, preparation, mixture, or article before the commencement of this section, as if section 5 had not been passed.
 (2) Notwithstanding anything in section 31 of the principal Act, where,—the following provisions shall apply:
   (a) before the commencement of this section, any substance, preparation, mixture, or article has been delivered or posted to an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section); and
   (b) any 1 or more of the following circumstances apply in relation to that substance, preparation, mixture, or article, namely,—
