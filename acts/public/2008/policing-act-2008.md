@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -225,7 +225,7 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   (a) add to, omit from, or otherwise amend any power specified in relation to any particular policing role:
   (b) add a new policing role and specify powers in relation to it:
   (c) omit a specified policing role.
-(2) An Order in Council made under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(2) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) An Order in Council made under subsection (1),—
   (a) if made on or before 30 June in any year, expires on the close of 31 December of that year unless it is expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year unless it is expressly confirmed by Act of Parliament passed before the end of that following year.
