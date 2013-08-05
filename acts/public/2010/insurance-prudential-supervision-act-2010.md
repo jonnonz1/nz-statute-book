@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -2419,17 +2419,17 @@ A person commits an offence if the person fails to comply with an order under se
 (6) The Bank may amend or revoke a declaration or exemption in the same way as it may be given or granted.
 (7) Lloyd's may apply for an exemption on behalf of Lloyd's underwriters.
 (8) A declaration—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989; and
-  (b) must be presented to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
-(9) An exemption is not a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
+(9) An exemption is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 **General provisions relating to fit and proper standards and solvency standards**
 
 ### 233 Status of standards
-(1) The following are regulations for the purposes of the Regulations (Disallowance) Act 1989 but are not regulations for the purposes of the Acts and Regulations Publication Act 1989:
+(1) The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
   (a) fit and proper standards:
   (b) solvency standards.
-(2) Fit and proper standards and solvency standards must be presented to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+(2) Fit and proper standards and solvency standards must be presented to the House of Representatives in accordance with section 41 of the Legislation Act 2012.
 
 ### 234 Public notice of standards
 (1) The Bank must give notice of the issue of a fit and proper standard or solvency standard in the Gazette.
@@ -2694,12 +2694,13 @@ Material incorporated by reference in a solvency standard that expires, is revok
   (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a solvency standard.
 
-### 7 Acts and Regulations Publication Act 1989 not applicable
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a solvency standard, or to any amendment to, or replacement of, the material.
+### 7 Application of Legislation Act 2012
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a solvency standard, or to any amendment to, or replacement of, the material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a solvency standard that incorporates material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated by reference in a solvency standard to be presented to the House of Representatives.
 
 ### 8 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a solvency standard to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1), applies to a solvency standard that incorporates material by reference.
+[Repealed]
 
 ## Schedule 2 — General provisions relating to search powers
 
