@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -177,7 +177,7 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
   (b) the exemption applies to the person; and
   (c) the work is done in accordance with the terms and conditions of the exemption; and
   (d) the work is carried out in a competent and safe manner.
-(4) A notice published under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 13 Exemption for trainees
 (1) A person may do, or assist in doing, any sanitary plumbing, gasfitting, or drainlaying if—
@@ -402,7 +402,7 @@ In prescribing matters under sections 28 and 30, the Board must be guided by the
   (b) available at the office of the Board during business hours, so that members of the public may—
     (i) inspect the notice free of charge; or
     (ii) obtain a copy of the notice for a reasonable fee.
-(2) Each notice published under section 28 or 30 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice published under section 28 or 30 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **How to become registered**
 
@@ -569,7 +569,7 @@ A registered person is entitled to be issued with a practising licence under thi
     (i) the minimum standards for registration that those persons must meet in order to be registered as registered persons or issued with practising licences or to obtain renewals of practising licences; and
     (ii) the terms and conditions imposed by notices published under section 30 that must be complied with by those persons.
 (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
-(3) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice published in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Competence**
 
@@ -1471,7 +1471,7 @@ The Board may, by notice in the Gazette,—
 
 ### 145 Further provisions relating to fees, levy, and forms
 (1) Every notice under sections 142 to 144 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) Every notice under sections 142 to 144 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice under sections 142 to 144 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) Every fee prescribed under section 142, and every levy imposed under section 143, is payable, and recoverable as a debt due, to the Board.
 (4) All levies collected under section 14B of the former Act may—
   (a) continue to be used for the purposes referred to in section 14B of the former Act; or
