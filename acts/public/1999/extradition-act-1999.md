@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -162,7 +162,7 @@ This Part applies to—
 (1) If, after the commencement of this Act, an extradition treaty is concluded between New Zealand and another country (including a treaty that amends or is in substitution for an earlier extradition treaty in force between New Zealand and that country), the Governor-General may, by Order in Council, apply this Part to that country (or, if the treaty applies in respect of part only of the country, to that part of the country).
 (2) An Order in Council made under subsection (1) must recite the terms of the treaty.
 (3) An Order in Council made under subsection (1) ceases to have effect when the treaty ceases to be in force.
-(4) An Order in Council made under subsection (1) is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 16 Extradition to non-Commonwealth countries in absence of treaty
 (1) If—the Governor-General may, by Order in Council, made on the recommendation of the Minister, apply this Part to that country subject to such limitations, conditions, exceptions, or qualifications as may be specified in the order.
@@ -170,7 +170,7 @@ This Part applies to—
   (b) there is no Order in Council in force under section 15 in relation to that country; and
   (c) the country is not a Commonwealth country or a designated country,—
 (2) The Minister must not recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied that the country is able to return to New Zealand persons accused or convicted of a similar range of extradition offences to those to which the proposed order would relate.
-(3) An Order in Council made under subsection (1) is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Exempted countries**
 
@@ -493,7 +493,7 @@ This Part applies to—
 (6) If an extradition treaty is in force between New Zealand and the country,—
   (a) the Order in Council made under subsection (2) must recite the terms of the treaty; and
   (b) the Order in Council ceases to have effect when the treaty ceases to be in force.
-(7) An Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Extradition proceedings**
 
