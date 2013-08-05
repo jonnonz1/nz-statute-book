@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -56,16 +56,16 @@ The purposes of this Act are—
   - **care recipient no longer subject to the criminal justice system** has the meaning given to it by section 6(3)
   - **child** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989
   - **Code of Rights** means the Code of Health and Disability Services Consumers' Rights for the time being in force under the Health and Disability Commissioner Act 1994
-  - **compulsory care order** means an order made under section 45 or an order made under section 25(1)(b) or section 34(1)(b)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and includes the order as varied from time to time
+  - **compulsory care order** means an order made under section 45 or an order made under section 25(1)﻿(b) or section 34(1)﻿(b)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and includes the order as varied from time to time
   - **co-ordinator** means a compulsory care co-ordinator appointed under section 140; and, in relation to a function, duty, or power, means the person appointed under that section who is responsible for the geographical area in which the function is to be performed, or the duty or power is to be exercised
-  - **court order** means a compulsory care order or an order under section 24(2)(b) or section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and includes the order as varied from time to time
+  - **court order** means a compulsory care order or an order under section 24(2)﻿(b) or section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and includes the order as varied from time to time
   - **district inspector** means a person designated as district inspector or deputy district inspector under section 144
   - **facility** has the meaning given to it by section 9(1)
   - **former special patient** means a person who, because of a direction given under the Criminal Procedure (Mentally Impaired Persons) Act 2003 or because of an order made under section 84(6) of the Mental Health (Compulsory Assessment and Treatment) Act 1992, has ceased to be a special patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 but who, at the relevant time, continues, under that direction or order, to be a patient under that Act
   - **guardian** includes a welfare guardian
   - **intellectual disability** has the meaning given to it by section 7
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **mental disorder** has the same meaning as in the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **Minister** means the Minister of Health
   - **principal caregiver** , in relation to a care recipient, means the person who is most evidently and directly concerned with the oversight of the care recipient's care and welfare
@@ -74,7 +74,7 @@ The purposes of this Act are—
     (a) under a sentence; or
     (b) while awaiting or during the course of a hearing or trial before a court or while awaiting sentence by a court or pending the determination of an appeal to a court
   - **proposed care recipient** has the meaning given to it by section 6(4)
-  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
   - **responsible district inspector** , in relation to a care recipient, means the district inspector designated in respect of the geographical area in which the care recipient is staying
   - **secure care** means care given to a care recipient who is required to stay in a secure facility
   - **secure facility** has the meaning given to it by section 9(2)
@@ -99,10 +99,10 @@ The purposes of this Act are—
   (b) a care recipient no longer subject to the criminal justice system.
 (2) Special care recipient means—
   (a) a person who is liable to be detained in a secure facility under an order made under—
-    (i) section 24(2)(b) or section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+    (i) section 24(2)﻿(b) or section 38(2)﻿(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     (ii) section 171(2) of the Summary Proceedings Act 1957; or
   (b) a person who is remanded to a secure facility under an order made under section 23 or section 35 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
-  (c) a person who is liable to be detained in a secure facility under an order made under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and who has not ceased, under section 69(3), to be a special care recipient; or
+  (c) a person who is liable to be detained in a secure facility under an order made under section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and who has not ceased, under section 69(3), to be a special care recipient; or
   (d) a person who—
     (i) is liable to be detained in a secure facility under a compulsory care order, made under section 45; and
     (ii) is also liable to detention under a sentence; and
@@ -111,14 +111,14 @@ The purposes of this Act are—
   (f) a person who, in accordance with section 47A(5) of the Mental Health (Compulsory Assessment and Treatment) Act 1992, must be held as a special care recipient.
 (3) Care recipient no longer subject to the criminal justice system means a person who—
   (a) is, or continues to be, subject to a compulsory care order, made under section 45, but is not, or is no longer, liable to be detained under a sentence; or
-  (b) is subject to an order made under section 25(1)(b) or section 34(1)(b)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+  (b) is subject to an order made under section 25(1)﻿(b) or section 34(1)﻿(b)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
   (c) is subject to a compulsory care order resulting from the operation of section 69(3) or section 94(1); or
   (d) is a former special patient who is required, under section 35, to stay in a facility.
 (4) Proposed care recipient means a person—
   (a) who is being assessed under Part 3 or Part 4; or
   (b) in respect of whom an application for a compulsory care order is pending before the Family Court.
 (5) In Parts 2, 3, and 9, a reference to a care recipient includes a reference to a proposed care recipient.
-(6) Care recipient liable to detention under a sentence means a special care recipient to whom subsection (2)(c) or (d) applies.
+(6) Care recipient liable to detention under a sentence means a special care recipient to whom subsection (2)﻿(c) or (d) applies.
 
 ### 7 Meaning of intellectual disability
 (1) A person has an intellectual disability if the person has a permanent impairment that—
@@ -126,10 +126,10 @@ The purposes of this Act are—
   (b) results in significant deficits in adaptive functioning, as measured by tests generally used by clinicians, in at least 2 of the skills listed in subsection (4); and
   (c) became apparent during the developmental period of the person.
 (2) Wherever practicable, a person's general intelligence must be assessed by applying standard psychometric tests generally used by clinicians.
-(3) For the purposes of subsection (1)(a), an assessment of a person's general intelligence is indicative of significantly sub-average general intelligence if it results in an intelligence quotient that is expressed—
+(3) For the purposes of subsection (1)﻿(a), an assessment of a person's general intelligence is indicative of significantly sub-average general intelligence if it results in an intelligence quotient that is expressed—
   (a) as 70 or less; and
   (b) with a confidence level of not less than 95%.
-(4) The skills referred to in subsection (1)(b) are—
+(4) The skills referred to in subsection (1)﻿(b) are—
   (a) communication:
   (b) self-care:
   (c) home living:
@@ -139,7 +139,7 @@ The purposes of this Act are—
   (g) health and safety:
   (h) reading, writing, and arithmetic:
   (i) leisure and work.
-(5) For the purposes of subsection (1)(c), the developmental period of a person generally finishes when the person turns 18 years.
+(5) For the purposes of subsection (1)﻿(c), the developmental period of a person generally finishes when the person turns 18 years.
 (6) This section is subject to section 8.
 
 ### 8 Persons who do not have intellectual disability
@@ -150,7 +150,7 @@ The purposes of this Act are—
   (d) does not feel shame or remorse about the harm that person causes to others.
 (2) To avoid doubt, if—
   (a) a person does not have an intellectual disability, the provisions of this Act relating to compulsory care cannot apply to the person, whether or not the person has any other disability:
-  (b) a person does have an intellectual disability, those provisions are not prevented from applying to the person simply because the person also has 1 or more of the characteristics described in subsection (1)(a) to (d).
+  (b) a person does have an intellectual disability, those provisions are not prevented from applying to the person simply because the person also has 1 or more of the characteristics described in subsection (1)﻿(a) to (d).
 
 ### 9 Meaning of facility and secure facility
 (1) A facility is a place that is used by a service for the purpose of providing care to persons who have an intellectual disability (whether or not the place is also used for other purposes).
@@ -290,7 +290,7 @@ The co-ordinator may, if the co-ordinator considers it appropriate to do so, dis
   (f) any special concerns or aversions of the care recipient:
   (g) any special dietary needs of the care recipient:
   (h) any other special needs of the care recipient.
-(2) The identification, under subsection (1)(a), of the care recipient's needs must take into account any cultural assessment completed under section 23.
+(2) The identification, under subsection (1)﻿(a), of the care recipient's needs must take into account any cultural assessment completed under section 23.
 (3) Every care and rehabilitation plan must indicate the extent to which, and the manner in which, the needs identified under subsection (1) can be met.
 (4) Every care and rehabilitation plan must deal with the kind of supervision the care recipient requires to avoid undue risk to the health or safety of the care recipient and of others.
 
@@ -594,8 +594,8 @@ Every care recipient is entitled to medical treatment and other health care appr
 (1) This section applies to every person—
   (a) who is a special care recipient; or
   (b) who is a care recipient no longer subject to the criminal justice system and who is required to receive secure care.
-(2) A care recipient to whom this section applies must—
-  (a) stay in a secure facility that the co-ordinator designates by written notice given to the care recipient and the care recipient's care manager; and
+(2) A care recipient to whom this section applies—
+  (a) must stay in a secure facility that the co-ordinator designates by written notice given to the care recipient and the care recipient's care manager; and
   (b) may not leave the facility without authority given under this Act.
 
 ### 64 Directions relating to supervised care
@@ -645,18 +645,18 @@ For the purposes of this Act, a person's liability to detention under a sentence
 ### 69 Relationship between detention in secure facility and sentence
 (1) This section applies to a person who is liable to detention under a sentence, and also liable to detention in a secure facility—
   (a) in accordance with a compulsory care order made under section 45; or
-  (b) in accordance with an order under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+  (b) in accordance with an order under section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) The term of a sentence applicable to a person to whom this section applies—
   (a) continues to run while the person is in a secure facility, or is on authorised leave from the secure facility; and
   (b) ceases to run if he or she escapes from the secure facility before his or her liability to detention under the sentence ceases; and
   (c) does not begin to run again until the person is retaken.
 (3) The person ceases to be detained as a special care recipient on the date on which he or she ceases to be liable to be detained under any sentence and,—
   (a) if on that date he or she is subject to a compulsory care order made under section 45, he or she remains subject to the compulsory care order:
-  (b) if on that date he or she is subject to an order under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, then for the purposes of this Act that order becomes a compulsory care order under section 45 that must be regarded as having been made on that date in respect of that person for a term of 6 months.
-(4) To avoid doubt, a compulsory care order resulting from the operation of subsection (3)(b) may be varied and extended under this Act.
+  (b) if on that date he or she is subject to an order under section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, then for the purposes of this Act that order becomes a compulsory care order under section 45 that must be regarded as having been made on that date in respect of that person for a term of 6 months.
+(4) To avoid doubt, a compulsory care order resulting from the operation of subsection (3)﻿(b) may be varied and extended under this Act.
 
 ### 70 Care recipient whose status changes under section 69 to be held in secure care
-(1) A compulsory care order referred to in section 69(3)(a) and a compulsory care order arising from the operation of section 69(3)(b) must be treated as requiring the care recipient to receive secure care.
+(1) A compulsory care order referred to in section 69(3)﻿(a) and a compulsory care order arising from the operation of section 69(3)﻿(b) must be treated as requiring the care recipient to receive secure care.
 (2) Subsection (1) applies on and from the date on which the person ceases to be detained as a special care recipient.
 
 ### 71 Former care recipients subject to sentence to be taken to prison
@@ -687,7 +687,7 @@ For the purposes of this Act, a person's liability to detention under a sentence
   (d) any welfare guardian of the care recipient:
   (e) any lawyer of the care recipient:
   (f) the care recipient's principal caregiver:
-  (g) the specialist assessor who gave the certificate referred to in section 72(3)(a):
+  (g) the specialist assessor who gave the certificate referred to in section 72(3)﻿(a):
   (h) the responsible district inspector:
   (i) in the case of a special care recipient, the Director-General of Health.
 (2) A person who receives, or is entitled to receive, a report under subsection (1) may make a written submission on the report to the Family Court.
@@ -699,7 +699,7 @@ On receipt of the co-ordinator's report, under section 72, on a care and rehabil
 ### 75 Family Court may call for reports
 For the purposes of a review under section 74, the Family Court—
   (a) may call for reports from the co-ordinator, the care manager, the responsible district inspector, or any specialist assessor concerned in the case; and
-  (b) may obtain a second opinion from a specialist assessor other than the specialist assessor who issued the certificate referred to in section 72(3)(a); and
+  (b) may obtain a second opinion from a specialist assessor other than the specialist assessor who issued the certificate referred to in section 72(3)﻿(a); and
   (c) may require any of the persons referred to in paragraphs (a) and (b) to give evidence and to produce documents.
 
 ### 76 Family Court may make recommendations
@@ -760,7 +760,7 @@ When a specialist assessor completes a certificate, under section 79, in respect
 On the expiry of a compulsory care order the care recipient ceases to be a care recipient under this Act.
 
 ### 84 Cancellation of court orders of certain care recipients
-(1) If the Family Court is satisfied that a care recipient no longer subject to the criminal justice system or a special care recipient who is liable to detention under a sentence no longer needs to be cared for as a care recipient, the court may, on the application of the co-ordinator, cancel the care recipient's compulsory care order or the care recipient's order made under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(1) If the Family Court is satisfied that a care recipient no longer subject to the criminal justice system or a special care recipient who is liable to detention under a sentence no longer needs to be cared for as a care recipient, the court may, on the application of the co-ordinator, cancel the care recipient's compulsory care order or the care recipient's order made under section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) The co-ordinator—
   (a) may make an application under subsection (1) at any time; and
   (b) must, as soon as practicable after a certificate under section 79 states that a care recipient no longer needs to be cared for as a care recipient, make an application under subsection (1) in respect of that care recipient's compulsory care order.
@@ -818,7 +818,7 @@ On the expiry of a compulsory care order the care recipient ceases to be a care 
   (b) it is no longer necessary, in the person's own interests or in the interests of the safety of any person, class of person, or the public, that the person continue to be cared for as a special care recipient.
 
 ### 93 Where person considered not to require further care as special care recipient
-(1) If a certificate in the form required by section 92 states the opinion specified in subsection (2)(b) of that section, the co-ordinator must forward the certificate to the Minister for the purposes of section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(1) If a certificate in the form required by section 92 states the opinion specified in subsection (2)﻿(b) of that section, the co-ordinator must forward the certificate to the Minister for the purposes of section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) In forwarding a certificate to the Minister, under subsection (1), the co-ordinator may add any comments or recommendations that the co-ordinator considers appropriate.
 
 **Change of status of certain special care recipients resulting from ministerial directions or court order**
@@ -867,7 +867,7 @@ On the expiry of a compulsory care order the care recipient ceases to be a care 
 (3) If, after investigating the complaint, the district inspector is satisfied that the complaint has substance, the district inspector must—
   (a) conduct an inquiry under section 101 into the complaint; or
   (b) report the matter together with any recommendations to the care manager.
-(4) The district inspector must send a copy of any report prepared under subsection (3)(b) to the Director-General of Health.
+(4) The district inspector must send a copy of any report prepared under subsection (3)﻿(b) to the Director-General of Health.
 
 ### 99 Care recipient to be informed of outcome of investigation
 (1) On concluding an investigation under section 98, the district inspector must report the outcome of the investigation to—-
@@ -1008,7 +1008,7 @@ A constable who enters a place under section 112 or section 113 must,—
   (h) the co-ordinator:
   (i) the responsible district inspector:
   (j) any other person the court considers should be entitled to appear and be heard because of that person's interest in the welfare of the care recipient.
-(2) Subsection (1)(a) is subject to sections 122 and 123.
+(2) Subsection (1)﻿(a) is subject to sections 122 and 123.
 
 ### 118 Specialist assessors and care managers entitled to appear and be heard on certain applications
 A care recipient's care manager and a specialist assessor who has completed the most recent certificate under section 79 relating to the status of the care recipient are each entitled to appear and be heard at every hearing of—
@@ -1126,7 +1126,7 @@ The fact that an appeal has been brought against an order made under this Act do
 (3) If a care recipient subject to a compulsory care order becomes a proposed patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
   (a) the care recipient's compulsory care order is suspended on the date of that occurrence; and
   (b) the care recipient's care manager must keep a record of the date of the suspension and of the unexpired term of the care recipient's compulsory care order.
-(4) A compulsory care order that is suspended in accordance with subsection (3)(a) is revived and continues to run on the date on which the care recipient ceases to be a proposed patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or is released from compulsory status under that Act.
+(4) A compulsory care order that is suspended in accordance with subsection (3)﻿(a) is revived and continues to run on the date on which the care recipient ceases to be a proposed patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or is released from compulsory status under that Act.
 (5) When a special care recipient becomes subject to compulsory status under the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
   (a) the special care recipient must be held as a special patient under that Act until the status of the person is changed in accordance with that Act or the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
   (b) any order under the Criminal Procedure (Mentally Impaired Persons) Act 2003 requiring the detention of the special care recipient in a secure facility is deemed to require his or her detention in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992; and
@@ -1142,7 +1142,7 @@ The fact that an appeal has been brought against an order made under this Act do
 An order made under the Children, Young Persons, and Their Families Act 1989 in respect of a child or young person does not stop the application of the provisions of this Act to that child or young person.
 
 ### 139 Certain orders under Criminal Procedure (Mentally Impaired Persons) Act 2003 prevail over orders under this Act
-(1) If a person becomes subject to an order under section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, any order under this Act in respect of that person is suspended during the currency of that order under the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(1) If a person becomes subject to an order under section 38(2)﻿(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, any order under this Act in respect of that person is suspended during the currency of that order under the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) A compulsory care order of a care recipient ceases to have effect if, after the order is made, the care recipient—
   (a) becomes subject to an order made under section 24(2) or section 34(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
   (b) is sentenced by a court to be detained in a prison.
@@ -1222,7 +1222,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (2) The Director-General must ensure that guidelines are issued, under subsection (1), relating to—
   (a) the placing of care recipients in seclusion; and
   (b) the prescribing of medication for care recipients.
-(3) All guidelines and standards issued under subsection (1) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(3) All guidelines and standards issued under subsection (1) are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 149 Rules
 Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
