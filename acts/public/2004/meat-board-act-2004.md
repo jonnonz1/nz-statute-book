@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -398,9 +398,7 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
 (4) The Board may, by written notice to the person concerned, refuse to issue a quota certificate to any person who has not paid any relevant fee within 30 days of the due date for its payment.
 (5) Nothing in this section authorises the collection of fees in respect of costs arising from events taking place before the commencement of this Act, unless those costs (if any) could have been recovered under the Meat Board Act 1997. In determining whether any such costs could have been recovered under that Act, no regard may be had to the provisions of this section.
 (6) In subsection (1), adequate funding includes funding for and in relation to any liability or possible liability of the Board in respect of its quota management function arising from events occurring after the commencement of this Act.
-(7) A notice under subsection (2)—
-  (a) is to be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 37 Transitional provision for existing allocation mechanisms
 Unless it is sooner revoked, a mechanism that immediately before the commencement of this Act the former Board had in place in relation to a quota market has effect as if it were an allocation mechanism properly established by the Board under this Act (and notified under section 31 on that commencement); and—
@@ -545,9 +543,7 @@ The Board must revoke a person's registration as an exporter if the person so re
   (b) provide the Board with adequate funding to carry out its registration function.
 (2) The Board must publish any fees set under this section, and any changes to the fees, by notice in the Gazette.
 (3) The Board must take all reasonable steps to consult with meat exporters on the initial level of the fees if they are proposed to be higher than those charged under the Meat Board Regulations 1998, and on any increase in the fees.
-(4) A notice under subsection (2)—
-  (a) is to be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 56 Transitional provision for existing export licences
 Subject to section 54, any person who, immediately before the commencement of this Act, held an export licence issued under section 22 of the Meat Board Act 1997 is deemed to be registered as an exporter under section 52 until the date on which that export licence would have expired under section 23 of the Meat Board Act 1997.
