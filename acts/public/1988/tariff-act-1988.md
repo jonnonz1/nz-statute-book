@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -144,12 +144,12 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
     (iv) copies of the provisions can be purchased at specified places.
 (2) A failure to comply with this section does not invalidate an Order in Council that incorporates provisions under section 7C.
 
-### 7G Acts and Regulations Publication Act 1989 not applicable to provisions incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to provisions incorporated under section 7C or to an amendment to, or replacement of, those provisions.
+### 7G Application of Legislation Act 2012
+(1) An Order in Council that incorporates material by reference under section 7C, or amends or replaces such an order, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) However, material incorporated by reference under section 7C does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 7H Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires provisions incorporated under section 7C to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to an Order in Council that incorporates provisions under section 7C.
+[Repealed]
 
 ### 8 Concessions
 (1) The Minister may from time to time, in the Minister's discretion and in accordance with Part 2 of the Tariff, approve in respect of the entry of goods—the appropriate rate of duty or exemption specified in Part 2.
@@ -176,7 +176,7 @@ The Acts and Regulations Publication Act 1989 does not apply to provisions incor
 ### 9B Access to Tariff
 (1) The chief executive must—
   (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 9 of the Acts and Regulations Publication Act 1989.
+  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 7 of the Legislation Act 2012.
 (2) The documents are—
   (a) the Tariff as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Tariff Document; and
@@ -186,10 +186,8 @@ The Acts and Regulations Publication Act 1989 does not apply to provisions incor
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of the Tariff.
 (4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 1996):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
 
-### 9C Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
-Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after 1 January 2010—
-  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+### 9C Application of Legislation Act 2012
+Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after 1 July 2011 are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 9D Judicial notice of Tariff
 Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
@@ -204,7 +202,7 @@ Every copy of the documents referred to in section 9B(2) purporting to be publis
 (2) The Tariff may be altered or amended by an Order in Council made under section 9 or 10 as if it were a regulation.
 (3) The Interpretation Act 1999 applies to the Tariff as if it were an enactment.
 (4) Nothing in this Act limits or affects the application of—
-  (a) the Acts and Regulations Publication Act 1989 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
+  (a) Part 2 of the Legislation Act 2012 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
   (b) the Interpretation Act 1999 to an Order in Council made under section 9 or 10.
 
 ### 9G References to Schedule 1
@@ -222,9 +220,9 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
 
 ### 11 Orders in Council relating to Tariff
-(1) Every Order in Council made under section 9 and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 shall expire on the close of 31 December in the calendar year following the calendar year during which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
+(1) Every Order in Council made under section 9 and presented to the House of Representatives under the Legislation Act 2012 expires on the close of 31 December in the calendar year following the calendar year during which it was presented to the House, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
 (2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1), any duty collected under that Order in Council shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
-(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) laid before it pursuant to the Regulations (Disallowance) Act 1989 should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty payable shall, so far as such resolution provides, be refunded.
+(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) presented to it under the Legislation Act 2012 should be revoked or varied, it must be treated as having been revoked or varied in accordance with the terms of the resolution, and any duty payable must, so far as that resolution provides, be refunded.
 (4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
 (5) Any Order in Council made under section 124 of the Customs Act 1966 may be validated and confirmed, as if that Order in Council had been made under section 9.
 
