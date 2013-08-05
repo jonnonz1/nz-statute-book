@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -521,8 +521,8 @@ If the Minister declines to approve a rule,—
 ### 73 Requirements relating to amendments and revocations
 The requirements of sections 68 to 71 that apply to making a rule containing a registered architects standard apply also to any amendment or revocation of that rule.
 
-### 74 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989 to rules
-The rules are regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+### 74 Application of Legislation Act 2012 to rules
+The rules are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 4 — Miscellaneous provisions
 
