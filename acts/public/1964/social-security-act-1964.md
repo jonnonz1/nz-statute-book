@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -388,8 +388,8 @@ Schedule 32 contains transitional and savings provisions that affect this Act’
 (1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
 (2) As soon as practicable after giving a direction under subsection (1), the Minister must publish in the Gazette and present to the House of Representatives a copy of the direction.
 (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)(b), 125AA(5), and 132AD(4)(c) (other than a direction of that kind that relates exclusively to an individual)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is not a legislative instrument for the purposes of the Legislation Act 2012; but
+  (b) is a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives in accordance with section 41 of that Act.
 
 ### 6 Social Security Commission
 [Repealed]
@@ -1901,8 +1901,8 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (d) amend Schedules 3, 3A,16, and 31, and Schedules 4, 6, 9, 18, 19, 22, 23, 26, 27, and 28—
 (1A) An Order in Council made under subsection (1) may not increase the period of a benefit stand down for a given income.
 (2) Every Order in Council made under subsection (1) shall state the date from which it is to have effect (which may be a date before the date on which it was made) and shall apply to benefits, allowances, lump sum payments, subsidy rates, maximum amounts of supplements, asset limits, income exemptions, advances, cash assets tests, benefit stand down income test, and annual and weekly income tests payable or applicable in respect of the period commencing on the date from which it is to have effect and ending with the day before the date of its revocation by a subsequent Order in Council. In respect of lump sum payments on death, the Order in Council shall state that it applies in respect of persons who die on or after such date as may be specified in the Order in Council. Nothing in this subsection shall authorise any payment to be made before the order is made.
-(3) Every Order in Council made under this section and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 shall expire on the close of the period of 12 months commencing with the date on which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
-(4) Every such Order in Council which is laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989, and which has been revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was so laid, shall be deemed to be invalid in respect of the period it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act of Parliament passed before that date.
+(3) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
+(4) An Order in Council made under this section that is presented to the House of Representatives under section 41 of the Legislation Act 2012, and that has been revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date.
 (5) Every Order in Council made under this section shall have the force of law as if it was enacted by this Act.
 (6) The validity of any Order in Council made under this section shall not be affected by reason only of the repeal of an Act of Parliament validating and confirming it.
 (7) In this section, subsidy rate means the first percentage figure set out in any particular clause of Part 2 of Schedule 18.
