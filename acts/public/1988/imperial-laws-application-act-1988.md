@@ -1,5 +1,5 @@
 # Imperial Laws Application Act 1988
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to specify the extent to which Imperial enactments, Imperial subordinate legislation, and the common law of England are part of the laws of New Zealand
 
@@ -21,7 +21,7 @@ In this Act, unless the context otherwise requires,—
 (6) Where—the Governor-General may, by Order in Council, make such consequential amendments to that schedule as may be necessary to give effect to that revocation or declaration.
   (a) any Imperial subordinate legislation listed in Schedule 2 is revoked; or
   (b) it is declared that any such Imperial subordinate legislation shall cease to have effect as part of the laws of New Zealand,—
-(7) Every Order in Council made under subsection (6) is deemed to be a regulation for the purposes of the Regulations Act 1936.
+(7) An Order in Council made under subsection (6) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 4 Other Imperial enactments and Imperial subordinate legislation not part of laws of New Zealand
 (1) After the commencement of this Act, no Imperial enactments passed before the commencement of this Act (other than those listed in Schedule 1), and, subject to subsection (2), no Imperial subordinate legislation made before the commencement of this Act (other than that listed in Schedule 2), shall be part of the laws of New Zealand.
