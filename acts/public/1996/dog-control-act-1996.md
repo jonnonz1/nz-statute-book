@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -691,7 +691,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (c) may prescribe how and when the levy must be paid or collected.
 (4) A territorial authority must pay a levy required by regulations made under subsection (1).
 (5) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
-(6) An order made under subsection (1) is a regulation under the Regulations (Disallowance) Act 1989.
+(6) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 36 Application for registration
 (1) Except as provided in subsections (2) and (3), every person who owns a dog shall make an application to the territorial authority in whose district the dog is ordinarily kept to register the dog not later than the first day of every registration year.
@@ -1211,7 +1211,7 @@ Notwithstanding anything in section 73 of the Public Finance Act 1989, the court
   (a) adding a further breed or type of dog to the schedule; or
   (b) moving the name or description of any dog from part of the schedule to another part of the schedule.
 (2) An Order in Council made under subsection (1) may not come into force except in accordance with a commencement order made under section 78B.
-(3) Sections 5 to 10 of the Regulations (Disallowance) Act 1989 do not apply to any Order in Council made under subsection (1).
+(3) An order made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 78B Procedure for bringing Order in Council made under section 78A into force
 (1) The Governor-General may, by Order in Council, make a commencement order bringing any Order in Council made under section 78A into force.
