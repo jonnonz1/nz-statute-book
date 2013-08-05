@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -941,7 +941,7 @@ In this Part, unless the context otherwise requires,—
   (b) may contain different provisions for different categories of bulk supplier, networked supplier, designated port or airport, or water carrier, or different provisions for each class of drinking-water supplier; but
   (c) must not include any requirement that fluoride be added to drinking water.
 (4) Despite section 28 of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1).
-(5) Standards issued or adopted under subsection (1) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(5) Standards issued or adopted under subsection (1) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 69P Minister must consult before issuing, adopting, or amending drinking-water standards
 (1) The Minister must not issue, adopt, or amend drinking-water standards unless the Minister is satisfied that adequate consultation has been carried out over a period of at least 3 years with respect to the proposed standards or proposed amendments, including (without limitation)—
@@ -1191,7 +1191,7 @@ Every drinking-water supplier who becomes aware that the drinking water supplied
     (i) any other functions and duties conferred on drinking-water assessors by this Part or any other enactment; and
     (ii) any other functions and duties, in relation to the assessment of drinking water, that the Director-General specifies by notice in writing signed by the Director-General and given to the drinking-water assessor.
 (2) The functions referred to in subsection (1)﻿(e) and (f) do not apply in relation to any recognised laboratory.
-(3) A notice under subsection (1)﻿(j)﻿(ii) is not a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) A notice under subsection (1)﻿(j)﻿(ii) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 69ZM Drinking-water assessors accountable to Director-General for performance of functions
 (1) A drinking-water assessor is accountable to the Director-General for the discharge of the assessor's statutory functions.
@@ -2536,12 +2536,13 @@ Standards incorporated by reference in regulations that expire or that are revok
   (b) any amendment to, or replacement of, those standards that is incorporated in the regulations or the standards referred to in paragraph (a) with the amendments or replacement standards incorporated.
 (3) A failure to comply with this section does not invalidate regulations that incorporate standards by reference.
 
-### 112ZM Acts and Regulations Publication Act 1989 not applicable to standards incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to standards incorporated by reference in regulations or to an amendment to, or replacement of, those standards.
+### 112ZM Application of Legislation Act 2012 to standards incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to standards incorporated by reference in regulations or to an amendment to, or replacement of, those standards.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate standards by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires standards incorporated by reference in regulations to be presented to the House of Representatives.
 
 ### 112ZN Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to regulations that incorporate standards by reference.
+[Repealed]
 
 ### 112ZO Application of Standards Act 1988 not affected
 Sections 112ZG to 112ZN do not affect the application of sections 22 to 25 of the Standards Act 1988.
@@ -2890,11 +2891,12 @@ Material incorporated by reference in this Act or an instrument that expires or 
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
 
-### 137G Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
+### 137G Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
+(2) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be presented to the House of Representatives.
 
 ### 137H Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be laid before the House of Representatives.
+[Repealed]
 
 ### 138 Other Acts not affected
 Except so far as may be expressly provided in this Act, nothing in this Act shall be so construed as to limit or affect in any way the provisions of any other Act.
