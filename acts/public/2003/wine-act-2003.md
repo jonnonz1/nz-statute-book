@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -1344,10 +1344,10 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 ### 96 Levy regulations to be confirmed
 (1) Where regulations imposing a levy have been made under this subpart on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where any regulations imposing a levy have been made under this subpart after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ## Part 4 — Offences, penalties, and miscellaneous provisions
 
@@ -1663,9 +1663,7 @@ A person who is required by or under section 112 to keep records or any other in
   (o) specifying the value to be attributed to any component of a formula of a kind referred to in section 85(b) that determines fees or charges:
   (p) specifying records and other information to be kept and returns to be made by any person for the purposes of section 112.
 (2) Any notice under subsection (1) must be notified in accordance with section 116.
-(3) A notice under subsection (1)(o)—
-  (a) is to be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 121 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
