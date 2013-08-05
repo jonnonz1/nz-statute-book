@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -371,7 +371,9 @@ The Minister must, as soon as practicable, prepare a draft minerals programme fo
 ### 19 Issue of minerals programmes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue a minerals programme or a change to a minerals programme.
 (2) Before recommending the making of an order, the Minister must satisfy those requirements of sections 15 to 18 relevant to the order.
-(3) A minerals programme is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A minerals programme—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 (4) A minerals programme or a change to a minerals programme takes effect on and from the date specified in the order approving it, which must not be earlier than the date on which the order is made.
 
 ### 20 Notification of minerals programmes
@@ -1780,11 +1782,11 @@ In sections 101B and 101C,—
   (a) provide electronic access to any material incorporated by reference in regulations made under this section, unless doing so would infringe copyright; and
   (b) make the material available for inspection during working hours, free of charge, at the department's head office and at any other place that the chief executive determines is appropriate.
 (10) A failure to comply with subsection (9) does not invalidate regulations that incorporate any material incorporated by reference in regulations made under section 105 or 105A.
-(11) The Acts and Regulations Publication Act 1989 does not apply to—
-  (a) material incorporated by reference in regulations made under section 105 or 105A; or
-  (b) an amendment to, or replacement of, that material.
-(12) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations made under this section to be presented to the House of Representatives.
-(13) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (12) of this section, applies to regulations that incorporate material by reference.
+(11) Part 2 of the Legislation Act 2012 does not apply to—
+  (a) standards or terms incorporated by reference in regulations made under this section; or
+  (b) an amendment to or replacement of those standards or terms.
+(12) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under this section that incorporate standards or terms by reference.
+(13) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under this section to be presented to the House of Representatives.
 
 ### 105D Requirement to consult on proposal to incorporate material by reference
 (1) Before regulations incorporating material by reference are made under section 105 or 105A, the chief executive must—
