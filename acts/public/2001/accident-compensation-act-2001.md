@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -864,8 +864,8 @@ In sections 40 and 45, Corporation includes—
   (b) promote awareness of the Code among claimants and members of the public generally.
 (3) For the purposes of subsection (2), the Corporation must make the Code accessible, and promote awareness of the Code, in a variety of communications media and languages.
 
-### 46 Status of Code as regulation
-The Code is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+### 46 Application of Legislation Act 2012 to Code
+The Code is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 47 Amendments to Code
 (1) The Code may be amended by the Minister approving, by notice in the Gazette, 1 or more amendments to the Code proposed by the Minister or the Corporation.
@@ -2222,7 +2222,7 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
 (1) The Minister must, by notice in the Gazette, establish a framework under which the Corporation and an employer may agree that for an agreed period the employer will provide entitlements in relation to work-related personal injuries suffered by the employer's employees in that employer's employment.
 (2) The framework must not contain any provision that is inconsistent with any provision of sections 181 to 189.
 (3) The Minister may, by notice in the Gazette, change or replace the framework, after such consultation as the Minister considers appropriate has been undertaken.
-(4) A notice in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Any framework established under Part 10A of the Accident Insurance Act 1998 that is in force immediately before the commencement of this section is a framework under this section.
 
 ### 184 Accreditation agreements
@@ -3491,7 +3491,7 @@ A person who commits an offence against this Act or any regulations made under i
   (c) by reference to the fact that the persons are not permitted to perform services of a stated kind under their scopes of practice:
   (d) by reference to the fact that the persons lack qualifications of a stated kind.
 (3) The Minister may not give a notice in the Gazette under this section without first consulting any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed notice.
-(4) A notice in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 323 Regulations relating to claims for noise-induced hearing loss caused by work-related gradual process
 (1) For the purposes of Part 3, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
