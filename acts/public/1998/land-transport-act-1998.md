@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -432,7 +432,7 @@ _Consolidation as at 2013-07-01_
     (a) is issued to a person who is authorised to obtain the licence by a court order made under section 65B(2); and
     (b) authorises the person to drive on the condition that neither the person’s breath nor the person’s blood contains alcohol.
 (1A) If a transport service includes the use of vehicles that are specified as exempt vehicles in the regulations or the rules, the operation of those vehicles is not to be treated as part of the operation of the service.
-(2) A notice or replacement notice given by any Minister in the Gazette for any purpose specified in subsection (1) or in section 75A(5), and a corresponding notice given under any former enactment and continued in force by this Act, is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
+(2) A notice or replacement notice given by any Minister in the Gazette for any purpose specified in subsection (1) or in section 75A(5), and a corresponding notice given under any former enactment and continued in force by this Act, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
 (3) A notice or replacement notice under subsection (1) that is given by the Minister of Police in the Gazette for the purposes of approving a kind of device or a test may—
   (a) define an approved device as a device that bears or is associated by its manufacturer with such trade name or number or other expression, or any combination of those things, as may be specified in the notice:
   (b) provide for a test, or part of a test, to be carried out in accordance with instructions displayed or printed on or by a specified kind of device.
@@ -3469,8 +3469,8 @@ The Minister may make rules (ordinary rules) for all or any of the following pur
 (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
 (6) An Order in Council made under subsection (1)—
-  (a) is a regulation or an instrument for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of that Act.
 
 ### 153 Rules concerning road user behaviour
 Without limiting the general power to make rules under section 152, ordinary rules may—
@@ -3601,7 +3601,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule; and for the purposes of determining the expiry date of licences under section 23(4).
 (5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17.
-(6) An ordinary rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(6) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
 (8) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
 
@@ -3623,7 +3623,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (1) The Agency may from time to time, in accordance with section 163, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to a person, or of damage to property.
 (2) The Agency may not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules, or recommend that ordinary rules be made, to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
-(4) Every emergency rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 163 Procedure for making emergency rules
 (1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Agency in each case considers appropriate.
@@ -3675,8 +3675,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) the place where the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Agency for inspection by the public free of charge.
-(7) The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+(7) The Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+(8)
 (9) Subsections (1) to (8) do not affect the application of sections 22 to 25 of the Standards Act 1988.
 
 ### 166 Agency may grant exemptions
@@ -3769,7 +3769,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (i) the operation of the vehicle or type of vehicle; and
     (ii) the equipment required on the vehicle or type of vehicle; and
   (b) specify those conditions in the notice.
-(5) A notice given under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 168B Order in Council for certain land transport revenue
 [Repealed]
