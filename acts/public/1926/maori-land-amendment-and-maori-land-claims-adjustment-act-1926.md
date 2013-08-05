@@ -1,5 +1,5 @@
 # Maori Land Amendment and Maori Land Claims Adjustment Act 1926
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to further amend the laws relating to Maori lands, and to determine certain claims and disputes in relation to Maori lands, and to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court and for other purposes
 
@@ -73,7 +73,7 @@ For the purpose of giving effect to an agreement entered into under the provisio
   (a) fix the forms and classes of fishing licences:
   (b) fix the scope and effect of fishing licences or any specified class of fishing licences:
   (c) fix the fees payable for any fishing licence.
-(12) Any notice made under subsection (11) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(12) A notice made under subsection (11) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 15 Payment of annual sum to Tuwharetoa Trust Board authorised
 [Repealed]
