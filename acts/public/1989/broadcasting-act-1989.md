@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -355,7 +355,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 (2) Any such rules may apply generally to all broadcasters, or may apply only to broadcasters of specified types or classes, and may from time to time be varied, amended, or revoked.
 (3) Any rules made under this section may require a broadcaster, when requested to do so by the Authority, to obtain recordings of programmes broadcast by that broadcaster and to make suitable arrangements to enable the Authority to view or hear any recordings held or obtained by the broadcaster.
 (4) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
-(5) Rules made under this section shall be deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989.
+(5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 30A Return on total revenue
 (1) Every broadcaster shall, not later than 31 July in each year, give to the Authority a return, for the broadcaster's immediately preceding financial year, of the total revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
