@@ -1,5 +1,5 @@
 # Chemical Weapons (Prohibition) Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
 
@@ -185,7 +185,7 @@ The Minister may issue a certificate identifying any international inspector or 
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the Convention set out in that schedule as are required to bring that text up to date:
   (b) revoke the Schedule, and substitute a new schedule setting out in an up-to-date form the text of the Convention set out in that schedule.
-(3) Any order made under subsection (2) shall be deemed to be a regulation for the purpose of the Regulations (Disallowance) Act 1989.
+(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 30 Application to Tokelau
 The Governor-General may, by Order in Council, bring this Act into force in Tokelau with such modifications as may be necessary.
