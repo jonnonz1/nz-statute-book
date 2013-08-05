@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1728,12 +1728,13 @@ Material incorporated by reference in regulations that expires or is revoked, or
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
 (3) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
 
-### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+### 6 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
 
 ### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1), applies to regulations that incorporate material by reference.
+[Repealed]
 
 ### 8 Application of Standards Act 1988 not affected
 Clauses 1 to 7 do not affect the application of sections 22 to 25 of the Standards Act 1988.
