@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -175,7 +175,7 @@ The Minister must, in deciding whether to approve any practice rules, have regar
 
 ### 19 Further provisions relating to practice rules
 (1) Every notice under section 14, 15, or 18 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) Every notice under section 14, 15, or 18 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice under section 14, 15, or 18 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) The Authority must ensure that an up-to-date version of each notice that the Authority has published under either of section 14, 15, or 18 is—
   (a) available on the Authority’s website; and
   (b) available at the office of the Authority during business hours, so that members of the public may—
@@ -206,7 +206,7 @@ The Minister must, in deciding whether to approve any practice rules, have regar
 
 ### 23 Further provisions relating to fees and levies
 (1) Every notice under any of sections 20 to 22 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) Every notice under any of sections 20 to 22 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice under any of sections 20 to 22 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) The Authority must ensure that an up-to-date version of each notice that the authority has published under any of sections 20 to 22 is—
   (a) available on the Authority’s website; and
   (b) available at the office of the Authority during business hours, so that members of the public may—
