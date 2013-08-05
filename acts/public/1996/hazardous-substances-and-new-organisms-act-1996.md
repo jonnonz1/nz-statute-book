@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1032,7 +1032,7 @@ In sections 49B to 49K,—
 (1) A responsible Minister may declare an adverse event to be a special emergency if the adverse event is a matter that comes within the Minister's portfolio.
 (2) A declaration of a special emergency—
   (a) must be notified or published in the Gazette as soon as practicable after the special emergency is declared; and
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (b) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 (3) A special emergency expires—
   (a) on the close of the date (if any) specified in the declaration as the expiry date; or
   (b) if paragraph (a) does not apply, then on the close of a date specified by notice in the Gazette as the date of expiry of the emergency.
@@ -1134,7 +1134,7 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
   (a) the organism is likely to have any of the effects described in section 36; and
   (b) any likely adverse effects which may occur should the organism escape from containment would outweigh any likely beneficial effects of allowing the organism to be imported into containment.
 (4) The Authority, when making a recommendation under subsection (3), may advise the Minister that a group of organisms should be included in Schedule 2 if it is difficult for persons to distinguish between high-risk and low-risk members of that group.
-(5) Every Order in Council made under this section shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(5) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Transhipment**
 
@@ -1843,7 +1843,7 @@ The purpose of this Part is to enable the Authority to issue, amend, and revoke 
 (4) The Authority may issue, amend, or revoke group standards under this section—
   (a) on its own initiative; or
   (b) on application by any person.
-(5) A notice issued under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) A notice issued under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) As soon as practicable after issuing, amending, or revoking a group standard, the Authority must do the following:
   (a) publish the group standard, amendment, or revocation in a publication relevant to affected persons; and
   (b) make the group standard, amendment, or revocation available to be inspected free of charge and purchased at a reasonable price; and
@@ -2621,10 +2621,10 @@ If a notice is published in the Gazette under section 141B or 141D in relation t
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (4) A failure to comply with this section does not invalidate a group standard, notice of transfer, or code of practice that incorporates material by reference.
 
-### 141I Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-(1) The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations, group standards, notices of transfer, or codes of practice, or to an amendment to, or replacement of, that material.
-(2) The Regulations (Disallowance) Act 1989 applies to regulations, group standards, and notices of transfer that incorporate material by reference, but does not apply to codes of practice that incorporate material by reference.
-(3) However, nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material (including an amendment to, or replacement of, that material) that is incorporated by reference in regulations, group standards, or notices of transfer to be presented to the House of Representatives.
+### 141I Application of Legislation Act 2012
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations, group standards, notices of transfer, or codes of practice, or to any amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations, group standards, and notices of transfer that incorporate material by reference, but does not apply to codes of practice that incorporate material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material (including any amendment to, or replacement of, that material) that is incorporated by reference in regulations, group standards, or notices of transfer to be presented to the House of Representatives.
 
 ### 142 Relationship to other Acts
 (1) Nothing in this Act shall affect the requirements of the Biosecurity Act 1993 in relation to any organism.
