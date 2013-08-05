@@ -1,5 +1,5 @@
 # National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and may also be cited as either—
@@ -304,8 +304,8 @@ The purpose of this Part is to assist in preserving New Zealand's documentary he
 (4) If a deposited document is made publicly available on the Internet by the publisher without restriction on its access or use by members of the public, the National Librarian may make the document available for access and use by members of the public on the Internet (as well as in the manner permitted by subsection (3)).
 (5) Except as provided in subsections (2) to (4), the law relating to copyright applies to every deposited document.
 
-### 35 Status of requirement as regulation
-A requirement is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+### 35 Application of Legislation Act 2012 to requirements
+A requirement is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 36 Consultation
 (1) Before the Minister notifies a requirement, the Minister must consult the publishers or representatives of the publishers likely to be affected by the proposed requirement about the terms and conditions referred to in section 31(2)(b) or (3).
