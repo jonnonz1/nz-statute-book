@@ -1,5 +1,5 @@
 # Trans-Tasman Proceedings Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Trans-Tasman Proceedings Act 2010.
@@ -145,7 +145,7 @@ This Act binds the Crown.
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing applications, forms, notices, and other documents for the purposes of this Act, and requiring their use:
   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) Every Order in Council under any other provision of this Act is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(2) Every Order in Council under any other provision of this Act is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 9 Procedural rules
 (1) Rules may be made, under any powers given by any Act to make procedural rules of a court or tribunal, prescribing anything that is required to be prescribed or necessary for carrying this Act into effect.
