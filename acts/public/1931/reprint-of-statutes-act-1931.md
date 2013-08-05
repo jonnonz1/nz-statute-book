@@ -1,5 +1,5 @@
 # Reprint of Statutes Act 1931
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision in relation to the publication of an annotated reprint of the Public Acts of New Zealand under the title of The Public Acts of New Zealand (Reprint), and to empower the courts to take judicial notice of such reprint
 
@@ -20,6 +20,6 @@ In this Act—
 (2) A copy of the certificate of the Attorney-General shall be printed with and incorporated in the reprint, and such certificate shall in relation to any enactment contained in the reprint be proof until the contrary is proved, either by the production of the official volume of statutes in which such enactment was originally contained or otherwise, that the reprint correctly expresses and sets forth the law enacted by that enactment and the amendments thereof, if any, as the same is in force at the date of the certificate.
 
 ### 4 Judicial notice to be taken of reprint
-Judicial notice of the reprint shall be taken by all courts and persons acting judicially and the provisions of section 16C of the Acts and Regulations Publication Act 1989 shall extend and apply thereto.
+All courts and persons acting judicially must take judicial notice of the reprint, and all copies of the reprint printed or published under the authority of the New Zealand Government must be treated as being correct copies of the enactments reprinted and as having been so printed or published, unless the contrary is shown.
 
 ## Schedule Schedule — Form of certificate to be given by the Attorney-General for the purposes of the Reprint of Statutes Act 1931
