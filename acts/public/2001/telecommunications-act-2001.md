@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -549,10 +549,11 @@ If the Commission considers that persons other than the parties to the determina
 **Standard terms determination**
 
 ### 30M Standard terms determination
-As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)(e), the Commission must—
+(1) As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)(e), the Commission must—
   (a) prepare a standard terms determination; and
   (b) provide a copy of the standard terms determination to all parties to the determination; and
   (c) give public notice of the standard terms determination.
+(2) A standard terms determination is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
 
 ### 30N Commission's discretion to determine how standard terms determination is to be prepared
 (1) The Commission may, if it considers it appropriate in the circumstances, comply with section 30M(a) by preparing—
@@ -1165,7 +1166,7 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (3) The exemption takes effect from the date specified in the exemption (which may not be earlier than the date of the Gazette notice).
 (4) The Minister may grant the exemption on any terms and conditions that the Minister thinks fit.
 (5) The Minister may, in like manner, vary or revoke such an exemption.
-(6) An exemption under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+(6) An exemption under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) Telecom and Chorus must ensure that all exemptions granted under this section are available at all reasonable times, free of charge, on the Internet sites maintained by or on behalf of Telecom and Chorus.
 
 ### Subpart 3 — Line of business restrictions
@@ -2078,7 +2079,7 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 ### 105 Declaration made or revoked by notice in Gazette
 (1) A declaration is made by notice in the Gazette, except that Chorus and Telecom are declared to be network operators by this Act.
 (1A) A declaration may be revoked by notice in the Gazette (including the declarations relating to Chorus and Telecom).
-(2) A notice in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(2) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Connection to network**
 
@@ -2554,8 +2555,8 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
 ### 155K Approval and status of Code
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve a Code.
 (2) The order may refer to, but need not contain, the Code, and must be published in the Gazette.
-(3) The order and the Code are regulations for the purposes of the Regulations (Disallowance) Act 1989.
-(4) The order, but not the Code, is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) The order and the Code are disallowable instruments for the purposes of the Legislation Act 2012.
+(4) The order, but not the Code, is a legislative instrument for the purposes of the Legislation Act 2012.
 (5) The Code must be presented to the House of Representatives no later than 16 days after the date on which it is approved.
 (6) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
 (7) The Minister may at any time prepare an amendment to the Code, and subsections (1) to (6) apply accordingly.
@@ -2675,8 +2676,8 @@ Before making a determination under section 156AE, the Minister must prepare a d
     (i) at the head office of the Ministry (during office hours); and
     (ii) on the Internet in an electronic form that is publicly accessible (at all reasonable times); and
   (b) for purchase at a reasonable price.
-(4) A determination is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purpose of the Acts and Regulations Publication Act 1989.
-(5) The Minister must present a copy of the determination to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+(4) A determination is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 **Process for submission and consideration of undertakings**
 
@@ -3145,7 +3146,7 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
 (2) The Minister must make a recommendation under subsection (1)(a) or revoke a declaration under subsection (1)(b) (as the case may be) if the Minister is satisfied that the network operator has ceased to provide—
   (a) facilities for telecommunication between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
-(3) A notice in the Gazette under subsection (1)(b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice in the Gazette under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 161 Transitional provision relating to repeal of section 5C of 1987 Act
 Despite any enactment or rule of law, any requirements under Part 2 or regulation 7 of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of section 5C of the 1987 Act cease to have effect as if those regulations had not been made.
