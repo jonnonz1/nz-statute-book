@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -126,7 +126,9 @@ _Consolidation as at 2013-07-01_
   - **vehicle** includes an aircraft, a hovercraft, and a ship
   - **veterinarian** means a person who is registered as a veterinarian or specialist within the meaning of section 4 of the Veterinarians Act 2005.
 (2) Any approval by the Minister of a laboratory as an approved laboratory for the purposes of this Act may be given on such terms and conditions as the Minister thinks fit and as are specified in the notice approving that laboratory.
-(3) Any notice given by the Minister in the Gazette for the purposes of subsection (1) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts Interpretation Act 1924.
+(3) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
+  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
+  (b) a regulation for the purposes of the Interpretation Act 1999.
 
 ### 3 Meaning of medicine, new medicine, prescription medicine, and restricted medicine
 (1) Subject to subsection (2), in this Act, unless the context otherwise requires, the term medicine means any substance or article, other than a medical device, that is manufactured, imported, sold, or supplied wholly or principally—
@@ -1446,7 +1448,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
 ### 96J Expiry of Part
 (1) This Part expires on the close of 30 September 2016.
 (2) The Governor-General may, by Order in Council, before the date specified in subsection (1), on the recommendation of the Minister, specify a later date in substitution for that date.
-(3) An Order in Council made under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 8 — Miscellaneous provisions
 
