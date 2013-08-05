@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -1940,9 +1940,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) for all or any of the purposes specified in section 81(1)(a), (b), or (c), to an entity referred to in section 27(3)(a) to (f).
 (4) A chief executive of a department, a departmental agency, an Office of Parliament, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in section 27(3) must comply with any instructions issued under this section to the extent that the instructions apply to that department, departmental agency, Office, organisation, company, or entity.
 (5) Any instructions issued under this section for the purposes of section 81(1)(ba) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
-(6) Any instructions issued under this section—
-  (a) are to be treated as regulations for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(6) Instructions issued under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) The Minister must notify the instructions in the Gazette, and publish them on the Internet, as soon as practicable after issuing them.
 
 ### 81 Regulations, Orders in Council, and notices
