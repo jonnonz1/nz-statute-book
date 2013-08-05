@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -40,7 +40,7 @@ In this Act, unless the context otherwise requires,—
   - **sale** includes every method of disposition for valuable consideration including barter; and includes the disposition to an agent for sale on consignment; and also includes offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and and have corresponding meanings.
 
 ### 3 Application and limitation of Act
-This Act shall apply to the extent that it does not conflict with the provisions of any other enactment (being any Act of Parliament or any regulations within the meaning of the Regulations Act 1936 made by Order in Council) relating to the export of any particular product.
+This Act applies to the extent that it does not conflict with any other enactment (being an Act or a legislative instrument made by Order in Council) relating to the export of any particular product.
 
 ### 4 Administration of Act
 This Act shall be administered by the Ministry of Agriculture and Forestry.
