@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -908,10 +908,8 @@ Neither the Council nor any committee, member, committee member, employee, or ag
 (3) A Gazette notice may, instead of setting out the details of the matter that has been approved or prescribed, specify where the documents containing those details may be inspected or where a copy of them may be purchased.
 (4) The Council may make the documents or 1 or more of the documents relating to an approved or prescribed matter available (for inspection or supply) at any other place the Council determines.
 
-### 89 Gazette notices are regulations under Regulations (Disallowance) Act 1989
-Every matter approved or prescribed under this Act that is required to be published in the Gazette—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+### 89 Application of Legislation Act 2012 to Gazette notices
+Every matter approved or prescribed under this Act that is required to be published in the Gazette is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 89A Notification of convictions
 A registrar of a court who knows that a person convicted in the court is a veterinarian must send a notice of the conviction to the Council if the conviction is for—
