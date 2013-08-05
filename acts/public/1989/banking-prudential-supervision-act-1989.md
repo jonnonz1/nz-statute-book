@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -1055,7 +1055,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (c) the prudential matters of a registered bank; and
   (d) any other matters relating to the business, operation, and management of a registered bank.
 (4) The Order in Council must be published in the Gazette.
-(5) The Regulations (Disallowance) Act 1989 applies to the Order in Council as if the order were a regulation within the meaning of section 2 of that Act.
+(5) An Order in Council made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 81AA Further matters that maybe prescribed
 (1) An Order in Council made under section 81 may, in addition to the matters referred to in section 81(3), require a registered bank to disclose information or data—
@@ -2122,7 +2122,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
 (4) Both of the joint regulators must, as soon as practicable after a settlement system has been declared to be a designated settlement system, post on their respective Internet sites the contact details and the name or title of the contact person of that designated settlement system.
 (5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)(d).
 (6) To avoid doubt,—
-  (a) rules are not regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989; and
+  (a) rules are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 (and do not have to be presented to the House of Representatives under section 41 of that Act); and
   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of section 156Q, 156R, 156T, or 156X of this Act or section 103A of the Personal Property Securities Act 1999.
 
 **Effect of designation**
@@ -2518,7 +2518,7 @@ This Part, in so far as it applies to trust deeds, applies to every trust deed w
   (g) the need to maintain competition within the deposit taking sector.
 
 ### 157G Exemptions from Part
-(1) The Bank may, by notice in the Gazette, exempt any deposit taker, class of deposit takers, or trustee from compliance with any provision or provisions of—
+(1) The Bank may exempt any deposit taker, class of deposit takers, or trustee from compliance with any provision or provisions of—
   (a) this Part; or
   (b) any regulations made under this Part.
 (2) The Bank must not grant an exemption under this section unless it is satisfied that—
@@ -2536,9 +2536,15 @@ This Part, in so far as it applies to trust deeds, applies to every trust deed w
   (h) a requirement that the deposit taker comply with specified requirements in relation to systems, policies, and standards to be adopted and complied with by the deposit taker for the purpose of managing credit risk, liquidity risk, market risk, and operational risk:
   (i) any other prudential requirements the Bank considers necessary or desirable to achieve the purposes of this Part.
 (4) The Bank may amend or revoke an exemption in the same way as an exemption may be granted under this section.
-(5) The Bank’s reasons for granting an exemption (including why an exemption is appropriate) must be notified in the Gazette, together with the exemption.
-(6) However, the Bank may defer notifying or not notify the reasons for granting an exemption if the Bank is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
-(7) An exemption under this section is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(5) An exemption is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A class exemption must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption means an exemption of general application that applies to a class of deposit takers.
+(7) An exemption that is not a class exemption under subsection (6) must, as soon as practicable after being granted, be—
+  (a) published on an Internet site maintained by or on behalf of the Bank; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(8) The Bank's reasons for granting the exemption (including why an exemption is appropriate) must be published together with the exemption.
+(9) However, the Bank may defer publishing, and need not publish, the reasons for granting an exemption if the Bank is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
+(10) A notification in the Gazette for the purpose of subsection (7)(b) does not have to incorporate the exemption.
 
 ### 157H Effect of exemption
 A person does not breach a requirement of this Part if—
