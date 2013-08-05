@@ -1,5 +1,5 @@
 # Nuclear-Test-Ban Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to implement in the law of New Zealand the Comprehensive Nuclear-Test-Ban Treaty
 
@@ -178,7 +178,7 @@ The Minister may issue a certificate identifying an international inspector or o
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the extracts of the Treaty set out in the Schedule as are required to bring that text up to date:
   (b) revoke the Schedule, and substitute a new schedule setting out in an up-to-date form the text of the extracts of the Treaty.
-(3) Any order made under subsection (2) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Application to Tokelau**
 
@@ -196,43 +196,7 @@ The Minister may issue a certificate identifying an international inspector or o
 Section 10A of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:.
   (ab) confer upon any persons to whom paragraph 57 of Article II of the Comprehensive Nuclear-Test-Ban Treaty applies, and any persons to whom Part II, Section B of the Protocol to that Treaty applies, any additional privileges and immunities that are required by that Treaty; and
 
-## Schedule Schedule — Extracts from the English text of the Comprehensive Nuclear-Test-Ban Treaty
-
-| Contents |
-| --- |
-| [This table is not part of the Treaty and is included for convenience] |
-
-|  |  | Page |
-| --- | --- | --- |
-|  | Preamble | 16 |
-| 1. | Basic obligations | 17 |
-| 2. | The Organization | 18 |
-| 3. | National implementation measures | 31 |
-| 4. | Verification | 32 |
-| 5. | Measures to redress a situation and to ensure compliance including sanctions | 51 |
-| 6. | Settlement of disputes | 52 |
-| 7. | Amendments | 53 |
-| 8. | Review of the Treaty | 55 |
-| 9. | Duration and withdrawal | 56 |
-| 10. | Status of the Protocol and the Annexes | 56 |
-| 11. | Signature | 57 |
-| 12. | Ratification | 57 |
-| 13. | Accession | 57 |
-| 14. | Entry into force | 57 |
-| 15. | Reservations | 58 |
-| 16. | Depositary | 58 |
-| 17. | Authentic texts | 58 |
-| Annex 1 to the Treaty – List of States pursuant to Article II, paragraph 28 |  | 59 |
-| Annex 2 to the Treaty – List of States pursuant to Article XIV |  | 60 |
-| Protocol |  | 61 |
-| 1. | The International Monitoring System and International Data Centre functions | 61 |
-| 2. | On-site inspections | 69 |
-| 3. | Confidence-building measures | 95 |
-| Annex 1 to the Protocol (extracts only) – Tables listing stations and laboratories |  | 96 |
-| Annex 2 to the Protocol – List of characterization parameters for International Data Centre standard event screening |  | 98 |
-
-| The Comprehensive Nuclear-Test-Ban Treaty |
-| --- |
+## Schedule  — Extracts from the English text of the Comprehensive Nuclear-Test-Ban Treaty
 
 |  | State responsible for station | Location | Latitude | Longitude | Type |
 | --- | --- | --- | --- | --- | --- |
