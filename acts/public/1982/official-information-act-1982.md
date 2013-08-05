@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-08-05_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -19,7 +19,7 @@ _Consolidation as at 2013-06-13_
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **enactment** means any provision of—
     (a) any Act of Parliament; or
-    (b) any regulations within the meaning of the Acts and Regulations Publication Act 1989 made by Order in Council
+    (b) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council
   - **international organisation** means any organisation of States or governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
   - **local authority** means a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987
   - **member** means, in relation to an organisation, any person (not being an officer or employee of the organisation) who, whether by election or appointment or otherwise, holds office as a member of the organisation; and includes—
@@ -606,7 +606,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 49 Power to amend Schedule 1 by Order in Council
 (1) Where any organisation named in Schedule 1 is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to that schedule as may be necessary to give effect to the abolition or alteration.
-(2) Every Order in Council made under subsection (1) shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 50 Consequential amendments to other enactments
 The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
