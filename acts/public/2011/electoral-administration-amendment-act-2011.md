@@ -1,5 +1,5 @@
 # Electoral (Administration) Amendment Act 2011
-_Consolidation as at 2011-08-16_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Electoral (Administration) Amendment Act 2011.
@@ -293,7 +293,7 @@ Proceedings relating to an existing right, interest, title, immunity, or duty, c
 ### 48 Transitional or savings regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any transitional or savings matters concerning the coming into force of all or any of the provisions of this Act.
 (2) Regulations under this section must not be inconsistent with this Act.
-(3) Regulations under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(3) Regulations under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### Subpart 2 — Provisions coming into force on 1 July 2012
 
