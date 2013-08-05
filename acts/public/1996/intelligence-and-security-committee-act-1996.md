@@ -1,5 +1,5 @@
 # Intelligence and Security Committee Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by establishing an Intelligence and Security Committee
 
@@ -25,7 +25,7 @@ _Consolidation as at 2013-07-01_
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) The Governor-General may from time to time by Order in Council declare any agency to be an intelligence and security agency for the purposes of this Act.
-(3) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 3 Definition of sensitive information
 (1) Subject to subsection (2), in this Act, unless the context otherwise requires, sensitive information means—
