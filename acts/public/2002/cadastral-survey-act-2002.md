@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -433,7 +433,7 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
   (e) maintaining public confidence in the cadastre.
 (4) Rules made under this section—
   (a) apply subject to regulations made under this Part; and
-  (b) are regulations for the purposes of the Regulations (Disallowance) Act 1989.
+  (b) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) The Surveyor-General must—
   (a) notify rules made under this section in a publication of a body referred to in subsection (2)(b); and
   (b) supply, on request for a reasonable fee, a copy of rules made under this section.
