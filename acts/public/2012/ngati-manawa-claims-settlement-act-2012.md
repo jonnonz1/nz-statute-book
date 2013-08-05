@@ -1,5 +1,5 @@
 # Ngāti Manawa Claims Settlement Act 2012
-_Consolidation as at 2012-04-05_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Ngāti Manawa Claims Settlement Act 2012.
@@ -620,7 +620,9 @@ On and from the settlement date, the chief executive of the Ministry of Justice 
   (c) specifying—
     (i) offences for breaches of the regulations or prohibitions; and
     (ii) fines for committing the offences of up to $1,000 for each offence.
-(2) Bylaws made under this section are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) Bylaws made under this section—
+  (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 
 ### 29 Existing classification
 The purpose of, or classification of an area as, a national park, conservation area, or reserve is not affected by the fact that the area is subject to Ahikāroa.
