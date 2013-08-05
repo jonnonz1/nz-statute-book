@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
@@ -15,7 +15,6 @@ This Act may be cited as the Incorporated Societies Act 1908, and shall come int
 In this Act, except where a contrary intention appears,—
   - **prescribed** means prescribed by this Act or by regulations
   - **Registrar** means the Registrar of Incorporated Societies under this Act
-  - **regulations** means regulations made by the Governor-General under the authority of this Act by Order in Council gazetted
   - **Society** means a society incorporated under this Act.
 
 ### 4 Incorporated societies
@@ -236,7 +235,7 @@ In estimating—every corporate body that is a subscriber or member shall be tak
   (b) the number of members of a society for the purposes of section 4 or section 25 of this Act or of a branch for the purposes of section 2 or section 3 of the Incorporated Societies Amendment Act 1920—
 
 ### 32 Registrar
-(1) The Governor-General may from time to time appoint some person to be the Registrar of Incorporated Societies, and may make regulations, consistent with this Act, prescribing the duties and powers of the Registrar.
+(1) The Governor-General may from time to time appoint some person to be the Registrar of Incorporated Societies, and may, by Order in Council, make regulations, consistent with this Act, prescribing the duties and powers of the Registrar.
 (2) The Registrar so appointed may hold his office in conjunction with any other office which the Governor-General deems not incompatible therewith.
 
 ### 33 Registrar to keep register of incorporated societies
@@ -295,7 +294,7 @@ In estimating—every corporate body that is a subscriber or member shall be tak
 [Repealed]
 
 ### 36 Regulations
-The Governor-General may, by Order in Council gazetted, make such regulations as he deems necessary for carrying into full effect the provisions of this Act.
+The Governor-General may, by Order in Council, make such regulations as he deems necessary for carrying into full effect the provisions of this Act.
 
 ## Schedule 1 — Application for incorporation
 
