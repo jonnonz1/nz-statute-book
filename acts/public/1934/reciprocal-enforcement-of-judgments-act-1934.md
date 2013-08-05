@@ -1,5 +1,5 @@
 # Reciprocal Enforcement of Judgments Act 1934
-_Consolidation as at 1997-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within His Majesty's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
 
@@ -210,8 +210,8 @@ The provisions of this Part shall have effect in relation to the execution and e
 (2) Every application under subsection (1) must be accompanied by payment of the prescribed fee.
 (3) No application shall be made under subsection (1) in relation to a judgment until the expiry of any period during which the enforcement of the judgment is stayed.
 
-### 11A Orders in Council deemed to be regulations
-Every Order in Council made under this Act is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+### 11A Application of Legislation Act 2012 to orders
+An Order in Council made under this Act is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 12 Repeal and savings
 (1) The Administration of Justice Act 1922 is hereby repealed.
