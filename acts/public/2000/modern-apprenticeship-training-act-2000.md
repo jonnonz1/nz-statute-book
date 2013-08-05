@@ -1,5 +1,5 @@
 # Modern Apprenticeship Training Act 2000
-_Consolidation as at 2003-01-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Modern Apprenticeship Training Act 2000.
@@ -212,8 +212,8 @@ The approved code of practice comes into force—
 (1) A code of practice that appears to have been approved or issued under section 20(1) must be treated for all purposes (for example, in any proceedings) as the approved code of practice, unless it is proved that the code was not so approved or issued.
 (2) Subsection (1) does not limit any method of proof of the approved code of practice.
 
-### 29 Disallowance of approved code
-The approved code of practice is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+### 29 Application of Legislation Act 2012 to approved code
+The approved code of practice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 30 Amendment, revocation, and replacement of approved code
 The approved code of practice may be amended, or revoked, or revoked and replaced, in the same manner as it was approved or issued, and sections 20 to 29 apply accordingly with all necessary modifications.
