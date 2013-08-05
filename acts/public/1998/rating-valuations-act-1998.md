@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -98,7 +98,7 @@ In this Act, unless the context otherwise requires,—
   (c) consult with such persons or groups representative of valuers, local authorities, and other interested persons as the Valuer-General thinks appropriate having regard in each case to the content and effect of the proposed rules.
 (4) As soon as practicable after making any rules under this section, the Valuer-General must notify their making in the Gazette.
 (5) The Gazette notice must specify where copies of the rules may be inspected and obtained.
-(6) Any rules made under this section are to be treated for the purposes of the Regulations Disallowance Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989) as if they were regulations within the meaning of that Act.
+(6) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 5A Meaning of certificate of title
 In sections 5B and 5C, certificate of title means a certificate of title—
@@ -110,15 +110,15 @@ In sections 5B and 5C, certificate of title means a certificate of title—
 
 ### 5B What constitutes rating unit if there is certificate of title
 (1) For land for which there is a certificate of title, the land comprised in the certificate of title constitutes a rating unit.
-(2) However, the Valuer-General may make rules under section 5(1)(c) for the purposes of determining whether particular land comprised in the following constitutes a rating unit:
+(2) However, the Valuer-General may make rules under section 5(1)﻿(c) for the purposes of determining whether particular land comprised in the following constitutes a rating unit:
   (a) 2 or more certificates of title:
   (b) part of a certificate of title.
 (3) The Valuer-General may make rules—
-  (a) under subsection (2)(a) only for land—
+  (a) under subsection (2)﻿(a) only for land—
     (i) that is owned by the same person or persons; and
     (ii) that is used jointly as a single unit; and
     (iii) that is contiguous or separated only by a road, railway, drain, water race, river, or stream; and
-  (b) under subsection (2)(b) only for land—
+  (b) under subsection (2)﻿(b) only for land—
     (i) that is—
       (A) owned by the Crown; or
       (B) surveyed and subject to a separate lease registered under section 115 of the Land Transfer Act 1952; or
@@ -132,17 +132,17 @@ In sections 5B and 5C, certificate of title means a certificate of title—
   (b) for land not owned by the Crown, a rating unit is,—
     (i) if an instrument exists, the land described in the instrument; or
     (ii) if an instrument does not exist, the land that it would be appropriate, in the opinion of the Valuer-General, to sell or transfer as a separate property.
-(2) The Valuer-General must make rules under section 5(1)(c) for the purposes of determining whether particular land, for which there is no certificate of title, constitutes a rating unit.
+(2) The Valuer-General must make rules under section 5(1)﻿(c) for the purposes of determining whether particular land, for which there is no certificate of title, constitutes a rating unit.
 (3) The rules must be consistent with the principles in subsection (1).
 (4) Despite subsection (3), the rules may include rules for the purposes of determining whether particular land in subsection (1) comprised in the following constitutes a rating unit:
   (a) 2 or more pieces of land (which may include 1 or more pieces of land comprised in a certificate of title):
   (b) part of a piece of land.
 (5) The Valuer-General may make rules—
-  (a) under subsection (4)(a) only for land—
+  (a) under subsection (4)﻿(a) only for land—
     (i) that is owned by the same person or persons; and
     (ii) that is used jointly as a single unit; and
     (iii) that is contiguous or separated only by a road, railway, drain, water race, river, or stream; and
-  (b) under subsection (4)(b) only for land—
+  (b) under subsection (4)﻿(b) only for land—
     (i) that is—
       (A) owned by the Crown; or
       (B) Māori freehold land subject to an occupation order made by the Māori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
@@ -365,7 +365,7 @@ A territorial authority must—
 ### 43 Regional councils to share costs of maintaining district valuation rolls
 (1) A regional council must pay annually to each of its constituent territorial authorities a share of the costs of the territorial authority in preparing and maintaining its district valuation roll.
 (2) The regional council's annual share of the costs in any particular case is to be an amount determined having regard to the formula in subsection (3), or such other amount as is agreed between the council and the relevant territorial authority.
-(3) The formula referred to in subsection (2) is as follows:where—ais the average annual gross revenue generated from rates for the last 3 financial years by the territorial authority; andbis the average annual gross revenue generated from rates for the last 3 financial years by the regional council within the district of the territorial authority; andcis all the costs incurred by the territorial authority in the relevant year in preparing and maintaining its district valuation roll in respect of the information that is required by, or requested by, the regional council or necessary for the preparation or maintenance of that information.
+(3) The formula referred to in subsection (2) is as follows:[b ÷ (a + b)] × cwhere—ais the average annual gross revenue generated from rates for the last 3 financial years by the territorial authority; andbis the average annual gross revenue generated from rates for the last 3 financial years by the regional council within the district of the territorial authority; andcis all the costs incurred by the territorial authority in the relevant year in preparing and maintaining its district valuation roll in respect of the information that is required by, or requested by, the regional council or necessary for the preparation or maintenance of that information.
 (4) In determining generally how to undertake its valuation services, a territorial authority must—
   (a) consult with the relevant regional council; and
   (b) have regard to the views of the regional council in its choice of service provider.
@@ -420,7 +420,7 @@ The Valuer-General may appear either personally or by a barrister or solicitor o
 ### 49 Expenses of administration of Valuer-General
 (1) All expenses incurred by the Valuer-General in the administration of this Act are to be met from—
   (a) any appropriation by Parliament for the purpose; and
-  (b) any charges or levies imposed on local authorities pursuant to regulations made under section 52(1)(b).
+  (b) any charges or levies imposed on local authorities pursuant to regulations made under section 52(1)﻿(b).
 (2) All monies received by the Valuer-General under this Act are to be paid into a Departmental Bank Account.
 (3) Subject to section 73 of the Public Finance Act 1989, all fines recovered under this Act are to be paid into a Crown Bank Account.
 
@@ -441,8 +441,8 @@ Nothing in the Copyright Act 1994 prevents any local authority or the Valuer-Gen
   (f) prescribing limitations or prohibitions on the bulk provision of district valuation roll information for purposes outside the purposes of this Act or the Local Government (Rating) Act 2002 or related legislation, or to persons not having responsibilities in relation to the administration of this Act or the Local Government (Rating) Act 2002 or related legislation:
   (g) creating offences in respect of the contravention of or non-compliance with any regulation made under this Act, and providing for the imposition of penalties not exceeding $5,000:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(2) Different fees and charges, or different methods or rates for assessing fees and charges, may be prescribed under subsection (1)(a) in respect of different classes of person.
-(3) Any charge or levy imposed by regulations made under subsection (1)(b)—
+(2) Different fees and charges, or different methods or rates for assessing fees and charges, may be prescribed under subsection (1)﻿(a) in respect of different classes of person.
+(3) Any charge or levy imposed by regulations made under subsection (1)﻿(b)—
   (a) must be reasonable having regard to the expenses incurred or to be incurred by the Valuer-General in the exercise of his or her functions and powers under this Act in relation to the local authority on whom the charge or levy is imposed; and
   (b) is payable to the Valuer-General and recoverable in any court of competent jurisdiction as a debt due to the Valuer-General.
 (4) The Minister may not recommend the making of an Order in Council that imposes or increases a fee or charge unless the Minister has previously consulted the New Zealand Local Government Association Incorporated on the matter.
@@ -489,7 +489,7 @@ The repeal of the Valuation of Land Amendment Act (No 2) 1970 by section 53 does
 (1) Every valuation roll prepared under the Valuation of Land Act 1951 which is in force immediately before the commencement of this Act continues in force, and may be altered from time to time in accordance with this Act, until—
   (a) in the case of the district valuation roll of a territorial authority, a general revaluation of that roll takes effect under this Act:
   (b) in the case of a valuation roll of a local authority other than a territorial authority, the roll is revised in accordance with this Act.
-(2) Until a district valuation roll that continues in force under subsection (1)(a) ceases to be in force by reason of a general revaluation taking effect,—
+(2) Until a district valuation roll that continues in force under subsection (1)﻿(a) ceases to be in force by reason of a general revaluation taking effect,—
   (a) every valuation roll of a special purpose authority that is compiled from the district valuation roll pursuant to any enactment and is in force immediately before the commencement of this Act continues in force; and
   (b) a valuation roll of any special purpose authority may be compiled from that district valuation roll pursuant to any enactment; and
   (c) alterations may be made in any such valuation roll in accordance with this Act.
