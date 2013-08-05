@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -89,7 +89,7 @@ In this Act, unless the context otherwise requires,—
   (a) any weapon (including an airgun) to be a restricted weapon; or
   (b) any airgun to be a specially dangerous airgun.
 (2) Any Order in Council made under this section may relate to any weapon or airgun specified by its name or trade name, or to any class of weapons or airguns identified by a description of that class.
-(3) Every Order in Council made under this section shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Licensed dealers**
 
