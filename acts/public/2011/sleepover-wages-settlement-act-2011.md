@@ -1,5 +1,5 @@
 # Sleepover Wages (Settlement) Act 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Sleepover Wages (Settlement) Act 2011.
@@ -240,10 +240,8 @@ Despite sections 25 and 26, a modification or extension of subparts 1 and 2, or 
   (c) substitute a different period within which the specified amount referred to in section 21(1) must be paid under section 21(2) unless the relevant Minister is satisfied that the proposed period has been agreed to by a simple majority of the other employer's employees:
   (d) provide for any of the matters specified in section 25(b) or 26(a) or (b).
 
-### 29 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-An Order in Council made under section 24 is a regulation for the purposes of—
-  (a) the Acts and Regulations Publication Act 1989; and
-  (b) the Regulations (Disallowance) Act 1989.
+### 29 Application of Legislation Act 2012
+An Order in Council made under section 24 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Dispute resolution under Act**
 
