@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -190,6 +190,9 @@ This Act shall bind the Crown.
 ### 12 Specially protected areas in national parks
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Authority and the appropriate Board, set apart any part of a park as a specially protected area for the purposes of this Act, and may, in like manner, cancel any such setting apart or alter the boundaries of any specially protected area by including or excluding any area of the park that, in his opinion, should be so included or excluded.
 (2) Where, at the commencement of this Act, any part of a national park is set apart as a special area this section shall apply as if that area had been set apart as a specially protected area under subsection (1).
+
+### 12A Orders in Council to be published in Gazette
+An Order in Council made under any of sections 7, 10, and 12 must be published in the Gazette.
 
 ### 13 Permits for access to specially protected areas
 (1) No person shall enter or remain in any specially protected area, except under the authority of and in accordance with a permit issued by the Minister under this section.
