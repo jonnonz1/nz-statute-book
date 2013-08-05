@@ -1,5 +1,5 @@
 # Securities Trustees and Statutory Supervisors Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Securities Trustees and Statutory Supervisors Act 2011.
@@ -711,8 +711,8 @@ If a trustee or statutory supervisor has reasonable grounds to believe that a su
   (a) the action is necessary or desirable to facilitate or ensure an orderly transition to the requirements under this Act; and
   (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
 (3) An exemption granted under subsection (1)(a)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989; and
-  (b) must be presented to the House of Representatives under section 4 of the Regulations (Disallowance) Act 1989; and
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act; and
   (c) must, as soon as practicable after it is granted, be—
     (i) published on an Internet site maintained by or on behalf of the FMA; and
     (ii) notified in the Gazette; and
