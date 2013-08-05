@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1501,7 +1501,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (6) An Order in Council made under subsection (4) or (5)—
   (a) must specify the date on which this subpart (apart from any exceptions) and subpart 5A cease to apply to the relevant island or islands (as the case may be), which may be no later than the end of the season that begins after the date on which the Order in Council is made; and
   (b) must come into force on or before the date specified in paragraph (a); and
-  (c) may not be amended or revoked (except under section 16 of the Acts and Regulations Publication Act 1989).
+  (c) may not be amended or revoked (except under section 15 of the Legislation Act 2012).
 (7) Any failure to comply with subsection (2) or (3), or any error or omission in the report produced by the Commerce Commission or other relevant government agency (as the case may be), does not affect the validity of an Order in Council made under subsection (4) or (5).
 (8) To avoid doubt,—
   (a) if the Minister requests a report from the Commerce Commission under subsection (1), the Commerce Commission may exercise any of the powers specified in the provisions listed in section 145 to determine the state of competition in the New Zealand dairy industry:
@@ -2119,12 +2119,13 @@ In this schedule,—
 (3) If the material is not in an official New Zealand language, an accurate translation of the material into an official New Zealand language must also be available in each of the circumstances described in subclause (1).
 (4) Failure to comply with this clause does not invalidate regulations that incorporate material.
 
-### 8 Acts and Regulations Publication Act 1989
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated in regulations.
+### 8 Application of Legislation Act 2012
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated in regulations.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated in regulations to be presented to the House of Representatives.
 
 ### 9 Regulations (Disallowance) Act 1989
-(1) The Regulations (Disallowance) Act 1989 applies to regulations that incorporate material.
-(2) However, nothing in section 4 of that Act requires material incorporated in regulations to be presented to the House of Representatives.
+[Repealed]
 
 ### 10 Standards Act 1988
 Nothing in this schedule affects the application of sections 22 to 25 of the Standards Act 1988.
