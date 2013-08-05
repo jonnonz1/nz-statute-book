@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2013-03-08_
+_Consolidation as at 2013-08-05_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -369,7 +369,7 @@ The effect of the Ombudsmen Act 1975 and the Official Information Act 1982 on th
 (3) Where, by virtue of subsection (2), a State enterprise has any power, right, or authority that it would not otherwise have, the responsible Minister may at any time or times, by notice in the Gazette,—either generally or in any particular case or cases.
   (a) direct the State enterprise not to exercise that power, right, or authority; or
   (b) impose conditions on the exercise of that power, right, or authority,—
-(4) Every State enterprise shall comply with a notice given under subsection (3); and every such notice shall be deemed to be a regulation for the purposes of the Regulations Act 1936.
+(4) A State enterprise must comply with a notice given under subsection (3), and the notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5)
 (6) Notwithstanding anything in this or any other Act, or any rule of law, any proceedings commenced (whether before or after the commencement of this Act) in any court or tribunal, in respect of the exercise or intended exercise of any power to which this section applies, may be continued and determined in respect of land (whether or not the land is transferred to a State enterprise) as if the land were still owned by the Crown.
 (7) Notwithstanding subsections (2) and (5), Part 3 of Schedule 4 shall continue to have effect after 31 December 1988 until the close of 30 June 1990.
