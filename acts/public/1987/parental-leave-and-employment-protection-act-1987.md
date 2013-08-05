@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -74,7 +74,7 @@ An employee's entitlement to rights and benefits in respect of parental leave an
   (a) is undertaking training that is described by the Minister by notice in the Gazette as training to which this section applies; and
   (b) in order to complete the training, is required to work for more than 1 district health board.
 (2) For the purposes of determining the entitlement of a medical practitioner to whom this section applies to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period, as the case may be), the medical practitioner is employed by more than 1 district health board consecutively, those employments must be treated as 1 employment.
-(3) A notice published under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) This section overrides section 2A.
 
 ### 2AC Multiple employments of teachers
