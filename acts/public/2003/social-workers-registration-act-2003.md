@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -1101,7 +1101,7 @@ In addition to the information required by section 151 of the Crown Entities Act
 ### 110 Further provisions relating to fees and levy
 (1) The Board may at any time, by notice in the Gazette, amend or revoke any notice published under section 108 or section 109.
 (2) Every notice published under section 108, section 109, or this section comes into force on a day stated in it, being a day at least 28 days after the date of publication of the notice.
-(3) Every notice published under section 108, section 109, or this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice published under section 108 or 109 or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) Every fee set under section 108 and every levy imposed under section 109 is payable to the Board, and recoverable by the Board as a debt due to the Board.
 (5) The Registrar may decline to do or permit to be done any act in respect of which a fee is payable to the Board under this Act, until the fee is paid.
 
