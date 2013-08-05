@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -166,13 +166,13 @@ Material incorporated by reference in the rules that expires or is revoked or ce
 (1) The board must review the rules from time to time for the purpose of ensuring that they comply with this Act.
 (2) Sections 16 to 22 apply, with the necessary modifications, to the making of a new, amended, or revised rule.
 
-### 24 Acts and Regulations Publication Act 1989 not applicable
-(1) The rules are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
-(2) The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in the rules or to an amendment to, or replacement of, that material.
+### 24 Application of Legislation Act 2012 to rules
+(1) The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) However, section 41 of the Legislation Act 2012 does not apply to material incorporated by reference in the rules.
+(3) To avoid doubt, nothing in Part 2 of the Legislation Act 2012 applies to material incorporated by reference in the rules.
 
 ### 25 Application of Regulations (Disallowance) Act 1989
-(1) The rules are regulations for the purposes of the Regulations (Disallowance) Act 1989.
-(2) Despite subsection (1), nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in the rules to be laid before the House of Representatives.
+[Repealed]
 
 ### 26 Application of Standards Act 1988 not affected
 Sections 16 to 25 do not affect the application of sections 22 to 25 of the Standards Act 1988.
