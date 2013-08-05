@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1963,8 +1963,8 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) this section expires and is repealed; and
   (b) any regulations made under this section that are in force expire and are revoked.
 
-### 217 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
-Regulations made under section 215 or 216 are regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+### 217 Application of Legislation Act 2012
+Regulations made under section 215 or 216 are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Savings and transitional provisions**
 
