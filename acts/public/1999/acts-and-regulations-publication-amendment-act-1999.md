@@ -1,5 +1,5 @@
 # Acts and Regulations Publication Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-08-05_
 
 > An Act—aTo amend the Acts and Regulations Publication Act 1989 to empower the production of reprints of legislation in a format and style consistent with current drafting practice; andbTo make consequential amendments to the Evidence Act 1908 and the Judicature Act 1908
 
