@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
@@ -127,18 +127,24 @@ For the purposes of this Act, financial statements and group financial statement
   (b) a director of a company or other body corporate is not related to that company or body corporate merely because he or she is a director of that company or body corporate.
 
 ### 4B Exemption from being issuer under section 4(1)(ba)
-(1) The FMA may, by notice in the Gazette, exempt—
+(1) The FMA may exempt—
   (a) a person from being an issuer under section 4(1)(ba); or
   (b) a class of persons from being issuers under section 4(1)(ba).
 (2) The exemption may be granted on any terms and conditions that the FMA thinks fit.
 (3) The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
-(4) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(4) An exemption is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A class exemption must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption means an exemption of general application that applies to a class of persons.
+(6) An exemption that is not a class exemption under subsection (5) must, as soon as practicable after being granted, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(7) A notification in the Gazette for the purpose of subsection (6)(b) does not have to incorporate the exemption.
 
 ### 4C Exemption may apply to accounting period before exemption is granted
 An exemption under section 4B may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
 
 ### 4D FMA must notify reasons for exemption
-The FMA's reasons for granting an exemption under section 4B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+The FMA's reasons for granting an exemption under section 4B (including why the exemption is appropriate) must be notified together with the exemption.
 
 ### 5 Persons ceasing to be issuers during accounting period
 (1) Where a person ceases to be an issuer during an accounting period, that person shall be deemed to continue to be an issuer in relation to that accounting period for the purposes of this Act.
@@ -501,13 +507,13 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
   (b) ensure that copies of those specified standards are available for purchase by members of the public.
 
 ### 32 Disallowance of instruments and determinations by House of Representatives
-(1) The Regulations (Disallowance) Act 1989 applies to the following instruments and determinations of the Board as if the instrument or determination were a regulation within the meaning of that Act:
+(1) The following instruments and determinations of the Board are disallowable instruments for the purposes of the Legislation Act 2012:
   (a) any specified standard:
   (b) any amendment to a specified standard:
   (c) any revocation of a specified standard:
   (d) any determination made under section 27(5).
-(2) The instruments and determinations referred to in subsection (1) must be presented to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
-(3) The instruments and determinations referred to in subsection (1) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(2) The instruments and determinations referred to in subsection (1) must be presented to the House of Representatives in accordance with section 41 of the Legislation Act 2012.
+(3) The instruments and determinations referred to in subsection (1) are not legislative instruments for the purposes of the Legislation Act 2012.
 
 ### 33 Certificates of Board
 A certificate purporting to be signed by any member of the Board as to any of the following is, in the absence of evidence to the contrary, sufficient evidence of the matters stated in the certificate:
@@ -582,9 +588,9 @@ Every exemption granted under section 35A (as in force before the commencement o
 
 ### 35AC Status and publication of exemptions under section 35A
 (1) An exemption granted under section 35A—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) must be presented to the House of Representatives under section 4 of that Act.
-(2) A class exemption (but not any other exemption granted under section 35A) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) A class exemption (but not any other exemption granted under section 35A) is a legislative instrument for the purposes of the Legislation Act 2012.
 (3) An exemption granted under section 35A that is not a class exemption must, as soon as practicable after it is granted, be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
@@ -601,7 +607,7 @@ Every exemption granted under section 35A (as in force before the commencement o
 (3) The exemption may be granted on any terms and conditions that the Registrar of Companies thinks fit.
 (4) The Registrar of Companies may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the Gazette).
 (5) The Registrar of Companies may vary or revoke an exemption in the same way as an exemption may be granted under this section.
-(6) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(6) A notice published in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) The Registrar of Companies' reasons for granting an exemption (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
 
 ### 35C Consultation
