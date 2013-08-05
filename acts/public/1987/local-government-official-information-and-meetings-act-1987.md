@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -19,7 +19,7 @@ _Consolidation as at 2010-11-01_
   - **enactment** —
     (a) means any provision of—
       (i) any Act of Parliament; or
-      (ii) any regulations within the meaning of the Regulations Act 1936 made by Order in Council; and
+      (ii) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council; and
     (b) in relation to section 54, includes any bylaw, standing order, or rule of procedure of any local authority
   - **local authority** —and, in both cases, includes—
     (a) for the purposes of Parts 1 to 6, means those local authorities and public bodies named or specified in Schedule 1; and
@@ -604,7 +604,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 56 Power to amend Schedules 1 and 2 by Order in Council
 (1) Where any class of local authority named in Schedule 1 or Schedule 2 is abolished, or its name is altered, or any specified local authority named in Schedule 1 or Schedule 2 is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to those schedules as may be necessary to give effect to the abolition or alteration.
-(2) Every Order in Council made under subsection (1) shall be deemed to be a regulation for the purposes of the Regulations Act 1936.
+(2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 57 Consequential amendments to other enactments
 (1) The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
