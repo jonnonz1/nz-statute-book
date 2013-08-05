@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1327,7 +1327,7 @@ The Minister must approve the draft code within 90 days of receiving the draft c
 (1) After the Minister has approved the draft code or after the 90-day deadline for approval specified in section 93 has expired, the FMA must give notice in the Gazette of the date or dates on which the provisions of the code come into force.
 (2) The notice may state different dates for different provisions, but no date may be before the 28th day after the date on which the notice is published in the Gazette.
 (3) Each provision in the code comes into force on the date stated in the notice that applies to the provision.
-(4) The code and the notice are each regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(4) The code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Changes to code**
 
@@ -1938,7 +1938,9 @@ A standard condition, or a variation or revocation of a standard condition, that
 (2) The FMA may revoke the exemption.
 
 ### 148B Status of exemptions, variations, or revocations
-(1) An exemption under section 148, or a variation or revocation of an exemption under section 148A, is a regulation for the purposes of the Regulations Disallowance Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989 unless it is a class exemption.
+(1) For the purposes of the Legislation Act 2012, an exemption under section 148, or a variation or revocation of an exemption under section 148A,—
+  (a) is a disallowable instrument and must be presented to the House of Representatives under section 41 of that Act; and
+  (b) is a legislative instrument only if it is a class exemption.
 (2) An exemption that is not a class exemption must, as soon as practicable after being granted, be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
