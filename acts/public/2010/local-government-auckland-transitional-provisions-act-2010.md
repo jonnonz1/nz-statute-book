@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -16,8 +16,8 @@ This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
   (b) provides transitional arrangements in relation to employees affected by the reorganisation, the continuation of collective agreements, and collective bargaining in advance of the reorganisation; and
   (c) amends and repeals certain enactments.
 
-### 4 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-An Order in Council made under any provision of section 5 or Part 1 is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+### 4 Application of Legislation Act 2012
+An Order in Council made under any provision of section 5 or Part 1 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 5 Transitional regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to—
