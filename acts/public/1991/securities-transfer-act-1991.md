@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
@@ -74,7 +74,7 @@ Securities (as defined in section 2) sold in a stock exchange transaction may, w
   (a) the FMA has done everything reasonably possible to consult with the persons and organisations or their representatives that the FMA considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons and organisations or their representatives have had the opportunity to comment to the FMA; and
   (b) the FMA has considered those comments.
 (7) A failure to comply with subsection (6) does not affect the validity of any Order in Council made under this section.
-(8) Every Order in Council made under this section shall be deemed to be a regulation within the meaning of section 2 of the Regulations (Disallowance) Act 1989.
+(8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 8 Registration may not be refused on ground that securities have been transferred under this Act
 (1) Where securities have been transferred in accordance with section 3 or section 4 or section 7, no person shall refuse to register the transfer on the ground that the securities have been so transferred or that the securities have not been transferred by other means.
