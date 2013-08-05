@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -616,7 +616,7 @@ The chief executive must approve a port facility security plan, or any amendment
   (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period,—
     (i) the Minister, after complying with subsection (1)(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days); or
     (ii) the chief executive, after complying with subsection (2)(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(4) If a direction takes effect on a date on or after the notice is published in the Gazette, the notice is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) The notice is not a legislative instrument for the purposes of the Legislation Act 2012, but if the direction in the notice takes effect on a date on or after the notice is published in the Gazette, the notice is a disallowable instrument for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act.
 (5) A direction may,—
   (a) if made under section 47(1), be rescinded by the Minister; or
   (b) if made under section 48(1), be rescinded by the chief executive.
@@ -964,7 +964,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
     (i) more than 1 ship or port facility; and
     (ii) any combination of ships and port facilities.
 (7) A Gazette notice issued under subsection (4)(a)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989; and
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
   (b) expires 90 days after the day on which it is published in the Gazette.
 (8) An Order in Council made under subsection (4)(b),—
   (a) if made on or before 30 June in any year, expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; and
