@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -1166,8 +1166,8 @@ It is not the function of the Registrar, when acting under section 42 or 43, to 
 (1) The FMA may issue a notice that prescribes the class or classes of continuous issue prospectuses to which section 43D(1) applies.
 (2) The FMA must, before issuing a notice under subsection (1) in respect of a class of continuous issue prospectuses, be satisfied that it is in the public interest for the FMA to have an opportunity to act under section 43C(1) in respect of those prospectuses before the allotment of securities in reliance upon those prospectuses (for example, where in the circumstances a particular risk relates to a particular class of issuers or securities).
 (3) A notice issued by the FMA—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives under section 4 of that Act; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 (4) The FMA may vary or revoke a notice issued under this section, and subsections (2) and (3) apply, with necessary modifications, in all respects to the variation or revocation.
 
 **FMA's powers to prohibit distribution of investment statements, prohibit allotments, or cancel registration of prospectuses**
@@ -1758,8 +1758,8 @@ Every issuer of securities offered to the public for subscription shall send, or
   (a) may specify different matters and requirements in respect of different kinds of securities or different classes of issuers:
   (b) must not specify matters and requirements that are inconsistent with regulations made under section 70(1)(cb).
 (3) A notice issued by the FMA—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives under section 4 of that Act; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 (4) A notice issued by the FMA must, as soon as practicable after it is issued, be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
@@ -2379,15 +2379,16 @@ An amendment to, or replacement of, material incorporated by reference in regula
     (ii) the material referred to in paragraph (a) with the amendments or replacement material amalgamated within it.
 (4) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
 
-### 70AAD Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+### 70AAD Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
 
 ### 70AAE Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
-(2) Except as set out in subsection (1), the Regulations (Disallowance) Act 1989 applies to regulations that incorporate material by reference.
+[Repealed]
 
 ### 70AAF Application of Standards Act 1988 not affected
-Sections 70AA to 70AAE do not affect the application of sections 22 to 25 of the Standards Act 1988.
+Sections 70AA to 70AAD do not affect the application of sections 22 to 25 of the Standards Act 1988.
 
 ### 70A Fees and charges
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
@@ -2414,9 +2415,9 @@ Sections 70AA to 70AAE do not affect the application of sections 22 to 25 of the
 
 ### 70C Status and publication of exemptions
 (1) An exemption granted under section 70B—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) must be presented to the House of Representatives under section 4 of that Act.
-(2) A class exemption (but not any other exemption granted under section 70B) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) A class exemption (but not any other exemption granted under section 70B) is a legislative instrument for the purposes of the Legislation Act 2012.
 (3) An exemption granted under section 70B that is not a class exemption must, as soon as practicable after it is granted, be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
