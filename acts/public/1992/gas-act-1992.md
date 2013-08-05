@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > Title
 
@@ -711,11 +711,11 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
   (b) the subject matter of the rule, including whether the rule contains detailed or technical matters rather than matters of general principle:
   (c) the application of the rule, including—
     (i) whether the rule applies principally to a particular group (eg, industry participants) rather than the general public:
-    (ii) whether the benefits of publication in accordance with section 43R rather than the Acts and Regulations Publication Act 1989 outweigh the costs of publication by that method:
+    (ii) whether the benefits of publication in accordance with section 43R rather than the Legislation Act 2012 outweigh the costs of publication by that method:
   (d) the expertise and rule-making procedures of the recommending body.
 (3) If the Minister makes, or the recommending body recommends, a rule for a purpose for which a gas governance regulation may be made, sections 43I to 43P apply (with necessary modifications) as if the rule were a gas governance regulation.
 (4) Section 43R applies to the method of making the rule.
-(5) A rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989).
+(5) A rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) To the extent that a rule is inconsistent with a gas governance regulation, the rule is subject to the gas governance regulation.
 (7) A rule that is found by a court to be invalid solely because of a contravention of subsection (2) may not be declared to be invalid with effect earlier than 6 months after the date of the declaration.
 
