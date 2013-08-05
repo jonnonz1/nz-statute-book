@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2013-08-05_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -127,7 +127,7 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
 ### 24 Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
 (1) The Governor-General may from time to time, by Order in Council, appoint a date on which, by virtue of this Act, State housing assets or liabilities and Corporation assets or liabilities referred to in any agreement entered into between the shareholding Ministers and the company, being an agreement specified in the order, shall vest in the company.
 (2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
-(3) Every Order in Council under this section shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 25 Additional provisions relating to vesting
 (1) Nothing in this Part—
@@ -139,7 +139,7 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
 (2) District Land Registrars and other persons charged with the keeping of books or registers are hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part.
 (3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the company pursuant to this Part shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
 (4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part,—
-  (a) the publication under the Acts and Regulations Publication Act 1989 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
+  (a) the publication under the Acts and Regulations Publication Act 1989 or the Legislation Act 2012 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
   (b) the Crown or the Corporation, as the case may be, shall remain liable to any third party as if the asset or liability had not been vested but shall be indemnified by the company in respect of any liability to any third party:
   (c) any satisfaction or performance by the company in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown or the Corporation, as the case may be:
   (d) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the company shall be deemed to be also to the benefit of the Crown or the Corporation, as the case may be.
