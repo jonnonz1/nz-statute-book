@@ -1,5 +1,5 @@
 # Civil List Act 1979
-_Consolidation as at 2010-11-23_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the civil list
 
@@ -112,7 +112,7 @@ The person holding the office of Speaker of the House of Representatives at the 
   (a) the payment of money or allowances for those things; and
   (b) provision for any member of the family (as referred to in section 25(1)(f)) of a member of Parliament for those things; and
   (c) any other means of meeting the travel, accommodation, attendance, and communications needs or obligations of members of Parliament.
-(8) A determination under this section is deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.
+(8) A determination made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 20B Different ways in which services may be determined and funded
 (1) A determination under section 20A may determine services by doing all or any of the following:
@@ -144,7 +144,7 @@ Notwithstanding anything in this Act, no payment shall be made under this Part t
   (b) to the surviving spouse or partner of that person (whether or not that person has died before the commencement of this Act), until that surviving spouse or partner dies or marries or enters into a civil union or a de facto relationship, an annuity at a rate to be fixed from time to time by the Remuneration Authority.
 (2) No annuity shall be paid to any person under subsection (1) in respect of any period during which that person holds an office for which a salary (other than the salary of a member of Parliament) is payable under this Act.
 (3) Every determination under this section shall come into force on a day to be specified in the determination, whether on or before or after the date of the determination.
-(4) Every determination under this section shall be deemed to be a regulation for the purposes of the Regulations Act 1936.
+(4) A determination made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 23 Payments to spouse or partner, or dependent children of member of Parliament dying in office
 (1) Where a member of Parliament dies, the following provisions shall apply—
