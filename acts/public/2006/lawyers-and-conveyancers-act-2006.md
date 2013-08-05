@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -941,8 +941,8 @@ The representative functions of the New Zealand Law Society are to represent its
 (1) The Council of the New Zealand Law Society must, no later than 14 days after the day on which this section comes into force, deliver to the Registrar of Companies at Wellington for registration a document, which is to be described as and which is to constitute the constitution of the New Zealand Law Society.
 (2) The Council of the New Zealand Law Society must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
 
-### 72 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-The provisions of the constitution of the New Zealand Law Society and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Law Society are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+### 72 Application of Legislation Act 2012 to constitution of New Zealand Law Society
+The provisions of the constitution of the New Zealand Law Society and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Law Society are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 73 Practising fees
 (1) Every lawyer must pay an annual practising fee to the New Zealand Law Society.
@@ -1128,8 +1128,8 @@ The representative functions of the New Zealand Society of Conveyancers are to r
 (1) The Council of the New Zealand Society of Conveyancers must, no later than 14 days after the day on which this section comes into force, deliver to the Registrar of Companies at Wellington for registration a document, which is to be described as, and which is to constitute, the constitution of the New Zealand Society of Conveyancers.
 (2) The Council of the New Zealand Society of Conveyancers must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
 
-### 89 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-The provisions of the constitution of the New Zealand Society of Conveyancers and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Society of Conveyancers are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+### 89 Application of Legislation Act 2012 to constitution of New Zealand Society of Conveyancers
+The provisions of the constitution of the New Zealand Society of Conveyancers and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Society of Conveyancers are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 90 Practising fees
 (1) Every conveyancing practitioner must pay an annual practising fee to the New Zealand Society of Conveyancers.
@@ -1284,8 +1284,8 @@ The Council of the New Zealand Law Society or the Council of the New Zealand Soc
   (b) revoking any rules to which section 100 applies and replacing them with new rules,—
 (2) If any rules are amended by the Minister under section 104, the Minister must, within 14 days after making the amendment, deliver to the Registrar of Companies at Wellington for registration a copy of that amendment.
 
-### 106 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989 to rules
-The rules to which section 100 applies and amendments to any such rules are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+### 106 Application of Legislation Act 2012 to rules
+The rules to which section 100 applies and amendments to those rules are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012.
 
 ### 107 Effect of practice rules
 (1) The practice rules of the New Zealand Law Society are binding on all lawyers and former lawyers, whether or not they are members of the New Zealand Law Society, and on all incorporated law firms and former incorporated law firms, but are not binding on other persons.
