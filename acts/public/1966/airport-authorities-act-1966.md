@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -216,7 +216,7 @@ Subject to the provisions of this section, any local authority may, for the purp
 (5) A bylaw made under this section by an airport authority which is not a local authority shall not have any force or effect until it has been approved by the Governor-General by Order in Council.
 (6) Every Order in Council made under subsection (5) shall—
   (a) set out the bylaw approved in a schedule to the order; and
-  (b) be deemed to be a regulation for the purposes of the Regulations Act 1936.
+  (b) be a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and be presented to the House of Representatives under section 41 of that Act.
 (7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
 (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
 (9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
@@ -248,7 +248,7 @@ Subject to the provisions of this section, any local authority may, for the purp
   (a) different classes of airport company (and, in particular, in relation to specified airport companies); and
   (b) the disclosure financial statements and disclosure financial forecasts of different classes of airport company (and, in particular, of specified airport companies).
 (3) No guidelines are permitted to be made pursuant to regulations made under subsection (1)(h) except after consultation with such persons, representative groups within the aviation industry or elsewhere, substantial customers of airport companies, government departments, and Crown agencies as the person or persons making the guidelines think appropriate.
-(4) Any guidelines made by any person or persons pursuant to regulations made under subsection (1)(h) are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(4) Any guidelines made under subsection (1)(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 9B Validity of certain arrangements not affected by failure to consult on capital expenditure
 A failure by a specified airport company to comply with section 4C does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that specified airport company.
