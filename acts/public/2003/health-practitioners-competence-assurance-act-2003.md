@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -133,7 +133,7 @@ This Act binds the Crown.
   (b) in the course of training or instruction and under the control of a health practitioner of the kind described in that subsection; or
   (c) in the course of an examination, assessment, or competence review required or ordered by the responsible authority.
 (6) Every person commits an offence punishable on conviction by a fine not exceeding $30,000 who contravenes subsection (4).
-(7) An Order in Council under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(7) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 10 Power to issue search warrants in respect of offences against section 7 or section 9
 (1) A search warrant may be issued under section 6 of the Search and Surveillance Act 2012 in respect of an offence which has been or is suspected to have been committed against section 7 or section 9 or which is believed to be intended to be committed against either section, even though the offence is not punishable by imprisonment.
@@ -186,7 +186,7 @@ In prescribing qualifications under section 12, each authority must be guided by
   (b) available at the office of the authority during business hours, so that members of the public may—
     (i) inspect the notice free of charge; or
     (ii) obtain a photocopy of the notice for a reasonable fee.
-(4) Each notice published under section 11 or section 12 is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice published under section 11 or 12 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Before the commencement of section 114(1), this section and sections 11 to 13 apply to each body that is referred to in column 1 of Schedule 2 as if it were already appointed as an authority under this Act in respect of the profession specified opposite to it in column 2 of that schedule.
 
 **Registration of practitioners and authorisations of scopes of practice**
@@ -715,8 +715,8 @@ A quality assurance activity ceases to be a protected quality assurance activity
 (1) No civil or disciplinary proceedings lie against any person in respect of conduct engaged in good faith in connection with a protected quality assurance activity.
 (2) This section continues to apply in respect of conduct that was engaged in by any person in connection with a protected quality assurance activity, even though that activity has since ceased to be a protected quality assurance activity.
 
-### 63 Notices deemed to be regulations
-Every notice issued under section 54, and every amendment or revocation of a notice of that kind, is to be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+### 63 Application of Legislation Act 2012 to notices under section 54
+A notice issued under section 54, and an amendment or revocation of a notice issued under that section, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 4 — Complaints and discipline
 
@@ -1253,7 +1253,7 @@ Except as provided in section 113, the decision of a court on an appeal under th
   (a) change the name of the authority concerned to reflect the change made by the order; and
   (b) amend any enactment (for example, this Act) to reflect the name change effected by the order.
 (3) The Minister may recommend that an Order in Council be made under subsection (1) only if satisfied of the matters stated in section 116.
-(4) An Order in Council under subsection (1) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) An Order in Council under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 116 Conditions for designating health services as health profession
 Before making a recommendation under section 115(1), the Minister must, after consultation with any organisation that, in the Minister's opinion, has an interest in the recommendation, be satisfied of the following matters:
@@ -1436,7 +1436,7 @@ The functions of each authority appointed in respect of a health profession are 
 ### 132 Further provisions relating to fees and levy
 (1) Any notice under section 130 or section 131 may at any time, by notice in the Gazette, be amended or revoked by the authority that issued the notice.
 (2) Every notice under section 130 or section 131 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(3) Every notice under section 130 or section 131 is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice under section 130 or 131 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) Each authority must ensure that an up-to-date version of each notice that the authority has published under section 130 or section 131 is—
   (a) available on the Internet; and
   (b) available at the office of the authority during business hours, so that members of the public may—
