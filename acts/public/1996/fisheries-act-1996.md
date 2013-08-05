@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -5351,7 +5351,7 @@ Without limiting the generality of section 297, the Governor-General may from ti
 (1) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 1A by making amendments to the text of the Fish Stocks Agreement set out in that schedule that are required to bring the text up to date:
   (b) revoke Schedule 1A, and substitute a new schedule setting out, in an up-to-date form, the text of the Fish Stocks Agreement.
-(2) An order made under subsection (1) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 300 Dockside monitoring
 (1) Without limiting the generality of section 297, the Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -5398,9 +5398,11 @@ Without limiting the generality of section 297, the Governor-General may from ti
     (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)(a).
 
 ### 303 Certain notices to have status of regulations
-(1) Subject to subsection (2), every notice given under this Act and required to be published in the Gazette is hereby deemed for the purposes of the Interpretation Act 1999 and the Acts and Regulations Publication Act 1989 to be a regulation.
+(1) A notice given under this Act that is required to be published in the Gazette—
+  (a) is a regulation for the purposes of the Interpretation Act 1999; and
+  (b) is a legislative instrument for the purposes of the Legislation Act 2012, but is not a disallowable instrument for the purposes of that Act and does not have to be presented to the House of Representatives under section 41 of that Act.
 (2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 368, and 369.
-(3) Any notice given under section 11(4)(b)(i) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) A notice given under section 11(4)(b)(i) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
