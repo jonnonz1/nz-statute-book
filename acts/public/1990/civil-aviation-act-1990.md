@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -936,7 +936,7 @@ Any medical certificate issued under the rules before the commencement of this P
   (b) public notice to be given of the exercise of any powers; or
   (c) any other matter.
 (6) No breach of any ordinary rule shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act.
-(7) Every ordinary rule is hereby deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989, but shall not be a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(7) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (8) So far as the bylaws of any local authority are inconsistent with or repugnant to any ordinary rule made under this Act in force in the same locality, the bylaws shall be construed subject to the rules.
 (9) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make ordinary rules under this Act.
 
@@ -1005,7 +1005,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Subject to subsection (2), the Director may from time to time, in accordance with section 35, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to any person, or of damage to any property.
 (2) The Director shall not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation shall be notified as if it were an emergency rule.
-(4) Every emergency rule is hereby deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989, but shall not be a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 32 Procedures relating to rules
 (1) Every ordinary rule shall—
@@ -1054,9 +1054,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (3) Sections 32(1)(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
 (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as part of the rules as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
-(6) An Order in Council made under subsection (1)—
-  (a) is a regulation or an instrument for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(6) An Order in Council made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 35 Procedure for making emergency rules
 (1) Before making an emergency rule, the Director shall consult with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Director in each case considers appropriate.
@@ -1091,8 +1089,8 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (e) the place where the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Civil Aviation Registry for inspection by the public free of charge.
-(7) The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (9) Subsections (1) to (8) do not affect the application of sections 22 to 25 of the Standards Act 1988.
 
 ### 37 Exemption power of Director
@@ -1941,8 +1939,8 @@ The Minister shall ensure that aviation security services are provided at all se
 (4) If a direction takes effect on a date before the notice is published in the Gazette,—
   (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
   (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(5) If a direction takes effect on a date on or after the notice is published in the Gazette, the notice is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
-(5A) A direction is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
 (6) The Minister may rescind a direction made under subsection (1).
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
 (8) Nothing in this section empowers the Minister to exercise the Director's powers under section 77B.
@@ -1982,8 +1980,8 @@ The Minister shall ensure that aviation security services are provided at all se
 (4) If a direction takes effect on a date before the notice is published in the Gazette,—
   (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
   (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(5) If a direction takes effect on a date on or after the notice is published in the Gazette, the notice is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
-(5A) A direction is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
 (6) The Director may rescind a direction made under subsection (1).
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
 
@@ -2688,7 +2686,7 @@ This Part does not apply so as to affect rights or liabilities arising out of an
   (b) prescribe any arrangements for making advance payments for compensation that carriers must make to natural persons under Article 28 of the Montreal Convention:
   (c) amend Schedule 6 by making such amendments to the text of the Montreal Convention set out in that schedule as are required to bring that text up to date:
   (d) revoke Schedule 6, and substitute a new schedule setting out, in an up-to-date form, the text of the Montreal Convention.
-(2) Any order made under subsection (1) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
 
 ## Part 9B — Domestic carriage by air
@@ -3045,7 +3043,7 @@ The provisions of the Cape Town Convention and the Aircraft Protocol, subject to
 (2) An Order in Council made under subsection (1) must state the date on which—
   (a) New Zealand made the relevant declaration; and
   (b) the declaration takes or took effect.
-(3) An Order in Council made, or a declaration issued, under subsection (1) is a regulation for the purposes of the Acts and Regulations Publication Act 1989, but is not a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made, or a declaration issued, under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 108 Certificates about Contracting States
 (1) The Secretary of Foreign Affairs and Trade, or a Deputy Secretary of Foreign Affairs and Trade, may sign a certificate that states whether, in respect of any specified day or period,—
