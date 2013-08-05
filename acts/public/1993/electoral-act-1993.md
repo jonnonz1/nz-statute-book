@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1546,7 +1546,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 ### 104 Main roll to be printed
 (1) The Registrar for every district shall, at least once in each year, cause to be printed a main roll for the district, which shall contain a list of all persons whose names are lawfully on the electoral roll for the district on a date to be fixed for the closing of the main rolls.
 (2) The date to be fixed for the purposes of subsection (1) shall,—
-  (a) in the case of a year in which Parliament is due to expire, be fixed by the Governor-General by Order in Council; and
+  (a) in the case of a year in which Parliament is due to expire, be fixed by the Governor-General by Order in Council published in the Gazette; and
   (b) in the case of any other year, be fixed by the Electoral Commission by notice in the Gazette.
 (3) Every main roll printed for any district under this section shall be the main roll for the district until a new main roll is printed for the district.
 
@@ -4574,7 +4574,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
 Registrars of Electors shall be exempt from the payment of any court fees in respect of any proceedings under this Act.
 
 ### 266 Validation of irregularities
-Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done before or after that time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council gazetted, at any time before or after the time within which the thing is required to be done, extend that time, or validate anything so done before or after the time required or so irregularly done in matter of form, or make other provision for the case as he or she thinks fit:provided that this section shall not apply with respect to the presentation of an election petition or to the giving of security for costs in relation to an election petition.
+Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done before or after that time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council published in the Gazette, at any time before or after the time within which the thing is required to be done, extend that time, or validate anything so done before or after the time required or so irregularly done in matter of form, or make other provision for the case as he or she thinks fit:provided that this section shall not apply with respect to the presentation of an election petition or to the giving of security for costs in relation to an election petition.
 
 ### 266A Expenditure limits to be adjusted each year by Order in Council
 (1) The Governor-General must, by Order in Council made on the recommendation of the Minister, in the manner provided in subsections (2) to (6), adjust the amounts specified in the following provisions:
