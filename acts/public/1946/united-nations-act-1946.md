@@ -1,5 +1,5 @@
 # United Nations Act 1946
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to confer on the Governor-General in Council power to make regulations to enable New Zealand to fulfil the obligations undertaken by it under Article 41 of the Charter of the United Nations
 
@@ -18,7 +18,7 @@ This Act may be cited as the United Nations Act 1946.
 
 ### 3 Liability for breach of regulations
 (1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit, or conspires with any other person (whether in New Zealand or elsewhere) to commit any offence against any regulations made under this Act shall be liable on conviction, in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000, or, in the case of a company or other corporation, to a fine not exceeding $100,000.
-(2) The publication in the Gazette or in accordance with the Regulations Act 1936 of any regulations made under this Act or of any Order in Council, Proclamation, order, notice, warrant, license, or other act of authority under this Act or under any such regulations shall for all purposes be deemed to be notice thereof to all persons concerned, and in any prosecution the liability of the defendant shall be determined accordingly.
+(2) The publication in the Gazette or in accordance with the Legislation Act 2012 of any regulations made under this Act or of any Order in Council, Proclamation, order, notice, warrant, licence, or other act of authority under this Act or under the regulations must be treated for all purposes as being notice of the act of authority to all persons concerned, and in any prosecution the liability of the accused must be determined accordingly.
 (3) Nothing in this Act or in any regulations made under this Act shall be so construed or shall so operate as to take away or restrict the liability of any person for any offence punishable independently of this Act, but no person shall be punished twice for the same offence.
 
 ### 4 Application to Cook Islands and other territories
