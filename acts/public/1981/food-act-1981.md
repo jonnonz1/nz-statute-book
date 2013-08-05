@@ -1,5 +1,5 @@
 # Food Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend the law relating to the sale of food
 
@@ -826,7 +826,7 @@ The purposes of this Part are—
 (4) Subject to section 11G(3), the commencement of any food standard may be wholly suspended until it is applied by the Minister by notice in the Gazette.
 
 ### 11I Food standards subject to disallowance
-Every food standard is hereby deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989, but shall not be a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+A food standard is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 11J Minister not to delegate power to issue food standards
 Notwithstanding anything in section 28 of the State Sector Act 1988, the Minister shall not delegate to any other person the Minister's power to issue food standards.
