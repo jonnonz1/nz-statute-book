@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -241,7 +241,7 @@ The Board must operate in a financially responsible manner and, for this purpose
 (1) Schedule 1 applies to the Board and its governing body.
 (2) The Board may, by resolution, make, alter, and revoke rules not inconsistent with this Act for regulating its proceedings and providing for any matters that may be reasonably necessary or expedient for carrying out its functions, duties, and powers.
 (3) As soon as practicable after making or altering any rules under subsection (2), the Board must send a copy of the rules or amended rules to the Minister.
-(4) The Regulations (Disallowance) Act 1989 (but not the Acts and Regulations Publication Act 1989) applies to any rules made under subsection (2) as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989.
+(4) Rules made under subsection (2) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Rules made under subsection (2) must be notified in the Gazette, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
 (6) The Board must make copies of any rules made under subsection (2) available—
   (a) for inspection free of charge at each of its offices; and
@@ -337,7 +337,7 @@ A member of a racing club must not have any pecuniary interest, in his or her ca
 
 ### 32 Review and availability of racing rules
 (1) As soon as practicable after making or altering any rules under section 29 or section 34, each racing code must send a copy of the rules or the amended rules to the Minister.
-(2) The Regulations (Disallowance) Act 1989 (but not the Acts and Regulations Publication Act 1989) applies to rules made under section 29 or section 34 as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989.
+(2) Rules made under section 29 or 34 are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) Rules made under section 29 must be notified in the Gazette, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
 (4) Each racing code must make copies of its racing rules available—
   (a) for inspection free of charge at each of its offices; and
@@ -540,7 +540,7 @@ The Board may conduct, either by itself or by means of racing clubs or other age
 
 ### 59 Review and availability of betting rules
 (1) As soon as practicable after making or altering any rules under section 52 or section 54, the Board must send a copy of the rules or amended rules to the Minister.
-(2) The Regulations (Disallowance) Act 1989 (but not the Acts and Regulations Publication Act 1989) applies to rules made under section 52 or section 54 as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989.
+(2) Rules made under section 52 or 54 are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) Rules made under section 52 or section 54 must be notified in the Gazette, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
 (4) The Board must make copies of any rules made under section 52 or section 54 available—
   (a) for inspection free of charge at each of its offices; and
