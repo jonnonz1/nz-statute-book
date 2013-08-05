@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -44,7 +44,7 @@ _Consolidation as at 2013-07-01_
 (3) Where an industry organisation acquires or builds up any asset with, out of, or by virtue of spending, money paid to it under a levy order as levy, this Act shall have effect—
   (a) in relation to any other asset it acquires in exchange or part exchange for that asset, as if that other asset has also been acquired or built up with, out of, or by virtue of spending, money paid as a levy; and
   (b) in relation to any money it acquires in exchange or part exchange for that asset, as if that money has been paid to the organisation under a levy order as levy.
-(4) Every levy order, and every order under section 13(2), shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(4) Levy orders and orders made under section 13(2) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
@@ -224,19 +224,19 @@ Every levy order shall provide for—
 ### 12 Orders to be confirmed
 (1) Where in any year a levy order has been made on or after 1 January and before 1 July, and—it shall be deemed to have been revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
   (a) has not been revoked with effect on or before 1 July in the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where in any year a levy order has been made after 30 June and on or before 31 December, and—it shall be deemed to have been revoked with the close of 31 December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 (3) Unless a levy order has already been—the Minister on whose recommendation it was made shall, by notice published in the Gazette at least 6 months before the day with the close of which the order may (under subsection (1) or subsection (2)) be deemed to have been revoked, indicate the Minister's intentions with regard to its continuing in force.
   (a) revoked; or
-  (b) disallowed under the Regulations (Disallowance) Act 1989; or
+  (b) disallowed under Part 3 of the Legislation Act 2012; or
   (c) confirmed by an Act of Parliament,—
 
 ### 13 Levy orders to expire after 6 years
 (1) Subject to subsection (2), a levy order shall be deemed to have been revoked with the close of the sixth anniversary of the day before the day on which it was made, unless—
   (a) it has been revoked (or has been deemed to have been revoked) with effect on or before the sixth anniversary of the day on which it was made; or
-  (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of the Regulations (Disallowance) Act 1989.
+  (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of Part 3 of the Legislation Act 2012.
 (2) Subject to subsection (3), the Governor-General may, by Order in Council made at least 12 months before the day on which the order concerned would otherwise be deemed under subsection (1) to have been revoked, extend for a specified period (of not more than 5 years) the currency of a levy order that is then in force; and in that case (subject to subsection (3)), the order shall not be deemed under subsection (1) to have been revoked until the extended period has expired.
 (3) Where the currency of a levy order has been extended under subsection (2), it may from time to time be further extended under that subsection.
 (4) Section 12 and, except for subsection (1)(b), section 5 apply to the making of an order under subsection (2) of this section.
