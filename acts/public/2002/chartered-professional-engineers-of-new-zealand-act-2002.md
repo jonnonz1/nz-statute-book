@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -344,8 +344,8 @@ The functions of the Registration Authority under this Act are to—
   (b) approve the proposed rule if it has reasonable grounds to be satisfied that the Registration Authority has complied with subsection (1).
 (4) The requirements of this section that apply to making a rule containing a CPEng standard apply also to any amendment or revocation of that rule.
 
-### 42 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989 to rules
-The rules are regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+### 42 Application of Legislation Act 2012 to rules
+The rules are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 43 Registration Authority may delegate functions
 (1) The Registration Authority may delegate any of its functions or powers under the Act or the rules to any person or persons.
