@@ -1,5 +1,5 @@
 # Military Decorations and Distinctive Badges Act 1918
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to prohibit the improper use or disposal of military decorations and other insignia
 
@@ -13,7 +13,7 @@ This Act may be cited as the Military Decorations and Distinctive Badges Act 191
 [Repealed]
 
 ### 4 Governor-General may define and assign distinctive badges
-(1) The Governor-General may, by Order in Council gazetted, define a badge or badges and assign the same to be worn as a distinctive mark or marks only by the members of a society incorporated under the Incorporated Societies Act 1908 of which the membership (other than honorary membership) is limited to persons or classes of persons who have served in His Majesty's Forces during a period when His Majesty is or was at war, or who have rendered public service, whether civil or military, during such a period.
+(1) The Governor-General may, by Order in Council published in the Gazette, define a badge or badges and assign the same to be worn as a distinctive mark or marks only by the members of a society incorporated under the Incorporated Societies Act 1908 of which the membership (other than honorary membership) is limited to persons or classes of persons who have served in His Majesty's Forces during a period when His Majesty is or was at war, or who have rendered public service, whether civil or military, during such a period.
 (2) It shall not be lawful for any person other than a member of the incorporated society to which a badge is assigned under the foregoing provisions of this section to wear such badge or any colourable imitation thereof, or to pretend in any manner to be entitled to wear such badge.
 
 ### 4A Offences in respect of military decorations
