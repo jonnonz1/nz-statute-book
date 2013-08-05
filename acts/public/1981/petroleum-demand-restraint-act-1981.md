@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -123,8 +123,8 @@ This Act shall bind the Crown.
 ### 11 Certain stabilisation regulations to continue in force as petroleum demand restraint regulations
 [Repealed]
 
-### 12 Publication or notification in Gazette to be notice to all persons concerned
-The publication in the Gazette or in accordance with the Regulations Act 1936, whether before or after the commencement of this Act, of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations shall for all purposes be deemed to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant shall be determined accordingly.
+### 12 Publication or notification is sufficient notice
+The publication in the Gazette or in accordance with the Legislation Act 2012 of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations must be treated for all purposes as notice of the act of authority to all persons concerned, and in any prosecution under this Act the liability of the accused must be determined accordingly.
 
 **Miscellaneous provisions**
 
