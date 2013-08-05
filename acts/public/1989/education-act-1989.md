@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 > An Act to reform the administration of education
 
@@ -636,7 +636,7 @@ If a student has been suspended, the student, the student's parents, and their r
   (b) give interested persons a reasonable time to make representations about the proposed rules; and
   (c) consult such persons and groups as the Secretary considers appropriate.
 (3) If there is any conflict between rules made under this section and the provisions of clause 8 of Schedule 6, the rules override clause 8.
-(4) Rules made under this section are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(4) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 18A Recommendation that student should attend particular school
 (1) The Secretary may, on the recommendation of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, direct the board of a State school to enrol at the school any person; and in that case the board must do so.
@@ -3054,7 +3054,7 @@ The functions of the Teachers Council are as follows:
   (b) the notice must say where copies of the rules may be obtained free of charge; and
   (c) the notice must give the date on which the rules come into force, which must be a date on or after the date of the Gazette notice; and
   (d) the Teachers Council must take all reasonable steps to ensure that those affected by the rules hear of them and are able to obtain copies of them.
-(5) Rules made under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989.
+(5) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 139AJA Delegations
 (1) The Council may not delegate any of its functions or powers—
@@ -3396,8 +3396,8 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
 
 ### 144C Regulations about school hostels
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) adopting minimum standards that apply to hostel premises and facilities, whether the regulations set out the standards themselves or adopt standards contained in other documents:
-  (b) adopting codes of practice relating to the management of hostels, whether the regulations set out the codes themselves or adopt codes contained in other documents:
+  (a) adopting minimum standards that apply to hostel premises and facilities:
+  (b) adopting codes of practice relating to the management of hostels:
   (c) prescribing offences for failing to comply with minimum standards or codes of practice adopted by regulations, and providing for a penalty on conviction for any such offence to be a fine not exceeding $10,000:
   (d) providing for exemptions from the application of minimum standards or codes of practice:
   (e) prescribing a system of licensing for hostels, which may include provisions—
@@ -6277,7 +6277,7 @@ Every private training establishment must—
   (a) private training establishments:
   (b) sector and industry representative organisations:
   (c) any other relevant bodies.
-(3) A notice under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 235C Rules apply if students withdraw because of programme or training scheme closure
 Any fees paid by or on behalf of any student who withdraws from a programme or training scheme because of the closure of the programme or scheme are subject to the protections set out in the rules made under section 253.
@@ -7938,7 +7938,7 @@ A service provider for a home-based education and care service or a hospital-bas
   (a) early childhood services of different types or descriptions; and
   (b) different kinds of licences; and
   (c) different minimum standards.
-(5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+(5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 318 Playgroups may be certificated
 A service provider who operates a playgroup may, but need not, apply for a certificate issued under regulations made under section 319 in respect of the playgroup.
@@ -7961,7 +7961,11 @@ A service provider who operates a playgroup may, but need not, apply for a certi
 (2) Criteria prescribed by the Minister for use in assessing compliance with the minimum standards imposed by regulations made under this section may differ in any way, including (without limitation), for—
   (a) different kinds of certificates; and
   (b) different standards.
-(3) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+(3) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 319AA Application of Legislation Act 2012 to certain material incorporated by reference
+(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under section 317(2)﻿(b) or 319(1)﻿(b) of this Act.
+(2) When this section applies, subpart 2 of Part 3 of the Legislation Act 2012 (other than section 51) applies.
 
 **Powers of entry and inspection**
 
