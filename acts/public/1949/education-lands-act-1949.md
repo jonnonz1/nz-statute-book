@@ -1,5 +1,5 @@
 # Education Lands Act 1949
-_Consolidation as at 2006-05-17_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to land held for educational purposes
 
@@ -119,7 +119,7 @@ Except in the case of a sale to Her Majesty the Queen under subsection (2) of th
 (2) The District Land Registrar, on registration of any Order in Council under the last preceding subsection, shall make all necessary endorsements on the certificate of title in respect of the land, or, if no such certificate has been issued, shall on the completion of such surveys (if any) as may be necessary, issue a certificate of title in the name of the body concerned.
 (3) The Minister may from time to time, by notice in the Gazette, grant permission on such terms and for such period as he thinks fit to any kindergarten association to use for the purposes of a kindergarten, or to any playcentre association to use for the purposes of a playcentre, any land vested in Her Majesty for the purposes of pre-school education.
 (4) The Minister may from time to time, by notice in the Gazette, grant permission on such terms and for such period as he thinks fit to any university, agricultural college, school of agriculture, board, high school trustees, or body of persons (whether incorporated or not) to use for educational purposes any land vested in Her Majesty for educational purposes.
-(5) The Governor-General may from time to time, by Order in Council gazetted, vary the trusts on which any land is for the time being held by Her Majesty for educational purposes, and may in like manner declare any such land which is not required for the purposes for which it is held to be Crown land subject to the Land Act 1948, freed and discharged from every educational trust affecting the same.
+(5) The Governor-General may from time to time, by Order in Council published in the Gazette, vary the trusts on which any land is for the time being held by Her Majesty for educational purposes, and may in like manner declare any such land which is not required for the purposes for which it is held to be Crown land subject to the Land Act 1948, freed and discharged from every educational trust affecting the same.
 (6) The District Land Registrar, on registration of any Order in Council under the last preceding subsection shall make all necessary endorsements on any certificate of title in respect of the land, or, in the case of an order declaring any such land to be Crown land, shall, subject to the provisions of section 17, cancel any certificate of title in respect of the land.
 
 ### 16 Provisions of Land Act 1948 as to renewals of leases to apply to leases of land transferred to or vested in the Crown
