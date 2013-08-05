@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1582,7 +1582,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (a) comply with any relevant requirements specified in this subpart; and
   (b) be presented to the House of Representatives as soon as practicable after it is issued, along with, in the case of the fishing allocation plan, the report provided to the Minister under section 76(5) and any of the Minister's decisions on the recommendations contained in the report.
 (3) An allocation plan comes into force on the day after the date it is presented to the House of Representatives.
-(4) An allocation plan is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
+(4) An allocation plan is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 71 Correction of allocation plans
 (1) For the purpose of correcting any minor mistakes or defects in an allocation plan, the Minister may, without complying with section 75 or 76, recommend that the Governor-General amend any allocation plan.
@@ -3010,7 +3010,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) whether it is necessary to adjust any person's number of whole tonnes of included emissions provided under subsection (1)(e)(i)(C) in accordance with section 161C(4):
   (c) any other matter listed in section 161A(1) in respect of an activity:
   (d) whether any matter should be considered by a review under section 160.
-(4) A Gazette notice under subsection (1) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A Gazette notice under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Following the provision of information by any person in accordance with subsection (1)(e), the Minister may give notice to the person—
   (a) requiring the person to provide any further information that the Minister considers is necessary to enable the verification of the accuracy of the information; and
   (b) specifying the date by which the further information specified in the notice must be provided to the Minister.
@@ -3100,7 +3100,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (i) carried out the activity at the date of the notice given under subsection (1); and
     (ii) failed, without reasonable excuse, to supply the data and information required by the date specified in the notice given under subsection (2); and
   (b) any associated person of a person referred to in paragraph (a).
-(4) A Gazette notice under subsection (1) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A Gazette notice under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 162 Regulations adding further activity to Part 2 of Schedule 4
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Part 2 of Schedule 4 by adding a further activity to that Part.
@@ -3150,7 +3150,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) may require the use of a computer programme available via the Internet site of the EPA; and
   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
 (5) In making a recommendation in relation to a regulation under subsection (1)(a) or (b), the Minister must have regard to New Zealand’s international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
-(6) Any guidelines or standards issued by the EPA under regulations made under subsection (1)(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)(d) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (7) A person who has complied with guidelines or standards issued by the EPA in regulations made under subsection (1)(d) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
 
 ### 164 Regulations relating to unique emissions factors
@@ -3289,11 +3289,12 @@ Material incorporated by reference in regulations that expires, or that is revok
   (c) if the material specified in paragraph (a) or (b) is not in an official New Zealand language, an accurate translation of the material in an official New Zealand language.
 (3) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
 
-### 175 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+### 175 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+(2) Material incorporated by reference in regulations does not have to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
 
 ### 176 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+[Repealed]
 
 ### 177 Application of Standards Act 1988 not affected
 Sections 169 to 176 do not affect the application of sections 22 to 25 of the Standards Act 1988.
@@ -4259,7 +4260,7 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (3) As soon as practicable after setting, amending, or revoking a target under this section, the Minister must—
   (a) publicly notify the target or revocation of the target in the Gazette; and
   (b) make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive.
-(4) To avoid doubt, the Gazette notice in subsection (3)(a) may not be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publications Act 1989.
+(4) To avoid doubt, a Gazette notice under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 (5) To avoid doubt, any number of targets may be set using the process under this section.
 
 ### 225 Regulations relating to targets
@@ -4705,44 +4706,23 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
-| Contents |  |  |
-| --- | --- | --- |
-| (This table of contents is not part of the Convention.) |  |  |
-| Article No |  | Page No |
-| 1 | Definitions | 252 |
-| 2 | Objective | 253 |
-| 3 | Principles | 253 |
-| 4 | Commitments | 254 |
-| 5 | Research and systematic observation | 261 |
-| 6 | Education, training and public awareness | 262 |
-| 7 | Conference of the parties | 262 |
-| 8 | Secretariat | 265 |
-| 9 | Subsidiary body for scientific and technological advice | 266 |
-| 10 | Subsidiary body for implementation | 267 |
-| 11 | Financial mechanism | 267 |
-| 12 | Communication of information related to implementation | 269 |
-| 13 | Resolution of questions regarding implementation | 271 |
-| 14 | Settlement of disputes | 271 |
-| 15 | Amendments to the Convention | 273 |
-| 16 | Adoption and amendment of annexes to the Convention | 273 |
-| 17 | Protocols | 274 |
-| 18 | Right to vote | 275 |
-| 19 | Depositary | 275 |
-| 20 | Signature | 275 |
-| 21 | Interim arrangements | 276 |
-| 22 | Ratification, acceptance, approval or accession | 276 |
-| 23 | Entry into force | 277 |
-| 24 | Reservations | 277 |
-| 25 | Withdrawal | 277 |
-| 26 | Authentic texts | 278 |
-|  | Annex I | 279 |
-|  | Annex II | 281 |
+### Schedule.Group
+
+#### Schedule Annex I
 
 | a/ | Countries that are undergoing the process of transition to a market economy. |
 | --- | --- |
 | * | Countries added to Annex I by an amendment that entered into force on 13 August 1998 pursuant to decision 4/CP.3 adopted at COP 3. |
 
+#### Schedule Annex II
+
 ## Schedule 2 — Kyoto Protocol to the United Nations Framework Convention on Climate Change
+
+### Schedule.Group
+
+#### Schedule Annex A
+
+#### Schedule Annex B
 
 | Party | Quantified emission limitation or reduction commitment (percentage of base year or period) |
 | --- | --- |
