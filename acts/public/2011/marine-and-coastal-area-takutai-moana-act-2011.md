@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -243,7 +243,7 @@ This Act binds the Crown.
   (c) a reserve within the meaning of section 2 of the Reserves Act 1977.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, vest in the Crown any defined area to which this section applies other than an area that is within a customary marine title area.
 (3) When an Order in Council made under this section comes into force, the defined area to which it relates ceases to be part of the common marine and coastal area.
-(4) Every Order in Council made under this section is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(4) Every Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 13 Boundary changes of marine and coastal area
 (1) This Act (other than section 11(4)) does not affect any enactment or the common law that governs accretions or erosions.
