@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-08-05_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -42,7 +42,7 @@ _Consolidation as at 2013-07-15_
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **enactment** means any provision of—
     (a) any Act of Parliament; or
-    (b) any regulations within the meaning of the Regulations (Disallowance) Act 1989 made by Order in Council
+    (b) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council
   - **Human Rights Review Tribunal** or means the Human Rights Review Tribunal continued by section 93 of the Human Rights Act 1993
   - **individual** means a natural person, other than a deceased natural person
   - **individual concerned** , in relation to personal information, means the individual to whom the information relates
@@ -132,7 +132,7 @@ The information privacy principles are as follows:Information privacy principles
   (a) imposes a prohibition or restriction in relation to the availability of personal information; or
   (b) regulates the manner in which personal information may be obtained or made available.
 (3) Nothing in principle 6 or principle 11 derogates from any provision—
-  (a) that is contained in any regulations within the meaning of the Regulations (Disallowance) Act 1989 made by Order in Council and in force—
+  (a) that is contained in any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council and in force—
     (i) in so far as those principles apply to a department, a Minister, an organisation, or a public sector agency (as defined in paragraph (b) of the definition of that term in section 2(1)) that is established for the purposes of assisting or advising, or performing functions connected with, a department, a Minister, or an organisation, immediately before 1 July 1983; and
     (ii) in so far as those principles apply to a local authority or a public sector agency (as so defined) that is established for the purposes of assisting or advising, or performing functions connected with, a local authority, immediately before 1 March 1988; and
     (iii) in so far as those principles apply to any other agency, immediately before 1 July 1993; and
@@ -550,8 +550,8 @@ Where an information privacy request is made pursuant to subclause (1)(b) of pri
     (ii) for purchase by members of the public at a reasonable price.
 (2) Every code of practice issued under section 46 shall come into force on the 28th day after the date of its notification in the Gazette or on such later day as may be specified in the code.
 
-### 50 Codes deemed to be regulations for purposes of disallowance
-All codes of practice issued under section 46 shall be deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989, but shall not be regulations for the purposes of the Acts and Regulations Publication Act 1989.
+### 50 Application of Legislation Act 2012 to codes
+All codes of practice issued under section 46 are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 51 Amendment and revocation of codes
 (1) The Commissioner may from time to time issue an amendment or revocation of a code of practice issued under section 46.
@@ -1111,10 +1111,11 @@ An Order in Council must—
   (c) the name of the lead agency for the agreement; and
   (d) the Internet site address where a copy of the agreement can be accessed.
 
-### 96M Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
-An Order in Council is a regulation for the purposes of—
-  (a) the Acts and Regulations Publication Act 1989; and
-  (b) the Regulations (Disallowance) Act 1989.
+### 96M Application of Legislation Act 2012
+An Order in Council—
+  (a) is a legislative instrument for the purposes of the Legislation Act 2012; and
+  (b) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (c) must be presented to the House of Representatives under section 41 of that Act.
 
 **Procedure for recommending Order in Council**
 
@@ -1668,11 +1669,7 @@ The Governor-General may, by Order in Council,—
 Section 129B takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 
 ### 129B New section 96M substituted
-Section 96M is repealed and the following section substituted:Application of Legislation Act 2012
-  An Order in Council—
-    (a) is a legislative instrument for the purposes of the Legislation Act 2012; and
-    (b) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-    (c) must be presented to the House of Representatives under section 41 of that Act.
+Amendment incorporated in this Act.
 
 **Transitional provisions and savings**
 
