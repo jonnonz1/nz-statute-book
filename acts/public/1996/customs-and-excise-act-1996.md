@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1132,9 +1132,6 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (7) No prohibition under this section applies to goods that are already loaded into the exporting craft at the time when the prohibition comes into force.
 (8) Unless otherwise specified in the order, an Order in Council under this section prohibiting the exportation of goods extends to and applies to the shipment of the goods for use as stores by a craft.
 
-###
-[Repealed]
-
 ### 57 Duration of Orders in Council prohibiting exports
 (1) Subject to subsection (2), an Order in Council made under section 56 shall expire 3 years after the date on which it comes into force.
 (2) Subsection (1) shall not apply where it is expressly provided in the Order in Council that it will expire after a period of less than 3 years, or if the Order in Council is sooner revoked.
@@ -1377,7 +1374,7 @@ In this section and in sections 76B to 76G, unless the context otherwise require
 ### 76C Access to Excise and Excise-equivalent Duties Table
 (1) The chief executive must—
   (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 9 of the Acts and Regulations Publication Act 1989.
+  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 7 of the Legislation Act 2012.
 (2) The documents are—
   (a) the Excise and Excise-equivalent Duties Table as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Excise and Excise-equivalent Duties Document; and
@@ -1387,10 +1384,10 @@ In this section and in sections 76B to 76G, unless the context otherwise require
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of that Table.
 (4) Nothing in section 76B or this section prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
 
-### 76D Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
-Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, 79AA(2), or 79A on or after 1 January 2010—
-  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+### 76D Application of Legislation Act 2012
+Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after the date on which section 77(3) of the Legislation Act 2012 comes into force—
+  (a) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
+  (b) are not legislative instruments for the purposes of the Legislation Act 2012 and do not have to be published under section 6 of that Act.
 
 ### 76E Judicial notice of Table
 Judicial notice must be taken by all courts and persons acting judicially of the Excise and Excise-equivalent Duties Table.
@@ -1405,7 +1402,7 @@ Every copy of the documents referred to in section 76C(2) purporting to be publi
 (2) The Excise and Excise-equivalent Duties Table may be altered or amended by an Order in Council made under section 77, 78, 79, 79AA(2), or 79A as if it were a regulation.
 (3) The Interpretation Act 1999 applies to the Excise and Excise-equivalent Duties Table as if it were an enactment.
 (4) Nothing in this Act limits or affects the application of—
-  (a) the Acts and Regulations Publication Act 1989 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Excise and Excise-equivalent Duties Table, this Act (either alone or with other enactments), or both; or
+  (a) Part 2 of the Legislation Act 2012 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Excise and Excise-equivalent Duties Table, this Act (either alone or with other enactments), or both; or
   (b) the Interpretation Act 1999 to an Order in Council made under section 77, 78, 79, 79AA(2), or 79A.
 
 ### 76H References to Schedule 3
@@ -4262,7 +4259,7 @@ Without limiting any other obligation imposed on the chief executive to give not
   (c) take the results of the consultation into account.
 
 ### 286B Regulations made under section 286A to be confirmed
-(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Regulations (Disallowance) Act 1989 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly validated and confirmed by an Act of Parliament passed before that date.
+(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Legislation Act 2012 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly validated and confirmed by an Act of Parliament passed before that date.
 (2) The validity of any regulations made under section 286A is not affected merely because of the repeal of an Act of Parliament validating and confirming them.
 
 ### 287 Regulations for fees, charges, and expenses
@@ -4309,12 +4306,13 @@ An amendment to, or replacement of, provisions incorporated under section 287A h
     (iv) copies of the provisions can be purchased at specified places.
 (2) A failure to comply with this section does not invalidate regulations that incorporate provisions under section 287A.
 
-### 287E Acts and Regulations Publication Act 1989 not applicable to provisions incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to provisions incorporated under section 287A or to an amendment to, or replacement of, those provisions.
+### 287E Application of Legislation Act 2012 to provisions incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to provisions incorporated under section 287A or to an amendment to, or replacement of, those provisions.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate provisions under section 287A.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires provisions incorporated under section 287A to be presented to the House of Representatives.
 
 ### 287F Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires provisions incorporated under section 287A to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to regulations that incorporate provisions under section 287A.
+[Repealed]
 
 ### 288 Chief executive may make rules for certain purposes
 (1) The chief executive may from time to time make rules for all or any of the following purposes:
@@ -4342,7 +4340,7 @@ The Acts and Regulations Publication Act 1989 does not apply to provisions incor
   (b) for purchase by members of the public at a reasonable price.
 (9) On the revocation of any rule made under subsection (1), subsection (8) shall cease to apply in relation to that rule.
 (10) Every rule made under this section shall come into force on the 28th day after the date of its publication or notification, as the case may be, in the Gazette in accordance with the provisions of this section, or on such later date as may be specified in the rule.
-(11) Every rule made under subsection (1) is hereby deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989, but shall not be a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (12) The chief executive may, from time to time, amend or revoke any rules made under subsection (1), and the provisions of this section, with all necessary modifications, shall apply in respect of any such amendment or revocation.
 
 ### 288A Use of reasonable force must be reported
