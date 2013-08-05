@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -790,7 +790,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
   (h) specify civil penalties for breach of conditions referred to in subsection (2)(b)(ii), and establish a procedure for resolving disputes about the application of those penalties:
   (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)(c) to be published in the manner set out in the order.
-(4) An order made under subsection (1) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Before recommending that an order made under subsection (1) be amended or revoked, the Minister must consult the relevant public road controlling authority about his or her proposal.
 (6) This section does not limit any other Act that provides for tolls to be levied or collected in respect of any road.
 
@@ -1106,8 +1106,8 @@ Despite anything in the Land Transfer Act 1952, if a lease under section 63 is i
 ### 69 Status of GPS on land transport
 To avoid doubt, a GPS on land transport is not—
   (a) a direction for the purposes of Part 3 of the Crown Entities Act 2004; or
-  (b) a regulation for the purposes of the Acts and Regulations Publication Act 1989; or
-  (c) a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+  (b) a legislative instrument for the purposes of the Legislation Act 2012; or
+  (c) a disallowable instrument for the purposes of the Legislation Act 2012.
 
 ### 70 Agency to give effect to GPS on land transport in respect of funding of land transport system
 (1) The Agency must give effect to the GPS on land transport when performing its functions under subpart 1 of Part 2 in respect of land transport planning and funding.
