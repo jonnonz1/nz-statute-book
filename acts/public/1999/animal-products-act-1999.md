@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -211,7 +211,7 @@ The object of this Act is to—
   (a) references to the requirements of Parts 2 to 4 include references to the requirements of any regulations, standards, specifications, Ministerial orders, notices, or directions made or given for the purposes of those Parts; and similarly, references to the requirements of any other Part or provision include references to the requirements of any regulations, standards, specifications, notices, or directions made for the purposes of that Part or provision:
   (b) references to any regulations under, or made under, a particular Part include references to regulations made under section 166 of this Act or section 25 of the Animal Products (Ancillary and Transitional Provisions) Act 1999, for the purposes of that Part.
 (3) The categorisation of any person as a primary producer, a primary processor, a secondary processor, an exporter, or a homekill or recreational catch service provider relates to the identification of the person in that capacity only, and does not prevent the person from being identified also, and accordingly treated as being, a person in any of the other categories.
-(4) Any notice in the Gazette made for the purposes of paragraph (d) of the definition of primary processor is to be treated as a regulation for the purposes of both the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(4) A notice in the Gazette made for the purposes of paragraph (d) of the definition of primary processor in subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Unless the context otherwise requires, parts of speech and grammatical forms of terms defined in this section have corresponding meanings in this Act.
 
 ### 5 Product processed fit for intended purpose
@@ -676,7 +676,7 @@ The object of this Part is to provide for regulated control schemes which are sp
 (7) In the case of inconsistency between a Ministerial order under this section and any other regulated control scheme, the Ministerial order prevails.
 (8) A Ministerial order may be amended at any time in the same manner as it was made.
 (9) Despite anything in section 28 of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
-(10) An order made under this section is to be treated for the purposes of the Regulations Disallowance Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989) as if it were a regulation within the meaning of that Act.
+(10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 4 — Animal product standards and specifications
 
@@ -748,7 +748,7 @@ Standards and specifications set under this Part may apply in respect of any cla
 (7) In the case of inconsistency between a Ministerial order under this section and any animal product standard or specification prescribed or issued under section 44 or section 45, the Ministerial order prevails.
 (8) A Ministerial order may be amended at any time in the same manner as it was made.
 (9) Despite anything in section 28 of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
-(10) Any order made under this section is to be treated for the purposes of the Regulations Disallowance Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989) as if it were a regulation within the meaning of that Act.
+(10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 5 — Export of animal material and products
 
@@ -1977,10 +1977,10 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 ### 125 Levy regulations to be confirmed
 (1) Where in any year any regulations imposing a levy have been made under this Part on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where in any year any regulations imposing a levy have been made under this Part after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ## Part 10 — Offences, penalties, and proceedings
 
@@ -2515,9 +2515,7 @@ A person who is required by or under section 159 to keep records or any other in
   (p)
   (q)
 (2) Any notice under subsection (1) must be notified in accordance with section 164.
-(3) A notice under subsection (1)(ma)—
-  (a) is to be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) A notice made under subsection (1)(ma) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 168 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
