@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -215,14 +215,14 @@ In this Act, unless the context otherwise requires, the term physical, health, a
 (6) The Minister may recommend the making of an Order in Council under subsection (2) only if the Minister is satisfied—
   (a) that the question whether a surgical procedure is a significant surgical procedure for the purposes of this Act is so uncertain as to require that the uncertainty be removed by the making of an Order in Council under subsection (2); or
   (b) that the question whether a surgical procedure should or should not be able to be performed on an animal by any person is a matter of public concern and that concern is so great that it needs to be removed by the making of an Order in Council under subsection (2).
-(7) Every Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 7 Notice of making of Order in Council
 (1) Where an Order in Council is made under section 6(2) or section 6(3), the Minister must, as soon as practicable after the making of that Order in Council,—
   (a) publish notice of the making of that Order in Council in 1 or more daily newspapers published in the cities of Auckland, Wellington, Christchurch, and Dunedin respectively; and
   (b) give written notice of the making of that Order in Council to those persons who appear to the Minister to be representative of the classes of persons likely to be affected by the making of that Order in Council; and
   (c) give such other public notice of the making of that Order in Council as the Minister thinks fit.
-(2) Despite subsection (1), the publication in accordance with the Acts and Regulations Publication Act 1989 of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
+(2) Despite subsection (1), the publication in accordance with the Legislation Act 2012 of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
 
 ### 8 Act to bind the Crown
 (1) This Act binds the Crown.
@@ -316,7 +316,7 @@ A person commits an offence who, being the owner of, or a person in charge of, a
   (a) the matters set out in paragraphs (a) to (d) of subsection (3); and
   (b) the consultation conducted under subsection (1) or subsection (2), as the case may be, and any consultation carried out under section 184(1); and
   (c) any other matter considered relevant by the Minister.
-(6) Every Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(6) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 17 Performance of restricted surgical procedures
 (1) A restricted surgical procedure may be performed on an animal only by—
@@ -516,7 +516,7 @@ A person commits an offence who—
   (b) a specified district or subdivision of a district of a territorial authority, or any specified part of New Zealand.
 (6) The Governor-General may, by Order in Council, made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, amend or revoke an Order in Council made under subsection (1).
 (7) The consultation required by section 184(1) is in addition to the consultation required by subsections (1) and (6) of this section.
-(8) Every Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 33 Criteria
 The Minister must, in deciding whether or not to recommend the making of an Order in Council under section 32(1) or section 32(6), have regard to the following matters:
@@ -926,8 +926,8 @@ A code of welfare may relate to 1 or more of the following:
     (ii) the interests of persons involved in the commercial use of any affected animals; and
     (iii) any other relevant factor.
 
-### 79 Codes of welfare deemed to be regulations for purposes of disallowance
-Every code of welfare issued under section 75 and every notice amending or revoking any such code of welfare, are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+### 79 Codes of welfare treated as legislative instruments for purposes of disallowance
+Codes of welfare issued under section 75 and notices amending or revoking codes of welfare are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 6 — Use of animals in research, testing, and teaching
 
