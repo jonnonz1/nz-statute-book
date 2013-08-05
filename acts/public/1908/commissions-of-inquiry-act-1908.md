@@ -1,5 +1,5 @@
 # Commissions of Inquiry Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to commissions of inquiry appointed by the Governor-General in Council or by the Governor-General
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires, document means a document in
   (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
 
 ### 2 Appointment of Commissions of Inquiry
-The Governor-General may, by Order in Council, appoint any person or persons to be a Commission to inquire into and report upon any question arising out of or concerning—
+The Governor-General may, by Order in Council published in the Gazette, appoint any person or persons to be a Commission to inquire into and report upon any question arising out of or concerning—
   (a) the administration of the Government; or
   (b) the working of any existing law; or
   (c) the necessity or expediency of any legislation; or
