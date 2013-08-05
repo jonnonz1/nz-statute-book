@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -44,7 +44,7 @@ _Consolidation as at 2013-07-01_
     (b) includes registers, books, maps, plans, drawings, photographs, cinematographic films, sound recordings, and electronic storage media made or received by an agency or employee of the kind described in paragraph (a); and
     (c) includes copies of papers, documents, records or other things that are security records by virtue of paragraph (a) or paragraph (b).
 (2) The Governor-General may from time to time by Order in Council declare any agency to be an intelligence and security agency for the purposes of this Act.
-(3) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -180,7 +180,7 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
 (2) The Inspector-General may summon and examine on oath any person who in the opinion of the Inspector-General is able to give any information relating to any matter to which an inquiry relates, and may for the purpose administer an oath to any person so summoned.
 (3) Every such examination by the Inspector-General shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 (4) Subject to subsection (5), every person who appears as a witness before the Inspector-General shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in courts of law.
-(5) Where any person is bound by the provisions of any enactment (being an Act of Parliament or any regulations within the meaning of the Regulations (Disallowance) Act 1989 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter, compliance by that person with a requirement of the Inspector-General (being a requirement made pursuant to subsection (1)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
+(5) Where any person is bound by the provisions of any enactment (being an Act of Parliament or any regulations made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter, compliance by that person with a requirement of the Inspector-General (being a requirement made pursuant to subsection (1)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
 (6) Witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011—and those regulations, with all necessary modifications, shall apply accordingly.
   (a) shall be paid by the Inspector-General to any person who appears as a witness before the Inspector-General pursuant to a summons under subsection (2); and
   (b) may, if the Inspector-General so decides, be paid by the Inspector-General to any other person who appears as a witness before the Inspector-General;—
