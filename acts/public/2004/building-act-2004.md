@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -3919,7 +3919,7 @@ The requirements of sections 355 to 358 that apply to making a rule apply also t
 The rules are made once they are approved by the Minister.
 
 ### 362 Status of rules
-The rules are deemed to be regulations for the purpose of the Regulations (Disallowance) Act 1989 but not for the purpose of the Acts and Regulations Publication Act 1989.
+The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -4480,12 +4480,13 @@ Material incorporated by reference in an instrument that expires or that is revo
   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
 
-### 411 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in an instrument or to an amendment to, or replacement of, that material.
+### 411 Application of Legislation Act 2012 to provisions incorporated by reference
+(1) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in an instrument made or issued under this Act to be presented to the House of Representatives.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012, apart from the modification to the application of section 41 of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
+(3) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument or to an amendment to, or replacement of, that material.
 
 ### 412 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in an instrument made or issued under this Act to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
+[Repealed]
 
 ### 413 Application of Standards Act 1988 not affected
 Sections 405 to 412 do not affect the application of sections 22 to 25 of the Standards Act 1988.
@@ -4756,7 +4757,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
   (a) the territorial authority must be taken to have all the functions, duties, and powers of a building consent authority under this Act; and
   (b) this Act applies with all necessary modifications.
 (3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)(b)(ii), specify a later date in substitution for that date.
-(3E) An order under subsection (3D) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) This section overrides sections 14 and 193.
 
 **Review of building code**
