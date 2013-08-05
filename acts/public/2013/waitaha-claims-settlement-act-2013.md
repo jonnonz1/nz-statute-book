@@ -1,5 +1,5 @@
 # Waitaha Claims Settlement Act 2013
-_Consolidation as at 2013-06-12_
+_Consolidation as at 2013-08-05_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the historical account set out in the deed of settlement entered into by Waitaha and the Crown:
@@ -648,14 +648,13 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $1,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
-(2) Bylaws made under this section are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) Bylaws made under this section—
+  (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
 
 ### 55 Amendment relating to Legislation Act 2012
 (1) This section amends this Act and takes effect on the repeal by the Legislation Act 2012 of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
-(2) Replace section 54(2) with:
-  (2) Bylaws made under this section—
-    (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-    (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) Amendment(s) incorporated in the Act(s).
 
 ### 56 Existing classification of Te Whakairinga Kōrero
 (1) This section applies if Te Whakairinga Kōrero applies to any land in—
