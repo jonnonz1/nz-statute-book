@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -241,7 +241,7 @@ In any proceeding commenced against a Community Magistrate by a person claiming 
 (3) The remuneration of a Community Magistrate is not to be diminished during the continuance of the Community Magistrate's appointment.
 (4) Any Order in Council made under subsection (1)(b) or subsection (2), and any provision of any such order, may be made so as to come into force on a date to be specified in that behalf in the order, being the date of the making of the order or any other date, whether before or after the date of the making of the order.
 (5) Every such Order in Council, and any provision of any such order, in respect of which no date is specified as aforesaid, comes into force on the date of the making of the order.
-(6) Every Order in Council made under subsection (1)(b) or subsection (2) is deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.
+(6) Every Order in Council made under subsection (1)(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 11H Retired Community Magistrates
 (1) Any person who has retired from office as a Community Magistrate on attaining the age of 70 years, or who has sooner resigned, may be appointed as an acting Community Magistrate by the Governor-General on the advice of the Minister of Justice.
