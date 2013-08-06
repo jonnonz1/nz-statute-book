@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-08-06_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -853,8 +853,8 @@ On and after the commencement of this Part, neither the Crown nor a DHB may pay 
   (a) a family care policy:
   (b) a change to a family care policy:
   (c) a determination cancelling a family care policy.
-(6) Before the commencement of section 38 of the Legislation Act 2012, subsection (5) must be read as if the reference to a disallowable instrument for the purposes of the Legislation Act 2012 were a reference to a regulation within the meaning of the Regulations (Disallowance) Act 1989.
-(7) Subsection (6) and this subsection are repealed on the day after the commencement of section 38 of the Legislation Act 2012.
+(6)
+(7)
 
 ### 70E Claims of unlawful discrimination in respect of this Act or family care policy precluded
 (1) In this section, specified allegation means any assertion to the effect that a person's right to freedom from discrimination on 1 or more of the grounds stated in section 21(1)(b), (h), (i), and (l) of the Human Rights Act 1993, being the right affirmed by section 19 of the New Zealand Bill of Rights Act 1990, has been breached—
