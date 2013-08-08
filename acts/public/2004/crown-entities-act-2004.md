@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-08_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1761,6 +1761,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
+| Crown Irrigation Investments Limited |  |  |  |  |  |
 | Crown Research Institutes |  |  |  |  |  |
 | New Zealand Venture Investment Fund Limited |  |  |  |  |  |
 | Radio New Zealand Limited |  |  |  |  |  |
