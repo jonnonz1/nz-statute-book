@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -13,7 +13,7 @@ In this Act, unless the context otherwise requires,—
   - **constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
   - **flat** means a part of a building that is used as a separate dwelling; but does not include any right, easement, or appurtenance which is held and enjoyed with the flat
   - **flat-owning company** means a flat-owning company within the meaning of Part 7A of the Land Transfer Act 1952
-  - **husband and wife** , in relation to any settled property, means the husband and wife on whom the property is settled under this Act
+  - **husband and wife** , in relation to any settled property, means the husband and wife on whom the property is settled under this Act; and every reference in this Act to a husband and wife must be taken to include any 2 people (of any sex) who are married
   - **joint family home** means any land settled as a joint family home under this Act
   - **land** means all estates and interests, whether freehold or chattel, in real property; and includes the licensee's interest under a licence (within the meaning of Part 7A of the Land Transfer Act 1952) to occupy a flat
   - **mining residence site** means any residence site in respect of which there exists a licence granted under the Mining Act 1926 or under any former Mining Act; and includes—
