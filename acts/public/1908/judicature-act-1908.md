@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-19_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -2758,7 +2758,7 @@ Rules 6.1 and 6.2 and rules 6.4 to 6.25 apply to any notice that by these rules,
 
 ### 6.4 Personal service on spouses or partners
 (1) This rule applies when defendants to a proceeding are—
-  (a) husband and wife; or
+  (a) a married couple; or
   (b) civil union partners; or
   (c) de facto partners.
 (2) Service on one spouse, civil union partner, or de facto partner is not to be treated as service on the other unless the court so orders.
