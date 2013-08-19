@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -10,7 +10,7 @@ This Act may be cited as the Adoption Act 1955.
 In this Act, unless the context otherwise requires,—
   - **adopted child** means any person concerning whom an adoption order is in force
   - **adoption order** means an adoption order made under this Act; and does not include an interim order
-  - **adoptive parent** means any person who adopts a child in accordance with an adoption order; and, in the case of an order made in favour of a husband and wife on their joint application, means both the husband and wife; but does not include a spouse who merely consents to an adoption
+  - **adoptive parent** means any person who adopts a child in accordance with an adoption order; and, in the case of an order made in favour of a married couple on their joint application, means both the spouses; but does not include a spouse who merely consents to an adoption
   - **chief executive** means the chief executive of the department
   - **child** means a person who is under the age of 20 years; and includes any person in respect of whom an interim order is in force, notwithstanding that the person has attained that age
   - **Commonwealth country** means a country that is a member of the British Commonwealth of Nations; and includes every territory for whose international relations the Government of that country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
@@ -72,7 +72,7 @@ Upon any application for an adoption order, if the court considers that the appl
 (1) Before the court makes any interim order, or makes any adoption order without first making an interim order, consents to the adoption by all persons (if any) whose consents are required in accordance with this section shall be filed in the court.
 (2) The persons whose consents to any such order in respect of any child are required as aforesaid, unless they are dispensed with by the court under section 8, shall be—
   (a) the parents and guardians of the child as provided in subsections (3) to (5); and
-  (b) the spouse of the applicant in any case where the application is made by either a husband or a wife alone.
+  (b) the spouse of the applicant in any case where the application is made by either spouse alone.
 (3) The parents and guardians whose consents to any such order in respect of any child are required as aforesaid, unless they are dispensed with by the court under section 8, shall be,—
   (a) if the parents of the child were married to each other either at the time of the child's birth or at or after the time of his conception or if the father as well as the mother is or was a guardian of the child and there is no adoption order in force in respect of the child, the surviving parents or parent and (if the guardianship concerned has not been terminated, for example, by the child turning 18 years of age) the surviving guardians or guardian appointed by a deceased parent:
   (b) in any other case where there is no adoption order in force in respect of the child, the mother or (if she is dead, and the guardianship concerned has not been terminated, for example, by the child turning 18 years of age) the surviving guardians or guardian appointed by her:
@@ -183,7 +183,7 @@ In any case where a District Court has refused to make an interim order or an ad
 (1B) Notwithstanding subsection (1), if the court is satisfied that it is contrary to the religious beliefs or cultural traditions of the applicant for an adoption order for the adopted child to bear a given name, the order may confer on the child a surname only.
 (2) Upon an adoption order being made, the following paragraphs of this subsection shall have effect for all purposes, whether civil, criminal, or otherwise, but subject to the provisions of any enactment which distinguishes in any way between adopted children and children other than adopted children, namely:
   (a) the adopted child shall be deemed to become the child of the adoptive parent, and the adoptive parent shall be deemed to become the parent of the child, as if the child had been born to that parent in lawful wedlock:
-    provided that, where the adopted child is adopted by his mother either alone or jointly with her husband, the making of the adoption order shall not prevent the making of an affiliation order or maintenance order, or of an application for an affiliation order or maintenance order, in respect of the child:
+    provided that, where the adopted child is adopted by his mother either alone or jointly with her spouse, the making of the adoption order shall not prevent the making of an affiliation order or maintenance order, or of an application for an affiliation order or maintenance order, in respect of the child:
   (b) the adopted child shall be deemed to cease to be the child of his existing parents (whether his natural parents or his adoptive parents under any previous adoption), and the existing parents of the adopted child shall be deemed to cease to be his parents, and any existing adoption order in respect of the child shall be deemed to be discharged under section 20:
     provided that, where the existing parents are the natural parents, the provisions of this paragraph shall not apply for the purposes of any enactment relating to forbidden marriages or civil unions or to the crime of incest:
   (c) the relationship to one another of all persons (whether the adopted child, the adoptive parent, the existing parents, or any other persons) shall be determined in accordance with the foregoing provisions of this subsection so far as they are applicable:
@@ -193,7 +193,7 @@ In any case where a District Court has refused to make an interim order or an ad
   (g)
   (h) any existing appointment as guardian of the adopted child shall cease to have effect:
   (i) any affiliation order or maintenance order in respect of the adopted child and any agreement (not being in the nature of a trust) which provides for payments for the maintenance of the adopted child shall cease to have effect:
-    provided that, where the adopted child is adopted by his mother either alone or jointly with her husband, the order or agreement shall not cease to have effect by reason of the making of the adoption order:
+    provided that, where the adopted child is adopted by his mother either alone or jointly with her spouse, the order or agreement shall not cease to have effect by reason of the making of the adoption order:
     provided also that nothing in this paragraph shall prevent the recovery of any arrears which are due under any order or agreement at the date on which it ceases to have effect as aforesaid.
 (3) This section shall apply with respect to all adoption orders, whether made before or after the commencement of this Act:
   provided that,—
