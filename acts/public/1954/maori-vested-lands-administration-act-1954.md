@@ -1,5 +1,5 @@
 # Maori Vested Lands Administration Act 1954
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to provide for the administration of certain land vested in the Māori Trustee and certain other Maori land subject to leases conferring on the lessees rights to compensation for improvements
 
@@ -215,7 +215,7 @@ Every valuation made for the purposes of section 27 shall be made as nearly as m
 
 ### 30 Assignment of leases
 (1) Every new lease, and every renewal thereof, shall contain a provision to the effect that where the lessee desires to assign his lease, whether in whole or in part, he shall first offer to surrender the lease, in whole or in part, to the Māori Trustee for a consideration to be agreed on between the lessee and the Māori Trustee, and, failing agreement within 2 months from the date of the offer to surrender being made to the Māori Trustee as to the amount of the consideration, the lessee shall be at liberty to make any assignment which is otherwise permitted by his lease.
-(2) Nothing in any provision in any lease under subsection (1) shall apply to any assignment as between husband and wife, or between civil union partners or de facto partners, or to any assignment to any child, brother, or sister of the lessee, or to any assignment by operation of law or to any disposition by will.
+(2) Nothing in any provision in any lease under subsection (1) shall apply to any assignment as between spouses, or between civil union partners or de facto partners, or to any assignment to any child, brother, or sister of the lessee, or to any assignment by operation of law or to any disposition by will.
 
 ### 31 Form of new lease
 (1) Every new lease shall be in the form prescribed in Schedule 1:
@@ -414,7 +414,7 @@ Nothing in Parts 1 and 2 shall apply to the leases which have been granted in re
 ### 74 Validation of leases granted by former Maori Land Boards
 All leases hitherto granted by any former Maori Land Board in respect of any land which became vested in it under Part 14 or Part 15 of the Maori Land Act 1931, or the corresponding provisions of any former enactment shall, notwithstanding the terms of the lease or the terms of any trust instrument, be deemed for all purposes to have been lawfully and validly granted.
 
-### 75 Restrictions on removal of timber by lessees under Maori Vested Lands Administration Act 1954
+### 75 Restrictions on removal of timber by lessees
 No lessee under any lease to which section 19 applies shall, after the commencement of this Act, and no lessee holding under any other subsisting lease of vested land shall, after the expiry of his lease, cut or remove, or authorise or permit any other person to cut or remove, from the land comprised in the lease any timber or timber trees; and, if any lessee cuts or removes or authorises or permits any timber or timber trees to be cut or removed in contravention of the provisions of this section, the Māori Trustee may exercise in respect of the lease and the lessee the same remedies as he could have exercised if it had been a term of the lease that the lessee should not cut or remove or authorise or permit any timber or timber trees to be cut or removed and that he should be liable, at the suit of the lessor, for damages in respect of the timber or timber trees so cut or removed:
   provided that nothing in this section shall be construed to prevent or restrict any lessee, during the subsistence of his lease, from cutting or removing, or authorising the cutting or removal of any timber trees planted by the lessee or by any former lessee, or of any timber derived from any timber trees so planted.
 
@@ -526,7 +526,7 @@ The lessor may at all reasonable times during the continuance of the term hereby
 
 ### 30
 That subject to the provisions of section 29 of the Act there are hereby excepted and reserved from this demise all milling timber flax coal lignite stone clay kauri-gum and other metals or minerals whatsoever in or upon the land hereby demised with full power and liberty to the said lessor its agents servants grantees or licensees to enter upon the said land for the purpose of searching for working winning getting and carrying away all such metals minerals and other things so reserved as aforesaid and for this purpose to make such roads erect such buildings sink such shafts, and do all such things as may be necessary:
-provided that in the exercise of such rights the lessor shall cause as little interference as possible with the lessee's user of the said land and provided further that the lessor shall pay a fair compensation to the lessee for all loss or damage sustained by the lessee by the exercise of any such powers by the lessor. The amount of any such compensation shall in default of agreement be determined by 2 arbitrators and in case the arbitrators cannot agree, by their umpire, in accordance with the provisions of the Arbitration Act 1908; and these presents shall for the purpose be deemed to be a submission under that Act.
+provided that in the exercise of such rights the lessor shall cause as little interference as possible with the lessee's use of the said land and provided further that the lessor shall pay a fair compensation to the lessee for all loss or damage sustained by the lessee by the exercise of any such powers by the lessor. The amount of any such compensation shall in default of agreement be determined by 2 arbitrators and in case the arbitrators cannot agree, by their umpire, in accordance with the provisions of the Arbitration Act 1908; and these presents shall for the purpose be deemed to be a submission under that Act.
 
 ### 31
 That if the lessee shall at any time make default in the performance of any of the covenants conditions or provisions on the part of the lessee herein expressed or implied it shall be lawful for the lessor (without prejudice to any right of re-entry or other right) to perform any such covenant condition or provision on behalf of the lessee (and if necessary for so doing to enter upon the said premises) and all moneys paid and expenses incurred in so doing and also all costs incurred by the lessor in connection therewith shall be forthwith repaid to the lessor by the lessee together with interest thereon at the rate of 10 pounds (£10) per centum per annum and it shall be lawful for the lessor or the agent of the lessor at all times for the purpose aforesaid and for the purpose of viewing the demised premises to enter upon the said premises with such workmen and other persons as the lessor or the agent of the lessor shall think fit and to remain there for such time as in the circumstances shall be reasonable and proper.
@@ -540,7 +540,7 @@ It is hereby declared that the covenants powers and conditions implied in leases
 ### 34
 It is hereby further declared that terms and expressions defined in the Act shall when used in these presents have the meanings so defined and that where the Act directs the inclusion of any provision in these presents that provision shall be deemed to be included herein in accordance with the Act and not otherwise.
 
-| Signed by the Māori Trustee as lessor by [specify] acting for the Māori Trustee pursuant to section 9 of the Maori Trustee Act 1953 and sealed with the Māori Trustee's Seal of Office in the presence of: | The Māori Trustee by [specify] acting for the Māori Trustee pursuant to section 9 of the Maori Trustee Act 1953. |
-| --- | --- |
+| Signed by the Māori Trustee as lessor by [specify] acting for the Māori Trustee pursuant to section 9 of the Maori Trustee Act 1953 and sealed with the Māori Trustee's Seal of Office in the presence of: | \|\|\|\|\|\| | The Māori Trustee by [specify] acting for the Māori Trustee pursuant to section 9 of the Maori Trustee Act 1953. |
+| --- | --- | --- |
 
 ## Schedule 2 — Enactments repealed
