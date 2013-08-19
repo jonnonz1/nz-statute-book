@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-08-19_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -644,7 +644,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (a) the parents of the child; or
   (b) a parent, or the parents, of the child and an eligible custodian of the child who is not the child's parent.
 (3) The parties to a voluntary agreement for domestic maintenance may be—
-  (a) a husband and wife or civil union partners; or
+  (a) a married couple or civil union partners; or
   (b) the parties to a marriage, civil union or de facto relationship that has ended; or
   (c) persons who are the parents of a child but who have never been in a marriage or civil union with each other.
 (4) If there is any other party to the agreement in relation to whom subsection (2) or subsection (3) does not apply, that party is to be disregarded for the purposes of the application of this Act to the voluntary agreement.
