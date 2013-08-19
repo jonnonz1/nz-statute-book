@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2013-08-19_
 
 > Title
 
@@ -179,8 +179,8 @@ The purpose of this Part is to—
 (1) In this Part, unless the context otherwise requires,—
   - **AHR procedure** has the meaning given to it by section 15
   - **partner** ,—
-    (a) in relation to a woman who is married or in a civil union and to whom paragraph (b) does not apply, means the woman's husband or civil union partner; and
-    (b) in relation to a woman (woman A) who is married or in a civil union but is living with a man, or with another woman, as a de facto partner, means the man or other woman who is living with woman A as a de facto partner (and so does not mean woman A's husband or civil union partner); and
+    (a) in relation to a woman who is married or in a civil union and to whom paragraph (b) does not apply, means the woman's spouse or civil union partner; and
+    (b) in relation to a woman (woman A) who is married or in a civil union but is living with a man, or with another woman, as a de facto partner, means the man or other woman who is living with woman A as a de facto partner (and so does not mean woman A's spouse or civil union partner); and
     (c) in relation to a woman (woman A) who is not married or in a civil union but is living with a man, or with another woman, as a de facto partner, means the man or other woman who is living with woman A as a de facto partner
   - **partnered woman** means a woman who—
     (a) is married or in a civil union; or
