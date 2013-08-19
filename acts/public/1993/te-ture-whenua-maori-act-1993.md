@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -3053,7 +3053,7 @@ If, on the partition of any land, the share or interest of any person in the lan
 ### 296 Dwelling sites for Maori
 (1) Without limiting the generality of the powers and discretions conferred on the court by the preceding provisions of this Part, but subject to section 148, the court may partition any Maori freehold land, on the application of any owner, for the purpose of providing that owner with a site for a dwelling.
 (2) The court shall make a vesting order for the purpose of giving effect to any such partition.
-(3) An order may be made under this section vesting any land or interest in land in a husband and wife or civil union partners or de facto partners, as joint tenants or as tenants in common in equal shares, if the parties or either of the parties to the marriage, civil union, or de facto relationship is a person to whom the land or interest in land may be alienated in accordance with the provisions of Part 7.
+(3) An order may be made under this section vesting any land or interest in land in a married couple or civil union partners or de facto partners, as joint tenants or as tenants in common in equal shares, if the parties or either of the parties to the marriage, civil union, or de facto relationship is a person to whom the land or interest in land may be alienated in accordance with the provisions of Part 7.
 (4) Where the court has made an order under this section, or under section 440 of the Maori Affairs Act 1953, and after the expiry of 5 years after the date of the order, it is shown to the satisfaction of the court that the land has not been used as a site for a dwelling, the court may, with the consent of any mortgagee or other encumbrancer, make an order cancelling the vesting order unless it is shown to the satisfaction of the court that the failure to use the land as a site for a dwelling was due to circumstances over which the person in whom the land was vested had no control, or that for any other reason that person should not be deprived of the title to that land.
 (5) On cancelling a vesting order under subsection (4), the court may order—
   (a) that the land be held again under the former instrument of title as if the vesting order had not been made; or
