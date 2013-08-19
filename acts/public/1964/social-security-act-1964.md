@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-19_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1934,7 +1934,7 @@ Where any applicant for a benefit dies before the completion of the investigatio
 ### 63 Conjugal status for benefit purposes
 For the purposes of determining any application for any benefit, or of reviewing any benefit already granted, or of determining the rate of any benefit, or of the granting of any payment of a funeral grant under section 61DB or of any welfare programme approved by the Minister under section 124(1)(d), or of assessing the financial means of any person under section 69FA or Part 4 the chief executive may in the chief executive's discretion—and may determine a date on which they shall be regarded as having commenced to live apart or a date on which they shall be regarded as having entered into such a relationship, as the case may be, and may then in the chief executive's discretion grant a benefit, refuse to grant a benefit, or terminate, reduce, or increase any benefit already granted, from that date accordingly.
   (a) regard as single any applicant or beneficiary who is married or in a civil union but is living apart from his or her spouse or partner:
-  (b) regard as husband and wife any man and woman who, not being legally married or in a civil union, have entered into a relationship in the nature of marriage—
+  (b) regard as married any 2 people who, not being legally married or in a civil union, have entered into a relationship in the nature of marriage—
 
 ### 63A Provisions relating to children who continue education
 Where a child aged 18 years or over is not financially independent and is attending school or a tertiary educational establishment, the chief executive may, in his or her discretion, as if the child had not attained the age of 18 years, grant or continue to pay an orphan's benefit or an unsupported child's benefit in respect of the child, or pay any other benefit at the appropriate rate that includes that child as a dependent child of the beneficiary, for such period or periods as the chief executive determines, expiring not later than the pay day immediately after 31 December in the year in which the child attains the age of 18 years.
@@ -4363,7 +4363,7 @@ In this Part, date of means assessment means,—
 (5) Section 147(4) applies if a review under this section determines that, as at the date of means assessment, the assets of the person were equal to or less than the applicable asset threshold.
 
 ### 151 Conjugal status for purpose of means assessment
-(1) The chief executive's discretion under section 63 to regard certain people as husband and wife, or as single, and to determine the date on which they may be so regarded, applies for the purposes of this Part to a resident assessed as requiring care as if the resident were an applicant for a benefit.
+(1) The chief executive's discretion under section 63 to regard certain people as married, or as single, and to determine the date on which they may be so regarded, applies for the purposes of this Part to a resident assessed as requiring care as if the resident were an applicant for a benefit.
 (2) The chief executive may not determine that, for the purposes of this Part, a person is single by reason only that the person or his or her spouse or partner—
   (a) is a resident assessed as requiring care; or
   (b) has become unable to affirm his or her marriage or civil union.
