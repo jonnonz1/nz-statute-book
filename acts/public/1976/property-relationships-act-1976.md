@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > Title
 
@@ -20,31 +20,31 @@ This Part is intended only as a guide to the general scheme and effect of this A
 
 ### 1C What this Act is about
 (1) This Act is mainly about how the property of married couples and civil union couples and couples who have lived in a de facto relationship is to be divided up when they separate or one of them dies.
-(2) This Act applies differently depending on the length of the marriage between the husband and wife or the civil union between the civil union partners or the de facto relationship between the de facto partners:
+(2) This Act applies differently depending on the length of the marriage, civil union, or de facto relationship:
   (a) in the case of marriages and civil unions, special rules apply to marriages and civil unions of less than 3 years:
   (b) in the case of de facto relationships, this Act usually applies only when the de facto partners have lived together for at least 3 years, but it may apply to shorter de facto relationships in certain circumstances.
 (3) In general, the couple's property is to be divided equally between the couple.
 
 ### 1D How this Act is arranged
 (1) This Act is arranged in Parts, as follows:
-  (a) Part 1—outline of this Act:
-  (b) Part 2—preliminary provisions:
-  (c) Part 3—application of this Act:
-  (d) Part 4—division of relationship property:
-  (e) Part 5—relationship property and creditors:
-  (f) Part 6—contracting out:
-  (g) Part 7—proceedings under this Act:
-  (h) Part 8—division of property where one spouse or partner dies:
-  (i) Part 9—transitional provisions and savings.
+  (a) Part 1—Outline of this Act:
+  (b) Part 2—Preliminary provisions:
+  (c) Part 3—Application of this Act:
+  (d) Part 4—Division of relationship property:
+  (e) Part 5—Relationship property and creditors:
+  (f) Part 6—Contracting out:
+  (g) Part 7—Proceedings under this Act:
+  (h) Part 8—Division of property where one spouse or partner dies:
+  (i) Part 9—Transitional provisions and savings.
 (2) Sections 1E to 1L summarise what each Part (other than this Part) contains.
 
-### 1E Part 2 (preliminary provisions)
+### 1E Part 2 (Preliminary provisions)
 Part 2 contains provisions dealing with interpretation and with the application of this Act. Among other things, it—
   (a) sets out what various terms used in this Act mean:
   (b) provides that this Act does not apply to Maori land:
   (c) sets out how this Act applies to property located in New Zealand or overseas.
 
-### 1F Part 3 (application of this Act)
+### 1F Part 3 (Application of this Act)
 (1) Part 3 identifies—
   (a) which provisions of this Act apply with respect to the division of relationship property while both spouses or partners are alive; and
   (b) which provisions of this Act apply with respect to the division of relationship property when one spouse or partner dies.
@@ -52,25 +52,25 @@ Part 2 contains provisions dealing with interpretation and with the application 
   (a) sets out how this Act applies in various other circumstances (such as when one of the spouses or partners is declared bankrupt):
   (b) sets out what happens if proceedings are commenced while both spouses or partners are alive, and one or both of them die before the proceedings are completed.
 
-### 1G Part 4 (division of relationship property)
-Part 4 sets out how the property of a husband and wife or civil union partners or de facto partners is to be divided when they separate and cannot agree on the matter. It deals with matters like—
+### 1G Part 4 (Division of relationship property)
+Part 4 sets out how the property of spouses, civil union partners, and de facto partners is to be divided when they separate and cannot agree on the matter. It deals with matters like—
   (a) on what basis is the relationship property to be divided?
   (b) what happens if the spouses or partners have been living together for less than 3 years?
   (c) can the court do anything to redress any disparities between the income and living standards of the spouses or partners after the marriage, civil union, or de facto relationship ends?
   (d) how are the different contributions of the spouses to the marriage, or of the partners to the civil union, or of the de facto partners to the de facto relationship, assessed?
 
-### 1H Part 5 (relationship property and creditors)
+### 1H Part 5 (Relationship property and creditors)
 Part 5 sets out how this Act affects the secured and unsecured creditors of the spouses or partners. It deals with matters like—
   (a) what rights do secured and unsecured creditors have against the spouses or partners, and against property owned by the spouses or partners?
   (b) to what extent is the share of one spouse or partner reduced by the fact that the other spouse or partner has unsecured personal debts?
 
-### 1I Part 6 (contracting out)
+### 1I Part 6 (Contracting out)
 Part 6 deals with the rights of spouses or partners to decide themselves how their property is to be divided. It deals with matters like—
   (a) does a property agreement between the spouses or partners have to be in writing?
   (b) do the spouses or partners need legal advice about entering into a property agreement?
   (c) can a court overrule a property agreement?
 
-### 1J Part 7 (proceedings under this Act)
+### 1J Part 7 (Proceedings under this Act)
 (1) Part 7—
   (a) deals with the various powers that a court can exercise in deciding how property is to be divided between spouses or partners; and
   (b) sets out the procedures that apply to court proceedings under this Act; and
@@ -82,13 +82,13 @@ Part 6 deals with the rights of spouses or partners to decide themselves how the
   (d) can a court order be obtained stopping a person from disposing of property?
   (e) what happens if the spouses or partners attempt to defeat their creditors by disposing of property?
 
-### 1K Part 8 (division of property where one spouse or partner dies)
-Part 8 sets out how the property of a husband and wife, civil union partners, or de facto partners is to be divided when one of them dies. It deals with matters like—
+### 1K Part 8 (Division of property where one spouse or partner dies)
+Part 8 sets out how the property of spouses, civil union partners, or de facto partners is to be divided when one of them dies. It deals with matters like—
   (a) what if the deceased spouse or partner has left a will?
   (b) can the estate of the deceased spouse or partner make a claim against the spouse or partner who is still alive?
   (c) what is the effect on rights under other legislation that relates to claims to a deceased person's property (such as the Law Reform (Testamentary Promises) Act 1949 and the Family Protection Act 1955)?
 
-### 1L Part 9 (transitional provisions and savings)
+### 1L Part 9 (Transitional provisions and savings)
 Part 9 contains—
   (a) transitional provisions, dealing with matters like—
     (i) how this Act applies to marriages that took place before it came into force; and
@@ -102,7 +102,7 @@ Part 9 contains—
 ### 1M Purpose of this Act
 The purpose of this Act is—
   (a) to reform the law relating to the property of married couples and civil union couples, and of couples who live together in a de facto relationship:
-  (b) to recognise the equal contribution of husband and wife to the marriage partnership, of civil union partners to the civil union, and of de facto partners to the de facto relationship partnership:
+  (b) to recognise the equal contribution of both spouses to the marriage partnership, of civil union partners to the civil union, and of de facto partners to the de facto relationship partnership:
   (c) to provide for a just division of the relationship property between the spouses or partners when their relationship ends by separation or death, and in certain other circumstances, while taking account of the interests of any children of the marriage or children of the civil union or children of the de facto relationship.
 
 ### 1N Principles
@@ -219,8 +219,8 @@ In this Act, unless the context otherwise requires,—
   (a) is void; or
   (b) is ended while both spouses are alive by a legal process that occurs within or outside New Zealand; or
   (c) is ended by the death of one of the spouses, whether within or outside New Zealand;—
-(2) For the purposes of this Act, the marriage of a husband and wife ends if—
-  (a) they cease to live together as husband and wife; or
+(2) For the purposes of this Act, the marriage of 2 people ends if—
+  (a) they cease to live together as a married couple; or
   (b) their marriage is dissolved; or
   (c) one of them dies.
 
@@ -235,7 +235,7 @@ In this Act, unless the context otherwise requires,—
   (c) one of them dies.
 
 ### 2B Marriage includes immediately preceding de facto relationship
-For the purposes of this Act, if a marriage was immediately preceded by a de facto relationship between the husband (A) and the wife (B), the de facto relationship must be treated as if it were part of the marriage.Example of marriage including immediately preceding de facto relationship—If the de facto relationship of A and B lasts 2 years, and their marriage lasts 2 years, their marriage must be treated as if it—
+For the purposes of this Act, if a marriage was immediately preceded by a de facto relationship between the 2 spouses (A and B), the de facto relationship must be treated as if it were part of the marriage.Example of marriage including immediately preceding de facto relationship—If the de facto relationship of A and B lasts 2 years, and their marriage lasts 2 years, their marriage must be treated as if it—
   (a) began 4 years ago; and
   (b) lasted 4 years.
 
@@ -246,7 +246,7 @@ For the purposes of this Act, if a civil union was immediately preceded by a de 
 
 ### 2BA Immediately preceding marriage or civil union
 For the purposes of this Act,—
-  (a) if a marriage was immediately preceded by a civil union between the husband and the wife, the civil union must be treated as if it were part of the marriage; and
+  (a) if a marriage was immediately preceded by a civil union between the spouses, the civil union must be treated as if it were part of the marriage; and
   (b) if a civil union was immediately preceded by a marriage between the civil union partners, the marriage must be treated as if it were part of the civil union.
 
 ### 2C Meaning of de facto partner
@@ -276,16 +276,14 @@ For the purposes of this Act, a person is another person's de facto partner if t
 
 ### 2E Meaning of relationship of short duration
 (1) In this Act, relationship of short duration means,—
-  (a) in relation to a marriage, a marriage in which the husband and wife have lived together as husband and wife—
+  (a) in relation to a marriage or civil union, a marriage or civil union in which the spouses or partners have lived together in the marriage or civil union—
     (i) for a period of less than 3 years; or
-    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the marriage, considers it just to treat the marriage as a relationship of short duration:
-  (ab) in relation to a civil union, a civil union in which the civil union partners have lived together as civil union partners—
-    (i) for a period of less than 3 years; or
-    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the civil union, considers it just to treat the civil union as a relationship of short duration:
+    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the marriage or civil union, considers it just to treat the marriage or civil union as a relationship of short duration:
+  (ab)
   (b) in relation to a de facto relationship, a de facto relationship in which the de facto partners have lived together as de facto partners—
     (i) for a period of less than 3 years; or
     (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the de facto relationship, considers it just to treat the de facto relationship as a relationship of short duration.
-(2) For the purposes of paragraphs (a)(i), (ab)(i), and (b)(i) of subsection (1), in computing the period for which the parties have lived together as husband and wife, civil union partners, or as de facto partners, the court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
+(2) For the purposes of paragraphs (a)(i) and (b)(i) of subsection (1), in computing the period for which the parties have lived together as a married couple, civil union partners, or as de facto partners, the court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
 
 **Dates at which shares and values determined**
 
@@ -324,7 +322,7 @@ This Act shall bind the Crown.
 (2) Subsection (1) does not apply where this Act expressly provides to the contrary (such as in subsection (5)).
 (3) Without limiting the generality of subsection (1),—
   (a) the presumption of advancement does not apply between husband and wife:
-  (b) the presumption of resulting trust does not apply between husband and wife, civil union partners, or de facto partners:
+  (b) the presumption of resulting trust does not apply between spouses, civil union partners, or de facto partners:
   (c) the presumption that the use of a wife's income by her husband with her consent during the marriage is a gift does not apply between husband and wife.
 (4) Where, in proceedings that are not proceedings under this Act, any question relating to relationship property arises between spouses or partners, or between either or both of them and any other person, the question must be decided as if it had been raised in proceedings under this Act.
 (5) This section does not apply if the de facto partners have lived in a de facto relationship for less than 3 years.
@@ -377,7 +375,7 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
 (1) Relationship property shall consist of—
   (a) the family home whenever acquired; and
   (b) the family chattels whenever acquired; and
-  (c) all property owned jointly or in common in equal shares by the husband and the wife or by the partners; and
+  (c) all property owned jointly or in common in equal shares by the married couple or by the partners; and
   (d) all property owned by either spouse or partner immediately before their marriage, civil union, or de facto relationship began, if—
     (i) the property was acquired in contemplation of the marriage, civil union, or de facto relationship; and
     (ii) the property was intended for the common use or common benefit of both spouses or partners; and
@@ -399,7 +397,7 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
 (2) Subject to sections 8(1)(ee), 9A(3), and 10, all property acquired out of separate property, and the proceeds of any disposition of separate property, are separate property.
 (3) Subject to section 9A, any increase in the value of separate property, and any income or gains derived from separate property, are separate property.
 (4) The following property is separate property, unless the court considers that it is just in the circumstances to treat the property or any part of the property as relationship property:
-  (a) all property acquired by either spouse or partner while they are not living together as husband and wife or as civil union partners or as de facto partners:
+  (a) all property acquired by either spouse or partner while they are not living together as a married couple or as civil union partners or as de facto partners:
   (b) all property acquired, after the death of one spouse or partner, by the surviving spouse or partner, as provided in section 84.
 (5) Subject to subsection (6), all property acquired by either spouse or partner after an order of the court (other than an order made under section 25(3)) has been made defining the respective interests of the spouses or partners in the relationship property, or dividing or providing for the division of that property, is separate property.
 (6) However, where relationship property has been divided on the bankruptcy of a spouse or partner,—
@@ -727,14 +725,14 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 **When persons can contract out**
 
 ### 21 Spouses or partners may contract out of this Act
-(1) A husband and wife, civil union partners, or de facto partners, or any 2 persons in contemplation of entering into a marriage, civil union, or de facto relationship, may, for the purpose of contracting out of the provisions of this Act, make any agreement they think fit with respect to the status, ownership, and division of their property (including future property).
+(1) Spouses, civil union partners, or de facto partners, or any 2 persons in contemplation of entering into a marriage, civil union, or de facto relationship, may, for the purpose of contracting out of the provisions of this Act, make any agreement they think fit with respect to the status, ownership, and division of their property (including future property).
 (2) An agreement made under this section may relate to the status, ownership, and division of property in either or both of the following circumstances:
   (a) during the joint lives of the spouses or partners:
   (b) when one of the spouses or partners dies.
 (3) This section is subject to section 47.
 
 ### 21A Spouses or partners may settle differences by agreement
-(1) A husband and wife or civil union partners or de facto partners may, for the purpose of settling any differences that have arisen between them concerning property owned by either or both of them, make any agreement they think fit with respect to the status, ownership, and division of that property.
+(1) Spouses or civil union partners or de facto partners may, for the purpose of settling any differences that have arisen between them concerning property owned by either or both of them, make any agreement they think fit with respect to the status, ownership, and division of that property.
 (2) This section is subject to section 47.
 
 ### 21B Surviving spouse or partner and personal representative may agree on division of property
@@ -890,7 +888,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 (1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
   (a) either spouse or partner, or both of them jointly:
   (b) any person on whom the spouses or partners have made conflicting claims in respect of property.
-(2) The Official Assignee in Bankruptcy of the property of either spouse or partner may not apply for an order under section 25(1)(a), but may apply for an order under section 25(1)(b) or an order or declaration under section 25(3).
+(2) The Official Assignee in bankruptcy of the property of either spouse or partner may not apply for an order under section 25(1)(a), but may apply for an order under section 25(1)(b) or an order or declaration under section 25(3).
 (3) If one of the spouses or partners has died, the application of this section is modified by section 88 (except in a situation described in section 10D(1)).
 
 ### 24 Time limits for making applications
@@ -912,7 +910,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
   (b) make any other order that it is empowered to make by any provision of this Act.
 (2) The court may not make an order under subsection (1) unless it is satisfied,—
   (a) in the case of a marriage or civil union,—
-    (i) that the husband and wife or civil union partners are living apart (whether or not they have continued to live in the same residence) or are separated; or
+    (i) that the spouses or civil union partners are living apart (whether or not they have continued to live in the same residence) or are separated; or
     (ii) that the marriage or civil union has been dissolved; or
   (b) in the case of a de facto relationship, that the de facto partners no longer have a de facto relationship with each other; or
   (c) that one spouse or partner is endangering the relationship property or seriously diminishing its value, by gross mismanagement or by wilful or reckless dissipation of property or earnings; or
@@ -1272,7 +1270,7 @@ Notwithstanding any enactment or rule of law, a minor who is or has been married
     (i) to the extent possible, the property order relating to the marriage or civil union must be satisfied from the property that is attributable to that marriage or civil union; and
     (ii) to the extent possible, the property order relating to the de facto relationship must be satisfied from the property that is attributable to that de facto relationship; and
     (iii) to the extent that it is not possible to attribute all or any of the property to either the marriage or civil union or the de facto relationship, the property is to be divided in accordance with the contribution of the marriage or civil union and the de facto relationship to the acquisition of the property.
-(3) For the purposes of this section, a marriage and a de facto relationship are successive if the de facto relationship begins during the marriage, but after the spouses cease to live together as husband and wife.
+(3) For the purposes of this section, a marriage and a de facto relationship are successive if the de facto relationship begins during the marriage, but after the spouses cease to live together as a married couple.
 (3A) For the purposes of this section, a civil union and a de facto relationship are successive if the de facto relationship begins during the civil union, but after the civil union partners cease to live together as civil union partners.
 (4) In this section, and in section 52B, property order—
   (a) means an order made under any of sections 25 to 31, and 33; and
@@ -1328,7 +1326,9 @@ In the application of this Act to a spouse or partner who dies on or after 1 Feb
 ### 57 Application under Law Reform (Testamentary Promises) Act 1949 or Family Protection Act 1955 not precluded
 Nothing in this Act prevents a person from making an application under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955 in respect of the estate of his or her deceased spouse or partner.
 
-**Death of spouse or partnerInsolvent deceased spouse or partner**
+**Death of spouse or partner**
+
+**Insolvent deceased spouse or partner**
 
 ### 58 Rights of creditors preserved
 (1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
@@ -1720,22 +1720,3 @@ The death of a spouse or de facto partner does not affect the validity or effect
 ## Schedule 2 — Consequential amendments
 
 ## Schedule 3 — Enactments repealed
-
-### 1 Title
-(1) This Act is the Property (Relationships) Amendment Act 2001.
-(2) In this Act, the Act that was previously called the Matrimonial Property Act 1976 is called the principal Act.
-
-### 2 Commencement
-Except as provided in sections 21(2), 64(5), and 64(7), this Act comes into force on 1 February 2002.
-
-### 3 Purposes
-The purposes of this Act are—
-  (a) to rename the principal Act as the Property (Relationships) Act 1976; and
-  (b) to amend the principal Act so that it applies to the division of the property of married couples when one of them dies; and
-  (c) to make certain other amendments to the principal Act; and
-  (d) to extend the property division regime in the principal Act so that it applies to the division of the relationship property of couples who have lived in a de facto relationship, when they separate or one of them dies.
-
-### 21 New Part 6 substituted
-(1) Amendment(s) incorporated in the Act(s).
-(2) This section comes into force on 1 August 2001.
-(3) For the purposes of applying Part 6 of the principal Act during the period beginning on 1 August 2001 and ending with the close of 31 January 2002, all terms used in that Part have the meanings given to them in sections 2 to 2D of the principal Act (as substituted by section 8) as if section 8 were in force during that period.
