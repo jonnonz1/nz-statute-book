@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > Title
 
@@ -427,7 +427,7 @@ In sections 28 and 29,—
 
 ### 30 Registrar-General may add information to registration of birth
 (1) Subject to subsection (2), where there is deposited with the Registrar-General a declaration issued under section 28 or section 29 that relates to a person whose birth has been registered or is later registered, the Registrar-General shall, on payment of the prescribed fee (if any), include in the information relating to the birth recorded under this Act or a former Act information that the person is a person of the nominated sex.
-(2) The Registrar-General shall not at any time act under subsection (1) if the person concerned is then lawfully married to a person of the nominated sex.
+(2)
 
 ### 31 Registrar-General may delete information where procedures not completed
 If satisfied that—the Registrar-General may delete from the information recorded the information that was included.
@@ -595,20 +595,20 @@ Except as provided in sections 56, 57, and 58, no marriage solemnised outside Ne
 (1) A celebrant shall,—
   (a) forthwith after solemnising a marriage,—
     (i) enter on both forms provided under section 24 of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
-    (ii) ensure that both forms are signed by the husband, the wife, the celebrant, and 2 witnesses to the solemnisation; and
+    (ii) ensure that both forms are signed by each spouse, the celebrant, and 2 witnesses to the solemnisation; and
     (iii) give one form to the parties; and
   (b) within 10 days of solemnising the marriage, give, send, or post the other form to a Registrar.
 (2) If a marriage has been solemnised in accordance with the marriage regulations of the religious Society of Friends (commonly called Quakers) or, as the case may require, in accordance with the rules and procedures of an exempt religious body,—
-  (a) the husband and wife must, immediately after the solemnisation,—
+  (a) each spouse must, immediately after the solemnisation,—
     (i) enter on both forms provided under section 24 of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
-    (ii) ensure that both forms are signed by the husband, the wife, and 2 witnesses to the solemnisation; and
+    (ii) ensure that both forms are signed by each spouse and 2 witnesses to the solemnisation; and
     (iii) ensure that 1 form is given, sent, or posted to the registering officer of the Society of Friends or, as the case may require, the registering officer of the exempt religious body; and
   (b) as soon as is practicable after receiving a form under paragraph (a)(iii) or subsection (4), the registering officer of the Society of Friends or, as the case may require, the registering officer of the exempt religious body must give, send, or post it to a Registrar.
 (2A) In subsection (2), exempt religious body has the same meaning as in section 32A(5) of the Marriage Act 1955.
 (3) A person who solemnises a service marriage (other than a service marriage solemnised in a Commonwealth country, particulars of which have been recorded in that country in accordance with its laws) shall,—
   (a) forthwith after the solemnisation,—
     (i) make and keep a record of information relating to the marriage on the form for the time being supplied with licences under section 24 of the Marriage Act 1955, or in a form as nearly as possible in accordance with that form; and
-    (ii) ensure that the record and 2 copies of it are signed by the husband, the wife, the person, and 2 witnesses to the solemnisation; and
+    (ii) ensure that the record and 2 copies of it are signed by each spouse, the person, and 2 witnesses to the solemnisation; and
     (iii) give one copy to the parties; and
   (b) as soon as is practicable after the solemnisation, send or post the other copy to the Registrar-General.
 (4) Where a form or copy record prepared under this section (or a document prepared under an equivalent provision of a former Act) has been lost or mislaid, the Registrar-General may direct the person or persons who prepared it to prepare and give, send, or post another; and in that case the person or persons shall do so.
@@ -1195,7 +1195,7 @@ In sections 78H and 78I, historical information means information that relates t
 
 ### 83 Registrars must decline to record certain information
 (1) If a Registrar is satisfied (on reasonable grounds) after making any inquiries under section 82 that seem appropriate, that information in respect of a birth, death, marriage, civil union, or name change is or is likely to be incorrect, he or she must decline to record the information.
-(2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under sections 24(2), 24(3)(b), 25(b), 30(2), and 31.
+(2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under sections 24(2), 24(3)(b), 25(b), and 31.
 
 ### 84 Correction of errors
 (1) If a Registrar is satisfied, after making any inquiries under section 82 that seem appropriate, that information recorded under this Act or a former Act contains a clerical error, he or she must correct the error and notify the Registrar-General of the error and its correction.
