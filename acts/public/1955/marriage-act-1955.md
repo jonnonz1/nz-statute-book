@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -10,20 +10,21 @@ _Consolidation as at 2013-07-01_
 ## Part 1 — Preliminary
 
 ### 2 Interpretation
-(1) In this section, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **Commonwealth country** includes a territory for whose international relations the Government of a Commonwealth country is responsible
+  - **marriage** means the union of 2 people, regardless of their sex, sexual orientation, or gender identity
   - **marriage celebrant** means a person authorised to act as a marriage celebrant under this Act
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **minor** means a person under the age of 18 years
   - **New Zealand representative** means a person who is for the time being a head of mission or head of post (within the meaning of section 2 of the Foreign Affairs Act 1988) or a person assigned or reassigned to service overseas under section 6 of that Act
-  - **service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least 1 party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
+  - **service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least one party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
     (a) is both a chaplain and a marriage celebrant; or
     (b) in the case only of a marriage solemnised before 1 September 1995, is a person duly authorised to solemnise it.
 (2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
 ### 3 Application of Act
-(1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnized in New Zealand or elsewhere.
-(2) The provisions of this Act, so far as they relate to the formalities of marriage, including the provisions relating to consents to the marriage of minors, shall apply to any marriage solemnized in New Zealand, and to any marriage solemnized under section 44, whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
+(1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnised in New Zealand or elsewhere.
+(2) The provisions of this Act, so far as they relate to the formalities of marriage, including the provisions relating to consents to the marriage of minors, shall apply to any marriage solemnised in New Zealand, and to any marriage solemnised under section 44, whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
 
 ### 4 Registrar-General and Deputy Registrar-General
 (1) The Registrar-General shall be charged with the general administration of this Act.
@@ -45,43 +46,43 @@ _Consolidation as at 2013-07-01_
 
 ### 8 Marriage celebrants of specified religious bodies
 (1) Subject to the provisions of subsections (2) and (3), there shall be entered in the list the name of any minister of religion which has been sent to the Registrar-General by any of the religious bodies enumerated in Schedule 1.
-(2) The name of any minister of religion which has been sent to the Registrar-General as aforesaid shall be accompanied by a certificate to the effect that the minister is recognized by the religious body as a minister of religion of that body.
-(3) The certificate shall be signed by the person or persons within New Zealand in whom ecclesiastical authority over the religious body is for the time being vested, or reputed to be vested, or, if there is no such person, by 2 duly recognized office bearers of the religious body.
+(2) The name of any minister of religion which has been sent to the Registrar-General as aforesaid shall be accompanied by a certificate to the effect that the minister is recognised by the religious body as a minister of religion of that body.
+(3) The certificate shall be signed by the person or persons within New Zealand in whom ecclesiastical authority over the religious body is for the time being vested, or reputed to be vested, or, if there is no such person, by 2 duly recognised office bearers of the religious body.
 
 ### 9 Approval of organisations
 (1) Any organisation may apply to the Registrar-General in the manner hereinafter provided for approval as an organisation which may, pursuant to section 10, nominate persons to solemnise marriages, (therein and in this section referred to as an approved organisation).
-(2) Every such application shall be accompanied by a statement signed by the chief office bearer and 10 members of the organisation, all being of or over the age of 18 years, each of whom shall append his age and address, setting out:
+(2) Every such application shall be accompanied by a statement signed by the chief office bearer and 10 members of the organisation, all being of or over the age of 18 years, each of whom shall append his or her age and address, setting out:
   (a) the objects and beliefs of the organisation; and
   (b) the number or, if this cannot accurately be ascertained, the approximate number of members of the organisation of or over the age of 18 years:
   provided that in the case of any organisation the constitution or tenets of which do not recognise any chief office bearer an application signed as aforesaid by 10 members only shall be sufficient.
 (3) The signatures of the signatories to every application shall be attested by some other person who shall, by statutory declaration attached to the statement, verify the signatures as the genuine signatures of the persons whose signatures they purport to be.
-(4) If the Registrar-General is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions, he may by notice in the Gazette declare the organisation to be an approved organisation.
-(4A) If the Registrar-General fails or refuses to declare the organisation an approved organisation, he shall, if required to do so by the organisation, refer the application to the Minister who, if he is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote beliefs or convictions as aforesaid, may direct the Registrar-General to declare the organisation, by notice in the Gazette, an approved organisation; and in that case the Registrar-General shall forthwith do so.
+(4) If the Registrar-General is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions, he or she may by notice in the Gazette declare the organisation to be an approved organisation.
+(4A) If the Registrar-General fails or refuses to declare the organisation an approved organisation, he or she shall, if required to do so by the organisation, refer the application to the Minister who, if he or she is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote beliefs or convictions as aforesaid, may direct the Registrar-General to declare the organisation, by notice in the Gazette, an approved organisation; and in that case the Registrar-General shall forthwith do so.
 (5)
 (6)
 (6A) Where an approved organisation changes its name or any of its objects, it shall forthwith give the Registrar notice in writing, signed in the manner required by subsection (2) for an application under subsection (1),—
   (a) of its former and new names; and
   (b) of whether or not its objects remain unchanged since it last stated them to the Registrar-General under this section; and
   (c) if those objects do not so remain unchanged, stating its present objects.
-(6B) Where the Registrar-General is satisfied that an approved organisation has changed its name he shall notify the change by notice in the Gazette specifying that organisation's former and new names.
-(6C) Where the Registrar-General—he shall recommend to the Minister either—
+(6B) Where the Registrar-General is satisfied that an approved organisation has changed its name he or she shall notify the change by notice in the Gazette specifying that organisation's former and new names.
+(6C) Where the Registrar-General—he or she shall recommend to the Minister either—
   (a) has been notified under subsection (6A) that the objects of an approved organisation have changed; or
   (b) is satisfied that any of the objects of an approved organisation has changed since that organisation last stated its objects to the Registrar-General under this section,—
   (c) that that organisation should continue to be an approved organisation; or
   (d) that the Minister should cancel the approval of that organisation.
-(6D) The Registrar-General shall not recommend under subsection (6C) that an organisation should continue to be an approved organisation unless he is satisfied that the principal object or one of the principal objects of that organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions.
+(6D) The Registrar-General shall not recommend under subsection (6C) that an organisation should continue to be an approved organisation unless he or she is satisfied that the principal object or one of the principal objects of that organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions.
 (7) If—the Minister may, by notice in the Gazette, cancel the approval of that organisation; and on the date of the publication of that notice that organisation shall cease to be an approved organisation.
   (a) at any time, the Minister—
-    (i) becomes satisfied that, in the light of information not available to him or the Registrar-General (as the case may be) when an organisation was approved, or by virtue of a change in the circumstances of an approved organisation, that organisation should not continue to be an approved organisation; or
+    (i) becomes satisfied that, in the light of information not available to him or her or the Registrar-General (as the case may be) when an organisation was approved, or by virtue of a change in the circumstances of an approved organisation, that organisation should not continue to be an approved organisation; or
     (ii) is not satisfied (whether or not as a result of a recommendation under subsection (6C)) that the principal object or one of the principal objects of an approved organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions; or
-  (b) for a continuous period of at least 12 months no person nominated by an approved organisation has his name on the list,—
+  (b) for a continuous period of at least 12 months no person nominated by an approved organisation has his or her name on the list,—
 (8) Every religious body not enumerated in Schedule 1 of which a member was an officiating minister immediately before the commencement of the Marriage Amendment Act 1976 is hereby declared to be an approved organisation.
 
 ### 10 Marriage celebrants from approved organisations
 (1) The name of every adult member of an approved organisation nominated to be a marriage celebrant shall be sent to the Registrar-General together with a certificate from the organisation declaring that it wishes the member to be a marriage celebrant.
 (2) The certificate shall be signed and attested in the manner specified in section 9 for applications for approval.
-(3) If the Registrar-General is satisfied that any person so nominated is of good character and otherwise qualified to act as a marriage celebrant, and that the provisions of this Act in respect of the submission of his name have been complied with, he shall enter the name of the person on the list.
-(4) If the Registrar-General fails or refuses to enter in the list the name of any person nominated pursuant to this section he shall, if required to do so by any signatory to the certificate accompanying the person's nomination, refer the nomination to the Minister, who may direct the Registrar-General to enter the person's name in the list, and in that case the Registrar-General shall forthwith enter the person's name in the list.
+(3) If the Registrar-General is satisfied that any person so nominated is of good character and otherwise qualified to act as a marriage celebrant, and that the provisions of this Act in respect of the submission of his or her name have been complied with, he or she shall enter the name of the person on the list.
+(4) If the Registrar-General fails or refuses to enter in the list the name of any person nominated pursuant to this section he or she shall, if required to do so by any signatory to the certificate accompanying the person's nomination, refer the nomination to the Minister, who may direct the Registrar-General to enter the person's name in the list, and in that case the Registrar-General shall forthwith enter the person's name in the list.
 
 ### 11 Other persons may be marriage celebrants
 (1) Any person may apply to the Registrar-General to have his or her name entered on the list.
@@ -97,20 +98,20 @@ _Consolidation as at 2013-07-01_
   (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be a marriage celebrant.
 
 ### 12 Renewal of list
-Where it is desired that any person shall continue to act as a marriage celebrant, his name shall, in the month of December in each year, be sent to the Registrar-General, and the provisions of this Part shall apply in any such case as if it were an application for the original entry of the name of the person concerned in the list.
+Where it is desired that any person shall continue to act as a marriage celebrant, his or her name shall, in December in each year, be sent to the Registrar-General, and the provisions of this Part shall apply in any such case as if it were an application for the original entry of the name of the person concerned in the list.
 
 ### 13 Removal of names from list
-(1) Where the Registrar-General is satisfied that—he shall remove the name of the marriage celebrant from the list and shall publish in the Gazette a correction to that effect.
+(1) Where the Registrar-General is satisfied that—he or she shall remove the name of the marriage celebrant from the list and shall publish in the Gazette a correction to that effect.
   (a) a marriage celebrant has died; or
   (b) a marriage celebrant no longer wishes to be a marriage celebrant; or
-  (c) the organisation or religious body which submitted the name of a marriage celebrant no longer wishes him to be a marriage celebrant; or
+  (c) the organisation or religious body which submitted the name of a marriage celebrant no longer wishes him or her to be a marriage celebrant; or
   (d) the organisation which submitted the name of a marriage celebrant is no longer an approved organisation,—
-(2) If the Minister is satisfied—he may direct the Registrar-General to remove the name of that marriage celebrant from the list, and the Registrar-General shall remove the name from the list and shall publish in the Gazette a correction to that effect.
+(2) If the Minister is satisfied—he or she may direct the Registrar-General to remove the name of that marriage celebrant from the list, and the Registrar-General shall remove the name from the list and shall publish in the Gazette a correction to that effect.
   (a) that a marriage celebrant has wilfully failed or persistently neglected to register the particulars of any marriages or to forward or return to a Registrar or to the Registrar-General any documents required so to be forwarded or returned by this Act; or
   (b) that a marriage celebrant whose name has been entered in the list pursuant to section 11 should not continue to be a marriage celebrant—
 
 ### 14 Evidence of list or correction to list
-(1) No person shall be entitled to act as a marriage celebrant unless his name appears in the list.
+(1) No person shall be entitled to act as a marriage celebrant unless his or her name appears in the list.
 (2) A copy of the Gazette purporting to contain a copy of any list or of any correction or addition to any list published in the Gazette in accordance with this Part shall be received in any court or before any person acting judicially as conclusive evidence of the truth of any statement in any copy published as aforesaid.
 
 ### 14A This Part not to limit sections 32 and 32A
@@ -124,20 +125,20 @@ Nothing in this Part limits sections 32 and 32A (which exempt the Quakers and ce
 (3) The Registrar of the court where any order under this section is made shall send a copy in duplicate of the order to the Registrar-General.
 (4) No marriage not forbidden by the provisions of Schedule 2 shall be void only on the ground of consanguinity or affinity.
 
-### 16 Validation of certain marriages already solemnized
-All marriages solemnized before the commencement of this Act that by virtue of section 15 would have been valid and lawful if this Act had been in force when they were solemnized shall be deemed to have been and to be valid and lawful, and the issue born of any such marriage (whether born before or after the commencement of this Act) shall be deemed to have been born in lawful wedlock:
-  provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnization of the second marriage:
+### 16 Validation of certain marriages already solemnised
+All marriages solemnised before the commencement of this Act that by virtue of section 15 would have been valid and lawful if this Act had been in force when they were solemnised shall be deemed to have been and to be valid and lawful, and the issue born of any such marriage (whether born before or after the commencement of this Act) shall be deemed to have been born in lawful wedlock:
+  provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnisation of the second marriage:
   provided also that this section shall not affect any estate, right, or interest in any real or personal property to which any person has become absolutely entitled before the commencement of this Act, or affect any proceedings commenced in any court before the commencement of this Act, or any decree, order, or judgment made or given (whether before or after the commencement of this Act) in any such proceedings.
 
 ### 17 Marriage of persons under 16 years of age
-(1) A marriage licence shall not be issued by any Registrar and no marriage shall be solemnized by any Registrar or marriage celebrant if either of the persons intending marriage is under the age of 16 years on the date of the notice of the intended marriage given under section 23.
+(1) A marriage licence shall not be issued by any Registrar and no marriage shall be solemnised by any Registrar or marriage celebrant if either of the persons intending marriage is under the age of 16 years on the date of the notice of the intended marriage given under section 23.
 (2) No marriage shall be void by reason only of an infringement of the provisions of this section.
 
 ### 18 Consent to marriage of minors
-(1) If either of the parties to an intended marriage is a minor, the Registrar shall not issue a licence authorizing the marriage or solemnize the marriage unless it has been consented to in accordance with this section.
+(1) If either of the parties to an intended marriage is a minor, the Registrar shall not issue a licence authorising the marriage or solemnise the marriage unless it has been consented to in accordance with this section.
 (2) Subject to the provisions of this section, consents to the marriage of a minor shall be obtained in accordance with the following provisions:
   (a) if both the minor's parents are alive and living together, consents shall be obtained from both parents:
-  (b) if the minor's parents are living apart and he is living with one parent, consent shall be obtained from the parent with whom he is living:
+  (b) if the minor's parents are living apart and he or she is living with one parent, consent shall be obtained from the parent with whom he or she is living:
   (c) if the parents are living apart and the minor is not living with either, consent shall be obtained:
     (i) from both parents in any case where they are, or have been, married to each other, unless the consent of one parent is dispensed with by a District Court Judge:
     (ii) from the mother in any case where the parents have never been married:
@@ -151,33 +152,33 @@ All marriages solemnized before the commencement of this Act that by virtue of s
 (7) No marriage shall be void by reason only of the absence of the consent of any person whose consent is required under this section.
 
 ### 19 Application to Family Court Judge where consent refused
-(1) Where any person whose consent is required to a marriage refuses to give his consent, a Family Court Judge may, on application in that behalf, consent to the marriage and that consent shall have the same effect as if it had been given by the person whose consent has been refused.
+(1) Where any person whose consent is required to a marriage refuses to give his or her consent, a Family Court Judge may, on application in that behalf, consent to the marriage and that consent shall have the same effect as if it had been given by the person whose consent has been refused.
 (2) Where an application is made to a Family Court Judge for consent to a marriage, notice of the application shall be served on every person whose consent to the marriage is required under section 18:
   provided that the Family Court Judge may in his discretion dispense with the serving of notice on any such person.
 
 ### 20 General provisions relating to consents
-(1) Every consent under section 18 shall be in writing witnessed by some person who, if resident in New Zealand, shall add his occupation and address, and the consent shall be delivered to the Registrar to whom notice of the intended marriage is given.
-(2) Any consent given under section 18 may, by notice in writing signed by the person giving his consent, be withdrawn at any time before the Registrar issues the marriage licence or solemnizes the marriage, as the case may be.
+(1) Every consent under section 18 shall be in writing witnessed by some person who, if resident in New Zealand, shall add his or her occupation and address, and the consent shall be delivered to the Registrar to whom notice of the intended marriage is given.
+(2) Any consent given under section 18 may, by notice in writing signed by the person giving his or her consent, be withdrawn at any time before the Registrar issues the marriage licence or solemnises the marriage, as the case may be.
 
 ### 21 Marriages without licence or marriage celebrant void
 If any persons knowingly and wilfully marry without a marriage licence where a marriage licence is required by this Act, or in the absence of a marriage celebrant or Registrar where the presence of a marriage celebrant or Registrar is required by this Act, the marriage shall be void.
 
 ### 22 Marriages not to be void because of defects in procedure
-(1) Except as provided in section 15 or in section 21, no marriage shall be deemed to be void by reason of any error or defect in the notice, declaration, or licence required before solemnization, or in the registration of the marriage when solemnized where the identity of the parties is not questioned, or on account of any other infringement of the provisions of this Act.
+(1) Except as provided in section 15 or in section 21, no marriage shall be deemed to be void by reason of any error or defect in the notice, declaration, or licence required before solemnisation, or in the registration of the marriage when solemnised where the identity of the parties is not questioned, or on account of any other infringement of the provisions of this Act.
 (2) Nothing in this section shall exempt any marriage celebrant, Registrar, or other person who does anything contrary to the provisions of this Act from any penalty for any offence under this Act committed by any such person.
 
 ## Part 4 — Formalities preliminary to marriage
 
 ### 23 Notice of marriage
 (1) Where 2 persons intend to marry in New Zealand, one of them shall give notice in the prescribed form to a Registrar.
-(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration in the prescribed form that the several particulars set forth in the notice are true, that he believes that the marriage is not prohibited by section 15, and that there is no other lawful impediment to the intended marriage.
+(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration in the prescribed form that the several particulars set forth in the notice are true, that he or she believes that the marriage is not prohibited by section 15, and that there is no other lawful impediment to the intended marriage.
 (3) Notwithstanding subsection (2), where the 2 persons concerned are ordinarily resident outside New Zealand, the person giving notice may do so by posting the prescribed form to the Registrar; but in that case the Registrar shall not issue the licence until satisfied that one of those persons has made the appropriate statutory declaration.
 
 ### 24 Issue of marriage licence and information return
 (1) Subject to the provisions of this Act, if a marriage is to be solemnised by a marriage celebrant or under section 32, and notice has been given to a Registrar in accordance with section 23, the Registrar shall, not earlier than the third day after the day the notice was given, issue to the person who gave the notice—
   (a) a marriage licence in the prescribed form, authorising the marriage of the persons named in it at the place, or either of 2 places (being a place or places situated in New Zealand), specified in it; and
   (b) 2 copies of a form provided by the Registrar-General for the purpose of returning information relating to marriages solemnised by marriage celebrants or under section 32.
-(1A) a Registrar other than the Registrar to whom the notice was given may issue the licence and copies (and in that case the Registrar to whom the notice was given does not have to do so).
+(1A) A Registrar other than the Registrar to whom the notice was given may issue the licence and copies (and in that case the Registrar to whom the notice was given does not have to do so).
 (2) Notwithstanding subsection (1), if satisfied that—a Registrar may issue a marriage licence and marriage return forms before the third day after the day the notice concerned was given.
   (a) a proposed marriage is not prohibited by this Act; and
   (b) the requirements of this Act have been complied with; and
@@ -185,33 +186,34 @@ If any persons knowingly and wilfully marry without a marriage licence where a m
 
 ### 25 Caveats may be lodged
 (1) Any person may lodge with any Registrar a caveat against the marriage of any person named in the caveat on the ground that the marriage is one in respect of which a licence should not be issued under this Act.
-(2) Every caveat shall be in writing signed by or on behalf of the caveator, and shall state his full name and residential address and the particular grounds of objection on which the caveat is founded.
-(3) Notice of any caveat may be given to any Registrar other than the Registrar with whom it was lodged. The notice shall be in writing signed by or on behalf of the caveator, and shall state his full name and residential address, the date and place of lodgment of the caveat, and the grounds of objection on which the caveat is founded.
-(4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by section 26, no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnize the marriage.
+(2) Every caveat shall be in writing signed by or on behalf of the caveator, and shall state his or her full name and residential address and the particular grounds of objection on which the caveat is founded.
+(3) Notice of any caveat may be given to any Registrar other than the Registrar with whom it was lodged. The notice shall be in writing signed by or on behalf of the caveator, and shall state his or her full name and residential address, the date and place of lodgment of the caveat, and the grounds of objection on which the caveat is founded.
+(4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by section 26, no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnise the marriage.
 
 ### 26 Discharge of caveat
-(1) On receiving notice under section 23 of an intended marriage against which he is aware that a caveat has been lodged, the Registrar shall submit the caveat to a Family Court Judge, or, if a Family Court Judge is not immediately available, to a District Court Judge who shall forthwith inquire into the grounds of objection stated in the caveat, and, if he is of the opinion that those grounds should not prevent the solemnization of the marriage, he shall discharge the caveat.
+(1) On receiving notice under section 23 of an intended marriage against which he or she is aware that a caveat has been lodged, the Registrar shall submit the caveat to a Family Court Judge, or, if a Family Court Judge is not immediately available, to a District Court Judge who shall forthwith inquire into the grounds of objection stated in the caveat, and, if he or she is of the opinion that those grounds should not prevent the solemnisation of the marriage, he or she shall discharge the caveat.
 (2) A caveat shall be deemed to be discharged after the expiration of 1 year from the date on which it was lodged unless within that time a notice of the intended marriage to which the caveat relates has been given.
-(3) Where a Family Court Judge (or a District Court Judge) has refused to discharge a caveat, any person may make an application to a Family Court Judge for the discharge of the caveat and the Family Court Judge, if he is of the opinion that there is no longer any reason why the intended marriage should not be solemnised, shall discharge the caveat.
+(3) Where a Family Court Judge (or a District Court Judge) has refused to discharge a caveat, any person may make an application to a Family Court Judge for the discharge of the caveat and the Family Court Judge, if he or she is of the opinion that there is no longer any reason why the intended marriage should not be solemnised, shall discharge the caveat.
 
 ### 27 Vexatious caveat
 Any person who has lodged a caveat shall, if the court considers the grounds on which the caveat was lodged to be vexatious and unreasonable, be liable for damages.
 
 ### 28 Registrar to issue licence unless satisfied marriage unlawful
-A Registrar shall issue a marriage licence or solemnize a marriage, as the case may be, unless he has reasonable cause to believe that the marriage is prohibited by this Act or that any of the requirements of this Act have not been complied with:
-  provided that no Registrar shall be required to solemnise a marriage at a time or on a day when his office is not ordinarily open for the transaction of public business under this Act unless he has agreed to do so.
+A Registrar shall issue a marriage licence or solemnise a marriage, as the case may be, unless he or she has reasonable cause to believe that the marriage is prohibited by this Act or that any of the requirements of this Act have not been complied with:
+  provided that no Registrar shall be required to solemnise a marriage at a time or on a day when his or her office is not ordinarily open for the transaction of public business under this Act unless he or she has agreed to do so.
 
-### 29 Licence authorizes but not obliges marriage celebrant to solemnize marriage
-A marriage licence shall authorize but not oblige any marriage celebrant to solemnize the marriage to which it relates.
+### 29 Licence authorises but not obliges marriage celebrant to solemnise marriage
+(1) A marriage licence shall authorise but not oblige any marriage celebrant to solemnise the marriage to which it relates.
+(2) Without limiting the generality of subsection (1), no celebrant who is a minister of religion recognised by a religious body enumerated in Schedule 1, and no celebrant who is a person nominated to solemnise marriages by an approved organisation, is obliged to solemnise a marriage if solemnising that marriage would contravene the religious beliefs of the religious body or the religious beliefs or philosophical or humanitarian convictions of the approved organisation.
 
-## Part 5 — Solemnization of marriage
+## Part 5 — Solemnisation of marriage
 
-### 30 When marriage may be solemnized
-(1) A marriage shall not be solemnized by a marriage celebrant until the marriage licence issued in respect of the marriage has been delivered to him.
-(2) A marriage shall not be solemnized after the expiration of 3 months from the date of the licence issued in respect of the marriage.
-(3) A marriage shall not be solemnized by a Registrar before the third day after notice of the intended marriage has been given to him:
-  provided that the Registrar, if he is satisfied that the marriage is not prohibited by this Act, that the requirements of this Act have been complied with, and that inconvenience would otherwise be caused to the persons intending marriage, may solemnize the marriage before that day.
-(4) A marriage shall not be solemnized by a Registrar after the expiration of 3 months from the date when notice of the intended marriage was given to him, or, where a caveat has been lodged, after the expiration of 3 months from the date when the caveat was withdrawn or discharged.
+### 30 When marriage may be solemnised
+(1) A marriage shall not be solemnised by a marriage celebrant until the marriage licence issued in respect of the marriage has been delivered to him or her.
+(2) A marriage shall not be solemnised after the expiration of 3 months from the date of the licence issued in respect of the marriage.
+(3) A marriage shall not be solemnised by a Registrar before the third day after notice of the intended marriage has been given to him or her:
+  provided that the Registrar, if he or she is satisfied that the marriage is not prohibited by this Act, that the requirements of this Act have been complied with, and that inconvenience would otherwise be caused to the persons intending marriage, may solemnise the marriage before that day.
+(4) A marriage shall not be solemnised by a Registrar after the expiration of 3 months from the date when notice of the intended marriage was given to him or her, or, where a caveat has been lodged, after the expiration of 3 months from the date when the caveat was withdrawn or discharged.
 
 ### 31 Place and form of marriage before marriage celebrant
 (1) Every marriage solemnised by a marriage celebrant shall be solemnised at a place described in the marriage licence issued in respect of that marriage.
@@ -231,10 +233,10 @@ A marriage licence shall authorize but not oblige any marriage celebrant to sole
   (b) an organisation approved under section 9 as an organisation that may nominate marriage celebrants.
 
 ### 32 Marriage of Quakers
-(1) The provisions of this Part relating to the solemnization of marriages in the presence of a marriage celebrant shall not extend, and shall be deemed not to have extended, to any marriage solemnized (whether before or after the commencement of this Act) in accordance with the marriage regulations of the religious Society of Friends, commonly called Quakers, or in accordance with those regulations except so far as the regulations may require that marriages be solemnized at a place where public meetings for worship are regularly held:
-  provided that no such marriage shall be solemnized unless a marriage licence has been issued:
+(1) The provisions of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant shall not extend, and shall be deemed not to have extended, to any marriage solemnised (whether before or after the commencement of this Act) in accordance with the marriage regulations of the religious Society of Friends, commonly called Quakers, or in accordance with those regulations except so far as the regulations may require that marriages be solemnised at a place where public meetings for worship are regularly held:
+  provided that no such marriage shall be solemnised unless a marriage licence has been issued:
   provided also that every such marriage shall be solemnised at a place stated in the marriage licence.
-(2) Every marriage to which this section applies shall be as valid as if solemnized under this Act before a marriage celebrant, and accordingly shall, for the purposes of this Act, wherever necessary be deemed to have been so solemnized.
+(2) Every marriage to which this section applies shall be as valid as if solemnised under this Act before a marriage celebrant, and accordingly shall, for the purposes of this Act, wherever necessary be deemed to have been so solemnised.
 (3)
 (4)
 (5) Nothing in this section shall be construed to limit in any way the provisions of section 22 as to the validity of marriages.
@@ -305,19 +307,19 @@ A marriage licence shall authorize but not oblige any marriage celebrant to sole
 (2) During the solemnisation of every such marriage each party to it shall declare:I solemnly declare that I do not know of any impediment to this marriage between me AB and CD,And shall say to the other party:I call on the people present here to witness that I, AB, take you, CD, to be my legal wife (or husband),or words to similar effect.
 
 ### 33A Registrar-General may solemnise marriage
-With his prior consent, notice of an intended marriage may be given to the Registrar-General or Deputy Registrar-General, and the marriage may be solemnised before him, in the same manner and subject to the same requirements and conditions as if he were a Registrar.
+With his or her prior consent, notice of an intended marriage may be given to the Registrar-General or Deputy Registrar-General, and the marriage may be solemnised before him or her, in the same manner and subject to the same requirements and conditions as if he or she were a Registrar.
 
 ### 34 Proxy marriages
-(1) Notwithstanding the provisions of this Act, a marriage solemnized in New Zealand in the absence of 1 party to the marriage shall, if it is solemnized in accordance with this section, be lawful.
-(2) A Family Court Judge may, on application in that behalf, authorize the marriage in New Zealand of any person who is resident in New Zealand to any person who is outside New Zealand if the Judge is satisfied that the person who is outside New Zealand is unable to come to New Zealand by reason of the existence of a state of war or armed conflict or by reason of the conditions of his service as a member of the armed forces of any Commonwealth country, or of any country for the time being allied with any Commonwealth country.
+(1) Notwithstanding the provisions of this Act, a marriage solemnised in New Zealand in the absence of one party to the marriage shall, if it is solemnised in accordance with this section, be lawful.
+(2) A Family Court Judge may, on application in that behalf, authorise the marriage in New Zealand of any person who is resident in New Zealand to any person who is outside New Zealand if the Judge is satisfied that the person who is outside New Zealand is unable to come to New Zealand by reason of the existence of a state of war or armed conflict or by reason of the conditions of his or her service as a member of the armed forces of any Commonwealth country, or of any country for the time being allied with any Commonwealth country.
 (3) All the provisions of this Act shall, as far as they are applicable and with the necessary modifications, apply to any marriage to which this section relates.
-(4) Regulations under this Act may prescribe the form of any marriage to which this section relates before a Registrar, the manner and form in which the assent of the absent party to any such marriage shall be given, the time during which and the circumstances in which any document signed by the absent party may be revoked and the effect of any such revocation, and such other matters as may be considered necessary in respect of the solemnization and registration of any such marriage.
+(4) Regulations under this Act may prescribe the form of any marriage to which this section relates before a Registrar, the manner and form in which the assent of the absent party to any such marriage shall be given, the time during which and the circumstances in which any document signed by the absent party may be revoked and the effect of any such revocation, and such other matters as may be considered necessary in respect of the solemnisation and registration of any such marriage.
 
 ## Part 6 — Registration of marriages
 
 ### 35 Marriage registers
 (1)
-(2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his custody, commits an offence and shall be liable on conviction to a fine not exceeding $100.
+(2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his or her custody, commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### 36 Particulars of marriage to be entered in register book
 [Repealed]
@@ -334,13 +336,13 @@ With his prior consent, notice of an intended marriage may be given to the Regis
 ## Part 7 — Marriages out of New Zealand
 
 ### 39 Foreign marriages of British subjects
-All marriages (whether solemnized before or after the commencement of this Act) which are valid in the United Kingdom by virtue of the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom, or by virtue of any Act of the Parliament of the United Kingdom passed in amendment of or in substitution for the Foreign Marriage Acts 1892 to 1947, shall be and shall be deemed always to have been as valid in New Zealand as if solemnized in New Zealand in accordance with this Act:
-  provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnization of the second marriage:
+All marriages (whether solemnised before or after the commencement of this Act) which are valid in the United Kingdom by virtue of the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom, or by virtue of any Act of the Parliament of the United Kingdom passed in amendment of or in substitution for the Foreign Marriage Acts 1892 to 1947, shall be and shall be deemed always to have been as valid in New Zealand as if solemnised in New Zealand in accordance with this Act:
+  provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnisation of the second marriage:
   provided also that this section shall not affect any estate, right, or interest in any real or personal property to which any person has become absolutely entitled before the commencement of this Act, or affect any proceedings commenced in any court before the commencement of this Act, or any decree, order, or judgment made or given (whether before or after the commencement of this Act) in any such proceedings.
 
 ### 40 Marriages abroad of Commonwealth citizens and citizens of Ireland
-(1) All marriages (whether solemnized before or after the commencement of this Act) at least 1 party to which is a citizen of a Commonwealth country or of the Republic of Ireland solemnized in a country other than the country of which the party is a citizen in accordance with a form authorized in that case by the law of the country of which the party is a citizen shall be as valid in New Zealand as if solemnized in New Zealand in accordance with this Act.
-(2) Nothing in this section shall affect the validity of any marriage solemnized out of New Zealand in accordance with the law of the country where the marriage was solemnized.
+(1) All marriages (whether solemnised before or after the commencement of this Act) at least one party to which is a citizen of a Commonwealth country or of the Republic of Ireland solemnised in a country other than the country of which the party is a citizen in accordance with a form authorised in that case by the law of the country of which the party is a citizen shall be as valid in New Zealand as if solemnised in New Zealand in accordance with this Act.
+(2) Nothing in this section shall affect the validity of any marriage solemnised out of New Zealand in accordance with the law of the country where the marriage was solemnised.
 
 ### 41 Certificate of no impediment to person intending foreign marriage
 (1) A person who intends to marry outside New Zealand in accordance with the law of another country or jurisdiction may apply to the Registrar-General for a certificate of no impediment.
@@ -355,20 +357,20 @@ All marriages (whether solemnized before or after the commencement of this Act) 
   (b) the Registrar-General is satisfied that no lawful impediment to the intended marriage has been shown to exist.
 
 ### 42 Notice of intended marriage outside New Zealand
-(1) Where any citizen of a Commonwealth country or of the Republic of Ireland resident in New Zealand for at least 7 days desires to marry outside New Zealand under the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom or to marry any such citizen in the United Kingdom, he may give notice to a Registrar in the prescribed form.
-(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration that the several particulars set forth in the notice are true and that he believes the marriage is not prohibited by Schedule 2 and that there is no other lawful impediment to the marriage.
-(3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnized in New Zealand.
-(4) The provisions of section 25 relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnized in New Zealand.
+(1) Where any citizen of a Commonwealth country or of the Republic of Ireland resident in New Zealand for at least 7 days desires to marry outside New Zealand under the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom or to marry any such citizen in the United Kingdom, he or she may give notice to a Registrar in the prescribed form.
+(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration that the several particulars set forth in the notice are true and that he or she believes the marriage is not prohibited by Schedule 2 and that there is no other lawful impediment to the marriage.
+(3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnised in New Zealand.
+(4) The provisions of section 25 relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnised in New Zealand.
 (5) Subject to the provisions of subsections (2) to (4), the Registrar shall, after the expiry of 14 days from the date of giving notice, issue a certificate in the prescribed form that notice of the intended marriage has been given.
 
 ### 43 New Zealand representative may attend marriage abroad of New Zealand citizen and give certificate
-(1) Any New Zealand representative who has attended the marriage of a New Zealand citizen in a country other than New Zealand and is satisfied that the marriage has been solemnized in accordance with the formalities of the law of that other country may give a certificate in the prescribed form and shall forward a duplicate copy of the certificate to the Registrar-General.
+(1) Any New Zealand representative who has attended the marriage of a New Zealand citizen in a country other than New Zealand and is satisfied that the marriage has been solemnised in accordance with the formalities of the law of that other country may give a certificate in the prescribed form and shall forward a duplicate copy of the certificate to the Registrar-General.
 (2)
 
 ### 44 Validity of service marriages
 A service marriage shall be deemed to have been and to be as valid as if it had been solemnised in New Zealand in accordance with the provisions of this Act.
 
-### 45 Record of service marriages solemnized outside New Zealand
+### 45 Record of service marriages solemnised outside New Zealand
 [Repealed]
 
 ### 46 Special register of service marriages
@@ -422,22 +424,18 @@ A service marriage shall be deemed to have been and to be as valid as if it had 
 [Repealed]
 
 ### 56 Offence to deny or impugn validity of lawful marriage
-(1) Every person commits an offence against this Act, and shall be liable on conviction to a fine not exceeding $200, who—
-  (a) alleges, expressly or by implication, that any persons lawfully married are not truly and sufficiently married; or
-  (b) alleges, expressly or by implication, that the issue of any lawful marriage is illegitimate or born out of true wedlock.
-(2) For the purposes of this section the term alleges means making any verbal statement, or publishing or issuing any printed or written statement, or in any manner authorizing the making of any verbal statement, or in any manner authorizing or being party to the publication or issue of any printed or written statement.
-(3) A person shall not be deemed to make an allegation contrary to the provisions of this section by reason only of using in the solemnization of a marriage a form of marriage service which at the commencement of this Act was in use by the religious body to which that person belongs, or by reason only of the printing or issue of any book containing a copy of a form of marriage service in use at the commencement of this Act by any religious body.
+[Repealed]
 
 ### 57 Offence to alter register book without authority
 Any person who without the authority of the Registrar-General makes any alteration in a register book, or any person having lawful custody of a register book who permits any such alteration, commits an offence and shall be liable on conviction to a fine not exceeding $100.
 
-### 58 Offence to solemnize marriage contrary to provisions of this Act
-Every Registrar who knowingly and wilfully issues any marriage licence or solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $600, or to both.
+### 58 Offence to solemnise marriage contrary to provisions of this Act
+Every Registrar who knowingly and wilfully issues any marriage licence or solemnises any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnises any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $600, or to both.
 
-### 59 Offence to solemnize marriage falsely pretending to be marriage celebrant
-Every person who falsely pretends to be a marriage celebrant and solemnizes any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
+### 59 Offence to solemnise marriage falsely pretending to be marriage celebrant
+Every person who falsely pretends to be a marriage celebrant and solemnises any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
-### 60 Offences in connection with false statements and improper solemnization of marriages
+### 60 Offences in connection with false statements and improper solemnisation of marriages
 Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $400, or to both, who knowingly and wilfully—
   (a) makes or causes to be made any false declaration for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register book, a false statement of any of the particulars required to be known and registered under the provisions of this Act; or
@@ -457,7 +455,7 @@ No prosecution under this Act shall be commenced after the expiration of 3 years
   (a) prescribing fees for the doing of any act under this Act:
   (b) prescribing forms to be used for the purposes of this Act and the matters to be specified in such forms:
   (c) providing for such other matters as are contemplated by or necessary to give full effect to the provisions of this Act and its due administration.
-(2) Where the Registrar-General or any Registrar is empowered by this Act to do any act for which a fee is payable, he may refuse to do the act until the fee is paid.
+(2) Where the Registrar-General or any Registrar is empowered by this Act to do any act for which a fee is payable, he or she may refuse to do the act until the fee is paid.
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General may dispense with the payment of any fee payable under this Act.
 
 ### 64A Rules of procedure
@@ -480,95 +478,27 @@ All fines recovered and all fees received by a Registrar or the Registrar-Genera
 
 ## Schedule 1 — Religious bodies
 
-## Schedule 2 — Forbidden marriages
+## Schedule 2 — Prohibited degrees of marriage
 
-### 1
-A man may not marry his—
-(1) grandmother:
-(2) grandfather's wife:
-(3) wife's grandmother:
-(4) father's sister:
-(5) mother's sister:
-(6) mother:
-(7) stepmother:
-(8) wife's mother:
-(9) daughter:
-(10) wife's daughter:
-(11) son's wife:
-(12) sister:
-(13) son's daughter:
-(14) daughter's daughter
-(15) son's son's wife:
-(16) daughter's son's wife:
-(17) wife's son's daughter:
-(18) wife's daughter's daughter:
-(19) brother's daughter:
-(20) sister's daughter.
-
-### 2
-A woman may not marry her—
-(1) grandfather:
-(2) grandmother's husband:
-(3) husband's grandfather:
-(4) father's brother:
-(5) mother's brother:
-(6) father:
-(7) stepfather:
-(8) husband's father:
-(9) son:
-(10) husband's son:
-(11) daughter's husband:
-(12) brother:
-(13) son's son:
-(14) daughter's son:
-(15) son's daughter's husband:
-(16) daughter's daughter's husband:
-(17) husband's son's son:
-(18) husband's daughter's son:
-(19) brother's son:
-(20) sister's son.
-
-### 3
-The foregoing provisions of this schedule with respect to any relationship shall apply whether the relationship is by the whole blood or by the half blood.
-
-### 4
-In this schedule, unless the context otherwise requires, the term wife means a former wife, whether she is alive or deceased, and whether her marriage was terminated by death or divorce or otherwise; and the term husband has a corresponding meaning.
-
-### 5
-A man may not marry his—
-(1) grandmother's civil union partner
-(2) grandfather's civil union partner
-(3) mother's civil union partner
-(4) father's civil union partner
-(5) son's civil union partner
-(6) daughter's civil union partner
-(7) grandson's civil union partner
-(8) granddaughter's civil union partner
-(9) civil union partner's grandmother
-(10) civil union partner's mother
-(11) civil union partner's daughter
-(12) civil union partner's granddaughter.
-
-### 6
-A woman may not marry her—
-(1) grandmother's civil union partner
-(2) grandfather's civil union partner
-(3) mother's civil union partner
-(4) father's civil union partner
-(5) son's civil union partner
-(6) daughter's civil union partner
-(7) granddaughter's civil union partner
-(8) grandson's civil union partner
-(9) civil union partner's grandfather
-(10) civil union partner's father
-(11) civil union partner's son
-(12) civil union partner's grandson.
-
-### 7
-In this schedule, the term civil union partner means a former civil union partner whether he or she is alive or deceased, and whether the civil union was terminated by death or dissolution or otherwise.
-
-### 8
-In this schedule, a reference to a stepfather or stepmother is a reference to a relationship established by marriage.
+###
+(1) A person may not marry the person's—
+  (a) grandparent:
+  (b) parent:
+  (c) child:
+  (d) grandchild:
+  (e) sibling:
+  (f) parent's sibling:
+  (g) sibling's child:
+  (h) grandparent's spouse or civil union partner:
+  (i) parent's spouse or civil union partner:
+  (j) spouse's or civil union partner's parent:
+  (k) spouse's or civil union partner's grandparent:
+  (l) spouse's or civil union partner's child:
+  (m) child's spouse or civil union partner:
+  (n) grandchild's spouse or civil union partner:
+  (o) spouse's or civil union partner's grandchild.
+(2) The prohibited degrees of marriage apply whether the relationships described are by the whole blood or by the half blood.
+(3) In this schedule, spouse and civil union partner include a former spouse or former civil union partner, whether alive or deceased, and whether the marriage or civil union was terminated by death, dissolution, or otherwise.
 
 ## Schedule 3 — Enactments repealed
 
