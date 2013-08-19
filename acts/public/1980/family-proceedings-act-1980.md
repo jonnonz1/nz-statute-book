@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-19_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -24,8 +24,8 @@ In this Act, unless the context otherwise requires,—
   - **child of the de facto relationship** means a child of both de facto partners, and includes, in relation to any proceedings under this Part, a child (whether or not a child of either de facto partner) who was a member of the family of the de facto partners at the time when they ceased to live together or at the time immediately before the institution of proceedings, whichever first occurred
   - **child of the marriage** —
     (a) in relation to a marriage (other than a void marriage)—
-      (i) means a child of the husband and wife; and
-      (ii) includes, in relation to any proceedings under this Act, a child (whether or not a child of the husband or wife) who was a member of the family of the husband and wife at the time when the husband and wife ceased to live together or at the time immediately preceding the institution of the proceedings, whichever first occurred; and
+      (i) means a child of both spouses together; and
+      (ii) includes, in relation to any proceedings under this Act, a child (whether or not a child of either spouse) who was a member of the family of the spouses at the time when they ceased to live together or at the time immediately preceding the institution of the proceedings, whichever first occurred; and
     (b) in relation to a void marriage—
       (i) means a child of the parties to the void marriage; and
       (ii) includes, in relation to any proceedings under this Act, a child (whether or not a child of either party to the void marriage) who was a member of the family of the parties to the void marriage at the time when those parties ceased to live together or at the time immediately preceding the institution of the proceedings, whichever first occurred
@@ -261,9 +261,9 @@ So long as a separation order remains in force, neither party to the marriage or
 
 ### 24 Discharge of separation order on resumption of cohabitation
 (1) Subject to section 40, a separation order shall cease to have any force or effect if—
-  (a) the husband and the wife, or the civil union partners, with the free consent of both parties, have resumed cohabitation as husband and wife or as civil union partners; or
+  (a) the married couple, or the civil union partners, with the free consent of both parties, have resumed cohabitation as a married couple or as civil union partners; or
   (b) the order is discharged by the court under section 25.
-(2) Without limiting the provisions of paragraph (a) of subsection (1), the husband or wife, or either civil union partner, may apply to a Family Court for the discharge of the separation order on the ground that it has ceased to have effect under that paragraph, and, on proof that the order has ceased to have effect as aforesaid, the court shall discharge the order.
+(2) Without limiting the provisions of paragraph (a) of subsection (1), either spouse, or either civil union partner, may apply to a Family Court for the discharge of the separation order on the ground that it has ceased to have effect under that paragraph, and, on proof that the order has ceased to have effect as aforesaid, the court shall discharge the order.
 
 ### 25 Discharge of separation order by court
 (1) Subject to subsection (2), a Family Court may, on the application of either party, discharge any separation order if the court is satisfied that the circumstances have so changed since the making of the order that it is reasonable that the order should be discharged.
@@ -582,7 +582,7 @@ Without limiting or affecting the law relating to any other benefit, the liabili
     (ii) the likely earning capacity of each spouse, civil union partner, or de facto partner:
     (iii) the responsibilities of each spouse, civil union partner, or de facto partner for the ongoing daily care of any minor or dependent children of the marriage or civil union or (as the case requires) any minor or dependent children of the de facto relationship after the dissolution of the marriage or civil union or (as the case requires) after the de facto partners ceased to live together:
     (iv) any other relevant circumstances.
-(4) If the marriage or civil union was immediately preceded by a de facto relationship between the husband and wife,—
+(4) If the marriage or civil union was immediately preceded by a de facto relationship between the spouses or partners,—
   (a) for the purposes of subsection (3)(b), the de facto relationship must be treated as if it were part of the marriage or civil union; and
   (b) for the purposes of subsection (3)(c)(i), the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
 
@@ -789,7 +789,7 @@ Where an application is made to a court for an order under this Part, the court 
 Where a court makes a maintenance order under this Act, the Registrar shall, within 28 days after the day on which the order is made, send a certified or sealed copy of the order to the Commissioner of Inland Revenue.
 
 ### 94 Dissolution not to affect maintenance order
-No maintenance order in favour of a husband or wife or a civil union partner shall be deemed to be discharged by reason only of the dissolution of the marriage between the husband and the wife or the dissolution of the civil union between the civil union partners.
+No maintenance order in favour of a husband or wife or a civil union partner shall be deemed to be discharged by reason only of the dissolution of the marriage between the married couple or the dissolution of the civil union between the civil union partners.
 
 ### 95 Maintenance where order refused
 (1) Where an application under section 37 (in this section referred to as the principal relief) has been dismissed after a hearing on the merits, and the court is satisfied that the proceedings for the principal relief were instituted in good faith and that there is no reasonable likelihood of cohabitation being resumed between the parties, the court may make any order under this Part.
