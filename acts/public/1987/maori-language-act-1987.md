@@ -1,5 +1,5 @@
 # Māori Language Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-27_
 
 > An Act to declare the Māori language to be an official language of New Zealand, to confer the right to speak Māori in certain legal proceedings, and to establish Te Taura Whiri i te Reo Māori and define its functions and powers
 
@@ -19,9 +19,10 @@ In this Act, unless the context otherwise requires,—
   - **legal proceedings** means—
     (a) proceedings before any court or tribunal named in Schedule 1; and
     (b) proceedings before any Coroner; and
-    (c) proceedings before—that is required to inquire into and report upon any matter of particular interest to the Māori people or to any tribe or group of Māori people
-      (i) any commission of inquiry under the Commissions of Inquiry Act 1908; or
-      (ii) any tribunal or other body having, by or pursuant to any enactment, the powers or any of the powers of such a commission of inquiry,—
+    (c) proceedings to inquire into and report on any matter of particular interest to the Māori people or any tribe or group of Māori people before—
+      (i) a commission of inquiry under the Commissions of Inquiry Act 1908; or
+      (ii) a tribunal or other body having any of the powers of a commission of inquiry under any other enactment; or
+      (iii) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **Minister** means the Minister of Māori Affairs
   - **presiding officer** , in relation to any legal proceedings, means the Judge or other person who is presiding over the proceedings
   - **translation** , in relation to the Māori language, means the written expression in English of words written in Māori and the written expression in Māori of words written in English.
