@@ -1,5 +1,5 @@
 # New Zealand Sign Language Act 2006
-_Consolidation as at 2008-06-30_
+_Consolidation as at 2013-08-27_
 
 ### 1 Title
 This Act is the New Zealand Sign Language Act 2006.
@@ -28,9 +28,10 @@ In this Act, unless the context otherwise requires,—
   - **legal proceedings** means—that is required to inquire into and report upon any matter of particular interest to the Deaf community
     (a) proceedings before any court or tribunal named in the Schedule; and
     (b) proceedings before any coroner; and
-    (c) proceedings before—
-      (i) a Commission of Inquiry under the Commissions of Inquiry Act 1908; or
-      (ii) a tribunal or other body having, by or pursuant to an enactment, the powers or any of the powers of a Commission of Inquiry under the Commissions of Inquiry Act 1908,—
+    (c) proceedings to inquire into and report on any matter of particular interest to the Deaf community before—
+      (i) a commission of inquiry under the Commissions of Inquiry Act 1908; or
+      (ii) a tribunal or other body having any of the powers of a commission of inquiry under any other enactment; or
+      (iii) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **New Zealand Sign Language** or means the visual and gestural language that is the first or preferred language in New Zealand of the distinct linguistic and cultural group of people who are deaf
   - **presiding officer** , in relation to any legal proceedings, means the Judge or other person who is presiding over the proceedings
