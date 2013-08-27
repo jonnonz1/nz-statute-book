@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-27_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -75,7 +75,7 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
   - **health service** means a service provided for the purpose of assessing, improving, protecting, or managing the physical or mental health of individuals or groups of individuals
   - **layperson** means a person who is neither registered nor qualified to be registered as a health practitioner
   - **medical officer of health** has the same meaning as in section 2(1) of the Health Act 1956
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) as a practitioner of the profession of medicine
   - **mental or physical condition** means any mental or physical condition or impairment; and includes, without limitation, a condition or impairment caused by alcohol or drug abuse
   - **Minister** means the Minister of Health
   - **oversight** means professional support and assistance provided to a health practitioner by a professional peer for the purposes of professional development
@@ -166,7 +166,7 @@ This Act binds the Crown.
   (d) registration with an overseas organisation that performs functions that correspond wholly or partly to those performed by the authority:
   (e) experience in the provision of health services of a particular kind, including, without limitation, the provision of such services at a nominated institution or class of institution, or under the supervision or oversight of a nominated health practitioner or class of health practitioner.
 (3) A notice under subsection (1) may state that 1 or more qualifications or experience of 1 or more kinds, or both, is required for each scope of practice that the authority describes under section 11.
-(4) An authority must monitor every New Zealand educational institution that it accredits for the purpose of subsection (2)(a), and may monitor any overseas educational institution that it accredits for that purpose.
+(4) An authority must monitor every New Zealand educational institution that it accredits for the purpose of subsection (2)﻿(a), and may monitor any overseas educational institution that it accredits for that purpose.
 
 ### 13 Principles guiding the prescribing of qualifications
 In prescribing qualifications under section 12, each authority must be guided by the following principles:
@@ -196,7 +196,7 @@ In prescribing qualifications under section 12, each authority must be guided by
   (a) is fit for registration in accordance with section 16; and
   (b) has the qualifications that are prescribed, under section 12, for that scope of practice; and
   (c) is competent to practise within that scope of practice.
-(2) An authority may, for the purposes of subsection (1)(b), treat any overseas qualification as a prescribed qualification if, in the opinion of the authority, that qualification is equivalent to, or as satisfactory as, a prescribed qualification.
+(2) An authority may, for the purposes of subsection (1)﻿(b), treat any overseas qualification as a prescribed qualification if, in the opinion of the authority, that qualification is equivalent to, or as satisfactory as, a prescribed qualification.
 (3) An authority may vary a prescribed qualification in any case where the authority—
   (a) proposes to limit the health services that the applicant will be permitted to perform; and
   (b) is satisfied that the varied qualification is adequate—
@@ -212,7 +212,7 @@ No applicant for registration may be registered as a health practitioner of a he
   (e) he or she is the subject of professional disciplinary proceedings in New Zealand or in another country, and the responsible authority believes on reasonable grounds that those proceedings reflect adversely on his or her fitness to practise as a health practitioner of that profession; or
   (f) he or she is under investigation, in New Zealand or in another country, in respect of any matter that may be the subject of professional disciplinary proceedings, and the responsible authority believes on reasonable grounds that that investigation reflects adversely on his or her fitness to practise as a health practitioner of that profession; or
   (g) he or she—
-    (i) is subject to an order of a professional disciplinary tribunal (whether in New Zealand or in another country) or to an order of an educational institution accredited under section 12(2)(a) or to an order of an authority or of a similar body in another country; and
+    (i) is subject to an order of a professional disciplinary tribunal (whether in New Zealand or in another country) or to an order of an educational institution accredited under section 12(2)﻿(a) or to an order of an authority or of a similar body in another country; and
     (ii) does not satisfy the responsible authority that that order does not reflect adversely on his or her fitness to practise as a health practitioner of that profession; or
   (h) the responsible authority has reason to believe that the applicant may endanger the health or safety of members of the public.
 
@@ -252,19 +252,19 @@ If, under section 102, the Tribunal has imposed any conditions that must be sati
 (6) A requirement under subsection (5) is part of the process of considering the application and is not to be taken as a proposal to decline the application.
 
 ### 20 Authority must inform applicant that it proposes to depart from indicated scope of practice or to decline application
-(1) In assessing an application under section 17, an authority must consider whether the applicant is qualified and competent to practise within the indicated scope of practice submitted by the applicant under section 17(2)(b)(i).
-(2) If the scope of practice that an authority proposes to authorise for an applicant differs from that indicated by the applicant under section 17(2)(b)(i), whether in respect of conditions to be stated or otherwise, the authority must inform the applicant in writing why it proposes to authorise a different scope of practice.
+(1) In assessing an application under section 17, an authority must consider whether the applicant is qualified and competent to practise within the indicated scope of practice submitted by the applicant under section 17(2)﻿(b)﻿(i).
+(2) If the scope of practice that an authority proposes to authorise for an applicant differs from that indicated by the applicant under section 17(2)﻿(b)﻿(i), whether in respect of conditions to be stated or otherwise, the authority must inform the applicant in writing why it proposes to authorise a different scope of practice.
 (3) If, in assessing an application under section 17, the authority proposes to decline the application, the authority must inform the applicant in writing why the authority proposes to decline the application.
 (4) When the authority informs an applicant under subsection (2) or subsection (3), the authority must also give the applicant—
   (a) a copy of any information on which the authority relies in proposing to authorise a different scope of practice or to decline the application; and
   (b) a reasonable opportunity to make written submissions and be heard, either personally or by his or her representative, in respect of the matter.
-(5) Subsection (4)(a) is subject to section 154.
+(5) Subsection (4)﻿(a) is subject to section 154.
 
 ### 21 Authority may authorise scope of practice or changed scope of practice
 (1) The responsible authority may authorise a scope of practice for an applicant who applies to be registered as a health practitioner.
 (2) The responsible authority may authorise any changes to the existing scope of practice of a health practitioner who applies for a change in the authorisation of his or her scope of practice.
 (3) A change determined under subsection (2) may consist of any 1 or more of the matters described in section 22(2).
-(4) If an applicant is, under section 20(4)(b), entitled to an opportunity to make written submissions and be heard, an authorisation under subsection (1) or subsection (2) may be determined only after the applicant has had that opportunity.
+(4) If an applicant is, under section 20(4)﻿(b), entitled to an opportunity to make written submissions and be heard, an authorisation under subsection (1) or subsection (2) may be determined only after the applicant has had that opportunity.
 
 ### 22 Contents of authorisation of scope of practice
 (1) An authorisation, under section 21, of a scope of practice must state the scope of practice by describing the health services that the applicant is, subject to any conditions included in the authorisation, permitted to perform.
@@ -283,7 +283,7 @@ If, under section 102, the Tribunal has imposed any conditions that must be sati
   (h) any condition that the authority believes on reasonable grounds to be necessary to protect the safety of the public.
 
 ### 23 Assessment of practitioners practising under supervision
-If an authorisation of a scope of practice requires the inclusion in the scope of practice of a condition referred to in section 22(3)(a) that the applicant practise under supervision, the authorisation may also include the following conditions in the scope of practice:
+If an authorisation of a scope of practice requires the inclusion in the scope of practice of a condition referred to in section 22(3)﻿(a) that the applicant practise under supervision, the authorisation may also include the following conditions in the scope of practice:
   (a) that 1 or more of the health practitioners, under whose supervision the applicant practises, assess, and report to the authority at intervals specified by the authority (whether generally or in relation to any particular case or class of case) on, the performance of the applicant; and
   (b) that each of those reports set out a recommendation as to whether the condition requiring the applicant to practise subject to supervision should continue to apply.
 
@@ -331,7 +331,7 @@ If an authorisation of a scope of practice requires the inclusion in the scope o
   (a) a notice containing enough particulars to inform the applicant clearly of the substance of the grounds on which the authority proposes to decline the application, or to include or vary any conditions; and
   (b) a copy of any information on which the authority relies in proposing to decline the application, or to include or vary any conditions; and
   (c) a reasonable opportunity to make written submissions and be heard, either personally or by his or her representative, in respect of the application.
-(3) Subsection (2)(b) is subject to section 154.
+(3) Subsection (2)﻿(b) is subject to section 154.
 
 ### 29 Decisions of authority as to practising certificate and scope of practice
 (1) When an application for an annual practising certificate has been referred to the authority concerned by the Registrar, the authority must not decide that the certificate should be issued unless it is satisfied that the applicant meets the required standard of competence.
@@ -345,7 +345,7 @@ If an authorisation of a scope of practice requires the inclusion in the scope o
   (a) the applicant should not be issued with an annual practising certificate until the applicant has fulfilled 1 or more conditions determined by the authority; or
   (b) the applicant should not be issued with an annual practising certificate.
 (6) As soon as practicable after the authority makes a decision under subsection (5), the Registrar must notify the applicant in writing of the decision and the reasons for it.
-(7) If the authority declines an application for an annual practising certificate under subsection (5)(a), it may, nevertheless, authorise the issue of an interim practising certificate to the applicant under section 31, pending fulfilment of the conditions imposed.
+(7) If the authority declines an application for an annual practising certificate under subsection (5)﻿(a), it may, nevertheless, authorise the issue of an interim practising certificate to the applicant under section 31, pending fulfilment of the conditions imposed.
 
 ### 30 Currency of annual practising certificate
 (1) An annual practising certificate is in force for a period decided by the authority (generally or in any particular case).
@@ -394,7 +394,7 @@ The Registrar must endorse on every annual practising certificate or interim pra
 ### 36 When authority may review health practitioner's competence
 (1) Promptly after receiving a notice of the kind described in subsection (2), an authority must make inquiries into, and may review, the competence of a health practitioner who is registered with the authority and who holds a current practising certificate.
 (2) The notices referred to in subsection (1) are—
-  (a) a notice of a professional conduct committee's recommendation under section 80(2)(a) or section 79(b), so far as that recommendation relates to competence; or
+  (a) a notice of a professional conduct committee's recommendation under section 80(2)﻿(a) or section 79(b), so far as that recommendation relates to competence; or
   (b) a notice given under section 34.
 (3) Subsection (1) does not apply if the authority has reason to believe that a notice given under section 34 by a health practitioner is frivolous or vexatious.
 (4) The responsible authority may at any time review the competence of a practitioner who holds a current practising certificate, whether or not—
@@ -407,8 +407,8 @@ The Registrar must endorse on every annual practising certificate or interim pra
   (a) a notice containing sufficient particulars to inform that health practitioner clearly of the substance of the grounds (if any) on which the authority has decided to carry out the review; and
   (b) information relevant to his or her competence that is in the possession of the authority; and
   (c) a reasonable opportunity to make written submissions and be heard on the matter, either personally or by his or her representative.
-(2) When a health practitioner exercises the right under subsection (1)(c) to be heard personally, the practitioner is entitled to the presence of a support person of his or her choice.
-(3) Subsection (1)(b) is subject to section 154.
+(2) When a health practitioner exercises the right under subsection (1)﻿(c) to be heard personally, the practitioner is entitled to the presence of a support person of his or her choice.
+(3) Subsection (1)﻿(b) is subject to section 154.
 
 ### 38 Orders concerning competence
 (1) If, after conducting a review under section 36, the authority has reason to believe that a health practitioner fails to meet the required standard of competence, the authority must make 1 or more of the following orders:
@@ -440,7 +440,7 @@ The Registrar must endorse on every annual practising certificate or interim pra
 (4) An order made under subsection (2) takes effect from the day on which the health practitioner receives a copy of the order or from any later date stated in the order.
 (5) An order under subsection (2) ceases to have effect on the later of—
   (a) the completion of the review; or
-  (b) the attainment of a pass in any examination or assessment specified in the order under section 38(1)(c).
+  (b) the attainment of a pass in any examination or assessment specified in the order under section 38(1)﻿(c).
 
 ### 40 Competence programmes
 (1) For the purpose of maintaining, examining, or improving the competence of health practitioners to practise the profession in respect of which an authority is appointed, the authority may from time to time set or recognise competence programmes in respect of health practitioners who hold or apply for practising certificates.
@@ -487,10 +487,10 @@ An authority that is reviewing the competence of a health practitioner or that h
     (i) why the authority proposes to make the order; and
     (ii) that he or she has a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by his or her representative; and
   (b) a copy of any information on which the authority is relying in proposing to make the order.
-(3) The notice under subsection (2)(a)(i) must contain sufficient detail to inform the person clearly of the particular grounds for the proposal to make the order.
+(3) The notice under subsection (2)﻿(a)﻿(i) must contain sufficient detail to inform the person clearly of the particular grounds for the proposal to make the order.
 (4) Any order made under subsection (1) remains in effect until the health practitioner concerned has satisfied all the requirements of the competence programme or, as the case requires, the recertification programme, and for that purpose the authority may, on the application of the practitioner, extend the period within which the practitioner is required to satisfy those requirements.
 (5) The failure of a health practitioner to satisfy the requirements of any competence programme or recertification programme that applies to the health practitioner is not, of itself, a ground for taking disciplinary action under Part 4 against that health practitioner.
-(6) Subsection (2)(b) is subject to section 154.
+(6) Subsection (2)﻿(b) is subject to section 154.
 
 ### 44 Confidentiality of information
 (1) No person who examines any clinical records of any health practitioner under a requirement of a competence review, competence programme, or recertification programme may disclose any information (being information about any identifiable individual) obtained by that person as a result of that examination, except for 1 or more of the following purposes:
@@ -499,7 +499,7 @@ An authority that is reviewing the competence of a health practitioner or that h
   (c) for the purpose of making the information available to the person to whom the information relates in any case where—
     (i) the authority directs that the information be made available; or
     (ii) the person requests access to the information.
-(2) Subsection (1)(c)(ii) does not affect the Privacy Act 1993.
+(2) Subsection (1)﻿(c)﻿(ii) does not affect the Privacy Act 1993.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who discloses any information in contravention of subsection (1).
 (4) No information, statement, or admission that is disclosed or made by any health practitioner in the course of, or for the purposes of satisfying the requirements of, any competence review, competence programme, or recertification programme and that relates to any conduct of that health practitioner (whether that conduct occurred before or during that review or programme)—
   (a) may be used or disclosed for any purpose other than the purposes of that review or programme; or
@@ -604,6 +604,7 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
     (b) after that period, a health practitioner as defined in section 5(1)
   - **investigation** means any of the following:
     (a) the proceedings of a Royal Commission or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908:
+    (aa) an inquiry to which section 6 of the Inquiries Act 2013 applies:
     (b) the proceedings of an inquiry board appointed under the New Zealand Public Health and Disability Act 2000:
     (c) an inquiry required by the Director of Mental Health under section 95 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     (d) an inquiry conducted by the Director-General of Health:
@@ -702,7 +703,8 @@ A quality assurance activity ceases to be a protected quality assurance activity
 ### 61 Minister may authorise disclosure of information
 (1) If the Minister is satisfied, in respect of any information to which section 59 applies, that the information relates to conduct (whenever occurring) that constitutes or may constitute a serious offence, the Minister may, by notice in writing signed by the Minister, authorise the disclosure of that information, in any manner and on any conditions that are specified in the notice, for any 1 or more of the following purposes:
   (a) for the purposes of the investigation and prosecution of offences:
-  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or an inquiry board appointed under the New Zealand Public Health and Disability Act 2000.
+  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or an inquiry board appointed under the New Zealand Public Health and Disability Act 2000:
+  (c) for the purposes of an inquiry to which section 6 of the Inquiries Act 2013 applies.
 (2) Subsection (1) does not authorise the Minister to authorise the disclosure of information of a non-factual nature (such as expressions of opinion) unless the information consists only of matter contained in a report prepared by a person who engaged in the protected quality assurance activity.
 (3) The Minister may at any time—
   (a) revoke any Ministerial authorisation under subsection (1); or
@@ -712,7 +714,7 @@ A quality assurance activity ceases to be a protected quality assurance activity
   (b) create a duty to disclose that information.
 
 ### 62 Exclusion of liability
-(1) No civil or disciplinary proceedings lie against any person in respect of conduct engaged in good faith in connection with a protected quality assurance activity.
+(1) No civil or disciplinary proceedings lie against any person in respect of conduct engaged in in good faith in connection with a protected quality assurance activity.
 (2) This section continues to apply in respect of conduct that was engaged in by any person in connection with a protected quality assurance activity, even though that activity has since ceased to be a protected quality assurance activity.
 
 ### 63 Application of Legislation Act 2012 to notices under section 54
@@ -728,7 +730,7 @@ A notice issued under section 54, and an amendment or revocation of a notice iss
 (3) In subsection (1), health consumer has the same meaning as in the Health and Disability Commissioner Act 1994.
 
 ### 65 Response to complaints referred by Health and Disability Commissioner
-(1) When the Health and Disability Commissioner refers a complaint to the responsible authority under section 34(1)(a) of the Health and Disability Commissioner Act 1994, the authority must promptly assess the complaint and consider, in light of the nature and circumstances of the complaint, the action or actions that the authority should take to respond to the complaint.
+(1) When the Health and Disability Commissioner refers a complaint to the responsible authority under section 34(1)﻿(a) of the Health and Disability Commissioner Act 1994, the authority must promptly assess the complaint and consider, in light of the nature and circumstances of the complaint, the action or actions that the authority should take to respond to the complaint.
 (2) Without limiting the generality of subsection (1), the authority may decide to refer the complaint to a professional conduct committee.
 
 ### 66 Health and Disability Commissioner must notify authority of pending complaint
@@ -781,7 +783,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
   (a) the Health and Disability Commissioner notifies the authority—
     (i) that the matter is not to be investigated, or investigated further, under the Health and Disability Commissioner Act 1994; or
     (ii) that the complaint or matter has been resolved; or
-    (iii) that the matter is not to be referred to the Director of Proceedings under section 45(2)(f) of that Act; or
+    (iii) that the matter is not to be referred to the Director of Proceedings under section 45(2)﻿(f) of that Act; or
   (b) the Director of Proceedings notifies the authority of his or her decision under section 49 of that Act not to institute disciplinary proceedings in relation to the matter.
 (2) This section is subject to section 69.
 
@@ -815,7 +817,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
 (3) Subsection (1) is subject to section 154.
 
 ### 75 Practitioners and complainants may request changes in membership of professional conduct committee
-(1) Within 5 working days after being informed of the membership or intended membership of the professional conduct committee that is to consider a matter about a health practitioner, the practitioner or, in the case of a complaint, the complainant may give the authority concerned notice—
+(1) Within 5 working days after being informed of the membership or intended membership of the professional conduct committee that is to consider a matter about a health practitioner, the practitioner or, in the case of a complaint, the complainant, may give the authority concerned notice—
   (a) requesting that any or all of the members or intended members not be appointed as, or not act as, members of that committee; and
   (b) stating the reasons for the request.
 (2) The authority—
@@ -863,13 +865,13 @@ If, at any time in the course of investigating a matter about a health practitio
   (a) 1 or more of the recommendations specified in subsection (2); or
   (b) one of the determinations specified in subsection (3); or
   (c) both.
-(2) The recommendations referred to in subsection (1)(a) are—
+(2) The recommendations referred to in subsection (1)﻿(a) are—
   (a) that the authority review the competence of the health practitioner to practise his or her profession:
   (b) that the authority review the fitness of the health practitioner to practise his or her profession:
   (c) that the authority review the practitioner's scope of practice:
   (d) that the authority refer the subject matter of the investigation to the Police:
   (e) that the authority counsel the practitioner.
-(3) The determinations referred to in subsection (1)(b) are—
+(3) The determinations referred to in subsection (1)﻿(b) are—
   (a) that no further steps be taken under this Act in relation to the subject matter of the investigation:
   (b) that a charge be brought against the health practitioner before the Tribunal:
   (c) in the case of a complaint, that the complaint be submitted to conciliation.
@@ -929,7 +931,7 @@ The functions of the Tribunal are—
 (1) The Minister must maintain a panel of—
   (a) practitioners of each profession, each of whom must hold a current practising certificate; and
   (b) laypersons.
-(2) The numbers of persons appointed under subsection (1)(a) and (b) must be sufficient to enable the Tribunal to be constituted in accordance with section 88.
+(2) The numbers of persons appointed under subsection (1)﻿(a) and (b) must be sufficient to enable the Tribunal to be constituted in accordance with section 88.
 (3) In considering the suitability of any person for inclusion on the panel, the Minister must have regard not only to the person's personal attributes but also to the person's knowledge and experience of matters likely to come before the Tribunal.
 (4) The name of a person must be removed from the panel if—
   (a) the person is convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer; or
@@ -938,7 +940,7 @@ The functions of the Tribunal are—
   (d) the person becomes a member of an authority; or
   (e) a period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
   (f) the person requests by writing addressed to the Minister that his or her name be removed.
-(5) If subsection (4)(d) or (e) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
+(5) If subsection (4)﻿(d) or (e) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
 
 ### 88 Constitution of Tribunal for hearings
 For the purposes of each hearing, the Tribunal consists of—
@@ -1001,7 +1003,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (a) must hear the application within 10 working days after it is received by the appropriate executive officer of the Tribunal; and
   (b) may, as it thinks fit,—
     (i) grant or refuse the application; or
-    (ii) in the case of conditions imposed under section 93(1)(b), amend or replace the conditions.
+    (ii) in the case of conditions imposed under section 93(1)﻿(b), amend or replace the conditions.
 (4) The Tribunal may also revoke or vary an order under section 93(1) on its own initiative.
 (5) The appropriate executive officer of the Tribunal must ensure that the health practitioner, any employer of the health practitioner, and the responsible authority are promptly given notice of the Tribunal's decision.
 (6) The Tribunal's decision takes effect immediately.
@@ -1024,7 +1026,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 ### 96 Clarifications concerning section 95
 (1) Section 95 does not prevent the Tribunal from deliberating in private as to its decision, or as to any question arising in the course of a hearing.
 (2) Section 95(1) is subject to section 97.
-(3) Orders cannot be made under section 95(2)(d) in respect of—
+(3) Orders cannot be made under section 95(2)﻿(d) in respect of—
   (a) any communication by or on behalf of the Health and Disability Commissioner under the Health and Disability Commissioner Act 1994; or
   (b) any communication between any of the Health and Disability Commissioner, the authority, and the Tribunal; or
   (c) the publication, under section 157, of the effect of any order.
@@ -1061,17 +1063,17 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 (2) No person may in any report or account of a hearing of the Tribunal publish the name of the complainant or any particulars likely to lead to the identification of the complainant unless—
   (a) the complainant is 16 years or older; and
   (b) the Tribunal makes an order permitting the publication.
-(3) However, the Tribunal must make an order under subsection (2)(b) if—
+(3) However, the Tribunal must make an order under subsection (2)﻿(b) if—
   (a) the complainant—
     (i) is 16 years or older (whether or not he or she was under 16 years when the acts referred to in subsection (1) were alleged to have been performed); and
     (ii) applies to the Tribunal for the order; and
   (b) the Tribunal is satisfied that the complainant understands the nature and effect of the application.
-(4) If it thinks that the interests of the complainant require it to do so, the Tribunal may make an order under section 95(2)(b) forbidding publication of any report or account of any part of the evidence relating to the particulars of the acts referred to in subsection (1).
+(4) If it thinks that the interests of the complainant require it to do so, the Tribunal may make an order under section 95(2)﻿(b) forbidding publication of any report or account of any part of the evidence relating to the particulars of the acts referred to in subsection (1).
 (5) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who contravenes subsection (2).
 (6) Except for subsection (3), nothing in this section nor in section 97 limits the Tribunal's power to make an order under section 95.
 
 ### 99 Application for revocation of order under section 95 or for making of order under section 98
-(1) Any person may apply to the Tribunal for the revocation of an order under section 95 or for the making of an order under section 98(2)(b).
+(1) Any person may apply to the Tribunal for the revocation of an order under section 95 or for the making of an order under section 98(2)﻿(b).
 (2) The application may be made by a person who was a party to the proceedings in which the order was made, or any other person.
 (3) The Tribunal may grant or refuse the application as it thinks fit.
 
@@ -1084,7 +1086,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (e) the practitioner has performed a health service that forms part of a scope of practice of the profession in respect of which he or she is or was registered without being permitted to perform that service by his or her scope of practice; or
   (f) the practitioner has failed to observe any conditions included in the practitioner's scope of practice; or
   (g) the practitioner has breached an order of the Tribunal under section 101.
-(2) The Tribunal may make a finding under subsection (1)(c) only if the conviction concerned—
+(2) The Tribunal may make a finding under subsection (1)﻿(c) only if the conviction concerned—
   (a) is for an offence against—
     (i) the Births, Deaths, Marriages, and Relationships Registration Act 1995; or
     (ii) the Burial and Cremation Act 1964; or
@@ -1100,7 +1102,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
     (xii) the Radiation Protection Act 1965; or
     (xiii) this Act; or
   (b) has been entered by any court in New Zealand or elsewhere for an offence punishable by imprisonment for a term of 3 months or longer.
-(3) The Tribunal may not make an order under section 101 on the basis of a finding under subsection (1)(c) if the responsible authority was aware of the conviction concerned at the date of the practitioner's registration.
+(3) The Tribunal may not make an order under section 101 on the basis of a finding under subsection (1)﻿(c) if the responsible authority was aware of the conviction concerned at the date of the practitioner's registration.
 (4) No person may be found guilty of a disciplinary offence under this Part merely because that person has adopted and practised any theory of medicine or healing if, in doing so, the person has acted honestly and in good faith.
 
 ### 101 Penalties
@@ -1129,7 +1131,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
     (ii) any specified psychological or psychiatric examination, counselling, or therapy:
   (c) a condition that the person attend any specified course of treatment or therapy for alcohol or drug abuse:
   (d) any other condition designed to address the matter that gave rise to the cancellation of the person's registration.
-(3) The Tribunal must not impose a condition under subsection (2)(b) or (c) unless the person consents to the examination, treatment, counselling, or therapy concerned.
+(3) The Tribunal must not impose a condition under subsection (2)﻿(b) or (c) unless the person consents to the examination, treatment, counselling, or therapy concerned.
 (4) Subsection (2) does not limit subsection (1).
 
 ### 103 Orders of Tribunal
@@ -1158,7 +1160,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 (5) An authority is not entitled to direct a person whom it has nominated under subsection (2) as to the discharge of the person's duties as executive officer.
 
 ### 105 Recovery of fines and costs
-(1) All costs and expenses of the Health and Disability Commissioner or Director of Proceedings ordered to be paid, under section 101(1)(f)(i) or (iii), by a health practitioner are recoverable in any court of competent jurisdiction from the health practitioner by the Health and Disability Commissioner as a debt due to the Health and Disability Commissioner.
+(1) All costs and expenses of the Health and Disability Commissioner or Director of Proceedings ordered to be paid, under section 101(1)﻿(f)﻿(i) or (iii), by a health practitioner are recoverable in any court of competent jurisdiction from the health practitioner by the Health and Disability Commissioner as a debt due to the Health and Disability Commissioner.
 (2) All other fines, costs, and expenses ordered to be paid, under section 101(1), are recoverable in any court of competent jurisdiction by the responsible authority as a debt due to the authority.
 
 ## Part 5 — Appeals
@@ -1249,7 +1251,7 @@ Except as provided in section 113, the decision of a court on an appeal under th
   (b) either—
     (i) establish a body corporate, to be known by a name stated in the order, as the authority appointed in respect of the profession designated under paragraph (a); or
     (ii) provide that the profession designated under paragraph (a) is to be added to the profession or professions in respect of which an existing authority is appointed.
-(2) If an Order in Council contains a provision of the kind authorised by subsection (1)(b)(ii), the order may also—
+(2) If an Order in Council contains a provision of the kind authorised by subsection (1)﻿(b)﻿(ii), the order may also—
   (a) change the name of the authority concerned to reflect the change made by the order; and
   (b) amend any enactment (for example, this Act) to reflect the name change effected by the order.
 (3) The Minister may recommend that an Order in Council be made under subsection (1) only if satisfied of the matters stated in section 116.
@@ -1382,7 +1384,7 @@ The functions of each authority appointed in respect of a health profession are 
   (b) by either—
     (i) the Minister with up to 2 assistants; or
     (ii) up to 3 representatives of the Minister; and
-  (c) by the chairperson of the authority and the members nominated under subsection (3)(c).
+  (c) by the chairperson of the authority and the members nominated under subsection (3)﻿(c).
 (5) The aim of the conference is to—
   (a) clarify the nature of the difference in respect of which the conference has been convened; and
   (b) resolve that difference.
@@ -1483,7 +1485,7 @@ Each authority may keep the register in separate parts and may, without limitati
   (d) any change to the scope of practice in respect of which the health practitioner is registered:
   (e) whether the health practitioner holds an annual practising certificate or an interim practising certificate:
   (f) any other matters (for example, any address of the health practitioner) the authority thinks appropriate.
-(2) Information entered in the register under subsection (1)(f) does not form part of the register for the purposes of section 139 or section 149.
+(2) Information entered in the register under subsection (1)﻿(f) does not form part of the register for the purposes of section 139 or section 149.
 (3) If the registration of a health practitioner is suspended, the fact that it is suspended and any current conditions relating to its suspension must be entered on the relevant register.
 (4) The Registrar must make all amendments to the register necessary to reflect—
   (a) any changes in the information referred to in subsection (3):
@@ -1521,8 +1523,8 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 (5) If the Registrar does not receive a reply within 10 working days after the date of the notice, the authority may direct the Registrar to cancel the entry relating to the health practitioner.
 
 ### 145 Restoration of entries
-(1) This section applies to a person if the entry in a register relating to him or her has been cancelled under section 143(3), or section 144(3) or (5).
-(2) On the written application of a person to whom this section applies, the Registrar of the responsible authority must restore the entry in the register relating to the person unless the person could not be registered in accordance with section 16 or is subject to pending disciplinary proceedings under Part 4 or to an order under section 101(1)(a).
+(1) This section applies to a person if the entry in a register relating to him or her has been cancelled under section 143(3) or section 144(3) or (5).
+(2) On the written application of a person to whom this section applies, the Registrar of the responsible authority must restore the entry in the register relating to the person unless the person could not be registered in accordance with section 16 or is subject to pending disciplinary proceedings under Part 4 or to an order under section 101(1)﻿(a).
 
 ### 146 Cancellation of registration on authority's direction
 (1) The responsible authority may direct the Registrar of the authority to cancel the entry in the register relating to a health practitioner, and give him or her notice of the cancellation, if it is satisfied that he or she—
@@ -1544,7 +1546,7 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
   (a) written notice containing sufficient detail to inform him or her clearly of the substance of the grounds on which the authority has decided to carry out the review; and
   (b) any information in the authority's possession relating to the cancellation, suspension, or removal concerned; and
   (c) a reasonable opportunity to make written submissions and be heard on the matter, either personally or by his or her representative.
-(3) Subsection (2)(b) is subject to section 154.
+(3) Subsection (2)﻿(b) is subject to section 154.
 (4) Except as provided in subsection (2), the form of the review is at the authority's discretion.
 (5) After the review, the authority, if it thinks it appropriate to do so,—
   (a) may direct the Registrar to note in the register the cancellation, suspension, or removal concerned; and
@@ -1621,7 +1623,7 @@ Nothing in this Act requires an authority to make available to an individual inf
   (a) by delivering it personally or by an agent (such as a courier) to the person; or
   (b) by sending it by pre-paid post addressed to the person at the person's usual or last known place of residence or business; or
   (c) in any other manner a District Court Judge directs.
-(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)(b) must be treated as having been given to the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)﻿(b) must be treated as having been given to the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
 (3) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given to him or her.
 (4) If a person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
 
@@ -1894,10 +1896,10 @@ Every person who, immediately before the commencement of this section, was regis
 
 ### 202 Medical practitioners holding probationary registration
 (1) In this section, probationer means a person who, immediately before the commencement of this section, held probationary registration under the Medical Practitioners Act 1995.
-(2) On the commencement of this section, the scope of practice of the probationer is deemed to be subject to conditions of the kind stated in sections 22(3)(a) and 23 of this Act, and continues to be subject to those conditions until they are cancelled by the Medical Council.
-(3) Every person who, immediately before the commencement of this section, is, in relation to the probationer, an approved person for the purposes of section 15 of the Medical Practitioners Act 1995 is deemed to be a person nominated by the Medical Council for the purposes of section 22(3)(d) or, as the case requires, section 22(3)(e) of this Act.
-(4) Every person who, immediately before the commencement of this section, is, in relation to the probationer, an approved person, or a person of a kind approved, for the purposes of section 16 of the Medical Practitioners Act 1995 is deemed to be a health practitioner nominated by the Medical Council for the purposes of section 22(3)(a) of this Act.
-(5) Section 16 of the Medical Practitioners Act 1995 continues, so far as applicable, to apply with all necessary modifications to every person appointed under that section as a supervisor of the probationer as if for the words in subsection (4)(b) the probationer should be granted general registration there were substituted the words the condition requiring the practitioner to practise subject to supervision should continue to apply.
+(2) On the commencement of this section, the scope of practice of the probationer is deemed to be subject to conditions of the kind stated in sections 22(3)﻿(a) and 23 of this Act, and continues to be subject to those conditions until they are cancelled by the Medical Council.
+(3) Every person who, immediately before the commencement of this section, is, in relation to the probationer, an approved person for the purposes of section 15 of the Medical Practitioners Act 1995 is deemed to be a person nominated by the Medical Council for the purposes of section 22(3)﻿(d) or, as the case requires, section 22(3)﻿(e) of this Act.
+(4) Every person who, immediately before the commencement of this section, is, in relation to the probationer, an approved person, or a person of a kind approved, for the purposes of section 16 of the Medical Practitioners Act 1995 is deemed to be a health practitioner nominated by the Medical Council for the purposes of section 22(3)﻿(a) of this Act.
+(5) Section 16 of the Medical Practitioners Act 1995 continues, so far as applicable, to apply with all necessary modifications to every person appointed under that section as a supervisor of the probationer as if for the words in subsection (4)﻿(b) the probationer should be granted general registration there were substituted the words the condition requiring the practitioner to practise subject to supervision should continue to apply.
 (6) The provisions of section 18(1) and (3) of the Medical Practitioners Act 1995 continue to apply with all necessary modifications to the registration of the probationer so long as the conditions referred to in subsection (2) continue to apply to the probationer, and the Medical Council may, in accordance with those provisions as so modified, cancel the registration of the probationer.
 
 ### 203 Medical practitioners holding temporary registration
@@ -2039,7 +2041,7 @@ The Registrar of every continuing authority and the Registrars of the new Dental
 **Continuation of status of educational institutions**
 
 ### 224 Approved educational institutions deemed to be institutions accredited by authorities
-(1) Every educational institution that, immediately before the commencement of this section, is approved or accredited or endorsed for the purposes of a former registration Act is deemed to be an educational institution accredited by the relevant authority for the purposes of section 12(2)(a).
+(1) Every educational institution that, immediately before the commencement of this section, is approved or accredited or endorsed for the purposes of a former registration Act is deemed to be an educational institution accredited by the relevant authority for the purposes of section 12(2)﻿(a).
 (2) To avoid doubt, an authority may at any time, by notice under section 12, revoke the status conferred on an institution by subsection (1).
 
 ### 225 Continuation of competence reviews, competence programmes, and recertification programmes under Medical Practitioners Act 1995
@@ -2132,9 +2134,9 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
   (a) by delivering it personally to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence or business.
 (2) The summons must,—
-  (a) if it is served under subclause (1)(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) if it is served under subclause (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it must be regarded for the purposes of subclause (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) if it is served under subclause (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
+  (b) if it is served under subclause (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it must be regarded for the purposes of subclause (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 10 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
@@ -2155,8 +2157,8 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
   (c) fails to produce any such paper, document, record, or thing.
 (2) Every person commits an offence who—
-  (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 7(1)(a); or
-  (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 7(1)(b) or (c); or
+  (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 7(1)﻿(a); or
+  (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 7(1)﻿(b) or (c); or
   (c) without sufficient cause, acts in contravention of, or fails to comply with, any order made by the Tribunal under clause 7(3) or any term or condition of the order.
 (3) Every person who commits an offence against subclause (1) or subclause (2) is liable on conviction to a fine not exceeding $1,500.
 (4) No person summoned to attend before the Tribunal may be convicted of an offence against subclause (1) unless there was tendered or paid to that person travelling expenses in accordance with clause 10.
