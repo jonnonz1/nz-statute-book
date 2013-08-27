@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-27_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -442,7 +442,8 @@ Copyright in a typographical arrangement of a published edition expires at the e
   (e) the New Zealand Parliamentary Debates:
   (f) reports of select committees laid before the House of Representatives:
   (g) judgments of any court or tribunal:
-  (h) reports of Royal commissions, commissions of inquiry, ministerial inquiries, or statutory inquiries.
+  (h) reports of Royal commissions, commissions of inquiry, ministerial inquiries, or statutory inquiries; or
+  (i) reports of any inquiry established under section 6 of the Inquiries Act 2013.
 (1A) No Crown copyright exists in any work, whenever that work was made,—
   (a) in which the Crown copyright has not been assigned to another person; and
   (b) that is incorporated by reference in a work referred to in subsection (1).
