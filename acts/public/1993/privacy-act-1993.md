@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-27_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -27,7 +27,8 @@ _Consolidation as at 2013-08-05_
       (x) a Royal Commission; or
       (xi) a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908; or
       (xii) a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
-      (xiii) in relation to its news activities, any news medium
+      (xiii) in relation to its news activities, any news medium; or
+      (xiv) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **collect** does not include receipt of unsolicited information
   - **Commissioner** means the Privacy Commissioner referred to in section 12 of this Act and appointed in accordance with section 28(1)(b) of the Crown Entities Act 2004
   - **correct** , in relation to personal information, means to alter that information by way of correction, deletion, or addition; and has a corresponding meaning
@@ -579,9 +580,10 @@ Where a code of practice issued under section 46 is in force,—
 ### 55 Certain personal information excluded
 Nothing in principle 6 or principle 7 applies in respect of—
   (a) personal information in the course of transmission by post, telegram, cable, telex, facsimile transmission, electronic mail, or other similar means of communication; or
-  (b) evidence given or submissions made to—at any time before the report of the Royal Commission or commission of inquiry has been published or, in the case of evidence or submissions given or made in the course of a sitting open to the public, at any time before the Royal Commission or commission of inquiry has reported to the Governor-General; or
+  (b) evidence given or submissions made to—at any time before the report of the Royal Commission, commission of inquiry, or inquiry, as the case may be, has been published or, in the case of evidence given or submissions made in the course of a public hearing, at any time before the report has been presented to the Governor-General or appointing Minister, as the case may be; or
     (i) a Royal Commission; or
-    (ii) a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908,—
+    (ii) a commission of inquiry appointed by Order in Council under the Commissions of Inquiry Act 1908; or
+    (iii) an inquiry to which section 6 of the Inquiries Act 2013 applies,—
   (c) evidence given or submissions made to a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
   (d) information contained in any correspondence or communication that has taken place between the office of the Ombudsmen and any agency and that relates to any investigation conducted by an Ombudsman under the Ombudsmen Act 1975 or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, other than information that came into existence before the commencement of that investigation; or
   (e) information contained in any correspondence or communication that has taken place between the office of the Commissioner and any agency and that relates to any investigation conducted by the Commissioner under this Act, other than information that came into existence before the commencement of that investigation.
