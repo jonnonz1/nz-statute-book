@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-27_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -141,7 +141,8 @@ In this Act, unless the context otherwise requires,—
     (k) the authority known as Maritime New Zealand continued by section 429 of the Maritime Transport Act 1994:
     (l) the Independent Police Conduct Authority established under section 4 of the Independent Police Conduct Authority Act 1988:
     (m) the Transport Accident Investigation Commission established by section 3 of the Transport Accident Investigation Commission Act 1990:
-    (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act
+    (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act:
+    (o) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **pathologist** —
     (a) means a doctor who is competent to perform post-mortems because his or her scope of practice (as defined in section 5(1) of the Health Practitioners Competence Assurance Act 2003) includes the branch of medicine of pathology; and
     (b) in relation to a post-mortem directed under section 31, means the pathologist directed to perform the post-mortem; and includes another pathologist who, with a coroner's authorisation under section 38(1)(b), is attending, participating in, and helping with, the post-mortem
