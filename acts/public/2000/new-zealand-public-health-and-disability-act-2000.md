@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2013-08-06_
+_Consolidation as at 2013-08-27_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -2296,7 +2296,8 @@ Clause 4 does not prohibit—
 ### 6 Minister may authorise disclosure of information
 (1) If the Minister is satisfied that information relates to conduct (whenever occurring) that constitutes or may constitute a serious offence, the Minister may, by notice in writing signed by the Minister, give a ministerial authority authorising the disclosure of the information, in the manner, and subject to any conditions, specified in the notice, for 1 or more of the following purposes:
   (a) for the purposes of the investigation and prosecution of offences:
-  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908.
+  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908:
+  (c) for the purposes of an inquiry to which section 6 of the Inquiries Act 2013 applies.
 (2) However, a ministerial authority may be given for information of a non-factual nature (for example, expressions of opinion) only if that information consists only of matter contained in a report or advice prepared by the mortality review committee.
 (3) The Minister may at any time—
   (a) revoke a ministerial authority; or
