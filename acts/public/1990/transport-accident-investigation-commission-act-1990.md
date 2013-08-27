@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-08-27_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -184,7 +184,8 @@ For the purposes of this Part, unless the context otherwise requires,—
     (b) proceedings before any coroner; and
     (c) an arbitration under the Arbitration Act 1996; and
     (d) proceedings before a commission of inquiry under the Commissions of Inquiry Act 1908 or a body, other than the Commission, having the powers or any of the powers of such a commission of inquiry; and
-    (e) an inquiry or investigation by any person, other than the Commission, having authority to conduct the inquiry or investigation under any Act.
+    (e) an inquiry or investigation by any person, other than the Commission, having authority to conduct the inquiry or investigation under any Act; and
+    (f) an inquiry to which section 6 of the Inquiries Act 2013 applies.
 
 ### 14B Circumstances of disclosure, and admissibility, of certain investigation records
 (1) A record specified in subsection (2)—
