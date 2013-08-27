@@ -1,5 +1,5 @@
 # Commissions of Inquiry Act 1908
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-27_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to commissions of inquiry appointed by the Governor-General in Council or by the Governor-General
 
@@ -18,13 +18,12 @@ In this Act, unless the context otherwise requires, document means a document in
   (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
 
 ### 2 Appointment of Commissions of Inquiry
-The Governor-General may, by Order in Council published in the Gazette, appoint any person or persons to be a Commission to inquire into and report upon any question arising out of or concerning—
-  (a) the administration of the Government; or
-  (b) the working of any existing law; or
-  (c) the necessity or expediency of any legislation; or
-  (d) the conduct of any officer in the service of the Crown; or
-  (e) any disaster or accident (whether due to natural causes or otherwise) in which members of the public were killed or injured or were or might have been exposed to risk of death or injury:
-  (f) any other matter of public importance.
+[Repealed]
+
+### 2A Application of this Act and relationship to Inquiries Act 2013
+This Act applies to—
+  (a) any entity that is or may be established under an enactment enacted before the commencement of the Inquiries Act 2013 (including those listed in Schedule 1 of that Act), and that derives powers from this Act; and
+  (b) any commission of inquiry or Royal commission appointed under this Act that has not completed its functions and obligations before the commencement of the Inquiries Act 2013.
 
 ### 3 Members of Commissions protected
 So long as any member of any such Commission acts bona fide in the discharge of his duties, no action shall lie against him for anything he may report or say in the course of the inquiry.
@@ -152,6 +151,24 @@ Where an order or warrant has been made or issued under section 56A(1) of the Ju
 Rules prescribing a scale of costs payable in respect of any inquiry under this Act may be made in the manner provided in section 51C of the Judicature Act 1908.
 
 ### 15 Extent of Act
-This Act shall extend and apply to all inquiries held by Commissioners appointed by the Governor-General or the Governor-General in Council under any Act or such Letters Patent as aforesaid.
+[Repealed]
 
 ## Schedule Schedule — Enactments consolidated
+
+### 1 Title
+This Act is the Inquiries Act 2013.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 4 — Sanctions and miscellaneous matters
+
+### Subpart 2 — Miscellaneous matters
+
+**Repeal, transitional provisions, and consequential amendments**
+
+### 38 Transitional provision
+(1) This Act does not apply to a Royal commission that has not completed its functions and obligations before the commencement of this Act.
+(2) The Commissions of Inquiry Act 1908 continues to apply to—
+  (a) any commission of inquiry or Royal commission appointed under that Act that has not completed its functions and obligations before the commencement of this Act; and
+  (b) any entity that is or may be established under an enactment enacted before the commencement of this Act, including those listed in Schedule 1, and that derives powers from the Commissions of Inquiry Act 1908.
