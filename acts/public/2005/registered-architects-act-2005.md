@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-08-30_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -167,7 +167,10 @@ The Board may, at any time, make any amendments to the register that are necessa
 
 ### 24 Complaints about registered architects
 (1) Any person may complain to the Board about the conduct of a registered architect in accordance with the rules.
-(2) The Board must, as soon as practicable after receiving a complaint, investigate the complaint and determine whether or not to proceed with it.
+(2) As soon as practicable after receiving a complaint, the Board must—
+  (a) decide whether to proceed with the complaint in accordance with the rules; and
+  (b) if it decides to proceed with the complaint, appoint 1 or more persons in accordance with the rules to investigate, and report on, the complaint; and
+  (c) determine the complaint in accordance with the rules after considering the report of that investigator or of those investigators (as the case may be).
 (3) If the Board determines not to proceed with a complaint because the matter relates to a building practitioner who is licensed under the Building Act 2004, the Board must refer the complaint to the Registrar of Licensed Building Practitioners appointed under that Act.
 (4) A complaint or inquiry, and any decision on the complaint or inquiry, may relate to a person who is no longer a registered architect but who was a registered architect at the time of the relevant conduct.
 
@@ -474,9 +477,12 @@ The financial year of the Board ends on 30 June or on any other date determined 
   (g) any additional matters that may be recorded on the register and the process for amending the register:
   (h) the charges payable in relation to registration, renewal of registration, and the issue of a certificate of registration, which charges must be reasonable and for the purposes only of recovering the costs of the performance of the functions of the Board under this Act:
   (i) the information that must be provided by complainants, and the way in which this information must be evaluated and decisions on whether or not to proceed with the complaint must be made and implemented:
-  (j) an investigating committee to investigate complaints about, and inquire into the conduct of, registered architects and former registered architects, and the powers and procedures of that committee under this Act:
-  (k) a disciplinary committee to hear complaints and matters referred to it by the investigating committee, and the powers and procedures of that committee under this Act:
-  (l) the way in which a disciplinary matter must be considered and decided on, and the way in which decisions on that matter must be implemented:
+  (j) how complaints about the conduct of registered architects or former registered architects must be dealt with, including—
+    (i) the procedure for appointing a person or persons to investigate, and report on, a complaint:
+    (ii) the requirement that at least 1 person appointed for the purpose specified in subparagraph (i) must not be a member of the Board:
+    (iii) the procedure of the Board in determining a complaint:
+  (k) how a matter about the conduct of registered architects or former registered architects that is raised by the Board's own inquiries must be dealt with:
+  (l) how decisions on a complaint or inquiry must be implemented:
   (m) the making, amendment, and revocation of rules, including the requirements for consultation with persons affected by the rules in the preparation of those proposed rules, amendments, or revocations.
 (3) In addition, the Board may also make any other rules that—
   (a) are necessary or desirable to govern the practice and procedure of the Board’s functions under this Act; or
