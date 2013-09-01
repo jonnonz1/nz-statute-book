@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -206,7 +206,7 @@ _Consolidation as at 2013-08-05_
   - **interest paid to a taxpayer** is defined in section 120C for the purposes of Part 7
   - **interest period** is defined in section 120C for the purposes of Part 7
   - **IR5 taxpayer** is defined in section 37(6) for the purposes of that section
-  - **Judicial officer** is defined in section 16(7) for the purposes of that section and section 16C
+  - **issuing officer** is defined in sections 16(7) and 16C(8) for the purposes of those sections
   - **late filing penalty** means a civil penalty imposed under section 139A or 139AAA for not providing on time a tax return described in section 139A(1) or 139AAA(1), as applicable
   - **late payment penalty** means—
     (a) a civil penalty imposed under section 139B for not paying a tax calculated or assessed as payable under a tax law on time; and
@@ -822,23 +822,19 @@ A person who meets the requirements of section 15R may apply under section 15Q t
 
 ### 16 Commissioner may access premises to obtain information
 (1) Notwithstanding anything in any other Act, the Commissioner or any officer of the department authorised by the Commissioner in that behalf shall at all times have full and free access to all lands, buildings, and places, and to all documents, whether in the custody or under the control of a public officer or a body corporate or any other person whatever, for the purpose of inspecting any documents and any property, process, or matter which the Commissioner or officer considers necessary or relevant for the purpose of collecting any tax or duty under any of the Inland Revenue Acts or for the purpose of carrying out any other function lawfully conferred on the Commissioner, or considers likely to provide any information otherwise required for the purposes of any of those Acts or any of those functions, and may, without fee or reward, make extracts from or copies of any such documents.
-(2) The occupier of land, or a building or place, that is entered or proposed to be entered by the Commissioner, or by an authorised officer, must—
+(2) Despite sections 103(3)﻿(b)﻿(ii) and 103(7) of the Search and Surveillance Act 2012, the occupier of land, or a building or place, that is entered or proposed to be entered by the Commissioner, or by an authorised officer, must—
   (a) provide the Commissioner or the officer with all reasonable facilities and assistance for the effective exercise of powers under this section; and
   (b) answer all proper questions relating to the effective exercise of powers under this section, orally or, if required by the Commissioner or the officer, in writing, or by statutory declaration.
 (2A) A person whom the Commissioner or an authorised officer considers necessary for the effective exercise of powers under this section may accompany the Commissioner or the authorised officer to a place.
 (3) Notwithstanding subsection (1), the Commissioner, an authorised officer, or a person accompanying the Commissioner or the authorised officer, shall not enter any private dwelling except with the consent of an occupier or pursuant to a warrant issued under subsection (4).
-(4) A judicial officer who, on written application made on oath, is satisfied that the exercise by the Commissioner or an authorised officer of his or her functions under this section requires physical access to a private dwelling may issue to the Commissioner or an authorised officer a warrant to enter that private dwelling.
-(5) Every warrant issued under subsection (4)—
-  (a) shall be in a form prescribed by regulations made under this Act; and
-  (b) shall specify an authorised officer of the department, whether by name or in general, who may act under the warrant; and
-  (ba) shall specify whether other persons may accompany the officer acting under the warrant; and
-  (c) shall be valid for a period of 1 month from the date of its issue or such lesser period as the judicial officer considers appropriate; and
-  (d) shall state its period of validity, or the date on which it expires.
+(4) An issuing officer who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that the exercise by the Commissioner or an authorised officer of his or her functions under this section requires physical access to a private dwelling may issue to the Commissioner or an authorised officer a warrant to enter that private dwelling.
+(5)
 (6) Every person exercising the power of entry conferred by a warrant issued under subsection (4) shall produce the warrant of authority and evidence of identity—
   (a) on first entering the private dwelling; and
   (b) whenever subsequently reasonably required to do so.
+(6A) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4)) apply.
 (7) In this section—
-  - **judicial officer** means any District Court Judge, Justice, Community Magistrate, or Registrar of a District Court; but does not include any person who is an officer or employee of the department
+  - **issuing officer** has the same meaning as in section 3 of the Search and Surveillance Act 2012
   - **private dwelling** means any building or part of a building occupied as residential accommodation (including any garage, shed, and other building used in connection therewith); and includes any business premises that are or are within a private dwelling.
 
 ### 16B Power to remove and copy documents
@@ -853,8 +849,8 @@ A person who meets the requirements of section 15R may apply under section 15Q t
 (1) The Commissioner, an authorised officer, or a person accompanying the Commissioner or the authorised officer may remove documents from a place accessed under section 16 and retain them for a full and complete inspection if the Commissioner or the authorised officer has—
   (a) the consent of an occupier:
   (b) a warrant issued under subsection (2).
-(2) A judicial officer may issue, to the Commissioner or an authorised officer, a warrant for the purpose of removing documents from a place and retaining them for a full and complete inspection if, on written application made on oath, the judicial officer is satisfied that the exercise by the Commissioner or an authorised officer of his or her functions under section 16 may require removing documents from a place and retaining them for a full and complete inspection.
-(3) Every warrant issued under subsection (2) must meet the requirements in section 16(5)﻿(a) to (d).
+(2) An issuing officer may issue, to the Commissioner or an authorised officer, a warrant for the purpose of removing documents from a place and retaining them for a full and complete inspection if, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, the issuing officer is satisfied that the exercise by the Commissioner or an authorised officer of his or her functions under section 16 may require removing documents from a place and retaining them for a full and complete inspection.
+(3)
 (4) Every person exercising the power to remove and retain conferred by a warrant issued under subsection (2) must produce the warrant of authority and evidence of identity—
   (a) on first entering the place; and
   (b) whenever subsequently reasonably required to do so.
@@ -863,7 +859,8 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (b) at reasonable times subsequently.
 (6) Documents retained under this section may be retained for so long as is necessary for a full and complete inspection.
 (7) The Commissioner or an officer of the department authorised by the Commissioner may make copies of documents retained under this section, and a copy of a document certified by or on behalf of the Commissioner is admissible in evidence in court as if it were the original.
-(8) In this section, judicial officer means a judicial officer as defined in section 16(7).
+(8) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4)) apply.
+(9) In this section, issuing officer has the same meaning as in section 3 of the Search and Surveillance Act 2012.
 
 ### 17 Information to be furnished on request of Commissioner
 (1) Every person (including any officer employed in or in connection with any department of the government or by any public authority, and any other public officer) shall, when required by the Commissioner, furnish in writing any information and produce for inspection any documents which the Commissioner considers necessary or relevant for any purpose relating to the administration or enforcement of any of the Inland Revenue Acts or for any purpose relating to the administration or enforcement of any matter arising from or connected with any other function lawfully conferred on the Commissioner.
@@ -940,7 +937,7 @@ A person who meets the requirements of section 15R may apply under section 15Q t
 (6) A person required to attend before the Commissioner or an authorised officer may receive out of money appropriated by Parliament for the purpose such sum on account of travelling expenses and loss of time as the Commissioner thinks reasonable and orders accordingly.
 
 ### 20 Privilege for confidential communications between legal practitioners and their clients
-(1) Subject to subsections (2) and (3), any information or document shall, for the purposes of sections 16 to 19, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F, be privileged from disclosure, if—
+(1) Despite anything in the Search and Surveillance Act 2012, but subject to subsections (2) and (3), any information or document shall, for the purposes of sections 16 to 19, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F, be privileged from disclosure, if—
   (a) it is a confidential communication, whether oral or written, passing between—whether made directly or indirectly through an agent of either; and
     (i) a legal practitioner in the practitioner's professional capacity and another legal practitioner in such capacity; or
     (ii) a legal practitioner in the practitioner's professional capacity and the practitioner's client,—
@@ -954,7 +951,7 @@ A person who meets the requirements of section 15R may apply under section 15Q t
 (7) In this section, legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 ### 20B No requirement to disclose tax advice document
-(1) A person (called in this section and sections 20C to 20G an information holder) who is required under 1 or more of sections 16 to 19 or under a discovery obligation to disclose information in relation to the information holder or another person is not required to disclose a document that is a tax advice document for the person to whom the information relates.
+(1) Despite anything in the Search and Surveillance Act 2012, a person (called in this section and sections 20C to 20G an information holder) who is required under 1 or more of sections 16 to 19 or under a discovery obligation to disclose information in relation to the information holder or another person is not required to disclose a document that is a tax advice document for the person to whom the information relates.
 (2) A document is eligible to be a tax advice document for a person if the document—
   (a) is confidential; and
   (b) is created by—
