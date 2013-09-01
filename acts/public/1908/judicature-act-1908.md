@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-09-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
