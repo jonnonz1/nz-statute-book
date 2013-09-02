@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-09-02_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -51,7 +51,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) includes—
       (i) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001 and veterans' pensions payable under Part 6 of the War Pensions Act 1954:
       (ia)
-      (ii) a living alone payment payable under the New Zealand Superannuation and Retirement Income Act 2001 and a living alone payment payable under Part 6 of the War Pensions Act 1954:
+      (ii)
       (iia) an incentive payment, a youth payment, and a young parent payment:
       (iii) an accommodation supplement payable under section 61EA:
       (iv) a child disability allowance under section 39A:
