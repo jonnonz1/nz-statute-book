@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-09-02_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -21,8 +21,32 @@ The purpose of this Act is—
 (1) In Part 1 and Schedule 1, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 1
-  - **New Zealand superannuation** means the entitlements under Part 1, including both the standard and non-standard entitlements.
+  - **living alone** , in relation to a single person, has the meaning given to it by section 4A
+  - **New Zealand superannuation** means the entitlements under Part 1, including both the standard and non-standard entitlements
+  - **single living alone rate** means the rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 that is payable to a single person who is living alone
+  - **single sharing accommodation rate** means the rate of New Zealand superannuation specified in clause 1(b) of Schedule 1 that is payable to a single person who is not living alone.
 (2) In this Act, unless the context otherwise requires, any expression used in Part 1 or Schedule 1 but not defined in this Act has the same meaning as it has in the Social Security Act 1964.
+
+### 4A Meaning of living alone
+(1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
+(2) The first condition is that person A occupies a principal place of residence of a kind described in subsection (6).
+(3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
+(4) This subsection applies to person A's dependent child—
+  (a) who—
+    (i) is 18 years old (despite the definition of child in section 3(1) of the Social Security Act 1964); and
+    (ii) is not financially independent; and
+    (iii) is attending a school or a tertiary educational establishment; but
+  (b) only until the close of 31 December in the year in which the child turns 18 years old.
+(5) This subsection applies to a temporary visitor to person A's residence who stays there less than 13 weeks in any period of 26 weeks.
+(6) The place of residence referred to in subsection (2) is—
+  (a) a house or flat; or
+  (b) a boat or craft moored within any of the following sea or waters, whether or not it is from time to time travelling within that sea or any of those waters:
+    (i) the territorial sea of New Zealand or any internal waters of New Zealand; or
+    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters; or
+  (c) a hotel room, motel unit, a room in a boarding house, or a unit of accommodation in a caravan park.
+(7) In this section,—
+  - **boarding house** has the same meaning as in section 66B of the Residential Tenancies Act 1986
+  - **territorial sea of New Zealand** and have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 
 ### 5 Interpretation of Parts 2 and 3 and Schedule 3
 (1) In Parts 2 and 3 and Schedule 3, unless the context otherwise requires,—
@@ -101,29 +125,10 @@ No person is entitled to New Zealand superannuation unless the person—
 **Living alone payments**
 
 ### 13 Living alone payments
-(1) Any single person who receives New Zealand superannuation and who is living alone in his or her principal place of residence is entitled to receive a living alone payment.
-(2) The living alone payment is included in the appropriate rate stated in clause 1(a) of Schedule 1.
-(3) A person is considered to be living alone only if he or she—
-  (a) occupies a principal place of residence that is referred to in subsection (4); and
-  (b) does not share that residence with any person of or over the age of 18 years other than—
-    (i) a dependent child of or over that age; or
-    (ii) a temporary visitor who stays less than 13 weeks in any period of 26 weeks.
-(4) The places referred to in this subsection are—
-  (a) a house or flat; or
-  (b) a boat or craft moored within—whether or not it is from time to time travelling within that sea or any of those waters; or
-    (i) the territorial sea of New Zealand or any internal waters of New Zealand; or
-    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters,—
-  (c) a hotel room, motel unit, a room in a licensed boardinghouse, or a unit of accommodation in a caravan park.
-(5) In this section, territorial sea of New Zealand and internal waters have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
+[Repealed]
 
 ### 14 Commencement of living alone payments
-(1) Every living alone payment commences on the later of—
-  (a) the date on which the applicant becomes entitled to receive it; or
-  (b) the date on which the application is received.
-(2) However, if an application for a living alone payment is made as a result of the death of the spouse or partner of the applicant, the living alone payment commences on—
-  (a) the date on which the applicant becomes entitled to receive it if the application is received within 28 days after the date of entitlement; or
-  (b) the date on which the application is received if it is received 28 days or more after the date of entitlement.
-(3) This section is subject to section 80AA of the Social Security Act 1964.
+[Repealed]
 
 **Annual adjustment of New Zealand superannuation**
 
@@ -145,8 +150,8 @@ No person is entitled to New Zealand superannuation unless the person—
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
   (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by the Department of Statistics before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
-  (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who has been granted a living alone payment is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
-  (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who has not been granted a living alone payment is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
+  (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is living alone is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
+  (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is not living alone is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
 (2) In this section, earner levies means the levies payable under section 219(1) of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 **Non-standard New Zealand superannuation entitlements**
@@ -161,8 +166,8 @@ No person is entitled to New Zealand superannuation unless the person—
   (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under Part 4 of that Act.
 
-### 18 Living alone rate of payment for spouses or partners of persons in long-term residential care in hospital or rest home
-However, every person to whom section 17(2)(a) or (b) applies is entitled to receive New Zealand superannuation at the appropriate rate stated in clause 1(a) of Schedule 1 if the person has been granted a living alone payment under section 13.
+### 18 Single living alone rate for spouses or partners of persons in long-term residential care in hospital or rest home
+However, every person to whom section 17(2)(a) or (b) applies is entitled to receive New Zealand superannuation at the single living alone rate if the person is living alone.
 
 ### 19 Hospital rates of New Zealand superannuation
 (1) For the purposes of this section, hospital means a hospital provided by a District Health Board within the meaning of the New Zealand Public Health and Disability Act 2000; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
@@ -280,7 +285,7 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 
 ### 29 Relationship with other benefit provisions
 (1)
-(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any living alone payment, supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
 (3) Despite the provisions of section 80 of the Social Security Act 1964, on the death of a person who receives New Zealand superannuation overseas under section 26, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
 (4)
 (4A) Except as provided in this section, the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 75A, 76, 77, and 82(7)) applies to New Zealand superannuation being paid under section 26.
@@ -330,8 +335,8 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 
 ### 34 Effect on other benefits
 A person being paid a benefit under section 31 is not entitled to receive—
-  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act; or
-  (b) a living alone payment under section 13.
+  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act.
+  (b)
 
 ### 35 Application of this Act and Social Security Act 1964
 (1) Sections 22 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
@@ -711,8 +716,8 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a single person who has been granted a living alone payment under section 13 | $410.32 a week |
-|  | (b)to a single person who has not been granted a living alone payment under section 13 | $377.05 a week |
+| 1 | (a)to a person at the single living alone rate | $410.32 a week |
+|  | (b)to a person at the single sharing accommodation rate | $377.05 a week |
 |  | (c)to a person who is married or in a civil union or in a de facto relationship | $310.34 a week |
 | 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
 |  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $620.68 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
@@ -949,3 +954,47 @@ The board may delegate any of the functions or powers of the board or the entity
 
 ### 2 Ability to delegate
 Despite section 73 of the Crown Entities Act 2004, the Commissioner must not delegate the power to appoint an attorney under section 129 of the Crown Entities Act 2004 without the prior written consent of the Minister.
+
+### 1 Title
+This Act is the Social Assistance (Living Alone Payments) Amendment Act 2013.
+
+### 2 Commencement
+This Act comes into force on the earlier of—
+  (a) a date appointed by the Governor-General by Order in Council:
+  (b) 2 September 2013.
+
+### 3 Principal Act amended
+This Part amends the New Zealand Superannuation and Retirement Income Act 2001.
+
+### 12 Transitional provision for living alone payment
+(1) This section applies to a person who is receiving a living alone payment under section 13 of the principal Act immediately before the commencement of this Act.
+(2) On or after the commencement of this Act, the person is entitled to receive the single living alone rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 13 of the principal Act (as it read immediately before the commencement of this Act).
+
+### 13 Transitional provision for living alone payment on basis of Social Security Appeal Authority's decision
+(1) This section applies to a person who is receiving a living alone payment under section 13 of the principal Act immediately before the commencement of this Act on the basis of the Social Security Appeal Authority's decision reported in [2009] NZSSAA 38 (19 June 2009).
+(2) On or after the commencement of this Act, the person is entitled to receive the single living alone rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 of the principal Act (as amended by this Act) if, and so long as, there is no change in the person's circumstances affecting the person's entitlement to the living alone payment under section 13 of the principal Act (as it read immediately before the commencement of this Act).
+(3) This section overrides section 12.
+
+### 14 References to living alone payment
+(1) A reference to a living alone payment under the principal Act in any agreement, deed, instrument, application, notice, or other document must, unless the context otherwise requires, be read as a reference to either of the following, as the context requires:
+  (a) the single living alone rate of New Zealand superannuation; or
+  (b) the difference between the single living alone rate and single sharing accommodation rate of New Zealand superannuation.
+(2) In this section,—
+  - **living alone** has the meaning given to it by section 4A of the principal Act (as amended by this Act)
+  - **single living alone rate** means the rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 of the principal Act (as amended by this Act) that is payable to a single person who is living alone
+  - **single sharing accommodation rate** means the rate of New Zealand superannuation specified in clause 1(b) of Schedule 1 of the principal Act (as amended by this Act) that is payable to a single person who is not living alone.
+
+### 15 Savings provision for person whose spouse or partner dies before commencement of this Act
+(1) This section applies if—
+  (a) a person's spouse or partner dies before the commencement of this Act; and
+  (b) the person does not apply for a living alone payment under the principal Act before that commencement; and
+  (c) the department receives information about the death of the person's spouse or partner (whether the information is received before or after the commencement of this Act).
+(2) If the person applies for a living alone payment, the person's entitlement to receive the payment under the principal Act must be determined under that Act (as it read immediately before the commencement of this Act) and, despite sections 6 and 11(1) of this Act, sections 13 and 14 and clause 1(a) of Schedule 1 of the principal Act (as they read immediately before the commencement of this Act) continue in force and apply to the person for that purpose.
+(3) If the person is granted a living alone payment,—
+  (a) the payment—
+    (i) commences on—
+      (A) the date on which it would have commenced under section 14 of the principal Act (as it read immediately before the commencement of this Act); or
+      (B) any earlier date determined under section 80AA of the Social Security Act 1964 (if applicable); and
+    (ii) continues until the commencement of this Act if, and so long as, there is no change in the person's circumstances affecting the person's entitlement to the living alone payment under section 13 of the principal Act (as it read immediately before the commencement of this Act); and
+  (b) on or after the commencement of this Act, the person is entitled to receive the single living alone rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 13 of the principal Act (as it read immediately before the commencement of this Act).
+(4) If the person does not apply for a living alone payment, then on or after the commencement of this Act, the person is entitled to receive the single living alone rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 4A of the principal Act (as so amended).
