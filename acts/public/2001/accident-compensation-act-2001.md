@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-02_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -331,7 +331,7 @@ Acute treatment, in relation to a claimant, means—
 
 ### 11 Earnings as an employee: what it does not include
 (1) Earnings as an employee, in relation to any person and any tax year, does not include—
-  (a) any income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, or schedular payment; or
+  (a) any income-tested benefit, veteran's pension, New Zealand superannuation, or schedular payment; or
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
   (b) any student allowance established in accordance with regulations made under section 303 of the Education Act 1989; or
   (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
@@ -343,7 +343,7 @@ Acute treatment, in relation to a claimant, means—
     (i) section DF 4 of the Income Tax Act 1994 or section DC 2 of the Income Tax Act 2004 or section DC 2 of the Income Tax Act 2007:
     (ii) section DF 8A or section DF 8B of the Income Tax Act 1994 or section DC 3 of the Income Tax Act 2004 or section DC 3 of the Income Tax Act 2007:
     (iii) sections FB 11 and FB 12 of the Income Tax Act 2007.
-(2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
+(2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 ### 12 Earnings as an employee: Work Account levy payable under section 168
 For the purpose of calculating the Work Account levy payable under section 168, earnings as an employee does not include any payment of—
@@ -1601,7 +1601,8 @@ If the Corporation determines under section 107 that a claimant has vocational i
   (h) the Child Support Act 1991; or
   (i) subparts 1, 2, and 5 of Part 2 or section 193 of the Student Loan Scheme Act 2011; or
   (ia) subpart 1 of Part 3 of the KiwiSaver Act 2006; or
-  (j) section 157 of the Tax Administration Act 1994.
+  (j) section 157 of the Tax Administration Act 1994; or
+  (k) section 41B of the Legal Services Act 2011.
 
 ### 124 Entitlements to be provided to claimant only
 (1) The Corporation must provide entitlements only to the claimant to whom the Corporation is liable to provide the entitlements.
