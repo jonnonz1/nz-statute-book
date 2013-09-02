@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-09-02_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -72,7 +72,7 @@ The purpose of this Act is to promote access to justice by establishing a system
   - **practice standards** means standards approved by the Secretary that relate to the delivery and provision of legal aid services and specified legal services
   - **prescribed manner** means the manner prescribed by the Secretary
   - **prescribed offence** means an offence prescribed in regulations for the purposes of section 9
-  - **prescribed repayment amount** is the amount, based on income and capital, set by regulations for the purposes of sections 19(1) and 20
+  - **prescribed repayment amount** is the amount, based on income and capital, set by regulations for the purposes of sections 20(1) and 21
   - **proceeds of proceedings** , in relation to civil proceedings for which legal aid has been granted, means—
     (a) any money or property to which the aided person is entitled under a judgment or out-of-court settlement relating to the proceedings; and
     (b) any costs awarded or payable to the aided person under a judgment or out-of-court settlement relating to the proceedings
@@ -84,8 +84,23 @@ The purpose of this Act is to promote access to justice by establishing a system
   - **repayment** means the amount of money that an aided person is required to pay to the Commissioner under section 18(2) as a condition of a grant of legal aid
   - **Secretary** means the Secretary for Justice
   - **Special Fund** means the Lawyers and Conveyancers Special Fund continued by section 289(1) of the Lawyers and Conveyancers Act 2006
+  - **specified application** means an application for legal aid made—
+    (a) under section 47 in respect of certain proceedings before the Waitangi Tribunal; or
+    (b) by a patient or proposed patient in respect of proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+    (c) by a care recipient or proposed care recipient in respect of proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    (d) in respect of proceedings under the Protection of Personal and Property Rights Act 1988; or
+    (e) by a victim in respect of—
+      (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
+      (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
+      (iii) any victims' claims proceedings; or
+    (f) to enable—
+      (i) a person to apply for a protection order under Part 2 of the Domestic Violence Act 1995, or an order relating to property under Part 3 of that Act; or
+      (ii) a person who has applied for an order described in subparagraph (i) to appeal, or respond to an appeal, against the determination of the person's application; or
+    (g) in respect of a proceeding under Part 2 or 3A of the Children, Young Persons, and Their Families Act 1989; or
+    (h) in respect of a proceeding that is specified in section 7(1)(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
   - **specified legal services** means legal services specified by the Secretary under section 68(2)(b)
   - **Tribunal** means the Legal Aid Tribunal established under section 62
+  - **user charge** means the amount that aided persons are required to pay by section 18A
   - **victim** —
     (a) means—
       (i) a person against whom an offence is committed by another person; and
@@ -112,9 +127,10 @@ This Act binds the Crown.
 Legal aid may be granted in respect of the following criminal matters:
   (a) criminal proceedings in a District Court, a Youth Court, the High Court, the Court of Appeal, or the Supreme Court:
   (b) appeals to the Judicial Committee of the Privy Council in criminal proceedings, where the Attorney-General certifies that a question of law of exceptional public importance is involved and that the grant of criminal legal aid is desirable in the public interest:
-  (c) proceedings—
-    (i) before the New Zealand Parole Board under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act, respectively):
-    (ii) in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders).
+  (c) proceedings before the New Zealand Parole Board that—
+    (i) are held under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act); or
+    (ii) otherwise concern an offender who is entitled, under section 49(3)(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
+  (d) proceedings in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders).
 
 ### 7 Proceedings for which legal aid may be granted: civil matters
 (1) Legal aid may be granted in respect of the following civil matters:
@@ -200,10 +216,14 @@ Legal aid may be granted in respect of the following criminal matters:
 (1) The Commissioner must, subject to this section and sections 11 to 13, grant legal aid to an applicant in respect of proceedings to which section 7 applies (civil matters) if the applicant is—
   (a) a natural person, whether resident in New Zealand or not; or
   (b) a trustee corporation (as defined in section 2(1) of the Administration Act 1969) that applies for legal aid in connection with proceedings in which it is concerned in a representative, fiduciary, or official capacity.
-(2) The Commissioner must refuse to grant legal aid to an applicant whose income or disposable capital exceeds the relevant thresholds prescribed in regulations, unless the Commissioner is satisfied that there are special circumstances having regard to—
-  (a) the likely cost of the proceedings to the applicant; or
-  (b) the applicant's ability to fund the proceedings if legal aid is not granted.
+(2) The Commissioner must refuse to grant legal aid to an applicant whose income or disposable capital exceeds the relevant maximum level prescribed in regulations, unless the Commissioner is satisfied that there are special circumstances, having regard to—
+  (a) the likely cost of the proceedings to the applicant; and
+  (b) the applicant’s ability to fund the proceedings if legal aid is not granted.
+(2A) However, in the case of an application that comes within any of paragraphs (b) to (d) and (f) to (h) of the definition of specified application in section 4(1), it is sufficient, for the purposes of subsection (2), if the Commissioner has regard to either paragraph (a) or (b) of that subsection.
 (3) The Commissioner must refuse to grant legal aid if the applicant has not shown that the applicant has reasonable grounds for taking or defending the proceedings or being a party to the proceedings.
+(3A) The Commissioner may, unless the interests of justice require otherwise, refuse to grant legal aid to an applicant if—
+  (a) any amount payable by the applicant in respect of a repayment of a previous grant of legal aid is in arrears; and
+  (b) the application made by the applicant does not come within any of paragraphs (b) to (d) and (f) to (h) of the definition of specified application in section 4(1).
 (4) The Commissioner may refuse to grant legal aid to an applicant in any of the following circumstances:
   (a) the Commissioner is unable to obtain full information concerning the applicant's financial affairs because of the default or failure of the applicant:
   (b) in the opinion of the Commissioner, the prescribed repayment amount will exceed the likely cost of the proceedings for which legal aid is sought:
@@ -217,7 +237,7 @@ Legal aid may be granted in respect of the following criminal matters:
 (6) In determining under subsection (5) whether a grant of legal aid is not justified, the Commissioner must have regard to—
   (a) any previous proceedings in the matter to which the application relates; and
   (b) any personal protection issues such as (without limitation) any orders relating to domestic violence, protection of personal property rights, compulsory treatment, or compulsory care; and
-  (c) the interests and welfare of any other person who may be affected by the outcome of the proceedings; and
+  (c)
   (d) whether there are any complex factual, legal, or evidential matters that require the determination of a court; and
   (e) whether it is in the public interest that legal aid be granted.
 
@@ -306,6 +326,19 @@ A person who has any form of indemnification or insurance in respect of the lega
     (i) section 31 does not apply to it; and
     (ii) section 32 applies to it with any necessary modifications and a reference to withdrawal of legal aid under that section must be read as a reference to the grant ceasing.
 (4) This section does not apply to applications under section 47 for legal aid in respect of certain proceedings before the Waitangi Tribunal.
+(5) This section is subject to section 16A.
+
+### 16A Use of automated electronic systems for certain grants of legal aid
+(1) The Commissioner may use an automated electronic system to grant legal aid to a natural person if—
+  (a) the person requires the grant for proceedings in respect of an offence punishable by a maximum term of imprisonment of not less than 6 months; and
+  (b) neither the income nor the disposable capital of that person exceeds the relevant maximum level prescribed in the regulations.
+(2) A grant made in the manner authorised by subsection (1) is, for the purposes of this Act, taken to have been made by the Commissioner.
+(3) Where an error is made in a grant of legal aid made in the manner authorised by subsection (1), the Commissioner may cancel or correct the grant.
+(4) Subsection (2) is subject to subsection (3).
+(5) A grant made in the manner authorised by subsection (1) is not subject to any of the conditions referred to in section 18.
+(6) Every grant made in the manner authorised by subsection (1) must state a maximum grant, which must be the amount prescribed under subsection (7).
+(7) The Commissioner may from time to time, by notice in the Gazette, specify the amount of the maximum grant for any grant made in the manner authorised by subsection (1).
+(8) A notice under subsection (7) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 17 Commissioner must notify applicant when legal aid declined
 If the Commissioner has declined an application for legal aid under this Act, the Commissioner must, in writing, advise the applicant of the decision and of his or her right to seek—
@@ -322,15 +355,23 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (b) apply to an amendment under section 28(4) of the maximum grant under section 23(4) of legal aid in respect of proceedings of that kind.
 (6) The condition in subsection (2) does not apply to a grant of legal aid made on an interim basis if the Commissioner considers that the grant should not be subject to that condition.
 (7) This section does not apply to—
-  (a) applications for legal aid under section 47 in respect of certain proceedings before the Waitangi Tribunal; or
-  (b) applications for legal aid by the patient or proposed patient in proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
-  (c) applications for legal aid by the care recipient or proposed care recipient in proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
-  (d) applications for legal aid by a victim in respect of—
-    (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
-    (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board's leave; or
-  (e) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
-  (f) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section; or
-  (g) applications for legal aid by a person who is charged with or convicted of a prescribed offence and to whom section 9(2) does not apply.
+  (a) applications for legal aid that come within any of paragraphs (a) to (e)(ii) of the definition of specified application in section 4(1); or
+  (b) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
+  (c) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section; or
+  (d) a grant made in the manner authorised by section 16A(1); or
+  (e) applications for legal aid by a person who is charged with or convicted of a prescribed offence and to whom section 9(2) does not apply.
+
+### 18A User charge payable by aided person
+(1) Every grant of legal aid for a civil matter, other than a grant to which subsection (4) applies, is subject to the condition that the aided person pay a user charge of the prescribed amount to the lead provider.
+(2) The condition relating to the user charge is satisfied once the user charge is paid and no further user charges are payable in respect of the grant to which the condition attaches.
+(3) The lead provider is authorised to receive the user charge from, or on behalf of, the aided person and may—
+  (a) decline to provide any services under the grant of legal aid until the user charge under subsection (1) is paid; or
+  (b) if the user charge has not been paid but any services of that kind have been provided, recover the user charge from the aided person.
+(4) This section does not apply to—
+  (a) a grant of legal aid made on a specified application; or
+  (b) an application for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
+  (c) an application for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section.
+(5) A grant of legal aid is also within subsection (4) if it is made on an application for matters referred to in that subsection as well as for other matters.
 
 ### 19 Special provisions about conditions on grants to persons involved in proceedings under Domestic Violence Act 1995
 (1) In this section, person A means a person who is a party to proceedings (which includes appeals) that in any way relate to, or arise out of, an application by or on behalf of, or a grant in favour of, the person for a protection order under Part 2, or an order relating to property under Part 3, of the Domestic Violence Act 1995.
@@ -486,13 +527,15 @@ In relation to a criminal matter, the Commissioner may at any time—
 ### Subpart 4 — How Commissioner may enforce conditions of grant
 
 ### 33 Amount payable by aided person to Commissioner
-At any time, the total amount payable to the Commissioner by an aided person under the conditions of a grant is—
+At any time, the total amount payable to the Commissioner by an aided person in respect of a grant is—
   (a) the amount of interim repayments outstanding (if any); and
-  (b) if the proceedings have concluded, the amount of repayment payable (if any), determined in accordance with section 21.
+  (b) if the proceedings have concluded, the amount of repayment payable (if any), determined in accordance with section 21; and
+  (c) any interest payable under section 40 in accordance with regulations; and
+  (d) the amount of any expense reasonably incurred by the Commissioner for the purpose of enforcing or securing a debt payable to the Commissioner by the aided person, but only if the expense is of a kind specified by the regulations for the purposes of this paragraph.
 
-### 34 Amounts payable under conditions of grant are debts due to Commissioner
-(1) An amount payable to the Commissioner as a condition of a grant of legal aid (whether as an interim repayment or a repayment) is a debt due to the Commissioner, and may be recovered in any court or tribunal of competent jurisdiction.
-(2) Interest that is payable under section 40 is a debt due to the Commissioner, and may be recovered in any court or tribunal of competent jurisdiction.
+### 34 Amounts payable in respect of grant are debts due to Commissioner
+(1) An amount payable to the Commissioner as a condition of a grant of legal aid (whether as an interim repayment or a repayment) and any other amount payable to the Commissioner in respect of the grant may be recovered in any court or tribunal of competent jurisdiction as a debt due to the Commissioner.
+(2)
 (3) The Commissioner may, by agreement with the aided person, make whatever arrangements (including any adjustments to those arrangements) that the Commissioner considers appropriate for the payment by the aided person of any amount payable under a grant of legal aid, or any other debt payable to the Commissioner by the aided person.
 (4) In making any arrangements under subsection (3), the Commissioner must have regard to the following principles:
   (a) any debt that is to be paid from the aided person's income should be paid by the aided person within 5 years from when the debt arises:
@@ -552,12 +595,115 @@ At any time, the total amount payable to the Commissioner by an aided person und
 (2) A transfer or act done with the intention, or having the effect, of defeating a charge referred to in subsection (1) is void as against the Commissioner, except where the transfer or act is to or in favour of a purchaser in good faith for value who, at the time of the transfer or act, had no notice of the charge.
 
 ### 40 Interest on unpaid legal aid debt
-(1) The Commissioner may require an aided person who defaults on the payment of a debt due to the Commissioner, to pay interest on the entire unpaid debt in respect of the period during which the aided person is in default.
-(2) Any interest charged by the Commissioner under subsection (1) must be at the rate specified in regulations.
+(1) Subsection (2) applies to any amount that is payable in respect of a grant of legal aid made on or after the commencement of this section (as substituted by section 13 of the Legal Services Amendment Act 2013).
+(2) An aided person must pay the Commissioner interest, calculated in accordance with, and at the rate or rates prescribed by, the regulations on any debt that is owed, during any period specified in the regulations, by the aided person to the Commissioner in respect of a grant of legal aid.
+(3) Subsection (4) applies to a debt (a prior debt) that is owed by an aided person to the Commissioner in respect of a grant of legal aid made before the commencement of this section (as substituted by the Legal Services Amendment Act 2013).
+(4) The Commissioner may, by written notice, require the aided person to pay interest in respect of the prior debt (whether or not the person is in default), and then, as from the date stated in the notice for the purpose, subsection (2) applies to the person and to the prior debt.
+(5) Despite subsection (2), interest is not payable—
+  (a) on any interim repayment; or
+  (b) unless the regulations otherwise provide, on any interest.
+(6) The interest must be calculated and paid in accordance with the regulations.
+(7) Subsection (4) does not affect any subsisting requirement under section 40(1) (as in force before the commencement of section 13 of the Legal Services Amendment Act 2013).
 
 ### 41 Aided person to enforce judgment or out-of-court settlement
 (1) An aided person must take all steps necessary to enforce a judgment or out-of-court settlement in order to recover the proceeds of proceedings.
 (2) If the aided person fails to take such steps, the Commissioner may enforce the judgment or out-of-court settlement as if it were in favour of the Commissioner, and may recover the costs of doing so from the aided person.
+
+**Deduction notices**
+
+### 41A Interpretation
+In this section and in sections 41B to 41J, unless the context otherwise requires,—
+  - **benefit** —
+    (a) means a benefit within the meaning of the Social Security Act 1964; but
+    (b) does not include—
+      (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
+      (ii) an unsupported child's benefit payable under section 29 of that Act; or
+      (iii) a child disability allowance payable under section 39A of that Act; or
+      (iv) a disability allowance payable under section 69C of that Act
+  - **deduction notice** means a notice issued under section 41B
+  - **overdue amount** means an amount that has become due and payable to the Commissioner and that remains unpaid; and includes—
+    (a) any part of an amount of that kind; and
+    (b) an amount of that kind that may not be recovered by civil action in a court of law because of the Limitation Act 2010
+  - **payment** , in relation to a third party, includes payments made, or to be made, by the third party as—
+    (a) salary or wages:
+    (b) a retiring allowance or pension or other payment of a similar nature:
+    (c) a benefit:
+    (d) weekly compensation under the Accident Compensation Act 2001:
+    (e) a bonus or an incentive payment:
+    (f) commission:
+    (g) consideration for work performed under a contract for services:
+    (h) repayment of, or interest on, money held by a bank to the credit of an aided person (within the meaning of section 41E(3)
+  - **third party** means the person required to make 1 or more deductions under a deduction notice.
+
+### 41B Deduction of overdue amounts
+(1) This section applies whenever the Commissioner has reminded an aided person in writing of the person's obligation to pay an overdue amount or has taken any other action to obtain payment of the overdue amount.
+(2) The Commissioner may issue, in writing, a deduction notice requiring a third party to deduct an amount specified in the notice due from any payment that is payable or will become payable by the third party to the aided person, whether that payment will be made—
+  (a) on the third party's own account; or
+  (b) in the third party's capacity as an agent or a trustee; or
+  (c) for any other reason.
+(3) The Commissioner must specify in the deduction notice—
+  (a) whether the deduction is to be made as a lump sum or by instalments; and
+  (b) the time or times by which the amounts deducted must be paid to the Commissioner; and
+  (c) the date on which the deduction notice takes effect, being a date not earlier than the date on which it was issued.
+(4) The Commissioner must give the aided person a copy of the deduction notice.
+(5) A deduction notice is revoked when the Commissioner notifies the third party in writing to that effect or issues a new deduction notice.
+(6) The Commissioner—
+  (a) may revoke a deduction notice at any time:
+  (b) must revoke the deduction notice if satisfied that the overdue amount has been paid.
+(7) Every deduction notice is subject to sections 41C to 41J.
+
+### 41C Issue of deduction notice to State sector employer
+In any case where an aided person is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued to the chief executive of that department in respect of any salary or wages payable to the aided person.
+
+### 41D Discharge of obligation
+In any case where a third party deducts, under a deduction notice, any money payable to an aided person, the aided person is, to the extent of the amount deducted, discharged from his or her obligation to pay the overdue amount.
+
+### 41E Deduction notices issued to banks
+(1) Where the third party is a bank, any money held by the bank to the credit of the aided person is subject to the provisions of section 41B and the amount required to be deducted under the deduction notice is, without prejudice to any other remedies against the aided person or any other person, deemed to be held in trust for the Commissioner and is a debt due to the Commissioner and may be recovered in any court or tribunal of competent jurisdiction.
+(2) For the purposes of this section, bank means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the Friendly Societies and Credit Unions Act 1982, and a building society within the meaning of the Building Societies Act 1965; but does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank).
+(3) For the purposes of this section, money held by the bank to the credit of the aided person includes money, and any interest on money, that is on deposit or deposited with a bank to the credit of the aided person, whether or not—
+  (a) the deposit or depositing is on current account:
+  (b) the money is to be at interest at a fixed term or without limitation of time:
+  (c) the aided person has made any application to withdraw or uplift the money.
+(4) For the purposes of this section, money on deposit with a bank is deemed to be to the credit of the aided person if the money—
+  (a) is held in a joint bank account in the name of the aided person and 1 or more other persons; and
+  (b) can be withdrawn from the account by or on behalf of the aided person without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
+
+### 41F Making of deductions
+(1) Any person who makes a deduction under a deduction notice is deemed to be acting—
+  (a) on the authority of the aided person and any other person concerned; and neither the aided person nor that other person has any claim against the third party or the Commissioner or the Crown in respect of that deduction; and
+  (b) on behalf of the Commissioner; and, without prejudice to any other remedies against the aided person or any other person, any amount deducted must be held in trust for the Commissioner and is a debt due to the Commissioner and may be recovered in any court or tribunal of competent jurisdiction.
+(2) A third party must, on request, give the aided person a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
+
+### 41G Offences in relation to deduction notices
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
+  (a) fails to make any deduction required by a deduction notice; or
+  (b) fails, after making a deduction, to pay the amount deducted to the Commissioner within the time specified in the notice; or
+  (c) permits payment to or on behalf of any person, other than the Commissioner, of any amount deemed to be held in trust for the Commissioner under section 41E or 41F.
+(2) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses an employee or alters an employee's position in the employer's business or undertaking to the employee's prejudice by reason of a deduction notice having been issued to the employer.
+
+### 41H Protected earnings
+(1) Despite anything in sections 41B to 41G, where a deduction notice is issued to an employer of an aided person, the employer must not, in making deductions under the deduction notice, reduce the amount paid to the aided person by way of salary or wages in respect of any week to an amount that is less than 60% of the amount calculated as being the aided person's net ordinary weekly pay for a week.
+(2) For the purposes of this section, the aided person's net ordinary weekly pay for a week is the balance left after deducting from the aided person's ordinary weekly pay (as defined in section 8 of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if that ordinary weekly pay were the only salary or wages paid to the aided person by the employer in respect of a week.
+(3) For the purposes of this section, where deductions are required to be made from a payment of a kind described in any of paragraphs (b) to (d) of the definition of payment in section 41A, then—
+  (a) the payment is deemed to be salary or wages; and
+  (b) the person required to make the payment is deemed to be the employer of the aided person.
+
+### 41I Penalty for late deductions
+(1) A third party is liable to pay to the Commissioner a penalty calculated in accordance with subsection (2) if the third party fails wholly or in part to—
+  (a) deduct the amount required by the notice; or
+  (b) pay any amount deducted under the notice to the Commissioner by the time specified in the notice.
+(2) The penalty referred to in subsection (1) must be calculated as follows:
+  (a) 10% of the amount in default or $5, whichever is the greater:
+  (b) for each additional month or part of a month in which the amount in default or any part of the amount has not been deducted or, as the case may be, has not been paid to the Commissioner, a further penalty of 2% of that amount or part of the amount or $1, whichever is the greater.
+(3) The Commissioner may, in his or her discretion, remit the whole or part of a penalty if he or she is satisfied that the failure to make the deduction or the payment was due to circumstances reasonably beyond the third party's control, or that, in all the circumstances, the imposition of that penalty would be inequitable.
+(4) If the Commissioner decides to remit the whole or part of any penalty and any amount of the penalty has been paid under this section, the Commissioner may refund any excess.
+(5) An amount payable to the Commissioner under subsection (1) is a debt due to the Commissioner and may be recovered in any court or tribunal of competent jurisdiction.
+
+### 41J Notices given to third parties
+The provisions of section 115 apply to a deduction notice given to a third party under section 41B except that if the third party is an agency, such as a business, government department, Crown entity or other instrument of the Crown, the notice may be left at, or posted to, the head office of the agency or to the office of the agency responsible for making the payment to which the deduction notice relates.
+
+**Decisions not to recover debt, write-offs, and refunds**
 
 ### 42 Commissioner may decide not to recover debt in certain circumstances
 (1) The Commissioner may decide not to recover any debt due to the Commissioner under a grant of legal aid if—
@@ -585,9 +731,10 @@ At any time, the total amount payable to the Commissioner by an aided person und
 (6) In subsection (1), serious hardship has the meaning given in section 42(4).
 
 ### 44 Commissioner to refund excess payments
-The Commissioner must refund any amount paid by an aided person to the Commissioner that is—
+(1) The Commissioner must refund any amount paid by an aided person to the Commissioner that is—
   (a) more than the aided person is or was required to pay; or
   (b) more than the cost of services.
+(2) In assessing the cost of services for the purposes of subsection (1)(b), any interest paid under section 40 must be disregarded.
 
 ### Subpart 5 — Award of costs in civil proceedings
 
@@ -667,7 +814,8 @@ The Commissioner must refund any amount paid by an aided person to the Commissio
 
 ### 51 Reconsideration
 (1) A person (who may be an aided person or an applicant for legal aid) who is aggrieved by a decision of the Commissioner that affects that person, may apply in the prescribed manner to the Commissioner for a reconsideration of the decision.
-(2) The application must, subject to subsection (3), be made within 20 working days after the date on which notice of the relevant decision is given to the person.
+(1A) A lead provider whose claim has been declined under section 99(5) may apply in the prescribed manner to the Commissioner for a reconsideration of the decision to decline the claim.
+(2) An application must, subject to subsection (3), be made within 20 working days after the date on which notice of the relevant decision is given to the person.
 (3) The Commissioner may accept a late application no later than 3 months after the date on which notice of the relevant decision was given to the person if the Commissioner is satisfied that exceptional circumstances prevented the application from being made within 20 working days after the date on which notice was given.
 (4) A failure by the Commissioner to advise a person of his or her right to seek a reconsideration does not of itself establish exceptional circumstances for the purposes of subsection (3).
 (5) The Commissioner must delegate the responsibility for reconsidering the decision to a person other than the one who made the original decision.
@@ -685,11 +833,15 @@ The Commissioner must refund any amount paid by an aided person to the Commissio
   (b) any conditions imposed under section 18 or 47 on a grant of legal aid:
   (c) any amount payable by an aided person, whether as an interim repayment or a repayment, under a grant of legal aid:
   (d) the maximum grant under a grant of a legal aid:
+  (da) any decision to depart from, or to refuse to depart from, fees prescribed by regulations under section 114(1)(cc):
   (e) the withdrawal of, or amendment to, a grant of legal aid:
   (f) the enforcement of any condition imposed under section 18 or 47 on a grant of legal aid:
   (g) any changes to, or dealings with, a charge on property arising out of a grant of legal aid:
   (h) an application under section 46.
 (3) A party who has applied to the Commissioner for payment of costs under section 46 may apply to the Tribunal for a review of the Commissioner's decision under that section on the grounds that the decision is—
+  (a) manifestly unreasonable; or
+  (b) wrong in law.
+(3A) A lead provider may apply to the Tribunal for a review of the Commissioner's reconsideration of a decision referred to in section 51(1A) on the ground that it is—
   (a) manifestly unreasonable; or
   (b) wrong in law.
 (4) In this section, decision includes a failure or refusal to make or reconsider a decision.
@@ -866,7 +1018,7 @@ An application for approval to provide legal aid services or specified legal ser
 
 ### 77 Approval
 (1) The Secretary may give a person approval to provide 1 or more legal aid services or specified legal services if the Secretary is satisfied that the person meets the criteria prescribed in regulations.
-(2) The Secretary may impose any conditions on the approval. The conditions that may be imposed are those prescribed in regulations.
+(2) The Secretary may impose conditions on the approval. The conditions that may be imposed are those prescribed in regulations.
 (3) The approval—
   (a) must be in writing:
   (b) must state the conditions, if any, of the approval:
@@ -931,8 +1083,8 @@ A person may not apply for judicial review of any decision made under this subpa
 
 ### 84 Review Authority established
 (1) This section establishes the Review Authority.
-(2) The Minister must appoint 1 person to be the Review Authority.
-(3) The person appointed as the Review Authority must be enrolled as a barrister and solicitor of the High Court of New Zealand and must have at least 7 years' legal experience.
+(2) The Minister must appoint 1 person to be the Review Authority and may appoint 1 or more Deputy Review Authorities.
+(3) A person appointed under this section must be enrolled as a barrister and solicitor of the High Court of New Zealand and must have at least 7 years' legal experience.
 
 ### 85 Function of Review Authority
 (1) The function of the Review Authority is to review decisions of the Secretary set out in section 82(1).
@@ -945,6 +1097,27 @@ A person may not apply for judicial review of any decision made under this subpa
 
 ### 87 Further provisions in Schedule 3
 Part 3 of Schedule 3 contains further provisions that apply to the Review Authority.
+
+### 87A Deputy Review Authority
+(1) A Deputy Review Authority appointed under section 84(2) has the functions, powers, duties, and immunities of the Review Authority and every reference to the Review Authority in sections 85 to 87 and in Part 3 of Schedule 3 is taken to include a reference to a Deputy Review Authority.
+(2) This section is subject to section 87B.
+
+### 87B Scope of functions of Deputy Review Authority
+(1) A Deputy Review Authority may review decisions only if—
+  (a) the Review Authority is absent from duty for any reason; or
+  (b) there is a vacancy in the office of Review Authority; or
+  (c) the Review Authority has assigned a decision or a class of decision to the Deputy Review Authority in the interests of avoiding—
+    (i) delay; or
+    (ii) the perception of, or any actual, conflict of interest or other impropriety.
+(2) If there are 2 or more Deputy Review Authorities, the Review Authority must nominate 1 Deputy Review Authority (the nominated deputy) to exercise the power under subsection (1)(c) and that nominated deputy may then exercise that power when the Review Authority is absent from duty (for any reason) or when there is a vacancy in the office of the Review Authority.
+(3) A nomination—
+  (a) must be in writing; and
+  (b) is revocable at any time, in writing, by the person who made it or by his or her successor in office; and
+  (c) until revoked, continues in force according to its terms even if the person who made it has ceased to hold the office of Review Authority.
+(4) Despite subsection (1), if, during the absence of the Review Authority from duty (for any reason) or a vacancy in the office of the Review Authority, there are 2 or more Deputy Review Authorities, a Deputy Review Authority may review a decision in accordance with subsection (1) only if—
+  (a) that Deputy Review Authority is the nominated deputy; or
+  (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)(c).
+(5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
 
 **Quality assurance checks**
 
@@ -1024,7 +1197,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 ### 97 Lead provider to claim for payment
 (1) Claims for payment in respect of legal aid services or specified legal services provided must be made by the lead provider to the Secretary in the prescribed manner and within the time frame referred to in section 98.
 (2) A claim for payment must show—
-  (a) the fees claimed by, or the charges attributable to, the lead provider; and
+  (a) the fees claimed by, or the charges attributable to, the lead provider, less the user charge required to be paid by the aided person; and
   (b) the fees claimed by, or the charges attributable to, any other provider who acted on the matter; and
   (c) the disbursements claimed by the lead provider and any other provider who acted on the matter.
 
@@ -1041,11 +1214,13 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 (3) A payment may be deferred and a claim, or part of a claim, examined if—
   (a) the claim or part of the claim appears to the Commissioner to be excessive in light of the Secretary's standard rates for payment or the Commissioner's experience with comparable claims; or
   (b) an aided person has requested an examination of the cost of services under section 90.
-(4) The Commissioner may decline some or all of a claim on any 1 or more of the following grounds:
-  (a) the claim exceeds the maximum grant specified in the grant:
-  (b) the claim or part of a claim is for disbursements of a type not approved for payment by the Commissioner:
-  (c) an examination of the claim or part of a claim under subsection (2) has determined that the claim is excessive or inaccurate:
-  (d) the claim was not made in accordance with the time frame referred to in section 98.
+(4) The Commissioner must decline—
+  (a) any claim to the extent that it exceeds the maximum grant specified in the grant; and
+  (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)(ca) or authorised pursuant to section 114(1)(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
+  (c) any claim to the extent to which it is for a disbursement of a type not approved for payment by the Commissioner; and
+  (d) any claim or any part of a claim that has been determined to be excessive or inaccurate by an examination under subsection (2); and
+  (e) if the user charge has not been paid by the aided person, an amount of the claim that is the equivalent of that charge.
+(5) The Commissioner may decline any claim that was not made in accordance with the time frame referred to in section 98.
 
 ### 100 Secretary must pay approved claims
 (1) The Secretary must pay the lead provider in respect of every claim or part of a claim that is approved by the Commissioner for payment.
@@ -1074,7 +1249,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
     (i) that has led to the approval being granted:
     (ii) that has led to the approval being granted on more favourable conditions than would otherwise have been imposed:
   (b) the provider is convicted of an offence punishable by imprisonment and the conviction reflects on his or her fitness to practise, or tends to bring his or her profession into disrepute:
-  (c) the provider takes unauthorised payments from a legally aided person in relation to a legal aid matter:
+  (c) the provider takes an unauthorised payment from or in respect of a person in relation to any legal aid service or specified legal service provided to that person:
   (d) the provider is no longer entitled to hold a practising certificate:
   (e) the Disciplinary Tribunal has made any of the following orders under section 242(1) of the Lawyers and Conveyancers Act 2006:
     (i) striking a practitioner off the roll:
@@ -1084,8 +1259,11 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 (2) The effect of a cancellation is that the person ceases to be approved to provide the relevant service, and the Secretary is not obliged to pay for any services of that kind provided after the date on which the cancellation takes effect.
 (3) The Secretary must give written notice of the cancellation to the person to whom it applies.
 (4) The written notice must specify—
-  (a) when the cancellation takes effect, which must be a date on or after the date on which the Secretary reasonably considers the person will receive the notice; and
+  (a) when the cancellation takes effect, which must be a date on or after the date on which the Secretary reasonably considers the person will receive the notice or will be deemed to have received it by virtue of section 115(2); and
   (b) the grounds of the cancellation.
+(5) In any case where a notice of cancellation is posted to a person at the person's last known place of residence or business in New Zealand and the Secretary knows or believes that the address is no longer current, then—
+  (a) the notice is not invalid merely because of that knowledge or belief; and
+  (b) the fact that the person has not received the notice is, despite section 115(2), only relevant if it is proved that the failure occurred through no fault of the person.
 
 **Further provisions relating to providers**
 
@@ -1166,10 +1344,17 @@ Every provider or former provider commits an offence and is liable on conviction
     (iii) prescribing a method of calculating an amount or amounts, based on income and capital, payable by an aided person as a repayment:
   (b) prescribing a method or methods for calculating what maximum grant, if any, should be set under a grant of legal aid in respect of proceedings other than victims' claims proceedings:
   (c) prescribing for the purposes of section 23(4) the amount of the maximum grant to be specified for every grant of legal aid in respect of victims' claims proceedings:
+  (ca) prescribing fees, whether by specifying amounts or providing for 1 or more methods of calculating amounts, for items of work undertaken by providers for the purposes of proceedings (other than victims' claims proceedings) described in the regulations, which fees may differ depending on factors stated in the regulations, including, without limitation, 1 or more of the following:
+    (i) the subject matter of the proceeding:
+    (ii) the court or tribunal in which the proceeding or an application or a matter in the proceeding is to be determined:
+  (cb) exempting, in accordance with subsection (8), any class of proceeding from any specified regulation made under paragraph (ca):
+  (cc) providing for the Commissioner to authorise fees that depart from the fees prescribed under paragraph (ca) if, and only if, criteria prescribed under paragraph (cd) apply:
+  (cd) prescribing criteria for the purposes of any authorisation that the Commissioner is empowered to give under paragraph (cc):
   (d) determining whether a person is eligible for legal aid by—
     (i) prescribing maximum levels of income and disposable capital:
     (ii) prescribing a method of assessing financial means:
   (e) prescribing allowances for use in calculating a person's disposable capital:
+  (ea) prescribing the amount of the user charge, including different amounts for user charges relating to different classes of proceeding:
   (f) prescribing deductions that may be made from the cost of services for the purpose of determining the repayment payable by an aided person under a grant of legal aid:
   (g) prescribing the manner in which applications for, and grants of, legal aid in respect of minors, and other people with special requirements, are to be dealt with:
   (h) making provision, in respect of the calculation of the income, disposable capital, or capital of an applicant for legal aid, for all or any of the following:
@@ -1179,14 +1364,15 @@ Every provider or former provider commits an offence and is liable on conviction
     (iv) excluding from the resources of the applicant any liabilities incurred by the applicant for no consideration, or for a grossly inadequate consideration:
     (v) taking into account any benefit to which the applicant is entitled or that the applicant might receive in connection with property held on trust:
   (i) prescribing matters relating to the way in which the Commissioner administers charges, including prescribing maximum rates of interest that may be charged:
+  (ia) specifying kinds of expenses or payments for the purposes of section 33(d):
   (j) prescribing amounts or methods for calculating the cost of services:
-  (k) prescribing the rate of interest that may be charged for the purposes of section 40:
+  (k) prescribing the way or ways in which the interest under section 40 is to be calculated and, in particular and without limitation, the rate or rates of interest, the periods during which interest accrues, and the circumstances in which, and the intervals at which, interest is compounded:
   (l) increasing, or prescribing a method for increasing, the maximum amount of income or disposable capital for the purposes of determining a person's eligibility for legal aid:
   (m) adjusting, or prescribing a method for adjusting, the maximum amount of repayments for the purposes of section 20:
   (n) prescribing the information that must be contained in a report of the Waitangi Tribunal under section 49:
   (o) exempting, in accordance with subsection (8), any specified class or classes of person or proceeding from the application of—
     (i) section 10(2) and (4)(a) and (b):
-    (ii) section 18:
+    (ii) section 18 or 18A:
   (p) in relation to an approval to provide legal aid services or specified legal services,—
     (i) prescribing the criteria that must be met by a person applying for approval:
     (ii) prescribing the conditions that the Secretary may impose on an approval:
@@ -1202,10 +1388,10 @@ Every provider or former provider commits an offence and is liable on conviction
     (ii) prescribing the maximum amount of legal aid that may be granted:
     (iii) prescribing the circumstances in which the Commissioner must, under section 9(2), determine or redetermine an applicant's means in accordance with section 8(3):
   (v) prescribing transitional or savings provisions relating to the coming into force of this Act:
-  (w) prescribing the time frame in which a claim for payment for legal aid services or specified legal services may be made:
+  (w) prescribing the time frame or time frames in which claims for payment for legal aid services or specified legal services may be made, and different time frames may be prescribed for different classes, stages, or levels of complexity of services provided:
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 Regulations prescribing amounts
-(2) When prescribing amounts, or methods of calculating amounts, regulations made under this section may—
+(2) When prescribing amounts, or methods of calculating amounts, including the calculation of interest, regulations made under this section may—
   (a) distinguish between applicants for legal aid on any grounds, for example, the type of proceedings to which the application relates, or the level of income or disposable capital of the applicant; or
   (b) distinguish between aided persons on any grounds, for example, the type of proceedings to which the grant relates, or the level of income, disposable capital, or capital of the aided person.
 Regulations prescribing costs of services
@@ -1214,11 +1400,9 @@ Regulations prescribing maximum levels of income for determining legal aid eligi
 (4) When prescribing maximum levels of income for the purpose of determining an applicant's eligibility for legal aid or when prescribing the maximum amount of repayments payable by an aided person, regulations may take into account whether the applicant or aided person has—
   (a) a spouse or partner:
   (b) any dependent children, and the number of dependent children.
-(5) If regulations made under subsection (1) prescribe maximum levels of income and disposable capital for the purpose of determining an applicant's eligibility for legal aid, the limits so prescribed must be adjusted, by regulations made under subsection (1), by an amount equal to the percentage movement referred to in paragraph (a) or (b), as the case requires, if—
-  (a) the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index from that applying on the date that this Act comes into force is 5% or more:
-  (b) the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index from that applying on the date when the requirement to make the immediately preceding adjustment under this subsection arose is 5% or more.
-(6) For the purposes of any adjustment required under subsection (5), the amount of any increase must be rounded up to the nearest whole dollar amount, but any subsequent adjustment must be calculated on the amount of the increase without the rounding.
-(7) Any adjustment required by subsection (5) contained in regulations made under subsection (1) takes effect on the first day of April following the making of those regulations.
+(5)
+(6)
+(7)
 Regulations exempting class of person or proceedings
 (8) No regulations may be made for the purposes of subsection (1)(o) unless the Minister is satisfied that the proposed exemption is justified on 1 or more of the following grounds:
   (a) the proposed exemption is in the public interest:
@@ -1233,8 +1417,8 @@ Regulations providing for transitional or savings provisions
 ### 115 Service of notices, etc
 (1) Any notice or other communication required to be given to any person under this Act or the regulations may be given by delivering it to that person, and may be delivered—
   (a) personally; or
-  (b) by leaving it at that person's usual or last known place of residence in New Zealand; or
-  (c) by posting it in a letter addressed to the person at his or her usual or last known place of residence in New Zealand.
+  (b) by leaving it at that person's usual or last known place of residence or business in New Zealand; or
+  (c) by posting it in a letter addressed to the person at his or her usual or last known place of residence or business in New Zealand.
 (2) If a notice or any other communication is sent to a person by post, then, in the absence of proof to the contrary, the notice or other communication is deemed to have been given to that person when the letter would have been delivered in the ordinary course of post.
 (3) In proving delivery, it is sufficient to prove that the letter was properly addressed and posted.
 
@@ -1623,7 +1807,9 @@ Civil proceedings may not be brought against the Review Authority in respect of 
 Civil proceedings may not be brought against any person who supplies information to the Review Authority on request and in good faith.
 
 ### 24 Vacation of office
-The Review Authority may at any time be removed from office by the Minister for incapacity affecting performance of duty, neglect of duty, or misconduct proved to the satisfaction of the Governor-General.
+(1) The Review Authority may at any time be removed from office by the Minister for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
+(2) The Review Authority may at any time resign by written notice to the Minister.
+(3) The Review Authority ceases to hold office if he or she is adjudged bankrupt under the Insolvency Act 2006.
 
 ### 25 Procedure
 The procedures of the Review Authority must be conducted in the manner set out in regulations.
@@ -1632,3 +1818,23 @@ The procedures of the Review Authority must be conducted in the manner set out i
 The Ministry must provide the administrative support necessary to enable the Review Authority to perform its functions.
 
 ## Schedule 4 — Consequential amendments
+
+### 1 Title
+This Act is the Legal Services Amendment Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+(2) If any provision of this Act has not earlier been brought into force under subsection (1), it comes into force on the day that is 1 year after the date on which this Act receives the Royal assent.
+
+### 27 Transitional provision
+(1) In this section, amendment includes a textual change to a provision, the substitution or insertion of a new provision, or the repeal of a provision.
+(2) An application for legal aid received by the Commissioner before an amendment to the principal Act by this Act comes into force must be considered and determined as if the amendment had not been made.
+(3) An amendment to the principal Act by this Act does not affect the administration of a grant of legal aid made before the amendment comes into force and the grant must be administered as if the amendment had not been made.
+(4) Despite subsection (3), section 10(3A) of the principal Act as inserted by section 6(2) of this Act also applies to any amount payable by an applicant in respect of a grant made before the commencement of section 6(2).
+(5) Until the commencement of section 41 of the Legislation Act 2012, section 16A(8) of the principal Act, as inserted by section 8 of this Act, must be read as if it declared that a notice under section 16A(7) of the principal Act is subject to the Regulations (Disallowance) Act 1989, but not to the Acts and Regulations Publication Act 1989.
+(6) Despite subsection (3), the amendment made by section 13, so far as applicable, applies to grants of legal aid made before the commencement of that section.
+
+### 28 Liability for fee and expenses incurred in lodging prior caveats
+(1) This section applies where, in connection with a grant of legal aid made before the commencement of this section, a caveat (a prior caveat) has, pursuant to section 15(4) of the Legal Services Act 2000 or section 18(4) of the principal Act, been lodged against dealings in any land or estate or interest owned by the aided person.
+(2) The Commissioner may recover the fee for, and any expenses reasonably incurred in, lodging a prior caveat from the aided person as a debt due to the Commissioner, to the extent that the Commissioner or the Legal Services Agency has not previously been reimbursed for the fee and the expenses.
+(3) No payment made to the Commissioner or the Legal Services Agency in reimbursement of the fee for, and any expenses reasonably incurred in, lodging a prior caveat may be recovered or claimed by way of set-off.
