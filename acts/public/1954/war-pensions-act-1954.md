@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-02_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -681,13 +681,37 @@ The Secretary may, in determining the rate of any pension payable in respect of 
     (b) does not include any employer’s superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
   - **income** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **Income Test 3** means that the applicable rate of veterans’ pension must be reduced by 70 cents for every $1 of the combined income of the person in receipt of a veteran’s pension and his or her spouse or civil union partner or de facto partner in excess of $100 per week
+  - **living alone** , in relation to a single person, has the meaning given to it by section 67A
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
   - **ordinarily resident** , in relation to any person, does not include being unlawfully resident in New Zealand
   - **partner** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **Secretary** means the Secretary for War Pensions; and includes any person for the time being authorised to exercise or perform any of the powers, duties, or functions of the Secretary
   - **single** means not married or in a civil union or a de facto relationship
+  - **single living alone rate** means the rate of a veteran's pension specified in clause 1(a) of Schedule 11 that is payable to a single person who is living alone
+  - **single sharing accommodation rate** means the rate of a veteran's pension specified in clause 1(b) of Schedule 11 that is payable to a single person who is not living alone
   - **spouse** means the husband or wife of an applicant or person in receipt of a veteran’s pension, as the case may require.
 (2) Unless the context otherwise requires, any word or expression used in this Part or in Schedules 11 to 13, but not defined in this Part, has the same meaning as it has in section 2 of this Act or in section 3(1) of the Social Security Act 1964.
+
+### 67A Meaning of living alone
+(1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
+(2) The first condition is that person A occupies a principal place of residence of a kind described in subsection (6).
+(3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
+(4) This subsection applies to person A's dependent child—
+  (a) who—
+    (i) is 18 years old (despite the definition of child in section 3(1) of the Social Security Act 1964); and
+    (ii) is not financially independent; and
+    (iii) is attending a school or a tertiary educational establishment; but
+  (b) only until the close of 31 December in the year in which the child turns 18 years old.
+(5) This subsection applies to a temporary visitor to person A's residence who stays there less than 13 weeks in any period of 26 weeks.
+(6) The place of residence referred to in subsection (2) is—
+  (a) a house or flat; or
+  (b) a boat or craft moored within any of the following sea or waters, whether or not it is from time to time travelling within that sea or any of those waters:
+    (i) the territorial sea of New Zealand or any internal waters of New Zealand; or
+    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters; or
+  (c) a hotel room, motel unit, a room in a boarding house, or a unit of accommodation in a caravan park.
+(7) In this section,—
+  - **boarding house** has the same meaning as in section 66B of the Residential Tenancies Act 1986
+  - **territorial sea of New Zealand** and have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 
 ### 68 Administration of veterans’ pensions
 (1) This Part is administered by the Department.
@@ -776,8 +800,8 @@ On the death of any person who is ordinarily resident in New Zealand on the date
   (a) who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 136 of the Social Security Act 1964); and
   (b) who is in receipt of a veteran’s pension, or whose spouse or partner is in receipt of a veteran’s pension.
 (2) A person to whom this section applies is entitled to receive a veteran’s pension at the rate payable to a person who is single—
-  (a) stated in clause 1(a) of Schedule 11, if the person has been granted a living alone payment under section 74U; or
-  (b) stated in clause 1(b) of Schedule 11, if the person has not been granted a living alone payment under section 74U.
+  (a) stated in clause 1(a) of Schedule 11, if the person is living alone; or
+  (b) stated in clause 1(b) of Schedule 11, if the person is not living alone.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under Part 4 of the Social Security Act 1964.
 
 ### 74C Annual adjustment of rates of veterans’ pensions
@@ -791,8 +815,8 @@ On the death of any person who is ordinarily resident in New Zealand on the date
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (3) Every Order in Council made under subsection (2) must adjust the annual rates of the veterans’ pensions so that the weekly amount (before any abatement under section 74D but after the deduction of standard tax) payable to—
   (a) a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings):
-  (b) a single person who has been granted a living alone payment is 65% of the weekly amount of the veteran’s pension (before any abatement under section 74D but after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension:
-  (c) a single person who has not been granted a living alone payment is 60% of the weekly amount of the veteran’s pension (before any abatement under section 74D but after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension.
+  (b) a single person who is living alone is 65% of the weekly amount of the veteran’s pension (before any abatement under section 74D but after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension:
+  (c) a single person who is not living alone is 60% of the weekly amount of the veteran’s pension (before any abatement under section 74D but after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension.
 (4) Every Order in Council made under subsection (2) must adjust the annual rates of the veterans’ pensions so that the rate of the veteran’s pension specified in clause 2(b) of Schedule 11 preserves its proportional relationship (before any abatement under section 74D or before any calculation is made under Income Test 3, as the case may be, but after the deduction of standard tax) to the rates specified in clause 1 of that schedule.
 (5) An adjustment under this section must not reduce the weekly amounts payable under this section.
 (6) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
@@ -903,7 +927,7 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
 ### 74M Relationship with other benefit provisions
 (1)
 (2)
-(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any living alone payment, supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
 (4) Despite the provisions of section 80BD of the Social Security Act 1964, on the death of a person who receives a veteran’s pension overseas under section 74J, the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
 (5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 76, 77, and 82(7), 75A, and 76) apply to veterans’ pensions being paid overseas under section 74J.
 
@@ -953,8 +977,8 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
 
 ### 74R Effect on other benefits
 A person being paid a benefit under section 74O is not entitled to receive—
-  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act; or
-  (b) a living alone payment under section 74U.
+  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act.
+  (b)
 
 ### 74S Application of this Act and Social Security Act 1964
 (1) Sections 74E to 74M do not apply in respect of a veteran’s pension being paid in a specified Pacific country under section 74O.
@@ -964,29 +988,10 @@ A person being paid a benefit under section 74O is not entitled to receive—
 Despite sections 74(a) and 77 of the Social Security Act 1964 and sections 74J to 74M of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under this Act, the Secretary may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran’s pension to that person while he or she remains a resident outside New Zealand.
 
 ### 74U Living alone payments
-(1) Any single person who receives a veteran’s pension and who is living alone in his or her principal place of residence is entitled to receive a living alone payment.
-(2) The living alone payment is included in the appropriate rate specified in clause 1(a) of Schedule 11.
-(3) A person is considered to be living alone only if he or she—
-  (a) occupies a principal place of residence that is referred to in subsection (4); and
-  (b) does not share that residence with any person of, or over the age of, 18 years, other than—
-    (i) a dependent child of or over that age; or
-    (ii) a temporary visitor who stays less than 13 weeks in any period of 26 weeks.
-(4) The principal places of residence are—
-  (a) a house or flat; or
-  (b) a boat or craft moored within—
-    (i) the territorial sea of New Zealand or any internal waters of New Zealand, whether or not it is from time to time travelling within that sea or any of those waters; or
-    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters, whether or not it is from time to time travelling within any of those waters; or
-  (c) a hotel room, motel unit, room in a licensed boarding-house, or unit of accommodation in a caravan park.
-(5) In this section, territorial sea of New Zealand and internal waters have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
+[Repealed]
 
 ### 74V Commencement of living alone payments
-(1) Every living alone payment commences on the later of—
-  (a) the date on which the applicant becomes entitled to receive it; or
-  (b) the date on which the application is received.
-(2) However, if an application for a living alone payment is made as a result of the death of the spouse or civil union partner or de facto partner of the applicant, the living alone payment commences on—
-  (a) the date on which the applicant becomes entitled to receive it if the application is received within 28 days after the date of entitlement; or
-  (b) the date on which the application is received if it is received 28 days or more after the date of entitlement.
-(3) This section is subject to section 80AA of the Social Security Act 1964.
+[Repealed]
 
 ### 74W Transitional provision for existing veteran’s pension entitlements
 Every person who, immediately before the commencement of this Part, was entitled to receive a veteran’s pension, with or without a living alone payment, under the Social Welfare (Transitional Provisions) Act 1990 is entitled to receive the corresponding entitlements under this Part.
@@ -1288,8 +1293,8 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 
 |  |  | Entitlements under section 70(1)(b)(i) or section 70(2) | Entitlements under section 70(1)(b)(ii) or section 71 |
 | --- | --- | --- | --- |
-| 1 | ato a single person who has been granted a living alone payment under section 74U | $410.32 per week | $410.32 per week, subject to section 74D |
-|  | bto a single person who has not been granted a living alone payment under section 74U | $377.05 per week | $377.05 per week, subject to section 74D |
+| 1 | ato a person at the single living alone rate | $410.32 per week | $410.32 per week, subject to section 74D |
+|  | bto a person at the single sharing accommodation rate | $377.05 per week | $377.05 per week, subject to section 74D |
 |  | cto a person who is married or in a civil union or in a de facto relationship | $310.34 per week | $310.34 per week, subject to section 74D |
 | 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship, and whose spouse or civil union partner or de facto partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
 |  | ato a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $620.68 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $620.68 per week, subject to section 74D, or the rate specified in paragraph (b), whichever is the greater |
@@ -1342,3 +1347,43 @@ This Act comes into force on a date to be appointed by the Governor-General by O
 (2) While subsection (1) applies to a person, he or she is entitled to be paid a veteran's pension at the higher of the following rates:
   (a) the rate at which he or she was entitled to be paid immediately before the commencement of section 6:
   (b) the rate at which he or she became entitled to be paid on that commencement.
+
+### 1 Title
+This Act is the Social Assistance (Living Alone Payments) Amendment Act 2013.
+
+### 2 Commencement
+This Act comes into force on the earlier of—
+  (a) a date appointed by the Governor-General by Order in Council:
+  (b) 2 September 2013.
+
+## Part 2 — Amendments to War Pensions Act 1954
+
+**Transitional and savings provisions**
+
+### 26 Transitional provision for living alone payment
+(1) This section applies to a person who is receiving a living alone payment under section 74U of the principal Act immediately before the commencement of this Act.
+(2) On or after the commencement of this Act, the person is entitled to receive the single living alone rate of the veteran's pension specified in clause 1(a) of Schedule 11 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 74U of the principal Act (as it read immediately before the commencement of this Act).
+
+### 27 References to living alone payment
+(1) A reference to a living alone payment under the principal Act in any agreement, deed, instrument, application, notice, or other document must, unless the context otherwise requires, be read as a reference to either of the following, as the context requires:
+  (a) the single living alone rate of a veteran's pension; or
+  (b) the difference between the single living alone rate and single sharing accommodation rate of a veteran's pension.
+(2) In this section,—
+  - **living alone** has the meaning given to it by section 67A of the principal Act (as amended by this Act)
+  - **single living alone rate** means the rate of a veteran's pension specified in clause 1(a) of Schedule 11 of the principal Act (as amended by this Act) that is payable to a single person who is living alone
+  - **single sharing accommodation rate** means the rate of a veteran's pension specified in clause 1(b) of Schedule 11 of the principal Act (as amended by this Act) that is payable to a single person who is not living alone.
+
+### 28 Savings provision for person whose spouse or partner dies before commencement of this Act
+(1) This section applies if—
+  (a) a person's spouse or partner dies before the commencement of this Act; and
+  (b) the person does not apply for a living alone payment under the principal Act before that commencement; and
+  (c) the department receives information about the death of the person's spouse or partner (whether the information is received before or after the commencement of this Act).
+(2) If the person applies for a living alone payment, the person's entitlement to receive the payment under the principal Act must be determined under that Act (as it read immediately before the commencement of this Act) and, despite sections 24 and 25(2) of this Act, sections 74U and 74V and clause 1(a) of Schedule 11 of the principal Act (as they read immediately before the commencement of this Act) continue in force and apply to the person for that purpose.
+(3) If the person is granted a living alone payment,—
+  (a) the payment—
+    (i) commences on—
+      (A) the date on which it would have commenced under section 74V of the principal Act (as it read immediately before the commencement of this Act); or
+      (B) any earlier date determined under section 80AA of the Social Security Act 1964 (if applicable); and
+    (ii) continues until the commencement of this Act if, and so long as, there is no change in the person's circumstances affecting the person's entitlement to the living alone payment under section 74U of the principal Act (as it read immediately before the commencement of this Act); and
+  (b) on or after the commencement of this Act, the person is entitled to receive the single living alone rate of the veteran's pension specified in clause 1(a) of Schedule 11 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 74U of the principal Act (as it read immediately before the commencement of this Act).
+(4) If the person does not apply for a living alone payment, then on or after the commencement of this Act, the person is entitled to receive the single living alone rate of the veteran's pension specified in clause 1(a) of Schedule 11 of the principal Act (as amended by this Act) if, and so long as, he or she continues to be living alone within the meaning of section 67A of the principal Act (as so amended).
