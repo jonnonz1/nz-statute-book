@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2013-08-30_
+_Consolidation as at 2013-09-02_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1955,7 +1955,7 @@ Income
   (a) an accident compensation payment:
   (b) an education grant:
   (c) an income-tested benefit:
-  (d) a living alone payment:
+  (d)
   (e) a New Zealand superannuation payment:
   (f) a parental leave payment paid under Part 7A of the Parental Leave and Employment Protection Act 1987:
   (g) a pension:
@@ -34484,7 +34484,7 @@ Certain benefits and grants
   (b) an income-tested benefit:
   (bb) a veteran's pension, other than a veteran's pension paid under section 74J(2)(b) of the War Pensions Act 1954:
   (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)(b) of the New Zealand Superannuation and Retirement Income Act 2001:
-  (bd) a living alone payment:
+  (bd)
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
 Parental leave payments
 (7) A parental leave payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
@@ -38684,10 +38684,7 @@ In this Act, unless the context requires otherwise,—
     (f) has not chosen under section HM 2(3) (What is a portfolio investment entity?) to become a multi-rate PIE
   - **listed research provider**
   - **livestock on the Chatham Islands** means livestock that are on hand on the Chatham Islands at the end of an income year
-  - **living alone payment** means a living alone payment under—
-    (a) section 74U of the War Pensions Act 1954; or
-    (b) section 18A of the Social Welfare (Transitional Provisions) Act 1990; or
-    (c) section 13 of the New Zealand Superannuation and Retirement Income Act 2001
+  - **living alone payment**
   - **loan** ,—
     (a) has the same meaning as money lent:
     (b) in sections CD 27 (Property made available intra-group) and CD 39 (Calculation of amount of dividend when property made available) and in the FBT rules, includes any amount that a person advances or gives as principal under a financial arrangement, but not an excepted financial arrangement:
@@ -38982,7 +38979,7 @@ In this Act, unless the context requires otherwise,—
   - **New Zealand superannuation** —
     (a) means New Zealand superannuation payable under Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; and
     (b) includes—
-      (i) a living alone payment payable to a New Zealand superannuitant under section 13 of the New Zealand Superannuation and Retirement Income Act 2001; and
+      (i)
       (ii)
       (iii)
     (c) does not include—
