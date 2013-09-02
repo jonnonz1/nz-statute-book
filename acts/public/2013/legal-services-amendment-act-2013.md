@@ -1,5 +1,5 @@
 # Legal Services Amendment Act 2013
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-09-02_
 
 ### 1 Title
 This Act is the Legal Services Amendment Act 2013.
@@ -13,7 +13,7 @@ This Act amends the Legal Services Act 2011.
 
 ### 4 Interpretation
 (1) The definition of prescribed repayment amount in section 4(1) is amended by omitting sections 19(1) and 20 and substituting sections 20(1) and 21.
-(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **specified application** means an application for legal aid made—
     (a) under section 47 in respect of certain proceedings before the Waitangi Tribunal; or
     (b) by a patient or proposed patient in respect of proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
@@ -21,20 +21,20 @@ This Act amends the Legal Services Act 2011.
     (d) in respect of proceedings under the Protection of Personal and Property Rights Act 1988; or
     (e) by a victim in respect of—
       (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
-      (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
+      (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
       (iii) any victims' claims proceedings; or
     (f) to enable—
       (i) a person to apply for a protection order under Part 2 of the Domestic Violence Act 1995, or an order relating to property under Part 3 of that Act; or
       (ii) a person who has applied for an order described in subparagraph (i) to appeal, or respond to an appeal, against the determination of the person's application; or
     (g) in respect of a proceeding under Part 2 or 3A of the Children, Young Persons, and Their Families Act 1989; or
-    (h) in respect of a proceeding that is specified in section 7(1)(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
+    (h) in respect of a proceeding that is specified in section 7(1)﻿(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
   - **user charge** means the amount that aided persons are required to pay by section 18A
 
 ### 5 Proceedings for which legal aid may be granted: criminal matters
 Section 6 is amended by repealing paragraph (c) and substituting the following paragraphs:
   (c) proceedings before the New Zealand Parole Board that—
     (i) are held under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act); or
-    (ii) otherwise concern an offender who is entitled, under section 49(3)(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
+    (ii) otherwise concern an offender who is entitled, under section 49(3)﻿(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
   (d) proceedings in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders).
 
 ### 6 When legal aid may be granted: civil matters
@@ -47,7 +47,7 @@ Section 6 is amended by repealing paragraph (c) and substituting the following p
   (3A) The Commissioner may, unless the interests of justice require otherwise, refuse to grant legal aid to an applicant if—
     (a) any amount payable by the applicant in respect of a repayment of a previous grant of legal aid is in arrears; and
     (b) the application made by the applicant does not come within any of paragraphs (b) to (d) and (f) to (h) of the definition of specified application in section 4(1).
-(3) Section 10(6)(c) is repealed.
+(3) Section 10(6)﻿(c) is repealed.
 
 ### 7 Decision on application for legal aid
 Section 16 is amended by adding the following subsection:
@@ -69,7 +69,7 @@ The following section is inserted after section 16:Use of automated electronic s
 ### 9 Conditions on grant of legal aid
 Section 18 is amended by repealing subsection (7) and substituting the following subsection:
   (7) This section does not apply to—
-    (a) applications for legal aid that come within any of paragraphs (a) to (e)(ii) of the definition of specified application in section 4(1); or
+    (a) applications for legal aid that come within any of paragraphs (a) to (e)﻿(ii) of the definition of specified application in section 4(1); or
     (b) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
     (c) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section; or
     (d) a grant made in the manner authorised by section 16A(1); or
@@ -112,7 +112,7 @@ Section 40 is repealed and the following section substituted:Interest on unpaid 
   (7) Subsection (4) does not affect any subsisting requirement under section 40(1) (as in force before the commencement of section 13 of the Legal Services Amendment Act 2013).
 
 ### 14 New headings and sections 41A to 41J inserted
-The following headings and sections are inserted after section 41:Deduction noticesInterpretation 1957 No 87 ss 2(1), 79Deduction of overdue amounts 1964 No 136 s 86AIssue of deduction notice to State sector employer1964 No 136 s 86BDischarge of obligation 1964 No 136 s 86CDeduction notices issued to banks 1964 No 136 s 86DMaking of deductions 1964 No 136 s 86EOffences in relation to deduction notices 1957 No 87 s 106A; 1964 No 136 s 86FProtected earnings 1964 No 136 s 86GPenalty for late deductions 1964 No 136 s 86INotices given to third parties 1964 No 136 s 86JDecisions not to recover debt, write-offs, and refunds.
+The following headings and sections are inserted after section 41:Deduction noticesInterpretation 1957 No 87 ss 2(1), 79Deduction of overdue amounts 1964 No 136 s 86AIssue of deduction notice to State sector employer1964 No 136 s 86BDischarge of obligation 1964 No 136 s 86CDeduction notices issued to banks 1964 No 136 s 86DMaking of deductions 1964 No 136 s 86EOffences in relation to deduction notices 1957 No 87 s 106A; 1964 No 136 s 86FProtected earnings 1964 No 136 s 86GPenalty for late deductions 1964 No 136 s 86INotices given to third parties 1964 No 136 s 86JDecisions not to recover debt, write-offs, and refunds
   In this section and in sections 41B to 41J, unless the context otherwise requires,—
     - **benefit** —
       (a) means a benefit within the meaning of the Social Security Act 1964; but
@@ -188,7 +188,7 @@ The following headings and sections are inserted after section 41:Deduction noti
 
 ### 15 Commissioner to refund excess payments
 Section 44 is amended by adding the following subsection as subsection (2):
-  (2) In assessing the cost of services for the purposes of subsection (1)(b), any interest paid under section 40 must be disregarded.
+  (2) In assessing the cost of services for the purposes of subsection (1)﻿(b), any interest paid under section 40 must be disregarded.
 
 ### 16 Reconsideration
 (1) Section 51 is amended by inserting the following subsection after subsection (1):
@@ -196,8 +196,8 @@ Section 44 is amended by adding the following subsection as subsection (2):
 (2) Section 51(2) is amended by omitting The application and substituting An application.
 
 ### 17 Grounds for review
-(1) Section 52(2) is amended by inserting the following paragraph after paragraph (d):.
-  (da) any decision to depart from, or to refuse to depart from, fees prescribed by regulations under section 114(1)(cc):
+(1) Section 52(2) is amended by inserting the following paragraph after paragraph (d):
+  (da) any decision to depart from, or to refuse to depart from, fees prescribed by regulations under section 114(1)﻿(cc):
 (2) Section 52 is amended by inserting the following subsection after subsection (3):
   (3A) A lead provider may apply to the Tribunal for a review of the Commissioner's reconsideration of a decision referred to in section 51(1A) on the ground that it is—
     (a) manifestly unreasonable; or
@@ -220,60 +220,60 @@ The following sections are inserted after section 87:Deputy Review AuthorityScop
     (c) the Review Authority has assigned a decision or a class of decision to the Deputy Review Authority in the interests of avoiding—
       (i) delay; or
       (ii) the perception of, or any actual, conflict of interest or other impropriety.
-  (2) If there are 2 or more Deputy Review Authorities, the Review Authority must nominate 1 Deputy Review Authority (the nominated deputy) to exercise the power under subsection (1)(c) and that nominated deputy may then exercise that power when the Review Authority is absent from duty (for any reason) or when there is a vacancy in the office of the Review Authority.
+  (2) If there are 2 or more Deputy Review Authorities, the Review Authority must nominate 1 Deputy Review Authority (the nominated deputy) to exercise the power under subsection (1)﻿(c) and that nominated deputy may then exercise that power when the Review Authority is absent from duty (for any reason) or when there is a vacancy in the office of the Review Authority.
   (3) A nomination—
     (a) must be in writing; and
     (b) is revocable at any time, in writing, by the person who made it or by his or her successor in office; and
     (c) until revoked, continues in force according to its terms even if the person who made it has ceased to hold the office of Review Authority.
   (4) Despite subsection (1), if, during the absence of the Review Authority from duty (for any reason) or a vacancy in the office of the Review Authority, there are 2 or more Deputy Review Authorities, a Deputy Review Authority may review a decision in accordance with subsection (1) only if—
     (a) that Deputy Review Authority is the nominated deputy; or
-    (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)(c).
-  (5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
+    (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)﻿(c).
+  (5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)﻿(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
 
 ### 21 Lead provider to claim for payment
-Section 97(2)(a) is amended by inserting , less the user charge required to be paid by the aided person after provider.
+Section 97(2)﻿(a) is amended by inserting , less the user charge required to be paid by the aided person after provider.
 
 ### 22 Secretary to refer claim to Commissioner for decision
 Section 99 is amended by repealing subsection (4) and substituting the following subsections:
   (4) The Commissioner must decline—
     (a) any claim to the extent that it exceeds the maximum grant specified in the grant; and
-    (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)(ca) or authorised pursuant to section 114(1)(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
+    (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)﻿(ca) or authorised pursuant to section 114(1)﻿(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
     (c) any claim to the extent to which it is for a disbursement of a type not approved for payment by the Commissioner; and
     (d) any claim or any part of a claim that has been determined to be excessive or inaccurate by an examination under subsection (2); and
     (e) if the user charge has not been paid by the aided person, an amount of the claim that is the equivalent of that charge.
   (5) The Commissioner may decline any claim that was not made in accordance with the time frame referred to in section 98.
 
 ### 23 Cancellation
-(1) Section 103(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(1) Section 103(1) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) the provider takes an unauthorised payment from or in respect of a person in relation to any legal aid service or specified legal service provided to that person:
-(2) Section 103(4)(a) is amended by inserting or will be deemed to have received it by virtue of section 115(2) after receive the notice.
+(2) Section 103(4)﻿(a) is amended by inserting or will be deemed to have received it by virtue of section 115(2) after receive the notice.
 (3) Section 103 is amended by adding the following subsection:
   (5) In any case where a notice of cancellation is posted to a person at the person's last known place of residence or business in New Zealand and the Secretary knows or believes that the address is no longer current, then—
     (a) the notice is not invalid merely because of that knowledge or belief; and
     (b) the fact that the person has not received the notice is, despite section 115(2), only relevant if it is proved that the failure occurred through no fault of the person.
 
 ### 24 Regulations
-(1) Section 114(1) is amended by inserting the following paragraphs after paragraph (c):.
+(1) Section 114(1) is amended by inserting the following paragraphs after paragraph (c):
   (ca) prescribing fees, whether by specifying amounts or providing for 1 or more methods of calculating amounts, for items of work undertaken by providers for the purposes of proceedings (other than victims' claims proceedings) described in the regulations, which fees may differ depending on factors stated in the regulations, including, without limitation, 1 or more of the following:
     (i) the subject matter of the proceeding:
     (ii) the court or tribunal in which the proceeding or an application or a matter in the proceeding is to be determined:
   (cb) exempting, in accordance with subsection (8), any class of proceeding from any specified regulation made under paragraph (ca):
   (cc) providing for the Commissioner to authorise fees that depart from the fees prescribed under paragraph (ca) if, and only if, criteria prescribed under paragraph (cd) apply:
   (cd) prescribing criteria for the purposes of any authorisation that the Commissioner is empowered to give under paragraph (cc):
-(2) Section 114(1) is amended by inserting the following paragraph after paragraph (e):.
+(2) Section 114(1) is amended by inserting the following paragraph after paragraph (e):
   (ea) prescribing the amount of the user charge, including different amounts for user charges relating to different classes of proceeding:
 (3) Section 114(1) is amended by inserting the following paragraph after paragraph (i):
   (ia) specifying kinds of expenses or payments for the purposes of section 33(d):
-(4) Section 114(1) is amended by repealing paragraph (k) and substituting the following paragraph:.
+(4) Section 114(1) is amended by repealing paragraph (k) and substituting the following paragraph:
   (k) prescribing the way or ways in which the interest under section 40 is to be calculated and, in particular and without limitation, the rate or rates of interest, the periods during which interest accrues, and the circumstances in which, and the intervals at which, interest is compounded:
-(5) Section 114(1)(o)(ii) is amended by inserting or 18A after section 18.
-(6) Section 114(1) is amended by repealing paragraph (w) and substituting the following paragraph:.
+(5) Section 114(1)﻿(o)﻿(ii) is amended by inserting or 18A after section 18.
+(6) Section 114(1) is amended by repealing paragraph (w) and substituting the following paragraph:
   (w) prescribing the time frame or time frames in which claims for payment for legal aid services or specified legal services may be made, and different time frames may be prescribed for different classes, stages, or levels of complexity of services provided:
 (7) Section 114(2) is amended by inserting including the calculation of interest, after calculating amounts,.
 (8) Section 114(5) to (7) are repealed.
 
 ### 25 Service of notices, etc
-Section 115(1)(b) and (c) are amended by inserting or business after of residence.
+Section 115(1)﻿(b) and (c) are amended by inserting or business after of residence.
 
 ### 26 Schedule 3 amended
 Schedule 3 is amended by repealing clause 24 and substituting the following clause:Vacation of office
