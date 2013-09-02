@@ -1,5 +1,5 @@
 # Accident Compensation Amendment Act 2013
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2013-09-02_
 
 ### 1 Title
 This Act is the Accident Compensation Amendment Act 2013.
