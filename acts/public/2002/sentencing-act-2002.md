@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-04_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -170,8 +170,14 @@ In sentencing or otherwise dealing with an offender the court—
   (f) any remorse shown by the offender, or anything as described in section 10:
   (fa) that the offender has taken steps during the proceedings (other than steps to comply with procedural requirements) to shorten the proceedings or reduce their cost:
   (fb) any adverse effects on the offender of a delay in the disposition of the proceedings caused by a failure by the prosecutor to comply with a procedural requirement:
-  (g) any evidence of the offender's previous good character.
+  (g) any evidence of the offender's previous good character:
+  (h) that the offender spent time on bail with an EM condition as defined in section 3 of the Bail Act 2000.
 (3) Despite subsection (2)(e), the court must not take into account by way of mitigation the fact that the offender was, at the time of committing the offence, affected by the voluntary consumption or use of alcohol or any drug or other substance (other than a drug or other substance used for bona fide medical purposes).
+(3A) In taking into account that the offender spent time on bail with an EM condition under subsection (2)(h), the court must consider—
+  (a) the period of time that the offender spent on bail with an EM condition; and
+  (b) the relative restrictiveness of the EM condition, particularly the frequency and duration of the offender's authorised absences from the electronic monitoring address; and
+  (c) the offender's compliance with the bail conditions during the period of bail with an EM condition; and
+  (d) any other relevant matter.
 (4) Nothing in subsection (1) or subsection (2)—
   (a) prevents the court from taking into account any other aggravating or mitigating factor that the court thinks fit; or
   (b) implies that a factor referred to in those subsections must be given greater weight than any other factor that the court might take into account.
