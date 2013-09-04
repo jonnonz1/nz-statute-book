@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-09-04_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -2150,7 +2150,7 @@ Where, in respect of any offence alleged or admitted or proved to have been comm
 **Arrest of child or young person without warrant**
 
 ### 214 Arrest of child or young person without warrant
-(1) Subject to sections 233 and 244, where, under any enactment, any enforcement officer has a power of arrest without warrant, that officer shall not arrest a child or young person pursuant to that power unless that officer is satisfied, on reasonable grounds,—
+(1) Subject to section 214A and sections 233 and 244, where, under any enactment, any enforcement officer has a power of arrest without warrant, that officer shall not arrest a child or young person pursuant to that power unless that officer is satisfied, on reasonable grounds,—
   (a) that it is necessary to arrest that child or young person without warrant for the purpose of—
     (i) ensuring the appearance of the child or young person before the court; or
     (ii) preventing that child or young person from committing further offences; or
@@ -2165,6 +2165,13 @@ Where, in respect of any offence alleged or admitted or proved to have been comm
   (c) where that enforcement officer is an officer or employee of the Public Service, to the chief executive of the department of which that person is an officer or employee:
   (d) where that enforcement officer is an officer of a local authority, to the chief executive of that local authority.
 (4) Every report furnished pursuant to subsection (3) in respect of the arrest of any child or young person shall state the reason why the child or young person was arrested without warrant.
+
+### 214A Arrest of child or young person in breach of bail condition
+A constable may arrest a child or young person without a warrant if—
+  (a) the child or young person has been released on bail; and
+  (b) the constable believes, on reasonable grounds, that—
+    (i) the child or young person has breached a condition of that bail; and
+    (ii) the child or young person has on 2 or more previous occasions breached a condition of that bail (whether or not the same condition).
 
 **Rights of children and young persons when questioned, charged with offence, or arrested**
 
@@ -2326,12 +2333,17 @@ Subject to sections 235, 236, and 244, where a child or young person is arrested
     (iii) with the agreement of the child or young person, any other person or organisation approved by the chief executive or a constable for the purpose.
 
 ### 235 Child or young person who is arrested may be placed in custody of chief executive
-(1) Notwithstanding section 234 but subject to section 244, where a constable has reasonable grounds for believing, in relation to any child or young person who has been arrested, that—the constable shall, as soon as practicable and not later than 24 hours after the arrest, place the child or young person in the custody of the chief executive in accordance with subsection (2).
-  (a) the child or young person is not likely to appear before the court; or
-  (b) the child or young person may commit further offences; or
-  (c) it is necessary to prevent—
-    (i) the loss or destruction of evidence relating to an offence committed by the child or young person or an offence that the constable has reasonable cause to suspect the child or young person of having committed; or
-    (ii) interference with any witness in respect of any such offence,—
+(1) Notwithstanding section 234 but subject to section 244, a constable, in relation to any child or young person who has been arrested and if subsection (1A) applies,—
+  (a) must place the child or young person in the custody of the chief executive in accordance with subsection (2); and
+  (b) must do so as soon as practicable and not later than 24 hours after the arrest.
+(1A) This subsection applies if—
+  (a) the constable believes, on reasonable grounds, that—
+    (i) the child or young person is not likely to appear before the court; or
+    (ii) the child or young person may commit further offences; or
+    (iii) it is necessary to prevent—
+      (A) the loss or destruction of evidence relating to an offence committed by the child or young person or an offence that the constable has reasonable cause to suspect the child or young person of having committed; or
+      (B) interference with any witness in respect of any such offence; or
+  (b) the child or young person has been arrested under section 214A and is likely to continue to breach any condition of bail.
 (2) A child or young person shall be placed in the custody of the chief executive pursuant to this section by—
   (a) delivering the child or young person to a social worker; and
   (b) presenting to the social worker, on the prescribed form, details relating to—
@@ -2370,7 +2382,7 @@ Subject to section 244, a child or young person to whom section 235 or section 2
 (1) The court shall not make an order under section 238(1)(d) for the detention of a child or young person in the custody of the chief executive or an iwi social service or a cultural social service unless it appears to the court that pending the determination of the charge, or if the order is being considered under section 296F(3), pending the determination of the breach application or variation or cancellation application,—
   (a) the child or young person is likely to abscond; or
   (b) the child or young person may commit further offences; or
-  (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence.
+  (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence; or
 (2) The court shall not make an order under section 238(1)(e) for the detention of a young person in Police custody unless the court is satisfied—
   (a) that the young person is likely to abscond or be violent; and
   (b) that suitable facilities for the detention in safe custody of that young person are not available to the chief executive.
