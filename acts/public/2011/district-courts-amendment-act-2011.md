@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-04_
 
 ### 1 Title
 This Act is the District Courts Amendment Act 2011.
@@ -138,7 +138,7 @@ Sections 84A to 84E are repealed and the following sections substituted:Filing o
     (a) the judgment debtor or relevant officer must be brought before a Judge or Registrar as soon as possible for the purpose of commencing or continuing the hearing:
     (b) the judgment debtor or relevant officer is bailable as of right:
     (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-    (d) if the judgment debtor or relevant officer cannot practicably be brought before a Judge or Registrar, then a Police employee or bailiff may take the bail bond of the judgment debtor or relevant officer, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+    (d) if the judgment debtor or relevant officer cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor or relevant officer, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
   (6) In this section, summons means—
     (a) a summons to attend a hearing under section 84D:
     (b) a summons to attend a financial assessment hearing.
@@ -278,7 +278,7 @@ Section 84O is repealed and the following sections are substituted:Contempt proc
     (b) if the judgment debtor is brought before the Registrar, the Registrar must appoint a time and place for the judgment debtor to appear before a Judge for the purpose of commencing or continuing the hearing:
     (c) the judgment debtor is bailable as of right:
     (d) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any modifications that may be necessary, as if the hearing of the application referred to in subsection (1) were the hearing of a charge:
-    (e) if the judgment debtor cannot practicably be brought immediately before a Judge or Registrar, then any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+    (e) if the judgment debtor cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 24 Judgment debtor doing community work to be discharged on payment
 Section 84Q(2) is amended by omitting report to a community work centre and substituting report for community work.
