@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-04_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -401,7 +401,10 @@ This Act binds the Crown.
   (e) in the case of a licensed insurer that has not yet commenced carrying on insurance business in New Zealand, either or both of the following:
     (i) a condition that specifies the time period within which the insurer must commence carrying on insurance business in New Zealand:
     (ii) a condition that specifies an amount of insurance business in New Zealand that the insurer must have within a specified period (whether that amount is defined in terms of premium revenue, amount of insurance liability, a combination of premium revenue and amount of insurance liability, or in any other way):
-  (f) a condition that requires the licensed insurer or the directors of the insurer (or both) to certify that any conditions have been complied with (being certification that is given at the time or times and in the manner specified in the condition):
+  (f) a condition that requires the licensed insurer or the directors of the insurer (or both) to certify that 1 or more of the following have been complied with (being certification that is given at the time or times and in the manner specified in the condition):
+    (i) any conditions of the licence:
+    (ii) any requirements of this Act or the regulations:
+    (iii) any requirements of any other enactment imposed on the insurer as a licensed insurer (for example, financial reporting obligations):
   (g) a condition that requires a certificate given under paragraph (f) to be verified by the appointed actuary or another person specified in the condition (being verification that is given at the time or times and in the manner specified in the condition):
   (h) any other prescribed conditions or conditions that relate to prescribed matters.
 (3) Subsection (2)(c) does not limit subsection (2)(b).
@@ -429,10 +432,10 @@ A licensed insurer commits an offence if it fails to comply with a condition of 
 
 **Notification of decision**
 
-### 25 Bank must notify applicant of decision and give notice on its Internet site
+### 25 Bank must notify applicant of decision and give notice on register
 (1) The Bank must, after it has made a decision on an application for a licence, give written notice of the decision to the applicant.
 (2) If the Bank refuses to issue a licence, the notice must contain, or be accompanied by, a statement of the Bank's reasons for the refusal.
-(3) The Bank must give notice of the issue of a licence on the Bank's Internet site.
+(3) The Bank must give notice of the issue of a licence on the register kept under section 54A.
 
 **Bank must be notified before control is obtained and before corporate form is changed**
 
@@ -485,7 +488,7 @@ A licensed insurer or other person that fails to comply with section 26, 27, or 
     (viii) the licensed insurer is an overseas company that has been removed from the overseas register (within the meaning of the Companies Act 1993):
     (ix) the licensed insurer has been liquidated, wound up, or dissolved or has otherwise ceased to exist; and
   (b) the licensed insurer has no liabilities under any contracts of insurance in respect of insurance business carried on by it in New Zealand.
-(2) The Bank must not, in the case of subsection (1)(a)(i) to (vi), cancel a licence unless—
+(2) The Bank must not, in the case of subsection (1)(a)(ii) to (vi), cancel a licence unless—
   (a) the Bank sends notice of the Bank's intention to cancel the licence to the insurer; and
   (b) the notice contains, or is accompanied by, a statement of the Bank's reasons; and
   (c) the notice specifies the date by which an objection to the cancellation must be delivered to the Bank (which must be not less than 20 working days after the date of the notice); and
@@ -697,6 +700,17 @@ The Bank must publish its policies in relation to how it acts, or proposes to ac
   (b) in imposing, varying, removing, or adding to conditions of licences; and
   (c) in determining requests for approvals under section 45.
 
+**Register**
+
+### 54A Register
+(1) The Bank must keep a public register of licensed insurers.
+(2) The Bank must determine the form of the register and may amend the form as it considers necessary.
+(3) The register must include—
+  (a) the name of each licensed insurer; and
+  (b) the current financial strength rating of each licensed insurer (unless the insurer is not required to have such a rating); and
+  (c) any other prescribed information.
+(4) The Bank must take all reasonable steps to ensure that the information contained in the public register is available to members of the public at all reasonable times.
+
 ### Subpart 2 — Prudential regulation of insurers
 
 **Solvency standards**
@@ -741,11 +755,7 @@ A solvency standard may prescribe 1 or more of the following matters:
 A licensed insurer commits an offence if it fails to comply with any of the requirements of a solvency standard under section 56(d) or (g) that apply to the insurer and is liable, on conviction, to a fine not exceeding $500,000.
 
 ### 58 Incorporation by reference
-(1) The following written material may be incorporated by reference in a solvency standard:
-  (a) standards, requirements, or recommended practices of international or national organisations:
-  (b) standards, requirements, or recommended practices prescribed in any country or jurisdiction:
-  (c) any other written material that deals with technical matters and is too large or impractical to include in, or print as part of, the solvency standard.
-(2) Schedule 1 applies to any material incorporated by reference in a solvency standard.
+[Repealed]
 
 ### 59 Bank may exempt overseas insurers from compliance
 (1) The Bank may, by notice to an overseas insurer, exempt the insurer from compliance with a solvency standard or a part of a solvency standard.
@@ -764,7 +774,10 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 (2) Subsection (1) does not apply to—
   (a) a licensed insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(a)(ii); or
   (b) a licensed insurer if the only kind of insurance business carried on by the insurer in New Zealand is reinsurance business; or
-  (c) a captive insurer.
+  (c) a captive insurer; or
+  (d) an insurer that is exempted under subsection (2A).
+(2A) The Bank may, by notice to a licensed insurer, exempt the insurer from compliance with subsection (1) if the Bank is satisfied that the insurer has ceased to enter into new contracts of insurance as an insurer.
+(2B) Subsection (2A) is subject to section 232 (which provides for general provisions relating to exemptions).
 (3) Sections 63 to 71 do not apply to—
   (a) a reinsurer in respect of its reinsurance business; or
   (b) a captive insurer.
@@ -803,6 +816,10 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
   (a) those matters (other than the rating scale) are disclosed to the policyholder orally before the contract is entered into or renewed; and
   (b) those matters are disclosed to the policyholder in writing as soon as it becomes practicable to do so.
 (4) For the purposes of this section, a matter is not to be taken as having been disclosed unless it is disclosed clearly and prominently.
+(4A) If a contract of insurance is renewed, the licensed insurer is not required to comply with subsection (1) if—
+  (a) the contract is of a kind that is renewable more frequently than annually; and
+  (b) the information referred to in that subsection was disclosed in writing to the policyholder less than 12 months before the date of the renewal; and
+  (c) that information has not changed since the last disclosure was made to the policyholder under this section.
 (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 65 Disclosure by insurers not required to be rated
@@ -944,20 +961,24 @@ A licensed insurer must ensure that the auditor's report that is prepared under 
 
 **Supply of financial statements**
 
-### 81 Financial statements must be given to Bank
+### 81 Financial statements and interim financial information must be given to Bank
 (1) A licensed insurer must ensure that, on or before the date on which the financial statements of the insurer and any group financial statements are required to be registered under the Financial Reporting Act 1993,—
   (a) copies of those statements together with a copy of the auditor's report on those statements are given to the Bank; and
   (b) a copy of the appointed actuary's report prepared under section 78 in respect of those statements is given to the Bank.
-(2) A licensed insurer must, within 5 months after the end of the first half of each accounting period of the insurer,—
-  (a) prepare interim financial statements of the insurer for that half-period; and
-  (b) prepare interim group financial statements for a group comprising the insurer and its subsidiaries for that half-period; and
-  (c) ensure that copies of those statements together with a copy of the auditor's report on those statements (if any) are given—
+(2) A licensed insurer must, within 4 months after the end of the first half of each accounting period of the insurer,—
+  (a) prepare interim financial information for that half-period that complies with subsection (3); and
+  (b) ensure that copies of that information together with a copy of the auditor's report on the information (if any) are given—
     (i) to the Bank; and
-    (ii) for registration to the Registrar (within the meaning of section 2(1) of the Financial Reporting Act 1993) if this is required by the regulations.
-(3) In subsection (2), subsidiaries has the same meaning as in section 2(1) of the Financial Reporting Act 1993.
-(4) The interim financial statements and interim group financial statements must—
-  (a) be audited if required by the regulations; and
-  (b) be prepared in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993).
+    (ii) for registration to the Registrar if this is required by the regulations.
+(3) The interim financial information must—
+  (a) comply with—
+    (i) generally accepted accounting practice; or
+    (ii) requirements specified by the Bank in a written notice given to the insurer (for example, regulatory requirements that apply in the insurer's home jurisdiction); and
+  (b) be audited if required by the regulations.
+(4) If subsection (3)(a)(i) applies, the interim financial information must be interim financial statements prepared in respect of—
+  (a) the insurer if the insurer, at the end of the half-period, has no subsidiaries; or
+  (b) a group comprising the insurer and its subsidiaries in any other case.
+(4A) In this section, generally accepted accounting practice, Registrar, and subsidiaries have the same meanings as in the Financial Reporting Act 1993.
 (5) This section is subject to any exemption under section 238(1)(a)(iii) in respect of any provision of this section.
 (6) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
@@ -2221,6 +2242,9 @@ If a body corporate is convicted of an offence under this Act, every director of
 (2) For the purposes of subsection (1)(a), another person does not include a director, employee, or agent of the person charged with the offence.
 (3) A person is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the circumstances specified in subsection (1)(a) unless the person has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the person.
 
+### 217A Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Act ends on the date that is 5 years after the date on which the offence was committed.
+
 **Prohibition against falsely holding out New Zealand connection**
 
 ### 218 Prohibition against falsely holding out New Zealand connection
@@ -2406,6 +2430,7 @@ A person commits an offence if the person fails to comply with an order under se
 (2) This section also applies to an exemption granted under any of the following sections:
   (a) section 38 (which relates to exemptions for an overseas insurer from the requirement to provide fit and proper certificates):
   (b) section 59 (which relates to exemptions for an overseas insurer from compliance with solvency standards):
+  (ba) section 60(2A) (which relates to exemptions for insurers in run-off from the requirement to have a current financial strength rating):
   (c) section 119 (which relates to exemptions for an overseas insurer from compliance with statutory fund requirements):
   (d) section 204(4) (which relates to exemptions for Lloyd's underwriters):
   (e) section 220(4) (which relates to exemptions from the prohibition against using certain words in a name).
@@ -2478,7 +2503,7 @@ A person commits an offence if the person fails to comply with an order under se
     (ii) the circumstances in which disclosure of an overseas policyholder preference under section 72 must be made (including prescribing to whom and when the disclosure must be made):
     (iii) the manner in which the disclosure under subparagraph (ii) must be made:
   (i) prescribing types of risk for the purposes of section 73:
-  (j) prescribing auditing and registration requirements in respect of interim financial statements referred to in section 81:
+  (j) prescribing auditing and registration requirements in respect of interim financial information referred to in section 81:
   (k) declaring a class or classes of contracts not to be life policies for the purposes of section 84:
   (l) prescribing matters for the purposes of section 88:
   (m) prescribing the manner in which amounts are ascertained or calculated, notices are given, applications are made, or records are kept for the purposes of sections 88, 89, 94, 100, and 111:
@@ -2499,7 +2524,7 @@ A person commits an offence if the person fails to comply with an order under se
     (i) the inclusion in, or attachment to, forms of specified information or documents:
     (ii) forms to be signed by specified persons:
   (u) prescribing fees payable in respect of any matter under this Act or the manner in which fees may be calculated:
-  (v) prescribing procedures, requirements, and other matters for the register kept under section 226, including matters relating to the operation of that register, access to that register, and the location of, and hours of access to, that register:
+  (v) prescribing procedures, requirements, and other matters for the register kept under section 54A or 226, including matters relating to the operation of that register, access to that register, and the location of, and hours of access to, that register:
   (w) prescribing transitional or savings provisions relating to the coming into force of subpart 3 of Part 2 (in addition to any other transitional provisions in this Act):
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations made under this section or any other provision of this Act may prescribe different matters in respect of different classes of persons.
@@ -2528,6 +2553,20 @@ A person commits an offence if the person fails to comply with an order under se
 (4) In this section, specified person means—
   (a) a person that was carrying on insurance business in New Zealand immediately before the commencement of this section; or
   (b) a friendly society (within the meaning of section 2 of the Friendly Societies and Credit Unions Act 1982).
+
+**Incorporation by reference**
+
+### 238A Incorporation by reference
+(1) This section applies to the following instruments:
+  (a) a declaration under section 9:
+  (b) a fit and proper standard:
+  (c) a solvency standard:
+  (d) regulations.
+(2) The following written material may be incorporated by reference in an instrument referred to in subsection (1):
+  (a) standards, requirements, or recommended practices of international or national organisations:
+  (b) standards, requirements, or recommended practices prescribed in any country or jurisdiction:
+  (c) any other written material that deals with technical matters and is too large or impractical to include in, or print as part of, the instrument.
+(3) Schedule 1 applies to any material incorporated by reference in an instrument referred to in subsection (1).
 
 **Repeals and consequential amendments**
 
@@ -2589,9 +2628,31 @@ The Bank may also issue a provisional licence to a person if the Bank is satisfi
   (a) the issue of a licence under Part 2:
   (b) the date that the provisional licence is cancelled under subsection (2):
   (c) the date that is 3 years after the date on which this Act receives the Royal assent.
+(1A) Subsection (1B) applies to an entity if—
+  (a) the entity still holds a provisional licence immediately before the date (the 3-year date) that is 3 years after the date on which this Act receives the Royal assent; and
+  (b) 1 or more of the following apply to the entity:
+    (i) the entity is, immediately before the 3-year date, subject to an insolvency proceeding or process:
+    (ii) an application for a licence for the entity under section 17 was refused or declined at any time before the 3-year date:
+    (iii) a direction under section 143 has, at any time before the 3-year date, been given to the entity requiring the entity to cease entering into any new contracts of insurance.
+(1B) Despite subsection (1), if this subsection applies to an entity, the provisional licence of the entity remains in force until it is cancelled under subsection (2).
 (2) The Bank may cancel a provisional licence if—
   (a) the holder has asked the Bank, by written notice, to cancel the licence; or
-  (b) the Bank is satisfied that the holder has ceased to carry on insurance business in New Zealand.
+  (b) the Bank is satisfied that the holder has ceased to carry on insurance business in New Zealand; or
+  (c) in the case of subsection (1B), the Bank is satisfied that—
+    (i) the holder is no longer subject to an insolvency proceeding or process; or
+    (ii) the holder is a company that has been removed from the New Zealand register (within the meaning of the Companies Act 1993); or
+    (iii) the holder is an overseas company that has been removed from the overseas register (within the meaning of the Companies Act 1993); or
+    (iv) the holder has been liquidated, wound up, or dissolved or has otherwise ceased to exist; or
+    (v) for any other reason, it is no longer appropriate for the provisional licence to remain in force.
+(3) Subsection (2)(c) does not limit subsection (2)(a) or (b).
+(4) In this section, an entity is subject to an insolvency proceeding or process if any of the following apply:
+  (a) the entity is in liquidation under the Companies Act 1993 or under any other Act:
+  (b) the entity is in voluntary administration or subject to a deed of company arrangement:
+  (c) a receiver has been appointed and is acting in relation to the whole, or substantially the whole, of the assets and the undertaking of the entity:
+  (d) the entity is subject to a compromise with its creditors that has been approved under Part 14 of the Companies Act 1993:
+  (e) an order that an arrangement or a compromise is binding on the entity has been made under Part 15 of the Companies Act 1993:
+  (f) the entity is in statutory management under this Act, the Corporations (Investigation and Management) Act 1989, or any other enactment:
+  (g) in the case of an overseas person, the overseas person is subject to a proceeding or process in its home jurisdiction that is similar to any of those set out in paragraphs (a) to (f).
 
 ### 247 Provisional licence holder only required to comply with requirements to extent required by conditions
 (1) A provisional licence holder is required to comply with the specified requirements only to the extent that the conditions of the licence require the holder to comply.
@@ -2649,42 +2710,43 @@ Despite the repeal, by section 239, of Part 1A of the Life Insurance Act 1908,�
 
 ## Schedule 1 — General provisions relating to incorporation by reference
 
-### 1 Material incorporated by reference into solvency standards
-(1) Material may be incorporated by reference into a solvency standard—
+### 1 Material incorporated by reference
+(1) Material may be incorporated by reference into a specified instrument—
   (a) in whole or in part; and
-  (b) with any modifications, additions, or variations specified in the solvency standard.
+  (b) with any modifications, additions, or variations specified in the specified instrument.
 (2) Material incorporated by reference—
-  (a) is the material as it exists at the time the solvency standard is issued; and
-  (b) has legal effect as part of the solvency standard for all purposes, except as provided in clauses 7 and 8.
+  (a) is the material as it exists at the time the specified instrument is issued or made; and
+  (b) has legal effect as part of the specified instrument for all purposes, except as provided in clauses 7 and 8.
+(3) In this schedule, specified instrument means an instrument to which section 238A applies.
 
 ### 2 Proof of material incorporated by reference
-(1) A copy of any material incorporated by reference in a solvency standard must be—
+(1) A copy of any material incorporated by reference in a specified instrument must be—
   (a) certified by the Governor as a correct copy of the material; and
   (b) retained by the Bank.
-(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material into the solvency standard.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material into the specified instrument.
 
 ### 3 Access to material incorporated by reference
 (1) The Bank—
-  (a) must make copies of all material incorporated by reference in a solvency standard available for inspection during normal working hours at the head office of the Bank; and
+  (a) must make copies of all material incorporated by reference in a specified instrument available for inspection during normal working hours at the head office of the Bank; and
   (b) must make copies of the material available for purchase at a reasonable price from the head office of the Bank; and
   (c) may make copies of the material available in any other way that the Governor considers appropriate in the circumstances (such as on an Internet site); and
   (d) must give notice in the Gazette of how the material is available for inspection and purchase.
-(2) Subclause (1) applies to material when it is first incorporated into a solvency standard, and to any subsequent amendment or replacement of material that is incorporated into the standard.
-(3) A failure to comply with this clause does not invalidate a solvency standard.
+(2) Subclause (1) applies to material when it is first incorporated into a specified instrument, and to any subsequent amendment or replacement of material that is incorporated into the instrument.
+(3) A failure to comply with this clause does not invalidate a specified instrument.
 
 ### 4 Effect of amendments to, or replacements of, material incorporated by reference
-An amendment to, or replacement of, material incorporated by reference in a solvency standard has legal effect as part of the standard only if—
+An amendment to, or replacement of, material incorporated by reference in a specified instrument has legal effect as part of the instrument only if—
   (a) the amendment or replacement material is made by the person or organisation that made the original material; and
   (b) the amendment or replacement material is of the same general character as the original material; and
-  (c) a subsequent solvency standard states that the particular amendment or replacement material has legal effect as part of the standard.
+  (c) a subsequent specified instrument states that the particular amendment or replacement material has legal effect as part of the instrument.
 
 ### 5 Effect of expiry of material incorporated by reference
-Material incorporated by reference in a solvency standard that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the standard only if a subsequent solvency standard states that the material ceases to have that legal effect.
+Material incorporated by reference in a specified instrument that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the instrument only if a subsequent specified instrument states that the material ceases to have that legal effect.
 
 ### 6 Consultation before material incorporated by reference
 (1) This clause applies if—
-  (a) the Bank proposes to incorporate material by reference into any solvency standard; or
-  (b) the Bank proposes to issue a solvency standard adopting amended or replacement material.
+  (a) the Bank proposes to incorporate material by reference into any specified instrument; or
+  (b) the Bank proposes to issue a specified instrument adopting amended or replacement material.
 (2) If any of the things referred to in subclause (1) are proposed, the Bank—
   (a) must make copies of the material (which in this subclause includes any amended or replacement material) proposed to be incorporated by reference available for inspection during normal working hours at the head office of the Bank; and
   (b) must make copies of the material available for purchase at a reasonable price from the head office of the Bank; and
@@ -2692,12 +2754,12 @@ Material incorporated by reference in a solvency standard that expires, is revok
   (d) must give notice in the Gazette of how copies of the material may be inspected and purchased, and how people may make comments on the proposal; and
   (e) must allow a reasonable opportunity for people to comment on the proposal; and
   (f) must consider any comments made within the time allowed.
-(3) A failure to comply with this clause does not invalidate a solvency standard.
+(3) A failure to comply with this clause does not invalidate a specified instrument.
 
 ### 7 Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a solvency standard, or to any amendment to, or replacement of, the material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a solvency standard that incorporates material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated by reference in a solvency standard to be presented to the House of Representatives.
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a specified instrument, or to any amendment to, or replacement of, the material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a specified instrument that incorporates material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated by reference in a specified instrument to be presented to the House of Representatives.
 
 ### 8 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
