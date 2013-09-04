@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-04_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -768,7 +768,7 @@ Notice of appeal shall not operate as a stay of proceedings under the decision a
   (a) the judgment debtor shall be brought before a Judge or a Registrar as soon as possible for the purpose of commencing or continuing the examination:
   (b) the judgment debtor shall be bailable as of right:
   (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply with any necessary modifications as if any such appearance at the examination before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-  (d) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a constable under section 21(1) of that Act.
+  (d) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 84D Conduct of examination
 (1) An examination under section 84B shall be made orally on oath before a District Court Judge or Registrar.
@@ -904,7 +904,7 @@ In sections 84G to 84M, unless the context otherwise requires,—
 (6) Where a judgment debtor is arrested under a warrant issued under subsection (4), the following provisions shall apply:
   (a) the judgment debtor shall be bailable as of right:
   (b) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
-  (c) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any Police employee or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+  (c) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 (7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction, had been sentenced to community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
 (8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court.
 (9) Detention pursuant to this section shall not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
