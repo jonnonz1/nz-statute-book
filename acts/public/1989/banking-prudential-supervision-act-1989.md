@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-04_
 
 > Title
 
@@ -868,6 +868,10 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
 ### 69 Register
 (1) The Bank must keep a public register of persons known as registered banks.
 (2) The Bank must determine the form of the register and may amend the form from time to time as it considers necessary.
+(2A) The register must include—
+  (a) the name of each registered bank; and
+  (b) the current rating of each registered bank under section 80 (if any); and
+  (c) any other prescribed information.
 (3) The Bank must take all reasonable steps to ensure that the information contained in the public register is available to members of the public at all reasonable times.
 
 ### 70 Application for registration
@@ -3123,6 +3127,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (d) authorising the Minister or the Bank or any other person to exercise any discretionary power or authority for the purposes of any such regulations:
   (e) providing for the delegation of any of the powers or functions of the Minister (including the power of delegation) or the Bank under any such regulations:
   (f) providing for and regulating the issue, registration, transfer, control, and redemption of any securities issued by the Bank:
+  (fa) prescribing information for the purposes of section 69(2A)(c):
   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
   (i) prescribing fees to be charged by the Bank in respect of any matter under this Act:
