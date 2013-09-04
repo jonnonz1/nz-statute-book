@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-04_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -483,7 +483,13 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
       (iii) any function, duty, or power is conferred or imposed on that committee or subcommittee by any enactment; or
       (iv) that committee or subcommittee is empowered to exercise or perform, on behalf of any local authority or any committee of any local authority, any function, duty, or power conferred or imposed on any local authority, or on any committee of any local authority, by or under any enactment or bylaw
   - **minutes** , in relation to any meeting of any local authority, means any minutes or other record of the proceedings of any such meeting.
+(1A) Despite subsection (1), meeting, in relation to a local authority that is a board of inquiry or special tribunal given authority to conduct hearings under section 149J or 202 of the Resource Management Act 1991, is limited to any hearing that the board or tribunal holds under section 149L or 206 of that Act.
 (2) For the avoidance of doubt, it is hereby declared that any meeting of a local authority or of any committee or subcommittee of a local authority, at which no resolutions or decisions are made is not a meeting for the purposes of this Part.
+
+### 45A Application of this Part to certain local authorities
+The only provisions of this Part that apply to the following local authorities are sections 48 and 53:
+  (a) a board of inquiry given authority to conduct hearings under section 149J of the Resource Management Act 1991; and
+  (b) a special tribunal given authority to conduct hearings under section 202 of the Resource Management Act 1991.
 
 ### 46 Meetings of local authorities to be publicly notified
 (1) Subject to subsection (2), every local authority shall, not more than 14 days and not less than 5 days before the end of every month, cause to be publicly notified a list of all meetings of that local authority scheduled to be held in the following month, together with the dates on which, and the times and places at which, those meetings are to be held.
@@ -614,6 +620,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (1) The enactments specified in Schedule 4 are hereby repealed.
 (2) The Orders in Council specified in Schedule 5 are hereby revoked.
 
+### 59 Transitional provisions for amendments made on or after commencement of Local Government Official Information and Meetings Amendment Act 2013
+(1) The transitional provisions set out in Schedule 6 have effect for the purposes of this Act.
+(2) The provisions relate to amendments made to this Act on or after the commencement of the Local Government Official Information and Meetings Amendment Act 2013.
+
 ## Schedule 1 — Local authorities to which Parts 1 to 7 apply
 
 ## Schedule 2 — Local authorities (additional to those named in Schedule 1) to which Part 7 applies
@@ -638,3 +648,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ## Schedule 4 — Enactments repealed
 
 ## Schedule 5 — Orders revoked
+
+## Schedule 6 — Transitional provisions for amendments made on or after commencement of Local Government Official Information and Meetings Amendment Act 2013
+
+### 1 Interpretation
+In this schedule, amendment Act means the Local Government Official Information and Meetings Amendment Act 2013, which amends this Act.
+
+### 2 Application of amendments to boards of inquiry and special tribunals
+The amendments made by the amendment Act apply to a board of inquiry appointed under section 149J of the Resource Management Act 1991, or to a special tribunal appointed under section 202 of that Act, whether appointed before or after the commencement of the amendments.
