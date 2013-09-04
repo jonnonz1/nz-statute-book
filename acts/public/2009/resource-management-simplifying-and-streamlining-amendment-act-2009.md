@@ -1,5 +1,5 @@
 # Resource Management (Simplifying and Streamlining) Amendment Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-04_
 
 ### 1 Title
 This Act is the Resource Management (Simplifying and Streamlining) Amendment Act 2009.
@@ -23,21 +23,21 @@ This Act amends the Resource Management Act 1991.
   - **Environmental Protection Authority** or means the Environmental Protection Authority established under section 42B
   - **proposed policy statement** has the meaning given in section 43AA
   - **use** ,—
-    (a) in sections 9, 10, 10A, 10B, 81(2), 176(1)(b)(i), and 193(a), means—
+    (a) in sections 9, 10, 10A, 10B, 81(2), 176(1)﻿(b)﻿(i), and 193(a), means—
       (i) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of a structure in, on, under, or over land:
       (ii) drill, excavate, or tunnel land or disturb land in a similar way:
       (iii) damage, destroy, or disturb the habitats of plants or animals in, on, or under land:
       (iv) deposit a substance in, on, or under land:
       (v) any other use of land; and
-    (b) in sections 9, 10A, 81(2), 176(1)(b)(i), and 193(a), also means to enter onto or pass across the surface of water in a lake or river
+    (b) in sections 9, 10A, 81(2), 176(1)﻿(b)﻿(i), and 193(a), also means to enter onto or pass across the surface of water in a lake or river
 (4) The definition of applicant is repealed and the following definition substituted:.
   - **applicant** ,—
     (a) in sections 37A, 40, 41B, 41C, and 42A means—
       (i) for the purposes of a review of consent conditions, the consent holder; or
-      (ii) for any matter described in section 39(1) except for section 39(1)(c), the person who initiates the matter:
+      (ii) for any matter described in section 39(1) except for section 39(1)﻿(c), the person who initiates the matter:
     (b) in section 96, means the person who—
-      (i) initiates a matter described in section 39(1)(b) or (d); or
-      (ii) holds a resource consent referred to in section 39(1)(c); or
+      (i) initiates a matter described in section 39(1)﻿(b) or (d); or
+      (ii) holds a resource consent referred to in section 39(1)﻿(c); or
       (iii) initiates a requirement for a designation:
     (c) in Part 6AA, has the meaning given in section 141
 (5) The definition of certificate of compliance is amended by omitting local authority and substituting consent authority or the Environmental Protection Authority.
@@ -126,7 +126,7 @@ The following section is inserted after section 2:Definitions relating to notifi
     (a) it is a Crown organisation; and
     (b) a local authority applies for the order; and
     (c) the order is made against the Crown organisation in its own name.
-  (7) Subsections (5) and (6) apply despite section 17(1)(a) of the Crown Proceedings Act 1950.
+  (7) Subsections (5) and (6) apply despite section 17(1)﻿(a) of the Crown Proceedings Act 1950.
   (8) An instrument of the Crown may be served with an infringement notice, in accordance with this Act, only if—
     (a) it is liable to be proceeded against for the alleged offence under subsection (9); and
     (b) the notice is served against the Crown organisation in its own name.
@@ -175,19 +175,19 @@ Section 10(6) is repealed.
 (2) Section 10A is amended by omitting is notified and substituting takes legal effect in accordance with section 86B or 149N(8).
 (3) Section 10A is amended by inserting the rule in before the plan becomes operative.
 (4) Section 10A is amended by inserting the rule in before the proposed plan.
-(5) Section 10A(1)(a) and (b) are amended by omitting was notified in both places where the words appear and substituting took legal effect in accordance with section 86B or 149N(8) in both places.
+(5) Section 10A(1)﻿(a) and (b) are amended by omitting was notified in both places where the words appear and substituting took legal effect in accordance with section 86B or 149N(8) in both places.
 
 ### 10 Certain existing building works allowed
 (1) Section 10B is amended by omitting was notified in every place where the words appear and substituting took legal effect in accordance with section 86B or 149N(8) in each place.
-(2) Section 10B(3)(a) is amended by omitting has been notified and substituting has taken legal effect in accordance with section 86B or 149N(8).
+(2) Section 10B(3)﻿(a) is amended by omitting has been notified and substituting has taken legal effect in accordance with section 86B or 149N(8).
 (3) Section 10B(4) is repealed and the following subsection substituted:
   (4) Section 10(4) and (5) apply to this section.
 
 ### 11 Restrictions on subdivision of land
-Section 11(1)(a) is repealed and the following paragraph substituted:.
+Section 11(1)﻿(a) is repealed and the following paragraph substituted:.
   (a) both, first, expressly allowed by a national environmental standard, a rule in a district plan as well as a rule in a proposed district plan for the same district (if there is one), or a resource consent and, second, shown on one of the following:
-    (i) a survey plan, as defined in paragraph (a)(i) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
-    (ii) a survey plan, as defined in paragraph (a)(ii) of the definition of survey plan in section 2(1), approved as described in section 228 by the Chief Surveyor; or
+    (i) a survey plan, as defined in paragraph (a)﻿(i) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
+    (ii) a survey plan, as defined in paragraph (a)﻿(ii) of the definition of survey plan in section 2(1), approved as described in section 228 by the Chief Surveyor; or
     (iii) a survey plan, as defined in paragraph (b) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
 
 ### 12 Restrictions on use of coastal marine area
@@ -220,7 +220,7 @@ Section 11(1)(a) is repealed and the following paragraph substituted:.
     (b) heat or energy from water other than open coastal water; or
     (c) heat or energy from the material surrounding geothermal water.
 (2) Section 14(3) is amended by omitting subsection (1) and substituting subsection (2).
-(3) Section 14(3)(a) is amended by omitting use, damming, or diversion is expressly allowed by a rule in a regional plan and in any relevant proposed regional plan and substituting using, damming, or diverting is expressly allowed by a national environmental standard, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one),.
+(3) Section 14(3)﻿(a) is amended by omitting use, damming, or diversion is expressly allowed by a rule in a regional plan and in any relevant proposed regional plan and substituting using, damming, or diverting is expressly allowed by a national environmental standard, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one),.
 
 ### 15 Discharge of contaminants into environment
 (1) Section 15(1) is amended by omitting rule in a regional plan and in any relevant proposed regional plan, a resource consent, or regulations and substituting national environmental standard or other regulations, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
@@ -295,15 +295,15 @@ Section 28A is repealed and the following section substituted:Regional council m
   (4) The council must not charge for supplying the information.
 
 ### 27 Delegation of functions by Ministers
-(1) Section 29(1)(a) to (h) are repealed and the following paragraphs substituted:
+(1) Section 29(1)﻿(a) to (h) are repealed and the following paragraphs substituted:
   (a) certifying any work or activity under section 4:
   (b) appointing persons to exercise powers or perform functions or duties in place of a local authority under section 25:
   (c) recommending the making of a national environmental standard under section 44:
   (d) recommending the approval, change, or revocation of a national policy statement or a New Zealand coastal policy statement under section 52, 53, or 57:
   (e) the following functions, powers, and duties under Part 6AA:
     (i) deciding whether to make a direction under section 142(2) or 147(1) in relation to a matter that is or is part of a proposal of national significance:
-    (ii) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)(a):
-    (iii) extending the time by which a board of inquiry must produce a final report on a matter for which a direction has been made under section 142(2) or 147(1)(a):
+    (ii) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)﻿(a):
+    (iii) extending the time by which a board of inquiry must produce a final report on a matter for which a direction has been made under section 142(2) or 147(1)﻿(a):
     (iv) deciding whether to intervene in a matter under section 149ZA:
     (v) deciding under section 149ZC whether to notify an application or notice of requirement to which section 149ZB applies:
   (f) recommending the making of an Order in Council under section 150C:
@@ -321,8 +321,8 @@ Section 28A is repealed and the following section substituted:Regional council m
 (2) Section 29 is amended by adding the following subsections:
   (4) The Minister may, in writing, delegate to the Environmental Protection Authority his or her functions, powers, and duties under Part 6AA and sections 357B to 357D except the following:
     (a) deciding whether to make a direction under section 142(2) or 147(1) in relation to a matter that is or is part of a proposal of national significance:
-    (b) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)(a):
-    (c) extending the time by which a board of inquiry must produce a final report on a matter for which a direction has been made under section 142(2) or 147(1)(a):
+    (b) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)﻿(a):
+    (c) extending the time by which a board of inquiry must produce a final report on a matter for which a direction has been made under section 142(2) or 147(1)﻿(a):
     (d) deciding whether to intervene in a matter under section 149ZA:
     (e) deciding under section 149ZC whether to notify an application or notice of requirement to which section 149ZB applies.
   (5) A delegation under subsection (4)—
@@ -330,14 +330,14 @@ Section 28A is repealed and the following section substituted:Regional council m
     (b) does not prevent the Minister from performing the functions or duties, or exercising the powers, concerned.
 
 ### 28 Delegation of powers and functions to employees and other persons
-Section 34A(1)(a) is repealed and the following paragraph substituted:.
+Section 34A(1)﻿(a) is repealed and the following paragraph substituted:.
   (a) the approval of a proposed policy statement or plan under clause 17 of Schedule 1:
 
 ### 29 Duty to gather information, monitor, and keep records
 (1) Section 35(1) is amended by inserting or regulations under this Act after Act.
-(2) Section 35(5)(f) is amended by inserting national environmental standard or after any.
-(3) Section 35(5)(ga) is amended by omitting sections 93 to 94C and substituting sections 37, 87E, 95 to 95F, 198C, and 198H.
-(4) Section 35(5)(h) is repealed.
+(2) Section 35(5)﻿(f) is amended by inserting national environmental standard or after any.
+(3) Section 35(5)﻿(ga) is amended by omitting sections 93 to 94C and substituting sections 37, 87E, 95 to 95F, 198C, and 198H.
+(4) Section 35(5)﻿(h) is repealed.
 
 ### 30 Duty to keep records about iwi and hapu
 Section 35A is amended by inserting or regulations under this Act after Act in each place where it appears.
@@ -352,18 +352,18 @@ Section 35A is amended by inserting or regulations under this Act after Act in e
   (ad) charges payable if 1 or more submitters make a request under section 100A in relation to a notice of requirement, but the requiring authority or heritage protection authority does not also make a request, as follows:
     (i) charges payable by the requiring authority or heritage protection authority for the amount that the local authority estimates it would cost for the requirement to be heard and decided or recommended on if the request had not been made; and
     (ii) charges payable by the submitters who made a request for equal shares of any amount by which the cost of the requirement being heard and decided or recommended on in accordance with the request exceeds the amount payable by the authority under subparagraph (i):
-(2) Section 36(1)(b) is amended by inserting any 1 or more of after local authority of.
-(3) Section 36(1)(cb) is amended by inserting any 1 or more of after local authority of.
-(4) Section 36(1)(cb) is also amended by adding ; or and also by adding the following subparagraph:
+(2) Section 36(1)﻿(b) is amended by inserting any 1 or more of after local authority of.
+(3) Section 36(1)﻿(cb) is amended by inserting any 1 or more of after local authority of.
+(4) Section 36(1)﻿(cb) is also amended by adding ; or and also by adding the following subparagraph:
   (iv) the review is carried out under section 128(2).
-(5) Section 36(1)(d) is amended by inserting any 1 or more of after local authority of.
+(5) Section 36(1)﻿(d) is amended by inserting any 1 or more of after local authority of.
 (6) Section 36 is amended by adding the following subsection:
-  (8) However, subsection (7) does not apply to a charge to which subsection (1)(ab)(ii), (ad)(ii), or (cb)(iv) applies (relating to independent hearings commissioners requested by submitters or reviews required by a court order).
+  (8) However, subsection (7) does not apply to a charge to which subsection (1)﻿(ab)﻿(ii), (ad)﻿(ii), or (cb)﻿(iv) applies (relating to independent hearings commissioners requested by submitters or reviews required by a court order).
 
 ### 32 New section 36AA inserted
 The following section is inserted after section 36:Local authority policy on discounting administrative charges
-  (1) A local authority may provide a discount on an administrative charge imposed under section 36 in accordance with regulations made under section 360(1)(hj).
-  (2) The Minister must recommend to the Governor-General within 9 months of the commencement of section 32 of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 that regulations be made under section 360(1)(hj) and the Minister must, before making the recommendation, consult with local authorities about the proposed regulations.
+  (1) A local authority may provide a discount on an administrative charge imposed under section 36 in accordance with regulations made under section 360(1)﻿(hj).
+  (2) The Minister must recommend to the Governor-General within 9 months of the commencement of section 32 of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 that regulations be made under section 360(1)﻿(hj) and the Minister must, before making the recommendation, consult with local authorities about the proposed regulations.
   (3) A local authority may adopt, in accordance with the special consultative procedure set out in section 83 of the Local Government Act 2002, a policy in respect of discounting administrative charges imposed under section 36 of this Act in the circumstances where—
     (a) an application for a resource consent or an application to change or cancel conditions under section 127 is not processed within the time frames set out in this Act; and
     (b) the responsibility for the failure rests with the local authority.
@@ -396,17 +396,17 @@ Section 37B(a) and (b) are repealed and the following paragraphs substituted:.
   (ba) the EPA, while carrying out its functions under Part 6AA, except in respect of the time periods and requirements under section 146(1):
 
 ### 35 Authorisation and responsibilities of enforcement officers
-(1) Section 38(3)(a) is repealed and the following paragraph substituted:.
+(1) Section 38(3)﻿(a) is repealed and the following paragraph substituted:.
   (a) compliance with a resource consent issued by that Minister under section 31A:
-(2) Section 38(3)(b) is repealed.
+(2) Section 38(3)﻿(b) is repealed.
 
 ### 36 Hearings to be public and without unnecessary formality
 (1) Section 39(1) is amended by omitting 146 and substituting 149J.
-(2) Section 39(1)(a) is amended by omitting plan, or change or variation to a policy statement or plan and substituting a plan, a change, or a variation.
-(3) Section 39(1)(c) is amended by omitting an application for.
-(4) Section 39(1)(d) is amended by omitting change any and substituting change or cancel a.
-(5) Section 39(1)(e) is repealed and the following paragraph substituted:.
-  (e) a matter for which a direction has been made under section 142(2) or 147(1)(a); or
+(2) Section 39(1)﻿(a) is amended by omitting plan, or change or variation to a policy statement or plan and substituting a plan, a change, or a variation.
+(3) Section 39(1)﻿(c) is amended by omitting an application for.
+(4) Section 39(1)﻿(d) is amended by omitting change any and substituting change or cancel a.
+(5) Section 39(1)﻿(e) is repealed and the following paragraph substituted:.
+  (e) a matter for which a direction has been made under section 142(2) or 147(1)﻿(a); or
 (6) Section 39(1) is amended by inserting the following paragraph after paragraph (f):.
   (fa) a requirement to alter a designation or heritage order; or
 
@@ -431,7 +431,7 @@ Section 41C(5) is repealed and the following subsections are substituted:
   (5C) However, the authority does not need to provide further information to the applicant or submitter who provided the information.
 
 ### 39 Protection of sensitive information
-Section 42(6)(b) is repealed and the following paragraph substituted:
+Section 42(6)﻿(b) is repealed and the following paragraph substituted:
   (b) local authority includes—
     (i) a board of inquiry appointed under section 47 or 149J:
     (ii) a community board:
@@ -440,7 +440,7 @@ Section 42(6)(b) is repealed and the following paragraph substituted:
     (v) a person given authority to conduct hearings under any of sections 33, 34, 34A, 117, and 202.
 
 ### 40 Reports to local authority
-(1) Section 42A(1) is amended by omitting as defined in section 42(6) and substituting (as local authority is defined in section 42(6)(b)).
+(1) Section 42A(1) is amended by omitting as defined in section 42(6) and substituting (as local authority is defined in section 42(6)﻿(b)).
 (2) Section 42A is amended by inserting the following subsections after subsection (1):
   (1A) The report does not need to repeat material from an assessment of environmental effects provided by the applicant.
   (1B) Instead, the report may—
@@ -455,7 +455,7 @@ Section 42(6)(b) is repealed and the following paragraph substituted:
     (b) give written or electronic notice to those submitters that the report is available at the authority's office.
   (5) The local authority may waive compliance with—
     (a) subsection (3) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been provided with a copy of the report under that subsection; or
-    (b) subsection (4)(b) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been given notice of the report under that paragraph.
+    (b) subsection (4)﻿(b) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been given notice of the report under that paragraph.
 
 ### 41 New Part 4A inserted
 The following Part is inserted after Part 4:Environmental Protection AuthorityEstablishment of Environmental Protection AuthorityFunctions of EPASecretary for the Environment to exercise functions of EPA
@@ -508,7 +508,7 @@ The following sections are inserted after the heading to Part 5:InterpretationMe
   (4) Subsection (3) is subject to section 86B and clause 10(5) of Schedule 1.
   (1) In this Act, unless the context otherwise requires, proposed plan—
     (a) means a proposed plan, a variation to a proposed plan or change, or a change to a plan proposed by a local authority that has been notified under clause 5 of Schedule 1 but has not become operative in terms of clause 20 of Schedule 1; and
-    (b) includes a proposed plan or a change to a plan proposed by a person under Part 2 of Schedule 1 that has been adopted by the local authority under clause 25(2)(a) of Schedule 1.
+    (b) includes a proposed plan or a change to a plan proposed by a person under Part 2 of Schedule 1 that has been adopted by the local authority under clause 25(2)﻿(a) of Schedule 1.
   (2) Subsection (1) is subject to section 86B and clause 10(5) of Schedule 1.
 
 ### 43 Additional powers to implement national environmental standards
@@ -522,7 +522,7 @@ The following sections are inserted after the heading to Part 5:InterpretationMe
 ### 44 Relationship between national environmental standards and rules or consents
 Section 43B(5) to (8) are repealed and the following subsections substituted:
   (5) A land use consent or a subdivision consent granted before the date on which a national environmental standard is notified in the Gazette prevails over the standard.
-  (6) A coastal, water, or discharge permit granted before the date on which a national environmental standard is notified in the Gazette prevails over the standard until a review of the permit's conditions under section 128(1)(ba) results in some or all of the standard prevailing over the permit.
+  (6) A coastal, water, or discharge permit granted before the date on which a national environmental standard is notified in the Gazette prevails over the standard until a review of the permit's conditions under section 128(1)﻿(ba) results in some or all of the standard prevailing over the permit.
   (7) This subsection applies to a resource consent not covered by subsection (5) or (6). The consent prevails over a national environmental standard if the application giving rise to the consent was the subject of a decision on whether to notify it before the date on which the standard is notified in the Gazette. However, the consent does not prevail if the standard expressly provides otherwise.
 
 ### 45 New sections 44 and 44A substituted
@@ -545,10 +545,10 @@ Section 44 is repealed and the following sections are substituted:Restriction on
       (i) the rule is more stringent than the provision in that it prohibits or restricts an activity that the provision permits or authorises; and
       (ii) the standard does not expressly say that a rule may be more stringent than it; or
     (b) the rule is more lenient than the provision.
-  (3) If the duplication or conflict is dealt with in the national environmental standard in one of the ways described in section 43A(1)(e), the local authority must amend the plan or proposed plan to remove the duplication or conflict—
+  (3) If the duplication or conflict is dealt with in the national environmental standard in one of the ways described in section 43A(1)﻿(e), the local authority must amend the plan or proposed plan to remove the duplication or conflict—
     (a) without using the process in Schedule 1; and
     (b) in accordance with the specification in the national environmental standard.
-  (4) If the duplication or conflict arises as described in section 43A(5)(c), the local authority must amend the plan or proposed plan to remove the duplication or conflict—
+  (4) If the duplication or conflict arises as described in section 43A(5)﻿(c), the local authority must amend the plan or proposed plan to remove the duplication or conflict—
     (a) without using the process in Schedule 1; and
     (b) as soon as practicable after the date on which the standard comes into force.
   (5) In every other case of duplication or conflict, the local authority must amend the plan or proposed plan to remove the duplication or conflict—
@@ -561,7 +561,7 @@ Section 44 is repealed and the following sections are substituted:Restriction on
   (8) Every local authority and consent authority must enforce the observance of national environmental standards to the extent to which their powers enable them to do so.
 
 ### 46 Minister chooses process
-(1) Section 46A(2)(b)(i) is repealed and the following subparagraphs are substituted:.
+(1) Section 46A(2)﻿(b)﻿(i) is repealed and the following subparagraphs are substituted:.
   (i) national environmental standards; and
   (ia) other national policy statements; and
 (2) Section 46A(3) is repealed.
@@ -575,8 +575,8 @@ The following section is inserted after section 47:Board of inquiry to suspend c
   (1) The Minister may, at any time before a board of inquiry reports to the Minister under section 51(2), do either or both of the following:
     (a) direct the board to suspend its inquiry for a specified period or until a specified event occurs (for example, until the Minister provides the board with additional material):
     (b) provide the board with additional material to consider.
-  (2) The Minister must give public notice of a direction under subsection (1)(a), including the reasons for the direction.
-  (3) A board of inquiry must suspend its inquiry in accordance with a direction under subsection (1)(a).
+  (2) The Minister must give public notice of a direction under subsection (1)﻿(a), including the reasons for the direction.
+  (3) A board of inquiry must suspend its inquiry in accordance with a direction under subsection (1)﻿(a).
 
 ### 49 Conduct of hearing
 Section 50(3) is repealed and the following subsections are substituted:
@@ -585,7 +585,7 @@ Section 50(3) is repealed and the following subsections are substituted:
 
 ### 50 Matters to be considered and board of inquiry's report
 Section 51(1) is amended by inserting the following paragraph after paragraph (c):.
-  (ca) any additional material provided by the Minister under section 47A(1)(b); and
+  (ca) any additional material provided by the Minister under section 47A(1)﻿(b); and
 
 ### 51 New section 51A inserted
 The following section is inserted after section 51:Withdrawal of proposed national policy statement
@@ -601,7 +601,7 @@ The following section is inserted after section 51:Withdrawal of proposed nation
   (1) The Minister must consider a report and any recommendations made to him or her by a board of inquiry under section 51 and then may—
     (a) make any changes, or no changes, to the proposed national policy statement as he or she thinks fit; or
     (b) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal.
-(3) Section 52(3)(c) is repealed and the following paragraph substituted:.
+(3) Section 52(3)﻿(c) is repealed and the following paragraph substituted:.
   (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations); and
 
 ### 53 Local authority recognition of national policy statements
@@ -664,7 +664,7 @@ Sections 77A and 77B are repealed and the following sections substituted:Power t
     (d) a discretionary activity; or
     (e) a non-complying activity; or
     (f) a prohibited activity.
-  (3) Subsection (1)(b) is subject to section 77B.
+  (3) Subsection (1)﻿(b) is subject to section 77B.
   (1) Subsection (2) applies if a local authority makes a rule in its plan or proposed plan classifying an activity as a controlled activity.
   (2) The local authority must specify in the rule the matters over which it has reserved control in relation to the activity.
   (3) Subsection (4) applies if a local authority makes a rule in its plan or proposed plan classifying an activity as a restricted discretionary activity.
@@ -735,25 +735,25 @@ Section 80 is repealed and the following section substituted:Combined regional a
   (9) A combined document prepared under this section—
     (a) must be prepared in accordance with Schedule 1; and
     (b) when approved by a local authority is deemed, for the purposes of this Act, to be a plan or regional policy statement separately prepared and approved by that authority for its region or district, as the case may be.
-  (10) Subsection (9)(b) applies whether or not the combined document is approved by any of the other local authorities concerned.
+  (10) Subsection (9)﻿(b) applies whether or not the combined document is approved by any of the other local authorities concerned.
   (11) Clause 30 of Schedule 7 of the Local Government Act 2002 applies to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
 
 ### 67 Disputes
 Section 82(3) is repealed and the following subsections are substituted:
-  (3) If a dispute about whether there is an inconsistency described in subsection (1)(a) or (b) is referred to the Court, and the Court considers that there is an inconsistency, the Court must order the authority responsible for the policy statement or plan to remove the inconsistency by initiating a change to the policy statement or plan using the process in Schedule 1.
+  (3) If a dispute about whether there is an inconsistency described in subsection (1)﻿(a) or (b) is referred to the Court, and the Court considers that there is an inconsistency, the Court must order the authority responsible for the policy statement or plan to remove the inconsistency by initiating a change to the policy statement or plan using the process in Schedule 1.
   (4) If a dispute about whether a regional policy statement or a plan gives effect to a national policy statement or New Zealand coastal policy statement is referred to the Court, and the Court considers that the policy statement or plan does not give effect to the other policy statement, the Court must order the authority responsible for the policy statement or plan to amend it in accordance with section 55.
   (5) However, the Court does not need to make an order under subsection (3) or (4) if it considers that the inconsistency, or failure to give effect to the other policy statement, is of minor significance that does not affect the general intent and purpose of the policy statement, plan, or water conservation order concerned.
   (6) To avoid doubt, giving effect to a policy statement includes giving effect to it by complying with a direction described in section 55(2).
 
 ### 68 New heading and sections 86A to 86G inserted
-The following heading and sections are inserted after section 86:Legal effect of rulesPurpose of sections 86B to 86G When rules in proposed plans and changes have legal effectWhen rule has legal effect if decision to delay its effect is rescindedEnvironment Court may order rule to have legal effect from date other than standard dateLocal authorities must identify rules having early or delayed legal effectWhen rules in proposed plans must be treated as operativeRule that has not taken legal effect or become operative excluded from references to rule in this Act and regulations made under this Act
+The following heading and sections are inserted after section 86:Legal effect of rulesPurpose of sections 86B to 86GWhen rules in proposed plans and changes have legal effectWhen rule has legal effect if decision to delay its effect is rescindedEnvironment Court may order rule to have legal effect from date other than standard dateLocal authorities must identify rules having early or delayed legal effectWhen rules in proposed plans must be treated as operativeRule that has not taken legal effect or become operative excluded from references to rule in this Act and regulations made under this Act
   (1) The purpose of sections 86B to 86G is to specify when a rule in a proposed plan or change described in section 86B(6) has legal effect.
   (2) Except to the extent that subsection (1) applies, sections 86B to 86G do not limit or affect the weight that a consent authority gives to objectives, policies, and other issues, reasons, or methods in plans before the plan becomes operative.
   (1) A rule in a proposed plan has legal effect only once a decision on submissions relating to the rule is made and publicly notified under clause 10(4) of Schedule 1, except if—
     (a) subsection (3) applies; or
     (b) the Environment Court, in accordance with section 86D, orders the rule to have legal effect from a different date (being the date specified in the court order); or
     (c) the local authority concerned resolves that the rule has legal effect only once the proposed plan becomes operative in accordance with clause 20 of Schedule 1.
-  (2) However, subsection (1)(c) applies only if—
+  (2) However, subsection (1)﻿(c) applies only if—
     (a) the local authority makes the decision before publicly notifying the proposed plan under clause 5 of Schedule 1; and
     (b) the public notification includes the decision; and
     (c) the decision is not subsequently rescinded (in which case the rule has legal effect from a date determined in accordance with section 86C).
@@ -763,18 +763,18 @@ The following heading and sections are inserted after section 86:Legal effect of
     (c) protects areas of significant habitats of indigenous fauna; or
     (d) protects historic heritage; or
     (e) provides for or relates to an aquaculture management area.
-  (4) For the purposes of subsection (2)(c), a decision is rescinded if—
+  (4) For the purposes of subsection (2)﻿(c), a decision is rescinded if—
     (a) the local authority publicly notifies that the decision is rescinded; and
     (b) the public notice includes a statement of the decision to which it relates and the date on which the recision was made.
   (5) For the purposes of subsection (3), immediate legal effect means legal effect on and from the date on which the proposed plan containing the rule is publicly notified under clause 5 of Schedule 1.
-  (6) A rule in a change to a plan proposed by a person under Part 2 of Schedule 1 that provides for or relates to an aquaculture management area and that has been accepted by the local authority under clause 25(2)(b) of Schedule 1 has legal effect on and from the date the change is publicly notified under clause 26(b) of that schedule.
-  (1) This section applies to a rule to which section 86B(1)(c) applies that is rescinded (within the meaning of subsection (4) of that section).
+  (6) A rule in a change to a plan proposed by a person under Part 2 of Schedule 1 that provides for or relates to an aquaculture management area and that has been accepted by the local authority under clause 25(2)﻿(b) of Schedule 1 has legal effect on and from the date the change is publicly notified under clause 26(b) of that schedule.
+  (1) This section applies to a rule to which section 86B(1)﻿(c) applies that is rescinded (within the meaning of subsection (4) of that section).
   (2) The rule has legal effect from the later of—
     (a) the day after the date on which the local authority concerned publicly notifies that the decision in relation to the rule is rescinded:
     (b) the day that a decision on submissions relating to the rule is made and publicly notified under clause 10(4) of Schedule 1.
   (1) In this section, rule means a rule—
     (a) in a proposed plan or change; and
-    (b) that is not a rule of a type described in section 86B(3)(a) to (e) or (6).
+    (b) that is not a rule of a type described in section 86B(3)﻿(a) to (e) or (6).
   (2) A local authority may apply before or after the proposed plan is publicly notified under clause 5 of Schedule 1 to the Environment Court for a rule to have legal effect from a date other than the date on which the decision on submissions relating to the rule is made and publicly notified under clause 10(4) of Schedule 1.
   (3) If the Court grants the application, the order must specify the date from which the rule is to have legal effect, being a date no earlier than the later of—
     (a) the date that the proposed plan is publicly notified; and
@@ -820,7 +820,7 @@ The following sections are inserted after section 87:Classes of activitiesCertai
     (c) a rule in a proposed plan describes the activity as a prohibited activity and the rule has not become operative.
   (2) Prospecting, exploring, or mining for Crown owned minerals in the internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula must be treated as a prohibited activity.
   (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in section 61(1A) of the Crown Minerals Act 1991.
-  (4) An activity prohibited by section 105(2)(b) of the Historic Places Act 1993 must be treated as a prohibited activity.
+  (4) An activity prohibited by section 105(2)﻿(b) of the Historic Places Act 1993 must be treated as a prohibited activity.
   (1) Sections 87D to 87I apply when an applicant wants one of the following applications to be determined by the Environment Court instead of by a consent authority:
     (a) an application for a resource consent that has been notified:
     (b) an application to change or cancel a condition of a resource consent that has been notified.
@@ -838,7 +838,7 @@ The following sections are inserted after section 87:Classes of activitiesCertai
   (6) In any other case, the consent authority must give the applicant its decision on the request within 15 working days after receiving the request.
   (7) No submitter has a right to be heard by the consent authority on a request.
   (8) If the consent authority returns or declines the request, it must give the applicant its reasons, in writing or electronically, at the same time as it gives the applicant its decision.
-  (9) If the consent authority declines the request under subsection (5) or (6) the applicant may object to the consent authority under section 357A(1)(e).
+  (9) If the consent authority declines the request under subsection (5) or (6) the applicant may object to the consent authority under section 357A(1)﻿(e).
   (1) If the consent authority does not grant the applicant's request under section 87D, the consent authority must continue to process the application.
   (2) If the consent authority grants the applicant's request under section 87D, the consent authority must continue to process the application and must comply with subsections (3) to (5).
   (3) The consent authority must prepare a report on the application within the longer of the following periods:
@@ -859,7 +859,7 @@ The following sections are inserted after section 87:Classes of activitiesCertai
       (i) the consent authority that granted the applicant's request under section 87D; and
       (ii) every person who made a submission to the authority on the application; and
     (c) tell the Registrar of the Environment Court when the copies have been served.
-  (3) A consent authority served under subsection (2)(b)(i) must, without delay, provide the Environment Court with—
+  (3) A consent authority served under subsection (2)﻿(b)﻿(i) must, without delay, provide the Environment Court with—
     (a) the application to which the notice of motion relates; and
     (b) the authority's report on the application; and
     (c) all the submissions on the application that the authority received; and
@@ -880,8 +880,8 @@ The following sections are inserted after section 87:Classes of activitiesCertai
   (2) The application must be determined by the consent authority.
 
 ### 70 Description of type of activity to remain same
-(1) Section 88A(1)(a) is amended by inserting or 145 after section 88.
-(2) Section 88A(1)(b) is amended by omitting under section 88, or for which the activity is treated under section 77C and substituting , or that the application was treated as being made under section 87B and also by omitting clause 10(3) and substituting clause 10(1).
+(1) Section 88A(1)﻿(a) is amended by inserting or 145 after section 88.
+(2) Section 88A(1)﻿(b) is amended by omitting under section 88, or for which the activity is treated under section 77C and substituting , or that the application was treated as being made under section 87B and also by omitting clause 10(3) and substituting clause 10(1).
 (3) Section 88A(3) is repealed.
 
 ### 71 New sections 88B to 88E substituted
@@ -911,25 +911,25 @@ Sections 88B and 88C are repealed and the following sections substituted:Time li
     (b) ending as follows:
       (i) if the applicant provides the information within 15 working days, the date on which the applicant provides the information:
       (ii) if the applicant agrees within 15 working days to provide the information and provides the information, the date on which the applicant provides the information:
-      (iii) if the applicant agrees within 15 working days to provide the information and does not provide the information, the date set under section 92A(2)(a):
+      (iii) if the applicant agrees within 15 working days to provide the information and does not provide the information, the date set under section 92A(2)﻿(a):
       (iv) if the applicant does not respond to the request within 15 working days, the date on which the period of 15 working days ends:
       (v) if the applicant refuses within 15 working days to provide the information, the date on which the applicant refuses to provide the information.
   (3) Subsection (4) applies when—
-    (a) an authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
+    (a) an authority has notified an applicant, under section 92(2)﻿(b), of its wish to commission a report; and
     (b) the applicant agrees, under section 92B(1), to the commissioning of the report.
   (4) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-    (a) starting with the date of the notification under section 92(2)(b); and
+    (a) starting with the date of the notification under section 92(2)﻿(b); and
     (b) ending with the date on which the authority receives the report.
   (5) Subsection (6) applies when—
-    (a) an authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
+    (a) an authority has notified an applicant, under section 92(2)﻿(b), of its wish to commission a report; and
     (b) the applicant does not agree, under section 92B(1), to the commissioning of the report.
   (6) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-    (a) starting with the date of the notification under section 92(2)(b); and
+    (a) starting with the date of the notification under section 92(2)﻿(b); and
     (b) ending with the earlier of the following:
       (i) the date on which the period of 15 working days ends; and
       (ii) the date on which the authority receives the applicant's refusal, under section 92B(1), to agree to the commissioning of the report.
   (1) Subsection (2) applies when an applicant makes a request under section 87D(1).
-  (2) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)(a)) is the period—
+  (2) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)﻿(a)) is the period—
     (a) starting with the date on which the consent authority receives the request; and
     (b) ending with the earliest of the following:
       (i) if section 87E(5) applies, the date on which the 15 working days end:
@@ -939,14 +939,14 @@ Sections 88B and 88C are repealed and the following sections substituted:Time li
   (4) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date on which the consent authority receives the objection; and
     (b) ending with the date on which the authority notifies the applicant of its decision on the objection.
-  (5) Subsection (6) applies when an applicant receives a report provided under section 87F(5)(a).
+  (5) Subsection (6) applies when an applicant receives a report provided under section 87F(5)﻿(a).
   (6) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date on which the consent authority provides the report; and
     (b) ending with the earlier of the following:
-      (i) the date on which the 10 working days referred to in section 87G(2)(a) end; and
-      (ii) the date on which the applicant notifies the authority, in writing or electronically, that the applicant does not intend to lodge a notice of motion under section 87G(2)(a) (if the applicant chooses to notify the authority of this).
+      (i) the date on which the 10 working days referred to in section 87G(2)﻿(a) end; and
+      (ii) the date on which the applicant notifies the authority, in writing or electronically, that the applicant does not intend to lodge a notice of motion under section 87G(2)﻿(a) (if the applicant chooses to notify the authority of this).
   (7) Subsection (8) applies when a requiring authority or heritage protection authority makes a request under section 198B(1).
-  (8) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)(a)) is the period—
+  (8) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)﻿(a)) is the period—
     (a) starting with the date on which the territorial authority receives the request; and
     (b) ending with the earliest of the following:
       (i) if section 198C(4) applies, the date on which the 15 working days end:
@@ -956,23 +956,23 @@ Sections 88B and 88C are repealed and the following sections substituted:Time li
   (10) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date on which the territorial authority receives the objection; and
     (b) ending with the date on which the authority notifies the requiring authority or heritage protection authority of its decision on the objection.
-  (11) Subsection (12) applies when a requiring authority or heritage protection authority receives a report provided under section 198D(5)(a).
+  (11) Subsection (12) applies when a requiring authority or heritage protection authority receives a report provided under section 198D(5)﻿(a).
   (12) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date on which the territorial authority provides the report; and
     (b) ending with the earlier of the following:
-      (i) the date on which the 10 working days referred to in section 198E(2)(a) end; and
-      (ii) the date on which the requiring authority or heritage protection authority notifies the territorial authority, in writing or electronically, that the requiring authority or heritage protection authority does not intend to lodge a notice of motion under section 198E(2)(a) (if the requiring authority or heritage protection authority chooses to notify the territorial authority of this).
+      (i) the date on which the 10 working days referred to in section 198E(2)﻿(a) end; and
+      (ii) the date on which the requiring authority or heritage protection authority notifies the territorial authority, in writing or electronically, that the requiring authority or heritage protection authority does not intend to lodge a notice of motion under section 198E(2)﻿(a) (if the requiring authority or heritage protection authority chooses to notify the territorial authority of this).
   (13) Subsection (14) applies when a territorial authority provides a report under section 198J(4).
   (14) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date on which the territorial authority provides the report; and
     (b) ending with the earlier of the following:
-      (i) the date on which the 10 working days referred to in section 198K(1)(a) end; and
-      (ii) the date on which the territorial authority decides not to lodge a notice of motion under section 198K(1)(a) (if it decides this).
+      (i) the date on which the 10 working days referred to in section 198K(1)﻿(a) end; and
+      (ii) the date on which the territorial authority decides not to lodge a notice of motion under section 198K(1)﻿(a) (if it decides this).
   (1) Subsection (2) applies when a consent authority determines, under section 91(1), not to proceed with the notification or hearing of an application for a resource consent.
   (2) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
     (a) starting with the date of the notification of the determination to the applicant under section 91(2); and
     (b) ending with—
-      (i) the date of the receipt of applications for the resource consents that the authority considers, under section 91(1)(b), should be applied for; or
+      (i) the date of the receipt of applications for the resource consents that the authority considers, under section 91(1)﻿(b), should be applied for; or
       (ii) the date of an Environment Court order revoking the authority's determination.
   (3) Subsection (4) applies when an applicant tries, for the purposes of sections 95E(3) and 95F, to obtain the approval of persons who may be adversely affected.
   (4) The period that must be excluded from every applicable provision listed in section 88B(2) is the time taken by the applicant in trying to obtain the approvals, whether or not they are obtained.
@@ -1011,8 +1011,8 @@ The following section is inserted after section 89:Applications affecting naviga
 Section 92A(3) to (6) are repealed and the following subsection substituted:
   (3) The consent authority must consider the application under section 104 even if the applicant—
     (a) does not respond to the request; or
-    (b) agrees to provide the information under subsection (1)(b) but does not do so; or
-    (c) refuses to provide the information under subsection (1)(c).
+    (b) agrees to provide the information under subsection (1)﻿(b) but does not do so; or
+    (c) refuses to provide the information under subsection (1)﻿(c).
 
 ### 75 Responses to notification
 Section 92B is amended by repealing subsections (2) to (5) and substituting the following subsection:
@@ -1030,9 +1030,9 @@ Sections 93 to 95 are repealed and the following heading and sections substitute
     (a) it decides (under section 95D) that the activity will have or is likely to have adverse effects on the environment that are more than minor; or
     (b) the applicant requests public notification of the application; or
     (c) a rule or national environmental standard requires public notification of the application.
-  (3) Despite subsections (1) and (2)(a), a consent authority must not publicly notify the application if—
+  (3) Despite subsections (1) and (2)﻿(a), a consent authority must not publicly notify the application if—
     (a) a rule or national environmental standard precludes public notification of the application; and
-    (b) subsection (2)(b) does not apply.
+    (b) subsection (2)﻿(b) does not apply.
   (4) Despite subsection (3), a consent authority may publicly notify an application if it decides that special circumstances exist in relation to the application.
   (1) If a consent authority does not publicly notify an application for a resource consent for an activity, it must decide (under sections 95E and 95F) if there are any affected persons or affected order holders in relation to the activity.
   (2) The consent authority must give limited notification of the application to any affected person unless a rule or national environmental standard precludes limited notification of the application.
@@ -1043,11 +1043,11 @@ Sections 93 to 95 are repealed and the following heading and sections substitute
   (2) This subsection applies if the consent authority requests further information on the application under section 92(1), but the applicant—
     (a) does not provide the information before the deadline concerned; or
     (b) refuses to provide the information.
-  (3) This subsection applies if the consent authority notifies the applicant under section 92(2)(b) that it wants to commission a report, but the applicant—
+  (3) This subsection applies if the consent authority notifies the applicant under section 92(2)﻿(b) that it wants to commission a report, but the applicant—
     (a) does not respond before the deadline concerned; or
     (b) refuses to agree to the commissioning of the report.
   (4) This section applies despite any rule or national environmental standard that precludes public or limited notification of the application.
-  A consent authority that is deciding, for the purpose of section 95A(2)(a), whether an activity will have or is likely to have adverse effects on the environment that are more than minor—
+  A consent authority that is deciding, for the purpose of section 95A(2)﻿(a), whether an activity will have or is likely to have adverse effects on the environment that are more than minor—
     (a) must disregard any effects on persons who own or occupy—
       (i) the land in, on, or over which the activity will occur; or
       (ii) any land adjacent to that land; and
@@ -1115,7 +1115,7 @@ The following section is inserted after section 103:Time limit for completion of
   (2) The hearing must be concluded no later than 10 working days after the right of reply has been exercised (whether exercised orally or in writing).
 
 ### 83 Consideration of applications
-(1) Section 104(1)(b) is repealed and the following paragraph substituted:.
+(1) Section 104(1)﻿(b) is repealed and the following paragraph substituted:.
   (b) any relevant provisions of—
     (i) a national environmental standard:
     (ii) other regulations:
@@ -1125,12 +1125,12 @@ The following section is inserted after section 103:Time limit for completion of
     (vi) a plan or proposed plan; and
 (2) Section 104(2) is amended by inserting a national environmental standard or after if.
 (3) Section 104(3) is amended by omitting not and substituting not,.
-(4) Section 104(3)(a) and (b) are repealed and the following paragraph substituted:.
+(4) Section 104(3)﻿(a) and (b) are repealed and the following paragraph substituted:.
   (a) when considering an application, have regard to—
     (i) trade competition or the effects of trade competition; or
     (ii) any effect on a person who has given written approval to the application:
 (5) Section 104(4) is repealed and the following subsection substituted:
-  (4) A consent authority considering an application must ignore subsection (3)(a)(ii) if the person withdraws the approval in a written notice received by the consent authority before the date of the hearing, if there is one, or, if there is not, before the application is determined.
+  (4) A consent authority considering an application must ignore subsection (3)﻿(a)﻿(ii) if the person withdraws the approval in a written notice received by the consent authority before the date of the hearing, if there is one, or, if there is not, before the application is determined.
 (6) Section 104 is amended by adding the following subsections:
   (6) A consent authority may decline an application for a resource consent on the grounds that it has inadequate information to determine the application.
   (7) In making an assessment on the adequacy of the information, the consent authority must have regard to whether any request made of the applicant for further information or reports resulted in further information or any report being available.
@@ -1153,10 +1153,10 @@ Section 104C is repealed and the following section substituted:Determination of 
 
 ### 86 Decisions on applications to be in writing, etc
 (1) Section 113(1) is amended by inserting that is notified after for a resource consent.
-(2) Section 113(1)(ab)(i) is repealed and the following subparagraphs are substituted:.
+(2) Section 113(1)﻿(ab)﻿(i) is repealed and the following subparagraphs are substituted:.
   (i) a national environmental standard:
   (ia) a national policy statement:
-(3) Section 113(1)(ae) is amended by omitting of fact and substituting on the principal issues that were in contention.
+(3) Section 113(1)﻿(ae) is amended by omitting of fact and substituting on the principal issues that were in contention.
 (4) Section 113 is amended by adding the following subsections:
   (3) A decision prepared under subsection (1) may,—
     (a) instead of repeating material, cross-refer to all or a part of—
@@ -1215,10 +1215,10 @@ Section 121(3) is repealed.
 
 ### 94 Circumstances when consent conditions can be reviewed
 Section 128 is amended by adding the following subsection:
-  (2) A consent authority must, in accordance with section 129, serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under section 339(5)(b).
+  (2) A consent authority must, in accordance with section 129, serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under section 339(5)﻿(b).
 
 ### 95 Notice of review
-Section 129(1)(c) is amended by inserting or (2) after (ba).
+Section 129(1)﻿(c) is amended by inserting or (2) after (ba).
 
 ### 96 Public notification, submissions, and hearing, etc
 (1) Section 130(2) is repealed and the following subsection substituted:
@@ -1236,7 +1236,7 @@ Section 129(1)(c) is amended by inserting or (2) after (ba).
 (1) Section 132(2) is amended by omitting (other than a review initiated by the Minister of Conservation).
 (2) Section 132(3) and (4) are repealed and the following subsections substituted:
   (3) A consent authority may cancel a resource consent if—
-    (a) it reviews the consent under section 128(1)(c); and
+    (a) it reviews the consent under section 128(1)﻿(c); and
     (b) the application for the consent contained inaccuracies that the consent authority considers materially influenced the decision made on the application; and
     (c) there are significant adverse effects on the environment resulting from the exercise of the consent.
   (4) A consent authority may also cancel a resource consent if—
@@ -1267,9 +1267,9 @@ Section 139 is repealed and the following section substituted:Consent authoritie
     (b) contains the conditions specified in an applicable plan.
   (11) A certificate treated as a resource consent is subject to sections 10, 10A, and 20A(2).
   (12) A certificate treated as a resource consent is subject to this Act as if it were a resource consent, except that the only sections in this Part that apply to it are sections 120, 121, 122, 125, 134, 135, 136, and 137.
-  (13) If an activity relates to a matter that is or is part of a proposal of national significance for which a direction has been made under section 142(2) or 147(1)(a) or (b), a person may request a certificate from the Environmental Protection Authority and this section applies with the following modifications:
+  (13) If an activity relates to a matter that is or is part of a proposal of national significance for which a direction has been made under section 142(2) or 147(1)﻿(a) or (b), a person may request a certificate from the Environmental Protection Authority and this section applies with the following modifications:
     (a) a reference to a consent authority is to be treated as a reference to the EPA; and
-    (b) subsection (5)(b) does not apply; and
+    (b) subsection (5)﻿(b) does not apply; and
     (c) the EPA may recover its actual and reasonable costs of dealing with the request from the person making the request.
   (14) In this section, activity includes a particular proposal.
 
@@ -1286,10 +1286,10 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
         (i) a resource consent; or
         (ii) a change to or cancellation of the conditions of a resource consent:
       (b) the person making the request, for a matter that is a request for a change to a plan—
-        (i) including a request that has been accepted by a board of inquiry under section 149M or the local authority under clause 25(2)(b) of Schedule 1; but
+        (i) including a request that has been accepted by a board of inquiry under section 149M or the local authority under clause 25(2)﻿(b) of Schedule 1; but
         (ii) excluding a request that has been adopted by the local authority:
       (c) the person making the request, for a matter that is a request for the preparation of a regional plan—
-        (i) including a request that has been accepted by a board of inquiry under section 149M or the local authority under clause 25(2)(b) of Schedule 1; but
+        (i) including a request that has been accepted by a board of inquiry under section 149M or the local authority under clause 25(2)﻿(b) of Schedule 1; but
         (ii) excluding a request that has been adopted by the local authority:
       (d) the requiring authority that lodged the notice of requirement, for a matter that is a notice of requirement for a designation or to alter a designation:
       (e) the heritage protection authority that lodged the notice of requirement, for a matter that is a notice of requirement for a heritage order or to alter a heritage order:
@@ -1365,12 +1365,12 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
   (11) A matter may not be lodged with the EPA under this section if—
     (a) the same matter has been lodged with a local authority; and
     (b) the applicant or the local authority has requested that the Minister call in the matter.
-  (1) No later than 20 working days after receiving a matter lodged under section 145, the EPA must recommend to the Minister that he or she make a direction under section 147(1)(a), (b), or (c).
+  (1) No later than 20 working days after receiving a matter lodged under section 145, the EPA must recommend to the Minister that he or she make a direction under section 147(1)﻿(a), (b), or (c).
   (2) The EPA may also recommend to the Minister that he or she exercise 1 or more of the following powers:
-    (a) if the EPA recommends that the Minister make a direction under section 147(1)(a) or (b),—
+    (a) if the EPA recommends that the Minister make a direction under section 147(1)﻿(a) or (b),—
       (i) to make a submission on the matter for the Crown:
       (ii) to extend the 9-month period by which any board of inquiry appointed to determine the matter must report under section 149R(1) because special circumstances exist:
-    (b) if the EPA recommends that the Minister make a direction under section 147(1)(c),—
+    (b) if the EPA recommends that the Minister make a direction under section 147(1)﻿(c),—
       (i) to make a submission on the matter for the Crown:
       (ii) to appoint a project co-ordinator for the matter to advise the local authority:
       (iii) if there is more than 1 matter that relates to the same proposal, and more than 1 local authority, to direct the local authorities to hold a joint hearing on the matters:
@@ -1381,7 +1381,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (a) refer the matter to a board of inquiry for decision; or
     (b) refer the matter to the Environment Court for decision; or
     (c) refer the matter to the local authority.
-  (2) The Minister may make a direction under subsection (1)(a) or (b) only if he or she considers that the matter is or is part of a proposal of national significance.
+  (2) The Minister may make a direction under subsection (1)﻿(a) or (b) only if he or she considers that the matter is or is part of a proposal of national significance.
   (3) The Minister must apply section 142(3) in deciding whether the matter is or is part of a proposal of national significance.
   (4) In deciding on making a direction under subsection (1), the Minister must have regard to—
     (a) the views of the applicant and the local authority; and
@@ -1393,32 +1393,32 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
   (6) To avoid doubt, the Minister may make a direction under subsection (1) that differs from the direction recommended by the EPA under section 146(1).
   (1) If a proposal of national significance relates wholly to the coastal marine area, this Part applies with the following modifications:
     (a) references to the Minister must be read as references to the Minister of Conservation; and
-    (b) sections 149Q(3)(e) and (f) and 149R(4)(e) and (f) must be read as 1 paragraph saying the Minister of Conservation.
+    (b) sections 149Q(3)﻿(e) and (f) and 149R(4)﻿(e) and (f) must be read as 1 paragraph saying the Minister of Conservation.
   (2) If a proposal of national significance relates partly to the coastal marine area, this Part applies with the following modifications:
     (a) references to the Minister must be read as references to the Minister and the Minister of Conservation; and
-    (b) sections 149Q(3)(e) and (f) and 149R(4)(e) and (f) must be read as 1 paragraph saying the Minister and the Minister of Conservation.
+    (b) sections 149Q(3)﻿(e) and (f) and 149R(4)﻿(e) and (f) must be read as 1 paragraph saying the Minister and the Minister of Conservation.
   (1) Subsection (2) applies in relation to a matter—
     (a) that has been lodged with the EPA under section 145; or
     (b) that the Minister has called in (by making a direction under section 142(2)) after it was lodged with the local authority.
   (2) The EPA may,—
     (a) by written notice, request an applicant to provide further information relating to the matter:
     (b) require an EPA employee, or commission any person, to prepare a report on any issue relating to a matter (including in relation to information contained in the matter or provided under paragraph (a)).
-  (3) An applicant who receives a request under subsection (2)(a) must, within 15 working days after the date of the request, do 1 of the following things:
+  (3) An applicant who receives a request under subsection (2)﻿(a) must, within 15 working days after the date of the request, do 1 of the following things:
     (a) provide the information; or
     (b) tell the EPA by written notice that the applicant agrees to provide the information; or
     (c) tell the EPA by written notice that the applicant refuses to provide the information.
-  (4) If the EPA receives a notice under subsection (3)(b), the EPA must—
+  (4) If the EPA receives a notice under subsection (3)﻿(b), the EPA must—
     (a) set a reasonable time within which the applicant must provide the information; and
     (b) tell the applicant by written notice the date by which the applicant must provide the information.
-  (5) If the EPA requests further information under subsection (2)(a) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on,—
+  (5) If the EPA requests further information under subsection (2)﻿(a) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on,—
     (a) if the information is provided in accordance with this section, the day after the day on which the EPA receives the information; or
-    (b) if the EPA receives a notice of refusal under subsection (3)(c), the day after the day on which the EPA receives the notice; or
+    (b) if the EPA receives a notice of refusal under subsection (3)﻿(c), the day after the day on which the EPA receives the notice; or
     (c) in any other case, the day after the day on which the deadline for providing the information expires.
-  (6) If the EPA requires a report under subsection (2)(b) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on the day after the day on which the EPA receives the report.
+  (6) If the EPA requires a report under subsection (2)﻿(b) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on the day after the day on which the EPA receives the report.
   (7) The EPA must make its recommendation even if the applicant—
     (a) does not provide the information before the deadline; or
     (b) refuses to provide the information.
-  As soon as practicable after the Minister makes a direction under section 142(2) or 147(1)(a) or (b), the EPA must serve the direction on—
+  As soon as practicable after the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b), the EPA must serve the direction on—
     (a) the local authority; and
     (b) the applicant.
   (1) Subsection (2) applies to a local authority if—
@@ -1428,7 +1428,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (a) the matter; and
     (b) all information received by the local authority that relates to the matter; and
     (c) if applicable, the submissions received by the local authority on the matter.
-  (1) The EPA must give public notice of a direction the Minister makes under section 142(2) or 147(1)(a) or (b).
+  (1) The EPA must give public notice of a direction the Minister makes under section 142(2) or 147(1)﻿(a) or (b).
   (2) Subsection (1) does not apply if—
     (a) the matter is a request for the preparation of a regional plan, or a request for a change to a plan, lodged with the local authority under clause 21 of Schedule 1 and, at the time the Minister makes the direction, the local authority—
       (i) has not yet made a decision on the request under clause 25 of Schedule 1; or
@@ -1455,7 +1455,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
   (3) The EPA must, without delay, give notice to the local authority and the applicant of the instruction under subsection (1).
   (4) The Minister may, at any time, rescind an instruction given under subsection (1) and instruct the EPA to give public notice of the direction concerned under section 149C.
   (1) Any person (including the Minister, for the Crown) may make a submission to the EPA about a matter for which—
-    (a) the Minister has made a direction under section 142(2) or 147(1)(a) or (b); and
+    (a) the Minister has made a direction under section 142(2) or 147(1)﻿(a) or (b); and
     (b) public notice has been given under section 149C.
   (2) Subsection (1) applies—
     (a) whether or not the person has already made a submission to the local authority on the matter; but
@@ -1480,7 +1480,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (b) does not relate to trade competition or the effects of trade competition.
   (9) The closing date for making a submission is 20 working days after the day on which public notice of the direction is given.
   (10) Any submissions on the matter received by the local authority before the matter is called in (by a direction being made under section 142(2)) must be treated as having been made to the EPA under this section.
-  (1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
+  (1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
   (2) The EPA must produce a summary of all the submissions on the matter received under section 149E and give public notice of—
     (a) the availability of a summary of submissions on the matter; and
     (b) where the summary and the submissions can be inspected; and
@@ -1510,13 +1510,13 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (a) the board of inquiry or the Environment Court, as the case may be; and
     (b) the applicant; and
     (c) every person who made a submission on the matter.
-  If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to refer any of the following matters to a board of inquiry or the Environment Court, the local authority must not notify a further change or variation relating to the same issue until after the board or the Court, as the case may be, has made a decision on the matter:
+  If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to refer any of the following matters to a board of inquiry or the Environment Court, the local authority must not notify a further change or variation relating to the same issue until after the board or the Court, as the case may be, has made a decision on the matter:
     (a) a matter that is a change to a plan; or
     (b) a matter that is a variation to a proposed plan; or
     (c) a matter that is a request for the preparation of a regional plan or a request for a change to a plan (including a request that has been accepted or adopted by the local authority or accepted by a board of inquiry).
   (1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, or a variation to a proposed plan, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
-  (2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
-  (1) This section applies if the Minister makes a direction under section 142(2)(a) or 147(1)(a) to refer a matter to a board of inquiry for decision.
+  (2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)﻿(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
+  (1) This section applies if the Minister makes a direction under section 142(2)﻿(a) or 147(1)﻿(a) to refer a matter to a board of inquiry for decision.
   (2) As soon as practicable after making the direction, the Minister must appoint a board of inquiry to decide the matter.
   (3) The Minister must appoint—
     (a) no fewer than 3, but no more than 5, members; and
@@ -1547,7 +1547,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (a) the request is lodged with the EPA under section 145; or
     (b) the request is lodged with the local authority under clause 21 of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet made a decision on the request under clause 25 of Schedule 1.
   (2) The board may only—
-    (a) accept the request entirely under clause 25(2)(b) of Schedule 1; or
+    (a) accept the request entirely under clause 25(2)﻿(b) of Schedule 1; or
     (b) reject the request entirely under clause 25(4) of Schedule 1.
   (3) To make a decision under subsection (2), the board—
     (a) has all the powers of a local authority under clauses 23 and 24 of Schedule 1; and
@@ -1564,13 +1564,13 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
   (5) If the board rejects the request, the board must serve notice of its decision on the applicant and the local authority.
   (1) Subsections (2) to (4) apply if—
     (a) a board of inquiry has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under section 149M; or
-    (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)(b) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet prepared the proposed plan or change under clause 26(a) of Schedule 1.
+    (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)﻿(b) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet prepared the proposed plan or change under clause 26(a) of Schedule 1.
   (2) The local authority must prepare the proposed plan or change in consultation with the applicant as if clause 26(a) of Schedule 1 applied.
   (3) The local authority must then serve a copy of the proposed plan or change on the EPA,—
-    (a) if the circumstances in subsection (1)(a) apply, no later than 4 months after the local authority was served with notice of the board's decision under section 149M(4):
-    (b) if the circumstances in subsection (1)(b) apply, no later than 4 months after the local authority was served with the Minister's direction under section 149A.
+    (a) if the circumstances in subsection (1)﻿(a) apply, no later than 4 months after the local authority was served with notice of the board's decision under section 149M(4):
+    (b) if the circumstances in subsection (1)﻿(b) apply, no later than 4 months after the local authority was served with the Minister's direction under section 149A.
   (4) The local authority must also give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (9) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
-  (5) Subsections (6) to (8) apply if a local authority has adopted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)(a) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet notified the proposed plan or change under clause 5 of Schedule 1.
+  (5) Subsections (6) to (8) apply if a local authority has adopted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)﻿(a) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet notified the proposed plan or change under clause 5 of Schedule 1.
   (6) The local authority must, no later than 4 months after the local authority was served with the Minister's direction under section 149A,—
     (a) serve a copy of the proposed plan or change on the EPA; and
     (b) give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
@@ -1652,7 +1652,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (b) make its decision; and
     (c) produce a written report.
   (2) The board must do everything under subsection (1) no later than 9 months after—
-    (a) the day on which the EPA gave public notice under section 149C of the Minister's direction under section 142(2) or 147(1)(a) in relation to the matter, unless paragraph (b) or (c) applies; or
+    (a) the day on which the EPA gave public notice under section 149C of the Minister's direction under section 142(2) or 147(1)﻿(a) in relation to the matter, unless paragraph (b) or (c) applies; or
     (b) the day on which the EPA gave public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
     (c) the day on which the EPA gave limited notification under section 149ZC(4), if the EPA gave that notice for the matter before the board.
   (3) The report—
@@ -1676,15 +1676,15 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
   (2) The Minister may grant an extension only if—
     (a) he or she considers that special circumstances apply; and
     (b) the time period as extended does not exceed 18 months from—
-      (i) the day on which the EPA gives public notice under section 149C of the Minister's direction under section 142(2) or 147(1)(a) in relation to the matter, unless subparagraph (ii) or (iii) applies; or
+      (i) the day on which the EPA gives public notice under section 149C of the Minister's direction under section 142(2) or 147(1)﻿(a) in relation to the matter, unless subparagraph (ii) or (iii) applies; or
       (ii) the day on which the EPA gives public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
       (iii) the day on which the EPA gives limited notification under section 149ZC(4), if the EPA gives that notice for the matter before the board.
-  (3) However, the Minister may grant an extension that results in a time period greater than that described in subsection (2)(b) if the applicant agrees.
+  (3) However, the Minister may grant an extension that results in a time period greater than that described in subsection (2)﻿(b) if the applicant agrees.
   (4) The EPA must give written notice to the following persons if the Minister grants an extension under subsection (1), or each time the Minister grants an extension under subsection (1), as the case may be:
     (a) the applicant; and
     (b) the local authority; and
     (c) any person who made a submission on the matter.
-  (1) This section applies if the Minister makes a direction under section 142(2)(b) or 147(1)(b) to refer a matter to the Environment Court for decision.
+  (1) This section applies if the Minister makes a direction under section 142(2)﻿(b) or 147(1)﻿(b) to refer a matter to the Environment Court for decision.
   (2) The matter is referred to the Environment Court by the applicant lodging with the Court—
     (a) a notice of motion specifying the orders sought and the grounds on which the application is made; and
     (b) a supporting affidavit on the circumstances giving rise to the application.
@@ -1725,8 +1725,8 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (b) may exercise the powers under section 293; and
     (c) must apply sections 74 to 77D as if it were a territorial authority.
   (8) Part 11 applies to proceedings under this section, except if inconsistent with any provision of this section.
-  (1) A person described in section 149R(4)(a) to (f) may appeal to the High Court against a decision under section 149R(1) or 149U, but only on a question of law.
-  (2) An applicant for a matter to which section 149M applies may appeal to the High Court against a decision under subsection (2)(b) of that section, but only on a question of law.
+  (1) A person described in section 149R(4)﻿(a) to (f) may appeal to the High Court against a decision under section 149R(1) or 149U, but only on a question of law.
+  (2) An applicant for a matter to which section 149M applies may appeal to the High Court against a decision under subsection (2)﻿(b) of that section, but only on a question of law.
   (3) If the appeal is from a decision of a board of inquiry, sections 300 to 307 apply to the appeal subject to the following:
     (a) every reference to the Environment Court in those sections must be read as a reference to the board of inquiry; and
     (b) those sections must be read with any other necessary modifications; and
@@ -1751,13 +1751,13 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
       (i) adopt the change or variation under clause 18(1) of Schedule 1; and
       (ii) send the plan to the Minister of Conservation for his or her approval in accordance with clause 19 of Schedule 1; and
       (iii) following approval of the change or variation by the Minister of Conservation, make the change operative by giving public notice in accordance with clause 20 of Schedule 1.
-  (3) For the purposes of subsection (2)(c)(ii), clause 19 of Schedule 1 must be read as if the reference to any direction of the Environment Court were a reference to any decision of the Environment Court or a board of inquiry.
+  (3) For the purposes of subsection (2)﻿(c)﻿(ii), clause 19 of Schedule 1 must be read as if the reference to any direction of the Environment Court were a reference to any decision of the Environment Court or a board of inquiry.
   (4) A local authority must comply with section 175 if a board of inquiry or the Environment Court confirms a requirement under this Part.
   (1) Subsection (2) applies to a resource consent that has been granted by a board of inquiry or the Environment Court under section 149R or 149U, as the case may be.
   (2) The consent authority concerned has all the functions, duties, and powers in relation to the resource consent as if it had granted the consent itself.
   (3) Subsection (4) applies to a requirement confirmed (with or without modifications) by a board of inquiry or the Environment Court under section 149R or 149U.
   (4) The territorial authority concerned has all the functions, duties, and powers in relation to the requirement as if it had dealt with the matter itself.
-  (1) This section applies if the Minister makes a direction under section 147(1)(c) to refer a matter lodged with the EPA to the local authority.
+  (1) This section applies if the Minister makes a direction under section 147(1)﻿(c) to refer a matter lodged with the EPA to the local authority.
   (2) The EPA must give notice of the Minister's direction to the local authority and the applicant.
   (3) The EPA must also—
     (a) provide the local authority with—
@@ -1789,23 +1789,23 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (c) if there is more than 1 matter that relates to the same proposal, and more than 1 local authority, to direct the local authorities to hold a joint hearing on the matters:
     (d) if the local authority appoints 1 or more hearings commissioners for the matter, to appoint an additional commissioner for the matter.
   (2) In deciding whether to act under subsection (1), the Minister must consider the extent to which the matter is or is part of a proposal of national significance.
-  (3) If the Minister makes a direction under subsection (1)(c),—
+  (3) If the Minister makes a direction under subsection (1)﻿(c),—
     (a) the local authorities must hold the joint hearing; and
     (b) section 102 applies, with the necessary modifications, to the hearing.
-  (4) If the Minister appoints a hearings commissioner under subsection (1)(d), the commissioner has the same powers, functions, and duties as the commissioner or commissioners appointed by the local authority.
+  (4) If the Minister appoints a hearings commissioner under subsection (1)﻿(d), the commissioner has the same powers, functions, and duties as the commissioner or commissioners appointed by the local authority.
   (5) To avoid doubt, if the matter has come before the Minister by way of an application lodged with the EPA, the Minister may exercise the powers under subsection (1) in relation to the matter whether or not the EPA made any recommendations about the matter to the Minister under section 146(2).
   (1) This section applies to a matter that is an application or notice of requirement described in subsection (2) if—
-    (a) the activity that the application or notice relates to is part of a proposal of national significance in relation to which 1 or more matters have already been subject to a direction under section 142(2) or 147(1)(a) or (b); and
+    (a) the activity that the application or notice relates to is part of a proposal of national significance in relation to which 1 or more matters have already been subject to a direction under section 142(2) or 147(1)﻿(a) or (b); and
     (b) the application or notice was lodged with the EPA either—
-      (i) before the board of inquiry or Environment Court, as the case may be, has determined the matter or matters already subject to a direction under section 142(2) or 147(1)(a) or (b); or
+      (i) before the board of inquiry or Environment Court, as the case may be, has determined the matter or matters already subject to a direction under section 142(2) or 147(1)﻿(a) or (b); or
       (ii) after the matter or matters have been determined by the board or the Court and the matter or matters have been granted or confirmed.
   (2) The applications and notices are—
     (a) an application for a resource consent:
     (b) an application for a change to or cancellation of the conditions of a resource consent:
     (c) a notice of requirement to alter a designation:
     (d) a notice of requirement to alter a heritage order.
-  (3) In addition to making a recommendation to the Minister under section 146 on whether to make a direction under section 147(1)(a), (b), or (c) in relation to the application or notice, the EPA must also recommend whether the application or notice should be notified under sections 95A to 95F.
-  (1) If the Minister decides to make a direction under section 147(1)(a) or (b) for an application or notice of requirement to which section 149ZB applies, the Minister must also decide whether to notify the application or notice.
+  (3) In addition to making a recommendation to the Minister under section 146 on whether to make a direction under section 147(1)﻿(a), (b), or (c) in relation to the application or notice, the EPA must also recommend whether the application or notice should be notified under sections 95A to 95F.
+  (1) If the Minister decides to make a direction under section 147(1)﻿(a) or (b) for an application or notice of requirement to which section 149ZB applies, the Minister must also decide whether to notify the application or notice.
   (2) The Minister must apply sections 95A to 95F (but without the time limit specified by section 95), with all necessary modifications, in making his or her decision under subsection (1).
   (3) If the Minister decides that the application or notice is to be publicly notified, sections 149C to 149E apply.
   (4) If the Minister decides that the application or notice is not to be publicly notified, but is to be subject to limited notification, the EPA must give limited notification of the application or notice (but ignoring the time limit specified by section 95).
@@ -1829,7 +1829,7 @@ Sections 140 to 150AA and the heading before section 140 are repealed and the fo
     (c) the Act applies to payments under paragraph (b).
 
 ### 101 Publication, etc, of Order in Council
-Section 154(b)(ii) is repealed.
+Section 154(b)﻿(ii) is repealed.
 
 ### 102 Notice of requirement for designation by territorial authority
 Section 168A(1) and (2) are repealed and the following subsections substituted:
@@ -1872,7 +1872,7 @@ Section 174(4) is repealed and the following subsection substituted:
 Section 175 is repealed and the following section substituted:Designation to be provided for in district plan
   (1) Subsection (2) applies to a territorial authority if—
     (a) a requiring authority makes a decision under section 172 and one of the following applies:
-      (i) no appeal is lodged against the requiring authority's decision within the time permitted by section 174(2)(c); or
+      (i) no appeal is lodged against the requiring authority's decision within the time permitted by section 174(2)﻿(c); or
       (ii) an appeal is lodged against the requiring authority's decision under section 174 but is withdrawn or dismissed; or
       (iii) an appeal is lodged against the requiring authority's decision and the Environment Court confirms or modifies the requirement; or
     (b) a board of inquiry decides to confirm a requirement with or without modifications under section 149R; or
@@ -1882,8 +1882,8 @@ Section 175 is repealed and the following section substituted:Designation to be 
     (b) state in its district plan and in any proposed district plan the name of the requiring authority that has the benefit of the designation.
 
 ### 107 Effect of designation
-(1) Section 176(1)(a) is amended by omitting section 9(1) and substituting section 9(3).
-(2) Section 176(1)(b)(i) is amended by omitting described in section 9(4).
+(1) Section 176(1)﻿(a) is amended by omitting section 9(1) and substituting section 9(3).
+(2) Section 176(1)﻿(b)﻿(i) is amended by omitting described in section 9(4).
 
 ### 108 Land subject to existing designation or heritage order
 Section 177(1) is amended by omitting sections 9(3) and substituting sections 9(2).
@@ -1898,11 +1898,11 @@ Section 178 is repealed and the following section substituted:Interim effect of 
     (e) a territorial authority decides to include a requirement for a designation in its proposed district plan under clause 4 of Schedule 1.
   (2) In the period that starts as described in subsection (3) and ends as described in subsection (4), no person may do anything that would prevent or hinder the public work, project, or work to which the designation relates unless the person has the prior written consent of the requiring authority.
   (3) The period starts,—
-    (a) for the purposes of subsection (1)(a), on the day on which the requiring authority gives notice under section 145:
-    (b) for the purposes of subsection (1)(b), on the day on which the requiring authority gives notice of the requirement under section 168:
-    (c) for the purposes of subsection (1)(c), on the day on which the territorial authority decides whether to notify the notice of requirement under section 168A:
-    (d) for the purposes of subsection (1)(d), on the day on which the requiring authority gives notice of the requirement for the modified designation under clause 4 of Schedule 1:
-    (e) for the purposes of subsection (1)(e), on the day on which the territorial authority decides to include a requirement for a designation in its proposed district plan under clause 4 of Schedule 1.
+    (a) for the purposes of subsection (1)﻿(a), on the day on which the requiring authority gives notice under section 145:
+    (b) for the purposes of subsection (1)﻿(b), on the day on which the requiring authority gives notice of the requirement under section 168:
+    (c) for the purposes of subsection (1)﻿(c), on the day on which the territorial authority decides whether to notify the notice of requirement under section 168A:
+    (d) for the purposes of subsection (1)﻿(d), on the day on which the requiring authority gives notice of the requirement for the modified designation under clause 4 of Schedule 1:
+    (e) for the purposes of subsection (1)﻿(e), on the day on which the territorial authority decides to include a requirement for a designation in its proposed district plan under clause 4 of Schedule 1.
   (4) The period ends on the earliest of the following days:
     (a) the day on which the requirement is withdrawn:
     (b) the day on which the requirement is cancelled:
@@ -1911,11 +1911,11 @@ Section 178 is repealed and the following section substituted:Interim effect of 
   (6) This section does not prevent an authority responsible for an earlier designation or heritage order from doing anything that is in accordance with the earlier designation or order.
 
 ### 110 Appeals relating to sections 176 to 178
-(1) Section 179(1) is amended by omitting section 176(1)(b) or section 177(2) or section 178(1) and substituting section 176(1)(b), 177(2), or 178(2).
-(2) Section 179(2)(c) is amended by omitting sections 176(1)(b), 177(2), or 178(1) and substituting section 176(1)(b), 177(2), or 178(2).
+(1) Section 179(1) is amended by omitting section 176(1)﻿(b) or section 177(2) or section 178(1) and substituting section 176(1)﻿(b), 177(2), or 178(2).
+(2) Section 179(2)﻿(c) is amended by omitting sections 176(1)﻿(b), 177(2), or 178(1) and substituting section 176(1)﻿(b), 177(2), or 178(2).
 
 ### 111 Transfer of rights and responsibilities for designations
-Section 180(2) is amended by omitting 175(1)(e) and substituting 175(2)(b).
+Section 180(2) is amended by omitting 175(1)﻿(e) and substituting 175(2)﻿(b).
 
 ### 112 New section 189A substituted
 Section 189A is repealed and the following section substituted:Notice of requirement for heritage order by territorial authority
@@ -1981,10 +1981,10 @@ Section 194 is repealed and the following section substituted:Interim effect of 
     (d) a territorial authority decides to include a requirement for a heritage order in its proposed district plan under clause 4 of Schedule 1.
   (2) In the period that starts as described in subsection (3) and ends as described in subsection (4), no person may do anything that would wholly or partly nullify the effect of the heritage order unless the person has the prior written consent of the heritage protection authority.
   (3) The period starts,—
-    (a) for the purposes of subsection (1)(a), on the day on which the heritage protection authority gives notice under section 145:
-    (b) for the purposes of subsection (1)(b), on the day on which the heritage protection authority gives notice of the requirement under section 189:
-    (c) for the purposes of subsection (1)(c), on the day on which the territorial authority decides whether to notify the notice of requirement under section 189A:
-    (d) for the purposes of subsection (1)(d), on the day on which the territorial authority decides to include a requirement for a heritage order in its proposed district plan under clause 4 of Schedule 1.
+    (a) for the purposes of subsection (1)﻿(a), on the day on which the heritage protection authority gives notice under section 145:
+    (b) for the purposes of subsection (1)﻿(b), on the day on which the heritage protection authority gives notice of the requirement under section 189:
+    (c) for the purposes of subsection (1)﻿(c), on the day on which the territorial authority decides whether to notify the notice of requirement under section 189A:
+    (d) for the purposes of subsection (1)﻿(d), on the day on which the territorial authority decides to include a requirement for a heritage order in its proposed district plan under clause 4 of Schedule 1.
   (4) The period ends on the earliest of the following days:
     (a) the day on which the requirement is withdrawn:
     (b) the day on which the requirement is cancelled:
@@ -2004,7 +2004,7 @@ The following section is inserted after section 195:Alteration of heritage order
   (4) Sections 189 to 195 do not apply to an alteration under subsection (3).
   (5) This section applies, with all necessary modifications, to a requirement by a territorial authority to alter its own heritage order or requirement within its own district.
 
-### 119 New sections 198A to 198N and heading inserted
+### 119 New sections 198A to 198M and heading inserted
 The following heading and sections are inserted after section 198:Streamlining decision-making on designations and heritage ordersSections 198B to 198G apply to requirements under section 168 or 189Requiring authority or heritage protection authority's requestTerritorial authority’s decision on requestTerritorial authority's subsequent processingEnvironment Court decidesResidual powers of territorial authorityWhen territorial authority must deal with requirementSections 198I to 198M apply to requirements under section 168A or 189ATerritorial authority's decisionTerritorial authority's subsequent processingEnvironment Court decidesResidual powers of territorial authorityWhen territorial authority must deal with requirement
   (1) Sections 198B to 198G apply when a requiring authority or heritage protection authority wants 1 of the following requirements to be the subject of a decision by the Environment Court instead of a recommendation by a territorial authority and a decision by the requiring authority or heritage protection authority:
     (a) a requirement for a designation under section 168 that has been notified:
@@ -2045,7 +2045,7 @@ The following heading and sections are inserted after section 198:Streamlining d
       (i) the territorial authority that granted the requiring authority's or heritage protection authority's request under section 198B; and
       (ii) every person who made a submission to the territorial authority on the requirement; and
     (c) tell the Registrar of the Environment Court when the copies have been served.
-  (3) A territorial authority served under subsection (2)(b)(i) must, without delay, provide the Environment Court with—
+  (3) A territorial authority served under subsection (2)﻿(b)﻿(i) must, without delay, provide the Environment Court with—
     (a) the requirement to which the notice of motion relates; and
     (b) the authority's report on the requirement; and
     (c) all the submissions on the requirement that the authority received; and
@@ -2129,7 +2129,7 @@ Section 203 is amended by adding the following subsection:
 ### 121 Submissions to special tribunal
 (1) Section 205(2) is amended by omitting 96(2) and (4) and substituting 96(5) and (6).
 (2) Section 205(2) is amended by adding ; and and also by adding the following paragraph:
-  (c) the reference in section 96(6)(a) to section 97 were a reference to subsection (7) of this section.
+  (c) the reference in section 96(6)﻿(a) to section 97 were a reference to subsection (7) of this section.
 
 ### 122 Conduct of hearing
 (1) Section 206(2) is repealed.
@@ -2140,7 +2140,7 @@ Section 221(2) is repealed and the following subsection substituted:
   (2) Every consent notice must be signed by a person authorised by the territorial authority to sign consent notices.
 
 ### 124 Restrictions upon deposit of survey plan
-(1) Section 224 is amended by omitting under the Land Transfer Act 1952 or with the Registrar of Deeds for the purposes of section 11(1)(a) and substituting for the purposes of section 11(1)(a)(i) or (iii).
+(1) Section 224 is amended by omitting under the Land Transfer Act 1952 or with the Registrar of Deeds for the purposes of section 11(1)﻿(a) and substituting for the purposes of section 11(1)﻿(a)﻿(i) or (iii).
 (2) Section 224(f) is amended by omitting authenticated by the territorial authority under section 252 of the Local Government Act 1974 is lodged with the District Land Registrar or Registrar of Deeds, as the case may require and substituting signed by a person authorised by the territorial authority to sign such certificates is lodged with the Registrar-General of Land.
 
 ### 125 Consent authority approval of plan of survey of reclamation
@@ -2149,14 +2149,14 @@ Section 221(2) is repealed and the following subsection substituted:
     (a) affixing its common seal to the plan of survey (or a copy of it); and
     (b) having its chief executive sign and date a certificate stating that—
       (i) the reclamation conforms with the resource consent and the relevant provisions of any regional plan; and
-      (ii) in respect of any condition of the resource consent that has not been complied with, a bond has been given under section 108(2)(b) or a covenant has been entered into under section 108(2)(d).
-(2) Section 245(6) is amended by omitting subsections (5)(a)(ii) or (5)(b)(ii) and substituting subsection (5)(b).
+      (ii) in respect of any condition of the resource consent that has not been complied with, a bond has been given under section 108(2)﻿(b) or a covenant has been entered into under section 108(2)﻿(d).
+(2) Section 245(6) is amended by omitting subsections (5)﻿(a)﻿(ii) or (5)﻿(b)﻿(ii) and substituting subsection (5)﻿(b).
 
 ### 126 Restrictions on deposit of plan of survey for reclamation
-Section 246(2)(b) is amended by omitting section 245(5)(a)(ii) or (5)(b)(ii) and substituting section 245(5)(b).
+Section 246(2)﻿(b) is amended by omitting section 245(5)﻿(a)﻿(ii) or (5)﻿(b)﻿(ii) and substituting section 245(5)﻿(b).
 
 ### 127 Appointment of Environment Judges and alternate Environment Judges
-Section 250(3)(a) is amended by omitting 8 and substituting 10.
+Section 250(3)﻿(a) is amended by omitting 8 and substituting 10.
 
 ### 128 Representation at proceedings
 (1) Section 274(1) and (2) are repealed and the following subsections substituted:
@@ -2176,8 +2176,8 @@ Section 250(3)(a) is amended by omitting 8 and substituting 10.
     (a) the period for lodging a notice of appeal ends, if the proceedings are an appeal:
     (b) the decision to hold an inquiry, if the proceedings are an inquiry:
     (c) the proceedings are commenced, in any other case.
-(2) Section 274(3)(b) is amended by omitting relief sought and substituting proceedings.
-(3) Section 274(4B) is amended by omitting subsection (1)(e), evidence may only be called and substituting subsection (1)(e) or (f), evidence may be called only.
+(2) Section 274(3)﻿(b) is amended by omitting relief sought and substituting proceedings.
+(3) Section 274(4B) is amended by omitting subsection (1)﻿(e), evidence may only be called and substituting subsection (1)﻿(e) or (f), evidence may be called only.
 (4) Section 274(6) is amended by omitting public generally and substituting interest that the general public has.
 
 ### 129 Section 284A repealed
@@ -2263,7 +2263,7 @@ The following Part is inserted after section 308:Act not to be used to oppose tr
 (2) Section 325(4) is repealed.
 
 ### 137 Power of entry for inspection
-Section 332(1)(c) is amended by omitting 14(2), or 15(2) and substituting 14(1), 15(2), and 15(2A).
+Section 332(1)﻿(c) is amended by omitting 14(2), or 15(2) and substituting 14(1), 15(2), and 15(2A).
 
 ### 138 Offences against this Act
 Section 338(4) is amended by inserting, after subsection (1), , (1A), or (1B).
@@ -2295,8 +2295,8 @@ Section 340(2) and (3) are repealed and the following subsections substituted:
     (b) that he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 141 Service of documents
-(1) Section 352(1)(b) is amended by omitting , including by facsimile.
-(2) Section 352(1)(ca) and (d) are repealed and the following paragraphs substituted:
+(1) Section 352(1)﻿(b) is amended by omitting , including by facsimile.
+(2) Section 352(1)﻿(ca) and (d) are repealed and the following paragraphs substituted:
   (d) by posting it to the Post Office box address that the person has specified as an address for service; or
   (e) by leaving it at a document exchange for direction to the document exchange box number that the person has specified as an address for service; or
   (f) by sending it to the fax number that the person has specified as an address for service; or
@@ -2315,25 +2315,25 @@ Section 357 is repealed and the following section substituted:Right of objection
   (2) A person whose submission to an authority is struck out under section 41C(7) has a right of objection to the authority.
   (3) A person whose application to a consent authority is determined to be incomplete under section 88(3) has a right of objection to the consent authority.
   (4) A person whose application or submission is declined to be processed or considered by a board of inquiry exercising the powers of a consent authority under section 99(8) has a right of objection to the board.
-  (5) A person who requests a certificate of compliance from the EPA under section 139(13)(a) has a right of objection to the EPA about the EPA's decision on the request.
+  (5) A person who requests a certificate of compliance from the EPA under section 139(13)﻿(a) has a right of objection to the EPA about the EPA's decision on the request.
   (6) A requiring authority whose notice to a territorial authority is declined under section 182(5) has a right of objection to the territorial authority.
   (7) A requiring authority whose application to a territorial authority is not granted under section 184 has a right of objection to the territorial authority.
   (8) A requiring authority or heritage protection authority whose request to a territorial authority is not granted under section 198C(4) or (5) has a right of objection to the territorial authority.
   (9) A person has a right of objection to a regional council about a public notice given by the council under section 369(11).
 
 ### 143 Right of objection to consent authority against certain decisions or requirements
-(1) Section 357A(1)(b) and (c) are repealed.
-(2) Section 357A(1)(e) is repealed and the following paragraphs are substituted:
+(1) Section 357A(1)﻿(b) and (c) are repealed.
+(2) Section 357A(1)﻿(e) is repealed and the following paragraphs are substituted:
   (e) in respect of a decision of the authority under section 87E(5) or (6), for a person who made a request under section 87D:
   (f) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if—
     (i) the application or review was notified; and
     (ii) either no submissions were received or any submissions received were withdrawn:
   (g) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if the application or review was not notified.
 (3) Section 357A(2) and (3) are repealed and the following subsections substituted:
-  (2) Subsection (1)(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
-  (3) Subsection (1)(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
-  (4) Subsection (1)(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
-  (5) Subsection (1)(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.
+  (2) Subsection (1)﻿(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
+  (3) Subsection (1)﻿(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
+  (4) Subsection (1)﻿(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
+  (5) Subsection (1)﻿(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.
 
 ### 144 Procedure for making and hearing objection under sections 357 to 357B
 (1) Section 357C(1) is repealed and the following subsection substituted:
@@ -2347,11 +2347,11 @@ Section 357 is repealed and the following section substituted:Right of objection
   (2) The person or body to which the objection is made must, within 15 working days after making its decision on the objection, give to the objector, and to every person whom the person or body considers appropriate, notice in writing of its decision on the objection and the reasons for it.
 
 ### 146 Appeals against certain decisions or objections
-(1) Section 358(1) is amended by omitting section 357A and substituting section 357A(1)(a), (d), (f), or (g).
+(1) Section 358(1) is amended by omitting section 357A and substituting section 357A(1)﻿(a), (d), (f), or (g).
 (2) Section 358(1) is amended by adding Appeals from objections under section 357(4) or (8) or, for objections only to a board of inquiry, under section 357(2) are excluded.
 
 ### 147 Regulations
-(1) Section 360(1)(ab) is repealed.
+(1) Section 360(1)﻿(ab) is repealed.
 (2) Section 360(1) is amended by inserting the following paragraphs after paragraph (hi):.
   (hj) providing for discounts on administrative charges imposed under section 36 when local authorities are responsible for applications for a resource consent and applications to change or cancel conditions under section 127 not being processed within the time limits in this Act:
   (hk) requiring local authorities to provide information under sections 35 and 35A to the Minister within the time limits specified in the regulations:
@@ -2369,7 +2369,7 @@ Section 395 is repealed.
 (5) Clause 4(4) is amended by omitting local and substituting territorial.
 (6) Clause 4(7) is repealed and the following subclause substituted:
   (7) If a territorial authority includes a requirement, or modification of a requirement, in its proposed district plan under subclause (6), it must make available for public inspection all information about the requirement that is required by the prescribed form for the notice of that requirement.
-(7) Clause 5(1A)(a) is amended by omitting local and substituting territorial.
+(7) Clause 5(1A)﻿(a) is amended by omitting local and substituting territorial.
 (8) Clauses 6, 7, 8, and 8A are repealed and the following clauses substituted:Making of submissionsPublic notice of submissionsCertain persons may make further submissionsService of further submissions
   (1) Once a proposed policy statement or plan is publicly notified under clause 5, the persons described in subclauses (2) to (4) may make a submission on it to the relevant local authority.
   (2) The local authority in its own area may make a submission.
@@ -2393,7 +2393,7 @@ Section 395 is repealed.
   (1) A person who makes a further submission under clause 8 must serve a copy of it on—
     (a) the relevant local authority; and
     (b) the person who made the submission under clause 6 to which the further submission relates.
-  (2) The further submission must be served on the person referred to in subclause (1)(b) not later than 5 working days after the day on which the person provides the relevant local authority with the further submission.
+  (2) The further submission must be served on the person referred to in subclause (1)﻿(b) not later than 5 working days after the day on which the person provides the relevant local authority with the further submission.
 (9) Clause 10 is repealed and the following clause substituted:Decisions on provisions and matters raised in submissions
   (1) A local authority must give a decision on the provisions and matters raised in submissions, whether or not a hearing is held on the proposed policy statement or plan concerned.
   (2) The decision—
@@ -2409,23 +2409,23 @@ Section 395 is repealed.
     (b) publicly notify the decision within the same time.
   (5) On and from the date the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
 (10) Clause 11(1) and (2) are repealed and the following subclauses substituted:
-  (1) At the same time as a local authority publicly notifies a decision under clause 10(4)(b), it must serve, on every person who made a submission on the proposed policy statement or plan concerned,—
+  (1) At the same time as a local authority publicly notifies a decision under clause 10(4)﻿(b), it must serve, on every person who made a submission on the proposed policy statement or plan concerned,—
     (a) a copy of the public notice; and
     (b) a statement of the time within which an appeal may be lodged by the person.
-  (2) Where a decision has been made under clause 9(2), the territorial authority, at the same time as it publicly notifies a decision under clause 10(4)(b), must serve a copy of the public notice on landowners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
+  (2) Where a decision has been made under clause 9(2), the territorial authority, at the same time as it publicly notifies a decision under clause 10(4)﻿(b), must serve a copy of the public notice on landowners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
 (11) Clause 11(3) is amended by omitting gives a notice summarising a decision, and substituting serves or provides a copy of the public notice under subclause (1) or (2),.
 (12) Clause 14(2) is repealed and the following subclauses are substituted:
   (2) However, a person may appeal under subclause (1) only if—
     (a) the person referred to the provision or the matter in the person's submission on the proposed policy statement or plan; and
     (b) the appeal does not seek the withdrawal of the proposed policy statement or plan as a whole.
-  (2A) For the purposes of subclause (2)(b), proposed plan does not include a variation or a change.
+  (2A) For the purposes of subclause (2)﻿(b), proposed plan does not include a variation or a change.
 (13) Clause 16(1) is repealed and the following subclause substituted:
   (1) A local authority must, without using the process in this Schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
 (14) Clause 16(3) is repealed.
-(15) Clause 20(4)(b) is repealed.
-(16) Clause 25(2)(a)(iii) is amended by inserting legal after request has.
+(15) Clause 20(4)﻿(b) is repealed.
+(16) Clause 25(2)﻿(a)﻿(iii) is amended by inserting legal after request has.
 (17) Clause 25 is amended by inserting the following subclause after subclause (2):
-  (2A) Subclause (2)(a)(iii) is subject to section 86B.
+  (2A) Subclause (2)﻿(a)﻿(iii) is subject to section 86B.
 (18) Clause 29(1) is amended by omitting (2) to (9) and substituting (1A) to (9).
 (19) Clause 29 is amended by inserting the following subclauses after subclause (1):
   (1A) Any person may make a submission but, if the person is a trade competitor of the person who made the request, the person's right to make a submission is limited by subclause (1B).
@@ -2447,17 +2447,7 @@ The principal Act is amended in the manner set out in the Schedule of this Act.
 (2) The legal effect of the rule must be determined as if the amendments made by this Act had not been made.
 
 ### 152 Existing rules providing for protection of trees
-(1) On 1 January 2012, an existing rule or part of a rule in a district plan or proposed district plan that prohibits or restricts the felling, damaging, or removal of any tree, or group of trees, in an urban environment is revoked without further authority than this section.
-(2) On the commencement of this section, an existing rule or part of a rule in a district plan or proposed district plan that prohibits or restricts the trimming of any tree, or group of trees, in an urban environment is revoked without further authority than this section.
-(3) Subsections (1) and (2) apply unless the rule relates to a tree, or group of trees,—
-  (a) specifically identified in the plan or proposed plan; or
-  (b) located within an area in the district that—
-    (i) is a reserve (within the meaning of section 2(1) of the Reserves Act 1977); or
-    (ii) is subject to a conservation management plan or conservation management strategy prepared in accordance with the Conservation Act 1987 or the Reserves Act 1977.
-(4) Each local authority must, before 1 January 2012,—
-  (a) amend any rule in its plan or proposed plan to which subsection (1) applies; and
-  (b) use the Schedule 1 procedure in the principal Act to make the amendment.
-(5) In this section, urban environment has the meaning given in section 76(4B) of the principal Act.
+[Repealed]
 
 ### 153 National environmental standards
 The amendments made by this Act apply to a national environmental standard whether the standard was in force before or after the commencement of this section.
@@ -2552,7 +2542,7 @@ The amendments made by this Act apply to a national policy statement whether the
   (a) compliance with the obligations imposed by the Building Act 2004, the Health and Safety in Employment Act 1992, or the Resource Management Act 1991; and
 (5) Section 8(5) is repealed and the following subsection substituted:
   (5) This section is subject to section 54 of the Health and Safety in Employment Act 1992, sections 77A and 115A of the Summary Proceedings Act 1957, and section 4(9) of the Resource Management Act 1991.
-(6) Section 10(1)(b) is amended by adding the following subparagraph:.
+(6) Section 10(1)﻿(b) is amended by adding the following subparagraph:.
   (vii) section 22 of the Resource Management Act 1991; or
 
 ### 164 Consequential amendment to Incorporated Societies Act 1908
