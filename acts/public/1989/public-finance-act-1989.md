@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-08-30_
+_Consolidation as at 2013-09-04_
 
 > Title
 
@@ -534,7 +534,10 @@ If the context requires, references in this Part to total debt, total operating 
   (b) once prudent levels of total debt have been achieved, maintaining those levels by ensuring that, on average, over a reasonable period of time, total operating expenses do not exceed total operating revenues; and
   (c) achieving and maintaining levels of total net worth that provide a buffer against factors that may impact adversely on total net worth in the future; and
   (d) managing prudently the fiscal risks facing the Government; and
-  (e) pursuing policies that are consistent with a reasonable degree of predictability about the level and stability of tax rates for future years.
+  (e) when formulating revenue strategy, having regard to efficiency and fairness, including the predictability and stability of tax rates; and
+  (f) when formulating fiscal strategy, having regard to the interaction between fiscal policy and monetary policy; and
+  (g) when formulating fiscal strategy, having regard to its likely impact on present and future generations; and
+  (h) ensuring that the Crown's resources are managed effectively and efficiently.
 (2) However, the Government may depart from the principles of responsible fiscal management if—
   (a) the departure from those principles is temporary; and
   (b) the Minister, in accordance with this Act, states—
@@ -584,10 +587,18 @@ All financial statements and forecast financial statements included in reports a
     (ii) if the short-term intentions indicated in the most recent fiscal strategy report were amended in the budget policy statement most recently prepared under section 26M, with the short-term intentions indicated in the statement; and
   (b) if the short-term intentions referred to in subsection (1) are not consistent with the short-term intentions in the most recent fiscal strategy report or in the budget policy statement most recently prepared under section 26M, justify the departure of the short-term intentions referred to in subsection (1) from the short-term intentions in the most recent fiscal strategy report or in the statement.
 
+### 26KA Contents of fiscal strategy report: management of the Crown's resources
+(1) The fiscal strategy report must include details of the Government's strategy for managing expenditure, assets, and liabilities in the period of at least 3 financial years commencing with the financial year to which the report relates.
+(2) Details of the Government's strategy for managing expenditure, assets, and liabilities may include—
+  (a) the outcomes sought from new or reallocated expenditure, assets, and liabilities; and
+  (b) any expected change over time in the major components of expenditure, assets, and liabilities.
+
 ### 26L Contents of fiscal strategy report: other matters
 (1) The fiscal strategy report must include—
   (a) an assessment of the extent to which the economic and fiscal update prepared under section 26O(1) is consistent with the short-term intentions referred to in section 26K(1); and
-  (b) if the economic and fiscal update departs from those short-term intentions, an explanation of the reasons for the departure.
+  (b) if the economic and fiscal update departs from those short-term intentions, an explanation of the reasons for the departure; and
+  (c) an assessment of the extent to which the fiscal performance of the Government, in the period since the most recent substantial change in the political party composition of the administration, is consistent with the Government's fiscal strategy report (if any) for that period; and
+  (d) details of the Government's revenue strategy, including the Government's objectives for the tax system and tax policy.
 (2) The fiscal strategy report must also include—
   (a) scenarios that—
     (i) contain projections of trends in the variables specified in section 26J(1)(a) (which projections must illustrate, for stated significant assumptions, likely future progress towards achieving the long-term objectives referred to in that section); and
@@ -595,6 +606,7 @@ All financial statements and forecast financial statements included in reports a
   (b) an assessment of the consistency of the scenarios with the long-term objectives referred to in section 26J(1)(a); and
   (c) if the scenarios depart from the long-term objectives referred to in section 26J(1)(a), an explanation of the reasons for the departure.
 (3) The projections required by subsection (2)(a)(i) must relate to the period to which the long-term objectives referred to in section 26J(1)(a) relate (which must be a period of 10 or more consecutive financial years commencing with the financial year to which the fiscal strategy report relates).
+(4) In subsection (1)(c), administration means the Ministers of the Crown for the time being.
 
 **Budget policy statement**
 
@@ -608,7 +620,8 @@ All financial statements and forecast financial statements included in reports a
   (c) how the Budget for that year accords with the short-term intentions referred to in the most recent fiscal strategy report or the amended short-term intentions under subsection (3).
 (3) The budget policy statement must,—
   (a) if the long-term objectives referred to in section 26J(1)(a) have changed from those stated in the most recent fiscal strategy report, indicate those amended long-term objectives and explain how they accord with the principles of responsible fiscal management; and
-  (b) if the short-term intentions referred to in section 26K(1) have changed from those indicated in the most recent fiscal strategy report, indicate those amended short-term intentions and explain how they accord with the principles of responsible fiscal management and the long-term objectives in the most recent fiscal strategy report or the amended long-term objectives under paragraph (a).
+  (b) if the short-term intentions referred to in section 26K(1) have changed from those indicated in the most recent fiscal strategy report, indicate those amended short-term intentions and explain how they accord with the principles of responsible fiscal management and the long-term objectives in the most recent fiscal strategy report or the amended long-term objectives under paragraph (a); and
+  (c) if the details of the Government's strategy for managing expenditure, assets, and liabilities (see section 26KA) have changed from those stated in the most recent fiscal strategy report, indicate those amended details.
 
 **Statement on long-term fiscal position**
 
@@ -621,6 +634,16 @@ All financial statements and forecast financial statements included in reports a
   (b) be accompanied by—
     (i) a statement of responsibility signed by the Secretary stating that the Treasury has, in preparing the statement under subsection (1), used its best professional judgments about the risks and the outlook; and
     (ii) a statement of all significant assumptions underlying any projections included in the statement under subsection (1).
+
+**Investment statement**
+
+### 26NA Investment statement
+(1) The Minister must, before the end of 2017 and then at intervals not exceeding 4 years, present to the House of Representatives an investment statement prepared by the Treasury.
+(2) The investment statement must—
+  (a) describe and state the value of the Crown's significant assets and liabilities; and
+  (b) state how those assets and liabilities have changed in value over time; and
+  (c) forecast how those assets and liabilities are expected to change in value in each of at least the next 2 financial years after the financial year in which the investment statement is presented; and
+  (d) identify any significant differences between the information specified in paragraphs (a) to (c) and the equivalent information reported in the most recent previous investment statement.
 
 **Economic and fiscal updates**
 
@@ -746,28 +769,27 @@ Sections 26Q(2)(b) and 26U(1) do not apply to a decision, circumstance, or state
 ### 26X Certain statements and updates may be published in advance of presentation to House of Representatives
 The Minister may arrange for the following to be published in advance of their being presented to the House of Representatives:
   (a) a budget policy statement under section 26M(1):
+  (aa) an investment statement under section 26NA(1):
   (b) a half-year economic and fiscal update under section 26S(1):
   (c) a pre-election economic and fiscal update under section 26T(1).
 
-### 26Y Notification and availability of reports, statements, or updates
-(1) The Minister or, as the case may be, the Secretary must arrange to be published in the Gazette a notice about each of the following:
-  (a) a fiscal strategy report presented to the House of Representatives under section 26I(1):
-  (b) a budget policy statement presented to the House of Representatives under section 26M(1) or published under section 26X:
-  (c) a statement on the long-term fiscal position presented to the House of Representatives under section 26N(1):
-  (d) an economic and fiscal update presented to the House of Representatives under section 26O(1):
-  (e) a half-year economic and fiscal update presented to the House of Representatives under section 26S(1) or published under section 26X:
-  (f) a pre-election economic and fiscal update published under section 26T(1).
-(2) The notice must—
-  (a) indicate where copies of the report, statement, or update are available—
-    (i) for inspection by members of the public free of charge at the place where the notice indicated they would be available; and
-    (ii) for purchase by members of the public at the place where the notice indicated they would be available; and
-  (b) in the case of a statement or update referred to in section 26X, indicate whether the statement or update has been published in advance of being presented to the House of Representatives.
-(3) The Secretary must, for at least 6 months after the date of the publication of the notice, arrange for copies of the report, statement, or update referred to in that notice to be available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public.
+### 26Y Publication and availability of reports, statements, or updates
+(1) The Minister must arrange for a specified document to be published on an Internet site maintained by or on behalf of the Treasury as soon as practicable after the specified document is—
+  (a) published in advance of being presented to the House of Representatives (if permitted under section 26X); or
+  (b) if paragraph (a) does not apply, presented to the House of Representatives.
+(2) The Secretary must ensure that the specified document remains available on the Internet site for inspection by members of the public for at least 5 financial years after the financial year (or, if the document relates to more than 1 financial year, the first financial year) to which the document relates.
+(3) Subsection (1)(a) is deemed to be satisfied if the advance publication referred to in that paragraph includes publication on an Internet site maintained by or on behalf of the Treasury, but subsection (2) applies to the specified document.
+(4) In this section, specified document means—
+  (a) a fiscal strategy report (see section 26I):
+  (b) a budget policy statement (see section 26M):
+  (c) a statement on the long-term fiscal position (see section 26N):
+  (d) an investment statement (see section 26NA):
+  (e) an economic and fiscal update (see section 26O):
+  (f) a half-year economic and fiscal update (see section 26S):
+  (g) a pre-election economic and fiscal update (see section 26T).
 
 ### 26Z Power of Secretary to obtain information
-(1) The Secretary may request any department, any departmental agency, or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in sections 26L, 26N, 26O, 26Q, 26S, and 26T.
+(1) The Secretary may request any department, any departmental agency, or any entity referred to in section 27(3)(a) to (f), or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in sections 26L, 26N, 26NA, 26O, 26Q, 26S, and 26T.
 (2) A request under subsection (1)—
   (a) must be in writing; and
   (b) may state the date by which, and the manner in which, the information requested must be provided.
@@ -1998,12 +2020,15 @@ Notwithstanding the repeal by section 87 of—those provisions shall continue to
 [Repealed]
 
 ### 88 Application, savings, and transitional provisions relating to amendments to Act
-The application, savings, and transitional provisions set out in Schedule 1, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
+(1) The application, savings, and transitional provisions set out in Schedule 1, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
+(2) The application, savings, and transitional provisions relating to the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 1 specified in the second column of the table.Amendment ActSchedule 1 PartPublic Finance Amendment Act 2013Part 1Public Finance (Fiscal Responsibility) Amendment Act 2013Part 2
 
 ## Schedule 1 — Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013
 
+### Part 1 — Provisions relating to Public Finance Amendment Act 2013
+
 ### 1 Interpretation
-In this schedule,—
+In this Part,—
   - **2013/14 financial year** means the financial year ending with 30 June 2014
   - **2014/15 financial year** means the financial year ending with 30 June 2015
   - **amendment Act** means the Public Finance Amendment Act 2013
@@ -2061,6 +2086,14 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
     (ii) apply to an amendment to TRCL's first statement of intent.
 (2) If TRCL's first statement of intent includes information described in section 141(1)(b), (c), (d), (f), (g), or (h) or section 142(1)(b) (a specified provision) of the Crown Entities Act 2004, section 147 of that Act applies as if the information were included in TRCL's first statement of intent under the specified provision.
 (3) In this clause, TRCL's first statement of intent means Tāmaki Redevelopment Company Limited's statement of intent for the 2013/14 financial year.
+
+### Part 2 — Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
+
+### 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
+(1) In this clause, commencement date means the day on which the Public Finance (Fiscal Responsibility) Amendment Act 2013 comes into force.
+(2) Section 26M(3)(c) does not apply to a budget policy statement if the fiscal strategy report most recently presented to the House of Representatives was presented before the commencement date.
+(3) Section 26NA(2)(d) does not apply to the first investment statement presented to the House of Representatives under section 26NA.
+(4) This Part is repealed 4 years after the commencement date.
 
 ## Schedule 2 — Enactments repealed
 
