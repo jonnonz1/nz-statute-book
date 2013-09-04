@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-09-04_
 
 > Title
 
@@ -1065,7 +1065,7 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (a) the defendant must be brought before the Registrar:
   (b) the defendant is bailable as of right:
   (c) section 168 of the Criminal Procedure Act 2011 and Part 3 of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar constituted part of the hearing of a charge:
-  (d) for the purpose of any bail application by the defendant, if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may take the bail bond of the defendant and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+  (d) for the purpose of any bail application by the defendant, if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may grant bail to the defendant, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 88AC Provisions for defendant arrested under warrant for arrest issued for purpose of section 88(3)
 If a defendant is arrested under a warrant for arrest issued for the purpose of section 88(3), the following provisions apply:
@@ -1073,7 +1073,7 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (b) if the defendant is brought before the Registrar, the Registrar must appoint a time and place for the defendant to appear before a District Court Judge or Community Magistrate:
   (c) the defendant is bailable as of right:
   (d) section 168 of the Criminal Procedure Act 2011 and Part 3 of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar or a District Court Judge or Community Magistrate constituted part of the hearing of a charge:
-  (e) if the defendant cannot practicably be brought immediately before a District Court Judge or Community Magistrate or the Registrar, then a Police employee or a bailiff may take the bail bond of the defendant and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under section 21(1) of that Act.
+  (e) if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may grant bail to the defendant, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 88AD Powers of Registrar in relation to defendant brought before Registrar
 (1) If a defendant is brought before a Registrar under section 88(2)(a), the Registrar may examine the defendant as to the defendant's financial position.
