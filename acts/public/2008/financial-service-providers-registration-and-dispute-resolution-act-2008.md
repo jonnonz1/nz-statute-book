@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-07_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -946,3 +946,4 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 | Financial Markets Authority | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
 | Financial Markets Authority | Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees | Securities Trustees and Statutory Supervisors Act 2011 |
+| Reserve Bank of New Zealand | Licensed insurers | Insurance (Prudential Supervision) Act 2010 |
