@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-14_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -379,7 +379,7 @@ _Consolidation as at 2013-08-05_
   (b)
   (c) the National Provident Fund Board established by the National Provident Fund Act 1950; or
   (d) the Reserve Bank of New Zealand constituted under the Reserve Bank of New Zealand Act 1964; or
-  (e) Housing New Zealand Corporation established by the Housing Corporation Act 1974; or
+  (e) Housing New Zealand Corporation established by the Housing Corporation Act 1974.
   (f)
 (3A) Nothing in sections 37, 37A(1)(c) and (d) and (1A), and 39 to 43B applies in respect of a debt security the issuer of which is a local authority.
 (3B) The exemption in subsection (3A) is subject to the conditions that—
@@ -432,7 +432,7 @@ The exemption in section 5A is subject to the conditions that—
 ### 6 Previously allotted securities
 (1) Subject to this section, nothing in sections 33, 34, 37 to 38A, 38C to 43B, and 44B to 59 shall apply in respect of a security that has previously been allotted.
 (2) All the provisions of this Act shall apply in respect of a security that has previously been allotted (whether in New Zealand or elsewhere) if the security was originally allotted with a view to its being offered for sale to the public in New Zealand and the security has not previously been offered for sale to the public in New Zealand or to the public outside New Zealand under an application regime under Part 5.
-(2AA) A provision of Part 2 or the Regulations applies to a previously allotted security that is offered to a person outside New Zealand if—
+(2AA) A provision of Part 2 or the regulations applies to a previously allotted security that is offered to a person outside New Zealand if—
   (a) the provision applies to the security under section 77; and
   (b) the security was originally allotted with a view to its being offered for sale to the public outside New Zealand in circumstances in which an application regime under Part 5 would have applied to the security; and
   (c) the security has not previously been offered for sale to the public in New Zealand or to the public outside New Zealand under an application regime under Part 5.
@@ -1285,115 +1285,22 @@ It is not the function of the Registrar, when acting under section 42 or 43, to 
 **Register of securities offers**
 
 ### 43N Register of securities offers
-(1) A register called the register of securities offers is established.
-(2) The register must be kept by the Registrar.
-(3) The register may be—
-  (a) an electronic register; or
-  (b) kept in any other manner that the Registrar thinks fit.
-(4) The register must be operated at all times unless—
-  (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
-  (b) otherwise provided in regulations.
-(5) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
+[Repealed]
 
 ### 43O Purpose of register
-The purpose of the register is—
-  (a) to give public notice of offers of securities made under registered prospectuses; and
-  (b) to enable any person to—
-    (i) obtain information contained in, or concerning, registered prospectuses; and
-    (ii) obtain other information about, or copies of documents relating to, offers of securities made under registered prospectuses; and
-    (iii) compare information about offers of securities made under registered prospectuses; and
-  (c) to assist any person to decide whether or not to subscribe for securities offered to the public; and
-  (d) to assist any person to perform a financial adviser service (within the meaning of the Financial Advisers Act 2008) or to otherwise comment on an offer of securities to the public; and
-  (e) to assist any person—
-    (i) in the exercise of the person's powers under this Act or any other enactment; or
-    (ii) in the performance of the person's functions or duties under this Act or any other enactment.
+[Repealed]
 
 ### 43P Contents of register
-(1) The register must contain all of the following information and documents, to the extent that the information or documents are relevant, for each registered prospectus:
-  (a) the name of the issuer and the issuer's financial service provider number (if any):
-  (b) the name of every promoter in relation to the offer and the promoter's financial service provider number, if any (subject to subsection (3)):
-  (c) the name of every relevant trustee or supervisor and the relevant trustee or supervisor's financial service provider number (if any):
-  (d) the name of the offer that is specified in the prospectus and the registration number for the prospectus (as specified in the certificate given under section 42):
-  (e) the type of security or securities being offered (for example, an equity security, a debt security, a participatory security, a unit in a unit trust, an interest in a superannuation scheme, or a life insurance policy):
-  (f) the date of the prospectus:
-  (g) the date specified in the prospectus as the last day on which the offer is able to be accepted or, if there is no such date, a statement to that effect:
-  (h) if there is any minimum or maximum number or amount of the securities being offered, the number or amount:
-  (i) the status of the prospectus (being a status that is determined and described in the prescribed manner):
-  (j) the date of registration of the prospectus and of every instrument that amends the prospectus:
-  (k) a copy of the prospectus and of every instrument that amends the prospectus:
-  (l) a copy of each investment statement distributed by or on behalf of the issuer in respect of the offer:
-  (m) a copy of any relevant deed (incorporating or together with all amendments to the deed):
-  (n) a copy of all documents that are required by the regulations to be attached to, or to accompany, the prospectus when it is delivered to the Registrar for registration:
-  (o) a copy of any certificate registered under section 37A(1A) and any financial statements that accompany that certificate:
-  (p) any notice or information provided by the FMA in respect of the prospectus or an investment statement for the offer under section 43J or 43K:
-  (q) a copy of the most recent financial statements of, or relating to, the issuer (and, if there is a scheme, the scheme) that have been registered under section 18 of the Financial Reporting Act 1993, together with a copy of the auditor's report on those statements:
-  (r) any documents, information, and other matters made publicly available under section 54C:
-  (s) any other prescribed matters.
-(2) However, the register is not required to contain information or documents that are prescribed as being information or documents that are not required to be contained in the register.
-(3) Subsection (1)(b) does not apply in respect of a director who is a promoter merely as a result of paragraph (b) of the definition of promoter in section 2.
-(4) The register must also contain—
-  (a) all other documents required to be registered by the Registrar under this Act; and
-  (b) any other prescribed information or documents.
-(5) In this section and section 43S,—
-  - **financial service provider number** , in relation to a person, is the number given to the person on the person's registration under the Financial Service Providers (Registration and Dispute Resolution) Act 2008
-  - **relevant deed** means, in the case of an offer of—
-    (a) debt securities, the trust deed:
-    (b) participatory securities, the deed of participation:
-    (c) units in a unit trust, the trust deed for the unit trust:
-    (d) interests in a superannuation scheme, the trust deed for the superannuation scheme
-  - **relevant trustee or supervisor** means, in the case of an offer of—
-    (a) debt securities, the trustee:
-    (b) participatory securities, the statutory supervisor:
-    (c) units in a unit trust, the unit trustee:
-    (d) interests in a superannuation scheme, the superannuation trustee.
+[Repealed]
 
 ### 43Q Duty to notify relevant matters and provide certain documents and information to Registrar
-(1) An issuer must, in the prescribed manner,—
-  (a) notify the Registrar of any relevant changes in respect of a registered prospectus within 5 working days of becoming aware of the change; and
-  (b) provide to the Registrar a copy of any documents, information, and other matters made, or to be made, publicly available under section 54C before the date that is 5 working days after that material is made available under that section; and
-  (c) provide to the Registrar, before the date that is 5 working days after it is first distributed, a copy of each investment statement that is, or is to be, distributed by or on behalf of the issuer in respect of the offer.
-(2) In this section, relevant changes, in respect of a registered prospectus,—
-  (a) means—
-    (i) any change in the information referred to in section 43P(1)(a) to (h) in respect of the prospectus; or
-    (ii) any change in circumstances that would result in a change to the status of the prospectus as referred to in section 43P(1)(i); or
-    (iii) any other prescribed change that is relevant to the issuer, the scheme (if any), or the prospectus; but
-  (b) does not include—
-    (i) any change in respect of which the FMA is required to notify the Registrar (for example, an order made under section 43G); or
-    (ii) any change that occurs after the period within which allotments of securities may be made under the prospectus has ended as a result of section 37A(1)(c); or
-    (iii) any other change that is prescribed.
-(3) An issuer commits an offence and is liable on conviction to a fine not exceeding $300,000 if the issuer,—
-  (a) without reasonable excuse, contravenes subsection (1); or
-  (b) in purported compliance with subsection (1), supplies a document, information, or other matter knowing it to be false or misleading.
-(4) This section does not apply to changes that occur, or investment statements that are distributed, before the commencement of this section.
+[Repealed]
 
 ### 43R Amendments to register
-(1) The Registrar may amend the register if—
-  (a) an issuer or the FMA informs the Registrar of information that is different from the information entered on the register; or
-  (b) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar.
-(2) The Registrar must amend the register if the regulations require the Registrar to do so in circumstances specified by the regulations.
+[Repealed]
 
 ### 43S Search of register
-(1) A person may search the register in accordance with this Act or the regulations.
-(2) The register may be searched only by reference to the following criteria:
-  (a) the name of an offer as specified in a prospectus:
-  (b) the registration number of a prospectus:
-  (c) the name of an issuer:
-  (d) the name of a promoter:
-  (e) the name of a relevant trustee or supervisor:
-  (f) the financial service provider number of an issuer, a promoter, or a relevant trustee or supervisor:
-  (g) the status of a prospectus (being a status that is determined and described in the prescribed manner):
-  (h) prospectuses that have a particular date or have a date within a range of dates:
-  (i) prospectuses that were registered on a particular date or at any time during a range of dates:
-  (j) prospectuses under which offers are open for acceptance on a particular date or at any time during a range of dates:
-  (k) orders made by the FMA in respect of prospectuses that are in force on a particular date or at any time during a range of dates:
-  (l) the type of security being offered:
-  (m) any other prescribed criteria:
-  (n) any combination of the criteria in paragraphs (a) to (m).
-(3) A search of the register may be carried out only by the following persons for the following purposes:
-  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
-  (b) a person, for a purpose referred to in section 43O:
-  (c) a person, for the purpose of advising another person in connection with any of the purposes referred to in this section.
-(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
+[Repealed]
 
 ### 44 Suspension and cancellation of registration of registered prospectus
 [Repealed]
@@ -2159,7 +2066,8 @@ A person that considers that a decision of the FMA under any of the following pr
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 
 ### 66 Registers to be kept by Registrar for purposes of this Act
-[Repealed]
+(1) The Registrar shall cause to be kept in the office of each District Registrar of Companies such registers as he or she considers necessary for the purposes of this Act, and all matters required by this Act to be registered or recorded by the Registrar shall be recorded therein.
+(2) Sections 360, 361, and 363 of the Companies Act 1993 apply in respect of any documents kept by the Registrar for the purposes of this Act as if they were documents kept for the purposes of that Act.
 
 ## Part 3 — General investigation and enforcement powers
 
@@ -2440,17 +2348,17 @@ Sections 70AA to 70AAD do not affect the application of sections 22 to 25 of the
 
 ### 71 Purpose of this Part
 The purpose of this Part is to enable recognition and application regimes to be implemented that—
-  (a) provide for exemptions from Part 2 and the Regulations so that issuers may offer securities in New Zealand in accordance with the securities laws of designated countries:
-  (b) extend the territorial scope of Part 2 and the Regulations so that issuers may offer securities in designated countries in accordance with New Zealand securities laws, and investors in those countries may rely on and enforce those laws:
+  (a) provide for exemptions from Part 2 and the regulations so that issuers may offer securities in New Zealand in accordance with the securities laws of designated countries:
+  (b) extend the territorial scope of Part 2 and the regulations so that issuers may offer securities in designated countries in accordance with New Zealand securities laws, and investors in those countries may rely on and enforce those laws:
   (c) provide for enforcement in New Zealand of fines and pecuniary penalties imposed for breaches of securities laws of designated countries.
 
 ### 72 Definition of country in this Part
 In this Part, country includes a State, a territory, a country, or a group of countries in respect of which a single securities law, or set of laws, is in force.
 
-### Subpart 2 — Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
+### Subpart 2 — Exemption from Part 2 and regulations for New Zealand offers under recognition regime
 
-### 73 Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
-(1) A provision of Part 2 or the Regulations does not apply to a security offered to a person in New Zealand if—
+### 73 Exemption from Part 2 and regulations for New Zealand offers under recognition regime
+(1) A provision of Part 2 or the regulations does not apply to a security offered to a person in New Zealand if—
   (a) a recognition regime set out in regulations made under section 74 applies to the security; and
   (b) the recognition regime provides an exemption from that provision for the security; and
   (c) the issuer of the security has opted into the recognition regime; and
@@ -2459,9 +2367,9 @@ In this Part, country includes a State, a territory, a country, or a group of co
   (a) that an offer of the security is to be made under the recognition regime; and
   (b) of the full name and address in New Zealand of 1 or more persons resident or incorporated in New Zealand who are authorised to accept service in New Zealand at that address of documents on behalf of the issuer.
 
-### 74 Power to exempt from Part 2 and Regulations under recognition regime
+### 74 Power to exempt from Part 2 and regulations under recognition regime
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations, for the purpose of implementing a recognition regime for a designated country, that provide for—
-  (a) exemptions from provisions of Part 2 and the Regulations; and
+  (a) exemptions from provisions of Part 2 and the regulations; and
   (b) the other matters set out in section 75.
 (2) The Minister may recommend making an Order in Council under this section only—
   (a) if he or she is satisfied that it is in the public interest after having regard to—
@@ -2473,7 +2381,7 @@ In this Part, country includes a State, a territory, a country, or a group of co
 (1) The regulations made under section 74 must state—
   (a) the country to which the recognition regime applies; and
   (b) the classes of securities to which the recognition regime applies (whether by reference to type of issuer, offer, or any other matter); and
-  (c) the exemptions from provisions of Part 2 and the Regulations for those securities; and
+  (c) the exemptions from provisions of Part 2 and the regulations for those securities; and
   (d) the preconditions that must be met for the recognition regime to apply, for example (without limitation), requiring specified information relating to the offer or securities to be provided to the FMA or Registrar; and
   (e) the terms and conditions that must be complied with under the recognition regime, for example (without limitation), requiring—
     (i) the offer of the securities to be made in accordance with specified provisions of the designated country's laws:
@@ -2492,17 +2400,17 @@ In this Part, country includes a State, a territory, a country, or a group of co
   (a) the contravention was for matters that, in the opinion of the court, were immaterial, or that otherwise, in the opinion of the court, having regard to all the circumstances of the case, ought reasonably to be excused; or
   (b) in the case of a person other than the issuer, in the opinion of the court dealing with the case, the contravention did not take place with the person's knowledge and consent.
 
-### Subpart 3 — Extension of Part 2 and Regulations to overseas offers under application regime
+### Subpart 3 — Extension of Part 2 and regulations to overseas offers under application regime
 
-### 77 Extension of Part 2 and Regulations to overseas offers under application regime
-A provision of Part 2 or the Regulations applies to a security that is offered to a person outside New Zealand if—
+### 77 Extension of Part 2 and regulations to overseas offers under application regime
+A provision of Part 2 or the regulations applies to a security that is offered to a person outside New Zealand if—
   (a) an application regime set out in regulations made under section 78 applies to the security; and
   (b) the application regime applies that provision to the security; and
   (c) any other preconditions of the application regime are met.
 
-### 78 Power to extend Part 2 and Regulations under application regime
+### 78 Power to extend Part 2 and regulations under application regime
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations, for the purpose of implementing an application regime for a designated country, that provide for—
-  (a) the application of provisions of Part 2 and the Regulations to securities offered to persons in that country; and
+  (a) the application of provisions of Part 2 and the regulations to securities offered to persons in that country; and
   (b) the other matters set out in section 79.
 (2) The Minister may recommend making an Order in Council under this section only—
   (a) if he or she is satisfied that it is appropriate for New Zealand securities laws to apply to securities offered to persons in the designated country as set out in the proposed application regime; and
@@ -2512,7 +2420,7 @@ A provision of Part 2 or the Regulations applies to a security that is offered t
 (1) The regulations made under section 78 must state—
   (a) the country to which the application regime applies; and
   (b) the classes of securities to which the application regime applies (whether by reference to type of issuer, offer, or any other matter); and
-  (c) the provisions of Part 2 and the Regulations that apply to those securities; and
+  (c) the provisions of Part 2 and the regulations that apply to those securities; and
   (d) whether or not, or the extent to which, exemptions from those provisions granted by the FMA under section 70B may also apply for those securities; and
   (e) the preconditions (if any) that must be met for the application regime to apply; and
   (f) the terms and conditions (if any) that must be complied with under the application regime.
@@ -2590,111 +2498,3 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ## Schedule 1 — Acts to which section 67 applies
 
 ## Schedule 2 — Qualifications
-
-### 1 Title
-This Act is the Securities Amendment Act 2006.
-
-### 2 Commencement
-(1) This Act comes into force on the day after the date on which it receives the Royal assent.
-(2) However, the following provisions only come into force on a date to be appointed by the Governor-General by Order in Council:
-  (a) new section 27(1)(b) of the Securities Act 1978 as substituted by section 5:
-  (b) section 19:
-  (c) in the Schedule, the repeal of sections 382(1)(c) and 383(1)(d) of the Companies Act 1993.
-(3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
-
-### 3 Principal Act amended
-This Act amends the Securities Act 1978.
-
-**Transitional provisions**
-
-### 24 Transitional provision for existing offences and contraventions
-(1) The principal Act continues to have effect as if it were not amended by this subpart for the purpose of—
-  (a) investigating an existing offence or contravention:
-  (b) commencing or completing proceedings for an existing offence or contravention:
-  (c) imposing a penalty or other remedy, or making an order, in relation to an existing offence or contravention.
-(2) In this section, existing offence or contravention means—
-  (a) an offence under, or contravention of, the principal Act that was committed or done in respect of a prospectus that was registered, or an advertisement that was distributed, before the commencement of this subpart; and
-  (b) in any other case, an offence under, or contravention of, the principal Act that was committed or done before the commencement of this subpart.
-
-### 1 Title
-This Act is the Securities Amendment Act 2011.
-
-### 2 Commencement
-(1) This Act (apart from sections 5(3), 16(3), 22, 40, 43(2), and 49(3) to (6)) comes into force on 1 May 2011.
-(2) Sections 5(3), 16(3), 22, 40, 43(2), and 49(3) to (6) come into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
-(3) To the extent that the provisions referred to in subsection (2) are not previously brought into force under that subsection, those provisions come into force on 1 July 2013.
-
-### 3 Principal Act amended
-This Act amends the Securities Act 1978.
-
-### 31 Time limit for applying for civil remedies
-(1) Amendment(s) incorporated in the Act(s).
-(2) Nothing in subsection (1)—
-  (a) enables an application for a pecuniary penalty order to be made that was barred before the commencement of this section; or
-  (b) affects any proceedings commenced before the commencement of this section.
-
-### 37 When Court may prohibit payment or transfer of money, securities, or other property
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Section 60G(1) of the principal Act (as substituted by this section) applies in respect of—
-  (a) a contravention, fraud, negligence, default, breach of duty, or other misconduct regardless of whether it was committed before or after the commencement of this section; and
-  (b) a prosecution or proceeding regardless of whether it begins before or after the commencement of this section.
-
-### 38 What orders may be made
-(1) Amendment(s) incorporated in the Act(s).
-(2) Section 60H(1)(ga) of the principal Act (as inserted by this section) applies in respect of—
-  (a) a contravention, fraud, negligence, default, breach of duty, or other misconduct regardless of whether it was committed before or after the commencement of this section; and
-  (b) a prosecution or proceeding regardless of whether it begins before or after the commencement of this section.
-
-**Transitional provisions**
-
-### 49 Registration of prospectus continues
-(1) If a prospectus was registered under the principal Act before the commencement of this subsection (or is registered in accordance with section 53),—
-  (a) the prospectus must continue to be treated as being a registered prospectus under the principal Act; and
-  (b) the principal Act (as amended by this Act) continues to apply to the prospectus as if it had been registered under section 42 of the principal Act (as substituted by this Act); and
-  (c) every memorandum of amendments to the prospectus registered under the principal Act before the commencement of this subsection (or in accordance with section 53) must continue to be treated as registered.
-(2) However,—
-  (a) subsection (1) does not apply if, before the commencement of this subsection, the registration of the prospectus has been cancelled; and
-  (b) sections 43B to 43E of the principal Act (as substituted by this Act) do not apply to a prospectus referred to in subsection (1) (except as referred to in paragraph (c)); and
-  (c) sections 43B and 43C of the principal Act (as substituted by this Act) apply to an instrument to amend a prospectus referred to in subsection (1) only if the instrument is registered after the commencement of this subsection.
-(3) For the purpose of including information and documents in the register for a current prospectus, the issuer of the securities to which the prospectus relates must, within 40 working days after the commencement of this subsection, supply the prescribed information and documents to the Registrar in the prescribed manner.
-(4) The Registrar is not required to include in the register information and documents for a prospectus registered before the commencement of this subsection if—
-  (a) the period within which allotments of securities may be made under the prospectus in accordance with the principal Act finally ended before the commencement of this subsection (for example, as a result of section 37A(1)(c) of the principal Act); or
-  (b) that information or those documents are of a kind that is prescribed as being information or documents that are not required to be included in the register.
-(5) In subsection (3), current prospectus—
-  (a) means a prospectus that was registered before the commencement of this subsection and under which allotments may still be made in accordance with the principal Act after that commencement; but
-  (b) does not include a prospectus if no allotments of securities will be made under the prospectus after the date that is 40 working days after the commencement of this subsection.
-(6) An issuer commits an offence and is liable on conviction to a fine not exceeding $30,000 if the issuer,—
-  (a) without reasonable excuse, fails to comply with subsection (3); or
-  (b) in purported compliance with that subsection, supplies information or a document knowing it to be false or misleading.
-
-### 50 Regulations for purposes of section 49
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with subsection (2), make regulations prescribing—
-  (a) information and documents for the purposes of section 49(3); and
-  (b) the manner of supplying that information and those documents to the Registrar; and
-  (c) information and documents for the purposes of section 49(4)(b).
-(2) The Minister must consult with the FMA before making a recommendation under subsection (1).
-(3) Different matters may be prescribed under subsection (1) in respect of different kinds of securities or different classes of issuers.
-
-### 51 FMA may perform functions formerly performed by Registrar of Companies in relation to registration of prospectuses
-For the purpose of effectively managing the transition relating to the amendments in sections 20 and 21 of this Act (which include changes to the process for registering prospectuses), the FMA may, in the manner that it thinks fit and on a temporary basis, perform the same, or substantially similar, functions as the Registrar of Companies performed, before the commencement of this section, in relation to the registration of prospectuses under the principal Act (whether those functions were performed on a formal or an informal basis).
-
-### 52 Registration of deeds continues
-If a trust deed or deed of participation was registered under the principal Act before the commencement of this section (or is registered in accordance with section 53),—
-  (a) the deed must continue to be treated as being a deed that is registered under the principal Act; and
-  (b) the principal Act (as amended by this Act) continues to apply to the deed as if it had been registered under section 46 of the principal Act (as substituted by this Act); and
-  (c) every instrument of amendments to the deed registered under the principal Act before the commencement of this section (or in accordance with section 53) must continue to be treated as registered.
-
-### 53 Prospectuses, amendments, and deeds delivered but not yet registered must be dealt with under old law
-(1) If, before the commencement of this section,—
-  (a) a prospectus is delivered for registration under the principal Act but the Registrar has not yet decided whether or not to register it, the prospectus must be dealt with in accordance with section 42 of the principal Act as in force before the commencement of section 21:
-  (b) a memorandum of amendments is delivered for registration under section 43 of the principal Act but the Registrar has not yet decided whether or not to register it, the memorandum must be dealt with in accordance with section 43 of the principal Act as in force before the commencement of section 21:
-  (c) a copy of a trust deed or deed of participation is delivered for registration under section 46 of the principal Act but the Registrar has not yet decided whether or not to register it, the deed must be dealt with in accordance with section 46 of the principal Act as in force before the commencement of section 27:
-  (d) an instrument of amendments is delivered for registration under section 47 of the principal Act but the Registrar has not yet decided whether or not to register it, the instrument must be dealt with in accordance with section 47 of the principal Act as in force before the commencement of section 27.
-(2) In subsection (1), Registrar has the same meaning as in section 2(1) of the principal Act (as in force before the commencement of section 5(2)).
-
-### 54 Exemptions continue in force
-(1) This section applies to every exemption granted under section 5(5) of the principal Act that is in force immediately before the commencement of this section.
-(2) The exemption—
-  (a) continues in force as if it were granted under section 70B of the principal Act (as inserted by this Act); and
-  (b) may be amended or revoked as if granted under that section.
