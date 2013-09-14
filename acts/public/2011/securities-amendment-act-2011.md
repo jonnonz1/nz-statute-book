@@ -1,5 +1,5 @@
 # Securities Amendment Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-14_
 
 ### 1 Title
 This Act is the Securities Amendment Act 2011.
@@ -27,8 +27,7 @@ The Long Title is amended by omitting to establish a Securities Commission; and.
       (i) that prospectus as so amended; or
       (ii) a document that, except for the matters specified in section 41(1), is identical to that prospectus as so amended
   - **Registrar** means the Registrar of Financial Service Providers under the Financial Service Providers (Registration and Dispute Resolution) Act 2008
-(3) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
-  - **register** means, except in respect of a register kept under section 51, the register of securities offers kept under sections 43N to 43S
+(3)
 
 ### 6 Meaning of advertisement
 Section 2A(2) is amended by adding the following paragraph:
@@ -77,8 +76,7 @@ Section 37AC(1)(e) is amended by repealing subparagraph (i) and substituting the
 ### 16 Consent for purposes of section 37AC(1)(c) or (d)
 (1) Section 37AD(1)(b)(iii) is amended by omitting granted under section 5(5) or provided under section 5(3A) or 5A and substituting of a kind referred to in section 37AC(1)(e)(i).
 (2) Section 37AD(1)(b)(iv) is amended by omitting section 5 and substituting this Act.
-(3) Section 37AD(1)(b) is amended by repealing subparagraph (vi) and substituting the following subparagraph:.
-  (vi) a statement that information concerning that prospectus can be obtained from the register:
+(3)
 (4) Section 37AD(2) is amended by omitting section 5 or section 5A and substituting this Act.
 
 ### 17 Voidable irregular allotments
@@ -273,106 +271,7 @@ Sections 42 to 44 are repealed and the following sections substituted:Registrati
   (2) This section does not limit section 22 of the Financial Markets Authority Act 2011 (which provides protection from liability for the FMA and its members and employees).
 
 ### 22 New heading and sections 43N to 43S inserted
-The following heading and sections are inserted after section 43M (as inserted by section 21):Register of securities offersRegister of securities offersPurpose of registerContents of registerDuty to notify relevant matters and provide certain documents and information to RegistrarAmendments to registerSearch of register
-  (1) A register called the register of securities offers is established.
-  (2) The register must be kept by the Registrar.
-  (3) The register may be—
-    (a) an electronic register; or
-    (b) kept in any other manner that the Registrar thinks fit.
-  (4) The register must be operated at all times unless—
-    (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
-    (b) otherwise provided in regulations.
-  (5) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
-  The purpose of the register is—
-    (a) to give public notice of offers of securities made under registered prospectuses; and
-    (b) to enable any person to—
-      (i) obtain information contained in, or concerning, registered prospectuses; and
-      (ii) obtain other information about, or copies of documents relating to, offers of securities made under registered prospectuses; and
-      (iii) compare information about offers of securities made under registered prospectuses; and
-    (c) to assist any person to decide whether or not to subscribe for securities offered to the public; and
-    (d) to assist any person to perform a financial adviser service (within the meaning of the Financial Advisers Act 2008) or to otherwise comment on an offer of securities to the public; and
-    (e) to assist any person—
-      (i) in the exercise of the person's powers under this Act or any other enactment; or
-      (ii) in the performance of the person's functions or duties under this Act or any other enactment.
-  (1) The register must contain all of the following information and documents, to the extent that the information or documents are relevant, for each registered prospectus:
-    (a) the name of the issuer and the issuer's financial service provider number (if any):
-    (b) the name of every promoter in relation to the offer and the promoter's financial service provider number, if any (subject to subsection (3)):
-    (c) the name of every relevant trustee or supervisor and the relevant trustee or supervisor's financial service provider number (if any):
-    (d) the name of the offer that is specified in the prospectus and the registration number for the prospectus (as specified in the certificate given under section 42):
-    (e) the type of security or securities being offered (for example, an equity security, a debt security, a participatory security, a unit in a unit trust, an interest in a superannuation scheme, or a life insurance policy):
-    (f) the date of the prospectus:
-    (g) the date specified in the prospectus as the last day on which the offer is able to be accepted or, if there is no such date, a statement to that effect:
-    (h) if there is any minimum or maximum number or amount of the securities being offered, the number or amount:
-    (i) the status of the prospectus (being a status that is determined and described in the prescribed manner):
-    (j) the date of registration of the prospectus and of every instrument that amends the prospectus:
-    (k) a copy of the prospectus and of every instrument that amends the prospectus:
-    (l) a copy of each investment statement distributed by or on behalf of the issuer in respect of the offer:
-    (m) a copy of any relevant deed (incorporating or together with all amendments to the deed):
-    (n) a copy of all documents that are required by the regulations to be attached to, or to accompany, the prospectus when it is delivered to the Registrar for registration:
-    (o) a copy of any certificate registered under section 37A(1A) and any financial statements that accompany that certificate:
-    (p) any notice or information provided by the FMA in respect of the prospectus or an investment statement for the offer under section 43J or 43K:
-    (q) a copy of the most recent financial statements of, or relating to, the issuer (and, if there is a scheme, the scheme) that have been registered under section 18 of the Financial Reporting Act 1993, together with a copy of the auditor's report on those statements:
-    (r) any documents, information, and other matters made publicly available under section 54C:
-    (s) any other prescribed matters.
-  (2) However, the register is not required to contain information or documents that are prescribed as being information or documents that are not required to be contained in the register.
-  (3) Subsection (1)(b) does not apply in respect of a director who is a promoter merely as a result of paragraph (b) of the definition of promoter in section 2.
-  (4) The register must also contain—
-    (a) all other documents required to be registered by the Registrar under this Act; and
-    (b) any other prescribed information or documents.
-  (5) In this section and section 43S,—
-    - **financial service provider number** , in relation to a person, is the number given to the person on the person's registration under the Financial Service Providers (Registration and Dispute Resolution) Act 2008
-    - **relevant deed** means, in the case of an offer of—
-      (a) debt securities, the trust deed:
-      (b) participatory securities, the deed of participation:
-      (c) units in a unit trust, the trust deed for the unit trust:
-      (d) interests in a superannuation scheme, the trust deed for the superannuation scheme
-    - **relevant trustee or supervisor** means, in the case of an offer of—
-      (a) debt securities, the trustee:
-      (b) participatory securities, the statutory supervisor:
-      (c) units in a unit trust, the unit trustee:
-      (d) interests in a superannuation scheme, the superannuation trustee.
-  (1) An issuer must, in the prescribed manner,—
-    (a) notify the Registrar of any relevant changes in respect of a registered prospectus within 5 working days of becoming aware of the change; and
-    (b) provide to the Registrar a copy of any documents, information, and other matters made, or to be made, publicly available under section 54C before the date that is 5 working days after that material is made available under that section; and
-    (c) provide to the Registrar, before the date that is 5 working days after it is first distributed, a copy of each investment statement that is, or is to be, distributed by or on behalf of the issuer in respect of the offer.
-  (2) In this section, relevant changes, in respect of a registered prospectus,—
-    (a) means—
-      (i) any change in the information referred to in section 43P(1)(a) to (h) in respect of the prospectus; or
-      (ii) any change in circumstances that would result in a change to the status of the prospectus as referred to in section 43P(1)(i); or
-      (iii) any other prescribed change that is relevant to the issuer, the scheme (if any), or the prospectus; but
-    (b) does not include—
-      (i) any change in respect of which the FMA is required to notify the Registrar (for example, an order made under section 43G); or
-      (ii) any change that occurs after the period within which allotments of securities may be made under the prospectus has ended as a result of section 37A(1)(c); or
-      (iii) any other change that is prescribed.
-  (3) An issuer commits an offence and is liable on conviction to a fine not exceeding $300,000 if the issuer,—
-    (a) without reasonable excuse, contravenes subsection (1); or
-    (b) in purported compliance with subsection (1), supplies a document, information, or other matter knowing it to be false or misleading.
-  (4) This section does not apply to changes that occur, or investment statements that are distributed, before the commencement of this section.
-  (1) The Registrar may amend the register if—
-    (a) an issuer or the FMA informs the Registrar of information that is different from the information entered on the register; or
-    (b) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar.
-  (2) The Registrar must amend the register if the regulations require the Registrar to do so in circumstances specified by the regulations.
-  (1) A person may search the register in accordance with this Act or the regulations.
-  (2) The register may be searched only by reference to the following criteria:
-    (a) the name of an offer as specified in a prospectus:
-    (b) the registration number of a prospectus:
-    (c) the name of an issuer:
-    (d) the name of a promoter:
-    (e) the name of a relevant trustee or supervisor:
-    (f) the financial service provider number of an issuer, a promoter, or a relevant trustee or supervisor:
-    (g) the status of a prospectus (being a status that is determined and described in the prescribed manner):
-    (h) prospectuses that have a particular date or have a date within a range of dates:
-    (i) prospectuses that were registered on a particular date or at any time during a range of dates:
-    (j) prospectuses under which offers are open for acceptance on a particular date or at any time during a range of dates:
-    (k) orders made by the FMA in respect of prospectuses that are in force on a particular date or at any time during a range of dates:
-    (l) the type of security being offered:
-    (m) any other prescribed criteria:
-    (n) any combination of the criteria in paragraphs (a) to (m).
-  (3) A search of the register may be carried out only by the following persons for the following purposes:
-    (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
-    (b) a person, for a purpose referred to in section 43O:
-    (c) a person, for the purpose of advising another person in connection with any of the purposes referred to in this section.
-  (4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
+[Repealed]
 
 ### 23 Notices and submissions concerning delayed allotment orders
 Section 44AB is amended by repealing subsection (1) and substituting the following subsection:
@@ -555,7 +454,7 @@ The following sections are inserted after section 65F:Appeals against decisions 
   (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 
 ### 40 Section 66 repealed
-Section 66 is repealed.
+[Repealed]
 
 ### 41 Part 3 repealed
 Part 3 is repealed.
@@ -566,20 +465,7 @@ The heading to Part 4 is amended by adding and exemptions.
 ### 43 Regulations and Orders in Council
 (1) Section 70(1) is amended by inserting the following paragraph after paragraph (ca):.
   (cb) prescribing, in respect of securities offered to the public, the documents, information, and other matters that must be made publicly available under section 54C, the times or events referred to in that section, and the manner of making the documents, information, and other matters publicly available (including prescribing the manner in which the documents, information, or matters are to be presented, calculated, or prepared); and different matters and requirements may be prescribed in respect of different kinds of securities or different classes of issuers or offerees:
-(2) Section 70(1) is amended by inserting the following paragraphs after paragraph (h):.
-  (ha) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for the register, including matters that relate to—
-    (i) the operation of the register:
-    (ii) the form of the register:
-    (iii) the information or documents to be contained in the register:
-    (iv) prescribing information and documents for the purposes of section 43P(2):
-    (v) the information and documents to be supplied under sections 41(2) and 43(2):
-    (vi) access to the register:
-    (vii) search criteria for the register:
-    (viii) circumstances in which amendments must be made to the register:
-    (ix) the manner in which the status of a registered prospectus is determined and manner in which that status is described in the register:
-  (hb) prescribing matters for the purposes of section 43Q, including—
-    (i) the manner in which information, documents, or other matters are notified or provided:
-    (ii) changes for the purposes of section 43Q(2)(a)(iii) and (b)(iii):
+(2)
 
 ### 44 New section 70AAA inserted
 The following section is inserted after section 70:Regulations relating to exemptions under section 5(1)
@@ -644,16 +530,10 @@ Schedule 1 is repealed.
   (a) subsection (1) does not apply if, before the commencement of this subsection, the registration of the prospectus has been cancelled; and
   (b) sections 43B to 43E of the principal Act (as substituted by this Act) do not apply to a prospectus referred to in subsection (1) (except as referred to in paragraph (c)); and
   (c) sections 43B and 43C of the principal Act (as substituted by this Act) apply to an instrument to amend a prospectus referred to in subsection (1) only if the instrument is registered after the commencement of this subsection.
-(3) For the purpose of including information and documents in the register for a current prospectus, the issuer of the securities to which the prospectus relates must, within 40 working days after the commencement of this subsection, supply the prescribed information and documents to the Registrar in the prescribed manner.
-(4) The Registrar is not required to include in the register information and documents for a prospectus registered before the commencement of this subsection if—
-  (a) the period within which allotments of securities may be made under the prospectus in accordance with the principal Act finally ended before the commencement of this subsection (for example, as a result of section 37A(1)(c) of the principal Act); or
-  (b) that information or those documents are of a kind that is prescribed as being information or documents that are not required to be included in the register.
-(5) In subsection (3), current prospectus—
-  (a) means a prospectus that was registered before the commencement of this subsection and under which allotments may still be made in accordance with the principal Act after that commencement; but
-  (b) does not include a prospectus if no allotments of securities will be made under the prospectus after the date that is 40 working days after the commencement of this subsection.
-(6) An issuer commits an offence and is liable on conviction to a fine not exceeding $30,000 if the issuer,—
-  (a) without reasonable excuse, fails to comply with subsection (3); or
-  (b) in purported compliance with that subsection, supplies information or a document knowing it to be false or misleading.
+(3)
+(4)
+(5)
+(6)
 
 ### 50 Regulations for purposes of section 49
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with subsection (2), make regulations prescribing—
