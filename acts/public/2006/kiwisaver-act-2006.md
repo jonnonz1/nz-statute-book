@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-14_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -1497,7 +1497,7 @@ Sections 119C to 119I apply to transfers or proposed transfers between KiwiSaver
 
 ### 119C Implied provision as to transfer of members, etc
 (1) There is implied in the trust deed of a KiwiSaver scheme a provision that no member of the scheme will be transferred to another KiwiSaver scheme, or to another section of the same scheme, unless the trustees (in the case of a restricted KiwiSaver scheme) have, or the manager (in the case of any other KiwiSaver scheme) has, obtained the written consent of the member concerned.
-(2) This section is subject to section 119G.
+(2) This section is subject to section 119G and regulations made under section 230.
 
 ### 119D Procedural requirements in case of certain transfers
 (1) This section and sections 119E to 119H apply if it is proposed to transfer (whether at the same time or over an extended period) all or a substantial number of members from a KiwiSaver scheme to another KiwiSaver scheme.
@@ -2523,12 +2523,16 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
     (i) the Minister notifying a default KiwiSaver provider that the Minister considers the provider is in breach of a term or condition of the instrument of appointment and the possible consequences:
     (ii) facilitating resolution of any dispute between the Minister and a default KiwiSaver provider about whether the KiwiSaver provider is in breach of the instrument of appointment or the consequences that should apply:
     (iii) setting out any procedures that will apply before revocation of an instrument of appointment by the Minister under section 184(2):
+  (ba) providing for the following matters in relation to all or any class of default members of a scheme that is subject to a terminating event under section 185:
+    (i) requiring those default members to be reallocated and transferred to a default KiwiSaver scheme and providing the method of determining, terms of, and procedures for the reallocation and the transfer (or providing for the Minister to require or determine any of those matters by direction to the scheme provider or providing for another person or method to determine any of those matters):
+    (ii) requiring the reallocation and transfer to be carried out in accordance with that method, those terms, and those procedures:
   (c) requiring the provider of a scheme that is or was a scheme provided under an instrument of appointment to do any act or thing following any terminating event under section 185 including, without limitation,—
     (i) requiring the members of the scheme to be notified of the terminating event or of any other matter and specifying time frames for notification to occur:
     (ii) prescribing any advice, information, or documents that must accompany any notification given under subparagraph (i):
-    (iii) requiring the provider to do any act or thing or carry out any prescribed procedures to facilitate or enable the transfer of members to another KiwiSaver scheme in accordance with this Act:
+    (iii) requiring the provider to do any act or thing or carry out any prescribed procedures to facilitate or enable the transfer of members to another KiwiSaver scheme in accordance with this Act, regulations made under paragraph (ba), or the Financial Markets Conduct Act 2013:
     (iv) requiring the provider to report to any specified person or persons, or to produce to any specified person or persons, any papers, documents, records, or things in respect of the scheme, at specified times or contingent on any specified events:
   (d) requiring the provider of any new scheme to which members are or are to be transferred from a scheme that is subject to a terminating event under section 185 to do any act or thing or to carry out any prescribed procedures to facilitate or enable the transfer of members to the provider’s KiwiSaver scheme.
+(1A) In this section, default members means members that were allocated to a scheme under sections 50 and 51 and are in a default investment product of a scheme.
 (2) However, regulations made under subsection (1)(c)(iii) may not require a provider to report to any person or produce any papers, documents, or records, after the provider’s scheme no longer has any members who became members of the scheme under section 52.
 
 ### 230A Regulations relating to compulsory employer contributions
@@ -2639,15 +2643,16 @@ If requested by the trustee, the manager must—
 (2) For the purposes of subclause (1), the KiwiSaver end payment date is the later of—
   (a) the date on which the member reaches the New Zealand superannuation qualification age; or
   (b) the 5 year qualification date; or
-  (c) the date on which the member has been a member of a complying superannuation fund (or of a complying superannuation fund and a KiwiSaver scheme) for 5 years.
+  (c)
 (3) A member is entitled to withdraw an amount not more than the member’s accumulation on the later date referred to in subclause (2).
 (4) Nothing in this clause requires a member to withdraw from the KiwiSaver scheme on the date specified in subclause (2).
 (5) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
-(6) For the purposes of these rules, 5 year qualification date means the earlier of––
+(6) For the purposes of these rules, 5 year qualification date means the earliest of––
   (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
-  (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member.
+  (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
+  (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
 
 ### 4B Amounts from Australian complying superannuation schemes
 A member may withdraw the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount), if the member is 60 years or more and the member's retirement (as that term is defined in regulation 6.01(7) of the Superannuation Industry (Supervision) Regulations 1994 (Aust), with necessary modification for KiwiSaver scheme trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme)) is taken to have occurred.
@@ -2687,8 +2692,8 @@ A trustee (in the case of a restricted KiwiSaver scheme) or the manager (in the 
     (ii) has no reasonable expectation of being entitled to occupy the land as the principal place of residence for the person or the person’s family until the death of the person who currently occupies the land (the occupier) or the death of the occupier’s survivor.
 (6) In this clause, estate means a fee simple estate, a leasehold estate or a stratum estate.
 (7) It is a condition of subclause (3) that—
-  (a) any withdrawal made under that provision must be paid to the member’s solicitor; and
-  (b) the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may require from the member’s solicitor, before payment of the withdrawal,—
+  (a) any withdrawal made under that provision must be paid to a practitioner (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) acting on behalf of the member; and
+  (b) the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may require from that practitioner, before payment of the withdrawal,—
     (i) a copy of an agreement for the sale and purchase of the estate in land showing the member as purchaser; and
     (ii) an undertaking that the agreement is unconditional at the time the trustees or the manager (as the case may be) make the request; and
     (iii) an undertaking that the funds will be paid to the vendor as part of the purchase price or, if the settlement is not completed by the due date or any extended date, repaid to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) on account of the member.
@@ -2881,16 +2886,3 @@ The repeal of section 128 of the principal Act by section 22 of this Act does no
 
 ### 70 References to department in instruments of appointment
 Unless the context otherwise requires, a reference (express or implied) to the department in an instrument of appointment made under section 177 of the principal Act before or on the commencement date must be read as a reference to the FMA.
-
-### 71 Transitional regulations
-(1) In this section, transition means the transition from the relevant enactments as in force immediately before their amendment by this Act to the relevant enactments as amended by this Act.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional or savings provisions for the purpose of facilitating or ensuring an orderly transition.
-(3) The Minister must not recommend that regulations be made under this section unless he or she is satisfied that the regulations are necessary to facilitate or ensure an orderly transition.
-(4) Regulations made under this section may, for a period specified in the regulations that ends no later than the close of 31 December 2013,—
-  (a) provide that 1 or more provisions (including definitions) of this Act, or of a relevant enactment, do not apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme:
-  (b) provide that 1 or more terms in this Act, or in a relevant enactment, have the meaning given to them by the regulations to the extent that they apply to or in respect of a KiwiSaver scheme:
-  (c) provide that 1 or more provisions repealed, amended, or revoked by this Act are to continue to apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme as if they had not been repealed, amended, or revoked:
-  (d) provide for any other matter necessary to facilitate or ensure an orderly transition.
-(5) On the close of 31 December 2013,—
-  (a) this section expires and is repealed; and
-  (b) any regulations made under this section that are in force on 31 December 2013 expire and are revoked.
