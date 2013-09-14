@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-14_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1458,10 +1458,11 @@ The Board has all of the powers that are reasonably necessary or expedient to en
 (4) The Registrar, or any other officer or employee of the Board authorised in that behalf by the Board, may take and receive any prescribed fees.
 (5) Until the prescribed fee has been paid, the Registrar or any other officer or employee of the Board may decline to do any act, or permit any act to be done, or to receive any document, in respect of which that fee is payable.
 
-### 143 Disciplinary levy
-(1) The Board may, by notice in the Gazette, impose on every registered person a disciplinary levy of any amount it thinks fit for the purpose of funding the costs arising out of—
+### 143 Disciplinary and prosecution levy
+(1) The Board may, by notice in the Gazette, impose on every registered person a disciplinary and prosecution levy of any amount it thinks fit for the purpose of funding the costs arising out of—
   (a) investigations into allegations or complaints against registered persons; and
-  (b) proceedings concerning discipline under Part 3.
+  (b) proceedings concerning discipline under Part 3; and
+  (c) investigations into, and prosecutions against persons for, the breach of any Act or regulation relating to sanitary plumbing, gasfitting, or drainlaying.
 (2) Any notice imposing any levy under this section may exempt from liability to pay the levy any class or classes of registered person, and may provide for the waiver or refund of any levy.
 
 ### 144 Board may prescribe forms
@@ -1655,6 +1656,24 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (b) any words spoken or written at, or for the purposes of, the hearing of any inquiry or other proceedings under this Act; or
   (c) anything contained in any notice given under this Act.
 (2) Subsection (1) does not exclude the liability of any body or person for anything done or omitted in bad faith or without reasonable care.
+
+### 171A Validation of disciplinary levy
+(1) A disciplinary levy payable during the period beginning on 1 April 2007 and ending on the close of 11 January 2012 is and always has been validly imposed by the Board.
+(2) Money received by the Board in payment of a disciplinary levy validated by subsection (1) is and always has been lawfully collected and applied.
+(3) In this section, disciplinary levy payable means a disciplinary levy payable or purportedly payable in accordance with the following:
+  (a) Plumbers, Gasfitters and Drainlayers Board (Fees) Amendment Notice 2007 (Gazette 2007, p 414):
+  (b) Plumbers, Gasfitters and Drainlayers Board (Fees) Amendment Notice (No 2) 2007 (Gazette 2007, p 575) as amended by the Corrigendum to the Plumbers, Gasfitters and Drainlayers Board (Fees) Amendment Notice (No 2) 2007 (Gazette 2007, p 721):
+  (c) Plumbers, Gasfitters and Drainlayers Board (Fees) Amendment Notice (No 3) 2007 (Gazette 2007, p 3635):
+  (d) Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 936) as amended by the Amendment to the Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 1675):
+  (e) Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 2140) as amended by the Amendment to the Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 2213) and republished as the Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 3604).
+
+### 171B Validation of offences fee
+(1) An offences fee payable on and from 12 January 2012 is and always has been validly prescribed by the Board.
+(2) The Board must not amend an offences fee validated by subsection (1), but may revoke it.
+(3) Money received by the Board in payment of an offences fee validated by subsection (1) is and always has been lawfully collected and applied.
+(4) In this section, offences fee payable means an offences fee payable or purportedly payable in accordance with the following:
+  (a) Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2010, p 3604) as amended by the Amendment to the Plumbers, Gasfitters and Drainlayers Board (Fees) Notice 2010 (Gazette 2011, p 5677):
+  (b) Plumbers, Gasfitters and Drainlayers (Fees and Disciplinary Levy) Notice 2013 (Gazette 2012, p 4495).
 
 **Regulations**
 
