@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-14_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -1344,11 +1344,11 @@ The Secretary may appoint 1 person that the Secretary considers to be suitable t
   (c) there is no right of appeal from the decision.
 
 ### 90 Register of class 4 venue licences must be maintained
-(1) The Secretary must maintain a register of places for which a class 4 venue licence was held on 17 October 2001.
+(1) The Secretary must maintain a register of places for which a class 4 venue licence was held on 17 October 2001, and, if a new place is substituted for such a place in accordance with a relocation policy, must amend the register accordingly.
 (2) The Secretary must make an entry in the register if, at any time after 17 October 2001, there is a period of 6 months or more during which there is no class 4 venue licence for a class 4 venue to which subsection (1) applies.
 
 ### 91 No compensation
-No compensation is payable by the Crown or a territorial authority to any person for any loss or damage arising from the enactment or operation of sections 89 to 101.
+No compensation is payable by the Crown or a territorial authority to any person for any loss or damage arising from the enactment or operation of sections 89 to 101 or section 102(5A).
 
 ### 92 Limit on number of gaming machines for which class 4 venue licence held on 17 October 2001
 (1) This section applies to a class 4 venue for which—
@@ -1440,6 +1440,20 @@ No compensation is payable by the Crown or a territorial authority to any person
 ### 97 Power to issue, renew, or amend class 4 licence may be overridden
 The Secretary’s power to issue, renew, or amend a class 4 operator’s licence or class 4 venue licence may be overridden by regulations made under section 314.
 
+### 97A Effect of relocation
+(1) This section applies when—
+  (a) a territorial authority has adopted a relocation policy (as defined in section 101(5)); and
+  (b) in accordance with that policy, the territorial authority grants consent in respect of a venue (the new venue) to replace an existing venue (the old venue); and
+  (c) a new class 4 venue licence is granted in respect of the new venue.
+(2) When this section applies,—
+  (a) the Secretary must cancel the class 4 venue licence that relates to the old venue, in which case—
+    (i) the cancellation takes effect on the date on which the new class 4 venue licence takes effect; and
+    (ii) there is no right of appeal against the cancellation; and
+  (b) despite section 100(1)(b)(i), the maximum number of gaming machines permitted to operate at the new venue at the time when the new class 4 venue licence takes effect is the same as the maximum number of gaming machines permitted to operate at the old venue immediately before the licence relating to the old venue is cancelled; and
+  (c) for the purposes of this Act,—
+    (i) if the old venue was a venue to which section 92 applied, the new venue must be treated as a venue to which section 92 applies; and
+    (ii) the old venue must be treated as if no class 4 venue licence had ever been held by any society for that venue (which means that, under section 98, consent will be required for that venue if a class 4 venue licence is subsequently applied for in relation to it).
+
 **Territorial authority consent**
 
 ### 98 When territorial authority consent is required
@@ -1449,11 +1463,13 @@ A territorial authority consent is required in the following circumstances:
   (c) if a corporate society applies for a class 4 venue licence and a class 4 venue licence has not been held by any society for the venue within the last 6 months:
   (d) on the commencement of this section, in accordance with section 93 for a class 4 venue—
     (i) to which section 92 does not apply; and
-    (ii) for which there is a class 4 venue licence granted after 17 October 2001 and before the commencement of this section.
+    (ii) for which there is a class 4 venue licence granted after 17 October 2001 and before the commencement of this section:
+  (e) a society proposes, in accordance with a relocation policy of the territorial authority, to change the venue to which a class 4 venue licence currently applies.
 
 ### 99 Application for territorial authority consent
 (1) An application for a territorial authority consent must be made to the territorial authority for the district in which the class 4 venue is, or will be, located.
 (2) The application must be accompanied by the information required by the territorial authority to enable it to consider the application properly.
+(3) An application for consent in accordance with a relocation policy may be made only with the agreement of the venue operator of the existing venue.
 
 ### 100 Considering and determining application for territorial authority consent
 (1) A territorial authority must—
@@ -1474,7 +1490,8 @@ A territorial authority consent is required in the following circumstances:
 (2) In adopting a policy, the territorial authority must have regard to the social impact of gambling within the territorial authority district.
 (3) The policy—
   (a) must specify whether or not class 4 venues may be established in the territorial authority district and, if so, where they may be located; and
-  (b) may specify any restrictions on the maximum number of gaming machines that may be operated at a class 4 venue.
+  (b) may specify any restrictions on the maximum number of gaming machines that may be operated at a class 4 venue; and
+  (c) may include a relocation policy.
 (4) In determining its policy on whether class 4 venues may be established in the territorial authority district, where any venue may be located, and any restrictions on the maximum number of gaming machines that may be operated at venues, the territorial authority may have regard to any relevant matters, including:
   (a) the characteristics of the district and parts of the district:
   (b) the location of kindergartens, early childhood centres, schools, places of worship, and other community facilities:
@@ -1482,6 +1499,7 @@ A territorial authority consent is required in the following circumstances:
   (d) the cumulative effects of additional opportunities for gambling in the district:
   (e) how close any venue should be permitted to be to any other venue:
   (f) what the primary activity at any venue should be.
+(5) A relocation policy is a policy setting out if and when the territorial authority will grant consent in respect of a venue within its district where the venue is intended to replace an existing venue (within the district) to which a class 4 venue licence applies (in which case section 97A applies).
 
 ### 102 Adoption and review of class 4 venue policy
 (1) A policy on class 4 venues under section 101 must be adopted in accordance with the special consultative procedure in section 83 of the Local Government Act 2002 and, for the purpose of subsection (1)(e) of that section, the territorial authority must give notice of the proposed policy, in a manner that the territorial authority considers appropriate, to—
@@ -1491,6 +1509,8 @@ A territorial authority consent is required in the following circumstances:
 (3) Subsection (1)(b) does not affect the ability of a territorial authority to take similar action in respect of any other population group.
 (4) A territorial authority must, as soon as practicable after adopting, amending, or replacing a policy, provide a copy of the policy to the Secretary.
 (5) A territorial authority must complete a review of a policy within 3 years after the policy is adopted and then within 3 years after that review and each subsequent review is completed.
+(5A) The first time that a territorial authority commences a review of a policy after the Gambling (Gambling Harm Reduction) Amendment Act 2013 comes into force, the territorial authority must (and may at any other time) consider whether to include a relocation policy (as defined in section 101(5)) in its class 4 venue policy.
+(5B) Whenever a territorial authority is considering whether to include a relocation policy in its class 4 venue policy, it must consider the social impact of gambling in high-deprivation communities within its district.
 (6) A policy does not cease to have effect because it is due for review or being reviewed.
 
 ### 103 Provision of information relating to class 4 venues in territorial authority district
@@ -1613,6 +1633,11 @@ A corporate society that operates mainly to distribute net proceeds to the commu
   (b) in respect of specified venues or classes of venue; or
   (c) in respect of specified gambling equipment or classes of gambling equipment; or
   (d) in respect of specified games or classes of games.
+(3) Regulations may also be made under subsection (1) for the following purposes:
+  (a) requiring that a specified portion of the net proceeds of class 4 gambling be applied or distributed to or for authorised purposes in, or operating in, the geographical area from which those net proceeds were derived:
+  (b) limiting the amount of the proceeds of class 4 gambling that may be applied or distributed to or for authorised purposes in, or operating in, any specified geographical areas, or all geographical areas, that are outside the geographical area from which those net proceeds were derived:
+  (c) setting out how geographical areas are to be identified or defined for the purposes of the regulations; and different definitions may be adopted for different purposes:
+  (d) imposing rules about the application or distribution of net proceeds that are not required to be, or are not prohibited from being, applied or distributed to or for authorised purposes in, or operating in, a particular geographical area.
 
 ### 115 Payment of commission prohibited
 (1) The payment of, or receipt of, commission by any person for conducting class 4 gambling is prohibited.
@@ -3389,6 +3414,7 @@ If a person is convicted under section 301(1) or section 302(1) or section 303(1
   (e) prescribing the maximum prize that may be won from a single play of a gaming machine:
   (f) prescribing the minimum or maximum payout ratio or average rate of return to a player:
   (g) prescribing requirements relating to the electronic monitoring of gaming machines:
+  (ga) prescribing the use of pre-commitment, player tracking, or other harm-minimisation devices, technology, or systems in or associated with gaming machines:
   (h) providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act and its due administration.
 (2) Regulations made under subsection (1) may apply—
   (a) to specified licence holders or classes of licence holder:
