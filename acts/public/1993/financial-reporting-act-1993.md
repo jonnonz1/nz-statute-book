@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-14_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
@@ -579,7 +579,7 @@ A certificate purporting to be signed by any member of the Board as to any of th
   (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
 (3) The exemption may be granted on any terms and conditions that the FMA thinks fit.
 (4) The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
-(5) The FMA must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
+(5)
 
 ### 35AB Transitional provision for exemptions granted by Securities Commission
 Every exemption granted under section 35A (as in force before the commencement of this section) by the Securities Commission that is in force immediately before this section comes into force—
