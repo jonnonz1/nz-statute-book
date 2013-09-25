@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-25_
 
 > An Act to provide greater protection from domestic violence
 
@@ -104,6 +104,7 @@ In this Act, unless the context otherwise requires,—
     (ii) harassment:
     (iii) damage to property:
     (iv) threats of physical abuse, sexual abuse, or psychological abuse:
+    (iva) financial or economic abuse (for example, denying or limiting access to financial resources, or preventing or restricting employment opportunities or access to education):
     (v) in relation to a child, abuse of the kind set out in subsection (3).
 (3) Without limiting subsection (2)(c), a person psychologically abuses a child if that person—but the person who suffers that abuse is not regarded, for the purposes of this subsection, as having caused or allowed the child to see or hear the abuse, or, as the case may be, as having put the child, or allowed the child to be put, at risk of seeing or hearing the abuse.
   (a) causes or allows the child to see or hear the physical, sexual, or psychological abuse of a person with whom the child has a domestic relationship; or
@@ -677,7 +678,7 @@ Sections 9, 11, and 12, so far as applicable and with the necessary modification
   (a) doing any act in contravention of the protection order; or
   (b) failing to comply with any condition of the protection order.
 (2) It is a defence in a prosecution for an offence under subsection (1) if the defendant proves that he or she had a reasonable excuse for breaching the protection order.
-(3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 2 years.
+(3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 3 years.
 (4) To avoid doubt, a failure to comply with a direction made under section 32(1) or (2) to attend a specified programme is not a breach of a protection order under subsection (1)(b).
 
 ### 49A Offence to fail to comply with direction
@@ -691,6 +692,38 @@ Where a protection order is in force, any constable may arrest, without warrant,
 
 ### 51 Release of person arrested
 [Repealed]
+
+## Part 2A — Programmes
+
+### 51A Interpretation
+In this Part, unless the context otherwise requires,—
+  - **approval** means an approval of a service provider under section 51B that has not been suspended or cancelled
+  - **assessment** , in relation to a respondent, means an assessment of the respondent undertaken by a service provider to determine—
+    (a) the extent to which the respondent poses a safety risk to any person or the public; and
+    (b) what, if any, non-violence programme is the most appropriate for the respondent to attend
+  - **non-violence programme** means a programme that—
+    (a) is provided by a service provider; and
+    (b) is provided to a respondent; and
+    (c) has the primary objective of stopping or preventing domestic violence on the part of the respondent
+  - **programmes** means—
+    (a) safety programmes; and
+    (b) non-violence programmes
+  - **respondent** means the person against whom an application has been made for an order under this Act, and includes an associated respondent
+  - **safety programme** means a programme that—
+    (a) is provided by a service provider; and
+    (b) is provided to a protected person; and
+    (c) has the primary objective of promoting (whether by education, information, support, or otherwise) the protection of the protected person from domestic violence
+  - **service provider** means a person or an organisation that has been granted an approval to do either or both of the following:
+    (a) undertake assessments:
+    (b) provide programmes.
+
+**Approval of service providers**
+
+### 51B Service providers
+(1) The Secretary may decide to grant, suspend, or cancel an approval of a person or an organisation as a service provider.
+(2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under section 127(a)(i).
+(3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under section 127(a)(ii).
+(4) The Secretary must publish on an Internet site maintained by or on behalf of the Ministry of Justice a list of service providers.
 
 ## Part 3 — Orders relating to property
 
@@ -1563,21 +1596,13 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 
 ### 127 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) making provision for organisations and persons to be approved to provide programmes, and for the approval of programmes for the purposes of this Act, including (without limitation),—
-    (i) constituting, or providing for the constitution or appointment of, panels or other groups or bodies for the purposes of regulations made under this paragraph, prescribing the powers, duties, and functions of such panels, groups, or bodies, and regulating their procedures:
-    (ii) providing for the payment of fees or allowances, or both, to all, or any class of, the members of any panel, group, or body for whose constitution or appointment subparagraph (i) provides, including (without limitation) providing for the payment, by the Crown, of remuneration by way of fees, or allowances, and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951 as if such persons were members of a statutory Board:
-    (iii) providing for the specifying of conditions subject to which approvals may be granted, for the variation and withdrawal of approvals, and for the revocation, variation, and addition of any condition of any approval:
-    (iv) providing for approvals to be granted for an indefinite period, or for a limited period:
-    (iva) providing for the review of a decision to refuse an application for approval:
-    (ivb) providing for the review of a decision to cancel an approval:
-    (v) providing for the review of approvals:
-    (vi) providing for organisations approved as programme providers to authorise persons to act as programme providers for the purposes of this Act:
-  (b) prescribing transitional provisions relating to the coming into force of section 29, in so far as that section provides for Registrars to authorise the provision of programmes to persons who are not children, which regulations may provide that, notwithstanding anything in that section or section 2, for such period (not exceeding 1 year) beginning on the commencement of section 29 (to the extent that it so provides), and subject to such conditions as are specified in the regulations, authorities may be given under section 29 in respect of programmes that have not been approved in accordance with regulations made under this section, or are not provided by programme providers that are approved in accordance with such regulations, or both:
-  (c) prescribing transitional provisions relating to the coming into force of section 32, which regulations may provide that, notwithstanding anything in that section or section 2, for such period (not exceeding 1 year) beginning on the commencement of section 32, and subject to such conditions as are specified in the regulations, directions may be made under section 32 in respect of programmes that have not been approved in accordance with regulations made under this section, or are not provided by programme providers that are approved in accordance with such regulations, or both:
-  (d) making provision for the determination of the number of programme sessions that may be provided pursuant to section 29 or section 32:
-  (e) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of programmes provided pursuant to section 29 or section 32, which fees and expenses may differ according to—
-    (i) the number of sessions determined to be provided pursuant to those sections:
-    (ii) whether or not the programmes are to be provided in a specified number of proceedings during a specified period:
+  (a) prescribing for the purposes of section 51B—
+    (i) the process to be followed by a person or an organisation seeking an approval; and
+    (ii) the criteria that the Secretary must apply when deciding whether to grant, suspend, or cancel an approval:
+  (b) prescribing the amount of fees and expenses, or a method for calculating the amount of fees and expenses, payable for the provision of assessments and programmes under Part 2A:
+  (c)
+  (d)
+  (e)
   (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under section 82; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 42:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
