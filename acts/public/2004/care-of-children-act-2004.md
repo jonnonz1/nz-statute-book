@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-25_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -517,6 +517,21 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
   (b) apply to the court for the consent.
 (3) When an application is made under subsection (2)﻿(b), a Family Court Judge may, if he or she considers that giving the consent is reasonable in all the circumstances, give the consent required.
 (4) A consent given to a child for a purpose referred to in subsection (2), either by the child’s former guardians or by a Family Court Judge under subsection (3), has the same effect as if it had been given by all the people whose consent was required for that purpose.
+
+**Counselling**
+
+### 46H Approval of counselling organisation
+(1) The Secretary may, by notice in the Gazette, approve any organisation (whether incorporated or unincorporated) as an approved counselling organisation.
+(2) In deciding whether to approve an organisation under subsection (1), the Secretary must apply any criteria prescribed by regulations made under section 147(2)﻿(aa).
+(3) An approval under subsection (1) may be made on any terms and conditions the Secretary thinks fit.
+
+### 46I Suspension or cancellation of approval of counselling organisation
+(1) The Secretary may, by notice in the Gazette, suspend or cancel the approval of an organisation as an approved counselling organisation on any ground prescribed by regulations made under section 147(2)﻿(ab).
+(2) If under subsection (1) the Secretary suspends the approval of an organisation, the organisation is not an approved counselling organisation during the period for which the approval is suspended.
+
+### 46K Appointment of counsellors
+(1) The Secretary or an approved counselling organisation may appoint a person as a counsellor if the Secretary or approved counselling organisation is satisfied that the person is qualified and competent to provide counselling services.
+(2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved counselling organisation must apply the qualification and competency requirements prescribed by regulations made under section 147(2)﻿(ac) and (ad).
 
 **Parenting orders**
 
@@ -1461,6 +1476,22 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 ### 147 Regulations
 (1) The Governor-General may, by Order in Council, make regulations under section 100A of the Judicature Act 1908 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
 (2) The Governor-General may, by Order in Council, make regulations—
+  (aa) prescribing for the purposes of section 46H any criteria that the Secretary must apply when deciding whether to approve an organisation as an approved counselling organisation:
+  (ab) prescribing for the purposes of section 46I the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved counselling organisation, which may include—
+    (i) that the approval was given on the basis of information that was false or misleading in a material respect; or
+    (ii) that the organisation no longer satisfies any criteria for approval prescribed by regulations made under paragraph (aa); or
+    (iii) that the organisation has requested the suspension or cancellation of the approval; or
+    (iv) that the organisation has been wound up, dissolved, or otherwise has ceased to exist:
+  (ac) prescribing for the purposes of section 46K the qualification and competency requirements that must be met for a person to be appointed as a counsellor, which, without limitation, may require a person—
+    (i) to be a member of a professional body that the Secretary identifies as a professional body by notice in the Gazette:
+    (ii) to have a specified qualification:
+    (iii) to have a specified level of counselling experience:
+  (ad) prescribing for the purposes of section 46K any matters that disqualify a person from being appointed as a counsellor, which, without limitation, may include having a conviction for certain types of offences:
+  (ae) prescribing for the purposes of section 46M the maximum number of counselling sessions that may be carried out under section 46G:
+  (af) prescribing for the purposes of section 46N the amount of fees and expenses payable for counselling services provided under section 46G:
+  (ag) specifying for the purposes of sections 46O and 47B(2) 1 or more parenting information programmes that provide information about the effects of a relationship breakdown, including—
+    (i) how a child may be affected when parents separate; and
+    (ii) how the needs of a child may be met when parents separate:
   (a) providing for the determination, for the purposes of section 62(2), of the number of sessions of supervised contact (ordered under section 60(5), and supervised by an approved provider) that will be funded out of public money:
   (b) providing for the determination, for the purposes of section 62(3), of the amount of fees and expenses, including minimum and maximum amounts, payable to approved providers in respect of supervised contact carried out under an order under section 60(5), which fees and expenses may differ—
     (i) according to the number of sessions of supervised contact determined to be carried out under section 62(2); and
@@ -1468,9 +1499,9 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
   (c) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 7(1) or section 130(1), which fees and expenses may differ—
     (i) according to the complexity of the proceedings and the time spent; and
     (ii) according to whether professional services are to be provided in a specified number of proceedings during a specified period:
-  (d) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested under section 133, which fees and expenses may differ—
-    (i) according to the type of report and time spent; and
-    (ii) according to whether professional services are to be provided in a specified number of proceedings during a specified period:
+  (d) prescribing, for the purposes of section 135A, the proportion of any amount paid by the Crown under—
+    (i) section 131(1)﻿(b):
+    (ii) section 135(1)﻿(b):
   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 148 Other Acts not affected
