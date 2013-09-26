@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-26_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1141,7 +1141,7 @@ Where any person is alleged to have committed an infringement offence, that pers
   (b) by a constable, a Customs officer, or any other class of law enforcement official listed in regulations made under this Act for the purpose of avoiding prejudice to the maintenance of the law, including the detection, prevention, investigation, prosecution, and punishment of offences; or
   (c) by an officer or employee of—
     (i) the New Zealand Security Intelligence Service, for the purpose of obtaining intelligence relevant to security; or
-    (ii) the Government Communications Security Bureau, for the purpose of obtaining foreign intelligence; or
+    (ii) the Government Communications Security Bureau, for the purpose of obtaining intelligence about the capabilities, intentions, and activities of foreign persons and foreign organisations; or
   (d) by a member of the New Zealand Defence Force, in connection with any of the purposes specified in section 5(a) to (d) of the Defence Act 1990; or
   (e) by a person acting under, and in accordance with, any authority conferred on him or her by or under—
     (i) Part 1 of the Telecommunications (Residual Provisions) Act 1987; or
@@ -1150,7 +1150,7 @@ Where any person is alleged to have committed an infringement offence, that pers
     (iii) the Misuse of Drugs Amendment Act 1978; or
     (iv) the International Terrorism (Emergency Powers) Act 1987.
 (3) For the purposes of this section,—
-  (a) foreign intelligence has the same meaning as in section 4 of the Government Communications Security Bureau Act 2003:
+  (a)
   (b) security has the same meaning as in section 2(1) of the New Zealand Security Intelligence Service Act 1969.
 (4) Subsection (2) does not authorise the interception of any private communications within the meaning of section 216A of the Crimes Act 1961.
 
