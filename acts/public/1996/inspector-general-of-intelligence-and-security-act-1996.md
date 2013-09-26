@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-09-26_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -9,16 +9,19 @@ _Consolidation as at 2013-08-05_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **advisory panel** means the advisory panel established by section 15A
   - **chief executive** ,—
     (a) in relation to the New Zealand Security Intelligence Service, means the Director of Security holding office under the New Zealand Security Intelligence Service Act 1969:
     (b) in relation to the Government Communications Security Bureau, means the Director of that Bureau:
     (c) in relation to an agency that, by virtue of an Order in Council made under subsection (2), is an intelligence and security agency for the purposes of this Act, means the chief executive of that agency
+  - **Deputy Inspector-General** means the Deputy Inspector-General of Intelligence and Security holding office under section 5
   - **employee** , in relation to an intelligence and security agency, means a person employed in any capacity in that agency
   - **Inspector-General** means the Inspector-General of Intelligence and Security holding office under section 5
   - **intelligence and security agency** means—
     (a) the New Zealand Security Intelligence Service:
     (b) the Government Communications Security Bureau:
     (c) any other agency declared by the Governor-General from time to time by Order in Council as an intelligence and security agency for the purposes of this Act
+  - **Intelligence and Security Committee** means the Intelligence and Security Committee established by section 5 of the Intelligence and Security Committee Act 1996
   - **Minister** means, in relation to an intelligence and security agency, the Minister of the Crown responsible for that intelligence and security agency
   - **New Zealand person** —
     (a) means any person, being—
@@ -54,20 +57,29 @@ The object of this Act is to provide for the appointment of an Inspector-General
   (a) assist the Minister to ensure that the activities of that intelligence and security agency comply with the law; and
   (b) ensure that complaints relating to that intelligence and security agency are independently investigated.
 
-**Inspector-General of Intelligence and Security**
+**Inspector-General and Deputy Inspector-General of Intelligence and Security**
 
-### 5 Inspector-General of Intelligence and Security
-(1) There shall be an Inspector-General of Intelligence and Security.
-(2) The Inspector-General shall be appointed by the Governor-General on the recommendation of the Prime Minister following consultation with the Leader of the Opposition.
-(3) No person shall be appointed as the Inspector-General unless that person has previously held office as a Judge of the High Court of New Zealand.
+### 5 Inspector-General and Deputy Inspector-General of Intelligence and Security
+(1) There must be—
+  (a) an Inspector-General of Intelligence and Security; and
+  (b) a Deputy Inspector-General of Intelligence and Security.
+(2) The Inspector-General and Deputy Inspector-General must be appointed by the Governor-General on the recommendation of the Prime Minister following consultation with the Intelligence and Security Committee.
+(3) The Deputy Inspector-General has and may exercise and perform the powers and functions of the Inspector-General (whether under this Act or any other enactment), but subject to—
+  (a) the control and direction of the Inspector-General; and
+  (b) to avoid doubt, the same duties, obligations, restrictions, and terms under which the Inspector-General exercises and performs his or her powers and functions.
+(4) Sections 7 to 9 and 18 apply to the Deputy Inspector-General as if references in those sections to the Inspector-General were references to the Deputy Inspector-General.
+(5) If there is a vacancy in the office of the Inspector-General, or if the Inspector-General is absent from duty for any reason, the Deputy Inspector-General has and may exercise and perform all the powers, functions, and duties of the Inspector-General for as long as the vacancy or absence continues.
+(6) The fact that the Deputy Inspector-General exercises or performs any power, function, or duty of the Inspector-General is, in the absence of proof to the contrary, conclusive evidence of the Deputy Inspector-General's authority to do so.
 
 ### 6 Term of office
-(1) Every person appointed as the Inspector-General shall be appointed for a term of 3 years and may from time to time be reappointed.
-(2) Every person appointed as the Inspector-General shall, unless sooner vacating office by death or by resignation, or by removal from office under section 7, continue to hold office, notwithstanding the expiry of that person's term of appointment, until—
-  (a) reappointment as the Inspector-General; or
+(1) Every person appointed as the Inspector-General or Deputy Inspector-General—
+  (a) is to be appointed for a term not exceeding 3 years; and
+  (b) may be reappointed, but in the case of the Inspector-General only once.
+(2) Every person appointed as the Inspector-General or Deputy Inspector-General shall, unless sooner vacating office by death or by resignation, or by removal from office under section 7, continue to hold office, notwithstanding the expiry of that person's term of appointment, until—
+  (a) reappointment as the Inspector-General or Deputy Inspector-General; or
   (b) appointment of a successor; or
   (c) the person is informed in writing by the Prime Minister that the person is not to be reappointed and is not to hold office until a successor is appointed.
-(3) The person appointed as the Inspector-General may at any time resign his or her office by written notice given to the Governor-General.
+(3) The person appointed as the Inspector-General or Deputy Inspector-General may at any time resign his or her office by written notice given to the Governor-General.
 
 ### 7 Removal of Inspector-General
 The person appointed as Inspector-General may be removed or suspended from office by the Governor-General, upon an address from the House of Representatives, for disability affecting performance of duty, bankruptcy, neglect of duty, or misconduct.
@@ -92,17 +104,21 @@ The Inspector-General shall give written notice to the Prime Minister of all int
   (b) to inquire into any complaint by—that that person has or may have been adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
     (i) a New Zealand person; or
     (ii) a person who is an employee or former employee of an intelligence and security agency,—
-  (c) to inquire at the request of the Minister or of the Inspector-General's own motion, but subject to the concurrence of the Minister, into—
-    (i) any matter where it appears that a New Zealand person has or may have been adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
-    (ii) the propriety of particular activities of an intelligence and security agency:
-  (d) without limiting the generality of paragraph (a), to review from time to time the effectiveness and appropriateness of the procedures adopted by the New Zealand Security Intelligence Service to ensure compliance with the provisions of sections 4A to 4G of the New Zealand Security Intelligence Service Act 1969 in relation to the issue and execution of intelligence warrants:
-  (da) without limiting the generality of paragraph (a), to review the effectiveness and appropriateness of the procedures adopted by the Government Communications Security Bureau to ensure compliance with the provisions of Part 3 of the Government Communications Security Bureau Act 2003 in relation to the issue and execution of interception warrants and computer access authorisations:
+  (ba) to inquire into any complaint made by the Speaker of the House of Representatives on behalf of 1 or more members of Parliament:
+  (c) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into any matter where it appears that a New Zealand person has been or may be adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
+  (ca) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into the propriety of particular activities of an intelligence and security agency:
+  (d) without limiting paragraph (a), to review at intervals of not more than 12 months—
+    (i) the effectiveness and appropriateness of the procedures adopted by each intelligence and security agency to ensure compliance with its governing legislation in relation to the issue and execution of warrants and authorisations; and
+    (ii) the effectiveness and appropriateness of compliance systems concerning operational activity, including all supporting policies and practices of an intelligence and security agency relating to—
+      (A) administration; and
+      (B) information management; and
+      (C) risk management; and
+      (D) legal compliance generally:
+  (da) to conduct unscheduled audits of the procedures and compliance systems described in paragraph (d):
   (e) to prepare and submit to the Minister from time to time for his or her approval programmes for the general oversight and review of each intelligence and security agency and for the discharge by the Inspector-General, in relation to each intelligence and security agency, of the particular functions specified in this section:
   (f) to carry out any programme or amended programme or substituted programme approved by the Minister under paragraph (e).
-(2) The Inspector-General shall not, of his or her own motion or in response to a complaint made to the Inspector-General, perform any of the functions set out in subsection (1) in relation to any activity of an intelligence and security agency except to the extent that—
-  (a) a New Zealand person or an employee or former employee of an intelligence and security agency has or may have been adversely affected; or
-  (b) the law of New Zealand may have been contravened.
-(3) In carrying out any inquiry in accordance with the provisions of subsection (1)(c)(ii), it shall not be a function of the Inspector-General to inquire into any action taken by the Minister.
+(2)
+(3) In carrying out any inquiry in accordance with the provisions of subsection (1)(ca), it shall not be a function of the Inspector-General to inquire into any action taken by the Minister.
 (4) Except to the extent strictly necessary for the performance of his or her functions under subsection (1), the Inspector-General shall not inquire into any matter that is operationally sensitive, including any matter that relates to intelligence collection and production methods or sources of information.
 (5) The Inspector-General shall not conduct an inquiry into a complaint made under subsection (1) by an employee or former employee of an intelligence and security agency unless—
   (a) all established internal remedies have been exhausted; or
@@ -111,7 +127,15 @@ The Inspector-General shall give written notice to the Prime Minister of all int
 
 ### 12 Consultation
 (1) The Inspector-General shall in the exercise of the Inspector-General's functions under this Act have regard to the functions of the Controller and Auditor-General in relation to an intelligence and security agency and may consult with the Controller and Auditor-General in relation to any matter with a view to avoiding inquiries being conducted into that matter by both the Inspector-General and the Controller and Auditor-General.
-(2) Notwithstanding the provisions of section 26(1), the Inspector-General may from time to time undertake consultation with the Controller and Auditor-General or with an Ombudsman or with the Privacy Commissioner or with a Human Rights Commissioner in relation to any matter relating to the functions of the Inspector-General under section 11, and, for the purposes of any such consultation, the Inspector-General may disclose to the Controller and Auditor-General or to an Ombudsman or to the Privacy Commissioner or to a Human Rights Commissioner such information as the Inspector-General considers necessary for that purpose.
+(2) The Inspector-General may—
+  (a) consult any of the persons specified in subsection (3) about any matter relating to the functions of the Inspector-General under section 11; and
+  (b) despite section 26(1), disclose to any of the persons consulted any information that the Inspector-General considers necessary for the purpose of the consultation.
+(3) The persons are—
+  (a) the Controller and Auditor-General:
+  (b) an Ombudsman:
+  (c) the Privacy Commissioner:
+  (d) a Human Rights Commissioner:
+  (e) the Independent Police Conduct Authority.
 
 ### 13 Requirements of security
 In carrying out his or her functions, duties, and powers under this Act, the Inspector-General shall, in addition to all other matters to which the Inspector-General may properly have regard, have regard to the requirements of security.
@@ -124,7 +148,48 @@ Notwithstanding any other provision of this Act, but subject to section 8 of the
 ### 15 Jurisdiction of courts and other agencies not affected
 (1) For the avoidance of doubt it is hereby declared that the exercise by the Inspector-General of his or her functions under this Act shall not limit the jurisdiction of any court.
 (2) The exercise by the Inspector-General of his or her functions under this Act shall not affect the exercise by any Police employee of any powers which that Police employee may lawfully exercise in relation to an intelligence and security agency or in relation to the chief executive or any employee of an intelligence and security agency.
-(3) Nothing in section 12 shall limit the powers, duties, and responsibilities of the Controller and Auditor-General or of the Ombudsmen or of the Privacy Commissioner under any enactment.
+(3) Nothing in section 12 shall limit the powers, duties, and responsibilities of the Controller and Auditor-General or of the Ombudsmen, the Privacy Commissioner, a Human Rights Commissioner, or the Independent Police Conduct Authority under any enactment.
+
+**Advisory panel**
+
+### 15A Advisory panel established
+This section establishes an advisory panel.
+
+### 15B Function of advisory panel
+(1) The function of the advisory panel is to provide advice to the Inspector-General.
+(2) The advisory panel may provide advice—
+  (a) on request from the Inspector-General; or
+  (b) on its own initiative.
+(3) To assist the advisory panel to perform its function,—
+  (a) the advisory panel may ask the Inspector-General to provide information; and
+  (b) the Inspector-General may provide information to the advisory panel, whether in response to a request under paragraph (a) or on his or her own initiative.
+(4) The advisory panel may make a report to the Prime Minister on any matter relating to intelligence and security, if the advisory panel considers that the matter should be drawn to the attention of the Prime Minister.
+
+### 15C Membership of advisory panel
+(1) The advisory panel consists of—
+  (a) 2 members appointed under subsection (2), one of whom must also be appointed as the chairperson of the panel; and
+  (b) the Inspector-General.
+(2) The members and chairperson appointed under this subsection are appointed by the Governor-General on the recommendation of the Prime Minister after consulting the Intelligence and Security Committee.
+(3) One of the members appointed under subsection (2) must be a lawyer within the meaning of the Lawyers and Conveyancers Act 2006 who has held a practising certificate as a barrister or barrister and solicitor for not less than 7 years.
+(4) Both of the members appointed under subsection (2) must have an appropriate security clearance.
+(5) A member appointed under subsection (2)—
+  (a) holds office for a term not exceeding 5 years; and
+  (b) may from time to time be reappointed; and
+  (c) may at any time resign office by notice in writing to the Prime Minister; and
+  (d) may be removed from office by notice in writing from the Prime Minister for misconduct, inability to perform the functions of office, or neglect of duty.
+
+### 15D Remuneration of appointed members of advisory panel
+(1) A member of the advisory panel appointed under section 15C(1)(a) is entitled—
+  (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
+  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
+(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+
+### 15E Clerical and secretarial services
+(1) The Department of the Prime Minister and Cabinet is responsible for providing to the advisory panel the clerical and secretarial services necessary for the advisory panel to perform its function effectively and efficiently.
+(2) A person providing clerical and secretarial services under subsection (1) must have an appropriate security clearance.
+
+### 15F Advisory panel to determine own procedure
+The advisory panel may determine its own procedure.
 
 **Complaints**
 
@@ -192,8 +257,8 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
 
 ### 24 Proceedings privileged
 (1) Subject to subsection (2),—
-  (a) no proceedings, civil or criminal, shall lie against the Inspector-General, or against any employee of the Inspector-General, for anything done or reported or said by the Inspector-General or employee in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that the Inspector-General or employee acted in bad faith:
-  (b) neither the Inspector-General nor any employee of the Inspector-General nor any person who has held the appointment of Inspector-General or who has been an employee of the Inspector-General shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions under this Act.
+  (a) no proceedings, civil or criminal, may be brought against the Inspector-General, an appointed member of the advisory panel, or against any employee of the Inspector-General, for anything done or reported or said by the Inspector-General, appointed member, or employee in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that the Inspector-General, appointed member, or employee acted in bad faith:
+  (b) neither the Inspector-General nor an appointed member of the advisory panel nor any employee of the Inspector-General nor any person who has held the appointment of Inspector-General or who has been an appointed member of the advisory panel or who has been an employee of the Inspector-General is to be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions under this Act.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
   (a) an offence against section 28 of this Act; or
   (b) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
@@ -209,9 +274,29 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
 (5) The Inspector-General may report to the Minister—
   (a) on the compliance by an intelligence and security agency with the Inspector-General's recommendations as the result of an inquiry by the Inspector-General; and
   (b) on the adequacy of any remedial or preventative measures taken by an intelligence and security agency following such inquiry.
+(6) As soon as practicable after receiving a report from the Inspector-General, the Minister—
+  (a) must provide his or her response to the Inspector-General and the chief executive of the intelligence and security agency concerned; and
+  (b) may provide his or her response to the Intelligence and Security Committee.
+(7) Subsection (6) does not apply to the extent that a report relates to employment matters or security clearance issues.
+(8) For the purposes of this section,—
+  (a) the Inspector-General may, after consulting the chief executive of the intelligence and security agency concerned, determine the security classification of a report prepared under this section; and
+  (b) any matter quoted or summarised in the report must be given a security classification not less than the security classification of the matter quoted or summarised.
+
+### 25A Publication of Inspector-General's reports under section 25
+(1) As soon as practicable after forwarding a report as required by section 25(1), the Inspector-General must make a copy of the report publicly available on an Internet site maintained by or on behalf of the Inspector-General.
+(2) However, the Inspector-General must not, in the copy of a report made publicly available under subsection (1), disclose—
+  (a) information the public disclosure of which would be likely to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence—
+    (i) by the government of any other country or any agency of such a government; or
+    (ii) by any international organisation; or
+  (b) information the public disclosure of which would be likely to endanger the safety of any person; or
+  (c) the identity of any person who is or has been an officer, employee, or agent of an intelligence and security agency other than the chief executive, or any information from which the identity of such a person could reasonably be inferred; or
+  (d) information the public disclosure of which would be likely to prejudice—
+    (i) the continued discharge of the functions of an intelligence and security agency; or
+    (ii) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (e) any information about employment matters or security clearance issues.
 
 ### 26 Disclosure
-(1) Subject to the provisions of this Act, the Inspector-General and any person employed on the staff of the Inspector-General and any person assisting the Inspector-General shall not disclose to any person any security records or other official information whatsoever relating to the activities of an intelligence and security agency.
+(1) Subject to the provisions of this Act, the Inspector-General and an appointed member of the advisory panel and any person employed on the staff of the Inspector-General and any person assisting the Inspector-General shall not disclose to any person any security records or other official information whatsoever relating to the activities of an intelligence and security agency.
 (2) Nothing in subsection (1) shall limit the disclosure to the Minister of information concerning the activities of an intelligence and security agency.
 (3) Subject to subsection (4), where the Minister certifies—the Inspector-General shall act in accordance with the certificate.
   (a) that the disclosure either to or by the Inspector-General of any security records or any other official information would be likely—
@@ -233,19 +318,21 @@ In conducting any inquiry under section 11(1), the Inspector-General may hear se
 (2) The report shall—
   (a) specify the number of inquiries undertaken by the Inspector-General during the year; and
   (b) contain a brief description of the outcome of each inquiry; and
+  (ba) certify the extent to which each intelligence and security agency's compliance systems are sound; and
   (c) contain such other information as the Inspector-General believes it is necessary, in order to fulfil the object of this Act, to make available to the Ministers specified in subsection (1).
-(3) The Prime Minister shall, as soon as practicable after receiving a report under subsection (1), lay a copy of that report before the House of Representatives, together with a statement as to whether any matter has, under subsection (4), been excluded from that copy.
-(4) If it appears to the Prime Minister, after consultation with the Inspector-General, that the publication of any matter in an annual report would be likely—the Prime Minister may exclude that matter from the copy of the report to be laid before the House of Representatives.
+(3) The Prime Minister shall, as soon as practicable after receiving a report under subsection (1), present a copy of the report to the House of Representatives, together with a statement as to whether any matter has, under subsection (4), been excluded from that copy.
+(4) If it appears to the Prime Minister, after consultation with the Inspector-General, that the publication of any matter in an annual report would be likely—the Prime Minister may exclude that matter from the copy of the report to be presented to the House of Representatives.
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of any other country or any agency of such a government; or
   (c) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by any international organisation; or
   (d) to endanger the safety of any person,—
 (5) The Prime Minister shall provide the Leader of the Opposition with a copy of the report furnished to the Prime Minister under subsection (1).
-(6) Where the copy supplied to the Leader of the Opposition under subsection (5) contains matter excluded by the Prime Minister, under subsection (4), from the copy laid before the House of Representatives, the Leader of the Opposition shall not disclose that matter to any other person.
+(6) Where the copy supplied to the Leader of the Opposition under subsection (5) contains matter excluded by the Prime Minister, under subsection (4), from the copy presented to the House of Representatives, the Leader of the Opposition shall not disclose that matter to any other person.
+(6A) As soon as practicable after a copy of the report is presented to the House of Representatives under subsection (3), the Inspector-General must make a copy of the report (as presented to the House of Representatives) publicly available on an Internet site maintained by or on behalf of the Inspector-General.
 (7) The Inspector-General may at any time, with the concurrence of the Prime Minister, report either generally or in respect of any particular matter to the Intelligence and Security Committee established by section 5 of the Intelligence and Security Committee Act 1996.
 
 ### 28 Secrecy
-(1) No person who is, or has at any time been, the Inspector-General or an employee of the Inspector-General or a person assisting the Inspector-General shall, either directly or indirectly, except in the performance of that person's functions or duties or in the exercise of that person's powers under this Act,—
+(1) No person who is, or has at any time been, the Inspector-General or an appointed member of the advisory panel or an employee of the Inspector-General or a person assisting the Inspector-General shall, either directly or indirectly, except in the performance of that person's functions or duties or in the exercise of that person's powers under this Act,—
   (a) make a record of, or disclose to any person, any information acquired by reason of the person holding or acting in that office; or
   (b) make use of any such information.
 (2) Nothing in subsection (1) applies in relation to the disclosure or use of any information after its disclosure or use has been approved in writing by the Minister.
