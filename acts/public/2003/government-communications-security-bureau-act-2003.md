@@ -1,5 +1,5 @@
 # Government Communications Security Bureau Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-09-26_
 
 ### 1 Title
 This Act is the Government Communications Security Bureau Act 2003.
@@ -13,40 +13,34 @@ This Act comes into force on the day after the date on which it receives the Roy
 The purpose of this Act is to—
   (a) continue the Government Communications Security Bureau and establish it as a department of State:
   (b) specify the objective and functions of the Bureau:
-  (c) specify the circumstances in which the Bureau requires an interception warrant or a computer access authorisation to intercept foreign communications:
-  (d) specify the conditions that are necessary for the issue of an interception warrant or a computer access authorisation and the matters that may be authorised by a warrant or an authorisation:
-  (e) specify the circumstances in which the Bureau may use interception devices to intercept foreign communications without a warrant or an authorisation.
+  (c) specify the circumstances in which the Bureau requires an interception warrant or access authorisation to intercept communications:
+  (d) specify the conditions that are necessary for the issue of an interception warrant or access authorisation and the matters that may be authorised by a warrant or an authorisation:
+  (e) specify the circumstances in which the Bureau may use interception devices to intercept communications without a warrant or an authorisation.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **access** , in relation to any computer system, means instruct, communicate with, store data in, retrieve data from, or otherwise make use of any of the resources of, the computer system
+  - **access** , in relation to any information infrastructure, means instruct, communicate with, store data in, retrieve data from, or otherwise make use of any of the resources of, the information infrastructure
+  - **access authorisation** means an authorisation issued under section 15A(1)(b)
   - **Bureau** means the Government Communications Security Bureau continued by section 6
-  - **communication** includes signs, signals, impulses, writing, images, sounds, or data that a person or machine produces, sends, receives, processes, or holds in any medium
-  - **computer access authorisation** or means an authorisation issued under section 19
-  - **computer system** —
-    (a) means—
-      (i) a computer; or
-      (ii) 2 or more interconnected computers; or
-      (iii) any communication links between computers or to remote terminals or any other device; or
-      (iv) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device; and
-    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored data
+  - **communication** includes signs, signals, impulses, writing, images, sounds, information, or data that a person or machine produces, sends, receives, processes, or holds in any medium
   - **Director** means the chief executive of the Bureau; and includes a person who, under section 10, exercises or performs the functions, duties, or powers of the Director
-  - **foreign communications** means communications that contain, or may reasonably be expected to contain, foreign intelligence
-  - **foreign intelligence** means information about the capabilities, intentions, or activities of a foreign organisation or a foreign person
   - **foreign organisation** means—
     (a) a Government of any country other than New Zealand:
     (b) an entity controlled by the Government of any country other than New Zealand:
     (c) a company or body corporate that is incorporated outside New Zealand, or any company within the meaning of the Companies Act 1993 that is, for the purposes of the Companies Act 1993, a subsidiary of any company or body corporate incorporated outside New Zealand:
-    (d) an unincorporated body of persons consisting exclusively of foreign organisations or foreign persons that carry on activities wholly outside New Zealand:
+    (d) an unincorporated body of persons consisting principally of foreign organisations or foreign persons that carry on activities wholly outside New Zealand:
     (e) an international organisation:
     (f) a person acting in his or her capacity as an agent or a representative of any Government, body, or organisation referred to in any of paragraphs (a) to (e)
   - **foreign person** means an individual who is neither a New Zealand citizen nor a permanent resident; and includes a person acting in his or her capacity as an agent or a representative of such an individual
+  - **incidentally obtained intelligence** means intelligence—
+    (a) that is obtained in the course of gathering intelligence about the capabilities, intentions, or activities of foreign organisations or foreign persons; but
+    (b) that is not intelligence of the kind referred to in paragraph (a)
+  - **information infrastructure** includes electromagnetic emissions, communications systems and networks, information technology systems and networks, and any communications carried on, contained in, or relating to those emissions, systems, or networks
   - **intercept** includes hear, listen to, record, monitor, acquire, or receive a communication, or acquire its substance, meaning, or sense
   - **interception device** means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to intercept communications
-  - **interception warrant** means a warrant issued under section 17
+  - **interception warrant** means a warrant issued under section 15A(1)(a)
   - **medium** means any form in which communications may be produced, sent, received, processed, or held; and includes electromagnetic, acoustic, or other energy
   - **Minister** means the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the Bureau
-  - **network** has the same meaning as in section 5 of the Telecommunications Act 2001; but does not include a line (within the meaning of that Act) that is used exclusively by the Bureau
   - **permanent resident** means a person who is, or who is deemed to be, the holder of a residence class visa under the Immigration Act 2009
   - **private communication** —
     (a) means a communication between 2 or more parties made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
@@ -58,6 +52,9 @@ In this Act, unless the context otherwise requires,—
 ### 5 Act binds the Crown
 This Act binds the Crown.
 
+### 5A Transitional provisions relating to amendments to Act
+The Schedule contains transitional provisions relating to amendments made to this Act after 1 January 2013.
+
 ## Part 2 — Organisation, objectives, and functions of Bureau
 
 ### 6 Bureau continued and established as department
@@ -65,45 +62,93 @@ This Act binds the Crown.
 (2) On and from the commencement of this Act, the Bureau is a department of State.
 
 ### 7 Objective of Bureau
-(1) The objective of the Bureau is to contribute to the national security of New Zealand by providing—
-  (a) foreign intelligence that the Government of New Zealand requires to protect and advance—
-    (i) the security or defence of New Zealand; or
-    (ii) the international relations of the Government of New Zealand; or
-    (iii) New Zealand’s international well-being or economic well-being; and
-  (b) foreign intelligence to meet international obligations and commitments of the Government of New Zealand; and
-  (c) advice, assistance, and protection to departments of State and other instruments of the Executive Government of New Zealand in order to—
-    (i) protect and enhance the security of their communications, information systems, and computer systems; or
-    (ii) protect their environments from electronic or other forms of technical surveillance by foreign organisations or foreign persons.
-(2) For the purposes of subsection (1)(a)(iii), the interests of New Zealand’s international well-being or economic well-being are relevant only to the extent that they are affected by the actions or intentions of foreign organisations or foreign persons.
+The objective of the Bureau, in performing its functions, is to contribute to—
+  (a) the national security of New Zealand; and
+  (b) the international relations and well-being of New Zealand; and
+  (c) the economic well-being of New Zealand.
 
 ### 8 Functions of Bureau
-(1) The Bureau has the following functions:
-  (a) to gather foreign intelligence, in accordance with the foreign intelligence requirements of the Government of New Zealand,—
-    (i) by intercepting communications under the authority of this Act; or
-    (ii) by co-operating with public authorities or other entities in New Zealand and abroad; or
-    (iii) by collecting information in any other lawful manner:
-  (b) to decipher, decode, and translate foreign communications:
-  (c) to examine and analyse foreign communications and foreign intelligence:
-  (d) to provide reports on foreign intelligence to the Minister and any person or office holder, whether in New Zealand or abroad, authorised by the Minister:
-  (e) to co-operate with, or to provide advice and assistance to, any public authority or other entity, in New Zealand or abroad,—
-    (i) on the protection of information that the public authority or other entity produces, sends, receives, or holds in any medium; or
-    (ii) on any matter that is relevant—
-      (A) to the functions of the public authority or other entity; and
-      (B) to any purpose specified in subsection (2).
-(2) The Bureau may perform its functions only for the following purposes:
-  (a) to pursue its objective:
-  (b) to protect the safety of any person:
-  (c) in support of the prevention or detection of serious crime.
-(3) The performance of the Bureau’s functions is subject to the control of the Minister.
+(1) Sections 8A to 8C set out the functions of the Bureau.
+(2) The order in which the functions are set out is not to be taken as specifying any order of importance or priority.
+(3) The performance of the Bureau's functions and the relative importance and priority of the functions, if any, are to be determined, from time to time, by the Director, subject to the control of the Minister.
+(4) Without limiting subsection (3), the performance of the Bureau's functions under section 8A (information assurance and cybersecurity) and section 8C (co-operation with other entities to facilitate their functions) is at the discretion of the Director.
+(5) In addition to the functions set out in sections 8A to 8C, the Bureau has the functions (if any) conferred on it by or under any other Act.
 
-### 9 Director of Bureau
-(1) The Director of the Bureau is appointed by the Governor-General.
-(2) The remuneration of the Director is determined by the Higher Salaries Commission under the Higher Salaries Commission Act 1977.
-(3) The Director holds office during the pleasure of the Governor-General and is subject to any conditions (other than remuneration) determined by the Minister.
-(4) Despite subsection (3), the person who, at the commencement of this Act, holds office as Director—
-  (a) continues to hold that office in accordance with the person’s contract of employment; and
-  (b) until a determination of the kind referred to in subsection (2) is made in respect of the person, continues to be remunerated in accordance with that contract; and
-  (c) is eligible to be reappointed as Director.
+### 8A Information assurance and cybersecurity
+This function of the Bureau is—
+  (a) to co-operate with, and provide advice and assistance to, any public authority whether in New Zealand or overseas, or to any other entity authorised by the Minister, on any matters relating to the protection, security, and integrity of—
+    (i) communications, including those that are processed, stored, or communicated in or through information infrastructures; and
+    (ii) information infrastructures of importance to the Government of New Zealand; and
+  (b) without limiting paragraph (a), to do everything that is necessary or desirable to protect the security and integrity of the communications and information infrastructures referred to in paragraph (a), including identifying and responding to threats or potential threats to those communications and information infrastructures; and
+  (c) to report on anything done under paragraphs (a) and (b) and provide any intelligence gathered as a result and any analysis of the intelligence to—
+    (i) the Minister; and
+    (ii) any person or office holder (whether in New Zealand or overseas) authorised by the Minister to receive the report or intelligence.
+
+### 8B Intelligence gathering and analysis
+(1) This function of the Bureau is—
+  (a) to gather and analyse intelligence (including from information infrastructures) in accordance with the Government's requirements about the capabilities, intentions, and activities of foreign persons and foreign organisations; and
+  (b) to gather and analyse intelligence about information infrastructures; and
+  (c) to provide any intelligence gathered and any analysis of the intelligence to—
+    (i) the Minister; and
+    (ii) any person or office holder (whether in New Zealand or overseas) authorised by the Minister to receive the intelligence.
+(2) For the purpose of performing its function under subsection (1)(a) and (b), the Bureau may co-operate with, and provide advice and assistance to, any public authority (whether in New Zealand or overseas) and any other entity authorised by the Minister for the purposes of this subsection.
+
+### 8C Co-operation with other entities to facilitate their functions
+(1) This function of the Bureau is to co-operate with, and provide advice and assistance to, the following for the purpose of facilitating the performance of their functions:
+  (a) the New Zealand Police; and
+  (b) the New Zealand Defence Force; and
+  (c) the New Zealand Security Intelligence Service.
+(2) To avoid doubt, the Bureau may perform its function under subsection (1)—
+  (a) only to the extent that the advice and assistance are provided for the purpose of activities that the entities may lawfully undertake; and
+  (b) subject to and in accordance with any limitations, restrictions, and protections under which those entities perform their functions and exercise their powers; and
+  (c) even though the advice and assistance might involve the exercise of powers by, or the sharing of the capabilities of, the Bureau that the Bureau is not, or could not be, authorised to exercise or share in the performance of its other functions.
+(3) Any advice or assistance provided by the Bureau under subsection (1) to another entity is subject to—
+  (a) the jurisdiction of any other body or authority to the same extent as the other entity's actions are subject to the other body's or authority's jurisdiction (for example, the Independent Police Conduct Authority in relation to advice and assistance provided to the New Zealand Police); and
+  (b) the oversight of the Inspector-General of Intelligence and Security under his or her functions in section 11 of the Inspector-General of Intelligence and Security Act 1996.
+
+### 8D Principles underpinning performance of Bureau's functions
+(1) In performing its functions under this Act, the Bureau acts—
+  (a) in accordance with New Zealand law and all human rights standards recognised by New Zealand law, except to the extent that they are, in relation to national security, modified by an enactment:
+  (b) in the discharge of its operational functions, independently and impartially:
+  (c) with integrity and professionalism:
+  (d) in a manner that facilitates effective democratic oversight.
+(2) Subsection (1) does not impose particular duties on, or give particular powers to, the Bureau, the Director, or any employee of the Bureau.
+(3) The Director must take all reasonable steps to ensure that—
+  (a) the activities of the Bureau are limited to those that are relevant to the discharge of its functions:
+  (b) the Bureau is kept free from any influence or consideration that is not relevant to its functions:
+  (c) the Bureau does not take any action for the purpose of furthering or harming the interests of any political party in New Zealand.
+(4) The Director must consult regularly with the Leader of the Opposition for the purpose of keeping him or her informed about matters relating to the Bureau's functions under sections 8A to 8C.
+
+### 8E Director has full powers for purpose of performing Bureau's functions
+(1) The Director has all the powers that are necessary or desirable for the purpose of performing the functions of the Bureau.
+(2) Subsection (1) applies subject to this Act, any other enactment, and the general law.
+
+### 9 Appointment of Director
+(1) The Director of the Bureau is appointed by the Governor-General, on the recommendation of the Prime Minister, for a term not exceeding 5 years, and may from time to time be reappointed.
+(2) To avoid doubt, the mere fact that a person holds the position of Director does not entitle the person to be reappointed or to expect to be reappointed.
+
+### 9A Appointment process
+The State Services Commissioner—
+  (a) is responsible for managing the process for the appointment of the Director; and
+  (b) must provide advice on the nominations for Director to the Prime Minister.
+
+### 9B Remuneration and conditions of appointment of Director
+(1) The Director is paid the remuneration and allowances determined by the Remuneration Authority.
+(2) The other terms and conditions of the Director's appointment are determined from time to time by the State Services Commissioner.
+
+### 9C Removal from office
+(1) The Governor-General may at any time for just cause, on the recommendation of the Prime Minister, remove the Director from office.
+(2) The removal must be made by written notice to the Director.
+(3) The notice must—
+  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
+  (b) state the reasons for the removal.
+(4) The State Services Commissioner is responsible for advising the Prime Minister on any proposal to remove the Director from office.
+(5) In this section, just cause includes misconduct, inability to perform the functions of office, and neglect of duty.
+
+### 9D Review of performance of Director
+(1) The Minister may direct the State Services Commissioner or another person to review, either generally or in respect of any particular matter, the performance of the Director.
+(2) The person conducting a review under subsection (1) must report to the Minister on the manner and extent to which the Director is fulfilling all of the requirements imposed on the Director, whether under this Act or otherwise.
+(3) No review under this section may consider any security operations undertaken, or proposed to be undertaken.
 
 ### 10 Acting Director
 (1) When there is a vacancy in the position of Director or when the Director is (for whatever reason) absent from duty, the functions, duties, and powers of the Director must be exercised or performed by a person whom the Minister directs to exercise or perform those functions, duties, and powers.
@@ -112,15 +157,18 @@ This Act binds the Crown.
 
 ### 11 Prohibition on unauthorised disclosure of information
 (1) A person who is or was an employee of the Bureau may not disclose or use any information gained by or conveyed to the person through the person’s connection with the Bureau except in the strict course of the person’s official duties or as authorised by the Minister.
-(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 who contravenes subsection (1).
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $5,000 who contravenes subsection (1).
 
 ### 12 Annual report
 (1) As soon as practicable after each year ending on 30 June, the Director must deliver to the Minister a report on the activities of the Bureau during that year as if it were an annual report under the Public Finance Act 1989.
-(2) When the Minister receives a copy of a report under subsection (1), the Minister must, without delay, submit a copy of the report to the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996.
+(2) When the Minister receives a copy of a report under subsection (1), the Minister must, as soon as practicable, submit a copy of the report to the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996.
 (3) Within 30 sitting days after receiving the report under subsection (1), the Minister must present to the House of Representatives a copy of the report that accords with any directions given under subsection (4), and includes—
   (a)
   (b) a statement as to whether or not any interception warrants were in force during the year to which the report relates; and
-  (c) a statement as to whether or not any computer access authorisations were in force during the year to which the report relates; and
+  (ba) if any interception warrants have been issued during the year to which the report relates, the number of warrants issued; and
+  (c) a statement as to whether or not any access authorisations were in force during the year to which the report relates; and
+  (ca) if any access authorisations have been issued during the year to which the report relates, the number of authorisations issued; and
+  (cb) a statement as to whether the Bureau has, under its function specified in section 8C(1), provided during the year to which the report relates any advice or assistance and, if so, the number of instances on which advice or assistance has been provided; and
   (d) a statement setting out—
     (i) a summary of the Bureau’s equal employment opportunities programme for the year to which the report relates; and
     (ii) an account of the extent to which the Bureau was able to meet, during the year to which the report relates, the equal employment opportunities programme for that year.
@@ -131,101 +179,198 @@ This Act binds the Crown.
   (d) to endanger the safety of any person; or
   (e) to prejudice unreasonably the privacy of an individual.
 
-## Part 3 — Interception of communications
+## Part 3 — Intercepting communications and accessing information infrastructures
 
 **Purpose of Part**
 
 ### 13 Purpose of Part
-The purpose of this Part is,—
-  (a) subject to the restrictions imposed by this Part, to enable the Bureau to obtain foreign intelligence; and
-  (b) to authorise the interception of communications (whether under section 16 or under an interception warrant or a computer access authorisation) only if the purpose of the interception is to obtain foreign intelligence.
+The purpose of this Part is—
+  (a) to authorise the Bureau to intercept communications and access information infrastructures for the purpose of performing its functions under sections 8A and 8B; and
+  (b) to place restrictions and limitations on—
+    (i) the interception of communications and the accessing of information infrastructures; and
+    (ii) the retention and use of information derived from the interception of communications and the accessing of information infrastructures.
 
 **Restrictions imposed on interceptions**
 
-### 14 Interceptions not to target domestic communications
-Neither the Director, nor an employee of the Bureau, nor a person acting on behalf of the Bureau may authorise or take any action for the purpose of intercepting the communications of a person (not being a foreign organisation or a foreign person) who is a New Zealand citizen or a permanent resident.
+### 14 Interceptions not to target New Zealand citizens or permanent residents for intelligence-gathering purposes
+(1) In performing the Bureau's function in section 8B, the Director, any employee of the Bureau, and any person acting on behalf of the Bureau must not authorise or do anything for the purpose of intercepting the private communications of a person who is a New Zealand citizen or a permanent resident of New Zealand, unless (and to the extent that) the person comes within the definition of foreign person or foreign organisation in section 4.
+(2) Any incidentally obtained intelligence obtained by the Bureau in the performance of its function in section 8B—
+  (a) is not obtained in breach of section 8B; but
+  (b) must not be retained or disclosed except in accordance with sections 23 and 25.
 
 ### 15 Interceptions for which warrant or authorisation required
 (1) Unless authorised by an interception warrant to do so, neither the Director, nor an employee of the Bureau, nor a person acting on behalf of the Bureau may—
-  (a) physically connect an interception device to any part of a network; or
+  (a) physically connect an interception device to any part of an information infrastructure; or
   (b) install an interception device in a place for the purpose of intercepting communications that occur in the place.
-(2) Unless authorised by section 16 or by a computer access authorisation to do so, neither the Director, nor an employee of the Bureau, nor a person acting on behalf of the Bureau may access a computer system that the person concerned is not otherwise authorised to access.
+(2) Unless authorised by section 16 or by an access authorisation to do so, neither the Director, nor an employee of the Bureau, nor a person acting on behalf of the Bureau may access an information infrastructure that the person concerned is not otherwise authorised to access.
 
-### 16 Certain interceptions permitted without interception warrant or computer access authorisation
-(1) The Director, or an employee of the Bureau, or a person acting on behalf of the Bureau may, without an interception warrant, or, as the case requires, without a computer access authorisation, intercept foreign communications only if the interception is authorised by this Act or by another enactment.
-(2) The Director, or an employee of the Bureau, or a person acting on behalf of the Bureau may, without an interception warrant, or, as the case requires, without a computer access authorisation, intercept foreign communications by using an interception device, but only if—
+**Authorisations to intercept communications or access information infrastructures**
+
+### 15A Authorisation to intercept communications or access information infrastructures
+(1) For the purpose of performing the Bureau's functions under section 8A or 8B, the Director may apply in writing to the Minister for the issue of—
+  (a) an interception warrant authorising the use of interception devices to intercept communications not otherwise lawfully obtainable by the Bureau of the following kinds:
+    (i) communications made or received by 1 or more persons or classes of persons specified in the authorisation or made or received in 1 or more places or classes of places specified in the authorisation:
+    (ii) communications that are sent from, or are being sent to, an overseas country:
+  (b) an access authorisation authorising the accessing of 1 or more specified information infrastructures or classes of information infrastructures that the Bureau cannot otherwise lawfully access.
+(2) The Minister may grant the proposed interception warrant or access authorisation if satisfied that—
+  (a) the proposed interception or access is for the purpose of performing a function of the Bureau under section 8A or 8B; and
+  (b) the outcome sought to be achieved under the proposed interception or access justifies the particular interception or access; and
+  (c) the outcome is not likely to be achieved by other means; and
+  (d) there are satisfactory arrangements in place to ensure that nothing will be done in reliance on the warrant or authorisation beyond what is necessary for the proper performance of a function of the Bureau; and
+  (e) there are satisfactory arrangements in place to ensure that the nature and consequences of acts done in reliance on the warrant or authorisation will be reasonable, having regard to the purposes for which they are carried out.
+(3) Before issuing a warrant or an authorisation, the Minister must consult the Minister of Foreign Affairs about the proposed warrant or authorisation.
+(4) The Minister may issue a warrant or an authorisation subject to any conditions that the Minister considers desirable in the public interest.
+(5) This section applies despite anything in any other Act.
+
+### 15B Involvement of Commissioner of Security Warrants
+(1) An application for, and issue of, an interception warrant or access authorisation under section 15A must be made jointly to, and issued jointly by, the Minister and the Commissioner of Security Warrants if anything that may be done under the warrant or authorisation is for the purpose of intercepting the private communications of a New Zealand citizen or permanent resident of New Zealand under—
+  (a) section 8A; or
+  (b) section 8B, to the extent that intercepting the person's private communications under that section is not precluded by section 14.
+(2) For the purposes of subsection (1), section 15A applies—
+  (a) as if references to the Minister were references to the Minister and the Commissioner of Security Warrants; and
+  (b) with any other necessary modifications.
+(3) In this section, Commissioner of Security Warrants means the Commissioner of Security Warrants appointed under section 5A of the New Zealand Security Intelligence Service Act 1969.
+
+### 15C Privileged communications
+(1) No interception warrant or access authorisation is to be issued under section 15A, and no powers are to be exercised under an interception warrant or access authorisation issued under section 15A, for the purpose of intercepting the privileged communications of New Zealand citizens or permanent residents of New Zealand.
+(2) In subsection (1), privileged communications means communications that are privileged in proceedings in a court of law under section 54, 56, 58, or 59 of the Evidence Act 2006.
+
+### 15D Information that interception warrant or access authorisation must contain
+(1) Every interception warrant and access authorisation must specify the following information:
+  (a) the date of issue:
+  (b) the person, persons, or classes of persons authorised to make the interception or obtain the access:
+  (c) the period for which the warrant or authorisation is issued, being a period not exceeding 12 months:
+  (d) the function or functions of the Bureau to which the warrant or authorisation relates:
+  (e) the purpose of the warrant or authorisation:
+  (f) any conditions under which interception may be made or access may be obtained.
+(2) Every interception warrant must also specify the following information:
+  (a) if the purpose of the warrant is to authorise the interception of the communications of 1 or more persons, the person, persons, or classes of persons whose communications may be intercepted:
+  (b) if the purpose of the warrant is to intercept communications at 1 or more places, the place, places, or classes of places that the warrant applies to.
+(3) Every access authorisation must also specify the information infrastructure, information infrastructures, or classes of information infrastructures that the authorisation applies to.
+
+### 15E Warrant or authorisation may authorise persons to assist person giving effect to warrant or authorisation
+(1) A warrant or an authorisation may request 1 or more persons or classes of persons to give any assistance that is reasonably necessary to give effect to the warrant or authorisation.
+(2) If a request is made, under subsection (1), to 1 or more persons or classes of persons who are employees (the employees), the warrant or authorisation must also request the persons who are the employers of the employees, or any other persons in any way in control of the employees, to make the services of the employees available to the Bureau.
+(3) On an application made in writing by the Director, the Minister may amend a warrant or authorisation (as appropriate)—
+  (a) by substituting a person, persons, or classes of persons for the person, persons, or classes of persons specified in the warrant under section 15D(2)(a):
+  (b) by substituting another person, other persons, or other classes of persons for a person, persons, or classes of persons requested under subsection (1):
+  (c) by adding any person, persons, or classes of persons to the persons requested under subsection (1).
+
+### 15F Expiry of warrant or authorisation not to prevent further application
+The expiry of an interception warrant or of an authorisation does not prevent a further application for an interception warrant or an authorisation in respect of the same subject matter.
+
+### 16 Certain interceptions permitted without interception warrant or access authorisation
+(1A) This section—
+  (a) applies to the interception of communications for the purpose of the Bureau's functions in sections 8A and 8B; but
+  (b) does not authorise anything to be done for the purpose of intercepting the private communications of a New Zealand citizen or permanent resident of New Zealand.
+(1) The Director, or an employee of the Bureau, or a person acting on behalf of the Bureau may, without an interception warrant, or, as the case requires, without a computer access authorisation, intercept communications only if the interception is authorised by this Act or by another enactment.
+(2) The Director, or an employee of the Bureau, or a person acting on behalf of the Bureau may, without an interception warrant, or, as the case requires, without an access authorisation, intercept communications by using an interception device or by accessing an information infrastructure, but only if—
   (a) the interception does not involve any activity specified in section 15(1); and
-  (b) any access to a computer system is limited to access to 1 or more communication links between computers or to remote terminals; and
-  (c) the interception is carried out by the Director or with the authority of the Director for the purpose of obtaining foreign intelligence; and
-  (d) the foreign communications do not contain private communications other than private communications that—
-    (i) are produced, sent, or received by, or sent to, a foreign organisation or a foreign person; and
-    (ii) contain, or may reasonably be expected to contain, foreign intelligence.
+  (b) any access to an information infrastructure is limited to access to 1 or more communication links between computers or to remote terminals; and
+  (c) the interception is carried out by the Director or with the authority of the Director for the purpose of performing the Bureau's function in section 8A or 8B.
 (3) This section is subject to section 14.
 
 **Interception warrants**
 
 ### 17 Issue of interception warrant
-(1) The Director may apply in writing to the Minister for the issue of an interception warrant authorising the use of interception devices to intercept communications not otherwise lawfully obtainable by the Bureau.
-(2) If satisfied on evidence given on oath by the Director that the conditions specified in subsection (3) apply to the proposed warrant, the Minister may issue the warrant to authorise the interception of either or both of the following kinds of communication:
-  (a) foreign communications made or received by 1 or more persons specified in the warrant or made or received in 1 or more places specified in the warrant:
-  (b) foreign communications that are sent from, or are being sent to, an overseas country.
-(3) The conditions referred to in subsection (2) are that—
-  (a) the interception to be authorised by the proposed warrant is essential for the protection or advancement of 1 or more of the interests specified in section 7(1)(a); and
-  (b) the value of the information sought to be obtained under the proposed warrant justifies the particular interception; and
-  (c) the information is not likely to be obtained by other means; and
-  (d) if the communications to be intercepted are of the kind specified in subsection (2)(a), that there are reasonable grounds for believing—
-    (i) that any person specified in the proposed warrant as a person whose communications may be intercepted is a foreign person or a foreign organisation; and
-    (ii) that any place to be specified in the proposed warrant is occupied by a foreign organisation or a foreign person.
-(4) Before issuing a warrant, the Minister must consult the Minister of Foreign Affairs and Trade about the proposed warrant.
-(5) The Minister may issue a warrant subject to any conditions that the Minister considers advisable in the public interest.
-(6) This section is subject to section 14.
+[Repealed]
 
 ### 18 Persons acting under warrant
-(1) Every interception warrant must specify the person or class of person who may make the interception authorised by the warrant.
-(2) A warrant may also request 1 or more persons or class of persons to give any assistance that is reasonably necessary to give effect to the warrant.
-(3) If a request is made, under subsection (2), to 1 or more persons or class of persons who are employees (the employees), the warrant must also request the persons who are the employers of the employees, or any other persons in any way in control of the employees, to make the services of the employees available to the Bureau.
-(4) On an application made in writing by the Director, the Minister may amend a warrant—
-  (a) by substituting another person for the person specified in the warrant under subsection (1):
-  (b) by substituting another person or another class of persons for a person or class of persons requested under subsection (2):
-  (c) by adding any person or class of persons to the persons requested under subsection (2).
+[Repealed]
 
-**Computer access authorisation**
+**Register of interception warrants and access authorisations**
 
-### 19 Authorisation to access computer system
-(1) The Minister may, on the written application of the Director, authorise the Director or a specified employee, or a specified class of employees, of the Bureau to access a computer system of a specified foreign organisation or foreign person.
-(2) Before the Minister grants an authorisation, he or she must be satisfied on evidence given on oath by the Director that—
-  (a) the access to be authorised is essential for the protection or advancement of 1 or more of the interests specified in section 7(1)(a); and
-  (b) that the persons whose computer system is to be accessed are foreign persons or foreign organisations; and
-  (c) the value of the information sought to be obtained under the authorisation justifies the access; and
-  (d) the information is not likely to be obtained by other means.
-(3) Every authorisation must be in writing.
-(4) Before issuing an authorisation, the Minister must consult the Minister of Foreign Affairs and Trade about the proposed authorisation.
-(5) The Minister may issue an authorisation subject to any conditions that the Minister considers advisable in the public interest.
+### 19 Register of interception warrants and access authorisations
+(1) The Director must keep a register of interception warrants and access authorisations issued under this Part.
+(2) The following information must be entered in the register in relation to every interception warrant and access authorisation issued under this Part:
+  (a) the information specified in section 15D; and
+  (b) whether the warrant or authorisation contains a request to give assistance under section 15E(1); and
+  (c) any person, persons, or classes of persons substituted or added under section 15E(3).
+(3) The Director must make the register available to the Minister or the Inspector-General of Intelligence and Security as and when requested by the Minister or the Inspector-General.
+(4) As soon as practicable after information specified in section 15D(2)(a) is entered in the register, the Director must notify the Inspector-General of Intelligence and Security if the information relates to a New Zealand citizen or a permanent resident of New Zealand.
+
+**Urgent issue of warrants and authorisations**
+
+### 19A Urgent issue of warrants and authorisations
+(1) This section applies if—
+  (a) the Minister is unavailable to issue an interception warrant or access authorisation; and
+  (b) circumstances make it necessary to issue a warrant or an authorisation before the Minister is available to do so.
+(2) Any of the following may issue a warrant or an authorisation:
+  (a) the Attorney-General:
+  (b) the Minister of Defence:
+  (c) the Minister of Foreign Affairs.
+(3) A person issuing a warrant or an authorisation under subsection (2) may do so only to the same extent and subject to the same terms and conditions as apply to the issue of a warrant or an authorisation by the Minister.
+(4) A person issuing a warrant or an authorisation under subsection (2) must, as soon as practicable after the Minister becomes available, advise the Minister about the issue of the warrant.
 
 **Provisions applicable to warrants, authorisations, and powers under section 16**
 
 ### 20 Director’s functions in relation to warrants and authorisations not to be delegated
-Despite section 41 of the State Sector Act 1988, the Director may not delegate to any person the Director’s functions under section 17 or section 19.
+Despite section 41 of the State Sector Act 1988, the Director may not delegate to any person the Director’s functions under section 15A.
 
-### 21 Action taken in accordance with warrant or authorisation justified
-(1) Every person who is authorised to give effect, or to assist in giving effect, to an interception warrant or to a computer access authorisation is justified in taking, in accordance with the terms and conditions of the warrant or authorisation, any reasonable action necessarily involved in giving, or assisting to give, effect to the warrant or authorisation.
-(2) In any proceedings, a certificate by the Attorney-General as to any matters specified in a warrant or authorisation is sufficient evidence of those matters and, if such a certificate is produced, it is not necessary to produce the warrant or authorisation to which the certificate relates.
+### 21 Immunity from civil and criminal liability
+(1) Every person is immune from civil or criminal liability—
+  (a) for any act done in good faith in order to obtain a warrant or an authorisation under this Act:
+  (b) for anything done in good faith under a warrant or an authorisation under this Act or under section 16, if done in a reasonable manner.
+(2) Every person is immune from civil and criminal liability for any act done in good faith and in a reasonable manner in order to assist a person to do anything authorised by a warrant or an authorisation under this Act or under section 16.
+(3) In any civil proceeding in which a person asserts that he or she has an immunity under this section, the onus is on the person to prove the facts necessary to establish the basis of the claim.
+(4) Section 86 of the State Sector Act 1988 applies to the Director and any employee of the Bureau subject to this section.
 
 ### 22 Term of warrant or authorisation
-(1) Every interception warrant and every computer access authorisation must specify a period not exceeding 12 months for which the warrant or authorisation is valid.
-(2) The expiry of an interception warrant or of an authorisation does not prevent a further application for an interception warrant or an authorisation in respect of the same subject matter.
+[Repealed]
 
 ### 23 Destruction of irrelevant records obtained by interception
-(1) Every person who intercepts any communication under section 16 or under an interception warrant or a computer access authorisation must, as soon as practicable after the interception, destroy any copy that he or she may make of the communication, or any part of the communication, and any record, whether in writing or otherwise, of the information obtained by that interception, except to the extent that the information recorded in the copy or record relates directly or indirectly to—
-  (a) the protection or advancement of 1 or more of the interests specified in section 7(1)(a); or
-  (b) any of the Bureau’s functions under section 8.
+(1) Every person who intercepts any communication under section 16 or under an interception warrant or a access authorisation must, as soon as practicable after the interception, destroy any copy that he or she may make of the communication, or any part of the communication, and any record, whether in writing or otherwise, of the information obtained by that interception, except to the extent permitted by section 25 or to the extent that the information recorded in the copy or record relates directly or indirectly to—
+  (a) the protection or advancement of 1 or more of the interests specified in section 7; or
+  (b) any of the Bureau’s functions under section 8A or 8B.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who knowingly fails to comply with subsection (1).
 
 ### 24 Duty to minimise impact of interception on third parties
-Every person who, in accordance with section 16 or with an interception warrant or with a computer access authorisation, intercepts or assists in intercepting the communications of 1 or more persons must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting communications that are not relevant to the persons whose communications are to be intercepted.
+Every person who, in accordance with section 16 or with an interception warrant or with an access authorisation, intercepts or assists in intercepting the communications of 1 or more persons must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting communications that are not relevant to the persons whose communications are to be intercepted.
 
-### 25 Prevention or detection of serious crime
-Despite section 23, the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Bureau and may communicate that information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
+### 25 When incidentally obtained intelligence may be retained and communicated to other persons
+(1) Despite section 23, the Director may—
+  (a) retain incidentally obtained intelligence that comes into the possession of the Bureau for 1 or more of the purposes specified in subsection (2); and
+  (b) communicate that intelligence to the persons specified in subsection (3).
+(2) The purposes are—
+  (a) preventing or detecting serious crime in New Zealand or any other country:
+  (b) preventing or avoiding the loss of human life on the high seas:
+  (c) preventing or responding to threats to human life in New Zealand or any other country:
+  (d) identifying, preventing, or responding to threats or potential threats to the security or defence of New Zealand or any other country.
+(3) The persons are—
+  (a) any employee of the New Zealand Police:
+  (b) any member of the New Zealand Defence Force:
+  (c) the Director of Security under the New Zealand Security Intelligence Service Act 1969:
+  (d) any public authority (whether in New Zealand or overseas) that the Director thinks fit to receive the information.
+
+**Protection and disclosure of personal information**
+
+### 25A Formulation of policy on personal information
+(1) As soon as is reasonably practicable after the commencement of this section, the Director must, in consultation with the Inspector-General of Intelligence and Security and the Privacy Commissioner, formulate a policy that applies to the Bureau (in a manner compatible with the requirements of national security) the principles set out in section 25B.
+(2) The policy must require—
+  (a) all employees and persons acting on behalf of the Bureau to comply with the policy; and
+  (b) the level of compliance with the policy to be regularly audited.
+(3) The Director must advise the Privacy Commissioner of the results of audits conducted under the policy.
+(4) The Privacy Commissioner may provide a report to the Inspector-General of Intelligence and Security if the results of the audits disclose issues that need to be addressed.
+(5) The Director must regularly review the policy at intervals of not more than 3 years and, if he or she considers it appropriate to do so, revise the policy in consultation with the Inspector-General of Intelligence and Security and the Privacy Commissioner.
+
+### 25B Principles to protect personal information
+The principles referred to in section 25A(1) are as follows:
+  (a) the Bureau must not collect personal information unless—
+    (i) the information is collected for a lawful purpose connected with a function of the Bureau; and
+    (ii) the collection of the information is reasonably necessary for that purpose, having regard to the nature of intelligence gathering:
+  (b) the Bureau must ensure—
+    (i) that any personal information it holds is protected by such security safeguards as it is reasonable in the circumstances to take against—
+      (A) loss; and
+      (B) access, use, modification, or disclosure, except with the authority of the Bureau; and
+      (C) other misuse; and
+    (ii) that if it is necessary for any personal information that it holds to be given to a person in connection with the provision of a service to the Bureau, everything reasonably within the power of the Bureau is done to prevent unauthorised use or unauthorised disclosure of the information:
+  (c) the Bureau must not use personal information without taking such steps (if any) as are, in the light of the interests and constraints of national security and the nature of intelligence gathering, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date, complete, relevant, and not misleading:
+  (d) the Bureau must not keep personal information longer than is required for the purposes for which the information may be lawfully used.
+
+## Part 3A — Transitional provisions relating to amendments to Act
+
+### 25C Transitional provisions relating to amendments to Act
+The transitional provisions set out in the Schedule, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
 
 ## Part 4 — Provisions relating to other enactments
 
@@ -258,3 +403,5 @@ Sections 30, 40, 58(2), and 68 of the State Sector Act 1988 do not apply to the 
 
 ### 35 Revocation
 The Crimes (Exemption of Listening Device) Order 1997 (SR 1997/145) is revoked.
+
+## Schedule  — Transitional provisions relating to amendments made to Act after 1 January 2013
