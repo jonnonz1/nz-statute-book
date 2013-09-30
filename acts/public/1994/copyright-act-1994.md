@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2013-09-30_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -1978,7 +1978,7 @@ The rights conferred by Part 4 are not assignable.
 
 ### 122S Application of section 122C to cellular mobile networks
 (1) An IPAP need not comply with either of the obligations in section 122C(1) in respect of the services it provides by way of a cellular mobile network.
-(2) Subsection (1) is repealed with the close of 30 September 2013 (but see subsection (3)(c)).
+(2) Subsection (1) is repealed with the close of 30 September 2015 (but see subsection (3)(c)).
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, do all or any of the following:
   (a) repeal this section:
   (b) repeal subsection (2):
