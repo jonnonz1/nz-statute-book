@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2013-10-03_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1795,6 +1795,12 @@ The income of the Commissioner shall be exempt from income tax.
 | Trade Marks Act 2002 | Section 181 |
 | Veterinarians Act 2005 | Section 22 |
 | Wine Act 2003 | Sections 17, 47, and 82S |
+
+## Schedule 2A — Approved information sharing agreements
+
+| Name of agreement | Public service(s) to be facilitated by agreement | Internet address where copy of agreement can be accessed | Lead agency for agreement | Description of personal information or type of personal information to be shared under agreement |
+| --- | --- | --- | --- | --- |
+| Supply of Adult Passport Information for the Purpose of Locating Overseas-Based Student Loan Borrowers who are in Default of their Repayment Obligations and Child Support Liable Parents Living Overseas who are in Default of their Repayment and Contact Obligations Information Sharing Agreement | aInland Revenue collecting student loan debt (inclusive of core assessment, penalties, and interest):bInland Revenue collecting child support liable parent debt (inclusive of core assessments and penalties):cInland Revenue advising overseas-based borrowers of their student loan obligations and entitlements, and requiring compliance with those obligations:dInland Revenue advising liable parents living overseas of their child support payment obligations and entitlements, and requiring compliance with those obligations. | http://www.ird.govt.nz | Inland Revenue | afirst name(s)bsurnamecdate of birthdpassport numberepersonal telephone numberfwork telephone numbergmobile telephone numberhhome addressipassport delivery addressjemail address |
 
 ## Schedule 3 — Information matching provisions
 
