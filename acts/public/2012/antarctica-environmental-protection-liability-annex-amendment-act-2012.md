@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection: Liability Annex) Amendment Act 2012
-_Consolidation as at 2012-12-11_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Antarctica (Environmental Protection: Liability Annex) Amendment Act 2012.
@@ -49,12 +49,12 @@ This Act amends the Antarctica (Environmental Protection) Act 1994.
       (a) determining the extent of the emergency and its impact; and
       (b) taking reasonable measures (including, where appropriate, clean-up) to avoid, minimise, or contain the impact of the environmental emergency.
   (1) A New Zealand operator whose activities give rise to an environmental emergency, or who discovers an environmental emergency, must immediately notify the Ministry of the emergency.
-  (2) A New Zealand operator who, knowing that the operator's activities have given rise to an environmental emergency, fails to comply with subsection (1) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months, a fine not exceeding $100,000, or both.
+  (2) A New Zealand operator who, knowing that the operator's activities have given rise to an environmental emergency, fails to comply with subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months, a fine not exceeding $100,000, or both.
   (3) For the purposes of this section,—
     (a) the cause of the environmental emergency is irrelevant to the obligation in subsection (1); and
     (b) a New Zealand operator is deemed to know that the operator's activities have given rise to an environmental emergency if a reasonable person in the circumstances of the operator who was exercising reasonable care would have known of the environmental emergency.
   (1) A New Zealand operator whose activities give rise to an environmental emergency must take prompt and effective response action.
-  (2) A New Zealand operator who, knowing that, or being reckless as to whether, the operator's activities have given rise to an environmental emergency, fails to take prompt and effective response action commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, a fine not exceeding $200,000, or both.
+  (2) A New Zealand operator who, knowing that, or being reckless as to whether, the operator's activities have given rise to an environmental emergency, fails to take prompt and effective response action commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, a fine not exceeding $200,000, or both.
   (3) However, a New Zealand operator is not liable to conviction under this section if the environmental emergency, or the failure to take prompt and effective response action, was a result of any of the circumstances described in section 37G(1)(a) to (d).
   (1) This section applies to an operator—
     (a) who is a New Zealand operator or a New Zealand resident operator; and
