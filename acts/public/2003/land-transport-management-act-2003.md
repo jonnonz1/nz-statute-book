@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -14,7 +14,7 @@ This Act is the Land Transport Management Act 2003.
 The purpose of this Act is to contribute to an effective, efficient, and safe land transport system in the public interest.
 
 ### 4 Treaty of Waitangi
-In order to recognise and respect the Crown’s responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to land transport decision-making processes, sections 18, 18A, 18G, 18H, and 100(1)(f) provide principles and requirements that are intended to facilitate participation by Māori in land transport decision-making processes.
+In order to recognise and respect the Crown’s responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to land transport decision-making processes, sections 18, 18A, 18G, 18H, and 100(1)﻿(f) provide principles and requirements that are intended to facilitate participation by Māori in land transport decision-making processes.
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -83,7 +83,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
       (ii) the infrastructure, goods, and services facilitating that transport; and
     (b) includes—
       (i) coastal shipping (including transport by means of harbour ferries, or ferries or barges on rivers or lakes) and associated infrastructure:
-      (ii) the infrastructure, goods, and services (including education and enforcement), the primary purpose of which is to improve public safety in relation to the kinds of transport described in paragraph (a)(i)
+      (ii) the infrastructure, goods, and services (including education and enforcement), the primary purpose of which is to improve public safety in relation to the kinds of transport described in paragraph (a)﻿(i)
   - **land transport disbursement account** means an account kept under section 24
   - **land transport options and alternatives** includes land transport demand management options and alternatives
   - **land transport revenue** has the meaning given to it by section 6
@@ -209,7 +209,7 @@ This Act binds the Crown.
 
 ### 7A Application of Act to Chatham Islands
 (1) Except as expressly provided in this Act, this Act applies to the Chatham Islands as if the Chatham Islands Council were a unitary authority.
-(2) Sections 13 to 18H (which relate to regional land transport plans) apply with the necessary modifications to the Chatham Islands Council as if that council were a unitary authority to which paragraph (b)(i) of the definition of regional council in section 5(1) applies, except that the Chatham Islands Council, rather than a regional transport committee, prepares and consults on a regional land transport plan for the Chatham Islands.
+(2) Sections 13 to 18H (which relate to regional land transport plans) apply with the necessary modifications to the Chatham Islands Council as if that council were a unitary authority to which paragraph (b)﻿(i) of the definition of regional council in section 5(1) applies, except that the Chatham Islands Council, rather than a regional transport committee, prepares and consults on a regional land transport plan for the Chatham Islands.
 (3)
 (4) Nothing in sections 105 to 107 (which relate to regional transport committees) applies to the Chatham Islands Council.
 
@@ -223,7 +223,7 @@ This Act binds the Crown.
 [Repealed]
 
 ### 9 The Crown’s authority to incur certain land transport expenses and capital expenditure
-(1) In accordance with any regulations made under section 109(b)(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) in that financial year, for the following activities and services:
+(1) In accordance with any regulations made under section 109(b)﻿(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) in that financial year, for the following activities and services:
   (a) search and rescue activities, whether in relation to pleasure craft or otherwise; and
   (b) recreational boating safety and safety awareness; and
   (c) maritime safety services that benefit the users of pleasure craft; and
@@ -240,10 +240,10 @@ This Act binds the Crown.
     (v) monitoring the performance of the land transport revenue system.
 (3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1) and (2) for—
   (a) activities and combinations of activities approved under section 20; and
-  (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)(b).
+  (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
 (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
   (a) activities and combinations of activities approved under section 20; and
-  (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)(b).
+  (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
 (5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; and cis the calculated amount.
 
 **National land transport account**
@@ -259,7 +259,7 @@ This Act binds the Crown.
   (b) any revenue received by the Agency for the management of Crown land, including leases and licences:
   (ba) any toll revenue collected in respect of a road tolling scheme if—
     (i) the Minister has approved that toll revenue inflow in writing; and
-    (ii) the activities to be funded by that toll revenue inflow are specified, in accordance with section 46(3)(g), in an Order in Council made under section 46(1)(a):
+    (ii) the activities to be funded by that toll revenue inflow are specified, in accordance with section 46(3)﻿(g), in an Order in Council made under section 46(1)﻿(a):
   (c) any proceeds from the sale of land held or acquired for the purposes of a State highway or any proposed State highway:
   (d) any interest earned by the Agency from the investment of cash from the moneys referred to in paragraphs (a) to (c):
   (e) any other public money provided to meet expenses or capital expenditure, incurred or to be incurred in accordance with an appropriation or other authority by or under an Act in respect of approved activities or combinations of activities of a type described in subsection (3).
@@ -270,7 +270,7 @@ This Act binds the Crown.
   (d) territorial authorities’ activities or combinations of activities approved under section 20 (other than public transport services activities):
   (e) regional and territorial authorities’ activities or combinations of activities approved under section 20 that have been authorised by a transfer of responsibility under section 17 of the Local Government Act 2002:
   (f) approved public organisations’ activities or combinations of activities approved under section 20:
-  (g) expenses resulting from, and repayment of, any borrowing in accordance with subsection (1)(b).
+  (g) expenses resulting from, and repayment of, any borrowing in accordance with subsection (1)﻿(b).
 (4)
 (5)
 (6)
@@ -348,7 +348,7 @@ Before a regional transport committee submits a regional land transport plan to 
 (4) An organisation may only propose an activity for inclusion in the regional land transport plan if it or another organisation accepts financial responsibility for the activity.
 (5) For the purpose of the inclusion of activities in a national land transport programme,—
   (a) a regional land transport plan must be in the form and contain the detail that the Agency may prescribe in writing to regional transport committees; and
-  (b) the assessment under subsection (3)(e) must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under paragraph (a).
+  (b) the assessment under subsection (3)﻿(e) must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under paragraph (a).
 (6) A regional land transport plan must also include—
   (a) an assessment of how the plan complies with section 14; and
   (b) an assessment of the relationship of Police activities to the regional land transport plan; and
@@ -386,11 +386,11 @@ Before a regional transport committee submits a regional land transport plan to 
 (4) If a regional council refers a regional land transport plan back to its regional transport committee, the regional transport committee may, after reconsidering the aspects referred back to it by the regional council in its request, forward to the regional council either or both of the following:
   (a) an amended regional land transport plan that has been consulted on in accordance with sections 18 and 18A:
   (b) any additional information that has been requested by the regional council or that the regional transport committee considers will help the regional council with its decision.
-(5) Despite subsection (4)(a), a regional transport committee may forward an amended regional land transport plan to the regional council without consulting in accordance with sections 18 and 18A if the amendment or amendments to the regional land transport plan are not significant.
+(5) Despite subsection (4)﻿(a), a regional transport committee may forward an amended regional land transport plan to the regional council without consulting in accordance with sections 18 and 18A if the amendment or amendments to the regional land transport plan are not significant.
 (6) If a regional council receives an amended regional land transport plan, or a regional land transport plan with additional information, under subsection (4), it must—
   (a) approve the plan or amended plan and forward it to the Agency; or
   (b) forward the plan or amended plan to the Agency stating that it is not approved along with a statement of its reasons.
-(7) If the Agency receives an amended regional land transport plan, or a regional land transport plan with additional information, under subsection (6)(b), the Agency must, when developing the national land transport programme,—
+(7) If the Agency receives an amended regional land transport plan, or a regional land transport plan with additional information, under subsection (6)﻿(b), the Agency must, when developing the national land transport programme,—
   (a) treat the regional land transport plan or amended regional land transport plan as approved; and
   (b) consider the regional council's statement of reasons.
 (8) Section 18F applies, with the necessary modifications, to any plan or amended plan and statement of reasons forwarded under subsection (6).
@@ -422,7 +422,7 @@ If Auckland Transport decides not to include in its regional land transport plan
 (9) This section does not apply if section 18E applies.
 
 ### 18E Changes to certain activities or combinations of activities
-(1) This section applies to any activities or combinations of activities that have been identified by an approved organisation under section 16(3)(a) and included in a regional land transport plan.
+(1) This section applies to any activities or combinations of activities that have been identified by an approved organisation under section 16(3)﻿(a) and included in a regional land transport plan.
 (2) If an approved organisation has good reason to change any activities or combinations of activities to which this section applies, it may request the Agency to vary the national land transport programme to take account of that change, and must inform the regional transport committee that it has made that request.
 (3) A request must be made in a form and with the detail prescribed by the Agency in writing to approved organisations.
 (4) The Agency must consider promptly any request made under this section to vary the national land transport programme.
@@ -460,11 +460,11 @@ If Auckland Transport decides not to include in its regional land transport plan
 **Police activities or combinations of Police activities**
 
 ### 18I Recommendations for Police activities or combinations of Police activities
-Every 3 financial years the Agency must, by a date appointed by the Minister, prepare its recommendations for any Police activities or combinations of Police activities that are to be funded under section 10(3)(a) for the following 3 financial years.
+Every 3 financial years the Agency must, by a date appointed by the Minister, prepare its recommendations for any Police activities or combinations of Police activities that are to be funded under section 10(3)﻿(a) for the following 3 financial years.
 
 ### 18J Requirements before recommending Police activities or combinations of Police activities
-(1) Before recommending any Police activities or combinations of Police activities that are to be funded under section 10(3)(a), the Agency must consult the Commissioner and the Secretary.
-(2) The Agency must, in recommending any Police activities or combinations of Police activities for funding under section 10(3)(a),—
+(1) Before recommending any Police activities or combinations of Police activities that are to be funded under section 10(3)﻿(a), the Agency must consult the Commissioner and the Secretary.
+(2) The Agency must, in recommending any Police activities or combinations of Police activities for funding under section 10(3)﻿(a),—
   (a) be satisfied that those Police activities or combinations of Police activities—
     (i) contribute to the purpose of this Act; and
     (ii) are consistent with the GPS on land transport.
@@ -473,14 +473,14 @@ Every 3 financial years the Agency must, by a date appointed by the Minister, pr
 
 ### 18K Content of recommendations under section 18I
 The Agency must ensure that its recommendations under section 18I include—
-  (a) the recommended funding contribution under section 10(3)(a) for the proposed Police activities or combinations of Police activities; and
-  (b) a list of the Police activities or combinations of Police activities that are proposed to be funded under section 10(3)(a); and
+  (a) the recommended funding contribution under section 10(3)﻿(a) for the proposed Police activities or combinations of Police activities; and
+  (b) a list of the Police activities or combinations of Police activities that are proposed to be funded under section 10(3)﻿(a); and
   (c) the performance measures associated with the delivery of those proposed Police activities or combinations of Police activities; and
   (d) the revenue to be received by the Commissioner from sources (other than the national land transport fund) applicable to the Police activities or combinations of Police activities for which funding is sought from the national land transport fund; and
   (e) a long-term financial forecast that contains a forecast of anticipated revenue and expenditure on any Police activities or combinations of Police activities for the following 10 financial years.
 
 ### 18L Approval of recommendations
-(1) After considering the Agency’s recommendations under section 18I, the responsible Minister, in consultation with the Minister of Police, must approve or decline those recommendations for payment under section 10(3)(a).
+(1) After considering the Agency’s recommendations under section 18I, the responsible Minister, in consultation with the Minister of Police, must approve or decline those recommendations for payment under section 10(3)﻿(a).
 (2) The responsible Minister must notify the Agency and the Commissioner of the responsible Minister’s decision to approve or decline the Agency’s recommendations.
 
 ### 18M Variation of approval
@@ -564,7 +564,7 @@ The Agency must make a copy of the national land transport programme publicly av
 (4) Despite subsections (2) and (3), the Agency may approve for payment under subsection (1) any activity or combination of activities that, in the opinion of the Agency,—
   (a) are in the urgent interests of public safety; or
   (b) are necessary to effect immediate or temporary repair of damage caused by a sudden and unexpected event.
-(5) When approving an activity or combination of activities as qualifying for payments from the national land transport fund, the Agency must be satisfied that the expenditure on the national land transport programme and any expenses associated with any borrowing undertaken in accordance with section 10(1)(b) in the relevant financial year will not exceed the lesser of—
+(5) When approving an activity or combination of activities as qualifying for payments from the national land transport fund, the Agency must be satisfied that the expenditure on the national land transport programme and any expenses associated with any borrowing undertaken in accordance with section 10(1)﻿(b) in the relevant financial year will not exceed the lesser of—
   (a) the maximum level of expenditure for the national land transport programme outlined in the GPS on land transport for that financial year and the actual or anticipated amount of the closing balance of the national land transport fund at the end of the previous financial year; or
   (b) the sum of—
     (i) the anticipated inflows to the national land transport fund in that financial year; and
@@ -585,7 +585,7 @@ The Agency must set the rate of funding assistance from the national land transp
   (a) ensure that every decision that it makes under that section and its reasons for making that decision are made available to any affected approved organisation; and
   (b) give any organisation or any person responsible for that activity or combination of activities written advice of its decision and reasons for its decision.
 (2) After approving or declining funding for activities or combinations of activities, the Agency must place a copy of the decision, and the reasons for the decision, on its Internet site.
-(3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in section 6 or 9(2)(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
+(3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in section 6 or 9(2)﻿(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
 (4) If the Agency decides to withhold information under subsection (3), it must provide its reasons for doing so on its Internet site.
 (5) Information withheld under subsection (3) may be requested under the Official Information Act 1982.
 
@@ -601,7 +601,7 @@ The Agency must set the rate of funding assistance from the national land transp
 
 ### 23 Approval of public organisations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) approve any public organisation for the purpose of section 10(3)(f):
+  (a) approve any public organisation for the purpose of section 10(3)﻿(f):
   (b) revoke any approval given under this subsection.
 (2) Before making a recommendation under subsection (1), the Minister must—
   (a) consult the persons or organisations considered by the Minister to be representative of those classes of persons having an interest in the approval or revocation; and
@@ -788,15 +788,15 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (e) specify any information that the toll operator or the public road controlling authority is required to provide to the Minister or any other specified person or organisation:
   (f) authorise the enforcement authority to have access to law enforcement information held by a holder agency under the Privacy Act 1993, and set out terms and conditions governing that access:
   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
-  (h) specify civil penalties for breach of conditions referred to in subsection (2)(b)(ii), and establish a procedure for resolving disputes about the application of those penalties:
-  (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)(c) to be published in the manner set out in the order.
+  (h) specify civil penalties for breach of conditions referred to in subsection (2)﻿(b)﻿(ii), and establish a procedure for resolving disputes about the application of those penalties:
+  (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)﻿(c) to be published in the manner set out in the order.
 (4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5) Before recommending that an order made under subsection (1) be amended or revoked, the Minister must consult the relevant public road controlling authority about his or her proposal.
 (6) This section does not limit any other Act that provides for tolls to be levied or collected in respect of any road.
 
 ### 47 When tolling power is exercisable
 (1) The power of a public road controlling authority or toll operator to begin tolling a road or part of it in accordance with an Order in Council made under section 46(1) is exercisable—
-  (a) from the time, or on and from the date, specified for the purpose in a notice published by the Minister stating that he or she is satisfied as to the matters referred to in section 46(2)(c); or
+  (a) from the time, or on and from the date, specified for the purpose in a notice published by the Minister stating that he or she is satisfied as to the matters referred to in section 46(2)﻿(c); or
   (b) if no time is so specified, from the time that notice is published.
 (2) A notice under subsection (1) must be published in the form and manner specified in the relevant order made under section 46(1) (if such requirements are specified in the order).
 (3) The power of a public road controlling authority or toll operator to continue tolling a road or part of it in accordance with an order made under section 46(1) is exercisable—
@@ -943,11 +943,11 @@ Despite anything in the Land Transfer Act 1952, if a lease under section 63 is i
 (1) This section applies in relation to persons who are enforcement officers under the Land Transport Act 1998.
 (2) In relation to a toll road and to any person, vehicle, or animal on that road,—
   (a) enforcement officers who are not constables but who are Police employees authorised for the purpose by the Commissioner may enforce the provisions of this Part and the other enactments referred to in section 113(1) of the Land Transport Act 1998, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in section 2(1) of that Act; and
-  (b) other enforcement officers who are appointed for the purposes of this Part under section 208(1) or (3)(a)(iii) of the Land Transport Act 1998 may enforce the provisions of this Part relating to tolls, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in section 2(1) of that Act; and
+  (b) other enforcement officers who are appointed for the purposes of this Part under section 208(1) or (3)﻿(a)﻿(iii) of the Land Transport Act 1998 may enforce the provisions of this Part relating to tolls, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in section 2(1) of that Act; and
   (c) the following provisions apply accordingly:
     (i) the Criminal Procedure Act 2011 and the rules and regulations made under it:
     (ii) the Summary Proceedings Act 1957 and the regulations made under it.
-(3) For the purposes of sections 52(1)(c) and 53 of the Land Transport Act 1998, an enforcement officer who gives or imposes any lawful requirement, direction, notice, request, or prohibition in relation to a person, vehicle, or animal on a toll road must be regarded as acting in the execution of his or her functions or powers under that Act.
+(3) For the purposes of sections 52(1)﻿(c) and 53 of the Land Transport Act 1998, an enforcement officer who gives or imposes any lawful requirement, direction, notice, request, or prohibition in relation to a person, vehicle, or animal on a toll road must be regarded as acting in the execution of his or her functions or powers under that Act.
 
 ### Subpart 3 — Regional fuel tax
 
@@ -1076,7 +1076,7 @@ Despite anything in the Land Transfer Act 1952, if a lease under section 63 is i
     (i) any national energy efficiency and conservation strategy; and
     (ii) any relevant national policy statement that is in force under the Resource Management Act 1991; and
   (c) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers.
-(2) For the purposes of subsection (1), the Minister must, at least once in every period of 3 financial years, review the Crown's land transport investment strategy required under section 68(1)(b).
+(2) For the purposes of subsection (1), the Minister must, at least once in every period of 3 financial years, review the Crown's land transport investment strategy required under section 68(1)﻿(b).
 (3) To avoid doubt, nothing in subsection (2) limits section 90(1).
 (4) Before issuing a GPS on land transport, the Minister must consult the Agency about the proposed GPS on land transport.
 
@@ -1270,7 +1270,7 @@ The objective of the Agency is to undertake its functions in a way that contribu
   (d) ensure that—
     (i) it acts in a transparent manner in its decision making under this Act; and
     (ii) it gives, when making decisions in respect of land transport planning and funding under subpart 1 of Part 2, the same level of scrutiny to its own proposed activities and combinations of activities as it would give to those proposed by approved organisations.
-(2) The Agency must have systems and procedures to enable it to give effect to the principle set out in subsection (1)(d)(ii), and must—
+(2) The Agency must have systems and procedures to enable it to give effect to the principle set out in subsection (1)﻿(d)﻿(ii), and must—
   (a) make information about those systems and procedures available on its Internet site; and
   (b) include in its annual report under section 150 of the Crown Entities Act 2004 a report on its implementation of those systems and procedures.
 (3) The Auditor-General must, when carrying out the annual audit of the Agency under section 15 of the Public Audit Act 2001, report on the Agency’s implementation of the systems and procedures referred to in subsection (2).
@@ -1279,7 +1279,7 @@ The objective of the Agency is to undertake its functions in a way that contribu
 In the course of performing its functions and exercising its powers, the Agency must consider whether it could most efficiently and effectively perform those functions and exercise those powers by means of its own operations, or by delegating or contracting out those operations to appropriate persons.
 
 ### 98 Agency’s board
-(1) The Agency’s board must have at least 6, but no more than 8, board members appointed in accordance with section 28(1)(a) of the Crown Entities Act 2004.
+(1) The Agency’s board must have at least 6, but no more than 8, board members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) The responsible Minister must not appoint a board member unless he or she has consulted with the persons, representative groups within the land transport sector or elsewhere, government departments, and Crown entities that he or she considers appropriate.
 (3) The Agency’s board must not delegate any functions or powers delegated to the board by the Minister without the written consent of the Minister.
 
@@ -1297,7 +1297,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (a) the basis on which the Agency will prepare the national land transport programme and how that programme will give effect to the GPS on land transport:
   (b) any requirement to review or revise the national land transport programme and the basis on which that review or revision is to be carried out:
   (c) the basis on which the Agency will approve procurement procedures under section 25:
-  (d) any directions under section 95(1)(j) or under Part 3 of the Crown Entities Act 2004:
+  (d) any directions under section 95(1)﻿(j) or under Part 3 of the Crown Entities Act 2004:
   (e) a statement as to how the Agency will implement the principles, systems, and procedures in section 96:
   (f) any steps that the Agency intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the Agency’s land transport decision-making processes, over the period covered by the statement of intent:
   (g) any other matters that the Agency and the Minister agree or the Minister requires.
@@ -1380,7 +1380,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (f)
   (g)
   (h)
-(4) A person specified in subsection (2)(a) to (c) and (3)(a) and (b) may only be appointed on the nomination of the relevant entity.
+(4) A person specified in subsection (2)﻿(a) to (c) and (3)﻿(a) and (b) may only be appointed on the nomination of the relevant entity.
 (5)
 (6) Each regional council must appoint from its representatives the chair and deputy chair of the committee.
 (7) At any meeting of a regional transport committee, the chair, or any other person presiding at the meeting,—
@@ -1424,7 +1424,7 @@ In the course of performing its functions and exercising its powers, the Agency 
 (3) The Agency is not, as a result of being represented on a regional transport committee, bound to—
   (a) include any matter in a national land transport programme under section 19C; or
   (b) approve an activity or a combination of activities under section 20.
-(4) Despite section 43(2)(b) of the Local Government (Auckland Council) Act 2009, in the case of the regional transport committee for Auckland, the representative of the Agency has the same voting rights as that representative would have as a member of any other regional transport committee, including (but not limited to) voting rights for the purpose of preparing a regional land transport plan.
+(4) Despite section 43(2)﻿(b) of the Local Government (Auckland Council) Act 2009, in the case of the regional transport committee for Auckland, the representative of the Agency has the same voting rights as that representative would have as a member of any other regional transport committee, including (but not limited to) voting rights for the purpose of preparing a regional land transport plan.
 
 ### Subpart 3 — Miscellaneous
 
@@ -1503,7 +1503,7 @@ The purpose of a regional public transport plan is to provide—
 
 ### 118 Validity of regional public transport plans not affected by certain events
 A regional public transport plan is not invalid merely because the regional council—
-  (a) has failed to complete the review of the regional public transport plan within the time required by section 126(1)(b); or
+  (a) has failed to complete the review of the regional public transport plan within the time required by section 126(1)﻿(b); or
   (b) has included any matter that is not within the scope of the regional land transport plan so long as the regional public transport plan is otherwise consistent with the regional land transport plan.
 
 **General requirements**
@@ -1532,17 +1532,17 @@ A regional public transport plan is not invalid merely because the regional coun
     (viii) describe how the network of public transport services and the services referred to in subparagraph (vii) will assist the transport-disadvantaged; and
   (b) must specify any objectives and policies that are to apply to—
     (i) any units; and
-    (ii) any services referred to in paragraph (a)(vii); and
+    (ii) any services referred to in paragraph (a)﻿(vii); and
   (c) may describe exempt services but may not make them subject to the objectives and policies described in paragraph (b); and
   (d) may state or describe any other matters that the regional council thinks fit.
-(2) Without limiting subsection (1)(b), a regional council must, in relation to any units, include in a regional public transport plan policies on—
+(2) Without limiting subsection (1)﻿(b), a regional council must, in relation to any units, include in a regional public transport plan policies on—
   (a) accessibility, quality, and performance; and
   (b) fares and the method or formula or other basis for setting and reviewing those fares; and
   (c) the process for establishing units; and
   (d) the approach that will be taken to procuring the delivery of the service or services in a unit; and
   (e) how the procurement of units will be phased in over time; and
   (f) managing, monitoring, and evaluating the performance of units.
-(3) The approach to procurement specified in subsection (2)(d) must, in relation to a public transport service for which the regional council does not intend to provide financial assistance, be approved by the Agency.
+(3) The approach to procurement specified in subsection (2)﻿(d) must, in relation to a public transport service for which the regional council does not intend to provide financial assistance, be approved by the Agency.
 (4) A regional public transport plan must set out the policy the regional council will apply in determining whether a proposed variation to the regional public transport plan is significant for the purpose of section 126(4).
 (5) A regional public transport plan may—
   (a) provide that an action described in the plan must or may be done by a regional council or a committee or other subordinate decision-making body or a member or officer of the regional council; and
@@ -1614,7 +1614,7 @@ A regional council must, before adopting a regional public transport plan,—
   (b) may be reviewed by the regional council from time to time, but must be reviewed and, if necessary, renewed or varied at the same time as, or as soon as practicable after, the public transport service components of a regional land transport plan are approved or varied.
 (2) Subject to subsections (4) and (5), the provisions of this Act that apply to the adoption of a regional public transport plan apply with the necessary modifications to a variation or renewal of a regional public transport plan.
 (3) A variation forms part of the regional public transport plan it varies.
-(4) Section 125(1) does not apply in respect of a proposed variation to a regional public transport plan if the variation is not significant, in which case, for the purposes of section 125(2)(a), the persons who will or may be affected by, or have an interest in, the proposed variation include public transport operators and those persons who have notified the regional council of a proposal to operate a public transport service in the region.
+(4) Section 125(1) does not apply in respect of a proposed variation to a regional public transport plan if the variation is not significant, in which case, for the purposes of section 125(2)﻿(a), the persons who will or may be affected by, or have an interest in, the proposed variation include public transport operators and those persons who have notified the regional council of a proposal to operate a public transport service in the region.
 (5) Subsection (4) does not apply to a variation that would alter the policy that the regional council applies in determining whether a proposed variation to a regional public transport plan is significant.
 (6) A regional council may, by resolution publicly notified, correct minor errors in a regional public transport plan but only if the correction does not affect an existing right, interest, or duty of any person or organisation that is affected by or has an interest in the regional public transport plan.
 
@@ -1634,8 +1634,8 @@ A regional council must, before adopting a regional public transport plan,—
 (4) If the Auckland Council requires Auckland Transport to provide any information under subsection (3), Auckland Transport must provide the information as soon as is reasonably practicable.
 
 ### 129 Disclosure of information received under sections 127 and 128
-(1) If a regional council or the Auckland Council (an organisation) receives under section 127 or 128 fare revenue data that may, in the organisation’s opinion, be withheld under section 7(2)(b) of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator of the unit that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator’s consent except—
-  (a) to registered tenderers under section 127(1)(c); or
+(1) If a regional council or the Auckland Council (an organisation) receives under section 127 or 128 fare revenue data that may, in the organisation’s opinion, be withheld under section 7(2)﻿(b) of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator of the unit that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator’s consent except—
+  (a) to registered tenderers under section 127(1)﻿(c); or
   (b) to the organisation’s professional advisers; or
   (c) in the case of information received by an organisation that is a regional council, to those persons or entities engaged by the regional council to carry out public transport planning, contracting, or monitoring; or
   (d) to the Agency, in accordance with section 128(2); or
@@ -1647,9 +1647,9 @@ A regional council must, before adopting a regional public transport plan,—
     (ii) the former operator’s public transport business has not been disposed of as a going concern to any other person.
 (2) If an organisation receives a request under the Local Government Official Information and Meetings Act 1987 to release any information described in subsection (1),—
   (a) the organisation must make all reasonable efforts to notify immediately the person who provided the information to the organisation that a request to release the information has been received; and
-  (b) the person must, within 10 working days after receiving the notice, advise the organisation whether that person believes the information should be withheld under section 7(2)(b) of the Local Government Official Information and Meetings Act 1987 and give reasons for that belief; and
+  (b) the person must, within 10 working days after receiving the notice, advise the organisation whether that person believes the information should be withheld under section 7(2)﻿(b) of the Local Government Official Information and Meetings Act 1987 and give reasons for that belief; and
   (c) the organisation may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person’s response (if any), the organisation cannot identify any reason for withholding the information under the Local Government Official Information and Meetings Act 1987.
-(3) If the Agency receives under section 128(1) fare revenue data that was provided to a regional council under section 127 and that may, in the Agency’s opinion, be withheld under section 9(2)(b) of the Official Information Act 1982 or has been described by the operator of the unit that provided it as commercially sensitive, the Agency must not disclose that information without the operator’s consent except—
+(3) If the Agency receives under section 128(1) fare revenue data that was provided to a regional council under section 127 and that may, in the Agency’s opinion, be withheld under section 9(2)﻿(b) of the Official Information Act 1982 or has been described by the operator of the unit that provided it as commercially sensitive, the Agency must not disclose that information without the operator’s consent except—
   (a) to the Agency’s professional advisers; or
   (b) subject to subsection (4), in response to a request made under the Official Information Act 1982; or
   (c) where the information received from the regional council was provided to the regional council 5 years or more before the date of the Agency’s disclosure; or
@@ -1658,7 +1658,7 @@ A regional council must, before adopting a regional public transport plan,—
     (ii) the former operator’s public transport business has not been disposed of as a going concern to any other person.
 (4) If the Agency receives a request under the Official Information Act 1982 to release any information described in subsection (3),—
   (a) the Agency must make all reasonable efforts to notify immediately the person who provided the information to the regional council that a request to release the information has been received by the Agency; and
-  (b) the person must, within 10 working days after receiving the notice, advise the Agency whether that person believes the information should be withheld under section 9(2)(b) of the Official Information Act 1982 and give reasons for that belief; and
+  (b) the person must, within 10 working days after receiving the notice, advise the Agency whether that person believes the information should be withheld under section 9(2)﻿(b) of the Official Information Act 1982 and give reasons for that belief; and
   (c) the Agency may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person’s response (if any), the Agency cannot identify any reason for withholding the information under the Official Information Act 1982.
 
 ### Subpart 2 — Registration of exempt services
@@ -1676,7 +1676,7 @@ A regional council must, before adopting a regional public transport plan,—
       (C) operates without a subsidy for the provision of the service:
     (ii) in a region that is not required to have a regional public transport plan, that operates within the region:
   (c) a public transport service that is specified as an exempt service by an Order in Council made under section 150.
-(3) For the purposes of subsection (2)(b)(i)(C), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
+(3) For the purposes of subsection (2)﻿(b)﻿(i)﻿(C), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
 
 ### 131 Register of exempt services
 (1) A regional council must keep a current register of all public transport services that are exempt services.
@@ -1703,7 +1703,7 @@ A regional council that keeps a register of exempt services under this subpart m
     (v) the date the service is intended to commence; and
     (vi) the timetables for the service; and
     (vii) the stops, stations, or terminals for the service:
-  (b) vary any of the details of an exempt service described in paragraph (a)(i) to (iv), (vi), and (vii) must notify that regional council of—
+  (b) vary any of the details of an exempt service described in paragraph (a)﻿(i) to (iv), (vi), and (vii) must notify that regional council of—
     (i) the variation; and
     (ii) the date the variation is intended to take effect; and
     (iii) the intended duration of the variation.
@@ -1712,7 +1712,7 @@ A regional council that keeps a register of exempt services under this subpart m
   (b) relate to any number of exempt services.
 (3) The regional council may, with the agreement of the operator, reduce or waive the period of notice required by subsection (1) if it is satisfied that the public would not be unreasonably disadvantaged by the earlier commencement or variation of the exempt service.
 (4) For the purposes of subsection (1), applicable period means not less than 15 working days before the exempt service or variation is intended to commence.
-(5) For the purposes of subsection (1)(b), exempt service includes a service that—
+(5) For the purposes of subsection (1)﻿(b), exempt service includes a service that—
   (a) was registered under the Public Transport Management Act 2008; and
   (b) will continue to operate as an exempt service under this Part.
 
@@ -1785,7 +1785,7 @@ If a regional council declines to register an exempt service or record in the re
 
 ### 140 Right to appeal to Environment Court
 (1) An operator of a public transport service may appeal to the Environment Court against the arrangement of public transport services into units and the allocation of those units in a regional public transport plan if affected by the arrangement or allocation.
-(2) An operator of a public transport service who wishes to appeal must lodge a notice of appeal with the Environment Court within 15 working days after receiving notice of the adoption and a copy of the plan under section 121(1)(b) or a longer time that the court allows.
+(2) An operator of a public transport service who wishes to appeal must lodge a notice of appeal with the Environment Court within 15 working days after receiving notice of the adoption and a copy of the plan under section 121(1)﻿(b) or a longer time that the court allows.
 (3) An operator of a public transport service who lodges a notice of appeal with the Environment Court under subsection (2) must serve a copy of the notice on the regional council and every other operator of a public transport service in the region within 5 working days after the appeal is lodged.
 (4) The New Zealand Transport Agency has the right to appear and be heard during any appeal under this section.
 (5) The court must hear the appeal on the merits of the case and do 1 or more of the following:
@@ -1824,13 +1824,13 @@ If a regional council declines to register an exempt service or record in the re
 **Offences**
 
 ### 146 Operating unregistered exempt services
-(1) A person who, without reasonable excuse, operates, in a region, an exempt service that is not registered under section 136 in that region commits an offence and is liable on summary conviction to a fine not exceeding—
+(1) A person who, without reasonable excuse, operates, in a region, an exempt service that is not registered under section 136 in that region commits an offence and is liable on conviction to a fine not exceeding—
   (a) $30,000, in the case of a first offence against this section; and
   (b) $60,000, in the case of a second or subsequent offence against this section.
 (2) However, subsection (1) does not apply if the person was operating in accordance with section 131(3), 153(2), or 154(2).
 
 ### 147 Operating public transport services that are not exempt or contracted
-(1) A person who, without reasonable excuse, operates, in a region, a public transport service that is not an exempt service and is not provided as a unit or part of a unit under contract with the regional council commits an offence and is liable on summary conviction to a fine not exceeding—
+(1) A person who, without reasonable excuse, operates, in a region, a public transport service that is not an exempt service and is not provided as a unit or part of a unit under contract with the regional council commits an offence and is liable on conviction to a fine not exceeding—
   (a) $30,000, in the case of a first offence against this section; and
   (b) $60,000, in the case of a second or subsequent offence against this section.
 (2) However, subsection (1) does not apply if the person was operating—
@@ -1838,7 +1838,7 @@ If a regional council declines to register an exempt service or record in the re
   (b) under a contract that is funded in accordance with section 26(e).
 
 ### 148 Varying registered exempt services without giving notice required by section 133
-A person who, without reasonable excuse, operates, in a region, a registered exempt service and varies the route or routes, timetables, or stops, stations, or terminals of the registered exempt service without giving the notice required under section 133 commits an offence and is liable on summary conviction to a fine not exceeding—
+A person who, without reasonable excuse, operates, in a region, a registered exempt service and varies the route or routes, timetables, or stops, stations, or terminals of the registered exempt service without giving the notice required under section 133 commits an offence and is liable on conviction to a fine not exceeding—
   (a) $30,000, in the case of a first offence against this section; and
   (b) $60,000, in the case of a second or subsequent offence against this section.
 
@@ -1854,17 +1854,17 @@ A person who, without reasonable excuse, operates, in a region, a registered exe
   (b) requiring an exempt service to be replaced by a unit or part of a unit to be provided under contract:
   (c) requiring an inter-regional service operating before the commencement of this Part to be contracted as part of a unit, provided the service was receiving a subsidy.
 (2) Before recommending the making of an Order in Council under subsection (1), the Minister must be satisfied that the Agency has consulted any relevant regional council and,—
-  (a) in the case of an Order in Council under subsection (1)(a), that the Agency has consulted the operator of the public transport service, and that—
+  (a) in the case of an Order in Council under subsection (1)﻿(a), that the Agency has consulted the operator of the public transport service, and that—
     (i) the public transport service, while operating as an exempt service,—
       (A) will not receive a subsidy for the provision of the service; and
       (B) will not be an integral part of the relevant region’s public transport network; and
       (C) will not need its fares to be regulated; or
     (ii) the public transport service is being provided as part of the local roading network:
-  (b) in the case of an Order in Council under subsection (1)(b), that the Agency has consulted the operator of the public transport service, and that the public transport service—
+  (b) in the case of an Order in Council under subsection (1)﻿(b), that the Agency has consulted the operator of the public transport service, and that the public transport service—
     (i) is an integral part of the relevant region’s public transport network; and
     (ii) needs its fares to be regulated:
-  (c) in the case of an Order in Council under subsection (1)(c), that the Agency has obtained the agreement of the operator of the public transport service.
-(3) For the purposes of subsections (1)(c) and (2)(a)(i)(A), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
+  (c) in the case of an Order in Council under subsection (1)﻿(c), that the Agency has obtained the agreement of the operator of the public transport service.
+(3) For the purposes of subsections (1)﻿(c) and (2)﻿(a)﻿(i)﻿(A), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
 (4) To avoid doubt, the Minister may refuse the Agency's request that the Minister recommend the making of an Order in Council under this section.
 
 ## Part 6 — Transitional and savings provisions
@@ -1918,7 +1918,7 @@ For the purposes of sections 152, 153, and 154, a service that was registered as
 (2) If this section applies, a notice that is given under section 32, 36, or 46 of the Public Transport Management Act 2008 is to be treated as a notice given to operate, vary, or withdraw an exempt service under Part 5 if the service is—
   (a) an inter-regional service; or
   (b) a service that operates in a region that is not required to adopt a regional public transport plan.
-(3) Subject to subsection (2)(a), in a region that is required to adopt a regional public transport plan, an unprocessed notice given under—
+(3) Subject to subsection (2)﻿(a), in a region that is required to adopt a regional public transport plan, an unprocessed notice given under—
   (a) section 32 or 36 of the Public Transport Management Act 2008 is to be treated as having lapsed:
   (b) section 46 of the Public Transport Management Act 2008 is to be treated as a notice to withdraw an exempt service under Part 5.
 
@@ -1950,9 +1950,9 @@ A public transport service provided under contract to the regional council befor
 ### 158 Savings provisions
 (1) Despite the repeal or amendment of the provisions specified in subsection (2), those provisions continue to apply (as if those sections had not been repealed or amended by the Land Transport Management Amendment Act 2013) during the period beginning with the commencement of this section and ending with the close of 30 June 2015.
 (2) The specified provisions referred to in subsection (1) are—
-  (a) sections 26(2)(b) and 27(1)(c) of the Canterbury Earthquake Recovery Act 2011; and
-  (b) sections 7A(2)(b), 13(5), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i) (in so far as it relates to taking regional land transport strategies into account), 82, and 105(13) of this Act (immediately before being amended or repealed by the Land Transport Management Amendment Act 2013); and
-  (c) sections 64(1)(d), 65(1)(d)(ii), and 82(3) of the Local Government (Auckland Transitional Provisions) Act 2010.
+  (a) sections 26(2)﻿(b) and 27(1)﻿(c) of the Canterbury Earthquake Recovery Act 2011; and
+  (b) sections 7A(2)﻿(b), 13(5), 18J(2)﻿(c)﻿(ii), 19B(b)﻿(ii), 20(3)﻿(c), 48(1)﻿(c)﻿(i) (in so far as it relates to taking regional land transport strategies into account), 82, and 105(13) of this Act (immediately before being amended or repealed by the Land Transport Management Amendment Act 2013); and
+  (c) sections 64(1)﻿(d), 65(1)﻿(d)﻿(ii), and 82(3) of the Local Government (Auckland Transitional Provisions) Act 2010.
 (3) A person who, immediately before the commencement of section 71(2) of the Land Transport Management Amendment Act 2013, was liable under the Tauranga District Council (Route K Toll) Empowering Act 2000 to pay a toll under that Act remains liable to pay the toll as if that Act were still in force.
 (4) A person who fails to pay a toll that the person was liable to pay under the Tauranga District Council (Route K Toll) Empowering Act 2000 may be proceeded against under that Act as if that Act were still in force.
 (5) A proceeding commenced, before the commencement of section 71(2) of the Land Transport Management Amendment Act 2013, under the Tauranga District Council (Route K Toll) Empowering Act 2000 may continue under that Act as if that Act were still in force.
@@ -1999,7 +1999,7 @@ This Act comes into force on 1 August 2008.
 ## Part 2 — Miscellaneous provisions
 
 ### 47 Consequences of establishment of New Zealand Transport Agency
-(1) On 1 July 2008,—
+(1) On 1 August 2008,—
   (a) Land Transport New Zealand and Transit New Zealand are dissolved; and
   (b) the office of the Director of Land Transport ceases to exist; and
   (c) the Transit New Zealand Act 1989 is called the Government Roading Powers Act 1989.
@@ -2041,7 +2041,7 @@ Other transitional and savings provisions relating to the coming into force of t
     (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
   - **transferred employee** means a person who,—
     (a) immediately before 1 August 2008, is employed by a former agency; and
-    (b) is transferred to the new Agency under clause 26(1)(h).
+    (b) is transferred to the new Agency under clause 26(1)﻿(h).
 (2) Any term or expression that is defined in the Land Transport Management Act 2003 and used, but not defined, in this schedule has, unless the context otherwise requires, the same meaning as in that Act.
 
 **Approval of activities or combinations of activities**
@@ -2077,7 +2077,7 @@ Subject to clause 42, approved procurement procedures in effect under section 25
   (j) the commencement, continuation, or enforcement of proceedings by or against the former agencies may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
   (k) the completion of a matter or thing that would, but for this clause, have been completed by the former agencies, may be completed by the new Agency.
 (2) Despite anything in subclause (1), the board of the new Agency may appoint a new chief executive after 1 August 2008.
-(3) The transfer of information from the former agencies to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the former agencies to the new Agency under subclause (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (4) The dissolution of the former agencies does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by a former agency in relation to the performance or the exercise of the former agency’s functions, duties, or powers under any enactment:
   (b) any proceedings commenced by or against a former agency:
