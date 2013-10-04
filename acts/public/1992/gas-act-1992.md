@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 > Title
 
@@ -1395,7 +1395,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) in relation to the Secretary,—
     (i) the filing of a charging document under this Act; or
     (ii) the issuing of an infringement notice under this Act; and
-  (b) in relation to a person other than the Secretary, the laying of an information under this Act.
+  (b) in relation to a person other than the Secretary, the filing of a charging document under this Act.
 
 ### 57D Procedural requirements for infringement notices
 (1) An infringement notice may not be issued after the close of the 14th day after the Secretary becomes aware of the alleged infringement offence.
