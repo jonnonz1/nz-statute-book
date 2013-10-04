@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -154,7 +154,7 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
   (d) the personal circumstances of the appellant and the appellant's immediate family:
   (e) any other consideration that the court considers relevant.
 
-**Special provision as to bail of young persons remanded or committed for trial or sentence**
+**Special provision as to bail of young persons remanded**
 
 ### 15 Granting of bail to defendant who is 17 years of age
 (1) A court that remands a defendant at any stage of the proceedings for the offence with which the defendant is charged, including for sentence, must release the defendant on bail or otherwise subject to such conditions as it thinks fit if—
