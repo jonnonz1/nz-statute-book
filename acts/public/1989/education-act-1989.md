@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 > An Act to reform the administration of education
 
@@ -104,7 +104,7 @@ Except as provided in this Act or the Private Schools Conditional Integration Ac
 (7) As soon as is practicable after an international student is enrolled at a State school, the principal shall give the Secretary written notice of—
   (a) the student's name, age, and nationality; and
   (b) the day on which the student began (or will begin) to receive tuition at the school.
-(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, an international student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—but in that case the student shall not be counted for the purpose of calculating or ascertaining the schools entitlement to teachers or funding.
+(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, an international student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—but in that case the student shall not be counted for the purpose of calculating or ascertaining the school's entitlement to teachers or funding.
   (a) without the consent of the board; and
   (b) without paying the amount required by section 4B;—
 
@@ -214,10 +214,10 @@ The board of a State school may refuse to allow any person to attend classes at 
 (2) Notwithstanding anything in this Act that relates to enrolment schemes, or in the enrolment scheme of any school, but subject to the rest of Part 2 (which relates to the suspension, expulsion, and exclusion of students), where there has been an agreement or direction under subsection (1), the person concerned shall be allowed to enrol at the State school, special school, special class, or special clinic, concerned or (as the case requires) to have education or help from the special service concerned.
 (3) Subject to section 10(4), where a direction has been given under subsection (1) in respect of a person, a parent who, more than 1 month after it was given, fails or refuses to comply with it commits an offence, and is liable on conviction to the penalty prescribed for failing to comply with section 20(1) (which relates to enrolling children at school).
 (4) No person shall be or continue to be enrolled at a special school, special class, or special clinic, or have or continue to have education or help from a special service, except pursuant to an agreement or direction under subsection (1).
-(5) Notwithstanding anything in section 5 or section 6,—may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school; andpursuant to an agreement or direction under subsection (1).
+(5) Notwithstanding anything in section 5 or section 6,—pursuant to an agreement or direction under subsection (1).
   (a) a child under 5 may be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school; and
   (b) a person under 21 who turned 14 in any year may in any later year be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school; and
-  (c) a person under 21 who, in the opinion of the Secretary,—
+  (c) a person under 21 who, in the opinion of the Secretary,—may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school; and
     (i) has not completed the work of form 2; and
     (ii) has not completed work equivalent to the work of form 2,—
   (d) a person under 21 may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school, on or after 1 January after the person's 19th birthday,—
@@ -510,12 +510,6 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (2) In this section, an enrolment scheme is in place once it has been notified in accordance with section 11J.
 
 ### 12 Enrolment schemes for certain other schools
-[Repealed]
-
-### 12A Out-of-zone applicants for certain language courses
-[Repealed]
-
-### 12B Exemptions from enrolment schemes in exceptional cases
 [Repealed]
 
 **Standing-down, suspension, exclusion, and expulsion of students**
@@ -1158,33 +1152,6 @@ As soon as practicable after the end of each financial year during which a schoo
 ### 39 Function of Board
 [Repealed]
 
-### 39A Minister may require Board to negotiate document of accountability
-[Repealed]
-
-### 39B Minister may prepare document where no agreement reached
-[Repealed]
-
-### 39C Contents of documents
-[Repealed]
-
-### 39D Amendments to documents
-[Repealed]
-
-### 39E Revocation of documents
-[Repealed]
-
-### 39F Board to comply with document of accountability
-[Repealed]
-
-### 39G Non-compliance with document
-[Repealed]
-
-### 39H Minister may dismiss Board where non-compliance not rectified
-[Repealed]
-
-### 39I Minister to publish certain documents and directions
-[Repealed]
-
 ### 40 Board responsible to Minister
 [Repealed]
 
@@ -1203,33 +1170,6 @@ As soon as practicable after the end of each financial year during which a schoo
 [Repealed]
 
 ### 45 Function of Board
-[Repealed]
-
-### 45A Minister may require Board to negotiate document of accountability
-[Repealed]
-
-### 45B Minister may prepare document where no agreement reached
-[Repealed]
-
-### 45C Contents of documents
-[Repealed]
-
-### 45D Amendments to documents
-[Repealed]
-
-### 45E Revocation of documents
-[Repealed]
-
-### 45F Board to comply with document of accountability
-[Repealed]
-
-### 45G Non-compliance with document
-[Repealed]
-
-### 45H Minister may dismiss Board where non-compliance not rectified
-[Repealed]
-
-### 45I Minister to publish certain documents and directions
 [Repealed]
 
 ### 46 Board responsible to Minister
@@ -1822,7 +1762,7 @@ The purpose of this Part is to provide for a range of interventions that may be 
 ### 78N Dissolution of board and appointment of commissioner
 (1) The Minister may, by notice in the Gazette, dissolve the board of a school and direct the Secretary to appoint a commissioner to replace that board.
 (2) On publication of a notice under subsection (1), the Secretary must, by notice in the Gazette, appoint a commissioner for the school, and state the date on which the appointment takes effect.
-(3) The Secretary may, by notice in the Gazette, dissolve the board of a school and appoint a commissioner it its place, as from a specified date, if any of the following applies:
+(3) The Secretary may, by notice in the Gazette, dissolve the board of a school and appoint a commissioner in its place, as from a specified date, if any of the following applies:
   (a) the board has not held a meeting during the previous 3 months:
   (b) so many casual vacancies have arisen that there is no longer any member of the board who is eligible to preside at meetings of the board:
   (c) the result of an election of trustees is that the board has fewer than 3 trustees elected by parents:
@@ -4039,7 +3979,7 @@ The Official Information Act 1982 does not apply to a sponsor of a partnership s
   - **college of education** means, subject to subsection (3), a body referred to in section 162(1)﻿(b) or a body established as a college of education under section 162(2)
   - **combined council** means a body constituted under section 222AM
   - **Commission** means the Tertiary Education Commission established under section 159C
-  - **constitutents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
+  - **constituents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
   - **council** , in relation to an institution, means the body that governs the institution in accordance with section 165
   - **designated polytechnic** ,—
     (a) after 28 February 2010 and before 1 May 2010, means a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council:
@@ -4069,7 +4009,7 @@ The Official Information Act 1982 does not apply to a sponsor of a partnership s
   - **institution** means—
     (a) a college of education; or
     (b) a polytechnic; or
-    (ba) specialist college; or
+    (ba) a specialist college; or
     (c) a university; or
     (d) a wananga
   - **international student** has the meaning given in section 2(1)
@@ -5210,7 +5150,7 @@ The money of an institution shall be applied only—
 (1) Every institution is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (2) However, that Act applies to tertiary education institutions only to the extent that subsection (3) provides.
 (3) The provisions of that Act set out in Schedule 4 of that Act and Schedule 13A of this Act apply to tertiary education institutions and their Crown entity subsidiaries (within the meaning of that Act).
-(4) Section 65I(1) and (2) of the Public Finance Act 1989 applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner that Treasury invests money under that section.
+(4) Section 65I(1) and (2)of the Public Finance Act 1989 applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner that Treasury invests money under that section.
 (5) No instruction issued by the Minister of Finance under section 80A of the Public Finance Act 1989 applies to an institution.
 (6) The financial year of an institution is an academic year.
 (7) The members of the council of an institution are the board for the purposes of the Crown Entities Act 2004.
@@ -5231,7 +5171,7 @@ The money of an institution shall be applied only—
 (7) All rulings, decisions, or other acts of authority of the Senate of the University of New Zealand or any committee or board of that Senate or University or of the Chancellor or Vice-Chancellor or any officer of that University, so far as they were subsisting immediately before the commencement of this section by virtue of section 53(1) of the Universities Act 1961 and were applicable in relation to a university that is an institution to which subsection (5) of this section applies, shall be deemed to be, in their application in relation to that university, rulings, decisions, or other acts of authority to which that subsection applies.
 
 ### 205 Taxes and duties in relation to property of existing institutions
-(1) For the purposes of the Acts specified in the Schedule of the Tax Act Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
+(1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the previous governing body of each existing non-university institution, and that existing non-university institution, shall be deemed to be the same person with effect on and from the date on which the real and personal property of the previous governing body vests in that institution pursuant to section 204(1); and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the previous governing body of that institution so vests in that institution, all transactions entered into by, and acts of, the previous governing body before the vesting effected by section 204(1) shall be deemed to have been entered into by, or to be those of, that institution and to have been entered into or performed by that institution at the time when they were entered into or performed by the previous governing body.
 (2) For the purposes of determining whether—shares held by the previous governing body of an existing non-university institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 204(1) shall be treated as having been acquired by that institution at the time when they were acquired by the previous governing body.
@@ -5833,7 +5773,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 
 ### 226B Offences concerning information requests
 (1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on conviction to the penalty specified in subsection (2).
-(1A) An institution commits an offence and is liable on summary conviction to a penalty specified in subsection (2) if, in response to any requirement to supply information under section 226A, the institution intentionally—
+(1A) An institution commits an offence and is liable on conviction to a penalty specified in subsection (2) if, in response to any requirement to supply information under section 226A, the institution intentionally—
   (a) makes a false or misleading statement; or
   (b) makes a statement from which any material matter has been omitted; or
   (c) provides any false or misleading paper, document, or record; or
@@ -5971,50 +5911,6 @@ A person must not exert undue influence on any student or prospective student wi
 Sections 229A to 229CA apply to private training establishments; and, for the purpose of those sections,—
   (a) every reference to an institution includes a reference to a private training establishment; and
   (b) every reference to a council includes a reference to the governing body of the private training establishment.
-
-### 229E Councils to conduct referenda
-[Repealed]
-
-### 229F Voting slip
-[Repealed]
-
-### 229G Disclosure, refund, and fixing of compulsory fees
-[Repealed]
-
-### 229H Close, and declaration of result, of referendum
-[Repealed]
-
-### 229I Campaign funding to be equalised
-[Repealed]
-
-### 229J Association to disclose value of resources used for campaign
-[Repealed]
-
-### 229K Group receiving equalisation money to account for its use
-[Repealed]
-
-### 229L Undue influence
-[Repealed]
-
-### 229M Complaints
-[Repealed]
-
-### 229N Provisions applying when membership of association of students is voluntary
-[Repealed]
-
-### 229O Association of students may prescribe fee for membership, and council may collect it
-[Repealed]
-
-### 229P Provisions applying when membership of association of students is compulsory
-[Repealed]
-
-### 229Q Association of students may prescribe fee for membership, and Council may collect it
-[Repealed]
-
-**Part to apply to private training establishments**
-
-### 229R Application to private training establishments
-[Repealed]
 
 ## Part 17 — Education Review Office
 
@@ -6353,8 +6249,8 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 (9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of this Act, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 236 Offences concerning information requests
-(1) A private training establishment that intentionally fails or refuses to comply with section 235F(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (3).
-(2) A private training establishment commits an offence and is liable on summary conviction to the penalty specified in subsection (3) if, in response to any requirement to supply information under section 235F(7), the establishment intentionally—
+(1) A private training establishment that intentionally fails or refuses to comply with section 235F(7) commits an offence and is liable on conviction to the penalty specified in subsection (3).
+(2) A private training establishment commits an offence and is liable on conviction to the penalty specified in subsection (3) if, in response to any requirement to supply information under section 235F(7), the establishment intentionally—
   (a) makes a false or misleading statement; or
   (b) makes a statement from which any material matter has been omitted; or
   (c) provides any false or misleading paper, document, or record; or
@@ -7363,7 +7259,7 @@ A delegation to the member who is the general manager continues to have effect,�
   (a) the person has the consent of the Qualifications Authority; or
   (b) as provided by section 192(11).
 (3) A person commits an offence who, without the consent of the Qualifications Authority, grants or purports to grant an award which, or the name or description of which, includes the word national or the words New Zealand.
-(4) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 292A Offences relating to false representations
 (1) A person commits an offence who falsely represents, expressly or by implication, that—
@@ -7380,7 +7276,7 @@ A delegation to the member who is the general manager continues to have effect,�
   (i) a body has consent to assess against standards; or
   (j) a standard is on the Directory of Assessment Standards; or
   (k) the person is an agent of an institution (as that term is defined in section 249(1)) when the person is not.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 292B Liability of body corporate and directors in respect of false representations
 (1) If, in proceedings in respect of conduct engaged in by a body corporate, being conduct in relation to which section 292A(1) applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
@@ -7399,11 +7295,11 @@ A delegation to the member who is the general manager continues to have effect,�
 (3) A person commits an offence—
   (a) who enters or changes results on a student's record of achievement, knowing that the results or changes have the effect of falsifying the student's record:
   (b) who, without reasonable excuse or lawful authority, causes entries or changes to be made on a student's record that have the effect of falsifying the student's record.
-(4) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 292D Offence to fail to comply with section 236A (student records)
 (1) A private training establishment commits an offence that fails, without reasonable excuse, to comply with the requirements of section 236A.
-(2) A private training establishment that commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(2) A private training establishment that commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 292E Offence to provide or advertise cheating services
 (1) A person commits an offence if the person provides any service specified in subsection (4) with the intention of giving a student an unfair advantage over other students.
@@ -7414,7 +7310,7 @@ A delegation to the member who is the general manager continues to have effect,�
   (b) providing or arranging the provision of an assignment that a student is required to complete as part of a programme or training scheme:
   (c) providing or arranging the provision of answers for an examination that a student is required to sit as part of a programme or training scheme:
   (d) sitting an examination that a student is required to sit as part of a programme or training scheme or providing another person to sit the exam in place of the student.
-(5) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(5) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 (6) In this section,—
   - **programme** has the meaning given to it in section 159(1)
   - **student** means a student of a programme or training scheme
@@ -7423,12 +7319,12 @@ A delegation to the member who is the general manager continues to have effect,�
 ### 292F Offences relating to enrolment of international students and registration of private training establishments
 (1) Where the Council of an institution contravenes section 224(7), the institution commits an offence.
 (2) A private training establishment that contravenes section 232A(1), 232A(2), or 232C commits an offence.
-(3) A body that commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
+(3) A body that commits an offence against this section is liable, on conviction, to a fine not exceeding $10,000.
 
 ### 292G Offence to contravene requirements in section 234E relating to student fees
 (1) A private training establishment that contravenes section 234E(1) commits an offence.
 (2) A person who contravenes section 234E(2) commits an offence.
-(3) A private training establishment or person that commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
+(3) A private training establishment or person that commits an offence against this section is liable, on conviction, to a fine not exceeding $10,000.
 
 ### 292H Injunctions and orders of High Court
 (1) If a person has engaged, is engaging, or proposes to engage, in conduct that contravenes section 224(7) or any of sections 292 to 292F, the High Court may, on application by the Qualifications Authority, grant an injunction or make any appropriate order—
@@ -8710,179 +8606,6 @@ Subject to any other enactment, the Committee may invest any of its money in any
 ## Schedule 18 — Administrative provisions applying to Tertiary Research Board
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Education Act 1964.
-(2) This Act shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Proclamation.
-
-### 2 Interpretation
-(1) In this Act, unless the context otherwise requires,—
-  - **board** means a board of trustees constituted under Part 9 of the Education Act 1989
-  - **Chief Review Officer** means the chief executive of the Education Review Office
-  - **community college** means an educational institution established under Part 3 to provide continuing education and related advisory and guidance services, and other educational services designed to meet the particular circumstances of the local community
-  - **composite school** means a State school that provides primary education and secondary education
-  - **continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a university or university college of agriculture or teachers college
-  - **contributing school** means a State primary school that is for the time being established under this Act without provision for classes for pupils of forms 1 and 2 or either of those forms
-  - **correspondence school** or means any school or institution, or any classes, established by the Minister to provide instruction by correspondence
-  - **Department** means the Ministry of Education
-  - **Director-General** means the chief executive of the Ministry of Education
-  - **Disciplinary Board** means the Teachers' Disciplinary Board established by section 158A
-  - **disciplinary offence** means a disciplinary offence specified in section 158(1)
-  - **domestic student** , at any time, means a person who is then—
-    (a) a New Zealand citizen; or
-    (b) the holder of a residence class visa granted under the Immigration Act 2009; or
-    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
-  - **education authority** means a body that is an education board, the governing body of a secondary school, technical institute, or community college, a secondary schools council, a teachers college council, or a body declared to be an education authority by the Governor-General by Order in Council
-  - **education centre** means an education centre established under section 107A(1)
-  - **education centre council** means an education centre council constituted under section 107B(2)
-  - **employing authority** , in relation to any teacher, means the education board, board of governors, or other body or person, that controls the kindergarten, school, institute, or college, in which the teacher is employed
-  - **foreign student** , at any time, means a person who is not then a domestic student
-  - **former Education Act** means the Education Act 1914 and its amendments, or any Act thereby repealed, or any Act or Ordinance repealed by any such last-mentioned Act or by any former Education Act
-  - **intermediate department** means a department or division, attached to a secondary school or a district high school, to which are admitted, from 1 or more State primary schools, pupils who belong to the senior division
-  - **intermediate school** means a State primary school to which are admitted, from 1 or more other State primary schools, pupils who belong to the senior division
-  - **kindergarten** means a school or institution providing pre-school education and recognised as a kindergarten in accordance with regulations made under this Act
-  - **kindergarten teacher** means any person engaged in teaching in a kindergarten
-  - **kindergarten trainee** means any person attending a kindergarten training centre for the purpose of being trained as a kindergarten teacher
-  - **Minister** means the Minister of Education
-  - **parent** , in relation to any child, includes the child's guardian, and the householder in whose family the child resides
-  - **playcentre** means a school or institution providing pre-school education and recognised as a playcentre in accordance with regulations made under this Act
-  - **pre-school education** means education for children under the age of 5 years
-  - **prescribed** means prescribed by this Act or by regulations made under this Act
-  - **primary education** means education for pupils in a primary or intermediate school or department
-  - **primary school** means a school providing a 6-year course, or an 8-year course, for pupils entering the school between the ages of 5 and 7 years; and includes such a school which in special circumstances approved by the Director-General also provides continuing education
-  - **property** means real and personal property of every description
-  - **public conveyance** includes any transport approved by the Director-General, whether by railway, bus, ferry, or other means of conveyance, available to children for the purpose of attending school
-  - **public notice** means a notice published in some newspaper circulating in the district, and means notified by means of a public notice
-  - **registered school** means a school established under Part 3, or a school registered in accordance with section 186
-  - **review officer** means an employee of the Education Review Office, and includes the Chief Review Officer
-  - **salary order** means any decision fixing any salary or salaries in the education service
-  - **school age** , in relation to any child, means any age between the age of 5 years and the age of 15 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school in accordance with Part 4; or, in the case of any child who is deemed by the Director-General (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director-General may from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age
-  - **school year** means the period of 12 months ending with 27 January in any year
-  - **secondary education** means full-time education for pupils in a secondary school or department or in a secondary private school registered under section 35A of the Education Act 1989
-  - **secondary school or department** means a school or department established, or deemed to have been established, as a secondary school under Part 3, and providing full-time and part-time courses beyond the primary school course, and also, in circumstances approved by the Director-General, continuing education and related guidance services
-  - **secondary teacher** means a teacher classified in accordance with regulations made under this Act as a secondary teacher
-  - **senior division** , in relation to a State primary school, includes such classes or forms therein as may from time to time be prescribed by regulations
-  - **Senior Inspector** or means an Inspector of Schools appointed under section 7 to discharge the duties of the Senior Inspector of Primary Schools for an education district; and where appropriate, includes an Inspector of Schools so appointed to discharge the duties of the Senior Inspector of Secondary Schools for an area specified by the Director-General
-  - **special education** means education for children who, because of physical or mental handicap or of some educational difficulty, require educational treatment beyond that normally obtained in an ordinary class in a school providing primary, secondary, or continuing education
-  - **State primary school** means any school providing primary education established under Part 3 by an education board; and includes any intermediate school or district high school subject to the control and management of an education board; and also includes a school established under this Act or a former Education Act as a Chatham Islands School
-  - **teacher** means a schoolmaster or schoolmistress, or an assistant schoolmaster or assistant schoolmistress, engaged in teaching or eligible for appointment to a teaching position in any State primary school or correspondence school, or in a teachers college, or in a secondary school, or technical institute or community college, or in an intermediate department, or engaged or eligible to be engaged as a teacher of a special subject (including manual training), or in any specialist training service; and, in sections 157 to 161B, includes a kindergarten teacher, but does not include a probationary assistant, a junior assistant in a Maori school, or a student at a teachers college
-  - **teacher appointed by the Director-General** means a teacher placed under the control of the Director-General by an Order in Council made under section 164
-  - **technical institute** means an educational institution established, or deemed to have been established, as a technical institute under Part 3, and providing continuing education and related advisory and guidance services; and includes any correspondence school so far as it is deemed to be a technical institute within the meaning of that Part
-  - **working day** means a working day within the meaning of the Public Works Act 1981.
-(1A) Except as provided in subsection (1), in this Act, unless the context otherwise requires, words and expressions defined in the Private Schools Conditional Integration Act 1975 shall have the meanings so defined.
-(2) Unless the context otherwise requires, every reference in any other enactment or document existing at the commencement of this Act to—
-  (a) the Director of Education shall be read as a reference to the Director-General of Education:
-  (b) a public school shall be read as a reference to a State primary school subject to the control and management of an education board:
-  (c) a technical school, technical high school, or combined school shall be read as a reference to a secondary school:
-  (d) a teachers training college shall be read as a reference to a teachers college.
-
-## Part 3 — Establishment of schools
-
-**Primary education**
-
-### 77 State primary schools to be kept open at certain times
-Except to the extent that—every State primary school shall be kept open 5 days in each week for at least 4 hours each day, of which hours 2 in the morning and 2 in the afternoon shall be; and the teaching shall be entirely of a secular character.
-  (a) a school term commences on any day other than a Monday or ends with any day other than a Friday; or
-  (b) a school is lawfully closed pursuant to section 129C,—
-
-### 78 Religious instruction and observances in State primary schools
-Notwithstanding anything to the contrary in section 77, if the school's board for the school district in which the school is situated, after consultation with the principal, so determines, any class or classes at the school, or the school as a whole, may be closed at any time or times of the school day for any period or periods exceeding in the aggregate neither 60 minutes in any week nor 20 hours in any school year, for any class, for the purposes of religious instruction given by voluntary instructors approved by the school's board and of religious observances conducted in a manner approved by the school's board or for either of those purposes; and the school buildings may be used for those purposes or for either of them.
-
-### 78A
-Notwithstanding anything in sections 77 and 78, in any case where the Minister is satisfied that the majority of the parents of pupils attending a school wish their children to receive religious instruction additional to that specified in the said section 78 and he is satisfied that such additional religious instruction will not be to the detriment of the normal curriculum of the school, he shall generally or in any special case, after consultation with the school's board, authorise the additional religious instruction up to such an amount and subject to such conditions as he thinks fit.
-
-### 79 Attendance at religious instruction or observances not compulsory
-(1) No pupil enrolled at a State primary school shall be required to attend or take part in any such instruction or observances if any parent or guardian of the pupil does not wish the pupil to take part therein and makes his or her wishes known in writing to the head teacher of the school.
-(2) Any parent or guardian who has given such an indication of wishes may at any time withdraw it.
-
-### 80 Teachers may be freed from duties to take part in religious instruction or observances
-Any teacher at a State primary school shall, if the school's board for the school district in which the school is situated so approves, at his request be freed from school duties for up to 30 minutes a week to allow him to take part in his own school in religious instruction and religious observances or either, but no person shall directly or indirectly bring any pressure to bear on a teacher to induce the teacher to take any such part, and the position of any teacher and his opportunities for appointments and for promotion shall not be adversely affected because he does not take part in religious instruction and religious observances or either.
-
-### 81 Schools other than public schools not affected
-Nothing in this Act shall affect religious instruction or religious observances in schools other than State primary schools.
-
-**Composite schools**
-
-### 87 Regulations relating to composite schools
-(1) Without limiting the generality of any provision of this Act, where any provisions of this Act empower the making of regulations relating to both State primary schools and secondary schools, or to State primary schools or secondary schools only, or to the staff or students of both State primary schools and secondary schools or to the staff or students of State primary schools or secondary schools only, any regulations made under those provisions may be limited in their application to composite schools or composite schools of any specified class or classes or, as the case may be, to staff or students of composite schools or composite schools of any specified class or classes.
-(2) Subject to any regulations to which subsection (1) applies, this Act shall apply to every composite school as if—
-  (a) every reference in this Act to a State primary school were a reference to those classes and courses in that composite school providing primary education; and
-  (b) every reference in this Act to a secondary school were a reference to those classes and courses in the composite school providing secondary education.
-
-**Further education—technical and continuation**
-
-### 89 Saving of technical institutes already established
-Every school established as a technical institute under any former Education Act and existing at the commencement of this Act shall be deemed to have been established as a technical institute under this Act.
-
-### 91 Recognition of classes or courses in continuing education
-(1) The Director-General may recognise classes or courses in continuing education in secondary schools, in secondary departments of district high schools, in technical institutes, and in community colleges, in such manner and subject to compliance with such conditions as may be prescribed.
-(2) Where a controlling authority proposes to provide a class or course in continuing education providing instruction not previously provided by that authority, it shall consult the Director-General before making any arrangements for the establishment of the class or course.
-
-### 92 Revocation of recognition of classes or courses
-(1) The Director-General may revoke the recognition granted to any class or course in continuing education if he considers that more economical or effective or appropriate provision for the instruction being given in the class or course is being, or will shortly be, otherwise provided, or if he is dissatisfied with the manner in which the class or course is being conducted or is of the opinion that the needs in response to which the class was provided no longer exist or have diminished to an extent no longer warranting the continuance of the class:
-  provided that, where the Director-General intends to revoke recognition of any class or course in continuing education on any grounds other than his dissatisfaction with the manner in which the class or course is being conducted, he shall, if the controlling authority of the class or course so requires, give 6 months' notice of his intention to cancel the recognition.
-(2) Notwithstanding anything to the contrary in this section, the Governor-General may, by Order in Council, make regulations prescribing the conditions under which the recognition of classes or courses in continuing education may be revoked.
-
-### 95 Report on continuing education
-Within 4 months after the date of the close of the instruction in any year, the controlling authority shall forward to the Director-General such details of the work and attendance, and of the receipts and expenditure, of classes in continuing education under its control as are prescribed by such regulations as may be made by the Governor-General from time to time by Order in Council under this Act, or (if no such details are so prescribed) as the Minister may determine.
-
-### 96 Correspondence schools and classes for continuing education
-Having regard to the provision of continuing education, the Minister may establish any school or classes to provide instruction by correspondence for that purpose; and any school or class so established shall be controlled in such manner, and shall charge such fees for the instruction provided, as the Minister may determine.
-
-### 97A Continuing education organisations
-(1) The Minister may, by notice in the Gazette, declare any continuing education organisation that is a body corporate to be a recognised continuing education organisation, and may similarly declare any recognised continuing education organisation so declared to cease to be a recognised continuing education organisation.
-(2) There may from time to time be paid to any recognised continuing education organisation so declared, out of money appropriated by Parliament for the purpose and subject to such conditions (if any) as the Minister may impose, such sum or sums towards the payment of staff salaries and other expenses incurred by it in the conduct of its activities as the Minister may, with the concurrence of the Minister of Finance, approve.
-
-**Special education**
-
-### 98 Special schools and classes
-(1) Having regard to the provision of special education in any locality or localities, the Minister may—
-  (a) establish any special school:
-  (b) establish, or authorise the establishment of, any special class, clinic, or service, either as a separate unit or in connection with any State primary school, secondary school, technical institute, community college or integrated school, or in connection with any public institution approved for the purpose by him:
-  (c) make provision for special educational facilities to be provided by any correspondence school established under section 105:
-  provided that any special school established under paragraph (a) may be placed under the control of the education board of the district and shall, where so placed, be deemed to be a State primary school, save that it may, on the recommendation of the education board and with the approval of the Minister, be placed under the control of any person or persons appointed by the education board for the purpose instead of a school's board.
-(2) The Minister may likewise disestablish any special school, class, clinic, or service established under subsection (1), if he is dissatisfied with the manner in which the school, class, clinic, or service is being conducted, or if he considers that sufficient provision is made by another similarly established special school, class, clinic, or service, or by any other school or class in or reasonably near to the same locality:
-  provided that in the last-mentioned case he shall, if the controlling authority of the school, class, clinic, or service so requires, give 3 months' notice of his intention to disestablish the same.
-
-## Part 5 — Appointment and employment of teachers
-
-**Appointment and employment of teachers: General**
-
-### 162 Teachers to take oath of allegiance
-(1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, teachers college, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
-(2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
-(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on conviction to a fine not exceeding $100.
-
-## Part 8 — General provisions
-
-### 187 Exemptions from taxation
-(1) Every education board and secondary schools council, and every governing body of a secondary school, teachers college, technical institute, or community college, being a school, college, or institute established or deemed to have been established under Part 3, and every education centre council, shall be deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and shall be entitled accordingly to all the privileges which the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Nothing in subsection (1) exempts an education board, a secondary schools council, the governing body of a secondary school, teachers college, technical institute, or community college, or an education centre council, from—
-  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) any obligation imposed by that Act.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Education Amendment Act 1989.
-(2) This Act shall come into force on 1 January 1990.
-
-## Part 2 — Amendments to Education Act 1964
-
-### 16 Part to be read with Education Act 1964
-This Part shall be read together with and deemed part of the Education Act 1964 (in this Part referred to as “the principal Act”).
-
-### 23 Bulk funding of early childhood educational institutions
-(1) The Minister may from time to time—
-  (a) recognise for the purposes of funding out of money appropriated by Parliament institutions providing educational and developmental facilities and services for the benefit of children who have not yet enrolled at a State primary school:
-  (b) withdraw the recognition under paragraph (a) of any institution.
-(2) The governing body of an institution for the time being recognised under subsection (1) may be paid grants out of money appropriated by Parliament for the purpose.
-(3) The amount of every grant paid under subsection (2) shall be determined by the Minister.
-(4) Before a grant is paid under subsection (2), the Minister may give the governing body concerned written notice that the grant, or a part or parts of the grant (specified as a particular sum or as a proportion of the total grant), is not to be used except for purposes specified in the notice.
-(5) A governing body that has been given notice under subsection (4) shall ensure that no part of the grant to which the notice relates is used for purposes other than those specified for it in the notice.
-(6) Subject to subsection (5), a governing body to which a grant is paid under subsection (2) shall apply the grant in doing whatever it thinks will best achieve the purposes the institution or institutions concerned were established for.
-(7) Every institution that was, immediately before the commencement of this Part, recognised pursuant to regulations made under section 70(1)﻿(b) of the principal Act shall be deemed on that commencement to have been recognised under paragraph (a) of subsection (1); and paragraph (b) of that subsection shall apply accordingly.
-(8)
-(9)
-(10)
-
-### 1 Short Title and commencement
 (1) This Act may be cited as the Education Amendment Act (No 4) 1991, and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as “the principal Act”).
 (2) Except as provided in sections 5(5), 16(2), 17(2), 18(2), and 34, this Act shall come into force on 1 January 1992.
 
@@ -8929,6 +8652,13 @@ Every statement (such as a syllabus) corresponding to a national curriculum stat
   - **old national administration guidelines** means national administration guidelines that were issued under section 60A(1)﻿(c) of the principal Act, as it read immediately before the date of commencement of section 12, and had effect immediately before that date.
 (2) The provisions of old national administration guidelines continue to have effect until replaced or superseded by new national administration guidelines.
 
+### 66 Transition to new annual reporting requirements
+(1) In this section,—
+  - **new section 87** means section 87 of the principal Act as amended by section 23
+  - **old section 87** means section 87 of the principal Act as it read immediately before the commencement of section 23.
+(2) A Board must make its first annual report under new section 87 in relation to the 2003 school year.
+(3) Until a Board's first annual report has to be made under new section 87, it must make its annual reports in accordance with old section 87.
+
 **Transitional provision relating to intervention in poorly performing schools**
 
 ### 67 Transitional arrangements for financial managers
@@ -8968,6 +8698,14 @@ In this section and sections 71 to 76,—
 (3) On and from the date of commencement of this section, every reference in an enactment (other than this Act), or in any instrument or register, to the Teacher Registration Board (or Registration Board) must, if the context requires, be construed as a reference to the Teachers Council.
 (4) An application for teacher registration, a practising certificate, or a limited authority to teach that was properly made before this section commences must be treated as if it were properly made under Part 10 of the principal Act as amended by this Act.
 
+### 72 Final annual report and final accounts
+(1) As soon as practicable after the commencement of this section, the Teachers Council must, unless the Teacher Registration Board has already done so, prepare and forward to the Minister an annual report on the operations of the Teacher Registration Board for the year ended 30 June 2001.
+(2) The annual report must include—
+  (a) financial statements prepared in accordance with Part 5 of the Public Finance Act 1989; and
+  (b) the audit report and the statement of responsibility relating to those financial statements.
+(3) The Minister must present a copy of the annual report to the House of Representatives.
+(4) As soon as practicable after the commencement of this section, the Teachers Council must prepare and forward to the Auditor-General financial statements of the Teacher Registration Board to the end of the month preceeding the commencement of this section.
+
 ### 73 Transfer of employees
 (1) Every person who is employed by the Teacher Registration Board immediately before the date of commencement of this Act transfers to the Teachers Council on that date of commencement.
 (2) The transfer of an employee by this section is subject to any relevant transfer provisions in the employment agreement or contract applying to that employee.
@@ -9006,6 +8744,122 @@ A transferred employee is not entitled to receive any compensation for redundanc
 (4) However, in relation to an inquiry referred to in subsection (1) that is incomplete on the date when the disciplinary bodies are established,—
   (a) the Teachers Council must continue and complete the inquiry in the manner described in subsection (2); or
   (b) with the agreement in writing (which is not revocable) of the teacher or authorised person concerned, the matter may be continued and completed by the disciplinary bodies in accordance with the relevant rules, as if the matter arose under the relevant equivalent provision specified in subsection (3).
+
+**Transitional provision relating to pastoral care of international students**
+
+### 78 Transitional provisions relating to code
+(1) This section applies to providers that enrol international students.
+(2) Until the close of 6 months after the date the code takes effect, a provider may enrol persons as international students and continue to have international students enrolled even though the provider is not a signatory to the code.
+(3) At the close of the period stated in subsection (2), the authority conferred by subsection (2) lapses.
+(4) This section applies despite the provisions of section 238E of the principal Act.
+(5) Terms used in this section and defined in section 238D of the principal Act have the same meanings as in that section.
+
+**Validation**
+
+### 84 Validation of accommodation grant payments to Te Kohanga Reo National Trust Board
+(1) This section applies to the payments made by the Crown to Te Kohanga Reo National Trust Board that—
+  (a) were capital accommodation grants under section 309(1)﻿(a)﻿(ii) of the principal Act for the period beginning on 1 July 1996 and ending with the close of 30 June 2000; and
+  (b) were advanced to the constituent kohanga reo by way of loans.
+(2) The payments to which this section applies are validated and are to be treated for all purposes as if they were capital accommodation grants made in accordance with section 309 of the principal Act.
+
+**Specialist Education Services**
+
+### 85 Interpretation
+(1) In sections 86 to 97, unless the context otherwise requires,—
+  - **assets** has the same meaning as in section 216 of the principal Act
+  - **collective agreement** means an employment agreement that is binding on 1 or more employers and 2 or more employees
+  - **effective date** means 28 February 2002, unless an earlier date is appointed as the effective date by the Governor-General by Order in Council under subsection (2)
+  - **employment agreement** , in relation to a transferred employee,—
+    (a) has the same meaning as in section 5 of the Employment Relations Act 2000; and
+    (b) to avoid doubt, includes an employment contract that took effect before the commencement of that Act and covers the transferred employee's employment with the Specialist Education Services Board
+  - **liabilities** has the same meaning as in section 216 of the principal Act
+  - **Ministry** means the Ministry of Education
+  - **rights** has the same meaning as in section 216 of the principal Act
+  - **Secretary** means the chief executive of the Ministry
+  - **transferred employee** means an employee of the Specialist Education Services Board who transfers to the Ministry under section 88 before or on the effective date.
+(2) The Governor-General may, by Order in Council, appoint an effective date for the purposes of this section and sections 86 to 97 that is earlier than 28 February 2002.
+
+### 86 Specialist Education Services Board abolished and undertaking transferred on effective date
+(1) On the effective date,—
+  (a) the Specialist Education Services Board ceases to exist; and
+  (b) all assets, liabilities, and rights of the Specialist Education Services Board, by virtue of this section, become those of the Crown.
+(2) On the effective date, Part 4 and Schedule 2 of the principal Act are consequentially repealed.
+(3) On the effective date, the following enactments are consequentially repealed:
+  (a) section 13(1) of the Education Amendment Act 1990:
+  (b) sections 3 and 4 of the Education Amendment Act 1993:
+  (c) sections 14 and 15 and the heading above section 14 of the Education Amendment Act (No 2) 1998.
+
+### 87 Effect of reorganisation on employees
+Despite section 95, the abolition of the Specialist Education Services Board and the transfer of its undertaking and functions to the Crown does not transfer the chief executive or an employee of the Specialist Education Services Board.
+
+### 88 Transfer of employees
+(1) An employee of the Specialist Education Services Board transfers to the Ministry under this section if—
+  (a) his or her position ceases to exist as a result of the transfer of the functions of the Board to the Ministry; and
+  (b) the Secretary agrees to his or her transfer under this section; and
+  (c) he or she is appointed to a position in the Ministry, whether before or on the effective date.
+(2) Nothing in sections 60, 61, and 65 of the State Sector Act 1988 applies to that appointment.
+(3) The transfer of the employee under this section is subject to any relevant provisions of the employee's employment agreement (but this subsection does not limit the operation of sections 89 to 92).
+
+### 89 Application of employment agreements of transferred employees
+(1) Unless a transferred employee's employment agreement otherwise provides, and subject to subsection (2), the transferred employee's employment agreement continues to apply to that employee, on and from the date that the employee transfers to the Ministry, on the same terms and conditions (including the period of the agreement)—
+  (a) as if it were an agreement that had been made in respect of the Ministry; and
+  (b) as if it were binding on both that employee and on the Secretary, and on any other party to that agreement.
+(2) If there is a change to an employee's duties or location arising out of his or her transfer to the Ministry, the conditions of employment of that employee may be varied by agreement to reflect that change, but the conditions of employment (as so varied) must be no less favourable than those that the employee was entitled to receive under the employment agreement that applied to the employee at the date of the transfer.
+(3) Subsections (1) and (2) continue to apply to the conditions of employment of each transferred employee to whom this section applies until the time that any of the conditions of employment that apply under the employment agreement applying to that employee at the date of the transfer are subsequently varied (otherwise than for the purpose referred to in subsection (2)).
+(4) The conditions of employment of each such transferred employee must, on and from the date of any subsequent variation to which subsection (3) applies, be determined in accordance with the employment agreement that applies to that employee in the Ministry.
+(5) Nothing in subsection (1) or subsection (2) continues to apply to any transferred employee who receives any subsequent appointment, whether within the Ministry or any other department.
+
+### 90 Application of collective agreements of transferred employees
+(1) This section limits the employees who may be bound by a collective agreement that binds the chief executive of the Specialist Education Services Board before the effective date and, as a consequence of sections 86 and 95, binds the Secretary and transferred employees after the effective date.
+(2) After the effective date, the only employees of the Ministry who are entitled to be bound by or enforce that collective agreement are transferred employees who are appointed to a position in the Ministry that has been established (whether or not previously existing in the Ministry) to enable the Ministry to perform the functions of the Specialist Education Services Board.
+(3) Subsection (2) does not bind an employee to a collective agreement, or entitle an employee to be bound by or enforce a collective agreement, if the employee would not otherwise be bound by, or be entitled to be bound by or enforce, that agreement.
+(4) Sections 62 and 64 of the Employment Relations Act 2000 do not apply to a transferred employee in relation to the transfer.
+(5) This section limits the employees who may be bound by a collective agreement and the coverage of that agreement under Part 6 of the State Sector Act 1988 and sections 56(1), 57, 63(3), and 243 of the Employment Relations Act 2000.
+(6) This section does not apply to a collective agreement to the extent that the parties agree otherwise.
+
+### 91 Employment of transferred employees continuous
+For the purposes of any provisions of a transferred employee's employment agreement relating to continuity of service, that employee's transfer from the Specialist Education Services Board to the Ministry is insufficient by itself to break his or her employment.
+
+### 92 Restriction of compensation for technical redundancy for transferred employees
+An employee of the Specialist Education Services Board who transfers to the Ministry under section 88 is not entitled to receive any payment or other benefit on the ground that his or her position in the Specialist Education Services Board has ceased to exist.
+
+### 93 Restriction of compensation for technical redundancy for other employees
+(1) This section applies to an employee of the Specialist Education Services Board who is not transferred to the Ministry under section 88.
+(2) An employee is not entitled to receive any payment or other benefit on the ground that his or her position in the Specialist Education Services Board has ceased to exist if—
+  (a) the position ceases to exist as a result of the transfer of the functions of the Board to the Ministry; and
+  (b) in connection with that transfer of functions,—
+    (i) the employee is offered equivalent employment in the Ministry (whether or not the employee accepts the offer); or
+    (ii) the employee is offered, and accepts, other employment in the Ministry.
+(3) Equivalent employment to the employee's employment in the Specialist Education Services Board is employment in the Ministry—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of equivalent employment (including any service-related, redundancy, and superannuation conditions); and
+  (d) on terms that treat the period of service with the Specialist Education Services Board (or any other period of service recognised by that Board as continuous service) as if it were continuous service with the Ministry.
+
+### 94 Consequential amendments to other enactments
+On the effective date,—
+  (a) Schedule 1 of the Official Information Act 1982 is consequentially amended by omitting the item relating to the Specialist Education Services Board; and
+  (b) Schedule 1 of the Ombudsmen Act 1975 is consequentially amended by omitting from Part 2 the item relating to the Specialist Education Services Board; and
+  (c) Schedules 4, 5, 6, and 7 of the Public Finance Act 1989 are amended by omitting the item relating to the Specialist Education Services Board; and
+  (d) the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117) is consequentially amended by revoking clause 3(4) and so much of the Schedule as relates to the Specialist Education Services Board.
+
+### 95 Consequential changes to other references
+(1) If any other enactment or other thing refers to the Specialist Education Services Board (or to the Special Education Service Board) and that reference is no longer appropriate because the Board has been abolished, the reference must be read as a reference to the Ministry.
+(2) If any other enactment or other thing refers to the chief executive of the Specialist Education Services Board (or of the Special Education Service Board) and that reference is no longer appropriate because the Board has been abolished, the reference must be read as a reference to the Secretary.
+
+### 96 Application of consequential changes to references
+(1) Section 95—
+  (a) applies to things that are in force or existing on the effective date (whether coming into force, entered into, or created before or after the commencement of this section); and
+  (b) applies to references in anything, including (without limitation) deeds, agreements, proceedings, instruments, documents, and notices.
+(2) Section 95 applies to an employment agreement only in accordance with sections 87 and 89.
+
+### 97 Effect of reorganisation
+(1) On and from the effective date, anything done or omitted to be done by, or in relation to, the Specialist Education Services Board must be treated as having been done or omitted by, or in relation to, the Crown.
+(2) The abolition of the Specialist Education Services Board and the transfer of its undertaking and functions to the Crown does not affect—
+  (a) the assets, liabilities, or rights of the Crown or the Board (other than by transferring them); or
+  (b) the commencement or continuation of proceedings by or against the Board; those proceedings may instead be commenced or continued by or against the Crown.
+(3) If a transfer of an asset or liability under section 86 is registrable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
+(4) Subsection (2) does not limit sections 86 to 96.
 
 ### 1 Title
 (1) This Act is the Education (Tertiary Reform) Amendment Act 2002.
@@ -9101,6 +8955,75 @@ For the purpose of any provisions of a transferred employee's employment agreeme
 
 ### 58 Chief executive may be called general manager
 For the first 3 years after the Tertiary Education Commission is established, the person appointed as its chief executive officer under clause 36 of Schedule 13A of the principal Act (as inserted by section 47 of this Act) may be called the general manager.
+
+### 1 Title
+(1) This Act is the Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004.
+(2) In this Act, the Education Act 1989 is called the principal Act.
+
+## Part 1 — Preliminary provisions
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is—
+  (a) to provide for the Early Childhood Development Board, a Crown entity continued under Part 5 of the principal Act, to be disestablished and for its functions, assets, liabilities, and rights to be transferred to the Ministry of Education; and
+  (b) to provide for other matters related to the reorganisation, such as a new funding mechanism for certain early childhood centres to enable grants to be paid by the Ministry rather than through the Early Childhood Development Board.
+
+### 4 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **assets** has the same meaning as in section 216(1) of the principal Act
+  - **Board** means the Early Childhood Development Board
+  - **collective agreement** means an employment agreement that is binding on 1 or more employers and 2 or more employees
+  - **effective date** means the date on which this Act comes into force (as set out in section 2)
+  - **employment agreement** , in relation to an employee,—
+    (a) has the same meaning as in section 5 of the Employment Relations Act 2000; and
+    (b) to avoid doubt, includes an employment contract that took effect before the commencement of that Act and covers the employee's employment with the Board
+  - **liabilities** has the same meaning as in section 216(1) of the principal Act
+  - **Ministry** means the Ministry of Education
+  - **rights** has the same meaning as in section 216(1) of the principal Act
+  - **Secretary** means the chief executive of the Ministry.
+
+## Part 2 — Disestablishment of Board and associated matters
+
+### 5 Early Childhood Development Board disestablished and functions, assets, etc, transferred to Ministry on effective date
+(1) On the effective date,—
+  (a) the Board ceases to exist; and
+  (b) all functions, assets, liabilities, and rights of the Board, by virtue of this section, become those of the Crown.
+(2) On the effective date, Part 5 and Schedule 3 of the principal Act are consequentially repealed.
+(3) On the effective date, the following enactments are consequentially repealed:
+  (a) section 13(2) of the Education Amendment Act 1990; and
+  (b) sections 5 and 6 of the Education Amendment Act 1993; and
+  (c) sections 16 and 17 and the heading above section 16 of the Education Amendment Act (No 2) 1998.
+
+### 8 Consequential changes to other references
+(1) If any other enactment or other thing refers to the Board and that reference is no longer appropriate because the Board has been disestablished, the reference must be read as a reference to the Ministry.
+(2) If any other enactment or other thing refers to the chief executive of the Board and that reference is no longer appropriate because the Board has been disestablished, the reference must be read as a reference to the Secretary.
+
+### 9 Application of consequential changes to references
+Section 8—
+  (a) applies to things that are in force or existing on the effective date (whether coming into force, entered into, or created before or after the commencement of this section); and
+  (b) applies to references in anything, including (without limitation) deeds, agreements, proceedings, instruments, documents, and notices; and
+  (c) does not apply to collective employment agreements (if any); and
+  (d) does not apply to individual employment agreements (if any).
+
+### 10 Effect of reorganisation
+(1) On and from the effective date, anything done or omitted to be done by, or in relation to, the Board must be treated as having been done or omitted by, or in relation to, the Crown.
+(2) The disestablishment of the Board, and the transfer of its functions, assets, liabilities, and rights to the Crown, does not affect—
+  (a) the assets, liabilities, or rights of the Crown or the Board (other than by transferring them); or
+  (b) the commencement or continuation of proceedings by or against the Board; those proceedings may instead be commenced or continued by or against the Crown.
+(3) If the transfer of an asset or liability under section 5 is registrable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
+(4) Subsection (2) does not limit sections 5 to 9.
+
+### 11 Final report and accounts
+(1) As soon as reasonably practicable after the commencement of this Act, the Ministry must arrange for the final report of the Board to be delivered to the Minister.
+(2) The report must—
+  (a) describe the Board's operations for the period beginning on 1 July 2003 and ending immediately before the effective date; and
+  (b) if the Board has not already prepared and forwarded to the Minister an annual report on the operations of the Board for the year ended 30 June 2003 under Part 5 of the Public Finance Act 1989, describe the Board's operations for that year; and
+  (c) include—
+    (i) financial statements of the Board prepared, in accordance with Part 5 of the Public Finance Act 1989, for that period and, if paragraph (b) applies, that year; and
+    (ii) an audit report prepared by the Auditor-General.
+(3) The Minister must present a copy of the report to the House of Representatives under section 44A of the Public Finance Act 1989.
 
 ### 1 Title
 This Act is the Education (Tertiary Reforms) Amendment Act 2007.
