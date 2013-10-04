@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1561,8 +1561,8 @@ Section 159 applies to a borrower if—
 ### 164 Proceedings to be commenced by Commissioner
 A proceeding for an offence against section 163 must be commenced by the filing of a charging document in the name of the Commissioner.
 
-### 165 Charge may charge several offences
-(1) A charge may charge the defendant with any number of offences against section 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
+### 165 Charging document may charge several offences
+(1) A charging document may charge the defendant with any number of offences against section 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
 (2) If a charging document charges more than 1 offence,—
   (a) particulars of each offence charged must be set out separately in the charging document; and
   (b) all of those charges must be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
