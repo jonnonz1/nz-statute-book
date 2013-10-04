@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-04_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -427,7 +427,7 @@ Every person commits an offence who, without lawful excuse, destroys, defaces, r
 (1) Every person to whom individual schedules are disclosed under section 37C commits an offence who knowingly contravenes—
   (a) section 37C(4)(a); or
   (b) section 37C(4)(b).
-(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000.
 
 ### 46 Other offences
 Every person commits an offence who—
