@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2013-06-28_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -1248,7 +1248,7 @@ The High Court Rules apply if a procedural matter is not provided for by section
 **Appeal to Court of Appeal**
 
 ### 113 Appeal to Court of Appeal
-Section 144 of the Summary Proceedings Act 1957 applies to a decision of the High Court on an appeal filed under section 105 of this Act as if the decision had been made under section 107 of the Summary Proceedings Act 1957.
+Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies to a decision of the High Court on an appeal filed under section 105 of this Act as if the decision had been made under section 300 of the Criminal Procedure Act 2011.
 
 ### Subpart 2 — Enforcement
 
@@ -1424,8 +1424,8 @@ Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in 
   (a) in the case of a natural person, to a fine not exceeding $300,000:
   (b) in the case of a person other than a natural person, to a fine not exceeding $10 million.
 (2) Every person who commits an offence against section 132(1) is also liable on conviction, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues.
-(3) A person who commits an offence against section 132(2) is liable on summary conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
-(4) A person who commits an offence against section 132(3) is liable on summary conviction to a fine not exceeding $1,500.
+(3) A person who commits an offence against section 132(2) is liable on conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(4) A person who commits an offence against section 132(3) is liable on conviction to a fine not exceeding $1,500.
 (5) If a person is convicted of an offence against section 132, the court may, instead of or in addition to imposing a fine, make 1 or more of the following orders:
   (a) an order specified in section 115:
   (b) an order requiring the Environmental Protection Authority to serve notice, under section 76(2), of the review of a marine consent held by the person, but only if the offence involves an act or omission that breaches the consent.
@@ -1465,12 +1465,12 @@ Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in 
   (b) he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 136 Commencement of offence proceedings
-Only an enforcement officer may lay an information in respect of an offence under this Act.
+Only an enforcement officer may file a charging document in respect of an offence under this Act.
 
 ### 137 Limitation period
-(1) An information in respect of an offence against this Act may be laid no later than 6 months after the time when the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
+(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
 (2) The period of 6 months does not run while the person charged (being a natural person) is beyond the outer limits of the territorial sea.
-(3) This section overrides section 14 of the Summary Proceedings Act 1957.
+(3)
 
 **Appointment and powers of enforcement officers**
 
@@ -1612,10 +1612,10 @@ Costs may be recovered for the purpose of section 143(1) by 1 or more of the fol
 (8) If a notice or document is sent by post under subsection (1)(c) or (d), it is presumed to be received by the person at the time at which the notice or document would have been delivered in the ordinary course of the post.
 
 ### 149 Service on master or owner of ship
-(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 132(1)(a), service on the defendant of a summons or other document is achieved for the purposes of the Summary Proceedings Act 1957 if the summons or other document is—
+(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 132(1)(a), service on the defendant of a summons or other document is achieved for the purposes of the Criminal Procedure Act 2011 if the summons or other document is—
   (a) delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
   (b) sent to the agent of the ship by registered letter addressed to that agent on behalf of the defendant at the agent's last known or usual place of residence or business; or
-  (c) served in accordance with section 24 of the Summary Proceedings Act 1957 if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with that section.
+  (c) served in accordance with rules made under the Criminal Procedure Act 2011 if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with those rules.
 (2) Subsection (1) applies despite any other enactment.
 (3) If a summons or document is sent by post under subsection (1)(b), it is presumed to be received by the agent at the time at which the notice or document would have been delivered in the ordinary course of the post.
 
