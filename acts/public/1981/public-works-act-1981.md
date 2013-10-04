@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-04_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1212,7 +1212,7 @@ In this Part, unless the context otherwise requires,—
   (b) the date of the court's order, if an application to set aside the notice has been made and it has not been set aside; or
   (c) the date on which any application to the court has been withdrawn by the applicant—
 (8) All costs and expenses incurred by an authority in carrying out any work under subsection (7) may be recovered from the person who failed to comply with the requirement as a debt due to the authority.
-(9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the laying of an information for an offence under that subsection.
+(9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the filing of a charging document for an offence under that subsection.
 
 ### 134 Service of notice
 (1) If, under the provisions of section 133, a requirement is made by an authority, the requirement shall be by notice in writing signed by any person appointed either generally or specially by the authority for the purpose of giving such notices and shall be served in accordance with section 4.
