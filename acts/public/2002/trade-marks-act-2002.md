@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -1008,7 +1008,7 @@ The chief executive may appoint enforcement officers, on a permanent or temporar
   (d) contain any other prescribed particulars.
 (3) A warrant of appointment is, in the absence of evidence to the contrary, sufficient proof that the holder of the warrant may exercise the powers conferred on an enforcement officer.
 (4) A person who ceases to be an enforcement officer must return the person’s warrant of appointment.
-(5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 134C Functions of enforcement officer
 An enforcement officer must, to the extent that is reasonably practicable, promote compliance with this Act by carrying out the following functions:
@@ -1301,7 +1301,7 @@ An enforcement officer to whom any document is produced for inspection under an 
 
 ### 134ZA Offence of failing to comply with order to produce documents
 (1) No person may, without reasonable excuse, fail to comply with an order under section 134Y.
-(2) Every person who breaches subsection (1) commits an offence and is liable on summary conviction,—
+(2) Every person who breaches subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $10,000; and
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1619,7 +1619,7 @@ A Customs officer to whom any document is produced for inspection under an order
   (a) refuse or fail to appear before the Customs officer in accordance with the notice; or
   (b) refuse to answer any question.
 (3) No person may, without reasonable excuse, refuse or fail to comply with an order made under section 155E.
-(4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on summary conviction,—
+(4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; and
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
