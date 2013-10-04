@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2013-10-01_
+_Consolidation as at 2013-10-04_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -2501,7 +2501,7 @@ For the purposes of the administration and enforcement of this Part, a high seas
 ### 113Z Administrative penalties for high seas fisheries offences
 (1) This section—
   (a) applies in respect of an offence against this Part that carries a penalty of a fine not exceeding $250,000; but
-  (b) does not apply in respect of an alleged offence if an information or charge has been laid in respect of the alleged offence.
+  (b) does not apply in respect of an alleged offence if a charging document has been filed in respect of the alleged offence.
 (2) The chief executive may cause notice in writing, in the approved form, to be served on a person if the chief executive has reasonable cause to believe that—
   (a) an offence to which this section applies may have been committed by that person; and
   (b) having regard to all the circumstances relating to the alleged offence, it is minor; and
