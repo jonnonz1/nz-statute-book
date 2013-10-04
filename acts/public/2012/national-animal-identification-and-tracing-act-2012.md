@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -1204,7 +1204,7 @@ If a person to whom a seized or produced thing is released or who is given acces
   (a) is unable for good reason to deal with an application made under subclause (2) without delay; and
   (b) believes on reasonable grounds that livestock may be removed from the land or otherwise disposed of in the meantime.
 (6) The NAIT officer may, if requested to do so by person A, order livestock to be held in the manner that the NAIT officer thinks appropriate until the application is dealt with or the expiration of 7 days, whichever is the earlier.
-(7) If person B refuses or fails to comply with a notice given under subclause (2) or an order given under subclause (6), person B commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(7) If person B refuses or fails to comply with a notice given under subclause (2) or an order given under subclause (6), person B commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 13 Removal of straying livestock
 (1) If an occupier of land (person A) believes on reasonable grounds that livestock owned by another person (person B) have strayed onto person A's land,—
@@ -1220,7 +1220,7 @@ If a person to whom a seized or produced thing is released or who is given acces
   (d) soil resources or water quality:
   (e) human health or enjoyment of the recreational value of the natural environment:
   (f) the relationship of Māori and their culture and traditions with their ancestral lands, waters, sites, wāhi tapu, and taonga.
-(4) If person B refuses or fails to comply with a notice given under this clause, that person commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(4) If person B refuses or fails to comply with a notice given under this clause, that person commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### Part 3 — Powers of NAIT officers to obtain certain orders
 
@@ -1452,7 +1452,7 @@ A search warrant is executed when the person executing the warrant and any perso
 (1) A search warrant is invalid—
   (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in clause 34(1) were not satisfied at the time that the search warrant was issued:
   (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
-(2) If a warrant is invalid under this clause, section 204 of the Summary Proceedings Act 1957 (which provides that a warrant is not invalid by reason only of a defect, irregularity, omission, or want of form) does not apply to that warrant.
+(2) If a warrant is invalid under this clause, section 204 of the Summary Proceedings Act 1957 and section 379 of the Criminal Procedure Act 2011 (which provide that a warrant is not invalid by reason only of a defect, irregularity, omission, or want of form) do not apply to that warrant.
 
 **Carrying out search powers**
 
@@ -1813,17 +1813,17 @@ Every annual report prepared by the Director-General for the purposes of section
 (2) Every person commits an offence who—
   (a) fails to comply with a requirement of a NAIT officer under clause 53; and
   (b) knows or ought reasonably to know that the person imposing the requirement is a NAIT officer.
-(3) Every person who commits an offence against subclause (1) or (2) is liable on summary conviction to a term of imprisonment not exceeding 3 months.
+(3) Every person who commits an offence against subclause (1) or (2) is liable on conviction to a term of imprisonment not exceeding 3 months.
 (4) Any constable may arrest without warrant any person who the constable has reasonable grounds to suspect has committed an offence against subclause (1) or (2).
 
 ### 76 Offence of failing to carry out obligations in relation to computer system search
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under clause 56.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under clause 56.
 
 ### 77 Offences relating to exercise of powers
 (1) Every person commits an offence who intentionally—
   (a) threatens, assaults, obstructs, or hinders a person in the exercise of a power or the performance of a function or duty prescribed by or under this Act:
   (b) impersonates or falsely represents himself or herself as a NAIT officer or a NAIT authorised person.
-(2) Every person who commits an offence against this clause is liable on summary conviction,—
+(2) Every person who commits an offence against this clause is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1844,7 +1844,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 (5) The circumstances referred to in subclause (4) are as follows:
   (a) the action is carried out knowingly and without the prior written approval of the NAIT organisation:
   (b) the action is carried out in a manner that misleads a person or misleadingly suggests that it was carried out with the approval of the NAIT organisation.
-(6) Every person who commits an offence against this clause is liable on summary conviction,—
+(6) Every person who commits an offence against this clause is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -1856,18 +1856,18 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (c) to the extent that the information is used for the purposes of, or in connection with, the exercise of powers conferred by this Act; or
   (d) as provided for, by, or under this Act; or
   (e) in connection with an investigation or inquiry concerning proceedings for an offence against this Act.
-(3) A person who contravenes subclause (2) commits an offence and is liable on summary conviction,—
+(3) A person who contravenes subclause (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
 ### 80 Offence of failing to comply with production order
 (1) Every person commits an offence if he or she fails to comply with a production order made under clause 16.
-(2) Every person who commits an offence against subclause (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year:
   (b) in the case of a body corporate, to a fine not exceeding $40,000.
 
 ### 81 False application for production order or search warrant
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year who makes an application for a production order or search warrant that contains any assertion or other statement known by the person to be false.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year who makes an application for a production order or search warrant that contains any assertion or other statement known by the person to be false.
 
 ### 82 Offences relating to registration and declarations
 (1) Every person commits an offence who—
@@ -1877,10 +1877,10 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (a) to register a NAIT animal at that location in accordance with this Act:
   (b) to comply with section 31 in relation to a NAIT animal consigned for transport or droving from a NAIT location registered by the PICA:
   (c) to comply with section 32 in relation to a NAIT animal that dies, is lost, or is exported live.
-(3) Every person who commits an offence against subclause (1) is liable on summary conviction,—
+(3) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
-(4) Every person who commits an offence against subclause (2) is liable on summary conviction,—
+(4) Every person who commits an offence against subclause (2) is liable on conviction,—
   (a) in the case of an individual, to a fine—
     (i) not exceeding $10,000; or
     (ii) not exceeding $1,000 for each animal to which the offence relates, up to a maximum of $10,000:
@@ -1898,7 +1898,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (d) unless an exemption applies, when a NAIT animal arrives at that location without a NAIT device, fails either to—
     (i) return the animal to the PICA who consigned the animal to the location; or
     (ii) fit a replacement device on the animal and reregister it in the manner, and within the time, specified in regulations made under this Act.
-(2) Every person who commits an offence against subclause (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine—
     (i) not exceeding $10,000; or
     (ii) not exceeding $1,000 for each device to which the offence relates, up to a maximum of $10,000:
@@ -1914,7 +1914,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
   (d) manufactures or supplies a device that does not comply with the requirements of regulations made, or standards issued, under this Act, while purporting that it is a NAIT device:
   (e) without the prior written approval of the NAIT organisation, sells or trades a NAIT device supplied by a manufacturer or importer of NAIT devices:
   (f) without the prior written approval of the NAIT organisation, reuses, sells, or trades a radio frequency identification device component extracted from a NAIT device.
-(2) Every person who commits an offence against subclause (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine—
     (i) not exceeding $10,000; or
     (ii) not exceeding $1,000 for each device to which the offence relates, up to a maximum of $10,000:
@@ -1927,7 +1927,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 (1) Every person commits an offence who fails to comply with directions given by a NAIT officer or a NAIT authorised person under—
   (a) clause 2; or
   (b) clause 5.
-(2) Every person who commits an offence against subclause (1) is liable on summary conviction,—
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
@@ -1984,8 +1984,8 @@ All infringement fees paid for infringement offences must be paid to the Ministr
 
 **General provisions applying to offences under Act**
 
-### 90 Period within which information must be laid
-An information for any offence against this Act must be laid within 2 years after the time when the matter giving rise to the information first became known, or should have become known, to the Ministry or the NAIT organisation.
+### 90 Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document for any offence against this Act must be filed within 2 years after the date on which the matter giving rise to the charge first became known, or should have become known, to the Ministry or the NAIT organisation.
 
 ### 91 Liability of body corporate
 (1) This clause applies when—
