@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1079,7 +1079,7 @@ For the purposes of section 109D(1)(c), the notice given by new co-op to the chi
     (ii) a resolution by the holders of new co-op fund securities or by any other person; or
     (iii) an event specified in the contractual arrangements relating to the new co-op fund.
 (2) The notice must be accompanied by the evidence relied upon by new co-op for asserting that subsection (1) applies.
-(3) If new co-op contravenes this section, it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for every day that the offence continues.
+(3) If new co-op contravenes this section, it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for every day that the offence continues.
 
 ### 109G Repeal of section 109A
 (1) Section 109A is repealed on and from a date specified by an Order in Council made under subsection (2).
@@ -1123,7 +1123,7 @@ For the purposes of section 109D(1)(c), the notice given by new co-op to the chi
 (3) New co-op must respond to the notice not later than 5 working days after service of the notice by—
   (a) verifying the matter in question; or
   (b) if it is unable to verify it, stating that it is unable to do so.
-(4) If new co-op contravenes subsection (3), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(4) If new co-op contravenes subsection (3), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 109K When sections 109L to 109N apply
 Sections 109L to 109N apply only while the specified subpart 5 provisions do not apply.
@@ -1588,19 +1588,19 @@ It does not detract from the achievement of the purpose set out in section 150A 
   (c) recommend to new co-op the base milk price.
 (4) The panel may, as it considers necessary or desirable, make recommendations to new co-op in respect of the milk price manual, including a recommendation that it should be amended and a recommendation that a proposed amendment should not be made.
 (5) New co-op must make the terms of reference of the panel publicly available, including any amendments to those terms of reference.
-(6) If new co-op contravenes subsection (1), (2), or (5), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(6) If new co-op contravenes subsection (1), (2), or (5), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 150E Appointment of members of panel
 (1) New co-op must appoint the members of the panel and must appoint one of the members as the chair.
 (2) New co-op must ensure that at all times the chair and a majority of the members (including the chair) are independent.
-(3) If, without reasonable excuse, new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If, without reasonable excuse, new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Milk price manual**
 
 ### 150F New co-op must maintain milk price manual
 (1) New co-op must maintain a manual (the milk price manual) that sets out how the base milk price is calculated.
 (2) New co-op must make the manual publicly available, including any amendments to the manual.
-(3) If new co-op contravenes subsection (1) or (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If new co-op contravenes subsection (1) or (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 150G Steps new co-op must take if panel recommendation not followed or implemented
 (1) This section applies if—
@@ -1615,7 +1615,7 @@ It does not detract from the achievement of the purpose set out in section 150A 
     (i) the recommendation of the panel; and
     (ii) new co-op's reasons for amending the milk price manual contrary to that recommendation:
   (c) if subsection (1)(c) applies, make publicly available a statement of new co-op's reasons for amending the milk price manual without having received a recommendation by the panel for the amendment.
-(3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Review of milk price manual by Commission**
 
@@ -1667,7 +1667,7 @@ New co-op must, not later than 1 August in each year,—
     (i) the recommendation of the panel; and
     (ii) a statement of new co-op's reasons for setting the base milk price other than in accordance with that recommendation:
   (b) if subsection (1)(b) applies, make publicly available a statement of new co-op's reasons for setting the base milk price without having received a recommendation by the panel for the base milk price.
-(3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 150O Commission must review calculation of base milk price
 (1) The Commission must, for each season, review new co-op's calculation of the base milk price set for that season and make a report under section 150P.
@@ -1691,7 +1691,7 @@ The Commission must finalise its report under section 150P and make it publicly 
 (2) New co-op must without delay make publicly available—
   (a) the new base milk price; and
   (b) a statement of new co-op's reasons for the change.
-(3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Procedure for Commission's review of base milk price calculation**
 
