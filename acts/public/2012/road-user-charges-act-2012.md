@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2013-08-01_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -848,10 +848,10 @@ In this subpart,—
 **Proceedings for offences generally**
 
 ### 76 Proceedings for offences generally
-(1) An offence against this Act is punishable on summary conviction.
-(2) Despite section 14 of the Summary Proceedings Act 1957, an information for—
-  (a) a specified offence may be laid at any time within 5 years after the time when the matter giving rise to the information arose:
-  (b) for any other offence against this Act may be laid within 1 year after the time when the matter giving rise to the information arose.
+(1)
+(2) Despite section 25 of the Criminal Procedure Act 2011, the limitation period for—
+  (a) a specified offence ends on the date that is 5 years after the date on which the offence was committed:
+  (b) for any other offence against this Act ends on the date that is 1 year after the date on which the offence was committed.
 
 ### 77 Admissibility of certain statements
 (1) Despite any enactment or rule of law, a statement referred to in subsection (2) made to an enforcement officer by the driver of a RUC vehicle—
@@ -902,9 +902,9 @@ In this subpart,—
 
 ### 81 Infringement offences
 (1) If a person is alleged to have committed an infringement offence, the person may either—
-  (a) be proceeded against summarily under the Summary Proceedings Act 1957; or
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be issued with an infringement notice as provided in section 82.
-(2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where an infringement offence is proceeded with summarily.
+(2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under section 21(1)(a) of the Summary Proceedings Act 1957.
 
 ### 82 Issue of infringement notice and reminder notices
 Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary modifications to the issue of an infringement notice or a reminder notice for an infringement offence under this Act.
