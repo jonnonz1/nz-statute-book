@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 > Title
 
@@ -1612,7 +1612,7 @@ Every permit holder must—
 (1) Every person who commits an offence against section 100(1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $400,000, and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
 (2) Every person who commits an offence against section 100(2) is liable on conviction to a fine not exceeding $20,000, and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues.
 (3) Every person who commits an offence against section 100(3) is liable on conviction to a fine not exceeding $3,000.
-(3A) Every person who commits an offence against section 100(3A) is liable on summary conviction to a fine not exceeding $800,000.
+(3A) Every person who commits an offence against section 100(3A) is liable on conviction to a fine not exceeding $800,000.
 (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
 (5) Where a person is convicted of an offence against section 77, the court may, instead of, or in addition to, imposing a fine, cancel or revoke the right of access or impose additional conditions on the right where it considers it is appropriate to do so in the circumstances.
 (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act shall be deemed to be a continuing offence.
@@ -1642,10 +1642,10 @@ In sections 101B and 101C,—
   (a) the person is the master of a ship that, without reasonable excuse, enters a specified non-interference zone for a permitted prospecting, exploration, or mining activity; or
   (b) the person leaves a ship and, without reasonable excuse, enters a specified non-interference zone for a permitted prospecting, exploration, or mining activity.
 (3) In prosecuting an offence against subsection (2), it is not necessary for the prosecution to prove that the person intended to commit the offence.
-(4) A person who commits an offence against subsection (1) is liable on summary conviction,—
+(4) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
-(5) A person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $10,000.
+(5) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $10,000.
 (6) For the purposes of subsection (2), the chief executive may specify a non-interference zone by notice published in a fortnightly edition of the New Zealand Notices to Mariners (under Part 25 of the Maritime Rules).
 (7) A notice must specify—
   (a) the permitted prospecting, mining, or exploration activity to which the non-interference zone relates; and
