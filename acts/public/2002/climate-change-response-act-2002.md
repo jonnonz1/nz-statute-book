@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -4585,7 +4585,7 @@ The EPA may appoint 1 or more enforcement officers under section 93 to exercise 
 
 ### 259 Offence in relation to failure to collect data and keep records
 (1) A person who is an importer commits an offence against this Act if the person, without reasonable excuse, fails to comply with section 248(1) (requirement to collect data or other information and keep records).
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
   (b) the second time the person is convicted of that offence, to a fine not exceeding $16,000:
   (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000.
@@ -4594,7 +4594,7 @@ The EPA may appoint 1 or more enforcement officers under section 93 to exercise 
 (1) A person commits an offence against this Act if the person, without reasonable excuse,—
   (a) fails to provide information to the EPA or an enforcement officer when required to do so under section 253; or
   (b) fails to appear before the EPA or an enforcement officer, or fails to produce any document or documents, when required to do so under section 254.
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $12,000:
   (b) in the case of a body corporate, to a fine not exceeding $24,000.
 
@@ -4608,12 +4608,12 @@ The EPA may appoint 1 or more enforcement officers under section 93 to exercise 
     (i) the EPA or an enforcement officer exercising a power conferred on that person under this Part; or
     (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the Customs and Excise Act 1996 in relation to the goods levy; or
     (iii) the Registrar of Motor Vehicles in relation to a power conferred on him or her under the Land Transport Act 1998 in relation to the motor vehicle levy.
-(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
 ### 262 Offence for breach of confidentiality
-A person who knowingly contravenes section 256 commits an offence and is liable on summary conviction to either or both of—
+A person who knowingly contravenes section 256 commits an offence and is liable on conviction to either or both of—
   (a) imprisonment for a term not exceeding 6 months:
   (b) a fine not exceeding $15,000.
 
@@ -4625,7 +4625,7 @@ A person who knowingly contravenes section 256 commits an offence and is liable 
     (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the Customs and Excise Act 1996 in relation to the goods levy; or
     (iii) the Registrar of Motor Vehicles when required to do so under the Land Transport Act 1998 in relation to the motor vehicle levy; or
   (c) provides altered, false, incomplete, or misleading information to the Minister or the EPA or any other person in respect of a matter in this Part.
-(2) Every person who is convicted of an offence against subsection (1) is liable on conviction on indictment to either or both of—
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction to either or both of—
   (a) imprisonment for a term not exceeding 5 years:
   (b) a fine not exceeding $50,000.
 
@@ -4634,7 +4634,7 @@ A person who knowingly contravenes section 256 commits an offence and is liable 
 ### 264 Offence in relation to release of synthetic greenhouse gases
 (1) A person commits an offence against this Act if the person, in the course of undertaking an activity described in subsection (2), knowingly and without lawful justification or excuse releases any hydrofluorocarbon, perfluorocarbon, or sulphur hexafluoride into the atmosphere.
 (2) The activities are installing, operating, servicing, modifying, dismantling, or disposing of any electrical switchgear, refrigeration or air-conditioning equipment, or other heat-transfer medium.
-(3) A person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+(3) A person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -4644,9 +4644,9 @@ The circumstances in which a person described in section 264(1) may have a lawfu
 **Proceedings and liability**
 
 ### 266 Limitation period for commencement of proceedings
-Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against—
-  (a) section 260 or 261(1)(a), (b), or (e) may be laid at any time within 2 years from the time when the matter of the information arose:
-  (b) section 259 or 261(1)(c) or (d) may be commenced at any time within 7 years from the time when the matter of the information arose.
+Despite section 25 of the Criminal Procedure Act 2011, the limitation period for an offence against—
+  (a) section 260 or 261(1)(a), (b), or (e) ends on the date that is 2 years from the date on which the offence was committed:
+  (b) section 259 or 261(1)(c) or (d) ends on the date that is 7 years from the date on which the offence was committed.
 
 ### 267 Evidence in proceedings
 (1) In any proceedings for an offence against this Part, a certificate or document (including an electronic copy) of any of the kinds described in subsection (2)—
