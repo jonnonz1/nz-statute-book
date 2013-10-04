@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-10-04_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -2895,7 +2895,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
   (e) give such directions as it thinks fit for the conduct of the business of the incorporation:
   (f) suspend for such period as the court thinks fit all or any of the provisions of the constitution of the incorporation:
   (g) order the winding up of the incorporation:
-  (h) refer any matter to the Attorney-General to consider whether any information should be laid or any prosecution commenced against any person or persons.
+  (h) refer any matter to the Attorney-General to consider whether any charging document should be filed or any prosecution commenced against any person or persons.
 (8) The court may, before appointing an examining officer in respect of a Maori incorporation, require security for the cost of the examination, to be given by the applicant; and may, on completion of the investigation or at any stage of it, make such order as it thinks fit for the payment, by the incorporation or by a shareholder or any other person, of a reasonable sum to defray the costs of the examination and of any inquiry before the court.
 (9) The court may, in respect of any vacancies in the membership of a committee of management of a Maori incorporation created by the exercise of its powers under subsection (7)(a),—
   (a) order an election to fill the vacancies; or
