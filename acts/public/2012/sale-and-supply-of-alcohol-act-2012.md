@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2012-12-18_
+_Consolidation as at 2013-10-04_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1833,11 +1833,11 @@ Where any person has neglected or omitted to do any act or thing in the precise 
 ### 209 Licensing committee may state case for opinion of licensing authority
 (1) A licensing committee may state a case for the opinion of the licensing authority on any question of law arising in any proceedings before it.
 (2) The licensing authority may order the removal into the High Court of any case stated under this section; and on removal the High Court has the same power to adjudicate on the proceedings as the licensing authority had.
-(3) The provisions of section 78 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, apply to any case stated under this section as if the reference in subsection (3) of that section to either party were a reference to any party to the proceedings before the licensing authority.
+(3) The provisions of subpart 8 of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
 
 ### 210 Licensing authority may state case for opinion of High Court
 (1) The licensing authority may state a case for the opinion of the High Court on any question of law arising in any proceedings before it.
-(2) The provisions of section 78 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, apply to any case stated under this section as if the reference in subsection (3) of that section to either party were a reference to any party to the proceedings before the licensing authority.
+(2) The provisions of subpart 8 of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
 
 ### 211 Decisions to be given in writing
 (1) The licensing authority and every licensing committee must give its decision on an application in writing, and must state in it—
@@ -2319,7 +2319,7 @@ In sections 261 to 264,—
 
 ### 261 Commission of infringement offences
 (1) A person who is alleged to have committed an infringement offence (other than an offence against section 259) may either—
-  (a) be proceeded against for the alleged offence by the laying of an information under the Summary Proceedings Act 1957; or
+  (a) be proceeded against for the alleged offence by the filing of a charging document under the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 262.
 (2) A person who is alleged to have committed an offence against section 259 may be served with an infringement notice as provided for in section 262.
 
@@ -2460,7 +2460,7 @@ A District Court presided over by 1 or more Community Magistrates has jurisdicti
   (b) if not collected within that time, may be disposed of in any manner the Commissioner of Police directs.
 
 ### 278 Notice of prosecution or conviction of managers and licensees
-(1) Any person who lays an information for an offence against this Act against a manager of any licensed premises must send a copy of the information to the licensee.
+(1) Any person who files a charging document for an offence against this Act against a manager of any licensed premises must send a copy of the charging document to the licensee.
 (2) On the conviction of a manager of any licensed premises of an offence against this Act, the Registrar of the court by which the conviction is entered must send a notice of the conviction, together with any recommendation made by the court in respect of the manager's certificate, to—
   (a) the licensee; and
   (b) the secretary of the licensing authority.
@@ -3611,7 +3611,7 @@ Before recommending the making of regulations under section 397(1)(b) or (c), th
 (2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 1996, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
 (3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
   (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)(a) or (b) (as the case requires):
-  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on summary conviction, be imposed in respect of any such offence.
+  (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
 (4) A person commits an offence who—
   (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)(a) or (b) (as the case requires); or
   (b) fails to comply with subsection (2).
