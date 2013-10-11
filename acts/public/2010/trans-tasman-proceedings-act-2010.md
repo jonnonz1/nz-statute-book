@@ -1,5 +1,5 @@
 # Trans-Tasman Proceedings Act 2010
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-11_
 
 ### 1 Title
 This Act is the Trans-Tasman Proceedings Act 2010.
