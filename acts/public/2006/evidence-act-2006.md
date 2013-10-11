@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-11_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -42,7 +42,7 @@ This Act binds the Crown.
     (b) a Youth Court
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, and includes—
-      (i) a label, marking, or other writing which identifies or describes a thing of which it forms part, or to which it is attached:
+      (i) a label, marking, or other writing that identifies or describes a thing of which it forms part, or to which it is attached:
       (ii) a book, map, plan, graph, or drawing:
       (iii) a photograph, film, or negative; and
     (b) information electronically recorded or stored, and information derived from that information
@@ -104,7 +104,7 @@ This Act binds the Crown.
     (b) an account (whether oral or in writing) of an assertion of the kind described in paragraph (a)
   - **voice identification evidence** means evidence that is an assertion by a person to the effect that a voice, whether heard first-hand or through mechanical or electronic transmission or recording, is the voice of a defendant or any other person who was connected with an act constituting direct or circumstantial evidence of the commission of an offence
   - **witness** means a person who gives evidence and is able to be cross-examined in a proceeding.
-(2) A hearing commences for the purposes of this Act when at the substantive hearing of the issues that are the subject of proceedings the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
+(2) A hearing commences for the purposes of this Act when, at the substantive hearing of the issues that are the subject of proceedings, the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
 
 ### 5 Application
 (1) If there is an inconsistency between the provisions of this Act and any other enactment, the provisions of that other enactment prevail, unless this Act provides otherwise.
@@ -172,7 +172,7 @@ Nothing in this Act affects the rules of the common law relating to—
 If a question arises concerning the relevance of a document, the Judge may examine it and draw any reasonable inference from it, including an inference as to its authenticity and identity.
 
 ### 14 Provisional admission of evidence
-If a question arises concerning the admissibility of any evidence, the Judge may admit that evidence subject to evidence being later offered which establishes its admissibility.
+If a question arises concerning the admissibility of any evidence, the Judge may admit that evidence subject to evidence being later offered that establishes its admissibility.
 
 ### 15 Evidence given to establish admissibility
 Evidence given by a witness to prove the facts necessary for deciding whether some other evidence should be admitted in a proceeding—
@@ -247,10 +247,10 @@ A hearsay statement is not admissible except—
   (a) the party’s intention to offer the hearsay statement in evidence; and
   (b) the name of the maker of the statement, if known (subject to the terms of any witness anonymity order); and
   (c) if the hearsay statement was made orally, the contents of the hearsay statement; and
-  (d) if section 18(1)(a) is relied on, the circumstances relating to the statement that provide reasonable assurance that the statement is reliable; and
+  (d) if section 18(1)﻿(a) is relied on, the circumstances relating to the statement that provide reasonable assurance that the statement is reliable; and
   (e) if section 19 is relied on, why the document is a business record; and
-  (f) if section 18(1)(b)(i) or 19(1)(a) is relied on, why the person is unavailable as a witness; and
-  (g) if section 18(1)(b)(ii) or 19(1)(c) is relied on, why undue expense or delay would be caused if the person were required to be a witness.
+  (f) if section 18(1)﻿(b)﻿(i) or 19(1)﻿(a) is relied on, why the person is unavailable as a witness; and
+  (g) if section 18(1)﻿(b)﻿(ii) or 19(1)﻿(c) is relied on, why undue expense or delay would be caused if the person were required to be a witness.
 (3) If the hearsay statement was made in writing, the notice must be accompanied by a copy of the document in which the statement is contained.
 (4) The requirements of subsections (2) and (3) must be complied with in sufficient time before the hearing to provide all other parties to the proceeding with a fair opportunity to respond to the statement.
 (5) The Judge may dispense with the requirements of subsections (2), (3), and (4) if,—
@@ -329,7 +329,7 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
   (c) the nature and quality of the improperly obtained evidence:
   (d) the seriousness of the offence with which the defendant is charged:
   (e) whether there were any other investigatory techniques not involving any breach of the rights that were known to be available but were not used:
-  (f) whether there are alternative remedies to exclusion of the evidence which can adequately provide redress to the defendant:
+  (f) whether there are alternative remedies to exclusion of the evidence that can adequately provide redress to the defendant:
   (g) whether the impropriety was necessary to avoid apprehended physical danger to the Police or others:
   (h) whether there was any urgency in obtaining the improperly obtained evidence.
 (4) The Judge must exclude any improperly obtained evidence if, in accordance with subsection (2), the Judge determines that its exclusion is proportionate to the impropriety.
@@ -337,7 +337,7 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
   (a) in consequence of a breach of any enactment or rule of law by a person to whom section 3 of the New Zealand Bill of Rights Act 1990 applies; or
   (b) in consequence of a statement made by a defendant that is or would be inadmissible if it were offered in evidence by the prosecution; or
   (c) unfairly.
-(6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a member of the Police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
+(6) Without limiting subsection (5)﻿(c), in deciding whether a statement obtained by a member of the Police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
 
 ### 31 Prosecution may not rely on certain evidence offered by other parties
 Evidence that is liable to be excluded if offered by the prosecution in a criminal proceeding because of section 28 or 29 or 30 may not be relied on by the prosecution if that evidence is offered by any other party.
@@ -404,7 +404,7 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 (2) The prosecution in a criminal proceeding may offer evidence about a defendant’s veracity only if—
   (a) the defendant has offered evidence about his or her veracity or has challenged the veracity of a prosecution witness by reference to matters other than the facts in issue; and
   (b) the Judge permits the prosecution to do so.
-(3) In determining whether to give permission under subsection (2)(b), the Judge may take into account any of the following matters:
+(3) In determining whether to give permission under subsection (2)﻿(b), the Judge may take into account any of the following matters:
   (a) the extent to which the defendant’s veracity or the veracity of a prosecution witness has been put in issue in the defendant’s evidence:
   (b) the time that has elapsed since any conviction about which the prosecution seeks to give evidence:
   (c) whether any evidence given by the defendant about veracity was elicited by the prosecution.
@@ -454,12 +454,12 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 (1) The prosecution may offer propensity evidence about a defendant in a criminal proceeding only if the evidence has a probative value in relation to an issue in dispute in the proceeding which outweighs the risk that the evidence may have an unfairly prejudicial effect on the defendant.
 (2) When assessing the probative value of propensity evidence, the Judge must take into account the nature of the issue in dispute.
 (3) When assessing the probative value of propensity evidence, the Judge may consider, among other matters, the following:
-  (a) the frequency with which the acts, omissions, events, or circumstances which are the subject of the evidence have occurred:
-  (b) the connection in time between the acts, omissions, events, or circumstances which are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried:
-  (c) the extent of the similarity between the acts, omissions, events, or circumstances which are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried:
+  (a) the frequency with which the acts, omissions, events, or circumstances that are the subject of the evidence have occurred:
+  (b) the connection in time between the acts, omissions, events, or circumstances that are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried:
+  (c) the extent of the similarity between the acts, omissions, events, or circumstances that are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried:
   (d) the number of persons making allegations against the defendant that are the same as, or are similar to, the subject of the offence for which the defendant is being tried:
   (e) whether the allegations described in paragraph (d) may be the result of collusion or suggestibility:
-  (f) the extent to which the acts, omissions, events, or circumstances which are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried are unusual.
+  (f) the extent to which the acts, omissions, events, or circumstances that are the subject of the evidence and the acts, omissions, events, or circumstances which constitute the offence for which the defendant is being tried are unusual.
 (4) When assessing the prejudicial effect of evidence on the defendant, the Judge must consider, among any other matters,—
   (a) whether the evidence is likely to unfairly predispose the fact-finder against the defendant; and
   (b) whether the fact-finder will tend to give disproportionate weight in reaching a verdict to evidence of other acts or omissions.
@@ -569,7 +569,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (c) on the application of an interested person other than the person who has the privilege.
 (2) A Judge may give a direction under section 69 (confidential information) or section 70 (matters of State) on the Judge’s own initiative or on the application of an interested person.
 (3) An application under subsection (1) or (2) may be made at any time either before or after any relevant proceeding is commenced.
-(4) A Judge may give any directions that are necessary to protect the confidentiality of, or limit the use which may be made of,—
+(4) A Judge may give any directions that are necessary to protect the confidentiality of, or limit the use that may be made of,—
   (a) any privileged communication, information, opinion, or document that is disclosed to a Judge or other body or person in compliance with a judicial or administrative order; or
   (b) any communication or information that is the subject of a direction under section 69 (confidential information) or section 70 (matters of State) but is disclosed to a Judge or other body or person in compliance with a judicial or administrative order.
 
@@ -602,7 +602,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (e) geographical indications:
   (f) patents, plant varieties, registered designs, registered and unregistered trade marks, service marks, commercial names and designations, and industrial designs:
   (g) protection against unfair competition:
-  (h) circuit layouts and semi-conductor chip products:
+  (h) circuit layouts and semiconductor chip products:
   (i) confidential information:
   (j) all other rights resulting from intellectual activity in the industrial, scientific, literary, or artistic fields.
 
@@ -653,10 +653,10 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (2) A person has a privilege in a criminal proceeding in respect of any communication made by the person to a medical practitioner or clinical psychologist that the person believes is necessary to enable the medical practitioner or clinical psychologist to examine, treat, or care for the person for drug dependency or any other condition or behaviour that may manifest itself in criminal conduct.
 (3) A person has a privilege in a criminal proceeding in respect of information obtained by a medical practitioner or clinical psychologist as a result of consulting with or examining the person to enable the medical practitioner or clinical psychologist to examine, treat, or care for the person for drug dependency or any other condition or behaviour that may manifest itself in criminal conduct.
 (4) A person has a privilege in a criminal proceeding in respect of information consisting of a prescription, or notes of a prescription, for treatment prescribed by a medical practitioner or clinical psychologist as a result of consulting with or examining the person to enable the medical practitioner or clinical psychologist to treat or care for the person for drug dependency or any other condition or behaviour that may manifest itself in criminal conduct.
-(5) A reference in this section to a communication to or information obtained by a medical practitioner or a clinical psychologist is to be taken to include a reference to a communication to or information obtained by a person acting in a professional capacity on behalf of a medical practitioner or clinical psychologist in the course of the examination or treatment of, or care for, the person by that medical practitioner or clinical psychologist.
+(5) A reference in this section to a communication to, or information obtained by, a medical practitioner or a clinical psychologist is to be taken to include a reference to a communication to, or information obtained by, a person acting in a professional capacity on behalf of a medical practitioner or clinical psychologist in the course of the examination or treatment of, or care for, the person by that medical practitioner or clinical psychologist.
 (6) In this section,—
   - **clinical psychologist** means a health practitioner—
-    (a) who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
+    (a) who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
     (b) who is by his or her scope of practice permitted to diagnose and treat persons suffering from mental and emotional problems
   - **drug dependency** means the state of periodic or chronic intoxication produced by the repeated consumption, smoking, or other use of a controlled drug (as defined in section 2(1) of the Misuse of Drugs Act 1975) detrimental to the user, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug.
 
@@ -782,7 +782,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (1) A Judge may direct that a communication or information that relates to matters of State must not be disclosed in a proceeding if the Judge considers that the public interest in the communication or information being disclosed in the proceeding is outweighed by the public interest in withholding the communication or information.
 (2) A communication or information that relates to matters of State includes a communication or information—
   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in sections 6 and 7 of the Official Information Act 1982; or
-  (b) that is official information as defined in section 2(1) of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in section 9(2)(b) to (k) of that Act.
+  (b) that is official information as defined in section 2(1) of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in section 9(2)﻿(b) to (k) of that Act.
 (3) A Judge may give a direction under this section that a communication or information not be disclosed whether or not the communication or information is privileged by another provision of this subpart or would, except for a limitation or restriction imposed by this subpart, be privileged.
 
 ## Part 3 — Trial process
@@ -851,7 +851,7 @@ None of the following persons is compellable to give evidence:
 (4) Despite subsections (1) and (2), a witness—
   (a) to whom either of those subsections applies may give evidence without taking an oath, or making an affirmation, or making a promise to tell the truth, with the permission of the Judge; and
   (b) if the Judge gives permission under paragraph (a), must be informed by the Judge of the importance of telling the truth and not telling lies, before the witness gives evidence; and
-  (c) after being given the information referred to in paragraph (b), may give evidence which must be treated in the same manner as if that evidence had been given on oath.
+  (c) after being given the information referred to in paragraph (b), may give evidence that must be treated in the same manner as if that evidence had been given on oath.
 
 ### 78 Interpreters to act on oath or affirmation
 A person must either take an oath or make an affirmation before acting as an interpreter in a proceeding.
@@ -906,7 +906,7 @@ A person must either take an oath or make an affirmation before acting as an int
   (c) in a civil proceeding, in an affidavit filed in the court or by reading a written statement in a courtroom, if—
     (i) rules of court permit or require the giving of evidence in this form; or
     (ii) both parties consent to the giving of evidence in this form.
-(2) An affidavit or a written statement referred to in subsection (1)(b) or (c) may be given in evidence only if it—
+(2) An affidavit or a written statement referred to in subsection (1)﻿(b) or (c) may be given in evidence only if it—
   (a) is the personal statement of the deponent or maker; and
   (b) does not contain a statement that is otherwise inadmissible under this Act.
 
@@ -1056,7 +1056,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
   (b) the Judge must determine—
     (i) whether and how the question should be put to the witness; and
     (ii) if the question is to be put to the witness, whether the parties may question the witness about matters raised by the question.
-(2) If a question from the jury is put to a witness, then, subject to any determination made by the Judge under subsection (1)(b)(ii),—
+(2) If a question from the jury is put to a witness, then, subject to any determination made by the Judge under subsection (1)﻿(b)﻿(ii),—
   (a) every party, other than the party who called the witness, may cross-examine the witness on any matter raised by the jury’s question; and
   (b) the party who called the witness may re-examine the witness.
 
@@ -1116,7 +1116,7 @@ If an application for directions is made under section 103, before giving any di
 (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under section 103, despite a failure to observe strictly all of those terms.
 
 ### 106 Video record evidence
-(1) Without limiting section 105(1)(a)(iii), in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the Criminal Procedure Act 2011 or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
+(1) Without limiting section 105(1)﻿(a)﻿(iii), in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the Criminal Procedure Act 2011 or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
 (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
 (3) A video record that is to be offered as an alternative way of giving evidence in a proceeding must be offered for viewing by all parties or their lawyers before it is offered in evidence, unless the Judge directs otherwise.
 (4) A copy of any video record that is to be offered as an alternative method of giving evidence in a proceeding—
@@ -1170,11 +1170,11 @@ If an application for directions is made under section 103, before giving any di
   (c) except if leave is given under paragraph (d), no lawyer, officer of the court, or other person involved in the proceeding may state in court the true name or the address of the witness, or give any particulars likely to lead to the discovery of that name or address:
   (d) no evidence may be given, and no question may be put to the witness, or to any other witness, relating directly or indirectly to the true name or the address of the witness, except by leave of the Judge:
   (e) on an application for leave under paragraph (d), the certificate is, in the absence of evidence to the contrary, sufficient evidence of the particulars stated in it.
-(2) The Judge may not grant leave under subsection (1)(d) unless the Judge is satisfied—
+(2) The Judge may not grant leave under subsection (1)﻿(d) unless the Judge is satisfied—
   (a) that there is some evidence before the Judge that, if believed by the jury, could call into question the credibility of the witness; and
   (b) that it is necessary in the interests of justice that the defendant be enabled to test properly the credibility of the witness; and
   (c) that it would be impracticable for the defendant to test properly the credibility of the witness if the defendant were not informed of the true name or the true address of the witness.
-(3) An application for leave under subsection (1)(d)—
+(3) An application for leave under subsection (1)﻿(d)—
   (a) may be made from time to time and at any stage of the proceeding; and
   (b) must, where practicable, be made and dealt with in chambers; and
   (c) if the application is made during the trial before a jury, must be dealt with and determined by the Judge in the absence of the jury.
@@ -1200,10 +1200,10 @@ If an application for directions is made under section 103, before giving any di
   (d) the importance of the witness’s evidence to the case of the party who wishes to call the witness; and
   (e) whether it is practical for the witness to be protected prior to the trial by any other means; and
   (f) whether there is other evidence that corroborates the witness’s evidence.
-(6) A pre-trial witness anonymity order may be made by—
-  (a) a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct jury trials:
-  (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in section 274(2)(a) of the Children, Young Persons, and Their Families Act 1989:
-  (c) a High Court Judge.
+(6) A pre-trial witness anonymity order may be made—
+  (a) by a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct jury trials:
+  (b) if the preliminary hearing is held in a Youth Court, by a Judge referred to in section 274(2)﻿(a) of the Children, Young Persons, and Their Families Act 1989:
+  (c) by a High Court Judge.
 
 ### 111 Effect of pre-trial witness anonymity order
 If a pre-trial witness anonymity order is made under section 110,—
@@ -1254,7 +1254,7 @@ If a witness anonymity order is made under section 112,—
 
 ### 115 Judge may appoint independent counsel to assist
 (1) For the purposes of considering an application for a witness anonymity order under section 112, the Judge may appoint an independent counsel to assist the Judge and, without limiting the directions the Judge may give, the Judge may direct the independent counsel to—
-  (a) inquire into the matters referred to in section 112(4)(a) and (b) and any other matters the Judge thinks relevant; and
+  (a) inquire into the matters referred to in section 112(4)﻿(a) and (b) and any other matters the Judge thinks relevant; and
   (b) report the counsel’s findings to the Judge.
 (2) The party who applied for the witness anonymity order must make available to the independent counsel all information relating to the proceeding that is in the party’s possession.
 (3) Fees for professional services provided by counsel appointed under this section, and reasonable expenses incurred,—
@@ -1421,7 +1421,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
   (a) notice is given to all other parties in sufficient time before the hearing to provide those other parties with a fair opportunity to scrutinise the translation; and
   (b) all other requirements prescribed in regulations made under section 201 concerning that document are satisfied.
 (2) The translation is presumed to be an accurate translation, in the absence of evidence to the contrary.
-(3) A party, if notice is given to all other parties in sufficient time before the hearing to provide those other parties with a fair opportunity to scrutinise the transcript and all other prescribed requirements referred to in subsection (1)(b) are satisfied, may offer a document that purports to be a transcript of information or other matter that is recorded—
+(3) A party, if notice is given to all other parties in sufficient time before the hearing to provide those other parties with a fair opportunity to scrutinise the transcript and all other prescribed requirements referred to in subsection (1)﻿(b) are satisfied, may offer a document that purports to be a transcript of information or other matter that is recorded—
   (a) in a code (including shorthand writing or programming code); or
   (b) in a way that is capable of being reproduced as sound or script.
 (4) A party who offers a transcript of information or other matter in a sound recording under subsection (3) must play all or part of the sound recording in court during the hearing if—
@@ -1588,18 +1588,32 @@ A copy of, or an extract from, an Australian document that is, by reason of its 
 
 ### 150 Interpretation
 In this subpart, unless the context otherwise requires,—
+  - **audio link** means facilities (for example, telephone facilities) that enable audio communication between people in different places
+  - **audiovisual link** means facilities that enable audio and visual communication between people in different places
   - **Australian court** includes a tribunal declared by the Minister of Justice under section 152 to be an Australian court
   - **Australian subpoena** means a subpoena issued by an Australian court in a proceeding other than a specified proceeding
   - **document** has the meaning given to it by section 4
-  - **expenses** , in relation to a subpoena, includes the reasonable costs, necessary for the purposes of complying with the subpoena, of—necessary for the purposes of complying with the subpoena
+  - **examination** of a person giving evidence means the examination-in-chief, cross-examination, or re-examination of the person
+  - **expenses** , in relation to a subpoena, includes the reasonable costs, necessary for the purposes of complying with the subpoena, of—
     (a) travel to and from, and accommodation at, the place at which compliance with the subpoena is required; and
-    (b) finding, collating, and producing a document or thing—
+    (b) finding, collating, and producing a document or thing
   - **Federal Court** means the Federal Court of Australia
   - **High Court** means the High Court of New Zealand
   - **Judge** , in relation to an Australian court, includes a Judicial Registrar, Magistrate, Master, and a member of a tribunal
   - **New Zealand court** includes a tribunal declared by the Minister of Justice under section 152 to be a New Zealand court
   - **New Zealand subpoena** means a subpoena issued by a New Zealand court in a proceeding other than a specified proceeding
   - **prescribed** means prescribed by rules or regulations made under section 199 or 200
+  - **relevant court** , in relation to leave to serve a New Zealand subpoena on a witness in Australia, or an application under section 154 for leave of that kind, means—
+    (a) a District Court, if the New Zealand subpoena is issued by a tribunal declared by the Minister of Justice under section 152 to be a New Zealand court; and
+    (b) the New Zealand court that issued the subpoena, in every other case
+  - **remote appearance medium** means—
+    (a) an audio link; or
+    (b) an audiovisual link
+  - **remote evidence** means evidence given or to be given under section 168 or 173
+  - **submissions** does not include submissions that are not—
+    (a) submissions on whether, and if so in what way or ways, remote evidence may or must be given; or
+    (b) submissions on whether remote evidence is admitted or admissible; or
+    (c) other submissions in relation to remote evidence
   - **subpoena** —
     (a) means a process that requires a person to do 1 or both of the following:
       (i) give evidence; or
@@ -1612,9 +1626,9 @@ In this subpart, unless the context otherwise requires,—
 
 ### 151 Meaning of specified proceeding
 In this subpart, specified proceeding means a proceeding—
-  (a) in respect of which a person is seeking an order under the Convention on the Civil Aspects of International Child Abduction signed at the Hague on 25 October 1980; or
-  (b) relating to the status or property of a person under a disability; or
-  (c) that is a criminal proceeding.
+  (a) in respect of which a person is seeking an order under the Convention on the Civil Aspects of International Child Abduction signed at The Hague on 25 October 1980; or
+  (b) relating to the guardianship or care of a person who is incapable of managing his or her personal affairs; or
+  (c) relating to the management of the property of a person who is incapable of managing that property.
 
 ### 152 Power of Minister of Justice in relation to certain tribunals
 For the purposes of this subpart, the Minister of Justice may, by notice in the Gazette, declare—
@@ -1624,10 +1638,16 @@ For the purposes of this subpart, the Minister of Justice may, by notice in the 
 ### 153 Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia
 Nothing in this subpart applies in relation to any proceedings to which Part 1A of the Judicature Act 1908 applies.
 
+### 153A Courts (Remote Participation) Act 2010 does not apply to remote appearances under this subpart
+Nothing in the Courts (Remote Participation) Act 2010 applies to the giving or taking of evidence, examination of a person giving evidence, or making or receipt of examination or submissions, by audio link or audiovisual link in accordance with sections 168 to 172 or 173 to 180.
+
+### 153B Mutual Assistance in Criminal Matters Act 1992 operates in parallel with this subpart
+This subpart is not subject to, and does not override, the Mutual Assistance in Criminal Matters Act 1992.
+
 **Service of and compliance with New Zealand subpoenas in Australia**
 
 ### 154 Service of New Zealand subpoenas in Australia
-(1) A New Zealand subpoena may, with the leave of a Judge of the High Court, be served on a witness in Australia.
+(1) A New Zealand subpoena may, with the leave of a Judge of the relevant court, be served on a witness in Australia.
 (2) In determining whether to grant leave the Judge must, in addition to any other matter that the Judge considers relevant, have regard to—
   (a) the significance of the oral evidence to be given, or the document or thing to be produced, or both; and
   (b) whether the oral evidence to be given, the document or thing to be produced, or both could be obtained without significantly greater expense by other means and with less inconvenience to the witness.
@@ -1668,26 +1688,26 @@ A New Zealand subpoena served on a witness in Australia may require the witness 
 (2) For the purposes of subsection (1), registry, in relation to an Australian court, means a registry of an Australian court authorised by a law of the Commonwealth of Australia to receive such documents or things.
 
 ### 160 Setting aside of subpoena served in Australia
-(1) A witness on whom a New Zealand subpoena is served in Australia may apply to the High Court to set the subpoena aside.
-(2) The High Court must set the subpoena aside if—
-  (a) the subpoena requires the witness to attend at a sitting of a New Zealand court and the High Court is satisfied that—
+(1) A witness on whom a New Zealand subpoena is served in Australia may apply to the relevant court to set the subpoena aside.
+(2) The relevant court must set the subpoena aside if—
+  (a) the subpoena requires the witness to attend at a sitting of a New Zealand court and the relevant court is satisfied that—
     (i) the witness does not have, and cannot by the exercise of reasonable diligence within the time required for compliance obtain, the necessary travel documents; or
     (ii) the witness is liable to be detained in New Zealand for the purpose of serving a sentence; or
     (iii) the witness is liable to prosecution for an offence, or is being prosecuted for an offence, in New Zealand; or
     (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the Commerce Act 1986; or
   (b) the witness is subject to a restriction on his or her movements, imposed by law or by order of a court, that would prevent the witness complying with the subpoena.
-(3) Without limiting subsection (1), the High Court may set the subpoena aside if it is satisfied that—
+(3) Without limiting subsection (1), the relevant court may set the subpoena aside if it is satisfied that—
   (a) the evidence of the witness could be obtained satisfactorily without significantly greater expense by other means; or
   (b) compliance with the subpoena would cause hardship or serious inconvenience to the witness; or
   (c) in the case of a subpoena that requires a witness to produce documents or things, whether or not it also requires the witness to give oral evidence,—
     (i) the documents or things should not be taken out of Australia; and
     (ii) satisfactory evidence of the contents of the documents or evidence of the things can be given by other means.
-(4) An application to set aside a subpoena under subsection (1) must be filed in the office of the High Court in which leave to serve the subpoena was given, together with any affidavit setting out facts on which the applicant relies.
-(5) The Registrar of the High Court in which the application is filed must ensure that a copy of the application and any affidavit setting out facts on which the applicant relies is served on the solicitor on the record for the person who obtained leave to serve the subpoena, or if there is no solicitor on the record, on that person.
+(4) An application to set aside a subpoena under subsection (1) must be filed in the office of the relevant court in which leave to serve the subpoena was given, together with any affidavit setting out facts on which the applicant relies.
+(5) The Registrar of the relevant court in which the application is filed must ensure that a copy of the application and any affidavit setting out facts on which the applicant relies is served on the solicitor on the record for the person who obtained leave to serve the subpoena, or if there is no solicitor on the record, on that person.
 
 ### 161 Failure to comply with subpoena
 If a witness fails to comply with a New Zealand subpoena served in Australia, the court which issued the subpoena may, on the application of a party to the proceedings in which the subpoena was obtained, or of its own motion, give a certificate in the prescribed form stating that—
-  (a) a Judge of the High Court has given leave to serve the subpoena issued by the court giving the certificate; and
+  (a) a Judge of the relevant court has given leave to serve the subpoena issued by the court giving the certificate; and
   (b) the witness failed to comply with the subpoena.
 
 ### 162 Other powers not affected
@@ -1698,97 +1718,113 @@ Nothing in sections 154 to 161 limits or affects any other powers of a New Zeala
 ### 163 Service of Australian subpoenas in New Zealand
 (1) An Australian subpoena may be served on a witness in New Zealand.
 (2) The subpoena must be accompanied by—
-  (a) a copy of the order of the Judge of the Federal Court, or of the order of the Judge of the Family Court of Australia, or the order of the Judge of a Supreme Court of a State or a territory of Australia, as the case may be, by whom leave was granted to serve the subpoena in New Zealand; and
+  (a) a copy of the order of the Judge of the court of judicature within Australia by whom leave was granted to serve the subpoena in New Zealand; and
   (b) a statement setting out the rights and obligations of the witness, including information about the way in which an application may be made to the appropriate Australian court to have the subpoena set aside.
 
 ### 164 Compliance with Australian subpoena
 (1) A witness served with an Australian subpoena must comply with the subpoena.
-(2) Despite subsection (1) a witness served with an Australian subpoena is not required to comply with the subpoena if—
+(2) Despite subsection (1), a witness served with an Australian subpoena is not required to comply with the subpoena if—
   (a) the subpoena is not served on the witness in accordance with section 163 and the law and rules that apply to the issue and service of the subpoena in the Australian court that issued it; or
   (b) allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness’s reasonable expenses of complying with the subpoena are not given or paid to the witness at the appropriate time; or
   (c) the witness is under the age of 18 years.
-(3) In this section the appropriate time means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
+(3) In this section, the appropriate time means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
 
 ### 165 Failure of witness to comply with Australian subpoena
 (1) The High Court may, on receiving from the Australian court which issued the Australian subpoena a certificate stating that the witness has failed to comply with the subpoena, issue a warrant requiring any member of the Police to arrest the witness and to bring him or her before the High Court.
 (2) The High Court may, on the appearance of the witness before the court, impose a fine not exceeding $10,000 unless the court is satisfied that the failure to comply with the subpoena should be excused.
 (3) In determining whether the failure to comply with the subpoena should be excused, the High Court may have regard to—
-  (a) any matters that were not brought to the attention of the Australian court which granted leave to serve the subpoena, if the High Court is satisfied that—
+  (a) any matters that were not brought to the attention of the Australian court that granted leave to serve the subpoena, if the High Court is satisfied that—
     (i) the Australian court would have been likely to have set aside the subpoena if those matters had been brought to the attention of that court; and
     (ii) the failure to bring those matters to the attention of the Australian court was not due to any fault on the part of the witness or was due to an omission of the witness that should be excused; and
   (b) any matters to which the High Court would have regard if the subpoena had been issued by the High Court.
 (4) For the purposes of this section, a certificate under the seal of an Australian court stating—is sufficient evidence of the matters stated in it unless the witness establishes to the satisfaction of the High Court that the witness did in fact comply with the subpoena.
-  (a) that leave to serve the subpoena was granted by a Judge of the Federal Court or a Judge of the Family Court of Australia or a Judge of a Supreme Court of an Australian State or a territory; and
+  (a) that leave to serve the subpoena was granted by a Judge of a court of judicature within Australia; and
   (b) that the witness failed to comply with the subpoena—
-(5) Without limiting subsection (3), no finding of fact made by the Federal Court or by the Family Court of Australia or by a Supreme Court of an Australian State or a territory on an application to have the subpoena set aside may be challenged by any person alleged to have failed to comply with the subpoena unless the court was deliberately misled in making those findings of fact.
+(5) Without limiting subsection (3), no finding of fact made by the court of judicature within Australia referred to in subsection (4)﻿(a) on an application to have the subpoena set aside may be challenged by any person alleged to have failed to comply with the subpoena unless the court was deliberately misled in making those findings of fact.
 
 ### 166 Transmission of documents or things to Australian court
 (1) The Registrar holding office at the registry of the High Court at which a document or thing is produced in compliance with an Australian subpoena must, on payment of the appropriate sum, accept the document or thing, and,—
   (a) as soon as practicable, inform the Registrar of the Australian court that issued the subpoena, by facsimile or similar means of communication, that the document or thing has been produced; and
   (b) send the document or thing, without delay, to the Australian court before the date on which it is required to be produced to that court.
-(2) In this section the appropriate sum in relation to a document or thing required to be produced in compliance with an Australian subpoena means a sum that is sufficient to send the document or thing to the Australian court that issued the subpoena by a means that will ensure it is received by the court before the date on which it is required to be produced.
+(2) In this section, the appropriate sum in relation to a document or thing required to be produced in compliance with an Australian subpoena, means a sum that is sufficient to send the document or thing to the Australian court that issued the subpoena by a means that will ensure it is received by the court before the date on which it is required to be produced.
 
 ### 167 Other powers to serve subpoenas not affected
 Nothing in this Act limits or affects any right or power conferred by or under a law of the Commonwealth or a State or a territory of Australia to serve a subpoena in New Zealand on an Australian citizen.
 
-**Video link and telephone conferences in New Zealand proceedings**
+**Audio links and audiovisual links in New Zealand proceedings**
 
-### 168 New Zealand court may receive evidence and submissions by video link and telephone conference from Australia
-(1) On the application of a party to a proceeding before a New Zealand court, the court may, if it is satisfied that the necessary facilities and equipment are available, or can reasonably be made available, and that evidence or submissions in the proceeding could more conveniently be given or made from Australia, direct that evidence be given from Australia, or submissions be made from Australia, by video link or telephone conference.
-(2) Unless the New Zealand court otherwise orders, the costs incurred in giving evidence or making submissions by video link or telephone conference and transmitting the evidence or submissions, in accordance with a direction given under subsection (1), must be paid by the applicant.
-(3) The New Zealand court may make an order specifying the amount payable by a party under subsection (2), and requiring the party to pay that amount.
-(4) An order made under subsection (3) by a court which does not have the power to enforce its orders may be filed in any District Court and, when filed, is enforceable as a judgment of the District Court.
+### 168 New Zealand court may receive evidence, and related examination and submissions, by audio link and audiovisual link from Australia
+(1) A New Zealand court may, on application by a party to a proceeding before it, direct that all or any of the following be done by remote appearance medium from Australia:
+  (a) the giving of evidence:
+  (b) the examination of a person giving evidence under paragraph (a):
+  (c) the making of submissions.
+(2) The remote appearance medium used must be—
+  (a) the remote appearance medium specified by the court; or
+  (b) if the court does not specify a remote appearance medium—either remote appearance medium.
+(3) The court must not give the direction unless it is satisfied that—
+  (a) the evidence, examination, or submission can more conveniently be given or made from Australia; and
+  (b) if the court intends to specify a remote appearance medium—that remote appearance medium is, or can reasonably be made, available; and
+  (c) if the court does not intend to specify a remote appearance medium—both remote appearance mediums are, or can reasonably be made, available; and
+  (d) it is appropriate to give the direction.
+
+### 168A Costs of giving evidence, and making examination and submissions, from Australia
+(1) Unless the New Zealand court otherwise orders, the costs incurred in giving evidence, or making an examination or submissions, by audio link or audiovisual link, and transmitting the evidence, examination, or submissions, under a direction under section 168(1), must be paid by the applicant.
+(2) The New Zealand court may make an order specifying the amount payable by a party under subsection (1), and requiring the party to pay that amount.
+(3) An order made under subsection (2) by a New Zealand court that does not have the power to enforce its orders—
+  (a) may be filed in any District Court; and
+  (b) when so filed, is enforceable as a judgment of that District Court.
 
 ### 169 Powers of New Zealand court in Australia
-For the purposes of the taking of evidence or the receiving of submissions by video link or telephone conference from Australia under section 168, the New Zealand court may exercise in Australia all its powers which it is permitted to exercise in Australia under Australian law.
+For the purposes of the taking of evidence or the receiving of examination or submissions by audio link or audiovisual link from Australia under section 168, the New Zealand court may exercise in Australia all its powers that it is permitted to exercise in Australia under Australian law.
 
-### 170 Evidence and submissions by video link
-Evidence must not be given or submissions made by video link from Australia unless the courtroom or other place where the New Zealand court is sitting in New Zealand and the place where the evidence is to be given or the submissions are to be made in Australia are equipped with video facilities that—
-  (a) enable persons present at the place where the court is sitting in New Zealand to see and hear the person giving evidence or making the submissions in Australia; and
-  (b) enable persons present at the place where the evidence is given or the submissions are made in Australia to see and hear persons at the place where the court is sitting in New Zealand.
+### 170 Evidence, examination, and submissions by audiovisual link
+Evidence must not be given, or examination or submissions made, by audiovisual link from Australia unless the courtroom or other place where the New Zealand court is sitting in New Zealand and the place where the evidence is to be given, or the examination is to be made, or the submissions are to be made, in Australia are equipped with facilities that—
+  (a) enable persons present at the place where the court is sitting in New Zealand to see and hear the person giving evidence or making the examination or submissions in Australia; and
+  (b) enable persons present at the place where the evidence is given, the examination is made, or the submissions are made, in Australia to see and hear persons at the place where the court is sitting in New Zealand.
 
-### 171 Evidence and submissions by telephone
-Evidence must not be given or submissions made by telephone conference from Australia unless the courtroom or other place where the New Zealand court is sitting in New Zealand and the place where the evidence is to be given or the submissions are to be made in Australia are equipped with telephone conference facilities that—
-  (a) enable persons present at the place where the court is sitting in New Zealand to hear the person giving evidence or making the submissions in Australia; and
-  (b) enable persons present at the place where the evidence is given or the submissions are made in Australia to hear persons at the place where the court is sitting in New Zealand.
+### 171 Evidence, examination, and submissions by audio link
+Evidence must not be given, or examination or submissions made, by audio link from Australia unless the courtroom or other place where the New Zealand court is sitting in New Zealand and the place where the evidence is to be given, or the examination is to be made, or the submissions are to be made, in Australia are equipped with facilities that—
+  (a) enable persons present at the place where the court is sitting in New Zealand to hear the person giving evidence or making the examination or submissions in Australia; and
+  (b) enable persons present at the place where the evidence is given, the examination is made, or the submissions are made, in Australia to hear persons at the place where the court is sitting in New Zealand.
 
 ### 172 Rights of Australian counsel
-A person who is entitled to practise as a barrister, or a solicitor, or both in a Supreme Court of a State or a territory of Australia from which evidence is to be given or submissions made by video link or telephone conference to a New Zealand court, is entitled to practise as a barrister, or solicitor, or both in relation to—
-  (a) the examination, cross-examination, or re-examination of a witness in Australia whose evidence is being given by video link or telephone conference in the proceeding before the New Zealand court; and
-  (b) the making of submissions by video link or telephone conference from Australia in the proceeding before the New Zealand court.
+(1) This section applies to a person who—
+  (a) is entitled to practise as a barrister, or a solicitor, or both in a Supreme Court of a State or a territory of Australia from which evidence is to be given or examination or submissions made under a direction under section 168; but
+  (b) is not entitled otherwise than under this section to appear before the New Zealand court to examine a person giving evidence, or to make submissions, under that direction.
+(2) The person is entitled to practise as a barrister, a solicitor, or both in relation to each appearance for the examination or submissions to which the direction relates, and each appearance of that kind is for the purposes of section 27(1)﻿(b)﻿(i) of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
 
-**Video link and telephone conferences in Australian proceedings**
+**Audio links and audiovisual links in Australian proceedings**
 
-### 173 Australian court may take evidence and receive submissions by video link or telephone conference in New Zealand
-An Australian court may take evidence or receive submissions from a person in New Zealand by video link or telephone conference for the purposes of a proceeding before that court.
+### 173 Australian court may take evidence, and receive related examination and submissions, by audio link or audiovisual link from New Zealand
+The taking of evidence, or receipt of an examination or submissions, from New Zealand in a proceeding in an Australian court is authorised if it is in accordance with the Trans-Tasman Proceedings Act 2010 (Aust).
 
 ### 174 Powers of Australian court
-(1) For the purposes of taking evidence from a witness in New Zealand or hearing submissions from a person in New Zealand, an Australian court may exercise in New Zealand any of its powers, except its powers to—
+(1) For the purposes of taking evidence from a witness in New Zealand or hearing examination or submissions from a person in New Zealand, an Australian court may exercise in New Zealand any of its powers, except its powers to—
   (a) punish for contempt; and
   (b) enforce or execute its judgments or process.
-(2) Subject to subsection (1), the Australian law that applies to the proceeding in Australia also applies to the practice and procedure of the Australian court in taking evidence or receiving submissions from a person in New Zealand.
+(2) Subject to subsection (1), the Australian law that applies to the proceeding in Australia also applies to the practice and procedure of the Australian court in taking evidence or receiving examination or submissions from a person in New Zealand.
 
 ### 175 Orders of Australian court
 (1) Without limiting section 174, the Australian court may, by order,—
   (a) direct that the hearing or any part of the hearing be held in private; or
-  (b) require any person to leave the place where the evidence is or is to be given or the submissions are or are to be made; or
+  (b) require any person to leave the place where the evidence is or is to be given, the examination is or is to be made, or the submissions are or are to be made; or
   (c) prohibit or restrict the publication of evidence or the name of any party or of any witness.
 (2) An order made under subsection (1) may be enforced by a Judge of the High Court who, for that purpose, has and may exercise the powers, including the power to punish for contempt, that would have been available to enforce the order if it had been made by that Judge.
 
-### 176 Place where evidence given part of Australian court
-For the purposes of sections 174 and 175, the place in New Zealand where the evidence is given or the submissions are made in a proceeding before an Australian court are deemed to be part of that court.
+### 176 Place where evidence given or examination or submissions made part of Australian court
+For the purposes of sections 174 and 175, the place in New Zealand where the evidence is given, the examination is made, or the submissions are made in a proceeding before an Australian court are deemed to be part of that court.
 
 ### 177 Privileges, protections, and immunities of Judges, counsel, and witnesses in Australian proceedings
-(1) A Judge of an Australian court has, in relation to the taking of evidence or the making of submissions by video link or telephone conference from a person in New Zealand, all the privileges, protections, and immunities of a Judge of the High Court.
-(2) A person appearing as a barrister, a solicitor, or both has, in relation to the taking of the evidence or the making of the submissions, all the privileges and immunities of counsel in the High Court.
-(3) Every witness who gives evidence in a proceeding before an Australian court by video link or telephone conference from New Zealand has all the privileges and immunities of a witness in the High Court.
+(1) A Judge of an Australian court has, in relation to the taking of evidence or the making of an examination or submissions by audio link or audiovisual link from a person in New Zealand, all the privileges, protections, and immunities of a Judge of the High Court.
+(2) A person appearing as a barrister, a solicitor, or both has, in relation to the taking of the evidence or the making of the examination or submissions, all the privileges and immunities of counsel in the High Court.
+(3) Every witness who gives evidence in a proceeding before an Australian court by audio link or audiovisual link from New Zealand has all the privileges and immunities of a witness in the High Court.
 
 ### 178 Power of Australian court to administer oaths in New Zealand
-(1) An Australian court may, for the purpose of obtaining the evidence of a person in New Zealand by video link or telephone conference, administer an oath or affirmation in accordance with the practice and procedure of that court.
+(1) An Australian court may, for the purpose of obtaining the evidence of a person in New Zealand by audio link or audiovisual link, administer an oath or affirmation in accordance with the practice and procedure of that court.
 (2) Evidence given by a person on oath or affirmation administered by the Australian court under subsection (1) is, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), deemed to have been given as evidence in a judicial proceeding on oath.
 
 ### 179 Contempt of Australian court
-(1) Every person commits an offence who, in New Zealand, at a place where evidence is being given or submissions are being made by video link or telephone conference in a proceeding before an Australian court,—
+(1) Every person commits an offence who, in New Zealand, at a place where evidence is being given, an examination is being made, or submissions are being made by audio link or audiovisual link in a proceeding before an Australian court,—
   (a) assaults—
     (i) a person appearing as a barrister, or solicitor, or both in the proceeding; or
     (ii) a witness in the proceeding; or
@@ -1804,20 +1840,14 @@ For the purposes of sections 174 and 175, the place in New Zealand where the evi
 
 ### 180 Assistance to Australian court
 An officer of a New Zealand court may, at the request of an Australian court,—
-  (a) attend at the place in New Zealand where evidence is being or will be given or submissions are being or will be made by video link or telephone conference in a proceeding before the Australian court; and
+  (a) attend at the place in New Zealand where evidence is being or will be given, an examination is being or will be made, or submissions are being or will be made by audio link or audiovisual link in a proceeding before the Australian court; and
   (b) take any action that the Australian court directs to facilitate the proceeding; and
   (c) assist with the administering by the Australian court of an oath or affirmation.
 
 **Enforcement of Australian orders**
 
 ### 181 Enforcement of certain orders made by Australian court
-(1) Subsection (2) applies to an order made by an Australian Court under the Evidence and Procedure (New Zealand) Act 1994 of the Commonwealth of Australia for—
-  (a) the payment of expenses incurred by a witness in complying with an Australian subpoena served on the witness in New Zealand; or
-  (b) the payment of expenses incurred by a person in connection with the taking of evidence or the making of submissions from New Zealand by video link or telephone, as the case may be.
-(2) For the purposes of the Reciprocal Enforcement of Judgments Act 1934, an order to which this subsection applies is deemed,—
-  (a) if the order was made by an Australian court that is a superior court, to be a money judgment of a superior court that had jurisdiction to make the order; or
-  (b) if the order was made by an Australian court that is not a superior court, to be a money judgment of a specified inferior court that had jurisdiction to make the order.
-(3) Nothing in section 6 (except paragraphs (a), and (d) to (f) of subsection (1)) of the Reciprocal Enforcement of Judgments Act 1934 applies to an order referred to in subsection (1) of this section.
+[Repealed]
 
 ### Subpart 2 — Evidence for use in civil proceedings overseas and evidence for use in civil proceedings in High Court
 
@@ -1852,7 +1882,7 @@ The High Court or a Judge may exercise the powers conferred by section 185(1) if
   (d) for the taking of samples of any property and the carrying out of any experiments on or with any property:
   (e) for the medical examination of any person:
   (f) without limiting paragraph (e), for the taking and testing of samples of blood from any person.
-(3) An order under subsection (1) may not require any particular steps to be taken unless they are steps which can be required to be taken by way of obtaining evidence for the purposes of civil proceedings in the High Court (whether or not proceedings of the same description as those to which the application for the order relates).
+(3) An order under subsection (1) may not require any particular steps to be taken unless they are steps that can be required to be taken by way of obtaining evidence for the purposes of civil proceedings in the High Court (whether or not proceedings of the same description as those to which the application for the order relates).
 (4) Subsection (3) does not preclude the making of an order requiring a person to give evidence (either orally or in writing) otherwise than on oath if this is asked for by the requesting court.
 (5) An order under subsection (1) may not require a person—
   (a) to state what documents relevant to the proceedings to which the application for the order relates are or have been in the person’s possession, custody, or power:
@@ -1861,17 +1891,17 @@ The High Court or a Judge may exercise the powers conferred by section 185(1) if
 (7) An order made under subsection (1) may be enforced in the same manner as if it were an order made by the High Court or Judge in proceedings pending in the High Court or before the Judge.
 
 ### 186 Privileges of witnesses
-(1) A person may not be compelled by an order under section 185(1) to give any evidence which the person could not be compelled to give—
+(1) A person may not be compelled by an order under section 185(1) to give any evidence that the person could not be compelled to give—
   (a) in civil proceedings in New Zealand; or
   (b) in civil proceedings in the country or territory in which the requesting court exercises jurisdiction.
-(2) Subsection (1)(b) does not apply unless the person in question claims to be exempt from giving the evidence and the claim is either—
+(2) Subsection (1)﻿(b) does not apply unless the person in question claims to be exempt from giving the evidence and the claim is either—
   (a) supported by a statement contained in the request (whether unconditionally or subject to conditions that are fulfilled); or
   (b) conceded by the applicant for the order under section 185(1).
 (3) If a claim is made by a person for exemption under subsection (2) but the High Court or a Judge is not satisfied that subsection (2) applies, the person may be required to give the evidence to which the claim relates but that evidence must not be transmitted to the requesting court if—
   (a) the High Court or a Judge refers the claim to the requesting court for consideration and determination; and
   (b) that court upholds the claim for exemption.
 (4) A person may not be compelled by an order under section 185(1) to give any evidence if the giving of that evidence would be prejudicial to the security of New Zealand and a certificate signed by the Attorney-General to the effect that it would be so prejudicial for that person to do so is conclusive evidence of that fact.
-(5) In this section giving evidence includes—
+(5) In this section, giving evidence includes—
   (a) answering any question:
   (b) producing any document.
 
@@ -1900,15 +1930,15 @@ No order may be made under this subpart that is binding on the Crown or on any p
 **Offences**
 
 ### 189 False statements
-(1) Every person commits an offence who, being required under subsection 185(1) to give evidence (either orally or in writing) otherwise than on oath, makes a statement—
-  (a) which he or she knows to be false in a material particular; or
-  (b) which is false in a material particular and which he or she does not believe to be true.
+(1) Every person commits an offence who, being required under section 185(1) to give evidence (either orally or in writing) otherwise than on oath, makes a statement—
+  (a) that he or she knows to be false in a material particular; or
+  (b) that is false in a material particular and that he or she does not believe to be true.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 years.
 
 ### Subpart 3 — Evidence for use in overseas criminal proceedings
 
 ### 190 Interpretation
-In this subpart—
+In this subpart,—
   - **High Court** means the High Court of New Zealand
   - **Judge** means a Judge of the High Court
   - **overseas court** means a court or tribunal exercising jurisdiction in any country outside New Zealand
@@ -1943,7 +1973,7 @@ This subpart does not affect the application or operation of subpart 1.
   (b) another document issued by that court; or
   (c) the certificate of an overseas representative given under subsection (3); or
   (d) any other process that the High Court or a Judge may accept.
-(2) Any letter of request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must for the purpose of this section and section 192 be received in evidence without proof of—
+(2) Any letter of request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must, for the purpose of this section and section 192, be received in evidence without proof of—
   (a) the seal of the court; or
   (b) the signature of the Judge or other person; or
   (c) the judicial or official character of the Judge or other person.
@@ -1953,9 +1983,9 @@ This subpart does not affect the application or operation of subpart 1.
   (b) the official character of that person.
 
 ### 195 Protection of witnesses
-(1) A person may not be compelled by an order under section 192 to give evidence which the person could not be compelled to give in criminal proceedings in New Zealand.
+(1) A person may not be compelled by an order under section 192 to give evidence that the person could not be compelled to give in criminal proceedings in New Zealand.
 (2) A person may not be compelled by an order under section 192 to give any evidence if the giving of that evidence would infringe the jurisdiction of New Zealand or would otherwise be prejudicial to the security or sovereignty of New Zealand or would be likely to be prejudicial to the trading, commercial, or economic interests of New Zealand; and a certificate signed by the Attorney-General to the effect that it would be or, as the case requires, is likely to be so prejudicial for that person to do so is conclusive evidence of that fact.
-(3) In this section giving evidence includes—
+(3) In this section, giving evidence includes—
   (a) answering any question:
   (b) producing any document.
 
@@ -1968,9 +1998,9 @@ Every witness required to attend for examination by an order made under section 
 (3) No affidavit or declaration referred to in subsection (1) may be taken unless the solicitor taking it has received a written certificate—
   (a) from the overseas court that the affidavit or declaration is required for the purpose of criminal proceedings pending in the court; or
   (b) from an overseas representative of the country in which the overseas court exercises jurisdiction that he or she believes the affidavit or declaration to be required for the purpose of criminal proceedings pending in the overseas court.
-(4) A certificate for the purposes of subsection (3)(a) may be given by any Judge or judicial officer of the overseas court, or by any Registrar or other officer of that court.
-(5) If a certificate is given under subsection (3)(b), the jurat or attestation of the affidavit or declaration must state the name and official designation of the overseas representative on whose certificate the affidavit or declaration has been taken.
-(6) In this section—
+(4) A certificate for the purposes of subsection (3)﻿(a) may be given by any Judge or judicial officer of the overseas court, or by any Registrar or other officer of that court.
+(5) If a certificate is given under subsection (3)﻿(b), the jurat or attestation of the affidavit or declaration must state the name and official designation of the overseas representative on whose certificate the affidavit or declaration has been taken.
+(6) In this section,—
   - **affidavit** means any affidavit or affirmation made before a solicitor of the High Court
   - **declaration** means any written statement declared by the maker of the statement to be true in the presence of a solicitor of the High Court.
 
@@ -1986,7 +2016,7 @@ Every witness required to attend for examination by an order made under section 
   (b) the hearing or disposal of applications for orders under any specified provisions in this Part:
   (c) the lodging of documents or things with an Australian court in compliance with a New Zealand subpoena that requires only the production of documents or things by a witness:
   (d) the transmission of documents or things lodged with a New Zealand court in compliance with an Australian subpoena to the Australian court that issued the subpoena:
-  (e) the giving of evidence and the making of submissions by video link or telephone conference in connection with proceedings before a New Zealand court or an Australian court:
+  (e) the giving of evidence and the making of examinations and submissions by audio link or audiovisual link in connection with proceedings before a New Zealand court or an Australian court:
   (f) the receiving of facsimiles of documents or things:
   (g) the form of New Zealand subpoenas and other documents:
   (h) such other matters as are contemplated by or necessary for giving full effect to subpart 1 of this Part.
@@ -2052,7 +2082,7 @@ Subpart 6 of Part 2 (identification evidence) does not apply in relation to an i
 ### 207 Transitional provisions relating to Law Practitioners Act 1982
 (1) Until the commencement of section 6 of the Lawyers and Conveyancers Act 2006, section 51(1) must be read as if for the definition of lawyer there were substituted the following definition:.
   - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
-(2) Until the commencement of section 112 of the Lawyers and Conveyancers Act 2006, section 55(1)(a) must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to section 89 of the Law Practitioners Act 1982.
+(2) Until the commencement of section 112 of the Lawyers and Conveyancers Act 2006, section 55(1)﻿(a) must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to section 89 of the Law Practitioners Act 1982.
 (3) Until the commencement of section 96 of the Lawyers and Conveyancers Act 2006, section 55(1) must be read as if for paragraph (b) there were substituted the following paragraph:
   (b) by any solicitors’ nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
 
@@ -2067,7 +2097,7 @@ A witness, or a party calling a witness, may apply under section 95(2), before t
 A party may make an application for directions under section 103(1), before the commencement of that provision, for the purpose of ensuring that the application for directions permitted under that provision in respect of the giving of evidence in chief by a witness and his or her cross-examination after the commencement of that provision in any proceedings, is made as early as practicable before the proceeding is to be heard.
 
 ### 211 Transitional provision concerning giving of evidence by child complainants
-The prosecution may make an application for directions under section 107(1) before the commencement of that provision, for the purpose of ensuring that the application required under that section in respect of the giving of evidence in chief by the complainant and his or her cross-examination after the commencement of that provision, is made as early as practicable before the case is to be tried.
+The prosecution may make an application for directions under section 107(1), before the commencement of that provision, for the purpose of ensuring that the application required under that section in respect of the giving of evidence in chief by the complainant and his or her cross-examination after the commencement of that provision, is made as early as practicable before the case is to be tried.
 
 ### 212 Transitional provision relating to offering documents in evidence without calling witness
 (1) A party may give notice under section 130(4), before the commencement of that provision, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of that provision.
@@ -2079,9 +2109,9 @@ A party may give notice under section 135(1) or 135(3) of the translation of the
 ### 214 General
 If, under any of sections 203 to 213, any person is empowered to apply to a Judge under any provision before its commencement for any order or directions, the Judge also has power, before the commencement of the provision, to exercise any of the powers conferred by that provision on a Judge.
 
-**Repeal and amendments**
+**Repeals and amendments**
 
-### 215 Repeal
+### 215 Repeals
 The enactments specified in Schedule 1 are repealed.
 
 ### 216 Consequential amendments
