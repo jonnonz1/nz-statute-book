@@ -1,7 +1,7 @@
 # Reciprocal Enforcement of Judgments Act 1934
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-11_
 
-> An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within His Majesty's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
+> An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within the Sovereign's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
 
 ### 1 Short Title
 This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
@@ -9,7 +9,6 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **appeal** includes any proceeding by way of discharging or setting aside a judgment or an application for a new trial or a stay of execution
-  - **Australian tax** means tax or a charge of a similar nature payable under the laws of the Commonwealth of Australia or any State or Territory of Australia; and includes additional or other tax payable by way of penalty, interest, or otherwise by reason of a contravention of any of those laws or of a requirement made under any of those laws
   - **country of the original court** means the country in which the original court is situated
   - **High Court** means the High Court of New Zealand
   - **judgment** means a final or interlocutory judgment or order given or made by a court in any civil proceedings, or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party; and includes an award in proceedings on an arbitration (not being an award made outside New Zealand within the meaning of the Arbitration Act 1996) if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place
@@ -21,23 +20,26 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
   - **original court** in relation to any judgment means the court by which the judgment was given
   - **prescribed** means prescribed by rules of court
   - **registration** means registration under Part 1, and the expressions and shall be construed accordingly.
-(2) For the purposes of this Act the expression action in personam shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters—that is to say, matrimonial matters, administration of the estates of deceased persons, bankruptcy, winding up of companies, lunacy, or guardianship of infants.
-(3) In this Act, references to Her Majesty's dominions outside the United Kingdom shall be construed as including references to any territories which are under Her Majesty's protection and to any territories in respect of which a mandate under the League of Nations has been accepted by His Majesty.
+(2) For the purposes of this Act the expression action in personam shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters—that is to say, matrimonial matters, administration of the estates of deceased persons, bankruptcy, winding-up of companies, lunacy, or guardianship of infants.
+(3) In this Act, references to the Sovereign's dominions outside the United Kingdom shall be construed as including references to any territories which are under the Sovereign's protection and to any territories in respect of which a mandate under the League of Nations has been accepted by the Sovereign.
 
 ## Part 1 — Reciprocal enforcement of judgments
 
 ### 3 Application of this Part
 (1) This Part shall extend to the United Kingdom.
-(2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of Her Majesty's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of Her Majesty's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct—
-  (a) that this Part shall extend to that part of Her Majesty's dominions or to that foreign country; and
-  (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed superior courts of that part of Her Majesty's dominions or of that foreign country.
+(1A) Nothing in this Part applies or extends to a judgment that is given in or by a superior court or an inferior court of Australia.
+(1B) Subsection (1A) does not, however, prevent a judgment given in or by a superior court or an inferior court of Australia from being a registrable Australian judgment under subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010.
+(1C) Subsection (1A), and the amendments to, and revocations of orders under, this Part effected by Schedule 2 of the Trans-Tasman Proceedings Act 2010, do not, however, affect the application of this Part to a judgment given in or by a superior court or an inferior court of Australia before the commencement of subpart 5 of Part 2 of that Act.
+(2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of the Sovereign's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of the Sovereign's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct—
+  (a) that this Part shall extend to that part of the Sovereign's dominions or to that foreign country; and
+  (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed superior courts of that part of the Sovereign's dominions or of that foreign country.
 (2A) The fact that a particular court is not specified in an Order in Council is not taken to imply that the court is not a superior court for the purposes of this Act.
 (3) Any money judgment of a superior court of a country to which this Part extends, other than a money judgment of such a court given on appeal from a court, not being a specified inferior court, which is not a superior court, shall be a judgment to which this Part applies, if—
   (a) it is final and conclusive as between the parties thereto; and
   (b) there is payable thereunder a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and
   (c) it is given after the coming into operation of the Order in Council directing that this Part shall extend to that country:
-    provided that nothing in this paragraph shall apply with respect to judgments given in the United Kingdom or in any other part of Her Majesty's dominions to which Part 1 of the Administration of Justice Act 1922 applied immediately before the passing of this Act.
-(3A) Nothing in paragraph (b) of subsection (3) prevents a judgment given in a superior court of Australia under which Australian tax is payable being a judgment to which this Part applies.
+    provided that nothing in this paragraph shall apply with respect to judgments given in the United Kingdom or in any other part of the Sovereign's dominions to which Part 1 of the Administration of Justice Act 1922 applied immediately before the passing of this Act.
+(3A)
 (4) For the purposes of this section a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
 (5) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
 (6)
@@ -48,8 +50,8 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
   (a) it is final and conclusive as between the parties to it; and
   (b) there is payable under the judgment a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and
   (c) it is given after the coming into operation of the Order in Council directing that the inferior court is a specified inferior court for the purposes of this Part.
-(3) Nothing in paragraph (b) of subsection (2) prevents a judgment given in an inferior court of Australia under which Australian tax is payable being a judgment to which this Part applies.
-(4) Nothing in paragraph (c) of subsection (2) applies to a judgment of an inferior court of Australia.
+(3)
+(4)
 (5) For the purposes of this section, a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
 (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
 
@@ -59,8 +61,8 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 (3) Every Order in Council made under subsection (1) or subsection (2) shall specify the non-money judgments by reference to—
   (a) the kinds of proceedings in which the non-money judgments are given; and
   (b) the kinds of non-money judgments.
-(4) A specified non-money judgment, not being a judgment of a superior court or an inferior court of Australia, shall be a judgment to which this Part applies if it was given after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
-(5) A specified non-money judgment that is a judgment of a superior court or an inferior court of Australia shall be a judgment to which this Part applies whether it was given before or after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
+(4) A specified non-money judgment shall be a judgment to which this Part applies if it was given after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
+(5)
 (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
 
 ### 4 Application for, and effect of, registration of judgment
@@ -98,7 +100,7 @@ provided that the judgment shall not be enforced so long as, under this Part and
   (b) that the courts of the country of the original court had no jurisdiction in the circumstances of the case; or
   (c) that the judgment debtor, being the defendant in the proceedings in the original court, did not (notwithstanding that process may have been duly served on him in accordance with the law of the country of the original court) receive notice of those proceedings in sufficient time to enable him to defend the proceedings and did not appear; or
   (d) that the judgment was obtained by fraud; or
-  (e) that the enforcement of the judgment, not being a judgment of a superior court or an inferior court of Australia under which Australian tax is payable, would be contrary to public policy in New Zealand; or
+  (e) that the enforcement of the judgment would be contrary to public policy in New Zealand; or
   (f) that the rights under the judgment are not vested in the person by whom the application for registration was made.
 (2) On an application in that behalf duly made by any party against whom a registered judgment may be enforced, the registration of the judgment may be set aside if the High Court is satisfied that the matter in dispute in the proceedings in the original court had previously to the date of the judgment in the original court been the subject of a final and conclusive judgment by a court having jurisdiction in the matter.
 (3) For the purposes of this section the courts of the country of the original court shall, subject to the provisions of subsection (4), be deemed to have had jurisdiction—
@@ -108,7 +110,7 @@ provided that the judgment shall not be enforced so long as, under this Part and
     (iii) if the judgment debtor, being a defendant in the original court, had before the commencement of the proceedings agreed, in respect of the subject matter of the proceedings, to submit to the jurisdiction of that court or of the courts of the country of that court; or
     (iv) if the judgment debtor, being a defendant in the original court, was at the time when the proceedings were instituted resident in, or being a body corporate had its principal place of business in, the country of that court; or
     (v) if the judgment debtor, being a defendant in the original court, had an office or place of business in the country of that court and the proceedings in that court were in respect of a transaction effected through or at that office or place:
-    (vi) if Australian tax is payable under the judgment:
+    (vi)
   (b) in the case of a judgment given in an action of which the subject matter was immovable property or in an action in rem of which the subject matter was movable property, if the property in question was at the time of the proceedings in the original court situate in the country of that court:
   (c) in the case of a judgment given in an action other than any such action as is mentioned in paragraph (a) or paragraph (b), if the jurisdiction of the original court is recognised by the law of the registering court.
 (4) Notwithstanding anything in subsection (3), the courts of the country of the original court shall not be deemed to have had jurisdiction—
@@ -127,64 +129,31 @@ No proceedings for the recovery of a sum payable under a judgment to which this 
 ## Part 1A — Enforcement of judgments and orders of Federal Court of Australia
 
 ### 8A Interpretation
-In this Part, unless the context otherwise requires,—
-  - **injunction** includes an interim or interlocutory injunction whether obtained inter partes or ex parte
-  - **order** means a direction under which a person is required to perform an act, or to make a payment, including a payment of a pecuniary penalty, or to observe a condition or to refrain from performing an act or from engaging in specified conduct, whether the order is interlocutory or final; but does not include an injunction
-  - **specified proceeding** means a proceeding in the Federal Court of Australia in which—
-    (a) a matter for determination arises under—whether or not any other matter arises for determination; or
-      (i) any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
-      (ii) a provision of Part VI or Part XII of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act—
-    (b) any other kind of relief specified by the Governor-General by Order in Council for the purposes of this Part is sought; or
-    (c) an interlocutory order is sought in relation to a proceeding of the kind mentioned in paragraph (a) or paragraph (b); or
-    (d) the enforcement is sought of a judgment or order or injunction given or made or granted in a proceeding of the kind mentioned in paragraph (a) or paragraph (b).
+[Repealed]
 
 ### 8B Application
-(1) This Part applies to a judgment or order or injunction given or made or granted in a specified proceeding.
-(2) Nothing in Part 1 applies to a judgment or order or injunction to which this Part applies.
+[Repealed]
 
 ### 8C Service in New Zealand
-An order or injunction to which this Part applies may be served in New Zealand on the person expressed to be bound by it.
+[Repealed]
 
 ### 8D Registration
-(1) On production of a copy of a judgment or order or injunction to which this Part applies in accordance with rules made under section 51C of the Judicature Act 1908, the High Court shall, on being satisfied that the judgment or order or injunction is one to which this Part applies, order that the judgment or order or injunction be registered.
-(2) A registered judgment or order or injunction to which this Part applies shall—as if it had been a judgment or order or injunction originally given or made or granted in the High Court on the date of registration.
-  (a) for the purposes of execution, be of the same force and effect; and
-  (b) in the case of a judgment or order under which a sum of money is payable, carry interest on that sum; and
-  (c) be subject to the same control over its execution by the High Court—
-(3) Where a judgment or order to which this Part applies under which a sum is payable that is expressed in Australian currency is to be registered under this Part, the judgment or order is to be registered—
-  (a) if the applicant for registration of the judgment or order has stated in the application that the applicant wishes the judgment or order to be registered in Australian currency, in Australian currency; or
-  (b) in any other case, as if it were for an equivalent amount in New Zealand currency, based on the rate of exchange prevailing on the day of the application for registration.
-(4) If, at the date of the application for registration of a judgment or order to which this Part applies under which a sum of money is payable the judgment or order has been partly satisfied, the judgment or order shall not be registered in respect of the whole sum payable under the judgment or order, but shall be registered only in respect of the balance remaining payable at that date.
-(5) In addition to any sum of money payable under the judgment or order, including any interest which by the law of the Commonwealth of Australia becomes due under the judgment or order up to the time or registration, the judgment or order shall be registered for the reasonable costs of and incidental to registration, including the costs of obtaining a certified copy of the judgment from the Federal Court of Australia.
+[Repealed]
 
 ### 8E Cases in which registration must be set aside
-The High Court shall set aside the registration of a judgment or order or injunction that is registered under section 8D on the application of any person against whom it may be enforced if the High Court is satisfied that the judgment or order or injunction—
-  (a) is unenforceable in Australia; or
-  (b) has been wholly satisfied; or
-  (c) was registered in contravention of this Part or that this Part does not apply to it; or
-  (d) has been reversed or set aside by the Federal Court of Australia or the High Court of Australia; or
-  (e) relates to a claim or claims for relief for a contravention, or 2 or more contraventions, of section 46A of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia, whether or not it also relates to any other claim for relief, that has, or all of which have, been dismissed by the Federal Court of Australia or the High Court of Australia.
+[Repealed]
 
 ### 8F Variation
-(1) A copy of every judgment or order of the Federal Court of Australia varying a judgment or order or injunction registered under this Part shall be registered in the High Court and the provisions of this Part shall apply to the judgment or order or injunction as so varied.
-(2) No execution of a judgment registered under this Part that has been varied by the Federal Court of Australia or by the High Court of Australia shall be issued and no proceedings to enforce an order or injunction registered under this Part that has been varied by the Federal Court of Australia or by the High Court of Australia, as the case may be, shall be commenced before the registration of the variation of the judgment or order under subsection (1) without the leave of the High Court.
+[Repealed]
 
 ### 8G Stay of execution
-(1) The High Court may, if it is satisfied that a person against whom a judgment or order or injunction has been registered under this Part—the High Court may order that enforcement of the judgment or order or injunction be stayed pending the determination of the application or appeal, as the case may be, or until a specified date, or for a specified period.
-  (a) has applied, or intends to apply, to the Federal Court of Australia to have the judgment or order or injunction set aside; or
-  (b) has appealed, or intends to appeal, to the High Court of Australia against the judgment or the making of the order or the granting of the injunction,—
-(2) If the High Court makes an order on the ground that a person intends to apply to the Federal Court of Australia to have the judgment or order or injunction set aside or intends to appeal to the High Court of Australia against the judgment or the making of the order or the granting of the injunction, the High Court shall impose, as a condition of the order, a condition that the person makes the application or brings the appeal, as the case may be, by a specified date or within a specified period.
-(3) Every order made under subsection (1) shall be made on the condition that the application or appeal, as the case may be, is proceeded with in an expeditious manner.
-(4) An order under subsection (1) may be made on such other conditions, including conditions relating to the giving of security, as the High Court thinks fit.
+[Repealed]
 
 ### 8H Application of rules of private international law
-The provisions of this Part shall have effect in relation to the execution and enforcement of judgments, orders, and injunctions registered under this Part notwithstanding any rule of law relating to the jurisdiction of the courts of countries other than New Zealand or to public policy.
+[Repealed]
 
 ### 8I Rules of court
-(1) Rules may be made under section 51C of the Judicature Act 1908 for, or in relation to, the registration of judgments, orders, and injunctions to which this Part applies.
-(2) Without limiting subsection (1), rules may be made that make provision for—
-  (a) the registration and service of facsimiles of judgments, orders, and injunctions to which this Part applies; and
-  (b) the service of notice of registration of judgments, orders, and injunctions to which this Part applies.
+[Repealed]
 
 ## Part 2 — Miscellaneous and general
 
