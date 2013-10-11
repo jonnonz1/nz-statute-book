@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-09-01_
+_Consolidation as at 2013-10-11_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -743,6 +743,12 @@ In this Part, unless the context otherwise requires,—
     (a) any of sections 36A, 98H, or 99A of the Commerce Act 1986; or
     (b) a provision of Part 6 or Part 7 of the Commerce Act 1986 in so far as it relates to any of sections 36A, 98H, or 99A of that Act,—
 
+### 56DB Trans-Tasman Proceedings Act 2010 does not affect this Part
+This Part is not limited or affected by the Trans-Tasman Proceedings Act 2010.
+
+### 56DC Courts (Remote Participation) Act 2010 does not apply to remote appearances under this Part
+Nothing in the Courts (Remote Participation) Act 2010 applies to any appearance by video link or telephone conference in accordance with this Part.
+
 ### 56E High Court may order New Zealand proceedings to be heard in Australia
 (1) The High Court may, if it is satisfied that a New Zealand proceeding could more conveniently or fairly be tried or heard by the High Court in Australia or that the evidence in a New Zealand proceeding could more conveniently be given in Australia, as the case may be, order that the proceeding be tried or heard in Australia, or that the evidence be taken in Australia, and may sit in Australia for that purpose.
 (2) The order shall specify—
@@ -851,6 +857,10 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 (3) A person appearing as a barrister, or solicitor, or both, in an Australian proceeding—has all the privileges and immunities of counsel in the High Court.
   (a) at a sitting in New Zealand of the Federal Court; or
   (b) by video link or telephone conference at a sitting in Australia of the Federal Court—
+(4) A person appearing as a party in an Australian proceeding—
+  (a) at a sitting in New Zealand of the Federal Court; or
+  (b) by video link or telephone conference at a sitting in Australia of the Federal Court—
+  has all the privileges and immunities of a party in a proceeding in the High Court.
 
 ### 56R High Court may take evidence at request of Federal Court
 (1) The High Court may, at the request of the Federal Court, take evidence in New Zealand for the Federal Court for the purposes of an Australian proceeding and may, by order, make any provision it considers appropriate for the purpose of taking that evidence.
@@ -1309,7 +1319,7 @@ The objective of these rules is to secure the just, speedy, and inexpensive dete
 ### 1.3 Interpretation
 (1) In these rules, unless the context otherwise requires,—
   - **Act** means the Judicature Act 1908
-  - **address for service** , in relation to a party, means the address of a place in New Zealand at which a document may be left for that party, or to which it may be sent by post to that party, under these rules
+  - **address for service** , in relation to a party, means the address of a place in New Zealand at which a document may be left for that party, or to which it may be sent by post to that party, under these rules or, if the party is a defendant as defined in section 4(1) of the Trans-Tasman Proceedings Act 2010 who is served in Australia under section 13 of that Act with an initiating document for a proceeding, the address of a place in New Zealand or Australia that, under section 18 of that Act, is or is to be treated as the defendant's address for service for the proceeding
   - **appearance** means a document that states a person’s address for service, and is either—
     (a) an appearance and objection to the jurisdiction of the court under rule 5.49; or
     (b) an appearance for ancillary purposes under rule 5.50; or
@@ -1921,6 +1931,7 @@ A defendant must, within 25 working days after the date of the filing of the thi
 
 ### 4.14 Filing and service of statement of defence
 (1) A statement of defence by a third party must be filed and served within 25 working days after the date of service of the third party notice.
+(1A) Subclause (1) is subject to rule 6.35 (which, unless the court otherwise orders, requires a defendant who has been served out of New Zealand to file a statement of defence within 30 working days from the date of service).
 (2) A third party must serve a copy of the third party’s statement of defence on the plaintiff and the defendant.
 
 ### 4.15 Service of application for leave
@@ -2428,7 +2439,8 @@ Despite rule 5.22, a notice of proceeding need not be filed, unless the court so
   (a) an unopposed application under Part 27:
   (b) an appeal under Part 20:
   (c) a proceeding commenced by originating application under Part 18, 19, or 26:
-  (d) an application under Part 31.
+  (d) an application under Part 31:
+  (e) a proceeding, commenced in accordance with the Trans-Tasman Proceedings Regulations and Rules 2013, to register under subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010 a registrable Australian judgment.
 (3) Despite subclause (1), the statement of claim may be filed in any registry of the court if the parties agree, by endorsement on the statement of claim, to the filing of the statement of claim in that registry.
 
 ### 5.26 Statement of claim to show nature of claim
@@ -2472,16 +2484,38 @@ A party to a proceeding who sues or is sued in a representative capacity must sh
 #### Subpart 7 — Authority of solicitors to act
 
 ### 5.36 Authority to file documents
-No solicitor may file a document on behalf of a party unless the solicitor is—
+(1) No solicitor may file a document on behalf of a party unless the solicitor is—
   (a) authorised by, or on behalf of, the party to file the document; and
   (b) the holder of a current practising certificate as a solicitor or as a barrister and solicitor issued under section 39 of the Lawyers and Conveyancers Act 2006.
+(2) Subclause (1) does not prevent a person from filing a document on behalf of a party if the person is authorised by, or on behalf of, the party to file the document, and—
+  (a) is not the holder of a current practising certificate as a barrister or as a barrister and solicitor issued under section 39(1) of the Lawyers and Conveyancers Act 2006; but
+  (b) is allowed to appear for, or to represent, the party, in connection with the proceedings, under section 27(1)(b)(i) or (ii) of the Lawyers and Conveyancers Act 2006.
+(3) The following rules allow certain Australian solicitors to represent a party by filing certain documents:
+  (a) rule 5.36A (documents in certain trans-Tasman proceedings):
+  (b) rule 9.62(1)(b) (application to set aside New Zealand subpoena served on witness in Australia).
+
+### 5.36A Authority of certain Australian solicitors in certain trans-Tasman proceedings
+(1) This rule applies to a defendant and a solicitor if the defendant is served with an initiating document in Australia under section 13 of the Trans-Tasman Proceedings Act 2010 and the solicitor is—
+  (a) entitled to practise as a solicitor of a Supreme Court of a State or Territory of Australia; and
+  (b) authorised by, or on behalf of, the defendant to file a document for the defendant in respect of, or in, the proceeding to which the initiating document relates.
+(2) The solicitor may file the document if the court has under section 38 of the Trans-Tasman Proceedings Act 2010 given the solicitor leave or, as the case requires, he or she is entitled under section 23(4) of that Act, to appear remotely in 1 or more hearings relating to the proceeding.
+(3) The solicitor may file the document even though the solicitor has neither sought, nor been given, leave under section 38 of the Trans-Tasman Proceedings Act 2010 or, as the case requires, he or she has neither made, nor had accepted, a request under section 23(4)(c) of that Act, if the document is—
+  (a) an appearance or response document (as defined in section 17(2) of that Act); or
+  (b) an application under section 22 of that Act for a stay of the proceeding; or
+  (c) a request under section 23(4)(c) of that Act to appear remotely in a hearing to determine an application under section 22 of that Act; or
+  (d) an application for leave under section 38 of that Act; or
+  (e) a document related to a document, application, or request in any of paragraphs (a) to (d).
+(4) A solicitor who files a document under subclause (3) may, even if not the holder of a current practising certificate as a barrister or as a barrister and solicitor issued under section 39(1) of the Lawyers and Conveyancers Act 2006, be the solicitor on the record under rule 5.38 until—
+  (a) the court declines an application by the solicitor for leave under section 38 of that Act; or
+  (b) a document to which subclause (3) does not apply is filed in the proceeding by or on behalf of the defendant and, when that document is filed, the court has not given the solicitor leave under section 38 of that Act.
+(5) Subclause (4) does not enable the solicitor to appear remotely in a hearing relating to the proceeding without leave under section 38 of that Act or, as the case requires, without being entitled to do so under section 23(4) of that Act.
 
 ### 5.37 Solicitor’s warranty as to authorisation to file documents
 A solicitor by whom, or on whose behalf, a document is filed in the court is to be treated as warranting to the court and to all parties to the proceeding that he or she is authorised, by the party on whose behalf the document purports to be filed, to file the document.
 
 ### 5.38 Solicitor on record
 (1) The solicitor on the record for a party to a proceeding is the solicitor whose name appears on the memorandum located at the end of the first document filed by the party in accordance with rule 5.44.
-(2) This rule is subject to rule 5.42.
+(2) This rule is subject to rules 5.36A(4) and 5.42.
 
 ### 5.39 Authority to sign documents
 (1) A document required, by these rules, to be signed by a party may be signed on behalf of the party by the party’s solicitor on the record unless the party’s personal signature is expressly required.
@@ -2579,6 +2613,7 @@ A party’s solicitor may not be accepted as surety for a security that the part
 (2) Unless otherwise ordered by the court,—
   (a) the place for filing the statement of defence must be the registry of the court in which the statement of claim was filed or into which it has been transferred:
   (b) the time within which the statement of defence is required to be filed is 25 working days after the day on which the statement of claim and notice of proceeding are served on the defendant.
+(3) Subclause (2)(b) is subject to rule 6.35 (which, unless the court otherwise orders, requires a defendant who has been served out of New Zealand to file a statement of defence within 30 working days from the date of service).
 
 ### 5.48 Requirements of statement of defence
 (1) The statement of defence must either admit or deny the allegations of fact in the statement of claim, but a defendant does not have to plead to an allegation that does not affect that defendant.
@@ -2599,6 +2634,7 @@ A party’s solicitor may not be accepted as surety for a security that the part
   (a) if it is satisfied that it has jurisdiction to hear and determine the proceeding, set aside the appearance; but
   (b) if it is satisfied that it has no jurisdiction to hear and determine the proceeding, dismiss both the application and the proceeding.
 (7) To the extent that an application under this rule relates to service of process effected outside New Zealand under rule 6.27 or 6.28, it must be determined under rule 6.29.
+(7A) But both this rule and rule 6.29 are subject to section 27(1) of the Trans-Tasman Proceedings Act 2010, which provides that a New Zealand court cannot stay a civil proceeding before it on forum grounds connected with Australia otherwise than in accordance with subpart 2 of Part 2 of that Act.
 (8) The court, in exercising its powers under this rule, may do so on any terms and conditions the court thinks just and, in particular, on setting aside the appearance it may extend the time within which the defendant may file and serve a statement of defence and may give any directions that appear necessary regarding any further steps in the proceeding in all respects as though the application were an application for directions under rule 7.9.
 (9) If the appearance set aside has been filed in relation to a proceeding in which the plaintiff has applied for judgment under rule 12.2 or 12.3, the court—
   (a) must fix the time within which the defendant may file and serve—
@@ -2746,7 +2782,8 @@ If no statement of defence has been filed in the District Court, a statement of 
   (d) if the solicitor for the party or person has, under rule 5.44(1)(e), specified a post office box address, document exchange box number, fax number, or email address,—
     (i) by posting the document to that post office box address; or
     (ii) by leaving the document at a document exchange for direction to that document exchange box number; or
-    (iii) by transmitting the document electronically to that fax number or email address.
+    (iii) by transmitting the document electronically to that fax number or email address:
+  (e) if a defendant has been served in Australia under section 13 of the Trans-Tasman Proceedings Act 2010 with an initiating document for the proceeding, by posting the document to an address for service of the party or person to be served.
 (2) In any case not provided for by these rules, service must be effected by the method and at the place the court directs.
 (3) This rule does not apply if an Act or a rule requires a special and exclusive method of service.
 
@@ -2767,14 +2804,14 @@ Rules 6.1 and 6.2 and rules 6.4 to 6.25 apply to any notice that by these rules,
 A document may be served at an address for service by leaving the document at that address at any time between 9 am and 5 pm.
 
 ### 6.6 Service by means of post office box, document exchange, fax, or email
-(1) When a document is served on a party or person in accordance with rule 6.1(d)(i) or (ii), that document must,—
+(1) When a document is served on a party or person in accordance with rule 6.1(1)(d)(i) or (ii), that document must,—
   (a) if posted to a post office box address, be treated as served on the earlier of—
     (i) the third working day after the day on which it was posted; or
     (ii) the day on which it was received; and
   (b) if left at a document exchange, be treated as served on the earlier of—
     (i) the second working day after the day on which it was left; or
     (ii) the day on which it was received.
-(2) A document served on a party or person in accordance with rule 6.1(d)(iii) must—
+(2) A document served on a party or person in accordance with rule 6.1(1)(d)(iii) must—
   (a) be treated as dispatched at the time the electronic communication first enters an information system outside the control of its originator; and
   (b) be treated as received,—
     (i) in the case of a party who has designated an information system for the purpose of receiving electronic communications, at the time the electronic communication enters that information system; or
@@ -2784,6 +2821,20 @@ A document may be served at an address for service by leaving the document at th
   (a) that the document has been received; and
   (b) of the date and time of receipt.
 (5) In this rule, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
+(6) Subclauses (7) to (11) apply to a document to be served in a proceeding if—
+  (a) the proceeding is one an initiating document for which is to be or has been served on a defendant in Australia under section 13 of the Trans-Tasman Proceedings Act 2010; and
+  (b) the document is one to be served—
+    (i) by a party in New Zealand and on a party in Australia; or
+    (ii) by a party in Australia and on a party in New Zealand.
+(7) Despite subclause (1), when a document is served in accordance with rule 6.1(1)(d)(i) or (ii) or (e), it is to be treated as served on the earlier of—
+  (a) the sixth working day after the day on which it was posted; and
+  (b) the day on which it was received.
+(8) Subclause (9) applies to a document that is—
+  (a) a document in response to a requirement of or under these rules; and
+  (b) served in accordance with rule 6.1(1)(d)(i) or (ii) or (e).
+(9) The party serving the document is entitled to an extra 5 working days within which to comply with that requirement.
+(10) Despite subclause (8), subclause (9) does not apply when a rule requires a document to be served a prescribed number of days before a hearing or other specified event.
+(11) Despite subclause (3), when a document is, under rule 6.1(1)(d)(iii), transmitted electronically to the fax number or email address of a solicitor in a State or Territory of Australia at a time later than 5 pm in that State or Territory, it is to be treated as having been served on the first subsequent working day.
 
 ### 6.7 Service under agreement
 Service by a method agreed to in writing by a party is sufficient service on that party.
@@ -2830,6 +2881,34 @@ A document may be personally served by leaving the document with the person to b
 (2) A corporation (other than an overseas company within the meaning of section 2 of the Companies Act 1993) may be served in New Zealand in accordance with rule 6.11 by service on a person appearing to have control of the business of that corporation at the principal or only place of business of that corporation in New Zealand if the corporation—
   (a) is incorporated outside New Zealand; and
   (b) has a place or places of business in New Zealand.
+
+### 6.13A Personal service on Australian corporations, partnerships, and attorneys
+A document in a proceeding in which an initiating document is to be or has been served on a defendant under section 13 of the Trans-Tasman Proceedings Act 2010 may be served in Australia—
+  (a) on a company registered in Australia under the Corporations Act 2001 (Aust) in the same way as if it were a company to which section 387 of the Companies Act 1993 applies:
+  (b) on a corporation incorporated in Australia (other than a company specified in paragraph (a)) in the same way as if it were a corporation to which rule 6.12(2) applies:
+  (c) on a partnership, or on a person carrying on business in the name of a firm apparently consisting of more than 1 person, by serving it in accordance with rule 6.11 either on any partner or on that person, or—
+    (i) on any person appearing to have control of the business of the partnership or apparent partnership; and
+    (ii) at the principal place in Australia of the business of the partnership or apparent partnership:
+  (d) on a person who is out of Australia and New Zealand by serving, in accordance with rule 6.11, an attorney or agent of that person in Australia if the attorney or agent is authorised—
+    (i) to transact that person's affairs generally and to defend proceedings; or
+    (ii) to transact the person's affairs in respect of the subject matter of the proceeding and to defend the particular proceeding.
+
+### 6.13B Personal service in Australia on foreign corporations
+(1) A document in a proceeding in which an initiating document is to be or has been served on a defendant under section 13 of the Trans-Tasman Proceedings Act 2010 may be served in Australia—
+  (a) on a foreign company registered under section 601CE of the Corporations Act 2001 (Aust) as follows:
+    (i) by delivery to a person named in the register kept for the purposes of Division 2 of Part 5B.2 of that Act as a director of the foreign company and who is resident in Australia; or
+    (ii) by delivery to a person named in that register as being authorised to accept service in Australia of documents on behalf of the foreign company; or
+    (iii) by delivery to an employee of the foreign company at the foreign company's place of business in Australia or, if the foreign company has more than 1 place of business in Australia, at the foreign company's principal place of business in Australia; or
+    (iv) by serving it in accordance with any directions as to service given by the court having jurisdiction in the proceeding; or
+    (v) in accordance with an agreement made with the foreign company:
+  (b) on a foreign corporation of the kind specified in subclause (2) by serving it in accordance with rule 6.11—
+    (i) on a person appearing to have control of the business of that corporation; and
+    (ii) at the principal place of business of that corporation in Australia.
+(2) Subclause (1)(b) applies to a foreign corporation that—
+  (a) is not a foreign company registered under section 601CE of the Corporations Act 2001 (Aust); and
+  (b) is incorporated but not in Australia and not in New Zealand; and
+  (c) has a place of business in Australia; and
+  (d) does not have a place of business in New Zealand.
 
 ### 6.14 Personal service on unincorporated societies
 A document may be served on an unincorporated society by serving the president, chairperson, secretary, or any similar officer of the society under rule 6.11.
@@ -3003,6 +3082,9 @@ If a defendant is to be served out of New Zealand, the memorandum required by ru
 
 ### 6.35 Time for filing defence
 Except when the court otherwise orders, a defendant who has been served out of New Zealand must file a statement of defence or appearance within 30 working days from the date of service.
+
+### 6.36 Subpart does not apply to service in Australia of documents for or in certain trans-Tasman proceedings
+This subpart (which contains rules on service out of New Zealand) does not apply to service in Australia of an initiating document for, or of any other document to be served in or for, a proceeding an initiating document for which may be served in Australia under subpart 1 of Part 2 of the Trans-Tasman Proceedings Act 2010.
 
 ### Part 7 — Case management, interlocutory applications, and interim relief
 
@@ -3644,6 +3726,7 @@ Rules 7.68 to 7.75 apply, with all necessary modifications, to any counterclaim 
   (d) an application for a freezing order under Part 32.
 (4) Before making an order under this rule, the court must be satisfied that there is a real connecting link between the subject matter of the interim relief and the territorial jurisdiction of the court.
 (5) An order under subclause (1) must not be inconsistent with interim relief granted in the overseas proceedings by the court outside New Zealand.
+(6) This rule does not apply to a civil proceeding commenced or to be commenced in an Australian court.
 
 ### Part 8 — Discovery and inspection and interrogatories
 
@@ -4388,7 +4471,7 @@ In rules 9.59 to 9.67, unless the context otherwise requires, terms that are def
 (2) Every application for leave to serve a New Zealand subpoena on a witness in Australia must be accompanied by an affidavit containing the following matters:
   (a) the name, occupation, and residential address of the witness:
   (b) proof that the witness has attained the age of 18 years:
-  (c) if the subpoena requires the witness to testify and to attend at the New Zealand court, whether consideration has been given to requiring the witness to testify from Australia by video link or telephone conference and the reason it is not considered appropriate that the witness do so:
+  (c) if the subpoena requires the witness to testify and to attend at the New Zealand court, whether consideration has been given to requiring the witness to testify from Australia by remote appearance medium and the reason it is not considered appropriate that the witness do so:
   (d) the latest date proposed for service of the subpoena:
   (e) if the subpoena requires the witness to attend at the New Zealand court or at any other place,—
     (i) the availability of suitable means of transport to enable the witness to comply with the subpoena:
@@ -4406,29 +4489,34 @@ Every statement that, in accordance with section 156 of the Evidence Act 2006, i
 ### 9.62 Application to set aside New Zealand subpoena
 (1) An application to set aside a New Zealand subpoena served on a witness in Australia may be filed by—
   (a) a person who is entitled to file documents under these rules; or
-  (b) a person who is entitled to practise as a solicitor of a Supreme Court of a State or Territory of Australia and who is in practice on his or her own account or as a principal in a firm of solicitors.
-(2) The application may be filed by sending it by fax to the registry of the High Court in which leave to serve the subpoena was given.
+  (b) a person who is entitled to practise as a solicitor of a Supreme Court of a State or Territory of Australia.
+(2) The application—
+  (a) may state (for the purposes of rule 9.64(1)) that a hearing is required to determine the application; and
+  (b) may be filed by sending it by fax or email to the registry of the relevant court in which leave to serve the subpoena was given.
 (3) Every application must be made by way of interlocutory application.
 (4) The heading on the application may be the same as the heading on the order granting leave to serve the subpoena.
 (5) Every application—
   (a) must state an address in New Zealand or Australia that is the applicant’s address for service:
   (b) may state a fax number in New Zealand or Australia to which documents relating to the application may be sent to the applicant.
-(6) If the application is filed by fax, the Registrar—
-  (a) must send by fax to the applicant or the applicant’s solicitor, as the case may be, an acknowledgement that the application has been received:
-  (b) may, if the application is not clear or legible, require the applicant or the applicant’s solicitor, as the case may be, to transmit the application by fax again.
+(6) If the application is filed by fax or email, the Registrar—
+  (a) must send by fax or email to the applicant or the applicant’s solicitor, as the case may be, an acknowledgement that the application has been received:
+  (b) may, if the application is not clear or legible, require the applicant or the applicant’s solicitor, as the case may be, to transmit the application by fax or email again.
 
 ### 9.63 Service of documents on applicant
 (1) A document relating to an application to set aside a New Zealand subpoena may be served on the applicant by—
-  (a) leaving it at the address for service of the applicant stated in the application; or
+  (a) leaving it at, or posting it to, the address for service of the applicant stated in the application; or
   (b) if a fax number is stated in the application, sending it by fax to that number.
+(1A) If a document relating to the application is served on the applicant by post in accordance with subclause (1)(a), it is to be treated as having been served on the earlier of—
+  (a) the sixth working day after the day on which it was posted; and
+  (b) the day on which it was received.
 (2) If a document relating to the application is served on the applicant by fax, the document must, subject to subclauses (3) and (4), be treated as having been served on the day on which it was sent.
 (3) If a document is sent by fax to a fax number in a State or Territory of Australia at a time later than 5 pm in that State or Territory, the document must, subject to subclause (4), be treated as having been served on the first working day after the day on which it was sent.
 (4) A document sent to a fax number in Australia must, unless the contrary is proved, be treated as having been received in a complete and legible condition.
 
 ### 9.64 Hearing of application
 (1) Despite any other rule, if neither the applicant for an order to set aside a New Zealand subpoena nor the person at whose request the subpoena was issued states that a hearing is required, the court may determine an application to set the subpoena aside without a hearing.
-(2) For the purposes of determining an application, the court may, if it thinks fit, hold a hearing by video link or telephone conference under section 168 of the Evidence Act 2006.
-(3) Subject to the Evidence Act 2006, the court must hold a hearing by video link or telephone conference if the applicant requests, either in the application or within a reasonable time after the filing of the application, that a hearing be held by video link or telephone conference.
+(2) For the purposes of determining an application, the court may, if it thinks fit, hold a hearing by remote appearance medium under section 168 of the Evidence Act 2006.
+(3) Subject to the Evidence Act 2006, the court must hold a hearing by remote appearance medium if the applicant requests, either in the application or within a reasonable time after the filing of the application, that a hearing be held by remote appearance medium.
 
 ### 9.65 Failure to comply with subpoena
 A certificate under section 161 of the Evidence Act 2006 must be in form G 29.
@@ -4440,22 +4528,23 @@ A certificate under section 161 of the Evidence Act 2006 must be in form G 29.
   (b) send to the Registrar of the Australian Court that issued the subpoena, by fax or other means of communication, a copy of the receipt and of the subpoena; and
   (c) send the document or thing together with a copy of the subpoena, without delay, to the Australian Court by means enabling it to be received before the date on which it is required to be produced to that court.
 
-### 9.67 Evidence and submissions by video link and telephone conference
-(1) An application under section 168 of the Evidence Act 2006 for a direction that evidence be given from Australia or submissions be made from Australia by video link or telephone conference may be made without notice. Except in the case of an application under section 160 of that Act, the application must be accompanied by an affidavit containing the following matters:
+### 9.67 Evidence and submissions by remote appearance medium from Australia
+(1) An application under section 168 of the Evidence Act 2006 for a direction that evidence be given from Australia or submissions be made from Australia by remote appearance medium may be made without notice. Except in the case of an application under section 160 of that Act, the application must be accompanied by an affidavit stating—
   (a) the nature of the evidence or the submissions:
   (b) the place in Australia from which the evidence is to be given or the submissions are to be made:
-  (c) if it is proposed that evidence be given or submissions be made by video link, particulars of the video link facilities available at the courtroom or other place where the court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
-  (d) if it is proposed that evidence be given or submissions be made by telephone conference, particulars of the telephone conference facilities available at the courtroom or other place where the court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
-  (e) in a case where evidence is proposed to be given, an estimate of the time the examination of the witness will take:
+  (c) if it is proposed that evidence be given or submissions be made by audiovisual link, particulars of the audiovisual link facilities available at the courtroom or other place where the court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
+  (d) if it is proposed that evidence be given or submissions be made by audio link, particulars of the audio link facilities available at the courtroom or other place where the court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
+  (e) in a case where evidence is proposed to be given, an estimate of the time the evidence will take:
   (f) whether issues of character or credibility are likely to be raised:
   (g) in a case in which submissions are proposed to be made, an estimate of the time required to make the submissions.
 (2) When the court gives a direction under section 168 of the Evidence Act 2006, it must instruct the Registrar to make appropriate arrangements in New Zealand and Australia in accordance with any particular directions that the court may make.
 (3) Without limiting subclause (2), the court may—
-  (a) direct that the evidence be given or the submissions be made at an Australian Court or at another place in Australia:
-  (b) request that an officer of an Australian Court or other person approved by the Judge be present to assist in the transmission of evidence or submissions, and in particular to—
-    (i) introduce witnesses giving evidence or a barrister or solicitor, or both, making submissions:
+  (a) direct that the evidence be given or the submissions be made at an Australian court or at another place in Australia:
+  (b) request that an officer of an Australian court or other person approved by the Judge be present to assist in the transmission of evidence or submissions, and in particular to—
+    (i) introduce witnesses giving evidence or a barrister or solicitor (or both) making submissions:
     (ii) assist with the administration of oaths:
     (iii) assist with the implementation of any directions or requests given or made by the Judge hearing the evidence or submissions.
+(4) In this rule, evidence includes the related examination of a person giving evidence.
 
 #### Subpart 9 — Procedure when evidence given by affidavit
 
@@ -4978,6 +5067,7 @@ The court may give judgment on the issue of liability, and direct a trial of the
 ### 12.4 Interlocutory application for summary judgment
 (1) Application for judgment under rule 12.2 or 12.3 must be made by interlocutory application.
 (2) An application by a plaintiff may be made either at the time the statement of claim is served on the defendant, or later with the leave of the court.
+(2A) If an application by a plaintiff is made at the time that the statement of claim is served on the defendant in Australia under section 13 of the Trans-Tasman Proceedings Act 2010, the hearing date allocated (under rule 7.33) for the application must be after the period (under section 17(1)(a) or (b) of that Act) within which the defendant may file an appearance or response document.
 (3) An application by a defendant may be made either at the time the statement of defence is served on the plaintiff, or later with the leave of the court.
 (4) The party making the application must file and serve on the other party the following documents:
   (a) an interlocutory application on notice in form G 31:
@@ -7284,90 +7374,43 @@ The form of an enforcement process within the meaning of rule 17.3 issued on a f
 #### Subpart 3 — Enforcement of certain judgments and orders of Federal Court of Australia
 
 ### 23.26 Interpretation
-(1) In this subpart, unless the context otherwise requires,—
-  - **Act** means the Reciprocal Enforcement of Judgments Act 1934
-  - **Federal Court** means the Federal Court of Australia
-  - **general rules** means all the rules in these rules except this subpart
-  - **judgment creditor** means the person in whose favour a judgment, order, or injunction was given, made, or granted in a specified proceeding; and includes any person in whom the rights under it have become vested by succession, assignment, or otherwise
-  - **judgment debtor** means the person against whom a judgment, order, or injunction was given, made, or granted in a specified proceeding; and includes any person against whom it is enforceable under the law of the Commonwealth of Australia or any State or Territory of Australia.
-(2) In this subpart, unless the context otherwise requires, expressions not defined in this subpart but defined in Part 1A of the Act have the meanings so defined.
+[Repealed]
 
 ### 23.27 Scope
-This subpart applies to judgments, orders, and injunctions given, made, or granted in specified proceedings.
+[Repealed]
 
 ### 23.28 Application of other Parts
-The general rules, except subpart 1 of this Part, apply unless those rules are modified by or are inconsistent with this subpart.
+[Repealed]
 
 ### 23.29 Method of application
-(1) An application for an order that a judgment, order, or injunction to which this Part applies be registered under section 8D of the Act must be made by originating application under Part 19, and the provisions of Part 19 apply unless they are modified by or inconsistent with this subpart.
-(2) Every application under subclause (1) must be accompanied by a copy of the judgment, order, or injunction certified by the Federal Court to be a true copy or by a legible facsimile of that certified copy.
-(3) An application under subclause (1) may be made without notice.
-(4) If a facsimile of a certified copy of a judgment, order, or injunction to which this subpart applies accompanies the application, the application must be supported by an affidavit of the judgment creditor, if that person is present in New Zealand, or, if not, by that person’s solicitor in New Zealand.
-(5) The affidavit must state that the person making it has been advised by—
-  (a) the Federal Court; or
-  (b) a barrister or solicitor, or both, being a person entitled to practise in Australia before the Federal Court in all proceedings in respect of which that court has jurisdiction and who also practised in relation to the proceeding in which the judgment or order or injunction appears to have been made or given or granted,—
-that the Federal Court gave the judgment, issued the order, or granted the injunction.
+[Repealed]
 
 ### 23.30 Title of proceeding
-The heading to an application under rule 23.29 must include a reference to Part 1A of the Act and include—
-  (a) a reference to the judgment, order, or injunction; and
-  (b) the names of the judgment creditor and the judgment debtor.
+[Repealed]
 
 ### 23.31 Place of filing
-Every application for an order that a judgment, order, or injunction to which this subpart applies be registered must be filed in the registry of the court determined as follows:
-  (a) if the judgment debtor is resident or the judgment debtor’s principal place of business is in New Zealand, whichever of the registries of the court at Auckland, Wellington, or Christchurch is nearest to the residence or principal place of business of the judgment debtor (or, if there are 2 or more judgment debtors, the first named of them):
-  (b) if no judgment debtor is resident or no judgment debtor’s principal place of business is in New Zealand, whichever of those registries the plaintiff selects:
-  (c) despite paragraphs (a) and (b), if the Crown is the judgment debtor, the court at Wellington.
+[Repealed]
 
 ### 23.32 Evidence of exchange rates and interest
-If a judgment or order for the payment of a sum of money in Australian currency is to be registered, the application must be supported by an affidavit stating,—
-  (a) if the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency,—
-    (i) the rate of exchange prevailing on the day of the application between New Zealand currency and Australian currency:
-    (ii) the amount that the sum payable under the judgment or order represents in New Zealand currency so calculated:
-  (b) the rate of interest (if any) carried by the judgment or order:
-  (c) the amount of interest that, under Australian law, will have become due and payable under the judgment or order up to the time of the application, expressed,—
-    (i) if the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency, in New Zealand currency calculated under paragraph (a)(i):
-    (ii) if the application states that the judgment is to be registered in Australian currency, in Australian currency.
+[Repealed]
 
 ### 23.33 Method of registration
-(1) The registration under section 8D of the Act of every judgment, order, or injunction to which this subpart applies must be effected by entry of particulars in an appropriate record book kept by the Registrar.
-(2) The record book must contain—
-  (a) the date of the order for registration:
-  (b) the name, title, and trade or business of the judgment creditor and the judgment debtor respectively:
-  (c) the usual or last known place of abode or business of the judgment creditor and judgment debtor respectively:
-  (d) in any case where a sum of money is payable under a judgment or order,—
-    (i) the sum payable under the judgment or order, expressed,—
-      (A) if the application states that the judgment creditor so wishes, in Australian currency; or
-      (B) in any other case, as if it were for an equivalent amount in New Zealand currency based on the rate of exchange prevailing on the day of the application for registration; and
-    (ii) the interest, if any, up to the time of registration, for which the judgment or order is registered:
-  (e) in the case of an order or injunction, the terms of the order or injunction:
-  (f) the costs allowed of and incidental to registration:
-  (g) in the case of a judgment or order, the particulars of any enforcement issued.
+[Repealed]
 
 ### 23.34 Notice of registration
-(1) Notice in writing of the registration of a judgment, order, or injunction to which this subpart applies must be served on the judgment debtor.
-(2) The notice must be served personally in accordance with the general rules unless some other method of service is ordered by the court.
-(3) If the judgment debtor is out of New Zealand, the notice may, notwithstanding rule 6.28, be served on the judgment debtor without the leave of the court.
+[Repealed]
 
 ### 23.35 Contents of notice of registration
-The notice of registration must state—
-  (a) full particulars of—
-    (i) the judgment, order, or injunction; and
-    (ii) the order for registration; and
-  (b) whether the notice is issued by the judgment creditor or by a solicitor on behalf of that person; and
-  (c) an address for service; and
-  (d) the right of the judgment debtor to apply to the court under section 8E of the Act on the grounds set out in that section to have the registration set aside or to apply to the court under section 8G of the Act on the grounds set out in that section for a stay of execution.
+[Repealed]
 
 ### 23.36 Service of copy of judgment, order, or injunction
-When a judgment, order, or injunction to which this subpart applies is registered, a copy of the judgment, order, or injunction, or a legible facsimile or electronic version of it, or a legible copy of that facsimile or electronic version, must be served on the judgment debtor either with the notice of registration or separately.
+[Repealed]
 
 ### 23.37 Copy of judgment, order, or injunction to be filed if facsimile produced
-(1) If a judgment, order, or injunction to which this subpart applies has been registered on the production of a facsimile or electronic version of it, the applicant must file the copy from which the facsimile or electronic version was made not later than 5 working days after the making of the order.
-(2) Except with the leave of the court, no proceedings for the enforcement of the judgment or the order or injunction may be commenced before the copy is filed.
+[Repealed]
 
 ### 23.38 Application to set aside registration or for stay of enforcement
-(1) An application to set aside the registration of a judgment, order, or injunction to which this subpart applies or an application for a stay of enforcement of such a judgment, order, or injunction must be made by interlocutory application.
-(2) The court may direct that an issue between the judgment creditor and the judgment debtor be stated and tried and may give such directions in relation to the trial as are necessary.
+[Repealed]
 
 ### Part 24 — Insolvency
 
@@ -8922,7 +8965,7 @@ The Registrar at the registry at which a document or thing is produced in compli
 (2) An application under this rule may be made without notice.
 (3) A copy of the judgment, order, or injunction must be—
   (a) sealed with the seal of the court; and
-  (b) certified to be a true copy of a judgment, order, or injunction given, made, or issued in a New Zealand proceeding within the meaning of section 56D of the Act and section 32B of the Federal Court of Australia Act 1976.
+  (b) certified to be a true copy of a judgment, order, or injunction given, made, or issued in a New Zealand proceeding within the meaning of section 56D of the Act or an NZ market proceeding within the meaning of section 4 of the Trans-Tasman Proceedings Act 2010 (Aust).
 
 ### 28.12 Evidence and submissions by video link and telephone conference
 (1) On an application by a party to a New Zealand proceeding a Judge may, if satisfied that the necessary equipment and facilities are available, direct that a witness may give evidence from Australia or a person appearing as a barrister or solicitor, or both, may make submissions from Australia by video link or telephone conference.
@@ -9527,6 +9570,9 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
+| *Substitute 30, in accordance with rules 5.47(3) and 6.35, if this notice is served out of New Zealand. |
+| --- |
+
 | *Select one. |
 | --- |
 
@@ -9598,6 +9644,9 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | --- |
 
 | *Select one. |
+| --- |
+
+| *Substitute 30, in accordance with rules 4.14(1A) and 6.35, if this notice is served out of New Zealand. |
 | --- |
 
 | *Select one. |
@@ -10690,6 +10739,8 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | 56 | Preparation of written submissions | 1 | 3 | 6 |
 | 57 | Appearance at hearing for sole or principal counsel | The time occupied by the hearing measured in quarter days |  |  |
 | 58 | Second and subsequent counsel if allowed by court | 50% of allowance for appearance for principal counsel |  |  |
+|  | Australian judgment proceedings |  |  |  |
+| 58A | Preparing and filing an application under section 56 of the Trans-Tasman Proceedings Act 2010 to register in the court an Australian judgment | 0.3 | 0.3 | 0.3 |
 |  | Enforcement of judgment or order |  |  |  |
 | 59 | Charging order without application | 0.3 | 0.3 | 1 |
 | 60 | Charging order with application, including any unopposed order | 0.5 | 0.5 | 1.4 |
