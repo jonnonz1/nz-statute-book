@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-11_
 
 > An Act—ato continue the Maritime Safety Authority of New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment
 
@@ -3127,8 +3127,8 @@ The master of a regulated oil tanker or regulated ship, in New Zealand marine wa
 (2) No action shall be brought in a court to enforce any claim attributable to the discharge of oil causing damage in or to the territory, territorial sea, or exclusive economic zone of a CLC State, other than New Zealand.
 
 ### 369 Reciprocal enforcement of judgments
-(1) Part 1 of the Reciprocal Enforcement of Judgments Act 1934 shall apply to any judgment, given by a court in a country in respect of which the CLC Convention is in force, to enforce a claim in respect of liability incurred under any provision corresponding to section 345.
-(2) Subsections (3) and (4) of section 6 of the Reciprocal Enforcement of Judgments Act 1934 shall have no effect in the case of any such judgment.
+(1) Part 1 (except for section 6(3) and (4)) of the Reciprocal Enforcement of Judgments Act 1934 applies to a judgment given by a court in a country (other than Australia) in respect of which the CLC Convention is in force and to enforce a claim in respect of liability incurred under any provision corresponding to section 345 of this Act.
+(2) A judgment given by a court in Australia to enforce a claim in respect of liability incurred under Part II of the Protection of the Sea (Civil Liability) Act 1981 (Aust) (or any later Australian enactments corresponding to section 345 of this Act) must be treated as a registrable Australian judgment for the purposes of subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010.
 
 ## Part 26 — Compensation from International Oil Pollution Compensation Fund for pollution damage
 
