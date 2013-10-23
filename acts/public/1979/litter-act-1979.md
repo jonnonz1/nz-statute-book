@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-23_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -60,7 +60,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
   (b) every traffic officer while he is acting in the exercise of his powers or the discharge of his duties in any place where he is authorised to exercise his jurisdiction as a traffic officer:
   (c) every warranted officer within the meaning of the Conservation Act 1987:
   (d) every officer within the meaning of section 93(5) of the Reserves Act 1977 while he is acting in the exercise of his powers or the discharge of his duties in any public, nature, or scientific reserve (being in each case a reserve to which this Act applies) in respect of which he is for the time being authorised to act:
-  (e) every harbourmaster appointed under section 7 or section 42 of the Harbours Act 1950 or pursuant to the Lake Taupo Regulations 1976 while acting in the exercise of his powers or the discharge of his duties in the harbour in respect of which he was appointed:
+  (e) every harbourmaster appointed under Part 3A of the Maritime Transport Act 1994 or pursuant to the Lake Taupo Regulations 1976 while acting in the exercise of his powers or the discharge of his duties in the harbour in respect of which he was appointed:
   (f) every enforcement officer and honorary enforcement officer within the meaning of the Walking Access Act 2008 while that officer is acting in the exercise of his or her powers and the discharge of his or her duties on any walkway:
   (g) any officer appointed pursuant to section 196 or section 197 of the Fisheries Act 1996, and any ranger appointed pursuant to section 38 of the Wildlife Act 1953:
   (h) every ranger appointed under section 40 of the National Parks Act 1980 while he is acting in the exercise of his powers and the discharge of his duties in any national park in respect of which he is authorised to act.
