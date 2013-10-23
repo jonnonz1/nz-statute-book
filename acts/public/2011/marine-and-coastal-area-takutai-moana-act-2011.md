@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-23_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -493,7 +493,7 @@ Nothing in this Act limits or affects—
   (b) the Minister is satisfied, after considering the matters specified in section 36(2), that there is good reason not to grant the person a freehold interest.
 (2) The persons are the following:
   (a) any port company (as defined in section 2(1) of the Port Companies Act 1988):
-  (b) any port operator (as defined in section 650J(6) of the Local Government Act 1974):
+  (b) any port operator (as defined in Part 3A of the Maritime Transport Act 1994):
   (c) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company):
   (d) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company).
 
@@ -858,7 +858,7 @@ In this section and in sections 64 and 65,—
       (iii) a network utility operator (within the meaning of section 166 of the Resource Management Act 1991):
       (iv) an electricity generator (as defined in section 2(1) of the Electricity Act 1992):
       (v) a port company (as defined in section 2(1) of the Port Companies Act 1988):
-      (vi) a port operator (as defined in section 650J(6) of the Local Government Act 1974); and
+      (vi) a port operator (as defined in Part 3A of the Maritime Transport Act 1994):
     (c) reasonably necessary to—
       (i) the national social or economic well-being; or
       (ii) the social or economic well-being of the region in which the infrastructure is located
