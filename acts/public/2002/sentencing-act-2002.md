@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-10-23_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -1437,6 +1437,11 @@ When an offender performs any service or does any work or attends any course or 
   (b) cancellation of a sentence of imprisonment and substitution of a sentence of home detention under section 80K.
 (2) For the purposes of any appeal or application for leave to appeal against the substituted sentence, a sentence substituted for a sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
 
+### 80MA Registrar must notify controlling officer and offender of resumption of sentence
+If the outcome of an offender's appeal against a sentence of home detention is unsuccessful and the offender has been granted bail under section 53, 54, or 55 of the Bail Act 2000, the Registrar of the appeal court must—
+  (a) notify the controlling officer (within the meaning of section 27 of the Corrections Act 2004) of the probation area in which the sentence is to be served of the date on which the sentence is to resume; and
+  (b) notify the offender of that date if he or she is not present in court at the time the appeal is disposed of.
+
 ### 80N Imposition of post-detention conditions on offender
 (1) A court that sentences an offender to a term of home detention of 6 months or less may impose the standard post-detention conditions and any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
 (2) If a court sentences an offender to a term of home detention of more than 6 months,—
@@ -1605,6 +1610,28 @@ When an offender performs any service or does any work or attends any assessment
   (b) the sentence of home detention resumes when the offender has reported as required under paragraph (a).
 (5) The Registrar of the court in which the sentence or sentences of imprisonment are quashed must notify the chief executive of the Department of Corrections.
 (6) If the sentence of home detention never resumes under subsection (4)(b), it is cancelled when the offender ceases to be detained under the sentence of imprisonment.
+
+### 80ZGD Effect of appeal on resumption of sentence of home detention
+(1) This section applies if—
+  (a) an offender has, on or after the commencement of this section, lodged an appeal against—
+    (i) a sentence of home detention imposed before or after that commencement; or
+    (ii) the conviction on which that sentence is based; or
+    (iii) both; and
+  (b) the offender has been granted bail under section 53, 54, or 55 of the Bail Act 2000; and
+  (c) the outcome of the appeal is that—
+    (i) the appeal is dismissed; or
+    (ii) the appeal is deemed pursuant to rules of court to be dismissed; or
+    (iii) leave to appeal is refused; or
+    (iv) neither the sentence of home detention nor the conviction on which it was made is set aside when the appeal is determined.
+(2) If this section applies,—
+  (a) the court to which the appeal is made must specify a date on which the offender must report to a probation officer and that date must be not earlier than 10 working days after the outcome of the appeal is determined and must fall on a working day; and
+  (b) the offender must report to a probation officer on that date; and
+  (c) the sentence of home detention resumes when the offender has reported to the probation officer on that date.
+(3) If the offender has been on bail for more than 2 months, the probation officer must, before the sentence of home detention resumes,—
+  (a) review the suitability of the home detention address; and
+  (b) ensure every relevant occupant consents, in accordance with section 26A(3), to the offender resuming the sentence at the home detention residence; and
+  (c) if necessary, apply to the court for a variation or cancellation of the sentence under section 80F or obtain from the chief executive of the Department of Corrections a variation of the home detention residence under section 80FA.
+(4) This section does not apply if the offender is detained under a sentence of imprisonment.
 
 ### 80ZH Application of section 80F during epidemic
 (1) While an epidemic management notice is in force,—
