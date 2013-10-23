@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2013-10-12_
+_Consolidation as at 2013-10-23_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1800,7 +1800,7 @@ Without limiting section 145, a territorial authority may make bylaws for its di
 **General provisions applying to bylaws made by a local authority**
 
 ### 151 General provisions applying to bylaws made under this Act
-(1AA) This section applies to a bylaw only if it is made under this Act.
+(1AA) This section applies to a bylaw only if it is made under this Act or the Maritime Transport Act 1994.
 (1) A bylaw may require anything to be done in any manner, or within any time, that is required by the local authority or by a person referred to in the bylaw.
 (2) A bylaw may leave any matter or thing to be regulated, controlled, or prohibited by the local authority by resolution either generally, for any specified classes of case, or in a particular case.
 (3) A bylaw may provide for the following:
@@ -1831,7 +1831,7 @@ Without limiting section 145, a territorial authority may make bylaws for its di
 **Procedure for making bylaws**
 
 ### 155 Determination whether bylaw made under this Act is appropriate
-(1AA) This section applies to a bylaw only if it is made under this Act.
+(1AA) This section applies to a bylaw only if it is made under this Act or the Maritime Transport Act 1994.
 (1) A local authority must, before commencing the process for making a bylaw, determine whether a bylaw is the most appropriate way of addressing the perceived problem.
 (2) If a local authority has determined that a bylaw is the most appropriate way of addressing the perceived problem, it must, before making the bylaw, determine whether the proposed bylaw—
   (a) is the most appropriate form of bylaw; and
@@ -1840,9 +1840,9 @@ Without limiting section 145, a territorial authority may make bylaws for its di
 
 ### 156 Special consultative procedure must be used in making, amending, or revoking bylaw made under this Act
 (1) A local authority must use the special consultative procedure (as modified by section 86) in—
-  (a) making a bylaw under this Act:
-  (b) amending a bylaw made under this Act:
-  (c) revoking a bylaw made under this Act.
+  (a) making a bylaw under this Act or the Maritime Transport Act 1994:
+  (b) amending a bylaw made under this Act or the Maritime Transport Act 1994:
+  (c) revoking a bylaw made under this Act or the Maritime Transport Act 1994.
 (2) Despite subsection (1)(b), a local authority may, by resolution publicly notified,—
   (a) make minor changes to, or correct errors in, a bylaw, but only if the changes or corrections do not affect—
     (i) an existing right, interest, title, immunity, or duty of any person to whom the bylaw applies; or
@@ -1861,13 +1861,13 @@ Without limiting section 145, a territorial authority may make bylaws for its di
 **Review of bylaws made under this Act or the Local Government Act 1974**
 
 ### 158 Review of bylaws made under this Act or the Local Government Act 1974
-(1) A local authority must review a bylaw made by it under this Act (other than a bylaw deemed to be made under this Act by section 293) no later than 5 years after the date on which the bylaw was made.
+(1) A local authority must review a bylaw made by it under this Act or the Maritime Transport Act 1994 (other than a bylaw deemed to be made under this Act by section 293) no later than 5 years after the date on which the bylaw was made.
 (2) A local authority must review a bylaw made by it under the Local Government Act 1974 (other than a bylaw deemed to be made under this Act by section 293)—
   (a) no later than 1 July 2008, if the bylaw was made before 1 July 2003; and
   (b) no later than 5 years after the bylaw was made, if the bylaw was made after 1 July 2003.
 
 ### 159 Further reviews of bylaws every 10 years
-A local authority must review a bylaw made by it under this Act or the Local Government Act 1974 no later than 10 years after it was last reviewed as required by section 158 or this section.
+A local authority must review a bylaw made by it under this Act, the Maritime Transport Act 1994, or the Local Government Act 1974 no later than 10 years after it was last reviewed as required by section 158 or this section.
 
 ### 160 Procedure for and nature of review
 (1) A local authority must review a bylaw to which section 158 or 159 applies by making the determinations required by section 155.
