@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2013-10-23_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -528,7 +528,7 @@ The Trustees of the Te Arawa Lakes Trust are not liable for an existing structur
 (1) In sections 38 to 40 and 45, public utility means a structure or thing made, or an activity carried on, for the purposes of public utility, and includes—
   (a) a network utility operation as defined in section 166 of the Resource Management Act 1991; and
   (b) any project or works relating to electricity generation; and
-  (c) harbourmaster functions carried out, and harbour works made, under the Local Government Act 1974; and
+  (c) harbourmaster functions carried out, and harbour works made, under Part 3A of the Maritime Transport Act 1994; and
   (d) navigation aids and any activity of or on behalf of the Crown, a local authority, or a statutory body that is necessary for the purpose of assisting or improving the navigation of vessels over the Te Arawa lakebeds; and
   (e) public works, including reclamations, carried out by or on behalf of the Crown or a local authority; and
   (f) structures made, or activities or works carried on, by or on behalf of a local authority for the control of water levels and the avoidance and control of flooding; and
