@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-23_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3570,6 +3570,12 @@ Section 163 applies to any warrant of a kind referred to in that section whether
 
 ### 403 Transitional provision regarding dealing with witness arrested under warrant
 Section 164 applies to a warrant of a kind referred to in that section whether the warrant was issued before, on, or after the commencement date.
+
+### 403A Transitional provision regarding effect of appeal on sentence of home detention
+If, in any proceeding to which section 397 applies, a person is convicted and sentenced to home detention and on or after the date that this section comes into force either party appeals a determination to which the sentence relates, section 397(2) has effect subject to the following:
+  (a) the sentence of home detention is not suspended just because a notice of appeal or application for leave to appeal has been given unless the appeal court expressly directs that the sentence be suspended; and
+  (b) section 399 of the Crimes Act 1961 and section 124 of the Summary Proceedings Act 1957 (as each of those provisions read before the commencement date) do not apply; and
+  (c) the person sentenced to home detention may apply for bail and the provisions of the Bail Act 2000 (as those provisions read before the commencement date) apply except that sections 54, 55, 58 and 59A of the Bail Act (as those provisions read at the time of the appeal) apply with any necessary modifications.
 
 ### 404 Transitional provision regarding correction of erroneous sentence
 (1) Sections 180 to 182 apply to a sentence imposed or an order made before, on, or after the commencement date.
