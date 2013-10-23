@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-23_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -990,7 +990,7 @@ For the purposes of any inspection or audit carried out in respect of any person
   (c) require that person to demonstrate to the chief executive that any operational, maintenance, or servicing procedure in respect of the security of a ship is capable of being carried out in a competent and timely manner.
 
 ### 80 Instructions of chief executive under certain provisions that conflict with other instructions
-(1) If a harbourmaster or any other person gives, under the Local Government Act 1974, instructions (harbourmaster's instructions) that conflict with instructions given by the chief executive under section 30(4), section 31(1), or section 34(1) (chief executive's instructions), the chief executive's instructions prevail.
+(1) If a harbourmaster or any other person gives instructions under Part 3A of the Maritime Transport Act 1994 (harbourmaster's instructions) that conflict with instructions given by the chief executive under section 30(4), section 31(1), or section 34(1) (chief executive's instructions), the chief executive's instructions prevail.
 (2) If the chief executive becomes aware of any conflict between any chief executive's instructions and any harbourmaster's instructions, the chief executive must, as soon as practicable, advise the person who has made the harbourmaster's instructions of the conflict, and that person must immediately upon being so advised withdraw those instructions or alter them so as to remove the conflict.
 (3) The chief executive must not issue chief executive's instructions that conflict with the exercise of a power by—
   (a) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
