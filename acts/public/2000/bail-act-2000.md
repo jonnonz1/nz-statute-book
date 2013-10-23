@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-10-23_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -145,7 +145,7 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
 (5) This section is subject to section 11.
 
 ### 14 Exercise of discretion when considering bail pending appeal
-(1) If a person is in custody under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
+(1) If a person is in custody or subject to a sentence of home detention under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
 (2) The onus is on the appellant to show cause why bail should be granted.
 (3) When considering the interests of justice under subsection (1) the court may, instead of the considerations in section 8, take into account the following considerations:
   (a) the apparent strength of the grounds of appeal:
@@ -768,33 +768,41 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 
 ### Subpart Subpart 4 — Bail pending appeal against conviction or sentence
 
-### 53 Granting of bail to appellant in custody pending appeal to District Court presided over by District Court Judge
-(1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to a District Court presided over by a District Court Judge.
-(2) If the appellant is in custody only under the conviction to which the appeal relates, the appellant is bailable, at any time before the hearing of the appeal,—
+### 53 Granting of bail to appellant in custody or on home detention pending appeal to District Court presided over by District Court Judge
+(1) This section applies if a person—
+  (a) is in custody under a conviction or sentence, or is subject to a sentence of home detention; and
+  (b) is appealing the conviction or sentence, or both, to a District Court presided over by a District Court Judge.
+(2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable, at any time before the hearing of the appeal,—
   (a) at the discretion of the Justice or Justices or a Community Magistrate or Community Magistrates who presided over the District Court whose determination is appealed against; or
   (b) if that Justice or those Justices or that Community Magistrate or those Community Magistrates are not available, at the discretion of a District Court Judge or some other Justice or Community Magistrate.
 (3) Subject to the provisions of section 31 (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the District Court dealing with the appeal on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
-(4) If an appellant is granted bail under this section, the provisions of sections 30 to 33, 34, 37, 38, 39, and 51, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
+(4) If an appellant is granted bail under this section, the provisions of sections 30 to 33, 35, 37, 38, 39, and 51, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
 (5) If an appellant is granted or refused bail under this section, or any decision is made under section 33(1) (as applied by subsection (4)) in respect of any appellant, the provisions of sections 41 and 42, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
-(6) Section 54(6) applies for the purpose of this section.
+(6) For the purposes of this section,—
+  (a) an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed; and
+  (b) an appellant is not deemed to be subject to a sentence of home detention only under the conviction to which the appeal relates if a direction has been given under section 80B of the Sentencing Act 2002 that another sentence of home detention is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence was imposed.
 (7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 
-### 54 Granting of bail to appellant in custody pending appeal to High Court
-(1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to the High Court.
-(2) If the appellant is in custody only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal—
+### 54 Granting of bail to appellant in custody or on home detention pending appeal to High Court
+(1) This section applies if a person—
+  (a) is in custody under a conviction or is subject to a sentence of home detention; and
+  (b) is appealing the conviction or sentence, or both, to the High Court.
+(2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal—
   (a) at the discretion of the District Court Judge who presided over the District Court whose determination is appealed against; or
   (b) if that District Court Judge is not available, at the discretion of some other District Court Judge.
 (3) Subject to the provisions of section 31 (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the High Court on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
 (4) If an appellant is granted bail under this section, the provisions of sections 30 to 33, 35 to 39, and 52, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
 (5) If an appellant is granted or refused bail under this section, or any decision is made under section 33(1) (as applied by subsection (4)) in respect of any appellant, the provisions of sections 44 and 45, as far as they are applicable and with all necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
-(6) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+(6) Section 53(6) applies for the purposes of this section.
 (7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 
-### 55 Granting of bail to appellant in custody pending appeal to Court of Appeal or Supreme Court
-(1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
-(2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody only under the conviction to which the appeal relates.
+### 55 Granting of bail to appellant in custody or on home detention pending appeal to Court of Appeal or Supreme Court
+(1) This section applies if a person—
+  (a) is in custody under a conviction or is subject to a sentence of home detention; and
+  (b) is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
+(2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates.
 (3) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
-(4) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+(4) Section 53(6) applies for the purposes of this section.
 
 ### 56 Appeals on questions of law
 If under section 302(2) of the Criminal Procedure Act 2011 a District Court or the High Court has decided to postpone sentencing a person or deferred the commencement of any sentence imposed, the court may, in accordance with the applicable provisions of this Act and the Criminal Procedure Act 2011,—
@@ -810,11 +818,26 @@ If under section 302(2) of the Criminal Procedure Act 2011 a District Court or t
 (2) If no application for bail has been made to the appeal court, the defendant may at any time apply to a High Court Judge or a District Court Judge (as the case may require), who may in the Judge's discretion grant bail on such terms and subject to such conditions as the Judge thinks fit.
 
 ### 58 Time on bail pending appeal not to be taken as time served
-Section 95 of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
+(1) Section 95 of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
+(2) For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served, time ceases to run on the sentence during any period in which the offender is released on bail pending an appeal.
 
-### 59 Surrender of appellant released on bail
-(1) An appellant who has been released from custody on bail pending the hearing of the appeal may surrender himself or herself and apply to a judicial officer of the court that released the defendant on bail for the discharge of bail.
-(2) A judicial officer who discharges the bail of a defendant may then issue a warrant for the arrest of the appellant and for his or her committal to a prison for the unexpired term of the sentence originally imposed.
+### 59 Surrender of appellant released on bail from sentence of imprisonment
+(1) An appellant who has been released from custody on bail pending the hearing of the appeal may surrender himself or herself and apply to a judicial officer of the court that released the appellant on bail for the discharge of bail.
+(2) A judicial officer who discharges the bail of an appellant may then issue a warrant for the arrest of the appellant and for his or her committal to a prison for the unexpired term of the sentence originally imposed.
+
+### 60 Surrender of appellant released on bail from sentence of home detention
+(1) An appellant who has been released from a sentence of home detention on bail pending the hearing of an appeal may surrender himself or herself and apply to a District Court Judge for the discharge of bail, and the District Court Judge may order that the appellant resume serving the sentence of home detention.
+(2) If an appellant applies for the discharge of bail under subsection (1), the District Court Judge may,—
+  (a) if the appellant has been on bail for longer than 2 months, adjourn the matter to enable a probation officer to obtain the information required under subsection (3); and
+  (b) either—
+    (i) remand the appellant in custody; or
+    (ii) grant the appellant bail for the period of the adjournment.
+(3) Before ordering that an appellant resume serving a sentence of home detention under subsection (1), the District Court Judge must, if the appellant has been on bail for longer than 2 months, consider information from a probation officer on—
+  (a) whether the home detention residence is still available and suitable; and
+  (b) whether every relevant occupant (as defined in section 26A(4)(a) of the Sentencing Act 2002) of the home detention residence consents, in accordance with section 26A(3)(d) of the Sentencing Act 2002, to the appellant resuming the sentence at the home detention residence.
+(4) If a District Court Judge orders that the appellant resume serving the sentence of home detention,—
+  (a) the appellant must go to and remain at the home detention residence unless absent in accordance with section 80C(3)(a) or (b) of the Sentencing Act 2002; and
+  (b) the sentence of home detention resumes when the appellant has arrived at the home detention residence under paragraph (a).
 
 ## Part 4 — Bail when proceedings taken by way of indictment
 
