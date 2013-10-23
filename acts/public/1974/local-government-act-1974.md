@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-23_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -5129,116 +5129,39 @@ If a land drainage scheme or water race scheme is not repaired or maintained in 
 ## Part 39A — Navigation
 
 ### 650A Councils may carry out harbour works
-(1) For the purposes of this Part,—
-  (a) a regional council may—
-    (i) erect and maintain navigation aids:
-    (ii) remove obstructions and impediments to navigation, and execute and maintain works which in the opinion of the council tend to improve navigation:
-  (b) a territorial authority may—
-    (i) erect and maintain quays, docks, piers, wharves, jetties, launching ramps, and any other works for the improvement, protection, management, or utilisation of waters within its district:
-    (ii) erect and maintain protective works (other than works undertaken under the Soil Conservation and Rivers Control Act 1941) to prevent the encroachment of waters within its district:
-    (iii) carry out such other navigation or harbour-related functions and responsibilities as it may have under a local government reorganisation scheme under this Act.
-(2) All wharves, jetties, and other works constructed by a council under the authority of this section belong to the council.
-(3) A council or other local authority may not construct wharves or other works, or levy any tolls, on land owned by some other person, without that person's consent.
-(4) The powers conferred by this section are subject to the Resource Management Act 1991.
+[Repealed]
 
 ### 650B Appointment of harbourmasters, enforcement officers, and honorary officers
-(1) A regional council may appoint such harbourmasters and enforcement officers (including honorary enforcement officers) as it thinks necessary for the purposes of this Part.
-(2) An honorary enforcement officer of a council has only such powers of enforcement officers under this Part as the council specifies in the instrument appointing the person to be an honorary enforcement officer.
-(3) Harbourmasters appointed under subsection (1) must have such qualifications as may be required by maritime rules.
+[Repealed]
 
 ### 650C General powers of harbourmasters and enforcement officers
-(1) A harbourmaster or enforcement officer of a regional council may at any time, for the purposes of carrying out his or her duty, enter and remain on any ship in waters within the council's region.
-(2) A harbourmaster or an enforcement officer (together with such assistants and equipment as are considered necessary) may enter and remain on any maritime facility, or on any land or property of a port company or other operator of a port facility, within the region of the council that appointed the harbourmaster for the purposes of carrying out his or her functions.
-(3) For the purpose of ensuring navigation safety, a harbourmaster or enforcement officer may give directions regulating—
-  (a) the time and manner in which any ship may enter into, depart from, lie, or navigate in those waters:
-  (b) the position, mooring, unmooring, placing, removing, securing, or unsecuring of any ship within those waters:
-  (c) the manner in which any ship within those waters, or at any maritime facility, may take in or discharge its cargo or any part of its cargo, and the manner in which cargo is secured or is being handled on a ship where there is a risk of cargo falling overboard and becoming a hazard to navigation.
+[Repealed]
 
 ### 650D Harbourmaster may remove ships
-(1) For the purposes of ensuring navigation safety or enforcing navigation bylaws, a harbourmaster of a regional council may—
-  (a) direct the master of any ship in waters within the region of the council, or lying at any maritime facility, to moor, unmoor, anchor, weigh anchor, secure, unsecure, place, or move his or her ship; and
-  (b) cause the ship to be moored or unmoored or to be anchored or to weigh anchor or to be secured or unsecured or to be placed or removed according to the harbourmaster's directions, and employ a sufficient number of persons for the purpose.
-(2) A harbourmaster of a regional council may, in relation to any floating, submerged, or stranded object (other than one to which section 650K applies) that the harbourmaster considers is a hazard to navigation, do or cause to be done anything referred to in subsection (1)(b) (as if the object were a ship).
-(3) The expenses incurred by a harbourmaster under subsection (1) or subsection (2) are payable by the master and the owner of the ship, or by the owner of the object (as the case may be), and are recoverable as a debt due to the council.
+[Repealed]
 
 ### 650E Harbourmasters and others may regulate some navigation activities
-(1) A harbourmaster of a regional council may, in the interests of navigation safety, do all or any of the following things in relation to any waters within the council's region:
-  (a) require the person appearing to be in charge of any ship or seaplane to stop, and to give his or her name and address, on being requested to do so by the harbourmaster:
-  (b) require any person found committing an offence against the council's navigation bylaws to give his or her name and address:
-  (c) on informing the owner of a ship or seaplane of an alleged offence against the council's navigation bylaws, and on requesting the owner to do so, require the owner to give all information in the owner's possession or obtainable by the owner which may lead to the identification of the person by whom the offence is alleged to have been committed:
-  (d) regulate and control the traffic and navigation, and provide specially for the direct and personal control of that traffic, on any day or occasion of unusual or extraordinary traffic.
-(2) A person authorised by the council, or any constable acting on the request of the harbourmaster or such an authorised person, who—may exercise any power under subsection (1)(a) to (c).
-  (a) has received a complaint that there has been a breach of any of the council's navigation bylaws; and
-  (b) on investigation of the complaint, is of the opinion that there has been a breach of the council's navigation bylaws,—
-(3) If a harbourmaster or enforcement officer of a regional council believes on reasonable grounds that a person has committed a breach of maritime rules involving navigation safety, the harbourmaster or enforcement officer may exercise any power under subsection (1)(a) to (c), and those provisions apply with any necessary modifications.
-(4) No honorary enforcement officer may exercise any power under subsection (1)(c) or (d).
+[Repealed]
 
 ### 650F Application of section 710 and other requirements
-(1) Section 710 applies in respect of every harbourmaster, enforcement officer, and honorary enforcement officer.
-(2) In addition to complying with section 710, before entering a place in the exercise of any power under any of sections 650C to 650E, a harbourmaster, enforcement officer, or honorary enforcement officer must produce the person's written warrant under section 710 to any person appearing to be in charge of the place entered—
-  (a) on entering the place (if such a person is then present); and
-  (b) at any reasonable time thereafter, if asked to do so by the person.
-(3) If there is no person appearing to be in charge of the place at any time between the time of entry and the time the harbourmaster, enforcement officer, or honorary enforcement officer leaves the place, the harbourmaster or officer must, as soon as is practicable upon leaving the place, give an occupier or person in charge of the place written notice stating that the place has been entered, and specifying the following matters:
-  (a) the time and date of entry:
-  (b) the circumstances and purpose of entry:
-  (c) the name, office or position, and employer of every person entering:
-  (d) every thing that has been seized, or that nothing has been seized, and every action taken, or that no action has been taken.
-(4) This section applies to a constable who exercises any power under section 650E as if his or her warrant card or other evidence of appointment were a warrant under section 710.
+[Repealed]
 
 ### 650G Offence
-A person commits an offence against this Act who fails without reasonable cause to comply with a direction or requirement given or made under section 650C or section 650D or section 650E.
+[Repealed]
 
 ### 650H Freedom of passage for officers of Customs, etc
-Officers of Customs, officers of the Ministry of Agriculture and Forestry, officers of the Ministry of Fisheries, officers of Maritime New Zealand, and persons acting under the authority of the Authority or the Director of Maritime New Zealand, acting in the execution of their duty, have at all times free ingress, passage, and egress, into, through, and out of waters within the region of a regional council, by land or water, and with ships or otherwise, and over any wharf.
+[Repealed]
 
 ### 650I Crown harbours and facilities
-(1) This section applies to waters, maritime facilities, and maritime works that—
-  (a) are owned or operated by the Crown; and
-  (b) are not subject to the jurisdiction of a local authority.
-(2) Where this section applies, the Crown may—
-  (a) regulate and lease, and charge for, the use of maritime facilities and maritime works:
-  (b) exercise navigation safety control over any area:
-  (c) do any other thing that a regional council or other local authority may do in relation to waters, maritime facilities, or maritime works under this Part or under any of the provisions of sections 684B to 684F and sections 699A to 699D.
-(3) The responsible Minister may appoint such harbourmasters and enforcement officers for the purposes of this section as he or she thinks fit; and such harbourmasters and enforcement officers have the powers of a harbourmaster or enforcement officer (as the case may be) under this Part.
-(4) For the purposes of this section, the responsible Minister is,—
-  (a) in the case of facilities or works under the control or management of the Department of Conservation, the Minister of Conservation:
-  (b) in the case of waters, facilities, or works under the control or management of the New Zealand Defence Force, the Minister of Defence:
-  (c) in the case of the harbour to which the Milford Sound Harbour Regulations 1983 (SR 1983/103) apply, and any Crown-owned or operated facilities or works associated with that harbour, the Minister of Transport:
-  (d) in any other case, the Minister of Local Government.
-(5) The Governor-General may, by Order in Council, make regulations relating the use of maritime facilities and maritime works to which this section applies.
-(6) Regulations made under subsection (5) may provide for the leasing, or the making of charges for the use of, maritime facilities and maritime works to which this section applies:
-(7) For the purposes of subsection (5), section 723 is to continue to have effect as if it had not been repealed by the Local Government Act 2002.
+[Repealed]
 
 ### 650J Delegation or transfer of council's functions, duties, or powers under this Part
-(1) A council may, in accordance with this section,—
-  (a) transfer to another public authority any of its functions, duties, or powers (other than this power of transfer) under this Part:
-  (b) delegate to a port operator any functions, duties, or powers (other than a power to make bylaws) under this Part that relate to navigation safety.
-(2) A transferee under subsection (1)(a) may delegate to a port operator any of the functions, duties, and powers transferred under that provision to the transferee that relate to navigation safety.
-(3) If any functions, duties, or powers delegated under subsection (1)(b) are exercisable or required to be performed by a harbourmaster, those functions, duties, and powers may be exercised or performed by employees of the port operator, subject to any conditions set out in the instrument of delegation.
-(4) Section 37SC, with any necessary modifications, applies to transfers under subsection (1)(a), but nothing in this section limits any provision of that section that provides for any matter not provided for in this section.
-(5) Section 715, with any necessary modifications, applies to delegations under subsection (1)(b) or subsection (2), but nothing in this section limits any provision of section 715 that provides for any matter not provided for in this section.
-(6) In this section,—
-  - **port operator** includes a port company under the Port Companies Act 1988 and any other operator of facilities for the loading or unloading of cargo or passengers carried by sea
-  - **public authority** includes any local authority, iwi authority, government department, or statutory authority.
+[Repealed]
 
 **Wreck**
 
 ### 650K Removal of wreck
-(1) In this section, wreck includes—
-  (a) any ship or aircraft which is abandoned, stranded, or in distress, or any equipment or cargo or other articles belonging to or separated from any such ship or aircraft; and
-  (b) any derelict ship; and
-  (c) shipping containers and property lost overboard or similarly separated from a ship, other than cargo lost in the course of its unloading or discharge from the ship while the ship is in a port.
-(2) If a wreck on or in any land or waters within the region of a regional council is a hazard to navigation, the council may take steps to remove and deal with the wreck in accordance with the following provisions:
-  (a) the council must, by a written request addressed to the owner of the wreck, or to an agent of the owner, ask the owner to either—
-    (i) remove the wreck within the time specified in the request and in a manner satisfactory to the council; or
-    (ii) undertake, under a security satisfactory to the council, to remove the whole of the wreck within a time fixed by and in a manner satisfactory to the council:
-  (b) if the owner or agent cannot be found, or fails within the time specified in the written request to remove the whole of the wreck in a way satisfactory to the council, or to enter into such an undertaking to remove the wreck, or having undertaken to remove the wreck, fails to remove it in accordance with that undertaking, the council may, if the council has made reasonable inquiries to find the owner or agent, remove the wreck, and may recover from the owner, in any court of competent jurisdiction, the expenses incurred in removing it (the expenses of removal):
-  (c) the council may, for the purpose of removal, destroy the wreck or any part of it, and may remove and take possession of the wreck or any part of it, and may sell the wreck or any part of it; and may, out of the proceeds (if any) of the sale, without any reference to the part of the wreck from the sale of which those proceeds may accrue, reimburse itself for the whole of the expenses of removal, and must after reimbursing itself pay over the surplus (if any) to the owner:
-  (d) if the proceeds of the sale are insufficient to pay the whole expenses of removal, the council may recover the balance from the owner of the wreck:
-  (e) the council does not have to retain any unsaleable wreck and may dispose of or destroy it as it thinks fit:
-  (f) if the council fails, within 14 days after notice in writing from the Director to remove or to take steps to cause the owner of the wreck, to remove the wreck, the Director may take steps to remove the wreck, and for that purpose has all the powers of a regional council under this section.
-(3) For the purposes of this section, owner includes not only the owner of the wreck at the time of the sinking, stranding, or abandonment, but also includes any purchaser of any such wreck, or the materials of which the wreck may be or may have been composed, so long as the same remains sunk, stranded, or abandoned.
-(4) Nothing in this section affects or limits anything in section 110 of the Maritime Transport Act 1994.
+[Repealed]
 
 ## Part 40 — Miscellaneous powers
 
@@ -5362,8 +5285,7 @@ Officers of Customs, officers of the Ministry of Agriculture and Forestry, offic
 [Repealed]
 
 ### 684AA Certain provisions of Local Government Act 2002 to apply to bylaws made under this Act
-(1) Despite anything to the contrary in the Local Government Act 2002, sections 150, 151, 155, and 156 of that Act apply, with all necessary modifications, to any bylaw made under this Act.
-(2) This section does not limit any other provisions of that Act that apply to a bylaw made under this Act.
+[Repealed]
 
 ### 684 Subject matter of bylaws
 [Repealed]
@@ -5374,51 +5296,19 @@ Officers of Customs, officers of the Ministry of Agriculture and Forestry, offic
 **Navigation bylaws**
 
 ### 684B Bylaws relating to navigation and related activities
-A regional council may from time to time, by bylaw under this Act, do all or any of the following things in relation to waters within its region:
-  (a) generally regulate and control, for the purposes of navigation and safety, the use or management of ships (including the mode and place of their mooring, anchoring, position, unmooring, and removal):
-  (b) regulate the placing and maintenance of moorings and maritime facilities (which bylaws may not be inconsistent with the Resource Management Act 1991):
-  (c) regulate and control, and prevent nuisances arising from,—
-    (a) the speed, use, anchoring, mooring, and management of ships and seaplanes:
-    (b) the towing of any thing or person:
-  (d) if the council is satisfied that such action is necessary in the interests of navigation safety,—
-    (i) reserve any specified waters for use by any specified kind of ship or seaplane, or by any persons:
-    (ii) regulate or prohibit the use of those waters by other ships or persons:
-    (iii) on the occasion of boat races, yacht races, launch races, or swimming races, or similar events,—
-      (A) provide for the prohibition or regulation of the use of specified classes of ships:
-      (B) regulate admission to specified areas or authorise the organisers of the event to regulate admission to specified areas:
-  (e) regulate and control the use of any anchorage:
-  (f) put in place ship traffic separation schemes and ship traffic management schemes:
-  (g) specify requirements (which may not be inconsistent with maritime rules) for—
-    (i) the provision of life jackets and buoyancy aids on pleasure craft:
-    (ii) the wearing of life jackets and buoyancy aids by persons on pleasure craft:
-    (iii) the marking and identification of personal water craft; and, for the purposes of this subparagraph, a personal water craft is a power driven ship that—
-      (A) has a fully enclosed hull; and
-      (B) does not take on water if capsized; and
-      (C) is designed to be operated by a person standing, sitting astride, or kneeling on it, but not seated within it:
-  (h) fix fees and charges in respect of the use of any land, building, equipment, or other property, that is owned by the council and operated for navigation-related purposes, and in respect of navigation-related activities the council undertakes, including (without limitation) bylaws—
-    (i) fixing fees and charges for any function, duty, power, or service carried out or exercised or provided by the council in respect of any ship, maritime facility, offshore installation, pipeline, oil transfer site, navigational aid, or marine farm, or in respect of navigation generally:
-    (ii) fixing such fees and charges on the basis of the nature of the facility, the location and use of the facility, the size of the vessel, or on any other differential basis:
-    (iii) specifying the persons who are liable to pay such fees and charges:
-  (i) exempting specified classes of persons from compliance with any provision of the bylaws or providing for the council to exempt any person from compliance with any provision of the bylaws; and providing for the council to suspend the operation of any provision of the bylaws, in any class of case or in any particular case, in circumstances specified in the bylaws.
+[Repealed]
 
 ### 684C Navigation bylaws not to affect port operations
-Bylaws made under section 684B may not limit or affect the ability of a port company or an operator of a port facility to manage its operations within areas owned or controlled by it, except to the extent the council considers necessary in the interests of navigation safety.
+[Repealed]
 
 ### 684D No marine pollution charges
-(1) Nothing in section 684B permits a council to make any navigation bylaw imposing any charges in respect of its responsibilities in relation to oil pollution.
-(2) Any navigation bylaw in force immediately before the commencement of this section ceases to have effect to the extent that it imposes any charges in respect of a council's responsibilities in relation to oil pollution.
-(3) In this section, oil has the same meaning as in section 222(1) of the Maritime Transport Act 1994.
+[Repealed]
 
 ### 684E General provisions relating to navigation bylaws
-(1) Navigation bylaws may apply—
-  (a) generally to navigation or associated activities in or on waters under the control, and within the region, of a regional council; or
-  (b) to navigation or associated activities in or on specified waters within the region of a regional council or specified parts of such specified waters.
-(2) Despite section 682(c), navigation bylaws may not impose licensing requirements in respect of any aspect of commercial shipping operations that is subject to any requirement contained in any maritime rule, but nothing in this subsection prevents navigation bylaws imposing licensing requirements in respect of other aspects of commercial shipping operations.
-(3) No navigation bylaw concerning any ship traffic separation scheme or ship traffic management scheme may come into force unless the Director has approved the content of the bylaw.
-(4) Except as otherwise expressly provided in this Part, navigation bylaws may not be inconsistent with the Lakes District Waterways Authority (Shotover River) Empowering Act 1985, the Resource Management Act 1991, the Northland Regional Council and Far North District Council Vesting and Empowering Act 1992, or the Maritime Transport Act 1994.
+[Repealed]
 
 ### 684F Council must consult Director
-Before making a navigation bylaw concerning a matter for which a maritime rule may be made, a regional council must consult the Director of Maritime New Zealand about the proposed bylaw.
+[Repealed]
 
 ### 685 Licences to hawkers and pedlars
 [Repealed]
@@ -5618,35 +5508,16 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations or bylaws made under it ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 699A Infringement offences relating to navigation bylaws
-(1) In sections 699B to 699D,—
-  - **infringement fee** , in relation to an infringement offence, means the infringement fee prescribed for that offence by regulations made under subsection (2)
-  - **infringement offence** means a breach of a navigation bylaw that is specified in regulations made under subsection (2) as an infringement offence for the purposes of this section.
-(2) The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) prescribing the infringement fee payable in respect of each infringement offence, which fee may not exceed $1,000:
-  (b) specifying which breaches of navigation bylaws are infringement offences for the purposes of this section:
-  (c) prescribing the form of infringement notices for infringement offences.
+[Repealed]
 
 ### 699B Commission of infringement offence
-If any person is alleged to have committed an infringement offence, that person may either—
-  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
-  (b) be served with an infringement notice as provided for in section 699C.
+[Repealed]
 
 ### 699C Infringement notices
-(1) If a harbourmaster or an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any harbourmaster or enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case it (or the copy) is to be treated as having been served on that person when it was posted.
-(3) Every infringement notice must be in the prescribed form and must contain the following particulars:
-  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
-  (b) the amount of the infringement fee specified for that offence; and
-  (c) the address of the place at which the infringement fee may be paid; and
-  (d) the time within which the infringement fee must be paid; and
-  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (f) a statement that the person served with the notice has a right to request a hearing; and
-  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
-  (h) such other particulars as are prescribed.
-(4) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with the necessary modifications.
+[Repealed]
 
 ### 699D Entitlement to infringement fees
-A regional council is entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that council.
+[Repealed]
 
 **Legal proceedings**
 
