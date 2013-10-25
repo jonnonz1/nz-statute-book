@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-25_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -195,7 +195,7 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
 (5) The Director-General shall also, in respect of any entry, record such other particulars as may from time to time be prescribed by regulations made under this Act, and such further conditions, amendments, or directions as the Minister may from time to time attach, make, or give in respect of any permit.
 
 ### 9 Offence to take marine mammal without permit
-(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $250,000, and to a further fine not exceeding $10,000 for every marine mammal in respect of which the offence was committed, who takes, has in possession, exports, imports, has on board any vessel, vehicle, aircraft, or hovercraft, or has control of any marine mammal, otherwise than under this Act or a permit.
+(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $250,000 who takes, has in possession, exports, imports, has on board any vessel, vehicle, aircraft, or hovercraft, or has control of any marine mammal, otherwise than under this Act or a permit.
 (2) Upon the conviction of any person for an offence against subsection (1), any marine mammal unlawfully taken, in possession, under the control of any person, or on board any vessel, vehicle, aircraft, or hovercraft, and all vessels, vehicles, aircraft, hovercraft, gear, nets, tackle, equipment, and apparatus used in respect of the commission of the offence shall be forfeit to the Crown, and shall be disposed of as the Minister thinks fit.
 
 ### 10 Director-General to be notified of actions taken in respect of marine mammals
@@ -254,6 +254,8 @@ No action or proceedings shall be brought against the Crown, or any officer, or 
   (c) a description of conditions and the circumstances of the event.
 (3A) In addition to providing the particulars required by subsection (1) or subsection (2), a person required to report an event to which that subsection applies shall provide to the Director-General such other particulars relating to the event as the Director-General may require for the purposes of this Act.
 (4) Every person commits an offence against this Act who contravenes subsection (1) or subsection (2).
+(5) Every person commits an offence against this Act who refuses or fails to furnish any information or particulars required by the Director-General under subsection (3A).
+(6) Every person who commits an offence against this section is liable on conviction before a District Court Judge to a fine not exceeding $10,000.
 
 ### 17 Purse seining
 (1) No person shall use any purse seine net for the purposes of fishing unless—
@@ -299,16 +301,34 @@ Nothing in this Act shall derogate from the provisions of—
 (5) Every constable, and every ranger appointed under section 38 of the Wildlife Act 1953, section 27 of the National Parks Act 1952, or under section 8 of the Reserves Act 1977 shall have the authority to exercise any of the powers conferred on a ranger under section 39 of the Wildlife Act 1953 in any marine mammal sanctuary.
 
 ### 23 Offences and penalties
-(1) Every person commits an offence against this Act who—
-  (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under this Act or any regulations made under it; or
-  (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of this Act or of any regulations made under it; or
-  (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of this Act or of any regulations under it.
+(1) Every person commits an offence who—
+  (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under this Act; or
+  (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation, or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of this Act; or
+  (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of this Act.
+(1A) Every person commits an offence against this Act who—
+  (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under any regulations made under this Act; or
+  (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation, or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of any regulations made under this Act; or
+  (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of any regulations made under this Act.
 (2) Every person commits an offence against this Act who—
   (a) except under the authority of any enactment, places or leaves any structure or trap or chemical or other substance in any place where a marine mammal is or is likely to be and which injures or harms, or is likely to injure or harm, any marine mammal:
   (b) uses any vehicle, vessel, aircraft, or hovercraft to herd or harass any marine mammal.
+(2A) Every person who commits an offence against subsection (1) or section 10 or 12(3) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
 (3) Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction before a District Court Judge, to a fine not exceeding—
-  (a) in the case of an offence against section 17 or subsection (2) of this section, $30,000; and
+  (a) in the case of an offence against subsection (2) or section 17,—
+    (i) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+    (ii) in the case of a body corporate, a fine not exceeding $200,000:
+    (iii) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues; and
   (b) in any other case, $10,000.
+
+### 23A Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
 
 ### 24 Onus of proof in respect of certain offences
 Where any person is charged with an offence under this Act arising out of his taking or doing, without a permit or authority, any action for the taking or doing of which a permit or authority is required, the onus shall be on that person to prove that at the relevant time he held the required permit or authority.
@@ -321,6 +341,9 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under section 28 or by any other enactment.
 (3) Where any person is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
 (4) Where any person is charged with killing or injuring any marine mammal contrary to the provisions of this Act or any regulations made under it and the provisions of subsection (1) or subsection (2) or subsection (3) do not apply in the circumstances of the case, it shall be a defence to the charge if the defendant proves that the death of or injury to the marine mammal was accidental, or incidental, and that the requirements of section 16 were complied with.
+
+### 26A Sentence of community work
+A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 27 Liability for causing officer to incur expense
 Where any person causes an officer to incur any expense that he would not otherwise have incurred, by failing to comply with or acting in contravention of any provision of this Act or any regulations made under it, or by failing to comply with or acting in contravention of any order or direction or requirement or conditions reasonably and properly given or imposed in accordance with this Act or any such regulations, that person shall reimburse the Crown for the amount of any such expense that is reasonably and properly incurred, and that amount shall be recoverable from that person as a debt due to the Crown.
