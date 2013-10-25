@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-25_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -906,7 +906,8 @@ Until the commencement of regulations under this Act prescribing a Police crest 
 **Validation of constable's oaths**
 
 ### 115A Validation of constable's oaths
-A Police employee or judicial officer who has administered the constable's oath described in section 22(1) in the period that commenced on 1 October 2008 and ended with the close of 12 October 2009 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22.
+(1) A Police employee or judicial officer who has administered the constable's oath described in section 22(1) in the period that commenced on 1 October 2008 and ended with the close of 12 October 2009 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22.
+(2) A Police employee who has administered the constable's oath described in section 22(1) in the period that commenced on 13 October 2009 and ended with the close of 13 October 2013 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22.
 
 **Terms relating to Police in other enactments**
 
