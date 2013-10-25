@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-25_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -201,7 +201,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   (n) the prohibition or restriction of the pollution of any wildlife sanctuary by means of rubbish, sewage, industrial waste, mining debris, sawmill refuse, or any other means:
   (o) such other matters as may be considered necessary for the control of the sanctuary or for the protection and wellbeing of any wildlife or vegetation therein.
 (3) Any prohibition or restriction imposed by an Order in Council under this section may be absolute or conditional, and the Order may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
-(4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+(4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(7).
 (5) Every person having any estate or interest in any land included without his consent in any wildlife sanctuary which is injuriously affected or damaged or reduced in value by its inclusion in the sanctuary shall be entitled to full compensation for the same from the Minister. All such claims for compensation shall, unless settled by agreement, be determined within the time and in the manner provided by the Public Works Act 1928, as in the case of land injuriously affected by a public work, and, subject to this section, the provisions of that Act relating to compensation shall, as far as they are applicable and with the necessary modifications, apply accordingly.
 
 ### 10 All wildlife in sanctuaries absolutely protected
@@ -235,7 +235,7 @@ Any officer of the Department, or any officer of any other department in which f
 (1A) Where a wildlife refuge has been declared under subsection (1), the Governor-General may, by the Proclamation or notice declaring the wildlife refuge, or by a subsequent Proclamation or notice, prohibit or restrict the use of boats (including any launch, boat, canoe, or other similar craft, whether propelled by mechanical power or not) in the wildlife refuge or in any portion thereof, and by any person or classes of persons, as may be specified in the Proclamation or notice:
   provided that nothing in any such prohibition or restriction shall derogate from any provision of the Harbours Act 1950 or the Shipping and Seamen Act 1952.
 (1B) Any prohibition or restriction under subsection (1A) may be absolute or conditional, and the Proclamation or notice may authorise the Minister or the Director-General to grant exemptions from the prohibition or restriction.
-(1C) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3) who does any act that is for the time being prohibited by a Proclamation or notice under subsection (1A) or fails to comply in any respect with any condition imposed in any such Proclamation or notice.
+(1C) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who does any act that is for the time being prohibited by a Proclamation or notice under subsection (1A) or fails to comply in any respect with any condition imposed in any such Proclamation or notice.
 (2) Where a wildlife refuge has been declared under subsection (1), the Minister may authorise in writing the occupier of any land included in the wildlife refuge or any other person having the authority of the occupier—
   (a) to keep or bring domestic animals on or onto the land:
   (b) to keep or bring firearms or explosives on or onto the land:
@@ -244,7 +244,7 @@ Any officer of the Department, or any officer of any other department in which f
   (e) to do any other acts necessary for the carrying on of the normal use of the land, subject to such conditions as may be prescribed in the Proclamation.
 (2A) Any officer of the Department of Conservation appointed as a ranger under subsection (1) of section 38 or any ranger appointed under paragraph (c) of subsection (2) of that section or any other person authorised in writing in that behalf by the Director-General, either generally or in any particular case, may bring firearms or explosives on to any wildlife refuge for the purpose of destroying any animal specified in Schedule 2 or Schedule 5 or Schedule 6 or any rabbit or hare, where that animal or rabbit or hare is a nuisance or is causing damage to that wildlife refuge or to any wildlife in that wildlife refuge.
 (3) While any Proclamation or notice under subsection (1) remains in force, it shall not be lawful for any person, except as provided in subsection (2) or subsection (2A) or in subsection (2) of section 5 or pursuant to an authority granted under section 53 or section 54, to hunt or kill for any purpose, or molest, capture, disturb, harry, or worry any wildlife in the wildlife refuge, or to take, destroy, or disturb the nests, eggs, or spawn of any such wildlife, or for any person to bring onto the wildlife refuge or have in his possession or discharge in the wildlife refuge any firearm or explosive, or have in his possession or control in the wildlife refuge any dog or cat, or to do anything likely to cause any wildlife to leave the wildlife refuge.
-(3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
+(3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
 (4) Notwithstanding anything in this Act or in any regulations under this Act, the performance in any wildlife refuge by any person of any act authorised by the Minister under subsection (2) shall not be deemed a breach of this Act.
 (5) Every sanctuary constituted at the commencement of this Act by a warrant under section 6 of the Animals Protection and Game Act 1921–22 shall be deemed to be a wildlife refuge for the purposes of this Act.
 
@@ -261,7 +261,7 @@ Any officer of the Department, or any officer of any other department in which f
     (f) any Proclamation issued under this subsection may be revoked without the consent of the occupier.
 (2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Governor-General may from time to time, by Proclamation, impose conditions with respect to any wildlife management reserve in relation to all or any of the matters specified in section 9(2) as if the reference to a wildlife sanctuary in that section were a reference to a wildlife management reserve.
 (3) Any prohibition or restriction imposed by a Proclamation under this section may be absolute or conditional, and the Proclamation may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
-(4) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3) who does any act that is prohibited by a Proclamation issued under this section, or fails to comply in any respect with any condition imposed in any such Proclamation.
+(4) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who does any act that is prohibited by a Proclamation issued under this section, or fails to comply in any respect with any condition imposed in any such Proclamation.
 
 ### 14AA Granting of concessions in wildlife sanctuaries, wildlife refuges, and wildlife management reserves
 (1) The Minister may, in accordance with Part 3B of the Conservation Act 1987, grant a concession in respect of any wildlife sanctuary, wildlife refuge, or wildlife management reserve held or managed by the Minister; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a sanctuary, refuge, or reserve under this Act and with any other necessary modifications.
@@ -750,7 +750,7 @@ No member of the Board shall be personally liable for any default made by the Bo
     (iv) prescribing the areas where any such wildlife or game or progeny may be liberated:
     (v) providing for inspection by officers or servants of the Department at all reasonable times.
 (6) Notwithstanding anything in any other provision of this Act, any authority issued under this section may contain conditions authorising the holder to use, for the purpose of catching alive or killing any wildlife or game, any live decoys or any net or noose or trap or any firearm or any other method the use of which is otherwise expressly prohibited by this Act or by any regulations made under this Act.
-(7) Every person to whom any authority is granted under or pursuant to this section or, where the authority is given to a Fish and Game Council, the Council and every officer or employee of the Council or other person exercising the powers of the Council pursuant to that authority who commits a breach of or fails to comply with any condition on which the authority was granted commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
+(7) Every person to whom any authority is granted under or pursuant to this section or, where the authority is given to a Fish and Game Council, the Council and every officer or employee of the Council or other person exercising the powers of the Council pursuant to that authority who commits a breach of or fails to comply with any condition on which the authority was granted commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
 
 ### 54 Director-General may authorise hunting or killing of wildlife causing damage
 (1) The Director-General, on being satisfied that injury or damage to any person or to any land or to any stock or crops or to any chattel or to other wildlife has arisen or is likely to arise through the presence on any land of any animals (whether absolutely protected or not), and whether or not the land is a wildlife refuge or a closed game area, may authorise in writing the occupier of the land, or any officer or servant of the Department, or any other person, to hunt or kill, or cause to be hunted or killed, or to catch alive for any specified purpose any such animals, or to take or destroy the eggs of any such animals, subject to such conditions and during such period as may be specified in the authority.
@@ -813,7 +813,7 @@ Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 
 (4) Before entry on any land pursuant to subsection (1), the Director-General, or the officer or servant of the Department authorised by the Minister, shall, when practicable, give reasonable notice to the occupier or controlling authority of the land of the intention to enter thereon, and where any person enters on any land pursuant to subsection (3), he shall, if required by the occupier or controlling authority, produce and show the authority under which he claims to enter, or has entered, on the land.
 (5) Every person who, not being duly authorised, takes away or is found in possession of, or removes, destroys, displaces, or moves the position of, any tent or other structure or any services, conveniences, or amenities erected or provided on any land pursuant to subsection (1) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
 (5A) Every person who, not being duly authorised, wilfully removes, injures, or damages in any way any vehicle, animal, equipment, or supplies brought onto any land pursuant to subsection (1) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
-(6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1) who wilfully obstructs or hinders or resists the Director-General or any authorised officer or servant of the Department in the exercise of any of the powers conferred by this section.
+(6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(7) who wilfully obstructs or hinders or resists the Director-General or any authorised officer or servant of the Department in the exercise of any of the powers conferred by this section.
 
 ### 60 Protection of rangers and others
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on him by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless he has acted, or omitted to act, in bad faith or without reasonable cause.
@@ -831,7 +831,7 @@ A person who does any act in pursuance or intended pursuance of any of the funct
   (g) any other person duly authorised in writing by the Director-General.
 (4) In addition to the powers contained in subsection (2) or in section 66, every authorised person as defined in paragraph (b), paragraph (d), or paragraph (e) of subsection (3) may demand production of all or any wildlife (whether alive or dead) and all or any skins, feathers, or eggs of any wildlife in possession of any person referred to in subsection (1), and of all or any nets, traps, firearms, ammunition, boats, vehicles, engines, instruments, appliances, and devices that are being used or are intended to be used or have been used for the purpose of hunting or killing any wildlife or that he reasonably believes to be so being used or to be intended to be so used or to have been so used, and of any bag, container, or other article (including any coat or other similar article of clothing) that is being used for the purpose of carrying any wildlife (whether alive or dead) or that he reasonably believes to have been so used or to be intended to be so used.
 (5) Any authorised person referred to in subsection (4) may exercise in respect of anything produced to him pursuant to that subsection the powers of search and seizure conferred on rangers by section 39.
-(6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1) who fails to produce on demand under subsection (4) anything referred to in that subsection.
+(6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who fails to produce on demand under subsection (4) anything referred to in that subsection.
 
 **Offences and penalties**
 
@@ -869,10 +869,10 @@ Every person commits an offence against this Act and is liable on conviction to 
 (5) Every person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in section 67(fb).
 
 ### 64 Offences in relation to wildlife sanctuaries
-Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Order in Council under section 9 commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Order in Council under section 9 commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(7).
 
 ### 65 Other offences
-(1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1) who—
+(1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who—
   (a) gives or agrees to give or offers to any ranger or to any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council or to any person under the control of any ranger or of any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council any gift or consideration as an inducement or reward for any act done or to be done, or any forbearance observed or to be observed, or any favour shown or to be shown, by that ranger, officer, servant, or person in or in relation to the exercise of any powers or the discharge of any duties vested in or imposed on that ranger, officer, servant, or person under this Act, or, who being a ranger or an officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council or a person under the control of any ranger or of any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council, accepts or agrees to accept or solicits any such gift or consideration as aforesaid:
   (b) personates or falsely pretends to be a ranger or an officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council:
   (c) counterfeits upon or without due authority fixes to any property any mark used by the Department or the New Zealand Fish and Game Council or any Fish and Game Council as a means of identification of that property:
@@ -901,8 +901,8 @@ Every person who, without lawful authority, breaches or fails to comply with any
 
 ### 66 Offenders to give name and address to rangers, etc
 (1) Where any person is found offending against this Act or against any regulations or notification under or pursuant to this Act, it shall be lawful for any authorised person as defined in subsection (3) of section 61 to require the offender forthwith to desist from the offence and also to tell his real Christian name, surname, and place of abode.
-(2) Every person who, after being required to desist from offending under subsection (1), wilfully continues the offence commits a further offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
-(3) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1) who, after being required to give his or her Christian name, surname, and place of abode under subsection (1),—
+(2) Every person who, after being required to desist from offending under subsection (1), wilfully continues the offence commits a further offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
+(3) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who, after being required to give his or her Christian name, surname, and place of abode under subsection (1),—
   (a) fails to give his or her real Christian name, or surname, or place of abode:
   (b) gives a false name or place of abode.
 
@@ -914,17 +914,15 @@ Every person who, without lawful authority, breaches or fails to comply with any
   (d)
   (e)
   (f)
-  (fa) commits an offence against section 63A (which relates to the taking of absolutely or partially protected marine wildlife) shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $250,000 and to a further fine not exceeding $10,000 for every item of marine wildlife (other than coral) in respect of which the offence was committed:
+  (fa) commits an offence against section 63A (which relates to the taking of absolutely or partially protected marine wildlife) is liable to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $250,000, or both:
   (fb) commits an offence against section 63B (which relates to the reporting of accidental or incidental death of absolutely or partially protected wildlife) shall be liable to a fine not exceeding $10,000.
   (g)
 (2)
 
 ### 67A Penalties for offences in respect of absolutely protected wildlife
-(1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
-  (a) in the case of an individual,—
-    (i) to imprisonment for a term not exceeding 6 months; or
-    (ii) to a fine not exceeding $100,000 plus a further fine not exceeding $5,000 for each head of wildlife and egg of wildlife in respect of which the offence is committed:
-  (b) in the case of a body corporate, to a fine not exceeding $200,000 plus a further fine not exceeding $10,000 for each head of wildlife and egg of wildlife in respect of which the offence is committed.
+(1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000.
 (2) The provisions are—
   (a) section 56(5)(a) (which relates to capturing, having in possession for the purpose of liberating, or exporting absolutely protected wildlife):
   (b) section 63(1A)(a) (which relates to hunting, killing, buying, or selling absolutely protected wildlife, or robbing or disturbing the nest of absolutely protected wildlife):
@@ -932,11 +930,9 @@ Every person who, without lawful authority, breaches or fails to comply with any
   (d) section 65(3)(a) (which relates to being a party to an offence committed in respect of absolutely protected wildlife).
 
 ### 67B Penalty for offence of liberating wildlife
-A person convicted of an offence under section 56(4) (which relates to liberating wildlife) is liable,—
-  (a) in the case of an individual,—
-    (i) to imprisonment for a term not exceeding 6 months; or
-    (ii) to a fine not exceeding $100,000 plus a further fine not exceeding $5,000 for each head of wildlife in respect of which the offence is committed:
-  (b) in the case of a body corporate, to a fine not exceeding $200,000 plus a further fine not exceeding $10,000 for each head of wildlife in respect of which the offence is committed.
+Every person who commits an offence against section 56(1)(ab) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000.
 
 ### 67C Penalties for offences in respect of partially protected wildlife
 (1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
@@ -950,8 +946,8 @@ A person convicted of an offence under section 56(4) (which relates to liberatin
 
 ### 67D Penalty for offence of obstructing ranger
 A person convicted of an offence under section 40(1) (which relates to obstructing a ranger or other authorised person) is liable,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000:
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
 ### 67E Penalties for offences in respect of game
 (1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
@@ -983,21 +979,21 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (2) The provisions are—
-  (a) section 14(3A) (which relates to prohibited acts committed in wildlife refuges):
+  (a)
   (b) section 17(7) (which relates to destroying, defacing, or tampering with a notice):
-  (c) section 51 (which relates to obstructing an inspector):
-  (d) section 53(7) (which relates to the failure of a person or officer to comply with an authorisation):
+  (c)
+  (d)
   (e) section 58(1) (which relates to certain acts committed in relation to homing pigeons):
   (f) section 59(5) (which relates to interfering with structures or services on land):
   (g) section 59(5A) (which relates to interfering with vehicles, animals, equipment, or supplies brought onto land):
-  (h) section 59(6) (which relates to obstructing the Director-General or an officer in the exercise of powers):
+  (h)
   (i) section 61(2) (which relates to failing to produce a licence):
-  (j) section 61(6) (which relates to failing to produce various items):
+  (j)
   (k) section 62(2) (which relates to transporting wildlife without proper information on the container):
-  (l) section 65(1) (which provides for various miscellaneous offences):
-  (m) section 65(3)(d) (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game):
-  (n) section 66(2) (which relates to wilfully continuing an offence):
-  (o) section 66(3) (which relates to failing to give a name, or giving a false name or address).
+  (l)
+  (m) section 65(3)(d) (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game).
+  (n)
+  (o)
 (3) A person convicted of an offence under any of the provisions listed in subsection (4) is liable,—
   (a) in the case of an individual, to a fine not exceeding $5,000 plus a further fine not exceeding $100 for each head of wildlife and egg of wildlife in respect of which the offence is committed:
   (b) in the case of a body corporate, to a fine not exceeding $10,000 plus a further fine not exceeding $200 for each head of wildlife and egg of wildlife in respect of which the offence is committed.
@@ -1005,11 +1001,30 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (a) section 6(3) (which relates to hunting, killing, or possessing wildlife in breach of conditions imposed by the Minister):
   (b) section 7(2) (which relates to hunting, killing, or possessing wildlife in contravention of a notification):
   (c) section 7C(2) (which relates to farming certain unprotected animals without authorisation):
-  (d) section 9(4) (which relates to breaching an Order in Council in respect of a wildlife sanctuary):
-  (e) section 14(1C) (which relates to breaching a Proclamation or notice in respect of a wildlife refuge):
-  (f) section 14A(4) (which relates to breaching a Proclamation in respect of a wildlife management reserve):
-  (g) section 56(5)(c) (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected):
-  (h) section 64 (which relates to acts committed in wildlife sanctuaries).
+  (d)
+  (e)
+  (f)
+  (g) section 56(5)(c) (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected).
+  (h)
+(5) Every person who commits an offence against any of the provisions listed in subsection (6) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000.
+(6) The provisions are—
+  (a) section 14(1C) (which relates to breaching a Proclamation or notice in respect of a wildlife refuge):
+  (b) section 14(3A) (which relates to prohibited acts committed in wildlife refuges):
+  (c) section 14A(4) (which relates to breaching a Proclamation in respect of a wildlife management reserve):
+  (d) section 53(7) (which relates to the failure of a person or officer to comply with an authorisation):
+  (e) section 61(6) (which relates to failing to produce various items):
+  (f) section 65(1) (which provides for various miscellaneous offences):
+  (g) section 66(2) (which relates to wilfully continuing an offence):
+  (h) section 66(3) (which relates to failing to give a name, or giving a false name or address).
+(7) Every person who commits an offence against any of the provisions listed in subsection (8) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000.
+(8) The provisions are—
+  (a) section 9(4) (which relates to breaching an Order in Council in respect of a wildlife sanctuary):
+  (b) section 59(6) (which relates to obstructing the Director-General or an officer in the exercise of powers):
+  (c) section 64 (which relates to acts committed in wildlife sanctuaries).
 
 ### 67G Sentence of community work
 A court may sentence any person who commits an offence against this Act to a sentence of community work and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
@@ -1020,6 +1035,12 @@ A court may sentence any person who commits an offence against this Act to a sen
 (3) In assessing any amount payable under subsection (1), the court—
   (a) may take into account salaries, wages, and incidental expenses incurred in the investigation of the act constituting the offence or in remedying the loss or damage caused by the act; and
   (b) must take into account all other relevant factors.
+
+### 67I Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
 
 ### 68 Conduct of proceedings and recovery of fines
 (1)
@@ -1109,12 +1130,12 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
   (wc) prescribing the procedure in respect of applications to the Board for grants and prescribing the criteria to be applied by the Board in considering such applications; and authorising the Board to make any grant subject to conditions imposed by the Board:
   (wd) providing for the collection and disposal of revenue from game bird habitat stamps and associated products:
   (we) prescribing a fee or a scale of fees payable in respect of game bird habitat stamps and the basis on which such fees are payable; and prescribing the persons or bodies to whom such fees are payable:
-  (x) prescribing fines not exceeding $2,000 for a breach of any such regulation.
+  (x) prescribing fines not exceeding $5,000 for a breach of any such regulation.
 (2A) Without limiting the power to make regulations under subsections (1) and (2), the Governor-General may from time to time, by Order in Council, make regulations for the following purposes:
   (a) for preventing the pollution of any waters by casting or throwing into, or discharging or causing to be put or discharged into, or placing on the bank or margin of, or placing in a position where it is likely to fall or descend or be washed or percolate into, any such waters, any sawdust or sawmill refuse, lime (other than agricultural or slaked lime), sheep dip, flaxmill refuse, oil, chlorinated hydrocarbon pesticide, or any other substance poisonous or injurious to wildlife, the habitat of wildlife, or the food of wildlife:
   (b) prescribing offences for breaches of any such regulations, and prescribing—
-    (i) a fine not exceeding $5,000 in respect of any such offence; and
-    (ii) in the case of a continuing offence, a further fine not exceeding $100 for every day on which the offence has continued.
+    (i) a fine not exceeding $10,000 in respect of any such offence; and
+    (ii) in the case of a continuing offence, a further fine not exceeding $1,000 for every day on which the offence has continued.
 (2B) Without limiting the power to make regulations under subsections (1), (2), and (2A), the Governor-General may from time to time, by Order in Council, make regulations prescribing the scope and effect of licences to farm, breed, or sell, or capture or dispose of or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in Schedule 8, and any fees to be paid therefor, and providing for the issue of those licences and for the disposal of any fees for those licences.
 (3) Regulations made under this section may apply generally throughout New Zealand or within any specified district or in any specified part or parts thereof.
 (3A) Notwithstanding anything in section 72(1) or (2), the Minister may by notice in the Gazette,—
