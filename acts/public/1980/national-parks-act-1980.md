@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-25_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -506,8 +506,8 @@ The Department shall, subject to this Act, and in accordance with—administer a
   (j) prescribing the safety devices to be fitted to any machinery or device operated in any park under the authority of any agreement, lease, or licence made or granted by the Minister, and regulating the operation and maintenance of such machinery or devices:
   (k) prohibiting the hovering over or landing of any aircraft on any part of a park:
   (l) prescribing conditions upon which operators and pilots in command of aircraft may land and take off or set down, pick up, or recover within any park any person, livestock, carcass, or article of any description:
-  (m) prescribing fines, not exceeding $500 in any one case, for the breach of any bylaw made under paragraphs (a) to (j):
-  (n) prescribing fines, not exceeding $5,000 in any one case, for the breach of any bylaw made under paragraph (k) or paragraph (l).
+  (m) prescribing fines, not exceeding $5,000 in any one case, for the breach of any bylaw made under paragraphs (a) to (j):
+  (n) prescribing fines, not exceeding $10,000 in any one case, for the breach of any bylaw made under paragraphs (k) to (l).
 (2) Bylaws may be made under subsection (1) in respect of parks generally, or in respect of any 1 or more of those parks.
 (3) The publication in the Gazette of any bylaws purporting to have been made under this section shall be conclusive evidence that the bylaws have been made under this section.
 
@@ -673,8 +673,8 @@ Any local authority may from time to time make contributions out of its general 
   (c) from outside a park, shoots at any animal or any other object or thing inside the park with any firearm.
 (5) Where any person is found discharging a firearm in contravention of subsection (4), section 61(6) shall apply in respect of that firearm in all respects as if it were illegally in the possession of that person in the park.
 (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, be liable to pay the cost of repairing or restoring any damage done to the park, or to any plant or property growing or being in the park in the course of committing such an offence.
-(7) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence and in addition to any costs for which he may be liable under subsection (6), be liable to pay twice the full market value of any animal or substance removed from the park if the District Court Judge is satisfied that the animal or substance was so removed in the course of committing such an offence for commercial or other gain.
-(8) For the purposes of subsections (6) and (7), the cost or value shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
+(7)
+(8) For the purpose of subsection (6), the cost or value shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
 
 ### 61 Seizure and forfeiture of property
 (1) Any ranger may seize any item found in the possession of any person in a park, if he has reasonable cause to believe that that person, in obtaining possession of the item, committed an offence against this Act.
@@ -759,10 +759,34 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) If, in the vicinity of a park, any person is found in possession of any plant, stone, mineral, egg, nest, animal, taonga tūturu, or relic, or any part of any such thing, and, upon being required by any ranger fails or refuses to give a satisfactory account of the manner in which he became possessed of the same, it shall be evidence that he has removed it from the park.
 (2) In any proceedings for an offence under this Act or any bylaws made under this Act, it shall be presumed in the absence of proof to the contrary, that all maps, plans, and copies of maps or plans appearing to be certified as true under the hand of a Chief Surveyor are so certified without production of the original records and without the personal attendance of those officers or proof of their signatures.
 
-### 70 Penalty for offences
-Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction,—
-  (a) where the offence was committed by an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,500, and where the offence is a continuing one, to a further fine not exceeding $250 for every day on which the offence has continued:
-  (b) where the offence was committed by a corporation, to a fine not exceeding $25,000, and, where the offence is a continuing one to a further fine not exceeding $2,500 for every day on which the offence has continued.
+### 69A Penalties for certain offences
+(1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
+(2) The provisions are—
+  (a) section 13(5), which relates to access to specially protected areas:
+  (b) section 60(1)(a) to (i), (k), and (l), which relate to unauthorised acts in parks:
+  (c) section 60(2)(a) and (b), which relate to failure to remove animals, vehicles, or aircraft from parks:
+  (d) section 60(4)(b) and (c), which relate to the use of firearms:
+  (e) section 63(a), which relates to wilfully obstructing rangers.
+(3) The penalties are,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+
+### 69B Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
+
+### 70 Penalties
+Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+
+### 70A Sentence of community work
+A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 71 Removal and disposal of abandoned boats and vehicles, and vehicles parked in prohibited places
 (1) Any officer or employee of the Department who has reasonable cause to believe that any boat or vehicle has been abandoned in a park may remove it or cause it to be removed to any place authorised by the Minister for that purpose.
