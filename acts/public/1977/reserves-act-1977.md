@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-25_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -1254,21 +1254,40 @@ Despite section 25 of the Criminal Procedure Act 2011, the limitation period in 
 (2) If within a reserve or in its vicinity any person is found in possession of any wood, tree, shrub, fern, plant, stone, mineral, bird, egg, nest, animal, taonga tūturu, relic, or any part of any such thing, and, upon being thereunto required by any constable or ranger or any employee of the Crown or of any administering body employed in the reserve or by any ranger appointed under the Wildlife Act 1953, fails or refuses to give a satisfactory account of the manner in which he became possessed of the same, he shall be deemed to have wilfully removed or taken the same in breach of this Act, unless he satisfies the court to the contrary.
 (3) In any proceedings for an offence under this Act or any regulations or bylaws under this Act the averment that any lands in question form part of a reserve shall be sufficient without proof of that fact, unless the defendant proves to the contrary, and all maps and plans and copies certified as true under the hand of the Commissioner or the Chief Surveyor of the land district in which the land is situated shall be sufficient evidence of their contents without production of the original records and without the personal attendance of those officers or proof of their signatures.
 
-### 103 General penalty for offences
-Every person who commits an offence against this Act is liable—
-  (a) in the case of an offence committed in respect of a national reserve,—
-    (i) where the offence was committed by an individual, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued:
-    (ii) where the offence was committed by a corporation, to a fine not exceeding $5,000, and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued:
-  (b)
-  (c) in the case of any other offence—
-    (i) where the offence was committed by an individual, to imprisonment for a term not exceeding 1 month or a fine not exceeding $500 or to both that imprisonment and that fine, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day on which the offence has continued:
-    (ii) where the offence was committed by a corporation, to a fine not exceeding $1,000, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day on which the offence has continued.
+### 102A Penalties for certain offences
+(1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
+(2) The provisions are—
+  (a) section 94(1)(a) to (k), (l), and (m), which relate to unauthorised acts on reserves:
+  (b) section 94(2)(a), (b), (d), and (da), which relate to failure to comply with requirements relating to animals, vehicles, aircraft, or boats:
+  (c) section 94(4)(b) and (c):
+  (d) section 97(1), which relates to unauthorised fires:
+  (e) section 98(b), which relates to assaulting or obstructing rangers:
+  (f) section 100(5), which relates to obstructing officers.
+(3) The penalties are,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+
+### 102B Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
+
+### 103 Penalties
+Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
 
 ### 104 Penalty for breach of bylaws
-Every person who commits a breach of any bylaw under this Act commits an offence, and is liable—
-  (a) in the case of an offence committed in respect of a national reserve, to a fine not exceeding $1,000, and, where the offence is a continuing one, to a further fine not exceeding $20 for every day on which the offence has continued:
-  (b)
-  (c) in the case of any other offence, to a fine not exceeding $250, and, where the offence is a continuing one, to a further fine not exceeding $5 for every day on which the offence has continued.
+Every person who commits a breach of any bylaw under this Act commits an offence, and is liable on conviction to—
+  (a) a fine not exceeding $5,000; and
+  (b) where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence continues.
+
+### 104A Sentence of community work
+A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 105 Application of fines
 Subject to section 73 of the Public Finance Act 1989, all fines recovered under this Act shall—provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of section 94 and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
@@ -1427,7 +1446,7 @@ Where under any provision of this Act the consent or approval of the Minister is
 ### 123 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration:
-  (b) prescribing offences in respect of the contravention of or non-compliance with the regulations, and prescribing penalties for such offences not exceeding a fine of $200 and, where the offence is a continuing one, a further fine not exceeding $5 for every day on which the offence has continued.
+  (b) prescribing offences in respect of the contravention of or non-compliance with the regulations, and prescribing penalties for such offences not exceeding a fine of $5,000 and, where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence has continued.
 (2) Without limiting the general authority to make regulations conferred by subsection (1), regulations may be made under that subsection providing for the expulsion from reserves of persons acting thereon in contravention of any Act relating to betting or gaming.
 
 ### 124 Amendments
