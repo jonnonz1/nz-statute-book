@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-10-25_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -502,17 +502,41 @@ No matter or thing done by any person in good faith in the exercise of his power
 (5) In any prosecution for an offence against this Act, a certificate confirming the status of any State forest land (as defined in the Forests Act 1949), national park, maritime park, or any Crown-owned land given by the Chief Surveyor for the relevant land district constituted under the Land Act 1948 in which the land in question is situated shall, unless the defendant proves to the contrary, be conclusive proof of that status; and all plans, maps, certificates, and copies certified as true or correct by that Chief Surveyor shall be sufficient evidence of their contents without the production of original records and without the personal attendance of that officer or proof of the officer's signature.
 
 ### 39 Penalties
-(1) Every person who commits an offence against section 11 (which relates to the liberation of animals) is liable to a fine not exceeding $50,000.
-(2) Every person who, in carrying out a wild animal recovery operation, commits an offence under section 8(2) is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $80,000.
-(2A) Every person who commits an offence under section 36(3) is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $80,000.
-(3) Every person who commits an offence against this Act or any regulations made under this Act for which no penalty is provided elsewhere than in this subsection is liable,—
-  (a) in the case of an individual, for a first offence against this Act or any regulations made under this Act to a fine not exceeding $500, and for a second or subsequent offence against this Act or any regulations made under this Act to a fine not exceeding $1,000, and, if any offence to which this paragraph applies is a continuing one, to a further fine not exceeding $50 a day for every day during which the offence has continued:
-  (b) in the case of a body corporate, for a first offence against this Act or any regulations made under this Act to a fine not exceeding $1,000, and for a second or subsequent offence against this Act or any regulations made under this Act to a fine not exceeding $2,000, and, if the offence to which this paragraph applies is a continuing one, to a further fine not exceeding $100 a day for every day during which the offence has continued.
+(1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+(2) The provisions are—
+  (a) section 8(2), which relates to unauthorised hunting or killing and unauthorised discharge of weapons:
+  (b) section 11(3), which relates to unauthorised capture, conveyance, possession, or liberation of wild animals:
+  (c) section 12A(10), which relates to failing to maintain deer enclosures:
+  (d) section 12B(6), which relates to failing to maintain animal enclosures on safari parks:
+  (e) section 17(2), which relates to obstructing, hindering, or resisting officers:
+  (f) section 36(1)(d), which relates to impeding, obstructing, or threatening officers:
+  (g) section 36(3), which relates to engaging in wild animal recovery operations without a concession.
+(2A)
+(3) Every person who commits an offence against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection is liable,—
+  (a) in the case of an individual,—
+    (i) to a fine not exceeding $5,000; and
+    (ii) if the offence is a continuing one, to a further fine not exceeding $500 for every day on which the offence continues:
+  (b) in the case of a body corporate,—
+    (i) to a fine not exceeding $10,000; and
+    (ii) if the offence is a continuing one, to a further fine not exceeding $1,000 for every day on which the offence continues.
+(3A) Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction to—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
 (4) Any wild animal taken or killed during the commission of any offence against this Act, the Trespass Act 1980, the Civil Aviation Act 1990, or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
+
+### 39A Sentence of community work
+A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+
+### 39B Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
 
 ### 40 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
