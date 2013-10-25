@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-10-25_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -1993,7 +1993,7 @@ No warranted officer shall be liable for any loss or damage caused to the owner 
     (i) the natural and historic values of the land; or
     (ii) the spiritual and cultural values which Maori associate with the land,—
   (b) a Nga Whenua Rahui kawenata under this section may be in perpetuity or for any specific term or may be in perpetuity subject to a condition that at agreed intervals of not less than 25 years the parties to the Nga Whenua Rahui kawenata shall review the objectives, conditions, and continuance of the Nga Whenua Rahui kawenata; and on such review the parties may mutually agree that the Nga Whenua Rahui kawenata shall be terminated, or the owner or lessee may terminate the Nga Whenua Rahui kawenata on giving such notice (being not less than 6 months) as may be agreed. The Crown shall have regard to the manawhenua of the owner or lessee in any such review:
-  (c) while any Nga Whenua Rahui kawenata under this section remains in force, sections 36 to 43 and 44 to 47, as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a conservation area, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
+  (c) while any Nga Whenua Rahui kawenata under this section remains in force, sections 36 to 43 and 43C to 47, as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a conservation area, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
   (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 1952:
   (e) where a Nga Whenua Rahui kawenata is entered into under this section, the District Land Registrar of the land registration district affected, on the application of the Director-General, shall, without fee, enter in the appropriate folio of the register relating to the land that is subject to the burden of the Nga Whenua Rahui kawenata a notification thereof:
   (f) subject to section 33, any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament.
@@ -2090,7 +2090,8 @@ A local authority may make contributions out of its general fund or account for 
 (1) Every person commits an offence against this Act who knowingly, and without the authority of the Minister or the Director-General,—
   (a) enters or remains in any conservation area declared closed by the Minister pursuant to section 13; or
   (b) enters any conservation area with a vehicle, ship, or aircraft, in breach of any prohibition or restriction imposed pursuant to this Act; or
-  (ba) contravenes or fails to comply with any provision of section 17O(2) or section 17ZF; or
+  (ba) contravenes or fails to comply with section 17O(2), which relates to activities carried out in conservation areas without a concession; or
+  (bb) contravenes or fails to comply with section 17ZF, which relates to operating aircraft in conservation areas without a concession or in an emergency or to repair a navigation aid; or
   (c) liberates any animal on any conservation area; or
   (ca) causes or allows any cattle, sheep, horse, or other animal of any kind whatever to enter on any conservation area; or
   (d) plants any plant, or sows or scatters the seed of any plant, or, knowing that it is likely to be injurious to plants or animals, introduces any substance, in or on any conservation area; or
@@ -2099,11 +2100,11 @@ A local authority may make contributions out of its general fund or account for 
   (g) constructs any apparatus on any conservation area; or
   (ga) conducts in any conservation area, any activity for which a concession is required under this Act; or
   (h) takes or removes any gravel, sand, stone, clay, limestone, or other such natural resource, otherwise than in accordance with a concession or some enactment other than this Act.
-(2) Every person commits an offence against this Act who knowingly, and without reasonable excuse, takes any plant on or from a conservation area in contravention of section 30(1).
+(2)
 (3) Every person commits an offence against this Act who, knowingly and without reasonable excuse, disposes of any contaminant into or onto any conservation area or in a position where it is likely to spill, drift, or blow onto or percolate or wash onto or into any conservation area.
 (4) Every person commits an offence who disturbs, injures, poisons, kills, or detrimentally affects any freshwater fishery, fish spawning ground, or food of freshwater fish in any river, stream, lake, or any other water, by allowing any contaminant to enter into any such water or refuses to remove as much as may be practicable of the contaminant in respect of which the breach arose immediately upon having been ordered to do so by a warranted officer.
 (5) For the purposes of this section, a person shall be deemed to allow a contaminant or water containing a contaminant to enter into water if that person places or discharges or causes or permits to be placed or discharged any contaminant or water containing any contaminant, in a position where that contaminant or any other contaminant emanating as a result of a natural process from that contaminant is liable to flow, fall, or descend into, or to be washed or percolate into, or to be carried by wind, tide, or current into, any water.
-(6) Where any person is convicted of an offence under subsection (4) that person shall be liable to a fine not exceeding $30,000, and to a further fine of $3,000 per day if the offence is a continuing one; but it shall be a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the Resource Management Act 1991 or was a permitted activity in the relevant regional plan under that Act, and for this purpose it shall be a sufficient defence to produce a certificate to that effect from the regional council in the area of which the permit was purported to be granted or activity otherwise permitted.
+(6) Where any person is convicted of an offence under subsection (4) that person shall be liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both, and to a further fine of $10,000 per day if the offence is a continuing one; but it shall be a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the Resource Management Act 1991 or was a permitted activity in the relevant regional plan under that Act, and for this purpose it shall be a sufficient defence to produce a certificate to that effect from the regional council in the area of which the permit was purported to be granted or activity otherwise permitted.
 (7) Subsection (4) shall apply in respect of any marine and coastal area administered or managed by the Department, and all freshwater in New Zealand.
 
 ### 40 Powers of warranted officers
@@ -2160,10 +2161,36 @@ A person who does any act in pursuance or intended pursuance of any of the funct
     (i) in any case where it is alleged that anything required to be done was not done, the defendant took all reasonable steps to ensure that it was done; or
     (ii) in any case where it is alleged that anything prohibited was done, that the defendant took all reasonable steps to ensure that it was not done.
 
+### 43C Penalties for certain offences
+(1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
+(2) The provisions are—
+  (a) section 26ZJ, which relates to unlawful acts in respect of spawning fish:
+  (b) section 26ZR, which relates to the use of a substance or electric device to take or destroy freshwater fish:
+  (c) section 30(6), which relates to the taking of plants from conservation areas:
+  (d) section 38(4)(a), which relates to discharging weapons on, into, or over conservation areas:
+  (e) section 39(1)(b), (bb), (c), (ca), (d), (e), (f), (g), and (h), which relates to other offences in respect of conservation areas:
+  (f) section 39(3), which relates to the disposal of contaminants:
+  (g) section 41(a), which relates to resisting or obstructing officers and rangers.
+(3) The penalties are,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+
+### 43D Penalties for offences committed for commercial gain or reward
+(1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $300,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+(2) Subsection (1) overrides every other provision of this Act to the contrary.
+
 ### 44 Penalties
-Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable,—
-  (a) where the offence was committed by an individual, to imprisonment for a term not exceeding 1 year or to a fine not exceeding $10,000, and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day on which the offence has continued; and
-  (b) where the offence was committed by a corporation, to a fine not exceeding $80,000 and, where the offence is a continuing one to a further fine not exceeding $10,000 for every day on which the offence has continued.
+Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+  (b) in the case of a body corporate, a fine not exceeding $200,000:
+  (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+
+### 44A Sentence of community work
+A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 45 Offenders liable for loss or damage
 (1) Every person convicted of an offence against this Act shall be liable for any loss or damage or expenses arising from or caused by the act constituting the offence in addition to the penalty for the offence; and the amount payable in respect of the loss or damage or expense may be awarded by the court in fixing the penalty and may be recovered as a fine.
@@ -2207,7 +2234,7 @@ Every person who commits an offence against this Act for which no penalty is pre
   (k) prescribing, or providing for the fixing of, fees and levies payable in respect of any matter under this Act:
   (l) prescribing the procedure for the election of members of the New Zealand Fish and Game Council, and the nomination and election of members of Fish and Game Councils:
   (m) authorising any conservation organisation to pay travelling and other expenses incurred by any of its members in the course of their duties as members of the organisation, if no such provision is made elsewhere in this Act:
-  (n) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any lawful direction or requirement made under this Act or any such regulations, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000 and, where the offence is a continuing one, a further amount not exceeding $50 for every day on which the offence has continued:
+  (n) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any lawful direction or requirement made under this Act or any such regulations, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000 and, where the offence is a continuing one, a further amount not exceeding $500 for every day on which the offence has continued:
   (o) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Any regulations made under subsection (1)(k) may—
   (a) specify the person by whom any fees or levies prescribed under this Act are payable:
