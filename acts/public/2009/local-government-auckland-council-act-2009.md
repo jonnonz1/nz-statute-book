@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-11-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -377,14 +377,31 @@ A local board must be established for each local board area for the purposes of�
 ### 30 Code of conduct
 Each member of each local board must comply with the code of conduct adopted by the governing body under clause 15 of Schedule 7 of the Local Government Act 2002.
 
-### 31 Delegations
+### 31 Delegations to local boards from governing body
 (1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in clause 32(1)(a) to (f) of Schedule 7 of the Local Government Act 2002.
 (2) However, nothing in subsection (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in clause 32(1)(a) to (f) of that schedule.
 (3) In deciding whether to make a delegation, the governing body must weigh the benefits of reflecting local circumstances and preferences (through a delegation) against the importance and benefits of using a single approach across Auckland (through itself retaining the responsibility, duty, or power concerned).
-(4) A local board may delegate any of its responsibilities, duties, and powers delegated to it by the governing body to a subcommittee or person.
-(5) Subsection (4) is subject to any conditions, limitations, or prohibitions imposed on the local board by the governing body when making the original delegation.
-(6) A local board to which the governing body has delegated responsibilities, duties, or powers, or a subcommittee or person to which or to whom a local board has delegated responsibilities, duties, or powers, may, without confirmation by the governing body or the local board (as the case may be), exercise or perform the responsibilities, duties, or powers in the same manner and with the same effect as the governing body could itself have exercised or performed them.
-(7) No delegation under this section relieves the governing body or a local board of the liability or legal responsibility to perform or ensure performance of any function or duty.
+(4) A local board to which the governing body has delegated a responsibility, duty, or power may, without confirmation by the governing body, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the governing body could itself have exercised or performed it.
+(5) No delegation under this section relieves the governing body of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
+(6)
+(7)
+
+### 31A Delegations by local boards
+(1) For the purposes of efficiency and effectiveness in the conduct of a local board's business, a local board may delegate to a committee, subcommittee, or member of the local board, or an officer of the Auckland Council, any of its responsibilities, duties, and powers, except—
+  (a) the duty to identify and communicate the interests and preferences of the people in its local board area in relation to the content of the strategies, policies, plans, and bylaws of the Auckland Council:
+  (b) the power to propose a bylaw or an amendment to a bylaw:
+  (c) the power to confirm a bylaw or modify a proposed bylaw:
+  (d) the power to propose the revocation of a bylaw:
+  (e) the duty to adopt the local board plan for its area:
+  (f) the duty to agree the local board agreement for its area with the governing body of the Auckland Council:
+  (g) the power to apply to the Local Government Commission for a binding determination in respect of a dispute between itself and the governing body:
+  (h) a responsibility, duty, or power that this Act or any other Act expressly provides may not be delegated.
+(2) However, nothing in subsection (1) restricts the power of a local board to delegate to a committee, subcommittee, or member of the local board, or an officer of the Auckland Council, the power to do anything precedent to the performance or exercise by the local board of a responsibility, duty or power specified in that subsection.
+(3) Subsection (1) applies to any responsibilities, duties, or powers delegated to the local board by the governing body subject to any conditions, limitations, or prohibitions imposed by the governing body when making the original delegation.
+(4) A committee, subcommittee, or person to which or to whom a local board has delegated a responsibility, duty, or power, may,—
+  (a) without confirmation by the local board, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the local board could itself have exercised or performed it:
+  (b) delegate the responsibility, duty, or power to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local board when making the original delegation.
+(5) No delegation relieves the local board of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
 
 ### 32 Chief executive responsible for certain matters in relation to local boards
 The chief executive of the Auckland Council is responsible to the Auckland Council for—
