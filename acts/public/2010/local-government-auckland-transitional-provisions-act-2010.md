@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-11-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -21,11 +21,7 @@ This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
 An Order in Council made under any provision of section 5 or Part 1 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 5 Transitional regulations
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to—
-  (a) prescribe matters in respect of the initial structure and operation of the Auckland Council and its subsidiaries that may be in addition to or in place of the provisions of Part 1 or 2 of this Act:
-  (b) provide that, subject to any conditions specified in the regulations, during a specified period or in specified circumstances, specified provisions of this Act or any other enactment referred to in Part 1 or 2 do not apply, or apply with modifications, to the Council and its subsidiaries:
-  (c) extend the time for completing an action, a step, or a procedure that is required by or under Part 1 or 2 of this Act and that is not done or cannot be done by the time required:
-  (d) make provision for a situation for which no or insufficient provision is made by or under Part 1 or 2 of this Act.
+(1)
 (2) Subsection (1) expires at the close of 31 October 2013.
 (3) Any regulations made under subsection (1) that are in force on 31 October 2013 expire at the close of that day.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister for the Environment, make regulations to—
