@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2013-11-01_
 
 ### 1 Title
 This Act is the Privacy Amendment Act 2011.
