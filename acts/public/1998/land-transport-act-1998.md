@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-11-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -70,8 +70,9 @@ _Consolidation as at 2013-08-05_
   - **design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
   - **doctor's surgery** means a medical practitioner's surgery or any other place where a medical examination or medical care or treatment is carried out or given
   - **drink** means alcoholic drink
-  - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and drive has a corresponding meaning
+  - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and has a corresponding meaning
   - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
+  - **driver licence stop order** means an order imposed under section 91E
   - **enforcement authority** , in relation to an infringement offence, means (except in relation to Part 17)—
     (a) the New Zealand Police, in any case:
     (b) the Agency, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or on behalf of the Agency:
@@ -208,7 +209,7 @@ _Consolidation as at 2013-08-05_
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
   - **outputs** means the goods and services that are produced by the Agency
   - **overloading offence** means an offence against any enactment that is specified as an overloading offence by the regulations
-  - **owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle; and owned and ownership have corresponding meanings
+  - **owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle; and and have corresponding meanings
     (a) the motor vehicle is subject to a bailment that is for a period not exceeding 28 days; or
     (b) the motor vehicle is let on hire pursuant to the terms of a rental-service licence,—
   - **parking** means,—
@@ -929,17 +930,20 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
   - **specified serious offence** has the same meaning as in section 29A(4).
 
 ### 30 Driver licences are property of Agency and are to be surrendered in certain circumstances
-(1) Driver licences are the property of the Agency and, except where section 19 applies, must be surrendered or forwarded to the Agency in accordance with subsections (2) to (4A).
+(1) Driver licences are the property of the Agency and, except where section 19 or subsection (4B) applies, must be surrendered or forwarded to the Agency in accordance with subsections (2) to (4A).
 (2) The holder of a driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Agency if—
   (a) the licence is suspended or revoked under any Act; or
   (b) the suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
 (3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a constable or at any office of the Agency.
 (3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
-(4) A person who receives a driver licence under subsection (3), (3A), or (4A)(b) or (c) must immediately forward it to the Agency.
+(4) A person who receives a driver licence under subsection (3), (3A), (4A)(b) or (c), or (4B) must immediately forward it to the Agency.
 (4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
   (a) the Agency; or
   (b) a person appointed by the Agency; or
   (c) a constable.
+(4B) A person on whom a driver licence stop order is imposed must,—
+  (a) if the order is served in a way other than that described in section 91B(1)(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court:
+  (b) if the order is served in the way described in section 91B(1)(a), surrender his or her driver licence to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
 (5) The Agency must, subject to sections 82A, 83, and 105(6A) and as soon as practicable after being satisfied that a person is entitled to apply for and be granted a driver licence,—
   (a) issue a new driver licence to the person when the disqualification or suspension expires or is removed; or
   (b) in the case where a court authorises the issue of an alcohol interlock licence, issue an alcohol interlock licence to the person; or
@@ -2255,7 +2259,7 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
   (d) an order under section 99 (reducing a disqualification):
   (e) an order under section 105 (authorising the issue of a limited licence).
 (2) If a court makes an order to which this section applies, the Registrar of the court must notify the Agency and the offender in writing of the particulars of the order.
-(2) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
+(3) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
 
 **Disqualification of transport service driver and other persons**
 
@@ -2354,6 +2358,92 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (2) If a suspension under section 90 is imposed in respect of a person's driver licence or a disqualification is imposed under that section in respect of a person, the Agency must cancel all demerit points for the time being recorded in respect of that person.
 (3) The Agency must cancel all demerit points for the time being recorded against a person if a court disqualifies the person from holding or obtaining a driver licence for a period of 6 months or more.
 (4) If a person's suspension or disqualification is removed on appeal, the Agency must reinstate the demerit points cancelled under this section.
+
+**Driver licence stop orders**
+
+### 91A Interpretation
+In this section and in sections 91C to 91H, unless the context otherwise requires,—
+  - **defendant** means the person who is required to pay a traffic fine, and includes a young person within the meaning of the Children, Young Persons, and Their Families Act 1989
+  - **resolved** , in relation to a defendant's obligation to pay a traffic fine, has the same meaning as in section 79 of the Summary Proceedings Act 1957
+  - **served personally** , in relation to a warning notice or a driver licence stop order, means served in the way described in section 91B(1)(a)
+  - **traffic fine** —
+    (a) means any amount of money that a person is for the time being obliged to pay under a sentence imposed or an order made, or deemed to be made, by a court in respect of a traffic offence, whether the amount payable under that sentence or order is described as a fine or as costs, levies, expenses, fees, reparation, or otherwise; and
+    (b) includes an offender levy imposed under section 105B of the Sentencing Act 2002 for a traffic offence and any prescribed costs, expenses, or fees payable in respect of the enforcement of any amount of money described in paragraph (a); but
+    (c) does not include any amount of money adjudged or ordered to be paid in a civil proceeding
+  - **traffic offence** means—
+    (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
+    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
+  - **warning notice** means a notice served under section 91D.
+
+### 91B Ways in which warning notice or driver licence stop order must be served
+(1) A warning notice or a driver licence stop order must be served on a defendant in 1 of the following ways:
+  (a) by an employee or agent of the Ministry of Justice or an enforcement officer delivering it to the defendant personally or bringing it to the defendant's notice if the defendant refuses to accept it:
+  (b) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at his or her place of residence, with another person who appears to be of or over the age of 14 years:
+  (c) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of business or place of work, with another person:
+  (d) by the chief executive of the Ministry of Justice sending it to the defendant by prepaid post addressed to the defendant at the defendant's last known place of residence or business or place of work:
+  (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form.
+(2) An endorsement on a copy of a warning notice or a driver licence stop order, or, where applicable, on a printout that records an electronic document, stating the fact, mode, date and time of service and purporting to be signed by an employee or agent of the Ministry of Justice or by an enforcement officer is, in the absence of evidence to the contrary, sufficient proof of service of the notice or order.
+(3) If a warning notice or driver licence stop order is served in the way described in subsection (1)(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+
+### 91C Liability to driver licence stop order
+A defendant who is obliged to pay a traffic fine is liable to the imposition of a driver licence stop order if—
+  (a) the defendant has breached the provisions of an enactment or the terms of a sentence, an order, or a direction by failing to pay the traffic fine within the time provided or fixed by the enactment, sentence, order, or direction; and
+  (b) the defendant's obligation to pay the fine is neither discharged, by payment in full or remission in full, nor resolved.
+
+### 91D Warning notice to be served on defendant
+(1) If a defendant is liable to the imposition of a driver licence stop order, the chief executive of the Ministry of Justice must arrange for a warning notice to be served on the defendant.
+(2) The notice must—
+  (a) explain why the defendant is liable to the imposition of a driver licence stop order and provide details of the unpaid traffic fine to which the liability relates; and
+  (b) if the defendant’s liability is related to the cancellation or revocation of a payment arrangement, deduction notice, or an attachment order, give the reason for the cancellation or revocation; and
+  (c) state that a driver licence stop order will not be imposed if, before the close of the 14th day after service of the notice, the unpaid traffic fine is paid in full, or remitted in full, or the defendant's obligation to pay the fine is resolved.
+(3) No driver licence stop order imposed on a person is invalid merely because a notice under subsection (1) was not received by that person or was received by that person after the driver licence stop order was imposed on the person.
+
+### 91E Imposition of driver licence stop order
+(1) If, following the expiry of the period of 14 days after service of the notice sent to a defendant under section 91D, the defendant continues to be liable to a driver licence stop order because of the traffic fine described in that notice, the chief executive of the Ministry of Justice may impose a driver licence stop order on the defendant and issue it for service.
+(2) The chief executive of the Ministry of Justice may, on 1 or more occasions, reissue a driver licence stop order that has previously been issued or reissued for service but that is not yet in effect.
+(3) An order imposed under subsection (1) must be in a form approved by the chief executive of the Ministry of Justice and must state—
+  (a) the name of the defendant; and
+  (b) the traffic fine in respect of which the order is imposed and the amount owing on that fine; and
+  (c) that the order will stay in effect until the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full, or until it is resolved; and
+  (d) that, immediately after the order takes effect, any driver licence held by the defendant, including any limited licence issued under section 105, is suspended until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
+  (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer, the defendant must surrender any driver licence held by the defendant to that employee or agent or to that enforcement officer; and
+  (f) that if the order is served, but is not served personally, the defendant must post or deliver any driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court; and
+  (g) if the defendant does not hold a current driver licence when the order takes effect, that—
+    (i) the defendant is disqualified from holding or obtaining a driver licence (including any limited licence) until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
+    (ii) if the defendant is authorised to obtain a limited licence, the limited licence may not be issued by the Agency until the driver licence stop order is so cancelled or terminated.
+(4) When the order is issued for service, the defendant becomes liable to pay a single fee for the order, and that single fee—
+  (a) is deemed to be imposed when the order is first issued, regardless of the number of times that the same order may subsequently be reissued; and
+  (b) is not affected by the number of fines in respect of which the order is issued, so that if, for example, the order is issued for 2 fines, the fee is 1 fee and not 2 fees; and
+  (c) is, for enforcement purposes, deemed to be a fine.
+(5) The amount of the fee deemed to be imposed by subsection (4) is the same as that prescribed by regulations, made under the Summary Proceedings Act 1957, in respect of enforcement action taken under that Act to enforce a fine.
+
+### 91F Effect of driver licence stop order
+(1) A driver licence stop order that is imposed on a defendant takes effect—
+  (a) if the order is served personally on the defendant, immediately after the order is so served:
+  (b) if the order is served, but is not served personally, on the defendant and the defendant posts or delivers the driver licence to an employee or agent of the Ministry of Justice, immediately after that employee or agent receives the defendant's driver licence.
+(2) A driver licence stop order that is in effect continues in effect until it is cancelled under section 91G or terminated under section 91H.
+(3) Throughout the time that a driver licence stop order is in effect,—
+  (a) any driver licence held by the defendant on whom the order is imposed, including any limited licence held under section 105, is suspended; and
+  (b) if the defendant on whom the order is imposed does not hold a current driver licence when the order takes effect, the defendant is disqualified from holding or obtaining a driver licence, including any limited licence under section 105; and
+  (c) if the defendant's driver licence is suspended under paragraph (a), the defendant may not hold or obtain another driver licence, including any limited licence under section 105.
+(4) The chief executive of the Ministry of Justice must notify the Agency and may notify the Commissioner of the driver licence stop order and of the date and time when it took effect.
+
+### 91G Cancellation of driver licence stop order
+(1) The chief executive of the Ministry of Justice may, if there is good reason for doing so, cancel a driver licence stop order.
+(2) Without limiting the generality of subsection (1), a good reason exists, for the purposes of that subsection, if the driver licence stop order—
+  (a) was imposed or served in error; or
+  (b) is inconsistent with a judicial determination.
+(3) The chief executive of the Ministry of Justice must give notice of the cancellation to the person on whom the order was imposed and to the Agency.
+(4) The cancellation takes effect when it is shown on the national register maintained under section 199.
+(5) When the Agency receives notice of the cancellation, the Agency must, if the defendant's driver licence was surrendered and forwarded to the Agency and the defendant is otherwise eligible to hold a current driver licence, replace the photographic driver licence and send it by ordinary post to the defendant's address recorded on the national register maintained under section 199.
+(6) The chief executive of the Ministry of Justice must pay the Agency the prescribed fee for replacing the photographic driver licence in accordance with subsection (5).
+
+### 91H Termination of driver licence stop order if traffic fine paid or resolved
+(1) The chief executive of the Ministry of Justice must terminate a driver licence stop order if the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full or if the defendant's obligation is resolved.
+(2) The chief executive of the Ministry of Justice must give notice of the termination to the defendant and to the Agency.
+(3) The termination takes effect when it is shown on the national register maintained under section 199.
+(4) When the Agency receives notice of the termination, the Agency must, if the defendant's driver licence was surrendered and forwarded to the Agency and the defendant is otherwise eligible to hold a current driver licence, replace the photographic driver licence and send it by ordinary post to the defendant's address recorded on the national register maintained under section 199.
+(5) The chief executive of the Ministry of Justice must pay the Agency the prescribed fee for replacing the photographic driver licence in accordance with subsection (4).
 
 **Other penalties**
 
@@ -2761,7 +2851,8 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
     (iv) for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in any of subparagraphs (i) to (iii)—
   (e) a person who—
     (i) is subject to the requirements of an alcohol interlock licence; or
-    (ii) is subject to an order under section 65A but is yet to obtain an alcohol interlock licence.
+    (ii) is subject to an order under section 65A but is yet to obtain an alcohol interlock licence:
+  (f) a person in respect of whom a driver licence stop order is in effect.
 
 ### 104 Issue of limited licence to be delayed or prohibited in certain cases
 (1) No order may be made under section 105 that authorises a person to obtain a limited licence before the expiration of 28 days from the date the order of disqualification takes effect if the person is disqualified on conviction—
@@ -2804,7 +2895,11 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (7) If the holder of a limited licence, or a person who is authorised to obtain a limited licence but has not become the holder of such a licence, is convicted of an offence for which an order of disqualification is imposed,—
   (a) the limited licence is revoked or may not be issued (as the case may be) and the original order of disqualification is revived and has effect for the balance of the term for which it was originally imposed; and
   (b) unless the court orders otherwise, the period of disqualification under the revived order of disqualification runs concurrently with the order of disqualification in respect of the second offence.
-(8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Agency.
+(7A) If a driver licence stop order takes effect in respect of a person who holds a limited licence or is authorised to obtain a limited licence, then the limited licence—
+  (a) is revoked or may not be issued (as the case may be); and
+  (b) may, when a driver licence stop order is cancelled under section 91G or terminated under section 91H, be reissued or issued (as the case may be) unless the person is otherwise disqualified from holding a limited licence.
+(8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her photographic driver licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Agency.
+(8A) The holder of a limited licence that is revoked under subsection (7A) must immediately, and whether demand is made on the holder or not, surrender his or her photographic driver licence to an employee or agent of the Ministry of Justice or at an office of that Ministry or at the court.
 (9) Despite section 104(3)(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
 
 **Rights of appeal**
@@ -3909,10 +4004,11 @@ The functions of the Minister under this Act are—
   (i) information about any court order under this Act or any former enactment authorising the issue of a limited licence to the holder (if the holder has been disqualified from holding or obtaining a driver licence):
   (ia) information about any court order under this Act authorising the issue of an alcohol interlock licence or zero alcohol licence to the holder:
   (j) information about any order removing a disqualification imposed on the holder under this Act or any former enactment:
-  (k) information about any suspension of any licence held by the holder or any disqualification from holding or obtaining a licence imposed on the holder under this Act or any former enactment:
+  (k) information about any suspension of any licence held by the holder, including under any driver licence stop order, or any disqualification from holding or obtaining a licence imposed on the holder under this Act or any former enactment:
   (l) information about any revocation or suspension of a driver licence entitling the holder to drive a transport service vehicle, or a prohibition placed on the holder from driving any such vehicle, under Part 4A:
   (m) information about any order of disqualification made against the holder under section 83 of the Criminal Justice Act 1985 or section 124 of the Sentencing Act 2002:
   (n) information about any revocation or suspension under this Act or any former enactment of any driver licence held by the holder:
+  (na) information about any cancellation or termination of a driver licence stop order:
   (o) photographic images of the holder taken for the purposes of this Act:
   (p) information about demerit points recorded under this Act or any other enactment against the holder for any offence:
   (q) organ donor information about the holder.
@@ -3921,7 +4017,7 @@ The functions of the Minister under this Act are—
 (5) A medical practitioner is entitled (without payment of a fee) to information about any driver licence holder referred to in subsection (2)(q).
 (6) A person who applies to the Agency and pays the prescribed fee (if any) is entitled to the following information stored in the national register in respect of a person named in the application:
   (a) any information specified in paragraph (d) or paragraph (e) of subsection (2):
-  (b) any information specified in paragraphs (f) to (n) of subsection (2) that is current at the date of the application.
+  (b) any information specified in paragraphs (f) to (na) of subsection (2) that is current at the date of the application.
 (7) An application under any of subsections (4) to (6)—
   (a) may be made in writing or electronically or orally; and
   (b) must describe the person named with sufficient particularity to enable the Agency to identify the person and the licences concerned.
