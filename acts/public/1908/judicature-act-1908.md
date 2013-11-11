@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-10-11_
+_Consolidation as at 2013-11-11_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -2533,7 +2533,7 @@ A solicitor by whom, or on whose behalf, a document is filed in the court is to 
   (c) in the case of a party referred to in subclause (1)(c), must state that the party’s intention is to act in person.
 (4) For the purpose of the proceeding, the change of representation takes effect on the filing of an affidavit proving service in accordance with subclause (1) and attaching and verifying a copy of the notice served.
 (5) A party may change that party’s address for service by—
-  (a) filing a notice of the change showing the new address for service; and
+  (a) filing a notice of the change showing the new address for service or specifying an address for a method of service set out in rule 6.1(1)(d); and
   (b) serving a copy of the notice on every other party.
 (6) A change of address for service may be combined with a notice under subclause (1).
 (7) A notice of change of address for service need not be filed under subclause (5)(a) if an affidavit is filed under subclause (4).
@@ -2560,7 +2560,7 @@ A solicitor by whom, or on whose behalf, a document is filed in the court is to 
 (2) The last known address of the party, or, when the party is a body corporate, its registered or principal registry is, for the purpose of serving the party with any document not required to be served personally, the party’s address for service until the party either—
   (a) appoints another solicitor and complies with rule 5.40; or
   (b) if entitled to act in person,—
-    (i) files a notice stating that the party intends to act in person and showing the party’s new address for service; and
+    (i) files a notice stating that the party intends to act in person and showing the party’s new address for service or specifying an address for a method of service set out in rule 6.1(1)(d); and
     (ii) serves on the solicitor who obtained the order under rule 5.41 and on every other party to the proceeding who has given an address for service a copy of that notice; and
     (iii) files an affidavit proving that service and attaching and verifying a copy of the notice served.
 
@@ -2579,7 +2579,7 @@ The solicitor on the record for a party must notify the party of an order or dir
     (i) the name of the agent or of the agent’s firm (if any); and
     (ii) the postal address of the party’s solicitor; and
   (d) an address for service; and
-  (e) if it is filed by a solicitor, any post office box address, document exchange box number, fax number, or email address by which the solicitor will accept service of documents in the course of the proceeding.
+  (e) any post office box address, document exchange box number, fax number, or email address by which the solicitor or the party in person will accept service in the course of the proceeding.
 (2) The memorandum may be in one of the paragraphs of form G 10.
 
 #### Subpart 9 — Security for costs
@@ -2635,7 +2635,7 @@ A party’s solicitor may not be accepted as surety for a security that the part
   (b) if it is satisfied that it has no jurisdiction to hear and determine the proceeding, dismiss both the application and the proceeding.
 (7) To the extent that an application under this rule relates to service of process effected outside New Zealand under rule 6.27 or 6.28, it must be determined under rule 6.29.
 (7A) But both this rule and rule 6.29 are subject to section 27(1) of the Trans-Tasman Proceedings Act 2010, which provides that a New Zealand court cannot stay a civil proceeding before it on forum grounds connected with Australia otherwise than in accordance with subpart 2 of Part 2 of that Act.
-(8) The court, in exercising its powers under this rule, may do so on any terms and conditions the court thinks just and, in particular, on setting aside the appearance it may extend the time within which the defendant may file and serve a statement of defence and may give any directions that appear necessary regarding any further steps in the proceeding in all respects as though the application were an application for directions under rule 7.9.
+(8) The court, in exercising its powers under this rule, may do so on any terms and conditions the court thinks just and, in particular, on setting aside the appearance it may extend the time within which the defendant may file and serve a statement of defence and may give any directions that appear necessary regarding any further steps in the proceeding.
 (9) If the appearance set aside has been filed in relation to a proceeding in which the plaintiff has applied for judgment under rule 12.2 or 12.3, the court—
   (a) must fix the time within which the defendant may file and serve—
     (i) a notice of opposition; and
@@ -2779,7 +2779,7 @@ If no statement of defence has been filed in the District Court, a statement of 
   (a) personal service:
   (b) service at an address for service given in accordance with these rules:
   (c) service at an address directed by the court as the address for service for the party or person:
-  (d) if the solicitor for the party or person has, under rule 5.44(1)(e), specified a post office box address, document exchange box number, fax number, or email address,—
+  (d) if the solicitor for the party or person, or the party or person, has, under rule 5.40(5)(a), 5.42(2)(b)(i), or 5.44(1)(e), specified a post office box address, document exchange box number, fax number, or email address,—
     (i) by posting the document to that post office box address; or
     (ii) by leaving the document at a document exchange for direction to that document exchange box number; or
     (iii) by transmitting the document electronically to that fax number or email address:
@@ -3090,9 +3090,26 @@ This subpart (which contains rules on service out of New Zealand) does not apply
 
 #### Subpart 1 — Case management
 
+### 7.1AA Outline of case management procedures for different types of proceedings
+(1) An ordinary defended proceeding or a complex defended proceeding—
+  (a) is subject to a first case management conference (see rule 7.3):
+  (b) may be the subject of 1 or more further case management conferences (see rule 7.4):
+  (c) may also be the subject of an issues conference (see rule 7.5):
+  (d) if the proceeding is being, or has been, allocated a hearing or trial date, may be the subject of a pre-trial conference (see rule 7.8).
+(2) An application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996) is subject to case management under different provisions (see rules 7.14 and 7.15).
+(3) A proceeding commenced by originating application is subject to limited case management through the ability of the parties to seek directions (see rules 19.11 and 7.43A).
+(4) A proceeding on the commercial list is subject to limited case management through the ability of parties to seek directions (see rules 29.10 to 29.12).
+(5) An application for judicial review may be subject to case management under section 10 of the Judicature Amendment Act 1972 and any rules relating to the case management of such proceedings.
+(6) The following proceedings are not subject to case management:
+  (a) undefended proceedings:
+  (b) an application under Part 24 (Insolvency) or Part 31 (Companies: Liquidation).
+(7) This rule operates only as a guide, and if any other provision of these rules or any other enactment is inconsistent with this rule, that other provision or enactment prevails.
+
 ### 7.1 Proceedings subject of case management
-(1) Case management in accordance with this subpart will be applied to proceedings in order to promote their just, speedy, and inexpensive determination.
-(2) Subclause (1) is subject to subclause (8).
+(1) Case management in accordance with this subpart will be applied to the following proceedings in order to promote their just, speedy, and inexpensive determination:
+  (a) ordinary or complex defended hearings:
+  (b) an application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996).
+(2)
 (3) The purpose of a case management conference is to enable the Judge to assist the parties—
   (a) to identify, define, and refine the issues requiring judicial resolution; and
   (b) to determine what steps need to be taken in order to prepare the proceeding for hearing or trial; and
@@ -3104,8 +3121,8 @@ This subpart (which contains rules on service out of New Zealand) does not apply
 (5) For the purposes of this subpart, a proceeding must be classified as—
   (a) an ordinary defended proceeding; or
   (b) a complex defended proceeding; or
-  (c) an application under Part 24 (insolvency) or Part 31 (companies liquidation); or
-  (d) an application for leave to appeal, or an appeal, under Part 20 (appeals) or Part 26 (Arbitration Act 1996); or
+  (c) an application under Part 24 (Insolvency) or Part 31 (Companies: Liquidation); or
+  (d) an application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996); or
   (e) an undefended proceeding; or
   (f) an application commenced by originating application under Part 19 (originating applications); or
   (g) a proceeding on the commercial list.
@@ -3113,7 +3130,10 @@ This subpart (which contains rules on service out of New Zealand) does not apply
   (a) resolved by a Judge not later than the date of the first case management conference; and
   (b) promptly advised to the parties.
 (7) A Judge may at any time review the classification assigned under subclause (5) and decide whether to maintain or alter it.
-(8) A proceeding that falls within subclause (5)(c) to (g) is not to be the subject of case management unless a Judge so directs.
+(8) Proceedings under subclause (5)(f) and (g) are subject to limited case management through the ability of the parties to seek directions.
+(9) The following proceedings are not subject to case management:
+  (a) undefended hearings:
+  (b) an application under Part 24 (Insolvency) or Part 31 (Companies: Liquidation).
 
 ### 7.2 Case management conferences generally
 (1) A Judge may hold a case management conference at any time.
@@ -3211,7 +3231,7 @@ The Registrar must cause the following lists to be kept:
 (2) The performance of the Registrar's functions under this rule is subject to any direction by a Judge.
 
 ### 7.14 Case management conferences for appeals
-(1) In the case of an appeal under Part 20 or 26 that is to be the subject of case management, the Registrar must make arrangements for a case management conference to be held on the first available date that is 15 working days after any of the following dates:
+(1) In the case of an appeal under Part 20 or 26, the Registrar must make arrangements for a case management conference to be held on the first available date that is 15 working days after any of the following dates:
   (a) the date on which a notice of appeal under rule 20.6 or an originating application under rule 26.3 is filed:
   (b) the date on which leave to appeal is granted on an application under rule 20.3 or 26.15.
 (2) A case management conference under this rule may be held as part of an appeals list.
@@ -3409,6 +3429,18 @@ The hearing of an application may, from time to time, be adjourned on any terms 
   (b) on a Judge’s own initiative.
 (3) Before making an order under subclause (2)(b), the Judge must give the parties an opportunity to be heard.
 
+### 7.43A Directions as to conduct of proceedings
+(1) A Judge may, by interlocutory order,—
+  (a) fix the time by which a step in a proceeding must be taken:
+  (b) fix the time by which all interlocutory steps must be completed:
+  (c) direct the steps that must be taken to prepare a proceeding for a substantive hearing:
+  (d) direct how the hearing is to be conducted:
+  (e) make any other direction or order that the court may make under these rules.
+(2) A party or intended party may apply without notice to a Judge for directions if in doubt about—
+  (a) whether it is correct or appropriate to join a person as a party; or
+  (b) the proper court in which to commence or take a step in a proceeding; or
+  (c) the correct method of proceeding under these rules.
+
 ### 7.44 Power to grant interlocutory order or interlocutory relief
 A Judge may make any interlocutory order or grant any interlocutory relief the Judge thinks just, even though the order or relief has not been specifically claimed and there is no claim for general or other relief.
 
@@ -3510,7 +3542,7 @@ A Judge may make an interlocutory order subject to any just terms or conditions,
 (1) A Judge may at any stage in a proceeding make orders, subject to any conditions specified by the Judge, for the detention, custody, or preservation of any property.
 (2) An order may authorise a person to enter any land or to do any other thing for the purpose of giving effect to the order.
 (3) The Judge may order that a fund be paid into court or otherwise secured if the proceeding concerns the right of a party to the fund.
-(4) The Judge may treat an application under this rule as an application for directions under rule 7.9 and give directions accordingly.
+(4) The Judge may treat an application under this rule as an application for directions under rule 7.43A and give directions accordingly.
 
 ### 7.56 Sale of perishable property before hearing
 (1) A Judge may, on application, make an order authorising a person to sell property (other than land) in a manner and subject to any conditions stated in the order if—
@@ -3518,7 +3550,7 @@ A Judge may make an interlocutory order subject to any just terms or conditions,
   (b) the property—
     (i) is perishable or likely to deteriorate; or
     (ii) should for any other reason be sold before the hearing.
-(2) The Judge may treat an application under this rule as an application for directions under rule 7.9 and give directions accordingly.
+(2) The Judge may treat an application under this rule as an application for directions under rule 7.43A and give directions accordingly.
 
 ### 7.57 Order to transfer part of property to person with interest in property
 (1) At any stage of a proceeding concerning property a Judge may order, subject to any conditions, that a part of the property be transferred or delivered to a person who has an interest in the property.
@@ -4103,7 +4135,7 @@ A judgment or order may be made on an admission of facts under rule 15.15.
 (2) The duty to co-operate includes—
   (a) advising the plaintiff or the plaintiff's counsel promptly, after the date when the last brief of any party is served under rule 9.7, of the documents that the party requires the plaintiff to include in the common bundle; and
   (b) taking all practicable steps to assist the plaintiff in the preparation of the common bundle, for example, by making copies of documents available, or agreeing to the excision of part of a document if that part cannot be relevant; and
-  (c) conferring as to the format of the common bundle.
+  (c) conferring as to the format of the common bundle and, in particular, whether an electronic format of the common bundle is appropriate.
 (3) If a party other than the plaintiff has been ordered to prepare the common bundle, the references in subclause (2) to the plaintiff are to be read as references to that different party.
 (4) Subject to rule 9.6, the common bundle must contain all the documents listed in the index of each party, and no other documents.
 (5) The common bundle must—
@@ -4115,6 +4147,7 @@ A judgment or order may be made on an admission of facts under rule 15.15.
     (iii) the party from whose custody each document has been produced:
     (iv) the page number of each document as it appears in the common bundle:
   (d) use a format that is, so far as possible, compatible with that used by the parties when listing documents under rule 8.16 (schedule appended to affidavit of documents).
+(5A) If the parties have agreed to use an electronic format for the common bundle, the parties must have regard to any practice note on electronic formats issued from time to time by the Chief High Court Judge.
 (6) Unless the court directs otherwise, the common bundle must be served not later than 15 working days after the date when the last brief of any party is served under rule 9.7.
 
 ### 9.5 Consequences of incorporating document in common bundle
@@ -4448,7 +4481,7 @@ An application for an order under section 65 of the Corrections Act 2004 may be 
 (2) Despite subclause (1), an order must not be made authorising the evidence of the witness to be given by affidavit if—
   (a) an opposite party desires the production of a witness for cross-examination; and
   (b) the witness can be produced.
-(3) Subclause (2) is subject to any order made under rule 7.9.
+(3) Subclause (2) is subject to any order made under rule 7.2 or 7.8, as the case requires.
 
 ### 9.57 Agreed statement of facts
 (1) If the parties so agree, the evidence at the trial of any proceeding heard by a Judge alone, or any issue in that proceeding, may be given, without examining any witnesses or filing any affidavits, by a statement of facts agreed upon by the parties.
@@ -4734,7 +4767,7 @@ Any verdict or judgment obtained when one party does not appear at the trial may
 (3) After the evidence has been given, the party who did not begin may address the court generally on the case, and then the other party may address the court in reply.
 (4) If, however, the party who did not begin has not offered evidence, the sequence stated in subclause (3) is reversed.
 (5) This rule applies subject—
-  (a) to any directions given under rule 7.9; and
+  (a) to any directions given under rule 7.2 or 7.8, as the case requires; and
   (b) to the provisions of any Act.
 
 ### 10.11 When proceeding tried with jury
@@ -5082,15 +5115,13 @@ The court may give judgment on the issue of liability, and direct a trial of the
   (c) if given by or on behalf of the defendant, must show why none of the causes of action in the plaintiff’s statement of claim can succeed.
 
 ### 12.5 Service out of New Zealand
-A plaintiff who makes an application under rule 12.2 or 12.3 must serve the documents specified in rule 12.4(4) on a defendant who is overseas,—
-  (a) if the defendant is served in the Commonwealth of Australia, not less than 15 working days before the date for hearing the application:
-  (b) if the defendant is served elsewhere, not less than 25 working days before the date for hearing the application.
+A plaintiff who makes an application under rule 12.2 or 12.3 must serve the documents referred to in rule 12.4(4) on a defendant who is overseas not less than 25 days before the date for hearing the application.
 
 ### 12.6 Requirements as to notice of proceeding
 Rule 5.23 does not apply to a proceeding under Part 12.
 
 ### 12.7 Time for service
-(1) The documents specified in rule 12.4(4) must be served on the other party to the proceeding not less than 15 working days before the date for hearing the application.
+(1) The documents specified in rule 12.4(4) must be served on the other party to the proceeding not less than 25 working days before the date for hearing the application.
 (2) Rule 12.5 overrides this rule.
 
 ### 12.8 Postponement of hearing
@@ -5422,7 +5453,7 @@ The plaintiff may proceed against any 1 or more defendants under rule 15.7 or 15
 (5) If the Judge before or at the formal proof hearing considers that any deponent of an affidavit filed under subclause (4) should attend to give additional evidence, the Judge may direct accordingly and adjourn the hearing for that purpose.
 
 ### 15.10 Judgment may be set aside or varied
-Any judgment obtained by default under rule 15.7 or 15.8 may be set aside or varied by the court on such terms as it thinks just, if it appears to the court that there has been, or may have been, a miscarriage of justice.
+Any judgment obtained by default under rule 15.7, 15.8, or 15.9 may be set aside or varied by the court on such terms as it thinks just, if it appears to the court that there has been, or may have been, a miscarriage of justice.
 
 ### 15.11 Overseas service cases
 (1) When a document has been served on a party outside New Zealand under rule 6.27 and that party has not appeared, judgment by default against that party must not be sealed without the leave of the court.
@@ -6412,9 +6443,9 @@ The application of this Part to a proceeding brought under an Act is subject to 
 ### 18.4 Commencement of proceedings
 (1) A proceeding under this Part must be—
   (a) commenced by statement of claim; and
-  (b) accompanied by an application for directions under rule 7.9.
+  (b) accompanied by an application for directions as to service and representation under rule 18.7.
 (2) The application of this Part to a proceeding does not prevent the commencement of that proceeding by originating application if it is eligible to be so commenced under Part 19, in which event this Part does not apply.
-(3) Rule 7.9, with all necessary modifications, applies to a proceeding under this Part.
+(3)
 
 #### Subpart 2 — Special provisions concerning pleadings, directions, and affidavits
 
@@ -6570,6 +6601,9 @@ The following office holders may seek the directions of the court by originating
 (2) The court’s permission may be sought without notice.
 (3) The proposed originating application must be filed with an application for permission under this rule.
 
+### 19.5A Directions as to filing of statement of claim and defence
+A Judge may, by interlocutory order, on the Judge's own initiative direct the parties to file a statement of claim and a statement of defence respectively.
+
 ### 19.6 Certain proceedings must be commenced by interlocutory application
 (1) This rule applies if—
   (a) an application under the Arbitration Act 1996 or the Personal Property Securities Act 1999 has been made by originating application; and
@@ -6614,7 +6648,7 @@ The following office holders may seek the directions of the court by originating
 (3) Despite subclause (1), rule 7.45, in its application to a proceeding commenced by originating application, is subject to the Act under which the originating application is made.
 
 ### 19.11 Directions as to parties and conduct of applications
-Rule 7.9 applies, with all necessary modifications, to an originating application.
+Rule 7.43A applies, with all necessary modifications, to an originating application.
 
 ### 19.12 Originating applications relating to certain proceedings under Companies Act 1993
 (1) Despite rule 19.7, an originating application under section 294(5) or 295 of the Companies Act 1993 must be filed in the same office of the court in which the notice under section 294(1) of that Act was filed.
@@ -7458,11 +7492,12 @@ Unless otherwise provided in this Part, the court may, in any proceeding, take a
 (4) The bankruptcy notice must state the amount of any costs claimed.
 
 ### 24.9 Service of bankruptcy notice in New Zealand
-(1) A bankruptcy notice that is to be served in New Zealand must be served within 1 month from the date of its issue.
-(2) If, however, the Registrar is satisfied that reasonable efforts have been made to comply with subclause (1) and service has not been effected, the Registrar,—
-  (a) on the request in writing of the judgment creditor made not later than 1 month after the end of that period, may extend the time by 1 month or by successive periods of 1 month:
-  (b) must mark the notice with the word renewed and the date of the renewal.
-(3) A notice must not, without a Judge’s consent, be extended for a period exceeding 3 months from the date on which the notice was first issued.
+(1) A bankruptcy notice that is to be served in New Zealand must be served within 6 months from the date of its issue.
+(2) The creditor may before or after the expiry of the period referred to in subclause (1) apply to the court for an order extending the period of service.
+(3) The court may extend the period for service for a further 3 months from the expiry of the period referred to in subclause (1) if the court is satisfied that—
+  (a) reasonable efforts have been made to effect service; or
+  (b) for any other good reason an extension of the period for service is desirable.
+(4) A bankruptcy notice must be served in accordance with Part 6 (Service).
 
 ### 24.10 Setting aside bankruptcy notice
 (1) If an application to set aside a bankruptcy notice cannot be heard until after the expiration of the time specified in the notice as the day on which the act of bankruptcy will be complete, the time is treated as extended until the application has been determined.
@@ -9063,7 +9098,7 @@ that party may make the interlocutory application by sending it to the court and
 (4) No order made or decision given on an interlocutory application in a commercial list proceeding (other than an order or decision made without notice) may be varied or rescinded under rule 7.49.
 
 ### 29.10 Application for directions
-(1) If a proceeding has been entered on the commercial list, the party who required the proceeding to be so entered or the party who obtained the order for the entry of the proceeding on that list, as the case may be, must file, under rule 7.9, an interlocutory application for directions regarding the proceeding.
+(1) If a proceeding has been entered on the commercial list, the party who required the proceeding to be so entered or the party who obtained the order for the entry of the proceeding on that list, as the case may be, must file, under rule 7.43A, an interlocutory application for directions regarding the proceeding.
 (2) The application filed under subclause (1) must state the details of a proposed timetable for the steps leading to the hearing of the proceeding.
 (3) If the proceeding has been entered on the commercial list as a result of an endorsement on the statement of claim, an application under subclause (1) may be filed at any time after the statement of claim has been filed but not later than 5 working days after the date on which any defendant files a statement of defence or an appearance in the proceeding, whichever occurs first.
 (4) If the proceeding has been entered on the commercial list as a result of an endorsement on an appearance or a statement of defence, the application required by subclause (1) must be filed not later than 5 working days after the date on which the appearance or statement of defence is filed.
@@ -9083,8 +9118,8 @@ that party may make the interlocutory application by sending it to the court and
 (3) If a memorandum under subclause (1) is filed and served in accordance with this rule in relation to any application for directions, it is not necessary for that party to file and serve in relation to that application a notice of opposition in form G 33.
 
 ### 29.12 Hearing of application for directions
-(1) On the hearing of an application for directions, a commercial list Judge may give any directions that could be given by a Judge under rule 7.9 and may give such other directions as the commercial list Judge thinks just (whether or not inconsistent with these rules or any rules made under section 51C of the Act) for the speedy and inexpensive determination of the real questions between the parties to the proceeding.
-(2) Without limiting subclause (1), directions under rule 7.9 may relate to—
+(1) On the hearing of an application for directions, a commercial list Judge may give any directions that could be given by a Judge under rule 7.43A and may give such other directions as the commercial list Judge thinks just (whether or not inconsistent with these rules or any rules made under section 51C of the Act) for the speedy and inexpensive determination of the real questions between the parties to the proceeding.
+(2) Without limiting subclause (1), directions under rule 7.43A may relate to—
   (a) pleadings or points of claim or of defence:
   (b) counterclaim and third party proceedings:
   (c) particulars of any claim, defence, or other matter:
@@ -9105,7 +9140,7 @@ that party may make the interlocutory application by sending it to the court and
   (a) pleadings or further pleadings:
   (b) any interlocutory proceedings or step:
   (c) the proof of any fact that is not in dispute.
-(4) Nothing in this rule limits rules 7.7 and 7.9.
+(4) Nothing in this rule limits rules 7.7 and 7.43A.
 
 ### 29.13 Removal from list
 (1) A commercial list Judge may, on the application of any party or on the Judge’s own initiative, at any time remove any proceeding (including a proceeding to which section 24B(1) of the Act applies) from the commercial list.
@@ -9393,7 +9428,7 @@ When an order that a company be put into liquidation or an order for the appoint
   (a) a defendant company in relation to an application made to put that company into liquidation under section 241(2)(c) of the Companies Act 1993; or
   (b) a company in respect of which a liquidator has been appointed under section 241(2)(c) of the Companies Act 1993; or
   (c) a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
-(3) The applicant must, as soon as practicable after the statement of defence has been filed or the time for filing a statement of defence has expired, file an application for directions under rule 7.9.
+(3) The applicant must, as soon as practicable after the statement of defence has been filed or the time for filing a statement of defence has expired, file an application for directions as to the conduct of proceedings under rule 7.43A.
 (4) The statement of claim must have the same heading as the heading on the application for putting the company into liquidation or for the order under section 174 of the Companies Act 1993.
 
 ### 31.37 Liquidator’s notice to set aside voidable transaction or voidable charge
