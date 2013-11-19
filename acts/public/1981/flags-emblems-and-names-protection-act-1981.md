@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-11-19_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -287,6 +287,7 @@ The Governor-General may, from time to time, by Order in Council,—
 | New Zealand Antarctic Institute Act 1996: section 11 | New Zealand Antarctic Institute, Ross Dependency Research Committee, New Zealand Antarctic Programme |
 | New Zealand Export-Import Corporation Act 1974: section 30 | New Zealand Export-Import Corporation |
 | New Zealand Film Commission Act 1978: section 34 | New Zealand Film Commission |
+| New Zealand International Convention Centre Act 2013: section 15 | New Zealand International Convention Centre, NZICC |
 | Prohibited Marks Order 1957 (SR 1957/179) | Green Cross for Safety symbol |
 | Prohibited Marks Order 1961 (SR 1961/120) | Symbol of the International Olympic Committee |
 | Prohibited Marks Order 1982 (SR 1982/127) | TELARC |
