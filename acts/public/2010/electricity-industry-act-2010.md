@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-11-21_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -1129,7 +1129,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 In this subpart, unless the context otherwise requires,—
   - **board** means the board of directors of a State generator
   - **consent authority** means a consent authority under the Resource Management Act 1991
-  - **Genesis** means Genesis Power Limited, and includes any subsidiary of that company
+  - **Genesis** means Genesis Energy Limited, and includes any subsidiary of that company
   - **Meridian** means Meridian Energy Limited, and includes any subsidiary of that company
   - **Mighty River** means Mighty River Power Limited, and includes any subsidiary of that company
   - **permit** means a water permit or a discharge permit granted, or deemed to be granted, under the Resource Management Act 1991
