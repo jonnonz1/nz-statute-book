@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-11-28_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -517,7 +517,7 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
 (13) The Minister shall not—without the consent of the other Minister (or the the chief executive of the department of State responsible for the administration of the Building Act 2004).
   (a) adopt with modification—
     (i) any document previously approved by another Minister of the Crown; or
-    (ii) any compliance document (within the meaning of the Building Act 2004); or
+    (ii) any acceptable solution or verification method (within the meaning of the Building Act 2004); or
   (b) approve any amendment of any part of a code of practice that comprises a document referred to in paragraph (a),—
 
 **Regulations**
