@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-11-28_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -28,12 +28,13 @@ _Consolidation as at 2013-08-05_
     (f) goodwill and any business undertaking of the Corporation
   - **Corporation liabilities** means liabilities of the Corporation
   - **District Land Registrar** means a District Land Registrar appointed under the Land Transfer Act 1952; and includes a Registrar of Deeds
+  - **HNZ** means the company
+  - **HNZ housing** means premises (whether owned by the Crown, HNZ, or any other person) let or to be let by or on behalf of HNZ for occupation by any person as a place of residence
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
     (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
     (c) contingent liabilities
   - **rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
-  - **rules** means the memorandum of association and articles of association of the company
   - **security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability, and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
   - **sitting day** means a sitting day of the House of Representatives
   - **State housing assets** means State housing land within the meaning of section 2(1) of the Housing Act 1955; and includes—
@@ -45,9 +46,13 @@ _Consolidation as at 2013-08-05_
   - **subsidiary** has the same meaning as in section 158 of the Companies Act 1955.
 (2) In this Act, a reference to transfer, authorise, or grant includes entering into an agreement to transfer, authorise, or grant, as the case may be.
 (3) References in this Act to State housing land within the meaning of subsection (1) of section 2 of the Housing Act 1955 shall be construed as references to State housing land within the meaning of that subsection and nothing in subsection (2) of that section shall apply.
+(4) References in this Act to person include an agency and any person who is an officer or employee in the service of the Crown in a government department or public body (other than as an officer of a court, in his or her official capacity).
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
+
+### 3A Transitional and savings provisions
+This Act is subject to Schedule 4, which provides for transitional and savings provisions.
 
 ## Part 1 — Principles
 
@@ -256,7 +261,7 @@ Amendment(s) incorporated in the Act(s).
 ### 41 Amendments to other Acts
 The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
 
-## Part 5 — Income-related rents
+## Part 5 — Income-related rents, housing eligibility, and other matters
 
 ### 42 Interpretation
 (1) In this Part and Schedules 2 and 3, unless the context otherwise requires,—
@@ -268,35 +273,38 @@ The enactments specified in the Schedule are hereby amended in the manner indica
   - **applicable person** , in relation to any HNZ housing,—
     (a) means every person to whom the housing is or is to be let; and
     (b) includes every person who is the spouse or partner of such a person
-  - **appointed day** means the day appointed under section 2(1) of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 for the commencement of subsections (1), (2), and (4) to (7) of section 7 of that Act
+  - **appointed day** means 17 November 2000
   - **assessable assets** has the meaning given to that term by the calculation mechanism
   - **assessable income** has the meaning given to that term by section 47
   - **calculate** includes ascertain
   - **calculation mechanism** ,—
     (a) before the commencement of the regulations first made under section 53, means sections 46 to 52 and the provisions of Schedule 2; and
     (b) after that commencement, means sections 46 to 52 and the regulations for the time being in force under section 53
+  - **code of conduct** , in relation to information that may be required under section 59A, means the code of conduct established under section 65A
   - **contributions** , in relation to an additional resident of any HNZ housing, means all payments made by the resident, and the value of all goods or services provided or paid for by the resident,—
     (a) as a contribution towards the costs and expenses incurred by the applicable persons in residing there; or
     (b) in consideration of goods or services provided by the applicable persons while the resident is residing there; or
     (c) in consideration of the resident's being allowed to reside there; or
     (d) for 2 or all of those reasons
-  - **HNZ housing** means premises (whether owned by the Crown, the company, or any other person) let or to be let by or on behalf of the company for occupation by any person as a place of residence
+  - **financial product** means a financial product administered by HNZ or the Corporation and—
+    (a) includes a loan or grant; but
+    (b) does not include income-related rent
   - **income-related purpose** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **income-related rent** , in relation to a tenant, means a rent calculated for the tenant under the calculation mechanism, or under Schedule 3
   - **market rent** , in relation to any HNZ housing, means the rent for the time being determined by the company (or the Tenancy Tribunal under the Residential Tenancies Act 1986) as the market rent for that housing
-  - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (), a person—
-    (a) who is A's civil union partner or de facto partner; and
-    (b) who is not, in the company's opinion, living apart from A
+  - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (A), a person who is A's civil union partner or de facto partner
   - **prescribed** , in any provision of this Part, means for the time being—
     (a) prescribed by the calculation mechanism for the purposes of the provision; or
     (b) calculated under a means prescribed by the calculation mechanism for the purposes of the provision
   - **prospective tenant** means a person—
     (a) who—
       (i) is not a person to whom any HNZ housing is let or to be let; and
-      (ii) has applied to the company (alone or together with some other person or people) to become a tenant of HNZ housing and has not yet had the application accepted or declined, or withdrawn it; or
+      (ii) has applied to HNZ (alone or together with some other person or people) to become a tenant of HNZ housing and—
+        (A) has not yet had the application accepted or declined, or withdrawn it; or
+        (B) has had the application accepted but has not yet been allocated particular HNZ housing; or
     (b) who—
       (i) is already a person to whom HNZ housing is let or to be let; but
-      (ii) has applied to the company (alone or together with some other person or people) to become a tenant of some other HNZ housing and has not yet had the application accepted or declined, or withdrawn it
+      (ii) has applied to HNZ (alone or together with some other person or people) to become a tenant of some other HNZ housing and has not yet had the application accepted or declined, or withdrawn it
   - **rent period** , in relation to any HNZ housing, means a period in respect of which the tenant is required by the tenancy agreement to pay rent for it
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in section 24B of the Tax Administration Act 1994
   - **study grant** means a basic grant or independent circumstances grant under regulations under section 303 of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the company considers to have been established under that section in place of a basic grant or independent circumstances grant)
@@ -316,7 +324,7 @@ The enactments specified in the Schedule are hereby amended in the manner indica
 (2) If subsection (1) applies to any HNZ housing and a tenant, the rent for the housing on or after the appointed day must be the income-related rent for the time being calculated for the tenant.
 (3) If subsection (1) does not apply to any HNZ housing and a tenant, the rent for the housing on or after the appointed day must be its market rent for the time being.
 (4) If satisfied that special circumstances justify its doing so, the company may, in its absolute discretion, set for and accept from a tenant of any HNZ housing a rent lower than the rent otherwise required by subsection (2) or subsection (3) to be paid for the housing by the tenant.
-(5) Subsections (2) and (4) are subject to sections 57(2) and 58(4).
+(5) Subsections (2) and (4) are subject to sections 57(2) and 58A(2).
 (6) Subsections (2) to (4) are subject to section 45.
 
 ### 44 Backdating
@@ -336,7 +344,7 @@ The enactments specified in the Schedule are hereby amended in the manner indica
 ### 45 Changes in rent
 (1) This subsection applies to an existing tenant of HNZ housing if the company—
   (a) is required by section 43 to reduce the rent for the housing; or
-  (b) is empowered by section 43 or section 57(2) or section 58(4) to increase the rent for the housing, and decides to do so.
+  (b) is empowered by section 43 or section 57(2) or section 58A(2) to increase the rent for the housing, and decides to do so.
 (2) The company must, in accordance with section 136 of the Residential Tenancies Act 1986, give a tenant to whom subsection (1) applies written notice of the reduction or increase in rent concerned, stating—
   (a) the day on which it takes effect (being a day no earlier than the commencement of the first rent period commencing after the appointed day); and
   (b) the matters referred to in paragraphs (j) and (k) of section 13A of that Act.
@@ -411,7 +419,7 @@ The assessable income of an applicable person is the company's estimate of the p
 **Estimating weekly income, and regulations for purposes of calculation mechanism**
 
 ### 52 Estimating weekly income
-For the purposes of section 47, a person's weekly income is the person's estimated income for the prescribed period commencing on the day on which the estimation is made (or in the case of an application backdated under section 44 or a review under section 57 or action taken under section 58(4), the day from which the estimation is made), divided so as to equate to a weekly amount; but—
+For the purposes of section 47, a person's weekly income is the person's estimated income for the prescribed period commencing on the day on which the estimation is made (or in the case of an application backdated under section 44 or a review under section 57 or action taken under section 58A(2), the day from which the estimation is made), divided so as to equate to a weekly amount; but—
   (a) that estimated income must be treated as an amount equal to—
     (i) the company's estimate of the income received by the person for any period equal to the prescribed period (ending on a day before the day concerned) that the company decides, divided so as to equate to a weekly amount; or
     (ii) if the company thinks it more appropriate in all the circumstances, the company's estimate of the income received by the person for any shorter period (ending on a day before the day concerned) that the company decides, divided so as to equate to a weekly amount; and
@@ -433,8 +441,8 @@ For the purposes of section 47, a person's weekly income is the person's estimat
   (c) prescribe a threshold (or a means for calculating a threshold) for the purposes of any provision by reference to the rate of a benefit within the meaning of section 3(1) of the Social Security Act 1964, or the rates of 2 or more such benefits.
 (3) A means for calculating may comprise any number of mechanisms and parameters.
 (4) Subsection (2) does not limit the generality of subsection (1).
-(5) Subsection (2) overrides the Human Rights Act 1993.
-(6) Subsection (5) is for the avoidance of doubt.
+(5) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
+(6)
 
 **Transitional matters**
 
@@ -455,13 +463,18 @@ For the purposes of section 54 and Schedule 3,—
     (ii) give the company a copy of the certificate; and
   (c) the company may rely on the certificate.
 
-**Administration of income-related rents**
+**Administrative matters and review**
 
-### 56 Tenant's duty to advise changes of circumstances
-(1) Every person to whom any HNZ housing is let at an income-related rent must promptly advise the company of—
+### 56 Tenant’s duty to advise change of circumstances
+(1) Every person to whom any HNZ housing is let at an income-related rent must promptly advise HNZ of—
   (a) any change in the person's circumstances likely to result in the payment of a higher income-related rent; and
-  (b) any change known to the person in the circumstances of any other applicable person likely to result in the payment of a higher income-related rent.
-(2) A person does not commit an offence by reason only of failing to comply with subsection (1).
+  (b) any change known to the person in the circumstances of any other applicable person likely to result in the payment of a higher income-related rent by the first-mentioned person.
+(2) Every person to whom any HNZ housing is let (whether at an income-related rent or a market rent) must promptly advise HNZ of—
+  (a) any change in the person's circumstances likely to result in the person no longer being eligible to be allocated HNZ housing or the particular HNZ housing the person is being let; and
+  (b) any change known to the person in the circumstances of any other applicable person likely to result in the first-mentioned person no longer being eligible to be allocated—
+    (i) HNZ housing; or
+    (ii) the particular HNZ housing that the first-mentioned person is being let.
+(3) Every person who is a prospective tenant must promptly advise HNZ of any change in the circumstances of the person or the person's spouse or partner likely to result in the person not or no longer being eligible to be allocated HNZ housing or allocated, assigned, or let any particular HNZ housing.
 
 ### 57 Reviews of income-related rents
 (1) The company may at any time, of its own motion or on application by the tenant concerned, review any income-related rent to ascertain—
@@ -476,100 +489,212 @@ For the purposes of section 54 and Schedule 3,—
   (a) does not have to act under subsection (2)(a) unless, in the company's opinion, it would result in a material difference to the rent to be paid for the housing concerned; and
   (b) does not have to act under subsection (2)(b) unless, in the company's opinion, there has been a material underpayment of rent for the housing concerned.
 
-### 58 Investigation of applications, etc
-(1) The company may investigate—
+### 57A HNZ may review housing eligibility
+(1) HNZ may at any time of its own motion review any 1 or more of the following in relation to a tenant:
+  (a) the housing needs of the tenant:
+  (b) the eligibility (including continued eligibility) of the tenant for HNZ housing:
+  (c) the eligibility of the tenant to be or continue to be allocated, assigned, or let particular HNZ housing.
+(2) Nothing in this section limits or affects any power of HNZ to conduct a review under any other enactment.
+
+**Investigations and information-gathering powers**
+
+### 57B HNZ may investigate circumstances relevant to income-related rent
+HNZ may investigate—
   (a) the present circumstances of—
-    (i) any tenant of HNZ housing who is paying, or has applied to the company for the company to calculate, an income-related rent for the housing; or
+    (i) any tenant of HNZ housing who is paying, or has applied to HNZ for HNZ to calculate, an income-related rent for the housing; or
     (ii) any person who is an applicable person in relation to the tenant:
-  (b) to the extent that those circumstances might be relevant to the eligibility of a prospective tenant to be allocated HNZ housing, or to the housing need of a prospective tenant, the present circumstances of—
-    (i) the prospective tenant; or
-    (ii) any person who would be an applicable person in relation to the prospective tenant:
-  (c) the circumstances (as they existed immediately before the income-related rent concerned was calculated or during any period when it was applicable) of—
+  (b) the circumstances (as they existed immediately before the income-related rent concerned was calculated or during any period when it was applicable) of—
     (i) any tenant or former tenant of HNZ housing who was required to pay an income-related rent for the housing; or
     (ii) any person who was an applicable person in relation to the tenant or former tenant at the time concerned.
-(2) For the purposes of subsection (1), the company—
-  (a) may ask any person whose circumstances it may investigate under that subsection any relevant questions it thinks fit; and
-  (b) may ask any person whose circumstances it may investigate under that subsection to verify by statutory declaration—
+
+### 57C HNZ may investigate circumstances of prospective tenant
+HNZ may investigate the circumstances of a prospective tenant or of any person who would be an applicable person in relation to the prospective tenant, to the extent that those circumstances might be relevant to—
+  (a) the eligibility of the prospective tenant to be allocated HNZ housing or particular HNZ housing; or
+  (b) the housing needs of the prospective tenant.
+
+### 57D HNZ may investigate circumstances relevant to continued eligibility
+HNZ may investigate the circumstances of any tenant of HNZ housing (whether paying income-related rent or market rent for the housing) or the circumstances of any applicable person in relation to that tenant, to the extent that those circumstances might be relevant to—
+  (a) the continued eligibility of the tenant to be allocated HNZ housing; or
+  (b) the housing needs of the tenant; or
+  (c) the eligibility of the tenant to continue to be allocated, assigned, or let particular HNZ housing or to be allocated, assigned, or let some other HNZ housing.
+
+### 57E HNZ may investigate circumstances of applicant for financial product
+HNZ may investigate the circumstances of—
+  (a) an applicant for, or a recipient of, a financial product; or
+  (b) any person who, at the time of application, is the spouse or partner of the applicant.
+
+### 58 HNZ may ask questions, etc
+For the purpose of any investigation conducted under section 57B, 57C, 57D, or 57E, HNZ—
+  (a) may ask any person whose circumstances it may investigate any relevant questions it thinks fit; and
+  (b) may ask any person whose circumstances it may investigate to verify by statutory declaration—
     (i) any information he or she has given when answering questions asked under paragraph (a); or
-    (ii) any other information that he or she has at any time given to the company; or
-    (iii) any information within his or her personal knowledge that any of the applicable persons concerned has at any time given to the company.
-(3) The company may take the actions stated in subsection (4) if—
-  (a) any person whose circumstances it may investigate under subsection (1)—
-    (i) fails or refuses to answer (or, in the company's opinion, fails or refuses to answer fully) any question asked under subsection (2)(a); or
-    (ii) fails or refuses to verify any information by statutory declaration when asked to do so under subsection (2)(b); or
-  (b) it believes on reasonable grounds that any person whose circumstances it may investigate under subsection (1) has wilfully given a false or misleading answer to any question asked under subsection (2)(a).
-(4) The actions are—
+    (ii) any other information that he or she has at any time given to HNZ; or
+    (iii) any information within his or her personal knowledge that has at any time been given to HNZ by—
+      (A) an applicable person in relation to that person (where the person whose circumstances are being investigated is a tenant); or
+      (B) a person who would be an applicable person in relation to that person (where the person whose circumstances are being investigated is a prospective tenant); or
+      (C) the spouse or partner of the person (where the person whose circumstances are being investigated is an applicant for, or recipient of, a financial product); or
+      (D) any person who was an applicable person in relation to the tenant or former tenant at the time concerned.
+
+### 58A Actions that may be taken by HNZ
+(1) HNZ may take the actions stated in subsection (2) if—
+  (a) any person whose circumstances it may investigate—
+    (i) fails or refuses to answer (or, in HNZ's opinion, fails or refuses to answer fully) any question asked under section 58(a); or
+    (ii) fails or refuses to verify any information by statutory declaration when asked to do so under section 58(b); or
+  (b) it believes on reasonable grounds that any person whose circumstances it may investigate under section 57B, 57C, 57D, or 57E has deliberately given a false or misleading answer to any question asked under section 58(a); or
+  (c) for the purpose of a review under section 57A, HNZ requires information from a tenant pursuant to section 59A, and—
+    (i) the tenant fails or refuses to comply fully with the requirement for information; or
+    (ii) HNZ believes on reasonable grounds that the tenant has deliberately given false or misleading information in response to the requirement.
+(2) The actions are,—
   (a) to the extent that the tenant is the person or people to whom any HNZ housing is let or to be let,—
-    (i) calculate an income-related rent for the tenant for that housing on the basis of its own understanding of the circumstances; or
+    (i) calculate an income-related rent for the tenant for that housing on the basis of HNZ's own understanding of the circumstances; or
     (ii) treat the market rent for that housing as the income-related rent for the tenant for that housing:
   (b) to the extent that the tenant is a prospective tenant only,—
     (i) suspend the process of determining whether to allocate, assign, or let any HNZ housing to the prospective tenant; or
-    (ii) decline the tenant's application to become a tenant of HNZ housing.
+    (ii) decline the tenant's application to become a tenant of HNZ housing:
+  (c) to the extent that the tenant is an existing tenant only,—
+    (i) review the eligibility of the tenant to be or continue to be allocated, assigned, or let that particular HNZ housing on the basis of HNZ's own understanding of the circumstances; or
+    (ii) treat the tenant as not or no longer eligible to continue to be allocated HNZ housing:
+  (d) to the extent that the person is an applicant for, or recipient of, a financial product,—
+    (i) assess the eligibility of the person for that financial product on the basis of HNZ's own understanding of the circumstances; or
+    (ii) treat the person as not or no longer eligible for that financial product.
 
-### 59 Company may seek information
-(1) For the purposes of a review under section 57 or an investigation under section 58, the company may request any person to—
+### 59 HNZ may seek information
+(1) For the purposes of a review under section 57 or 57A or an investigation under section 57B, 57C, 57D, or 57E, HNZ may request any person to—
   (a) answer questions; or
-  (b) allow the company to inspect any document or other written information; or
-  (c) give the company—
+  (b) allow HNZ to inspect any document or other written information; or
+  (c) give HNZ—
     (i) a copy of any document or other written information; or
     (ii) a printout of any information stored digitally.
-(2) The person does not have to comply with the request; but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
+(2) The person does not have to comply with the request, but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
+
+### 59A HNZ may require information for certain purposes
+(1) HNZ may by written notice require information from any person for any 1 or more of the following purposes:
+  (a) the purpose of ascertaining the housing needs of a prospective tenant:
+  (b) the purpose of ascertaining the eligibility of a prospective tenant to be allocated HNZ housing:
+  (c) the purpose of calculating the appropriate income-related rent for the HNZ housing concerned:
+  (d) the purpose of a review under section 57 or 57A:
+  (e) the purpose of any investigation under section 57B, 57C, 57D, or 57E:
+  (f) the purpose of detecting whether a person has committed or is committing an offence under section 61A or 61B:
+  (g) the purpose of determining and detecting the cost of fraud under section 61A or 61B:
+  (h) the purpose of ascertaining whether a person has failed or refused to answer fully, or has deliberately given a false or misleading answer to, any question asked under section 58(a).
+(2) HNZ, when it requires any information under subsection (1), must do so in accordance with the code of conduct.
+(3) HNZ may in writing require any person to advise whether or not any information provided under subsection (1) is accurate.
+(4) A person from whom information is required under subsection (1) or advice is required under subsection (3) must comply with the requirement—
+  (a) no later than 5 working days after the notice was given; and
+  (b) in the manner specified in the notice, without charge to HNZ.
+(5) This subsection authorises (for the purposes of section 7(1) of the Privacy Act 1993) any person who is required to provide information under subsection (1) or (3) to make personal information available in response to the requirement.
+(6) Subsection (1) does not—
+  (a) require any person to provide any information or produce any document that would be privileged in a court of law:
+  (b) require any person to provide any information or produce any document that is legally professionally privileged.
+(7) Subsection (6) does not apply to information—
+  (a) that consists wholly or partly of, or relates wholly or partly to,—
+    (i) the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person); or
+    (ii) investment receipts (being receipts arising or accruing from any money lodged at any time with a lawyer for investment) of any person or persons (whether the lawyer, his or her client, or any other person or persons); and
+  (b) that is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the lawyer.
+(8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)(a) or (b),—
+  (a) HNZ or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and
+  (b) for the purposes of determining that application, the Judge may require the information or document to be produced to the court.
+(9) In this section,—
+  - **lawyer** means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which the lawyer is, or is held out to be, a partner, director, or shareholder
+  - **trust account** , in relation to a lawyer, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 60 Recovery where rate of rent too low
-(1) Subsection (2) applies to a tenant of HNZ housing and a period of time if, at any later time, the company—
-  (a) has in its possession information (whether or not obtained as a result of a review under section 57 or an investigation under section 58) that—
+(1) Subsection (2) applies to a tenant of HNZ housing and a period of time if, at any later time, HNZ—
+  (a) has in its possession information (whether or not obtained as a result of a review or an investigation under this Part) that—
     (i) it did not have during that period, or had but did not have reasonable grounds to believe; and
     (ii) it now believes on reasonable grounds; and
   (b) is satisfied that, if it had had the information before the period and had had reasonable grounds to believe the information, it would have required the tenant to pay an income-related rent higher than the income-related rent the tenant was in fact required to pay for the housing in respect of the period.
-(2) If this subsection applies to a tenant of HNZ housing and a period of time, the company may calculate, and recover as a debt due to the Crown, the difference between—
+(2) If this subsection applies to a tenant of HNZ housing and a period of time, HNZ may calculate, and recover as a debt due to the Crown, the difference between—
   (a) the higher income-related rent it would have required the tenant to pay for the housing in respect of the period; and
   (b) the income-related rent the tenant was in fact required to pay for the housing in respect of the period.
 (3) Amounts recoverable under subsection (2) are not rent in arrear for the purposes of the Residential Tenancies Act 1986.
 
 ### 61 Allocation of HNZ housing
-(1) The things to which the company may have regard in doing either or both of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that people (including prospective tenants, people who might be applicable persons in relation to those prospective tenants, and other people who might reside in the housing concerned) are treated differently on the basis of—
-  (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in paragraphs (b), (h), (i), and (l) of section 21(1) of the Human Rights Act 1993); or
+(1) The matters to which HNZ may have regard in doing any of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that tenants, people who are or might be applicable persons in relation to those tenants, and other people who are or might be residing in the housing concerned, are treated differently on the basis of—
+  (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in section 21(1)(b), (h), (i), and (l) of the Human Rights Act 1993); or
   (b) whether or not they are resident, or ordinarily resident, or permanently resident, or lawfully resident, in New Zealand; or
-  (c) their incomes; or
+  (c) their income; or
   (d) their property; or
   (e) 2 or more of those factors.
-(2) The things are—
-  (a) assess the eligibility of prospective tenants to be allocated HNZ housing; and
-  (b) allocate, assign, and let HNZ housing to prospective tenants.
-(3) Subsection (1) overrides the Human Rights Act 1993.
-(4) This section is for the avoidance of doubt.
+(2) The things are any thing that HNZ does in the course of allocating, assigning, and letting HNZ housing to tenants, and in administering and terminating tenancies, and include the following:
+  (a) assessing the eligibility of a prospective tenant to be allocated HNZ housing; and
+  (b) assessing the housing needs of a tenant; and
+  (c) allocating, assigning, and letting, or continuing to let, HNZ housing to a tenant; and
+  (d) reviewing the eligibility of a tenant to be, or continue to be allocated, HNZ housing; and
+  (e) reviewing the eligibility of a tenant to be, or continue to be allocated, assigned, or let particular HNZ housing; and
+  (f) terminating a tenancy; and
+  (g) reallocating or reassigning HNZ housing to a tenant; and
+  (h) retaining the current allocation, assignment, or letting of particular HNZ housing to a tenant.
+(3) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
 
-**Other matters**
+**Offences**
+
+### 61A Offence not to provide information or to provide false or misleading information
+(1) A person who is required to provide information under section 59A(1) commits an offence if the person—
+  (a) fails or refuses to provide, without reasonable excuse, the information required:
+  (b) provides false or misleading information in response to the requirement.
+(2) A person who is required under section 59A(3) to advise whether information provided under section 59A(1) is accurate commits an offence if the person—
+  (a) fails or refuses to provide that advice, without reasonable excuse:
+  (b) provides false or misleading information in response to the requirement.
+(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
+
+### 61B Offence to mislead HNZ for certain purposes or results
+(1) A person commits an offence who, for the purpose described in subsection (2) or with the result described in subsection (3),—
+  (a) makes any statement knowing it to be false in any material particular; or
+  (b) deliberately does or says anything for the purpose of misleading or attempting to mislead HNZ; or
+  (c) when required to advise HNZ under section 56 or provide information under section 59A, deliberately omits to do or say anything for the purpose of misleading or attempting to mislead HNZ.
+(2) The purpose is—
+  (a) for that person or another person to be eligible or continue to be eligible to be allocated HNZ housing:
+  (b) for that person or another person to be or continue to be allocated, assigned, or let particular HNZ housing, or to be allocated, assigned, or let some other HNZ housing:
+  (c) for that person or another person to have calculated for him or her, or to pay or continue to pay as rent for HNZ housing, an income-related rent or lower income-related rent than the person would otherwise be entitled to under this Act:
+  (d) for that person or another person to receive or continue to receive a financial product.
+(3) The result is that person or another person, whether or not entitled to it under this Act,—
+  (a) is or continues to be assessed as eligible to be allocated HNZ housing:
+  (b) is or continues to be allocated, assigned, or let particular HNZ housing:
+  (c) is allocated, assigned, or let some other HNZ housing:
+  (d) is let HNZ housing at an income-related rent or lower income-related rent:
+  (e) receives or continues to receive a financial product.
+(4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000, or both.
+
+**Appeals**
 
 ### 62 Rights of appeal
-(1) This subsection applies to—
-  (a) any decision or determination of the company made under this Part, the calculation mechanism, or Schedule 3 (other than a decision under section 43(4)) in respect of an income-related rent; and
-  (b) any assessment by the company of—
-    (i) the eligibility of any prospective tenant to be allocated HNZ housing; or
-    (ii) the housing needs of any prospective tenant.
-(2) At any time on or after the appointed day, a tenant may, in accordance with regulations made under section 63, appeal against a decision, determination, or assessment to which subsection (1) applies, if the company—
-  (a) has confirmed it (whether as originally made or as varied) under the process for the time being established by the company to review such decisions; or
+(1) This section and sections 62A to 62C apply to—
+  (a) any decision or determination of HNZ made under this Part, the calculation mechanism, or Schedule 3 (other than a decision under section 43(4)) in respect of an income-related rent; and
+  (b) any assessment by HNZ of—
+    (i) the eligibility of any tenant to be, or to continue to be, allocated HNZ housing; or
+    (ii) the housing needs of any tenant.
+(2) Nothing in this section and sections 62A to 62C, or in any regulations under section 63, limits or affects the rights of any tenant of HNZ housing or of HNZ under the Residential Tenancies Act 1986.
+
+### 62A Tenant may appeal
+A tenant may, in accordance with regulations made under section 63, appeal against a decision, determination, or assessment referred to in section 62(1), if HNZ—
+  (a) has confirmed the decision, determination, or assessment (whether as originally made or as varied) by means of a process established by HNZ to review such decisions, determinations, or assessments; or
   (b) has no such process for the time being established.
-(3) In determining the appeal, the appeal body has all the powers, duties, functions, and discretions the company had in relation to the matter concerned; and may—
-  (a) confirm, modify, or reverse the decision or determination; or
-  (b) refer all or any part of the matter back to the company for further consideration, together with—
+
+### 62B Powers of appeal body
+(1) In determining the appeal, the appeal body has all the powers, duties, functions, and discretions HNZ had in relation to the matter concerned and may—
+  (a) confirm, modify, or reverse the decision, determination, or assessment; or
+  (b) refer all or any part of the matter back to HNZ for further consideration, together with—
     (i) any directions it thinks just relating to the reconsideration; and
     (ii) a written statement of its reasons for doing so.
-(4) The appeal body—
-  (a) may award costs against the company in respect of any appeal if—
-    (i) it is allowed in whole or in part; or
-    (ii) all or any part of the matter is referred back to the company for further consideration; and
-  (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that it was frivolous or vexatious, or should not have been brought.
-(5) If regulations under section 63(1)(a) establish a body to dispose of appeals under this section, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court; and in that case,—
-  (a) within 14 days after the date of the determination, the appellant must lodge a notice of appeal with the court, and forthwith deliver or post a copy of the notice to every other party to the appeal:
+(2) The appeal body—
+  (a) may award costs against HNZ in respect of any appeal if—
+    (i) the appeal is allowed in whole or in part; or
+    (ii) all or any part of the matter is referred back to HNZ for further consideration; and
+  (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that the appeal was frivolous or vexatious, or should not have been brought.
+
+### 62C Where appeal body established by regulations
+If regulations under section 63(1)(a) establish a body to dispose of appeals under sections 62 to 62B, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court, and in that case,—
+  (a) within 14 days after the date of the determination, the appellant must—
+    (i) lodge a notice of appeal with the court; and
+    (ii) give a copy of the notice to every other party to the appeal:
   (b) the court or a Judge may, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this section for the lodging of a notice of appeal:
-  (c) except as provided by this subsection, the case must be dealt with in accordance with the District Courts Rules 2009.
-(6) Nothing in this section, or in any regulations under section 63, limits or affects the rights of any tenant of HNZ housing under the Residential Tenancies Act 1986.
+  (c) except as provided by this section, the case must be dealt with in accordance with the rules of the District Court.
 
 ### 63 Regulations for purposes other than calculation mechanism
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) for the purposes of section 62,—
-    (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
+  (a) for the purposes of section 62 to section 62C,—
+    (i) establishing a body to dispose of appeals under those sections, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
     (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, and 12P to 12R of that Act apply, with or without modification, to the hearing and disposal of appeals; or
     (iii) providing that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the High Court Rules apply, with or without modification, to the hearing and disposal of appeals; or
     (iv) providing that such appeals are to be made to the Tenancy Tribunal established by the Residential Tenancies Act 1986 as if they were applications under that Act, and providing that sections 86 to 120 of that Act apply, with or without modification, to the hearing and disposal of appeals:
@@ -578,21 +703,174 @@ For the purposes of section 54 and Schedule 3,—
   (a) remuneration by way of fees, salary, or allowances, for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
 
+**Delegation**
+
 ### 64 Delegation of powers under this Part
-(1) The company—
-  (a) cannot delegate a power under section 57(2)(b), any of subsections (2)(b), (3), or (4) of section 58, or section 60, except to a person who is an employee of the company, the Corporation, or Community Housing Limited; and
-  (b) cannot delegate any other power under this Part, the calculation mechanism, or Schedule 3, except to a person who is—
-    (i) an employee of the company, the Corporation, or Community Housing Limited; or
-    (ii) a person engaged by the company under a contract for services providing for the person to exercise that power.
-(2) If the company delegates a power under this Part, the calculation mechanism, or Schedule 3 (not being a power referred to in subsection (1)(a)) to a body corporate engaged by the company under a contract for services,—
+(1) HNZ—
+  (a) may not delegate a power under section 57(2)(b), 58(b), 58A(1) or (2), or section 60, except to the Corporation or an employee of HNZ or the Corporation; and
+  (b) may not delegate any other power under this Part, the calculation mechanism, or Schedule 3, except to—
+    (i) the Corporation or an employee of HNZ or the Corporation; or
+    (ii) a person engaged by HNZ or the Corporation under a contract for services providing for the person to exercise that power.
+(2) If a power has been delegated to the Corporation under subsection (1), the Corporation may, with the consent of HNZ, subdelegate that power to an employee of the Corporation or of HNZ.
+(3) An employee to whom a power has been delegated by HNZ in accordance with subsection (1) may, with the consent of HNZ, subdelegate that power to another employee of HNZ or the Corporation.
+(4) If HNZ delegates a power under this Part, the calculation mechanism, or Schedule 3 (not being a power referred to in subsection (1)(a)) to a body corporate engaged by HNZ or the Corporation under a contract for services,—
   (a) the body corporate cannot subdelegate it except to a person who is an employee of the body corporate; and
   (b) an employee of the body corporate to whom it is subdelegated cannot subdelegate it further.
-(3) Subsections (1) and (2) override section 130(1) of the Companies Act 1993.
+(5) Subsections (1) and (4) override section 130(1) of the Companies Act 1993.
 
 ### 65 Reimbursement of company
 Section 7 has effect as if—
   (a) this Part, the calculation mechanism, and Schedule 3 were a requirement by the Crown for the company to enter into agreements (as the circumstances from time to time require) for the provision by the company of housing and related services to persons who are required to pay income-related rents rather than market rents for the housing, in return for the payment by the Crown of the price to the company of doing so; and
   (b) that price were the difference between the amounts of market rents for the housing and the income-related rents charged.
+
+**Code of conduct**
+
+### 65A Code of conduct applying to obtaining information under section 59A
+(1) HNZ, in consultation with the Privacy Commissioner, must, within 3 months after the commencement of this section, issue a code of conduct that applies in respect of any requirement for information under section 59A.
+(2) The code of conduct—
+  (a) must include the matters specified in section 65E; and
+  (b) may include restrictions on obtaining—
+    (i) specified classes of information; and
+    (ii) information from specified classes of persons or from persons in specified relationships; and
+  (c) must specify procedures applying to the obtaining of information under section 59A.
+(3) HNZ may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
+(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under section 59A, and HNZ, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 65C.
+(5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, HNZ must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
+
+### 65B Who must comply with code of conduct
+The following persons must comply with the code of conduct when requiring information under section 59A:
+  (a) HNZ, and every employee of HNZ:
+  (b) the Corporation and every employee of the Corporation:
+  (c) every person to whom the power to require such information has been delegated under section 64:
+  (d) every person or body corporate engaged by HNZ under a contract for services providing for the person to exercise the power to require such information:
+  (e) every employee of a person or body corporate referred to in paragraph (d).
+
+### 65C Regulations authorising information to be obtained
+(1) The Governor-General may, on the advice of the Minister given after consultation with the Privacy Commissioner, by Order in Council, make regulations authorising HNZ to obtain pursuant to a requirement under section 59A—
+  (a) any specified class of information; or
+  (b) information from any specified class of persons; or
+  (c) information in any specified manner.
+(2) Subsection (1) applies despite the fact that the making of that requirement under section 59A would otherwise be in breach of any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993.
+
+### 65D Complaints
+(1) Any person who is required to provide any information under section 59A, or who is the subject of that information, may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
+(2) Part 8 of the Privacy Act 1993 applies to the complaint as if the code of conduct were a code of practice issued under Part 6 of that Act.
+
+### 65E Matters to be included in code of conduct
+(1) The code of conduct issued under section 65A must contain the following matters:
+  (a) provisions requiring the information to be first sought, as the case may require, except where compliance with the provision would prejudice the maintenance of the law, from—
+    (i) the tenant or an applicable person in relation to the tenant; or
+    (ii) the applicant for or recipient of a financial product or the spouse or partner of the applicant or recipient; or
+    (iii) the prospective tenant or the person who would be an applicable person in relation to the prospective tenant; or
+    (iv) the former tenant or an applicable person in relation to the former tenant at the time concerned (see section 57B(b)):
+  (b) provisions allowing a person referred to in paragraph (a) the time that is specified in the code to provide the information before HNZ requires that information or confirmation of that information from another person or agency, except where compliance with such provision would prejudice the maintenance of the law:
+  (c) a provision prohibiting a requirement under section 59A being made in respect of a person referred to in paragraph (a) to any other person (not being a financial institution, lawyer, employer, or former employer of a person referred to in paragraph (a), and not being a department, departmental agency, or Crown entity), unless there is reasonable cause to make a requirement under that section:
+  (d) a provision prohibiting a requirement under section 59A being made to an employer in respect of any information that relates solely to the marital or relationship status of an employee or a former employee of that employer:
+  (e) provisions otherwise restricting requirements under section 59A being made to an employer to information specified in the code relating to the employment and the address of an employee or a former employee of that employer.
+(2) In subsection (1)(c), reasonable cause includes—
+  (a) cause to suspect that the person—
+    (i) has committed an offence under this Act; or
+    (ii) has obtained by fraud any income-related rent or HNZ housing; or
+    (iii) as a result of committing fraud, pays or continues to pay an income-related rent or remains a tenant of HNZ housing or particular HNZ housing:
+  (b) the fact that the person has failed, within the time specified in the code, or has refused to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)(a).
+
+**Deduction notices**
+
+### 65F Interpretation of deduction notice sections of this Part
+In this section and in sections 65G to 65P, unless the context otherwise requires,—
+  - **deduction notice** means a notice issued under section 65G
+  - **overdue amount** means the amount that is recoverable as a debt due to the Crown under section 60(2), and that remains unpaid; and includes any part of any amount of that kind
+  - **payment** , in relation to a third party, includes payments made, or to be made, by the third party as—
+    (a) salary or wages:
+    (b) a retiring allowance or pension or other payment of a similar nature:
+    (c) a benefit:
+    (d) weekly compensation under the Accident Compensation Act 2001:
+    (e) a bonus or an incentive payment:
+    (f) commission:
+    (g) consideration for work performed under a contract for services
+  - **tenant** means—
+    (a) 1 or more people to whom HNZ housing is or was let at an income-related rent; and
+    (b) includes any former tenant
+  - **third party** means the person required to make 1 or more deductions under a deduction notice.
+
+### 65G Deduction of overdue Crown debt
+(1) HNZ may recover an amount as a debt due to the Crown by issuing a deduction notice in accordance with this section if any overdue amount remains unpaid after HNZ has reminded the tenant of the obligation to pay the amount and has done all it reasonably can to obtain the unpaid amount.
+(2) Nothing in subsection (1) requires HNZ to take proceedings in any court to establish or recover the debt before issuing a deduction notice.
+(3) The deduction notice may require a third party to deduct an amount specified in the notice due from any payment that is payable or will become payable by the third party to the tenant, whether that payment will be made—
+  (a) on the third party's own account; or
+  (b) in the third party's capacity as an agent or a trustee; or
+  (c) for any other reason.
+(4) To avoid any doubt, HNZ may issue a deduction notice under this section in relation to an overdue amount regardless of whether that amount became recoverable as a debt due to the Crown under section 60(2) before the commencement of this section.
+
+### 65H Matters relating to deduction notice
+(1) HNZ must specify in the deduction notice—
+  (a) whether the deduction is to be made as a lump sum or by instalments; and
+  (b) the time or times by which the amounts deducted must be paid to HNZ; and
+  (c) the date on which the deduction notice takes effect, being a date not earlier than 7 working days after the date on which it was issued.
+(2) HNZ must make all reasonable efforts to give the tenant a copy of the deduction notice within 7 working days after the notice is issued.
+(3) A deduction notice is revoked when HNZ notifies the third party in writing to that effect or issues a new deduction notice to that third party.
+(4) HNZ—
+  (a) may revoke a deduction notice at any time:
+  (b) must revoke the deduction notice if satisfied that the overdue amount has been paid.
+(5) Every deduction notice is subject to sections 65I to 65P.
+
+### 65I Issue of deduction notice to State sector employer
+In any case where a tenant is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 65G to the chief executive of that department in respect of any salary or wages payable to the tenant.
+
+### 65J Discharge of debt
+In any case where a third party deducts, under a deduction notice, any money payable to a tenant, the tenant is, to the extent of the amount deducted, discharged from his or her debt to the Crown.
+
+### 65K Deduction notices issued to banks
+(1) Where the third party is a bank, any money held by the bank to the credit of the tenant is subject to the provisions of section 65G and the amount required to be deducted under the deduction notice is, without prejudice to any other remedies against the tenant or any other person, deemed to be held in trust for the Crown and is a debt due to the Crown and may be recovered by HNZ in any court or tribunal of competent jurisdiction.
+(2) For the purposes of this section, bank means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the Friendly Societies and Credit Unions Act 1982, and a building society within the meaning of the Building Societies Act 1965; but does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank).
+(3) For the purposes of this section, money held by the bank to the credit of the tenant includes money, and any interest on money, that is on deposit or deposited with a bank to the credit of the tenant, whether or not—
+  (a) the deposit or depositing is on current account:
+  (b) the money is to be at interest at a fixed term or without limitation of time:
+  (c) the tenant has made any application to withdraw or uplift the money.
+(4) For the purposes of this section, money on deposit with a bank is deemed to be to the credit of the tenant if the money—
+  (a) is held in a joint bank account in the name of the tenant and 1 or more other persons; and
+  (b) can be withdrawn from the account by or on behalf of the tenant without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
+
+### 65L Making of deductions
+(1) Any person who makes a deduction under a deduction notice is deemed to be acting—
+  (a) on the authority of the tenant and any other person concerned; and neither the tenant nor that other person has any claim against the third party or HNZ or the Crown in respect of that deduction; and
+  (b) on behalf of HNZ; and, without prejudice to any other remedies against the tenant or any other person, any amount deducted must be held in trust for the Crown and is a debt due to the Crown and may be recovered by HNZ in any court or tribunal of competent jurisdiction.
+(2) A third party must, on request, give the tenant a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
+
+### 65M Offences in relation to deduction notices
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
+  (a) fails to make any deduction required by a deduction notice; or
+  (b) fails, after making a deduction, to pay the amount deducted to HNZ within the time specified in the notice; or
+  (c) permits payment to or on behalf of any person, other than HNZ, of any amount deemed to be held in trust for the Crown under sections 65G to 65L.
+(2) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses an employee or alters an employee's position in the employer's business or undertaking to the employee's prejudice by reason of a deduction notice having been issued to the employer.
+
+### 65N Protected earnings
+(1) Despite anything in sections 65G to 65L, where a deduction notice is issued to an employer of a tenant, the employer must not, in making deductions under the deduction notice, reduce the amount paid to the tenant by way of salary or wages in respect of any week to an amount that is less than 60% of the amount calculated as being the tenant's net ordinary weekly pay for a week.
+(2) For the purposes of this section, the tenant's net ordinary weekly pay for a week is the balance left after deducting from the tenant's ordinary weekly pay (as defined in section 8 of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if that ordinary weekly pay were the only salary or wages paid to the tenant by the employer in respect of a week.
+
+### 65O Penalty for late deductions
+(1) A third party is liable to pay to HNZ a penalty calculated in accordance with subsection (2) if the third party fails wholly or in part to—
+  (a) deduct the amount required by the notice; or
+  (b) pay any amount deducted under the notice to HNZ by the time specified in the notice.
+(2) The penalty referred to in subsection (1) must be calculated as follows:
+  (a) on the amount in default, 10% of that amount or $5, whichever is the greater:
+  (b) for each additional month or part of a month in which the amount in default or any part of the amount has not been deducted or, as the case may be, has not been paid to HNZ, a further penalty of 2% of that amount or part of the amount or $1, whichever is the greater.
+(3) HNZ may, in its discretion, remit the whole or part of a penalty if satisfied that the failure to make the deduction or the payment was due to circumstances reasonably beyond the third party's control, or that, in all the circumstances, the imposition of that penalty would be inequitable.
+(4) If HNZ decides to remit the whole or part of any penalty and any amount of the penalty has been paid under this section, HNZ may refund any excess.
+(5) An amount payable to HNZ under subsection (1) is a debt due to the Crown and may be recovered by HNZ in any court or tribunal of competent jurisdiction.
+
+### 65P How notice may be given
+(1) Every notice given to any person under any of sections 65G to 65O may be given by delivering it to that person,—
+  (a) in the case of a natural person (other than an officer or employee in the service of the Crown in his or her official capacity),—
+    (i) personally; or
+    (ii) by leaving it at that person's usual or last known place of residence or business or at the address specified by that person in any application or other document received from that person; or
+    (iii) by posting it in a letter addressed to that person at that place of residence or business or at that address:
+  (b) in the case of any other person, including an officer or employee in the service of the Crown in his or her official capacity,—
+    (i) where applicable, personally; or
+    (ii) by leaving it at that person's place of business; or
+    (iii) by posting it in a letter addressed to that person at that place of business.
+(2) If any such notice is sent to any person by post, then, in the absence of evidence to the contrary, the notice is deemed to have been received by that person on the fourth day after the day on which it is posted, and, in proving the delivery, it is sufficient to prove the letter was properly addressed and posted.
+(3) A notice to a person under any of sections 65G to 65O may be given by electronic means in accordance with Part 2 of the Electronic Transactions Act 2002.
 
 ## Part 6 — Information matching
 
@@ -635,9 +913,97 @@ Examples of the information and details referred to in section 68(1)(a) and (b) 
   (e) his or her income, and the components of it, as advised by him or her on any form or forms, or in any other information, supplied to the Corporation for the purposes of enabling it to determine his or her rental, and the period or periods to which that income, or a component of it, relates; and
   (f) any address or other details supplied to the Corporation for the purposes of enabling it to contact him or her after the tenancy has ended.
 
+## Part 9 — Social housing agency
+
+**Appointment, functions, and operation of social housing agency**
+
+### 100 Social housing agency
+The Governor-General may, from time to time, by Order in Council made on the recommendation of the joint Ministers, appoint a department, departmental agency, or a Crown entity or any combination of 1 or more departments, departmental agencies, or Crown entities, to perform some or all of the functions and exercise some or all of the powers of the agency under this Act.
+
+**Regulations**
+
+### 136 Regulations relating to appeals and other matters
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) for the purposes of section 133,—
+    (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
+    (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 120A, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+    (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
+  (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
+(2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
+  (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
+  (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
+(3) If regulations made under subsection (1) provide for the matters described in subsection (1)(a)(ii) (relating to the Social Security Appeal Authority), regulations may—
+  (a) provide for the function of the Benefits Review Committees in relation to appeals under this Act; and
+  (b) require that an appeal to the Social Security Appeal Authority may not be heard until the matter has been confirmed or varied by the Benefits Review Committee.
+
+## Part 10 — Regulatory authority
+
+**Appointment, objectives, functions, and operation of authority**
+
+### 159 Regulatory authority
+(1) The Governor-General may by Order in Council made on the recommendation of the joint Ministers appoint a department, any specified business unit within a department, departmental agency, or a Crown entity to perform the functions and exercise the powers of the regulatory authority under this Part.
+(2) If the authority is a Crown entity, then the Crown Entities Act 2004 applies to the authority except to the extent that this Act expressly provides otherwise.
+
+**Appeals**
+
+### 187 Regulations relating to appeals
+(1) The Governor-General may, by Order in Council, make regulations—
+  (a) establishing a body to dispose of appeals under section 184, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
+  (b) providing that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
+(2) Any body established under subsection (1)(a) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
+  (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
+  (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
+
+**Regulations under this Part**
+
+### 190 Regulations relating to community housing providers
+(1) The Governor-General may, by Order in Council made on the recommendation of the joint Ministers, make regulations for all or any of the following purposes:
+  (a) providing for the way in which applications for registration as a community housing provider must be made or the information that those applications must contain:
+  (b) in relation to the registration of community housing providers, specify different classes of registration for different purposes, including for the purposes of receiving—
+    (i) income-related rent subsidies from the Crown:
+    (ii) Crown grants:
+    (iii) assets of the Crown or of a Crown entity:
+  (c) specifying any relevant fee that applies to applications or the method by which it may be calculated:
+  (d) prescribing the eligibility criteria that must be met to be registered or to obtain registration of a specified class, including—
+    (i) financial viability requirements; and
+    (ii) requirements related to organisational capacity and capability:
+  (e) prescribing the performance standards that must continue to be met to maintain registration or to maintain registration of a specified class, including matters that relate to—
+    (i) governance and management:
+    (ii) financial viability:
+    (iii) tenancy management:
+    (iv) asset and property management:
+  (f) prescribing procedures, requirements, and other matters for the register of community housing providers established and maintained under section 172, including matters that relate to—
+    (i) the operation of the register:
+    (ii) the form of the register:
+    (iii) the information and documents that must be included on the register:
+    (iv) access to the register:
+    (v) the location of, and hours of access to, the register:
+    (vi) search criteria for the register:
+  (g) specifying—
+    (i) the information that must be provided by persons who make complaints against a registered community housing provider; and
+    (ii) the way in which that information must be evaluated; and
+    (iii) the way in which decisions on whether to proceed with the complaint must be made and implemented:
+  (h) specifying the date on which (in accordance with this Part, the calculation mechanism, and the terms of the contracts between the authority and registered community housing providers)—
+    (i) the income-related rent subsidy will become available to some or all registered community housing providers; and
+    (ii) an income-related rent will be available to some or all tenants of registered community housing providers:
+  (i) specifying the type or types of registered community housing providers to whom the income-related subsidy may or may not be made available:
+  (j) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
+(2) Any fee prescribed under subsection (1)(c) must be reasonable, having regard to the need to recover the costs incurred by the authority in performing its functions under this Part.
+
+### 191 Consultation requirements for making regulations
+(1) Before making a recommendation for the making of an Order in Council under section 190, the joint Ministers must be satisfied that the authority has consulted in accordance with subsections (2) and (3).
+(2) The authority must do everything reasonably practicable to consult with the persons or organisations that appear to the authority to be representative of the interests of persons likely to be substantially affected by the making of the relevant order.
+(3) The process for consultation must, to the extent practicable in the circumstances, include—
+  (a) giving adequate and appropriate notice of the intention to make the order; and
+  (b) giving a reasonable opportunity for interested persons to make submissions; and
+  (c) adequate and appropriate consideration of submissions.
+(4) A failure to comply with this section does not affect the validity of any Order in Council made.
+
 ## Schedule 1 — Enactments amended
 
 ## Schedule 2 — Prescribed elements of calculation mechanism
+
+**Prescribed proportions, thresholds, and amounts**
 
 ### 1 Proportion of income up to threshold
 The proportion of 25% is prescribed for the purposes of section 46(2)(a).
@@ -659,6 +1025,8 @@ The maximum rate of family tax credit payable under subparts MA to MF and MZ of 
 ### 6 Proportion of benefit
 The proportion of 25% is prescribed for the purposes of section 46(3)(a).
 
+**Contributions by additional residents**
+
 ### 7 Application
 This clause applies to HNZ housing if, and only if, in the company's opinion, the applicable persons' principal source of income is contributions from additional residents.
 
@@ -669,6 +1037,8 @@ For the purposes of section 48(2),—
   (c) if clause 7 does not apply to HNZ housing and the applicable persons receive contributions from 3 or more additional residents, their weekly income—
     (i) does not include any contributions from the 2 additional residents making the greatest contributions; and
     (ii) includes only 62% of the sum of the contributions from the other additional resident or residents.
+
+**Payments included in or excluded from income**
 
 ### 9 Certain payments to be income
 For the purposes of section 49(1)(a), a person's weekly income includes—
@@ -695,6 +1065,8 @@ For the purposes of section 49(1)(b), a person's weekly income does not include�
   (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $5,400:
   (b) in any other case, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $2,700.
 (2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
+
+**Period for estimating income**
 
 ### 12 Period for estimating income
 The period of 52 weeks is prescribed for the purposes of section 52.
@@ -757,6 +1129,156 @@ In this schedule, unless the context otherwise requires,—
 (2) In subclause (1)(a), replacement HNZ housing, in relation to any HNZ housing in respect of which a rebate applied, means any HNZ housing a tenancy of which replaced—
   (a) a tenancy of that housing; or
   (b) a tenancy of some other HNZ housing that was replacement HNZ housing in relation to that housing.
+
+## Schedule 4 — Transitional and savings provisions relating to Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013
+
+### Part 1 — Transitional and savings provisions
+
+### 1 Interpretation of this Part
+In this Part, unless the context otherwise requires,—
+  - **2013 Amendment Act** means the Social Housing Reform (Housing Restructuring and Tenancy Matters) Amendment Act 2013
+  - **delegation** includes subdelegation
+  - **new** , in relation to a Part or provision of this Act, means the Part or provision as amended or replaced by Part 1 of the 2013 Amendment Act
+  - **old** , in relation to a Part or provision of this Act, means the Part or provision immediately before it was amended or replaced by Part 1 of the 2013 Amendment Act
+  - **Royal assent commencement date** means the date on which Part 1 of the 2013 Amendment Act (other than section 12 so far as it relates to new section 56(2)) comes into force
+  - **transfer date** means the date on which Part 7 of this Act comes into force.
+
+### 2 Continuation of review process under section 62
+The process for reviews established by HNZ under section 62, as in force immediately before the commencement of section 15 of the 2013 Amendment Act, continues in force, until replaced or revoked, after that commencement as if it were established under new section 62.
+
+### 3 Continuation of delegations under section 64
+A delegation made under old section 64 before the Royal assent commencement date—
+  (a) continues in force, until that delegation is replaced or revoked, after the Royal assent commencement date as if it were a delegation made under new section 64; and
+  (b) new section 64 applies to that delegation with any necessary modifications.
+
+### 4 Income-related rent last calculated by HNZ carries forward as if calculated and notified by agency
+(1) This clause applies if a tenant was required to pay an income-related rent under new Part 5 immediately before the transfer date.
+(2) That rent as it was last calculated by HNZ for the tenant under old or new Part 5 must be treated for the purposes of Parts 7 to 9—
+  (a) as if it had been calculated by the agency as the income-related rent for the tenant; and
+  (b) as if it had been notified by the agency to HNZ under section 106.
+
+### 5 Application of sections 56 to 57D to existing and prospective tenants
+To avoid doubt, sections 56 to 57D (which relate to duty to advise change in circumstances, review of housing eligibility, and investigation of circumstances)—
+  (a) apply to a tenant regardless of whether the tenant was let HNZ housing before or after the Royal assent commencement date; and
+  (b) apply to a prospective tenant regardless of whether the person applied for HNZ housing before or after that date.
+
+### 6 Application of sections 72, 73, 74, and 75 to existing and prospective tenants
+To avoid doubt, sections 72, 73, 74, and 75 (which relate to income-related rent, change in rent, increase in rent, and review of placement)—
+  (a) apply to a tenant regardless of whether the tenant was let HNZ housing before or after the Royal assent commencement date or the transfer date; and
+  (b) apply to a tenancy agreement for HNZ housing regardless of whether the agreement was entered into before or after either of those dates.
+
+### 7 Application of sections 115 to 121 to existing, prospective, and community housing tenants
+(1) To avoid doubt, sections 115 to 121 (which relate to administrative matters, reviews, investigations, and information-gathering powers)—
+  (a) apply to a tenant regardless of whether the tenant was let HNZ housing before or after the Royal assent commencement date or the transfer date; and
+  (b) apply to a prospective tenant regardless of whether the person has applied for HNZ housing before or after either of those dates.
+(2) However, sections 115 to 121 do not apply to a tenant of community housing unless the tenant—
+  (a) has been referred or allocated to the provider by the agency as being eligible for social housing; or
+  (b) is a tenant to whom subclause (1) refers.
+
+### 8 Saving of definition of income under Social Security Act 1964
+The definition of income in section 3(1) of the Social Security Act 1964, as it was immediately before the transfer date, continues in force for the purpose of any recalculation of debt by HNZ after the transfer date in respect of debt calculated or recovered before the transfer date.
+
+### 9 HNZ may use new Part 5 powers for purpose of recovery of section 60 debt (which relates to where rate of rent too low) calculated before transfer date
+(1) For the purposes of the administration and recovery, after the transfer date, of section 60 debt calculated by HNZ before the transfer date,—
+  (a) new Part 5 continues in force despite its repeal by section 22 of the 2013 Amendment Act; and
+  (b) Schedules 2 and 3 (as they were before Part 7 came into force) continue in force for the purpose of any recalculation of that debt; and
+  (c) any delegations made under section 64 (whether before or after its replacement by the 2013 Amendment Act), and any delegations continued by clause 3, continue in force until replaced or revoked.
+(2) In this clause, section 60 debt means debt calculated before the transfer date under section 60 (whether before or after the commencement of section 15 of the 2013 Amendment Act).
+
+### 10 Agency may use Part 9 powers for purpose of recovery of pre-transfer debt not calculated before transfer date
+(1) The agency may exercise its powers or perform its functions conferred by or under Part 9 to calculate pre-transfer debt and to recover that debt.
+(2) In this clause and clause 11, unless the context otherwise requires,—
+  - **debt** includes an amount by which the amount of income-related rent that has been paid by a tenant is less than the amount of income-related rent that would have been calculated for the tenant if the tenant had complied with all of the tenant's obligations under Part 5 of the Act that applied at the relevant time
+  - **pre-transfer debt** means any debt—
+    (a) that was incurred before the transfer date; and
+    (b) that has not been calculated by HNZ before the transfer date; and
+    (c) that HNZ would have been entitled to recover under this Act as a debt due to the Crown if the debt had been calculated before the transfer date.
+
+### 11 Pre-transfer debt if agency is Ministry
+(1) This clause applies only if the agency is the Ministry.
+(2) The agency must comply with section 128, and may exercise its powers under section 85A of the Social Security Act 1964, in respect of pre-transfer debt.
+
+### 12 Agency may use Part 9 powers in respect of offending and other matters before transfer date
+(1) The agency may exercise its powers or perform its functions conferred by or under Part 9—
+  (a) to investigate circumstances that occurred before the transfer date; and
+  (b) to investigate and prosecute pre-transfer offending.
+(2) In this clause and clause 13, unless the context otherwise requires, pre-transfer offending means any act or omission before the transfer date that constituted an offence at the time that it occurred.
+(3) This clause does not limit the Limitation Act 2010 (or the Limitation Act 1950, as the case may be).
+
+### 13 Certain appeals after transfer date
+(1) Any appeal under old or new Part 5 that is commenced before the transfer date may be continued and completed under new Part 5, and under any regulations and rules made under that Part, after the transfer date as if Part 2 of the 2013 Amendment Act had not been enacted.
+(2) Any appeal in respect of any debt that is calculated, or recovered, under—may be commenced (after completion of the review process referred to in clause 2), continued, and completed under new Part 5, and under any regulations and rules made under that Part, after the transfer date as if Part 2 of the 2013 Amendment Act had not been enacted.
+  (a) old or new Part 5 before the transfer date; or
+  (b) old or new Part 5 on or after the transfer date as applied by this schedule—
+(3) In relation to any appeal referred to in subclause (1) or (2), if the matter that is the subject of the appeal is referred back to HNZ for further action, HNZ continues to have all the powers, functions, and duties in respect of the completion of the matter as HNZ had immediately before the transfer date.
+(4) The State Housing Appeal Authority established under the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 continues in existence for the purpose of appeals until 1 April 2017 or an earlier date appointed by the Governor-General by Order in Council.
+(5) For the purposes of subclauses (1) and (2), the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 are deemed to be made under new Part 5.
+
+### 14 Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 modified and continued
+(1) Without limiting clause 13 and subclause (2), the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 must be read with the following modifications:
+  (a) in the definition of decision in regulation 3, the reference to section 62(2) must be read as a reference to section 62A; and
+  (b) in the heading above regulation 4, the reference to section 62 must be read as a reference to section 62A; and
+  (c) in regulations 4(1), 16(2), and 17(1)(a), the reference to section 62(2) must be read as a reference to section 62A.
+(2) The Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 may continue to be amended as if section 63 had not been repealed by section 22 of the 2013 Amendment Act.
+
+### 15 Continuation of prosecutions started before transfer date
+(1) HNZ may continue any prosecution started by HNZ before the transfer date as if the 2013 Amendment Act had not been passed.
+(2) For the purpose of any such prosecution, the functions, powers, and duties of HNZ immediately before the transfer date continue to apply.
+
+### Part 2 — Transitional provisions relating to transfer of employees of Corporation to agency
+
+### 16 Transfer of employees of Corporation to agency
+(1) The chief executive of the Corporation must identify and consult the employees of the Corporation—
+  (a) who are likely to be affected by the transfer of functions of the Corporation or HNZ to the agency; and
+  (b) whose duties are overall more closely connected with the functions of the agency than with the Corporation; and
+  (c) whose positions will, as a result of the transfer of functions to the agency, cease to exist within the Corporation.
+(2) An employee who is identified under subclause (1) may be offered equivalent employment by the agency, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
+  (d) on terms that treat the period of service with the Corporation (and every other period of service recognised by the Corporation as continuous service) as if it were continuous service with the agency.
+(3) The employee is not entitled to receive any payment or other benefit on the ground that the position held by the person in the Corporation has ceased to exist if—
+  (a) the employee's position ceases to exist because the duties of the position are more closely connected with the functions of the agency; and
+  (b) the employee is offered employment in an equivalent position in the agency (whether or not the employee accepts the offer).
+(4) This clause overrides any provision to the contrary in Part 6A of the Employment Relations Act 2000.
+(5) Nothing in sections 60, 61, and 65 of the State Sector Act 1988 applies to the appointment of an employee to a position in the agency as a result of the transfer of functions of HNZ and the Corporation to the agency.
+
+### 17 No compensation for technical redundancy of employees of Corporation
+(1) An employee of the Corporation is not entitled to receive any payment or other benefit on the ground that the position held by the person in the Corporation has ceased to exist if the employee's position ceases to exist because the duties of the position are more closely connected with the functions of the agency, and—
+  (a) the employee is offered employment in an equivalent position in the agency (whether or not the employee accepts the offer); or
+  (b) the employee is offered and accepts employment in the agency.
+(2) In subclause (1)(a), employment in an equivalent position means employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
+  (d) on terms that treat the period of service with the Corporation (and every other period of service recognised by the Corporation as continuous service) as if it were continuous service with the agency.
+
+### 18 Consequences of transfer of functions to agency
+(1) On the date that Part 7 commences,—
+  (a) all relevant information held by HNZ or the Corporation is held by the agency; and
+  (b) any relevant thing done, or omitted to be done, or that is to be done, by or in relation to HNZ or the Corporation is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the agency.
+(2) In this clause,—
+  - **relevant information** means all information that relates to the exercise of a function or power of HNZ or the Corporation that is, on the commencement of Part 7, a function or power of the agency
+  - **relevant thing** means any thing that relates to a function or power of HNZ or the Corporation that, on the commencement of Part 7, is a function or power of the agency.
+(3) The transfer of information from HNZ or the Corporation to the agency under subclause (1)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+
+### 19 No claims for breach of contract
+No claim for breach of contract lies against HNZ, the Corporation, the agency, or any of their employees in respect of any information, knowledge, intellectual property, or goods to which the agency has gained access or has acquired as a result of the transfer of functions of HNZ and the Corporation to the agency.
+
+### Part 3 — Transitional and savings regulations
+
+### 20 Transitional and savings regulations
+(1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
+  (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013:
+  (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
+(2) The Minister must not recommend the making of regulations under subclause (1) unless satisfied that those regulations—
+  (a) are reasonably necessary for either or both of the purposes in subclause (1)(a) and (b); and
+  (b) are consistent with the purposes of this Act.
+(3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of those set out in Parts 1 and 2 of this schedule, and may—
+  (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
+  (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
+(4) No regulations made under this clause may be made, or continue in force, after the close of 14 April 2017.
 
 ### 1 Title
 This order may be cited as the Housing New Zealand Limited Vesting Order 1993.
