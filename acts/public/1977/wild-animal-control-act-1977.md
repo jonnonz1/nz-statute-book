@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2013-11-28_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -69,7 +69,8 @@ This Act may be cited as the Wild Animal Control Act 1977.
       (iv) any pig that is living in a wild state and is not being herded or handled as a domestic animal or kept within an effective fence or enclosure for farming purposes:
       (v) any member of any species or class of land mammals that the Governor-General may from time to time, by Order in Council, declare to be wild animals for the purposes of this Act; and
     (b) includes the whole or any part of the carcass of any such animal:
-    (c) except for deer lawfully kept in captivity for the purposes of farming, does not include any animal kept in captivity pursuant to a permit or licence that is effective for the purposes of section 12 during the currency of the permit or licence and the observance of all conditions under which the permit or licence has been issued
+    (c) except for deer lawfully kept in captivity for the purposes of farming, does not include any animal kept in captivity pursuant to a permit or licence that is effective for the purposes of section 12 during the currency of the permit or licence and the observance of all conditions under which the permit or licence has been issued:
+    (d) does not include an animal that is part of a herd designated to be a herd of special interest under section 16 of the Game Animal Council Act 2013
   - **wild animal recovery operation** means the use of an aircraft (whether or not for hire or reward) to carry out 1 or more of the following activities:
     (a) the searching for, shooting, or immobilising of wild animals:
     (b) the recovering of wild animals (whether dead or alive) or of any part of those wild animals:
@@ -123,12 +124,12 @@ This Act shall bind the Crown.
 (1) Nothing in any wild animal control plan or statement of general policy under section 5 shall derogate from—
   (a) any provision in this Act or other enactment; or
   (b) any provision in any conservation management strategy.
-(2) For the purposes of section 5(1)(ca), sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
+(2) For the purposes of section 5(1)﻿(ca), sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
 
 ### 5B Management of wild animals
 The Minister shall administer and manage wild animals in accordance with—
-  (a) statements of general policy under section 5(1)(ca); and
-  (b) wild animal control plans under section 5(1)(d); and
+  (a) statements of general policy under section 5(1)﻿(ca); and
+  (b) wild animal control plans under section 5(1)﻿(d); and
   (c) conservation management strategies.
 
 ### 6 Delegation of Minister's powers
@@ -210,7 +211,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (c) every permit or licence that authorises the keeping of the animal in any such zoo, and is issued by the responsible chief executive, with the concurrence of the Director-General, under regulations made under section 25 of the Animals Act 1967.
 (4) The Director-General must not—unless satisfied, after consulting the relevant regional council, as to the matters specified in subsection (4A).
   (a) issue any permit or licence to hold wild animals for farming purposes or in a safari park; or
-  (b) concur under subsection (3)(b) to the farming of any specified wild animal—
+  (b) concur under subsection (3)﻿(b) to the farming of any specified wild animal—
 (4A) Those matters are that the land on which the wild animals will be farmed or held—
   (a) is within the feral range of the species; and
   (b) is not unsuitable for farming or holding the wild animals because of its susceptibility to erosion; and
@@ -221,7 +222,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (5A) The Director-General must not issue, under subsection (5), any permit to keep an animal in captivity unless the Director-General is satisfied that—
   (a) the enclosure or land on which, or the conveyance in which, the animal will be kept or conveyed is suitable to contain the animal in a manner that will prevent its escape; or
   (b) the animal will be secured with some suitable restraining device to prevent its escape.
-(6) The Director-General shall not issue, or concur in issuing, any permit or licence in respect of the keeping of any species of wild animal in captivity in any part of any national park or, forest sanctuary, nature reserve, scientific reserve, or scenic reserve.
+(6) The Director-General shall not issue, or concur in issuing, any permit or licence in respect of the keeping of any species of wild animal in captivity in any part of any national park, forest sanctuary, nature reserve, scientific reserve, or scenic reserve.
 (7) The Director-General may refuse to issue, or to concur in issuing, any permit or licence to which any of the foregoing provisions of this section apply, or may issue or concur in issuing any such permit or licence for such period and subject to such conditions as he thinks fit.
 (8) Any permit or licence to which any of the foregoing provisions of this section apply may relate to a specified animal, or to all animals of a specified species or class or of specified species or classes or to a specified number or specified numbers of any of them.
 (9) Any such permit or licence that is issued by the Director-General may at any time be revoked by him if the permit or licence holder fails to comply with any of the provisions of this Act or any regulations made thereunder, whether the permit or licence was issued before or after the commencement of this Act:
@@ -243,7 +244,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (c) specify those areas or places in which deer farming generally is permitted:
   (d) specify those areas or places in which the farming of any particular species of deer is permitted:
   (e) specify the fencing requirements for deer farming generally or for deer farming in any specified areas or places:
-  (f) regulate deer farming permitted under paragraph (c) or paragraph (d), subject to any provisions prescribed by regulations made under section 40(1)(e).
+  (f) regulate deer farming permitted under paragraph (c) or paragraph (d), subject to any provisions prescribed by regulations made under section 40(1)﻿(e).
 (2A) The requirements of this section that apply in respect of deer kept in a safari park on land on which the farming of deer is regulated also apply in respect of deer kept in a safari park on land on which the farming of deer is not regulated.
 (3) Before giving a notice under subsection (2), the Minister shall,—
   (a) in any case where the notice does anything specified in any of paragraphs (a) to (d) of that subsection, publicly notify the intention to give the notice; and, in that case, section 49 of the Conservation Act 1987 shall apply with any necessary modifications:
@@ -259,7 +260,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (a) the location, the legal description, and the nature and tenure of the land:
   (b) the species of deer proposed to be kept on the land:
   (c) such other particulars as the Director-General may specify in writing.
-(7) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, an acknowledgment in writing given by the Director-General under subsection (5) shall be deemed to be a permit issued under section 12(3)(a).
+(7) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, an acknowledgment in writing given by the Director-General under subsection (5) shall be deemed to be a permit issued under section 12(3)﻿(a).
 (8) Any deer that—shall remain the property of the owner if that deer is identified in accordance with an identification system approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
   (a) escapes from its enclosure; or
   (b) strays while being lawfully captured, conveyed, or held in captivity, for the purposes of farming,—
@@ -275,7 +276,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (1) No person shall operate a safari park, except pursuant to and in accordance with and under the conditions stated in a permit issued for the purpose by the Director-General.
 (1A) The requirement to hold a permit under subsection (1) is in addition to the requirement to hold a permit or licence under section 12, and to complying with section 12A.
 (1B) A permit must not be issued under subsection (1) unless the Director-General is satisfied that the requirements of sections 12 and 12A have been complied with.
-(2) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, a permit issued under subsection (1) shall be deemed to be a permit issued under section 12(3)(a).
+(2) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, a permit issued under subsection (1) shall be deemed to be a permit issued under section 12(3)﻿(a).
 (3) The Minister may from time to time, by notice in the Gazette, specify those areas or places in which safari parks are prohibited.
 (4) Any animal that escapes from its enclosure and strays while being lawfully captured, conveyed, or held in captivity for the purposes of a safari park shall remain the property of the owner if that animal is identified in accordance with an identification system approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
 (5) Notwithstanding subsection (4), the following provisions apply in relation to any animal that has escaped from a safari park and is on Crown-owned land:
@@ -290,7 +291,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (2) The Director-General may recover from the permit holder the following costs in respect of any deer or other wild animal:
   (a) the reasonable costs of any inspection carried out under subsection (1):
   (b) the reasonable costs incurred by the Department in controlling any deer or other wild animal that escapes from any regulated deer farm or any safari park.
-(3) Where the Director-General is notified of an escape within 48 hours of its occurrence, he or she may waive, in whole or in part, any costs recoverable in that case under subsection (2)(b).
+(3) Where the Director-General is notified of an escape within 48 hours of its occurrence, he or she may waive, in whole or in part, any costs recoverable in that case under subsection (2)﻿(b).
 
 ### 13 Powers of warranted officers
 (1) Every warranted officer holding a warrant for the purposes of this Act may in the exercise of his duty,—
@@ -400,10 +401,10 @@ The purpose of this Part is to—
     (iv) a wildlife sanctuary or wildlife refuge or wildlife management reserve under the Wildlife Act 1953:
   (b) other land to which the National Parks Act 1980 is applied as if the land were a national park.
 (3) For the purposes of subsection (1), Part 3B of the Conservation Act 1987 (except for sections 17O(4) and 17U(3)) applies as if references in that Part to a conservation area were references to—and in each case with any other necessary modifications.
-  (a) a national park in the case of land described in subsection (2)(a)(ii):
-  (b) a reserve in the case of land described in subsection (2)(a)(iii):
-  (c) a wildlife sanctuary or wildlife refuge or wildlife management reserve, as appropriate, in the case of land described in subsection (2)(a)(iv):
-  (d) land administered as if it were a national park in the case of land described in subsection (2)(b),—
+  (a) a national park in the case of land described in subsection (2)﻿(a)﻿(ii):
+  (b) a reserve in the case of land described in subsection (2)﻿(a)﻿(iii):
+  (c) a wildlife sanctuary or wildlife refuge or wildlife management reserve, as appropriate, in the case of land described in subsection (2)﻿(a)﻿(iv):
+  (d) land administered as if it were a national park in the case of land described in subsection (2)﻿(b),—
 (4) Nothing in this section limits or affects the powers of the Director-General under section 27.
 
 ### 23 Matters to which Minister to have regard in considering application for concession
@@ -458,7 +459,7 @@ No matter or thing done by any person in good faith in the exercise of his power
 (1) Where any notice is to be given to any person pursuant to this Act, it may be given by—
   (a) a notice, in writing or in print, or partly in writing and partly in print, delivered personally, or (as the case may require) left at or posted addressed to the office or address of the person, or at or to the usual or last known place of abode in New Zealand of the person; or
   (b) a public notice in a newspaper, or a notice published in the Gazette; or
-  (c) by affixing a written or painted or printed notice, which bears the symbol of the New Zealand Department and the name or designation of the Minister or the Director-General or any Conservator of Forests or warranted officer, as is appropriate, at or on some other conspicuous or frequented place on the land of the person, or on any place where it will be seen by the person should he frequent the land.
+  (c) by affixing a written or painted or printed notice, which bears the symbol of the Department and the name or designation of the Minister or the Director-General or any Conservator of Forests or warranted officer, as is appropriate, at or on some other conspicuous or frequented place on the land of the person, or on any place where it will be seen by the person should he frequent the land.
 (2) Nothing in this section shall affect section 71 of the Maori Affairs Amendment Act 1974.
 
 ### 34 Offenders to give name and address to officers, etc
@@ -512,7 +513,7 @@ No matter or thing done by any person in good faith in the exercise of his power
   (c) section 12A(10), which relates to failing to maintain deer enclosures:
   (d) section 12B(6), which relates to failing to maintain animal enclosures on safari parks:
   (e) section 17(2), which relates to obstructing, hindering, or resisting officers:
-  (f) section 36(1)(d), which relates to impeding, obstructing, or threatening officers:
+  (f) section 36(1)﻿(d), which relates to impeding, obstructing, or threatening officers:
   (g) section 36(3), which relates to engaging in wild animal recovery operations without a concession.
 (2A)
 (3) Every person who commits an offence against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection is liable,—
