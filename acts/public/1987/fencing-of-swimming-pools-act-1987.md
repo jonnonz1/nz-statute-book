@@ -1,5 +1,5 @@
 # Fencing of Swimming Pools Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-11-28_
 
 > An Act to promote the safety of young children by requiring the fencing of certain swimming pools
 
@@ -93,7 +93,7 @@ The territorial authority may delegate its powers and functions under section 6 
 
 ### 13B Fencing in accordance with Schedule must be treated as means of compliance
 Any provision that is made for the fencing of swimming pools that is in accordance with the Schedule must, in respect of—
-  (a) matters subject to the Building Act 2004, be treated as a compliance document establishing compliance with the building code for the purposes of section 19 of that Act, and the requirements of this Act:
+  (a) matters subject to the Building Act 2004, be treated as an acceptable solution or a verification method establishing compliance with the building code for the purposes of section 19 of that Act, and the requirements of this Act:
   (b) building and premises not subject to the Building Act 2004, be treated as a reasonable and adequate provision for the purposes of this Act.
 
 ### 13C Amendment and replacement of Schedule
@@ -104,15 +104,22 @@ The Governor-General may, by Order in Council,—
 ### 14 Amendment to Fencing Act 1978
 Amendment(s) incorporated in the Act(s).
 
-## Schedule Schedule — Means of compliance for fences under this Act
+## Schedule  — Means of compliance for fences under this Act
+
+**Height**
 
 ### 1(1)
 The fence shall extend—
 (a) at least 1.2 metres above the ground on the outside of the fence; and
 (b) at least 1.2 metres above any permanent projection from or object permanently placed on the ground outside and within 1.2 metres of the fence.
+((2)) Notwithstanding subclause (1), where the fence is constructed of perforated material, netting, or mesh and any opening in the material, netting, or mesh has a dimension (other than the circumference or perimeter) greater than 10 mm, the fence shall extend at least 1.8 metres above the ground or the projection or object.
+
+**Ground clearance**
 
 ### 2
 Any clearance between the bottom of the fence and ground level shall not exceed 100 mm.
+
+**Materials**
 
 ### 3
 All materials and components shall be of a durable nature and shall be erected so as to inhibit any child under the age of 6 years from climbing over or crawling under the fence from the outside.
@@ -134,11 +141,15 @@ Where any perforated material, netting, or mesh is used, no opening in that mate
 ### 7
 All perforated material, netting, or mesh material shall be firmly attached at both top and bottom to a rail, pipe, or similar firm structure, or otherwise be of such a nature that the fence cannot readily be crossed by children under the age of 6 years.
 
+**Gates and doors**
+
 ### 8
 Every gate or door shall be so constructed as to comply with the relevant requirements of clauses 1 to 7, and shall be so mounted that—
 (a) it cannot open inwards towards the immediate pool area:
 (b) it is clear of any obstruction that could hold the gate or door open and no other means of holding the gate or door open is provided:
 (c) when lifted up or pulled down the gate or door does not release the latching device, come off its hinges, or provide a ground clearance greater than 100 mm.
+
+**Operation of gates and doors**
 
 ### 9(1)
 Every gate or door shall be fitted with a latching device.
@@ -147,6 +158,8 @@ Every gate or door shall be fitted with a latching device.
 
 ### 10
 Every gate or door shall be fitted with a device that will automatically return the gate or door to the closed position and operate the latching device when the gate or door is stationary and 150 mm from the closed and secured position.
+
+**Doors in walls of buildings**
 
 ### 11
 Where any building forms part of a fence and the pool is not contained within the building, any door that gives access to the immediate pool area need not comply with the requirements for gates or doors set out in clauses 8 to 10 to the extent (if any) that the territorial authority is satisfied that such compliance is impossible, unreasonable, or in breach of any other Act, regulation, or bylaw, and the door is fitted with a locking device that, when properly operated, prevents the door from being readily opened by children under the age of 6 years.
