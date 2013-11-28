@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-11-28_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -282,7 +282,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
   (b) to the extent that those enactments are expressly amended by section 168(1),—
 (3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
 (4) The provisions of this Act in so far as they relate to risk goods must not be construed to take precedence over the powers provided under the Misuse of Drugs Act 1975 in relation to any controlled drug (as defined in section 2(1) of that Act).
-(5) The provisions of the Wild Animal Control Act 1977 do not apply to prevent or inhibit the exercise of any powers under the Biosecurity Act 1993 on any land (other than land administered under the Acts listed in Schedule 1 of the Conservation Act 1987) when those powers are used in respect of—that may be transmitted by any animal to which the Wild Animal Control Act 1977 applies.
+(5) The provisions of the Wild Animal Control Act 1977 and the Game Animal Council Act 2013 do not apply to prevent or inhibit the exercise of any powers under the Biosecurity Act 1993 on any land (other than land administered under the Acts listed in Schedule 1 of the Conservation Act 1987) when those powers are used in respect of—that may be transmitted by any animal to which the Wild Animal Control Act 1977 or Game Animal Council Act 2013 applies.
   (a) a pest; or
   (b) an unwanted organism—
 (6) The provisions of the Wildlife Act 1953 (including any regulations made under that Act)—
