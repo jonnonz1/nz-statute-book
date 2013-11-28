@@ -1,5 +1,5 @@
 # Building Amendment Act 2012
-_Consolidation as at 2012-03-12_
+_Consolidation as at 2013-11-28_
 
 ### 1 Title
 This Act is the Building Amendment Act 2012.
@@ -157,7 +157,7 @@ Section 36 is amended by repealing subsection (2) and substituting the following
 The heading above section 40 is repealed and the following heading substituted:Building consents: General provisions.
 
 ### 17 New sections 41 to 52Y substituted
-Sections 41 to 52 are repealed and the following sections substituted:Types of building consentWhen building consent is not requiredMeaning of urgent building workOwner must apply for certificate of acceptance if building work carried out urgentlyEnergy work that requires building consentWhen to apply for building consentWhich type of building consent to apply forHow to apply for building consentReferral of certain applications for building consent to New Zealand Fire Service CommissionNew Zealand Fire Service Commission may give advice on applications referred under section 49Processing application for building consentGrant of building consentNotice of refusal of application for building consentIssue of building consentMinor variations to building consentChanges to plans and specifications that have national multiple-use approvalLapse of building consentBuilding consent authority may re-designate consent in certain casesLow-risk building consentApplication for low-risk building consentGrant of low-risk building consent Responsibility of building consent authority in relation to building work carried out under low-risk building consentSimple residential building consentApplication for simple residential building consentGrant of simple residential building consent Responsibility of building consent authority in relation to building work carried out under simple residential building consentStandard building consentApplication for standard building consent Grant of standard building consentCommercial building consentApproval required before application for commercial building consent may be made Approved risk profileApproved quality assurance systemApplication for commercial building consentGrant of commercial building consentOwner must notify building consent authority of change affecting risk profileAmendment to approved risk profile or approved quality assurance system after grant of building consentOwner must provide building consent authority with information relating to quality assurance systemPowers ancillary to building consent authority's power of inspection of commercial building workSafety system commissioning reviewsOffence to make false or misleading statement in relation to commercial building work
+Sections 41 to 52 are repealed and the following sections substituted:Types of building consentWhen building consent is not requiredBuilding work for which building consent is not required under Schedule 1Meaning of urgent building workOwner must apply for certificate of acceptance if building work carried out urgentlyEnergy work that requires building consentWhen to apply for building consentWhich type of building consent to apply forHow to apply for building consentReferral of certain applications for building consent to New Zealand Fire Service CommissionNew Zealand Fire Service Commission may give advice on applications referred under section 49Processing application for building consentGrant of building consentNotice of refusal of application for building consentIssue of building consentMinor variations to building consentChanges to plans and specifications that have national multiple-use approvalLapse of building consentBuilding consent authority may re-designate consent in certain casesLow-risk building consentApplication for low-risk building consentGrant of low-risk building consentResponsibility of building consent authority in relation to building work carried out under low-risk building consentSimple residential building consentApplication for simple residential building consentGrant of simple residential building consentResponsibility of building consent authority in relation to building work carried out under simple residential building consentStandard building consentApplication for standard building consentGrant of standard building consentCommercial building consentApproval required before application for commercial building consent may be madeApproved risk profileApproved quality assurance systemApplication for commercial building consentGrant of commercial building consentOwner must notify building consent authority of change affecting risk profileAmendment to approved risk profile or approved quality assurance system after grant of building consentOwner must provide building consent authority with information relating to quality assurance systemPowers ancillary to building consent authority's power of inspection of commercial building workSafety system commissioning reviewsOffence to make false or misleading statement in relation to commercial building work
   There are 4 types of building consent—
     (a) a standard building consent:
     (b) a low-risk building consent:
@@ -165,7 +165,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (d) a commercial building consent.
   (1) Despite section 40, a building consent is not required in relation to—
     (a) a Crown building or Crown building work to which, under section 6, this Act does not apply; or
-    (b) any building work described in Schedule 1; or
+    (b) any building work described in Schedule 1 for which a building consent is not required (see section 42A):
     (c) any urgent building work for which a building consent cannot practicably be obtained in advance (see section 43 for the meaning of urgent building work); or
     (d) any energy work (unless a building consent is required under section 45); or
     (e) any building work that a territorial authority is authorised to carry out under this Act.
@@ -173,6 +173,18 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (a) adding any building work or class of building work to Schedule 1 as being building work for which a building consent is not required:
     (b) extending or clarifying the scope of any building work or class of building work listed in Schedule 1 as building work for which a building consent is not required:
     (c) restating, for the purpose of clarity, any building work or class of building work listed in Schedule 1.
+  (1) Despite section 40 and subject to the conditions set out in subsection (2), a building consent is not required for building work in the following categories, whether or not a building consent would otherwise have been required:
+    (a) building work described in Part 1 of Schedule 1; or
+    (b) building work described in Part 2 of Schedule 1 that is carried out by an authorised person (see subsection (3)); or
+    (c) building work described in Part 3 of Schedule 1 if the design of the building work has been carried out or reviewed by a chartered professional engineer and the building work has been carried out in accordance with that design.
+  (2) Subsection (1) is subject to the following conditions:
+    (a) the building work complies with the building code to the extent required by this Act:
+    (b) after the building work is completed, the building,—
+      (i) if it complied with the building code immediately before the building work began, continues to comply with the building code; or
+      (ii) if it did not comply with the building code immediately before the building work began, continues to comply at least to the same extent as it did then comply:
+    (c) the building work does not breach any other enactment:
+    (d) the building to which the building work relates is not a building that is required to be licensed under the Hazardous Substances and New Organisms Act 1996.
+  (3) In subsection (1)(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
   In section 42(1)(c), urgent building work means building work that has to be carried out urgently—
     (a) for the purpose of saving or protecting life or health or preventing serious damage to property; or
     (b) to ensure that a specified system in a building that is covered by a compliance schedule, or would be covered if a compliance schedule were issued in respect of the building, is maintained in a safe condition or is made safe.
@@ -194,11 +206,14 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (c) commercial building work for which a commercial building consent is not required, the owner must apply for a standard building consent or a commercial building consent:
     (d) commercial building work for which a commercial building consent is required, the owner must apply for a commercial building consent.
   (3) Regulations may be made under this Act prescribing the types or categories of commercial building work for which a commercial building consent is required.
-  The procedure for applying for—
+  (1) The procedure for applying for—
     (a) a low-risk building consent is set out in section 52G and Schedule 1A:
     (b) a simple residential building consent is set out in section 52J and Schedule 1B:
     (c) a standard building consent is set out in section 52M and Schedule 1C:
     (d) a commercial building consent is set out in sections 52O and 52R and Schedule 1D.
+  (2) Where an application for a building consent must be accompanied by a certificate of work, the certificate of work does not of itself—
+    (a) create any liability in relation to any matter to which the certificate of work relates; or
+    (b) give rise to any civil liability to the owner of the building in question that would not otherwise exist if the licensed building practitioner were not required to provide the certificate of work.
   (1) By notice published in the Gazette, the chief executive may specify a category or categories of applications for building consents that must be referred to the New Zealand Fire Service Commission.
   (2) The chief executive must give a copy of the notice to every building consent authority as soon as practicable after it is published.
   (3) A building consent authority must, on receipt of an application that falls within a category specified under subsection (1), provide a copy of the application to the New Zealand Fire Service Commission.
@@ -346,7 +361,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
     (d) accessibility facilities.
   (2) A safety system commissioning review—
     (a) may be conducted at 1 time or at multiple times:
-    (b) must be conducted before a consent completion certificate is applied for or before the consent compliance certificate is granted.
+    (b) must be conducted before a consent compliance certificate is applied for or before the consent compliance certificate is granted.
   (1) A person commits an offence if that person, in any communication, application, or document that is required to be made or given under this Act or by the regulations in relation to commercial building work,—
     (a) knowingly makes a written or an oral statement that is false or misleading in a material particular; or
     (b) knowingly makes a material omission.
@@ -800,7 +815,7 @@ Section 363C is repealed and the following section substituted:Section 363 does 
 
 ### 76 Strict liability and defences
 Section 388 is amended by adding the following subsection:
-  (3) To avoid doubt, the offences created by sections 52Y, 84B, 86, 116B, 326, 365, 367, 368, and 369 are not strict liability offences.
+  (3) To avoid doubt, the offences created by sections 52Y, 84B, 86, 116B, 150(4), 326, 365, 367, 368, and 369 are not strict liability offences.
 
 ### 77 Civil proceedings against building consent authorities
 Section 391 is amended by omitting or a code compliance certificate and substituting , a code compliance certificate, or a consent completion certificate.
