@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-11-28_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -461,6 +461,7 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (iii) if the land is supplied with water by the owner of the land, any information the territorial authority has about the supply:
   (c) information relating to any rates owing in relation to the land:
   (d) information concerning any consent, certificate, notice, order, or requisition affecting the land or any building on the land previously issued by the territorial authority (whether under the Building Act 1991, the Building Act 2004, or any other Act):
+  (da) the information required to be provided to a territorial authority under section 362T(2) of the Building Act 2004:
   (e) information concerning any certificate issued by a building certifier pursuant to the Building Act 1991 or the Building Act 2004:
   (ea) information notified to the territorial authority under section 124 of the Weathertight Homes Resolution Services Act 2006:
   (f) information relating to the use to which that land may be put and conditions attached to that use:
