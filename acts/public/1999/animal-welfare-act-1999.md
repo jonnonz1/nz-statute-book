@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-11-28_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1835,6 +1835,7 @@ Subject to sections 176 to 178 and Part 6, nothing in this Act makes it unlawful
     (iv) the Biosecurity Act 1993; or
     (v) any other Act; or
   (c) any wild animal or pest; or
+  (ca) any game animal in accordance with the provisions of the Game Animal Council Act 2013; or
   (d) any fish caught from a constructed pond.
 
 ### 176 Hunting in safari parks
