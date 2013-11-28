@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2013-11-28_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
