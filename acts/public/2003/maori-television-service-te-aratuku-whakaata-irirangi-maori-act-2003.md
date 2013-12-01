@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-01_
 
 ## Preamble
 He kōrero whakataki
@@ -244,37 +244,21 @@ A director of the board, when acting as a director, and the board acting collect
 ### Subpart 2 — Provisions relating to UHF right
 
 ### 20A Expiry of subpart 2
-This subpart expires and is repealed at the close of 30 November 2013.
+[Repealed]
 
 **Transfer of UHF right to Service**
 
 ### 21 Transfer of UHF right from Crown to Service
-(1) The chairperson of the board must,—
-  (a) in consultation with the chairperson of Te Pūtahi Paoho, determine the date of transfer of the UHF right to the Service from the Crown, acting by and through the chief executive of the Ministry of Economic Development; and
-  (b) give written notice not less than 20 working days prior to that date to—
-    (i) the chief executive of the Ministry of Economic Development; and
-    (ii) the chairperson of Te Pūtahi Paoho; and
-    (iii) the responsible Ministers.
-(2) The chief executive of the Ministry of Economic Development must transfer the UHF right to the Service on or before the date notified under subsection (1)(b).
+[Repealed]
 
 ### 22 Use of UHF right by Service
-As soon as reasonably practicable after the transfer of the UHF right from the Crown to the Service under section 21, the Service must, in performing its functions set out in section 8, decide whether to create for its use spectrum licences under the UHF right.
+[Repealed]
 
 ### 23 Transfer of UHF right and spectrum licences by Service
-(1) If the Service does not require the UHF right transferred by the Crown under section 21, it must transfer the UHF right to Te Pūtahi Paoho.
-(2) If the Service ceases to use the spectrum licences created for its use under the UHF right in accordance with section 22, it must cancel the spectrum licences.
-(3) If the Service proposes to transfer the UHF right to a third party, or to create spectrum licences for, or to transfer spectrum licences to, a third party (other than Te Pūtahi Paoho), it must—
-  (a) prepare and present to Te Pūtahi Paoho a business plan on the proposal; and
-  (b) obtain the agreement of Te Pūtahi Paoho to the proposed transfer.
-(4) In subsection (3), business plan means a plan stating how a proposal referred to in that subsection would fulfil the Service's functions set out in section 8, and the terms and conditions of that transfer.
+[Repealed]
 
 ### 24 Role of Te Pūtahi Paoho in relation to UHF right
-(1) If the Service transfers the UHF right to Te Pūtahi Paoho under section 23(1), Te Pūtahi Paoho must, in consultation with the responsible Ministers, transfer the UHF right—
-  (a) to an appropriate television broadcaster, to be used for the purpose of promoting and protecting te reo Māori me ngā tikanga Māori; or
-  (b) to the Crown, to be used in fulfilling the functions set out in section 8.
-(2) If the Service proposes to transfer the UHF right to a third party, or to create spectrum licences for, or to transfer spectrum licences to, a third party under section 23(3), Te Pūtahi Paoho must, before agreeing to the proposal,—
-  (a) consult with the responsible Ministers; and
-  (b) have regard to the fact that the UHF right was provided to the Service to use for the purpose of protecting and promoting te reo Māori me ngā tikanga Māori.
+[Repealed]
 
 ### Subpart 2A — Provisions relating to spectrum management rights
 
