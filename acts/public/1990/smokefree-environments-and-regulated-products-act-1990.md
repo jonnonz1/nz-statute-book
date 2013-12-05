@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -26,7 +26,7 @@ _Consolidation as at 2013-07-01_
   - **casino operator's licence** means a licence granted under section 130 of the Gambling Act 2003
   - **class 4 gambling venue licence** means a class 4 venue licence within the meaning of section 4(1) of the Gambling Act 2003
   - **coastal cargo** has the meaning given to it by section 198(6) of the Maritime Transport Act 1994
-  - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1955 or the Companies Act 1993 or any other enactment
+  - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1993 or any other enactment
   - **craft** means—
     (a) an aircraft:
     (b) a ship (as defined in section 2(1) of the Maritime Transport Act 1994)
