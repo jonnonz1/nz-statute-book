@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -1292,6 +1292,10 @@ Nothing in this Act limits access to information that is recorded under this Act
 ### 89A Electronic transactions
 (1) Any transaction under this Act may be conducted by electronic means, subject to the approval of the Registrar-General and any conditions that the Registrar-General thinks fit.
 (2) If allowing a transaction to be conducted electronically, the Registrar-General may dispense with a requirement that a signature be provided.
+(2A) A requirement for a court or its Registrar to give notice (in the case of section 23), or to send a certificate (in the case of section 59, 60, 62E, or 62F), to the Registrar-General is satisfied by the Ministry of Justice providing the Registrar-General with the required information by electronic means.
+(2B) To avoid doubt,—
+  (a) the Ministry of Justice satisfies the requirements of subsection (2A) by providing the information required in the notice or certificate (as the case may be), and is not required to provide the actual notice or certificate (whether by electronic means or otherwise):
+  (b) the obligation for a court or its Registrar to give the notice or certificate referred to in subsection (2A) ceases only when the Ministry of Justice has provided the information in accordance with that subsection.
 (3) In this section, transaction has the same meaning as in section 5 of the Electronic Transactions Act 2002.
 
 ### 90 No prosecution without authority of Registrar-General
@@ -1341,6 +1345,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 |  | Death information | To identify deceased claimants |
 | Board of Trustees of National Provident Fund | Birth information, marriage information, civil union information, name change information, and death information | To verify the identity of a member or beneficiary of the National Provident Fund, and the eligibility or continuing eligibility of a member or beneficiary for payments under the Fund |
 | Department of Internal Affairs | Birth information, marriage information, civil union information, name change information, and death information | To verify whether a person is eligible—ato hold a New Zealand passport:bfor New Zealand citizenship |
+|  | Death information | To identify deceased holders of New Zealand travel documents |
 | Department of Labour | Birth information and name change information | To—averify a person's citizenship status:bverify a person's entitlement to reside in New Zealand:cupdate and verify immigration records |
 |  | Marriage information and civil union information | To verify the marriage or civil union of a person to a New Zealand citizen |
 |  | Death information | To identify deceased holders of temporary entry class visas |
@@ -1353,7 +1358,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Ministry of Justice | Marriage information and civil union information | To verify a fine defaulter's name change |
 |  | Death information | To—aremove the names of deceased persons from jury lists:bremit or enforce payment of fines owed by deceased persons |
 | Ministry of Justice (Maori Land Court Unit) | Death information | To identify deceased Maori landowners |
-| Ministry of Social Development | Birth information, marriage information, civil union information, name change information, and death information | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances: bverify a person's eligibility or continuing eligibility for a community services card or a card the availability of which is based principally on the age and residence of a person, or of his or her spouse or civil union partner, or former spouse or civil union partner:cidentify debtors, including any person no longer in receipt of a benefit, war pension, grant, loan, or allowance |
+| Ministry of Social Development | Birth information, marriage information, civil union information, name change information, and death information | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances:bverify a person's eligibility or continuing eligibility for a community services card or a card the availability of which is based principally on the age and residence of a person, or of his or her spouse or civil union partner, or former spouse or civil union partner:cidentify debtors, including any person no longer in receipt of a benefit, war pension, grant, loan, or allowance |
 | New Zealand Transport Agency | Birth information and name change information | To verify details supplied by an applicant for a driver licence |
 |  | Marriage information and civil union information | To verify the name change of the holder of a driver licence |
 |  | Death information | To identify deceased holders of driver licences |
