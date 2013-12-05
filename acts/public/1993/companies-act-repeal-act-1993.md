@@ -1,5 +1,5 @@
 # Companies Act Repeal Act 1993
-_Consolidation as at 1997-06-30_
+_Consolidation as at 2013-12-05_
 
 > An Act to repeal the Companies Act 1955
 
