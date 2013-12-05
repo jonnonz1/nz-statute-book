@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -485,7 +485,7 @@ No payment, distribution, or transaction (whether in money or money's worth) mad
 
 ### 74C Exemption for gifts in respect of amalgamating companies
 (1) No gift shall constitute a dutiable gift where the donor is an amalgamating company (as defined in section YA 1 of the Income Tax Act 2007), the donee is the amalgamated company (as so defined), and the gift occurs as part of the amalgamation (as so defined).
-(2) No gift shall constitute a dutiable gift where the donor is a shareholder in an amalgamating company, the donee is the amalgamated company or a company which directly or indirectly wholly owns the amalgamated company, the gift occurs as part of the amalgamation, and the amalgamation occurs under section 222 of the Companies Act 1993 or section 209D of the Companies Act 1955.
+(2) No gift shall constitute a dutiable gift where the donor is a shareholder in an amalgamating company, the donee is the amalgamated company or a company which directly or indirectly wholly owns the amalgamated company, the gift occurs as part of the amalgamation, and the amalgamation occurs under section 222 of the Companies Act 1993.
 
 ### 74D Exemption for gifts in respect of distribution by co-operative company or company owned by co-operative company
 No gift shall constitute a dutiable gift if the donor is a co-operative company or a company owned by a co-operative company, the donee is a member of the co-operative company, and the gift is an amount of a distribution that is excluded from being a dividend by section CD 34 of the Income Tax Act 2007.
