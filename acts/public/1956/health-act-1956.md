@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2013-09-06_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -783,7 +783,6 @@ In this Part, unless the context otherwise requires,—
   - **pollution** means the introduction of a substance or organism into drinking water or a drinking-water supply system that causes or may cause that water, or as the case requires, water in that system, to exceed the maximum acceptable values for determinands specified in the drinking-water standards
   - **port** includes an anchorage, a harbour, and a wharf
   - **potable** , in relation to drinking water, means water that does not contain or exhibit any determinands to any extent that exceeds the maximum acceptable values (other than aesthetic guideline values) specified in the drinking-water standards
-  - **public health risk management plan** means a plan prepared and operated by a drinking-water supplier or other person under section 69Z or 69ZA
   - **raw water** —
     (a) means water intended for domestic and food preparation use that has been taken from a source of water but—
       (i) has not been assessed for suitability for that use without treatment; or
@@ -825,6 +824,7 @@ In this Part, unless the context otherwise requires,—
       (iii) in ships or other vessels; or
       (iv) by any means other than by pipes connecting the place where the supply is to the other property or properties to which the water is delivered from the place where the supply is to another property; but
     (b) does not include any other person or class of person declared by regulations made under section 69ZZY not to be a water carrier
+  - **water safety plan** means a plan prepared and operated by a drinking-water supplier or other person under section 69Z or 69ZA
   - **wholesome** , in relation to drinking water, means—
     (a) being potable; and
     (b) not containing or exhibiting any determinand in an amount that exceeds the value stated in the guideline values for aesthetic determinands in the drinking-water standards as being the maximum extent to which drinking water may contain or exhibit the determinand without being likely to have an adverse aesthetic effect on the drinking water
@@ -1008,7 +1008,7 @@ If any drinking-water supplier considers that its ability to maintain an adequat
 
 ### 69V Duty to take all practicable steps to comply with drinking-water standards
 (1) Every drinking-water supplier must take all practicable steps to ensure that the drinking water supplied by that supplier complies with the drinking-water standards.
-(2) A drinking-water supplier complies with subsection (1) if the supplier implements those provisions of the supplier's approved public health risk management plan relating to the drinking-water standards.
+(2) A drinking-water supplier complies with subsection (1) if the supplier implements those provisions of the supplier's approved water safety plan relating to the drinking-water standards.
 (3) Subsection (2) does not limit the ways in which a drinking-water supplier is able to comply with subsection (1).
 (4) Subsection (1) applies to each drinking-water supplier subject to any exemption or variation that has been granted to that supplier under section 69ZZD(2)﻿(k).
 (5) Subsection (1) does not apply to those drinking-water standards that are identified in those standards as guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water.
@@ -1027,11 +1027,11 @@ Before connecting a new source of raw water to the drinking-water supply, a drin
   (b) detect and assess public health risks generally.
 (2) Monitoring under subsection (1) must be carried out in accordance with the drinking-water standards.
 
-### 69Z Duty to prepare and implement public health risk management plan
+### 69Z Duty to prepare and implement water safety plan
 (1) Every drinking-water supplier must, on or before the date on which this section begins to apply to that drinking-water supplier, prepare in writing either or both of the following, whichever is applicable:
-  (a) a public health risk management plan in relation to that drinking-water supplier's drinking-water supply:
-  (b) in the case of a drinking-water supplier who is a water carrier, a public health risk management plan in relation to that water carrier's method of transporting raw water or drinking water.
-(2) A public health risk management plan prepared under subsection (1) must,—
+  (a) a water safety plan in relation to that drinking-water supplier's drinking-water supply:
+  (b) in the case of a drinking-water supplier who is a water carrier, a water safety plan in relation to that water carrier's method of transporting raw water or drinking water.
+(2) A water safety plan prepared under subsection (1) must,—
   (a) if prepared by a drinking-water supplier in relation to that drinking-water supplier's drinking-water supply,—
     (i) identify the public health risks (if any) associated with that drinking-water supply; and
     (ii) identify critical points in that drinking-water supply; and
@@ -1040,7 +1040,7 @@ Before connecting a new source of raw water to the drinking-water supply, a drin
       (B) reducing and eliminating those risks if they do arise; and
     (iv) include information about the estimated costs and benefits of the mechanisms referred to in subparagraph (iii); and
     (v) set out a timetable for managing the public health risks that have been identified as being associated with that drinking-water supply; and
-    (vi) comply with any additional requirements imposed by the Director-General by notice in writing given to the supplier, as to the content and format of public health risk management plans:
+    (vi) comply with any additional requirements imposed by the Director-General by notice in writing given to the supplier, as to the content and format of water safety plans:
   (b) if prepared by a water carrier in relation to that water carrier's method of transporting raw water or drinking water,—
     (i) identify the public health risks (if any) associated with that method of transporting raw water or drinking water; and
     (ii) identify critical points in that method of transporting raw water or drinking water; and
@@ -1048,33 +1048,33 @@ Before connecting a new source of raw water to the drinking-water supply, a drin
       (A) preventing public health risks arising from that method of transportation; and
       (B) reducing and eliminating those risks if they do arise; and
     (iv) set out a timetable for managing the public health risks that have been identified as being associated with that method of transportation; and
-    (v) comply with any additional requirements imposed by the Director-General by notice in writing given to the water carrier as to the content and format of public health risk management plans (including, without limitation, any requirement contained in a model plan issued by the Director-General).
-(3) A public health risk management plan may incorporate other material by reference if that incorporation helps the plan to comply with the requirements of subsection (2).
-(4) Every drinking-water supplier's public health risk management plan must be submitted by the drinking-water supplier to a drinking-water assessor for approval.
+    (v) comply with any additional requirements imposed by the Director-General by notice in writing given to the water carrier as to the content and format of water safety plans (including, without limitation, any requirement contained in a model plan issued by the Director-General).
+(3) A water safety plan may incorporate other material by reference if that incorporation helps the plan to comply with the requirements of subsection (2).
+(4) Every drinking-water supplier's water safety plan must be submitted by the drinking-water supplier to a drinking-water assessor for approval.
 (5) A drinking-water assessor—
-  (a) must, within 20 working days after receiving a public health risk management plan submitted under subsection (4),—
+  (a) must, within 20 working days after receiving a water safety plan submitted under subsection (4),—
     (i) decide to approve it or disapprove it; or
     (ii) require its alteration within a specified period; or
     (iii) require the provision of more information within a specified period; and
-  (b) if the assessor issues a requirement under paragraph (a)﻿(ii) or (iii), may, after any alteration to the public health risk management plan that is considered necessary by the assessor and made by agreement with the supplier or the water carrier, as the case may be, approve that plan.
+  (b) if the assessor issues a requirement under paragraph (a)﻿(ii) or (iii), may, after any alteration to the water safety plan that is considered necessary by the assessor and made by agreement with the supplier or the water carrier, as the case may be, approve that plan.
 (6) The period of 20 working days referred to in subsection (5)﻿(a) ceases to run during any specified period referred to in subsection (5)﻿(a)﻿(ii) or (iii).
-(7) If a drinking-water assessor does not approve a public health risk management plan, the assessor must notify the drinking-water supplier and give reasons for the non-approval.
+(7) If a drinking-water assessor does not approve a water safety plan, the assessor must notify the drinking-water supplier and give reasons for the non-approval.
 (8) Every drinking-water supplier must—
-  (a) take all practicable steps to ensure that the supplier's public health risk management plan is approved under subsection (5) within a 12-month period after the date on which this section begins to apply to the supplier (excluding any specified period referred to in subsection (5)﻿(a)﻿(ii) or (iii)):
-  (b) start to implement a public health risk management plan within 1 month after the date on which that risk management plan is approved under subsection (5).
+  (a) take all practicable steps to ensure that the supplier's water safety plan is approved under subsection (5) within a 12-month period after the date on which this section begins to apply to the supplier (excluding any specified period referred to in subsection (5)﻿(a)﻿(ii) or (iii)):
+  (b) start to implement a water safety plan within 1 month after the date on which that risk management plan is approved under subsection (5).
 (9) This section does not apply to a drinking-water supplier who supplies drinking water from a small drinking-water supply or a neighbourhood drinking-water supply.
 
-### 69ZA Medical officer of health may require preparation and implementation of public health risk management plan
-(1) Despite section 69Z(9), a medical officer of health may, if he or she considers it to be in the interests of public health to do so, require a drinking-water supplier who supplies drinking water from a small drinking-water supply, a neighbourhood drinking-water supply, or a temporary drinking-water supplier, to prepare and implement a public health risk management plan in relation to that supplier's drinking-water supply.
-(2) A public health risk management plan under subsection (1) must—
+### 69ZA Medical officer of health may require preparation and implementation of water safety plan
+(1) Despite section 69Z(9), a medical officer of health may, if he or she considers it to be in the interests of public health to do so, require a drinking-water supplier who supplies drinking water from a small drinking-water supply, a neighbourhood drinking-water supply, or a temporary drinking-water supplier, to prepare and implement a water safety plan in relation to that supplier's drinking-water supply.
+(2) A water safety plan under subsection (1) must—
   (a) identify the public health risks (if any) associated with that drinking-water supply; and
   (b) identify critical points in that drinking-water supply; and
   (c) identify mechanisms for—
     (i) preventing public health risks arising in that drinking-water supply; and
     (ii) reducing and eliminating those risks if they do arise; and
   (d) set out a timetable for managing the public health risks that have been identified as being associated with that drinking-water supply; and
-  (e) comply with any additional requirements imposed by the Director-General and notified to the supplier in accordance with subsection (3), as to the content and format of public health risk management plans.
-(3) If a medical officer of health requires a supplier of the kind referred to in subsection (1) to prepare and implement an approved public health risk management plan, that requirement must—
+  (e) comply with any additional requirements imposed by the Director-General and notified to the supplier in accordance with subsection (3), as to the content and format of water safety plans.
+(3) If a medical officer of health requires a supplier of the kind referred to in subsection (1) to prepare and implement an approved water safety plan, that requirement must—
   (a) be made by notice in writing; and
   (b) specify the date by which the supplier must prepare and submit a draft plan to a drinking-water assessor for approval; and
   (c) specify the date by which the supplier must implement an approved plan.
@@ -1085,26 +1085,26 @@ Before connecting a new source of raw water to the drinking-water supply, a drin
   (b) the persons who use the supply (other than the occupiers of the property on which it is situated) have access to it for more than 60 days in each year.
 
 ### 69ZB Duration of plans
-A public health risk management plan approved under section 69Z or 69ZA remains in force—
+A water safety plan approved under section 69Z or 69ZA remains in force—
   (a) for the period of time stated in the plan; or
   (b) if the period of time stated in the plan exceeds 5 years from the date of completion or approval or if no period is stated in the plan, until the date that is 5 years after the date on which the plan is completed or approved or most recently reviewed or approved, whichever occurs later.
 
 ### 69ZC Review and renewal of plans
-(1) Not later than 2 months before a public health risk management plan approved under section 69Z or 69ZA is due to expire, the drinking-water supplier who prepared the plan must—
+(1) Not later than 2 months before a water safety plan approved under section 69Z or 69ZA is due to expire, the drinking-water supplier who prepared the plan must—
   (a) review it, to assess whether it needs to be altered for any reason or replaced with a new plan; and
   (b) submit the existing, revised, or new plan to a drinking-water assessor under section 69Z(4).
 (2) The provisions of sections 69Z(4) to (8) and 69ZA apply in respect of any existing, revised, or new plan submitted to a drinking-water assessor under section 69Z(4), in accordance with this section.
-(3) This section does not apply in respect of any person who, as at the date when the relevant public health risk management plan expires, has ceased to be—
+(3) This section does not apply in respect of any person who, as at the date when the relevant water safety plan expires, has ceased to be—
   (a) a drinking-water supplier; or
-  (b) a drinking-water supplier of a kind who is required to prepare and implement a public health risk management plan; or
-  (c) in the case of a temporary drinking-water supplier who was required to prepare and implement a public health risk management plan, a temporary drinking-water supplier.
+  (b) a drinking-water supplier of a kind who is required to prepare and implement a water safety plan; or
+  (c) in the case of a temporary drinking-water supplier who was required to prepare and implement a water safety plan, a temporary drinking-water supplier.
 
 ### 69ZD Duty to keep records and make them available
-(1) Every drinking-water supplier and every temporary drinking-water supplier who is required to prepare a public health risk management plan under section 69Z or 69ZA must—
+(1) Every drinking-water supplier and every temporary drinking-water supplier who is required to prepare a water safety plan under section 69Z or 69ZA must—
   (a) keep records that contain sufficient information to enable a drinking-water assessor to ascertain whether or not that drinking-water supplier or temporary drinking-water supplier is complying with the requirements of—
     (i) this Part; and
     (ii) the drinking-water standards; and
-    (iii) that drinking-water supplier's or temporary drinking-water supplier's public health risk management plan; and
+    (iii) that drinking-water supplier's or temporary drinking-water supplier's water safety plan; and
   (b) keep records of any other risk management plan relevant to that supplier's supply.
 (2) Without limiting subsection (1), in the case of a drinking-water supplier, the records kept must include details of—
   (a) the steps taken to prevent contamination of the raw water used by that drinking-water supplier; and
@@ -1178,13 +1178,13 @@ Every drinking-water supplier who becomes aware that the drinking water supplied
   (a) to assess the performance of drinking-water suppliers to determine whether or not they are—
     (i) complying with the requirements of this Part; and
     (ii) complying with the requirements of the drinking-water standards; and
-    (iii) implementing their public health risk management plans; and
+    (iii) implementing their water safety plans; and
   (b) to notify designated officers and drinking-water suppliers of any non-compliance with those requirements; and
   (c) to ensure that records from which compliance, or non-compliance, with those requirements may be ascertained are provided to the Director-General; and
   (d) to provide information to the Director-General in relation to the compliance of drinking-water suppliers with those requirements; and
-  (e) to assess the competence of persons to analyse samples of raw water or drinking water, to calibrate equipment used to treat or monitor raw water or drinking water, or to undertake any other task required to ensure compliance with this Part, the drinking-water standards, or a public health risk management plan; and
-  (f) to authorise persons with sufficient competence to undertake 1 or more of those tasks for the purposes of ensuring compliance with this Part, the drinking-water standards, and any public health risk management plan; and
-  (g) to verify the adequacy of, and, where appropriate, approve public health risk management plans prepared by drinking-water suppliers or other persons and to certify the implementation of those plans; and
+  (e) to assess the competence of persons to analyse samples of raw water or drinking water, to calibrate equipment used to treat or monitor raw water or drinking water, or to undertake any other task required to ensure compliance with this Part, the drinking-water standards, or a water safety plan; and
+  (f) to authorise persons with sufficient competence to undertake 1 or more of those tasks for the purposes of ensuring compliance with this Part, the drinking-water standards, and any water safety plan; and
+  (g) to verify the adequacy of, and, where appropriate, approve water safety plans prepared by drinking-water suppliers or other persons and to certify the implementation of those plans; and
   (h) to check that complaints received by drinking-water suppliers are recorded and responded to appropriately; and
   (i) to provide to the Director-General information of a kind specified by the Director-General that is obtained under this Act; and
   (j) to carry out—
@@ -1232,7 +1232,7 @@ The functions of designated officers are—
   (c) require a drinking-water supplier to supply any information or answer any question relating to that drinking-water supplier's—
     (i) compliance with this Part; and
     (ii) compliance with the drinking-water standards; and
-    (iii) implementation of that drinking-water supplier's public health risk management plan; and
+    (iii) implementation of that drinking-water supplier's water safety plan; and
   (d) require, by notice in writing, any person who has possession or control of information, records, or documents of the kind described in paragraphs (b) and (c) to supply to the drinking-water assessor or the designated officer, in a manner specified in the notice, all or any of that information, or all or any of those records or documents; and
   (e) conduct any inspections, surveys, inquiries, tests, and measurements in relation to raw water taken by a drinking-water supplier or drinking water supplied by a drinking-water supplier or any source of water used by a drinking-water supplier that are reasonably necessary, and do all things that are reasonably necessary to enable those inspections, surveys, inquiries, tests, and measurements to be carried out (including the marking or photographing of any thing or article); and
   (f) direct any drinking-water supplier to conduct any inspections, surveys, inquiries, tests, and measurements that are reasonably necessary; and
@@ -1301,8 +1301,8 @@ If any thing is seized by a drinking-water assessor or designated officer under 
 
 ### 69ZW Review of decisions of drinking-water assessors
 (1) A drinking-water supplier may request a review by the Director-General of any of the following decisions by a drinking-water assessor:
-  (a) a finding, assessment, or recommendation in relation to the compliance of that drinking-water supplier with the requirements of this Part, that drinking-water supplier's public health risk management plan, or the drinking-water standards; or
-  (b) a refusal to approve that drinking-water supplier's public health risk management plan, or to certify its implementation.
+  (a) a finding, assessment, or recommendation in relation to the compliance of that drinking-water supplier with the requirements of this Part, that drinking-water supplier's water safety plan, or the drinking-water standards; or
+  (b) a refusal to approve that drinking-water supplier's water safety plan, or to certify its implementation.
 (2) Any request for a review made under this section must be forwarded to the Director-General within 2 months after the date when the decision of the drinking-water assessor is made known to the drinking-water supplier.
 (3) The Director-General must, after seeking any advice that he or she considers necessary, confirm, vary, or reverse the decision of the drinking-water assessor.
 
@@ -1534,8 +1534,8 @@ Every compliance order must state—
   (a) section 69U (duty to protect source of drinking water):
   (b) section 69V (duty to take all practicable steps to comply with drinking-water standards):
   (c) section 69Y (duty to monitor drinking water):
-  (d) section 69Z (duty to prepare and implement public health risk management plan):
-  (e) section 69ZA(5) (duty of certain drinking-water suppliers or temporary drinking-water suppliers to prepare and implement a public health risk management plan if required to do so):
+  (d) section 69Z (duty to prepare and implement water safety plan):
+  (e) section 69ZA(5) (duty of certain drinking-water suppliers or temporary drinking-water suppliers to prepare and implement a water safety plan if required to do so):
   (f) section 69ZF (duty to take remedial action if drinking-water standards breached):
   (g) section 69ZZD(3) (duty to comply with requirements of a designated officer acting under emergency powers).
 (2) Every person commits an offence who contravenes, or permits a contravention of, any of the following:
@@ -1571,7 +1571,7 @@ Every compliance order must state—
   (c) falsifies, removes, suppresses, or tampers with any samples, test procedures, test results, or evidence taken by a drinking-water assessor in the exercise of that drinking-water assessor's functions or powers under this Part; or
   (d) falsifies, removes, suppresses, or tampers with any samples, test procedures, or test results taken under, or for the purposes of,—
     (i) the drinking-water standards; or
-    (ii) a drinking-water supplier's public health risk management programme.
+    (ii) a drinking-water supplier's water safety plan.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to the penalty set out in section 69ZZV(1).
 
 ### 69ZZU Time for filing charging document
