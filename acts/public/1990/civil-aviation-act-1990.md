@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -71,7 +71,7 @@ _Consolidation as at 2013-08-05_
     (a) any amendment to the Convention that has entered into force under Article 94(a) of the Convention and has been ratified by New Zealand; and
     (b) any Annex or amendment to any Annex accepted under Article 90 of the Convention, to the extent adopted by New Zealand; and
     (c) the international standards and recommended practices from time to time accepted and amended by the International Civil Aviation Organisation under Article 37 of the Convention, to the extent adopted by New Zealand
-  - **Corporation** means Airways Corporation of New Zealand Limited, a company incorporated under the Companies Act 1955 pursuant to the State-Owned Enterprises Act 1986
+  - **Corporation** means Airways Corporation of New Zealand Limited, a company that is a State enterprise under the State-Owned Enterprises Act 1986
   - **dangerous goods** means articles or substances that are capable of posing risk to health, safety, property, or the environment and—
     (a) are listed in, or classified in accordance with, the ICAO's Technical Instructions for the Safe Transport of Dangerous Goods by Air; or
     (b) have properties that would result in the articles or substances being classified as dangerous goods under the ICAO's Technical Instructions for the Safe Transport of Dangerous Goods by Air
