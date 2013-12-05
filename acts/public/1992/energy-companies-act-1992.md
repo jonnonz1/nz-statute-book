@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -68,12 +68,12 @@ _Consolidation as at 2013-07-01_
     (a) in relation to a Board, the Board's successor company:
     (b) in relation to a local authority, an energy company to which all or part of the energy undertaking of the local authority is proposed to be transferred
   - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
-  - **rules** , in relation to an energy company, means the memorandum of association and articles of association of the energy company
+  - **rules** , in relation to an energy company, means the constitution of the energy company
   - **security** means a mortgage, submortgage, charge (whether legal or equitable), debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent; and includes an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
   - **share allocation plan** means the recommendations of an establishing authority made pursuant to section 22 and included in an establishment plan
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
   - **statement of corporate intent** , in relation to an energy company, means the current statement of corporate intent for the energy company prepared pursuant to section 39
-  - **subsidiary** has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993
   - **undertaking** , in relation to a Board, means the property, rights, and liabilities of the Board
   - **voting equity security** , in relation to any company, means an equity security in that company that confers a right to vote at general meetings of the company (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security), not being a right to vote that, under the conditions attached to the security, is exercisable only in 1 or more of the following circumstances:and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind.
     (a) during a period in which a dividend (or part of a dividend) in respect of the security is in arrears:
@@ -280,16 +280,14 @@ Where section 29(2) applies in respect of any establishment plan, there shall be
 
 **Formation of energy companies**
 
-### 32 Formation and registration under Companies Act 1955 of energy company
+### 32 Formation and registration of energy company
 (1) Notwithstanding anything in the Electric Power Boards Act 1925, but subject to section 33 of this Act, each Board shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, form and register under the Companies Act 1955, in respect of that Board, a public company limited by shares in which the subscriber is the Board.
 (1A) Where any Board has not by 1 July 1994, in accordance with subsection (1), formed and registered a company under the Companies Act 1955, in respect of that Board, it shall not later than such date as the Minister in any particular case may allow, form and register a company under the Companies Act 1993 in which the liability of the shareholders is limited and in which the shares shall, on registration, be issued to the Board.
 (2) Notwithstanding anything in the Local Government Act 1974, but subject to section 33 of this Act, every local authority the operations of which include an energy undertaking shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, form and register under the Companies Act 1955, in respect of that local authority, 1 or more public companies limited by shares in which the subscriber is the local authority.
 (3) No company shall be formed and registered under this section except in accordance with the terms of an approved establishment plan.
 (4) Nothing in section 13(1) of the Companies Act 1955 relating to the minimum number of persons who may form a company shall apply to the formation of a company under this section.
-(5) Except as provided in this Act, and subject to subsection (6), the Companies Act 1955 or the Companies Act 1993, as the case may be, shall apply to every company formed and registered in accordance with this section.
-(6) Notwithstanding anything in subsection (5), where no person other than a Board or a local authority is a shareholder in a company formed and registered under the Companies Act 1955 in accordance with this section, nothing in the following provisions of that Act shall apply to the company:
-  (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
-  (b) section 211(4)(c), as to the appointment of a liquidator by the court when, in the case of a company that is not a private company, the number of members is reduced below the legal minimum.
+(5) Except as provided in this Act, the Companies Act 1993 applies to every company formed and registered in accordance with this section.
+(6)
 (7) Every Board and every local authority shall have such powers as may be necessary or desirable for the purposes of this section.
 
 ### 33 Use of existing company
@@ -354,7 +352,7 @@ Notwithstanding anything in subsection (1) or subsection (2) of section 32, but 
   (h) the procedures to be followed before any member of the group subscribes for, purchases, or otherwise acquires shares in any company or other organisation:
   (i) the details of all transactions intended to be entered into between any member of the group and—
     (i) any local authority that is a shareholder in any member of the group:
-    (ii) every company that, in relation to any member of the group, is a related company (as defined in subsections (5) and (6) of section 2 of the Companies Act 1955 or subsections (3) and (4) of section 2 of the Companies Act 1993, as the case may be):
+    (ii) every company that, in relation to any member of the group, is a related company (as defined in section 2(3) of the Companies Act 1993):
     (iii) every company in relation to which any member of the group is a related company (as so defined):
     (iv) every company that, in relation to any local authority that is a shareholder in any member of the group, would be a related company (as so defined) if the local authority were a company:
   (j) such other matters as are agreed by the shareholders and the directorate.
@@ -460,7 +458,7 @@ Nothing in this Act shall be construed as requiring the inclusion, in any statem
 ### 48 Issue of equity securities and debt securities
 (1) Every Order in Council made under section 47(1) in relation to a Board and its successor company shall—
   (a) specify—
-    (i) the kind, number, terms, and nominal value (in relation to a company registered under the Companies Act 1955) or consideration for the issue (in relation to a company registered under the Companies Act 1993) of any equity securities that shall be issued by the successor company consequent upon the vesting in it of the undertaking of the Board; and
+    (i) the kind, number, terms, and consideration for the issue of any equity securities that shall be issued by the successor company consequent upon the vesting in it of the undertaking of the Board; and
     (ii) the names of the persons, or the class or classes of the persons, to whom those equity securities shall be issued; and
   (b) specify—
     (i) the kind, number, nominal value, and terms (including interest) of any debt securities that shall be issued by the successor company consequent upon the vesting in it of the undertaking of the Board; and
@@ -470,7 +468,7 @@ Nothing in this Act shall be construed as requiring the inclusion, in any statem
 (3) On the date specified in the Order in Council pursuant to subsection (1)(c), the company shall—
   (a) issue to such persons as are specified in the order in that behalf, and as fully paid up, equity securities of such kind, number and terms, and of such nominal value or for such consideration, as the case may be, as are specified in the order:
   (b) issue to such persons as are specified in the order in that behalf, debt securities of such kind, number, nominal value, and terms as are specified in the order.
-(4) Nothing in subsections (1)(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (3) of this section.
+(4)
 
 ### 49 Depreciation funds to vest in energy company free of all trusts
 (1) On the appointed day in relation to a Board,—shall, notwithstanding anything in sections 23A to 28 of that Act, vest in the Board's successor company freed and discharged from all trusts and restrictions affecting those investments or, as the case may be, that money.
@@ -608,13 +606,13 @@ Where a local authority is a shareholder in an energy company, that local author
 
 ### 68 Issue of shares on incorporation of energy company
 (1) On the appointed day in relation to a Board, the shares subscribed or applied for in the capital of the Board's successor company on its incorporation shall be deemed,—
-  (a) in the case of a company registered under the Companies Act 1955, to have been allotted as fully paid up to the subscribers; and
+  (a)
   (b) in the case of a company registered under the Companies Act 1993, to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
 (2) On the transfer by a local authority to an energy company of an energy undertaking of the local authority, the shares subscribed or applied for in the capital of the energy company on its incorporation shall be deemed,—
-  (a) in the case of a company registered under the Companies Act 1955, to have been allotted as fully paid up to the subscribers; and
+  (a)
   (b) in the case of a company registered under the Companies Act 1993, to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
 (3) Nothing in subsection (1) or subsection (2) shall apply in respect of any company that has been incorporated otherwise than pursuant to section 32.
-(4) Nothing in section 60 of the Companies Act 1955 (which relates to returns of allotments and prescribes the documents that must be delivered to the Registrar of Companies when shares are allotted for a consideration other than cash) shall apply to shares that are deemed to have been allotted pursuant to subsection (1) or subsection (2) by a company registered under that Act.
+(4)
 
 ### 69 Modification of provisions of Public Works Act 1981
 (1) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the vesting of land in, or the transfer of land to, an energy company pursuant to this Act, but sections 40 and 41 of that Act shall, after the vesting or transfer, apply to that land as if the energy company were a local authority and the land had not been vested or transferred pursuant to this Act.
