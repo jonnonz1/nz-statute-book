@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1093,7 +1093,7 @@ Without limiting the ordinary meaning of the expression, arm's-length includes h
   (a) be recorded in writing and be executed by Telecom and Chorus; and
   (b) be on arm's-length terms between Telecom and Chorus; and
   (c) be unlikely to harm competition in any telecommunications market; and
-  (d) ensure the protection of confidential commercial and customer information.
+  (d) ensure the protection of confidential commercial information or customer confidential information.
 (2) Telecom and Chorus must not enter into a sharing arrangement unless the arrangement meets the requirements in subsection (1).
 
 ### 69F Commission must be notified of proposed and final sharing arrangements
@@ -1182,7 +1182,7 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (2) If the name of the user appears on the register maintained by the Commission under this section, it is conclusive evidence of the fact that Chorus does not breach section 69O by supplying to that person.
 (3) Chorus or any user of telecommunications services may make a written application to the Commission (in a form required by the Commission, if any) for a name of a user to be entered on the register.
 (4) The Commission must give public notice of the application as soon as practicable after receiving it.
-(5) The Commission must, within 15 working days of receiving the application, enter the name of the user on the register if the Commission is satisfied that Chorus would not breach section 69O by supplying to that person.
+(5) The Commission must, within 15 working days of public notice of the application, enter the name of the user on the register if the Commission is satisfied that Chorus would not breach section 69O by supplying to that person.
 (6) At separation day, the register must include all of Chorus's existing unbundled copper local loop customers and unbundled bitstream access customers as at separation day, as notified to the Commission by Chorus before separation day.
 (7) The Commission must, at all reasonable times, make the register available for inspection on the Commission's Internet site in an electronic form that is publicly accessible.
 
@@ -2024,7 +2024,7 @@ For a determination made under this Part, the Commission—
   (a) the Commission has consulted every liable person; and
   (b) the Commission has recommended that the regulations be made.
 (3) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that, if the regulations were made, the minimum telecommunications revenue under those regulations would not exceed the maximum telecommunications revenue threshold.
-(4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:a×cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 cis $10 million.
+(4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:a×cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011cis $10 million.
 
 ### 101A Review of local service TSO arrangements
 (1) The chief executive of the Ministry must,—
@@ -2448,7 +2448,7 @@ In this subpart, unless the context otherwise requires,—
     (b) a group of buildings that are used communally (including the land on which those buildings are sited)
   - **owner** , in relation to any part of a multi-unit complex, means any 1 or more of the following:
     (a) a person who has a freehold or a leasehold interest in that part of the complex:
-    (b) any body corporate under the Unit Titles Act 1972 or the registered proprietor of the complex to which the unit plan relates:
+    (b) any body corporate under the Unit Titles Act 2010 or the registered proprietor of the complex to which the unit plan relates:
     (c) any other person who has a legal right to grant access to the building or to approve the performance of work in the building
   - **preliminary notice** means a notice that complies with section 155F
   - **second notice** means a notice that complies with section 155H.
@@ -3153,6 +3153,10 @@ Despite any enactment or rule of law, any requirements under Part 2 or regulatio
 
 ## Schedule 1 — Designated services and specified services
 
+### Part 1 — Preliminary
+
+#### Subpart 1 — Interpretation and application provisions
+
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
   - **actual costs saved** means the net costs saved by supplying the service on a wholesale rather than a retail basis to the access seeker
@@ -3196,6 +3200,8 @@ In applying the initial pricing principle or the final pricing principle for the
 ### 4B Application of pricing principles for designated access services
 In applying an applicable initial pricing principle or an applicable final pricing principle, the Commission must ensure that an access provider of a designated service does not recover costs that the access provider is recovering in the price of a designated or specified service provided under a determination prepared under section 27 or 30M or a designated or specified service provided on commercial terms.
 
+#### Subpart 2 — Standard access principles for designated access services and specified services
+
 ### 5 Standard access principles for designated access services and specified services
 The following standard access principles apply to designated access services and specified services:
   (a) principle 1: the access provider must provide the service to the access seeker in a timely manner:
@@ -3214,6 +3220,10 @@ The following standard access principles apply to designated access services and
   (a) does not extend to any information about identifiable individual customers of the access provider; and
   (b) is subject to the requirement that any confidential information provided to the access seeker, in accordance with that principle, must be kept confidential to that access seeker.
 
+### Part 2 — Designated services
+
+#### Subpart 1 — Designated access services
+
 |  |  | Interconnection with a fixed PSTN |
 | --- | --- | --- |
 |  | Origination and termination (and their associated functions) of voice and data calls (including dial-up Internet calls) on a fixed PSTN | Description of service: |
@@ -3227,7 +3237,7 @@ The following standard access principles apply to designated access services and
 |  | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice | Requirement referred to in section 45 for final pricing principle: |
 |  | In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls | Additional matters that must be considered regarding application of section 18: |
 |  |  | Retail services offered by means of a fixed telecommunications network |
-|  | A retail service that satisfies both of the following:aany of the following:ia non-price-capped local access and calling service; oriia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to the service described in subparagraph (i) (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); or iiia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) or (ii) above or a price-capped residential local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service applicable before the expiry of 3 years from separation day: |
+|  | A retail service that satisfies both of the following:aany of the following:ia non-price-capped local access and calling service; oriia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to the service described in subparagraph (i) (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriiia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) or (ii) above or a price-capped residential local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service applicable before the expiry of 3 years from separation day: |
 |  | A retail service that satisfies both of the following:aeither of the following:ia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to a local access and calling service (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) above or a local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service applicable after the expiry of 3 years from separation day: |
 |  | Telecom | Access provider: |
 |  | A service provider who seeks access to the service | Access seeker: |
@@ -3273,7 +3283,7 @@ The following standard access principles apply to designated access services and
 | Limits on access principles: | The limits set out in clause 6 and the additional limit that Chorus is only required to provide access to the trunk side of the first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) |  |
 | Initial pricing principle applicable before the expiry of 3 years from separation day: | Retail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the servicePlus, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
 | Initial pricing principle applicable after the expiry of 3 years from separation day: | The price for the designated access service entitled Chorus's unbundled copper local loop network plus benchmarking additional costs incurred in providing the unbundled bitstream access service against prices in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle applicable before the expiry of 3 years from separation day: | Either—aretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Chorus faces limited, or is likely to face lessened, competition in a relevant market; or bretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Chorus does not face limited, or lessened, competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
+| Final pricing principle applicable before the expiry of 3 years from separation day: | Either—aretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Chorus faces limited, or is likely to face lessened, competition in a relevant market; orbretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Chorus does not face limited, or lessened, competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
 | Final pricing principle applicable after the expiry of 3 years from separation day: | The price for Chorus’s unbundled copper local loop network plus TSLRIC of additional costs incurred in providing the unbundled bitstream access service |  |
 | Requirement referred to in section 45 or final pricing principle: | Nil |  |
 | Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus’s unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) |  |
@@ -3355,6 +3365,8 @@ The following standard access principles apply to designated access services and
 | Requirement referred to in section 45 for final pricing principle: | Nil |  |
 | Additional matters that must be considered regarding the application of section 18: | Nil |  |
 
+#### Subpart 2 — Designated multinetwork services
+
 | Local telephone number portability service |  |
 | --- | --- |
 | Description of service: | A service that enables an end-user of a fixed telephone network service to change providers of that service but to retain the same telephone number within a local calling area |
@@ -3370,12 +3382,14 @@ The following standard access principles apply to designated access services and
 | Description of service: | A service that enables an end-user of a national toll-free telephone service to change providers of that service but to retain the same telephone number (including the same national toll-free access code) |
 | Conditions: | Nil |
 | Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
-| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; and boperates a telephone service that relates to that number portability service; and cseeks access to that number portability service |
+| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; andboperates a telephone service that relates to that number portability service; andcseeks access to that number portability service |
 | Telecom's fixed PSTN to mobile carrier pre-selection service |  |
 | Description of service: | A service that enables an end-user who makes a telephone call originating on Telecom's fixed PSTN to an end-user on a cellular telephone network to use a service provider other than Telecom for a part of the fixed network segment of the telephone call without having to enter an additional number or prefix |
 | Conditions: | Nil |
 | Access provider: | Telecom |
 | Access seeker: | A service provider who seeks access to the service |
+
+### Part 3 — Specified services
 
 | National Roaming |  |
 | --- | --- |
@@ -4104,7 +4118,7 @@ The Minister may grant an exemption under section 69N of the principal Act (as i
 **Saving and transitional provisions relating to designated access services**
 
 ### 71 Standard terms determinations continue to apply
-(1) Each standard terms determination referred to in the first column of the following table remains in force and continues to apply as if the determination were a determination made by the Commission for the designated access service set out in the second column of that table opposite that determination:Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream access Standard terms determination for Telecom's unbundled bitstream access backhaul service, 27 June 2008Chorus's unbundled bitstream access backhaulStandard terms determination for Telecom's unbundled copper local loop network service, 7 November 2007Standard terms determination for the designated services of Telecom's unbundled copper local loop network service (Sub-loop UCLL), Telecom's unbundled copper local loop network co-location service (Sub-loop Co-location) and Telecom's unbundled copper local loop network backhaul service (Sub-loop backhaul), 18 June 2009 (the Sub-loop services standard terms determination) Chorus's unbundled copper local loop networkStandard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Sub-loop services standard terms determinationChorus's unbundled copper local loop network co-locationSub-loop services standard terms determination Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)Standard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+(1) Each standard terms determination referred to in the first column of the following table remains in force and continues to apply as if the determination were a determination made by the Commission for the designated access service set out in the second column of that table opposite that determination:Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream accessStandard terms determination for Telecom's unbundled bitstream access backhaul service, 27 June 2008Chorus's unbundled bitstream access backhaulStandard terms determination for Telecom's unbundled copper local loop network service, 7 November 2007Standard terms determination for the designated services of Telecom's unbundled copper local loop network service (Sub-loop UCLL), Telecom's unbundled copper local loop network co-location service (Sub-loop Co-location) and Telecom's unbundled copper local loop network backhaul service (Sub-loop backhaul), 18 June 2009 (the Sub-loop services standard terms determination)Chorus's unbundled copper local loop networkStandard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Sub-loop services standard terms determinationChorus's unbundled copper local loop network co-locationSub-loop services standard terms determinationChorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)Standard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
 (2) Part 2 of the principal Act applies to each standard terms determination accordingly.
 (3) Subsections (1) and (2) are subject to sections 72 to 79.
 
@@ -4129,7 +4143,7 @@ The Minister may grant an exemption under section 69N of the principal Act (as i
   (c) give public notice of the results of each review.
 (3) However, no variation of, addition to, or deletion of terms in the unbundled copper local loop network determination or the Sub-loop services standard terms determination that relates to the implementation of clause 4A of subpart 1 of Part 1 of Schedule 1 may take effect before the expiry of 3 years from separation day.
 (4) To avoid doubt, clause 4A of subpart 1 of Part 1 of Schedule 1 of the principal Act applies to Chorus's unbundled bitstream access service on and after separation day and any changes made to the standard terms determination in accordance with subsection (1) for the purpose of implementing that clause take effect from the close of the day before separation day.
-(5) The table referred to in subsection (2) is—Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007 Chorus's unbundled bitstream access (excluding the initial and the final pricing principles applicable after the expiry of 3 years from separation day)Standard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Chorus's unbundled copper local loop network co-locationStandard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+(5) The table referred to in subsection (2) is—Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream access (excluding the initial and the final pricing principles applicable after the expiry of 3 years from separation day)Standard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Chorus's unbundled copper local loop network co-locationStandard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
 
 ### 74 Commission must make standard terms determination for Chorus's unbundled copper low frequency service before separation day
 (1) The Commission must make reasonable efforts to make a standard terms determination under section 30M for Chorus's unbundled copper low frequency service before separation day.
