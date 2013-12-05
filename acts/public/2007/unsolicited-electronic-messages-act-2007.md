@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -540,7 +540,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (ii) the information that must be contained in an objection; and
     (iii) the time within which, and the manner in which, an objection must be made:
   (j)
-  (k) authorising the enforcement department to enter into agreements or arrangements with overseas enforcement agencies concerning international enforcement of anti-spam legislation, sharing of information between national enforcement agencies, and the pursuit of cross-border complaints concerning spam:
+  (k)
   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 
 ## Schedule Schedule — Messages that are not electronic messages
