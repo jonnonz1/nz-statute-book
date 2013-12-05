@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -18,7 +18,7 @@ The purpose of this Act is to—
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department
-  - **company** has the same meaning as in the Companies Act 1955 or the Companies Act 1993, as the case may be; and includes an overseas company within the meaning of the Companies Act 1993
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993; and includes an overseas company within the meaning of that Act
   - **court** means the Employment Court constituted under the Employment Relations Act 2000
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **employee** has the meaning given in section 5 of the Employment Relations Act 2000
@@ -717,7 +717,7 @@ In this Part, unless the context otherwise requires,—
     (a) for a self-employed person who has been self-employed for at least an average of 10 hours a week over—
       (i) the 12 months immediately preceding the expected date of delivery (or, in the case of adoption, the date on which the self-employed person assumes the care of the child with a view to adoption), it means one fifty-second of the self-employed person's net income during that period; or
       (ii) the 6 months immediately preceding the expected date of delivery (or, in the case of adoption, the date on which the self-employed person assumes the care of the child with a view to adoption), it means one twenty-sixth of the self-employed person's net income during that period; but
-    (b) the divisor of 52 or 26 must be reduced by the number of complete weeks during which the self-employed person was not working in a circumstance described in section 71CB(1A).
+    (b) the divisor of 52 or 26 must be reduced by the number of complete weeks during which the self-employed person was not working in a circumstance described in section 71CB(2).
 
 ### 71CA Definition of eligible employee
 (1) In this Part, eligible employee means—
@@ -1091,7 +1091,7 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
     (i) the rights, entitlements, or obligations of any female employee to whom subsection (2)(a) relates; or
     (ii) the obligations or rights of any employer to whom subsection (2)(b) relates,—
 
-## Schedule Schedule — Change of employer
+## Schedule  — Change of employer
 
 ### 1
 If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of this Act),—
