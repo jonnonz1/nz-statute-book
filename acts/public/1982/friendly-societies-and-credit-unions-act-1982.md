@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -659,14 +659,14 @@ It shall be the duty of every branch of a registered society to supply the secre
 (3) A copy of every special resolution signed by the chairman of the meeting and countersigned by the secretary, shall be sent to the Registrar and, subject to subsection (4), shall forthwith be registered; but until that copy is so registered the special resolution shall not take effect.
 (4) Where, in accordance with subsection (3), there is sent to the Registrar a copy of a special resolution passed at a meeting of a registered friendly society for the purpose of—the Registrar shall not register the copy before the expiry of a period of 6 weeks commencing with the day on which he receives it, or, where objection has been made under section 85, he shall not register the copy until the period specified in subsection (3) of that section has expired.
   (a) amalgamating with another registered society or societies; or
-  (b) transferring its engagements to another registered society or company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be—
+  (b) transferring its engagements to another registered society or company registered under the Companies Act 1993—
 
 **Amalgamations, transfers of engagements, and conversions**
 
 ### 83 Amalgamation of societies and transfer of engagements
 (1) Any 2 or more registered societies may, by special resolution of each of them, become amalgamated together as 1 society, with or without any dissolution or division of the funds of those societies or any of them.
 (2) A registered society may by special resolution transfer its engagements to any other registered society which may (by special resolution or in such other manner as may be authorised by its rules) undertake to fulfil the engagements of that society.
-(3) A registered society may by special resolution determine to transfer its engagements to a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be.
+(3) A registered society may by special resolution determine to transfer its engagements to a company registered under the Companies Act 1993.
 (4) A society which has branches shall not amalgamate or transfer its engagements pursuant to this section except with the consent of the central body of the society.
 (5) Before a society amalgamates or transfers its engagements pursuant to this section, information relating to the terms of the proposed amalgamation or transfer shall be given to the members of the society—
   (a) by sending to each member of the society, not less than 14 days before the date of the general meeting at which the resolution for the amalgamation or transfer is to be proposed, a notice the contents of which have been approved for the purpose by the Registrar; or
@@ -676,8 +676,8 @@ It shall be the duty of every branch of a registered society to supply the secre
   (b) the interest of the officers of the relevant society and of the other society or societies or company concerned in the union or transfer:
   (c) the compensation or other consideration (if any) proposed to be paid to the officers of the relevant society, and of the other society or societies or company concerned:
   (d) the payments (if any) to be made to the members of the relevant society, and of the other society or societies concerned, in consideration of the union or transfer of engagements.
-(7) Subject to section 97, where a registered society transfers all its engagements to a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be, the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
-(8) Where a registered society transfers part of its engagements to a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be, then, notwithstanding anything to the contrary in section 52, the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
+(7) Subject to section 97, where a registered society transfers all its engagements to a company registered under the Companies Act 1993, the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
+(8) Where a registered society transfers part of its engagements to a company registered under the Companies Act 1993, then, notwithstanding anything to the contrary in section 52, the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
 (9) No amalgamation or transfer of engagements shall prejudice any right of a creditor of either or any society which is a party thereto.
 
 ### 84 Society may apply to be registered as company
@@ -753,8 +753,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 (2) The provisions of this section shall apply in relation to a branch of a registered society as they apply in relation to such a society.
 
 ### 90A Transitional provisions applying to liquidation of societies
-(1) Nothing in section 90 shall apply to or affect the winding up of a society commenced before the commencement of the Company Law Reform (Transitional Provisions) Act 1994 or anything done by or in relation to a society under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 90 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
-(2) In the liquidation of a society under Part 16 of the Companies Act 1993, nothing in any of sections 292 to 299 of that Act applies in relation to any transaction entered into by a society, or any matter that arose, before the commencement of the Company Law Reform (Transitional Provisions) Act 1994, but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
+[Repealed]
 
 ### 91 Registrar may forbid new business or the accepting of new members of society
 (1) Subject to this section, the Registrar may, if he considers it expedient to do so in the interests of the members of a registered society or the public, give a direction forbidding the society to accept any new members or to enter into a new contract with any of its members.
@@ -1248,8 +1247,7 @@ On the application of the Registrar, the High Court may appoint a liquidator of 
   (d) the liquidation of the credit union is in the public interest or is just and equitable having regard to the interests of all members of the credit union.
 
 ### 138A Transitional provisions applying to liquidation of credit unions
-(1) Nothing in section 138 shall apply to or affect the winding up of a credit union commenced before the commencement of the Company Law Reform (Transitional Provisions) Act 1994 or anything done by or in relation to a credit union under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 138 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
-(2) In the liquidation of a credit union under Part 16 of the Companies Act 1993, nothing in any of sections 292 to 299 of that Act applies in relation to any transaction entered into by a credit union, or any matter that arose, before the commencement of the Company Law Reform (Transitional Provisions) Act 1994, but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
+[Repealed]
 
 ### 139 Registrar may suspend business of credit union
 (1) Subject to this section, where the Registrar is satisfied that, having regard to the interests of all the members of the credit union or in the interests of potential members of the credit union it is expedient to do so, he may give a direction prohibiting the credit union to such extent and subject to such conditions as may be specified in the direction from carrying on all or any of the following activities:
