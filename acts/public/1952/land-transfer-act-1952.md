@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -871,24 +871,20 @@ No lease of mortgaged or encumbered land shall be binding upon the mortgagee exc
 
 ### 121A Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **company** has the same meaning as in—as the case may be, and, in relation to a licence, means the company by which the licence was issued
-    (a) section 2 of the Companies Act 1955; or
-    (b) section 2 of the Companies Act 1993,—
-  - **constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993, and, in relation to a licence, means the company by which the licence was issued
+  - **constitution** has the same meaning as in section 2(1) of the Companies Act 1993
   - **flat or office owning company** means a company the constitution of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy or use a specified residential flat or office forming part of a building owned by the company
   - **licence to occupy** or means an instrument (not being an instrument registrable otherwise than pursuant to this Part) whether issued before or after the commencement of this Part, that is executed by a flat or office owning company and by a shareholder and that—
     (a) grants to that shareholder the right to occupy or use a specified office or residential flat by virtue of the shares of which the shareholder is the registered holder; or
     (b) is evidence of the right of that shareholder by virtue of the shares of which the shareholder is the registered holder to occupy or use a specified office or residential flat
   - **office** includes premises used or intended to be used for commercial, industrial, business, or professional purposes
   - **share certificate** means the certificate issued in respect of the shares to which a licence relates
-  - **share register** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the register of members.
-(2) A reference in this Part to a shareholder of a company is, in the case of a company within the meaning of section 2 of the Companies Act 1955, a reference to a member of the company.
+  - **share register** has the same meaning as in section 2(1) of the Companies Act 1993.
+(2)
 (3) A reference in this section to a right to occupy or use a specified office or residential flat includes a reference to any rights conferred by the constitution of the company or the licence to use any garage, outbuilding or other structure, or any passages, stairways, or other appurtenances, services or conveniences of the building of which the flat or office forms part, or the land appurtenant to that building.
 
 ### 121B Issue of share certificates
-(1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies,—
-  (a) in the case of a company within the meaning of section 2 of the Companies Act 1955, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of section 90 of that Act:
-  (b) in the case of a company within the meaning of section 2 of the Companies Act 1993, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of section 95 of that Act.
+(1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies with the requirements of section 95(1)(a), (b), and (c) of the Companies Act 1993.
 (2) Where a company acts in contravention of or fails to comply with subsection (1),—
   (a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
   (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
@@ -2250,16 +2246,6 @@ This Act may be cited as the Land Transfer Amendment Act 1966, and shall be read
 ### 2 Fees
 (1)–(4) Amendment(s) incorporated in the Act(s).
 (5) For the avoidance of doubt, it is hereby declared that the prescription, demanding, payment, or receipt, before the commencement of this Act, of any fee was as valid and effectual as if subsections (1) and (2) had come into force on the commencement of the principal Act.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Land Transfer Amendment Act 1993, and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as the principal Act).
-(2) This Act shall come into force on 1 July 1994.
-
-### 5 Special provisions applying to implied term of grant of right to use land or buildings by company to shareholder
-(1) The term implied by section 80A(2) of the Companies Act 1955 in a grant by a company to a shareholder of the right to occupy any specified land owned by the company or any specified building or part of a building owned by the company ceases to have effect on the close of 30 June 1997.
-(2) Notwithstanding subsection (1) or the repeal of the Companies Act 1955 by the Companies Act Repeal Act 1993, any such grant may be forfeited if—
-  (a) leave has been granted to a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 before the repeal of that Act to forfeit the grant; or
-  (b) an application has been made to the court by a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 for leave to forfeit the grant before the repeal of that Act and the court grants leave to do so.
 
 ### 1 Title
 (1) This Act is the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
