@@ -1,5 +1,5 @@
 # Rural Intermediate Credit Act 1927
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide facilities for affording financial assistance by the making of loans for terms not exceeding 5 years to farmers and other persons engaged in primary production
 
@@ -11,7 +11,7 @@ This Act may be cited as the Rural Intermediate Credit Act 1927, and shall come 
 
 ## Part 1 — Rural Intermediate Credit Board
 
-**Constitution and Procedure of Board**
+**Constitution and procedure of Board**
 
 ### 3 Rural Intermediate Credit Board established
 [Repealed]
@@ -40,7 +40,7 @@ This Act may be cited as the Rural Intermediate Credit Act 1927, and shall come 
 ### 11 Minutes of proceedings to be kept
 [Repealed]
 
-### 12 Minutes of proceedings to be kept
+### 12 Rules of procedure
 [Repealed]
 
 ### 13 Officers of Board
@@ -98,13 +98,13 @@ This Act may be cited as the Rural Intermediate Credit Act 1927, and shall come 
 ### 29 Redemption of debentures
 [Repealed]
 
-### 30 Trust funds and public moneys may be invested in debentures issued bv Board
+### 30 Trust funds and public moneys may be invested in debentures issued by Board
 [Repealed]
 
 ### 31 Income derived by person not resident in New Zealand from debentures issued under this Act to be exempt from taxation
 [Repealed]
 
-**Rights of Debenture·holders.**
+**Rights of debenture holders.**
 
 ### 32 As to appointment of receiver
 [Repealed]
@@ -120,7 +120,7 @@ This Act may be cited as the Rural Intermediate Credit Act 1927, and shall come 
 ### 35 Establishment of Rural Intermediate Credit Account
 [Repealed]
 
-### 36 Application of moneys in Rural Intermediate Credit Account. Temporary investment of surplus funds
+### 36 Application of moneys in Rural Intermediate Credit Account
 [Repealed]
 
 ### 37 Audit of Board's accounts
@@ -139,49 +139,49 @@ This Act may be cited as the Rural Intermediate Credit Act 1927, and shall come 
 ### 40 Incorporation of co-operative rural intermediate credit associations
 (1) Any 20 or more persons engaged in farming operations may apply for registration as a company with limited liability under the Companies Act 1993 under the name of The [Distinctive name of association] Co-operative Rural Intermediate Credit Association Limited, by complying with the requirements of that Act in relation to registration, as modified by this Act.
 (2) At least 25 shares must be issued to each person named in the application for registration as a shareholder.
-(3) Every person named in the application for registration as a shareholder shall, when required by the Corporation (being not later than 1 year after the incorporation of the association and before the grant to the shareholder of a loan under this Act), pay in cash not less than 5 percent of the amount required to be paid under the constitution or by the terms of issue of the shares for the shares issued to that person.
+(3) Every person named in the application for registration as a shareholder shall, when required by the Corporation (being not later than 1 year after the incorporation of the association and before the grant to the shareholder of a loan under this Act), pay in cash not less than 5% of the amount required to be paid under the constitution or by the terms of issue of the shares for the shares issued to that person.
 (4) It shall not be necessary to state in the constitution, the number of shares with which the association proposes to be registered.
 (5) The directors of the association may issue additional shares at any time to any—
-  (a) Shareholder of the association; or
-  (b) Any person who is not a member or a shareholder, as the case may be, in accordance with section 51 of this Act.
+  (a) shareholder of the association; or
+  (b) any person who is not a member or a shareholder, as the case may be, in accordance with section 51.
 (6) No association shall be registered under this section except with the consent of the Corporation.
 
 ### 41 First directors of association
-(1) 4 persons who shall be named as directors in an application for registration shall be the first directors of the association.
+(1) Four persons who shall be named as directors in an application for registration shall be the first directors of the association.
 (2) Notwithstanding anything in the constitution of the association, the District Intermediate Credit Supervisor appointed by the Corporation for the district in which the registered office of the association is situated shall, by virtue of his or her office, be and continue to be a director of the association.
 
 ### 42 Registration of association
 (1) The constitution shall be delivered to the Registrar, who shall retain and register the same.
-(2) A statutory declaration by the District Intermediate Credit Supervisor to the effect that the requirements of the Companies Act 1993 or of this Act in respect of registration and of matters precedent or incidental thereto have been complied with shall be produced to the Registrar, who may accept the same as sufficient evidence of such compliance
-(3) On the incorporation of any association under this Part of this Act the Registrar shall cause a notice thereof to be published in the Gazette.
+(2) A statutory declaration by the District Intermediate Credit Supervisor to the effect that the requirements of the Companies Act 1993 or of this Act in respect of registration and of matters precedent or incidental thereto have been complied with shall be produced to the Registrar, who may accept the same as sufficient evidence of such compliance.
+(3) On the incorporation of any association under this Part the Registrar shall cause a notice thereof to be published in the Gazette.
 (4) No fees shall be charged by the Registrar in respect of any matter or thing arising out of the requirements of this section.
-(5) The Registrar shall keep as part of the Register of Companies under the Companies Act 1955 or the Companies Act 1993, as the case may be, but in a separate list, a register of all associations registered under this Part of the Act.
+(5) The Registrar shall keep as part of the Register of Companies under the Companies Act 1993, but in a separate list, a register of all associations registered under this Part.
 
 **Proceedings subsequent to incorporation**
 
 ### 43 Appointment of directors of associations
 (1) Every association shall have 4 directors.
 (2) The Corporation may from time to time appoint a member or shareholder of the association to be an additional director who shall hold office at the pleasure of the Corporation.
-(3) Nothing in this section limits or affects section 41(2) of this Act.
+(3) Nothing in this section limits or affects section 41(2).
 
 ### 44 Chairman and deputy chairman of directors
 The directors elected or appointed as provided in the last preceding section shall as soon as practicable elect one of their number to be the chairman of directors, and another director to be the deputy of the chairman.
 
 ### 45 Appointment of secretary and treasurer
-(1) The directors may appoint a suitable person, whether a director or not, to be the secretary and treasurer of the association, or may appoint 1 such person as secretary and another such person as treasurer:provided that not more than one person shall be paid any salary or other remuneration in respect of the duties of the secretary and the treasurer.
+(1) The directors may appoint a suitable person, whether a director or not, to be the secretary and treasurer of the association, or may appoint 1 such person as secretary and another such person as treasurer:provided that not more than 1 person shall be paid any salary or other remuneration in respect of the duties of the secretary and the treasurer.
 (2) The secretary of the association shall forthwith send written notice to the Corporation of all appointments made pursuant to this or the last preceding section, and of all subsequent appointments that may thereafter be made.
 
 ### 46 Expenses of directors
-Except as provided in the last preceding section, no director of an association shall be entitled to receive any payment from the association other than a refund of travelling expenses actually and reasonably incurred by him in attending meetings of the directors or otherwise in attending to the business of the association.
+Except as provided in the last preceding section, no director of an association shall be entitled to receive any payment from the association other than a refund of travelling expenses actually and reasonably incurred by him or her in attending meetings of the directors or otherwise in attending to the business of the association.
 
-### 47 Regulations for incorporated associations
+### 47 Uniform regulations for incorporated associations
 (1) The Corporation may from time to time prepare and promulgate model regulations and bylaws applicable to all associations incorporated under this Act.
 (2) Every such association, when required by the Corporation so to do, shall by resolution adopt such regulations or bylaws, with such variations (if any) as may be approved by the Corporation, having regard in any particular case to the special circumstances of the association.
-(3) Notwithstanding anything to the contrary in the Companies Act 1955 or the Companies Act 1993, as the case may be, the regulations of an association incorporated under this Act shall not come into force or be amended except with the approval of the Corporation.
+(3) Despite anything to the contrary in the Companies Act 1993, the regulations of an association incorporated under this Act may not come into force or be amended except with the approval of the Corporation.
 
 **Objects of associations**
 
-### 48 Objects of associations incorporated under Act
+### 48 Objects of associations incorporated under this Act
 The principal object of an association incorporated under this Act shall be to borrow money from the Corporation, or from any bank or other approved financial institution, and to lend such money to its shareholders on the security of mortgages or other charges on land or chattels, or on approved personal security, for any of the following purposes, namely:
   (a) the clearing, fencing, draining, and general improvement of land in the occupation of the applicant:
   (b) the erection of buildings on any such land:
@@ -193,35 +193,31 @@ The principal object of an association incorporated under this Act shall be to b
 [Repealed]
 
 ### 50 Amount of loans which may be granted
-No person shall be entitled to receive under the provisions of this Part of this Act any loan or loans so that the amount for the time being outstanding in respect thereof exceeds an amount—whichever is the lesser.
+No person shall be entitled to receive under the provisions of this Part any loan or loans so that the amount for the time being outstanding in respect thereof exceeds an amount—whichever is the lesser.
   (a) fixed from time to time by the Minister by notice in the Gazette; or
-  (b) 10 times the amount,—
-    (i) in the case of a company registered under the Companies Act 1955, of the nominal value of the person's shares in the association; or
-    (ii) in the case of a company registered under the Companies Act 1993, owing under the constitution of the association or the terms of issue for that person's shares in the association,—
+  (b) 10 times the amount owing under the constitution of the association or the terms of issue for that person's shares in the association,—
 
 ### 51 Applications for loans by persons other than shareholders
-(1) If application for a loan is made to an association by any person who is not a member or shareholder of the association, such application shall be deemed to include an application for shares in the association,—but in no case less than 25 shares.
-  (a) in the case of a company registered under the Companies Act 1955, of a nominal value equal to 10 percent of the amount of the loan; or
-  (b) in the case of a company registered under the Companies Act 1993, on which the amount payable under the constitution or by the terms of issue equals 10 percent of the amount of the loan,—
-(2) Before any such application is approved the applicant shall be required to pay to the association in respect of his or her shares an amount not less than 5 percent of the nominal value of the shares or the amount payable under the constitution or by the terms of issue, as the case may be.
+(1) If application for a loan is made to an association by any person who is not a member or shareholder of the association, the application is deemed to include an application for shares in the association on which the amount payable under the constitution or by the terms of issue equals 10% of the amount of the loan, but in no case less than 25 shares.
+(2) Before any such application is approved the applicant shall be required to pay to the association in respect of his or her shares an amount not less than 5% of the amount payable under the constitution or by the terms of issue, as the case may be.
 
 ### 52 Procedure on application for loans under this Part
-(1) Applications for loans from any association under this Part of this Act shall be in writing in the prescribed form, addressed to the secretary of the association.
+(1) Applications for loans from any association under this Part shall be in writing in the prescribed form, addressed to the secretary of the association.
 (2) On receipt of any such application the directors shall proceed to consider the same, and if the application is approved shall apply to the Corporation to advance to the association the amount required to enable it to comply with the application:provided that where the application is for a loan for a term not exceeding 6 months the association may, with the approval of the Corporation, arrange with any bank carrying on business in New Zealand, or with any other approved financial institution, for a loan to the association to enable it to grant the application:provided further that where the application is for a longer term than 6 months the association, with the approval of the Corporation, may make temporary arrangements with any such bank or financial institution as aforesaid, and may defer application for an advance from the Corporation so long as satisfactory arrangements can be made with such bank or financial institution.
-(3) The association shall not grant any application for a loan under this Part of this Act except on such security and subject to such terms and conditions as the Corporation may approve.
-(4) All advances made by a bank or other financial institution to an association for the purposes of this Part of this Act shall be secured in such manner as the bank or other institution aforesaid may require.
-(5) All advances made by the Corporation to an association for the purposes of this Part of this Act shall be secured in such manner as the Corporation may require.
-(6) Without limiting the foregoing provisions of this section, the Corporation, or any bank or other financial institution as aforesaid, may require an association to assign or hypothecate, as security for any advance made to it as aforesaid, any securities given or to be given to the association by any of its shareholders in respect of loans under this Part of this Act.
-(7) All securities given to an association by a shareholder therein in respect of any loan granted under this section out of money borrowed by the association from the Corporation shall be delivered to the District Intermediate Credit Supervisor and forwarded by him to the Corporation for safe custody.
+(3) The association shall not grant any application for a loan under this Part except on such security and subject to such terms and conditions as the Corporation may approve.
+(4) All advances made by a bank or other financial institution to an association for the purposes of this Part shall be secured in such manner as the bank or other institution aforesaid may require.
+(5) All advances made by the Corporation to an association for the purposes of this Part shall be secured in such manner as the Corporation may require.
+(6) Without limiting the foregoing provisions of this section, the Corporation, or any bank or other financial institution as aforesaid, may require an association to assign or hypothecate, as security for any advance made to it as aforesaid, any securities given or to be given to the association by any of its shareholders in respect of loans under this Part.
+(7) All securities given to an association by a shareholder therein in respect of any loan granted under this section out of moneys borrowed by the association from the Corporation shall be delivered to the District Intermediate Credit Supervisor and forwarded by him or her to the Corporation for safe custody.
 (8) Save as provided in this section, an association shall have no power to borrow money or to create any charge or encumbrance on its assets.
 (9) The interest payable on any loan granted by an association to a shareholder therein, as provided in this section, shall not exceed a rate from time to time fixed by the Corporation.
 
 ### 52A Terms and conditions of loans
 Every loan granted under this Act by the Corporation or an association may be made repayable upon demand or by such instalments at such times and generally upon such conditions as the Corporation or the association, with the consent of the Corporation, thinks fit.
 
-### 53 Application of money repaid
+### 53 Repayment of loans
 (1)
-(2) All money received by an association in repayment of any loan shall be forthwith applied in reduction of the indebtedness of the association incurred in respect of the money out of which such loan was granted.
+(2) All moneys received by an association in repayment of any loan shall be forthwith applied in reduction of the indebtedness of the association incurred in respect of the moneys out of which such loan was granted.
 
 ### 54 Application of paid up capital of association
 (1) The paid up capital of any association shall be invested by the association, and shall be so invested only in Government securities or in securities approved by the Corporation:provided that where the association is indebted to the Corporation in respect of any loan the paid up capital of the association, or a portion thereof, not exceeding the amount of the loan, may be placed on deposit with the Corporation and shall bear interest at the same rate as is payable by the association on the amount of the loan.
@@ -230,23 +226,23 @@ Every loan granted under this Act by the Corporation or an association may be ma
 ### 55 Application of profits
 Any profits derived by an association in carrying out its objects under this Act may be applied as follows:
   (a) firstly, in accumulating a reserve of such amount as the Corporation may approve or require, to be invested in the same manner as the paid up capital of the association:
-  (b) secondly, in payment of dividends to the shareholders, not exceeding in any case 7 percent of the paid up capital:
+  (b) secondly, in payment of dividends to the shareholders, not exceeding in any case 7% of the paid up capital:
     provided that no such dividend shall be paid by an association until any loan made by the Corporation to that association towards the preliminary expenses incidental to its incorporation has been repaid.
 
 **General**
 
-### 56 Right of shareholder to surrender shares in association
-(1) If any shareholder intimates to the association by notice in writing that he does not wish to obtain a loan from the association, or if the application for a loan duly made by a shareholder is declined by the association, or when any shareholder of an association has repaid to the association the full amount of his loan, with interest and other charges (if any) thereon, he shall be entitled to surrender his shares and to receive from the association out of its assets such amount as, with the approval of the Corporation, is agreed upon between the association and the shareholder by way of consideration for such surrender, and upon the acceptance of such surrender by the association the shareholder shall cease to be a member of the association:provided that no surrender of shares shall be accepted under this section so as to reduce the number of shareholders remaining in the association below 20:provided also that no shareholder shall be entitled to surrender any shares unless all calls previously made in respect thereof have been paid or satisfied.
+### 56 On repayment of loan, shareholder may surrender his shares in association
+(1) If any shareholder intimates to the association by notice in writing that he or she does not wish to obtain a loan from the association, or if the application for a loan duly made by a shareholder is declined by the association, or when any shareholder of an association has repaid to the association the full amount of his or her loan, with interest and other charges (if any) thereon, he or she shall be entitled to surrender his or her shares and to receive from the association out of its assets such amount as, with the approval of the Corporation, is agreed upon between the association and the shareholder by way of consideration for such surrender, and upon the acceptance of such surrender by the association the shareholder shall cease to be a member of the association:provided that no surrender of shares shall be accepted under this section so as to reduce the number of shareholders remaining in the association below 20:provided also that no shareholder shall be entitled to surrender any shares unless all calls previously made in respect thereof have been paid or satisfied.
 (2) All shares surrendered pursuant to this section shall be forthwith cancelled by the association.
 
 ### 57 Transfer of shares
-No shares in an association under this Part of this Act shall be assigned or transferred except with the precedent approval of the Corporation.
+No shares in an association under this Part shall be assigned or transferred except with the precedent approval of the Corporation.
 
-### 58 Association not to issue share certificate
-No share certificate shall be made or issued in respect of any shares in an association under this Part of this Act.
+### 58 Association not to issue share certificate in respect of shares
+No share certificate shall be made or issued in respect of any shares in an association under this Part.
 
 ### 59 Exemption from company fees
-Every association under this Part of this Act is exempt from all fees payable by companies under the Companies Act 1955 or the Companies Act 1993, as the case may be.
+Every association under this Part is exempt from all fees payable by companies under the Companies Act 1993.
 
 ## Part 3 — Advances to farmers without intervention of associations
 
@@ -279,7 +275,7 @@ Every association under this Part of this Act is exempt from all fees payable by
 ### 68 Application of this Part
 [Repealed]
 
-### 69 Board to compile a register of co-operative societies to which this Part of this Act is societies to which this Part of this Act is
+### 69 Board to compile a register of co-operative societies to which this Part is applicable
 [Repealed]
 
 ### 70 Board may advance money to co-operative societies on security of produce or livestock
@@ -294,11 +290,11 @@ Every association under this Part of this Act is exempt from all fees payable by
 [Repealed]
 
 ### 73 When securities over chattels may take priority over existing securities
-Despite anything to the contrary in the Personal Property Securities Act 1999, any security interest within the meaning of that Act given for the purpose of securing a loan granted by the Corporation, or by any association under this Act, has priority over any security interest that has previously been perfected by registration (as defined in that Act), comprising in whole or in part any of the same chattels, as regards the title to or right to the possession of those chattels, if the secured party under the previously perfected security interest agrees that the security interest given for the purposes of this Act has priority over the previously perfected security interest.
+Despite anything to the contrary in the Personal Property Securities Act 1999, any security interest within the meaning of that Act given for the purpose of securing a loan granted by the Corporation, or by any association under this Act, has priority over any security interest that has previously been perfected by registration (as defined in that Act), comprising in whole or in part any of the same chattels, as regards the title to or right to the possession of those chattels, if the secured party under the previously perfected security interest agrees that the security interest given for the purposes of this Act has priority over that previously perfected security interest.
 
-### 74 Books of associations, etc, to be open for inspection by officers of Corporation
+### 74 Books of associations and co-operative societies to be open for inspection by officers of Board
 (1) Any officer of the Corporation shall at all reasonable times have full and free access to all lands, buildings, places, books, and documents being the property of or in the possession of any association indebted to the Corporation in respect of a loan under this Act for the purpose of inspecting the same, and for that purpose may make extracts from or copies of any such books or documents.
-(2) Every person who obstructs any such officer in the exercise of his powers under this section commits an offence, and is liable on conviction to a fine of 50 pounds.
+(2) Every person who obstructs any such officer in the exercise of his or her powers under this section commits an offence, and is liable on conviction to a fine of £50.
 
 ### 75 Annual report by District Intermediate Credit Supervisor
 [Repealed]
@@ -313,3 +309,52 @@ Despite anything to the contrary in the Personal Property Securities Act 1999, a
 The Rural Credit Associations Act 1922 is hereby repealed.
 
 ## Schedule Schedule
+
+### 1 Short title
+(1) This Act may be cited as the Rural Intermediate Credit Amendment Act 1946, and shall be read together with and deemed part of the Rural Intermediate Credit Act 1927 (hereinafter referred to as the principal Act).
+(2) This Act shall come into force on 1 October 1946.
+
+### 2 Interpretation
+For the purposes of this Act and the principal Act, unless the context otherwise requires,—
+  - **association** means a co-operative rural intermediate credit association established under and for the purposes of the principal Act and incorporated under the Companies Act 1993
+  - **Corporation** means the National Bank of New Zealand Limited
+  - **District Intermediate Credit Supervisor** means an officer of the Corporation appointed by the Corporation to exercise in respect of any district the functions of a District Intermediate Credit Supervisor under the principal Act
+  - **Minister** means the Minister of Finance
+  - **Registrar** means the Registrar of Companies, and includes an Assistant Registrar of Companies.
+
+### 3 Abolition of Rural Intermediate Credit Board
+(1) The Rural Intermediate Credit Board established under the principal Act is hereby dissolved.
+(2) The functions conferred on that Board by the principal Act shall hereafter be exercised by the Corporation.
+
+### 4 Transfer of securities to Corporation
+(1) On the commencement of this Act all mortgages, charges, and other instruments whatsoever given to secure or evidencing loans made by the Rural Intermediate Credit Board under the principal Act and vested in the Board shall be deemed to be transferred to and vested in the Corporation without the necessity of any instrument of assignment, transfer, or other assurance, and thereupon the Corporation shall have in respect of the mortgages, charges, and other instruments and in respect of the property charged thereby all the rights, powers, privileges, and discretions formerly vested in the Board.
+(2) After the commencement of this Act all moneys which, if this Act had not been passed, would thereafter be payable to the Rural Intermediate Credit Board shall be paid to the Corporation.
+(3) All the other property of the Board, except the moneys in the Rural Intermediate Credit Account, is hereby vested in the Corporation.
+(4) As consideration for the mortgages, charges, instruments, and other property vested in it pursuant to the foregoing provisions of this section the Corporation shall pay to the Public Account such sum as may be mutually agreed to by the Corporation and the Minister of Finance.
+
+### 5 Rural Intermediate Credit Account abolished
+(1) The Rural Intermediate Credit Account established under the principal Act is hereby abolished.
+(2) All moneys in the Rural Intermediate Credit Account on the commencement of this Act shall, without further authority than this section, be transferred to the Public Account.
+
+### 6 Application of moneys paid and transferred to Public Account
+(1) The liability of the Rural Intermediate Credit Board in respect of advances made to it before the date of the commencement of this Act by the Minister shall be deemed to be discharged on that date.
+(2) The Minister of Finance shall out of the moneys paid or transferred to the Public Account pursuant to the last two preceding sections pay and discharge any other unsatisfied liabilities of the Board.
+(3) The balance of the moneys paid or transferred to the Public Account pursuant to the last two preceding sections, after deducting the amount of the liabilities referred to in the last preceding subsection, shall be credited to the Loans Redemption Account and be used for the redemption of securities charged upon the public revenues of New Zealand.
+
+### 7 Loans by Corporation for purposes of principal Act
+(1) In order to enable associations to render financial assistance to their members in accordance with the principal Act, the Corporation may make advances to associations.
+(2)
+(3)
+(4)
+
+### 10 Regulations
+(1) The Governor-General may from time to time by Order in Council make all such regulations as may in his or her opinion be necessary or expedient for giving full effect to the provisions of the principal Act and for the due administration thereof.
+(2) Without limiting the general power hereinbefore conferred, it is hereby declared that regulations may be made under this section for all or any of the following purposes:
+  (a) regulating the management of the affairs of associations:
+  (b) prescribing the forms of accounts to be kept by associations for the purposes of the principal Act:
+  (c) excluding any provisions of the Companies Act 1993 from operation in relation to any association:
+  (d) prescribing the conditions on which loans may be granted by the Corporation for the purposes of the principal Act to any person or association:
+  (e) prescribing maximum legal charges that may be made for the preparation of securities or otherwise in respect of any business of the Corporation under the principal Act.
+(3)
+(4) This section is in substitution for section 77 of the principal Act and that section is hereby accordingly repealed:provided that all regulations made pursuant to the said section 77 and in force on the commencement of this Act shall, in so far as they are not inconsistent with the provisions of this Act, continue in force as if they had been made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
