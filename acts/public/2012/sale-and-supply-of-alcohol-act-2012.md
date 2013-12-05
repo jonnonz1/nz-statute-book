@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -511,6 +511,9 @@ A special licence must not be issued in circumstances where (in the opinion of t
 ### 46 No sale or supply outside permitted trading hours: all licences
 (1) The holder of a licence must ensure that no alcohol is sold or supplied on the premises outside the permitted trading hours.
 (2) Subsection (1) is subject to section 173 of the Gambling Act 2003.
+(3) Subsection (1) does not apply where any alcohol previously placed in an area or unit (commonly known as a mini-bar) of a hotel room is, in that room, sold or supplied to—
+  (a) a person (a guest) who is, under an agreement, entitled to occupy that room; or
+  (b) a person whom that guest permits, consistently with that agreement, to be in that room.
 
 ### 47 Sale and supply on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: on-licences
 (1) The holder of an on-licence must ensure that no alcohol is sold or supplied on the premises on Good Friday, Easter Sunday, or Christmas Day, or before 1 pm on Anzac Day, unless—
@@ -3038,10 +3041,11 @@ Sections 349 and 350 apply to each of the district and suburban licensing trusts
 (5) If the competition proposal is not carried, no further poll must be held under this section in respect of that licensing trust until a period of 3 years has expired.
 
 ### 350 Monopoly provisions continue to apply
-Unless and until a competition proposal is carried in respect of a licensing trust to which this section applies, then, despite any of the other provisions of this Act,—
+(1) Unless and until a competition proposal is carried in respect of a licensing trust to which this section applies, then, despite any of the other provisions of this Act,—
   (a) an on-licence must not be issued to any person other than the licensing trust for any hotel or tavern in the trust district:
   (b) an off-licence must not be issued for any premises in the trust district, except—
     (i) to the licensing trust; or
+    (ia) for premises for which a licence to which subsection (4) applies is held; or
     (ii) for any premises on which any kind of alcohol is made:
   (c) a licence must not be issued for any premises outside the trust district, or for any conveyance operated in whole or in part outside the trust district, to—
     (i) the licensing trust; or
@@ -3051,6 +3055,13 @@ Unless and until a competition proposal is carried in respect of a licensing tru
     (v) any trustee or trustees of a trust in respect of which the licensing trust has the power to appoint any trustee; or
     (vi) any other person, body corporate, or trustee, if the licensing committee or the licensing authority is satisfied that the application by that person, body corporate, or trustees is made pursuant to an arrangement designed to enable the trust to evade the prohibitions set out in subparagraphs (i) to (v):
   (d) the licensing trust must not spend or distribute any of its net profits under section 307 outside the trust district.
+(2) Every off-licence issued under subsection (1)(b)(ia) must be issued subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the Sale of Liquor Act 1989, could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962.
+(3) A licence must, if renewed, be renewed subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the Sale of Liquor Act 1989, could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962, if it is—
+  (a) an off-licence issued under subsection (1)(b)(ia) of this section or section 216(b)(iii) of the Sale of Liquor Act 1989; or
+  (b) a licence to which subsection (4) applies.
+(4) This subsection applies to a licence if—
+  (a) it was granted as a wine reseller's licence under the Sale of Liquor Act 1962; or
+  (b) it is an off-licence granted in substitution for a wine reseller's licence granted under the Sale of Liquor Act 1962.
 
 ### Subpart 2 — Community trusts
 
@@ -3537,6 +3548,10 @@ Before recommending the making of regulations under section 397(1)(b) or (c), th
 (2) Despite subsection (1), the trading hours permitted for premises to which a licence continued by that subsection applies—
   (a) are the default maximum national trading hours stated by section 43 for the relevant kind of licence, in any case where, immediately before the commencement of this section, the same or longer trading hours were permitted for those premises:
   (b) in every other case, are the shorter trading hours permitted under that licence.
+(2A) The trading hours permitted for premises to which an off-licence endorsed to indicate that section 51 of the Sale of Liquor Act 1989 applies to it—
+  (a) are the default maximum national trading hours stated by section 43 for an on-licence, in any case where, immediately before the commencement of this section, the same or longer trading hours were permitted for those premises; and
+  (b) are the shorter trading hours permitted under the licence, in every other case.
+(2B) Subsection (2A) overrides subsection (2).
 (3) Subsection (1) is subject to section 406.
 
 ### 410 Transitional provision relating to BYO restaurants and managers
