@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -367,7 +367,7 @@ A failure by a Crown Research Institute to comply with any provision contained i
   (e) the assistance of any Crown Research Institute is required for the purposes of giving effect to any measures—
     (i) that are authorised or required to be taken by or under any regulations made under section 69 or section 70 of the Forests Act 1949; and
     (ii) that relate to the control or eradication of any infection or disease that may be injurious to or may cause any unhealthy condition in any tree, tree seed, timber, or timber produce.
-(2) Notwithstanding anything in this Act, the Crown Entities Act 2004, or the Companies Act 1955, and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
+(2) Notwithstanding anything in this Act, the Crown Entities Act 2004, or the Companies Act 1993, and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
 (3) Where, pursuant to subsection (2), the Prime Minister gives any directions to the board of a Crown Research Institute, that board shall ensure that those directions are complied with.
 (4) Where a notice is given to the board of a Crown Research Institute under subsection (2), the Prime Minister shall, as soon as practicable after the giving of the notice,—
   (a) publish a copy of it in the Gazette; and
