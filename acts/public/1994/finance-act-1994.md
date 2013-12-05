@@ -1,5 +1,5 @@
 # Finance Act 1994
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -22,7 +22,7 @@ _Consolidation as at 2005-04-01_
   - **pharmaceuticals** means substances or things that are medicines, therapeutic medical devices, or products or things related to pharmaceuticals
   - **reached** includes entered into, granted, and made; and has a corresponding meaning
   - **specified body** means a body that is an authority, the commission, or any person wholly owned by a specified body or 2 or more specified bodies
-  - **subsidiary** has the meaning given to that term by section 158 of the Companies Act 1955 or, as the case may require, sections 5 and 6 of the Companies Act 1993.
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993.
 (2) This subsection applies to an agreement (reached before the commencement of the New Zealand Public Health and Disability Act 2000) if, and only if,—
   (a) at least 1 party to it was a specified body at the time it was reached; and
   (b) it was reached after consultation between the Minister of Health and 1 or more of the parties to it; and
