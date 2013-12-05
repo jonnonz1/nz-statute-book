@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -63,7 +63,9 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **access lot** means a separate allotment that was created or currently exists to provide access to or from a unit title development (whether alone or together with other allotments outside the unit title development) and an existing road
+  - **access lot** means a separate allotment that was created or currently exists to provide access between an existing road and—
+    (a) a unit title development; or
+    (b) a unit in a unit title development
   - **accessory unit** means a unit that is designed for use with any principal unit (including, without limitation, a garden, garage, car parking space, storage space, swimming pool, laundry, stairway, or passage) and that is shown on a unit plan as an accessory unit
   - **administrator** means an administrator appointed under section 141
   - **agreement for sale and purchase** has the meaning given to it in section 144
@@ -355,7 +357,7 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
 ### 30 Alteration of proposed unit development plan
 (1) This section applies to any alteration to a proposed unit development plan other than one—
   (a) required under section 57 or 59; or
-  (b) required in relation to a redevelopment under any of sections 65 to 71.
+  (b) required in relation to a redevelopment under subpart 10 of this Part.
 (2) The body corporate may, by special resolution, agree to make an application to deposit a substituted proposed unit development plan.
 (3) The body corporate must apply to the Registrar for the deposit of a new proposed unit development plan in substitution for the existing proposed unit development plan.
 (4) Sections 212 to 216 (which provide for an objection process) apply to a resolution under this section.
@@ -443,7 +445,9 @@ No territorial authority, authorised officer of a territorial authority, member 
 
 ### 39 Utility interest (other than for future development units)
 (1) Before a unit plan is deposited under section 17(1), 21(1), or 24(2)(a), every principal unit and every accessory unit must be assigned a utility interest.
-(2) The utility interest is the same as the ownership interest fixed under section 38(2) unless otherwise shown on any documentation required to be lodged with the unit plan deposited under section 17(1), 21(1), or 24(2)(a) or reassessed under section 41.
+(2) The utility interest for a principal unit or accessory unit is the same as the ownership interest fixed under section 38(2), unless the utility interest—
+  (a) is fair and equitable, having regard to the relevant benefits and the costs to units, and is shown on documentation required to be lodged with the unit plan deposited under section 17(1), 21(1), or 24(2)(a); or
+  (b) has been reassessed under section 41.
 (3) The utility interest is used to determine a range of matters including, but not limited to,—
   (a) the extent of the obligation of the owner of the principal unit in respect of contributions levied by the body corporate under section 121 in respect of the long-term maintenance fund, the optional contingency fund, and the operating account:
   (b) the rights of the owner of the principal unit in relation to a distribution of any surplus money in the long-term maintenance fund, the optional contingency fund, or the operating account, or personal property of the body corporate under section 131.
@@ -555,17 +559,17 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 
 ### 55 Access lots
 (1) This section applies if—
-  (a) the base land to which a unit plan relates has an access lot to or from it; and
+  (a) the base land to which a unit plan relates has an access lot associated with it; and
   (b) a share of the access lot is owned by the person who is, immediately before the unit plan is deposited, the registered proprietor of the base land.
 (2) On the deposit of the unit plan, the access lot, or share of the access lot, owned by the registered proprietor of the base land becomes part of the common property.
 
 ### 56 Sale, lease, or licence of common property
-(1) The body corporate may, after a special resolution to do so, grant a lease or licence over part of the common property.
-(2) Before granting a lease or licence over part of the common property, a subsidiary body corporate must obtain the consent to the dealing by special resolution from—
+(1) The body corporate may, after a special resolution to do so, grant a lease or licence over the whole or any part of the common property.
+(2) Before granting a lease or licence over the whole or any part of the common property, a subsidiary body corporate must obtain the consent to the dealing by special resolution from—
   (a) the body corporate for its parent unit title development; and
   (b) the body corporate for any unit title development located between the subsidiary unit title development and its head unit title development; and
   (c) the body corporate for its head unit title development.
-(3) A body corporate, other than a subsidiary body corporate, may, after a special resolution to do so, sell part of the common property.
+(3) A body corporate, other than a subsidiary body corporate, may, after a special resolution to do so, sell the whole or any part of the common property.
 (4) Sections 212 to 216 (which provide for an objection process) apply to a resolution under this section.
 (5) In addition to the matters required to be included in the certificate referred to in section 216, the body corporate must also certify that the consents required under subsection (2) have been given.
 (6) Unless the body corporate resolves otherwise, any proceeds obtained by the body corporate as a result of any sale, lease, or licence of or over the common property must be distributed to the unit owners.
@@ -618,7 +622,7 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 ### 60 Existing easements and covenants affecting base land
 (1) The deposit of a unit plan has no effect on any easement or covenant to which the base land is subject or on any easement or covenant that is appurtenant to the base land.
 (2) Despite section 67 of the Land Transfer Act 1952, the Registrar must require any easements and covenants referred to in subsection (1) to be recorded (by diagram, words, or otherwise) on the supplementary record sheet, and must not note them on any computer register created under section 43.
-(3) If there is a layered unit title development on the base land, the supplementary record sheet referred to in subsection (2) is that for the head unit title development and any subsidiary unit title development affected by the easement.
+(3) If there is a layered unit title development on the base land, the supplementary record sheet referred to in subsection (2) is that for the head unit title development and any subsidiary unit title development affected by the easement or covenant.
 
 ### 61 Dealings with easements and covenants existing before deposit of unit plan
 (1) The body corporate of a standard unit title development or the body corporate of a head unit title development may, after a special resolution to do so, vary, surrender, or assign any easement or vary or revoke any covenant to which section 60 applies.
@@ -899,7 +903,7 @@ An owner of a principal unit—
 (4) The body corporate may sign the document on behalf of the owner if the owner—
   (a) fails to sign the document within 10 working days after being served with the notice; or
   (b) refuses to sign the document.
-(5) If the body corporate signs any document pursuant to subsection (3), the body corporate must certify in writing that it has complied with subsections (1) to (4) and give a copy of the certificate to the Registrar when lodging the document for registration.
+(5) If the body corporate signs any document pursuant to subsection (4), the body corporate must certify in writing that it has complied with subsections (1) to (4) and give a copy of the certificate to the Registrar when lodging the document for registration.
 (6) The Registrar may rely on the certificate.
 
 ### 87 Payment of ground rental by body corporate
@@ -914,7 +918,9 @@ An owner of a principal unit—
 (2) A general meeting is either an annual general meeting or extraordinary general meeting.
 
 ### 89 Requirement for annual general meeting
-(1) The first annual general meeting of a body corporate must be held as soon as practicable and in any event within 6 months after the date of the deposit of a unit plan or after the settlement date of the first sale of a unit, whichever is the later.
+(1) The first annual general meeting of a body corporate must be held as soon as practicable, and in any event within 6 months after the earlier of the following dates:
+  (a) the date of the deposit of the unit plan:
+  (b) the date of the settlement of the first sale of a unit.
 (2) At the first annual general meeting the body corporate must nominate and elect a chairperson in accordance with the regulations.
 (3) Subsequent annual general meetings must be held once every calendar year and not later than 15 months after the previous annual general meeting.
 
@@ -1005,7 +1011,7 @@ An owner of a principal unit—
   (a) a motion is passed by ordinary resolution or special resolution; and
   (b) a poll is properly requested.
 (2) One vote only may be exercised for each principal unit and only those who voted on the motion under section 97 or 98 are entitled to vote.
-(3) For the motion to pass by ordinary resolution where a poll is requested, 50% of the ownership interest represented by those voting must vote in favour of the motion.
+(3) For the motion to pass by ordinary resolution where a poll is requested, a majority of the ownership interest represented by those voting must vote in favour of the motion.
 (4) For the motion to pass by special resolution where a poll is requested, 75% of the ownership interest represented by those voting must vote in favour of the motion.
 (5) The result of any poll is the resolution of the general meeting.
 
@@ -1029,7 +1035,7 @@ An owner of a principal unit—
 ### 104 Passing of resolution without general meeting
 (1) A resolution may be passed without a general meeting in accordance with this section.
 (2) Notice of the resolution must be given to eligible voters in accordance with the regulations.
-(3) A resolution in writing signed by not less than 50% of eligible voters in respect of an ordinary resolution or 75% of eligible voters in respect of a special resolution is as valid as if it had been passed at a meeting of those voters.
+(3) A resolution in writing signed by a majority of eligible voters in respect of an ordinary resolution, and not less than 75% of eligible voters in respect of a special resolution, is as valid as if it had been passed at a meeting of those voters.
 
 **Body corporate operational rules**
 
@@ -1182,7 +1188,7 @@ The body corporate may enter into an agreement with the owner of a future develo
 (3) Despite subsection (2)(b), if the court considers that it would be inequitable to apportion the amount of the debt in proportion to the utility interest of the unit owners referred to in that paragraph, it may apportion that amount in relation to those units in the shares as it thinks fit, having regard to the relative benefits to those units.
 
 ### 127 Recovery of money expended where person at fault
-(1) This section applies if the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, and the repair, work, or act was rendered necessary by reason of any wilful or negligent act or omission on the part of, or any breach of the Act, the body corporate rules, or any regulations by, any unit owner or his or her tenant, lessee, licensee, or invitee.
+(1) This section applies if the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, and the repair, work, or act was rendered necessary by reason of any wilful or negligent act or omission on the part of, or any breach of the Act, the body corporate operational rules, or any regulations by, any unit owner or his or her tenant, lessee, licensee, or invitee.
 (2) Any expense incurred by the body corporate in doing the repair, work, or act, together with any reasonable costs incurred in collecting the expense, is recoverable as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense became payable or by the person who is the unit owner at the time proceedings are instituted.
 
 ### 128 Interest on money owing to body corporate
@@ -1278,13 +1284,18 @@ The body corporate may distribute money or personal property in its possession a
 **Repair and maintenance**
 
 ### 138 Body corporate duties of repair and maintenance
-(1) The body corporate must manage, maintain, and keep in a good state of repair the common property and any assets owned by the body corporate or designed for use in connection with the common property.
-(2) The body corporate must maintain, repair, or renew all building elements and all infrastructure that relate to or serve more than 1 unit.
+(1) The body corporate must repair and maintain—
+  (a) the common property; and
+  (b) any assets designed for use in connection with the common property; and
+  (c) any other assets owned by the body corporate; and
+  (d) any building elements and infrastructure that relate to or serve more than 1 unit.
+(2)
 (3) The body corporate may access at all reasonable hours any unit to enable it to carry out repairs and maintenance under this section.
-(4) Any costs incurred by the body corporate that relate to repairs to building elements and infrastructure contained in a principal unit are recoverable by the body corporate from the owner of that unit as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense was incurred or by the person who is the unit owner at the time the proceedings are instituted.
+(4) Any costs incurred by the body corporate that relate to repairs to or maintenance of building elements and infrastructure contained in a principal unit are recoverable by the body corporate from the owner of that unit as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense was incurred or by the person who is the unit owner at the time the proceedings are instituted.
 (5) For the purposes of this section,—
   (a) a subsidiary body corporate is to be treated as the unit owner of the principal unit that was subdivided to create the subsidiary unit title development; and
-  (b) a reference in subsection (4) to a principal unit includes the common property and units of that subsidiary unit title development.
+  (b) a reference in subsection (4) to a principal unit includes the common property and units of that subsidiary unit title development; and
+  (c) the duty to repair and maintain includes (without limitation) a duty to manage (for the purpose of repair and maintenance), to keep in a good state of repair, and to renew where necessary.
 
 **Review of service contracts**
 
@@ -1357,6 +1368,7 @@ The body corporate may distribute money or personal property in its possession a
 In this subpart,—
   - **agreement for sale and purchase** means a binding agreement for sale and purchase of a unit, whether or not the agreement is conditional or unconditional; and has a corresponding meaning
   - **buyer** includes a prospective buyer
+  - **contain** , in relation to information or any certificate to be contained in any disclosure statement, includes attaching the information or certificate to, or in any other way incorporating it so it forms part of, the disclosure statement
   - **seller** means the seller of a unit
   - **settlement date** means—
     (a) the date on which the buyer pays to the seller the purchase price, or the balance of the purchase price, in exchange for the documents of title; or
@@ -1374,17 +1386,17 @@ A provision in any agreement to exclude or limit the obligation to disclose unde
 (2) No later than the fifth working day before the settlement date, the seller must provide a disclosure statement (a pre-settlement disclosure statement) to the buyer.
 (3) The pre-settlement disclosure statement—
   (a) must contain the prescribed information; and
-  (b) must contain or be accompanied by a certificate given by the body corporate certifying that the information in the statement is correct.
+  (b) must contain a certificate given by the body corporate certifying that the information in the statement is correct.
 (4) A body corporate may withhold a certificate referred to in subsection (3)(b) if any debt that is due to the body corporate by the unit owner is unpaid.
 
 ### 148 Buyer may request additional disclosure
-(1) A buyer may request an additional disclosure statement.
+(1) A buyer may request an additional disclosure statement or may request some, but not all, of the information required to be in an additional disclosure statement (specific prescribed information).
 (2) The request may be made at any time before whichever of the following dates occurs first:
   (a) the close of the fifth working day after the date that the agreement was entered into; or
   (b) the close of the tenth working day before the settlement date.
 (3) If a buyer makes a request in accordance with subsections (1) and (2), the seller must provide the additional disclosure statement to the buyer no later than the fifth working day after the date on which the request was made.
-(4) The additional disclosure statement must contain the prescribed information.
-(5) The buyer must pay to the seller all reasonable costs incurred by the seller in providing the additional disclosure statement, but the non-payment of these costs does not justify the seller withholding disclosure.
+(4) The additional disclosure statement must contain the prescribed information or, if the buyer has requested only specific prescribed information, the specific prescribed information requested.
+(5) The buyer must pay to the seller all reasonable costs incurred by the seller in providing the additional disclosure statement or specific prescribed information, but the non-payment of these costs does not justify the seller withholding disclosure.
 
 ### 149 Buyer may delay settlement if disclosure late or not made
 (1) This section applies if—
@@ -1508,20 +1520,18 @@ Except as provided in sections 30(5)(b) and 68(3), the lessor’s consent is not
 (7) If the High Court grants relief it may grant it on such terms (if any) as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the High Court in the circumstances of each case thinks fit.
 
 ### 166 Expiry of lease
-(1) Despite section 50(c), the term of the lease or any renewed or extended term is deemed not to have expired until the unit plan has been cancelled or a certificate of expiry has been registered in accordance with subsection (3).
+(1) The term of the lease or any renewed or extended term is deemed not to have expired until the unit plan has been cancelled or a certificate of expiry has been registered in accordance with subsection (3).
 (2) On the cancellation of the unit plan the term of the lease is deemed to expire unless the lessor, in writing, has consented to the cancellation of the plan and agreed that the lease is to continue in force according to its tenor.
-(3) Despite section 50(c), at any time after the date on which the lease or any extended or renewed term is by the relevant instrument expressed to expire, the following persons may lodge with the Registrar a certificate of expiry in the prescribed form:
+(3) At any time after the date on which the lease or any extended or renewed term is by the relevant instrument expressed to expire, the following persons may lodge with the Registrar a certificate of expiry in the prescribed form:
   (a) the lessor; or
   (b) any persons who are together entitled to exercise more than 25% of the votes on an ordinary resolution of the body corporate.
 (4) The person or persons intending to lodge a certificate under subsection (3) must give 14 days’ notice in writing to the body corporate before lodging the certificate.
-(5) The Registrar, on receiving the certificate, if the Registrar is satisfied that the term of the lease or any extended or renewed term has expired, and subject to the provisions of subsection (6), must—
+(5) On receiving a certificate of expiry, if the Registrar is satisfied that the term of the lease or any extended or renewed term has expired, he or she must—
   (a) cancel the unit plan; and
   (b) cancel the computer register for each of the units; and
   (c) enter a memorial to the effect that the lease has expired.
 (6) If the body corporate has applied to the court for any relief under section 264 of the Property Law Act 2007, it may serve a copy of the application on the Registrar.
-(7) If a copy of an application has been served on the Registrar under subsection (6), the Registrar must not register a certificate of expiry unless—
-  (a) the High Court orders that it can be registered; or
-  (b) the owners who are together entitled to exercise more than 25% of the votes on an ordinary resolution of the body corporate request the Registrar in writing to do so.
+(7) If the Registrar is served with a copy of an application under subsection (6), the Registrar may not take any action referred to in subsection (5) unless or until the Registrar is satisfied that the application for relief has been withdrawn or refused.
 
 ### 167 Renewal or expiry of lease and purchase of reversionary interest
 (1) This section applies if the lease gives the lessee—
@@ -1562,6 +1572,7 @@ The owner of a future development unit in a unit title development to which this
 
 ### 171 Jurisdiction of Tenancy Tribunals
 (1) Except as provided in this section, a Tenancy Tribunal (a Tribunal) constituted under section 67 of the Residential Tenancies Act 1986 has jurisdiction to hear and determine all disputes arising between any persons of the kind listed in subsection (2) in relation to a unit title development (a unit title dispute).
+(1A) To avoid doubt, and without limiting subsection (1), a unit title dispute may relate to a claim for unpaid levies.
 (2) The persons mentioned in subsection (1) are—
   (a) the owner of a principal unit or a former owner of a principal unit:
   (b) a future development unit owner:
@@ -1576,6 +1587,10 @@ The owner of a future development unit in a unit title development to which this
   (k) a lessor of base land:
   (l) the chief executive.
 (3) Any person listed in subsection (2) may, by notice in writing to the Tribunal, appoint an agent to act on his or her or its behalf in relation to a dispute.
+(3A) Without limiting the provisions of the Residential Tenancies Act 1986 that apply to a Tenancy Tribunal by virtue of section 176 of this Act, a Tenancy Tribunal may, in relation to a unit title dispute within its jurisdiction under this section, do any of the following:
+  (a) order any party to do anything necessary to remedy a breach by that party of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
+  (b) order any party to refrain from doing anything that would constitute a breach of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
+  (c) make any supplementary orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
 (4) The Tribunal does not have jurisdiction—
   (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000; or
   (b) to hear a dispute relating to the application of insurance money under section 136(4); or
@@ -1599,6 +1614,7 @@ The owner of a future development unit in a unit title development to which this
 (1) The High Court has jurisdiction to hear and determine any unit title dispute if—
   (a) the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $200,000; or
   (b) the dispute relates to the title of land.
+(1A) In addition to the jurisdiction conferred under subsection (1), the High Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under section 136(4) for amounts in excess of $50,000.
 (2) Any provision of any agreement that purports to exclude or limit the jurisdiction of the High Court is of no effect.
 
 ### 174 Exclusion of Tribunal’s jurisdiction prohibited
@@ -1906,10 +1922,12 @@ If a local authority, public body, or person authorised by it has a right under 
 
 ### 210 General relief for minority where resolution required
 (1) In any case where this Act requires a resolution and the resolution is passed, any person who voted against the resolution may apply to the appropriate decision-maker for relief on the grounds that the effect of the resolution would be unjust or inequitable for the minority.
+(1A) Subsection (1) does not apply if the resolution is a designated resolution.
 (2) An application for relief under subsection (1) must be made within 28 days of the passing of the resolution.
 
 ### 211 Relief in cases where special resolution required
 (1) In any case where this Act requires a special resolution and the resolution is not passed but 65% of the eligible voters have voted in favour of the resolution, any eligible voter who voted in favour of the resolution may apply to the appropriate decision-maker to have the resolution confirmed on the grounds that the effect of the failure of the resolution to be passed would be unjust or inequitable on the majority.
+(1A) An application for relief under subsection (1) must be made within 28 days of the close of voting on the resolution. (However, this subclause does not apply if the close of voting was before this subsection comes into force.)
 (2) The appropriate decision-maker may make an order confirming the resolution, subject to any terms and conditions it sees fit, if it is satisfied that it is just and equitable to do so.
 (3) If the appropriate decision-maker confirms the resolution, the body corporate may proceed to carry out the resolution subject to any terms and conditions imposed by the appropriate decision-maker under subsection (2).
 
@@ -1937,7 +1955,7 @@ For the purposes of this subpart, designated resolution means a resolution relat
 (2) The notice required to be served under subsection (1) is in addition to any other documents that are required to be served under this Act in relation to any particular matter.
 (3) Any person served with a notice under subsection (1) may, within 28 days of being served with that notice, give written notice in the prescribed form (if any) to the body corporate of his or her objection to the designated resolution (a notice of objection).
 (4) Despite subsection (3), no person may object under that subsection in respect of an easement or covenant of a kind that will, under section 180(2)(b) or (c) or 181(2)(b), continue after the cancellation of the unit plan.
-(5) If a person served with a notice under subsection (1) has made an application for relief under section 210 or has filed an application to have a matter relating to the resolution heard and determined under subpart 1 of Part 4, he or she must, by written notice to the appropriate decision-maker, withdraw that application before giving a notice of objection under this section.
+(5) If a person served with a notice under subsection (1) has filed an application to have a matter relating to the resolution heard and determined under subpart 1 of Part 4, he or she must, by written notice to the appropriate decision-maker, withdraw that application before giving a notice of objection under this section.
 (6) A mortgagee or other person with a registered interest in, or caveat or notice of claim entered on the register over, all or part of a secured property is to be treated as having consented to a resolution if that mortgagee or other person does not object to the resolution or does not file an objection in time or made an objection but the appropriate decision-maker confirmed the resolution.
 
 ### 214 Requirements in relation to objections
