@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-05_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -4118,7 +4118,7 @@ The purpose of this Part is to provide for the effective prevention, eradication
 
 ### 145 Emergency powers
 (1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
-(2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company formed and registered under the Companies Act 1955 or under any of the enactments referred to in the definition in section 2(1) of that Act of the term existing company) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
+(2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company (within the meaning of section 2(1) of the Companies Act 1993)) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
 
 ### 146 Duration of emergency
 (1) A declaration of biosecurity emergency ceases to have effect at the end of 4 months after it comes into force, unless subsection (2) or (5) applies.
