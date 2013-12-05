@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-09-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2700,7 +2700,7 @@ The nominated company for a consolidated group shall, in respect of that consoli
 
 ### 75 Notification of amalgamation to Commissioner
 Where an amalgamation occurs, the amalgamated company shall, within 63 working days of the date upon which—give notice to the Commissioner, in such form as the Commissioner may approve, detailing—
-  (a) documents evidencing the amalgamation are delivered to the Registrar of Companies for registration under Part 5A or Part 5C of the Companies Act 1955 or Part 13 or Part 15 of the Companies Act 1993; or
+  (a) documents evidencing the amalgamation are delivered to the Registrar of Companies for registration under Part 13 or Part 15 of the Companies Act 1993; or
   (ab) in the case of an amalgamation of building societies, the notice of the transfer of all engagements is registered under section 34(3) of the Building Societies Act 1965 or the Taxation (Tax Administration and Remedial Matters) Act 2011 receives the Royal assent (whichever is later); or
   (b) in the case of any amalgamation under section 24A of the Co-operative Dairy Companies Act 1949, the extraordinary resolution referred to in subsection (3)﻿(g) of that section is passed; or
   (c) in the case of any amalgamation occurring under foreign law, the equivalent procedure occurs under foreign law,—
@@ -2710,7 +2710,7 @@ Where an amalgamation occurs, the amalgamated company shall, within 63 working d
   (g) such other information as the Commissioner may require.
 
 ### 76 Amalgamated company to assume rights and obligations of amalgamating company
-Where any amalgamating company ceases to exist on an amalgamation, the amalgamated company shall, in accordance with section 209G of the Companies Act 1955 or section 225 of the Companies Act 1993,—
+Where any amalgamating company ceases to exist on an amalgamation, the amalgamated company shall, in accordance with section 225 of the Companies Act 1993,—
   (a) comply with all obligations of and meet all liabilities of, and be entitled to all rights, powers and privileges of, the amalgamating company under the Inland Revenue Acts with respect to the tax year in which the amalgamation occurs and all preceding tax years; and
   (b) in particular but without limitation, make a return of income in respect of the amalgamating company and the tax year in which the amalgamation takes place.
 
@@ -3401,19 +3401,19 @@ Despite section 81, the Commissioner may supply personal information about an id
 (2) For the purpose of this section, any authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time supply to the Commissioner any personal information supplied to that department by the Government of that country.
 (3) Where, in relation to any person, personal information is supplied in accordance with subsection (2) to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the person.
 (4) For the purpose of this section, where the Commissioner has information relating to the person, the Commissioner may supply to an authorised officer—
-  (a) any of the following information held by the Commissioner if that information is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Transitional Provisions) Act 1990:
+  (a) any of the following information held by the Commissioner if that information is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
     (i) the street address of the person; and
     (ii) the name and street address of the last known employer of the person; and
     (iii) where the result of a comparison carried out under subsection (3) indicates that the person is receiving, or has, during the previous tax year, received, any income from any source, the details of that income; and
     (iv) where the Commissioner knows the names and dates of birth of any dependent children of the person, those names and dates; and
-  (b) any other information held by the Commissioner that is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Transitional Provisions) Act 1990.
+  (b) any other information held by the Commissioner that is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 (5) Where the Commissioner has supplied information under subsection (4) to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964, the department may supply that information to the competent institution of the Government of the other country in accordance with the mutual assistance provision of the social security agreement.
 (6) The provisions of this section apply despite any other provision of this Act.
 (7) In this section, unless the context otherwise requires,—
   - **authorised officer** means any officer, employee, or agent of the department for the time being responsible for the administration of the Social Security Act 1964 who is authorised by the chief executive of that department to supply information or receive information from the Commissioner under this section
   - **personal information** means information that identifies an individual, which may include the individual's tax file number
   - **social security agreement** means an agreement or Convention or alteration to an agreement or Convention—
-    (a) in respect of which an Order in Council has been made under section 19 of the Social Welfare (Transitional Provisions) Act 1990; and
+    (a) in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990; and
     (b) that contains a mutual assistance provision of a kind referred to in section 19A(2)﻿(b) of that Act.
 
 ### 85C Use and supply of information supplied for purposes of section 85B
@@ -6847,7 +6847,7 @@ Every person who under this Act pays any tax for or on behalf of any other perso
     (i) paid to the person the salary or wages relating to the employee as required by sections RP 9 to RP 11 of the Income Tax Act 2007:
     (ii) provided the information required by the person as required by section RP 8(b) of that Act.
 (2C) For the purpose of applying this section to a person acting as a PAYE intermediary, a reference to an employer is to be read as a reference to a person acting as a PAYE intermediary.
-(3) This section shall apply notwithstanding anything in any other Act, and in particular section 308 of the Companies Act 1955 shall apply subject to this section.
+(3) This section shall apply notwithstanding anything in any other Act.
 (4) In this section—
   - **tax deduction** , or , does not include any late payment penalty or any shortfall penalty.
 
@@ -6883,7 +6883,7 @@ Every person who under this Act pays any tax for or on behalf of any other perso
 ### 170 Recovery of RWT
 (1) The amount of RWT withheld under the RWT rules by any person shall be held in trust for the Crown, and any amount so held in trust shall not be property of the person liable to execution, and, in the event of the bankruptcy or liquidation of the person or an assignment for the benefit of the person's creditors, shall remain apart, and form no part of the estate in bankruptcy, liquidation, or assignment.
 (2) The provisions of section 167(2) shall apply to any amount of RWT made in accordance with the RWT rules by any person as if it were tax to which that section refers and as if the person were the employer to which that section refers.
-(3) This section shall apply notwithstanding anything in any other Act, and in particular section 308 of the Companies Act 1955 shall apply subject to this section.
+(3) This section shall apply notwithstanding anything in any other Act.
 
 ### 171 Person failing to withhold RWT
 (1) Where a person fails to withhold RWT in accordance with that person's obligations under the RWT rules, the amount in respect of which default has been made shall constitute a debt payable by that person to the Commissioner, and shall be deemed to have become due and payable to the Commissioner on the day on which it would have been due to be paid to the Commissioner had the tax been correctly withheld.
