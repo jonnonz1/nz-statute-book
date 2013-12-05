@@ -1,5 +1,5 @@
 # Building Societies Amendment Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-05_
 
 > An Act to amend the Building Societies Act 1965
 
@@ -29,8 +29,7 @@ _Consolidation as at 2007-09-03_
 This section substituted ss 118 to 120 of the principal Act.
 
 ### 9 Transitional provisions applying to winding up of societies
-(1) Nothing in section 8 of this Act applies to or affects the winding up of a society commenced before the commencement of this Act or anything done by or in relation to a society under Part 6 of the Companies Act 1955 before the commencement of this Act, and sections 118, 119, and 120 of the principal Act and Part 6 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply in relation thereto as if this Act had not been passed.
-(2) In the liquidation of a society under Part 16 of the Companies Act 1993, nothing in any of sections 292 to 299 of that Act shall apply in relation to any transaction entered into by a society, or any matter that arose, before the commencement of this Act, but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply in respect of that transaction or matter as if this Act had not been passed.
+[Repealed]
 
 ### 10
 [Repealed]
