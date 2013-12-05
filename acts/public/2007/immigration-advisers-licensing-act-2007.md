@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -153,7 +153,7 @@ The following persons are exempt from the requirement to be licensed:
 ### 15 Persons prohibited from licensing
 (1) A person is prohibited from being licensed if he or she—
   (a) is an undischarged bankrupt; or
-  (b) is prohibited or disqualified under any of the provisions of sections 382, 383, or 385 of the Companies Act 1993 (or any corresponding provision of the Companies Act 1955) from managing a company; or
+  (b) is prohibited or disqualified under any of the provisions of sections 382, 383, or 385 of the Companies Act 1993 from managing a company; or
   (c) has been convicted of an offence against the Immigration Act 2009, the Immigration Act 1987, or the Immigration Act 1964; or
   (d) has been removed or deported from New Zealand under the Immigration Act 2009, the Immigration Act 1987, or the Immigration Act 1964; or
   (e) is unlawfully in New Zealand.
