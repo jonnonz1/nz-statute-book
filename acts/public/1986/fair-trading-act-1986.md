@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -158,7 +158,7 @@ No person shall, in trade, in connection with the supply or possible supply of g
   (a) the expressions broadcasting and broadcasting body shall have the same meanings as they have in section 2 of the Broadcasting Act 1976:
   (b) newspaper has the meaning given to that term by section 2 of the Films, Videos, and Publications Classification Act 1993:
   (ba) publisher, in relation to a newspaper, means its proprietor:
-  (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be), or if both of them are subsidiaries (within the meaning of those sections) of one and the same body corporate; and interconnected body corporate shall be construed accordingly.
+  (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of section 5 of the Companies Act 1993), or if both of them are subsidiaries (within the meaning of that section) of one and the same body corporate; and interconnected body corporate shall be construed accordingly.
 
 ### 16 Certain conduct in relation to trade marks prohibited
 (1) No person shall, in trade,—
