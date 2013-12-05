@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -491,7 +491,7 @@ Where any land is transferred to a transferee under this Act, the use of that la
 (2) Every Order in Council made for the purposes of this clause may be made on such terms and conditios as the Governor-General thinks fit, and shall have effect according to its tenor.
 
 ### 14 Shares issued for non-cash consideration
-Nothing in subsections (1)(b), (2), and (3) of section 60 of the Companies Act 1955 shall apply in respect of shares issued by a transferee consequent upon the transfer of assets, or assets and liabilities, to the transferee under this Act.
+[Repealed]
 
 ### 15 Transfer without consideration
 (1) Any agreement entered into under section 4 of this Act, or proposal approved under section 5 of this Act, may provide that any transferor or transferee is to transfer assets, or incur a liability, without receiving in return any, or an equivalent, asset.
