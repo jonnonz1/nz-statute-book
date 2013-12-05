@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -141,7 +141,7 @@ With respect to the property and funds of registered societies the following pro
     (iii) in any debentures, bonds, or Treasury bills issued by or on behalf of the Government under the authority of any Act:
     (iv) upon any other security expressly directed by the rules of the society:
   (b) the rules may provide for the advancing of money by the society to members on the security of real or personal property:
-  (c) the society may, if its rules so allow, invest any part of its capital in the shares or on the security of any other society registered under this Act or under the Building Societies Act 1965, or of any company registered under the Companies Act 1955 or the Companies Act 1993 or incorporated by Act or by charter, provided that no such investments shall be made in the shares of any society or company other than one with limited liability; and a society so investing may make such investment in its registered name, and shall be deemed to be a person within the meaning of those Acts:
+  (c) the society may, if its rules so allow, invest any part of its capital in the shares or on the security of any other society registered under this Act or under the Building Societies Act 1965, or of any company registered under the Companies Act 1993 or incorporated by Act or by charter, provided that no such investments shall be made in the shares of any society or company other than one with limited liability; and a society so investing may make such investment in its registered name, and shall be deemed to be a person within the meaning of those Acts:
   (d) any other body corporate may, if its regulations permit, hold shares by its corporate name in a society:
   (e) in the rules or any schedules thereto may be set forth the forms of conveyance, surrender, mortgage, transfer, agreement, bond, or other instrument necessary for carrying the purposes of the society into effect:
   (f) the profits of the society may be applied to any lawful purpose:
@@ -256,7 +256,7 @@ With respect to the inspection of the affairs of registered societies the follow
 (3) Any 2 or more societies may, by special resolution of both or all of them, become amalgamated together as 1 society, with or without any dissolution or division of the funds of the societies or any of them.
 (4) A society may, by special resolution, transfer its engagements to any other registered society that undertakes to fulfil the engagements of the society.
 (5) A society may, by special resolution, determine to apply to be registered as a company under the Companies Act 1993.
-(6) A society may, by special resolution, determine to amalgamate with or transfer its engagements to a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be.
+(6) A society may, by special resolution, determine to amalgamate with or transfer its engagements to a company registered under the Companies Act 1993.
 (7) A copy of every special resolution passed for any of the purposes referred to in subsections (1), (3), (4), or (6), signed by the chairperson of the meeting and countersigned by the secretary of the society, shall be sent to the Registrar, and be registered, and until it is registered, the special resolution shall not take effect.
 (8) A copy of every special resolution passed for the purposes of subsection (5) shall be sent or delivered to the Registrar of Companies together with the application for registration under section 12 of the Companies Act 1993.
 
