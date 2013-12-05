@@ -1,5 +1,5 @@
 # Insurance Intermediaries Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to effect certain reforms in the law governing insurance intermediaries
 
@@ -137,11 +137,11 @@ No money that is payable, or that has been paid, into an insurance broking clien
 ### 17 Distribution of insurance broking client account money on insolvency
 (1) This section applies to and in relation to a broker—
   (a) who has been adjudged bankrupt; or
-  (b) that is a company to which section 199N(1) of the Companies Act 1955 or section 385(1) of the Companies Act 1993 applies; or
+  (b) that is a company to which section 385(1) of the Companies Act 1993 applies; or
   (c) who is deceased and whose estate is being administered under Part 6 of the Insolvency Act 2006; or
   (d) that is a corporation or an associated person or a subsidiary of a corporation to which an Order in Council made under section 38 of the Corporations (Investigation and Management) Act 1989 applies; or
   (e) that is a registered bank or an associated person of a registered bank or a subsidiary of a registered bank to which an Order in Council made under section 117 of the Reserve Bank of New Zealand Act 1989 applies.
-(2) This section applies notwithstanding anything to the contrary contained in the Insolvency Act 1967 or the Insolvency Act 2006 or the Companies Act 1955 or the Companies Act 1993.
+(2) This section applies notwithstanding anything to the contrary contained in the Insolvency Act 1967 or the Insolvency Act 2006 or the Companies Act 1993.
 (3) Money in an insurance broking client account of a broker, and property in which money has been invested, shall be treated as though it was subject to a trust in favour of the persons entitled to the money or property, as the case may be.
 (4) Money from such an account shall be paid as follows:
   (a) first, money that has been paid into the account in error shall be withdrawn from the account:
