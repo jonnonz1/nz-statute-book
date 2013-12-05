@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-11-11_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -175,7 +175,7 @@ The court shall also have within New Zealand all the jurisdiction and control ov
 ### 17A Jurisdiction as to liquidation of associations
 (1) In this section, association includes any partnership, company, or other body corporate, or unincorporated body of persons other than—
   (a) a company or an overseas company, as defined in section 2 of the Companies Act 1993; or
-  (b) a company as defined in section 2 of the Companies Act 1955; or
+  (b)
   (c) a body corporate that may be put into liquidation in accordance with the provisions of any Act under which it is constituted.
 (2) The court has jurisdiction to appoint a named person or an Official Assignee for a named district as the liquidator of an association.
 (3) An application for the appointment of a liquidator may be made by the association or a director or member or creditor or the Registrar of Companies.
@@ -291,11 +291,11 @@ The Governor-General in Council may from time to time appoint special sittings o
   (c) appeals against determinations of the Commerce Commission:
   (d) proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
   (e) cases stated by the Financial Markets Authority, and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
-  (f) the following proceedings in relation to companies registered under the Companies Act 1955 or the Companies Act 1993, as the case may be:
+  (f) the following proceedings in relation to companies registered under the Companies Act 1993:
     (i) applications for directions by liquidators and receivers:
-    (ii) defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
+    (ii) defended applications under section 174 of the Companies Act 1993:
     (iii) disputes relating to takeovers:
-    (iv) disputes between shareholders or classes of shareholders of companies (other than companies registered under Part 8 of the Companies Act 1955 and companies registered under the Companies Act 1993 and having not more than 25 shareholders):
+    (iv) disputes between shareholders or classes of shareholders of companies (other than companies having not more than 25 shareholders):
   (g) proceedings of a commercial nature required or permitted to be entered on a commercial list by or under any Act or by or under the High Court Rules or any rules made under section 51C of this Act.
 (2) Where any appeal belonging to the class of appeals described in subsection (1)(c) is entered on a commercial list,—
   (a) that appeal shall, notwithstanding section 75(2) of the Commerce Act 1986, be heard and determined by the court; and
@@ -410,9 +410,9 @@ For the purpose of providing a superannuation fund or retiring allowance for per
   (f) any other matter in respect of which jurisdiction is conferred on an Associate Judge by or under any Act.
 (2) An Associate Judge shall have and may exercise all the jurisdiction and powers which are vested in the court or a Judge by the following enactments:
   (a) article 11 of Schedule 1 of the Arbitration Act 1996:
-  (b) sections 205 to 207 of the Companies Act 1955, as applied to compromises and arrangements by section 35 of the Companies Amendment Act 1993:
-  (c) sections 220 to 222, 226, 231(4), 233 to 237, 239, 240(1)(a), 246 to 249, 250 to 263, 265 to 267, 311A, 311B, 312, and 332 of the Companies Act 1955, as applied in relation to the winding up of a company by section 42(1) of the Companies Amendment Act 1993:
-  (d) sections 139, 168, 209N to 209P, 209R to 209T, 209X to 209ZA, 209ZF, 211, 213, 216 to 218, 220, 231(2), 235(5), 240, 243, 258, 260, 264, 265, 268 to 270, 281, 288, and 467 of the Companies Act 1955, as continued in force by section 3 of the Companies Act Repeal Act 1993:
+  (b)
+  (c)
+  (d)
   (e) sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, Part 16, and section 329 of the Companies Act 1993:
   (f) rules 39, 41, 71, 87 to 89, 91, 94, 95, 96, 111, 125(3), 136, 137, 141 to 143, 190, and 191 of the Companies (Winding Up) Rules 1956, as continued in force by section 42(7) of the Companies Amendment Act 1993:
   (g) section 42(2) of the Corporations (Investigation and Management) Act 1989:
@@ -420,7 +420,7 @@ For the purpose of providing a superannuation fund or retiring allowance for per
   (ha) the Insolvency Act 2006 (except sections 150, 166(3), 180, and 236(2)):
   (hb) any regulations or rules made under the Insolvency Act 2006:
   (i) rules 41 and 43 of the Insolvency Rules 1970:
-  (j) any regulations relating to liquidations made under the Companies Act 1955 or under the Companies Act 1993:
+  (j) any regulations relating to liquidations made under the Companies Act 1993:
   (k) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
   (l) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006.
 (3) An Associate Judge shall have and may exercise all the jurisdiction and powers of the court to deal with costs and other matters incidental to the matters over which an Associate Judge has jurisdiction pursuant to subsection (1) or subsection (2).
