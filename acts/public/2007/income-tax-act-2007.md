@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2013-11-21_
+_Consolidation as at 2013-12-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3565,7 +3565,7 @@ Meaning of overseas pension
 (2) In this section, overseas pension means—
   (a) an overseas pension, to the extent of sums subtracted under section 70 of the Social Security Act 1964, by the department currently responsible for administering that Act, from—
     (i) a monetary benefit paid under that Act; or
-    (ii) a monetary benefit, other than New Zealand superannuation or a veteran’s pension, paid under the Social Welfare (Transitional Provisions) Act 1990:
+    (ii) a monetary benefit, other than New Zealand superannuation or a veteran’s pension, paid under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
   (b) an overseas pension to the extent to which it is subject to an arrangement under section 70(3) of the Social Security Act 1964.
 
 ### CW 29 Reinvested amounts from foreign superannuation schemes in Australia
@@ -18509,7 +18509,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
     (iii) of a kind that is declared by the Governor-General by Order in Council to be a social assistance suspensory loan; and
   (d) a financial arrangement is deemed to be remitted where—
     (i) the issuer has been discharged from making all remaining payments under that financial arrangement without fully adequate consideration; or
-    (ii) the issuer has been released from making all remaining payments under that financial arrangement by the operation of the Insolvency Act 2006 or the Companies Act 1955 or the Companies Act 1993 or the laws of any country or territory other than New Zealand, or by any deed or agreement of composition with its creditors; or
+    (ii) the issuer has been released from making all remaining payments under that financial arrangement by the operation of the Insolvency Act 2006 or the Companies Act 1993 or the laws of any country or territory other than New Zealand, or by any deed or agreement of composition with its creditors; or
     (iii) all of the remaining payments under the financial arrangement have become irrecoverable or unenforceable by action through the lapse of time; or
     (iv) the financial arrangement is a debt that is sold at a discount to a person associated with the debtor under the circumstances described in section EZ 41; and
   (e) where a person ceases to be a New Zealand resident any financial arrangement in relation to which that person is an issuer or a holder is deemed, in relation to the person, to have been transferred for its market value at that date.
@@ -21301,7 +21301,7 @@ Companies opting out
 When this section applies
 (1) This section applies when an amalgamating company ends its existence on amalgamation.
 Amalgamated company assuming rights, obligations, and liabilities
-(2) For the tax year corresponding to the income year of amalgamation and all earlier tax years, the amalgamated company, under section 209G of the Companies Act 1955 or section 225 of the Companies Act 1993, or under this section in the case of an amalgamation of building societies,—
+(2) For the tax year corresponding to the income year of amalgamation and all earlier tax years, the amalgamated company, under section 225 of the Companies Act 1993, or under this section in the case of an amalgamation of building societies,—
   (a) must comply with the obligations of the amalgamating company under the Inland Revenue Acts; and
   (b) must meet the liabilities of the amalgamating company under the Inland Revenue Acts; and
   (c) is entitled to the rights, powers, and privileges of the amalgamating company under the Inland Revenue Acts.
@@ -28482,7 +28482,7 @@ Relationship with section OZ 12
 Class of shares
 (1) The payment of a supplementary dividend on only some shares in a class of shares does not constitute a breach of—
   (a) section 53 of the Companies Act 1993; or
-  (b) the company’s constitution or its articles of association, unless the provision expressly refers to this subsection; or
+  (b) the company’s constitution, unless the provision expressly refers to this subsection; or
   (c) any other provision.
 Trusts
 (2) If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee’s distribution of a supplementary dividend does not breach the terms of the trust.
@@ -39298,11 +39298,11 @@ In this Act, unless the context requires otherwise,—
   - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under—
     (a) section 26(2)(a) of the New Zealand Superannuation and Retirement Income Act 2001, or under section 26(2)(b) where the superannuitant is residing in a country to which section 26(1)(a) of that Act applies; or
     (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+    (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
   - **portable veteran’s pension** means a veteran's pension paid or payable overseas under—
     (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
     (b) section 74O of the War Pensions Act 1954; or
-    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+    (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
   - **portfolio allocation period**
   - **portfolio calculation period**
   - **portfolio class fraction**
