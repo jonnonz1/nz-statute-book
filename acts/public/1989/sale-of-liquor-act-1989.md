@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -1241,7 +1241,7 @@ To avoid doubt, an offence committed under Part 5 of the Rugby World Cup 2011 (E
   (b) the error of law alleged by the appellant; and
   (c) the question of law to be resolved; and
   (d) the grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
-(5) The Secretary of the Licensing Authority shall, as soon as is practicable after receiving a copy of the notice of appeal, send a copy of the whole of the determination appealed from to the Registrar of the High Court .
+(5) The Secretary of the Licensing Authority shall, as soon as is practicable after receiving a copy of the notice of appeal, send a copy of the whole of the determination appealed from to the Registrar of the High Court.
 
 ### 141 Right to appear and be heard on appeals
 (1) Any party to the proceedings before the Licensing Authority who wishes to appear and be heard on the hearing of the appeal shall, within 7 working days after the date of the service on that party of a copy of the notice of appeal, lodge with the Registrar of the High Court a notice of that party's intention to appear and be heard.
@@ -1265,14 +1265,14 @@ The High Court may dismiss any appeal under section 139—
   (b) if the appellant does not prosecute the appeal with all due diligence and any party applies to the court for the dismissal of the appeal.
 
 ### 144 Appeal in respect of additional points of law
-(1) Where any party to an appeal under section 139 other than the appellant wishes to contend at the hearing of the appeal that the determination appealed from is erroneous in point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court .
+(1) Where any party to an appeal under section 139 other than the appellant wishes to contend at the hearing of the appeal that the determination appealed from is erroneous in point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court.
 (2) The provisions of section 139, subsections (2) to (4) of section 140, and sections 142, 143, 145, and 146 shall apply, with such modifications as may be necessary, to any notice lodged under this section as if it were a notice of appeal.
 
 ### 145 Extension of time
 The High Court or a Judge of the High Court may, on the application of the appellant, or intending appellant, or any other party, extend any time prescribed or allowed under any of the provisions of sections 140 to 144 for the lodging of any notice, application, or other document.
 
 ### 146 Date of hearing
-When any party to the appeal notifies the Registrar of the High Court —the appeal shall be, in all respects, ready for hearing and the Registrar shall arrange a date for the hearing as soon as is practicable.
+When any party to the appeal notifies the Registrar of the High Court—the appeal shall be, in all respects, ready for hearing and the Registrar shall arrange a date for the hearing as soon as is practicable.
   (a) that the notice of appeal has been served on all parties to the proceedings; and
   (b) either—
     (i) that no application has been lodged under section 142 and that no order has been made under that section; or
@@ -1384,7 +1384,7 @@ Subsections (1) and (2) of section 155 do not apply to the supply of liquor on l
     (ii) cleaning, repairing, maintaining, altering, or restocking the area or any equipment in the area; or
     (iii) removing or replacing any such equipment; or
     (iv) stocktaking; or
-    (v) checking or removing cash; or
+    (v) checking or removing cash.
   (b)
 
 ### 162 Purchasing of liquor by minors
@@ -1762,7 +1762,7 @@ Subject to this Part and to any regulations made under this Act, and subject to 
 ### 206 Books of account
 A licensing trust shall cause books to be provided and kept, and true and regular accounts to be entered in the books of all sums of money received and paid, and of the several purposes for which sums of money have been received and paid.
 
-### 207 Yearly statement of financial position and statements
+### 207 Yearly balance sheet and statements
 (1) On or before 30 June in each year, a licensing trust must prepare—
   (a) a yearly balance sheet and a profit and loss account; and
   (b) such other statements of account as may be necessary to show fully the financial position of the licensing trust and the financial results of its operations; and
@@ -1774,7 +1774,7 @@ A licensing trust shall cause books to be provided and kept, and true and regula
   (a) be prepared in accordance with generally accepted accounting practice; and
   (b) relate to the financial year ended on 31 March preceding the date by which they must be prepared.
 (2) Every licensing trust is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(3) The yearly statement of financial position, statement of financial performance, and statements, when duly audited, shall be open for public inspection.
+(3) The yearly balance sheet, profit and loss account, and statements, when duly audited, shall be open for public inspection.
 (4) A licensing trust shall, at least once in each year, publish in a newspaper or newspapers circulating in the trust district a summary of the audited accounts, together with a list of all the grants made during the financial year pursuant to section 189.
 
 ### 207A Annual meeting of electors
@@ -1856,7 +1856,7 @@ Unless and until the competition proposal is carried in respect of any licensing
   (c) no licence shall be granted in respect of any premises outside the trust district, or in respect of any conveyance operated in whole or in part outside the trust district, to—
     (i) the licensing trust; or
     (ii) any person on behalf of the licensing trust or in respect of any premises or conveyance in which the licensing trust has any estate or interest; or
-    (iii) any company registered under the Companies Act 1955 in which the licensing trust holds any of the equity share capital (within the meaning of section 158(5) of that Act); or
+    (iii)
     (iiia) any company registered under the Companies Act 1993 in which the licensing trust holds any of the issued shares (other than shares that carry no right to participate beyond a specified amount in the distribution of either profits or capital); or
     (iiib) any company in which the licensing trust has the power to appoint any director; or
     (iv) any trustee or trustees of a trust in respect of which the licensing trust has the power to appoint any trustee; or
@@ -2028,8 +2028,8 @@ The following persons are not capable of being elected or of holding office as a
     (i) who has not obtained a final order of discharge; or
     (ii) whose order of discharge has been suspended for a term not yet expired or is subject to a condition not yet fulfilled:
   (b) a person who has been convicted within the last 3 years of a criminal offence punishable by imprisonment:
-  (c) a person who would be subject to an order under section 189 of the Companies Act 1955 (as in force immediately before the commencement of the Companies Amendment Act 1993) but for the repeal of that section:
-  (d) a person to whom an order made under section 199L of the Companies Act 1955 applies (or would apply but for the repeal of that Act) or to whom an order made under section 383 of the Companies Act 1993 applies:
+  (c)
+  (d) a person to whom an order made under section 383 of the Companies Act 1993 applies:
   (e)
   (f) any person who is the subject of an order under the Protection of Personal and Property Rights Act 1988.
 
