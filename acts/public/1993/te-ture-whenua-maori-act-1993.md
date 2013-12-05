@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -2758,7 +2758,7 @@ No shareholder in a Maori incorporation shall have any personal liability, wheth
 (2) The powers of the committee of management may be exercised by a majority of the members for the time being in office, but no decision of the committee shall be effective unless at least 3 members concur in it.
 (3) The common seal of the incorporation may be affixed to any instrument in the presence of any 2 members of the committee of management.
 (4) The 2 members of the committee of management shall sign the instrument to which the seal is affixed.
-(5) The provisions of section 42 of the Companies Act 1955 as to the form of contracts shall apply to a Maori incorporation as if the incorporation were a limited liability company duly incorporated under the provisions of that Act.
+(5) The provisions of section 180 of the Companies Act 1993 as to the method of contracting apply to a Maori incorporation as if the incorporation were a limited liability company duly incorporated under the provisions of that Act.
 (6) The committee of management of a Maori incorporation shall comply with the terms and conditions of any resolution relating to the powers and functions of the incorporation passed at a general meeting of the shareholders of the incorporation.
 (7) No loan shall be granted by a Maori incorporation to any person who is a member of its committee of management.
 
