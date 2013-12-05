@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -130,7 +130,7 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
   (a) has consulted the trustee and the iwi aquaculture organisations, mandated iwi organisations, or recognised iwi organisations with whom the regional agreement under section 10 is being negotiated; and
   (b) is satisfied that reasonable steps have been taken to negotiate an agreement and that the proposed extension is likely to enable a regional agreement under section 10 in respect of the initial settlement period to be entered into.
 (5) If, at the conclusion of the relevant period specified in subsection (2) (or any extension), there is no regional agreement under section 10 that relates to settlement in a region, the Crown must—
-  (a) arrange, in accordance with section 14, for authorisations in any relevant aquaculture settlement areas in the region to be provided to the trustee in accordance with section 9(1)(a); but
+  (a) arrange, in accordance with section 13, for authorisations in any relevant aquaculture settlement areas in the region to be provided to the trustee in accordance with section 9(1)(a); but
   (b) if insufficient authorisations are available to be provided to the trustee to meet the Crown’s obligations as set out in section 9, pay the difference to the trustee in accordance with section 9(1)(b).
 
 ### 12 Gazetting space for settlement purposes
