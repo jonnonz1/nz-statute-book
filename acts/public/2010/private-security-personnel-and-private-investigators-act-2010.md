@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -451,14 +451,12 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 
 ### 48 Notice of application for certificate of approval
 (1) The Licensing Authority must serve on the Police a notice of every application for a certificate of approval and the information contained in it.
-(2) The application must not be heard before the expiry of 1 month after subsection (1) has been complied with.
+(2) The application must not be heard before the expiry of 7 days after subsection (1) has been complied with.
 
 **Objections**
 
 ### 49 Objections by Police to application for certificate of approval
-(1) The Police may file with the Licensing Authority a notice of objection to the grant of an application for a certificate of approval—
-  (a) within 1 month after notice of the application has been served on them (if the applicant's employer, on the same date as the application for the certificate of approval was made, applied under section 24 or 25 for a licence); or
-  (b) within 7 days after the notice is served on them (in any other case).
+(1) The Police may file with the Licensing Authority a notice of objection to the grant of an application for a certificate of approval within 7 days after notice of the application is served on them.
 (2) The notice must state the grounds of the objection.
 (3) The Licensing Authority must serve a copy of the notice of objection on the applicant within 7 days after it is filed with the Licensing Authority.
 
@@ -1069,7 +1067,7 @@ A person who commits an offence under this Act, or against any regulations made 
 (2) No person who does not hold a licence or certificate of approval as a class of person to whom this section applies may, with the intention of misleading any other person to believe that he or she is the holder of a licence or certificate of approval,—
   (a) put on, or assume, any dress indicating that he or she is a person of that class; or
   (b) wear any insignia indicating that he or she is a person of that class.
-(3) Every person who contravenes subsection (1) commits an offence against this Act.
+(3) Every person who contravenes subsection (2) commits an offence against this Act.
 
 ### 111 Lost licences and certificates of approval
 If the Licensing Authority is satisfied that a holder of a licence or certificate of approval has lost his or her licence or certificate of approval the Licensing Authority may issue to the holder a substitute license or certificate of approval—
