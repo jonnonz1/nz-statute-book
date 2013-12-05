@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -84,7 +84,7 @@ This Act binds the Crown.
 (2) A person is qualified to be appointed or reappointed as a Referee only if—
   (a) that person is capable, by reason of that person's personal attributes, knowledge, and experience, of performing the functions of a Referee; and
   (b) that person has been recommended for appointment or reappointment, as the case may require, in accordance with section 8.
-(3) Subject to subsection (4), every person appointed as a Referee shall hold office for a term of 3 years and, subject to subsection (2), may, from time to time, be reappointed.
+(3) Subject to subsection (4), every person appointed as a Referee shall hold office for a term not exceeding 5 years and, subject to subsection (2), may, from time to time, be reappointed.
 (4) A Referee may at any time be removed from office by the Governor-General for disability affecting the performance of duty, bankruptcy, neglect of duty, inability, or misconduct, proved to the satisfaction of the Governor-General, or may at any time resign the office of Referee by notice in writing addressed to the Minister.
 (5) A Referee may—that, in the opinion of the Governor-General, will not impair the proper discharge of the functions of a Referee.
   (a) hold any other office; and
