@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1035,7 +1035,7 @@ In this Part, unless the context otherwise requires, Minister means any Minister
   (a)
   (b) a network operator within the meaning of section 5 of the Telecommunications Act 2001; or
   (ba) a network utility operator within the meaning of section 166 of the Resource Management Act 1991 which has approval as a requiring authority under section 167 of that Act; or
-  (c) the Airways Corporation of New Zealand Limited, a company incorporated under the Companies Act 1955 pursuant to the State-Owned Enterprises Act 1986.
+  (c) the Airways Corporation of New Zealand Limited, a company that is a State enterprise under the State-Owned Enterprises Act 1986.
 (2) Where a developer wishes to undertake a survey or other investigation on any land for the purpose of gathering information necessary for any application for any right, designation, consent, or permit, or for the preparation of any report, required for any proposed development, the developer may, upon giving the owner and occupier of the land not less than 10 working days' notice of its intention to do so, apply to the District Court for an order under this section.
 (3) On being satisfied that the proposed survey or investigation is necessary for the purposes of the proposed development, that the proposed development may properly be undertaken by the developer, and that the developer has taken all reasonable steps to negotiate an agreement for entry, the court may make an order authorising the developer to:
   (a) enter and re-enter the land at reasonable times, with or without such assistants, aircraft, boats, vehicles, appliances, machinery, and equipment as are reasonably necessary for making any kind of survey or investigation:
@@ -1810,7 +1810,7 @@ It shall be lawful and shall be deemed to have always been lawful for the Crown 
 [Repealed]
 
 ### 226 Shares in building-unit companies
-(1) In this section, building-unit company means a company registered under the Companies Act 1955 or the Companies Act 1993 the articles of association or the constitution, as the case may be, of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy a specified portion of a building owned by the company.
+(1) In this section, building-unit company means a company registered under the Companies Act 1993 the constitution of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy a specified portion of a building owned by the company.
 (2) On behalf of the Crown the Minister of Lands may purchase and shall be deemed always to have had the power to purchase any shares in the capital of any building-unit company, and may hold, sell, or otherwise dispose of the shares.
 (3) The Minister of Lands may from time to time exercise on behalf of the Crown all its rights, powers, and privileges as the holder of any such shares.
 
