@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -491,10 +491,10 @@ Except as provided in sections 54 and 55, nothing in this Act shall affect the l
   (b) issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order (not being a judgment or order given under this Act) against the person in respect of whom the application is made; or
   (c) enter into possession, sell, appoint a receiver, or take or continue any power or right under or in pursuance of any mortgage, charge, instrument, or other security over the property of the person in respect of whom the application is made; or
   (d) determine or forfeit any tenancy, retake or re-enter any premises, or take or continue any power or right under or in pursuance of any lease, tenancy, or agreement to let or lease against the property of the person in respect of whom the application is made.
-(2) This section shall also apply to a company and its property, and to any subsidiary of a company and the subsidiary's property, where the person in respect of whom the application is made is a member of the company and holds more than 50% of its equity share capital or issued shares, as the case may be.
+(2) This section shall also apply to a company and its property, and to any subsidiary of a company and the subsidiary's property, where the person in respect of whom the application is made is a member of the company and holds more than 50% of its issued shares.
 (3) For the purposes of subsection (2),—
-  (a) in the case of a company registered under the Companies Act 1955, the terms company, subsidiary, and equity share capital shall have the meanings assigned to them by sections 158 and 158A of the Companies Act 1955:
-  (b) in the case of a company registered under the Companies Act 1993, the terms company and subsidiary shall have the meanings assigned to them by sections 5 and 6 of the Companies Act 1993.
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993.
 
 ### 58 Notional preservation of character of assets converted
 (1) Where any property (including money) is derived from any sale, mortgage, charge, or other disposition of any other property belonging to a person subject to a property order pursuant to any powers conferred by or under this Act or any former corresponding Act, the person whose property is so disposed of, and anyone claiming through that person, shall have the same interest in the property so derived, so far as it has not been applied or spent or disposed of in accordance with any powers so conferred, as he or she would have had in the property disposed of if no disposition had been made, and the surplus property so derived shall be deemed to be of the same nature as the property disposed of.
