@@ -1,5 +1,5 @@
 # Radio New Zealand Act 1995
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-12-05_
 
 > An Act to facilitate the restructuring of Radio New Zealand Limited
 
@@ -10,7 +10,7 @@ _Consolidation as at 2013-07-18_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Charter** means the Charter of the public radio company as expressed in section 7
-  - **constitution** means the articles of association and the memorandum of association of the public radio company while the public radio company is registered under the Companies Act 1955, and the constitution of the public radio company when the public radio company is registered under the Companies Act 1993
+  - **constitution** means the constitution (within the meaning of the Companies Act 1993) of the public radio company
   - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **existing company** means the company that, at the commencement of this Act, is the State enterprise known as Radio New Zealand Limited
   - **governor** means any person who is appointed as a director of the public radio company in accordance with section 14
@@ -142,7 +142,7 @@ This Act binds the Crown.
 (2) The change of names—
   (a) takes effect from the date of the certificate issued under subsection (1); and
   (b) subject to sections 20 and 21, does not affect rights or obligations of either of the companies or legal proceedings by or against either of the companies, and legal proceedings that have or might have been commenced against either company under its former name may be continued or commenced against it under its new name.
-(3) Nothing in this section prevents the name of either company being changed in accordance with the provisions of the Companies Act 1955 or the Companies Act 1993.
+(3) Nothing in this section prevents the name of either company being changed in accordance with the provisions of the Companies Act 1993.
 
 ### 20 Amendments to other enactments
 The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
