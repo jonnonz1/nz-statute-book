@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -99,7 +99,7 @@ _Consolidation as at 2013-07-01_
   (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them is held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
   (d) the businesses of the companies have been so carried on that the separate business of each company, or a substantial part of it, is not readily identifiable; or
   (e) there is another company to which both companies are related;—
-(4) For the purposes of subsection (3), a company within the meaning of section 2 of the Companies Act 1955 is related to another company if, were it a company within the meaning of subsection (1) of this section, it would be related to that other company.
+(4)
 (5) A reference in this Act to an address means,—
   (a) in relation to an individual, the full address of the place where that person usually lives:
   (b) in relation to a body corporate, its registered office or, if it does not have a registered office, its principal place of business.
@@ -150,7 +150,7 @@ _Consolidation as at 2013-07-01_
 (3) In this section and sections 7 and 8, the expression company includes a body corporate.
 
 ### 6 Extended meaning of subsidiary
-For the purposes of this Act, a company within the meaning of section 2 of the Companies Act 1955 is a subsidiary of another company if, were it a company within the meaning of section 2 of this Act, it would be a subsidiary of that other company.
+[Repealed]
 
 ### 7 Control defined
 For the purposes of section 5, without limiting the circumstances in which the composition of a company's board is to be taken to be controlled by another company, the composition of the board is to be taken to be so controlled if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if—
@@ -269,8 +269,8 @@ The registered name of a company must end with the word Limited or the words Tā
 (1) An application for reservation of the name of a company must be sent or delivered to the Registrar, and must be in the prescribed form.
 (2) The Registrar must not reserve a name—
   (a) the use of which would contravene an enactment; or
-  (b) that is identical or almost identical to the name of another company or another company under the Companies Act 1955; or
-  (c) that is identical or almost identical to a name that the Registrar has already reserved under this Act or the Companies Act 1955 and that is still available for registration; or
+  (b) that is identical or almost identical to the name of another company; or
+  (c) that is identical or almost identical to a name that the Registrar has already reserved under this Act and that is still available for registration; or
   (d) that, in the opinion of the Registrar, is offensive.
 (3) The Registrar must advise the applicant by notice in writing—
   (a) whether or not the Registrar has reserved the name; and
@@ -1639,9 +1639,9 @@ A company must have at least 1 director.
 (2) The following persons are disqualified from being appointed or holding office as a director of a company:
   (a) a person who is under 18 years of age:
   (b) a person who is an undischarged bankrupt:
-  (ba) a person who would, but for the repeal of section 188A or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or being concerned or taking part in the management of, a company within the meaning of that Act:
-  (c) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 199K or section 199L of the Companies Act 1955 or who would be so prohibited but for the repeal of that Act:
-  (d) a person who is prohibited from being an officer or promoter of or being concerned or taking part in the management of a company under section 199N of the Companies Act 1955 or who would be so prohibited but for the repeal of that Act:
+  (ba)
+  (c)
+  (d)
   (e) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382 or section 383 or section 385:
   (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978 or the Securities Markets Act 1988 or the Takeovers Act 1993:
   (eb) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
@@ -4279,9 +4279,9 @@ The expenses and remuneration of the liquidator are payable out of the assets of
   (f) a person in respect of whom an order has been made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
   (g) a person in respect of whom an order has been made under section 286(5):
   (h) a person in respect of whom an order has been made under section 37(6) of the Receiverships Act 1993:
-  (ha) a person who would, but for the repeal of section 188A or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or being concerned or taking part in the management of, a company within the meaning of that Act:
-  (i) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 199K or section 199L of the Companies Act 1955 or who would be so prohibited but for the repeal of that Act:
-  (j) a person who is prohibited from being an officer or promoter of, or being concerned or taking part in the management of, a company under section 199N of the Companies Act 1955 or who would be so prohibited but for the repeal of that Act:
+  (ha)
+  (i)
+  (j)
   (k) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382 or section 383 or section 385:
   (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
   (l) a person who is prohibited under section 299(1)(c) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
@@ -4875,7 +4875,7 @@ The variation or revocation of a declaration under section 310K does not affect 
 **Transitional provisions**
 
 ### 316A Transitional provision in relation to voidable transactions
-Where an existing company that reregisters as a company under this Act is put into liquidation, nothing in sections 292 to 299 shall apply in relation to any transaction entered into by the company before the commencement of this Act; but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force immediately before the commencement of this Act, shall continue to apply in respect of the transaction or matter as if this Act had not been passed.
+[Repealed]
 
 ### 316B Transitional provision in relation to Liquidation Surplus Account under section 290 of Companies Act 1955
 On the repeal of the Companies Act 1955 by section 2 of the Companies Act Repeal Act 1993,—
@@ -5108,7 +5108,7 @@ For the purposes of this Part,—
 
 ### 333 Name to be reserved before carrying on business
 (1) An overseas company must not carry on business in New Zealand on or after the commencement of this Act unless the name of the overseas company has been reserved.
-(2) Subsection (1) does not apply to an overseas company that, immediately before the commencement of this Act, is registered under Part 12 of the Companies Act 1955.
+(2)
 (3) An overseas company registered under this Part that carries on business in New Zealand must not change its name unless the name has first been reserved.
 (4) The provisions of sections 20, 21, and 22 apply subject to any necessary modifications to the reservation of the name of an overseas company, including reservation on a change of name, in the same way as they apply to the registration of companies under this Act and to the change of names of companies registered under this Act.
 (5) If an overseas company contravenes this section,—
@@ -5679,7 +5679,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 ### 382 Persons prohibited from managing companies
 (1) Where—that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the court which may be given on such terms and conditions as the court thinks fit.
   (a) a person has been convicted under any of subparagraphs (g) to (j) of section 373(4) of any offence in connection with the promotion, formation, or management of a company; or
-  (b) a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+  (b) a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961,—
   (c)
 (2) A person intending to apply for the leave of the court under this section shall give to the Registrar not less than 10 days' notice of that person's intention to apply.
 (3) The Registrar, and such other persons as the court thinks fit, may attend and be heard at the hearing of any application under this section.
@@ -5924,6 +5924,21 @@ Amendment(s) incorporated in the Act(s).
 (2) In this section,—
   - **Aircraft Protocol** has the same meaning as in section 104(1) of the Civil Aviation Act 1990
   - **Cape Town Convention** has the same meaning as in section 104(1) of the Civil Aviation Act 1990.
+
+### 399 Companies Act 1955 continues to apply for limited purposes
+(1) The Companies Act 1955 continues to apply in respect of every winding up or liquidation of a company commenced before the close of 30 June 1997.
+(2) Section 42(3) to (7) of the Companies Amendment Act 1993 continue to apply in respect of every company to which those subsections applied immediately before the repeal of the Companies Act 1955.
+(3) Part 6A of the Companies Act 1955 continues to apply in respect of every company that, immediately before the repeal of that Act, was subject to any action under that Part of that Act to remove the company from the register, or had been removed from the register.
+(4) Subsections (1) to (3) apply despite the repeal of the Companies Act 1955 by the Companies Act Repeal Act 1993.
+(5) Nothing in subsection (1) applies in relation to section 290 of the Companies Act 1955.
+(6) In this section and section 400, company and register have the same meanings as those terms had under the Companies Act 1955 immediately before its repeal.
+
+### 400 Companies restored to register or that have ceased to be in liquidation may be reregistered
+(1) This section applies to a company that, but for the repeal of the Companies Reregistration Act 1993, would have been deemed to have been reregistered under this Act in accordance with section 13A or 13B of the Companies Reregistration Act 1993 (which relate to companies that have been restored to the register or that have ceased to be in liquidation).
+(2) Sections 12 and 13A to 15 and the Schedule of the Companies Reregistration Act 1993 continue to apply to the company as if the Companies Amendment Act 2013 had not been enacted.
+
+### 401 References to companies incorporated under Companies Act 1955
+A reference in any enactment to a company incorporated under the Companies Act 1955 or to which that Act applies must, unless the context otherwise requires, be read as including a company registered under this Act or to which this Act applies.
 
 ## Schedule 1 — Proceedings at meetings of shareholders
 
