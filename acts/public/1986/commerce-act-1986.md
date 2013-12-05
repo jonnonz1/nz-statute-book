@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -124,11 +124,11 @@ The purpose of this Act is to promote competition in markets for the long-term b
   (b) a reference to making or entering into a contract, in relation to such a lease or licence, shall be read as a reference to granting or taking the lease or licence:
   (c) a reference to a party to a contract, in relation to such a lease or licence, shall be read as including a reference to any person bound by, or entitled to the benefit of, any provision contained in the lease or licence.
 (7) For the purposes of this Act, any 2 bodies corporate are to be treated as interconnected if—and interconnected bodies corporate has a corresponding meaning.
-  (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be); or
-  (b) both of them are subsidiaries (within the meaning of those sections) of the same body corporate; or
+  (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 5 of the Companies Act 1993); or
+  (b) both of them are subsidiaries (within the meaning of that section) of the same body corporate; or
   (ba) both of them are entities referred to by any of the paragraphs (other than paragraph (e)) of the definition of transferor in section 2(1) of the Health Sector (Transfers) Act 1993; or
   (c) both of them are interconnected with bodies corporate that, in accordance with paragraph (a) or paragraph (b), are interconnected—
-(7A) For the purposes of subsection (7)(a) and (b), no body corporate shall be regarded as a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be) of the Crown.
+(7A) For the purposes of subsection (7)(a) and (b), no body corporate may be regarded as a subsidiary (within the meaning of section 5 of the Companies Act 1993) of the Crown.
 (8) For the purposes of this Act—
   (a) any contract or arrangement entered into, or understanding arrived at by an association or body of persons, shall be deemed to have been entered into or arrived at by all the persons who are members of the association or body:
   (b) any recommendation made by an association or body of persons to its members or to any class of its members shall, notwithstanding anything to the contrary in the constitution or rules of the association or body of persons, be deemed to be an arrangement made between those members or the members of that class and between the association or body of persons and those members or the members of that class.
