@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -232,6 +232,7 @@ An operator of a wine standards management plan has the following duties:
     (ii) any relevant specifications set by the Director-General under this Act (including location of reference material and documents recording specific procedures):
   (f) cover all winemaking components and processes, and all premises and equipment:
   (g) document all processes involved in the making of wine.
+(2A) However, in relation to wine made for export, a wine standards management plan need not comply with a New Zealand food standard to the extent that the standard's labelling requirements conflict with the labelling requirements of the country that imports the wine.
 (3) In relation to hazards, a plan must demonstrate that the following matters have also been taken into account in its development:
   (a) systematic identification of any hazards, and determination of the significance of those hazards, involved in the production of commodities and the making of wine:
   (b) determination of the points at which the hazards of significance identified in paragraph (a) occur, and the processes or procedures to best control them:
