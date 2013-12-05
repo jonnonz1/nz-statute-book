@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -91,7 +91,7 @@ The purpose of this Act is to—
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **operate** and have the same meanings as in section 2(1) of the Land Transport Act 1998
   - **owner** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **permit** means a permit issued by a road controlling authority under section 5 of Part 1 of the VDAM Rule 2002
+  - **permit** means a permit issued by a road controlling authority under section 5 of Part 1 of the VDAM Rule 2002 for a RUC vehicle that exceeds the mass limits prescribed in section 4 of that rule
   - **petrol** —
     (a) means any motor spirits (including motor spirits blended with other fuels) or compressed natural gas or liquefied petroleum gas on which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996; but
     (b) does not include diesel or electricity
@@ -224,7 +224,7 @@ The Agency must—
 (3) However, subsection (2) does not apply if there is evidence that the RUC vehicle is registered under an appropriate alternative payment scheme.
 (4) An additional licence specified in subsection (2)(b) must—
   (a) cover the difference between—
-    (i) the RUC vehicle's maximum allowable mass under section 4.5(1) of Part 1 of the VDAM Rule 2002; and
+    (i) the maximum allowable mass under section 4.5(1) of Part 1 of the VDAM Rule 2002 for the RUC vehicle and any trailers towed by the RUC vehicle; and
     (ii) the maximum mass specified in the permit under which the RUC vehicle is operating; and
   (b) contain the information prescribed by regulations made under section 89 and be displayed in accordance with regulations made under that section.
 (5) A person commits an offence if the person, without reasonable excuse, operates a RUC vehicle to which this section applies on a road without a distance licence specifically for RUC vehicle type H, or an additional licence, or without evidence of being registered under an alternative payment scheme (as the case may be).
