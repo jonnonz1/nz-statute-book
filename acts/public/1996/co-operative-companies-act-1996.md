@@ -1,5 +1,5 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the law relating to co-operative companies and, in particular—ato reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbto provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcto provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddto modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
@@ -16,9 +16,7 @@ _Consolidation as at 2013-07-01_
     (a) a company, the principal activity of which is, and is stated in its constitution as being, a co-operative activity and in which not less than 60% of the voting rights are held by transacting shareholders:
     (b) a company—
       (i) that is a subsidiary of a company referred to in paragraph (a); and
-      (ii) the principal activity of which is, and is stated in its constitution as being, a co-operative activity
-  - **existing company** means a body corporate registered under Part 2 or Part 8 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
-  - **existing co-operative company** means an existing company registered under the Co-operative Dairy Companies Act 1949, the Co-operative Companies Act 1956, the Co-operative Freezing Companies Act 1960, or the Co-operative Forestry Companies Act 1978.
+      (ii) the principal activity of which is, and is stated in its constitution as being, a co-operative activity.
 (2) For the purposes of the definition of the term co-operative company in subsection (1),—
   (a) a company is a subsidiary of another company if—
     (i) that other company holds not less than 60% of the shares in the company that carry the right to vote at meetings of the company; or
@@ -90,35 +88,10 @@ This Act binds the Crown.
   (b) on and from the date of registration stated in the certificate, the company is registered under this Act.
 
 ### 8 Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies
-(1) Every existing co-operative company may apply for registration as a co-operative company under this Act at the same time as it applies, under the Companies Reregistration Act 1993, for reregistration under the Companies Act 1993.
-(2) An application under subsection (1) must be—
-  (a) in the prescribed form; and
-  (b) signed by a person acting with the express or implied authority of the company; and
-  (c) accompanied by a statutory declaration made by each director stating that, in the opinion of the director, the company is a co-operative company within the meaning of this Act and the grounds for that opinion.
-(3) Every application must be accompanied by a copy of a special resolution of the company authorising the making of the application.
-(4) As soon as the Registrar receives a properly completed application for registration of an existing co-operative company as a co-operative company under subsection (1), the Registrar must, upon reregistration of the company under the Companies Act 1993 and if satisfied that the company will, upon that reregistration, be a co-operative company,—
-  (a) register the company as a co-operative company under this Act; and
-  (b) issue a certificate of registration.
-(5) If the Registrar declines to register an existing co-operative company as a co-operative company on the ground that the Registrar is not satisfied that the company will, upon reregistration under the Companies Act 1993, be a co-operative company, the Registrar must give notice in writing to the applicant setting out the Registrar's reasons.
-(6) A certificate issued under this section is conclusive evidence that—
-  (a) all the requirements of this Act as to registration have been complied with; and
-  (b) on the date of registration stated in the certificate, the company ceased to be an existing co-operative company; and
-  (c) on and from the date of registration stated in the certificate, the company is registered under this Act.
+[Repealed]
 
 ### 9 Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies
-(1) An application for registration of an existing company as a co-operative company under this Act may be sent or delivered to the Registrar together with an application, under the Companies Reregistration Act 1993 for reregistration of the company as a company under the Companies Act 1993.
-(2) An application under subsection (1) must be—
-  (a) in the prescribed form; and
-  (b) signed by a person acting with the express or implied authority of the company; and
-  (c) accompanied by a statutory declaration made by each director stating that, in the opinion of the director, the company is a co-operative company within the meaning of this Act and the grounds for that opinion.
-(3) Every application must be accompanied by a copy of a special resolution of the company authorising the making of the application.
-(4) As soon as the Registrar receives a properly completed application for registration of an existing company as a co-operative company under subsection (1), the Registrar must, upon reregistration of the company under the Companies Act 1993 and if satisfied that the company will, upon that reregistration, be a co-operative company,—
-  (a) register the company as a co-operative company under this Act; and
-  (b) issue a certificate of registration.
-(5) If the Registrar declines to register an existing company as a co-operative company on the ground that the Registrar is not satisfied that the company will, upon reregistration under the Companies Act 1993, be a co-operative company, the Registrar must give notice in writing to the applicant setting out the Registrar's reasons.
-(6) A certificate issued under this section is conclusive evidence that—
-  (a) all the requirements of this Act as to registration have been complied with; and
-  (b) on and from the date of registration stated in the certificate, the company is registered under this Act.
+[Repealed]
 
 ### 10 Annual resolution by directors of co-operative company
 (1) The board of a company registered under this Act must, not later than—whichever is the earlier, resolve whether or not, in the opinion of the board, the company has, throughout the accounting period to which the report relates or would relate, as the case may be, been a co-operative company.
@@ -363,10 +336,10 @@ In this Part,—
 An application for registration of a company as a co-operative dairy company under this Part may be sent or delivered to the Registrar together with an application for registration of a company under section 12 of the Companies Act 1993 and, in any such case, the provisions of section 7 of this Act shall apply, with such modifications as may be necessary, in relation to the application.
 
 ### 37 Simultaneous registration of existing co-operative companies
-An existing co-operative company may apply for registration as a co-operative dairy company under this Part at the same time as it applies, under the Companies Reregistration Act 1993, for reregistration under the Companies Act 1993 and, in any such case, the provisions of section 8 of this Act shall apply, with such modifications as may be necessary, in relation to the application.
+[Repealed]
 
 ### 38 Registration of existing companies
-An application for registration of an existing company as a co-operative dairy company under this Part may be sent or delivered to the Registrar together with an application under the Companies Reregistration Act 1993 for reregistration of the company as a company under the Companies Act 1993 and, in any such case, the provisions of section 9 of this Act shall apply, with such modifications as may be necessary, in relation to the application.
+[Repealed]
 
 ### 39 Suppliers to be shareholders
 (1) Subject to subsection (2), the constitution of a co-operative dairy company must provide that the supply of dairy produce by a person to the company is an irrevocable application by that person to become a shareholder in the company.
