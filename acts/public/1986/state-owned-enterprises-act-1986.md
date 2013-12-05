@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2013-11-21_
+_Consolidation as at 2013-12-05_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -13,17 +13,15 @@ In this Act, unless the context otherwise requires,—
   - **board** means—
     (a) in relation to a State enterprise that is a company, the board of directors of the State enterprise:
     (b) in relation to a State enterprise that is not a company, the persons occupying the positions in or in relation to the State enterprise that are comparable with those of the board of directors of a company
-  - **company** means—as the case may be
-    (a) a company formed and registered under the Companies Act 1955 or an existing company within the meaning of that Act; or
-    (b) a company formed and registered under the Companies Act 1993,—
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **Crown** means Her Majesty the Queen in right of New Zealand
   - **equity bond** means a State enterprise equity bond issued pursuant to section 12
   - **Minister** means a Minister of the Crown
   - **organisation** includes a company, a body corporate, a partnership, and a joint venture
   - **responsible Minister** , in relation to a State enterprise, means the Minister for the time being responsible for that State enterprise
-  - **rules** means—
-    (a) in relation to a State enterprise that is a company, the memorandum of association and articles of association or the constitution, as the case may be, of the State enterprise:
-    (b) in relation to a State enterprise that is not a company, the documents relating to the State enterprise that are comparable to the memorandum of association and articles of association or the constitution, as the case may be, of a company
+  - **rules** means,—
+    (a) in relation to a State enterprise that is a company, the constitution of the State enterprise:
+    (b) in relation to a State enterprise that is not a company, the documents relating to the State enterprise that are comparable to the constitution of a company
   - **share** means—and has a corresponding meaning
     (a) in relation to a company that has issued shares, a share of any class (but, except in sections 14 and 22, does not include an equity bond):
     (b) in relation to an organisation (other than a company) that has a capital, an interest in or right to the whole or any part of that capital, other than an interest or right as a creditor:
@@ -33,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   - **shareholding Ministers** means the Minister of Finance and the responsible Minister
   - **State enterprise** means an organisation that is named in Schedule 1
   - **statement of corporate intent** , in relation to a State enterprise, means the current statement of corporate intent for the State enterprise prepared pursuant to section 14
-  - **subsidiary** has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be.
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -100,7 +98,7 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (2) The terms of issue of State enterprise equity bonds shall be as follows:
   (a) the bonds shall not confer any rights to vote at meetings of shareholders:
   (b) the bonds shall be transferable in the manner provided by the rules:
-  (c) for the purposes of the Companies Act 1955, the Companies Act 1993, and the Securities Act 1978 the bonds shall be deemed to be ordinary shares, and the holder of any bonds shall be deemed to be a shareholder:
+  (c) for the purposes of the Companies Act 1993 and the Securities Act 1978 the bonds shall be deemed to be ordinary shares, and the holder of any bonds shall be deemed to be a shareholder:
   (d) for the purposes of the Income Tax Act 2007—
     (i) the bonds shall be deemed to be ordinary shares and the holder of any bonds shall be deemed to be a shareholder:
     (ii) every sum distributed by a company named in Schedule 2 in any manner and under any name to a holder of bonds shall be deemed to be a dividend for the purposes of subpart CD of the Income Tax Act 2007:
@@ -340,16 +338,12 @@ The submission in respect of any land or interest in land of a claim under secti
 
 ### 30 Application of Companies Acts to new State enterprises
 (1) Notwithstanding anything in the Companies Act 1993, the Reserve Bank of New Zealand Act 1989, or any other enactment or rule of law, a company in which all the shares are applied for by Ministers may be registered under the Companies Act 1993 with a name specified in Schedule 2 of this Act (not being a name specified in that schedule before the commencement of the Companies Act 1993); and sections 20, 21, 22, 23(1) and (2), and 24 of that Act shall not apply to any such company.
-(2) In the application of the Companies Act 1955 to a company named in Schedule 2 of this Act, the following provisions of that Act shall be construed as if references therein to 7 members were references to 2 members:
-  (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
-  (b) section 211(4)(c), as to the appointment of a liquidator in the case of a company that is not a private company.
-(3) Nothing in sections 31, 32, 32A(1), and 32B of the Companies Act 1955 shall apply to a State enterprise.
+(2)
+(3)
 
 ### 30A Changes of name
 (1) Subject to subsection (2), the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act, amend any enactment by omitting from it the name of any State enterprise and substituting some other name.
-(2) The Minister shall not recommend the making of an order under subsection (1) in respect of a State enterprise unless satisfied that—
-  (a) there has been issued to it under section 23(3)(b) of the Companies Act 1993 or section 32A(2)(b) of the Companies Act 1955 a certificate of incorporation recording a change of its name to the name proposed to be substituted by the order; or
-  (b) there has been published in the Gazette under section 32(5) of the Companies Act 1955 a notice of the change of its name to the name proposed to be substituted by the order.
+(2) The Minister must not recommend the making of an order under subsection (1) in respect of a State enterprise unless satisfied that there has been issued to it under section 23(3)(b) of the Companies Act 1993 a certificate of incorporation recording a change of its name to the name proposed to be substituted by the order.
 (3) A State enterprise does not cease to be—by reason only of changing its name.
   (a) a State enterprise; or
   (b) a company named in a schedule of this Act; or
