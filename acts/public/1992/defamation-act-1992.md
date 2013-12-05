@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -445,10 +445,10 @@ A fair and accurate report of—
 (a) the proceedings at a general meeting of a body to which this clause applies (not being a meeting from which the public or members of the news media or both were excluded):
 (b) a report or other document circulated to shareholders or members by the board of directors or other governing body of a body to which this clause applies (not being a report or document circulated on a confidential basis):
 (c) a document circulated to shareholders or members by an auditor of a body to which this clause applies (not being a document circulated on a confidential basis).
-((2)) This clause applies to—but does not apply to any private company within the meaning of the Companies Act 1955.
+((2)) This clause applies to—
   (a) any company or association constituted or registered under any Act:
   (b) any society registered under the Incorporated Societies Act 1908:
-  (c) any other body corporate operating in New Zealand,—
+  (c) any other body corporate operating in New Zealand.
 
 ### 10
 A fair and accurate report of the proceedings at a press conference given by or on behalf of any body or person (being a body or person in respect of whose proceedings the publication of any fair and accurate report is, by virtue of section 16(2), protected by qualified privilege).
