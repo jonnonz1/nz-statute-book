@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -92,7 +92,7 @@ _Consolidation as at 2013-07-18_
 (2) For the purposes of this section,—
   (a) date of establishment in relation to any State enterprise, means the date declared, by the Minister of Finance by notice in the Gazette for the purposes of this section, to be the date on which any State enterprise is or was established; and
   (b) State enterprise means an organisation that is, or was at any time, named in Schedule 2 of the State-Owned Enterprises Act 1986; and
-  (c) subsidiary has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be.
+  (c) subsidiary has the same meaning as in section 5 of the Companies Act 1993.
 (3) For the purposes of this Act,—
   (a) every person to whom this section applies shall be deemed to be employed in the Government service so long as that person continues to be employed by any State enterprise or any subsidiary of a State enterprise; and
   (b) this Act shall apply to that person in all respects as if service with any State enterprise or subsidiary of a State enterprise were Government service.
