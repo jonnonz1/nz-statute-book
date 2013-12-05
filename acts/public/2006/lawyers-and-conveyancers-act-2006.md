@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3327,14 +3327,14 @@ A practitioner commits an offence and is liable on conviction to a fine not exce
   (a) any agent of the practitioner:
   (b) any nominee of the practitioner:
   (c) any company—
-    (i) of which the practitioner is a director within the meaning of the Companies Act 1955 or the Companies Act 1993; or
+    (i) of which the practitioner is a director within the meaning of the Companies Act 1993; or
     (ii) of which the principal financial benefit or effective control is directly or indirectly vested in the practitioner or any spouse or civil union partner or de facto partner or child or children of the practitioner:
   (d) any other incorporated or unincorporated body (other than a body that is a party to a listing agreement with a stock exchange)—
-    (i) in relation to which the practitioner occupies a position comparable to that of a director within the meaning of the Companies Act 1955 or the Companies Act 1993; or
+    (i) in relation to which the practitioner occupies a position comparable to that of a director within the meaning of the Companies Act 1993; or
     (ii) of which the principal financial benefit or effective control is directly or indirectly vested in the practitioner or any spouse or civil union partner or de facto partner or child or children of the practitioner.
 (6) In this section,—
   - **company** —
-    (a) means a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be; and
+    (a) means a company registered under the Companies Act 1993; and
     (b) includes a company so registered in which the practitioner holds shares as a bare trustee, notwithstanding that he or she is entitled as a trustee to be remunerated out of the income or property of the trust; but
     (c) does not include a company so registered that is a party to a listing agreement with a stock exchange
   - **conveyance** means—
