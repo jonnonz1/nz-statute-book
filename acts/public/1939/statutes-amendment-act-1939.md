@@ -1,5 +1,5 @@
 # Statutes Amendment Act 1939
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-05_
 
 > An Act to amend certain Acts of the General Assembly of New Zealand.
 
@@ -143,7 +143,7 @@ This Act may be cited as the Statutes Amendment Act 1939.
 (1) This section shall be read together with and deemed part of the Industrial and Provident Societies Act 1908 (in this section referred to as the principal Act).
 (2) Notwithstanding anything to the contrary in section 4 of the principal Act, a society shall not be registered under the principal Act unless it is shown to the satisfaction of the Registrar—
   (a) That the society is a bona fide co-operative society; or
-  (b) That, in view of the fact that the business of the society is being, or is intended to be, conducted—there are special reasons why the society should be registered under the principal Act rather than as a company under the Companies Act 1955 or the Companies Act 1993.
+  (b) That, in view of the fact that the business of the society is being, or is intended to be, conducted—there are special reasons why the society should be registered under the principal Act rather than as a company under the Companies Act 1993.
     (i) Mainly for the purpose of improving the conditions of living, or otherwise promoting the social well-being, of members of the working classes; or
     (ii) Otherwise for the benefit of the community,—
 (3) In this section the term co-operative society does not include a society which carries on, or intends to carry on, business with the object of making profits mainly for the payment of interest, dividends, or bonuses on money invested or deposited with, or lent to, the society or any other person.
