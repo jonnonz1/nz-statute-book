@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -10,7 +10,7 @@ _Consolidation as at 2013-08-19_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **applicant** , in relation to any application to settle any land as a joint family home, includes the executor or administrator of a deceased applicant
-  - **constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
+  - **constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section
   - **flat** means a part of a building that is used as a separate dwelling; but does not include any right, easement, or appurtenance which is held and enjoyed with the flat
   - **flat-owning company** means a flat-owning company within the meaning of Part 7A of the Land Transfer Act 1952
   - **husband and wife** , in relation to any settled property, means the husband and wife on whom the property is settled under this Act; and every reference in this Act to a husband and wife must be taken to include any 2 people (of any sex) who are married
@@ -26,9 +26,7 @@ In this Act, unless the context otherwise requires,—
   - **settled** , in relation to any land or property, means that the land or property has become settled or is deemed to have become settled in accordance with the provisions of paragraph (a) of subsection (1) of section 9
   - **settlement** means a settlement under this Act
   - **share certificate** , in relation to any relative shares, means a share certificate in respect of those shares
-  - **share register** , in relation to—
-    (a) a company within the meaning of section 2 of the Companies Act 1955, means the company's register of members:
-    (b) a company within the meaning of section 2 of the Companies Act 1993, means the company's share register.
+  - **share register** , in relation to a company within the meaning of section 2(1) of the Companies Act 1993, means the company's share register.
 
 ### 3 Provision for joint family homes
 (1) Subject to the provisions of this section and of sections 5 and 6, a husband and wife or either of them may settle any land on the husband and wife as a joint family home under this Act where—
@@ -96,11 +94,11 @@ In this Act, unless the context otherwise requires,—
 (1) Where the land that is being settled is comprised in a lease or licence given by a flat-owning company to the holder of the relative shares—
   (a) the Registrar shall, in writing addressed to the secretary of the company concerned and sent by registered post to the registered office of the company, advise the company of the settlement and of the text of the memoranda entered on the said lease or licence and on the share certificate respectively and of the numbers of the relative shares, and shall request the company to amend its share register accordingly:
   (b) on receipt of any such written advice the company shall amend its share register to show that the husband and wife are the joint holders of the relative shares subject to the provisions of this Act; and an appropriate endorsement to evidence the settlement shall also be made by the company on any office copy of the relative share certificate, and of the lease or licence:
-  (c) notwithstanding, in the case of a company within the meaning of section 2 of the Companies Act 1955, section 90 of that Act or the articles of association of the company, or in the case of a company within the meaning of section 2 of the Companies Act 1993, the constitution of the company, except as provided in this section, no fresh certificate shall be issued for any relative shares included in the settlement, and the share certificates for all such shares with the memorandum signed by the Registrar endorsed on them shall continue in effect until the settlement is cancelled or a fresh certificate is issued:
+  (c) notwithstanding the constitution of the company, except as provided in this section, no fresh certificate shall be issued for any relative shares included in the settlement, and the share certificates for all such shares with the memorandum signed by the Registrar endorsed on them shall continue in effect until the settlement is cancelled or a fresh certificate is issued:
   (d) where a share certificate with the memorandum signed by the Registrar endorsed thereon is lost, defaced, or destroyed, a fresh certificate may be issued in place thereof, and shall be issued in the name of the settlor; and, before any such fresh certificate is presented to the persons entitled, it shall be delivered duly signed, together with a notice of the circumstances, to the Registrar, who shall endorse and sign a memorandum to the same effect as the one signed by him on the lost, defaced, or destroyed share certificate; and an entry by the company shall be made on any office duplicate of the fresh share certificate similar to the one that was made on the lost, defaced, or destroyed certificate:
   (e) on the death of either the husband or the wife named in the memorandum endorsed and signed as aforesaid on a share certificate, a fresh share certificate may be issued in the name of the survivor, and in any such case the share certificate shall state that the shares are held by the survivor subject to the provisions of this Act.
 (2) Notwithstanding anything to the contrary in the constitution of the company or elsewhere, the persons named in the memorandum endorsed and signed by the Registrar on a share certificate pursuant to paragraph (c) of subsection (1) of section 7 or paragraph (d) of subsection (1) of this section shall be the holders of the shares enumerated therein, notwithstanding that they may not have been entered as such in the share register of the company concerned.
-(3) For the purposes of section 91 of the Companies Act 1955, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the members in whose names the certificate was issued.
+(3)
 (3A) For the purposes of section 89 of the Companies Act 1993, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the registered holders of the shares.
 (4) Where a company contravenes or fails to comply with any of the provisions of paragraphs (b), (d), and (e) of subsection (1),—
   (a) the company commits an offence and is liable on conviction to a fine not exceeding $1,000:
@@ -213,7 +211,7 @@ In this Act, unless the context otherwise requires,—
 (8) Any net proceeds of disposition, and any interest thereon, remaining in the hands of an Official Assignee at the expiry of the period of 6 months after the date of disposition of the land to which those net proceeds relate shall form part of the estate of the undischarged bankrupt to whom those net proceeds would otherwise belong.
 
 ### 13 Power of court to rectify share register
-The provisions of section 124 of the Companies Act 1955, or section 91 of the Companies Act 1993, as the case may be, shall apply to any action of, or omission by, the company in complying with the requirements of section 12.
+Section 91 of the Companies Act 1993 applies to any action of, or omission by, the company in complying with the requirements of section 12.
 
 ### 14 Home not relieved from being taken compulsorily
 Nothing in this Act shall prevent any joint family home, or any part thereof, from being taken compulsorily under any Act providing for the compulsory taking of land.
