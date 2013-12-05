@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2013-09-02_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -716,7 +716,7 @@ The Secretary may, in determining the rate of any pension payable in respect of 
 ### 68 Administration of veterans’ pensions
 (1) This Part is administered by the Department.
 (2) Nothing in the other Parts of this Act or the War Pensions Regulations 1956 applies to this Part or affect the administration of veterans’ pensions, except as otherwise expressly provided in this Part.
-(3) In the application of any of the provisions of the Social Welfare (Transitional Provisions) Act 1990 or of the Social Security Act 1964 relating to veterans’ pensions or the payment of veterans’ pensions, references to the chief executive and department must be read, respectively, as references to the Secretary and to the Department.
+(3) In the application of any of the provisions of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or of the Social Security Act 1964 relating to veterans’ pensions or the payment of veterans’ pensions, references to the chief executive and department must be read, respectively, as references to the Secretary and to the Department.
 (4) Nothing in subsection (3) requires the Secretary to issue a separate code of conduct under section 11B of the Social Security Act 1964 for the purposes of the administration of this Part.
 (5) If a requirement is made under section 11 of the Social Security Act 1964 relating to a veteran’s pension, the code of conduct issued under section 11B of that Act by the chief executive of the department for the time being responsible for administration of that Act applies—
   (a) to the Secretary as if the Secretary were the chief executive of the department; and
@@ -725,7 +725,7 @@ The Secretary may, in determining the rate of any pension payable in respect of 
 ### 69 Delegation of Secretary’s powers
 (1) The Secretary may, either generally or particularly, delegate to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 any of the Secretary’s powers, functions, and discretions under—
   (a) sections 70 to 74B; and
-  (b) any other provision in this Part or the Social Security Act 1964 or the Social Welfare (Transitional Provisions) Act 1990 that relates to the payment of veterans’ pensions.
+  (b) any other provision in this Part or the Social Security Act 1964 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 that relates to the payment of veterans’ pensions.
 (2) The provisions of sections 41 and 42 of the State Sector Act 1988 apply to every delegation made under subsection (1) as if that delegation were made under section 41 of that Act.
 
 **Entitlement**
@@ -835,7 +835,7 @@ On the death of any person who is ordinarily resident in New Zealand on the date
 **Payment overseas of veterans’ pensions**
 
 ### 74E Effect of absence from New Zealand on veteran’s pension
-A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 74F to 74T or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 74F to 74T or in any agreement or convention adopted under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 74F First 26 weeks of certain temporary absences
 A veteran’s pension that would otherwise be payable to a person (other than a person who is receiving a veteran's pension overseas under section 74J) is payable in respect of the first 26 weeks of any absence from New Zealand if—
@@ -859,7 +859,7 @@ If a person who is absent from New Zealand would have become entitled to a veter
 
 ### 74J Payment overseas of veteran's pension
 (1) This subsection—
-  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, that relates to the veteran's pension; and
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, that relates to the veteran's pension; and
   (b) applies to a person if he or she has left New Zealand at a time when he or she was—
     (i) intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 74N(1)); or
     (ii) intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
@@ -934,7 +934,7 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
 ### 74N Specified Pacific country
 (1) In sections 74O to 74S, specified Pacific country means a country or territory—
   (a) that is listed in Schedule 13; and
-  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990 relating to the portability of the veteran’s pension.
+  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 relating to the portability of the veteran’s pension.
 (2) The Governor-General may, by Order in Council, amend Schedule 13 by—
   (a) adding the name of any Pacific country or territory; or
   (b) omitting the former name of a country or territory and substituting its new name.
