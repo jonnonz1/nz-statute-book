@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -1067,7 +1067,7 @@ An extradition treaty made between New Zealand and another country after the com
 
 ### 101B Certain crimes with transnational aspects deemed to be included in extradition treaties
 (1) For the purposes of this Act and any Order in Council in force under section 15 or section 104, the following offences are deemed to be offences described in any extradition treaty concluded before the commencement of section 6 of the Extradition Amendment Act 2002 and for the time being in force between New Zealand and any foreign country that is a party to a convention or protocol referred to in subsection (5):
-  (a) every offence against any of sections 98A, 98C, 98D, 100, 101, 102, 103, 104, 105, 116, 117, and 257A of the Crimes Act 1961:
+  (a) every offence against any of sections 98A, 98C, 98D, 100, 101, 102, 103, 104, 105, 116, 117, and 243 of the Crimes Act 1961:
   (b) every offence against any of sections 29A, 30, 30A, 31(1), 31(2), and 32 of the Passports Act 1992:
   (c) any offence against any enactment if—
     (i) it is punishable by imprisonment for a term of 4 years or more; and
