@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -139,8 +139,8 @@ Where by any power of attorney any trustee company is appointed attorney by any 
 (2) The company shall be entitled to be represented in the proceedings, and the costs and expenses of any such representation as between solicitor and client, together with a reasonable fee for the company's services, shall be paid to the company out of any estate or funds or property the subject of the proceedings, or otherwise as the court thinks fit.
 
 ### 17 Restriction on registration of transfers of shares
-(1) Notwithstanding anything to the contrary in the articles of association of the company, no transfer of shares in any trustee company (whether the transfer has been executed before or is executed after the commencement of this Act) shall be registered unless and until the transfer has been approved by the directors of the company, and subject to the provisions of any trustee company Act the said directors shall have an absolute discretion to register or refuse to register any such transfer and shall not be bound to assign any reason for refusing to register any such transfer nor shall the exercise of any such discretion be called in question in any proceedings whatsoever.
-(2) If any trustee company is deemed, for the purposes of the Companies Act 1955, to be a subsidiary of another company incorporated in New Zealand, the provisions of subsection (1) shall, so far as they are applicable and with the necessary modifications, apply to transfers of shares in that other company.
+(1) Notwithstanding anything to the contrary in the constitution of the company, no transfer of shares in any trustee company (whether the transfer has been executed before or is executed after the commencement of this Act) shall be registered unless and until the transfer has been approved by the directors of the company, and subject to the provisions of any trustee company Act the said directors shall have an absolute discretion to register or refuse to register any such transfer and shall not be bound to assign any reason for refusing to register any such transfer nor shall the exercise of any such discretion be called in question in any proceedings whatsoever.
+(2) If any trustee company is deemed, for the purposes of the Companies Act 1993, to be a subsidiary of another company incorporated in New Zealand, the provisions of subsection (1) shall, so far as they are applicable and with the necessary modifications, apply to transfers of shares in that other company.
 
 ### 18 Remuneration
 (1) Subject to subsection (2), it shall be lawful for a trustee company to charge, demand, and receive for work done and services rendered by it such remuneration by way of commission or otherwise as may from time to time be fixed by the Board of Directors of the trustee company.
@@ -198,12 +198,12 @@ Notice shall be taken judicially without further proof of—
 (4) Upon any such transfer, assignment, conveyance, mortgage, lease, or grant being registered under the Land Transfer Act 1952 or the Deeds Registration Act 1908, no person thereafter having dealings in respect of the estate, share, or interest or in respect of the transfer, assignment, conveyance, mortgage, lease, or grant shall be affected by any notice of trust contained in or evidenced by the transfer, assignment, conveyance, mortgage, lease, or grant, nor shall any person be concerned to see or inquire whether the trustee company possessed lawful authority to enter into the transaction.
 
 ### 25 Charges created by trustee companies in a fiduciary capacity
-Section 102 of the Companies Act 1955 shall not apply to any charge on any real or personal property created by a trustee company in a fiduciary capacity.
+[Repealed]
 
 ### 26 Registration of shares
 (1) The entry of a trustee company by its name in the register of shareholders of a company shall not constitute notice of a trust.
 (2) A company shall not be entitled to object to enter the name of a trustee company in its register of shareholders by reason only that the trustee company is a trustee or is a corporation.
-(3) Notwithstanding anything to the contrary in the Companies Act 1955 or any other enactment or rule of law, a trustee company may enter its own name, or the name of any company of which it is a subsidiary, in its register of shareholders in respect of any shares to which the trustee company is entitled in a fiduciary capacity; and the trustee company may hold any such shares:
+(3) Notwithstanding anything to the contrary in the Companies Act 1993 or any other enactment or rule of law, a trustee company may enter its own name, or the name of any company of which it is a subsidiary, in its register of shareholders in respect of any shares to which the trustee company is entitled in a fiduciary capacity; and the trustee company may hold any such shares:
   provided that no regard shall be had to this subsection in determining whether any such shares are an authorised investment in any case.
 
 ### 27 Sale of goods by auction
@@ -350,7 +350,7 @@ Every application for shares in a trustee company to which this Part applies, an
 
 ### 46 Voting at general meetings of shareholders
 (1) At any general meeting of shareholders in a trustee company to which this Part applies, the chairman of the meeting may, before calling for a show of hands or taking a poll, require each shareholder or any shareholder or shareholders present in person to sign and lodge with him a certificate in writing in form 2 of Schedule 2. No shareholder who, upon being required by the chairman of the meeting to sign and lodge such a certificate, refuses or neglects so to do, or refrains from so doing, shall be entitled to vote either upon a show of hands or upon a poll on any resolution submitted to that meeting.
-(2) No vote by any person acting on behalf of any shareholder at any general meeting of shareholders in a trustee company to which this Part applies shall be valid unless the vote is given under the authority of a proxy in writing under the hand of that shareholder complying with the articles of association of the trustee company, accompanied by a certificate by that shareholder in form 3 of Schedule 2.
+(2) No vote by any person acting on behalf of any shareholder at any general meeting of shareholders in a trustee company to which this Part applies shall be valid unless the vote is given under the authority of a proxy in writing under the hand of that shareholder complying with the constitution of the trustee company, accompanied by a certificate by that shareholder in form 3 of Schedule 2.
 (3) In the case of shares in a trustee company to which this Part applies belonging to the estate of any deceased person, or to any estate which is being administered under the Mental Health Act 1969, or the Protection of Personal and Property Rights Act 1988, the registered holder or other persons entitled to vote in respect of the shares shall not be deemed, for the purposes of any certificate to be signed by him under this section, to have given any undertaking or to be under any obligation to the beneficiary or beneficiaries of the estate as to the exercise of his voting or other rights or powers in respect of the shares.
 (4) Any person who signs for the purposes of this Part a false certificate commits an offence, and is liable on conviction to a fine of $200.
 
