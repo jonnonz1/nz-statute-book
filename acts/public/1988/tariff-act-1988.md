@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -187,7 +187,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 (4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 1996):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
 
 ### 9C Application of Legislation Act 2012
-Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after 1 July 2011 are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after the date on which section 77(3) of the Legislation Act 2012 comes into force are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 9D Judicial notice of Tariff
 Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
