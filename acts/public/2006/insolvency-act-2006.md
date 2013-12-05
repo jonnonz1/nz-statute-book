@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -2602,7 +2602,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
 The Assignee must not admit a debtor to the no asset procedure if the Assignee is satisfied, on reasonable grounds, that—
   (a) the debtor has concealed assets with the intention of defrauding his or her creditors, for example, by transferring property to a trust; or
-  (b) the debtor has engaged in conduct that would, if the bankrupt were adjudicated bankrupt, constitute an offence under this Act; or
+  (b) the debtor has engaged in conduct that would, if he or she were adjudicated bankrupt, constitute an offence under this Act; or
   (c) the debtor has incurred a debt or debts knowing that the debtor does not have the means to repay them; or
   (d) a creditor intends applying for the debtor's adjudication as a bankrupt and it is likely that the outcome for the creditor if the debtor is adjudicated bankrupt will be materially better than if the debtor is admitted to the no asset procedure.
 
