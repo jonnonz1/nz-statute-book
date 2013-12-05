@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2013-09-26_
+_Consolidation as at 2013-12-05_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -30,8 +30,8 @@ _Consolidation as at 2013-09-26_
       (iii) an unincorporated body of persons, being a body of which more than 50% of the members are New Zealand persons under subparagraph (i) or subparagraph (ii); or
       (iv) a body corporate which is incorporated in New Zealand; but
     (b) does not include—
-      (i) any company within the meaning of the Companies Act 1955 or the Companies Act 1993, as the case may be, that is, for the purposes of the Companies Act 1955 or the Companies Act 1993, a subsidiary of any company or body corporate incorporated outside New Zealand; or
-      (ii) any company within the meaning of the Companies Act 1955 or the Companies Act 1993, as the case may be, or building society, in which—
+      (i) any company within the meaning of the Companies Act 1993 that is, for the purposes of that Act, a subsidiary of any body corporate incorporated outside New Zealand; or
+      (ii) any company within the meaning of the Companies Act 1993, or building society, in which—
         (A) 25% or more of any class of shares is held by any overseas person or overseas persons; or
         (B) the right to exercise or control the exercise of 25% or more of the voting power at any meeting of the company or building society is held by any overseas person or overseas persons; or
       (iii) any nominee of an overseas person, whether or not the nominee is also an overseas person
