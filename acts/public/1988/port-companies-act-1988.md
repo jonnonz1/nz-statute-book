@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -40,7 +40,7 @@ _Consolidation as at 2013-08-05_
       (iv) to the extent specified in the port company plan approved by the Minister under section 22, any right conferred by a designation under an operative district scheme applying to land transferred from the Harbour Board to the port company
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
-  - **subsidiary** has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 (2) Every reference in this Act to the expression Harbour Board shall be construed as including a reference to a regional council or a territorial authority to which any property, rights, liabilities, functions, duties, or powers of a Harbour Board have been transferred pursuant to any Order in Council made under section 36 of the Local Government Act 1974.
 
@@ -56,7 +56,7 @@ This Act shall bind the Crown.
 ## Part 1 — Port companies
 
 ### 4 Amendment of documents constituting port companies
-No amendment shall be made to the memorandum or articles or the constitution of a port company at any time without the prior written approval of the Minister.
+No amendment shall be made to the constitution of a port company at any time without the prior written approval of the Minister.
 
 ### 4A Harbour Board may hold securities in port company
 In addition to the equity securities issued to the Harbour Board on the incorporation of a port company, a Harbour Board may subscribe for or have issued to it other equity securities or debt securities issued by the port company.
@@ -65,7 +65,7 @@ In addition to the equity securities issued to the Harbour Board on the incorpor
 The principal objective of every port company shall be to operate as a successful business.
 
 ### 6 Directors of port companies
-(1) The articles of association or constitution of every port company shall provide—
+(1) The constitution of every port company shall provide—
   (a) that there shall be no fewer than 6 directors of the port company; and
   (b) that not more than 2 members or employees of the Harbour Board or any other Harbour Board, territorial authority, regional council or united council that holds any equity securities in the company of any class that confer rights to vote at any meeting of the company may be directors of the port company.
 (2) Subject to subsection (1), the directors of each port company shall be persons who, in the opinion of those appointing them, will assist the port company to achieve its principal objective.
@@ -77,13 +77,11 @@ The principal objective of every port company shall be to operate as a successfu
 (2) Nothing in subsection (1) limits or prevents any other person from subscribing for, otherwise acquiring, holding, or disposing of, equity securities in port companies.
 
 ### 7A Restrictions on holding equity securities
-(1) No port company shall have in its memorandum or articles of association or in its constitution, as the case may be, any provision providing for the class of shares referred to in section 7(1) (as repealed by section 4 of the Port Companies Amendment Act 1990), or any provisions permitted by subsection (2) of that section (as so repealed).
+(1) No port company shall have in its constitution any provision providing for the class of shares referred to in section 7(1) (as repealed by section 4 of the Port Companies Amendment Act 1990), or any provisions permitted by subsection (2) of that section (as so repealed).
 (2) Where a port company does not comply with subsection (1), the Minister may, in accordance with this section, make such alterations to the memorandum of association and articles of association or the constitution of the port company as the Minister considers appropriate in order to achieve the purpose of subsection (1).
 (3) The Minister shall give notice of all alterations to the port company and to every holder of equity securities in the company at the address of that person as shown in the share register of the company or otherwise known to the Minister.
 (4) The Minister shall specify a date, which shall be not earlier than 14 days after the sending of the last of the notices referred to in subsection (3), on which those alterations shall take effect.
-(5) Every alteration shall have effect as if it was an alteration to—as the case may be, and, for the purposes of those Acts, the notice of the alteration given to the port company by the Minister under subsection (3) shall be deemed to be a special resolution of the port company concerned made on the date on which the last of the notices was sent under the subsection.
-  (a) the memorandum of association or articles of association of the company made in accordance with the Companies Act 1995; or
-  (b) the constitution of the company made in accordance with the Companies Act 1993,—
+(5) Every alteration has effect as if it were an alteration to the constitution of the company made in accordance with the Companies Act 1993, and, for the purposes of that Act, the notice of the alteration given to the port company by the Minister under subsection (3) is deemed to be a special resolution of the port company concerned made on the date on which the last of the notices was sent under that subsection.
 
 ### 8 Statement of corporate intent
 The directorate of every port company—a draft statement of corporate intent not later than 1 month after the commencement of each financial year of the port company.
@@ -171,7 +169,7 @@ Despite sections 196 to 203 of the Companies Act 1993, every port company and ev
 
 ### 20 Application of Act to related and associated companies
 (1) Subject to subsection (2), sections 4 (except subsections (1), (3), (6), and (7)), 5, 6, 7, 15, and 18 shall apply to every company that is—as if that company were a port company within the meaning of this Act.
-  (a) a related company (as defined in section 2(5) of the Companies Act 1955 or section 2(3) of the Companies Act 1993, as the case may be,) to a port company; or
+  (a) a related company (as defined in section 2(3) of the Companies Act 1993) to a port company; or
   (b) a company that consists substantially of the same shareholders as the port company, or is under the control of the same persons—
 (2) Nothing in subsection (1) applies in relation to a company that the Minister notifies in writing is exempt from the provisions of that subsection.
 (3) The Minister shall not exempt a company from the application of subsection (1) unless the Minister is satisfied that the company does not carry on activities that if carried on by a Harbour Board would constitute a port-related commercial undertaking or would otherwise be likely to be carried on by a port company.
