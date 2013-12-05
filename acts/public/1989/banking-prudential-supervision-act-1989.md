@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -45,7 +45,7 @@ _Consolidation as at 2013-09-04_
     (d) an obligation to make payment in the currency of a country other than New Zealand:
     (e) a security in respect of which any amount payable is payable in a country other than New Zealand or in a foreign currency
   - **Governor** means the Governor of the Bank appointed under this Act
-  - **holding company** means a holding company within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be
+  - **holding company** means a holding company within the meaning of section 5 of the Companies Act 1993
   - **home country supervisor** means any central bank, authority, or body in any country other than New Zealand that exercises functions in relation to a parent bank or an overseas incorporated registered bank that correspond with, or are similar to, those conferred on the Bank under Part 5
   - **home jurisdiction** means,—
     (a) in the case of an overseas person that is a body corporate, the country in which that body is incorporated:
@@ -98,7 +98,7 @@ _Consolidation as at 2013-09-04_
     (b) a direct or indirect qualifying interest in 10% or more of the voting securities issued or allotted by the registered bank
   - **specified operator** has the meaning set out in section 156M
   - **specified security** has the meaning given to security in section 6(1) of the Overseas Investment Act 2005
-  - **subsidiary** means a subsidiary within the meaning of section 158(1)(a)(ii) and (b) of the Companies Act 1955 or section 5(1)(a)(iii) and (b) of the Companies Act 1993, as the case may be
+  - **subsidiary** means a subsidiary within the meaning of section 5(1)(a)(iii) and (b) of the Companies Act 1993
   - **trade mark** has the meaning given to it by section 5(1) of the Trade Marks Act 2002
   - **voting right** , in relation to any body,—
     (a) means a currently exercisable right to cast a vote at meetings of shareholders or members of that body; but
@@ -242,8 +242,8 @@ For the purposes of performing its functions and fulfilling its obligations unde
 (2) Where a notice is given under this section the Bank shall not, unless an Order in Council is made under section 12 that requires the Bank to formulate and implement monetary policy in accordance with an economic objective that is consistent with the direction, be required to comply with that direction.
 
 ### 21 Foreign exchange gains and losses
-(1) The Bank shall pay into the Crown Bank Account any exchange gains (whether realised or unrealised) made by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
-(2) The Minister shall, without further appropriation, pay to the Bank out of the Crown Bank Account the amount of any exchange losses (whether realised or unrealised) incurred by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
+(1) The Bank shall pay into a Crown Bank Account any exchange gains (whether realised or unrealised) made by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
+(2) The Minister shall, without further appropriation, pay to the Bank out of a Crown Bank Account the amount of any exchange losses (whether realised or unrealised) incurred by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
 
 ### 22 Temporary suspension of foreign exchange business
 (1) The Governor may, if the Governor is satisfied that it is necessary to avoid disorder in the foreign exchange market, from time to time, by notice in writing to all registered banks, direct that, subject to any exceptions specified in the notice, no registered bank shall, except with permission granted by the Bank, deal until further notice in any foreign exchange or foreign exchange of such kinds as are specified in the notice.
@@ -410,7 +410,7 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
   (e) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
   (f) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (g) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
-  (h) is a person who would, but for the repeal of section 188 or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or in any way whether directly or indirectly taking part in the management of, a company within the meaning of that Act:
+  (h)
   (i)
   (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993.
   (k)
@@ -560,7 +560,7 @@ No person shall be appointed, or reappointed, to the office of non-executive dir
   (c) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
   (d) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (e) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
-  (f) is a person who would, but for the repeal of section 188 or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or in any way whether directly or indirectly taking part in the management of, a company within the meaning of that Act:
+  (f)
   (g)
   (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993.
   (i)
@@ -1819,8 +1819,8 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (3) This section prevails over section 145.
 
 ### 149 Advances to statutory manager and members of advisory committee
-(1) With the consent of the Minister, there may be advanced out of the Crown Bank Account, without further appropriation than this section, to a statutory manager of a registered bank or a member of an advisory committee, such amounts as the Minister may approve in respect of costs, charges, and expenses (including remuneration) due to, or incurred by, that person.
-(2) All money so advanced to that person shall be refunded to the Crown out of money payable to that person, and the Crown shall have all the rights of the person to whom the advance was made to receive and recover that money. Money refunded to the Crown shall be credited upon receipt to the Crown Bank Account.
+(1) With the consent of the Minister, there may be advanced out of a Crown Bank Account, without further appropriation than this section, to a statutory manager of a registered bank or a member of an advisory committee, such amounts as the Minister may approve in respect of costs, charges, and expenses (including remuneration) due to, or incurred by, that person.
+(2) All money so advanced to that person shall be refunded to the Crown out of money payable to that person, and the Crown shall have all the rights of the person to whom the advance was made to receive and recover that money. Money refunded to the Crown shall be credited upon receipt to a Crown Bank Account.
 
 ### 150 Duty to deliver books and property to statutory manager
 (1) Every person having possession, custody, or control of any books, or records, or documents, or other property belonging to any registered bank subject to statutory management, shall forthwith after it becomes subject to statutory management, deliver or give possession of those books, records, documents, or other property to the statutory manager.
@@ -1919,7 +1919,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (f) section 89A (which relates to publishing a disclosure statement that includes information that is false or misleading):
   (g) section 89C(1)(a) (which relates to failing to publish a disclosure statement that does not contain false or misleading information after being required to do so under section 83):
   (h) section 89C(1)(b) (which relates to failing to publish a disclosure statement that contains information that was previously omitted after being required to do so under section 83):
-  (i) 8section 9C(1)(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
+  (i) section 9C(1)(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
   (j) section 95 (which relates to failing to supply a report required by the Bank):
   (k) section 95A (which relates to failing to forward a report prepared under section 95 as required by the Bank):
   (l) section 99(4) (which relates to failing to comply with a requirement from the Bank to supply information for the purposes of an inspection and to supplying information that is false or misleading in a material particular):
@@ -3194,7 +3194,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (d) every member of an advisory committee:
   (e) the Bank:
   (f) every director of the Bank.
-(3) Any money required for the purposes of this section must be paid out of the Crown Bank Account without further appropriation than this section.
+(3) Any money required for the purposes of this section must be paid out of a Crown Bank Account without further appropriation than this section.
 (4) The indemnity conferred by subsection (1) extends to legal costs incurred in defending a proceeding.
 (5) Within 12 sitting days of the making of any payment under this section, the Minister must present to the House of Representatives a report which contains details of the circumstances giving rise to the liability of the Crown, the amount of the payment, the person to whom the payment was made and any other relevant matters.
 
