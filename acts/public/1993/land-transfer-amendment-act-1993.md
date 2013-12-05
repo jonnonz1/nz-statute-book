@@ -1,5 +1,5 @@
 # Land Transfer Amendment Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-05_
 
 > An Act to amend the Land Transfer Act 1952
 
@@ -17,9 +17,6 @@ The Companies Amendment Act 1964 is hereby repealed.
 [Repealed]
 
 ### 5 Special provisions applying to implied term of grant of right to use land or buildings by company to shareholder
-(1) The term implied by section 80A(2) of the Companies Act 1955 in a grant by a company to a shareholder of the right to occupy any specified land owned by the company or any specified building or part of a building owned by the company ceases to have effect on the close of the 30th day of June 1997.
-(2) Notwithstanding subsection (1) of this section or the repeal of the Companies Act 1955 by the Companies Act Repeal Act 1993, any such grant may be forfeited if—
-  (a) Leave has been granted to a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 before the repeal of that Act to forfeit the grant; or
-  (b) An application has been made to the Court by a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 for leave to forfeit the grant before the repeal of that Act and the Court grants leave to do so.
+[Repealed]
 
 ## Schedule Schedule — Enactments repealed
