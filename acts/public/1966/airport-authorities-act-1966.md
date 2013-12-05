@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -26,7 +26,7 @@ In this Act, unless the context otherwise requires,—
     (b) the holding of any facilities and assets (including land) acquired or held to provide airfield activities in the future (whether or not used for any other purpose in the meantime)
   - **airport** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, or servicing of aircraft; and includes any other area declared by the Minister to be part of the airport; and also includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the airport or its administration
   - **airport authority** means a local authority for the time being authorised under section 3 to establish, maintain, operate, or manage an airport; and includes any person or association of persons authorised under subsection (3) of that section to exercise the powers of a local authority
-  - **airport company** means a company registered under the Companies Act 1955 or the Companies Act 1993, as the case may be, that is for the time being authorised under section 3(3) to exercise the functions of a local authority under that section
+  - **airport company** means a company registered under the Companies Act 1993 that is for the time being authorised under section 3(3) to exercise the functions of a local authority under that section
   - **charge** includes a fee or due and also includes rent payable under any lease
   - **debt security** has the same meaning as in section 2(1) of the Securities Act 1978
   - **equity security** has the same meaning as in section 2(1) of the Securities Act 1978
@@ -98,19 +98,11 @@ In this Act, unless the context otherwise requires,—
 ### 3BA Airport companies to disclose aircraft related charges
 Every airport company shall, whenever requested to do so by any person, disclose to that person the current aircraft related charges (including landing charges) fixed by the company.
 
-### 3C Powers of airport companies under Companies Acts not affected
-Except as provided in section 3BA, nothing in this Act shall be construed as limiting or affecting the powers, rights, authorities, duties, and obligations that an airport company has under the Companies Act 1955 or the Companies Act 1993.
+### 3C Powers of airport companies under Companies Act 1993 not affected
+Except as provided in section 3BA, nothing in this Act shall be construed as limiting or affecting the powers, rights, authorities, duties, and obligations that an airport company has under the Companies Act 1993.
 
 ### 3CA Application of Companies Act 1955 to airport companies
-(1) Notwithstanding the Companies Act 1955, but subject to subsection (3), an airport company may be reconstituted as if the reference to the figure 7 in section 13(1) of the Companies Act 1955 were a reference to the figure 2.
-(2) In the application of the Companies Act 1955 to an airport company, the following provisions of the Companies Act 1955 shall, subject to subsection (3), be construed as if references therein to 7 members were references to 2 members:
-  (a) section 41, as to carrying on business when the number of members is reduced below a legal minimum:
-  (b) section 211(4)(c), as to the appointment of a liquidator by the court when, in the case of a company that is not a private company, the number of members is reduced below the legal minimum.
-  (c)
-(3) Subsections (1) and (2) shall have effect only if all equity securities in the airport company are held by—and shall cease to have effect upon the transfer of any equity securities in the airport company to any other person.
-  (a) a Minister of the Crown or his or her nominee; or
-  (b) a local authority or its nominee; or
-  (c) any combination of persons referred to in paragraphs (a) and (b),—
+[Repealed]
 
 ### 3D Airports operated by airport authorities which are not local authorities to be public works, etc
 An airport operated or managed by an airport authority which is not a local authority shall—
@@ -230,7 +222,7 @@ Subject to the provisions of this section, any local authority may, for the purp
 (1AAA) This section applies to each of the following airport companies until the end of the last day of the financial year that is referred to in section 56F of the Commerce Act 1986 in relation to that company:
   (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
   (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
-  (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport).
+  (c) the airport company (as defined in section 2 of this Act) that operates Christchurch International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport).
 (1AAB) After the end of that day, this section does not apply to that company, and references in this section to every airport company are references to every company other than that company.
 (1) The Governor-General may from time to time, by Order in Council, make regulations for any or all of the following purposes:
   (a) requiring every airport company, or every airport company of a specified class or classes (and, in particular, every specified airport company), to make publicly available information in relation to its identified airport activities or any of them, or any class or classes of its identified airport activities:
