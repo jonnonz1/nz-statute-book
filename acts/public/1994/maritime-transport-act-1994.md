@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2013-12-05_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2960,7 +2960,7 @@ In this Part, unless the context otherwise requires,—
   - **New Zealand marine incineration facility** means a marine incineration facility that is owned or managed by—
     (a) a New Zealand citizen; or
     (b) a person who is ordinarily resident in New Zealand; or
-    (c) a company registered under the Companies Act 1955 or the Companies Act 1993
+    (c) a company registered under the Companies Act 1993
   - **radioactive waste or other radioactive matter** means any waste or other matter containing any radioactive material within the meaning of the Radiation Protection Act 1965
   - **toxic or hazardous waste** means any waste or other matter specified as toxic or hazardous waste for the purposes of this definition by the marine protection rules
   - **waste or other matter** means material and substances of any kind, form, or description.
