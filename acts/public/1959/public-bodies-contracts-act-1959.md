@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -86,7 +86,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | National Council of Adult Education | Adult Education Act 1963 (1963 No 16) |
 | National Water and Soil Conservation Authority | Water and Soil Conservation Act 1967 (1967 No 135) |
 | Natural Gas Corporation of New Zealand | Natural Gas Corporation Act 1967 (1967 No 41) |
-| New Zealand Artificial Limb Board | Social Welfare (Transitional Provisions) Act 1990 (1990 No 26) |
+| New Zealand Artificial Limb Service | Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (1990 No 26) |
 | New Zealand Broadcasting Authority | Broadcasting Authority Act 1968 (1968 No 33) |
 | New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1972 (1972 No 35) |
 | New Zealand Film Commission | New Zealand Film Commission Act 1978 (1978 No 61) |
