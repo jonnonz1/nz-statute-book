@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
@@ -322,12 +322,7 @@ A trustee may, if and as he thinks fit,—and for any of those purposes may ente
 (6) This section applies to policies effected either before or after the commencement of this Act, but only to money received after the commencement thereof.
 
 ### 25A Power to treat share premium account distributions as income
-(1) In this section the term court order, in relation to any distribution by a company from its share premium account, means the order of the court made under section 77 of the Companies Act 1955 (as applied by section 64 of that Act) confirming the distribution.
-(2) Notwithstanding any enactment or rule of law to the contrary, a trustee of any stocks or shares in a company may in his discretion treat the whole or any part, not exceeding the maximum permitted fraction, of the proceeds of any distribution made to the trustee by the company from its share premium account as income for the purposes of the trust.
-(3) The maximum permitted fraction, in relation to the proceeds of any such distribution made to a trustee, is—yxwhere—xis the total amount of the distribution paid by the company to the holders of its stocks and shares; andyis the total amount required by the court order to be transferred by the company, by reason of the distribution, from revenue reserves or profits to a capital replacement fund (however described) that is not available to holders of stocks or shares otherwise than in pursuance of a reduction of the capital of the company duly confirmed by the court or in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.
-(4) For the purposes of this section, a trustee may act upon a certificate by the secretary of the company as to—
-  (a) the terms of the court order; and
-  (b) the total amount distributed or to be distributed by the company pursuant to the court order, and the total amount transferred or to be transferred to a capital replacement fund, in compliance with or in addition to the requirements of that order.
+[Repealed]
 
 ### 26 Deposit of documents for safe custody
 Subject to the provisions of section 13I, a trustee may deposit any documents held by him relating to the trust, or to the trust property, with any bank or corporation whose business includes the undertaking of the safe custody of documents, and any sum payable in respect of any such deposit shall be paid out of the income of the trust property, and so far as there is no available income out of the capital of the trust property.
