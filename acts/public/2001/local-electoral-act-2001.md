@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -2038,7 +2038,8 @@ In any proceedings for an offence in relation to any voting documents or other o
 (1) Subsection (2) applies if an electoral officer—
   (a) receives a written complaint that an offence has been committed under—
     (i) Part 5; or
-    (ii) this Part; or
+    (ii) Part 5A; or
+    (iii) this Part; or
   (b) believes for any other reason that an offence has been committed under either of the Parts specified in paragraph (a).
 (2) If this subsection applies, the electoral officer must—
   (a) report the complaint or belief to the Police; and
