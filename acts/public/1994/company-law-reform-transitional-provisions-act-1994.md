@@ -1,5 +1,5 @@
 # Company Law Reform (Transitional Provisions) Act 1994
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to amend various Acts and regulations consequent upon the enactment of the Companies Act 1993 and certain other Acts
 
