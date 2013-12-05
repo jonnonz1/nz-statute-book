@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1629,9 +1629,9 @@ For the purposes of section 97, one person is related to another person,—
   (b) if the other person is a company, where the person is a director or officer of the other person, or is related (within the meaning of paragraph (a)) to a director or officer of the other person, or is directly or indirectly able to exercise control over the affairs of the other person:
   (c) if the person is a company, where the other person is a director or officer of the person, or is related (within the meaning of paragraph (a)) to a director or officer of the person, or is directly or indirectly able to exercise control over the affairs of the person:
   (d) if the person and the other person are companies,—
-    (i) where the person is a holding company or a subsidiary of the other person within the meaning of section 158 of the Companies Act 1955 or section 5 of the Companies Act 1993, as the case may be; or
+    (i) where the person is a holding company or a subsidiary of the other person within the meaning of section 5 of the Companies Act 1993; or
     (ii) where the person owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the other person or the other person owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the person; or
-    (iii) where the person and the other person have the same holding company within the meaning of section 158 of the Companies Act 1955 or section 5 of the Companies Act 1993, or a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
+    (iii) where the person and the other person have the same holding company within the meaning of section 5 of the Companies Act 1993, or a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
 
 ### 97 Duty a charge on goods
 (1) Subject to subsection (3), the duty on any goods shall constitute a charge on those goods until fully paid.
@@ -1658,7 +1658,7 @@ For the purposes of section 97, one person is related to another person,—
   (c) a company in respect of the property of which a receiver has been appointed in circumstances to which section 30 of the Receiverships Act 1993 applies; or
   (d) an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation; or
   (e) an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) in respect of the property of which a receiver is appointed by the High Court—
-(2) In any case to which section 99 applies, the provisions of section 279 of the Companies Act 1955, section 305 of the Companies Act 1993, and sections 243, 244, and 246 to 250 of the Insolvency Act 2006 shall not apply.
+(2) In any case to which section 99 applies, the provisions of section 305 of the Companies Act 1993 and sections 243, 244, and 246 to 250 of the Insolvency Act 2006 shall not apply.
 
 ### 99 Rights and duties of chief executive in recovery of duty
 (1) In any case to which this section applies, the chief executive shall notify the Official Assignee or the liquidator or the receiver, as the case may be, that the unpaid duty constitutes a charge on the goods in accordance with section 97.
@@ -1710,7 +1710,7 @@ Section 101 applies to the recovery of unpaid duty—
 ### 101 Ranking of duty
 (1) Unpaid duty to which this section applies shall be paid in accordance with the following provisions of this section.
 (2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 274(5) of the Insolvency Act 2006.
-(3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 286 of, and Schedule 8C of, the Companies Act 1955, or section 312 of, and Schedule 7 of, the Companies Act 1993, as the case may be.
+(3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 312 of, and Schedule 7 of, the Companies Act 1993.
 (4) In the case of a company in respect of the property of which a receiver is appointed in circumstances to which section 30 of the Receiverships Act 1993 applies, the amount of duty to which this section applies shall be paid in accordance with the requirements of section 30(2) of the Receiverships Act 1993.
 (5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with section 17B of the Judicature Act 1908.
 (6) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) in respect of the property of which a receiver is appointed by the High Court, the amount of duty to which this section applies shall be paid in accordance with the directions of the court.
@@ -3716,15 +3716,15 @@ In section 280B, unless the context otherwise requires,—
   - **authorised officer** means any officer, employee, or agent of the department who, with the approval of the chief executive of the Customs, is authorised by the chief executive of the department to supply information or receive information from the chief executive of the Customs under section 280B
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
   - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
-  - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+  - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 280B Disclosure of arrival and departure information for purposes of mutual assistance provision contained in social security agreement
-(1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)(b) of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
+(1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)(b) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, to enable compliance with that agreement.
 (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs—
   (a) any identifying information supplied to the department by the Government of that country; and
   (b) any identifying information obtained by the department about a person who has applied for a benefit to which that social security agreement applies.
 (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of the Customs may compare that information with any arrival and departure information held by the Customs that relates to that person.
-(4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)(d) of the Social Welfare (Transitional Provisions) Act 1990:
+(4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
   (a) the person's full name:
   (b) the person's date of birth:
   (c) the person's sex:
@@ -4139,7 +4139,7 @@ Without limiting any other obligation imposed on the chief executive to give not
 
 ### 284 Giving of notice
 (1) A notice by the chief executive or an officer of Customs to a company may be given,—
-  (a) in the case of a company within the meaning of section 2 of the Companies Act 1955, by delivery to a person named as a director in the most recent particulars sent to the Registrar under section 200 of that Act; or
+  (a)
   (b) in the case of a company within the meaning of section 2 of the Companies Act 1993, by delivery to a person named as a director of the company on the New Zealand register; or
   (c) by delivery to an employee of the company at the company's head office or principal place of business; or
   (d) by leaving it at the company's registered office; or
