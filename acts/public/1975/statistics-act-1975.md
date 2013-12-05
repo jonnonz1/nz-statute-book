@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -67,7 +67,7 @@ Information may be required of any person in a position to provide it to enable 
   (p) other similar matters, and such other matters as are prescribed by regulations under this Act.
 
 ### 5 Necessity to inform Statistician of details of official statistics
-(1) As soon as practicable after the commencement of this Act, the chief executive of each government department shall inform the Statistician of the official statistics for which that department is responsible. This information may, if the Statistician requires, include details of the concepts, classifications, and schedules used, the statistical methods and procedures employed, the resources employed, the means of publishing the official statistics and all other such matters as the Statistician may require so that he can exercise his duties under this Act; and thereafter an appropriate officer shall advise the Statistician of these matters when any new official statistics or substantial alteration to existing official statistics is being proposed in relation to his department, or when any document which is being used or proposed to be used as the source of official statistics is being amended or drafted.
+(1) As soon as practicable after the commencement of this Act, the chief executive of each government department shall inform the Statistician of the official statistics for which that department is responsible. This information may, if the Statistician requires, include details of the concepts, classifications, and schedules used, the statistical methods and procedures employed, the resources employed, the means of publishing the official statistics and all other such matters as the Statistician may require so that he can exercise his duties under this Act; and thereafter an appropriate officer shall advise the Statistician of these matters when any new official statistics or substantial alteration to existing official statistics is being proposed in relation to his department, or when any document that is being used or proposed to be used as the source of official statistics is being amended or drafted.
 (2) The Statistician, after discussion with an appropriate officer of the government department concerned, may in any specific or general case, waive or relax, in whole or in part, the duty under subsection (1) in respect of that government department.
 (3) In the case of a disagreement between the parties in any discussion pursuant to subsection (2), the Minister shall decide the matter.
 
@@ -111,7 +111,7 @@ There shall from time to time be appointed under the State Sector Act 1988 an of
 ### 14 Duties of Government Statistician
 The duties of the Statistician shall be:
   (a) to make such reports to the Minister as are required by this Act, which reports shall have regard to the needs of user departments; and, where consultations have been held, shall include the results of such consultations:
-  (b) to advise the Minister on statistical policy matters, and where appropriate to confer with appropriate officers of other government departments to that end:
+  (b) to advise the Minister on statistical policy matters and, where appropriate, to confer with appropriate officers of other government departments to that end:
   (c) to keep the Minister informed of the statistical projects of all government departments, and to provide, where appropriate after consultation with an appropriate officer of any other government department concerned, any explanation required of the Statistician by the Minister of the purpose, scheme, methodology, and usefulness of any existing or proposed official statistical project:
   (d) to collect, with the written approval of the Minister, information concerning any or all of the matters specified in section 4:
   (e) to compile, analyse, abstract, and publish, with or without comments, official statistics:
@@ -127,7 +127,7 @@ The duties of the Statistician shall be:
 
 ### 15 Independence of Government Statistician
 (1) The Statistician shall have the sole responsibility for deciding the procedures and methods employed in the provision of any statistics produced or to be produced by the Statistician, and shall also have the sole responsibility for deciding the extent, form, and timing of publication of those statistics.
-(2) Notwithstanding the provisions of subsection (1), where at the direction of the Minister the Statistician is required to collect or cease collection of statistics of any kind provided for by this Act and the Statistician would not without such a requisition produce or cease production of those statistics, he shall carry out the direction of the Minister, but the Statistician in such circumstances may make public without comment the fact that the statistics have been collected and published, or that collection and publication has ceased, at the direction of the Minister.
+(2) Notwithstanding the provisions of subsection (1), where, at the direction of the Minister, the Statistician is required to collect or cease collection of statistics of any kind provided for by this Act and the Statistician would not without such a requisition produce or cease production of those statistics, he shall carry out the direction of the Minister, but the Statistician in such circumstances may make public without comment the fact that the statistics have been collected and published, or that collection and publication has ceased, at the direction of the Minister.
 
 ### 16 Annual report
 (1) The Statistician shall, as soon as practicable after the close of each financial year, furnish to the Minister a report on the administration of this Act during the financial year.
@@ -154,16 +154,16 @@ Any document purporting to be signed by or on behalf of the Statistician and giv
 
 ### 20A Proof of signature of Statistician and certain other persons
 (1) The stamped or printed signature of the Statistician, or any employee of the department, may be used on any schedule, certificate, notice, or other document in relation to the exercise by that person of his powers, duties, and functions under this Act.
-(2) Any schedule, certificate, notice, or other document purporting to bear the written, stamped, or printed signature of the Statistician, or any employee of the department, shall until the contrary is proved, be deemed to have been duly signed by the person whose signature it purports to bear.
+(2) Any schedule, certificate, notice, or other document purporting to bear the written, stamped, or printed signature of the Statistician, or any employee of the department shall, until the contrary is proved, be deemed to have been duly signed by the person whose signature it purports to bear.
 (3) Judicial notice shall be taken of every such signature and of the fact that the person whose signature it purports to be, holds or has held the office of Statistician, or is or has been an employee of the department, as the case may be.
 
 ### 21 Declaration of secrecy
-(1) Every employee of the department, before entering on his duties, shall take and subscribe a statutory declaration in the following form:I, [name], solemnly and sincerely declare that I will faithfully and honestly fulfil my duties as an employee of Statistics New Zealand in conformity with the requirements of the Statistics Act 1975 and of all regulations thereunder, and that any information acquired by me as an employee of that department will—
+(1) Every employee of the department, before entering on his duties, shall take and subscribe a statutory declaration in the following form:I, [name], solemnly and sincerely declare that I will faithfully and honestly fulfil my duties as an employee of Statistics New Zealand in conformity with the requirements of the Statistics Act 1975 and of all regulations thereunder, and that any information acquired by me as an employee of that department will,—
   (a) during my employment in that department, be disclosed by me only in accordance with my official duty; and
   (b) after I cease to be an employee of that department, be disclosed by me only with the authority of the department.”
 (2) Any employee of any government department, if engaged in the collection and processing of official statistics, and if the information so collected is primarily for statistical purposes and the respondent has been so informed shall, subject to agreement with an appropriate officer of the department concerned, if required to do so by the Statistician, make a similar statutory declaration of secrecy, regardless of whether he has made a declaration of secrecy under any other Act.
 (2A) An employee in the department responsible for the administration of the Public Records Act 2005 who has access to public records that are subject to the restriction of section 37(2) must, if required to do so by the Statistician, make a similar declaration of secrecy, whether or not that person has made a declaration of secrecy under any other Act.
-(3) An employee who has made a statutory declaration of secrecy under subsection (2) of this section or subsection (2)(b) of section 37C shall be deemed to be an employee of the department for the purposes of—
+(3) An employee who has made a statutory declaration of secrecy under subsection (2) of this section or subsection (2)﻿(b) of section 37C shall be deemed to be an employee of the department for the purposes of—
   (a) subsection (1) of this section; and
   (b) subsections (2) and (3) of section 37.
 (3A) In respect of subsections (2) and (3) of section 37, subsection (3) of this section shall relate only to the statistical collections with which the employee is associated.
@@ -193,7 +193,7 @@ The provisions of this Part shall apply with respect to the quinquennial census 
 (1) At every census of population and dwellings particulars relating to all of the following matters shall be obtained from every occupier or person in charge of a dwelling:
   (a) the name and address, sex, age, and ethnic origin of every occupant of the dwelling:
   (b) particulars of the dwelling as to location, number of rooms, ownership, and number of occupants on census night.
-(2) At any census of population and dwellings the Statistician may, if he considers it in the public interest so to do, obtain from every occupier or person in charge of a dwelling particulars relating to all or any of the following additional matters:
+(2) At any census of population and dwellings, the Statistician may, if he considers it in the public interest so to do, obtain from every occupier or person in charge of a dwelling particulars relating to all or any of the following additional matters:
   (a) the profession or occupation and industry in which employed, nationality and citizenship, health, marital condition, religion, birthplace, duration of residence in New Zealand, address where living at previous census or previous year, number of children, number of hours worked per week for wages or salary or financial reward, status in employment, name and address of employer, mode of transport to and from work, time taken to travel to work, income, address of usual residence, and service in the armed forces of every occupant of the dwelling:
   (b) particulars of the dwelling as to type and tenure of dwelling and nature of materials of structure, household amenities, rent paid, and details of any livestock:
   (c) any information relating to the kinds of statistics for which information may be required pursuant to section 4 or as may be prescribed by regulations under this Act.
@@ -218,18 +218,18 @@ The provisions of this Part shall apply with respect to the quinquennial census 
 (2B) If this subsection applies, the person in respect of whom particulars are required to be furnished under subsection (1) must—
   (a) ask the occupier or person in charge of the dwelling to supply a paper schedule; or
   (b) obtain a paper schedule in accordance with the details published by the Statistician of how to obtain a schedule.
-(2C) An occupier or a person in charge of a dwelling who is asked under subsection (2B)(a) to supply a paper schedule to a person must make reasonable endeavours to do so.
+(2C) An occupier or a person in charge of a dwelling who is asked under subsection (2B)﻿(a) to supply a paper schedule to a person must make reasonable endeavours to do so.
 (2D) Any person in respect of whom particulars are required to be furnished under subsection (1), and who is not a member of the family of the occupier or person in charge of the dwelling, must—
   (a) fill in any schedule or schedules that are personal to himself or herself; and
   (b) furnish to the occupier or person in charge of the dwelling any particulars necessary for filling in any other schedule or schedules.
-(2E) A person who fills in a schedule pursuant to subsection (2D)(a) must,—
+(2E) A person who fills in a schedule pursuant to subsection (2D)﻿(a) must,—
   (a) in the case of a paper schedule,—
     (i) return the schedule in accordance with any instructions received from the Statistician when the schedule was obtained; or
     (ii) hand the schedule to the occupier or person in charge of the dwelling:
   (b) in the case of an electronic schedule, either—
     (i) return the schedule himself or herself; or
     (ii) allow the occupier or person in charge of the dwelling to return the schedule.
-(2F) A person who is aged 15 years or over may deliver a paper schedule that he or she filled in pursuant to subsection (2D)(a) to the occupier or person in charge of the dwelling in a sealed envelope endorsed with the following information:
+(2F) A person who is aged 15 years or over may deliver a paper schedule that he or she filled in pursuant to subsection (2D)﻿(a) to the occupier or person in charge of the dwelling in a sealed envelope endorsed with the following information:
   (a) the census district number:
   (b) the census sub-district number:
   (c) the schedule number or numbers:
@@ -294,26 +294,34 @@ Every person from whom particulars for the purposes of any statistical inquiry m
 ### 33 Questions asked by Statistician to be answered
 Every person who can be lawfully required to provide information pursuant to this Act shall, for the purpose of providing that information, to the best of his knowledge and belief, answer all questions asked him by the Statistician, or by any employee of the department authorised in writing by or on behalf of the Statistician.
 
+### 33A Waiver of obligation to answer questions
+(1) This section applies to the collection of statistics by the statistician under this Part or under an agreement made by the statistician under section 9.
+(2) The statistician may waive the application of all or any of sections 31, 32, and 33 to the collection of particular statistics if satisfied that—
+  (a) special circumstances of sensitivity apply to some of the questions asked and it is inappropriate to compel answers to those particular questions; and
+  (b) the information is being collected to enable the production of official statistics of any or all of the kinds described in section 4(a), (b), (d), and (i); and
+  (c) the statistical validity of the information being collected will not be unduly compromised.
+(3) To avoid doubt, if the statistician has granted a waiver under subsection (2) in relation to any question, any person who would otherwise be required to answer the question does not commit an offence against section 43 if the person declines to answer the question.
+
 ### 34 Completion of schedules by New Zealand agents of overseas traders carrying on business in New Zealand
 The provisions of this Act relating to the filling in, signing, and returning to the department of schedules and the answering of questions shall, in the case of a person residing outside New Zealand or a corporation incorporated outside New Zealand and in either case carrying on business in New Zealand, be complied with by the manager, attorney, or other agent of that person or corporation in New Zealand.
 
 ### 35 Right of entry
-(1) Subject to subsections (2) and (3), for the purpose of making any inquiries or observations necessary for obtaining the statistics to be collected under the authority of this Act, the Statistician, or any employee of the department authorised in writing by him, may—
-  (a) at any reasonable time enter any factory, farm, mine, workshop, office, or place of business, whether carried on solely by the occupier or otherwise, and may inspect any part of the premises, any goods which are being stored or offered for sale, and any books of account, vouchers, documents, or other business records; and
+(1) Subject to subsections (2) and (3), for the purpose of making any inquiries or observations necessary for obtaining the statistics to be collected under the authority of this Act, the Statistician, or any employee of the department authorised in writing by him, may,—
+  (a) at any reasonable time, enter any factory, farm, mine, workshop, office, or place of business, whether carried on solely by the occupier or otherwise, and may inspect any part of the premises, any goods that are being stored or offered for sale, and any books of account, vouchers, documents, or other business records; and
   (b) require any person who, by reason of his office, would normally be expected to have the custody of any books of account, vouchers, documents, or other business records to produce the same for inspection within 48 hours or such longer period as may be specified in the requisition at the time it is made.
 (2) The Statistician and any employee of the department authorised in writing by him as aforesaid shall not exercise any of the powers conferred by subsection (1) unless—
   (a) the occupier of the factory, farm, mine, workshop, office, or place of business consents to the entry and inspection, or the person who, by reason of his office, would normally be expected to have the custody of any such books of account, vouchers, documents, or other business records, consents to their production; or
   (b) the Statistician or the employee of the department obtains a warrant authorising him to exercise those powers in accordance with subsection (3).
-(3) Where any District Court Judge or Justice or Community Magistrate is satisfied, on application in writing made on oath, that there is reasonable ground for believing that it is necessary for the purpose of making any inquiries or observations necessary for obtaining the statistics to be collected under the authority of this Act for the Statistician or any employee of the department authorised in writing by him to exercise, in relation to any factory, farm, mine, workshop, office, or place of business any of the powers conferred by subsection (1)(a) or in relation to any person any of the powers conferred by subsection (1)(b), he may, by warrant under his hand, authorise the Statistician or any such employee of the department to exercise those powers in relation to that factory, farm, mine, workshop, office, or place of business or in relation to that person, as the case may require.
-(4) Every warrant issued under subsection (3) shall authorise the person named in the warrant—
-  (a) at any reasonable time to enter any factory, farm, mine, workshop, office, or place of business, whether carried on solely by the occupier or otherwise, and inspect any part of the premises, any goods which are being stored or offered for sale, and any books of account, vouchers, documents, or other business records; and
+(3) Where any District Court Judge or Justice or Community Magistrate is satisfied, on application in writing made on oath, that there is reasonable ground for believing that it is necessary for the purpose of making any inquiries or observations necessary for obtaining the statistics to be collected under the authority of this Act for the Statistician or any employee of the department authorised in writing by him to exercise, in relation to any factory, farm, mine, workshop, office, or place of business any of the powers conferred by subsection (1)﻿(a) or in relation to any person any of the powers conferred by subsection (1)﻿(b), he may, by warrant under his hand, authorise the Statistician or any such employee of the department to exercise those powers in relation to that factory, farm, mine, workshop, office, or place of business or in relation to that person, as the case may require.
+(4) Every warrant issued under subsection (3) shall authorise the person named in the warrant,—
+  (a) at any reasonable time, to enter any factory, farm, mine, workshop, office, or place of business, whether carried on solely by the occupier or otherwise, and inspect any part of the premises, any goods which are being stored or offered for sale, and any books of account, vouchers, documents, or other business records; and
   (b) require any person who, by reason of his office, would normally be expected to have the custody of any books of account, vouchers, documents, or other business records to produce the same for inspection within 48 hours or such longer period as may be specified in the requisition at the time it is made.
 (5) Every such warrant shall continue in force until the purpose for which it was granted has been satisfied.
-(6) The Statistician or any employee of the department authorised in writing by the Statistician to exercise any of the powers conferred by paragraphs (a) and (b) of subsection (1) shall—
-  (a) in the case of the exercise of the powers conferred by subsection (1)(a) (except where those powers are exercised pursuant to a warrant issued under subsection (3))—
+(6) The Statistician or any employee of the department authorised in writing by the Statistician to exercise any of the powers conferred by paragraphs (a) and (b) of subsection (1) shall,—
+  (a) in the case of the exercise of the powers conferred by subsection (1)﻿(a) (except where those powers are exercised pursuant to a warrant issued under subsection (3)),—
     (i) give to the occupier thereof reasonable notice of his intention to enter the factory, farm, mine, workshop, office, or place of business, which notice shall include the purpose for which and the time at which it is proposed to enter and particulars of the statutory authority for the exercise by the Statistician or the employee of the department of the right of entry and inspection; and
     (ii) at the time of entry and, if he is requested to do so, at any subsequent time, produce the authorisation in writing given to that employee by the Statistician; and
-  (b) in the case of the exercise of the powers conferred by subsection (1)(b) (except where those powers are exercised pursuant to a warrant issued under subsection (3))—
+  (b) in the case of the exercise of the powers conferred by subsection (1)﻿(b) (except where those powers are exercised pursuant to a warrant issued under subsection (3))—
     (i) give to the person required to produce the books of account, vouchers, documents, or other business records particulars of the statutory authority for the exercise by him of that power; and
     (ii) at the time when that power is exercised, produce the authorisation in writing given to that employee by the Statistician; and
   (c) where those powers are exercised pursuant to a warrant issued under subsection (3), produce that warrant at the time of the exercise by him of those powers.
@@ -329,11 +337,11 @@ Where necessary to determine precisely the specifications of goods the price or 
 (4) All statistical information published by the Statistician shall be arranged in such a manner as to prevent any particulars published from being identifiable by any person (other than the person by whom those particulars were supplied) as particulars relating to any particular person or undertaking, unless—
   (a) that person or the owner of that undertaking has consented to their publication in that manner, or has already permitted their publication in that manner; or
   (b) their publication in that manner could not reasonably have been foreseen by the Statistician or any employee of the department.
-(5) For the purposes of subsection (4) the Statistician shall make such office rules as he considers necessary.
+(5) For the purposes of subsection (4), the Statistician shall make such office rules as he considers necessary.
 (6) Subsections (2) and (3) apply notwithstanding any provision contained in the Customs and Excise Act 1996, the Tax Administration Act 1994 or any other Act.
 
 ### 37A Statistician authorised to disclose certain information
-Notwithstanding section 37, the Statistician may disclose the following information—
+Notwithstanding section 37, the Statistician may disclose the following information:
   (a) information supplied by a person or undertaking in respect of which disclosure is consented to in writing by the person, or a competent officer of the undertaking, who or which supplied it:
   (b) information available to the public under any Act or public document:
   (c) information in the form of an index or list of the names and addresses of individual undertakings, together with the industrial classification allotted to them and the number of persons engaged:
@@ -362,14 +370,14 @@ Notwithstanding section 37, particulars of any information collected jointly wit
 Despite section 37, the Statistician may authorise the disclosure, after 100 years, of individual schedules (whether provided under Part 3 or otherwise) that the Statistician has classified as historical documents, after having regard to the advice of the Chief Archivist.
 
 ### 37DA Disclosure of individual schedules for statistical purposes
-(1) Despite sections 37 and 37C, on and from the date of the transfer under section 22(3)(a) of the Public Records Act 2005 of individual schedules provided to the Statistician under Part 3, the Statistician must authorise, solely for statistical purposes, the disclosure of those individual schedules.
+(1) Despite sections 37 and 37C, on and from the date of the transfer under section 22(3)﻿(a) of the Public Records Act 2005 of individual schedules provided to the Statistician under Part 3, the Statistician must authorise, solely for statistical purposes, the disclosure of those individual schedules.
 (2) An individual schedule must not be disclosed under this section unless—
   (a) every person involved in the statistical project makes a statutory declaration similar to the declaration of secrecy prescribed by section 21; and
   (b) the Statistician is satisfied that the security of the individual schedules and any information contained in them will not be impaired.
 (3) The published results of a statistical project referred to in subsection (2) must not divulge more information than the Statistician could publish under this Part.
 
 ### 37E Security of recorded information
-In respect of the statistical information which the Statistician collects pursuant to this Act, where such information from individual schedules, worksheets, or any other confidential source is to be copied or recorded by means of cards, tapes, discs, wires, films, or any other method, whether using encoded or plain language symbols for the processing, storage, or reproduction of particulars, the Statistician is hereby empowered to take and shall take such steps as are necessary to ensure that the security provisions in this Act are complied with.
+In respect of the statistical information that the Statistician collects pursuant to this Act, where such information from individual schedules, worksheets, or any other confidential source is to be copied or recorded by means of cards, tapes, discs, wires, films, or any other method, whether using encoded or plain language symbols for the processing, storage, or reproduction of particulars, the Statistician is hereby empowered to take and shall take such steps as are necessary to ensure that the security provisions in this Act are complied with.
 
 ### 37F Power of Statistician to release information to New Zealand Meat Producers Board
 (1) For the purposes of this section,—
@@ -384,7 +392,7 @@ In respect of the statistical information which the Statistician collects pursua
     (i) states that the Statistician is authorised in accordance with this section to disclose the name and address of any person as a farmer or wool grower unless that person objects in the manner prescribed by the schedule or in writing to such disclosure; and
     (ii) states the purposes for which any information disclosed under this section may be used; and
   (b) that farmer or wool grower does not object in the manner prescribed by the schedule or in writing to the disclosure of his name and address.
-(4) The Meat Board shall use the index or list supplied to it under subsection (2)(a) only—
+(4) The Meat Board shall use the index or list supplied to it under subsection (2)﻿(a) only—
   (a) for the purposes of regulations prescribing procedures for the election of directors; or
   (b) for the purposes of distributing to the farmers named in the index or list copies of the annual report and other publications of the Meat Board.
 (5)
@@ -401,7 +409,7 @@ Except in respect of a prosecution under this Act, no return made pursuant to th
 ### 40 Omission to carry out duty, false declaration, unlawful information, and improper divulging of information
 Every person employed in the execution of any duty or the exercise of any power or function under this Act commits an offence who,—
   (a) after having taken the prescribed statutory declaration, omits (without lawful excuse) to carry out his duty under this Act, or knowingly makes any false declaration, statement, or return touching any such matter; or
-  (b) in the pretended performance of his duties thereunder, obtains or seeks to obtain information which he is not duly authorised to obtain; or
+  (b) in the pretended performance of his duties thereunder, obtains or seeks to obtain information that he is not duly authorised to obtain; or
   (c) knowingly fails to keep inviolate the secrecy of the information gathered or entered on the schedules collected by the Statistician pursuant to this Act and, except as allowed by this Act, divulges the contents of any schedule filled in or any information furnished to the Statistician under this Act.
 
 ### 41 Obstruction of employees of department
@@ -425,12 +433,12 @@ Every person commits an offence who, without lawful excuse, destroys, defaces, r
 
 ### 45A Offence to use information for unauthorised purpose or fail to comply with directions
 (1) Every person to whom individual schedules are disclosed under section 37C commits an offence who knowingly contravenes—
-  (a) section 37C(4)(a); or
-  (b) section 37C(4)(b).
+  (a) section 37C(4)﻿(a); or
+  (b) section 37C(4)﻿(b).
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000.
 
 ### 46 Other offences
-Every person commits an offence who—
+Every person commits an offence who,—
   (a) without lawful excuse, acts in contravention of or fails to comply in any respect with any provision of this Act or any requirement imposed under this Act; or
   (b) wilfully deceives or attempts to deceive the Statistician or any employee of the department in the exercise of any powers, duties, or functions under this Act.
 
