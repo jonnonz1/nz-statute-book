@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -121,7 +121,7 @@ This Act binds the Crown.
   (f) conspiracy to commit an offence of the kind referred to in paragraph (d).
 
 ### 4A Detained under sentence of imprisonment
-(1) For the purposes of section 4 and Part 3, a person is detained under a sentence of imprisonment if he or she has been convicted of a relevant offence and in relation to that offence he or she is detained under a sentence of imprisonment—
+(1) For the purposes of section 4 and Part 3, a person is detained under a sentence of imprisonment if he or she has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and in relation to that offence he or she is detained under a sentence of imprisonment—
   (a) in a prison; or
   (b) in a residence administered by the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
   (c) in, or on leave from, a hospital—
@@ -132,11 +132,11 @@ This Act binds the Crown.
     (i) following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
     (ii) under an order under section 34(1)﻿(a)﻿(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) To avoid doubt, a person is detained under a sentence of imprisonment under subsection (1) if he or she is detained in any manner described in that subsection,—
-  (a) under cumulative sentences of imprisonment (treated as 1 term under section 92(2) of the Criminal Justice Act 1985) or a notional single sentence (as that term is defined under section 4(1) of the Parole Act 2002), a sentence of imprisonment within which, or a component of which, is for a relevant offence, whether or not he or she has—
-    (i) reached the start date of the sentence or component that relates to the relevant offence; or
-    (ii) passed the release date of the sentence or component that relates to the relevant offence; or
-  (b) under a concurrent sentence of imprisonment imposed on him or her before he or she was released from an earlier sentence of imprisonment imposed for a relevant offence.
-(3) To avoid doubt, a person is not detained under a sentence of imprisonment under subsection (1) if he or she has been convicted of a relevant offence and in relation to that offence he or she is—
+  (a) under cumulative sentences of imprisonment (treated as 1 term under section 92(2) of the Criminal Justice Act 1985) or a notional single sentence (as that term is defined under section 4(1) of the Parole Act 2002), a sentence of imprisonment within which, or a component of which, is for an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, whether or not he or she has—
+    (i) reached the start date of the sentence or component that relates to the offence; or
+    (ii) passed the release date of the sentence or component that relates to the offence; or
+  (b) under a concurrent sentence of imprisonment imposed on him or her before he or she was released from an earlier sentence of imprisonment imposed for an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
+(3) To avoid doubt, a person is not detained under a sentence of imprisonment under subsection (1) if he or she has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and in relation to that offence he or she is—
   (a) serving a sentence of imprisonment by way of home detention; or
   (ab) subject to residential restrictions imposed under section 15 of the Parole Act 2002
   (b) detained in a prison subject to an interim recall order.
@@ -587,11 +587,14 @@ A notice given under section 24M—
 There may be maintained (whether in computerised form or otherwise), by or on behalf of the Police, a database of DNA profiles derived from bodily samples taken under this Part.
 
 ### 24P Information that may be kept on Part 2B temporary databank
-A DNA profile derived from a bodily sample taken under this Part may be stored on a Part 2B temporary databank only if—
-  (a) the person from whom the bodily sample was taken has been charged with the triggering offence, or a related relevant offence; and
+(1) A DNA profile derived from a bodily sample taken under this Part may be stored on a Part 2B temporary databank only if—
+  (a) the person from whom the bodily sample was taken has been charged with the triggering offence, or a related offence; and
   (b) circumstances have not yet arisen where—
     (i) records of the DNA profile must be destroyed under section 60A; or
     (ii) the DNA profile may be stored on a DNA profile databank under section 26(ab) or (ac).
+(2) In this section, related offence means—
+  (a) a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, if the bodily sample was taken under section 24J; or
+  (b) a related relevant offence, if the bodily sample was taken under section 24K.
 
 ### 24Q Removal of DNA profiles from Part 2B temporary databank
 When either of the circumstances in section 24P(b)﻿(i) or (ii) has arisen in relation to a DNA profile, the DNA profile must be removed from the Part 2B temporary databank.
@@ -764,7 +767,7 @@ A databank request made to any person may be made in conjunction with a suspect 
   (c) every record, to the extent that it contains—
     (i) information about the sample; and
     (ii) particulars that are identifiable by any person as particulars identifying that information with the person from whom the sample was taken,—
-(2) Nothing in subsection (1) applies in respect of any bodily sample, or any information derived from any analysis of any bodily sample, in any case where, after the sample has been taken, the person from whom the sample was taken has been convicted of a relevant offence (unless that conviction has been quashed).
+(2) Nothing in subsection (1) applies in respect of any bodily sample, or any information derived from any analysis of any bodily sample, in any case where, after the sample has been taken, the person from whom the sample was taken has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule (unless that conviction has been quashed).
 (3) Where,—then, notwithstanding anything in subsection (1), that bodily sample and any information derived from any analysis of that sample may continue to be dealt with in accordance with the consent given in response to the suspect request.
   (a) a databank request has been made in conjunction with a suspect request; and
   (b) the person to whom the requests have been made has consented to the taking of a bodily sample in response to both requests; and
@@ -872,21 +875,21 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 ### 39C Date and place for taking of sample to be specified in databank compulsion notice
 (1) A constable who is of or above the level of position of inspector who issues a databank compulsion notice must specify in the notice the place where and the date on which the person to whom the notice relates is to attend to give a bodily sample.
 (2) If a person to whom a databank compulsion notice relates is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, the place the constable who is of or above the level of position of inspector must specify under subsection (1) must be the residence at which the person is detained or is required to remain, unless the constable who is of or above the level of position of inspector is of the view that it is necessary for the person to give the sample at another place on account of the person’s state of health.
-(3) If a person to whom a databank compulsion notice relates is not detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)—
+(3) If a person to whom a databank compulsion notice relates is not detained under a sentence of imprisonment for the offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)—
   (a) must be later than the 14th day after the date on which the notice is served; and
-  (b) must be before the date 6 months after the date the person’s conviction for the relevant offence was entered.
-(4) If the person to whom a databank compulsion notice relates is detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)—
+  (b) must be before the date 6 months after the date the person’s conviction for the offence was entered.
+(4) If the person to whom a databank compulsion notice relates is detained under a sentence of imprisonment for the offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)—
   (a) must be later than the 14th day after the date on which the notice is served; and
   (b) must be before the later of the 2 following dates:
-    (i) the date the person is released from being detained under a sentence of imprisonment for the relevant offence; or
-    (ii) the date 6 months from the date on which the conviction for the relevant offence was entered.
+    (i) the date the person is released from being detained under a sentence of imprisonment for the offence; or
+    (ii) the date 6 months from the date on which the conviction for the offence was entered.
 
 ### 39D Parent or other person having care to be notified if Police suggest variation of databank compulsion notice issued in relation to person under age of 17 years
 (1) If a constable suggests varying, under section 39A(2)﻿(c), the place where, the date on which, or the place where and the date on which a person under the age of 17 years is to attend to give a bodily sample pursuant to a databank compulsion notice, the constable must take all reasonable steps to notify a parent or other person having the care of the person of the suggested variation.
 (2) If a constable suggests varying, under section 39A(3)﻿(b)﻿(ii), the date on which a person under the age of 17 years is to attend to give a bodily sample pursuant to a databank compulsion notice, the constable must take all reasonable steps to notify a parent or other person having the care of the person of the suggested variation.
 
-### 40 Databank compulsion notice of no effect if conviction for relevant offence quashed
-(1) A databank compulsion notice ceases to have effect if, before a bodily sample is taken pursuant to the notice, the person’s conviction for the relevant offence in relation to which the notice has been issued is quashed.
+### 40 Databank compulsion notice of no effect if conviction quashed
+(1) A databank compulsion notice ceases to have effect if, before a bodily sample is taken pursuant to the notice, the person’s conviction for the offence in relation to which the notice has been issued is quashed.
 (2) If subsection (1) applies, a constable must,—
   (a) as soon as practicable after the conviction is quashed, notify the person to whom the notice relates and, in the case of a person under the age of 17 years, a parent or other person having the care of that person that—
     (i) the notice is of no effect; and
@@ -900,24 +903,24 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (1) A person served with a databank compulsion notice or required to be served with a databank compulsion notice under section 39(2) may, before the date specified in the notice as the date on which the person to whom the notice relates is to attend to give a bodily sample, request a constable to arrange a databank compulsion notice hearing before a Judge of the appropriate court.
 (2) A databank compulsion notice hearing may only be requested on 1 or more of the following grounds:
   (a) that—
-    (i) the offence in relation to which the databank compulsion notice has been issued is not a relevant offence; or
-    (ii) the conviction for the relevant offence in relation to which the databank compulsion notice has been issued is not a conviction to which this Part applies:
-  (b) that the conviction for the relevant offence in relation to which the databank compulsion notice has been issued—
+    (i) the offence in relation to which the databank compulsion notice has been issued is not an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; or
+    (ii) the conviction for the offence in relation to which the databank compulsion notice has been issued is not a conviction to which this Part applies:
+  (b) that the conviction for the offence in relation to which the databank compulsion notice has been issued—
     (i) was quashed before the notice was issued; or
     (ii) was quashed after the notice was issued but before the sample was taken and the Police have not notified the person that the notice is of no effect under section 40(2):
   (c) that all 3 methods available for the taking of a bodily sample will cause serious harm to the person’s health on the date specified in the databank compulsion notice as the date on which the person to whom the notice relates is to attend to give a bodily sample:
   (d) that the date specified in the databank compulsion notice as the date on which the person to whom the notice relates is to attend to give a bodily sample is a date on or before the date that is 14 days after the date on which the notice was served:
   (e) that the date specified in the databank compulsion notice as the date on which the person to whom the notice relates is to attend to give a bodily sample is,—
-    (i) if the person is not detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, a date that is on or after the date 6 months after the date the person’s conviction for the relevant offence was entered; or
-    (ii) if the person is detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, a date that is on or after the later of the 2 following dates:
-      (A) the date the person is to be released from being detained under a sentence of imprisonment for the relevant offence; or
-      (B) the date 6 months after the date the person’s conviction for the relevant offence was entered:
+    (i) if the person is not detained under a sentence of imprisonment for the offence in relation to which the notice is issued at the time the notice is served, a date that is on or after the date 6 months after the date the person’s conviction for the offence was entered; or
+    (ii) if the person is detained under a sentence of imprisonment for the offence in relation to which the notice is issued at the time the notice is served, a date that is on or after the later of the 2 following dates:
+      (A) the date the person is to be released from being detained under a sentence of imprisonment for the offence; or
+      (B) the date 6 months after the date the person’s conviction for the offence was entered:
   (f) that the person to whom the databank compulsion notice relates was not served with the notice:
   (g) if the person in relation to whom the databank compulsion notice has been issued is under the age of 17 years,—
     (i) that person was not served with the notice; or
     (ii) that all reasonable steps have not been taken to serve the parent or other person having the care of the person with a copy of the notice.
 (3) If a databank compulsion notice is issued in relation to a person who is under the age of 17 years, that person’s parent or other person having the care of that person may request a hearing under any of the grounds set out in subsection (2).
-(4) In this section and section 41B, the appropriate court is the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence, or is due to appear for sentence for the relevant offence, in relation to which the notice has been issued.
+(4) In this section and section 41B, the appropriate court is the court before which the person to whom the databank compulsion notice relates was sentenced for the offence, or is due to appear for sentence for the offence, in relation to which the notice has been issued.
 
 ### 41A Form and effect of request for databank compulsion notice hearing
 (1) A request for a databank compulsion notice hearing—
@@ -978,14 +981,14 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 
 ### 43A Change of circumstances before databank compulsion notice hearing takes place or is completed
 (1) Subsection (2) applies if,—
-  (a) in the case of a person who was not detained under a sentence of imprisonment in relation to the relevant offence for which a databank compulsion notice was issued at the time the databank compulsion notice was served,—
+  (a) in the case of a person who was not detained under a sentence of imprisonment in relation to the offence for which a databank compulsion notice was issued at the time the databank compulsion notice was served,—
     (i) that person makes a request for a databank compulsion notice hearing on any of the grounds set out in section 41(2); and
-    (ii) before an application is made for a databank compulsion notice hearing, after an application is made but before the matter is considered by a Judge, or before consideration of the matter is complete, a date is reached that is 6 months or more since the person’s conviction for the relevant offence in relation to which the databank compulsion notice was issued was entered:
-  (b) in the case of a person who was detained under a sentence of imprisonment for the relevant offence in relation to which a databank compulsion notice was issued at the time a databank compulsion notice was served,—
+    (ii) before an application is made for a databank compulsion notice hearing, after an application is made but before the matter is considered by a Judge, or before consideration of the matter is complete, a date is reached that is 6 months or more since the person’s conviction for the offence in relation to which the databank compulsion notice was issued was entered:
+  (b) in the case of a person who was detained under a sentence of imprisonment for the offence in relation to which a databank compulsion notice was issued at the time a databank compulsion notice was served,—
     (i) that person makes a request for a databank compulsion notice hearing on any of the grounds set out in section 41(2); and
     (ii) before an application is made for a databank compulsion notice hearing, after an application is made but before the matter is considered by a Judge, or before consideration of the matter is complete, the later of the 2 following dates is reached:
-      (A) the date of the person’s release from detention under a sentence of imprisonment for the relevant offence in relation to which the databank compulsion notice was issued; or
-      (B) the date that is 6 months from the date on which the conviction for the relevant offence in relation to which the databank compulsion notice was issued was entered.
+      (A) the date of the person’s release from detention under a sentence of imprisonment for the offence in relation to which the databank compulsion notice was issued; or
+      (B) the date that is 6 months from the date on which the conviction for the offence in relation to which the databank compulsion notice was issued was entered.
 (2) If this subsection applies,—
   (a) a databank compulsion notice hearing must take place and be completed as if the applicable date referred to in subsection (1)﻿(a)﻿(ii) or (b)﻿(ii) had not been reached; and
   (b) a Judge—
@@ -1004,7 +1007,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 
 ### 44 Further databank compulsion notice
 (1) If a person to whom a databank compulsion notice relates has given a bodily sample pursuant to that notice, a further databank compulsion notice must not be issued in relation to that person for the same conviction without the leave of a Judge of the appropriate court on an application from a constable who is of or above the level of position of sergeant.
-(2) In this section, the appropriate court is the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence in relation to which the notice has been issued, or is due to appear for sentence for the relevant offence in relation to which the notice has been issued.
+(2) In this section, the appropriate court is the court before which the person to whom the databank compulsion notice relates was sentenced for the offence in relation to which the notice has been issued, or is due to appear for sentence for the offence in relation to which the notice has been issued.
 
 ### 44A Certain matters relating to further databank compulsion notice
 (1) A Judge must not grant leave for a further databank compulsion notice to be issued unless he or she is satisfied that it is necessary to obtain another bodily sample from the person in relation to whom the databank compulsion notice was issued because—
@@ -1042,7 +1045,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (2) If a compulsion order is made or a databank compulsion notice is issued, a Judge of the appropriate court may, on an application made by the applicant for the order, or any other constable who is of or above the level of position of sergeant, direct the issue of a warrant to arrest and detain the person to whom the order or notice relates, subject to section 45A(2)﻿(b), until a bodily sample is taken.
 (3) For the purposes of subsection (2), the appropriate court is,—
   (a) in relation to a compulsion order, the court in which the compulsion order was made; and
-  (b) in relation to a databank compulsion notice, the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence, or is due to appear for sentence for the relevant offence, in relation to which the notice has been issued.
+  (b) in relation to a databank compulsion notice, the court before which the person to whom the databank compulsion notice relates was sentenced for the offence, or is due to appear for sentence for the offence, in relation to which the notice has been issued.
 (4) A Judge must not direct the issue of a warrant before the date specified in a compulsion order or databank compulsion notice on which the person to whom the order or notice relates is to attend to give a bodily sample, unless the Judge is satisfied by evidence given on oath—
   (a) that the person to whom the order or notice relates is unlikely to attend to give a bodily sample on the date specified in the order or notice, either—
     (i) because the person to whom the order or notice relates has absconded; or
@@ -1107,7 +1110,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
   (c) do both of the matters referred to in paragraphs (a) and (b).
 (2) For the purposes of subsection (1), the appropriate court is,—
   (a) in relation to a compulsion order, the court in which the compulsion order was made; and
-  (b) in relation to a databank compulsion notice, the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence, or is due to appear for sentence for the relevant offence, in relation to which the notice has been issued.
+  (b) in relation to a databank compulsion notice, the court before which the person to whom the databank compulsion notice relates was sentenced for the offence, or is due to appear for sentence for the offence, in relation to which the notice has been issued.
 (3) An application may be made under this section at any time, whether before or after the date specified in the compulsion order or databank compulsion notice as the date on which the person to whom the order or notice relates is to attend to give a bodily sample.
 (4) If a place, date, or place and date is varied under subsection (1), the varied place, date, or place and date must be treated for the purposes of the relevant compulsion order or databank compulsion notice, and this Act, as the place, date, or place and date specified in the order or notice.
 (5) A Judge may, if he or she considers it appropriate, on an application under this section, vary a compulsion order or databank compulsion notice in any manner he or she thinks fit, including (without limitation) variation of—
@@ -1379,11 +1382,14 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
     (ii) particulars that are identifiable by any person as particulars identifying that information with the person from whom the sample was taken.
 (2) The Commissioner must ensure that the bodily sample referred to in subsection (1)﻿(a) is destroyed as soon as practicable after a DNA profile is obtained from the sample.
 (3) The Commissioner must ensure that any record referred to in subsection (1)﻿(b) and (c) is destroyed,—
-  (a) subject to section 61, as soon as practicable after the expiry of the period of 2 months beginning on the date on which the sample is taken, if the person is not charged with the triggering offence, or a related relevant offence, before the expiry of that period; or
+  (a) subject to section 61, as soon as practicable after the expiry of the period of 2 months beginning on the date on which the sample is taken, if the person is not charged with the triggering offence, or a related offence, before the expiry of that period; or
   (b) if the person is charged with such an offence before the expiry of that period, as soon as practicable after the first of the following to occur:
     (i) the charge is withdrawn; or
     (ii) the person is acquitted of the offence.
 (4) Nothing in this section requires the destruction of a DNA profile that may lawfully be retained in a DNA profile databank.
+(5) In this section, related offence means—
+  (a) a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, if the bodily sample was taken under section 24J; or
+  (b) a related relevant offence, if the bodily sample was taken under section 24K.
 
 ### 61 Extension of period for which sample may be retained
 (1) On application in accordance with this section, a District Court Judge may,—
@@ -1395,7 +1401,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (b) may be made at any time before the relevant period (or any current extension of the relevant period granted pursuant to this section) has expired; and
   (c) shall be made ex parte.
 (3) An extension or, as the case requires, a further extension of the relevant period may be granted under this section only if the District Court Judge is satisfied—
-  (a) that the person from whom the bodily sample was taken has not been charged with the triggering offence, or a related relevant offence; and
+  (a) that the person from whom the bodily sample was taken has not been charged with the triggering offence, or a related offence; and
   (b) either of the circumstances mentioned in subsection (3A) exists.
 (3A) The circumstances referred to in subsection (3) are—
   (a) that there is still good cause to suspect that the person committed an offence referred to in subsection (3)﻿(a) and—
@@ -1408,6 +1414,9 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (a) for a period of not more than 6 months; or
   (b) where the relevant period has previously been extended for periods that amount, in the aggregate, to 1 year or more, for a period of not more than 12 months—
 (5) Where an application for the extension or, as the case requires, the further extension of the relevant period is duly made before the expiry of that period (or, as the case requires, of any current extension of that period granted under this section), then, until the application is determined, the sample (in the case of a sample taken under Part 2) and any records to which the application relates may be retained notwithstanding the expiration of that period or, as the case requires, any extension of that period.
+(6) In this section, related offence means—
+  (a) a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, if the bodily sample was taken under section 24J; or
+  (b) a related relevant offence, if the bodily sample was taken under section 24K.
 
 ### 61A Disposal of buccal samples and identifying information obtained under Part 2A
 (1) The Commissioner must ensure that a buccal sample taken from a suspect as a result of a Part 2A request, and the information referred to in subsection (2), is destroyed,—
@@ -1425,7 +1434,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
 (2) Subject to subsections (3) and (4), the Commissioner shall ensure that every bodily sample taken, pursuant to Part 3, on or after the specified date, or at any time within the period of 3 months before the specified date, is retained only for as long as is necessary to enable a DNA profile to be obtained from the sample, and is then destroyed.
 (3) Nothing in subsection (1) or subsection (2) authorises the retention of any bodily sample that is required, by subsection (4) or by section 60, to be destroyed.
 (4) Where—the Commissioner shall ensure that—are destroyed as soon as practicable after the conviction is quashed.
-  (a) a bodily sample is taken pursuant to a databank compulsion notice issued in reliance on a person’s conviction of a relevant offence; and
+  (a) a bodily sample is taken pursuant to a databank compulsion notice issued in reliance on a person’s conviction of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) that conviction is subsequently quashed,—
   (c) that bodily sample; and
   (d) every record of any analysis of that bodily sample carried out on behalf of any constable; and
