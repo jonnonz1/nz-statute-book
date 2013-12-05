@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -117,6 +117,7 @@ In exercising or performing any power or function under this Act, every person m
 
 ### 9 Deputy Commissioners and Mental Health Commissioner
 (1) One or more Deputy Health and Disability Commissioners may be appointed in the same way as the Commissioner is appointed, except that the Minister must consult the Commissioner before recommending a person for appointment as a Deputy Commissioner.
+(1A) Part 2 of the Crown Entities Act 2004 (except section 46) applies to the appointment and removal of a Deputy Health and Disability Commissioner in the same manner as it applies to the appointment and removal of the Commissioner.
 (2) A person may be appointed as the Mental Health Commissioner in the same way as the Commissioner is appointed, except that the Minister must consult the Commissioner before recommending a person for appointment as the Mental Health Commissioner.
 (3) A person who is a Deputy Commissioner or the Mental Health Commissioner has any powers, duties, and functions that—
   (a) the Commissioner delegates to him or her under section 68(3A); and
@@ -392,7 +393,7 @@ Each agency or person to whom a complaint is referred under section 34 must—
 
 **Decision to take no action**
 
-### 38 Commissioner may decide to take no action on complaint
+### 38 Commissioner may decide to take no action or no further action on complaint
 (1) At any time after completing a preliminary assessment of a complaint (whether or not the Commissioner is investigating, or continuing to investigate, the complaint himself or herself), the Commissioner may, at his or her discretion, decide to take no action or, as the case may require, no further action on the complaint if the Commissioner considers that, having regard to all the circumstances of the case, any action or further action is unnecessary or inappropriate.
 (2) The Commissioner’s consideration under subsection (1) may, in particular, take into account any of the following matters:
   (a) the length of time that has elapsed between the date when the subject matter of the complaint arose and the date when the complaint was made:
@@ -486,7 +487,7 @@ Each agency or person to whom a complaint is referred under section 34 must—
   (b) may, where the Commissioner considers it appropriate, transmit to the Minister such report on the matter as the Commissioner thinks fit.
 
 ### 47 Director of Proceedings’ right to participate in disciplinary and other proceedings
-(1) The Director of Proceedings may—
+(1) The Director of Proceedings may, after referral from the Commissioner under section 45(2)(f),—
   (a) provide assistance (whether financial or otherwise) to any complainant in any proceedings before any authority or tribunal:
   (b) provide representation (either in person or by counsel)—
     (i) for any complainant in any proceedings before an authority or a tribunal, in any case where the complainant, or any person acting on the complainant’s behalf, is permitted, by or under the rules of procedure governing those proceedings, to appear and be heard in those proceedings:
