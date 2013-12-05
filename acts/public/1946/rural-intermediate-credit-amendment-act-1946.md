@@ -1,5 +1,5 @@
 # Rural Intermediate Credit Amendment Act 1946
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-05_
 
 > An Act to abolish the Rural Intermediate Credit Board and transfer its functions to the State Advances Corporation of New Zealand and to amend the Rural Intermediate Credit Act 1927
 
@@ -9,7 +9,7 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 For the purposes of this Act and the principal Act, unless the context otherwise requires,—
-  - **Association** means a co-operative rural intermediate credit association established under and for the purposes of the principal Act, and incorporated under the Companies Act 1955 or the Companies Act 1993, as the case may be
+  - **association** means a co-operative rural intermediate credit association established under and for the purposes of the principal Act and incorporated under the Companies Act 1993
   - **Corporation** means The National Bank of New Zealand Ltd
   - **District Intermediate Credit Supervisor** means an officer of the Corporation appointed by the Corporation to exercise in respect of any district the functions of a District Intermediate Credit Supervisor under the principal Act
   - **Minister** means the Minister of Finance
@@ -51,7 +51,7 @@ For the purposes of this Act and the principal Act, unless the context otherwise
 (2) Without limiting the general power hereinbefore conferred, it is hereby declared that regulations may be made under this section for all or any of the following purposes:
   (a) Regulating the management of the affairs of associations:
   (b) Prescribing the forms of accounts to be kept by associations for the purposes of the principal Act:
-  (c) Excluding any provisions of the Companies Act 1955 or the Companies Act 1993, as the case may be, from operation in relation to any association:
+  (c) excluding any provisions of the Companies Act 1993 from operation in relation to any association:
   (d) Prescribing the conditions on which loans may be granted by the Corporation for the purposes of the principal Act to any person or association:
   (e) Prescribing maximum legal charges that may be made for the preparation of securities or otherwise in respect of any business of the Corporation under the principal Act.
 (3)
