@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -93,6 +93,12 @@ _Consolidation as at 2013-09-04_
   (e) derogate from the provisions of section 6 of the Sentencing Act 2002 (which shall apply in respect of proceedings under Part 4 as if the proving of a charge was a conviction).
 (3) Where any charging document is filed in a District Court pursuant to subsection (2)(d), section 322 shall apply, with all necessary modifications, to the proceedings.
 (4) Where any proceedings have been taken under Part 2 in respect of any alleged incident, the age of any child or young person at the date of the alleged incident shall be that person's age for the purpose of the proceedings.
+
+### 2A Transitional and savings provisions relating to amendments to this Act
+(1) Schedule 1AA contains transitional and savings provisions—
+  (a) relating to amendments made to this Act on or after the commencement of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013; and
+  (b) that affect other provisions of this Act (see subsection (2)).
+(2) The transitional and savings provisions set out in Schedule 1AA, which relate to amendments made to this Act on or after the commencement of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013, have effect for the purposes of this Act.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -2409,7 +2415,7 @@ A Youth Court or the High Court may, from time to time, review any order made un
 ### 243 Other powers to grant bail not affected
 Nothing in section 238 limits the inherent jurisdiction of the High Court or the provisions of any Act under which a child or young person may be granted bail, except that any powers conferred by any such provisions on a District Court shall, where the person charged is a child or young person (other than one charged with murder or manslaughter), be exercised by a Youth Court.
 
-**Powers under Immigration Act 1987 not affected**
+**Powers under Immigration Act 2009 not affected**
 
 ### 244 Immigration Act 2009 (other than sections 342 to 354) not affected
 Nothing in sections 214 to 243 limits or affects any provision of the Immigration Act 2009 other than sections 342 to 354 (offence provisions) of that Act.
@@ -3223,9 +3229,9 @@ Where a court finds a charge against a young person proved, and that young perso
 ### 301 Procedural provisions relating to application under section 300
 [Repealed]
 
-### 302 Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to young persons performing work under community work order
+### 302 Application of Accident Compensation Act 2001 to young persons performing work under community work order
 When a young person performs any service or does any work for the purposes of a community work order, the following provisions apply:
-  (a) if the young person suffers any personal injury for which he or she has cover under the Injury Prevention, Rehabilitation, and Compensation Act 2001 arising out of and in the course of performing that service or doing that work,—
+  (a) if the young person suffers any personal injury for which he or she has cover under the Accident Compensation Act 2001 arising out of and in the course of performing that service or doing that work,—
     (i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
     (ii) the Crown is liable to pay compensation to which the young person is entitled under that section:
   (b) the cost of all other entitlements of the young person under that Act must be met from the Earners' Account in the case of a young person who is an earner and from the Non-Earners' Account in all other cases.
@@ -3324,7 +3330,9 @@ Where the court makes an order under section 283(k) placing a young person under
 (1) If a charge against a young person is proved before a Youth Court, the court may make an order placing the young person in the custody of the chief executive for a period of not less than 3 months and not more than 6 months.
 (2) If a Youth Court makes an order under subsection (1) in respect of a young person, the order may (subject to section 290A) be made subject to the condition that the young person undertake any specified programme or activity.
 (2A) If a Youth Court makes an order under subsection (1) in respect of a young person, the court must—
-  (a) adjourn the proceedings to a date before two-thirds of the period of the order under subsection (1) will have elapsed and on which it will consider early release; and
+  (a) adjourn the proceedings to a date on which it will consider early release under section 314, and that is—
+    (i) the date on which two-thirds of the period of the order under subsection (1) will have elapsed; or
+    (ii) if it is not practicable to hold a hearing on that date, a date not more than 7 working days before that date; and
   (b) make an order under section 283(k) placing that young person under the supervision of the chief executive for a period of not less than 6 months and not more than 12 months.
 (3) The order required by subsection (2A)(b) must be made either at the same time as the order made under subsection (1) or after that time but before the earlier of the following:
   (a) the expiry of the order made under subsection (1):
@@ -3351,11 +3359,11 @@ Where the court makes an order under section 283(k) placing a young person under
 (2) Any such order may be made on such terms and conditions as the court thinks fit.
 
 ### 314 Court must in certain cases release young person from custody before expiry of supervision with residence order
-(1) The court must release a young person from the custody of the chief executive pursuant to an order under section 311 if the young person has been in that custody for at least two-thirds of the period of that order (as fixed under section 311(1)) and the court is satisfied that during the period that the young person has been in that custody—
+(1) The court must on the date on which under section 311(2A)(a) it will consider early release under this section release a young person from the custody of the chief executive pursuant to an order under section 311 if satisfied that during the period that the young person has been in that custody—
   (a) the young person has neither absconded nor committed any further offences; and
   (b) either the young person's behaviour and compliance with any obligations placed on the young person by the plan prepared under section 335 in respect of the order have been satisfactory or any misbehaviour and non-compliance of the young person have been minor; and
   (c) the young person has complied satisfactorily with any condition of the order that the young person undertake any specified programme or activity.
-(2) The chief executive must, as soon as practicable before the expiry of two-thirds of the period of that order, prepare for, and furnish to, the court a report addressing the matters specified in subsection (1)(a) to (c).
+(2) The chief executive must, as soon as practicable before the date on which under section 311(2A)(a) the court will consider early release under this section, prepare for, and furnish to, the court a report addressing the matters specified in subsection (1)(a) to (c).
 
 ### 315 Supervision with residence order to cease to run if young person absconds
 Where a young person who is subject to an order made under section 311(1) absconds from the custody of the chief executive, any time during which that young person is unlawfully at large shall not count as part of the period during which that young person is in the custody of the chief executive pursuant to that order.
@@ -3369,7 +3377,12 @@ Where a young person who is subject to an order made under section 311(1) abscon
 (4) Subsection (2) is subject to section 289(3) (on the court imposing the least restrictive outcome that is adequate in the circumstances).
 
 ### 317 When supervision with residence order ceases to have effect
-(1) Every order made under section 311(1) shall cease to have effect when the term of the order expires or the young person is sooner released from the custody of the chief executive pursuant to section 314.
+(1) Every order made under section 311(1) shall cease to have effect when the order's period elapses or the young person is sooner released from the custody of the chief executive pursuant to section 314.
+(1A) If the period of an order made under section 311(1) elapses on a day that is a non-release day, the expiry of the order must for all purposes be treated as occurring instead on the nearest preceding day that is not a non-release day.
+(1B) Non-release day, in subsection (1A), means a day that is—
+  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, or Waitangi Day; or
+  (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year; or
+  (c) in respect of release from a particular place, the anniversary day of the region in which that place is situated.
 (2) Where an order made under section 311(1) expires or is cancelled pursuant to section 316, custody of the young person shall revert to the person having custody of the young person immediately before the order was made.
 
 ### 318 Search without warrant
@@ -3693,7 +3706,7 @@ Any parent or guardian or other person having the care of a young person may app
 ### 356 Effect of notice of appeal on certain orders
 (1) The operation of any order made by a Youth Court under paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283 shall not be affected by the filing of a notice of appeal relating to the order, unless the Youth Court Judge who presided over the court making the order or, if that Youth Court Judge is not available, some other Youth Court Judge exercising jurisdiction in a Youth Court, on application by the appellant, directs that the operation of the order shall be suspended pending the determination of the appeal.
 (2) Notice of any application or direction under subsection (1) shall be given by the Registrar to the principal manager of the department for the area in which the court is situated.
-(3) Where a direction is given under subsection (1) in respect of any order, the term of the order shall cease to run from the date of the direction.
+(3) Where a direction is given under subsection (1) in respect of any order, the period of the order shall cease to run from the date of the direction.
 
 ### 357 Application of section 329 to hearing of appeal
 The provisions of section 329, with all necessary modifications, shall apply to the hearing in the High Court of any appeal against a decision of a Youth Court.
@@ -4665,6 +4678,16 @@ Amendment(s) incorporated in the Act(s).
 
 ### 469 Administration of property by Public Trustee
 [Repealed]
+
+## Schedule 1AA — Transitional and savings provisions relating to amendments to this Act
+
+### 1 Application of sections 311, 314, and 317 (supervision with residence orders: early release from custody)
+Sections 311, 314, and 317, as those sections are amended by the Children, Young Persons, and Their Families Amendment Act (No 2) 2013, apply to a supervision with residence order under section 311(1)—
+  (a) made, and that has not expired, before that Act's commencement; or
+  (b) made after that Act's commencement.
+
+### 2 Adjournment date of pre-commencement supervision with residence orders
+Section 314 as amended by the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 applies to an order specified in clause (1)(a) as if the adjournment date under section 311(2A)(a) (as in force before that Act's commencement) were the adjournment date under section 311(2A)(a) (as in force after that commencement).
 
 ## Schedule 1 — Provisions applied to Youth Courts and to proceedings in such courts
 
