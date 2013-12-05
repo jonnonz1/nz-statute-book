@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2013-09-02_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -64,7 +64,7 @@ The purpose of this Act is—
   - **net cost** is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007
   - **New Zealand superannuation** —
     (a) means the entitlements to New Zealand superannuation under Part 1, including both the standard and non-standard entitlements; and
-    (b) includes, for the avoidance of doubt in Part 2 and Schedule 3, entitlements to New Zealand superannuation under Part 1 as modified under section 19 of the Social Welfare (Transitional Provisions) Act 1990 (adoption of reciprocity agreement with other countries)
+    (b) includes, for the avoidance of doubt in Part 2 and Schedule 3, entitlements to New Zealand superannuation under Part 1 as modified under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (adoption of reciprocity agreement with other countries)
   - **required annual capital contribution** has the same meaning as in section 43
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
@@ -183,7 +183,7 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
   (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
 (8) In any case where the rate of New Zealand superannuation has been reduced in accordance with this section and the superannuitant in hospital is absent from the hospital for not more than 28 days, the rate of New Zealand superannuation payable on return to hospital must be determined as if that absence has not occurred.
 (9) This section does not entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of New Zealand superannuation, as a result of hospitalisation, than would otherwise have been payable.
-(10) This section applies despite anything to the contrary in the Social Security Act 1964 or in the Social Welfare (Transitional Provisions) Act 1990.
+(10) This section applies despite anything to the contrary in the Social Security Act 1964 or in the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 20 Special disability allowance
 (1) This section applies if—
@@ -198,7 +198,7 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 **Payment overseas of New Zealand superannuation**
 
 ### 21 Effect of absence from New Zealand on New Zealand superannuation
-A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 35 or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 35 or in any agreement or convention adopted under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 22 First 26 weeks of certain temporary absences
 New Zealand superannuation that would otherwise be payable to a person (other than a person who is receiving New Zealand superannuation overseas under section 26) is payable in respect of the first 26 weeks of any absence from New Zealand if—
@@ -222,7 +222,7 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 
 ### 26 Payment overseas of New Zealand superannuation
 (1) This subsection—
-  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, that relates to New Zealand superannuation; and
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, that relates to New Zealand superannuation; and
   (b) applies to a person if he or she has left New Zealand at a time when he or she was—
     (i) intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 30(1)); or
     (ii) intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
@@ -294,7 +294,7 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 ### 30 Specified Pacific country
 (1) In sections 31 to 35, specified Pacific country means a country or territory—
   (a) that is listed in Schedule 2; and
-  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, which relates to the portability of New Zealand superannuation.
+  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, which relates to the portability of New Zealand superannuation.
 (2) The Governor-General may from time to time, by Order in Council, amend Schedule 2 by—
   (a) adding the name of any Pacific country or territory; or
   (b) omitting the former name of a country or territory and substituting its new name.
