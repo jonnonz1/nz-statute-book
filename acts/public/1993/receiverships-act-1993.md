@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the law relating to receivers
 
@@ -10,13 +10,11 @@ _Consolidation as at 2013-07-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **account receivable** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **company** has the same meaning as in—as the case may be; and includes an overseas company
-    (a) section 2 of the Companies Act 1955; or
-    (b) section 2 of the Companies Act 1993,—
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993; and includes an overseas company
   - **court** means the High Court
   - **creditor** includes a person to whom the grantor owes a debt or is under a liability, whether present or future, certain or contingent, and whether an ascertained debt or liability or a liability in damages
   - **director** , in relation to—but does not include a receiver
-    (a) a company within the meaning of section 2 of the Companies Act 1955 or a company within the meaning of section 2 of the Companies Act 1993, as the case may be, includes—
+    (a) a company within the meaning of section 2(1) of the Companies Act 1993, includes—
       (i) any person occupying the position of director of the company by whatever name called; and
       (ii) a person in accordance with whose directions or instructions a person referred to in subparagraph (i) may be required or is accustomed to act; and
       (iii) a person in accordance with whose directions or instructions the board of the company may be required or is accustomed to act:
@@ -29,7 +27,7 @@ _Consolidation as at 2013-07-01_
     (d) a photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
   - **grantor** means the person in respect of whose property a receiver is, or may be, appointed
   - **inventory** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **liquidator** means a liquidator appointed under Part 6 of the Companies Act 1955 or under Part 16 of the Companies Act 1993, as the case may be; and has a corresponding meaning
+  - **liquidator** means a liquidator appointed under Part 16 of the Companies Act 1993; and has a corresponding meaning
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **mortgage** includes a charge on property for securing money or money's worth
   - **mortgagee** includes a person from time to time deriving title under the original mortgagee; but does not include a receiver
@@ -54,7 +52,7 @@ _Consolidation as at 2013-07-01_
       (ii) sell or otherwise alienate mortgaged property; or
     (d) an agent of any such mortgagee
   - **Registrar** , in relation to—
-    (a) a company, has the same meaning as in section 2 of the Companies Act 1955 or section 2 of the Companies Act 1993, as the case may be:
+    (a) a company, has the same meaning as in section 2(1) of the Companies Act 1993:
     (b) a society registered under the Industrial and Provident Societies Act 1908, means the Registrar of Industrial and Provident Societies:
     (c) a society registered under the Incorporated Societies Act 1908, means the Registrar of Incorporated Societies:
     (d) a friendly society or a credit union registered under the Friendly Societies and Credit Unions Act 1982, means the Registrar of Friendly Societies and Credit Unions:
@@ -103,7 +101,7 @@ _Consolidation as at 2013-07-01_
   (g) a person in respect of whom an order has been made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
   (h) a person in respect of whom an order has been made under section 286(5) of the Companies Act 1993:
   (i) a person in respect of whom an order has been made under section 37(6):
-  (ia) a person who would, but for the repeal of section 188A or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or being concerned in the management of, a company within the meaning of that Act:
+  (ia)
   (j)
   (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
   (l) a person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
@@ -168,9 +166,9 @@ _Consolidation as at 2013-07-01_
 
 ### 13 Execution of documents
 (1) A receiver may execute in the name and on behalf of the grantor all documents necessary or incidental to the exercise of the receiver's powers.
-(2) A document signed on behalf of a grantor that is a company within the meaning of section 2 of the Companies Act 1955 by a receiver shall be deemed to have been properly executed for the purposes of section 42 of that Act.
-(3) A document signed on behalf of a grantor that is a company within the meaning of section 2 of the Companies Act 1993 by a receiver shall be deemed to have been properly executed for the purposes of section 180 of that Act.
-(4) Notwithstanding any other enactment or rule of law, or any memorandum or articles of association or other document defining the constitution of a grantor that is a body corporate, where the instrument under which a receiver is appointed empowers the receiver to execute documents and to use the grantor's common seal for that purpose, the receiver may execute the documents in the name and on behalf of the grantor by affixing the grantor's common seal to the documents and attesting the affixing of the common seal.
+(2)
+(3) A document signed on behalf of a grantor that is a company within the meaning of section 2(1) of the Companies Act 1993 by a receiver is deemed to have been properly executed for the purposes of section 180 of the Companies Act 1993.
+(4) Despite any other enactment or rule of law, or any document defining the constitution of a grantor that is a body corporate, if the instrument under which a receiver is appointed empowers the receiver to execute documents (and, if the grantor has a common seal, to use the grantor's common seal for that purpose), the receiver may execute the documents in the name and on behalf of the grantor (and, if the grantor has a common seal, the receiver may affix the common seal to the documents and attest to the affixing of the common seal).
 (5) A document executed in the manner prescribed by subsection (4) is deemed to have been properly executed by the grantor.
 
 ### 14 Powers of receivers
@@ -286,7 +284,7 @@ A person to whom a report must be sent in accordance with section 26 is entitled
 
 ### 28 Duty to notify suspected offences against other Acts
 (1) A receiver of a grantor that is a company and who considers that the grantor or any director of the grantor has committed an offence that is material to the receivership against—must report that fact to the Registrar.
-  (a) the Companies Act 1955; or
+  (a)
   (aa) the Crimes Act 1961; or
   (b) the Securities Act 1978; or
   (c) the Companies Act 1993; or
@@ -326,7 +324,7 @@ A person to whom a report must be sent in accordance with section 26 is entitled
     (i) 14 days after the date of appointment of the receiver; or
     (ii) if notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993, on the day on which the contract of employment is terminated:
   (e) the reference to before, or because of, the commencement of the liquidation in clause 1(2)(b) and (c) is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
-(4) Nothing in this section applies in relation to a grantor in respect of whose property a receiver was appointed before the commencement of this Act and the provisions of section 101 of the Companies Act 1955 shall continue to apply in relation to that grantor notwithstanding the repeal of that section by this Act.
+(4)
 (5) The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ### 30A Extinguishment of subordinate security interests
