@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -197,7 +197,7 @@ On the liquidation of a board or on its dissolution by the Registrar, all surplu
 (3) Any person may, on payment of the prescribed fee, require a copy of or extract from the register or any document lodged with the Registrar under this Act to be given or certified by the Registrar under his hand and seal.
 (4) No process for compelling the production of any document kept by the Registrar shall issue from any court, except with the leave of that court, and any such process if issued shall bear thereon a statement that it is issued with the leave of the court.
 (5) A copy of or extract from any document kept by or lodged with the Registrar under this Part, certified to be a true copy or extract under the hand and seal of the Registrar (whose official position it shall not be necessary to prove), shall in all legal proceedings be admissible in evidence as of equal validity with the original document.
-(6) At any time while there are no regulations prescribing the fees payable under this section, or so far as no such fees are prescribed by any regulations, the fees so payable shall be the same as those payable under the corresponding provisions in section 9 of the Companies Act 1955. All fees paid to the Registrar under this Act shall be paid into a Crown Bank Account, and shall form part of a Crown Bank Account.
+(6) At any time while there are no regulations prescribing the fees payable under this section, or so far as no such fees are prescribed by any regulations, the fees so payable shall be the same as those payable under the corresponding provisions in section 363 of the Companies Act 1993. All fees paid to the Registrar under this Act shall be paid into a Crown Bank Account, and shall form part of a Crown Bank Account.
 
 ### 30 Exemption from fees
 Except as provided in section 29, no fee shall be payable to the Registrar in respect of any document made or thing done under or for the purposes of this Part.
