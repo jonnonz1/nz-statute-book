@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -96,7 +96,7 @@ _Consolidation as at 2013-07-01_
   - **mutiny** means a combination between 2 or more persons subject to service law, or between persons of whom at least 2 are persons subject to service law, to overthrow or resist lawful authority in a part of the Armed Forces or in a force of another country acting in co-operation with a part of the Armed Forces
   - **naval establishment** and have the meanings assigned to those terms by section 2(1) of the Defence Act 1990
   - **Navy** means the New Zealand Naval Forces constituted under section 11(3) of the Defence Act 1990
-  - **New Zealand force** or has the same meaning as New Zealand force in the section 2(1) of the Defence Act 1990
+  - **New Zealand force** or has the same meaning as New Zealand force in section 2(1) of the Defence Act 1990
   - **non-commissioned officer** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **oath** includes an ; and references to swearing shall be construed accordingly
   - **officer** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
@@ -1087,7 +1087,7 @@ Where a person subject to this Act has been placed under arrest pursuant to this
   (a) grant bail to the person in service custody:
   (b) impose any conditions of bail that the Judge Advocate General thinks fit.
 (4) In determining whether to grant bail under this section, the Judge Advocate General—
-  (a) must take into account the considerations set out in section 8(1) and (3) of the Bail Act 2000 and all of the following considerations:
+  (a) must take into account the considerations set out in section 8(1) and (4) of the Bail Act 2000 and all of the following considerations:
     (i) the seriousness of the alleged offence:
     (ii) whether there are urgent and exceptional circumstances that favour the grant of bail:
     (iii) the effect on service discipline of remanding the person on bail; and
