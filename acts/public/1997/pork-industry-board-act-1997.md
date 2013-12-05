@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -297,7 +297,7 @@ The provisions in Schedule 2 apply to the Board and the board of directors.
 ### 24 Board to prepare financial statements
 (1) As soon as is practicable after the last day of each financial year but before the following 1 March, the Board must prepare—
   (a) financial statements for the Board for that year; and
-  (b) financial statements for the Board and every subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be) of the Board for that year.
+  (b) financial statements for the Board and every subsidiary (within the meaning of section 5 of the Companies Act 1993) of the Board for that year.
 (2) The Financial Reporting Act 1993 applies to the Board and all the financial statements referred to in subsection (1) as if—
   (a) the Board's subsidiaries were companies within the meaning of that Act; and
   (b) the Board and the Board's subsidiaries were a group within the meaning of that Act; and
