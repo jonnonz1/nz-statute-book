@@ -1,12 +1,12 @@
 # Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 
 ### 2 Commencement
 (1) Section 33 comes into force on a date to be appointed by the Governor-General by Order in Council.
-(2) The rest of this Act come into force on 1 January 2005.
+(2) The rest of this Act comes into force on 1 January 2005.
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -186,7 +186,7 @@ Amendment(s) incorporated in the Act(s).
   (e) any associated disturbance of, and deposition on, the seabed.
 (6) Nothing in this section prevents the holder of the coastal permit from applying for a change or cancellation of the conditions of the permit under section 127 of the Resource Management Act 1991.
 (7) Nothing in this section prevents the consent authority from reviewing the conditions of the coastal permit in terms of section 128 (other than subsection (1)(c)) of the Resource Management Act 1991.
-(8) In this section, the Waikato Communal Area means the rectangular 22.5 hectare (more or less) coastal marine area to the east of Esk Point in the Coromandel Harbour, more particularly described as commencing at a point bearing 325° 805 metres from Trig 238 Tuhana and bounded by the lines running 90° for 750 metres, 360° for 300 metres, 270° for 750 metres, and 180° for 300 metres to the point of commencement.
+(8) In this section, the Waikato Communal Area means the rectangular 22.5 hectare (more or less) coastal marine area to the east of Esk Point in the Coromandel Harbour, more particularly described as commencing at a point bearing 352° 805 metres from Trig 23B Tuhana and bounded by the lines running 90° for 750 metres, 360° for 300 metres, 270° for 750 metres, and 180° for 300 metres to the point of commencement.
 
 ### 21 Certain spat catching permits deemed to be coastal permits
 (1) This section applies to every spat catching permit that—
