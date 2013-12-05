@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -137,7 +137,7 @@ In this Act, unless the context otherwise requires,—
     (a) a government department named in Schedule 1 of the State Sector Act 1988; or
     (b) a Crown entity under section 7 of the Crown Entities Act 2004; or
     (c) the Reserve Bank, the Parliamentary Counsel Office, the New Zealand Police, and the New Zealand Security Intelligence Service; or
-    (d) any international counterpart of the entities in paragraphs (a) to (c)
+    (d) any overseas country's counterpart of any of the entities in paragraphs (a) to (c)
   - **identity information** means information obtained under sections 15, 19, 23, and 27(1) and (2) and any other information relating to identity prescribed by sections 29(2)(g) and 30(b)
   - **individual** means a natural person, other than a deceased natural person
   - **intermediary institution** , in relation to a wire transfer, is a person that participates in a transfer of funds that takes place through more than 1 institution but is not an ordering institution or a beneficiary institution
@@ -147,7 +147,7 @@ In this Act, unless the context otherwise requires,—
       (i) any offence under this Act; or
       (ii) a money laundering offence; or
       (iii) any offence under section 143B of the Tax Administration Act 1994; or
-      (iv) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961)
+      (iv) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
     (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
@@ -303,7 +303,7 @@ A reporting entity must obtain the following identity information in relation to
 
 ### 16 Standard customer due diligence: verification of identity requirements
 (1) A reporting entity must—
-  (a) take reasonable steps to satisfy itself that the information provided under section 15 is correct; and
+  (a) take reasonable steps to satisfy itself that the information obtained under section 15 is correct; and
   (b) according to the level of risk involved, take reasonable steps to verify any beneficial owner's identity so that the reporting entity is satisfied that it knows who the beneficial owner is; and
   (c) if a person is acting on behalf of the customer, according to the level of risk involved, take reasonable steps to verify the person's identity and authority to act on behalf of the customer so that the reporting entity is satisfied it knows who the person is and that the person has authority to act on behalf of the customer; and
   (d) verify any other information prescribed by regulations.
@@ -324,7 +324,7 @@ A reporting entity must also obtain—
 (1) A reporting entity may conduct simplified customer due diligence if—
   (a) it establishes a business relationship with one of the customers specified in subsection (2); or
   (b) one of the customers specified in subsection (2) conducts an occasional transaction through the reporting entity; or
-  (c) a customer conducts a transaction or provides a product or service specified in regulations through the reporting entity.
+  (c) a customer conducts a transaction or obtains a product or service specified in regulations through the reporting entity.
 (2) The following are customers for the purposes of subsection (1):
   (a) a company that is listed on an exchange registered under Part 2B of the Securities Markets Act 1988:
   (b) a government department named in Schedule 1 of the State Sector Act 1988:
@@ -418,12 +418,12 @@ In the circumstances described in section 22(1)(a), 22(2)(a), and 22(5)(a), a re
 (5) A reporting entity that is a beneficiary institution must—
   (a) use effective risk-based procedures for handling wire transfers that are not accompanied by all the information specified in subsection (1); and
   (b) consider whether the wire transfers constitute a suspicious transaction.
-(6) Any information obtained by a reporting entity that is an intermediary institution must be maintained by that reporting entity with the wire transfer accompanying the information.
+(6) Any information about the originator obtained by a reporting entity that is an intermediary institution must be provided by that reporting entity to the beneficiary institution as soon as practicable.
 (7) For the purposes of this section, a domestic wire transfer is a wire transfer where the ordering institution, the intermediary institution, and the beneficiary institution are all in New Zealand.
 
 ### 28 Wire transfers: verification of identity requirements
 (1) The ordering institution must, according to the level of risk involved,—
-  (a) verify the originator's identity so that the reporting entity is satisfied that the information provided under section 27 is current and correct; and
+  (a) verify the originator’s identity so that the reporting entity is satisfied that the information obtained under section 27 is correct; and
   (b) verify any other information prescribed by regulations.
 (2) Verification of the originator's identity must be carried out before the wire transfer is ordered.
 
@@ -1304,7 +1304,7 @@ In this subpart, unless the context otherwise requires,—
 
 ### 130 AML/CFT supervisors
 (1) The AML/CFT supervisors are as follows:
-  (a) for banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
+  (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
   (b) for issuers of securities, trustee companies, futures dealers, collective investment schemes, brokers, and financial advisers, the Financial Markets Authority is the relevant AML/CFT supervisor:
   (c) for casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraph (a) or (b), the Department of Internal Affairs is the relevant AML/CFT supervisor.
 (2) If the products or services provided by a particular reporting entity are covered by more than 1 AML/CFT supervisor,—
@@ -1349,7 +1349,7 @@ The functions of an AML/CFT supervisor are to—
 ### 134 Delegation of supervisory function and powers
 (1) An AML/CFT supervisor may delegate the following function and powers to a person who, by reason of his or her training or experience, is suitably qualified to perform that function and exercise those powers:
   (a) its function under section 131(d) of investigating the reporting entities it supervises:
-  (b) its powers under section 132(2)(a) and (b), for the purpose only of performing the function of investigation under section 131(b).
+  (b) its powers under section 132(2)(a) and (b), for the purpose only of performing the function of investigation under section 131(d).
 (2) A delegation under subsection (1)—
   (a) must be made by the chief executive of the AML/CFT supervisor in writing; and
   (b) may be made subject to any restrictions and conditions that the AML/CFT supervisor thinks fit; and
