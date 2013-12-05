@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2013-11-19_
+_Consolidation as at 2013-12-05_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -175,6 +175,31 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
     (iv) any association whose members include returned servicemen, current servicemen, or former servicemen and which has been approved for the purposes of this section by the Royal New Zealand Returned and Services’ Association Incorporated; or
   (c) by any association that was registered before the passing of the Police Offences Amendment Act 1956 if the association was formed under the name, title, style, or designation or was using the name, title, style, or designation immediately before the passing of that Act.
 
+### 18A Unauthorised use of words and emblems relating to 28th Māori Battalion
+(1) Subject to subsection (3), every person commits an offence against this Act who, in any business, trade, or occupation and in order to obtain money (or other property) or credit, displays, exhibits, or otherwise uses any of the following in such a manner as to be likely to cause anyone to believe that the display, exhibition, or use is under the authority, sanction, approval, appointment, or patronage of an association described in subsection (3)(b)(i) or (iii):
+  (a) an emblem in Schedule 2A; or
+  (b) an emblem that so closely resembles one of the emblems in Schedule 2A as to be likely to deceive or confuse any person; or
+  (c) any of the following combinations of words:
+    (i) 28th Māori Battalion:
+    (ii) 28 Māori Battalion:
+    (iii) Māori Battalion:
+    (iv) 28th Māori Battalion Association:
+    (v) 28th Maori Battalion (NZ) Association Incorporated:
+    (vi) Te Ope Hōia Māori 28:
+    (vii) Te Ope Taua Māori 28:
+    (viii) Te Hokowhitu Māori 28; or
+  (d) words that so closely resemble the combinations of words quoted in paragraph (c) as to be likely to deceive or confuse any person.
+(2) Subject to subsection (3),—
+  (a) every person commits an offence against this Act who causes an incorporated or unincorporated body to be formed under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)(c) or (d); and
+  (b) every association (whether incorporated or unincorporated) commits an offence against this Act that carries on its activities under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)(c) or (d).
+(3) Subsections (1) and (2) do not apply to the use of any emblem, words, name, title, style, or designation—
+  (a) that has been authorised by the Governor-General by Order in Council; or
+  (b) by any of the following:
+    (i) the 28th Maori Battalion (NZ) Association Incorporated; or
+    (ii) a person or class of persons or an association that has been approved in writing for the purposes of this section by the 28th Maori Battalion (NZ) Association Incorporated; or
+    (iii) any association that has been approved in writing for the purposes of this section by the 28th Maori Battalion (NZ) Association Incorporated as the successor of the 28th Maori Battalion (NZ) Association Incorporated; or
+    (iv) a person or class of persons or an association that has been approved in writing for the purposes of this section by the successor of the 28th Maori Battalion (NZ) Association Incorporated referred to in subparagraph (iii).
+
 ### 19 Protection of names, uniforms, etc, of Girl Guides Association and Toc H, Incorporated
 (1) Every person commits an offence against this Act who uses—without the authority of the Girl Guides Association or (as the case may require) Toc H, Incorporated.
   (a) any name, designation, uniform, or badge to which this subsection applies; or
@@ -267,7 +292,7 @@ The Governor-General may, from time to time, by Order in Council,—
 
 ## Schedule 2 — Orders and notices deemed to have been made or given under this Act
 
-## Schedule 2A — Olympic Games and Commonwealth Games emblems, words, and names
+## Schedule 2A — Emblems of 28th Maori Battalion (NZ) Association Incorporated
 
 ## Schedule 3 — Enactments and orders (relating to protection of certain emblems, names, and words) preserved
 
