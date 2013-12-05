@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -529,10 +529,10 @@ The Governor-General may, by Order in Council, provide for savings and transitio
 (4) The power of the chief executive to delegate under this section—
   (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the chief executive's functions or powers; but
   (b) shall not limit any power of delegation conferred on the chief executive by any other Act.
-(4A) Where a chief executive or a delegate of the chief executive uses a written document to inform any other person of an action taken by a delegate of the chief executive, the document must—
-  (a) state that the action was taken by a delegate of the chief executive; and
+(4A) Where a written document is used to inform a person of an action taken by a delegate described in subsection (2A), the document must—
+  (a) state that the action was taken by a delegate outside the Public Service; and
   (b) give the delegate's name and office; and
-  (c) inform the other person that a copy of the instrument of delegation may be inspected at the chief executive's office.
+  (c) state that a copy of the instrument of delegation may be inspected at the chief executive's office.
 (5) Every person purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (6) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices.
 (7) No such delegation shall affect or prevent the exercise of any function or power by the chief executive, nor shall any such delegation affect the responsibility of the chief executive for the actions of any person acting under the delegation.
