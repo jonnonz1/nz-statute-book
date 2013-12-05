@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -729,6 +729,7 @@ For the purposes of enforcement proceedings, a judgment or order of the High Cou
 
 ### 80 Enforcement of judgments more than 6 years old
 (1) No judgment or order of the court more than 6 years old shall be enforced without the leave of the court unless some payment has been made into court by or on behalf of the party liable therefor within the 12 months immediately before the issue of the proceedings for enforcement.
+(1A) A judgment that is an arbitral award entered as a judgment is more than 6 years old for the purposes of this section if 6 years have elapsed since the date on which the award became enforceable by action in New Zealand.
 (2) The court may, if it thinks fit, grant such leave on an ex parte application.
 
 ### 81 Enforcement of order for payment by instalments
