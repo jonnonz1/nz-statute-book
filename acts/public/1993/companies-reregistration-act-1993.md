@@ -1,5 +1,5 @@
 # Companies Reregistration Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide for the reregistration of existing companies under the Companies Act 1993
 
