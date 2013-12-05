@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -43,10 +43,9 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
   (a) any dividends, not being dividends payable by a mutual association in relation to money deposited with the association, payable by a company to any of its shareholders:
   (b) any rebate payable by a mutual association (other than a holder of the kind referred to in paragraph (f) of subsection (1) of section 5) to any of its members in relation to the trading transactions of the member with the association, not being a rebate payable in relation to money deposited with the association:
   (c) any benefits payable from any pension or superannuation fund.
-(3) Where a holder has ceased to carry on business or has died, and the holder, or, as the case may be, his personal representative, has for a period of 6 months or more immediately succeeding the date of that cessation or death been in possession of or owed money which has remained unclaimed and—the holder or that personal representative may, if he thinks fit, pay the money to the Commissioner and furnish to the Commissioner particulars of the payment and of the person on whose behalf the money was held or to whom it was owed; and thereupon that money shall be deemed to be unclaimed money, and the provisions of this Act, as far as they are applicable, shall apply accordingly:
+(3) Where a holder has ceased to carry on business or has died, and the holder, or, as the case may be, his personal representative, has for a period of 6 months or more immediately succeeding the date of that cessation or death been in possession of or owed money which has remained unclaimed and—the holder or that personal representative may, if he thinks fit, pay the money to the Commissioner and furnish to the Commissioner particulars of the payment and of the person on whose behalf the money was held or to whom it was owed; and thereupon that money shall be deemed to be unclaimed money, and the provisions of this Act, as far as they are applicable, shall apply accordingly.
   (a) which would become unclaimed money when the period referred to in the appropriate paragraph of subsection (1) had expired if the money had remained unclaimed; or
   (b) which would have so become unclaimed money if it were not money of any of the kinds referred to in subsection (2),—
-  provided that this subsection shall not apply to any money of the kind referred to in section 330 of the Companies Act 1955.
 (4) In subsection (2) the expression mutual association means any body or association of persons, whether incorporated or not, which enters into transactions of a mutual character with its members, whether or not it also enters into transactions with other persons.
 
 ### 5 Holder
