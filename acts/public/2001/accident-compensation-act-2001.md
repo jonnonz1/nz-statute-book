@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-09-02_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -764,6 +764,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (b) on or after 1 July 2005, the claimant lodges a claim for cover for treatment injury in respect of a personal injury that—
     (i) occurred after the decision to decline the earlier claim (whether before or after 1 July 2005); and
     (ii) arises out of the circumstances on which the earlier claim was based.
+(5) To avoid doubt, a claim for cover for personal injury caused by medical misadventure before 1 July 2005 that is lodged for the first time on or after 1 July 2005 must be determined under the relevant provisions in force on or after 1 July 2005 (that is, it is to be determined as if it were a treatment injury).
 
 ### 35 Motor vehicle injury
 (1) Motor vehicle injury—
@@ -2470,7 +2471,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (2) The regulations may also classify all or any of the following, or categories of the following, into classes that most accurately describe their risk rating and may impose levies at different rates in relation to those classes in accordance with the system of differential levies referred to in subsection (1):
   (a) motor vehicles:
   (b) registered owners of motor vehicles:
-  (c) persons who hold trade licences under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+  (c) persons who hold trade plates under section 262(3) of the Land Transport Act 1998.
 (3) Subsection (2) does not limit subsection (1).
 
 ### 217 Collection of levies
@@ -3549,6 +3550,7 @@ A person who commits an offence against this Act or any regulations made under i
   (c) prescribing the circumstances in which, and the method by which, the Corporation may make arrangements, and make contributions, for 1 or more ancillary services to rehabilitation:
   (d) prescribing the conditions that must be met, and the matters that must be taken into account:
   (e) prescribing the persons to whom those payments may be made.
+(1A) Regulations made under subsection (1) may also prescribe the costs and payments that the Corporation is liable to pay or contribute to in relation to the transport, by ambulance, of the body of a person who has died at the scene of an accident (in which case subsection (1) applies with all necessary modifications).
 (2) The Minister must not make any recommendation under subsection (1) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
 (3) Without limiting the matters that may be prescribed by regulations, regulations made under subsection (1) may—
   (a) prescribe the circumstances in which the Corporation is liable to pay or contribute to the costs of 1 or more ancillary services that facilitate rehabilitation, examples of which are that the service—
@@ -3891,6 +3893,7 @@ Part 3 applies to all claims received on or after 1 April 2002 for cover and ent
 (2) A claimant has cover under this Act only if—
   (a) the claimant would have had cover under this Act, had the injury occurred on or after 1 April 2002; and
   (b) the claimant would have had cover under the Act that was in force at the time that the person suffered the injury.
+(3) This section is subject to section 34.
 
 ### 361 Exclusion of cover for personal injury caused by work-related gradual process, disease, or infection if events before 1 April 1974 and death before 1 July 1992
 A person does not have cover for personal injury caused by a work-related gradual process, disease, or infection if the person—
@@ -5409,6 +5412,8 @@ For the purposes of this schedule, combined tax and earner-related payment, Comm
 
 ## Schedule 5 — Provisions relating to Corporation
 
+**Members**
+
 ### 1 Chairperson and deputy chairperson
 [Repealed]
 
@@ -5426,6 +5431,8 @@ For the purposes of this schedule, combined tax and earner-related payment, Comm
 
 ### 6 Remuneration and expenses of Board members
 [Repealed]
+
+**Meetings of Board**
 
 ### 7 Meetings
 [Repealed]
@@ -5454,8 +5461,12 @@ For the purposes of this schedule, combined tax and earner-related payment, Comm
 ### 15 Committees
 [Repealed]
 
+**Documents**
+
 ### 16 Execution of documents
 [Repealed]
+
+**Employment**
 
 ### 17 Chief executive
 (1) The Board, acting after consultation with the Minister, must appoint a chief executive of the Corporation.
@@ -5482,6 +5493,8 @@ The Corporation must ensure that all employees maintain proper standards of inte
 
 ### 24 Liability of members and employees
 [Repealed]
+
+**Delegations**
 
 ### 25 Additional persons to whom delegations can be made
 Despite section 73(1)(d) of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
