@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-05_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -83,9 +83,7 @@ _Consolidation as at 2013-11-28_
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
-(1A) For the purposes of Schedule 1, a company is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,—as the case may be.
-  (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of that Act) of the company; or
-  (b) in the case of a company registered under the Companies Act 1993, the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
+(1A) For the purposes of Schedule 1, a company registered under the Companies Act 1993 is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
 (2) Where information is held by an unincorporated body (being a board, council, committee, subcommittee, or other body, but not being a mortality review committee)—that information shall, for the purposes of this Act, be deemed—
   (a) which is established for the purpose of assisting or advising, or performing functions connected with, any department or Minister of the Crown or organisation; and
   (b) which is so established in accordance with the provisions of any enactment or by any department or Minister of the Crown or organisation,—
