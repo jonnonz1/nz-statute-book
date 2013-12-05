@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-05_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -42,8 +42,7 @@ _Consolidation as at 2013-11-28_
     (b) all rights of the Crown of any kind relating to State housing land (as so defined) including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights; and
     (c) all securities belonging to the Crown and relating to State housing land (as so defined)
   - **State housing liabilities** means all liabilities of the Crown relating to State housing land within the meaning of section 2(1) of the Housing Act 1955
-  - **statement of corporate intent** means the current statement of corporate intent for the company prepared pursuant to section 15
-  - **subsidiary** has the same meaning as in section 158 of the Companies Act 1955.
+  - **statement of corporate intent** means the current statement of corporate intent for the company prepared pursuant to section 15.
 (2) In this Act, a reference to transfer, authorise, or grant includes entering into an agreement to transfer, authorise, or grant, as the case may be.
 (3) References in this Act to State housing land within the meaning of subsection (1) of section 2 of the Housing Act 1955 shall be construed as references to State housing land within the meaning of that subsection and nothing in subsection (2) of that section shall apply.
 (4) References in this Act to person include an agency and any person who is an officer or employee in the service of the Crown in a government department or public body (other than as an officer of a court, in his or her official capacity).
@@ -926,7 +925,7 @@ The Governor-General may, from time to time, by Order in Council made on the rec
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) for the purposes of section 133,—
     (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
-    (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 120A, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+    (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 12OA, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
     (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
 (2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
