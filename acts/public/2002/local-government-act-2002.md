@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3279,8 +3279,7 @@ Financial reporting standards incorporated by reference in regulations made unde
 (3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
 
 ### 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires financial reporting standards that are incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to regulations made under section 259(1)(dc) that incorporate financial reporting standards by reference.
+[Repealed]
 
 **Other Orders in Council**
 
@@ -4479,6 +4478,8 @@ In this schedule, unless the context otherwise requires,—
   - **member** means a member of the Commission appointed under section 33
   - **transaction** means a matter referred to in clause 17(2).
 
+**Members**
+
 ### 2 Terms and conditions of appointment
 (1) A member (including the member appointed as the chairperson) is to be appointed for the term, not exceeding 5 years, that is specified in his or her appointment.
 (2) A member is eligible for reappointment.
@@ -4518,6 +4519,8 @@ In this schedule, unless the context otherwise requires,—
 ### 7 Remuneration
 The members are to be paid remuneration by way of fees, allowances, or expenses (as determined by the Minister) out of money appropriated by Parliament for the purpose.
 
+**Meetings of members**
+
 ### 8 Meetings
 (1) Meetings of the Commission are to be held at the times and places that the Commission or its chairperson appoints.
 (2) At every meeting of the Commission, the quorum is—
@@ -4547,6 +4550,8 @@ A meeting of the Commission may be held either—
   (a) by a number of the members constituting a quorum assembling together at the place, date, and time appointed for the meeting; or
   (b) by means of audio, or audio and visual, or electronic communication by which all members participating and constituting a quorum can simultaneously communicate with each other throughout the meeting.
 
+**Procedure**
+
 ### 13 Procedure generally
 Except as otherwise provided in this Act, the Commission may regulate its own procedure.
 
@@ -4567,6 +4572,8 @@ The Commission must appoint the times and places for all its ordinary meetings.
 (1) The Commission may invite any officer of the Public Service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
 (2) The Commission may engage any consultants that it thinks necessary or desirable to assist it to carry out its functions.
 (3) The Commission may pay to a person engaged under subclause (2), for services rendered by the person, the fees or commissions or both that it thinks fit, and may reimburse the person for expenses reasonably incurred in rendering services for the Commission.
+
+**Interested members**
 
 ### 17 Obligation to disclose interest
 (1) A member who (otherwise than as a member) is interested, directly or indirectly, in any of the matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the interest in accordance with clause 19.
@@ -4612,6 +4619,8 @@ A member is interested in a transaction to which the Commission is a party if, a
 ### 23 Effect of non-compliance
 The validity of a transaction entered into by the Commission is not affected by the fact that a member fails to comply with the disclosure requirements in clauses 17 to 22.
 
+**Delegations**
+
 ### 24 Committees
 (1) The Commission may, from time to time, appoint, discharge, alter, continue, or reconstitute committees comprising 2 or more members of the Commission, 1 of whom must be appointed as chairperson of the committee.
 (2) The Commission may refer to a committee appointed by it under this clause any proposal or matter for investigation or inquiry, and may delegate to the committee any of the functions, responsibilities, powers, or duties conferred or imposed upon the Commission by this or any other enactment in accordance with clauses 25 to 28.
@@ -4634,6 +4643,8 @@ A delegation—
   (a) is revocable at will, but the revocation does not take effect until it is communicated to the delegate; and
   (b) continues in force according to its terms until it is revoked; and
   (c) does not prevent the Commission from performing a function or exercising a delegated power.
+
+**Miscellaneous provisions**
 
 ### 29 Chief Executive Officer
 (1) There may from time to time be appointed under the State Sector Act 1988 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
@@ -4789,6 +4800,10 @@ In deciding whether or not to constitute a community, the territorial authority 
 
 ## Schedule 7 — Local authorities and community boards, and their members
 
+### Part 1 — Provisions relating to local authorities and their members
+
+**Vacation of office by members**
+
 ### 1 Disqualification of members
 (1) A person's office as member of a local authority is vacated if the person, while holding office as a member of the local authority,—
   (a) ceases to be an elector or becomes disqualified for registration as an elector under the Electoral Act 1993; or
@@ -4834,6 +4849,8 @@ In deciding whether or not to constitute a community, the territorial authority 
   (d) is absent without leave of the local authority from 4 consecutive meetings (other than extraordinary meetings) of the local authority; or
   (e) resigns under clause 4.
 (2) Sections 117 to 120 of the Local Electoral Act 2001 apply to extraordinary vacancies.
+
+**Remuneration of members**
 
 ### 6 Remuneration Authority to determine remuneration
 (1) The Remuneration Authority must determine the remuneration, allowances, and expenses payable to—
@@ -4934,6 +4951,8 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (a) salary, wages, and other payments in return for services; and
   (b) monetary and non-monetary benefits and emoluments in return for services.
 
+**Conduct of members**
+
 ### 14 Declaration by member
 (1) A person may not act as a member of a local authority until—
   (a) that person has, at a meeting of the local authority following the election of that person, made an oral declaration in the form set out in subclause (3); and
@@ -4969,6 +4988,8 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (a) refuses or fails to leave the meeting; or
   (b) having left the meeting, attempts to re-enter the meeting without the permission of the chairperson.
 
+**Election and removal of chairperson, deputy chairperson, and deputy mayor**
+
 ### 17 Election of deputy mayor or deputy chairperson
 (1) A territorial authority must elect 1 of its members to be its deputy mayor in accordance with clause 25.
 (2) A regional council must elect 1 of its members to be its deputy chairperson in accordance with clause 25.
@@ -4991,6 +5012,8 @@ In clauses 6, 7, 8, and 9, remuneration includes—
 (5) A resolution may not be made and a requisition may not be delivered less than 21 days before the day specified in the resolution or requisition for the meeting.
 (6) The chief executive must give each member notice in writing of the day, time, place, and business of any meeting called under this clause not less than 14 days before the day specified in the resolution or requisition for the meeting.
 (7) A resolution removing a chairperson, deputy chairperson, or deputy mayor carries if a majority of the total membership of the territorial authority or regional council (excluding vacancies) votes in favour of the resolution.
+
+**Calling of meetings**
 
 ### 19 General provisions for meetings
 (1) A local authority must hold the meetings that are necessary for the good government of its region or district.
@@ -5047,6 +5070,8 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (b) if the meeting is called by a resolution, within a lesser period of notice that is specified in the resolution, being not less than 24 hours.
 (4) Notice of the time and place of a meeting called under subclause (2) and of the matters in respect of which the meeting is being called must be given by the person calling the meeting or by another person on that person's behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
 
+**Conduct of meetings**
+
 ### 23 Quorum of councils and committees
 (1) A meeting is duly constituted if a quorum is present, whether or not all of the members are voting or entitled to vote.
 (2) Business may not be transacted at any meeting unless at least a quorum of members is present during the whole of the time at which the business is transacted.
@@ -5100,6 +5125,8 @@ In clauses 6, 7, 8, and 9, remuneration includes—
 (5) If the mayor or chairperson of a local authority or the chairperson of a committee is absent from a meeting, the deputy mayor or deputy chairperson (if any) of the local authority or committee must preside.
 (6) However, if a deputy mayor or deputy chairperson has not been appointed, or if the deputy mayor or deputy chairperson is also absent, the members of the local authority or of the committee that are present must elect 1 of their number to preside at that meeting, and that person may exercise at that meeting the responsibilities, duties, and powers of the mayor or chairperson.
 
+**Procedures at meetings**
+
 ### 27 Standing orders
 (1) A local authority must adopt a set of standing orders for the conduct of its meetings and those of its committees.
 (2) The standing orders of a local authority must not contravene this Act, the Local Government Official Information and Meetings Act 1987, or any other Act.
@@ -5116,6 +5143,8 @@ An act or proceeding of a local authority or committee, or of a person acting as
   (b) the subsequent discovery—
     (i) of some defect in the election or appointment of the person acting as a member of the local authority or committee; or
     (ii) that that person was or is incapable of being a member.
+
+**Subordinate decision-making structures**
 
 ### 30 Power to appoint committees, subcommittees, other subordinate decision-making bodies, and joint committees
 (1) A local authority may appoint—
@@ -5149,6 +5178,8 @@ An act or proceeding of a local authority or committee, or of a person acting as
 (6) The minimum number of members—
   (a) is 3 for a committee; and
   (b) is 2 for a subcommittee.
+
+**Delegations**
 
 ### 32AA Meaning of officer
 For the purposes of clauses 32, 32A, and 32B, officer means—
@@ -5190,6 +5221,8 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
 (2) An officer acting under subclause (1) may include conditions, limitations, or prohibitions in the delegation.
 (3) An officer to whom any responsibilities, powers, or duties are delegated may, without confirmation by the officer that made the delegation, exercise or perform them in the like manner and with the same effect as if the officer who made the delegation could himself or herself have exercised or performed them.
 (4) To avoid doubt, no delegation relieves the officer of the liability or legal responsibility to perform or ensure performance of any function or duty.
+
+**Employment of staff**
 
 ### 33 Appointment of chief executive
 The local authority must, in making an appointment under section 42, have regard to the need to appoint a person who will—
@@ -5246,6 +5279,8 @@ The local authority must, in making an appointment under section 42, have regard
   (a) employee staffing levels; and
   (b) the remuneration of employees.
 (2) A local authority must review a policy adopted under this clause at intervals of no more than 3 years.
+
+### Part 2 — Provisions relating to community boards and their members
 
 ### 37 Chairpersons of community boards
 (1) A community board must have a chairperson.
@@ -5888,48 +5923,6 @@ A local authority is not required to comply with, or complete the compliance wit
   (b) a local authority's rates remission policy under section 109(2A) of the principal Act (as inserted by section 26 of this Act):
   (c) a local authority's rates postponement policy under section 110(2A) of the principal Act (as inserted by section 27 of this Act).
 (2) A policy specified in subsection (1) is to be treated as having been last reviewed on the date that the local authority adopted its long-term plan for the period beginning on 1 July 2009.
-
-### 1 Title
-This Act is the Building Amendment Act 2012.
-
-### 2 Commencement
-(1) The following provisions come into force on the day after the date of Royal assent:
-  (a) sections 1 to 5:
-  (b) section 6(4) to (6), and (9) to (11):
-  (c) sections 8 to 10:
-  (d) sections 13 and 14:
-  (e) sections 18 to 20:
-  (f) sections 23 to 27:
-  (g) section 29:
-  (h) sections 36(3) and 39 to 51:
-  (i) sections 53 and 54:
-  (j) section 56:
-  (k) section 57(1) and (2):
-  (l) sections 59, 61, 62(2), and 63 to 65:
-  (m) sections 67 to 71:
-  (n) sections 74 and 75:
-  (o) sections 81 to 83:
-  (p) sections 87 and 88(2):
-  (q) sections 90 to 92, 93(5), and 94.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
-
-### 3 Principal Act amended
-This Act amends the Building Act 2004.
-
-## Part 2 — Miscellaneous provisions
-
-### 92 Transitional provisions for section 91
-(1) In this section, transition period means—
-  (a) the period of 18 months from the commencement of this section; or
-  (b) a shorter period than 18 months from the commencement of this section ending on a date determined by the Minister of Conservation (the Minister) and notified in the Gazette.
-(2) During the transition period, the following provisions of the Building Act 2004 do not apply to the Minister in his or her capacity as a territorial authority under section 22 of the Local Government Act 2002:
-  (a) section 212:
-  (b) section 215.
-(3) During the transition period, none of the following persons is liable, and no proceeding may be brought against any of them, for any thing done or omitted to be done under the Building Act 2004 from the commencement of that Act until the close of the transition period on or in relation to the islands referred to in section 22(2) of the Local Government Act 2002 after amendment by this Act:
-  (a) the Minister:
-  (b) the Minister of Local Government:
-  (c) the Department of Conservation:
-  (d) any employee or agent of the Department of Conservation.
 
 ### 1 Title
 This Act is the Local Government Act 2002 Amendment Act 2012.
