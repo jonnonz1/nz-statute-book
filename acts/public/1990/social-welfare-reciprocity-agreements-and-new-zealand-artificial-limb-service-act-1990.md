@@ -1,10 +1,10 @@
-# Social Welfare (Transitional Provisions) Act 1990
-_Consolidation as at 2007-09-20_
+# Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
+_Consolidation as at 2013-12-05_
 
-> An Act to provide for the New Zealand superannuation and the veteran's pension and various other matters
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Social Welfare (Transitional Provisions) Act 1990.
+### 1 Title and commencement
+(1) This Act is the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 (2) This Act shall come into force on 1 April 1990.
 
 ### 2 Interpretation
@@ -24,7 +24,7 @@ _Consolidation as at 2007-09-20_
 ### 2B Delegation of Secretary's powers
 [Repealed]
 
-## Part 1 — Monetary benefits
+## Part 1 — Reciprocity agreements with other countries
 
 **New Zealand superannuation**
 
@@ -340,21 +340,25 @@ Amendment(s) incorporated in the Act(s).
 ### 41 Validation of exercise of Director-General's powers pursuant to a purported delegation
 If any officer of the Department has, at any time before the commencement of this section, purported to exercise any power, function, or discretion of the Director-General under the Social Security Act 1964, and the exercise of that power, function, or discretion would have been valid if it had been carried out pursuant to a valid delegation by the Director-General (with the written consent of the Minister of Social Welfare) pursuant to section 10 of the Social Security Act 1964, the exercise of that power, function, or discretion shall be deemed to have been valid.
 
-## Part 3 — New Zealand Artificial Limb Board
+## Part 3 — New Zealand Artificial Limb Service
 
 ### 42 Interpretation
 In this Part and in Schedule 3, unless the context otherwise requires,—
-  - **Board** means the New Zealand Artificial Limb Board constituted by section 43
+  - **Board** means the New Zealand Artificial Limb Board established on 1 April 1990 by section 43(1)
   - **existing body** means the body known as the Artificial Limb Board (also known as the New Zealand Artificial Limbs Board), being the body that the Rehabilitation Board, purporting to act pursuant to section 13 of the Rehabilitation Act 1941, purported to establish pursuant to an instrument of delegation made pursuant to a resolution of the Rehabilitation Board dated 5 March 1970
+  - **Service** means the Board as renamed by section 43(1A)(a)
   - **undertaking** means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
 
-### 43 New Zealand Artificial Limb Board
-(1) There is hereby established a Board called the New Zealand Artificial Limb Board.
-(2) The Board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Board except to the extent that this Act expressly provides otherwise.
+### 43 New Zealand Artificial Limb Service
+(1) This subsection on 1 April 1990 established a Board called the New Zealand Artificial Limb Board.
+(1A) After the commencement of the Social Welfare (Transitional Provisions) Amendment Act 2013,—
+  (a) the Board is renamed, and is to be known as, the New Zealand Artificial Limb Service; and
+  (b) a reference to the Board in an agreement, or in any other document, in force immediately before that commencement must be read as a reference to the Service.
+(2) The Service is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the Service except to the extent that this Act expressly provides otherwise.
 
 ### 44 Functions
-The functions of the Board are—
+The functions of the Service are—
   (a) to manufacture, import, export, market, distribute, supply, fit, repair, and maintain artificial limbs and similar devices:
   (b) to provide rehabilitative and other services to persons in connection with artificial limbs and similar devices:
   (c) to carry out research and development in relation to artificial limbs and similar devices:
@@ -363,31 +367,31 @@ The functions of the Board are—
 ### 45 Powers of Board
 [Repealed]
 
-### 46 Membership of Board
-(1) The Board shall consist of 6 members appointed under section 28(1)(a) of the Crown Entities Act 2004, including—
+### 46 Membership of Service
+(1) The Service consists of 6 members appointed under section 28(1)(a) of the Crown Entities Act 2004, including—
   (a)
   (b) 1 member to be appointed by the Minister to represent the interests of war amputees:
   (c) 1 member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand:
   (d) 1 member to be appointed by the Minister on the nomination of the New Zealand Orthopaedic Association:
-  (e) 1 member to be appointed by the Minister to represent Area Health Boards, which member shall be appointed on the nomination of the Minister of Health:
-  (f) 1 member to be appointed by the Minister on the nomination of the Board.
-(2) Members of the Board are the board for the purposes of the Crown Entities Act 2004.
+  (e) 1 member to be appointed by the Minister to represent District Health Boards, which member shall be appointed on the nomination of the Minister of Health:
+  (f) 1 member to be appointed by the Minister on the nomination of a majority of the current members of the Service.
+(2) Members of the Service are the board for the purposes of the Crown Entities Act 2004.
 
 ### 47 Board to comply with Government policy
 [Repealed]
 
-### 48 Review of operation of Board
-As soon as practicable after the expiry of the period of 3 years beginning on the date of commencement of this Act, and then at intervals of not more than 5 years, the Board shall—
-  (a) review the operation of the Board since—
-    (i) the date of the commencement of this Act (in the case of the first review carried out under this paragraph); or
+### 48 Review of operation of Service
+As soon as practicable after the expiry of the period of 3 years beginning on 1 April 1990, and then at intervals of not more than 5 years, the Service must—
+  (a) review the operation of the Service since—
+    (i) 1 April 1990 (in the case of the first review carried out under this paragraph); or
     (ii) the date of the last review carried out under this paragraph (in the case of every subsequent review); and
   (b) consider—
-    (i) whether the Board should be retained or abolished; and
+    (i) whether the Service should be retained or abolished; and
     (ii) whether any amendments to this Part are necessary or desirable; and
   (c) report its findings to the Minister.
 
-### 49 Further provisions applying to Board
-The provisions set out in Schedule 3 shall apply in respect of the Board.
+### 49 Further provisions applying to Service
+The provisions set out in Schedule 3 apply in respect of the Service.
 
 ### 50 Contracts of Board
 [Repealed]
@@ -406,7 +410,7 @@ The provisions set out in Schedule 3 shall apply in respect of the Board.
 
 ## Schedule 2 — Payments on death of veteran or veteran's spouse
 
-## Schedule 3 — Provisions applying in respect of New Zealand Artificial Limb Board
+## Schedule 3 — Provisions applying in respect of New Zealand Artificial Limb Service
 
 ### 1 Term of office
 [Repealed]
@@ -427,10 +431,10 @@ The provisions set out in Schedule 3 shall apply in respect of the Board.
 [Repealed]
 
 ### 7 Appointment of deputies
-(1) The Minister may appoint any person to be the deputy of any appointed member of the Board.
-(2) No person shall be appointed under subclause (1) as the deputy of any appointed member of the Board unless that person is eligible to be appointed as an appointed member of the Board.
+(1) The Minister may appoint any person to be the deputy of any appointed member of the Service.
+(2) No person shall be appointed under subclause (1) as the deputy of any appointed member of the Service unless that person is eligible to be appointed as an appointed member of the Service.
 (3)
-(4) Any person who is appointed under this clause as the deputy of any member of the Board may attend any meeting of the Board in the place of the person whose deputy that person is.
+(4) Any person who is appointed under this clause as the deputy of any member of the Service may attend any meeting of the Service in the place of the person whose deputy that person is.
 (5)
 
 ### 8 Voting at meetings
@@ -458,7 +462,7 @@ The provisions set out in Schedule 3 shall apply in respect of the Board.
 [Repealed]
 
 ### 16 Superannuation or retiring allowances
-For the purpose of providing a superannuation fund or retiring allowance for any of the officers or employees of the Board, sums by way of subsidy may from time to time be paid into any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or into any other employer-subsidised scheme approved by the Minister of Finance for the purposes of this clause.
+For the purpose of providing a superannuation fund or retiring allowance for any of the officers or employees of the Service, sums by way of subsidy may from time to time be paid into any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or into any other employer-subsidised scheme approved by the Minister of Finance for the purposes of this clause.
 
 ### 17 Application of certain Acts to members and employees
 [Repealed]
@@ -476,7 +480,7 @@ For the purpose of providing a superannuation fund or retiring allowance for any
 [Repealed]
 
 ### 22 Exemption from income tax
-The income of the Board shall be exempt from income tax.
+The income of the Service is exempt from income tax.
 
 ### 23 Annual report
 [Repealed]
