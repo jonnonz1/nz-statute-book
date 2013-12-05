@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -371,6 +371,13 @@ An emergency travel document is valid for—
 ### 27G Delivery of recalled refugee travel document
 (1) Where the Minister recalls any refugee travel document under section 27D or section 27E or section 27F, the holder or other person who has the document in his or her possession or under his or her control must, on demand by an officer, deliver the document to the officer.
 (2) Every person commits an offence against this Act who knowingly fails without reasonable excuse to comply with subsection (1).
+
+**Cancellation of New Zealand travel document on death of holder**
+
+### 27H Death of holder of New Zealand travel document
+(1) If the Minister has reasonable grounds to believe that the holder of a New Zealand travel document has died, the Minister may cancel that holder's New Zealand travel document.
+(2) Cancellation of a holder's New Zealand travel document under subsection (1) may be effected by cancelling the electronic record of that document stored in or on a passport database.
+(3) For the purposes of subsection (2), passport database has the meaning given in section 30(3).
 
 ## Part 2 — Miscellaneous provisions
 
