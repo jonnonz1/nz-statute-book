@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-09-14_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -3154,7 +3154,8 @@ On receipt of any determination of a distribution committee or the Minister unde
 
 ### 286 Bank accounts
 (1) For the purposes of this subpart and subpart 2, the Secretary may open at any bank 1 or more accounts under the names that the Secretary thinks fit.
-(2) The accounts may be operated only by cheque signed by any 2 officers of the Department who are authorised by the Secretary for the purpose.
+(2) The accounts may be operated by any 2 officers of the Department who are authorised by the Secretary for the purpose.
+(3) Cash may not be withdrawn from an account referred to in subsections (1) and (2).
 
 ### 287 Investment of money
 (1) Subject to any directions of the Board, the Secretary may invest any profits of New Zealand lotteries in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, pending their distribution under section 277.
