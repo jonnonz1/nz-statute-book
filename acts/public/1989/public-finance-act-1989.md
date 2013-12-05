@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-05_
 
 > Title
 
@@ -64,7 +64,7 @@ _Consolidation as at 2013-11-28_
     (c) in the case of an Office of Parliament, the head of the Office concerned
   - **class of outputs** or means a grouping of similar outputs
   - **commitment** means future expenses and liabilities to be incurred on contracts that have been entered into at balance date
-  - **company** means a company within the meaning of the Companies Act 1955, or the Companies Act 1993, as the case may be
+  - **company** means a company within the meaning of the Companies Act 1993
   - **Crown** or —
     (a) means the Sovereign in right of New Zealand; and
     (b) includes all Ministers of the Crown and all departments; but
@@ -178,7 +178,7 @@ _Consolidation as at 2013-11-28_
   - **Speaker** means—
     (a) the Speaker of the House of Representatives; or
     (b) on the dissolution or expiration of Parliament until the first meeting of the new Parliament, the person holding the office of Speaker of the House of Representatives at the time of the dissolution or expiration, or, if there was at that time a vacancy in the office of Speaker of the House of Representatives or if the person holding that office at that time dies, the person holding the office of Deputy Speaker at the time of the dissolution or expiration
-  - **subsidiary** has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may require
+  - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993
   - **Supplementary Estimates** means a statement in any form that—
     (a) is presented to the House of Representatives in accordance with section 16; and
     (b) contains the information referred to in section 17
