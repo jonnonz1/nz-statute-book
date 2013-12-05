@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2013-09-26_
+_Consolidation as at 2013-12-05_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -61,7 +61,7 @@ This Act may be cited as the Radiocommunications Act 1989.
   - **radio apparatus** means any apparatus intended for the purpose of radiocommunications, being a radio transmitter or a radio receiver, or any combination of them
   - **radiocommunications** means any transmission or reception of signs, signals, writing, images, sounds, or intelligence of any nature by radio waves
   - **radio licence** means a licence granted or deemed to have been granted under Part 13
-  - **Radio New Zealand** means the public radio company within the meaning of section 2 of the Radio New Zealand Act 1995 to be known as Radio New Zealand Limited in accordance with section 19 of that Act; and includes any subsidiary of that company within the meaning of sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be
+  - **Radio New Zealand** means the public radio company within the meaning of section 2 of the Radio New Zealand Act 1995 to be known as Radio New Zealand Limited in accordance with section 19 of that Act; and includes any subsidiary of that company within the meaning of section 5 of the Companies Act 1993
   - **radio receiver** means apparatus designed to receive radio waves for the purpose of radiocommunications
   - **radio transmitter** means apparatus designed to produce radio waves for the purpose of radiocommunications
   - **radio waves** means electromagnetic waves of frequencies lower than 3 000 gigahertz, propagated in space without artificial guide
