@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1926,8 +1926,11 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
   (b) may be submitted by hand, post, or facsimile transmission.
 
 ### 127A Deposit by party secretary
-(1) If a secretary of a political party submits a list under section 127, he or she must lodge with the Electoral Commission, no later than noon on nomination day, a deposit of $1,000 (inclusive of goods and services tax).
-(2) The deposit must be in the form of a bank draft or bank cheque.
+(1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on nomination day, a deposit of $1,000 (inclusive of goods and services tax).
+(2) The deposit must be paid by—
+  (a) direct credit to a bank account nominated by the Electoral Commission; or
+  (b) bank cheque; or
+  (c) bank draft.
 (3) The deposit is forfeit and must be paid into a Crown Bank Account if the party neither—
   (a) receives in total at least 0.5% of the total number of all party votes received by all the parties listed on the part of the ballot paper that relates to the party vote; nor
   (b) wins a constituency seat.
@@ -2144,8 +2147,11 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
   (b) must be lodged with the Electoral Commission not later than noon on nomination day.
 
 ### 146F Deposit payable in respect of bulk nomination schedule
-(1) If a secretary of a party lodges a bulk nomination schedule under section 146D, he or she must lodge with the Electoral Commission, by noon on the day before nomination day, a deposit of $300 (inclusive of goods and services tax) for every constituency candidate nominated in the bulk nomination schedule.
-(2) The deposit must be in the form of 1 bank draft, or 1 bank cheque, for the total amount payable under subsection (1).
+(1) If a secretary of a party lodges a bulk nomination schedule under section 146D, he or she must pay to the Electoral Commission, by noon on the day before nomination day, a deposit of $300 (inclusive of goods and services tax) for every constituency candidate nominated in the bulk nomination schedule.
+(2) The deposit must be paid in 1 lump sum by—
+  (a) direct credit to a bank account nominated by the Electoral Commission; or
+  (b) bank cheque; or
+  (c) bank draft.
 (3) If an unsuccessful constituency candidate nominated in a bulk nomination schedule receives in total less than 5% of the total number of votes received by constituency candidates in the district for which the unsuccessful candidate was nominated, the amount of the deposit paid under subsection (1) in respect of that unsuccessful candidate is forfeit and must be paid into a Crown Bank Account.
 (4) After deducting any amounts forfeit under subsection (3), the Electoral Commission must return the remainder (if any) of the amount paid under subsection (1) to the party secretary, but only if the Electoral Commission has received from every constituency candidate nominated in the bulk nomination schedule duly completed returns under sections 205K and 209.
 
