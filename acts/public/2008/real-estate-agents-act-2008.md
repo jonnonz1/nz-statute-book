@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-05_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -356,21 +356,27 @@ The applicant must advertise the application for a licence in the prescribed man
   (a) that the applicant is not eligible to obtain a licence by virtue of section 36 or 37:
   (b) if the applicant is a company, that any person who will be an officer of the company if the application is granted is not, by reason of his or her personal character or financial position, a proper person to be an officer of a licensee company.
 (3) The notice of objection must include a statement of the grounds relied on and any prescribed matters.
+(3A) The notice of objection may include a request for a hearing under section 42(4).
 (4) The Registrar must send a copy of the notice to the applicant.
 
 ### 41 Written submission in response by applicant
 (1) An applicant to whom a notice of objection has been sent may, within the prescribed time, send to the Registrar a written submission in response to the notice of objection.
 (2) If an applicant sends a written response to the Registrar, the Registrar must send a copy of it to the person who gave notice of an objection.
+(3) A written response to the Registrar may include a request for a hearing under section 42(4).
 
-### 42 Registrar to hold hearing if notice of objection made
-If notice of an objection to an application is made the Registrar must,—
+### 42 Procedure in Registrar determining licence application and objection
+(1) This section applies if notice of an objection to an application is made under section 40.
+(2) Unless subsection (4) applies, the Registrar may consider the application and notice of objection to that application on the papers or by a hearing in accordance with subsection (5).
+(3) If the Registrar considers the application and notice of objection to that application on the papers, he or she must consider any written submission in response that is provided by the applicant under section 41.
+(4) If the Registrar has received a request for a hearing under section 40(3A) or 41(3), the Registrar must hold a hearing in accordance with subsection (5).
+(5) If the Registrar elects to hold a hearing under subsection (2) or is required to hold a hearing under subsection (4), the Registrar must,—
   (a) as soon as practicable, appoint a time and place for hearing the application and objection; and
   (b) give at least 14 days' notice of the hearing to the applicant and to any person objecting to the issue of the licence; and
-  (c) hear the applicant and any person objecting to the issue of the licence, if required to do so; and
+  (c) hear the applicant and any person objecting to the issue of the licence; and
   (d) consider the evidence put before him or her, including any written submission in response that is provided by the applicant under section 41.
 
 ### 43 Registrar to license applicant or decline application
-(1) The Registrar must grant a licence to the applicant if, after hearing any objection to the issue of a licence, the Registrar is satisfied that the applicant—
+(1) The Registrar must grant a licence to the applicant if, after considering or hearing any objection to the issue of a licence, the Registrar is satisfied that the applicant—
   (a) is entitled to be licensed as an agent, branch manager, or salesperson under section 36; and
   (b) is not prohibited from being licensed as an agent, branch manager, or salesperson under section 37; and
   (c) if the applicant is a company, any person who will be an officer of the company if the application is granted is, by reason of both his or her personal character and his or her financial position, a proper person to be an officer of a licensee company.
@@ -622,10 +628,10 @@ For the purposes of this Act, a licensee is guilty of misconduct if the licensee
 
 ### 75 Authority to appoint Complaints Assessment Committees
 (1) The Authority must appoint as many Complaints Assessment Committees as, in its opinion, are required to deal effectively with complaints and allegations about licensees.
-(2) Each Committee consists of 3 members.
-(3) One of the members of each Committee must be a member of the Authority.
-(4) Two members of each Committee must be appointed from the panel maintained under section 76.
-(5) One of the members of each Committee (whether a member of the Authority or appointed from the panel) must be a lawyer of not less than 7 years' legal experience.
+(2) Each Committee consists of 3 members appointed from the panel maintained under section 76.
+(3)
+(4)
+(5) One of the members of each Committee must be a lawyer of not less than 7 years' legal experience.
 (6) The Authority must designate one of the members as the chairperson of the Committee, and another member as the deputy chairperson.
 
 ### 76 Panel
@@ -1040,7 +1046,7 @@ As soon as practicable after a person signs a contractual document and gives tha
   (b) was provided to the person by the agent or by a licensee on behalf of the agent.
 (2) The agent or a licensee on the agent’s behalf must have—
   (a) provided the person with a copy of the approved guide; and
-  (b) received a signed acknowledgment from the person that the client has been given the approved guide.
+  (b) received a signed acknowledgment from the person that the person has been given the approved guide.
 (3) In this section—
   - **approved guide** means a guide that—
     (a) is about the sale of residential property:
