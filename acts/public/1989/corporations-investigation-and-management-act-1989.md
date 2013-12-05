@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-05_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -21,16 +21,12 @@ This Act may be cited as the Corporations (Investigation and Management) Act 198
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **person** includes a body of persons whether incorporated or not
   - **Registrar** means the Registrar of Companies and includes a Deputy Registrar
-  - **subsidiary** means, in relation to a corporation that is a company registered under the Companies Act 1955, a subsidiary within the meaning of sections 158 and 158A of that Act, and in all other cases, a subsidiary within the meaning of sections 5 and 6 of the Companies Act 1993.
+  - **subsidiary** means a subsidiary within the meaning of section 5 of the Companies Act 1993.
 (2) For the purposes of this Act, a person is an associated person of a corporation if—
   (a) that person directly or indirectly controls the management of the corporation; or
-  (b) that person owns directly or indirectly,—
-    (i) in the case of a corporation that is a company registered under the Companies Act 1955, 20% or more in nominal value of the equity share capital (as defined in section 158 of that Act) of the corporation; or
-    (ii) in all other cases, 20% of the issued shares of the corporation, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital:
+  (b) that person owns directly or indirectly 20% of the issued shares of the corporation, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital:
   (c) the corporation directly or indirectly controls that person; or
-  (d) the corporation owns directly or indirectly,—
-    (i) in the case of a person that is a company registered under the Companies Act 1955, 20% or more of the equity share capital (as defined in section 158 of the Companies Act 1955) of that person; or
-    (ii) in all other cases, 20% or more of the issued shares of that person, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital.
+  (d) the corporation owns directly or indirectly 20% or more of the issued shares of that person, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital.
 (3) For the purposes of Part 1 an associated person of a corporation also includes a person who is substantially indebted to the corporation.
 (4) Where a body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, carries on business or has assets in New Zealand, the provisions of this Act shall apply in respect of that business or those assets as if the business were carried on, or the assets were held, by a separate person.
 
@@ -40,7 +36,7 @@ This Act shall bind the Crown.
 ### 4 Application of Act
 This Act applies to any corporation—
   (a) that is, or may be, operating fraudulently or recklessly; or
-  (b) to which it is desirable that this Act should apply—if those members or creditors or beneficiaries or the public interest cannot be adequately protected under the Companies Act 1955 or the Companies Act 1993 or in any other lawful way.
+  (b) to which it is desirable that this Act should apply—if those members or creditors or beneficiaries or the public interest cannot be adequately protected under the Companies Act 1993 or in any other lawful way.
     (i) for the purpose of preserving the interests of the corporation's members or creditors; or
     (ii) for the purpose of protecting any beneficiary under any trust administered by the corporation; or
     (iii) for any other reason in the public interest,—
@@ -428,7 +424,7 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
 
 ### 52 Liquidation of corporations
 (1) Subject to this Part, a statutory manager of a corporation may,—
-  (a) in the case of a corporation that may be put into liquidation under the Companies Act 1955 or the Companies Act 1993, apply under either of those Acts to put the corporation into liquidation:
+  (a) in the case of a corporation that may be put into liquidation under the Companies Act 1993, apply under that Act to put the corporation into liquidation:
   (b) in the case of a corporation that may be wound up or put into liquidation or dissolved under any other Act, take such steps as are provided for in that Act for the winding up or liquidation or dissolution of that corporation.
 (2) The statutory manager of a corporation, not being a corporation referred to in subsection (1), may recommend to the Minister that the corporation be wound up.
 (3) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of a statutory manager under subsection (2), order that the corporation to which the recommendation relates shall be wound up in such manner as may be specified in the order and, in any such case, the corporation shall be wound up in the manner specified in the order.
@@ -448,7 +444,7 @@ Where all or any part of any liability of a corporation is included in the sale 
   (d) that any person who acquired or received the property, or his or her administrator, shall pay to the statutory manager a sum not exceeding the value of that property.
 (2) For the purpose of giving effect to any such order, the court may make such further order as it thinks fit.
 (3) No order made pursuant to this section shall deprive any other person of any estate or interest in the property if the estate or interest was acquired in good faith and for valuable consideration.
-(4) Nothing in this section shall restrict the operation of the Companies Act 1955 or the Companies Act 1993.
+(4) Nothing in this section shall restrict the operation of the Companies Act 1993.
 
 ### 55 Application of certain provisions of Companies Act 1993
 (1) Sections 275, 292 to 301, 310G, 310I, and 312 of the Companies Act 1993 shall apply to a corporation that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if—
@@ -564,9 +560,9 @@ Every person who commits an offence against this Act for which no penalty is pro
   (b) in the case of a corporation, to a fine not exceeding $25,000.
 
 ### 71 Application of other Acts
-(1) Except as provided in this Act and in subsections (2) and (3), all the provisions of the Companies Act 1955 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a corporation that is a company within the meaning of section 2 of that Act and that is subject to statutory management.
-(2) Nothing in sections 41, 130 to 135, and 152 to 167 of the Companies Act 1955 shall apply to a company that is subject to statutory management.
-(3) In the application of section 354(2) of the Companies Act 1955 to a company that is subject to statutory management, references to 2 members shall be construed as references to 1 member.
+(1)
+(2)
+(3)
 (4)
 (5) Nothing in sections 120, 196 to 209B, and 214 of the Companies Act 1993 shall apply to a company that is subject to statutory management.
 (6) Nothing in the Receiverships Act 1993 shall apply to a company that is subject to statutory management.
