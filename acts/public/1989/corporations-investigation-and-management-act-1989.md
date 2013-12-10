@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-10_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -65,13 +65,14 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or the FMA, 
 
 ### 8 Consultation with Reserve Bank
 (1) For the purposes of this section—
+  - **covered bond SPV** has the meaning given to it by section 139B of the Reserve Bank of New Zealand Act 1989
   - **licensed insurer** means a licensed insurer within the meaning of the Insurance (Prudential Supervision) Act 2010
   - **registered bank** means a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989.
 (2) The Registrar must consult the Reserve Bank of New Zealand before—
   (a) giving a written notice requiring any licensed insurer or registered bank to supply any information under section 9:
   (b) appointing any person to carry out an investigation of the affairs of any licensed insurer or registered bank under section 19:
   (c) giving a written notice to any licensed insurer or registered bank that it is considered to be a corporation at risk.
-(3) The FMA must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer or registered bank.
+(3) The FMA must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer, registered bank, or covered bond SPV.
 
 ## Part 1 — Supply of information by, and investigation of affairs of, corporations
 
@@ -299,6 +300,7 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 (2) Where an Order in Council is made under subsection (1), every subsidiary of a corporation declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, shall be subject to statutory management, and the statutory manager or statutory managers so appointed shall be the statutory manager or statutory managers of every such subsidiary.
 (3) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (4) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
+(5) Subsections (1)(a) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 ### 39 Grounds on which corporation can be declared to be subject to statutory management
 The FMA shall not make a recommendation under section 38 in respect of a corporation unless it is satisfied on reasonable grounds—
@@ -351,6 +353,7 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
   (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
     (i) is provided under the rules of the designated settlement system; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under those rules.
+(8A) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 (9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Reserve Bank of New Zealand Act 1989.
 
 ### 43 Prohibition against removal of assets
@@ -359,16 +362,19 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000:
   (b) in the case of a corporation, to a fine not exceeding $250,000.
 (3) Nothing in subsection (2) shall prevent the issue of an injunction or the making of any order to prevent such property or assets being removed from New Zealand.
+(4) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 
 ### 44 Statutory manager may suspend payment of money owing
 (1) The statutory manager of a corporation may, notwithstanding the terms of any contract, suspend in whole or in part the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person.
 (2) The suspension by a statutory manager in whole or in part of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person pursuant to subsection (1) shall not constitute a breach or repudiation of any contract entered into by the corporation with any person.
 (3) Nothing in subsection (1) shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
 (4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156T of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(5) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 
 ### 45 Management of corporation to vest in statutory manager
 (1) Subject to this Part, where a corporation is declared to be subject to statutory management, the management of that corporation shall, on and after the date, and at and from the time, specified in the order, vest in the statutory manager of that corporation.
 (2) Where a corporation is declared to be subject to statutory management, it shall not be lawful or competent for any director, manager, or other person to be engaged in the management or conduct of the business of that corporation, or to act as an officer, or as the agent or servant, of the corporation, except with the permission of the statutory manager and so far as that permission extends.
+(3) Subsection (2) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 
 ### 46 Powers of statutory manager
 (1) Subject to this Part, a statutory manager of a corporation shall have all such powers, rights, and authorities as may be necessary to carry out the powers conferred by this Part.
