@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2013-12-10_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -1873,6 +1873,7 @@ When a scheme is approved under section 166—
   (a) every subsidiary of a licensed insurer declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, is subject to statutory management; and
   (b) the appointment of a statutory manager for the specified period in respect of the licensed insurer also applies to those subsidiaries.
 (3) If a licensed insurer acquires a subsidiary after it has been declared to be subject to statutory management under subsection (1), the subsidiary is not subject to statutory management unless a further Order in Council is made declaring the subsidiary to be subject to statutory management.
+(4) Subsections (1)(b) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 ### 171 Statutory management of overseas persons
 If a licensed insurer or an associated person of a licensed insurer that is declared to be subject to statutory management, or a subsidiary of a licensed insurer that becomes subject to statutory management under section 170(2) or (3), is an overseas person, the provisions of this subpart apply to the property, rights, assets, and liabilities relating to its New Zealand business.
