@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-10_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -3917,6 +3917,7 @@ At any time after the making of an application to the court under section 241(2)
   (f) a shareholder must not exercise a power under the constitution of the company or this Act except for the purposes of this Part:
   (g) the constitution of the company must not be altered.
 (2) Subsection (1) does not affect the right of a secured creditor, subject to section 305, to take possession of, and realise or otherwise deal with, property of the company over which that creditor has a charge.
+(3) This section is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 
 ### 249 Completion of liquidation
 The liquidation of a company is completed when the liquidator—as the case may be.
@@ -4191,6 +4192,7 @@ If a person whose rights would be affected by the disclaimer of onerous property
   (a) a company that is, or has been, related to the company in liquidation must pay to the liquidator the whole or part of any or all of the claims made in the liquidation:
   (b) where 2 or more related companies are in liquidation, the liquidations in respect of each company must proceed together as if they were 1 company to the extent that the court so orders and subject to such terms and conditions as the court may impose.
 (2) The court may make such other order or give such directions to facilitate giving effect to an order under subsection (1) as it thinks fit.
+(3) This section is subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 ### 271A Notice that application filed must be given to administrators and creditors
 (1) Unless the court orders otherwise, an applicant for an order under section 271(1)(b) must give notice that the application has been filed to the liquidator and each creditor of each related company in liquidation.
