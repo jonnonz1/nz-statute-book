@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-11_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -8,7 +8,7 @@ _Consolidation as at 2013-08-05_
 (2) This Act shall come into force on 1 June 1984.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **airgun** includes—
     (a) any air rifle; and
     (b) any air pistol; and
@@ -39,32 +39,44 @@ In this Act, unless the context otherwise requires,—
   - **kea gun** means a single shot pistol that is chambered for a .410 inch shot cartridge
   - **licensed dealer** means a holder of a dealer's licence issued under this Act
   - **member of the Police** means a Police employee within the meaning of section 4 of the Policing Act 2008
-  - **military style semi-automatic firearm** means—
-    (a) a firearm which, after being loaded, fires, ejects, and chambers a cartridge with each pull of the trigger; but
-    (b) does not include—
-      (i) a pistol; or
-      (ii) a semi-automatic firearm that, with its magazine (if any), is maintained at all times in a sporting configuration
+  - **military style semi-automatic firearm** means a firearm (other than a pistol) that is—
+    (a) a semi-automatic firearm having 1 or more of the following features:
+      (i) a folding or telescopic butt:
+      (ii) a magazine designed to hold 0.22-inch rimfire cartridges that—
+        (A) is capable of holding more than 15 cartridges; or
+        (B) is detachable, and by its appearance indicates that it is capable of holding more than 15 cartridges:
+      (iii) a magazine (other than one designed to hold 0.22-inch rimfire cartridges) that—
+        (A) is capable of holding more than 7 cartridges; or
+        (B) is detachable, and by its appearance indicates that it is capable of holding more than 10 cartridges:
+      (iv) bayonet lugs:
+      (v) a flash suppressor:
+      (vi) a component of a kind defined or described by an order under section 74A as a pistol grip for the purposes of this definition; or
+    (b) a semi-automatic firearm of a make and model declared by an order under section 74A to be a military style semi-automatic firearm for the purposes of this Act; or
+    (c) a semi-automatic firearm of a description declared by an order under section 74A to be a military style semi-automatic firearm for the purposes of this Act; or
+    (d) a semi-automatic firearm that has a feature of a kind defined or described in an order under section 74A as a feature of military style semi-automatic firearms for the purposes of this Act
   - **part** —
     (a) in relation to a pistol, restricted weapon, or military style semi-automatic firearm, includes any thing, such as a butt, stock, magazine, silencer, or sight, which, while not essential for the discharge by a pistol, restricted weapon, or military style semi-automatic firearm of any shot, bullet, missile, or other projectile, is designed or intended to be an integral part of a pistol, restricted weapon, or military style semi-automatic firearm; and
     (b) in relation to any other firearm, means the action for that firearm
   - **pistol** means any firearm that is designed or adapted to be held and fired with 1 hand; and includes any firearm that is less than 762 millimetres in length
   - **public place** has the meaning given to it by section 2 of the Summary Offences Act 1981
+  - **restricted airgun** means an airgun that,—
+    (a) without any of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
+    (b) with some or all of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
+    (c) is designed for use in airsoft or paintball sports and,—
+      (i) without any of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire; or
+      (ii) with some or all of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire
   - **restricted weapon** means any weapon, whether a firearm or not, declared by the Governor-General, by Order in Council made under section 4, to be a restricted weapon
   - **sale** includes—
     (a) barter; and
     (b) offering or attempting to sell, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and to sell has a corresponding meaning
+  - **semi-automatic firearm** means a firearm that (if it is loaded), with each pull of the trigger,—
+    (a) fires a cartridge and ejects its case; and
+    (b) (unless all cartridges loaded have been fired) chambers another cartridge
   - **specially dangerous airgun** means any airgun declared by the Governor-General, by Order in Council made under section 4, to be a specially dangerous airgun
-  - **sporting configuration** , in relation to a semi-automatic firearm, means being without any of the following features:
-    (a) a folding or telescopic butt:
-    (b) a magazine that is capable of holding, or that, by its appearance, indicates that it is capable of holding,—
-      (i) in the case of a magazine designed to hold .22 inch rimfire cartridges, more than 15 cartridges; or
-      (ii) in any other case, more than 7 cartridges:
-    (c) bayonet lugs:
-    (d) a military pattern free-standing pistol grip:
-    (e) a flash suppressor
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+(2) For the purposes of the definition of restricted airgun in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire.
 
 ### 3 Act to bind the Crown
 (1) Subject to subsections (2) and (3), this Act binds the Crown.
@@ -170,41 +182,41 @@ Where a dealer's licence is revoked under section 9, the dealer may, within 3 mo
 
 **Importation of firearms**
 
-### 16 Offence to import firearms or parts of firearms without permit
-(1) No person shall bring or cause to be brought or sent into New Zealand—otherwise than pursuant to a permit issued to that person by a member of the Police.
-  (a) any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon; or
-  (b) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon,—
+### 16 Offence to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons without permit
+(1) A person must not, otherwise than pursuant to a permit issued to the person by a member of the Police, bring or cause to be brought or sent into New Zealand—
+  (a) a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon; or
+  (b) any part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon.
 (2) In this section New Zealand does not include the harbours and other territorial waters of New Zealand.
 (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000 or to both who acts in contravention of subsection (1).
 
 ### 17 Burden of proof
-In any proceedings against any person in respect of any offence against section 16 of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, or restricted weapon which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
+In any proceedings against any person in respect of any offence against section 16 of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, starting pistol, or restricted weapon) which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
 
-### 18 Issue of permits to import firearms or parts of firearms
+### 18 Issue of permits to import firearms, parts of firearms, or restricted airguns
 (1) Any member of the Police to whom application is made for the issue of a permit for the purposes of section 16(1)—
-  (a) may require the applicant to produce for examination and testing such samples of any firearms, pistols, military style semi-automatic firearms, starting pistols, or restricted weapons of any kind referred to in the application as the member of the Police may consider necessary; and
+  (a) may require the applicant to produce for examination and testing such samples of any firearms, pistols, military style semi-automatic firearms, starting pistols, restricted airguns, or restricted weapons of any kind referred to in the application as the member of the Police may consider necessary; and
   (b) may, in the discretion of that member of the Police, refuse to grant the permit with respect to—
-    (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind; or
+    (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon of any kind; or
     (ii) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind.
-(2) Without limiting the discretion conferred by subsection (1)(b), no application for a permit for the purposes of section 16(1) in respect of—shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
-  (a) a pistol, military style semi-automatic firearm, or restricted weapon; or
+(2) Without limiting the discretion conferred by subsection (1)(b), no application for a permit for the purposes of section 16(1) in respect of—shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
+  (a) a pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon; or
   (b) parts of a pistol, military style semi-automatic firearm, or restricted weapon,—
 (3) Any permit issued for the purposes of section 16(1) is personal to the person to whom it is issued and may not be transferred to any other person.
 (4) Any permit issued for the purposes of section 16(1) may be at any time revoked by a commissioned officer of Police.
 (5) A permit for the purposes of section 16(1) is in no case to be granted in respect of an anti-personnel mine or a cluster munition.
 
-### 18A Expiration of permits to import firearms or parts of firearms
+### 18A Expiration of permits to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons
 Unless sooner revoked under section 18(4), a permit issued for the purposes of section 16(1) shall expire 12 months after the date on which that permit was issued.
 
 ### 18B Samples
-(1) Where an applicant is, pursuant to a requirement made under section 18(1)(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
-(2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of section 16(1) and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
-(3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
+(1) Where an applicant is, pursuant to a requirement made under section 18(1)(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
+(2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of section 16(1) and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
+(3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
 
-### 19 Seizure of illegally imported firearms or parts of firearms
-If any member of the Police or officer of the Customs has reasonable grounds to suspect that any firearm or restricted weapon or part of a firearm or restricted weapon has been brought into New Zealand in breach of section 16(1) or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1), that member or officer—
-  (a) may seize that firearm or restricted weapon or part of a firearm or restricted weapon and detain the same; and
-  (b) in effecting the seizure of that firearm or restricted weapon or part of a firearm or restricted weapon, may use such force as is reasonably necessary.
+### 19 Seizure of illegally imported items
+A member of the Police or officer of the Customs who suspects on reasonable grounds that a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon) has been brought into New Zealand in breach of section 16(1), or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1),—
+  (a) may seize and detain it; and
+  (b) in effecting its seizure, may use any reasonably necessary force.
 
 **General restrictions on possession of firearms and airguns**
 
@@ -621,22 +633,24 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 **Appeals**
 
 ### 62 Right of appeal from official decisions
-(1) Any person—may, by way of originating application, appeal to a District Court Judge from the refusal to grant any such licence or permit or from the revocation of any such licence or permit or against the imposition of the conditions or against the giving of the notice, as the case may be.
-  (a) whose application for—has been refused; or
-    (i) a dealer's licence; or
-    (ia) consent under section 7A; or
-    (ii) a permit for the purposes of section 16(1); or
-    (iii) a firearms licence; or
-    (iv) an endorsement under section 30 or section 30B or section 36; or
-    (v) a permit under section 35, to procure a pistol, military style semi-automatic firearm, or restricted weapon,—
-  (b) whose—has been revoked or has been issued subject to conditions imposed by a member of the Police; or
-    (i) dealer's licence; or
-    (ii) permit for the purposes of section 16(1); or
-    (iii) firearms licence; or
-    (iv) endorsement under section 30 or section 30B or section 36; or
-    (v) permit, under section 35, to procure a pistol, military style semi-automatic firearm, or restricted weapon,—
-  (c) who has been served with a notice under section 41 or section 59,—
-(2) On the hearing of an appeal under subsection (1), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
+(1) This subsection applies to—
+  (a) a person who is affected by a determination by the Commissioner that a firearm is a military style semi-automatic firearm; and
+  (b) a person whose application for 1 of the following has been refused:
+    (i) a dealer's licence:
+    (ii) consent under section 7A:
+    (iii) a permit for the purposes of section 16(1):
+    (iv) a firearms licence:
+    (v) an endorsement under section 30, 30B, or 36:
+    (vi) a permit under section 35 to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
+  (c) a person who has had 1 of the following issued subject to conditions imposed by a member of the Police or revoked:
+    (i) a dealer's licence:
+    (ii) a permit for the purposes of section 16(1):
+    (iii) a firearms licence:
+    (iv) an endorsement under section 30, 30B, or 36:
+    (v) a permit under section 35 to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
+  (d) a person who has been served with a notice under section 41 or 59.
+(1A) A person to whom subsection (1) applies may, by way of originating application, appeal to a District Court Judge from the determination, refusal, imposition of conditions, revocation, or service.
+(2) On the hearing of an appeal under subsection (1A), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
 (3) Where—the District Court Judge may, notwithstanding that he finds any such ground established, vary or reverse the decision appealed against if he is satisfied that, since the decision was given, adequate measures have been taken to deny access to the firearm to the person whose likelihood of access to it was the basis of the refusal or revocation.
   (a) an application for a firearms licence has been refused on the ground set out in section 24(2); or
   (b) a firearms licence has been revoked on the ground set out in section 27(1)(b)—
@@ -766,6 +780,23 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
   (r) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $400:
   (s) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Notwithstanding the provisions of any regulations made under this Act, the Commissioner may dispense with the payment of any fee payable under any such regulations.
+
+### 74A Orders relating to military style semi-automatic firearms
+The Governor-General may by Order in Council do any or all of the following things:
+  (a) describe a kind of component as a pistol grip for the purposes of the definition in section 2 of military style semi-automatic firearm:
+  (b) declare semi-automatic firearms (other than pistols) of a stated make and model to be military style semi-automatic firearms for the purposes of this Act:
+  (c) declare semi-automatic firearms (other than pistols) of a stated description to be military style semi-automatic firearms for the purposes of this Act:
+  (d) define or describe features of a semi-automatic firearm (other than a pistol) as features of a military style semi-automatic firearm for the purposes of this Act.
+
+### 74B Certain orders relating to military style semi-automatic firearms to expire unless confirmed
+(1) Where an order under section 74A(b), (c), or (d)—it must be treated as having been revoked with the close of the 30th day of June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+  (a) has in any year been made on or after 1 January and before 1 July; and
+  (b) has not been revoked with effect on or before 1 July in the next year; and
+  (c) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+(2) Where an order under section 74A(b), (c), or (d)—it must be treated as having been revoked with the close of 31 December in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+  (a) has in any year been made after 30 June and on or before 31 December; and
+  (b) has not been revoked with effect on or before 1 January in the year after the next year; and
+  (c) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
 
 ### 75 Consequential amendment to Summary Proceedings Act 1957
 Amendment(s) incorporated in the Act(s).
