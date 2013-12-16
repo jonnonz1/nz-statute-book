@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-16_
 
 > Title
 
@@ -99,7 +99,7 @@ The purposes of this Act are—
     (c) any roadway laid out by order of the Maori Land Court under sections 315 to 327 of Te Ture Whenua Maori Act 1993 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under section 320 of that Act to be a road; or
     (d) any level crossing
   - **roading structure** means any bridge, underpass, overpass, culvert, or tunnel
-  - **Secretary** means the chief executive of the Ministry; and includes any person for the time being authorised by delegation to exercise or perform any of the powers or functions of the Secretary under this Act
+  - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **serious harm** means—
     (a) death; or
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
@@ -109,7 +109,8 @@ The purposes of this Act are—
   - **worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
-    (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+    (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2)
 (3) Any notice required or authorised by this Act to be served on any person shall be delivered to that person, and may be delivered either personally or by posting it to that person at the person’s last known place of abode or business in New Zealand. A notice so posted shall be deemed to have been served at the time when the letter would in the ordinary course of post be delivered.
 
@@ -140,26 +141,45 @@ This Act binds the Crown.
 (1) The Minister may, by notice in the Gazette, declare a person to be a gas operator for the purposes of this Act or any provision or provisions of this Act if the Minister is satisfied that a declaration is necessary to enable the person to start or carry on a business as a gas distributor.
 (2) The Minister must, as soon as reasonably practicable, by notice in the Gazette, declare that a person ceases to be a gas operator on a date stated in the notice if the Minister is satisfied that the person no longer carries on a business as a gas distributor.
 
-**Functions and powers of Secretary**
+**Functions and powers of WorkSafe and Secretary**
 
-### 6 Functions of Secretary
-The functions of the Secretary under this Act are—
-  (a) to carry out such enquiries, tests, audits or investigations as may be necessary to determine whether or not a person is complying with this Act:
+### 6 Functions of WorkSafe
+(1) The functions of WorkSafe under this Act are—
+  (a) to carry out such inquiries, tests, audits, or investigations as may be necessary to determine whether a person is complying with this Act:
   (b) to take all such lawful steps as may be necessary to ensure the safe supply and use of gas:
   (c) to perform such other functions as are provided for under this Act.
+(2) This section is subject to section 6A.
+
+### 6A Functions of Secretary
+(1) The Secretary—
+  (a) must carry out the functions conferred on the Secretary under this Act or regulations made under this Act; and
+  (b) may carry out a function conferred on WorkSafe under a specified provision of this Act or regulations made under this Act in relation to a specified matter.
+(2) The Prime Minister may, by notice in the Gazette, specify—
+  (a) 1 or more matters in relation to which the Secretary may carry out functions conferred on WorkSafe under this Act; and
+  (b) 1 or more provisions of this Act or regulations made under this Act that confer functions on WorkSafe and under which the Secretary may exercise functions in relation to the specified matter.
+(3) If the Secretary carries out a function in relation to a specified matter, every reference to WorkSafe in the relevant specified provision must be read as if it were a reference to the Secretary.
+(4) Without limiting subsection (3), the Secretary has the powers necessary to carry out the functions in a specified provision in relation to a specified matter in accordance with this Act.
+(5) WorkSafe and the Secretary must work co-operatively to ensure that their functions under this Act and any regulations made under this Act are carried out in an effective and efficient manner.
+(6) In this section,—
+  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)(a)
+  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)(b).
+
+### 6B WorkSafe and Secretary must share information
+(1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
+(2) The Secretary must provide information to WorkSafe if the information is necessary or desirable for WorkSafe to carry out its functions under this Act.
 
 ### 7 Inspection of distribution systems, etc
-(1) For the purposes of performing any of the Secretary’s functions under this Act, the Secretary may at any reasonable time inspect the whole or any part of any distribution system, gas installation, or gas appliance.
-(2) For the purposes of carrying out an inspection under this section, the Secretary may enter and re-enter any place.
-(3) Before carrying out any inspection under this section, the Secretary shall give to the person who has control of or who is using the distribution system, gas installation, or gas appliance, and to the occupier of the land affected, reasonable notice of the Secretary’s intention to carry out the inspection.
-(4) Where the Secretary has entered any place under subsection (2), he or she may—
+(1) For the purposes of performing any of WorkSafe's functions under this Act, WorkSafe may at any reasonable time inspect the whole or any part of any distribution system, gas installation, or gas appliance.
+(2) For the purposes of carrying out an inspection under this section, WorkSafe may enter and re-enter any place.
+(3) Before carrying out any inspection under this section, WorkSafe shall give to the person who has control of or who is using the distribution system, gas installation, or gas appliance, and to the occupier of the land affected, reasonable notice of WorkSafe's intention to carry out the inspection.
+(4) Where WorkSafe has entered any place under subsection (2), WorkSafe may—
   (a) inspect any fittings or gas appliance:
-  (b) test any substance that he or she reasonably believes to be gas; test any gas measurement system; and carry out any other test that the person reasonably considers necessary or desirable for the purposes of this Act:
-  (c) without limiting paragraph (b), take (without payment) samples of any substance that he or she reasonably believes to be gas, for the purposes of examination and testing:
+  (b) test any substance that WorkSafe reasonably believes to be gas; test any gas measurement system; and carry out any other test that the person reasonably considers necessary or desirable for the purposes of this Act:
+  (c) without limiting paragraph (b), take (without payment) samples of any substance that WorkSafe reasonably believes to be gas, for the purposes of examination and testing:
   (d) for the purposes of examination and testing,—
     (i) remove any fittings, unless the removal of those fittings would unreasonably interfere with the operation of any distribution system:
     (ii) remove any gas appliance:
-  (e) by notice in writing require any person whom the Secretary reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that the Secretary reasonably believes is necessary to render that place or those fittings safe:
+  (e) by notice in writing require any person whom WorkSafe reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that WorkSafe reasonably believes is necessary to render that place or those fittings safe:
   (f) require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under section 54 or section 55 to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
 (5) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
@@ -178,32 +198,32 @@ The functions of the Secretary under this Act are—
   (b) the occupier of that place:
   (c) the gas distributor, gas retailer, or consumer concerned (where that person is not the owner or occupier of that place).
 
-### 9 Special powers of Secretary
-(1) The Secretary may at any time, by notice in writing, require any person who has control of or who uses any distribution system, gas installation, or gas appliance to take apart or dismantle any fittings to facilitate or assist an inspection for the purposes of this Act.
-(2) The Secretary may at any time, by notice in writing, require any gas wholesaler, gas distributor, gas retailer, or consumer—
+### 9 Special powers of WorkSafe
+(1) WorkSafe may at any time, by notice in writing, require any person who has control of or who uses any distribution system, gas installation, or gas appliance to take apart or dismantle any fittings to facilitate or assist an inspection for the purposes of this Act.
+(2) WorkSafe may at any time, by notice in writing, require any gas wholesaler, gas distributor, gas retailer, or consumer—
   (a) to replace any gas measurement system, or any part of any gas measurement system, that is owned by that gas wholesaler, gas distributor, gas retailer, or consumer and that is part of a distribution system or a gas installation; and
   (b) to deliver the replaced gas measurement system or part for inspection and testing.
-(3) Where the Secretary believes on reasonable grounds—the Secretary may do all such things, and require any person to do or refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.
+(3) Where WorkSafe believes on reasonable grounds—WorkSafe may do all such things, and require any person to do or refrain from doing all such things, as WorkSafe considers necessary to remove or minimise the danger or potential danger.
   (a) that there is a danger or potential danger to the safety of any persons or property arising directly or indirectly from the presence or escape of any gas; or
   (b) that, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—
-(3A) The Secretary’s power to require a person to do a thing under subsection (3) includes the power to require, by notice in writing, that the person—
-  (a) produce for inspection, within any reasonable period that the Secretary may specify, any document or class of document in the possession or under the control of the person that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger:
-  (b) supply, within any reasonable period that the Secretary may specify, any information or class of information that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger.
+(3A) WorkSafe's power to require a person to do a thing under subsection (3) includes the power to require, by notice in writing, that the person—
+  (a) produce for inspection, within any reasonable period that WorkSafe may specify, any document or class of document in the possession or under the control of the person that WorkSafe considers would assist WorkSafe to remove or minimise a danger or potential danger:
+  (b) supply, within any reasonable period that WorkSafe may specify, any information or class of information that WorkSafe considers would assist WorkSafe to remove or minimise a danger or potential danger.
 (3B) Every person who is required to produce documents or supply information under this section has the same privileges in relation to the production of the documents or the supply of the information as witnesses have in any court.
 (4) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
-### 10 Objections to Secretary’s requirements
+### 10 Objections to WorkSafe's requirements
 (1) Every person who is affected by any notice given under section 7(4)(e) or section 9(1) or section 9(2), or any requirement made under section 9(3), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
-(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of the Secretary, with the Registrar of any other District Court.
+(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other District Court.
 (3) Every notice of objection shall specify the grounds of the objection.
-(4) The objector shall cause a copy of the notice of objection to be served on the Secretary, either before or immediately after it is lodged with the Registrar.
-(5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and the Secretary.
+(4) The objector shall cause a copy of the notice of objection to be served on WorkSafe, either before or immediately after it is lodged with the Registrar.
+(5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and WorkSafe.
 
 ### 11 Effect of notice or requirement pending hearing
 Subject to section 14, where a notice of objection is lodged under section 10, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by a District Court under section 12(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
 
 ### 12 Procedure on hearing of objection
-(1) On the hearing of an objection under section 10, both the objector and the Secretary, either personally or by their counsel, shall be entitled to be present and be heard.
+(1) On the hearing of an objection under section 10, both the objector and WorkSafe, either personally or by their counsel, shall be entitled to be present and be heard.
 (2) On hearing the objection, the court may by order confirm, reverse, or modify the notice or requirement.
 (3) Subject to section 13, every order made under subsection (2) of this section shall be final.
 
@@ -213,10 +233,10 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 (4) Subject to section 14, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
 
-### 14 Secretary may require immediate compliance
-(1) Notwithstanding sections 11 and 13(4), where a notice of objection is lodged under section 10 by any person in respect of any notice or requirement, the Secretary may advise the objector that the Secretary considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
+### 14 WorkSafe may require immediate compliance
+(1) Notwithstanding sections 11 and 13(4), where a notice of objection is lodged under section 10 by any person in respect of any notice or requirement, WorkSafe may advise the objector that WorkSafe considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
 (2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
-(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of the Secretary, and to make such order in the matter as to costs and otherwise as it thinks fit.
+(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
 ### 15 Appeal against decision on application for injunction
@@ -230,7 +250,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
 (6) Subject to subsections (3) to (5), the decision of the High Court on an appeal to that court under this section shall be final.
 
 ### 16 Assessors
-(1) Where any objection has been lodged under section 10, the Secretary or the objector may ask for the objection to be heard with the assistance of 2 assessors, one to be appointed by the Secretary and the other by the objector.
+(1) Where any objection has been lodged under section 10, WorkSafe or the objector may ask for the objection to be heard with the assistance of 2 assessors, one to be appointed by WorkSafe and the other by the objector.
 (2) No person shall be appointed to act as an assessor unless he or she has special skill or knowledge relevant to the particular matter to be considered by the court.
 (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
 
@@ -241,7 +261,7 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
     (i) serious harm to any person; or
     (ii) significant property damage.
 (2)
-(3) Where any accident to which this section applies occurs in any place, the appropriate person shall notify the Secretary of the particulars of the accident forthwith on becoming aware of the accident.
+(3) Where any accident to which this section applies occurs in any place, the appropriate person shall notify WorkSafe of the particulars of the accident forthwith on becoming aware of the accident.
 (4) For the purposes of subsection (3), the appropriate person is as follows:
   (a) in the case of an accident involving gas supplied by a gas distributor or gas retailer, that gas distributor or gas retailer:
   (b) if the accident is discovered by any person who is authorised to do gasfitting under Part 2 of the Plumbers, Gasfitters, and Drainlayers Act 2006, that person:
@@ -252,35 +272,34 @@ Subject to section 14, where a notice of objection is lodged under section 10, t
   (b) section 25(3) of the Health and Safety in Employment Act 1992.
 
 ### 17A Transfer of accident information
-(1) The Secretary must, as soon as practicable after he or she is notified of an accident under section 17, provide the notice or information that has been given to the Secretary to—
-  (a) the person who must be notified of the particulars of an accident under section 16(3) of the Electricity Act 1992 if the Secretary is of the opinion that section 16 of that Act applies to the accident; and
-  (b) the person who must be notified of the occurrence of an accident under section 25(3) of the Health and Safety in Employment Act 1992 if the Secretary is of the opinion that section 25 of that Act applies to the accident.
-(2) Subsection (1)(a) does not apply if the Secretary and the person who must be notified of the particulars of an accident under section 16(3) of the Electricity Act 1992 are the same person.
+(1) In this section, specified matter means a matter that is specified in a Gazette notice under section 6A(2).
+(2) If WorkSafe is notified of an accident under section 17 and the accident relates to a specified matter, WorkSafe must provide the notice and any particulars that WorkSafe has received to the Secretary.
+(3) If an accident relates to a specified matter, a person required to provide notification of any accident under section 17 may notify the Secretary in accordance with that section instead of WorkSafe.
 
 ### 18 Interference with scene of accident
-(1) No person shall interfere in any way with the scene of any accident to which section 17 applies without the permission of the Secretary, or if the Secretary is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of gas.
-(2) Where any person does interfere in any way with the scene of any accident to which section 17 applies, the person shall as soon as practicable notify the Secretary of the action the person has taken.
+(1) No person shall interfere in any way with the scene of any accident to which section 17 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of gas.
+(2) Where any person does interfere in any way with the scene of any accident to which section 17 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
 (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety in Employment Act 1992.
 
 ### 19 Inquiries into accidents
-(1) The Secretary may conduct an inquiry into any accident to which section 17 applies to establish the cause of the accident.
-(2) Where the Secretary believes, on reasonable grounds, that any occurrence may be an accident to which section 17 applies, the Secretary may conduct a preliminary inquiry in order to establish whether or not the occurrence is such an accident.
-(3) Subject to section 22, the Secretary may, for the purpose of any inquiry or preliminary inquiry under this section, require any person to supply to the Secretary all such information as that person may have of relevance to the inquiry or preliminary inquiry.
-(4) Where the Secretary conducts an inquiry under this section, the Secretary shall prepare a written report of the findings of the inquiry, and shall make copies of that report available on request to interested parties.
+(1) WorkSafe may conduct an inquiry into any accident to which section 17 applies to establish the cause of the accident.
+(2) Where WorkSafe believes, on reasonable grounds, that any occurrence may be an accident to which section 17 applies, WorkSafe may conduct a preliminary inquiry in order to establish whether or not the occurrence is such an accident.
+(3) Subject to section 22, WorkSafe may, for the purpose of any inquiry or preliminary inquiry under this section, require any person to supply to WorkSafe all such information as that person may have of relevance to the inquiry or preliminary inquiry.
+(4) Where WorkSafe conducts an inquiry under this section, WorkSafe shall prepare a written report of the findings of the inquiry, and shall make copies of that report available on request to interested parties.
 
-### 20 Assistance to Secretary
-Where the Secretary is performing any duty or exercising any power in respect of any place, or any fittings or gas appliance in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place or the fittings or the gas appliance, shall provide all such facilities and assistance as the Secretary may reasonably require.
+### 20 Assistance to WorkSafe
+Where WorkSafe is performing any duty or exercising any power in respect of any place, or any fittings or gas appliance in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place or the fittings or the gas appliance, shall provide all such facilities and assistance as WorkSafe may reasonably require.
 
-### 21 Obstructing Secretary
+### 21 Obstructing WorkSafe
 Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
-  (a) intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
+  (a) intentionally obstructs WorkSafe when WorkSafe is lawfully carrying out duties under this Act:
   (b) refuses or fails without reasonable excuse—
-    (i) to produce any document when required to do so by the Secretary for the purposes of this Act; or
-    (ii) to allow the Secretary to examine or make copies of or take extracts from any such document; or
-    (iii) to supply any information required of the person by the Secretary under this Act; or
-    (iv) to comply with any other lawful order or requisition given or made by the Secretary:
-  (c) intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, the Secretary for the purposes of this Act:
-  (d) fails without reasonable excuse to notify any accident to which section 17 applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 18(1), or, having interfered in any such scene in accordance with section 18(1), fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 18(2).
+    (i) to produce any document when required to do so by WorkSafe for the purposes of this Act; or
+    (ii) to allow WorkSafe to examine or make copies of or take extracts from any such document; or
+    (iii) to supply any information required of the person by WorkSafe under this Act; or
+    (iv) to comply with any other lawful order or requisition given or made by WorkSafe:
+  (c) intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, WorkSafe for the purposes of this Act:
+  (d) fails without reasonable excuse to notify any accident to which section 17 applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 18(1), or, having interfered in any such scene in accordance with section 18(1), fails without reasonable excuse to notify WorkSafe of the steps he or she has taken as required by section 18(2).
 
 ### 22 Privilege against self-incrimination
 No person shall be required, pursuant to any provision of this Part, to reply to any question if the answer might tend to incriminate him or her.
@@ -417,7 +436,7 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
 ## Part 4 — Gas codes of practice
 
 ### 37 Issue of gas code of practice
-(1) The Secretary may from time to time issue any instrument (in this Act referred to as a gas code of practice) for the purposes of, or relating to,—
+(1) WorkSafe may from time to time issue any instrument (in this Act referred to as a gas code of practice) for the purposes of, or relating to,—
   (a) the setting or endorsing of standards or specifications concerning the design, construction, installation, importation, or manufacture of distribution systems, gas installations, fittings, or gas appliances:
   (b) the setting of standards in respect of gas that is to be supplied to or used by gas retailers and consumers:
   (c) the operation or use of distribution systems, gas installations, fittings, or gas appliances:
@@ -428,12 +447,12 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
     (ii) the levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
   (g) the setting or endorsing of standards, specifications, or requirements relating to or concerning the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of gas fitness in respect of such fittings and gas appliances:
   (h) the setting or endorsing of standards, controls, or requirements for the whole or any part of any tree or vegetation to prevent the interruption of the gas supply system.
-(2) The Secretary may from time to time issue an amendment or revocation of any gas code of practice.
+(2) WorkSafe may from time to time issue an amendment or revocation of any gas code of practice.
 (3) Every gas code of practice and every amendment or revocation of a gas code of practice shall show the date on which it was issued.
-(4) The Secretary may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996, as a gas code of practice under this Act.
+(4) WorkSafe may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996, as a gas code of practice under this Act.
 
 ### 38 Code may incorporate official standards by reference
-(1) The Secretary may include in any gas code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject matter of the code.
+(1) WorkSafe may include in any gas code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject matter of the code.
   (a) an official standard or a specified part of an official standard; or
   (b) an official standard or a specified part of an official standard with such additions or variations as are specified in the code—
 (2) On the inclusion, in a code, of a reference to an official standard or part of an official standard, that official standard or, as the case may be, that part of that official standard (as it existed on the date of the inclusion but with such additions or variations (if any) as are specified in the code) shall be deemed to form part of the code.
@@ -441,7 +460,7 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
 ### 39 Code to be approved by Minister
 (1) Subject to subsection (5), a gas code of practice, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Minister.
 (2) Subject to subsection (3), the Minister shall not approve any code, or any amendment or revocation of a code, unless—
-  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of the Secretary to apply for approval; and
+  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
   (b) the Minister has consulted such persons as will be affected by the code or amendment or revocation, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Minister; and
   (c) the Minister has considered any comments made to the Minister concerning those effects.
 (3) The Minister may approve a gas code of practice or any amendment or revocation of that code without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code or amendment or revocation.
@@ -451,31 +470,32 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
 (5) The fact that the Minister has published in the Gazette a notice under subsection (4)(a) shall be conclusive proof that the requirements of this section have been complied with in respect of the approval specified in the notice.
 
 ### 40 Availability of codes
-(1) The Secretary shall ensure that copies of all gas codes of practice, and all amendments to such codes, that are for the time being in force are available—
+(1) WorkSafe shall ensure that copies of all gas codes of practice, and all amendments to such codes, that are for the time being in force are available—
   (a) for inspection by members of the public free of charge; and
   (b) for purchase by members of the public at a reasonable price.
 (2) The notice of approval published in the Gazette pursuant to section 39(4)(a) shall show, in relation to the code, or the amendment to a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
 
 ### 41 Emergency amendment of code
-(1) If the Secretary considers it essential in the interests of safety or ensuring the continuity of the supply or distribution of gas to amend any gas code of practice forthwith, the Secretary may issue an emergency amendment to the code and promulgate it in such manner as the Secretary thinks fit.
+(1) If WorkSafe considers it essential in the interests of safety or ensuring the continuity of the supply or distribution of gas to amend any gas code of practice forthwith, WorkSafe may issue an emergency amendment to the code and promulgate it in such manner as WorkSafe thinks fit.
 (2) Every amendment issued under subsection (1) shall be identified as an emergency amendment issued under this section, and show the date on which it was issued.
 (3) Every such amendment shall remain in force for a period of 60 days after the date on which it was issued and may be continued in force by the Minister for such further period or periods as the Minister thinks fit, but the maximum period of time during which an emergency amendment may remain in force shall be 180 days.
 (4) Subject to subsection (5), an emergency amendment issued under this section shall for all purposes, while it remains in force, be deemed to have been issued under section 37, and to have been approved, on the date of its issue, by the Minister under section 39.
 (5) If any regulation made under section 54 requires compliance with any gas code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
-(6) Notwithstanding anything in section 41 of the State Sector Act 1988, the Secretary shall not delegate to any other person the power conferred on the Secretary by this section.
-(7) In this section, the term Secretary means the chief executive of the Ministry, and includes any person who is authorised, pursuant to a direction given pursuant to section 40 of the State Sector Act 1988, to exercise the power conferred on the Secretary by this section.
+(6) Despite section 73 of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
+(7) Subsection (8) applies if, pursuant to section 6A(3) and (4), the Secretary may exercise the power conferred by this section in relation to a matter specified in a Gazette notice under section 6A(2).
+(8) Despite section 41 of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
 
 ### 42 Citation of code
-In any regulations made under section 54, any gas code of practice or amendment of a gas code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by the Secretary and by its date of issue; and such citation shall be deemed, subject to section 41(5), to include and refer to the latest gas code of practice or amendment in force when the regulations were made.
+In any regulations made under section 54, any gas code of practice or amendment of a gas code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to section 41(5), to include and refer to the latest gas code of practice or amendment in force when the regulations were made.
 
 ### 43 Proof of code
-(1) Without affecting any other method of proof, the production in any proceedings of a copy of any gas code of practice or amendment or revocation of a gas code of practice, purporting to have been issued by the Secretary and to have been approved by the Minister shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 37 and approved by the Minister, on the date shown on it as the date of approval, under section 39.
+(1) Without affecting any other method of proof, the production in any proceedings of a copy of any gas code of practice or amendment or revocation of a gas code of practice, purporting to have been issued by WorkSafe and to have been approved by the Minister shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 37 and approved by the Minister, on the date shown on it as the date of approval, under section 39.
 (2) Without affecting any other method of proof, the production in any proceedings of—
-  (a) a copy of an emergency amendment of a gas code of practice purporting to have been issued by the Secretary shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 41 on the date shown on it as the date of issue:
+  (a) a copy of an emergency amendment of a gas code of practice purporting to have been issued by WorkSafe shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 41 on the date shown on it as the date of issue:
   (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 41(3).
 (3) In any proceedings for an offence against this Act or against any regulations made under section 54,—
-  (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by the Secretary:
-  (b) judicial notice shall be taken of the signature of the Secretary.
+  (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by WorkSafe:
+  (b) judicial notice shall be taken of the signature of WorkSafe.
 
 ## Part 4A — Governance of gas industry
 
@@ -1204,9 +1224,9 @@ Every person who, being a person that owns or operates a gas supply system, brea
 (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under section 54 giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the Defence Act 1990) unless the person entering has a security clearance approved by the person in charge of the area.
 
 ### 51 Compensation for damage
-(1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by this Act on the Secretary or a gas operator or any other owner of existing fittings shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
+(1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by this Act on WorkSafe or a gas operator or any other owner of existing fittings shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
 (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the Public Works Act 1981, and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
-(3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on the Secretary shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
+(3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on WorkSafe shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
 
 ### 52 Penalty for obstructing officers
 Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who intentionally obstructs any person in the performance of any duty or in doing any work that that person has lawful authority to do under this Act.
@@ -1224,13 +1244,13 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (i) authorising, controlling, and prescribing conditions in respect of, the design, construction, installation, maintenance, use, management, inspection, and testing of distribution systems or gas installations:
     (ii) authorising, controlling, and prescribing conditions in respect of, the design, installation, manufacture, maintenance, use, inspection, importation, sale, and testing of gas appliances or fittings used or intended to be used in the application of gas:
     (iii) prohibiting the manufacture, importation, sale, and use of such gas appliances and fittings as do not satisfy any prescribed tests, standards, or safety criteria:
-    (iv) requiring such types or categories of gas appliances and fittings as are specified in the regulations, or as are from time to time declared by the Secretary by public notice to be subject to the regulations, to be approved by the Secretary before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by the Secretary of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by the Secretary for the purposes of the regulations:
+    (iv) requiring such types or categories of gas appliances and fittings as are specified in the regulations, or as are from time to time declared by WorkSafe by public notice to be subject to the regulations, to be approved by WorkSafe before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by WorkSafe for the purposes of the regulations:
     (v) authorising, controlling, restricting, prescribing conditions in respect of, and, where necessary, prohibiting, the construction, installation, use, management, operation, maintenance, transportation, and movement of any structure, device, thing, or substance, whether fixed or movable and whether permanent or temporary, in the vicinity of any fittings or where any fittings may affect or be affected by the structure, device, thing, or substance:
     (vi) controlling the existence and location of the whole or any part of any tree or vegetation that is in the vicinity of, or may affect, any fittings:
   (bb) prescribing requirements for safety management systems:
   (bc) prescribing, for the purposes of sections 46A, 46B, and 54A, what distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system) and the circumstances and conditions in which any distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system):
   (c) prescribing standards in respect of fittings, gas appliances, gas installations, meters, and gas that are or is to be supplied to or used by gas retailers and consumers:
-  (d) providing for the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of fitness by such persons or class or classes of persons as are prescribed or as are authorised by the Secretary; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); prescribing the persons to whom any fees are to be paid; and exempting specified relocatable buildings or pleasure vessels, or classes of relocatable buildings or pleasure vessels, from the provisions of the regulations:
+  (d) providing for the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of fitness by such persons or class or classes of persons as are prescribed or as are authorised by WorkSafe; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); prescribing the persons to whom any fees are to be paid; and exempting specified relocatable buildings or pleasure vessels, or classes of relocatable buildings or pleasure vessels, from the provisions of the regulations:
   (e) prescribing, in relation to workers,—
     (i) the training required for any specified class or classes of workers for the purposes of establishing and maintaining safety standards in relation to the manufacture, extraction, storage, processing, treatment, distribution, supply, and application of gas:
     (ii) the levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
@@ -1244,14 +1264,14 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (k) prescribing standards in respect of the quality, composition, physical properties, dew point, calorific value, purity, odorisation, and odour of gas supplied:
   (l) prescribing permissible pressure ranges in respect of the supply of gas:
   (m) providing for the testing and sealing of gas measurement systems and calibration equipment; prescribing the manner in which and the means by which such testing and sealing shall be done; and regulating the manner in which and the means by which gas measurement systems and calibration equipment are reassembled in connection with such testing:
-  (n) authorising the Secretary—
-    (i) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by gas:provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by the Secretary or until its earlier revocation by the Secretary:
+  (n) authorising WorkSafe—
+    (i) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by gas:provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by WorkSafe or until its earlier revocation by WorkSafe:
     (ii) to obtain such information concerning the production, transmission, distribution, sale, consumption, application, and supply of gas as may be required for statistical purposes:
     (iii) to carry out tests on distribution systems, gas installations, fittings, and gas appliances:
-  (o) authorising the Secretary or the chief executive of the department of State responsible for the administration of the Building Act 2004, or both, to exempt specific gas installations, gas appliances, fittings, persons, or things from requirements imposed by regulations made under this section, subject to any conditions that the Secretary or, as the case requires, the chief executive thinks fit:
+  (o) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the Building Act 2004, or both, to exempt specific gas installations, gas appliances, fittings, persons, or things from requirements imposed by regulations made under this section, subject to any conditions that WorkSafe or, as the case requires, the chief executive thinks fit:
   (p) exempting or providing for the exemption of distribution systems, gas installations, fittings, and gas appliances from the provisions of section 46:
   (q) prescribing the matters in respect of which fees are payable under this Act; prescribing the amount of the fees or the method by which they are to be assessed; and providing for the remission or refund of any such fees:
-  (r) prescribing the forms of documents required under this Act, or authorising the Secretary to prescribe or approve such forms, and requiring the use of such forms:
+  (r) prescribing the forms of documents required under this Act, or authorising WorkSafe or the Secretary to prescribe or approve such forms, and requiring the use of such forms:
   (s) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fine that may be imposed in respect of any such offence, which fine shall be an amount not exceeding $50,000 and, where the offence is a continuing one, a further amount not exceeding $2,000 for every day or part of a day during which the offence has continued:
   (sb) prescribing infringement offences:
   (sc) setting the infringement fee for each infringement offence, which,—
@@ -1265,11 +1285,11 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     (i) any gas code of practice, or any part of such a code; or
     (ia) any official standard, or any part of an official standard; or
-    (ii) any approved code of practice for the time being in force pursuant to section 20 of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
+    (ii) any approved code of practice for the time being in force pursuant to section 20A of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations) is then deemed to form part of the regulations.
-(3) Without limiting paragraph (b) of subsection (1), regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by the Secretary before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
-(4) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person, or because it authorises the Secretary or any other person—
+(3) Without limiting paragraph (b) of subsection (1), regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by WorkSafe before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
+(4) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
   (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
   (b) to set any standard.
 (5) Notwithstanding section 1(3), and without limiting section 11 of the Interpretation Act 1999, no regulation made under this section may be expressed to come into force before 1 April 1993.
@@ -1383,22 +1403,22 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) If a person is alleged to have committed an infringement offence, the person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 57C.
-(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 57C Infringement notices
-(1) The Secretary may issue an infringement notice to a person if—
-  (a) the Secretary believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
-  (b) the Secretary or another person has not taken enforcement action against the same defendant in respect of the same matter.
-(2) The Secretary may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(1) WorkSafe may issue an infringement notice to a person if—
+  (a) WorkSafe believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
+  (b) WorkSafe or another person has not taken enforcement action against the same defendant in respect of the same matter.
+(2) WorkSafe may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
 (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 (4) For the purposes of this section, enforcement action means,—
-  (a) in relation to the Secretary,—
+  (a) in relation to WorkSafe,—
     (i) the filing of a charging document under this Act; or
     (ii) the issuing of an infringement notice under this Act; and
-  (b) in relation to a person other than the Secretary, the filing of a charging document under this Act.
+  (b) in relation to a person other than WorkSafe, the filing of a charging document under this Act.
 
 ### 57D Procedural requirements for infringement notices
-(1) An infringement notice may not be issued after the close of the 14th day after the Secretary becomes aware of the alleged infringement offence.
+(1) An infringement notice may not be issued after the close of the 14th day after WorkSafe becomes aware of the alleged infringement offence.
 (2) An infringement notice may be served on a person—
   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (b) by sending it, or a copy of it, by post, addressed to the person at the person’s last known place of residence or business.
@@ -1418,7 +1438,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (6) Reminder notices must contain the prescribed information.
 
 ### 57E Payment of infringement fee
-The Secretary must pay all infringement fees received into a Crown Bank Account.
+WorkSafe must pay all infringement fees received into a Crown Bank Account.
 
 ### 57F Effect of infringement notice
 (1) If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.
