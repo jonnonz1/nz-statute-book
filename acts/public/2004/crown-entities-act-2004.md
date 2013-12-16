@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-16_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1712,6 +1712,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Social Workers Registration Board |  |  |  |  |  |
 | Sport and Recreation New Zealand |  |  |  |  |  |
 | Tertiary Education Commission |  |  |  |  |  |
+| WorkSafe New Zealand |  |  |  |  |  |
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
