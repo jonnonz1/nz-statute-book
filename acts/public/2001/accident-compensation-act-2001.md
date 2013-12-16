@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-16_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -296,7 +296,8 @@ This Act binds the Crown.
     (b) under sections 131, 210, 224, Part 10, or Part 11
   - **weekly earnings** , in relation to an earner, means the weekly earnings of that earner determined in accordance with Part 2 of Schedule 1
   - **Work Account** means the Account described in section 167
-  - **work-related personal injury** has the meaning set out in sections 28 and 29(1).
+  - **work-related personal injury** has the meaning set out in sections 28 and 29(1)
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) An example used in this Act is only illustrative of the provision it relates to. It does not limit the provision.
 
 ### 7 Acute treatment
@@ -3047,7 +3048,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 ### 280 Disclosure of information to Corporation
 (1) In this section, unless the context otherwise requires, payment means any payment under this Act; and includes any provisions in respect of rehabilitation.
-(2) The purpose of this section is to facilitate the disclosure of information by the Department of Labour, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 1964, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
+(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, WorkSafe, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 1964, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
   (a) the entitlement or eligibility of any person to or for any payment; or
   (b) the amount of any payment to which any person is or was entitled or for which any person is or was eligible.
 (3) For the purpose of this section, the Corporation may from time to time, in accordance with arrangements made between the Corporation and the Department concerned, request the Department to supply, in respect of persons who are receiving, have received, or have applied to receive any payment—
@@ -3107,19 +3108,20 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 **Information about work-related injuries**
 
-### 286 Corporation to provide information to Department of Labour
-(1) The Corporation must provide to the chief executive of the Department of Labour any information held by the Corporation under this Act that—
+### 286 Corporation to provide information to Ministry of Business, Innovation, and Employment and to WorkSafe
+(1) The Corporation must provide to the chief executive of the Ministry of Business, Innovation, and Employment or to WorkSafe any information held by the Corporation under this Act that—
   (a) relates to—
     (i) employers; or
     (ii) workplaces; or
     (iii) claims for work-related personal injury; and
-  (b) is of a type specified for the purpose of this section in an agreement between the Corporation and the chief executive.
-(2) The chief executive may use the information only for 1 or more of the following purposes:
-  (a) to support the Department of Labour in its administration of any provisions of the relevant Acts:
-  (b) to support the department's responsibilities for workforce development and employment creation:
-  (c) to ensure appropriate co-ordination of activities with the Corporation and other relevant agencies.
-(3) The power conferred on the chief executive by subsection (2) includes (without limitation) power to provide information received under this section to any agency designated under section 28B of the Health and Safety in Employment Act 1992, but only for the purpose of supporting the agency's functions under that Act.
-(4) The Corporation must provide the information in accordance with the agreement with the chief executive.
+  (b) is of a type specified for the purpose of this section in an agreement between the Corporation and the chief executive of the Ministry of Business, Innovation, and Employment or WorkSafe as the case may be.
+(2) The chief executive of the Ministry of Business, Innovation, and Employment and WorkSafe may use the information only for 1 or more of the following purposes:
+  (a) to support the Ministry of Business, Innovation, and Employment in its administration of any provisions of the relevant Acts:
+  (b) to support WorkSafe in carrying out its functions under any provisions of the relevant Acts:
+  (c) to ensure appropriate co-ordination of activities with the Corporation and other relevant agencies:
+  (d) in the case of the Ministry of Business, Innovation, and Employment, to support the Ministry’s responsibilities for workforce development and employment creation.
+(3) The power conferred on the chief executive of the Ministry of Business, Innovation, and Employment and on WorkSafe by subsection (2) includes (without limitation) power to provide information received under this section to any agency designated under section 28B of the Health and Safety in Employment Act 1992, but only for the purpose of supporting the agency’s functions under that Act.
+(4) The Corporation must provide the information in accordance with the agreement referred to in subsection (1)(b).
 (5) In subsection (2), relevant Acts means—
   (a) Disabled Persons Employment Promotion Act 1960:
   (b) Employment Relations Act 2000:
@@ -3132,7 +3134,8 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (i) Minimum Wage Act 1983:
   (j) Parental Leave and Employment Protection Act 1987:
   (k) Volunteers Employment Protection Act 1973:
-  (l) Wages Protection Act 1983.
+  (l) Wages Protection Act 1983:
+  (m) the WorkSafe New Zealand Act 2013.
 
 ## Part 8 — Management of injury-related information
 
