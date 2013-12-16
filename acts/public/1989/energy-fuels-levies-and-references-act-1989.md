@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-16_
 
 > Title
 
@@ -18,7 +18,8 @@ In this Act, unless the context otherwise requires,—
   - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996)), synthetic fuel, and blends of these
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Secretary** means the chief executive of the Ministry.
+  - **Secretary** means the chief executive of the Ministry
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 
 ## Part 1 — Abolition of Ministry of Energy
 
@@ -79,9 +80,9 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (1) Levies recovered under this Part, except levies recovered under section 24, must be applied only for the purposes of meeting the reasonable costs and expenses of—
   (a) the inspection, monitoring, and related services to which they relate and matters incidental to those services, being—
     (i) services carried out by the Ministry under any Act or related arbitration services; or
-    (ii) services carried out by the Department of Building and Housing under any Act or related arbitration services; or
-    (iii) services carried out by the Department of Labour under any Act or related arbitration services; and
-  (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry or by the Department of Labour; and
+    (ii)
+    (iii) services carried out by WorkSafe under any Act or related arbitration services; and
+  (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry or by WorkSafe; and
   (c) the dissemination by the Ministry of information to assist consumers to choose, and alternate, between competing electricity retailers (as defined in section 2(1) of the Electricity Act 1992) or gas retailers (as defined in section 2(1) of the Gas Act 1992); and
   (d) the recovery of those levies.
 (2) Levies recovered under section 24 must be applied only for the purposes of meeting the reasonable costs and expenses of—
@@ -150,7 +151,7 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 [Repealed]
 
 ### 26 Rebates
-(1) On the application of any person who has paid or is liable to pay any levy under this Part, the Secretary may grant a rebate in respect of the whole or any part of the levy to which the application relates.
+(1) On the application of any person who has paid or is liable to pay any levy under section 24, the Secretary may grant a rebate in respect of the whole or any part of the levy to which the application relates.
 (2) Before deciding to grant or not to grant a rebate under this section, the Secretary shall have regard to—
   (a) section 14; and
   (b) the number of inspections of the operation concerned that were carried out during the period in respect of which the levy was paid or is payable.
@@ -164,8 +165,9 @@ If any levy is not paid on or before the date on which it is payable, the person
 ### 29 Recovery of levies
 All money payable to the Secretary under this Part shall be deemed to be payable to the Crown, and may be recovered from the person liable to pay it as a debt due to the Crown.
 
-### 30 Payment into Departmental Bank Account
-All money received by the Secretary under this Part shall be paid into the Departmental Bank Account of the responsible department of State.
+### 30 Payment of levy into account
+(1) All money received by the Secretary under section 22 or 23 must be paid into a Crown Bank Account.
+(2) All money received by the Secretary under section 24 must be paid into the Departmental Bank Account of the responsible department of State.
 
 ### 31 Power to inspect property, obtain information, and enter land
 (1) For the purpose of obtaining any information that may be required by the Secretary for the purposes of this Part, any person specifically or generally authorised in writing in that behalf by the Secretary may, from time to time—
