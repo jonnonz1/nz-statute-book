@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 > Title
 
@@ -81,8 +81,8 @@ The purposes of this Act are—
   - **lines** means works that are used or intended to be used for the conveyance of electricity
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **maintain** includes to repair; and has a corresponding meaning
-  - **Minister** , in any provision of this Act, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of that provision
-  - **Ministry** , in any provision of this Act, means the department of State that, with the authority of the Prime Minister, is responsible for the administration of that provision
+  - **Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **official standard** means—
     (a) a New Zealand Standard within the meaning of the Standards Act 1988:
     (b) a standard specification prescribed by any standards organisation within the meaning of that Act
@@ -118,7 +118,7 @@ The purposes of this Act are—
     (c) any roadway laid out by order of the Maori Land Court under sections 315 to 327 of Te Ture Whenua Maori Act 1993 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under section 320 of that Act to be a road; or
     (d) any level crossing
   - **roading structure** means any bridge, underpass, overpass, culvert, or tunnel
-  - **Secretary** , in any provision of this Act, means the chief executive of the Ministry responsible for the administration of that provision; and includes any person for the time being authorised by delegation to exercise or perform any of the powers or functions of the Secretary under that provision
+  - **Secretary** means the chief executive of the Ministry
   - **serious harm** means—
     (a) death; or
     (b) injury that consists of or includes loss of consciousness; or
@@ -137,7 +137,8 @@ The purposes of this Act are—
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **works** —
     (a) means any fittings that are used, or designed or intended for use, in or in connection with the generation, conversion, transformation, or conveyance of electricity; but
-    (b) does not include any part of an electrical installation.
+    (b) does not include any part of an electrical installation
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2)
 (3) In this Act, point of supply, in relation to a property, means the point or points on the boundary of the property at which exclusive fittings enter that property, except that,—and, in this definition,—
   (a) if there are both high voltage lines and a transformer owned by the electricity distributor on the property, the point of supply is the point at which electricity from the transformer enters exclusive fittings; or
@@ -189,21 +190,40 @@ This Act binds the Crown.
 (2) The Minister must, as soon as is reasonably practicable, by notice in the Gazette, declare that a person ceases to be an electricity operator on a date stated in the notice if the Minister is satisfied that the person is no longer carrying out any of the activities referred to in subsection (1).
 (3)
 
-**Functions and powers of Secretary**
+**Functions and powers of WorkSafe and Secretary**
 
-### 5 Functions of Secretary
-The functions of the Secretary or Secretaries under this Act are—
-  (a) to carry out such enquiries, tests, audits, or investigations as may be necessary to determine whether or not a person is complying with this Act:
+### 5 Functions of WorkSafe
+(1) The functions of WorkSafe under this Act are—
+  (a) to carry out such inquiries, tests, audits, or investigations as may be necessary to determine whether a person is complying with this Act:
   (b) to take all such lawful steps as may be necessary to ensure the safe supply and use of electricity:
   (c) to perform such other functions as are provided for under this Act.
+(2) This section is subject to section 5A.
+
+### 5A Functions of Secretary
+(1) The Secretary—
+  (a) must carry out the functions conferred on the Secretary under this Act or regulations made under this Act; and
+  (b) may carry out a function conferred on WorkSafe under a specified provision of this Act or regulations made under this Act in relation to a specified matter.
+(2) The Prime Minister may, by notice in the Gazette, specify—
+  (a) 1 or more matters in relation to which the Secretary may carry out functions conferred on WorkSafe under this Act; and
+  (b) 1 or more provisions of this Act or regulations made under this Act that confer functions on WorkSafe and under which the Secretary may exercise functions in relation to the specified matter.
+(3) If the Secretary carries out a function in relation to a specified matter, every reference to WorkSafe in the relevant specified provision must be read as if it were a reference to the Secretary.
+(4) Without limiting subsection (3), the Secretary has the powers necessary to carry out the functions in a specified provision in relation to a specified matter in accordance with this Act.
+(5) WorkSafe and the Secretary must work co-operatively to ensure that their functions under this Act and any regulations made under this Act are carried out in an effective and efficient manner.
+(6) In this section,—
+  - **specified matter** means a matter that is specified in a Gazette notice under subsection (2)﻿(a)
+  - **specified provision** means a provision that is specified in a Gazette notice under subsection (2)﻿(b).
+
+### 5B WorkSafe and Secretary must share information
+(1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
+(2) The Secretary must provide information to WorkSafe if the information is necessary or desirable for WorkSafe to carry out its functions under this Act.
 
 ### 6 Inspection of works, etc
-(1) For the purposes of performing any of the Secretary's functions under this Act, the Secretary may at any reasonable time inspect the whole or any part of any works, electrical installation, electrical appliance, or associated equipment.
-(2) For the purposes of carrying out an inspection under this section, the Secretary may enter and re-enter any place.
-(3) Before carrying out any inspection under this section, the Secretary shall give to the person who has control of the works, installation, electrical appliance, or associated equipment, and to the occupier of the land affected, reasonable notice of the Secretary's intention to carry out the inspection.
-(4) Where the Secretary has entered any place under subsection (2), he or she may—
+(1) For the purposes of performing any of WorkSafe's functions under this Act, WorkSafe may at any reasonable time inspect the whole or any part of any works, electrical installation, electrical appliance, or associated equipment.
+(2) For the purposes of carrying out an inspection under this section, WorkSafe may enter and re-enter any place.
+(3) Before carrying out any inspection under this section, WorkSafe shall give to the person who has control of the works, installation, electrical appliance, or associated equipment, and to the occupier of the land affected, reasonable notice of WorkSafe's intention to carry out the inspection.
+(4) Where WorkSafe has entered any place under subsection (2), WorkSafe may—
   (a) inspect any fittings or associated equipment:
-  (b) by notice in writing require any person whom the Secretary reasonably believes to be for the time being in charge of the place, or of any fittings or associated equipment in the place, to take any specified action in respect of that place, those fittings, or that equipment that the Secretary reasonably believes is necessary to render that place, those fittings, or that equipment safe:
+  (b) by notice in writing require any person whom WorkSafe reasonably believes to be for the time being in charge of the place, or of any fittings or associated equipment in the place, to take any specified action in respect of that place, those fittings, or that equipment that WorkSafe reasonably believes is necessary to render that place, those fittings, or that equipment safe:
   (c) require any person who has control of the works, electrical installation, electrical appliance, or associated equipment to produce any document required by this Act or any regulations made under section 169 or section 170 to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
 (5) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
@@ -215,29 +235,29 @@ Where any inspection is carried out under section 6, the person who carries out 
     (ii) the owner or occupier of that place (where that person is not the person referred to in subparagraph (i)); and
     (iii) the person who has control of the works, electrical installation, electrical appliance, or associated equipment concerned (where that person is not the person referred to in subparagraph (i) or subparagraph (ii)).
 
-### 8 Special powers of Secretary
-(1) The Secretary may at any time, by notice in writing, require any person who has control of any works, electrical installation, or electrical appliance to take apart or dismantle any fittings to facilitate or assist an inspection for the purposes of this Act.
-(2) Where the Secretary believes on reasonable grounds—the Secretary may do all such things, and require any person to do or refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.
+### 8 Special powers of WorkSafe
+(1) WorkSafe may at any time, by notice in writing, require any person who has control of any works, electrical installation, or electrical appliance to take apart or dismantle any fittings to facilitate or assist an inspection for the purposes of this Act.
+(2) Where WorkSafe believes on reasonable grounds—WorkSafe may do all such things, and require any person to do or refrain from doing all such things, as WorkSafe considers necessary to remove or minimise the danger or potential danger.
   (a) that there is a danger or potential danger to the safety of any person or property arising directly or indirectly from any fittings or electrical appliance or electrical installation; or
   (b) that, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, in relation to any fittings or electrical appliance or electrical installation, there would be a danger or potential danger of injury to any person or of damage to any property,—
-(2A) The Secretary's power to require a person to do a thing under subsection (2) includes the power to require, by written notice, that the person—
-  (a) produce for inspection, within any reasonable period that the Secretary may specify, any document or class of document in the possession or under the control of the person that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger:
-  (b) supply, within any reasonable period that the Secretary may specify, any information or class of information that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger.
+(2A) WorkSafe's power to require a person to do a thing under subsection (2) includes the power to require, by written notice, that the person—
+  (a) produce for inspection, within any reasonable period that WorkSafe may specify, any document or class of document in the possession or under the control of the person that WorkSafe considers would assist WorkSafe to remove or minimise a danger or potential danger:
+  (b) supply, within any reasonable period that WorkSafe may specify, any information or class of information that WorkSafe considers would assist WorkSafe to remove or minimise a danger or potential danger.
 (2B) Every person who is required to produce documents or supply information under this section has the same privileges in relation to the production of the documents or the supply of the information as witnesses have in any court.
 (3) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
-### 9 Objections to Secretary's requirements
+### 9 Objections to WorkSafe's requirements
 (1) Every person who is affected by any notice given under section 6(4)﻿(b) or section 8(1), or any requirement made under section 8(2), may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
-(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of the Secretary, with the Registrar of any other District Court.
+(2) Every objection under subsection (1) shall be made by lodging a written notice of objection with the Registrar of the District Court nearest to the place where the notice was given or the requirement made, or, with the consent of WorkSafe, with the Registrar of any other District Court.
 (3) Every notice of objection shall specify the grounds of the objection.
-(4) The objector shall cause a copy of the notice of objection to be served on the Secretary, either before or immediately after it is lodged with the Registrar.
-(5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and the Secretary.
+(4) The objector shall cause a copy of the notice of objection to be served on WorkSafe, either before or immediately after it is lodged with the Registrar.
+(5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the objection to the objector and WorkSafe.
 
 ### 10 Effect of notice or requirement pending hearing
 Subject to section 13, where a notice of objection is lodged under section 9, the notice or requirement to which the notice of objection relates shall be suspended until an order is made by a District Court under section 11(2), or until the withdrawal of the objection or the withdrawal of the notice or requirement, whichever occurs first.
 
 ### 11 Procedure on hearing of objection
-(1) On the hearing of an objection under section 9, both the objector and the Secretary, either personally or by their counsel, shall be entitled to be present and be heard.
+(1) On the hearing of an objection under section 9, both the objector and WorkSafe, either personally or by their counsel, shall be entitled to be present and be heard.
 (2) On hearing the objection, the court may by order confirm, reverse, or modify the notice or requirement.
 (3) Subject to section 12, every order made under subsection (2) shall be final.
 
@@ -247,10 +267,10 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 (4) Subject to section 13, where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
 
-### 13 Secretary may require immediate compliance
-(1) Notwithstanding sections 10 and 12(4), where a notice of objection is lodged under section 9 by any person in respect of any notice or requirement, the Secretary may advise the objector that the Secretary considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
+### 13 WorkSafe may require immediate compliance
+(1) Notwithstanding sections 10 and 12(4), where a notice of objection is lodged under section 9 by any person in respect of any notice or requirement, WorkSafe may advise the objector that WorkSafe considers the situation to be one involving immediate danger to life or property, and on being so advised the objector shall immediately take active steps to comply with that notice or requirement.
 (2) Every person commits an offence who fails to comply immediately with any notice or requirement to which subsection (1) applies, and every such person shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day that such failure continues.
-(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of the Secretary, and to make such order in the matter as to costs and otherwise as it thinks fit.
+(3) Without limiting the liability of any person to be convicted of an offence against subsection (2), both the High Court and any District Court shall each have jurisdiction to restrain any contravention or threatened contravention of subsection (1) by injunction on the application of WorkSafe, and to make such order in the matter as to costs and otherwise as it thinks fit.
 (4) No person shall be precluded by any contract or agreement from doing or refraining from doing any such acts as may be necessary to comply with the provisions of this section, or be liable under any contract or agreement to any penalty or forfeiture for doing or refraining from doing any such act.
 
 ### 14 Appeal against decision on application for injunction
@@ -264,7 +284,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
 (6) Subject to subsections (3) to (5), the decision of the High Court on an appeal to that court under this section shall be final.
 
 ### 15 Assessors
-(1) Where any objection has been lodged under section 9, the Secretary or the objector may ask for the objection to be heard with the assistance of 2 assessors, one to be appointed by the Secretary and the other by the objector.
+(1) Where any objection has been lodged under section 9, WorkSafe or the objector may ask for the objection to be heard with the assistance of 2 assessors, one to be appointed by WorkSafe and the other by the objector.
 (2) No person shall be appointed to act as an assessor unless he or she has special skill or knowledge relevant to the particular matter to be considered by the court.
 (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
 
@@ -275,7 +295,7 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
     (i) serious harm to any person; or
     (ii) damage to any place or part of a place that renders that place or that part of that place unusable for any purpose for which it was used or designed to be used before that accident.
 (2)
-(3) Where any accident to which this section applies occurs in any place, the appropriate person shall notify the Secretary of the particulars of the accident forthwith on becoming aware of the accident.
+(3) Where any accident to which this section applies occurs in any place, the appropriate person shall notify WorkSafe of the particulars of the accident forthwith on becoming aware of the accident.
 (4) For the purposes of subsection (3), the appropriate person is as follows:
   (a) in the case of an accident involving or affecting any works or electrical installation, the person who has control of those works or that installation:
   (b) if the accident is discovered by any person who is authorised to do prescribed electrical work under Part 10, that person:
@@ -286,35 +306,34 @@ Subject to section 13, where a notice of objection is lodged under section 9, th
   (b) section 25(3) of the Health and Safety in Employment Act 1992.
 
 ### 16A Transfer of accident information
-(1) The Secretary must, as soon as practicable after he or she is notified of an accident under section 16, provide the notice or information that has been given to the Secretary to—
-  (a) the person who must be notified of the particulars of an accident under section 17(3) of the Gas Act 1992 if the Secretary is of the opinion that section 17 of that Act applies to the accident; and
-  (b) the person who must be notified of the occurrence of an accident under section 25(3) of the Health and Safety in Employment Act 1992 if the Secretary is of the opinion that section 25 of that Act applies to the accident.
-(2) Subsection (1)﻿(a) does not apply if the Secretary and the person who must be notified of the particulars of an accident under section 17(3) of the Gas Act 1992 are the same person.
+(1) In this section, specified matter means a matter that is specified in a Gazette notice under section 5A(2).
+(2) If WorkSafe is notified of an accident under section 16 and the accident relates to a specified matter, WorkSafe must provide the notice and any particulars that WorkSafe has received to the Secretary.
+(3) If an accident relates to a specified matter, a person required to provide notification of any accident under section 16 may notify the Secretary in accordance with that section instead of WorkSafe.
 
 ### 17 Interference with scene of accident
-(1) No person shall interfere in any way with the scene of any accident to which section 16 applies without the permission of the Secretary, or if the Secretary is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of electricity.
-(2) Where any person does interfere in any way with the scene of any accident to which section 16 applies, the person shall as soon as practicable notify the Secretary of the action the person has taken.
+(1) No person shall interfere in any way with the scene of any accident to which section 16 applies without the permission of WorkSafe, or if WorkSafe is not present, a constable or a member of a fire brigade, except to the extent that the person believes is necessary to avoid or minimise further injury or damage or to restore the safe supply of electricity.
+(2) Where any person does interfere in any way with the scene of any accident to which section 16 applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
 (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the Health and Safety in Employment Act 1992.
 
 ### 18 Inquiries into accidents
-(1) The Secretary may conduct an inquiry into any accident to which section 16 applies to establish the cause of the accident.
-(2) Where the Secretary believes, on reasonable grounds, that any occurrence may be an accident to which section 16 applies, the Secretary may conduct a preliminary inquiry in order to establish whether or not the occurrence is such an accident.
-(3) Subject to section 21, the Secretary may, for the purpose of any inquiry or preliminary inquiry under this section, require any person to supply to the Secretary all such information as that person may have of relevance to the inquiry or preliminary inquiry.
-(4) Where the Secretary conducts an inquiry under this section, the Secretary shall prepare a written report of the findings of the inquiry, and shall make copies of that report available on request to interested parties.
+(1) WorkSafe may conduct an inquiry into any accident to which section 16 applies to establish the cause of the accident.
+(2) Where WorkSafe believes, on reasonable grounds, that any occurrence may be an accident to which section 16 applies, WorkSafe may conduct a preliminary inquiry in order to establish whether or not the occurrence is such an accident.
+(3) Subject to section 21, WorkSafe may, for the purpose of any inquiry or preliminary inquiry under this section, require any person to supply to WorkSafe all such information as that person may have of relevance to the inquiry or preliminary inquiry.
+(4) Where WorkSafe conducts an inquiry under this section, WorkSafe shall prepare a written report of the findings of the inquiry, and shall make copies of that report available on request to interested parties.
 
-### 19 Assistance to Secretary
-Where the Secretary is performing any duty or exercising any power in respect of any place, or any fittings or associated equipment in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place, shall provide all such facilities and assistance as the Secretary may reasonably require.
+### 19 Assistance to WorkSafe
+Where WorkSafe is performing any duty or exercising any power in respect of any place, or any fittings or associated equipment in any place, the owner or occupier of the place, and any other person who is for the time being in charge of the place, shall provide all such facilities and assistance as WorkSafe may reasonably require.
 
-### 20 Obstructing Secretary
+### 20 Obstructing WorkSafe
 Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who—
-  (a) intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
+  (a) intentionally obstructs WorkSafe when WorkSafe is lawfully carrying out duties under this Act:
   (b) refuses or fails without reasonable excuse—
-    (i) to produce any document when required to do so by the Secretary for the purposes of this Act; or
-    (ii) to allow the Secretary to examine or make copies of or take extracts from any such document; or
-    (iii) to supply any information required of the person by the Secretary under this Act; or
-    (iv) to comply with any other lawful order or requisition given or made by the Secretary:
-  (c) intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, the Secretary for the purposes of this Act:
-  (d) fails without reasonable excuse to notify any accident to which section 16 applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 17(1), or, having interfered in any such scene in accordance with section 17(1), fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 17(2).
+    (i) to produce any document when required to do so by WorkSafe for the purposes of this Act; or
+    (ii) to allow WorkSafe to examine or make copies of or take extracts from any such document; or
+    (iii) to supply any information required of the person by WorkSafe under this Act; or
+    (iv) to comply with any other lawful order or requisition given or made by WorkSafe:
+  (c) intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, WorkSafe for the purposes of this Act:
+  (d) fails without reasonable excuse to notify any accident to which section 16 applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 17(1), or, having interfered in any such scene in accordance with section 17(1), fails without reasonable excuse to notify WorkSafe of the steps he or she has taken as required by section 17(2).
 
 ### 21 Privilege against self-incrimination
 No person shall be required, pursuant to any provision of this Part, to reply to any question if the answer might tend to incriminate him or her.
@@ -501,7 +520,7 @@ Sections 32 and 33 shall apply notwithstanding anything to the contrary in secti
 ## Part 4 — Electrical codes of practice
 
 ### 36 Issue of electrical code of practice
-(1) The Secretary may from time to time issue any instrument (in this Act referred to as an electrical code of practice) for the purposes of, or relating to,—
+(1) WorkSafe may from time to time issue any instrument (in this Act referred to as an electrical code of practice) for the purposes of, or relating to,—
   (a) the setting or endorsing of standards or specifications concerning the design, construction, installation, importation, or manufacture of works, electrical installations, fittings, electrical appliances, or associated equipment:
   (b) the setting of standards in respect of electricity that is to be supplied to or used by electricity retailers and consumers:
   (c) the operation or use of works, electrical installations, fittings, electrical appliances, or associated equipment:
@@ -512,11 +531,11 @@ Sections 32 and 33 shall apply notwithstanding anything to the contrary in secti
     (ii) the levels of electrical or technical qualifications necessary for the carrying out of any specified class or classes of electrical work or for the holding of positions of electrical responsibility in any branch of the electrical industry or in any specified undertakings concerned with the particular application of electricity:
   (g) the setting or endorsing of standards, specifications, or requirements relating to or concerning the periodic examination of connectable installations of vehicles, relocatable buildings, and pleasure vessels, or any of them, and the issue of warrants of electrical fitness in respect of such installations:
   (h) the setting or endorsing of standards, controls, or requirements for the whole or any part of any tree or vegetation to prevent the interruption of the supply of electricity or interference with the electrical supply system.
-(2) The Secretary may from time to time issue an amendment or revocation of any electrical code of practice.
+(2) WorkSafe may from time to time issue an amendment or revocation of any electrical code of practice.
 (3) Every electrical code of practice and every amendment or revocation of an electrical code of practice shall show the date on which it was issued.
 
 ### 37 Code may incorporate official standards by reference
-(1) The Secretary may include in any electrical code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject matter of the code.
+(1) WorkSafe may include in any electrical code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject matter of the code.
   (a) an official standard or a specified part of an official standard; or
   (b) an official standard or a specified part of an official standard with such additions or variations as are specified in the code—
 (2) On the inclusion in a code of a reference to an official standard or part of an official standard, that official standard or, as the case may be, that part of that official standard (as it existed on the date of the inclusion but with such additions or variations (if any) as are specified in the code) shall be deemed to form part of the code.
@@ -524,7 +543,7 @@ Sections 32 and 33 shall apply notwithstanding anything to the contrary in secti
 ### 38 Code to be approved by Minister
 (1) Subject to subsection (5), an electrical code of practice, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Minister.
 (2) Subject to subsection (3), the Minister shall not approve any code, or any amendment or revocation of a code, unless—
-  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of the Secretary to apply for approval; and
+  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
   (b) the Minister has consulted such persons as will be affected by the code or amendment or revocation, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Minister; and
   (c) the Minister has considered any comments made to the Minister concerning those effects.
 (3) The Minister may approve an electrical code of practice or any amendment or revocation of that code without complying with the requirements of subsection (2)﻿(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code or amendment or revocation.
@@ -534,39 +553,38 @@ Sections 32 and 33 shall apply notwithstanding anything to the contrary in secti
 (5) The fact that the Minister has published in the Gazette a notice under subsection (4)﻿(a) shall be conclusive proof that the requirements of this section have been complied with in respect of the approval specified in the notice.
 
 ### 39 Availability of codes
-(1) The Secretary shall ensure that copies of all electrical codes of practice, and all amendments to such codes, that are for the time being in force are available—
+(1) WorkSafe shall ensure that copies of all electrical codes of practice, and all amendments to such codes, that are for the time being in force are available—
   (a) for inspection by members of the public free of charge; and
   (b) for purchase by members of the public at a reasonable price.
 (2) The notice of approval published in the Gazette pursuant to section 38(4)﻿(a) shall show, in relation to the code, or the amendment of a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
 
 ### 40 Emergency amendment of code
-(1) If the Secretary considers it essential in the interests of safety or ensuring the continuity of the supply or conveyance of electricity to amend any electrical code of practice forthwith, the Secretary may issue an emergency amendment to the code and promulgate it in such manner as the Secretary thinks fit.
+(1) If WorkSafe considers it essential in the interests of safety or ensuring the continuity of the supply or conveyance of electricity to amend any electrical code of practice forthwith, WorkSafe may issue an emergency amendment to the code and promulgate it in such manner as WorkSafe thinks fit.
 (2) Every amendment issued under subsection (1) shall be identified as an emergency amendment issued under this section, and show the date on which it was issued.
 (3) Every such amendment shall remain in force for a period of 60 days after the date on which it was issued and may be continued in force by the Minister for such further period or periods as the Minister thinks fit, but the maximum period of time during which an emergency amendment may remain in force shall be 180 days.
 (4) Subject to subsection (5), an emergency amendment issued under this section shall for all purposes, while it remains in force, be deemed to have been issued under section 36, and to have been approved, on the date of its issue, by the Minister under section 38.
 (5) If any regulation in force under section 169 requires compliance with any electrical code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
-(6) Notwithstanding anything in section 41 of the State Sector Act 1988, the Secretary shall not delegate to any other person the power conferred on the Secretary by this section.
-(7) In this section, the term Secretary includes any person who is authorised, pursuant to a direction given pursuant to section 40 of the State Sector Act 1988, to exercise the power conferred on the Secretary by this section.
+(6) Despite section 73 of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
+(7) Subsection (8) applies if, pursuant to section 5A(3) and (4), the Secretary may exercise the power conferred by this section in relation to a matter specified in a Gazette notice under section 5A(2).
+(8) Despite section 41 of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
 
 ### 41 Citation of code
-In any regulations made under section 169, any electrical code of practice or amendment of an electrical code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by the Secretary and by its date of issue; and such citation shall be deemed, subject to section 40(5), to include and refer to the latest electrical code of practice or amendment in force when the regulations were made.
+In any regulations made under section 169, any electrical code of practice or amendment of an electrical code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to section 40(5), to include and refer to the latest electrical code of practice or amendment in force when the regulations were made.
 
 ### 42 Proof of code
-(1) Without affecting any other method of proof, the production in any proceedings of a copy of any electrical code of practice or amendment or revocation of an electrical code of practice, purporting to have been issued by the Secretary and to have been approved by the Minister, shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 36 and approved by the Minister, on the date shown on it as the date of approval, under section 38.
+(1) Without affecting any other method of proof, the production in any proceedings of a copy of any electrical code of practice or amendment or revocation of an electrical code of practice, purporting to have been issued by WorkSafe and to have been approved by the Minister, shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 36 and approved by the Minister, on the date shown on it as the date of approval, under section 38.
 (2) Without affecting any other method of proof, the production in any proceedings of—
-  (a) a copy of an emergency amendment of an electrical code of practice purporting to have been issued by the Secretary shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 40 on the date shown on it as the date of issue:
+  (a) a copy of an emergency amendment of an electrical code of practice purporting to have been issued by WorkSafe shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 40 on the date shown on it as the date of issue:
   (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 40(3).
 (3) In any proceedings for an offence against this Act or against any regulations made under section 169,—
-  (a) any requirement or standard prescribed in an electrical code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of that official standard certified to be correct by the Secretary:
-  (b) judicial notice shall be taken of the signature of the Secretary.
+  (a) any requirement or standard prescribed in an electrical code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of that official standard certified to be correct by WorkSafe:
+  (b) judicial notice shall be taken of the signature of WorkSafe.
 
 ### 43 Codes promulgated under Electricity Act 1968
 Every electrical code of practice promulgated under the Electricity Act 1968 that was in force immediately before 1 April 1993 is deemed to be in force under this Part, and may be amended and revoked accordingly.
 
 ### 43A Different Ministries responsible for different codes
-(1) In order to allow electrical codes of practice to be administered by the most appropriate Ministry, all Ministers responsible for the administration of any provision of this Act must, by agreement from time to time, identify which particular codes, or codes relating to particular matters, are to be administered by which Ministry (referred to in this section as the responsible Ministry).
-(2) In sections 36 and 37 and 39 to 42, in relation to a code, Secretary means the Secretary of the responsible Ministry.
-(3) In sections 38, 40, and 42, in relation to a code, Minister means the Minister for the time being responsible for the responsible Ministry.
+[Repealed]
 
 ## Part 5 — Rural electrical reticulation
 
@@ -612,15 +630,15 @@ Every electrical code of practice promulgated under the Electricity Act 1968 tha
 ## Part 6 — Miscellaneous provisions relating to supply of electricity
 
 ### 57 Compensation for damage
-(1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by Part 2 or Part 3 on the Secretary or an electricity operator or any other owner of existing works shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
+(1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by Part 2 or Part 3 on WorkSafe or an electricity operator or any other owner of existing works shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
 (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the Public Works Act 1981, and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
-(3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on the Secretary shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
+(3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on WorkSafe shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
 
 ### 58 Compensation for trees and vegetation removed
 Where any tree or part of a tree or any vegetation or part of any vegetation is removed pursuant to any regulations made under section 169, compensation, to be assessed in the manner prescribed by the Public Works Act 1981, shall be payable if the tree or vegetation was growing on the land before the construction of the works or electrical installation but not in any other case.
 
 ### 59 Returns relating to construction of works, etc
-Every person who constructs any works or electrical installation shall, where required by regulations made under section 169, furnish to the Secretary, in such form and at such time as may be prescribed, such particulars relating to the works or installation as may be prescribed by regulations made under that section.
+Every person who constructs any works or electrical installation shall, where required by regulations made under section 169, furnish to WorkSafe, in such form and at such time as may be prescribed, such particulars relating to the works or installation as may be prescribed by regulations made under that section.
 
 ### 60 Standards for electricity supply
 All electricity distributed by an electricity distributor shall comply with such standards as are for the time being prescribed by regulations made under section 169.
@@ -1809,7 +1827,7 @@ The functions of the Board are—
   (k) to promote, monitor, and review the ongoing competency and safe work practices of registered persons and licence holders:
   (l) to hear complaints about, and to discipline, persons to whom Part 11 applies:
   (m) to institute prosecutions against persons for the breach of this Act or any regulation relating to prescribed electrical work:
-  (n) to consider any reports that are referred to the Board by the Secretary in respect of accidents to which section 16 applies, and to take any action in relation to those reports that the Board thinks fit:
+  (n) to consider any reports that are referred to the Board in respect of accidents to which section 16 applies, and to take any action in relation to those reports that the Board thinks fit:
   (o) to exercise and perform any other functions, duties, and powers as are conferred or imposed on the Board by or under this Act or by or under any other enactment:
   (p) to do any other things as may, in the Board's opinion, be necessary for the effective administration of this Act:
   (q) to carry out any functions that are incidental and related to, or consequential on, its functions stated in this section.
@@ -2013,19 +2031,19 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) If a person is alleged to have committed an infringement offence, the person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 165B.
-(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Secretary, the Registrar, or the Board commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe, the Registrar, or the Board commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 ### 165B Infringement notices
-(1) The Secretary or the Registrar may issue an infringement notice to a person if—
-  (a) the Secretary or the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
-  (b) the Secretary, the Registrar, or another person has not taken enforcement action against the same defendant in respect of the same matter.
-(2) The Secretary or the Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(1) WorkSafe or the Registrar may issue an infringement notice to a person if—
+  (a) WorkSafe or the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
+  (b) WorkSafe, the Registrar, or another person has not taken enforcement action against the same defendant in respect of the same matter.
+(2) WorkSafe or the Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
 (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 (4) For the purposes of this section, enforcement action means,—
-  (a) in relation to the Secretary or the Registrar,—
+  (a) in relation to WorkSafe or the Registrar,—
     (i) the filing of a charging document under this Act; or
     (ii) the issuing of an infringement notice under this Act; and
-  (b) in relation to a person other than the Secretary or the Registrar, the filing of a charging document under this Act.
+  (b) in relation to a person other than WorkSafe or the Registrar, the filing of a charging document under this Act.
 
 ### 165C Procedural requirements for infringement notices
 (1) An infringement notice may not be issued by a person after the close of the 14th day after the person becomes aware of the alleged infringement offence.
@@ -2048,7 +2066,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (6) Reminder notices must contain the prescribed information.
 
 ### 165D Payment of infringement fee
-The Secretary and the Registrar must pay all infringement fees received into a Crown Bank Account.
+WorkSafe and the Registrar must pay all infringement fees received into a Crown Bank Account.
 
 ### 165E Effect of infringement notice
 (1) If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.
@@ -2081,7 +2099,7 @@ The Secretary and the Registrar must pay all infringement fees received into a C
     (a) authorising, controlling, and prescribing conditions in respect of the design, construction, installation, maintenance, use, management, inspection, and testing of works, electrical installations, or associated equipment:
     (b) authorising, controlling, and prescribing conditions in respect of the design, installation, manufacture, maintenance, use, inspection, importation, exportation from New Zealand pursuant to the Conformity Cooperation Agreement, sale, and testing of fittings and electrical appliances used or intended to be used in the application of electricity (including fittings and electrical appliances intended to be used in China after their exportation from New Zealand pursuant to the Conformity Cooperation Agreement):
     (c) prohibiting, or providing for the prohibition of, the manufacture, importation, exportation from New Zealand pursuant to the Conformity Cooperation Agreement, sale, and use of such fittings and electrical appliances as do not satisfy any prescribed tests, standards, or safety criteria (including fittings and electrical appliances intended to be used in China after their exportation from New Zealand pursuant to the Conformity Cooperation Agreement):
-    (d) requiring such types or categories of fittings and electrical appliances as are specified in the regulations, or as are from time to time declared by the Secretary by public notice to be subject to the regulations, to be approved by the Secretary before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by the Secretary of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of fittings and electrical appliances are deemed to be approved by the Secretary for the purposes of the regulations:
+    (d) requiring such types or categories of fittings and electrical appliances as are specified in the regulations, or as are from time to time declared by WorkSafe by public notice to be subject to the regulations, to be approved by WorkSafe before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of fittings and electrical appliances are deemed to be approved by WorkSafe for the purposes of the regulations:
     (e) authorising, controlling, and prescribing conditions in respect of the design, manufacture, maintenance, use, inspection, and testing of electric fishing devices, including (without limitation)—
       (i) providing for the issue of certificates of competency to persons who wish to operate electric fishing devices; prescribing the persons or class or classes of persons who may issue such certificates or providing for the designation of such certifying authorities; providing for the specifying of conditions subject to which such certificates may be issued, and for the revocation, variation, and addition of any such condition; and providing for the suspension or cancellation of any such certificate:
       (ii) providing for the approval of electric fishing devices; prescribing the persons or class or classes of persons who may approve such devices or providing for the designation of such approving authorities; and providing for the specifying of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, and addition of any condition of any such approval:
@@ -2106,12 +2124,12 @@ The Secretary and the Registrar must pay all infringement fees received into a C
     (b) the levels of electrical or technical qualifications necessary for the carrying out of any specified class or classes of electrical work or for the holding of positions of electrical responsibility in any branch of the electrical industry or in any specified undertakings concerned with the particular application of electricity:
   (7) prescribing the requirements for standardisation of systems of supply and the preservation of the quality of electricity supplied in New Zealand:
   (7A) providing that fittings or electrical appliances that are, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement must comply with requirements relating to the preservation of the quality of electricity supplied in China:
-  (8) authorising the Secretary—
-    (a) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by electricity:provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by the Secretary or until its earlier revocation by the Secretary:
-    (aa) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by electricity to the extent that such injuries are caused by fittings or electrical appliances that are, or may be, exported pursuant to the Conformity Cooperation Agreement:provided that any such instruction, order, or requirement must remain in force for such period, not exceeding 6 months, as may be determined by the Secretary or until its earlier revocation by the Secretary:
+  (8) authorising WorkSafe—
+    (a) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by electricity:provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by WorkSafe or until its earlier revocation by WorkSafe:
+    (aa) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by electricity to the extent that such injuries are caused by fittings or electrical appliances that are, or may be, exported pursuant to the Conformity Cooperation Agreement:provided that any such instruction, order, or requirement must remain in force for such period, not exceeding 6 months, as may be determined by WorkSafe or until its earlier revocation by WorkSafe:
     (b)
     (c) to carry out tests on works, electrical installations, fittings, electrical appliances, and associated equipment (including fittings or electrical appliances that are, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement):
-  (9) authorising the Secretary or the chief executive of the department of State responsible for the administration of the Building Act 2004, or both, to exempt specific works, electrical installations, fittings, electrical appliances, associated equipment, persons, or things from requirements imposed by regulations made under paragraphs (1) to (7), subject to any conditions that the Secretary or, as the case may be, the chief executive thinks fit:
+  (9) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the Building Act 2004, or both, to exempt specific works, electrical installations, fittings, electrical appliances, associated equipment, persons, or things from requirements imposed by regulations made under paragraphs (1) to (7), subject to any conditions that WorkSafe or, as the case may be, the chief executive thinks fit:
   (10) providing for the constitution, functions, and powers of arbitrators for the purposes of this Act or any regulations made under this section:
   (11) requiring the keeping and retention of such records as are necessary for the purposes of establishing and maintaining safety standards in relation to the generation, conversion, transformation, conveyance, and use of electricity, and prescribing the particulars that shall be included in such records:
   (12) prescribing, for the purposes of section 115, requirements in relation to the system of operation to be maintained by employer licence holders:
@@ -2143,7 +2161,7 @@ The Secretary and the Registrar must pay all infringement fees received into a C
     (iv) access to the register:
     (v) the location of, and hours of access to, the register:
     (vi) search criteria for the register:
-  (26B) prescribing the forms of applications, certificates, licences, notices, and other documents required under this Act, or authorising the Board or the Secretary to prescribe or approve forms, and requiring the use of those forms:
+  (26B) prescribing the forms of applications, certificates, licences, notices, and other documents required under this Act, or authorising the Board, WorkSafe, or the Secretary to prescribe or approve forms, and requiring the use of those forms:
   (26C) prescribing infringement offences:
   (26D) setting the infringement fee for each infringement offence, which,—
     (i) in the case of an individual, must not exceed $1,000; or
@@ -2152,7 +2170,7 @@ The Secretary and the Registrar must pay all infringement fees received into a C
   (27) prescribing the manner in which any notice or other document required by this Act to be given or served by, or to or on, any person is to be so given or served:
   (28) prescribing the matters in respect of which fees are payable under this Act; prescribing the amounts of the fees or the method by which they are to be assessed; and prescribing the persons to whom the fees are to be paid:
   (29) exempting or providing for the exemption of any person or class of persons from liability to pay any fees payable under this Act:
-  (30) authorising the waiver, refund, or remission, in such circumstances as in accordance with the regulations the Board or the Secretary thinks fit, of the whole or part of any fees payable under this Act:
+  (30) authorising the waiver, refund, or remission, in such circumstances as in accordance with the regulations the Board, WorkSafe, or the Secretary thinks fit, of the whole or part of any fees payable under this Act:
   (31) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fine that may be imposed in respect of any such offence, which fine shall be an amount not exceeding $50,000 and, where the offence is a continuing one, a further amount not exceeding $2,000 for every day or part of a day during which the offence has continued:
   (32) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Any regulations made under any of paragraphs (2) to (6) of subsection (1) may—
@@ -2160,12 +2178,12 @@ The Secretary and the Registrar must pay all infringement fees received into a C
   (b) provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     (i) any electrical code of practice, or any part of such a code; or
     (ia) any official standard, or any part of an official standard; or
-    (ii) any approved code of practice for the time being in force pursuant to section 20 of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
+    (ii) any approved code of practice for the time being in force pursuant to section 20A of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations), is then deemed to form part of the regulations.
 (2C) In subsections (2), (2A), and (2B), official standard may be treated as including, for the purposes of subsections (1)﻿(2)﻿(b) and (c), (7A), and (8)﻿(aa) and (c), the Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement.
-(3) Without limiting the Acts Interpretation Act 1924, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person, or because it authorises the Secretary or any other person—
-  (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
+(3) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
+  (a) to give any consent or approval on or subject to conditions to be imposed or approved by WorkSafe, the Secretary, or any other person; or
   (b) to set any standard.
 (4) Notwithstanding section 1(3), and without limiting section 12 of the Acts Interpretation Act 1924, no regulations made under this section may be expressed to come into force before 1 April 1993.
 (5) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
@@ -2763,8 +2781,8 @@ This Act amends the Electricity Act 1992.
 (3) Any decision of the Board under this section may be appealed under section 147ZA of the principal Act.
 
 ### 37 Applications pending at commencement of section
-(1) This section applies to an application for, or concerning, registration or a licence under the principal Act that is, immediately before the commencement of this section, pending before the Board, the Registrar, or the Secretary.
-(2) The applicant under an application to which this section applies may, before the application is determined by the Board, the Registrar, or the Secretary, elect to withdraw the application in order to make an application to the Board under Part 10 of the principal Act (as substituted by this Act).
+(1) This section applies to an application for, or concerning, registration or a licence under the principal Act that is, immediately before the commencement of this section, pending before the Board, the Registrar, or WorkSafe.
+(2) The applicant under an application to which this section applies may, before the application is determined by the Board, the Registrar, or WorkSafe, elect to withdraw the application in order to make an application to the Board under Part 10 of the principal Act (as substituted by this Act).
 (3) If an application to which this section applies is not withdrawn under subsection (2), it must be considered and determined as if this Act had not been enacted.
 (4) When a determination of an application to which this section applies results in—
   (a) the registration, or a change in the registration, of a person, that registration or change is deemed to have taken effect immediately before the commencement of this section; and
@@ -2777,7 +2795,7 @@ This Act amends the Electricity Act 1992.
 
 ### 39 Continuation of pending investigations, inquiries, and disciplinary proceedings
 (1) All investigations, inquiries, and disciplinary proceedings under the principal Act that have been commenced before the commencement of this section and that have not been completed before that commencement are to be continued and completed as if this Act had not been enacted.
-(2) The Board, the Secretary, the Registrar, and every committee constituted or appointed under the principal Act in respect of complaints and disciplinary proceedings continues to have and may exercise all of his, her, or its powers, functions, and duties under the principal Act (as in force immediately before the commencement of this section) for the purpose of giving effect to subsection (1).
+(2) The Board, WorkSafe, the Registrar, and every committee constituted or appointed under the principal Act in respect of complaints and disciplinary proceedings continues to have and may exercise all of his, her, or its powers, functions, and duties under the principal Act (as in force immediately before the commencement of this section) for the purpose of giving effect to subsection (1).
 (3) However, if a complaint or disciplinary proceeding continued under this section relates to a person who is deemed, under any of sections 32 to 34, to be a registered person or to hold a practising licence or a provisional licence, the Board's power to discipline the person includes the power to make an order under section 147M(1)﻿(a) to (e) of the principal Act (as substituted by this Act) in relation to that registration, practising licence, or provisional licence.
 
 ### 40 Complaints about conduct before commencement of this section
@@ -2807,11 +2825,6 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Purpose of Act
 (1) The purpose of this Act is to amend a variety of Acts relating to utility operators' access to transport corridors in order to achieve greater certainty and consistency in the rights and obligations of utility operators and corridor managers.
 (2) In this section, corridor manager, transport corridor, and utility operator have the meanings in section 4 of the Utilities Access Act 2010.
-
-**Amendments to Electricity Act 1992**
-
-### 13 Amendments to Electricity Act 1992
-Sections 14 to 16 amend the Electricity Act 1992.
 
 **Transitional provision**
 
