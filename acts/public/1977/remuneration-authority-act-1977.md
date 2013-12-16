@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 > Title
 
@@ -66,7 +66,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 ### 12 Functions of Authority
 (1) The functions of the Authority shall be—
   (a) to consider and determine the following matters:
-    (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the Civil List Act 1979:
+    (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the Members of Parliament (Remuneration and Services) Act 2013:
     (ii)
     (iii)
     (iv)
@@ -81,6 +81,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2A) The Authority shall, in making a determination under subsection (1)(ba), determine—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy (which amount must be the same for all members but which may be expressed as a specified monetary amount or as a percentage of an ordinary member's salary as the Authority determines) in respect of those members of the House of Representatives who choose to contribute to any registered superannuation scheme; and
   (b) the contribution that the member must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
+(2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
 (2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
 (2C) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
@@ -163,7 +164,8 @@ There shall from time to time be appointed by the chief executive of the Departm
   (a) by giving a copy of it to each of the following persons, namely—
     (i) the Prime Minister:
     (ii) the Speaker of the House of Representatives:
-    (iii) the leader of the official Opposition; and
+    (iii) the leader of the official Opposition:
+    (iv) the General Manager of the Parliamentary Service; and
   (b) by publishing it in the Gazette not later than 14 days after the date on which a copy of it is given to the Prime Minister.
 (2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
@@ -179,8 +181,12 @@ There shall from time to time be appointed by the chief executive of the Departm
 
 ### 17A Obligation to consult before making determinations about Parliamentary salaries and allowances
 Before making a determination under section 12(1)(a)(i), the Authority must—
-  (a) consult with the Commissioner of Inland Revenue about the taxation consequences of the Authority's proposed determination; and
-  (b) consult with the Speaker of the House of Representatives and the Minister who has, with the authority of the Prime Minister, for the time being assumed responsibility for Ministerial services, about the services for which they have jurisdiction.
+  (a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of section 16(2) of the Members of Parliament (Remuneration and Services) Act 2013, about—
+    (i) whether any element of personal benefit or potential personal benefit for members of Parliament, Ministers, or their family members arises under an entitlement to a service; and
+    (ii) in the case of any such benefit arising under directions issued by the Speaker under section 23 or 34 of that Act or a determination made by the Minister Responsible for Ministerial Services under section 27 of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
+  (b) consult the Commissioner of Inland Revenue—
+    (i) about the taxation consequences of the Authority's proposed determination; and
+    (ii) as required under section 16(2)(a) of the Members of Parliament (Remuneration and Services Act 2013).
 
 ### 18 Criteria of Authority
 (1) In determining any remuneration under section 12(1)(a) or section 12B(1), or under any other enactment, the Authority shall have regard in particular to the following criteria:
@@ -232,7 +238,7 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 
 ### 24 Remuneration of existing holder not to be reduced
 (1) Where any position is subject to the determination of the Authority under section 12(1)(a) or section 12B and the remuneration for that position is determined by the Authority at a rate that is lower than that being lawfully received by the holder of that position, his remuneration shall not be reduced as a result of that determination.
-(2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002.
+(2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002 or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013.
 
 ### 25 Powers of Authority
 (1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908, and the provisions of that Act, except sections 2, 4A, 11, and 12, shall apply accordingly.
