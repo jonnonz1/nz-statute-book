@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -37,10 +37,12 @@ In this Act, unless the context otherwise requires,—
   - **Parliamentary Service** or means the Parliamentary Service continued by section 6
   - **Parliamentary Service Commission** or means the Parliamentary Service Commission established by section 13
   - **Public Service** has the same meaning as in section 2 of the State Sector Act 1988
+  - **qualifying electoral candidate** has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **recognised party** means a political party for the time being recognised for parliamentary purposes under the Standing Orders of the House of Representatives
   - **referendum advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to vote, or not to vote, in a particular way in a government initiated referendum
   - **regulated period** , in relation to a general election, has the meaning given to it by section 3B(2) and (3) of the Electoral Act 1993 (as inserted by section 5 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010)
   - **regulated period** , in relation to a government initiated referendum, means the period (if any) specified in an enactment as being the regulated period for the referendum
+  - **Remuneration Authority** has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **review committee** means a committee that is for the time being established under section 20
   - **Speaker** means—
     (a) the Speaker of the House of Representatives; or
@@ -67,10 +69,11 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
 (1) In this Act, unless the context otherwise requires, funding entitlements for parliamentary purposes includes funding for all or any of the following purposes:
   (a) the performance by a member of Parliament of his or her role and functions as a member of Parliament:
   (b) the performance by a recognised party of its role and functions as a recognised party:
-  (c) the provision of travel, accommodation, and attendance services in accordance with any determination made by the Speaker of the House of Representatives under section 20A of the Civil List Act 1979, or any direction given by the Speaker of the House of Representatives under this Act:
-  (d) the provision of communications services (other than services including electioneering) in accordance with any determination made by the Speaker of the House of Representatives under section 20A of the Civil List Act 1979, or any direction given by the Speaker of the House of Representatives under this Act:
-  (e) the provision of services and resources to support electoral candidates to whom section 9C applies in accordance with directions given by the Speaker under section 9B:
-  (f) the provision of benefits or privileges of a specified kind for former members of Parliament and members of their families in accordance with an appropriation by Parliament of money for that purpose.
+  (c) the provision of accommodation services for members of Parliament and qualifying electoral candidates and travel services for family members of those persons in accordance with a determination made by the Remuneration Authority under section 17(1) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under section 23(1)(a) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under section 23(1)(c) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (f) the provision of travel services in accordance with directions issued by the Speaker under section 23(1)(f) of the Members of Parliament (Remuneration and Services) Act 2013:
+  (g) the provision of services and resources to qualifying electoral candidates in accordance with directions issued by the Speaker under section 23 of the Members of Parliament (Remuneration and Services) Act 2013.
 (2) However, funding entitlements for parliamentary purposes does not include funding for—
   (a) any communication that explicitly—
     (i) seeks or discourages support for the election of a particular person or people; or
@@ -81,7 +84,7 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
     (vi) seeks support for casting a vote for one of the responses to a proposal to be put to electors in a government initiated referendum; or
   (b) an election advertisement published during the regulated period in relation to a general election, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
   (c) a referendum advertisement published during the regulated period in relation to a government initiated referendum, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
-  (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under section 20A of the Civil List Act 1979 in respect of members of Parliament participating in the official inter-parliamentary travel programme.
+  (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under section 34 of the Members of Parliament (Remuneration and Services) Act 2013 in respect of members of Parliament participating in the official inter-parliamentary relations programme.
 (3) Subsection (2)(b) and (c) are subject to section 3C.
 
 ### 3C Apportionment of funding for election advertisement or referendum advertisement published both before and during regulated period
@@ -100,8 +103,8 @@ In sections 3B and 3C, publish, in relation to an election advertisement or a re
 ### 3D Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement
 An opinion given to any person by the Electoral Commission under section 204I(3) of the Electoral Act 1993 (as inserted by section 7 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of section 3B(2)(b) of this Act.
 
-### 3E Interpretation of determinations under section 20A of Civil List Act 1979
-All determinations made by the Speaker under section 20A of the Civil List Act 1979 must be interpreted consistently with sections 3B and 3C.
+### 3E Interpretation of determinations and directions under Members of Parliament (Remuneration and Services) Act 2013
+Every determination made by the Remuneration Authority under section 17 of the Members of Parliament (Remuneration and Services) Act 2013 and all directions issued by the Speaker under section 23 of that Act must be interpreted consistently with sections 3B and 3C of this Act.
 
 **Purposes**
 
@@ -110,7 +113,7 @@ The purposes of this Act are as follows:
   (a) to establish mechanisms for providing services and funding entitlements for parliamentary purposes:
   (b) to provide for the governance arrangements of the Parliamentary Service, in particular, by making the General Manager of the Parliamentary Service responsible to the Speaker:
   (c) to reconstitute the Parliamentary Service Commission as a policy body:
-  (d) to provide for regular, independent reviews of the amounts of money appropriated for services and funding entitlements for parliamentary purposes:
+  (d) to provide for regular and independent reviews of the amounts appropriated in Appropriation Acts for services and funding to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
   (e) to provide for the ownership and control of land and other assets held for parliamentary purposes.
 
 ### 5 Act to bind the Crown
@@ -128,14 +131,17 @@ This Act binds the Crown.
 ### 7 Principal duties of Parliamentary Service
 The principal duties of the Parliamentary Service are—
   (a) to provide administrative and support services to the House of Representatives and to members of Parliament; and
-  (b) to administer, in accordance with directions given by the Speaker, the payment of funding entitlements for parliamentary purposes.
+  (b) to administer the payment of funding entitlements for parliamentary purposes, except those funding entitlements for parliamentary purposes that the Speaker and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services agree should not be administered by the Parliamentary Service; and
+  (c) to administer the entitlements of members of the Executive under Part 3 of the Members of Parliament (Remuneration and Services) Act 2013 that the Speaker and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services agree should be administered by the Parliamentary Service; and
+  (d) to administer the payment of the travel entitlements of former members of Parliament.
 
-### 8 Services provided in accordance with Speaker's directions
-(1) The Speaker must, in each financial year, give the Parliamentary Service written directions as to both—
-  (a) the nature of the services to be provided, under section 7(a), in the next financial year; and
-  (b) the objectives to be achieved by the Service by providing those services.
-(2) The Service must act in accordance with those directions.
-(3) Whenever the Speaker proposes to give directions under subsection (1) or section 7, the Speaker must take into account any relevant advice and any relevant recommendation given or made by the Parliamentary Service Commission under section 14(1)(a) or (b).
+### 8 Services and administration of funding in accordance with Members of Parliament (Remuneration and Services) Act 2013, determinations and directions, etc
+(1) In carrying out its duties under section 7(a) to (c), the Parliamentary Service must act in accordance with—
+  (a) Part 3 of the Members of Parliament (Remuneration and Services) Act 2013 and the determinations made, directions issued, and procedures prescribed under that Part; and
+  (b) directions issued by the Speaker under subsection (3) in respect of services to be provided to the House of Representatives.
+(2) In carrying out its duties under section 7(d), the Parliamentary Service must act in accordance with sections 39 to 42 of the Members of Parliament (Remuneration and Services) Act 2013 and determinations made by the Remuneration Authority under section 41 of that Act.
+(3) The Speaker must, in each financial year, issue directions to the Parliamentary Service as to the nature of the administrative and support services to be provided to the House of Representatives and the objectives to be achieved by the Service in providing those services.
+(4) The Speaker must take into account any relevant advice and any relevant recommendation of the Parliamentary Service Commission given under section 14(1) before issuing directions under subsection (3).
 
 ### 9 Other functions of Parliamentary Service
 (1) The Parliamentary Service may, with the approval of the Speaker, provide administrative and support services for the following persons and agencies:
@@ -147,43 +153,16 @@ The principal duties of the Parliamentary Service are—
 (3) This Act does not limit the provision to the House of Representatives or to members of Parliament of administrative and support services by any other department or other instrument of the Crown.
 
 ### 9A Application of section 9C to electoral candidates
-(1) If a person vacates the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of a polling day but is a candidate in the general election concerned, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and—
-  (a) in the case of a person who is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district:
-  (b) in the case of a person whose name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
-(2) If a candidate at a by-election is the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district concerned.
-(3) If a candidate at a general election for a seat in the House of Representatives representing an electoral district did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that—
-    (i) he or she received more votes than any other candidate for the seat; or
-    (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
-  (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
-(4) If a candidate at a general election whose name is specified in a party list did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would under section 193(5) of the Electoral Act 1993 declare him or her to be elected in the election if the results of the official count were the same as those preliminary results; and
-  (b) the time is between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
-(5) If a candidate at a by-election is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that—
-    (i) he or she received more votes than any other candidate for the seat; or
-    (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
-  (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
+[Repealed]
 
 ### 9B Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates
-(1) The Speaker may give directions on the extent to which administrative and support services are to be provided, and how the payment of funding entitlements for parliamentary purposes is to be administered, in relation to people to whom section 9C applies.
-(2) Directions—
-  (a) may apply to all people to whom section 9C applies, or may apply differently to—
-    (i) people of different descriptions:
-    (ii) the holders or former holders of different offices; and
-  (b) may state criteria to which the General Manager is to have regard in providing services and administering the payment of funding entitlements for parliamentary purposes.
-(3) A direction may provide that the General Manager is to determine whether some or all of the criteria stated in it have been met.
+[Repealed]
 
 ### 9C Provision of services and funding for parliamentary purposes in relation to certain electoral candidates
-While (by virtue of section 9A) this section applies to a person,—
-  (a) administrative and support services must be provided in respect of him or her in accordance with directions under section 9B(1); and
-  (b) the payment of funding entitlements for parliamentary purposes must be administered accordingly.
+[Repealed]
 
 ### 9D Speaker to take into account advice and recommendations of Commission
-(1) It is a function of the Parliamentary Service Commission to advise the Speaker on—
-  (a) the nature of the services to be provided under section 9C(a); and
-  (b) the objectives to be achieved by the Service by providing those services.
-(2) In giving directions under section 9B(1), the Speaker must take into account any relevant advice and any relevant recommendation given or made by the Parliamentary Service Commission under subsection (1).
+[Repealed]
 
 **General Manager of Parliamentary Service**
 
@@ -191,11 +170,15 @@ While (by virtue of section 9A) this section applies to a person,—
 The General Manager is the administrative head of the Parliamentary Service.
 
 ### 11 Principal responsibilities of General Manager
-The General Manager is responsible to the Speaker for each of the following matters:
+(1) The General Manager is responsible to the Speaker for each of the following matters:
   (a) the carrying out of the duties and functions of the Parliamentary Service:
   (b) the tendering of advice to the Speaker and to the Parliamentary Service Commission:
   (c) the general conduct of the Service:
   (d) the efficient, effective, and economical management of the activities of the Service.
+(2) In addition to the responsibilities in subsection (1), the General Manager must—
+  (a) ensure that information is provided in accordance with section 19 of the Members of Parliament (Remuneration and Services) Act 2013; and
+  (b) perform the functions conferred on the General Manager by that Act, and under any procedures prescribed by the Remuneration Authority in accordance with that Act.
+(3) The General Manager is responsible to the Remuneration Authority for the matters referred to in subsection (2).
 
 **Further provisions relating to Parliamentary Service**
 
@@ -211,17 +194,15 @@ There is a commission called the Parliamentary Service Commission.
 
 ### 14 Functions of Parliamentary Service Commission
 (1) The Parliamentary Service Commission has the following functions:
-  (a) to advise the Speaker on the following matters:
-    (i) the nature of the services to be provided to the House of Representatives and to members of Parliament:
-    (ii) the objectives to be achieved by providing those services:
-  (b) to recommend to the Speaker the adoption of criteria governing funding entitlements for parliamentary purposes:
-  (c) to recommend to the Speaker persons who are suitable to be members of a review committee:
-  (d) to consider and comment on draft reports prepared by review committees.
+  (a) to advise the Speaker on the nature of the services to be provided to the House of Representatives, members of Parliament, parties, and qualifying electoral candidates (other than services in respect of members participating in the official inter-parliamentary relations programme):
+  (b) to advise the Speaker on proposed directions relating to the allocation and administration of funding appropriated in Appropriation Acts to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
+  (c) to nominate members of Parliament for participation in the political exchange programme.
 (2) The Commission may at any time require the Speaker or the General Manager to report on, or inquire into, matters relating to the administration of this Act or the exercise or performance of any function, duty, or power under this Act.
 (3) The Commission has any other function or power conferred on it by or under any enactment.
 (4) The Commission does not have a role in relation to—
   (a) business transacted at meetings of the House of Representatives or meetings of committees of the House of Representatives; or
-  (b) any other proceedings in Parliament.
+  (b) any other proceedings in Parliament; or
+  (c) any matter for which the Clerk of the House of Representatives has responsibility.
 
 ### 15 Membership of Commission during term of Parliament
 (1) During the term of each Parliament, the Parliamentary Service Commission consists of the following:
@@ -268,10 +249,11 @@ Schedule 2 applies in relation to the Parliamentary Service Commission.
 
 **Review committee**
 
-### 20 Establishment of committee to review appropriations
-(1) The Speaker may from time to time, and must at least once during the term of each Parliament, establish a review committee of up to 3 persons to review the amounts of money appropriated by Parliament for the following purposes:
-  (a) administrative and support services provided to the House of Representatives and to members of Parliament:
-  (b) funding entitlements for parliamentary purposes.
+### 20 Establishment of committee to review annual appropriations
+(1) The Speaker may from time to time, and must at least once during every term of Parliament, establish a review committee of up to 3 persons to review the amounts of money appropriated in Appropriation Acts for the following purposes:
+  (a) administrative and support services provided to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
+  (b) communications services provided to members of Parliament and qualifying electoral candidates:
+  (c) party and member support funding.
 (2) No person appointed to the review committee may be a member of Parliament or an officer or employee of the Parliamentary Service.
 (3) Before appointing a person to the review committee, the Speaker must—
   (a) consult with the Parliamentary Service Commission about the proposed appointment; and
@@ -279,13 +261,10 @@ Schedule 2 applies in relation to the Parliamentary Service Commission.
 (4) The Speaker may appoint persons to the review committee on any terms and conditions, including terms and conditions as to remuneration and travelling allowances, that the Speaker considers appropriate.
 
 ### 21 Work of review committee
-(1) In carrying out its work, the review committee must consider each of the following matters:
-  (a) the nature, quantity, and quality of administrative services and support services required for the effective operation of the House of Representatives:
-  (b) the nature, quantity, and quality of administrative services and support services that members of Parliament require for the effective performance of their functions:
-  (c) the funding that recognised parties and members of Parliament require for the effective performance of their respective functions:
-  (d) the scope for efficiency gains in the delivery of administrative services and support services to the House of Representatives and to members of Parliament:
-  (e) investments that may be necessary or desirable in order to further the aims of high quality representation by members of Parliament and high quality legislation:
-  (f) the need for fiscal responsibility.
+(1) In carrying out its work, the review committee must consider—
+  (a) whether the amounts of money appropriated are being used efficiently; and
+  (b) whether the amounts of money appropriated are adequate to enable members of Parliament, parties, and qualifying electoral candidates to effectively perform their respective functions; and
+  (c) the need for fiscal responsibility.
 (2) The review committee may, subject to any written direction by the Speaker, regulate its own procedure.
 
 ### 22 Report by committee
