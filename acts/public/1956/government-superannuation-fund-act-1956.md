@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2036,9 +2036,9 @@ For the purposes of applying this Act to a person who holds office as an Associa
 
 ### 82 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **member** means a member of the House of Representatives; and includes any person who is for the time being receiving a salary fixed by a determination made under section 16 of the Civil List Act 1979
-  - **ordinary member** means a member of the House of Representatives who holds no other office in respect of which a salary is payable under the Civil List Act 1979
-  - **salary** , in relation to a member, means the salary payable to that member under the Civil List Act 1979
+  - **member** means a member of the House of Representatives; and includes any person who is for the time being receiving a salary fixed by a determination made under section 8 of the Members of Parliament (Remuneration and Services) Act 2013
+  - **ordinary member** means a member of the House of Representatives who holds no other office in respect of which a salary is payable under the Members of Parliament (Remuneration and Services) Act 2013
+  - **salary** , in relation to a member, means the salary payable to that member under the Members of Parliament (Remuneration and Services) Act 2013
   - **year** means a period of 12 months ending with 31 December.
 (2) For the purpose of computing the length of any period of service of any person as a member for the purposes of this Part,—
   (a) where any period of such service has commenced or ended before 1 July in any year, it shall be deemed to have commenced or ended, as the case may be, at the beginning of that year:
