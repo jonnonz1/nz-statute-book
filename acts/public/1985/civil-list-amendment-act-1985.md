@@ -1,5 +1,5 @@
 # Civil List Amendment Act 1985
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-16_
 
 > An Act to amend the Civil List Act 1979
 
