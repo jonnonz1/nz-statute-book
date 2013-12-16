@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-16_
 
 > Title
 
@@ -77,7 +77,6 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **gold** includes any substance containing gold, or having gold mixed in it
   - **gold fossicking area** means any area designated under section 98 or 98A to be a gold fossicking area
   - **good industry practice** , in relation to an activity, means acting in a manner that is technically competent and at a level of diligence and prudence reasonably and ordinarily exercised by experienced operators engaged in a similar activity and under similar circumstances, but (for the purposes of this Act) does not include any aspect of the activity regulated under environmental legislation
-  - **Health and Safety Regulator** means the department that, with the authority of the Prime Minister, is responsible for the administration of the Health and Safety in Employment Act 1992
   - **in** , in relation to land, means on or under the surface of land
   - **industrial rocks and building stones** includes aggregate, basalt, diatomite, dunite, granite, limestone, marble, perlite, pumice, sandstone, serpentine, slate, sand, and gravel
   - **initial permit** means a permit that is not a subsequent permit
@@ -163,7 +162,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (a) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011:
     (b) a consent authority:
     (c) Maritime New Zealand and the Director of Maritime New Zealand:
-    (d) the Health and Safety Regulator:
+    (d) WorkSafe New Zealand:
     (e) the Department of Conservation
   - **relevant minerals programme** ,—
     (a) in relation to a permit that had effect immediately before the commencement of section 13 (as enacted by section 18 of the Crown Minerals Amendment Act 2013), means the minerals programme that for the time being applies to the permit under clause 3 of Schedule 1:
@@ -200,7 +199,8 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **work programme** means a programme of work to be undertaken by a permit holder in relation to the holder's permit
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
+    (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2)
 (3)
 (4) In this Act, unless the context otherwise requires,—
@@ -504,7 +504,7 @@ Where the Minister considers it appropriate to do so, the Minister may require t
   (d) in the case of a Tier 1 permit for exploration or mining, that the proposed permit operator has, or is likely to have, by the time the relevant work in any granted permit is undertaken, the capability and systems that are likely to be required to meet the health and safety and environmental requirements of all specified Acts for the types of activities proposed under the permit.
 (3) For the purposes of the Minister satisfying himself or herself of the matter in subsection (2)(d), the Minister—
   (a) is only required to undertake a high-level preliminary assessment; and
-  (b) must seek the views of the Health and Safety Regulator and may, but is not required to, obtain the views of any other regulatory agency; and
+  (b) must seek the views of WorkSafe and may, but is not required to, obtain the views of any other regulatory agency; and
   (c) may, but is not required to, rely on the views of the regulatory agencies; and
   (d) is not required to duplicate any assessment process that a regulatory agency may be required to undertake in accordance with a specified Act.
 (4) To avoid doubt, subsection (2)(d) does not limit, have any effect on, or have any bearing on—
@@ -576,18 +576,18 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (2) Subsection (3) applies if the permit holder is 2 or more persons.
 (3) Each person to whom this subsection applies is jointly and severally liable to comply with and perform the obligations of the permit holder under the permit, this Act, and the regulations.
 
-### 33A Exercise of permit conditional on clearance from Health and Safety Regulator
-(1) Subsection (2) applies if the Health and Safety in Employment Act 1992, or regulations made under that Act, expressly provide that the Health and Safety Regulator must give its approval or consent before an activity can be carried out and the activity is an activity of a type authorised under a permit.
+### 33A Exercise of permit conditional on clearance from WorkSafe
+(1) Subsection (2) applies if the Health and Safety in Employment Act 1992, or regulations made under that Act, expressly provide that WorkSafe must give its approval or consent before an activity can be carried out and the activity is an activity of a type authorised under a permit.
 (2) Despite the activity being authorised under a permit, it must not be carried out until—
-  (a) the Health and Safety Regulator has given its approval or consent (in respect of the requirements of the Health and Safety in Employment Act 1992 or regulations made under that Act); and
-  (b) the Health and Safety Regulator has advised the chief executive that it has given its approval or consent; and
-  (c) the chief executive has notified the permit holder of the Health and Safety Regulator's advice.
+  (a) WorkSafe has given its approval or consent (in respect of the requirements of the Health and Safety in Employment Act 1992 or regulations made under that Act); and
+  (b) WorkSafe has advised the chief executive that it has given its approval or consent; and
+  (c) the chief executive has notified the permit holder of WorkSafe's advice.
 
-### 33B Health and Safety Regulator to notify chief executive of breaches of legislation
-(1) The Health and Safety Regulator must notify the chief executive if—
+### 33B WorkSafe to notify chief executive of breaches of legislation
+(1) WorkSafe must notify the chief executive if—
   (a) a permit holder is issued with a prohibition notice under the Health and Safety in Employment Act 1992; or
   (b) an enforcement action is taken against the permit holder under that Act.
-(2) Nothing in this Act derogates from the Health and Safety Regulator's responsibility for the administration and enforcement of that Act.
+(2) Nothing in this Act derogates from WorkSafe's responsibility for the administration and enforcement of that Act.
 (3) In this section, prohibition notice and enforcement action have the meanings given by section 2(1) of the Health and Safety in Employment Act 1992.
 
 ### 33C Iwi engagement reports
@@ -845,7 +845,7 @@ The Minister may—
   (a) if the Minister is satisfied that the permit holder, given the change in permit operator, is likely to—
     (i) comply with, and give proper effect to, the work programme for the permit; and
     (ii) comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
-  (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if the Health and Safety Regulator—
+  (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if WorkSafe—
     (i) is satisfied that any requirements of the Health and Safety in Employment Act 1992, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are likely to be, met; and
     (ii) has advised the chief executive that it is so satisfied.
 
@@ -1347,9 +1347,9 @@ Any person may, for the purpose of inspection, have access to any document recor
 (4) A permit holder must, if requested to do so, provide evidence to satisfy the chief executive that any information supplied to him or her by the permit holder under section 90 was purchased or licensed information from a speculative prospector.
 
 ### 90E Providing information to regulatory agencies
-(1) The Minister, an appropriate Minister, or the chief executive may provide to the Health and Safety Regulator any information, or a copy of any document, that he or she—
+(1) The Minister, an appropriate Minister, or the chief executive may provide to WorkSafe any information, or a copy of any document, that he or she—
   (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
-  (b) considers may assist the Health and Safety Regulator's chief executive in the performance or exercise of his or her functions, duties, or powers under the Health and Safety in Employment Act 1992.
+  (b) considers may assist WorkSafe's chief executive in the performance or exercise of his or her functions, duties, or powers under the Health and Safety in Employment Act 1992.
 (2) The Minister, an appropriate Minister, or the chief executive may provide to Maritime New Zealand any information, or a copy of any document, that he or she—
   (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
   (b) considers may assist the Director of Maritime New Zealand in the performance or exercise of his or her or Maritime New Zealand's functions, duties, or powers under the Maritime Transport Act 1994.
