@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -111,7 +111,7 @@ This Act may be cited as the Electoral Act 1993.
     (bb) does not include an electoral official who has been appointed as a Deputy Electoral Commissioner or Returning Officer; and
     (c) does not include any person to whom subsection (2) or subsection (3) applies; and
     (d) does not include—
-      (i) any person by reason of his or her holding an office for which salary is payable under the Civil List Act 1979; or
+      (i) any person by reason of his or her holding an office for which salary is payable under the Members of Parliament (Remuneration and Services) Act 2013; or
       (ii) any person by reason of his or her being employed in any of Her Majesty’s forces except the Royal New Zealand Navy, the Regular Force of the New Zealand Army, or the Regular Air Force of the Royal New Zealand Air Force; or
       (iii) any person remunerated by fees or commission and not by wages or salary
   - **Registrar** , in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
