@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -139,7 +139,8 @@ The purpose of this Act is to—
     (a) those rail activities could cause—
       (i) the death of, or serious injury to, individuals; or
       (ii) significant damage to property; and
-    (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk.
+    (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) In this Act, the rail activities of a rail participant, or for which a rail participant is responsible, are as follows:
   (a) in the case of an infrastructure owner, the ownership of railway infrastructure:
   (b) in the case of a rail vehicle owner, the ownership and management of rail vehicles:
@@ -173,8 +174,8 @@ This Act binds the Crown.
 
 ### 8 Relationship of Act with Health and Safety in Employment Act 1992
 (1) Nothing in this Act limits the Health and Safety in Employment Act 1992.
-(2) Despite subsection (1), the Agency and the department must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety in Employment Act 1992.
-(3) For the purposes of this section, department has the same meaning as in section 2(1) of the Health and Safety in Employment Act 1992.
+(2) Despite subsection (1), the Agency and WorkSafe must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety in Employment Act 1992.
+(3)
 
 ### 9 General safety duties of other persons
 (1) Every person on or near a rail vehicle, railway infrastructure, or railway premises commits an offence who fails to take all practicable steps to ensure that no individual dies or is seriously injured, and that no property is significantly damaged, as a result of any act or omission of that person.
