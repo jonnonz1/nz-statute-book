@@ -1,5 +1,5 @@
 # Finance Act 1988
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2013-12-16_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -33,11 +33,7 @@ This Act binds the Crown.
 [Repealed]
 
 ### 6 Pension to widow of late Norman Eric Kirk
-(1) There shall from time to time be paid out of the Consolidated Account, without further appropriation than this section, to the widow of the late Norman Eric Kirk, until she dies or remarries, an annuity at the rate of the annuity from time to time payable under section 22(1)(b) of the Civil List Act 1979 to the widow of a person who has held the office of Prime Minister for a period of 2 years.
-(2) Subsection (1) is subject to the qualification set out in section 22(2) of the Civil List Act 1979.
-(3) The annuity payable under this section shall be paid by equal periodic instalments at the end of each fortnight, with a proportionate payment for any fraction of a fortnight.
-(4) Amendment(s) incorporated in the Act(s).
-(5) This section shall be deemed to have come into force on 1 January 1988.
+[Repealed]
 
 ### 7 Payment of fringe benefit tax on payments made by Crown into certain superannuation funds
 There may be paid out of public money, without further appropriation than this section, any amount that the Crown is required by law to pay by way of FBT (within the meaning of the Income Tax Act 2007) on payments made by the Crown into the Government Superannuation Fund or the National Provident Fund under the Government Superannuation Fund Act 1956 or the National Provident Fund Act 1950.
