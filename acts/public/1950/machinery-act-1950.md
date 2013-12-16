@@ -1,5 +1,5 @@
 # Machinery Act 1950
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-16_
 
 > An Act to make provision for the inspection of certain kinds of machinery and for the safety of persons working with machinery to which the Act applies
 
@@ -22,9 +22,9 @@ In this Act, unless the context otherwise requires,—
   - **owner** , in relation to any machinery, includes the mortgagee or lessee thereof, and any engineer, overseer, foreman, agent, or person in charge or having or apparently having the control or management of the machinery
   - **premises** includes any yard, place, house, or building, and any farm, paddock, field, road, or place, in which any machinery is kept, worked, or used, or is in operation
   - **prime mover** means an engine, motor, or other appliance which provides mechanical energy derived from steam, water, wind, electricity, gas, gaseous products, compressed air, the combustion of fuel, or any other source
-  - **Secretary** means the Secretary of Labour
   - **tractor** means a vehicle propelled by mechanical power, controlled by a driver carried thereon, that is designed exclusively or principally for the purposes of traction and not for the carriage thereon of passengers (other than the driver) or of goods; but does not include a traction engine within the meaning of section 2(1) of the Land Transport Act 1998
-  - **transmission machinery** means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance.
+  - **transmission machinery** means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 
 **Exceptions from Act**
 
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
 **Inspection**
 
 ### 5 Appointment of Inspectors
-(1) There may from time to time be appointed as officers of the Public Service such Inspectors as may be required for the purposes of this Act.
+(1) WorkSafe may appoint any employee of WorkSafe to be an Inspector for the purposes of this Act.
 (2) Every Inspector of Factories under the Factories and Commercial Premises Act 1981, every Inspector under the Construction Act 1959, and every Inspector under the Bush Workers Act 1945 shall have all the powers of an Inspector under this Act.
 
 ### 6 Powers of Inspectors
@@ -245,12 +245,12 @@ In any case where in the opinion of an Inspector any provision of this Act is no
 ### 26A Codes of practice
 (1) In this section and in sections 26B and 26C—
   - **code of practice** means a recommended practice and includes a description of any commodity, phenomenon, process, or practice, by reference to its nature, quality, strength, purity, composition, quantity, dimension, weight, grade, durability, origin, age, intensity, duration, or other characteristic whatsoever, or any 2 or more of them, and may also include a glossary of terms, definitions, and symbols, or any of them.
-(2) The Secretary may, from time to time, issue for the purposes of this Act, codes of practice relating to safety in the assembly, maintenance, use or operation of machinery, or any amusement device, and may from time to time amend or revoke any such code of practice.
+(2) WorkSafe may, from time to time, issue for the purposes of this Act, codes of practice relating to safety in the assembly, maintenance, use or operation of machinery, or any amusement device, and may from time to time amend or revoke any such code of practice.
 
 ### 26B Codes of practice to be approved by Minister
 (1) No code of practice and no amendment or revocation of a code of practice shall have any force or effect until it has been approved by the Minister.
 (2) The Minister shall not approve any code of practice or any amendment or revocation of a code of practice unless—
-  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of the Secretary to apply for approval; and
+  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
   (b) the Minister has consulted such persons as he considers will be affected thereby, or representatives of those persons, and they have had the opportunity to consider its possible effects and comment on those effects to the Minister; and
   (c) the Minister has considered any comments made to him concerning those effects.
 (3) When the Minister approves a code of practice, or any amendment or revocation of a code of practice, he shall—
@@ -260,7 +260,11 @@ In any case where in the opinion of an Inspector any provision of this Act is no
 (5) Where any person is charged with an offence in respect of a failure to comply with any provision of this Act, the court may, in determining whether that person has failed to comply with the provision, have regard to any code of practice in force pursuant to subsection (1) at the time of the alleged failure relating to matters of the kind to which the provision relates.
 
 ### 26C Proof of codes of practice
-Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice purporting to be issued after the commencement of the Machinery Amendment Act 1989 by the Secretary or before that commencement by the Chief Inspector of Factories or the Chief Construction Safety Engineer, as the case may be, shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 26A and that it has been approved by the Minister under section 26B.
+(1) In any proceedings, the production of a copy of a code of practice purporting to be issued by the following persons is sufficient evidence that the code of practice has been issued under section 26A and approved under section 26B:
+  (a) for a code of practice issued before 16 October 1989, the Chief Inspector of Factories or the Chief Construction Safety Engineer:
+  (b) for a code of practice issued on or after 16 October 1989 and before 16 December 2013, the Secretary of Labour:
+  (c) for a code of practice issued on or after 16 December 2013, WorkSafe.
+(2) Subsection (1) does not affect any other method of proof by which it may be established that a code of practice has been issued under section 26A and approved under section 26B.
 
 **Offences, penalties, and procedure**
 
@@ -340,8 +344,7 @@ Where a notice, summons, or other process is required to be served upon any owne
 [Repealed]
 
 ### 41 Act to be administered by Department of Labour
-(1) This Act shall be administered by the Department of Labour established under the Labour Department Act 1908.
-(2)
+[Repealed]
 
 ### 42 Act to bind the Crown
 This Act shall bind the Crown.
