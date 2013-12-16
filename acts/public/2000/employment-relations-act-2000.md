@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-16_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2136,7 +2136,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (e) had submitted another personal grievance to that employee's employer; or
   (f) had been allocated, had applied to take, or had taken any employment relations education leave under this Act; or
   (g) was a delegate of other employees in dealing with the employer on matters relating to the employment of those employees.
-(2) An employee who is representing employees under the Health and Safety in Employment Act 1992, whether as a health and safety representative (as the term is defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)(g).
+(2) An employee who is representing employees under the Health and Safety in Employment Act 1992, whether as a health and safety representative or a site health and safety representative (as those terms are defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)(g).
 
 ### 108 Sexual harassment
 (1) For the purposes of sections 103(1)(d) and 123(d), an employee is sexually harassed in that employee's employment if that employee's employer or a representative of that employer—
