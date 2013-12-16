@@ -1,5 +1,5 @@
 # Civil List Act 1979
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to consolidate and amend the law relating to the civil list
 
