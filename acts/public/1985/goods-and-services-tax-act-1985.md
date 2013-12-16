@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -450,7 +450,7 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
   (b) any engagement, occupation, or employment under any contract of service or as a director of a company:
     provided that where any person, in carrying on any taxable activity, accepts any office, any services supplied by that person as the holder of that office shall be deemed to be supplied in the course or furtherance of that taxable activity; or
   (c) any engagement, occupation, or employment—
-    (i) pursuant to the Civil List Act 1979 or the Governor-General Act 2010:
+    (i) pursuant to the Members of Parliament (Remuneration and Services) Act 2013 or the Governor-General Act 2010:
     (ii) as a Judge, Solicitor-General, Controller and Auditor-General, or Ombudsman:
     (iia) pursuant to an appointment made by the Governor-General or the Governor-General in Council and evidenced by a warrant or by an Order in Council or by a notice published in the Gazette in accordance with section 2(2) of the Official Appointments and Documents Act 1919:
     (iii) as a Chairman or member of any local authority or any statutory board, council, committee, or other body; or
