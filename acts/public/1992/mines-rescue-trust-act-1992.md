@@ -1,5 +1,5 @@
 # Mines Rescue Trust Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-16_
 
 > An Act to provide for—athe recognition of a trust board to carry on the functions of the Coal Mining Industries Welfare Council; andbthe dissolution of the Council; andcthe vesting of the Council's assets and liabilities in the trust board; anddmatters incidental thereto
 
@@ -127,3 +127,38 @@ Subject to section 11(1), every amount that immediately before the appointed day
 ### 11 Validations
 (1) Every person's actions (and failure to act) shall be deemed to have been, and to be, as lawful as if, no amounts had ever become payable to the Public Trustee under Part 8 of the Coal Mines Act 1979 in respect of any part of the period commencing on 1 January 1989 and ending with 30 June 1990.
 (2) Notwithstanding section 234 of the Coal Mines Act 1979, the collection in respect of any part of the period commencing on 1 July 1990 and ending immediately before the appointed day of amounts of levy under that section lower than required by that section is hereby validated and deemed to have been (or, as the case may be, to be) lawful.
+
+### 1 Title
+This Act is the Mines Rescue Act 2013.
+
+### 2 Commencement
+This Act comes into force on 16 December 2013.
+
+### 3 Purpose
+(1) The purpose of Part 1 is to provide for the Mines Rescue Trust Board and its role in responding to, and in ensuring capacity and readiness to respond to, emergencies at certain mining operations.
+(2) The purpose of Part 2 is to provide for an effective and co-ordinated response in the event of an emergency at an underground mining operation.
+
+## Part 2 — Emergency response
+
+### 25 Application, savings, and transitional provisions
+The application, savings, and transitional provisions set out in the Schedule have effect for the purposes of this Act.
+
+## Schedule.Group
+
+### Schedule  — Application, savings, and transitional provisions
+
+### 1 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **appointed day** means the date specified in the notice published in the Gazette under section 7
+  - **Trust Board** means the Board approved under section 3 of the Mines Rescue Trust Act 1992.
+
+**Transitional provisions**
+
+### 2 Trust Board continues until appointed day
+(1) Until the appointed day, the Trust Board and any other person has, and may perform or exercise, the functions, responsibilities, duties, and powers conferred by the Mines Rescue Trust Act 1992 and the provisions of that Act are deemed to continue in force to the extent necessary for the performance or exercise of those functions, responsibilities, duties, and powers.
+(2) On and from the appointed day, neither the Trust Board nor any other person has any functions, responsibilities, duties, or powers under the Mines Rescue Trust Act 1992.
+
+### 3 Money payable under Mines Rescue Trust Act 1992
+(1) Despite the repeal of the Mines Rescue Trust Act 1992 by section 26, sections 7, 8, and 9 of that Act are to be treated as continuing in force until the appointed day.
+(2) Any amount of money that immediately before the appointed day was payable to the Trust Board under section 7 of the Mines Rescue Trust Act 1992 is, on and after the appointed day, payable to the board as if it were a levy payable under regulations made under section 10.
+(3) Despite the repeal of the Mines Rescue Trust Act 1992, the Trust Board must, within 3 months of the appointed day, give the chief executive independently audited accounts of the Trust Board's income and expenditure under section 7 of the Mines Rescue Trust Act 1992 for the period beginning on the occurrence of 1 April immediately preceding the repeal of that Act and ending at the close of the day before the appointed day.
