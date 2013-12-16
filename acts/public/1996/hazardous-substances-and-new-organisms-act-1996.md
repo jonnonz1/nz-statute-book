@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -202,7 +202,8 @@ _Consolidation as at 2013-08-05_
   - **weapons system** means any ammunition, explosive, or propellant; and includes any platform designed to carry any combination thereof
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
+    (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) For the purposes of paragraph (a) of the definition of the term substance in section 2(1), the definition of any mixture of elements or mixture of compounds may include a range of percentages of the elements or compounds making up the substance.
 
 ### 2A Meaning of term new organism
@@ -1889,8 +1890,8 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 
 ### 97 Enforcement of Act
 (1) The following persons shall ensure the provisions of this Act (including any controls imposed on approvals granted under this Act) are enforced in the following situations:
-  (a) the chief executive of the department of State that is for the time being responsible for the administration of the Health and Safety in Employment Act 1992 shall ensure that the provisions of this Act are enforced in any place of work:
-  (b) the chief executive of the department of State that is for the time being responsible for the administration of the Gas Act 1992 shall ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
+  (a) WorkSafe must ensure that the provisions of this Act are enforced in any place of work:
+  (b) WorkSafe must ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
   (c) the New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (d) the Commissioner of Police (after consultation with the New Zealand Transport Agency) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (e) the Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in or on any aircraft:
@@ -1923,7 +1924,7 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (2) For the purpose of complying with subsection (1), the enforcement agency may appoint enforcement officers in accordance with this Act who may exercise the powers of inspectors under the Health and Safety in Employment Act 1992, and the provisions of that Act apply with all necessary modifications.
 (3) In this section,—
   - **enforcement agency** —
-    (a) means the chief executive of the department responsible for the administration of the Health and Safety in Employment Act 1992; and
+    (a) means WorkSafe:
     (b) includes, in relation to a particular industry, sector, or type of work, the chief executive of an agency designated under section 28B(1) of that Act to administer that Act for the particular industry, sector, or type of work
   - **inspector** and have the same meanings as in section 2(1) of the Health and Safety in Employment Act 1992.
 
