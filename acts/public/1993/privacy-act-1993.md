@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-16_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1299,7 +1299,7 @@ In this Part, unless the context otherwise requires,—
     (bd) the Ministry of Health:
     (c) the Ministry of Justice:
     (d) the Department of Corrections:
-    (e) the Department of Labour:
+    (e) the Ministry of Business, Innovation, and Employment:
     (f) the department for the time being responsible for the administration of the Social Security Act 1964:
     (fa) the Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1) of the Housing Corporation Act 1974:
     (g) the Inland Revenue Department:
@@ -1310,6 +1310,7 @@ In this Part, unless the context otherwise requires,—
     (h) the New Zealand Customs Service:
     (ha) the Registrar of Motor Vehicle Traders:
     (i) the Regulator, as defined in the Accident Insurance Act 1998:
+    (ia) WorkSafe New Zealand:
     (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
     (k) the Ministry of Education:
     (l) the New Zealand Teachers Council established under Part 10A of the Education Act 1989.
@@ -1763,6 +1764,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Fisheries Act 1996 | Sections 98 and 124 |
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
 | Gambling Act 2003 | Section 204 |
+| Health and Safety in Employment Act 1992 | section 19ZZB |
 | Health Practitioners Competence Assurance Act 2003 | Section 137 |
 | Immigration Advisers Licensing Act 2007 | Section 77 |
 | Incorporated Societies Act 1908 | Section 33 |
@@ -1918,7 +1920,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Registrar of Motor Vehicles records |  |  |
 | --- | --- | --- |
 | Subject | Description | Access available to |
-| Motor vehicles register | A national register of all motor vehicles | Ministry of Justice (including for the purpose of enforcing civil debts)Ministry of TransportPoliceLocal authorities authorised under section 112Serious Fraud OfficeDepartment of Labour (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing immigration or health and safety in employment legislation)Ministry of Fisheries (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing fisheries legislation and any other enactment that confers enforcement powers on fisheries officers)New Zealand Customs Service (access is limited to obtaining information for the purposes of enforcing legislation for which the Service has enforcement powers)New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by—asection 95(1) of the Land Transport Management Act 2003:bthe notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626)Legal Services Commissioner (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter)An enforcement authority under the Land Transport Management Act 2003. |
+| Motor vehicles register | A national register of all motor vehicles | Ministry of Justice (including for the purpose of enforcing civil debts)Ministry of TransportPoliceLocal authorities authorised under section 112Serious Fraud OfficeWorkSafe New Zealand (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing the health and safety in employment legislation)Ministry of Business, Innovation, and Employment (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing immigration legislation)Ministry of Fisheries (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing fisheries legislation and any other enactment that confers enforcement powers on fisheries officers)New Zealand Customs Service (access is limited to obtaining information for the purposes of enforcing legislation for which the Service has enforcement powers)New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by—asection 95(1) of the Land Transport Management Act 2003:bthe notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626)Legal Services Commissioner (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter)An enforcement authority under the Land Transport Management Act 2003. |
 
 | Ministry of Transport records |  |  |
 | --- | --- | --- |
