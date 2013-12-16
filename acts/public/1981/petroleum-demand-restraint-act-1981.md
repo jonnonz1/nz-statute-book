@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2013-12-16_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -144,7 +144,7 @@ The publication in the Gazette or in accordance with the Legislation Act 2012 of
 (3) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (4) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or appointment or class of offices or appointments.
 (5) The delegation by the Minister or by any other person of any powers conferred on him by or under this Act or by or under any petroleum demand restraint regulations shall not prevent the personal exercise of those powers by the Minister or by that other person.
-(6) Subject to section 14 of the Interpretation Act 1999 and to sections 14 and 15 of the Civil List Act 1979, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
+(6) Subject to section 14 of the Interpretation Act 1999, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
 
 ### 15 Authentication of documents
 Any written notice, direction, approval, requisition, or other instrument, given, granted, or made by the Minister or by any other person authorised in that behalf under this Act or under any petroleum demand restraint regulations shall be sufficiently authenticated if it is signed by the Minister or authorised person or by any person on behalf of and by direction of the Minister or authorised person, as the case may be.
