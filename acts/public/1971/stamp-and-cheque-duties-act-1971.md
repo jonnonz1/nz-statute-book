@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2013-12-16_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
