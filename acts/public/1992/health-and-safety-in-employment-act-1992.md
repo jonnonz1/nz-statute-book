@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2013-12-16_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -14,16 +14,17 @@ _Consolidation as at 2013-11-28_
   - **accident** means an event that—
     (a) causes any person to be harmed; or
     (b) in different circumstances, might have caused any person to be harmed
-  - **approved code of practice** means a statement, for the time being approved under section 20; but where any amendment of the statement has been approved under that section, means the statement as amended
+  - **approved code of practice** means a code of practice for the time being approved under section 20A; but where any amendment of the code of practice has been approved under that section, means the code of practice as amended
   - **Armed Forces** has the same meaning as in section 2(1) of the Defence Act 1990
   - **at work** , in relation to any person, means present, for gain or reward, in the person's place of work
+  - **Board** means the New Zealand Mining Board of Examiners established under section 20D
+  - **coal** has the meaning given to it in section 19L
   - **coastal cargo** has the same meaning as in section 198(6) of the Maritime Transport Act 1994
   - **compliance order** means an order made under section 137 of the Employment Relations Act 2000
   - **contractor** means a person engaged by any person (otherwise than as an employee) to do any work for gain or reward
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **demise charter** has the same meaning as in section 2(1) of the Ship Registration Act 1992
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **departmental medical practitioner** means a person for the time being appointed under section 34(1)
   - **employee** , subject to sections 3C to 3F, means any person of any age employed by an employer to do any work (other than residential work) for hire or reward under a contract of service and, in relation to any employer, means an employee of the employer
   - **employer** , subject to sections 3C to 3F,—
     (a) means a person who or that employs any other person to do any work for hire or reward; and, in relation to any employee, means an employer of the employee; and
@@ -46,12 +47,14 @@ _Consolidation as at 2013-11-28_
     (b) includes—
       (i) a situation where a person's behaviour may be an actual or potential cause or source of harm to the person or another person; and
       (ii) without limitation, a situation described in subparagraph (i) resulting from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person's behaviour
-  - **hazard notice** has the meaning set out in section 46A(1)
+  - **hazard notice** has the meaning given to it in section 19ZF(1) or 46A(1), as applicable
   - **health and safety committee** means a committee established to support the ongoing improvement of health and safety in a place of work
+  - **health and safety medical practitioner** means a person for the time being appointed under section 34(1)
   - **health and safety representative** means an employee elected, as an individual or as a member of a health and safety committee or both, to represent the views of employees in relation to health and safety at work
   - **healthy** means unharmed; and has a corresponding meaning
   - **home** means a place occupied as a dwellinghouse; and includes any garden, yard, garage, outhouse, or other appurtenance, of a home
-  - **improvement notice** means a notice under subsection (1) or subsection (2) of section 39
+  - **improvement notice** means a notice under section 39(1) or (2) or 39A
+  - **industry health and safety representative** has the meaning given to it in section 19L
   - **infringement notice** means a notice given under section 56B
   - **inspector** means a health and safety inspector for the time being appointed under section 29(1)
   - **inspector's notice** means an improvement notice or a prohibition notice
@@ -66,9 +69,14 @@ _Consolidation as at 2013-11-28_
     (a) a failure to comply with this Act or regulations made under this Act; or
     (b) a series of such associated failures arising out of, or relating to, the same incident, situation, or set of circumstances
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **mine operator** has the meaning given to it in section 19L
+  - **mine worker** has the meaning given to it in section 19L
+  - **mineral** has the meaning given to it in section 19L
+  - **mining operation** has the meaning given to it in section 19L
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand** includes all airspace within the territorial limits of New Zealand
   - **New Zealand ship** has the same meaning as in section 2(1) of the Ship Registration Act 1992
+  - **permit operator** has the meaning given to it in section 19L
   - **person** includes the Crown
   - **person who controls a place of work** in relation to a place of work, means a person who is—
     (a) the owner, lessee, sublessee, occupier, or person in possession, of the place or any part of it; or
@@ -83,7 +91,8 @@ _Consolidation as at 2013-11-28_
     (a) appliance, equipment, fitting, furniture, implement, machine, machinery, tool, and vehicle; and
     (b) part of any plant, the controls of any plant, and any thing connected to any plant
   - **principal** means a person who or that engages any person (otherwise than as an employee) to do any work for gain or reward
-  - **prohibition notice** means a notice under section 41(1)
+  - **prohibition notice** means a notice under section 41(1) or 41A
+  - **quarrying operation** has the meaning given to it in section 19N
   - **residential work** , in relation to the occupier of a home, means—by a person employed or engaged by the occupier solely to do work of one or both of those kinds in relation to the home
     (a) domestic work done or to be done in the home; or
     (b) work done or to be done in respect of the home,—
@@ -97,16 +106,22 @@ _Consolidation as at 2013-11-28_
     (a) serious harm; or
     (b) harm (being harm that is more than trivial) the severity of whose effects on any person depend (entirely or among other things) on the extent or frequency of the person's exposure to the hazard; or
     (c) harm that does not usually occur, or usually is not easily detectable, until a significant time after exposure to the hazard
+  - **site health and safety committee** has the meaning given to it in section 19L
+  - **site health and safety representative** has the meaning given to it in section 19L
+  - **site senior executive** has the meaning given to it in section 19L
   - **subcontractor** means a person engaged (otherwise than as an employee) by any contractor or subcontractor to do for gain or reward any work the contractor or subcontractor has been engaged (as contractor or subcontractor) to do
   - **substance** includes a thing that is an organic material, whether living or not
   - **suspension notice** means a notice under section 37(1)
+  - **tourist mining operation** has the meaning given to it in section 19L
   - **trained health and safety representative** has the meaning set out in section 46A(1)
+  - **tunnelling operation** has the meaning given to it in section 19O
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **volunteer** —
     (a) means a person who—
       (i) does not expect to be rewarded for work to be performed as a volunteer; and
       (ii) receives no reward for work performed as a volunteer; and
-    (b) does not include a person who is in a place of work for the purpose of receiving on the job training or gaining work experience.
+    (b) does not include a person who is in a place of work for the purpose of receiving on the job training or gaining work experience
+  - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) For the avoidance of doubt, it is hereby declared that—
   (a) a person may at the one time be 2 or more of any of the following: a contractor, an employer, a person who controls a place of work, a principal, a self-employed person, and a subcontractor; and this Act may impose duties on or in respect of the person accordingly; and
   (b) this Act may at the one time impose the same duty on 2 or more persons, whether in the same capacity or different capacities; and
@@ -200,6 +215,9 @@ _Consolidation as at 2013-11-28_
   (c) person B must be treated as if person B were the employer of the loaned employee (instead of person A) while the loaned employee is working for person B; and
   (d) the loaned employee must be treated as if he or she were at work when doing work for person B.
 
+### 3G Provisions affecting application of amendments to this Act
+Schedule 1AA contains application, transitional, and savings provisions that affect other provisions of this Act as from time to time amended, repealed, or repealed and replaced (see section 63).
+
 ### 4 Act not to affect other legislation
 Nothing in this Act, or in any code of practice under this Act, derogates from the effect of any other enactment for the time being in force.
 
@@ -289,6 +307,7 @@ Where—the employer shall take all practicable steps to isolate it from the emp
 (3) Every employer shall ensure that—
   (a) there are omitted from all results to which this section applies given to any individual employee all information that identifies, or discloses anything about, any other individual employee; and
   (b) there are omitted from all results to which this section applies given to any group of employees all information that identifies, or discloses anything about, any employee.
+(4) An employer is not required under this section to give an employee the results of monitoring to the extent that those results have already been provided to the employee under section 12A.
 
 ### 12 Information for employees generally and health and safety representatives
 (1) Every employer shall ensure that every employee who does work of any kind, or uses plant of any kind, or deals with a substance of any kind, in a place of work has been given, and is provided with ready access to, information in a form and manner that the employee is reasonably likely to understand about—
@@ -298,6 +317,24 @@ Where—the employer shall take all practicable steps to isolate it from the emp
   (d) where all necessary safety clothing, devices, equipment, and materials are kept.
 (2) An employer must ensure that all health and safety representatives in a place of work have ready access to sufficient information about health and safety systems and health and safety issues in the place of work to enable the representatives to perform their functions effectively.
 
+**Duties of mine operators in relation to information**
+
+### 12A Mine workers to be given results of monitoring
+(1) This section applies to the results of any monitoring of any mine worker or any mining operation undertaken in compliance with this Act or regulations made under this Act if the monitoring was—
+  (a) undertaken by or on behalf of a mine operator; or
+  (b) undertaken by or on behalf of a department (within the meaning of the State Sector Act 1988) or WorkSafe and the results have been given to a mine operator.
+(2) Subject to subsection (3), every mine operator must ensure that—
+  (a) every mine worker is given all results to which this section applies of monitoring of the mine worker (whether as an individual or as one of a number of mine workers) in relation to health or safety; and
+  (b) all mine workers are given all results to which this section applies of general monitoring of—
+    (i) conditions in the mining operation; or
+    (ii) the health or safety of mine workers there.
+(3) Every mine operator must ensure that—
+  (a) there are omitted from all results to which this section applies given to any individual mine worker all information that identifies, or discloses anything about, any other individual mine worker; and
+  (b) there are omitted from all results to which this section applies given to any group of mine workers all information that identifies, or discloses anything about, any individual mine worker.
+
+### 12B Information for site health and safety representatives
+A mine operator must ensure that all site health and safety representatives in the mining operation have ready access to sufficient information about health and safety systems and health and safety issues in the mining operation to enable the representatives to perform their functions and exercise their powers effectively.
+
 **Duties of employers in relation to training and supervision**
 
 ### 13 Training and supervision
@@ -306,6 +343,13 @@ Every employer shall take all practicable steps to ensure that every employee wh
     (i) has; or
     (ii) is so supervised, by a person who has,—
   (b) is adequately trained in the safe use of all plant, objects, substances, and protective clothing and equipment that the employee is or may be required to use or handle.
+
+**Duties of mine operators in relation to training and supervision**
+
+### 13AA Training and supervision of mine workers
+Every mine operator must take all practicable steps to ensure that every mine worker who does work of any kind, or uses plant of any kind, or deals with a substance of any kind, in a mining operation—
+  (a) has, or is so supervised by a person who has, such knowledge and experience of similar places, and work, plant, or substances of that kind, as to ensure that the mine worker's doing the work, using the plant, or dealing with the substance is not likely to cause harm to the mine worker or other people; and
+  (b) is adequately trained in the safe use of all plant, objects, substances, and protective clothing and equipment that the mine worker is or may be required to use or handle.
 
 **Duties of employers in relation to Police vetting of employees at limited child care centres**
 
@@ -467,58 +511,444 @@ Part 3 of Schedule 1A applies if an employer is required to seek to develop a sy
   (b) relevant to the role of a health and safety representative.
 (3) The Minister may delegate his or her power under subsection (1) to 1 or more persons.
 (4) To avoid doubt, a course approved under this section may be a course that is also approved under section 72 of the Employment Relations Act 2000.
+(5) For the purposes of Part 2B, the reference to a health and safety representative in section 19G(2)(b) means a site health and safety representative.
 
 ### 19H System for employee participation in Armed Forces
 (1) This Part does not apply to members of the Armed Forces.
 (2) The Chief of Defence Force must develop and implement a system for employee participation in workplace health and safety for members of the Armed Forces.
 (3) The system must be consistent with section 19B.
-(4) The Chief of Defence Force must consult with the Secretary when developing the system.
+(4) The Chief of Defence Force must consult with WorkSafe when developing the system.
 
 ### 19I Meaning of employee in sections 19C(1) and 19F(1)
 In sections 19C(1) and 19F(1), an employee means an employee who has worked for his or her employer for at least 180 hours over the previous 12-month period.
+
+### 19J Relationship of this Part with Part 2B
+Except as provided in this Part or Part 2B, nothing in this Part applies to a mining operation.
+
+## Part 2B — Worker participation in health and safety in mining sector
+
+### 19K Purpose of Part
+The purpose of this Part is to require the participation of mine workers in processes relating to health and safety in a mining operation so that—
+  (a) all persons with relevant knowledge and expertise can help make the mining operation healthy and safe; and
+  (b) when making decisions that affect mine workers and their work, a mine operator has information from mine workers who face the health and safety issues in practice.
+
+### 19L Interpretation
+In this Act,—
+  - **alluvial mining operation** means a mining operation carried out above ground and associated with—
+    (a) the extraction of gold from river deposits of sand or gravel:
+    (b) the extraction of ironsand from sand or gravel
+  - **coal** means anthracite, bituminous coal, sub-bituminous coal, and lignite, and—
+    (a) includes every other substance worked or normally worked with coal; but
+    (b) does not include coal in the form of peat
+  - **industry health and safety representative** means a person appointed in accordance with section 19ZU
+  - **licence or other permission** means a lease, licence, or other instrument under which a person with an interest in land (including, for example, the owner of the land) permits another person to carry out a mining operation on the land
+  - **mine operator** means,—
+    (a) in respect of a mining operation carried out under a permit granted under the Crown Minerals Act 1991,—
+      (i) the person appointed by the permit operator to manage and control the mining operation; or
+      (ii) the permit operator, if no such person has been appointed:
+    (b) in respect of a mining operation (not being a mining operation described in paragraph (a)) carried out under a licence or other permission,—
+      (i) the person appointed to manage and control the mining operation by the person who holds the licence or other permission to carry out mining operations; or
+      (ii) the person who holds the licence or other permission to carry out mining operations, if no such person has been appointed:
+    (c) in any other case,—
+      (i) the person appointed to manage and control the mining operation by the owner of the land where the mining operation is being carried out; or
+      (ii) the owner of the land where the mining operation is being carried out, if no such person has been appointed
+  - **mine worker** means a person who works in a mining operation, either as an employee or as a self-employed person
+  - **mineral** means a naturally occurring inorganic substance beneath or at the surface of the earth, and—
+    (a) includes metallic minerals, non-metallic minerals, and precious stones; but
+    (b) does not include clay, coal, gravel, limestone, sand, or stone
+  - **mining operation** has the meaning given to it in section 19M
+  - **peat** means combustible, soft, porous, or compressed sedimentary deposit of plant origin with a high water content
+  - **permit operator** has the same meaning as in section 2 of the Crown Minerals Act 1991
+  - **quarrying operation** has the meaning given to it in section 19N
+  - **site health and safety committee** means a committee established to support the ongoing improvement of health and safety in a mining operation
+  - **site health and safety representative** means a mine worker elected as a site health and safety representative, as an individual or as a member of a site health and safety committee, or both
+  - **site senior executive** means the person appointed as the site senior executive by the mine operator
+  - **tourist mining operation** means an operation that has the purpose of—
+    (a) mine education; or
+    (b) mine research; or
+    (c) mine tourism
+  - **tunnelling operation** has the meaning given to it in section 19O.
+
+### 19M Meaning of mining operation
+In this Act, mining operation—
+  (a) means the extraction of coal and minerals and the place at which the extraction is carried out; and
+  (b) includes any of the following activities and the place at which they are carried out:
+    (i) exploring for coal:
+    (ii) mining for coal or minerals:
+    (iii) processing coal or minerals associated with a mine:
+    (iv) producing or maintaining tailings, spoil heaps, and waste dumps:
+    (v) the excavation, removal, handling, transport, and storage of coal, minerals, substances, contaminants, and wastes at the place where the activities described in subparagraphs (i) to (iv) are carried out:
+    (vi) the construction, operation, maintenance, and removal of plant and buildings at the place where the activities described in subparagraphs (i) to (iv) are carried out:
+    (vii) preparatory, maintenance, and repair activities associated with the activities described in subparagraphs (i) to (iv); and
+  (c) includes—
+    (i) a tourist mining operation:
+    (ii) a tunnelling operation; but
+  (d) does not include—
+    (i) exploring for minerals:
+    (ii) an alluvial mining operation:
+    (iii) a mining operation wholly on or under the seabed on the seaward side of the mean high-water mark:
+    (iv) a quarrying operation.
+
+### 19N Meaning of quarrying operation
+(1) In this Act, quarrying operation—
+  (a) means an activity carried out above ground for the purpose of—
+    (i) extracting any material, other than any coal or any mineral, from the earth; or
+    (ii) processing any material, other than any coal or any mineral, at the place where the material is extracted; and
+  (b) includes the place where an activity described in paragraph (a) is carried out; and
+  (c) includes any place in which any material extracted or processed in a quarry is crushed or screened.
+(2) Subsection (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
+
+### 19O Meaning of tunnelling operation
+In this Act, tunnelling operation—
+  (a) means an operation involving extraction of fill with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
+  (b) includes the place where an operation described in paragraph (a) is carried out; but
+  (c) excludes any tunnelling operation of a kind declared under section 19P not to be a tunnelling operation.
+
+### 19P Governor-General may, by Order in Council, exclude operations from section 19O
+The Governor-General may, by Order in Council made on the recommendation of the Minister, declare that certain operations or classes of operation are not tunnelling operations for the purposes of section 19O.
+
+### 19Q General duty to involve mine workers in health and safety matters
+(1) Every mine operator must ensure that there is, for a mining operation, a documented worker participation system that provides reasonable opportunities for the mine workers to participate effectively in ongoing processes for the improvement of health and safety in the mining operation.
+(2) Without limiting subsection (1), ongoing processes for the improvement of health and safety include the matters referred to in sections 6 to 13AA.
+(3) In complying with this Part, a mine operator must take into account any relevant approved code of practice.
+(4) If a site health and safety committee or a site health and safety representative makes a recommendation regarding health and safety in a mining operation, the mine operator must either adopt the proposal or provide a written statement to the site health and safety committee or site health and safety representative setting out the reasons for not adopting the proposal.
+(5) In subsection (1), reasonable opportunities means opportunities that are reasonable in the circumstances, having regard to relevant matters such as—
+  (a) the number of mine workers in the mining operation; and
+  (b) the likely potential sources or causes of harm in the mining operation; and
+  (c) the nature of the work that is performed and the way that it is arranged or managed by the mine operator; and
+  (d) the nature of the employment arrangements or contracting arrangements, including the extent and regularity of employment or engagement of temporary mine workers; and
+  (e) the willingness of mine workers and unions to develop worker participation systems; and
+  (f) in relation to employers and employees, the overriding duty to act in good faith.
+
+**Worker participation system**
+
+### 19R Development of worker participation system
+(1) The following persons must co-operate in good faith to seek to develop, agree, implement, and maintain a worker participation system that sets out the ways in which the mine operator must seek to comply with section 19Q(1):
+  (a) the mine operator:
+  (b) the mine workers who wish to be involved:
+  (c) a union or unions representing any of the mine workers.
+(2) A worker participation system may include any matters that the mine operator, mine workers, and any union representing them, agree comply with this Part.
+(3) If the system includes provision for site health and safety representatives, those representatives must be elected by the mine workers in the mining operation.
+(4) If 1 or more mine workers request that the system include provision for site health and safety representatives, there must be provision for the election of at least 1 site health and safety representative.
+(5) A system may allow for more than 1 site health and safety representative or 1 site health and safety committee and, in that case, each representative or committee may represent a particular type of work of the mine operator, or another grouping agreed in, or determined in accordance with, the system.
+
+### 19S Training of site health and safety representatives
+(1) Sections 19E to 19G apply to any site health and safety representative under this Part who is an employee.
+(2) A worker participation system may include a provision increasing or decreasing the maximum—
+  (a) number of days' paid leave that the employers of mine workers are required to allow site health and safety representatives who are employees to take for health and safety training under section 19E(1) (as applied by subsection (1)):
+  (b) total number of days' paid leave that employers of mine workers are required to allow site health and safety representatives and health and safety representatives to take for health and safety training under sections 19E(2) and 19F (as applied by subsection (1)).
+(3) Despite subsection (2) and section 19E(1) and (2) (as applied by subsection (1)), a worker participation system must ensure that every site health and safety representative who is an employee has sufficient paid leave to attend training reasonably required to attain the competency requirements for site health and safety representatives prescribed by or under regulations made under this Act.
+
+### 19T Review and replacement of worker participation systems
+(1) A worker participation system must specify a process by which it must be reviewed.
+(2) At any time after the expiry of 12 months from the date the system is agreed, 1 or more mine workers or a union on their behalf may initiate the development of a new system in accordance with this Act.
+(3) If a system is no longer in place, or functioning, a new system must be developed, agreed, implemented, and maintained in accordance with section 19R.
+
+### 19U Prescribed provisions apply if no scheme in place
+(1) The provisions prescribed in regulations made under this Act apply if a worker participation system is not developed—
+  (a) within 3 months of the date on which a mining operation begins; or
+  (b) if section 19T(3) applies, within 3 months of the date on which any person initiates the development of a new system.
+(2) If the prescribed provisions apply, and have applied continuously for a period of 6 months or more, 1 or more mine workers or a union on their behalf may initiate the development of a new system in accordance with section 19R.
+
+**Site health and safety representatives**
+
+### 19V Election of site health and safety representatives
+If a worker participation system provides for the election of 1 or more site health and safety representatives, but does not provide for the conduct of those elections, the requirements for the conduct of elections prescribed in regulations made under this Act apply.
+
+### 19W Functions of site health and safety representatives
+The functions of a site health and safety representative are, in relation to the mining operation in respect of which the representative is appointed,—
+  (a) to represent mine workers in matters relating to health and safety:
+  (b) to investigate complaints from mine workers regarding health and safety:
+  (c) if requested by a mine worker, to represent the worker in relation to a matter relating to health and safety (including a complaint):
+  (d) to identify hazards in the mining operation and bring them to the attention of the mine operator or site senior executive:
+  (e) to monitor measures taken by the mine operator that are relevant to health and safety:
+  (f) to provide feedback to the mine operator or site senior executive about whether the requirements of this Act or regulations made under this Act are being complied with:
+  (g) to promote the interests of mine workers who have been harmed at work, including in relation to arrangements for harmed workers' rehabilitation and return to work.
+
+### 19X No duty on site health and safety representatives
+Nothing in this Act imposes a duty on a site health and safety representative in that capacity.
+
+**Powers of site health and safety representatives**
+
+### 19Y Competency requirements for exercise of certain powers
+A site health and safety representative must not exercise any power under section 19ZA, 19ZG, or 19ZH unless he or she meets the competency requirements for site health and safety representatives prescribed by or under regulations made under this Act.
+
+### 19Z Power of site health and safety representative to attend interview
+With the consent of the mine worker, a site health and safety representative may attend any interview relating to health and safety that the worker has with the mine operator, the site senior executive or any other representative of the mine operator, or an inspector.
+
+### 19ZA Power of site health and safety representative to enter and inspect mining operation
+(1) A site health and safety representative may enter and inspect any area of a mining operation at any reasonable time to perform the functions of the site health and safety representative.
+(2) Before exercising the power under this section, the site health and safety representative must give reasonable notice to the site senior executive.
+(3) In exercising the power under this section, the site health and safety representative must comply with any reasonable procedures and requirements applying in the mining operation that relate to health and safety.
+
+### 19ZB Power of site health and safety representative to examine and copy documents
+A site health and safety representative may examine and copy any documents relevant to health and safety that are held by the mine operator, if the site health and safety representative has reason to believe that the documents contain information required to assess whether procedures at the mining operation are sufficient to achieve compliance with this Act and any regulations made under this Act.
+
+### 19ZC Power to require assistance
+A site health and safety representative may require the site senior executive or person in charge of the relevant part or aspect of a mining operation to give the site health and safety representative reasonable assistance in the exercise of a power under section 19ZA or 19ZB.
+
+### 19ZD Power of site health and safety representative to accompany inspector
+(1) A site health and safety representative may accompany an inspector who has, under section 31, entered a mining operation.
+(2) An inspector may refuse to allow a site health and safety representative accompanying the inspector under this section to be present—
+  (a) during any discussion in which personal information may be disclosed (unless the person who is the subject of the information has expressly consented to the site health and safety representative being present):
+  (b) if the inspector believes that the presence of the site health and safety representative would prejudice the maintenance of the law, including the investigation and prosecution of offences.
+(3) In this section, personal information has the meaning given to it in section 2(1) of the Privacy Act 1993.
+
+### 19ZE Site health and safety representative may consult inspector
+A site health and safety representative may consult with an inspector on any health and safety issue.
+
+### 19ZF Trained site health and safety representatives may issue hazard notices
+(1) In this section,—
+  - **hazard notice** means a notice that—
+    (a) describes a hazard identified in a mining operation; and
+    (b) is in the prescribed form; and
+    (c) may set out suggested steps to deal with the hazard
+  - **trained site health and safety representative** means a site health and safety representative who has achieved a level of competency in health and safety practice specified by the Minister by notice in the Gazette or who has completed an appropriate course approved under section 19G.
+(2) Subsection (3) applies if a trained site health and safety representative—
+  (a) believes on reasonable grounds that there is a hazard in the mining operation; and
+  (b) has brought the hazard to the attention of the site senior executive; and
+  (c) has discussed or attempted to discuss with the site senior executive steps for dealing with the hazard.
+(3) The trained site health and safety representative may give the site senior executive on behalf of the mine operator a hazard notice if—
+  (a) the site senior executive refuses to discuss, or take steps to deal with, the hazard; or
+  (b) the site senior executive and representative do not agree on the steps that must be taken, or the time within which the steps must be taken, to deal with the hazard; or
+  (c) the representative believes on reasonable grounds that the mine operator or site senior executive has failed to meet the requirements of this Act or regulations made under this Act in relation to the hazard within a time agreed during the discussion.
+(4) If a hazard notice has been given by a trained site health and safety representative, the site senior executive must notify WorkSafe of that fact.
+
+### 19ZG Power of site health and safety representative to give notice requiring suspension of mining operation
+(1) This section applies if a site health and safety representative—
+  (a) believes on reasonable grounds that the whole, or a part or an aspect, of a mining operation is likely to cause serious harm to any person; and
+  (b) has discussed or attempted to discuss the matter likely to cause serious harm with the site senior executive.
+(2) The site health and safety representative may give a written notice to the site senior executive ordering the suspension of the whole, or a part or an aspect, of the mining operation.
+(3) The notice must set out the reasons for the site health and safety representative's belief.
+(4) If the site senior executive receives a notice under subsection (2), the site senior executive must stop the mining operation, or the part or aspect of the mining operation, mentioned in the notice.
+(5) If a notice ordering the suspension of the whole, or a part or an aspect, of the mining operation has been given by a site health and safety representative, the site senior executive must notify WorkSafe of that fact.
+
+### 19ZH Power of site health and safety representative to require mining operation to stop in case of imminent serious harm
+(1) This section applies if a site health and safety representative believes on reasonable grounds that serious harm to any person is likely to be caused imminently by the whole, or a part or an aspect, of a mining operation.
+(2) The site health and safety representative may—
+  (a) stop the whole, or a part or an aspect, of the mining operation and immediately advise the person in charge of the operation or part or aspect of the operation; or
+  (b) require the person in charge of the operation or part or aspect of the operation to stop the operation.
+(3) If a site health and safety representative requires a person to stop the whole, or a part or an aspect, of a mining operation, that person must do so.
+(4) The site health and safety representative must, as soon as practicable after exercising the power under subsection (2), advise the site senior executive of the action taken under that subsection and the reasons for the action taken.
+(5) If a site health and safety representative has advised the site senior executive of action taken under subsection (2), the site senior executive must notify WorkSafe of that fact.
+
+### 19ZI Inspector may cancel order to suspend mining operation
+An inspector may cancel the whole or part of a notice given under section 19ZG (whether or not mining operations have stopped pursuant to the notice) or an action taken by a site health and safety representative under section 19ZH(2) if the inspector does not consider that the operation or the part or aspect of the mining operation concerned is likely to cause serious harm to any person.
+
+### 19ZJ Workers must do other work
+If the whole or a part or an aspect of a mining operation is stopped under section 19ZG or 19ZH, a mine worker who is an employee and who was working in the operation or part or aspect of the operation must do any other work within the scope of the worker's employment agreement that the employee's employer reasonably requests.
+
+### 19ZK Work not to restart until no likelihood of serious harm
+The site senior executive must ensure that the operation or part or aspect of the mining operation stopped because a notice is given under section 19ZG, or stopped or required to be stopped under section 19ZH, is not restarted until the site senior executive is satisfied that it is not likely to cause serious harm to any person.
+
+### 19ZL Protection of site health and safety representatives performing functions or exercising powers
+A mine operator or site senior executive must not—
+  (a) prevent or attempt to prevent a site health and safety representative from performing his or her functions or exercising his or her powers; or
+  (b) penalise a site health and safety representative for performing his or her functions or exercising his or her powers.
+
+### 19ZM Functions and powers for health and safety purposes only
+A site health and safety representative must not perform a function or exercise a power under this Part for a purpose other than a health and safety purpose.
+
+### 19ZN Information to be used for health and safety purposes only
+(1) This section applies to any information obtained by a site health and safety representative in the performance of the site health and safety representative's functions or the exercise of the site health and safety representative's powers under this Act.
+(2) A site health and safety representative may—
+  (a) disclose or use the information,—
+    (i) if the information is about a person, only with the person's consent:
+    (ii) only to the extent necessary for the performance of the site health and safety representative's functions or the exercise of the site health and safety representative's powers under this Act:
+  (b) disclose the information—
+    (i) to WorkSafe or a person authorised by WorkSafe only if WorkSafe reasonably believes the disclosure is necessary for administering, monitoring, or enforcing compliance with this Act or any relevant health and safety legislation (as defined in section 3 of the WorkSafe New Zealand Act 2013):
+    (ii) only if the disclosure is authorised or required by law.
+(3) In subsection (2), disclose includes to give any person access to information.
+
+### 19ZO Health and safety representative not to unnecessarily impede production
+A site health and safety representative must not unnecessarily impede production at a mining operation when performing functions or exercising powers under this Part.
+
+### 19ZP Protection from civil and criminal liability
+A site health and safety representative is protected from civil and criminal liability for any act that he or she does or omits to do—
+  (a) in the performance or intended performance of his or her functions or the exercise or intended exercise of his or her powers under this Act; and
+  (b) in good faith.
+
+### 19ZQ Obligations of mine operators
+A mine operator must—
+  (a) allow a site health and safety representative to spend such time as is reasonably necessary to perform his or her functions and exercise his or her powers; and
+  (b) provide a site health and safety representative with such access to facilities that is reasonably necessary or prescribed in regulations made under this Act to enable the representative to perform his or her functions and exercise his or her powers.
+
+**Removal of site health and safety representative**
+
+### 19ZR WorkSafe may remove site health and safety representative
+(1) WorkSafe may, by notice in writing, remove a site health and safety representative from office if WorkSafe considers that the site health and safety representative has failed to perform his or her functions or exercise his or her powers satisfactorily (for example, if the representative has exercised his or her powers for an improper purpose in breach of section 19ZM or disclosed information in breach of section 19ZN).
+(2) The notice under subsection (1) must set out the reasons for WorkSafe's opinion.
+
+### 19ZS Election of another site health and safety representative
+(1) If a site health and safety representative is removed from office by WorkSafe, another site health and safety representative may be elected.
+(2) Except as provided for in subsection (3), no election for a site health and safety representative to replace the representative who has been removed may be held until the expiry of the period for appeal under section 19ZT or, if an appeal is lodged, until a decision is made on the appeal.
+(3) One or more mine workers may initiate the election of a temporary site health and safety representative to replace the representative who has been removed.
+(4) The term of office of any temporary site health and safety representative ends on the expiry of the period for appeal under section 19ZT or, if an appeal is lodged, when a decision is made on the appeal.
+(5) A temporary health and safety representative has the functions and powers set out in sections 19W and 19Z to 19ZH, and those sections and sections 19X, 19Y, and 19ZI to 19ZQ apply with any necessary modifications.
+
+### 19ZT Site health and safety representative may appeal against removal
+(1) A site health and safety representative may appeal to a District Court against a decision of WorkSafe to remove him or her.
+(2) The appeal must be brought within 28 days of the date of the notice under section 19ZR.
+
+**Industry health and safety representatives**
+
+### 19ZU Appointment of industry health and safety representatives
+(1) This section and sections 19ZV to 19ZZD apply only to—
+  (a) a mining operation associated with the extraction of coal and where any person works below ground (underground coal mining operation):
+  (b) mine workers who work in an underground coal mining operation:
+  (c) any union that represents mine workers who work in an underground coal mining operation.
+(2) A union or group of mine workers may, in any manner determined by the union or group, appoint a person to be an industry health and safety representative.
+(3) The person appointed must meet the competency requirements for industry health and safety representatives prescribed in regulations made under this Act.
+(4) The union or group of mine workers that appoints an industry health and safety representative must meet the costs of the representative.
+
+### 19ZV Notice to WorkSafe of appointment or cessation of appointment of representative
+A union or group of mine workers that appoints an industry health and safety representative must—
+  (a) give notice to WorkSafe of that appointment; and
+  (b) provide the prescribed information in relation to that appointment, and a photograph of the representative authenticated in accordance with any prescribed requirements; and
+  (c) give notice to WorkSafe within 14 days after the date on which the person ceases to be a representative.
+
+### 19ZW Functions and powers of industry health and safety representatives
+(1) An industry health and safety representative has, in respect of any mining operation and any mine worker, the functions and powers set out in sections 19W and 19Z to 19ZH, and those sections and sections 19X and 19ZI to 19ZP apply with any necessary modifications.
+(2) In addition to the functions and powers referred to in subsection (1), an industry health and safety representative has the following functions:
+  (a) to participate in investigations into accidents in mining operations that resulted, or could have resulted, in serious harm:
+  (b) to assist with industry-wide initiatives to improve health and safety in mining operations.
+
+### 19ZX Further provision concerning scope of functions and powers of industry health and safety representatives
+An industry health and safety representative may perform his or her functions and exercise his or her powers in relation to any mining operation or mine worker whether or not,—
+  (a) in the case of a representative appointed by a union, any worker in the mine, or the relevant mine worker, as the case may be, is a member of that union; or
+  (b) in the case of a representative appointed by a group of mine workers, any worker in the mine, or relevant mine worker, as the case may be, is a member of that group.
+
+### 19ZY Identity cards
+(1) WorkSafe must give each industry health and safety representative an identity card.
+(2) The identity card must be in the prescribed form.
+(3) A person who ceases to be an industry health and safety representative must return his or her identity card to WorkSafe as soon as possible, but within 14 days, after the date on which the person ceases to be a representative.
+
+### 19ZZ Production or display of identity card
+(1) Before an industry health and safety representative exercises a power under this Part in relation to any person, the representative must—
+  (a) produce his or her identity card to the person; or
+  (b) display the identity card so it is clearly visible to that person.
+(2) An industry health and safety representative who exercises a power under section 19ZA must—
+  (a) produce his or her identity card to the person apparently in charge of the part of the mining operation being entered; or
+  (b) display the identity card so it is clearly visible to that person.
+(3) If the representative is unable, despite reasonable efforts, to comply with subsection (2), the representative must, before leaving the mining operation, leave a written notice stating—
+  (a) the representative's identity; and
+  (b) the address of a place where the representative may be contacted; and
+  (c) the date and time of entry onto the mining operation; and
+  (d) the representative's reasons for entering onto the mining operation.
+
+### 19ZZA Removal of industry health and safety representative
+Sections 19ZR and 19ZT apply to an industry health and safety representative with any necessary modifications.
+
+### 19ZZB Register of industry health and safety representatives
+(1) WorkSafe must keep and maintain a register of industry health and safety representatives.
+(2) The purpose of the register is to enable members of the public to know the names and contact details of industry health and safety representatives.
+(3) The register may be kept in any manner that WorkSafe thinks fit.
+(4) The register must contain the prescribed information.
+
+### 19ZZC Alterations to register
+WorkSafe may at any time make any amendments to the register that are necessary to reflect any changes in the information referred to in section 19ZZB(4).
+
+### 19ZZD Search of register
+(1) A person may search the register for a purpose set out in section 19ZZB(2).
+(2) WorkSafe must—
+  (a) make the register available for public inspection, without fee, at reasonable hours at the head office of WorkSafe; and
+  (b) supply to any person, on request and on payment of a reasonable charge, a copy of the register or any extract from it.
 
 ## Part 3 — Standards
 
 **Codes of practice**
 
 ### 20 Codes of practice
-(1AA) The Minister may direct the Secretary to prepare, and submit for the Minister's approval in accordance with this section, a statement, amendment, or revocation referred to in subsection (1) that relates to a particular health and safety issue.
-(1) The Secretary may from time to time publish in the Gazette notice that the Secretary has asked the Minister to approve—
+(1) WorkSafe may from time to time issue any instrument (a code of practice) that is—
   (a) a statement of preferred work practices or arrangements; or
-  (aa) a statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
-  (ab) a statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
-  (ac) a statement of preferred characteristics for any manufactured or processed substance used or capable of being used—
+  (b) a statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
+  (c) a statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
+  (d) a statement of preferred characteristics for any manufactured or processed substance used or capable of being used—
     (i) in or in connection with any protective clothing or protective equipment; or
     (ii) otherwise for or in connection with protecting people from hazards; or
-  (ad) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or
-  (b) the amendment or revocation of an approved code of practice.
-(2) A notice that the Secretary has asked the Minister to approve a statement under subsection (1) shall include a description of the general purport of the statement; and a notice that the Secretary has asked the Minister to approve the amendment of an approved code of practice shall include a description of the general purport of the amendment.
-(3) Subject to subsection (13), if—the Minister may, by notice in the Gazette, approve the statement, amendment, or revocation.
-  (a) at least a month has passed since the publication of a notice under subsection (1); and
-  (b) the Minister has—
-    (i) consulted all persons affected, or reasonably likely to be affected, by the statement, amendment, or revocation concerned (or representatives of those persons); and
-    (ii) given them a reasonable time within which to comment; and—
-    (iii) considered all written comments (from any person) received within that time,—
-(4) A notice under subsection (3) shall come into force on the later of the following days:
-  (a) the 28th day after the date of its publication in the Gazette:
-  (b) a day specified in the notice.
-(5) The publication by the Minister of a notice in the Gazette approving a statement, amendment, or revocation is conclusive proof that subsection (3)(b) has been complied with in respect of the notice.
-(6) The Secretary shall ensure that at all reasonable times copies of approved codes of practice are available at every office of the department that deals with matters relating to health and safety in employment for inspection and copying by the public.
-(7) The Secretary may charge any person a reasonable fee for—
-  (a) providing the person with a copy of an approved code of practice; or
-  (b) allowing the person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
-(8) Nothing in subsection (6) or subsection (7) requires the Secretary to allow any person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
-(9) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that—
+  (e) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or
+  (f) a statement of preferred practices or arrangements relating to worker participation in a mining operation.
+(2) WorkSafe may issue any amendment or revocation of a code of practice.
+(3) Subject to subsection (4), a code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011.
+(4) WorkSafe must not issue or amend a code of practice in a way that adopts with modification any document previously approved by another Minister of the Crown or any compliance document (within the meaning of the Building Act 2004) without the consent of the other Minister or the chief executive of the department of State responsible for the administration of the Building Act 2004 (as relevant).
+
+### 20A Code to be approved by Minister
+(1) A code of practice, an amendment to a code of practice, or a revocation of a code of practice has no force or effect until it has been approved by the Minister.
+(2) The Minister must not approve any code, amendment, or revocation, unless—
+  (a) at least 28 days have passed since the publication in the Gazette of a notice of the intention of WorkSafe to apply for approval; and
+  (b) the Minister has consulted any persons that will be affected by the code, amendment, or revocation (or representatives of those persons), and they have had the opportunity to consider its possible effects and to comment on the effects to the Minister; and
+  (c) the Minister has considered any comments made to the Minister concerning the effects.
+(3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
+(4) When the Minister approves a code, amendment, or revocation, the Minister must—
+  (a) publish a notice of the approval in the Gazette; and
+  (b) show the date of the approval on the code, amendment, or revocation and publish it in any manner the Minister thinks fit.
+(5) The fact that the Minister has published a notice of approval in the Gazette under subsection (4)(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
+
+### 20B Court may have regard to code
+(1) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that—
   (a) was in force at the time of the alleged failure; and
   (b) in the form in which it was then in force, related to matters of a kind to which the provision relates.
-(10) In the absence of proof to the contrary, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by the Secretary shall in any proceedings be deemed to be an approved code of practice or an amendment of an approved code of practice.
-(11) Nothing in subsection (10) limits any method of proof of an approved code of practice or an amendment of an approved code of practice.
-(12) Subject to subsection (13), an approved code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011.
-(13) The Minister shall not—without the consent of the other Minister (or the the chief executive of the department of State responsible for the administration of the Building Act 2004).
-  (a) adopt with modification—
-    (i) any document previously approved by another Minister of the Crown; or
-    (ii) any acceptable solution or verification method (within the meaning of the Building Act 2004); or
-  (b) approve any amendment of any part of a code of practice that comprises a document referred to in paragraph (a),—
+(2) In any proceedings, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by WorkSafe is, in the absence of proof to the contrary, deemed to be an approved code of practice or an amendment of an approved code of practice.
+(3) Subsection (2) does not affect any other method of proof of an approved code of practice or an amendment of an approved code of practice.
+
+### 20C Codes to be made available
+(1) WorkSafe must ensure that every approved code of practice is, at all reasonable times, made available to the public for inspection free of charge—
+  (a) in hard copy at every office of WorkSafe; and
+  (b) on an Internet site maintained by, or on behalf of, WorkSafe.
+(2) WorkSafe may charge any person a reasonable fee for—
+  (a) providing the person with a hard copy of an approved code of practice; or
+  (b) allowing the person to use equipment under WorkSafe's control to copy all or any part of an approved code of practice.
+(3) Nothing in this section requires WorkSafe to allow any person to use equipment under WorkSafe's control to copy all or any part of an approved code of practice.
+
+**Competencies in mining industry**
+
+### 20D New Zealand Mining Board of Examiners
+WorkSafe must establish a board to be known as the New Zealand Mining Board of Examiners.
+
+### 20E Functions of Board
+The Board has the following functions:
+  (a) to advise WorkSafe on competency requirements for mine workers:
+  (b) to examine applicants, or have applicants examined, for certificates of competence:
+  (c) to issue, renew, cancel, and suspend certificates of competence:
+  (d) any other function relating to training and competency requirements for participants in the extractives industry conferred on the Board by regulations made under this Act.
+
+### 20F Membership of Board
+(1) WorkSafe may at any time appoint a member of the Board.
+(2) The appointment of a member of the board must be for a specified period.
+(3) WorkSafe must appoint one of the members of the Board as the chairperson of the board.
+(4) When appointing a member of the Board, WorkSafe must have regard to the need to ensure that the Board has among its members knowledge and experience of—
+  (a) mining operations:
+  (b) health and safety inspection in the mining industry:
+  (c) mining education:
+  (d) mining industry training.
+(5) Without limiting subsection (4), the Board may include 1 or more employees of WorkSafe.
+(6) A member of the board may resign by notice in writing to WorkSafe.
+(7) Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies to the members of the Board as if they were members of a committee appointed under clause 14 of Schedule 5 by the board of a Crown entity.
+
+### 20G Proceedings of Board
+The Board may determine its own procedure.
+
+### 20H Board levy
+(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators to fund the direct and indirect costs incurred by the Board in performing the Board's functions to the extent they relate to mining operations.
+(2) The regulations must—
+  (a) specify how the levy rate or rates are calculated:
+  (b) specify the mine operators or classes of mine operators responsible for paying the levy:
+  (c) specify, if the levy is to be paid at different rates, the mine operators, mining operations, thing being extracted, or other things or the classes of mine operators, mining operations, thing being extracted, or other things to which the different rates apply:
+  (d) specify when and how the levy is to be paid:
+  (e) specify the persons or classes of persons, if any, exempt from paying the levy.
+(3) Without limiting subsections (1) and (2), the regulations may—
+  (a) specify the returns to be made to WorkSafe or some other person or body for the purpose of enabling or assisting the determination of amounts of levy payable:
+  (b) specify the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for paying the levy:
+  (c) for the purpose of ascertaining whether the regulations are being complied with,—
+    (i) require the keeping of accounts, statements, and records of a specified class or description by either or both of WorkSafe and the persons responsible for paying the levy; and
+    (ii) require the retention of the accounts, statements, and records for a specified period:
+  (d) provide for the establishment of a dispute resolution process for disputes relating to levies, including—
+    (i) the appointment of persons to resolve the disputes; and
+    (ii) the procedures to be followed by the persons; and
+    (iii) the remuneration of the persons.
+(4) Before making a recommendation under this section, the Minister must—
+  (a) receive advice from WorkSafe on the proposed levy; and
+  (b) consult the people responsible for paying the proposed levy.
 
 **Regulations**
 
@@ -529,12 +959,22 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
     (ii) employees:
     (iii) designers, manufacturers, sellers, and suppliers, of plant, substances, protective clothing, or protective equipment:
     (iv) principals, or self-employed persons:
-  (b) providing for any other matters contemplated by, or necessary for giving full effect to, this Act.
+  (b) without limiting paragraph (a), imposing duties relating to the health or safety of mine workers on—
+    (i) mine operators:
+    (ii) mine workers:
+    (iii) site senior executives:
+  (c) the default worker participation system for the purpose of section 19U:
+  (d) the requirements for conducting elections of site health and safety representatives for the purpose of section 19V(1):
+  (e) the form of the identity card to be held by an industry health and safety representative:
+  (f) prescribing the information to be provided to WorkSafe for the purpose of section 19ZV(b) and any requirements concerning the authentication of any photograph provided under that section:
+  (g) prescribing the information to be contained in the register kept under section 19ZZB:
+  (h) prescribing functions of the New Zealand Mining Board of Examiners for the purpose of section 20E(d):
+  (i) providing for any other matters contemplated by this Act and necessary for its administration or necessary for giving it full effect.
 (2) The Minister shall not recommend the making of any regulations without first consulting all persons and organisations the Minister thinks appropriate, having regard to the regulations' content.
 (3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations, and shall take into account any submissions made by that Authority.
 
 ### 22 Application of regulations
-Regulations under section 21(1)(a) may impose duties—
+(1) Regulations under section 21(1)(a) may impose duties—
   (a) on all employers or other persons who or that control places of work:
   (b) on employers, or other persons who or that control places of work, of a particular kind or description:
   (c) on all employees:
@@ -544,15 +984,28 @@ Regulations under section 21(1)(a) may impose duties—
   (g) on manufacturers, sellers, or suppliers, of a particular kind or description, of plant, substances, protective clothing, or protective equipment:
   (h) in respect of places of work, plant, processes, activities, or substances, of all kinds and descriptions:
   (i) in respect of places of work, plant, processes, activities, or substances, of a particular kind or description.
+(2) Regulations under section 21(1)(b) may impose duties—
+  (a) on all mine operators:
+  (b) on mine operators of a particular kind or description:
+  (c) on all site senior executives:
+  (d) on site senior executives of a particular kind or description:
+  (e) on all mine workers:
+  (f) on mine workers of a particular kind or description:
+  (g) in relation to all mining operations:
+  (h) in relation to mining operations of a particular class or description.
 
 ### 23 Other provisions relating to regulations
-(1) Regulations made under section 21(1)(a) may provide for all or any of the following matters:
+(1) Regulations made under section 21(1)(a) or (b) may provide for all or any of the following matters:
   (a) the registration, licensing, or certification of plant, and places of work:
   (b) the recording, notification, and investigation of the occurrence in places of work of events that (whether or not any person was in fact harmed) might have caused any person serious harm:
   (c) the notification of the use of plant, places of work, substances, or work, of a particular kind:
   (d) the notification of the use of plant, places of work, or substances in a particular manner or for a particular purpose:
   (e) persons engaged in particular work or activities to hold, or employ people holding, certificates of competence or registration:
+  (ea) the competency requirements to be met by site health and safety representatives and industry health and safety representatives:
   (f) the issue, renewal, cancellation, and suspension of certificates of competence, and the examination of applicants for certificates of competence:
+  (fa) the prescribing by WorkSafe, by notice in the Gazette, of—
+    (i) requirements to be met for the granting of certificates of competence:
+    (ii) other competency requirements for mine workers, site senior executives, site health and safety representatives, and industry health and safety representatives:
   (g) the recognition and withdrawal of recognition of organisations issuing certificates empowering other organisations, and individuals, to undertake functions and tasks:
   (h) the issue, renewal, cancellation, and suspension by recognised organisations of certificates empowering other organisations, and individuals, to undertake functions and tasks:
   (i) the undertaking of functions and tasks by the holders of certificates issued by recognised organisations:
@@ -563,14 +1016,14 @@ Regulations under section 21(1)(a) may impose duties—
   (l) the approval, and withdrawal of approval, of testing institutions:
   (m) the procedures of inquiries under section 27:
   (n) the provision of accommodation for employees, contractors, subcontractors, or employees of contractors or subcontractors.
-(2) Regulations made under section 21(1)(a) may incorporate by reference all or any part of any—
+(2) Regulations made under section 21(1)(a) or (b) may incorporate by reference all or any part of any—
   (a) New Zealand Standard:
   (b) standard, requirement, recommended practice, rule, statute, or regulation, of any foreign government or organisation:
   (c) document published by or by the authority of the Government of New Zealand.
 (3) Any material incorporated in regulations by reference shall be deemed for all purposes to form part of the regulations; but any amendment made to the material after the commencement of the regulations shall not have effect until regulations have been made incorporating the amendment into the regulations.
 (4) A copy of all material incorporated in regulations by reference shall be made available at the Head Office of the department for inspection by the public free of charge.
-(5) Regulations made under section 21(1)(a) may impose prohibitions.
-(6) Regulations made under section 21(1)(a) may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
+(5) Regulations made under section 21(1)(a) or (b) may impose prohibitions.
+(6) Regulations made under section 21(1)(a) or (b) may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
 (7) The fact that any provision of any regulations made under this Act contains an example does not limit or affect the generality of any other provision of those regulations.
 
 ### 24 Saving of regulations made under certain repealed enactments
@@ -605,18 +1058,17 @@ Regulations that—may be amended or revoked by regulations made under this Act;
 (1C) Subsection (1B) does not require the occupier of a home to maintain a register or record accidents or serious harm that occur to self-employed persons at work in the home.
 (2) Subsection (3) applies to—
   (a) serious harm in respect of which an employer, self-employed person, or principal is required by this section to record particulars; and
-  (b) accidents of a kind or description required by regulations made under section 21 to be notified to the Secretary.
+  (b) accidents of a kind or description required by regulations made under section 21 to be notified to WorkSafe.
 (3) If there occurs any serious harm or accident to which this subsection applies, the employer, self-employed person, or principal concerned must,—
-  (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify the Secretary of the occurrence; and
-  (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give the Secretary written notice, in the prescribed manner, of the circumstances of the occurrence.
+  (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify WorkSafe of the occurrence; and
+  (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give WorkSafe written notice, in the prescribed manner, of the circumstances of the occurrence.
 (4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)(a):
   (a) section 17(3) of the Gas Act 1992:
   (b) section 16(3) of the Electricity Act 1992.
 
 ### 25A Transfer of accident information
-The Secretary must, as soon as practicable after he or she is notified of an accident under section 25, provide the notice or information that has been given to the Secretary to—
-  (a) the person who must be notified of the particulars of an accident under section 17(3) of the Gas Act 1992 if the Secretary is of the opinion that section 17 of that Act applies to the accident; and
-  (b) the person who must be notified of the particulars of an accident under section 16(3) of the Electricity Act 1992 if the Secretary is of the opinion that section 16 of that Act applies to the accident.
+(1) If WorkSafe is notified of an accident under section 25 and the accident relates to a specified matter, WorkSafe must provide the notice and any particulars that WorkSafe has received to the Secretary.
+(2) In this section, specified matter means a matter that is specified in a Gazette notice under section 5A(2) of the Electricity Act 1992 or section 6A(2) of the Gas Act 1992.
 
 ### 26 No interference at accident scene
 (1) Where a person is seriously harmed while at work, no person shall, unless authorised to do so by an inspector, remove or in any way interfere with or disturb any wreckage, article, or thing related to the incident except to the extent necessary—
@@ -662,7 +1114,7 @@ If so requested by a coroner, an inspector shall give the coroner a written repo
 (1) The Prime Minister may, having regard to the specialist knowledge of relevant agencies, by notice in the Gazette, designate an agency to administer this Act for a particular industry, sector, or type of work.
 (2) In carrying out functions under this Act, the chief executive of the agency must comply with policy directions on occupational safety and health given to him or her and signed by the Minister and the Minister responsible for that agency.
 (3) A copy of the policy direction must be presented to the House of Representatives within 10 working days after the date that it is given to the chief executive.
-(4) This Act applies as if references to the Secretary were references to the chief executive of the agency.
+(4) This Act applies as if references to WorkSafe were references to the chief executive of the agency.
 (5) In this section,—
   - **agency** means—
     (a) a government department:
@@ -674,9 +1126,9 @@ If so requested by a coroner, an inspector shall give the coroner a written repo
 **Inspectors**
 
 ### 29 Inspectors
-(1) The Secretary may appoint any person who has passed the prescribed examinations or acquired the prescribed experience to be a health and safety inspector for the purposes of this Act.
-(2) An inspector shall perform and exercise the functions and powers of an inspector subject to the directions and conditions (if any) for the time being imposed by the Secretary.
-(3) Every inspector shall have a certificate of appointment, in a form approved by the Secretary.
+(1) WorkSafe may appoint any person who has passed the prescribed examinations or acquired the prescribed experience to be a health and safety inspector for the purposes of this Act.
+(2) An inspector shall perform and exercise the functions and powers of an inspector subject to the directions and conditions (if any) for the time being imposed by WorkSafe.
+(3) Every inspector shall have a certificate of appointment, in a form approved by WorkSafe.
 
 ### 30 Functions of inspectors
 The functions of an inspector are—
@@ -709,12 +1161,13 @@ The functions of an inspector are—
 (3) A District Court Judge who, on application made on oath, is satisfied that there is reasonable ground for believing that a home—may issue to an inspector named in it a warrant to enter any part of the home that is, or is the only practicable means through which the inspector may enter, the place of work.
   (a) is a place of work or has a place of work inside it; or
   (b) is the only practicable means through which a place of work may be entered,—
-(4) Notwithstanding subsection (1), an inspector shall not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) except in accordance with a written agreement between the Secretary and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
+(4) Notwithstanding subsection (1), an inspector shall not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) except in accordance with a written agreement between WorkSafe and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
 (5) Notwithstanding subsection (1)(e), if all or any part of a document, or of any information, relates to any person's health status and identifies the person, no inspector shall, without the person's consent,—the document or information (or that part of the document or information).
   (a) require any person to produce; or
   (b) examine; or
   (c) make any copy or extract from,—
 (6) No person is required on examination or inquiry under this section to give any answer or information tending to incriminate the person.
+(7) In this section, a reference to an employee includes any mine worker and a reference to an employer includes any mine operator.
 
 ### 32 Inspectors to prove identity
 (1) Every inspector who enters any place of work under the authority of this Act shall, on first entering and, if requested, at any later time, produce to the person apparently in charge the inspector's certificate of appointment.
@@ -740,20 +1193,21 @@ The functions of an inspector are—
     (i) when it is no longer required for any purpose under this Act (or any other enactment); or
     (ii) if a court earlier orders its return.
 (3) This section does not allow an inspector to take a sample from a person's body unless the inspector has that person's informed consent to the taking of the sample.
+(4) In this section, a reference to an employer includes any mine operator.
 
-**Departmental medical practitioners**
+**Health and safety medical practitioners**
 
-### 34 Appointment of departmental medical practitioners
-(1) The Secretary may appoint any medical practitioner to be a departmental medical practitioner.
-(2) A departmental medical practitioner shall exercise the powers of a departmental medical practitioner subject to the directions and conditions (if any) for the time being imposed by the Secretary.
-(3) Every departmental medical practitioner shall have a certificate of appointment, in a form approved by the Secretary.
-(4) A departmental medical practitioner ceases to be a departmental medical practitioner on ceasing to be a medical practitioner.
+### 34 Appointment of health and safety medical practitioners
+(1) WorkSafe may appoint any medical practitioner to be a health and safety medical practitioner.
+(2) A health and safety medical practitioner shall exercise the powers of a health and safety medical practitioner subject to the directions and conditions (if any) for the time being imposed by WorkSafe.
+(3) Every health and safety medical practitioner shall have a certificate of appointment, in a form approved by WorkSafe.
+(4) A health and safety medical practitioner ceases to be a health and safety medical practitioner on ceasing to be a medical practitioner.
 
-### 35 Powers of entry and inspection of departmental medical practitioners
-For the purposes of this Act, any departmental medical practitioner may at any reasonable time enter any place of work and do anything specified in any of paragraphs (a), (b), (c), and (e) of section 31(1) as if the departmental medical practitioner is an inspector; and subsections (2) to (4), and (6) of section 31, and section 32 shall have effect accordingly.
+### 35 Powers of entry and inspection of health and safety medical practitioners
+For the purposes of this Act, any health and safety medical practitioner may at any reasonable time enter any place of work and do anything specified in any of paragraphs (a), (b), (c), and (e) of section 31(1) as if the health and safety medical practitioner is an inspector; and subsections (2) to (4), and (6) of section 31, and section 32 shall have effect accordingly.
 
-### 36 Departmental medical practitioners may require medical examinations of employees
-If satisfied that—a departmental medical practitioner may, by notice in writing to the employee, require the employee—
+### 36 Health and safety medical practitioners may require medical examinations of employees
+If satisfied that—a health and safety medical practitioner may, by notice in writing to the employee, require the employee—
   (a) any employee is, has been, or may have been, exposed to a significant hazard while at work; and
   (b) by examining the employee or causing a sample taken from the employee to be tested or analysed, it is likely to be possible to determine—
     (i) whether or not the employee is or has been exposed to the hazard; or
@@ -761,26 +1215,26 @@ If satisfied that—a departmental medical practitioner may, by notice in writin
     (iii) the extent to which the employee's health has been or may have been affected by exposure to the hazard,—
   (c) to—
     (i) be examined by a medical practitioner; and
-    (ii) provide to the departmental medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
+    (ii) provide to the health and safety medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
   (d) to—
     (i) allow a person (or person of a kind) specified in the notice to take from the employee a sample of a kind specified in the notice; and
     (ii) have the sample tested or analysed by a person (or person of a kind) specified in the notice in a manner specified in the notice; and
-    (iii) provide the departmental medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
+    (iii) provide the health and safety medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
   (e) both.
 
-### 37 Departmental medical practitioners may suspend employees in certain cases
-(1) If satisfied on reasonable grounds that—the departmental medical practitioner may, by written notice to the employee (a copy of which the departmental medical practitioner shall give to the employer),—
+### 37 Health and safety medical practitioners may suspend employees in certain cases
+(1) If satisfied on reasonable grounds that—the health and safety medical practitioner may, by written notice to the employee (a copy of which the health and safety medical practitioner shall give to the employer),—
   (a) an employee—
     (i) is, has been, or may have been, exposed to a significant hazard while at work; and
     (ii) has failed or refused, without reasonable cause, to comply with a notice under section 36; or
   (b) an employee has been so harmed by exposure to a significant hazard while at work that the employee should not continue to be exposed to the hazard,—
-  (c) require the employee to cease doing anything specified in the notice that, in the departmental medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
+  (c) require the employee to cease doing anything specified in the notice that, in the health and safety medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
   (d) require the employer to ensure that the employee ceases doing the thing or things specified in the notice.
 (2) Every employee and employer shall comply with a suspension notice.
 
 ### 38 Administrative provisions
-Sections 44 to 48, 57, and 58 shall have effect in relation to departmental medical practitioners and suspension notices as if—
-  (a) every reference to an inspector is a reference to a departmental medical practitioner; and
+Sections 44 to 48, 57, and 58 shall have effect in relation to health and safety medical practitioners and suspension notices as if—
+  (a) every reference to an inspector is a reference to a health and safety medical practitioner; and
   (b) every reference to a notice is a reference to a suspension notice.
 
 **Improvement and prohibition notices**
@@ -798,6 +1252,17 @@ Sections 44 to 48, 57, and 58 shall have effect in relation to departmental medi
 (4) An improvement notice may specify steps that could be taken to ensure compliance with the provision concerned.
 (5) Every person to whom or to which an improvement notice is given or posted shall comply with it.
 
+### 39A Inspectors may issue improvement notices in relation to mining operation
+(1) An inspector may, in relation to a mining operation, give a person written notice to comply with a provision of this Act or of regulations made under this Act, if the inspector believes on reasonable grounds that the person is failing to comply with that provision or is likely to fail to comply with that provision.
+(2) An improvement notice must state that the inspector concerned believes that the person to whom or which it relates is failing, or is likely to fail, to comply with the provision, and must specify—
+  (a) the provision; and
+  (b) the inspector's reasons for believing that the person is failing, or is likely to fail, to comply with the provision; and
+  (c) the nature of the failure or likely failure; and
+  (d) a day before which compliance is to be completed.
+(3) An improvement notice may specify steps that could be taken to ensure compliance with the provision concerned.
+(4) Every person to whom or to which an improvement notice is given or posted must comply with it.
+(5) Nothing in this section limits the power of an inspector under section 39.
+
 ### 40 How improvement notices to be given
 (1) An improvement notice may be—
   (a) given to a person to whom or which it relates; or
@@ -813,12 +1278,29 @@ Sections 44 to 48, 57, and 58 shall have effect in relation to departmental medi
 (3) A prohibition notice may require the withdrawal of all employees of a specified kind or description except such employees as may be necessary to deal with the hazard.
 (4) A prohibition notice may specify steps that could be taken to eliminate the hazard concerned or minimise the likelihood that the hazard will be a source of harm.
 
+### 41A Inspectors may issue prohibition notices in relation to mining operation
+(1) This section applies if, in relation to a mining operation,—
+  (a) an inspector believes that there is a likelihood of serious harm to any person because of a failure to comply with any provision of this Act or of regulations made under this Act; or
+  (b) an inspector believes on reasonable grounds that it is likely that a person will fail to comply with any provision of this Act or of regulations made under this Act and that failure would be likely to cause serious harm to any person.
+(2) The inspector may give written notice to stop, or not start, the carrying on, continuing, operating, storing, transporting, or use of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that is likely to cause serious harm until an inspector is satisfied that measures sufficient to eliminate the hazard, or minimise the likelihood that the hazard will be a source of harm, have been taken.
+(3) A prohibition notice must specify—
+  (a) the hazard to which it relates; and
+  (b) the inspector's reasons for believing that the hazard is likely to cause serious harm.
+(4) A prohibition notice may require the withdrawal of all mine workers of a specified kind or description except such mine workers as may be necessary to deal with the hazard.
+(5) A prohibition notice may specify steps that could be taken to eliminate the hazard or minimise the likelihood that the hazard will be a source of harm.
+(6) Nothing in this section limits the power of an inspector under section 41.
+
 ### 42 Service of prohibition notices
-(1) The inspector who gives a prohibition notice shall fix it to or near the part of the place of work or plant to which it relates; and no person shall remove it unless authorised by an inspector.
-(2) The inspector shall give a copy of the notice to any person apparently in charge of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that has caused or is likely to cause the harm concerned.
+(1) The inspector who gives a prohibition notice under section 41 shall fix it to or near the part of the place of work or plant to which it relates; and no person shall remove it unless authorised by an inspector.
+(2) The inspector shall give a copy of the notice under section 41 to any person apparently in charge of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that has caused or is likely to cause the harm concerned.
+(3) An inspector who gives a prohibition notice under section 41A may—
+  (a) fix the notice to or near the part of the place of work or plant to which it relates and give a copy of it to the site senior executive, or another representative of the mine operator, on behalf of the mine operator; or
+  (b) give the notice to the site senior executive, or another representative of the mine operator, on behalf of the mine operator.
+(4) No person may remove a notice under section 41A served in accordance with subsection (3)(a) unless authorised by an inspector.
 
 ### 43 Compliance with prohibition notices
-Every person to whom a prohibition notice is given, and every person who controls a place of work or any plant to which a prohibition notice relates, shall ensure that no action is taken in contravention of it.
+(1) Every person to whom a prohibition notice under section 41 is given, and every person who controls a place of work or any plant to which a prohibition notice relates, shall ensure that no action is taken in contravention of it.
+(2) A mine operator to whom a prohibition notice under section 41A is given must ensure that no action is taken in contravention of it.
 
 ### 44 How notices to be addressed
 An inspector's notice may be addressed to any person under the person's legal name or usual business name or style.
@@ -892,7 +1374,7 @@ No person shall without reasonable cause—any inspector while the inspector is 
 ### 50 Other offences
 (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250,000, who fails to comply with the requirements of—
   (a) a provision of Part 2 other than section 16(3); or
-  (b) section 19B, section 25, section 26, section 37(2), section 39(5), section 42(1), section 43, section 47, section 48, section 56I(2), section 58, or clause 6 of Schedule 1A; or
+  (b) section 19B, section 19Q(1), section 19ZN(2), section 19ZG(4), section 19ZH(3), section 19ZL, section 25, section 26, section 37(2), section 39(5), section 42(1), section 43, section 47, section 48, section 56I(2), section 58, or clause 6 of Schedule 1A; or
   (c) a provision of any regulations made under this Act, or continued in force by section 24, declared by the regulations to be a provision to which this section applies.
 (2) Every person who fails to comply with section 16(3) commits an offence, and is liable on conviction to a fine not exceeding $10,000.
 
@@ -923,11 +1405,11 @@ In a matter involving an infringement notice or in a prosecution for an offence 
   (a) intended to take the action alleged to constitute the infringement offence or offence; or
   (b) intended not to take the action, the failure to take which is alleged to constitute the infringement offence or offence.
 
-### 54 Notification to Secretary of interest in knowing of enforcement action taken by inspector
-(1) A person may notify the Secretary in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
-(2) The Secretary must ensure that the person who sent the notice is notified of—
+### 54 Notification to WorkSafe of interest in knowing of enforcement action taken by inspector
+(1) A person may notify WorkSafe in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
+(2) WorkSafe must ensure that the person who sent the notice is notified of—
   (a) any decision already made, or subsequently made, by an inspector as to whether or not to take enforcement action in respect of the matter, but not the reasons for the decision; and
-  (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
+  (b) any information that WorkSafe is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
 (3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
 
 ### 54A Filing charging document
@@ -935,7 +1417,7 @@ In a matter involving an infringement notice or in a prosecution for an offence 
 (2) A person other than an inspector may file a charging document in respect of an offence under this Act only if—
   (a) an inspector or another person has not taken enforcement action against any possible defendant in respect of the same matter; and
   (b) an enforcement authority has not taken prosecution action under any other Act against any possible defendant in respect of the same incident, situation, or set of circumstances; and
-  (c) any person has received notification from the Secretary under section 54(2) that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
+  (c) any person has received notification from WorkSafe under section 54(2) that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
 (3) Despite subsection (2)(b), a person may file a charging document even though an enforcement authority has taken prosecution action if—
   (a) the person has leave of the court to file the charging document; and
   (b) subsection (2)(a) and (c) is complied with.
@@ -949,9 +1431,9 @@ In a matter involving an infringement notice or in a prosecution for an offence 
 ### 54C Extension of time for person other than inspector to file charging document
 (1) This section applies if—
   (a) an inspector or another person has not taken enforcement action in respect of a matter; and
-  (b) the Secretary has notified relevant persons under section 54(2)(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
+  (b) WorkSafe has notified relevant persons under section 54(2)(a) that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
 (2) On application, the District Court may extend the time for a person other than an inspector to file a charging document.
-(3) An application under subsection (2) must be made within 1 month after receiving notice from the Secretary under subsection (1)(b).
+(3) An application under subsection (2) must be made within 1 month after receiving notice from WorkSafe under subsection (1)(b).
 (4) The court must not grant an extension of time unless it is satisfied—
   (a) that another person wishes to decide whether to file a charging document in respect of that matter; and
   (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in section 54B expires; and
@@ -1023,6 +1505,9 @@ A person has had prior warning of an infringement offence if the person has been
     (i) an employer:
     (ii) an employee:
     (iii) a self-employed person:
+    (iiia) a mine operator:
+    (iiib) a mine worker:
+    (iiic) a site senior executive:
     (iv) a principal:
     (v) a contractor:
     (vi) a subcontractor:
@@ -1033,6 +1518,7 @@ A person has had prior warning of an infringement offence if the person has been
   (a) the body corporate's legal name:
   (b) whether, in relation to the place of work, the body corporate is 1 or more of the following:
     (i) an employer:
+    (ia) a mine operator:
     (ii) a principal:
     (iii) a contractor:
     (iv) a subcontractor:
@@ -1074,7 +1560,7 @@ A person has had prior warning of an infringement offence if the person has been
   (c) the safety record of the employer (which includes but is not limited to warnings and notices referred to in section 56C).
 
 ### 56G Payment of infringement fee
-The Secretary must pay all infringement fees received into a Crown Bank Account.
+WorkSafe must pay all infringement fees received into a Crown Bank Account.
 
 ### 56H Effect of infringement notice
 (1) If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.
@@ -1112,10 +1598,15 @@ No person shall—
 ### 59 Funding
 (1) In this section,—
   - **the applicable Act** means the Accident Compensation Act 2001
+  - **certain Crown costs** means the expected cost to the Crown of—
+    (a) WorkSafe carrying out its functions under any enactment:
+    (b) any agency designated under section 28B of this Act carrying out functions under this Act and enforcing the Hazardous Substances and New Organisms Act 1996 in places of work:
+    (c) the Crown administering the relevant health and safety legislation (within the meaning of section 3 of the WorkSafe New Zealand Act 2013):
+    (d) collecting the funding levy
   - **earner** , , , and have the same meanings as in section 6 of the applicable Act
   - **funding levy** means the levy required to be paid by subsection (2)
   - **Work Account levy** means the levy payable under section 168, 168A, 168B, or 211 of the applicable Act.
-(2) For the purpose of recovering the expected cost to the Crown of the administration of this Act, there is payable—
+(2) For the purpose of recovering certain Crown costs, there is payable—
   (a) by every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
   (b) by every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
   (c) by every shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
@@ -1124,7 +1615,7 @@ No person shall—
   (b) the Corporation and the Commissioner of Inland Revenue have all the powers in respect of the funding levy that they have in respect of the Work Account levy; and
   (c) the Commissioner of Inland Revenue is not required to refer separately to or account separately for, or identify, any funding levy in performing his or her functions in relation to the Work Account levy or the funding levy.
 (4) The Corporation must, by the 20th day of the month after the month in which the Corporation receives any funding levy from the Commissioner of Inland Revenue, pay that funding levy to the Secretary.
-(5) The Corporation may charge the Secretary a fee for collecting the funding levy.
+(5) The Corporation may charge WorkSafe a fee for collecting the funding levy.
 (6) The Secretary must pay into a Crown Bank Account all of the funding levy the Corporation pays to the Secretary.
 (7) The Minister must not recommend the making of regulations for the purposes of subsection (2) without first consulting the Corporation.
 (8) Subsection (7) does not limit the generality of section 21(2).
@@ -1147,6 +1638,36 @@ An inspector who, in the course of the inspector's duties, discovers anything th
 (3) The Orders in Council and notices specified in Schedule 4 are hereby revoked.
 (4) Every reference in any enactment passed before the repeal of the Factories and Commercial Premises Act 1981 to a factory within the meaning of that Act shall have effect as if that Act is still in force.
 (5)
+
+### 63 Application, savings, and transitional provisions
+The application, savings, and transitional provisions set out in Schedule 1AA have effect for the purposes of this Act.
+
+## Schedule 1AA
+
+### Part 1 — Transitional provisions relating to Health and Safety in Employment Amendment Act 2013
+
+### 1 Existing mining operations
+(1) This clause applies to any mining operation that was in operation immediately before the date on which the Health and Safety in Employment Amendment Act 2013 came into force.
+(2) Nothing in sections 12A, 13AA, 39A, or 41A of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, applies in respect of the mining operation until 1 January 2015.
+(3) The mine operator may, but is not required to, comply with section 19Q(1) of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, before 1 January 2015.
+(4) Section 19J of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, applies in respect of the mining operation from the earlier of—
+  (a) the date on which the mine operator complies with section 19Q(1) of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013; and
+  (b) 1 January 2015.
+(5) If, on 1 January 2015, the mining operation does not have a documented worker participation system referred to in section 19Q(1) of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, the prescribed provisions referred to in section 19U(1) of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, apply.
+(6) Nothing in subclause (3) limits the application of sections 19ZU to 19ZZ of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, in respect of the mining operation.
+
+### 2 Notices, etc, before site senior executive appointed for existing mining operation
+(1) This clause applies to any mining operation to which clause 1 applies before the mine operator has appointed a site senior executive for the first time in accordance with regulations made under section 21 of the principal Act.
+(2) Any notice required or enabled by the Act to be given to the site senior executive of the mining operation may be given to the mine operator or a representative of the mine operator.
+(3) Sections 19ZF, 19ZG, 19ZH, and 19ZK of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, apply, with any necessary modifications, as if references to the site senior executive were references to the mine operator or a representative of the mine operator.
+
+### 3 Exemptions of mining operations from regulations for limited period
+(1) Regulations made under section 21(1)(b) of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which clause 1 applies) from 1 or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017.
+(2) The regulations must—
+  (a) specify the reasons for which exemptions may be granted; and
+  (b) require WorkSafe to specify in an exemption the reasons for which the exemption is granted.
+(3) An exemption granted under the regulations is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(4) Nothing in this clause limits section 23(1)(k) of the principal Act.
 
 ## Schedule 1 — Serious harm
 
