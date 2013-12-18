@@ -1,11 +1,22 @@
 # Fair Trading Act 1986
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
-> An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Fair Trading Act 1986.
 (2) Except as provided in section 49(3), this Act shall come into force on 1 March 1987.
+
+### 1A Purpose
+(1) The purpose of this Act is to contribute to a trading environment in which—
+  (a) the interests of consumers are protected; and
+  (b) businesses compete effectively; and
+  (c) consumers and businesses participate confidently.
+(2) To this end, the Act—
+  (a) prohibits certain unfair conduct and practices in relation to trade; and
+  (b) promotes fair conduct and practices in relation to trade; and
+  (c) provides for the disclosure of consumer information relating to the supply of goods and services; and
+  (d) promotes safety in respect of goods and services.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -19,8 +30,14 @@ _Consolidation as at 2013-12-05_
     (b) in the course of which—whether free of charge or not
       (i) goods or services are acquired or supplied; or
       (ii) any interest in land is acquired or disposed of—
+  - **chief executive** means the chief executive of the Ministry
   - **Commission** means the Commerce Commission established by section 8 of the Commerce Act 1986
-  - **court** means the High Court of New Zealand
+  - **consumer** means a person who—
+    (a) acquires from a supplier goods or services of a kind ordinarily acquired for personal, domestic, or household use or consumption; and
+    (b) does not acquire the goods or services, or hold himself or herself out as acquiring the goods or services, for the purpose of—
+      (i) resupplying them in trade; or
+      (ii) consuming them in the course of a process of production or manufacture; or
+      (iii) in the case of goods, repairing or treating, in trade, other goods or fixtures on land
   - **credit instrument** means any agreement (whether in writing or not) acknowledging an obligation to pay a sum or sums of money on demand or at any future time or times
   - **document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
     (a) any writing on any material:
@@ -28,6 +45,7 @@ _Consolidation as at 2013-12-05_
     (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
+  - **extended warranty agreement** has the meaning given in section 36T
   - **goods** —
     (a) means personal property of every kind (whether tangible or intangible); and
     (b) includes—
@@ -36,8 +54,12 @@ _Consolidation as at 2013-12-05_
       (iii) minerals, trees, and crops, whether on, under, or attached to land or not:
       (iv) gas and electricity:
       (v) to avoid doubt, water and computer software
+  - **infringement fee** , , and have the meanings given in section 40B
+  - **layby sale agreement** has the meaning given in section 36B
   - **local authority** includes every local authority and every public body or other authority created by or pursuant to any public Act or local Act
   - **Minister** means the Minister of Consumer Affairs
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **negotiation** , in relation to an agreement or a proposed agreement, includes any discussion or dealing directed towards making the agreement or proposed agreement (whether or not the terms of the agreement or proposed agreement are open to any discussion or dealing)
   - **official standard** means—
     (a) a New Zealand Standard within the meaning of section 2 of the Standards Act 1988; or
     (b) a standard specification prescribed by a body, organisation, or association having or performing similar functions to those of the Standards Council within the meaning of section 2 of the Standards Act 1988
@@ -75,7 +97,7 @@ _Consolidation as at 2013-12-05_
 
 ### 4 Application of Act to the Crown
 (1) Subject to this section, this Act shall bind the Crown in so far as the Crown engages in trade.
-(2) The Crown shall not be liable to be prosecuted for an offence against this Act but in any case where it is alleged that the Crown has contravened any provision of this Act and that contravention constitutes an offence, the Commission or the person directly affected by the contravention may apply to the court for a declaration that the Crown has contravened that provision; and, if the court is satisfied beyond a reasonable doubt that the Crown has contravened that provision, it may make a declaration accordingly.
+(2) The Crown shall not be liable to be prosecuted for an offence against this Act but in any case where it is alleged that the Crown has contravened any provision of this Act and that contravention constitutes an offence, the Commission or the person directly affected by the contravention may apply to the High Court for a declaration that the Crown has contravened that provision; and, if the High Court is satisfied beyond a reasonable doubt that the Crown has contravened that provision, it may make a declaration accordingly.
 
 ### 5 Application of Act to Crown corporations
 (1) This Act applies to every body corporate that is an instrument of the Crown in respect of the Government of New Zealand engaged in trade.
@@ -103,7 +125,7 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 ### 8 Annual report
 [Repealed]
 
-## Part 1 — Misleading and deceptive conduct, false representations, and unfair practices
+## Part 1 — Unfair conduct
 
 **Misleading and deceptive conduct**
 
@@ -142,6 +164,17 @@ No person shall, in trade, in connection with the supply or possible supply of g
 (3) In this section interest, in relation to land, means a legal or equitable estate or interest in the land; and includes—
   (a) a right of occupancy of the land, or of a building or part of a building erected on the land, arising by virtue of the holding of shares, or by virtue of a contract to purchase shares, in a company that owns the land or building; or
   (b) a right, power, or privilege, over, or in connection with, the land.
+
+### 14A When vendor bids are misrepresentations
+(1) This section applies where property (being goods, services, or an interest in land) is offered for sale—
+  (a) by auction (as defined in section 36X); or
+  (b) by any other bidding process in which all bids are disclosed.
+(2) The vendor of the property makes a false or misleading representation with respect to the price of the property if the vendor, or any agent acting on behalf of the vendor, makes a vendor bid for the property.
+(3) However, subsection (2) does not apply if—
+  (a) there is a reserve price for the property; and
+  (b) the bid is made before the reserve price is reached and is clearly identified as a vendor bid.
+(4) If property is unsold at the end of an auction or other bidding process referred to in subsection (1), any subsequent reference to a particular bid as being the amount at which the property was passed in is a false or misleading representation with respect to the price of the property if the bid was a vendor bid.
+(5) In this section, vendor bid means a bid made by the vendor or any person (including an auctioneer) acting as agent for the vendor.
 
 ### 15 Limited application of sections 9 to 14 to news media
 (1) Nothing in sections 9 to 14 applies to the publication of any information or matter in a newspaper by the publisher of that newspaper, not being—
@@ -247,9 +280,14 @@ No provision of this Part limits or affects any other provision of this Part.
 ## Part 2 — Consumer information
 
 ### 27 Consumer information standards
-(1) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations prescribing, in respect of goods or services of any description or any class or classes of goods or services, a consumer information standard or 2 or more consumer information standards relating to all or any of the following matters:
-  (a) the disclosure of information relating to the kind, grade, quantity, origin, performance, care, composition, contents, design, construction, use, price, finish, packaging, promotion, or supply of the goods or services:
-  (b) the form and manner in which that information must be disclosed on or in relation to, or in connection with, the supply or resupply, or possible supply or resupply, or promotion of the supply of the goods or services.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing consumer information standards in respect of goods or services of any description or any class or classes of goods or services.
+(1A) A consumer information standard may—
+  (a) require the disclosure of information relating to the kind, grade, quantity, origin, performance, care, composition, contents, design, construction, use, price, finish, packaging, promotion, or supply of the goods or services; and
+  (b) specify how that information must be obtained or verified before it is disclosed; and
+  (c) specify the form and manner in which that information must be disclosed on or in relation to—
+    (i) the supply or possible supply of the goods or services; or
+    (ii) the resupply or possible resupply of the goods or services; or
+    (iii) the promotion by any means of 1 or more of the matters described in subparagraphs (i) and (ii).
 (2) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations declaring that:
   (a) an official standard or an official standard with such additions or variations as are specified in the regulations is a consumer information standard:
   (b) a specified part or parts of an official standard or of an official standard with such additions or variations as are specified in the regulations is a consumer information standard:
@@ -262,8 +300,8 @@ No provision of this Part limits or affects any other provision of this Part.
 (5) No Order in Council may be made under this section in respect of any medicine or related product, within the meaning of the Medicines Act 1981, except in relation to the price of the medicine or related product.
 
 ### 28 Compliance with consumer information standards
-(1) If a consumer information standard in respect of goods or services relates to a matter specified in section 27(1), a person must not supply, or offer to supply, or advertise to supply those goods or services unless that person complies with that consumer information standard.
-(2) If 2 or more consumer information standards in respect of goods or services relate to a matter specified in section 27(1), a person must not supply, or offer to supply, or advertise to supply those goods or services unless that person complies with one of those consumer information standards.
+(1) If a consumer information standard in respect of goods or services relates to a matter specified in section 27(1A), a person must not supply, or offer to supply, or advertise to supply those goods or services unless that person complies with that consumer information standard.
+(2) If 2 or more consumer information standards in respect of goods or services relate to a matter specified in section 27(1A), a person must not supply, or offer to supply, or advertise to supply those goods or services unless that person complies with one of those consumer information standards.
 (3) Nothing in subsection (1) or subsection (2) applies to goods that are intended for use outside New Zealand if there is applied to the goods—and it must be presumed for the purposes of this section, unless the contrary is established, that the goods so identified are intended to be so used.
   (a) a statement that the goods are for export only; or
   (b) a statement indicating, by the use of words authorised by regulations made under this section, that the goods are intended to be used outside New Zealand,—
@@ -333,36 +371,162 @@ No provision of this Part limits or affects any other provision of this Part.
   (a) woven in, impressed on, worked into, or annexed or affixed to the goods; or
   (b) applied to a covering, label, reel, or thing in or with which the goods are supplied.
 
+### 30A Product safety policy statements
+(1) The Minister may, if the Minister considers it necessary or desirable, issue a product safety policy statement that—
+  (a) relates to goods of any description or any class or classes of goods; and
+  (b) provides guidance on the safety of those goods to consumers, retailers, and manufacturers.
+(2) The Minister may, at any time, amend, revoke, or replace a product safety policy statement.
+(3) However, the Minister must not issue, amend, revoke, or replace a product safety policy statement unless—
+  (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by the proposed statement, and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered any such comments.
+(4) The chief executive—
+  (a) must ensure that a copy of every statement issued, amended, or replaced under this section or under section 30B is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry; and
+  (b) may make copies of statements available in any other way that the chief executive considers appropriate in the circumstances.
+
+### 30B Review of product safety policy statements
+(1) The Ministry must—
+  (a) review a product safety policy statement issued under section 30A within 5 years after its issue or (in the case of a subsequent review) within 5 years after the last review; and
+  (b) immediately following the review, prepare a report on the review for the Minister.
+(2) The report must include recommendations to the Minister on whether the statement should be continued, amended, revoked, or replaced.
+(3) However, the Ministry must not prepare a report under this section unless—
+  (a) the Ministry has consulted such persons or representatives of such persons as the Ministry considers will be substantially affected by the proposed recommendations, and those persons have had the opportunity to comment to the Ministry; and
+  (b) the Ministry has considered any such comments.
+(4) As soon as practicable after receiving the report, the Minister must—
+  (a) consider the recommendations and any comments received by the Ministry under subsection (3)(a); and
+  (b) decide whether to continue, amend, revoke, or replace the statement; and
+  (c) ensure that the Minister's decision is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry.
+
 ### 31 Unsafe goods
 (1) Where it appears to the Minister that goods of any description or any class or classes of goods will or may cause injury to any person, the Minister may, by notice in the Gazette, declare the goods to be unsafe goods.
+(1A) The Minister may also, by notice in the Gazette, declare goods of any description or any class or classes of goods to be unsafe goods if it appears to the Minister that a reasonably foreseeable use (including misuse) of the goods will, or may, cause injury to any person.
+(1B) In deciding whether to make a declaration under subsection (1A), the Minister must have regard to all the circumstances, including—
+  (a) the likelihood of an injury occurring to a person as a result of the reasonably foreseeable use or misuse of the goods:
+  (b) the seriousness of the injury likely to be suffered by the user of the goods or any other person:
+  (c) whether such injury is likely to be a frequent occurrence:
+  (d) any steps that the supplier or manufacturer of the goods has taken to mitigate the risk of injury:
+  (e) whether, taking into account the ordinary and intended use of the goods, the public interest favours making a declaration.
 (2) A notice made pursuant to subsection (1) shall, unless previously revoked by the Minister by notice in the Gazette, remain in force for 18 months after the date of publication of the notice in the Gazette.
 (3) Where—the Minister may, by notice in the Gazette, prohibit the supply of the goods indefinitely or for such period as may be specified in the notice.
-  (a) a period of 18 months has elapsed after the date of publication of a notice in the Gazette pursuant to subsection (1) declaring goods to be unsafe goods; and
+  (a) a period of 18 months has elapsed after the date of publication of a notice in the Gazette pursuant to subsection (1) or (1A) declaring goods to be unsafe goods; and
   (b) a product safety standard has not been prescribed pursuant to section 29 in respect of the goods,—
+(3A) The Minister must not issue a notice under subsection (3) unless—
+  (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by the proposed notice and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered any such comments.
+(3B) A failure to comply with subsection (3A) does not affect the validity of any notice given under this section, except where there has been a complete failure to consult.
 (4) A notice made pursuant to subsection (3) may be amended or revoked at any time by the Minister by notice in the Gazette.
 (5) No person shall supply, or offer to supply, or advertise to supply, goods—
   (a) in respect of which there is in force a notice declaring the goods to be unsafe goods; or
   (b) in respect of which there is in force a notice under subsection (3).
 
+### 31A Voluntary product recall
+(1) This section applies if—
+  (a) a supplier voluntarily recalls goods because—
+    (i) the goods will, or may, cause injury to any person; or
+    (ii) a reasonably foreseeable use (including misuse) of the goods will, or may, cause injury to any person; or
+    (iii) the goods do not comply with a product safety standard; and
+  (b) there is no other requirement, under any other enactment, for a supplier in those circumstances to—
+    (i) report to a government agency; or
+    (ii) do any other thing in relation to goods of a kind referred to in paragraph (a) (for example, to have in place a process for the voluntary recall of goods of that kind).
+(2) The supplier must, within 2 working days after recalling the goods, notify the chief executive of the recall.
+(3) A notice under subsection (2) must be expressed in plain language and must contain the following information:
+  (a) a description of the goods, with sufficient detail to enable a consumer to readily identify the goods to which the notice relates; and
+  (b) a description of the danger (including the risk of damage or harm occurring as a result of that danger) that led to the goods being recalled; and
+  (c) details of what a consumer needs to do in response to the recall, including, as the case may be,—
+    (i) any precautions the consumer should take to avoid or reduce the risk of injury from the goods:
+    (ii) how to rectify the issue that led to the goods being recalled:
+    (iii) where to take the goods for repair, replacement, or refund; and
+  (d) the supplier's name, street address, telephone number, and email address.
+(4) The chief executive—
+  (a) must ensure that a copy of every notice under this section is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry, for at least 2 years after the date on which the voluntary recall was notified to the chief executive in accordance with subsection (2); and
+  (b) may make copies of notices available in any other way that the chief executive considers appropriate in the circumstances.
+(5) In subsection (1)(b), government agency means a department or Crown entity.
+
 ### 32 Compulsory product recall
 (1) Where a person (in this section referred to as the supplier) has in trade supplied goods which—and the supplier has not recalled the goods or taken satisfactory action to recall the goods the Minister may, by notice to the supplier, require the supplier to take the action specified in subsection (3).
   (a) do not comply with a product safety standard prescribed in respect of the goods; or
   (b) are goods of a kind which will or may cause injury to any person—
+(1A) The Minister may also, by notice to the supplier, require the supplier to take the action specified in subsection (3) if it appears to the Minister that a reasonably foreseeable use (including misuse) of the goods supplied by the supplier will, or may, cause injury to any person.
+(1B) In deciding whether to issue a notice under subsection (1A), the Minister must have regard to all the circumstances, including—
+  (a) the likelihood of an injury occurring to a person as a result of the reasonably foreseeable use or misuse of the goods:
+  (b) the seriousness of the injury likely to be suffered by the user of the goods or any other person:
+  (c) whether such injury is likely to be a frequent occurrence:
+  (d) any steps that the supplier or manufacturer of the goods has taken to mitigate the risk of injury:
+  (e) whether, taking into account the ordinary and intended use of the goods, the public interest favours the issuing of a compulsory product recall notice.
 (2) Where a person (in this section referred to as the supplier) has in trade supplied goods which are goods of a kind in relation to which there is in force a notice under section 31(1) or (3), and the supplier has not recalled the goods or taken satisfactory action to recall the goods, the Minister may by notice to the supplier require the supplier to take the action specified in subsection (3).
-(3) For the purposes of subsections (1) and (2), the Minister may require the supplier, in a manner and within a period specified and at his own expense, to do all or any of the following:
+(3) For the purposes of subsections (1), (1A), and (2), the Minister may require the supplier, in a manner and within a period specified and at his own expense, to do all or any of the following:
   (a) recall the goods:
   (b) disclose to the public information relating to—
     (i) the characteristics of the goods which render them unsafe; or
     (ii) the circumstances in which use of the goods is unsafe; or
     (iii) any other matters relating to the goods or the use of the goods as may be specified:
   (c) repair or replace the goods or refund to any person to whom the goods were supplied or resupplied the price paid for the goods or any lesser amount as may be reasonable having regard to the use that person has had of the goods.
-(4) Where a notice is given to a supplier under subsection (1) or subsection (2) that supplier shall comply in all respects with the notice.
-(5) Where a notice is given to a supplier under subsection (1) or subsection (2) that supplier shall not, in trade,—
+(4) Where a notice is given to a supplier under this section, that supplier shall comply in all respects with the notice.
+(5) Where a notice is given to a supplier under this section, that supplier shall not, in trade,—
   (a) where the notice identifies a defect in, or a dangerous characteristic of the goods, supply goods of a kind to which the notice relates which contain that defect or have that characteristic; or
   (b) in any other case, supply goods of a kind to which the notice relates.
 
 ### 33 Importation of certain goods prohibited
 All goods the supply of which would constitute a contravention of this Part are hereby prohibited to be imported into New Zealand and shall be deemed to be included among goods prohibited to be imported under section 54 of the Customs and Excise Act 1996 and the provisions of that Act shall apply to such goods accordingly.
+
+**Product safety officers**
+
+### 33A Appointment of product safety officers
+(1) The chief executive may appoint as a product safety officer any person who has passed such examinations as the chief executive requires to test the person's knowledge of this Act and the functions and powers of product safety officers.
+(2) The chief executive may appoint a person as a trainee product safety officer, whether or not the person has passed the examinations referred to in subsection (1).
+(3) For the purposes of this Act, a trainee product safety officer acting under the supervision of a product safety officer is deemed to be a product safety officer.
+
+### 33B Certificates of appointment
+(1) Every product safety officer, and every trainee product safety officer, must be issued with a certificate as evidence of that person's appointment under section 33A.
+(2) The certificate must be in a form determined by the chief executive and set out—
+  (a) the full name of the appointee; and
+  (b) a statement that the person is appointed under section 33A of this Act; and
+  (c) a reference to the powers of the appointee under sections 33C and 33D; and
+  (d) a statement of the powers (if any) of the product safety officer under the Search and Surveillance Act 2012.
+
+### 33C Powers of product safety officers
+(1) A product safety officer may enter and inspect a place (not being a dwellinghouse) without a warrant if—
+  (a) the product safety officer believes on reasonable grounds that—
+    (i) certain goods are unsafe (suspect goods); and
+    (ii) the suspect goods are supplied at, or dispatched from, the place; and
+  (b) the entry and inspection is for the purpose of ascertaining, or taking steps to ascertain, whether the suspect goods are in fact unsafe.
+(2) While at the place, a product safety officer may, for the purpose described in subsection (1), do any of the following:
+  (a) with respect to any goods at the place that are available to consumers for supply or are dispatched for supply to consumers, inspect the goods, photograph them, and purchase them at the price for which they are currently offered for sale:
+  (b) require the person who appears at the time to be in charge of the supply or dispatch of goods at the place (the person in charge) to give his or her name and show to the product safety officer identification sufficient to confirm that the name given is correct:
+  (c) require the person in charge to identify the person from whom the suspect goods were acquired:
+  (d) if suspect goods have, within a specified period, been supplied in trade to another person other than by retail, require the person in charge to identify the person or persons to whom they have been supplied during that period:
+  (e) require any person by whom suspect goods are carried for delivery pursuant to, or in connection with, a contract of sale to give—
+    (i) his or her name and address; and
+    (ii) the name and address of his or her employer (if any); and
+    (iii) the name and address of the owner of the goods, if known.
+(3) If a product safety officer enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (4), the product safety officer may, for the purpose described in subsection (1)(b), exercise the powers listed in subsection (2).
+(4) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant authorising a product safety officer to enter a dwellinghouse if the issuing officer is satisfied, on application made in accordance with subsection (5), that there are reasonable grounds for believing that it is necessary for the product safety officer to enter the dwellinghouse for the purpose of ascertaining—
+  (a) whether there are any suspect goods at the dwellinghouse that are or may be available to consumers for supply, or are or may be being dispatched for supply to consumers; and
+  (b) if there are, whether the goods are unsafe.
+(5) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(6) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
+
+### 33D Suspension of supply notices
+(1) A product safety officer may issue to a person in possession of goods a suspension of supply notice in respect of those goods, and any other goods of that description or class, if the product safety officer—
+  (a) either—
+    (i) knows that the goods, or goods of that description or class, have been implicated in serious injury or death; or
+    (ii) has good reason to suspect that the goods, or goods of that description or class, may be unsafe; and
+  (b) believes on reasonable grounds that—
+    (i) the supply of the goods may lead to a person suffering serious harm; and
+    (ii) the order is necessary to prevent the supply of the goods pending further investigation into their safety.
+(2) A suspension of supply notice is a notice prohibiting the person or persons identified in the notice from supplying the goods identified in the notice during the period before the expiry of the notice.
+(3) Every suspension of supply notice must be in the form prescribed by the chief executive, and must clearly set out—
+  (a) the goods, or the description or class of goods, to which the notice relates; and
+  (b) when the notice expires, which must be no later than 5 pm on the third working day after the day on which the notice is issued; and
+  (c) the person or persons to whom the notice applies, who may be any of the following:
+    (i) the person in charge:
+    (ii) any employee or agent of that person:
+    (iii) any employer or manager of that person:
+    (iv) any employee or agent of that person's employer or manager; and
+  (d) the name of the product safety officer who issues the notice.
+(4) A person to whom a suspension of supply notice applies must not supply the goods identified in the notice at any time before the notice expires.
+(5) A product safety officer may, with the approval of the chief executive, renew a suspension of supply notice before its expiry, but—
+  (a) may do so not more than twice; and
+  (b) may not renew the notice so that the total prohibition exceeds 9 consecutive working days.
 
 ## Part 4 — Safety of services
 
@@ -398,15 +562,24 @@ In accordance with this Part, the High Court shall hear and determine the follow
   (a) appeals from criminal proceedings in a District Court for offences against sections 40 and 47J:
   (ab) appeals from proceedings in a District Court for orders under section 40A:
   (b) applications for injunctions under section 41:
-  (c) applications for orders under sections 42 and 43.
+  (c) applications for orders under sections 42 and 43:
+  (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947:
+  (e) appeals from any order of a District Court under section 46B:
+  (f) appeals from any order or decision of a District Court under section 46C or 46G:
+  (g) applications by the Commission for a declaration under section 46I.
 
 ### 38 Jurisdiction of District Courts
-In accordance with this Part, the District Courts shall hear and determine the following matters—
+(1) In accordance with this Part, the District Courts shall hear and determine the following matters—
   (a) proceedings for offences against sections 40 and 47J:
-  (b) applications for orders under sections 40A, 42, and 43.
+  (b) applications for orders under sections 40A, 42, and 43:
+  (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947:
+  (d) applications under sections 46C and 46G:
+  (e) applications by the Commission for a declaration under section 46I.
+(2) This section is subject to section 43B.
 
 ### 39 Jurisdiction of Disputes Tribunals
-In accordance with this Part, a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 shall have jurisdiction to hear and determine applications for orders under section 43(2)(c) to (f) of this Act (except in respect of a contravention of section 9 of this Act).
+(1) In accordance with this Part, a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 shall have jurisdiction to hear and determine applications for orders under section 43.
+(2) This section is subject to section 43B.
 
 **Offences**
 
@@ -422,7 +595,7 @@ In accordance with this Part, a Disputes Tribunal established under section 4 of
 (1) If a person is convicted of an offence under section 40(1A) , the court may, on the application of the Commission, in addition to any penalty that the court may impose under that subsection, order that person to pay an amount not exceeding the value of any commercial gain resulting from the contravention if the court is satisfied that the contravention occurred in the course of producing a commercial gain.
 (2) The value of any gain must be assessed by the court, and any amount ordered to be paid is recoverable in the same manner as a fine.
 (3) The standard of proof in proceedings under this section is the standard of proof that applies in civil proceedings.
-(4) In this section, court includes a District Court.
+(4)
 
 **Civil proceedings**
 
@@ -449,40 +622,54 @@ In accordance with this Part, a Disputes Tribunal established under section 4 of
   (a) an order requiring that person, or any other person involved in the contravention, to disclose, at that person's own expense, to the public, or to a particular person or to persons included in a particular class of persons, in such manner as is specified in the order, such information, or information of such a kind, as is so specified, being information that is in the possession of the person to whom the order is directed or to which that person has access:
   (b) an order requiring that person, or any other person involved in the contravention, to publish, at that person's own expense, in such manner and at such times as are specified in the order, corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
 (2) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under any of sections 40, 40A, 41, or 43.
-(3) In this section, court includes a District Court.
+(3)
 
 ### 43 Other orders
-(1) Where, in any proceedings under this Part, or on the application of any person, the court finds that a person, whether or not that person is a party to the proceedings, has suffered, or is likely to suffer, loss or damage by conduct of any other person that constitutes or would constitute—the court may (whether or not it grants an injunction or makes any other order under this Part) make all or any of the orders referred to in subsection (2).
-  (a) a contravention of any of the provisions of Parts 1 to 4; or
-  (b) aiding, abetting, counselling, or procuring the contravention of such a provision; or
-  (c) inducing by threats, promises, or otherwise the contravention of such a provision; or
-  (d) being in any way directly or indirectly knowingly concerned in, or party to, the contravention of such a provision; or
-  (e) conspiring with any other person in the contravention of such a provision—
-(2) For the purposes of subsection (1), the court may make the following orders—
-  (a) an order declaring the whole or any part of a contract made between the person who suffered, or is likely to suffer, the loss or damage and the person who engaged in the conduct referred to in subsection (1) or of a collateral arrangement relating to such a contract, to be void and, if the court thinks fit, to have been void ab initio or at all times on and after such date, before the date on which the order is made, as is specified in the order:
-  (b) an order varying such a contract or arrangement in such manner as is specified in the order and, if the court thinks fit, declaring the contract or arrangement to have had effect as so varied on and after such date, before the date on which the order is made, as is so specified:
-  (c) an order directing the person who engaged in the conduct, referred to in subsection (1) to refund money or return property to the person who suffered the loss or damage:
-  (d) an order directing the person who engaged in the conduct, referred to in subsection (1) to pay to the person who suffered the loss or damage the amount of the loss or damage:
-  (e) an order directing the person who engaged in the conduct, referred to in subsection (1) at that person's own expense, to repair, or provide parts for, goods that had been supplied by the person who engaged in the conduct to the person who suffered, or is likely to suffer, the loss or damage:
-  (f) an order directing the person who engaged in the conduct, referred to in subsection (1) at that person's own expense, to supply specified services to the person who suffered, or is likely to suffer, the loss or damage.
-(3) In the exercise of its jurisdiction under this section a District Court shall not—
-  (a) make any order under subsection (2)(a) in any case where the value of the consideration for the promise or act of any party to the contract or collateral arrangement exceeds $200,000:
-  (b) make an order under subsection (2)(b) in any case where the value of the consideration for the promise or act of any party to the contract or arrangement exceeds $200,000:
-  (c) make an order under subsection (2)(c) directing a person to refund money or return property where the amount of money or the value of the property exceeds $200,000:
-  (d) make an order under subsection (2)(d) requiring a person to pay an amount exceeding $200,000:
-  (e) make an order under subsection (2)(e) directing a person to repair goods or provide parts for goods where the value of the work required to repair the goods, or the value of the parts, as the case may be, exceeds $200,000:
-  (f) make an order under subsection (2)(f) directing a person to supply services where the value of the services exceeds $200,000.
-(4) Subject to subsection (4A), in the exercise of its jurisdiction under this section a Disputes Tribunal shall not—
-  (a) make an order under subsection (2)(c) directing a person to refund money or return property where the amount of money or the value of the property exceeds $15,000:
-  (b) make an order under subsection (2)(d) requiring a person to pay an amount exceeding $15,000:
-  (c) make an order under subsection (2)(e) directing a person to repair goods or provide parts for goods where the value of the work required to repair the goods, or the value of the parts, as the case may be, exceeds $15,000:
-  (d) make an order under subsection (2)(f) directing a person to supply services where the value of the services exceeds $15,000.
-(4A) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsection (4) of this section shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
-(5) An application under subsection (1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
-(6) An order made under subsection (2)(a) or (b) shall not prevent proceedings being instituted or commenced under this Part.
-(7) Nothing in this section limits or affects the Illegal Contracts Act 1970.
-(8) For the purposes of subsection (1), a reference to court includes a reference to a District Court and a Disputes Tribunal.
-(9) Nothing in this section affects section 317 of the Accident Compensation Act 2001.
+(1) This section applies if, in proceedings under this Part or on the application of any person, a court or a Disputes Tribunal finds that a person (person A) has suffered, or is likely to suffer, loss or damage by conduct of another person (person B) that does or may constitute any of the following:
+  (a) a contravention of a provision of Parts 1 to 4A (a relevant provision):
+  (b) aiding, abetting, counselling, or procuring a contravention of a relevant provision:
+  (c) inducing by threats, promises, or otherwise a contravention of a relevant provision:
+  (d) being in any way directly or indirectly knowingly concerned in, or party to, a contravention of a relevant provision:
+  (e) conspiring with any other person in the contravention of a relevant provision.
+(2) The court or the Disputes Tribunal may make 1 or more of the orders described in subsection (3)—
+  (a) whether or not the court grants an injunction, or the court or the Disputes Tribunal makes any other order, under this Part; and
+  (b) whether or not person A made the application or is a party to the proceedings.
+(3) The orders are as follows:
+  (a) an order declaring all or part of a contract made between person A and person B, or a collateral arrangement (for example, a collateral credit agreement) relating to such a contract,—
+    (i) to be void; and
+    (ii) if the court or the Disputes Tribunal thinks fit, to have been void at all times on and after a date specified in the order, which may be before the date on which the order is made:
+  (b) if an order described in paragraph (a) is made in respect of a contract that is associated with a collateral credit agreement, an order vesting in person B all or any of the rights and obligations of person A under the collateral credit agreement:
+  (c) an order in respect of a contract made between person A and person B, or a collateral arrangement (for example, a collateral credit agreement) relating to such a contract,—
+    (i) varying the contract or the arrangement in the manner specified in the order; and
+    (ii) if the court or the Disputes Tribunal thinks fit, declaring the varied contract or arrangement to have had effect on and after a date specified in the order, which may be before the date on which the order is made:
+  (d) if an order described in paragraph (c) is made in respect of a contract that is associated with a collateral credit agreement, and if that order results in person A no longer having property in the goods that are the subject of the contract, an order vesting in person B the rights and obligations of person A under the collateral credit agreement:
+  (e) an order directing person B to refund money or return property to person A:
+  (f) an order directing person B to pay to person A the amount of the loss or damage:
+  (g) an order directing person B, at person B's own expense, to repair, or to provide parts for, goods that have been supplied by person B to person A:
+  (h) an order directing person B, at person B's own expense, to supply specified goods or services to person A.
+(4) In subsection (3)(a) to (d), collateral credit agreement, in relation to a contract for the supply of goods, means a contract or an agreement that—
+  (a) is arranged or procured by the supplier of the goods; and
+  (b) is for the provision of credit by a person other than the supplier to enable person A to pay, or defer payment, for the goods.
+(5) An order made under subsection (3)(a) to (d) does not prevent proceedings being instituted or commenced under this Part.
+(6) This section does not limit or affect—
+  (a) the Illegal Contracts Act 1970; or
+  (b) section 317 of the Accident Compensation Act 2001.
+
+### 43A Application for order under section 43
+A person may apply to a court or a Disputes Tribunal for an order under section 43 at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
+
+### 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
+(1) A District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947.
+(2) A Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
+  (a) $15,000:
+  (b) the amount specified in section 10(1A)(b) of the Disputes Tribunals Act 1988:
+  (c) the amount specified in section 13(2) of the Disputes Tribunals Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
+(3) The values and amounts are as follows:
+  (a) in the case of an order under section 43(3)(a) or (c), the value of the consideration for the promise or act of any party to the contract or collateral arrangement referred to in that paragraph:
+  (b) in the case of an order under section 43(3)(e) directing a person to refund money or return property, the amount of money or the value of the property:
+  (c) in the case of an order under section 43(3)(f) requiring a person to pay an amount, that amount:
+  (d) in the case of an order under section 43(3)(g) directing a person to repair goods or to provide parts for goods, the value of the work required to repair the goods, or the value of the parts, as the case may be:
+  (e) in the case of an order under section 43(3)(h) directing a person to supply services, the value of the services.
 
 ### 44 Defences
 (1) Subject to this section, it is a defence to a prosecution for an offence against section 40 if the defendant proves—
@@ -515,7 +702,49 @@ In accordance with this Part, a Disputes Tribunal established under section 4 of
 (5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief or purpose.
 
 ### 46 Finding in proceedings to be evidence
-In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the court or District Court, as the case may be, in which the finding was made.
+In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the High Court or a District Court, as the case may be, in which the finding was made.
+
+**Enforceable undertakings**
+
+### 46A Commission may accept undertakings
+(1) The Commission may accept a written undertaking given by, or on behalf of, a person in connection with any matter relating to the enforcement of this Act.
+(2) The person may withdraw or vary the undertaking with the consent of the Commission.
+
+### 46B Enforcement of undertakings
+(1) If the Commission considers that a person who has given an undertaking under section 46A has breached a term of that undertaking, the Commission may apply to the court for an order under subsection (2).
+(2) The court may make any of the following orders if it is satisfied that the person has breached a term of the undertaking:
+  (a) an order directing the person to comply with the term:
+  (b) an order directing the person to pay to the Crown an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach:
+  (c) any order that the court thinks appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach:
+  (d) an order for any consequential relief that the court thinks appropriate.
+
+**Management banning orders**
+
+### 46C Management banning orders
+(1) A District Court may make a management banning order against an individual who—
+  (a) has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
+  (b) is, or was at the time of the commission of the offence, a director of, or concerned in the management of, an incorporated or unincorporated body that has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
+  (c) has been prohibited by an overseas jurisdiction, in connection with the contravention of any law relating to fair trading, from carrying on activities that are substantially similar to those referred to in section 46D.
+(2) The court may make the order only if it is satisfied that the order is necessary to protect the public from the risk that the person, or any incorporated or unincorporated body of which the person is a director, or the management of which the person is concerned in, will commit further offences against section 40(1) or (1A).
+
+### 46D Terms of management banning orders
+A management banning order must prohibit the person to whom it applies from being, without the leave of a District Court, a director of, or being in any way (whether directly or indirectly) concerned in or taking part in the management of, an incorporated or unincorporated body that carries on business in New Zealand, for a period specified in the order, which must be no more than 10 years.
+
+### 46E Offence to breach management banning order
+A person who breaches a management banning order made against him or her commits an offence and is liable on summary conviction to a fine not exceeding $60,000.
+
+### 46F Procedures relating to management banning order
+(1) An application for a management banning order may be made only by the Commission.
+(2) The Commission, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
+(3) A copy of every management banning order must be given to—
+  (a) the person concerned; and
+  (b) the Commission; and
+  (c) the Registrar of Companies.
+(4) The Commission must publish every management banning order made under section 46C in the Gazette as soon as practicable after it is made.
+
+### 46G Seeking leave of court
+(1) An application for leave of a District Court under section 46D must be by way of originating application.
+(2) The Commission, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
 
 ## Part 6 — Miscellaneous provisions
 
@@ -546,14 +775,22 @@ In any application for an order against a person under section 43, a finding of 
 ### 47E Power to inspect documents and goods
 [Repealed]
 
-### 47F Offence
-Every person who resists, obstructs, or delays any authorised person acting pursuant to a warrant issued under section 47 commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+### 47F Offence to resist, obstruct, or delay
+(1) Every person commits an offence who resists, obstructs, or delays—
+  (a) any product safety officer exercising a power under section 33C or 33D; or
+  (b) any authorised person acting pursuant to a warrant issued under section 47; or
+  (c) any authorised employee exercising a power under section 47L.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
 
-### 47G Commission may require person to supply information or documents
+### 47G Commission may require person to supply information or documents or give evidence
 (1) If the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act, the Commission may, by notice in writing served on any person, require that person—
   (a) to supply to the Commission, by writing signed by that person or, in the case of a body corporate, by a director or competent employee or agent of the body corporate, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
-  (b) to supply to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice.
+  (b) to supply to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice; or
+  (c) to appear before the Commission at a time and place specified in the notice to give evidence, either orally or in writing, and supply any document or class of documents specified in the notice.
 (2) Every person who is required to supply information or documents to the Commission has the same privileges in relation to the supply of the information or documents as witnesses have in any court.
+(3) No person is excused from complying with a requirement to supply information or documents, or to appear before the Commission, on the ground that to do so might tend to incriminate the person.
+(4) A statement made by a person in answer to a question put by or before the Commission is not admissible against the person in criminal proceedings other than proceedings for a charge of perjury against the maker of the statement or in proceedings on a charge of an offence against section 47J.
+(5) Subsections (3) and (4) prevail over subsection (2).
 
 ### 47H Notices
 (1) Any notice given by the Commission under section 47G is sufficiently given if—
@@ -586,6 +823,41 @@ Every person who resists, obstructs, or delays any authorised person acting purs
   (b) in purported compliance with the notice, supply information, or supply a document, knowing it to be false or misleading.
 (2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
 (3)
+
+### 47K Commission may authorise employees for monitoring and enforcement purposes
+(1) The Commission may authorise any employee (an authorised employee) to monitor and enforce compliance with any or all of the following:
+  (a) consumer information standards:
+  (b) product safety standards:
+  (c) unsafe goods notices:
+  (d) suspension of supply notices:
+  (e) services safety standards.
+(2) Every employee so authorised must be issued with a certificate as evidence of the person's appointment.
+(3) The certificate must be in a form determined by the Commission and contain—
+  (a) a reference to this section; and
+  (b) the full name of the authorised employee; and
+  (c) a reference to the powers conferred on the authorised employee under section 47L; and
+  (d) a statement of the powers (if any) of the authorised employee under the Search and Surveillance Act 2012.
+
+### 47L Powers of authorised employees
+(1) In this section,—
+  - **place** means any place that an authorised employee believes on reasonable grounds is a place at which consumers have access to relevant goods or services, or from which relevant goods are dispatched to consumers
+  - **relevant goods or services** means goods or services to which any consumer information standards, product safety standards, unsafe goods notices, suspension of supply notices, or services safety standards apply.
+(2) An authorised employee may enter and inspect a place (not being a dwellinghouse), without a warrant, for the purpose of monitoring or enforcing compliance with any consumer information standards, product safety standards, unsafe goods notices, suspension of supply notices, or services safety standards that apply to any relevant goods.
+(3) While at the place, an authorised employee may, for the purpose described in subsection (2), do any of the following:
+  (a) with respect to any goods at the place that are available to consumers for supply or that are dispatched for supply, inspect the goods, photograph them, and purchase them at the price for which they are currently offered for sale:
+  (b) require the person at the place who appears to be in charge of the supply or dispatch of relevant goods or services at the time (the person in charge) to give his or her name and show to the authorised employee identification sufficient to confirm that the name given is correct:
+  (c) require the person in charge to give the authorised employee any information about the goods or services that is normally disclosed to a consumer to whom the goods or services are supplied or dispatched:
+  (d) require the person in charge to identify the person from whom relevant goods were acquired:
+  (e) if relevant goods have, within a specified period, been supplied in trade to another person other than by retail, require the person in charge to identify the person or persons to whom they have been supplied during that period:
+  (f) require any person by whom any relevant goods are carried for delivery pursuant to, or in connection with, a contract for sale, to give—
+    (i) his or her name and address; and
+    (ii) the name and address of his or her employer (if any); and
+    (iii) the name and address of the owner of the goods, if known:
+  (g) issue an infringement notice, on behalf of the Commission, under section 40D.
+(4) If an authorised employee enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (5), the authorised employee may, for the purpose described in subsection (2), exercise the powers listed in subsection (3).
+(5) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, by warrant, authorise an authorised employee to enter and inspect a dwellinghouse or any other place specified in the warrant if the issuing officer is satisfied, on application made in accordance with subsection (6), that there are reasonable grounds to believe that a search of the place is necessary for the purpose described in subsection (2).
+(6) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(7) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
 
 ### 48 Proceedings privileged
 (1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions under this Act unless it is shown that the Commission acted without reasonable care or in bad faith.
@@ -730,6 +1002,7 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 ### 50 Saving of other laws
 (1) Nothing in this Act limits or affects the operation of any other Act.
 (2) Nothing in this Act limits or affects any liability that any person may incur under any rule of law or enactment other than this Act.
+(3) However, subsection (1) does not apply in relation to any provision in Part 4A that limits or affects the operation of the Sale of Goods Act 1908 or the Contractual Remedies Act 1979.
 
 ### 51 Application of Act to goods that are, or may be, exported to China
 (1) This Act applies to conduct or representations relating to goods that are, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement in the same way as this Act applies to goods supplied within New Zealand as follows:
