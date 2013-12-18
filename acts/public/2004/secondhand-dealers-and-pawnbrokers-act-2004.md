@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -41,7 +41,8 @@ In this Act, unless the context otherwise requires,—
     (b) the chief executive of the company, or any person occupying the equivalent position
   - **prescribed** means prescribed by regulations made under this Act
   - **promoter** means a person who carries on a business of letting or otherwise providing space to stallholders for the purpose of running a market or fair at which any of the stalls are or may be used for the purpose of secondhand dealing
-  - **public auction** means an auction that complies with the Auctioneers Act 1928, the Auctioneers Regulations 1958, and any relevant regulations made under this Act
+  - **public auction** means an auction conducted by a registered auctioneer in the course of the registered auctioneer's business
+  - **registered auctioneer** means a person who is registered as an auctioneer under the Auctioneers Act 2013
   - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority
   - **scrap metal** does not include copper in any form, but includes—
     (a) old metal, broken metal, partly manufactured metal goods, defaced or old metal goods, and metal residues from manufacturing processes; and
@@ -49,7 +50,7 @@ In this Act, unless the context otherwise requires,—
       (i) are made entirely or substantially of metal; and
       (ii) are no longer fit for the purpose for which they were designed or intended
   - **secondhand dealer** means a person—
-    (a) who buys (for the purpose of trade), sells, exchanges, or otherwise deals in secondhand articles or scrap metal; and
+    (a) who buys (other than for personal use or enjoyment or as a gift), sells, exchanges, or otherwise deals in secondhand articles or scrap metal; and
     (b) who is not a pawnbroker or the employee of a secondhand dealer and pawnbroker
   - **secondhand dealer and pawnbroker** means any 1 or more of the following:
     (a) a secondhand dealer:
@@ -71,13 +72,13 @@ This Act binds the Crown.
 ### 6 Secondhand dealers engaged in business to be licensed
 (1) Every person who engages in business as a secondhand dealer must hold a licence.
 (2) If 2 or more people engage in business as secondhand dealers in partnership, each partner must hold a licence.
-(3) For the purposes of this Act, a person is presumed (in the absence of evidence to the contrary) to be engaged in business as a secondhand dealer if, in any 12-month period, the person—
-  (a) buys secondhand articles or scrap metal, for the purpose of trade, on 6 or more different days; or
-  (b) sells, exchanges, or otherwise deals in secondhand articles or scrap metal (being articles or scrap metal acquired for the purpose of trade)—
-    (i) on 6 or more different days; or
-    (ii) so as to receive revenue of $2,000 or more from the sale, exchange, or dealing.
+(3) For the purposes of this Act, a person is presumed (in the absence of evidence to the contrary) to be engaged in business as a secondhand dealer if the person—
+  (a) on 6 or more different days within a 12-month period—
+    (i) buys secondhand articles or scrap metal for purposes other than personal use or enjoyment or as a gift; or
+    (ii) sells or exchanges secondhand articles or scrap metal that was acquired by the person for purposes other than personal use or enjoyment or as a gift; or
+  (b) within a 12-month period, obtains revenue of more than $2,000 from the sale of secondhand articles or scrap metal that was acquired by the person for purposes other than personal use or enjoyment or as a gift.
 (4) For the purposes of this Act, the following are not engaged in business as secondhand dealers when selling secondhand articles or scrap metal:
-  (a) an auctioneer who is licensed under the Auctioneers Act 1928 and is selling the secondhand articles or scrap metal at auction under that Act:
+  (a) a registered auctioneer selling secondhand articles or scrap metal in the course of the registered auctioneer's business:
   (b) a charitable or non-profit organisation that sells secondhand articles or scrap metal, but only if—
     (i) no article, and none of the scrap metal, sold is acquired by the organisation by purchase or for valuable consideration; and
     (ii) any proceeds of sale are used solely for the purposes of the organisation:
@@ -111,7 +112,7 @@ This Act binds the Crown.
   (a) the applicant’s name:
   (b) the registered address of the company:
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
-  (d) the full name and date of birth of every person involved in the management of the company:
+  (d) the full name and date of birth of every person concerned in the management of the company:
   (e) any other prescribed matters.
 
 ### 9 Issue of licence: individual applicant
@@ -128,7 +129,7 @@ This Act binds the Crown.
     (i) every person concerned in the management of the company is eligible to hold a certificate in his or her own right (see section 28(1)); or
     (ii) only 1 person is concerned in the management of the company and that person holds a certificate; and
   (c) the application complies with the requirements of section 8(2).
-(2) If more than 1 person is concerned in the management of an applicant that is a company, every person involved in the management must be checked under sections 24 to 27 to ascertain whether the person is currently eligible to hold a certificate, whether or not the person holds a certificate.
+(2) If more than 1 person is concerned in the management of an applicant that is a company, every person concerned in the management must be checked under sections 24 to 27 to ascertain whether the person is currently eligible to hold a certificate, whether or not the person holds a certificate.
 (3) A company is disqualified from holding a licence if it—
   (a) has been convicted within the past 5 years of a specified offence; or
   (b) has had a licence cancelled within the past 5 years.
@@ -169,7 +170,7 @@ If the Licensing Authority declines an application, he or she must immediately n
     (ii) if the company is disqualified (under section 10(3)) from holding a licence; or
   (c) in either case, if the Licensing Authority is satisfied that the licence was issued by fraud or mistake.
 (2) The Licensing Authority must cancel a licence held by a company if the company is convicted of an offence (other than an offence punishable by no more than a fine not exceeding $2,000) under this Act, unless the Licensing Authority is satisfied that there are special reasons why the company’s licence should not be cancelled.
-(3) The Licensing Authority may not cancel a company’s licence under subsection (1)(b)(i) if—
+(3) The Licensing Authority may not cancel a company’s licence under subsection (1)﻿(b)﻿(i) if—
   (a) the person concerned in the management of a company has joined the company since it obtained its licence; and
   (b) within 2 weeks of the person joining, the company has applied to the Licensing Authority to check that the person is eligible to be issued with a certificate; and
   (c) either—
@@ -208,7 +209,7 @@ If the Licensing Authority declines an application, he or she must immediately n
   (a) enters into a transaction on behalf of a licensed secondhand dealer, whether or not the person is in fact authorised by the secondhand dealer to do so; or
   (b) issues a pledge ticket on behalf of a licensed pawnbroker, whether or not the person is in fact authorised by the pawnbroker to do so; or
   (c) manages, supervises, or controls any person who enters into a transaction on behalf of a licensed secondhand dealer or issues a pledge ticket on behalf of a licensed pawnbroker.
-(2) It is a defence to a charge under subsection (1)(a) or (b) if the person charged proves that he or she was not, at the relevant time, required to hold a certificate, by virtue of section 19(2).
+(2) It is a defence to a charge under subsection (1)﻿(a) or (b) if the person charged proves that he or she was not, at the relevant time, required to hold a certificate, by virtue of section 19(2).
 (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if, other than in the circumstances described in section 19(2),—
   (a) he or she authorises a person to engage in transactions or issue pledge tickets on his or her behalf; and
   (b) the person does not have a certificate; and
@@ -399,8 +400,8 @@ A person is disqualified from holding a certificate if he or she—
   (b) if he or she has possession of the goods, hold them for 14 days from the date of the report to the constable.
 (2) If a constable gives a licence holder a notice that specified goods are, or are alleged to be, stolen goods, the licence holder must—
   (a) immediately notify a constable if any of the specified goods are offered to the licence holder for sale or pawn; and
-  (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)(a) and (b).
-(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
+  (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)﻿(a) and (b).
+(3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)﻿(a) or (b) or subsection (2)﻿(a) or (b).
 (4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the Police issue a hold notice under section 40 with respect to the goods.
 (5) Subsection (4) does not override section 60.
 
@@ -437,7 +438,7 @@ A person is disqualified from holding a certificate if he or she—
     (ii) an account of how and when the article was otherwise disposed of:
   (h) any other prescribed information.
 (3) The dealers record must show the following information with respect to all scrap metal acquired by a licensed secondhand dealer in the course of business as a secondhand dealer:
-  (a) the identity of the person from whom the scrap metal is acquired, which must include the matters set out in subsection (2)(a):
+  (a) the identity of the person from whom the scrap metal is acquired, which must include the matters set out in subsection (2)﻿(a):
   (b) a description of the nature and quantity of the scrap metal:
   (c) the name and signature of the person who conducted the transaction on behalf of the licensed secondhand dealer:
   (d) the date of the transaction:
@@ -457,7 +458,7 @@ A person is disqualified from holding a certificate if he or she—
   (b) by personal knowledge, in which case if any details about the person that are recorded in the secondhand dealer’s dealers record are incorrect, the secondhand dealer is regarded as having made a false entry, without reasonable excuse, in his or her dealers record; or
   (c) by any other prescribed method.
 (3) A secondhand dealer need not obtain evidence of the identity of a person from whom goods are acquired in the following situations:
-  (a) where the goods are acquired at a public auction conducted by a licensed auctioneer:
+  (a) where the goods are acquired at a public auction conducted by a registered auctioneer:
   (b) where the goods are acquired through an Internet auction run by an Internet auction provider that complies with any prescribed requirements:
   (c) where the goods are acquired at a garage sale and the secondhand dealer keeps a record of the address at which the goods were sold:
   (d) where the goods are acquired from a seller who is overseas:
@@ -509,7 +510,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
   (b) a serial number on it which may be used as a unique identifier.
 (3) All remaining articles in the group must be treated as a single article for the purposes of this Act, and—
   (a) the individual articles in the group need not be labelled under section 48; and
-  (b) the disposal of the group and the individual articles in it need not be recorded in the dealers record under section 42(2)(g).
+  (b) the disposal of the group and the individual articles in it need not be recorded in the dealers record under section 42(2)﻿(g).
 (4) The fact that an article is offered for sale at a price of more than $40 (or other prescribed amount) is conclusive proof that the item has or had an apparent resale value of more than that amount.
 
 ### 50 Offences relating to secondhand dealing
@@ -599,7 +600,7 @@ A pawnbroker may enter into a pawnbroking contract only at pawnbroking business 
 (2) If a form of pledge ticket is prescribed, the pledge ticket must be in that form; but in any case every pledge ticket must show—
   (a) the name of the pledger; and
   (b) the address at which the pawned goods may be redeemed; and
-  (c) the matters set out in section 51(2)(b) to (h); and
+  (c) the matters set out in section 51(2)﻿(b) to (h); and
   (d) a summary of the rights of pledgers and the obligations of pawnbrokers under the pledge, as provided in this Act.
 (3) The pledger must produce the pledge ticket to the licensed pawnbroker if he or she wishes to redeem the pawned goods.
 (4) A licensed pawnbroker is entitled, in the absence of proof to the contrary, to assume that the holder of a pledge ticket is in fact the pledger of the goods identified on the ticket.
@@ -653,7 +654,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (c) the pawnbroker records the sale and the purchase price in his or her pawnbrokers record.
 (2) When goods are purchased under this section,—
   (a) the pawnbroking contract is treated, so far as it relates to those goods, as having been cancelled immediately before the sale; and
-  (b) sections 60, 63, 64, and 67(1)(c), (f), and (g) do not apply in respect of the goods.
+  (b) sections 60, 63, 64, and 67(1)﻿(c), (f), and (g) do not apply in respect of the goods.
 
 ### 67 Offences relating to pawnbroking
 (1) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
@@ -697,7 +698,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (a) fails to comply with the requirements of this section relating to the promoters record; or
   (b) makes a false entry in his or her promoters record; or
   (c) fails to give his or her promoters record, or a specified part of it, to a constable when required to do so.
-(7) Section 83 applies to a charge under subsection (6)(c).
+(7) Section 83 applies to a charge under subsection (6)﻿(c).
 
 ### 69 Internet auction providers record
 (1) Every Internet auction provider must keep an Internet auction providers record.
@@ -714,7 +715,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (a) fails to comply with the requirements of this section relating to his or her Internet auction providers record; or
   (b) makes a false entry in his or her Internet auction providers record; or
   (c) fails to provide access by a constable to his or her Internet auction providers record in accordance with subsection (4) when required to do so.
-(6) Section 83 applies to a charge under subsection (5)(c).
+(6) Section 83 applies to a charge under subsection (5)﻿(c).
 
 ## Part 4 — Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions
 
@@ -839,12 +840,12 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (k) prescribing the form of labels to be affixed to articles and pawned goods; and the regulations may provide—
     (i) for different labels for different kinds of articles or goods; and
     (ii) for the manner in which any prescribed label must or may be affixed:
-  (l) adjusting the amount referred to in section 49(2)(a):
+  (l) adjusting the amount referred to in section 49(2)﻿(a):
   (m) prescribing the circumstances in which labels need not be affixed to articles, scrap metal, or pawned goods of a specified type or types, or prescribing articles, scrap metal, and pawned goods to which labels need never be affixed:
   (n) prescribing the form of pledge ticket:
   (o) prescribing the requirements that must be satisfied by an Internet auction website if—
-    (a) under section 43(3)(b), the requirement to verify the identity of sellers is not to apply when goods are purchased through that Internet auction website; and
-    (b) pawnbrokers are to be permitted under section 63(2)(b) to dispose of goods through that Internet auction website:
+    (a) under section 43(3)﻿(b), the requirement to verify the identity of sellers is not to apply when goods are purchased through that Internet auction website; and
+    (b) pawnbrokers are to be permitted under section 63(2)﻿(b) to dispose of goods through that Internet auction website:
   (p) prescribing the matters to be included in the annual report of the Licensing Authority:
   (q) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
