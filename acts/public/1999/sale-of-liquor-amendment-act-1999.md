@@ -1,5 +1,5 @@
 # Sale of Liquor Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-18_
 
 > An Act to amend the Sale of Liquor Act 1989
 
@@ -50,7 +50,7 @@ The principal Act is amended by inserting, after section 2, the following sectio
     (b) The term specified means specified by the Minister by notice in the Gazette.
 
 ### 4 Application of Act
-Section 5(3)(g) of the principal Act is amended by omitting the words for any members of the New Zealand Fire Service.
+Section 5(3)﻿(g) of the principal Act is amended by omitting the words for any members of the New Zealand Fire Service.
 
 ### 5 Exemption for homestays
 The principal Act is amended by inserting, after section 5 the following section:
@@ -70,7 +70,7 @@ The principal Act is amended by repealing section 7, and substituting the follow
   (b) Any company within the meaning of the Companies Act 1993 that is not prevented by a restriction in its constitution from selling liquor or from holding a licence under this Act; or
   (ba) Any body corporate (whether incorporated in or outside New Zealand) that is authorised to sell liquor or hold a licence under this Act or under any previous enactment relating to the sale of liquor; or
   (bb) Any board, organisation, or other body that is authorised by another Act to sell liquor or hold an on-licence under this Act; or.
-(2) Section 8(1)(f) of the principal Act is amended by inserting, after the words local authority, the words , whether or not.
+(2) Section 8(1)﻿(f) of the principal Act is amended by inserting, after the words local authority, the words , whether or not.
 
 ### 8 Application for on-licences
 Section 9 of the principal Act is amended by adding the following subsections:
@@ -131,9 +131,9 @@ The principal Act is amended by repealing section 12, and substituting the follo
     (f) The steps to be taken by the licensee to ensure that the provisions of this Act relating to the sale of liquor to prohibited persons are observed:
     (g) The designation of the whole or any part or parts of the premises or conveyance as a restricted area or supervised area:
     (h) The persons or types of persons to whom liquor may be sold or supplied.
-  (6) Different conditions may be imposed under subsection (5)(a) in respect of different parts of the premises or conveyance.
-  (7) In determining whether to impose conditions under subsection (5)(a) and, if so, what conditions, the Licensing Authority or District Licensing Agency, as the case may be, may have regard to the site of the premises in relation to neighbouring land use.
-  (8) Subsection (5)(h) applies subject to the Human Rights Act 1993.
+  (6) Different conditions may be imposed under subsection (5)﻿(a) in respect of different parts of the premises or conveyance.
+  (7) In determining whether to impose conditions under subsection (5)﻿(a) and, if so, what conditions, the Licensing Authority or District Licensing Agency, as the case may be, may have regard to the site of the premises in relation to neighbouring land use.
+  (8) Subsection (5)﻿(h) applies subject to the Human Rights Act 1993.
 
 ### 14 Variation of conditions
 (1) Section 16 of the principal Act is amended by repealing subsection (1), and substituting the following subsection:
@@ -167,7 +167,7 @@ The principal Act is amended by repealing section 20, and substituting the follo
   (5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
 
 ### 18 Unopposed applications to be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
-Section 21(3)(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
+Section 21(3)﻿(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
 
 ### 19 Temporary authority
 Section 24(1) of the principal Act is amended by inserting, after the word conveyance, the words , or any business conducted in any premises or conveyance,.
@@ -187,7 +187,7 @@ Section 29 of the principal Act is amended by adding the following subsection:
   (b) Any company within the meaning of the Companies Act 1993 that is not prevented by a restriction in its constitution from selling liquor or from holding a licence under this Act; or
   (ba) Any body corporate (whether incorporated in or outside New Zealand) that is authorised to sell liquor or hold a licence under this Act or under any previous enactment relating to the sale of liquor; or
   (bb) Any board, organisation, or other body that is authorised by another Act to sell liquor or hold an off-licence under this Act; or.
-(2) Section 30(1)(f) of the principal Act is amended by inserting, after the words local authority, the words , whether or not.
+(2) Section 30(1)﻿(f) of the principal Act is amended by inserting, after the words local authority, the words , whether or not.
 
 ### 24 Application for off-licences
 Section 31 of the principal Act is amended by adding the following subsections:
@@ -234,7 +234,7 @@ The principal Act is amended by repealing section 34, and substituting the follo
 (4) Section 37(4) of the principal Act is amended by adding the following paragraph:
   (d) The persons or types of persons to whom liquor may be sold or supplied.
 (5) Section 37 of the principal Act is amended by inserting, after subsection (5), the following subsection:
-  (5A) Subsection (4)(d) applies subject to the Human Rights Act 1993.
+  (5A) Subsection (4)﻿(d) applies subject to the Human Rights Act 1993.
 (6) Section 37(5) and (6) of the principal Act is amended by inserting, after the words Licensing Authority in each place where they occur, the words or District Licensing Agency, as the case may be,.
 
 ### 31 Variation of conditions
@@ -265,7 +265,7 @@ Section 43 of the principal Act is amended by repealing subsections (2) and (3),
 ### 35 Unopposed applications to be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 (1) Section 44(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:.
   (b) No report containing matters in opposition is filed with the District Licensing Agency under section 43,—
-(2) Section 44(3)(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
+(2) Section 44(3)﻿(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
 
 ### 36 Temporary authority
 Section 47(1) of the principal Act is amended by inserting, after the word premises, the words , or any business conducted in any premises,.
@@ -314,7 +314,7 @@ The principal Act is amended by repealing section 58, and substituting the follo
     (b) A copy of the public notice of the application, and a statement of the dates of publication of the notice; and
     (c) Any objection, and any papers filed in support of any objection; and
     (d) Any reports made under section 57; and
-    (e) The certificate of approval referred to in section 55(1)(e).
+    (e) The certificate of approval referred to in section 55(1)﻿(e).
 
 ### 44 Criteria for club licences
 (1) Section 59(1) of the principal Act is amended by omitting the words Licensing Authority shall, and substituting the words Licensing Authority or District Licensing Agency, as the case may be, must.
@@ -326,7 +326,7 @@ The principal Act is amended by repealing section 58, and substituting the follo
 (3) Section 59(2) of the principal Act is amended by omitting the words Licensing Authority shall, and substituting the words Licensing Authority or District Licensing Agency, as the case may be, must.
 
 ### 45 Conditions of club licences
-(1) Section 60(1)(b) of the principal Act is amended by inserting, after the words Licensing Authority, the words or District Licensing Agency (whichever granted the licence).
+(1) Section 60(1)﻿(b) of the principal Act is amended by inserting, after the words Licensing Authority, the words or District Licensing Agency (whichever granted the licence).
 (2) Section 60 of the principal Act is amended by repealing subsection (2), and substituting the following subsections:
   (2) On granting an application for a club licence, the Licensing Authority or District Licensing Agency, as the case may be, may impose conditions relating to the following matters:
     (a) The days on which and the hours during which liquor may be sold:
@@ -337,8 +337,8 @@ The principal Act is amended by repealing section 58, and substituting the follo
     (f) The steps to be taken by the licensee to ensure that the provisions of this Act relating to the sale of liquor to prohibited persons are observed:
     (g) The designation of the whole or any part or parts of the premises as a restricted area or supervised area:
     (h) The persons or types of persons to whom liquor may be sold or supplied.
-  (2A) Different conditions may be imposed under subsection (2)(a) in respect of different parts of the premises.
-  (2B) Subsection (2)(h) applies subject to the Human Rights Act 1993.
+  (2A) Different conditions may be imposed under subsection (2)﻿(a) in respect of different parts of the premises.
+  (2B) Subsection (2)﻿(h) applies subject to the Human Rights Act 1993.
 (3) Section 60(3) of the principal Act is amended by inserting, after the words Licensing Authority, the words or District Licensing Agency, as the case may be,.
 (4) Section 60(4) of the principal Act is amended by—
   (a) Omitting from paragraph (a) the words Licensing Authority shall, and substituting the words Licensing Authority or District Licensing Agency, as the case may be, must; and
@@ -374,7 +374,7 @@ The principal Act is amended by repealing section 66, and substituting the follo
   (5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
 
 ### 50 Unopposed applications to be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
-Section 67(3)(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
+Section 67(3)﻿(d) of the principal Act is amended by omitting the word The, and substituting the word Any.
 
 ### 51 Annual Returns
 Section 72 of the principal Act is repealed.
@@ -414,7 +414,7 @@ Section 78 of the principal Act is amended by repealing subsections (2) to (4), 
     (i) The sale and supply of non-alcoholic refreshments and food; and
     (ii) The sale and supply of low-alcohol beverages; and
     (iii) The provision of assistance with or information about alternative forms of transport from the licensed premises:
-(2) Section 79(1)(g) of the principal Act is amended by omitting the word The, and substituting the word Any.
+(2) Section 79(1)﻿(g) of the principal Act is amended by omitting the word The, and substituting the word Any.
 
 ### 59 Conditions of special licences
 (1) Section 80(2) of the principal Act is amended by inserting, after paragraph (b), the following paragraphs:.
@@ -425,7 +425,7 @@ Section 78 of the principal Act is amended by repealing subsections (2) to (4), 
   (g) The containers in which liquor may be sold.
 
 ### 60 Duration of special licences
-(1) Section 82(1)(a) of the principal Act is amended by omitting the word particular.
+(1) Section 82(1)﻿(a) of the principal Act is amended by omitting the word particular.
 (2) Section 82(2) of the principal Act is amended by omitting the word particular.
 
 ### 61 Functions of Authority
@@ -501,7 +501,7 @@ Section 124 of the principal Act is amended by repealing subsections (2) and (3)
   (5) The Secretary must send to the applicant a copy of any reports filed with the District Licensing Agency under this section.
 
 ### 72 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
-Section 125(3)(b) of the principal Act is amended by omitting the word The and substituting the word Any.
+Section 125(3)﻿(b) of the principal Act is amended by omitting the word The and substituting the word Any.
 
 ### 73 Criteria for renewal
 Section 126(c) of the principal Act is amended by adding the words with the aim of contributing to the reduction of liquor abuse.
@@ -542,7 +542,7 @@ The principal Act is amended by inserting, after section 132, the following sect
   (6) At the hearing, the Police and the licensee (whether personally or by counsel),—
     (a) Are entitled to appear and be heard; and
     (b) May call, examine, and cross-examine witnesses.
-  (7) A certificate of the conviction included in the report of the Police under subsection (3)(a) is conclusive evidence that the licensee or manager or person committed the offence referred to in the certificate.
+  (7) A certificate of the conviction included in the report of the Police under subsection (3)﻿(a) is conclusive evidence that the licensee or manager or person committed the offence referred to in the certificate.
   (8) At the conclusion of the hearing, the Licensing Authority may make an order under subsection (9) if it is satisfied that—
     (a) The licensed premises concerned have been conducted in breach of the provisions of this Act or of any conditions of the licence or otherwise in an improper manner; or
     (b) The licensee is not a suitable person to hold a licence; and
@@ -610,7 +610,7 @@ Section 159 of the principal Act is repealed.
 ### 89 Employment of minors
 (1) Section 161(2) of the principal Act is amended by omitting the expression 20, and substituting the expression 18.
 (2) Section 161(2) of the principal Act is amended by omitting the expression $1,000, and substituting the expression $2,000.
-(3) Section 161(3)(b) of the principal Act is repealed.
+(3) Section 161(3)﻿(b) of the principal Act is repealed.
 
 ### 90 Purchasing of liquor by minors
 (1) Section 162(1) of the principal Act is amended by omitting the expression 20, and substituting the expression 18.
@@ -643,7 +643,7 @@ The principal Act is amended by inserting, after section 162, the following sect
 (1) Section 163 of the principal Act is amended by repealing subsections (1) and (2), and substituting the following subsections:
   (1) Every person commits an offence and is liable to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any restricted area on any licensed premises.
   (2) Every person commits an offence and is liable to a fine not exceeding $1,000 who, being under the age of 18 years, is found in any supervised area on any licensed premises unless that person is accompanied by his or her parent or guardian.
-(2) Section 163(3)(c) of the principal Act is repealed.
+(2) Section 163(3)﻿(c) of the principal Act is repealed.
 (3) Section 163(3) of the principal Act is amended by adding the following paragraph:
   (d) Who is in the supervised area for the purpose of selling or supplying liquor.
 
@@ -694,7 +694,7 @@ Section 169(1) of the principal Act is amended by omitting the expression $1,000
 
 ### 99 Being on licensed premises outside licensing hours
 (1) Section 170(1) of the principal Act is amended by omitting the expression $1,000, and substituting the expression $2,000.
-(2) Section 170(2) is amended by repealing paragraph (d)(iv), and substituting the following subparagraph and paragraph:
+(2) Section 170(2) is amended by repealing paragraph (d)﻿(iv), and substituting the following subparagraph and paragraph:
   (iv) Checking or removing cash; or
   (e) Any employee of the licensee not living on the premises at any time while he or she is employed on the premises or at any time not later than 1 hour after such employment has ceased for the day.
 
@@ -752,7 +752,7 @@ Section 227(3) of the principal Act is amended by inserting, after the word fee,
 
 ### 114 Regulations
 Section 229 of the principal Act is amended by inserting, after paragraph (e), the following paragraphs:.
-  (ea) Prescribing the requirements and procedure that an applicant for an evidence of age document under section 2A(2)(d) must satisfy and follow before the document can be issued to the applicant:
+  (ea) Prescribing the requirements and procedure that an applicant for an evidence of age document under section 2A(2)﻿(d) must satisfy and follow before the document can be issued to the applicant:
   (eb) Requiring licences or any class of licence to have endorsed on, or attached to, them a description of the land and premises they relate to:
   (ec) Prescribing the form and extent of, and the procedure for varying, a description required by regulations made under paragraph (eb):
   (ed) Prescribing the infringement fee payable in respect of infringement offences:
@@ -774,7 +774,7 @@ Section 246 of the principal Act is repealed.
   (a) The condition prohibiting the sale or delivery of liquor on Sunday applied only to Easter Sunday; and
   (b) The licence contained a condition prohibiting the sale and delivery of liquor before 1 pm on Anzac Day; and
   (c) The licence contained a condition permitting the sale and delivery of liquor between 9 am and 10 pm on Sunday (other than Easter Sunday) and after 1 pm on Anzac Day; and
-  (d) In relation to an off-licence granted in respect of premises described in section 36(1)(d), there were a condition permitting the sale of beer that conforms to the standard prescribed by regulation 218 of the Food Regulations 1984, or any other standard that may be set, by regulations made under the Food Act 1981 or by food standards set under that Act, in substitution for that standard.
+  (d) In relation to an off-licence granted in respect of premises described in section 36(1)﻿(d), there were a condition permitting the sale of beer that conforms to the standard prescribed by regulation 218 of the Food Regulations 1984, or any other standard that may be set, by regulations made under the Food Act 1981 or by food standards set under that Act, in substitution for that standard.
 
 ### 118 Repeals
 The enactments specified in Schedule 1 are repealed.
@@ -860,4 +860,4 @@ The Summary Offences Act 1981 is amended by inserting, after section 38, the fol
 | --- | --- |
 | 1981, No 113—The Summary Offences Act 1981 (RS Vol 28, p 887) | By omitting from section 38(3)—aThe expression 20, and substituting the expression 18; andbThe words spouse (being an adult) or by his parent or guardian or any other person (being an adult) acting in the place of his parent, and substituting the words or her parent or legal guardian. |
 | 1981, No 125—The Wine Makers Act 1981 | By repealing the definition of the term chartered club in section 2. |
-| 1990, No 98—The Civil Aviation Act 1990 (RS Vol 32, p 1) | By omitting from section 96(1) and (2)(a) the expression 20 in each place where it occurs, and substituting in each case the expression 18. |
+| 1990, No 98—The Civil Aviation Act 1990 (RS Vol 32, p 1) | By omitting from section 96(1) and (2)﻿(a) the expression 20 in each place where it occurs, and substituting in each case the expression 18. |
