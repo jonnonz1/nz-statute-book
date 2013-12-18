@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -870,18 +870,19 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (a) gives any certificate; or
   (b) makes any return or statement in writing—
 
-### 89 Bringing liquor into defence areas, etc
+### 89 Bringing alcohol into defence areas, etc
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, in New Zealand,—
-  (a) intentionally and without authority brings or conveys any alcoholic liquor into any naval ship or defence area, or any other place where members of the Armed Forces are quartered or serving, otherwise than for delivery into any canteen or mess or to any premises occupied as married quarters, with the knowledge that the ship is a naval ship, the area is a defence area, or the place is one where members of the Armed Forces are quartered or serving, as the case may be; or
-  (b) is knowingly and without authority in possession of any alcoholic liquor in any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving; or
-  (c) being in possession of alcoholic liquor, approaches or loiters in the vicinity of any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving, with intent to bring liquor into the ship or area otherwise than for delivery to a mess or canteen or to premises occupied as married quarters.
+  (a) intentionally and without authority brings or conveys any alcohol into any naval ship or defence area, or any other place where members of the Armed Forces are quartered or serving, otherwise than for delivery into any canteen or mess or to any premises occupied as married quarters, with the knowledge that the ship is a naval ship, the area is a defence area, or the place is one where members of the Armed Forces are quartered or serving, as the case may be; or
+  (b) is knowingly and without authority in possession of any alcohol in any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving; or
+  (c) being in possession of alcohol, approaches or loiters in the vicinity of any naval ship or defence area, or other place where members of the Armed Forces are quartered or serving, with intent to bring alcohol into the ship or area otherwise than for delivery to a mess or canteen or to premises occupied as married quarters.
 (2) Any officer or non-commissioned officer who has reasonable grounds to suspect that an offence against subsection (1) is being or has been committed, with or without persons under that officer’s command, may—
   (a) enter into or on and search any ship, aircraft, conveyance, or vehicle of any kind that is entering or is within a defence area or any place where members of the Armed Forces are quartered or serving; and
   (b) detain any person whom that officer reasonably suspects is committing or has committed any such offence, and search any parcel, case, bag, luggage, jar, bottle, or other receptacle in that person’s possession; and
-  (c) if any liquor is found as a result of any such search, seize the liquor, together with any receptacle holding it, unless the liquor is for delivery to any canteen or mess or to any premises occupied as married quarters.
+  (c) if any alcohol is found as a result of any such search, seize the alcohol, together with any receptacle holding it, unless the alcohol is for delivery to any canteen or mess or to any premises occupied as married quarters.
 (3) Subject to subsection (4), any officer or non-commissioned officer or any constable may, with or without a warrant, apprehend or cause to be apprehended any person whom that officer or that constable has reasonable grounds to suspect is committing or has committed an offence against this section, and bring that person or cause that person to be brought before a District Court Judge to be dealt with for the suspected offence.
 (4) If, in any case to which subsection (3) applies, the person is subject to the Armed Forces Discipline Act 1971, that person shall be dealt with in accordance with the corresponding provisions of that Act.
-(5) Any liquor seized under the authority of this section shall, on the conviction of the person from whom the liquor was seized, together with any receptacles holding the liquor, be forfeited to the Crown. The liquor and receptacles so forfeited shall then be sold by public auction and the proceeds of sale shall be paid into an appropriate bank account in accordance with the Public Finance Act 1989.
+(5) Any alcohol seized under the authority of this section shall, on the conviction of the person from whom the alcohol was seized, together with any receptacles holding the alcohol, be forfeited to the Crown. The alcohol and receptacles so forfeited shall then be sold by public auction and the proceeds of sale shall be paid into an appropriate bank account in accordance with the Public Finance Act 1989.
+(5A) In this section, alcohol has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012.
 (6) For the purposes of this section, the term defence area does not include any road, street, or other thoroughfare through which members of the general public are authorised to pass.
 
 ### 90 Evidence
