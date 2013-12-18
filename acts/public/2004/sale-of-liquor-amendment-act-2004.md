@@ -1,5 +1,5 @@
 # Sale of Liquor Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 (1) This Act is the Sale of Liquor Amendment Act 2004.
@@ -22,7 +22,7 @@ The purpose of this Part is—
   (d) to permit licensing trusts to reconstitute as community trusts.
 
 ### 4 Interpretation
-Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
   - **community trust** means—
     (a) a community trust established under section 219G; or
     (b) a community trust that is the amalgamation of 2 or more community trusts under section 219Z
@@ -102,7 +102,7 @@ The principal Act is amended by inserting, after section 207, the following sect
     (c) all money payable to or by the licensing trust is payable to or by the community trust:
     (d) all liabilities, contracts (including employment agreements), and engagements, and all rights and authorities of any nature whatever, of the licensing trust are the liabilities, contracts, engagements, rights, and authorities of the community trust:
     (e) all proceedings by or against the licensing trust may be carried on or prosecuted by or against the community trust.
-  (4) To avoid doubt, in the case of a licensing trust to which sections 215 and 216 apply, subsection (3)(d) does not apply to the exclusive right referred to in section 215(2).
+  (4) To avoid doubt, in the case of a licensing trust to which sections 215 and 216 apply, subsection (3)﻿(d) does not apply to the exclusive right referred to in section 215(2).
   (5) Nothing authorised or effected under this section—
     (a) places the licensing trust or the community trust in breach of contract or confidence or makes them guilty of a civil wrong:
     (b) entitles any person to terminate or cancel any contract or arrangement or accelerate the performance of any obligation:
@@ -135,7 +135,7 @@ The principal Act is amended by inserting, after section 207, the following sect
     (l) for the keeping of accounts:
     (m) specifying the manner in which the trust deed may be varied:
     (n) specifying any other matters that the licensing trust or community trust concerned considers appropriate.
-  (2) Subsection (1)(m) applies subject to section 219O.
+  (2) Subsection (1)﻿(m) applies subject to section 219O.
   (1) The trustees of a community trust may vary the trust deed of a community trust by executing a deed of variation of the trust deed.
   (2) A variation of the trust deed must, as soon as practicable after the variation is made, be notified in the Gazette.
   (1) A trust deed of a community trust must not contain provisions inconsistent with this Act.
@@ -235,7 +235,7 @@ The purpose of this Part is—
 
 ### 10 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 Section 12(3) of the principal Act is amended by adding to paragraph (d) the expression ; and, and adding the following paragraph:
-  (e) the certificate referred to in section 9(1)(e).
+  (e) the certificate referred to in section 9(1)﻿(e).
 
 ### 11 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
 (1) Section 21(1) of the principal Act is amended by omitting the words on the conditions presently attaching to it for a further period of 3 years., and substituting the words for a further period of 3 years on—.
@@ -243,14 +243,14 @@ Section 12(3) of the principal Act is amended by adding to paragraph (d) the exp
   (c) the conditions presently attaching to it; or
   (d) such different conditions, relating to any matters specified in section 14(5), as the District Licensing Agency thinks fit.
 (3) Section 21 of the principal Act is amended by inserting, after subsection (1), the following subsection:
-  (1A) The District Licensing Agency must not exercise its power under subsection (1)(d) except in response to a request by the applicant.
+  (1A) The District Licensing Agency must not exercise its power under subsection (1)﻿(d) except in response to a request by the applicant.
 
 ### 12 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
 Section 34(3) of the principal Act is amended by adding to paragraph (d) the expression ; and, and adding the following paragraph:
-  (e) the certificate referred to in section 31(1)(e).
+  (e) the certificate referred to in section 31(1)﻿(e).
 
 ### 13 Types of premises in respect of which off-licences may be granted
-(1) Section 36(1)(d)(ii) of the principal Act is amended by inserting, after the words Licensing Authority, the words or District Licensing Agency, as the case may be,.
+(1) Section 36(1)﻿(d)﻿(ii) of the principal Act is amended by inserting, after the words Licensing Authority, the words or District Licensing Agency, as the case may be,.
 (2) Section 36 of the principal Act is amended by adding the following subsection:
   (5) This section applies subject to sections 51 and 52.
 
@@ -264,7 +264,7 @@ Section 34(3) of the principal Act is amended by adding to paragraph (d) the exp
     (a) any member of the club; or
     (b) any member of any other club with which the holder of the licence has an arrangement for reciprocal visiting rights for members of the club.
 (3) Section 37 of the principal Act is amended by inserting, after subsection (3), the following subsection:
-  (3A) However, it is also a condition of every off-licence granted in respect of any premises described in section 36(1)(d) that any food condiment containing liquor may be sold or supplied if the food condiment has been—
+  (3A) However, it is also a condition of every off-licence granted in respect of any premises described in section 36(1)﻿(d) that any food condiment containing liquor may be sold or supplied if the food condiment has been—
     (a) prepared for culinary purposes; and
     (b) rendered unsuitable for drinking.
 (4) This section applies—
@@ -278,7 +278,7 @@ Section 34(3) of the principal Act is amended by adding to paragraph (d) the exp
   (c) the conditions presently attaching to it, or
   (d) such different conditions, relating to any matters specified in section 37(4) and (6) as the District Licensing Agency thinks fit.
 (3) Section 44 of the principal act is amended by inserting, after subsection (1), the following subsection:
-  (1A) The District Licensing Agency must not exercise its power under subsection (1)(d) except in response to a request by the applicant.
+  (1A) The District Licensing Agency must not exercise its power under subsection (1)﻿(d) except in response to a request by the applicant.
 
 ### 16 Special provisions relating to caterers
 (1) Section 51 of the principal Act is amended by repealing subsection (1), and substituting the following subsections:
@@ -290,7 +290,7 @@ Section 34(3) of the principal Act is amended by adding to paragraph (d) the exp
 Section 52 of the principal Act is amended by renumbering subsection (2) (as inserted by section 39 of the Sale of Liquor Amendment Act 1999) as subsection (1A).
 
 ### 18 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
-Section 58(3)(e) of the principal Act is amended by omitting the words of approval.
+Section 58(3)﻿(e) of the principal Act is amended by omitting the words of approval.
 
 ### 19 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
 (1) Section 67(1) of the principal Act is amended by omitting the words on the conditions presently attaching to it for a further period of 3 years., and substituting the words for a further period of 3 years on—.
@@ -298,7 +298,7 @@ Section 58(3)(e) of the principal Act is amended by omitting the words of approv
   (c) the conditions presently attaching to it; or
   (d) such different conditions, relating to any matters specified in section 60(2), as the District Licensing Agency thinks fit.
 (3) Section 67 of the principal Act is amended by inserting, after subsection (1), the following subsection:
-  (1A) The District Licensing Agency must not exercise its power under subsection (1)(d) except in response to a request by the applicant.
+  (1A) The District Licensing Agency must not exercise its power under subsection (1)﻿(d) except in response to a request by the applicant.
 
 ### 20 Kinds of managers' certificates
 Section 117(3) of the principal Act is amended by inserting, after the words club licence, the words or a special licence.
@@ -325,7 +325,7 @@ Section 127 of the principal Act is amended by adding the following subsections:
     (b) ends on the close of the day before that commencement date.
 
 ### 24 Notice of appointment, etc, of manager, temporary manager, or acting manager
-Section 130(3) of the principal Act is amended by omitting the expression subsection (1)(b), and substituting the expression subsection (1A)(c).
+Section 130(3) of the principal Act is amended by omitting the expression subsection (1)﻿(b), and substituting the expression subsection (1A)﻿(c).
 
 ### 25 Purchasing of liquor by minors
 Section 162 of the principal Act is amended by adding the following subsection:
@@ -336,12 +336,12 @@ Section 163 of the principal Act is amended by adding the following subsection:
   (4) Subsections (1) and (2) do not apply to a person who is in a restricted area or supervised area on licensed premises at the request of a member of the police acting in the course of his or her duties.
 
 ### 27 Regulations
-(1) Section 229 of the principal Act is amended by repealing paragraph (aa), and substituting the following paragraphs:.
+(1) Section 229 of the principal Act is amended by repealing paragraph (aa), and substituting the following paragraphs:
   (aa) prescribing—
     (i) the qualification to be held by a person before the person is entitled to hold a general manager's certificate:
     (ii) 1 or more requirements or criteria for the qualification or for a course of training which, if successfully completed, is to be treated as entitling a person to hold a general manager's certificate:
   (ab) prescribing the circumstances and conditions under which persons holding a general manager's certificate at the commencement of section 117A (as substituted by the Sale of Liquor Amendment Act 2004) and applying to renew them on or after that commencement are to be treated as if they held a prescribed qualification for the purposes of that section:
-(2) Section 229 of the principal Act is amended by repealing paragraph (eb), and substituting the following paragraph:.
+(2) Section 229 of the principal Act is amended by repealing paragraph (eb), and substituting the following paragraph:
   (eb) for the purposes of describing premises in licences, requiring licences or any class of licence to have endorsed on, or attached to, them a description of the premises or part or parts of the premises they relate to:
 (3) Section 123 of the Sale of Liquor Amendment Act 1999 is consequentially repealed.
 
