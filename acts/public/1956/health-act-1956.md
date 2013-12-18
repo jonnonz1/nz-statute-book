@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -1846,7 +1846,7 @@ If the death of any person is suspected to have been due to a notifiable disease
   (c) lets for hire any house or part of a house in which there then is, or within the previous month has been, any person to his knowledge suffering from any communicable disease, unless the house or part thereof, as the case may be, and all things therein liable to infection have been effectively disinfected to the satisfaction of a medical officer of health before the person hiring goes into occupation:
   (d) when letting or negotiating to let to any person for hire any house in which any person suffering from an infectious disease is then living, or any part of any such house, does not disclose that fact.
 (3) For the purposes of this section, the expression public place has the same meaning as in section 2 of the Summary Offences Act 1981.
-(4) For the purposes of this section, the keeper of a lodginghouse or boardinghouse or the licensee or person charged with the management of any premises licensed or deemed to be licensed under the Sale of Liquor Act 1989 shall be deemed to let part of a house for hire to any person admitted as a guest or lodger to the lodginghouse or boardinghouse or premises.
+(4) For the purposes of this section, the keeper of a lodginghouse or boardinghouse or the licensee or person charged with the management of any premises licensed or deemed to be licensed under the Sale and Supply of Alcohol Act 2012 shall be deemed to let part of a house for hire to any person admitted as a guest or lodger to the lodginghouse or boardinghouse or premises.
 
 ### 81 Power of local authority to disinfect premises
 Where the local authority is of opinion that the cleansing or disinfection of any premises or of any article is necessary for preventing the spread or limiting or eradicating the infection of any infectious disease, the local authority may authorise any environmental health officer, with or without assistants, to enter on the premises and to carry out such cleansing and disinfection.
