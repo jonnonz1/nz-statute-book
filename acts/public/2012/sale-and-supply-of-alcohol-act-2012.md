@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -462,7 +462,7 @@ The licensing authority or licensing committee concerned must not direct that an
 ### 39 Off-licences for auctioneers
 (1) The licensing authority or licensing committee concerned must, when directing that an off-licence should be issued, direct that it should be endorsed to indicate that this section applies to it if (and only if),—
   (a) when applying for it, the holder asked for it to be endorsed under this section; and
-  (b) the authority or committee is satisfied that the holder holds an auctioneer's licence under the Auctioneers Act 1928.
+  (b) the authority or committee is satisfied that the holder is registered as an auctioneer under the Auctioneers Act 2013.
 (2) Sections 101 to 103 do not apply to an application for an off-licence if, when applying for it, the applicant asked for it to be endorsed under this section.
 (3) Sections 56, 57, and 212 do not apply to an off-licence endorsed under this section.
 
