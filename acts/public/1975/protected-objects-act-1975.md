@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > Title
 
@@ -21,7 +21,7 @@ The purpose of this Act is to provide for the better protection of certain objec
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **auctioneer** means an auctioneer as defined in section 2 of the Auctioneers Act 1928
+  - **auctioneer** means a person who is registered as an auctioneer under the Auctioneers Act 2013
   - **authorised public museum** means any public museum specified in Schedule 1
   - **book** means any collection of printed sheets of paper or other material, and includes every part or division of a book and every pamphlet, magazine, periodical, sheet of letterpress, sheet of music, map, plan, chart, art print, or table separately published
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
