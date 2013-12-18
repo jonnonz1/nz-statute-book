@@ -1,5 +1,5 @@
 # Alcoholism and Drug Addiction Act 1966
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate and amend the Reformatory Institutions Act 1909 and its amendments, and to make better provision for the care and treatment of alcoholics and drug addicts
 
@@ -9,7 +9,8 @@ _Consolidation as at 2013-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **alcoholic** means a person whose persistent and excessive indulgence in alcoholic liquor is causing or is likely to cause serious injury to his health or is a source of harm, suffering, or serious annoyance to others or renders him incapable of properly managing himself or his affairs
+  - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **alcoholic** means a person whose persistent and excessive indulgence in alcohol is causing or is likely to cause serious injury to his health or is a source of harm, suffering, or serious annoyance to others or renders him incapable of properly managing himself or his affairs
   - **committal order** means an order requiring a person to be detained in an institution for treatment for alcoholism (other than an order made under section 8)
   - **institution** means a certified institution under this Act
   - **managers** , in relation to any institution (other than an institution conducted by the Crown), means the person or body of persons having the possession and control of the institution
@@ -127,7 +128,7 @@ Where a patient is on leave of absence under paragraph (c) of subsection (1) of 
 
 ### 20 Revocation of leave of absence
 (1) Where any patient who is absent on leave from an institution is convicted in any court of any offence of which drunkenness forms a necessary element, or of any offence which is shown to have been committed under the influence of alcohol or in which drunkenness is shown to be a contributing cause, the Judge or District Court Judge, as the case may be, may if he thinks fit revoke the order under which the patient was released on leave of absence and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
-(2) Where any District Court Judge, on the application of any constable or of any other reputable person, is satisfied that any patient who is absent on leave from an institution has been taking or using in excess alcoholic liquor or any intoxicating, stimulating, narcotic, or sedative drug or drugs, or has contravened or failed to comply with any of the terms or conditions on or subject to which he was released on leave, the District Court Judge may if he thinks fit revoke the order under which the patient was released on leave and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
+(2) Where any District Court Judge, on the application of any constable or of any other reputable person, is satisfied that any patient who is absent on leave from an institution has been taking or using in excess alcohol or any intoxicating, stimulating, narcotic, or sedative drug or drugs, or has contravened or failed to comply with any of the terms or conditions on or subject to which he was released on leave, the District Court Judge may if he thinks fit revoke the order under which the patient was released on leave and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
 (3) On any application under subsection (2) the District Court Judge may, if he thinks fit, issue his warrant for the arrest of the patient.
 (4) Where an order is made under this section the patient may be taken to an institution in the same manner as if the order were an order for detention under this Act.
 (5) On any application under subsection (2) the District Court Judge may, in his discretion, adjourn the determination of the application from time to time, for periods not exceeding 1 month at any one time and not exceeding 2 months in the aggregate, and may from time to time make such order as he thinks fit for the care, control, and detention of the person to whom the application relates pending the determination of the application.
@@ -173,8 +174,8 @@ Every person commits an offence against this Act and is liable on conviction to 
 ### 26 Improper conduct
 Every patient commits an offence against this Act who is wilfully guilty of any violent, unruly, insubordinate, destructive, indecent, offensive, or insulting conduct.
 
-### 27 Supplying liquor or drugs to patients
-Every person commits an offence against this Act who, not being a medical practitioner or a person acting pursuant to the written authority of a medical practitioner, procures or attempts to procure any intoxicating liquor or any stimulating, narcotic, or sedative drug for, or sends, takes, or delivers, or attempts to send, take, or deliver any such liquor or drug to, any person whom he knows to be a patient, whether that patient is detained in the institution or is absent therefrom on leave or otherwise howsoever.
+### 27 Supplying alcohol or drugs to patients
+Every person commits an offence against this Act who, not being a medical practitioner or a person acting pursuant to the written authority of a medical practitioner, procures or attempts to procure any alcohol or any stimulating, narcotic, or sedative drug for, or sends, takes, or delivers, or attempts to send, take, or deliver any such alcohol or drug to, any person whom he knows to be a patient, whether that patient is detained in the institution or is absent therefrom on leave or otherwise howsoever.
 
 ### 28 Trespass
 Every person commits an offence against this Act who wilfully trespasses without lawful excuse on any land knowing or having reasonable cause to believe that it is part of an institution.
