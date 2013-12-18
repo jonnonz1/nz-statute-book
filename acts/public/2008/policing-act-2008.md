@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -396,7 +396,7 @@ The outcomes mentioned in section 34(2)(b) are as follows:
 (3) Property may not be sold under subsection (1) unless a notice of its proposed sale has earlier been published in a newspaper circulating in the district in which the sale is to be held, or on a website authorised for the purpose by the Commissioner.
 (4) Perishable property may be sold at any time and in any manner the Commissioner directs.
 (5) Property (whether perishable or not) that has no monetary value, or only negligible monetary value, may be destroyed.
-(6) The Commissioner may, if he or she thinks fit, appoint any person, whether or not the holder of any licence required to conduct an auction under the Auctioneers Act 1928, to conduct an auction under this section.
+(6)
 
 ### 42 Unclaimed money, and proceeds of sale of unclaimed property
 (1) Any money that has come into the possession of a Police employee in the course of duty, and is unclaimed, must be paid into a Crown Bank Account.
@@ -429,7 +429,7 @@ The outcomes mentioned in section 34(2)(b) are as follows:
 ### 45 Police employee may appear in Court by another employee
 A Police employee who is to appear (otherwise than as a witness) in the execution of his or her duty may appear by another Police employee in any proceedings—
   (a) in a District Court; or
-  (b) before the Liquor Licensing Authority, a District Licensing Agency, or any other Commission, Inquiry, Board, or Tribunal.
+  (b) before the Alcohol Regulatory and Licensing Authority, a licensing committee, or any other Commission, Inquiry, Board, or Tribunal.
 
 ### 46 Police dogs may accompany Police dog handlers
 Despite any other enactment or rule of law,—
@@ -825,7 +825,7 @@ In any proceedings,—
 (4)
 
 ### 100 Scope of review by State Services Commissioner
-If the State Services Commissioner is directed or requested under section 11 of the State Sector Act 1988 to carry out, under section 6(b)of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in section 16(1).
+If the State Services Commissioner is directed or requested under section 11 of the State Sector Act 1988 to carry out, under section 6(c) of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in section 16(1).
 
 ### 101 Annual report
 The annual report of the Police required under section 43 of the Public Finance Act 1989—
