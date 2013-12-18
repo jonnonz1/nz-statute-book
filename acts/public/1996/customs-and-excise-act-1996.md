@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -140,7 +140,7 @@ _Consolidation as at 2013-12-05_
     (b) if the goods are a fuel, any operation, or process, involved in the production of the goods:
     (c) if the goods are neither tobacco nor a fuel,—
       (i) any operation, or process, involved in the production of the goods; and
-      (ii) any ancillary process (as defined in subsection (3)) that takes place on premises that are not licensed, or required to be licensed, under the Sale of Liquor Act 1989
+      (ii) any ancillary process (as defined in subsection (3)) that takes place on premises that are not licensed, or required to be licensed, under the Sale and Supply of Alcohol Act 2012
   - **manufactured tobacco** means tobacco that has been manufactured or prepared for smoking or any other purpose
   - **manufacturing area** means a place licensed under section 12 for the purpose described in section 10(a)
   - **Minister** means the Minister of Customs
