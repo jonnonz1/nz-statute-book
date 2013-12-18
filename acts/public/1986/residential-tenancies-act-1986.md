@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -133,7 +133,7 @@ This Act applies to every tenancy for residential purposes except as specificall
     (i) at a school hostel (being a hostel within the meaning of section 2 of the Education Act 1989); or
     (ii) in accordance with the requirements of section 5B:
   (i) where the premises constitute part of a building occupied by a club and used by the club for the provision of temporary or transient accommodation to members of the club:
-  (j) where the premises constitute part of any hotel in respect of which an on-licence is in force under the Sale of Liquor Act 1989:
+  (j) where the premises constitute part of any hotel in respect of which an on-licence is in force under the Sale and Supply of Alcohol Act 2012:
   (k) where the premises—
     (i) are intended to provide temporary or transient accommodation (such as that provided by hotels and motels), being accommodation that is ordinarily provided for periods of less than 28 days at a time; and
     (ii) are subject to an agreement that has been entered into for the purpose of providing temporary or transient accommodation that continues to be provided under the agreement:
