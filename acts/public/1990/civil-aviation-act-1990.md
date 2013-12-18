@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1550,7 +1550,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 (2) Every person who commits an offence against—
   (a) subsection (1)(a) is liable on conviction to a fine not exceeding $5,000:
   (b) subsection (1)(b) is liable on conviction to a fine not exceeding $3,000.
-(3) For the purposes of this section, a person is intoxicated if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of an intoxicating liquor, or substance to such an extent as to—
+(3) For the purposes of this section, a person is intoxicated if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012) or an intoxicating substance to such an extent as to—
   (a) be incapable of properly looking after himself or herself; or
   (b) actively present a hazard to the aircraft or to persons on the aircraft; or
   (c) offend against the good order and discipline required on an aircraft.
@@ -2867,13 +2867,19 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 
 ## Part 11 — Miscellaneous provisions
 
-### 96 Sale of liquor at international airports
-(1) Liquor may be sold at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years, but any liquor so sold shall not be delivered by or on behalf of the purchaser to any other person within New Zealand or consumed within New Zealand unless it has been entered by the passenger for home consumption in accordance with the Customs and Excise Act 1996.
-(2) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
-  (a) prescribing the circumstances and conditions relating to the control of the sale of liquor at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years:
+### 96 Sale of alcohol at international airports
+(1) Alcohol may be sold at any international airport to any passenger on an aircraft departing from or arriving in New Zealand if—
+  (a) in the case of alcohol bought for consumption off the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012; and
+  (b) in the case of alcohol bought for consumption on the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012.
+(2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 1996, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
+(3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
+  (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)(a) or (b) (as the case requires):
   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
-(3) Every person who does any act in contravention of this section commits an offence and is liable on conviction to a fine not exceeding $1,000.
-(4) Nothing in the Sale of Liquor Act 1989 shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
+(4) A person commits an offence who—
+  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)(a) or (b) (as the case requires); or
+  (b) fails to comply with subsection (2).
+(5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000.
+(6) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under it.
 
 ### 96A Minister may prohibit smoking on international air routes
 (1) For the purposes of this section and sections 96B and 96C,—
