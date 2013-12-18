@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1730,27 +1730,54 @@ Without limiting section 145, a territorial authority may make bylaws for its di
     (vi) reserves, recreation grounds, or other land under the control of the territorial authority:
   (c) subject to sections 20 to 22 of the Forest and Rural Fires Act 1977, of preventing the spread of fires involving vegetation.
 
-### 147 Power to make bylaws for liquor control purposes
+### 147 Power to make bylaws for alcohol control purposes
 (1) In this section,—
-  - **liquor** has the meaning given to it in the Sale of Liquor Act 1989
+  - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **licensed premises** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **public place** —
-    (a) means a place—
-      (i) that is under the control of the territorial authority; and
-      (ii) that is open to, or being used by, the public, whether or not there is a charge for admission; and
-    (b) includes—
-      (i) a road, whether or not the road is under the control of a territorial authority; and
-      (ii) any part of a public place.
-(2) Without limiting section 145, a territorial authority may make bylaws for its district for the purpose of prohibiting or otherwise regulating or controlling, either generally or for 1 or more specified periods,—
-  (a) the consumption of liquor in a public place:
-  (b) the bringing of liquor into a public place:
-  (c) the possession of liquor in a public place:
-  (d) in conjunction with a prohibition relating to liquor under paragraphs (a) to (c), the presence or use of a vehicle in a public place.
-(3) A bylaw made under this section does not prohibit, in the case of liquor in an unopened bottle or other unopened container,—
-  (a) the transport of that liquor from premises that adjoin a public place during any period when, under the Sale of Liquor Act 1989, it is lawful to sell liquor on those premises for consumption off the premises, provided the liquor is promptly removed from the public place:
-  (b) the transport of that liquor from outside a public place for delivery to premises that adjoin the public place, provided the premises are licensed for the sale of liquor under the Sale of Liquor Act 1989:
-  (c) the transport of that liquor from outside a public place to premises that adjoin a public place—
-    (i) by, or for delivery to, a resident of those premises or by his or her bona fide visitors; or
-    (ii) from those premises to a place outside the public place by a resident of those premises, provided the liquor is promptly removed from the public place.
+    (a) means a place that is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from it; but
+    (b) does not include licensed premises.
+(2) A territorial authority may make bylaws for its district for the purpose of prohibiting or otherwise regulating or controlling, either generally or for one or more specified periods, any or all of the following:
+  (a) the consumption of alcohol in public places:
+  (b) the bringing of alcohol into public places:
+  (c) the possession of alcohol in public places.
+(3) In conjunction with a bylaw under subsection (2), a territorial authority may make bylaws for its district for the purpose of prohibiting or otherwise regulating or controlling, either generally or for one or more specified periods, the presence or consumption of alcohol in vehicles, or vehicles of stated kinds or descriptions, in public places.
+(4) A bylaw under this section does not prohibit, regulate, or control, in the case of alcohol in an unopened container,—
+  (a) the transport of the alcohol from licensed premises next to a public place, if—
+    (i) it was lawfully bought on those premises for consumption off those premises; and
+    (ii) it is promptly removed from the public place; or
+  (b) the transport of the alcohol from outside a public place for delivery to licensed premises next to the public place; or
+  (c) the transport of the alcohol from outside a public place to premises next to a public place by, or for delivery to, a resident of the premises or his or her bona fide visitors; or
+  (d) the transport of the alcohol from premises next to a public place to a place outside the public place if—
+    (i) the transport is undertaken by a resident of those premises; and
+    (ii) the alcohol is promptly removed from the public place.
+(5) Subsections (2) and (3) do not limit section 145.
+
+### 147A Criteria for making or continuing bylaws
+(1) Before making a bylaw under section 147, a territorial authority—
+  (a) must be satisfied that it can be justified as a reasonable limitation on people's rights and freedoms; and
+  (b) except in the case of a bylaw that will apply temporarily for a large scale event, must also be satisfied that—
+    (i) there is evidence that the area to which the bylaw is intended to apply has experienced a high level of crime or disorder that can be shown to have been caused or made worse by alcohol consumption in the area; and
+    (ii) the bylaw is appropriate and proportionate in the light of that crime or disorder.
+(2) Before deciding that a bylaw under section 147 should continue without amendment, a territorial authority must be satisfied that the level of crime or disorder experienced before the bylaw was made (being crime or disorder that can be shown to have been caused or made worse by alcohol consumption in the area concerned) is likely to return to the area to which the bylaw is intended to apply if the bylaw does not continue.
+(3) Before making under section 147 a bylaw that is intended to replace an expiring bylaw and is to the same effect (or to substantially the same effect) as the expiring bylaw, a territorial authority must be satisfied that—
+  (a) the bylaw can be justified as a reasonable limitation on people's rights and freedoms; and
+  (b) a high level of crime or disorder (being crime or disorder caused or made worse by alcohol consumption in the area concerned) is likely to arise in the area to which the bylaw is intended to apply if the bylaw is not made; and
+  (c) the bylaw is appropriate and proportionate in the light of that likely crime or disorder.
+(4) Subsection (1) does not apply to a bylaw of a kind described in subsection (3).
+
+### 147B Criteria for making resolutions relating to bylaws
+Before making under section 151 a resolution relating to a bylaw under section 147, a territorial authority must be satisfied that—
+  (a) there is evidence that the area to which the bylaw applies (or will apply by virtue of the resolution) has experienced a high level of crime or disorder that can be shown to have been caused or made worse by alcohol consumption in the area; and
+  (b) the bylaw, as applied by the resolution,—
+    (i) is appropriate and proportionate in the light of the evidence; and
+    (ii) can be justified as a reasonable limitation on people's rights and freedoms.
+
+### 147C Signage for areas in which bylaws for alcohol control purposes apply
+Regulations under section 259 may do any or all of the following:
+  (a) require territorial authorities to erect and maintain signs indicating the existence or boundaries of areas in their districts in which a bylaw under section 147 applies:
+  (b) describe the required placement of the signs required to be erected and maintained:
+  (c) prescribe particular forms for particular kinds of sign required to be erected and maintained (including, without limitation, content, size, lettering, symbols, and colouring).
 
 ### 148 Special requirements for bylaws relating to trade wastes
 (1) Before making bylaws under section 146(a)(iii), a territorial authority must send a copy of the proposed bylaws to the Minister of Health for his or her comments.
@@ -1972,26 +1999,34 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 
 **Powers of arrest, search, and seizure in relation to liquor**
 
-### 169 Powers of arrest, search, and seizure in relation to bylaw prohibiting liquor in public place
-(1) In this section and in section 170,—
-  - **bylaw** means a bylaw made under section 147(2)
-  - **liquor** has the meaning given to it in the Sale of Liquor Act 1989
-  - **offence** means an offence under section 239 that is a breach of a bylaw prohibiting—
-    (a) the consumption or possession or both of liquor in, or the bringing of liquor into, a public place; or
-    (b) in conjunction with a prohibition relating to liquor, the presence or use of a vehicle in a public place
-  - **public place** means a public place as defined in section 147(1) in respect of which there is a bylaw prohibiting—
-    (a) the consumption or possession or both of liquor in, or the bringing of liquor into, that place; or
-    (b) in conjunction with a prohibition relating to liquor, the presence or use of a vehicle in that place.
+### 169 Powers of arrest, search, and seizure in relation to alcohol bans
+(1) In this section and in sections 169A and 170,—
+  - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **alcohol ban** means a bylaw made under section 147
+  - **offence** means a breach of an alcohol ban
+  - **restricted place** means a public place (within the meaning of section 147(1)) in respect of which an alcohol ban is in force.
 (2) A constable may, without warrant,—
-  (a) for the purpose of ascertaining whether liquor is present, search—
-    (i) a container (for example, a parcel, package, bag, or case) in the possession of a person who is in, or entering, a public place:
-    (ii) a vehicle that is in, or is entering, a public place:
-  (b) seize and remove liquor and its container if the liquor is in a public place in breach of a bylaw:
-  (c) arrest a person whom the constable finds committing an offence:
-  (d) arrest a person who has refused to comply with a request by a constable—
-    (i) to leave the public place; or
-    (ii) to surrender to a constable the liquor that, in breach of a bylaw, is in that person's possession.
-(3) Liquor or a container seized under subsection (2)(b) is forfeited to the Crown if the person from whom the liquor or container is seized is convicted of breaching the bylaw.
+  (a) for the purpose of ascertaining whether alcohol is present, search—
+    (i) a container (for example, a bag, case, package, or parcel) in the possession of a person who is in, or entering, a restricted place; or
+    (ii) a vehicle that is in, or is entering, a restricted place:
+  (b) seize and remove any alcohol (and its container) that is in a restricted place in breach of an alcohol ban:
+  (c) arrest any person whom the constable finds committing an offence:
+  (d) arrest any person who has refused to comply with a request by a constable—
+    (i) to leave a restricted place; or
+    (ii) to surrender to a constable any alcohol that, in breach of an alcohol ban is in the person's possession.
+(3) Alcohol or a container seized under subsection (2)(b) is forfeited to the Crown if the person from whom the alcohol or container is seized pays the infringement fee.
+
+**Matters of proof in relation to bylaws prohibiting alcohol in public place**
+
+### 169A Proving substance is alcohol in relation to alleged breach of alcohol ban
+(1) In this section, labelled trade container means a container that is of a type sold in the ordinary course of trade, and is labelled to the effect that it contains 1.15% or more ethanol.
+(2) This subsection applies to a substance in respect of which a breach of alcohol ban is alleged to have been committed if the substance was in a container at the time the offence is alleged to have been committed, and—
+  (a) the container was a labelled trade container; or
+  (b) the container was not a labelled trade container but appeared to contain alcohol, and when it was opened the substance smelled like alcohol; or
+  (c) the defendant has at any time made to a constable an admission to the effect that the substance was alcohol.
+(3) If, in any proceedings for a breach of alcohol ban, it is proved that subsection (2) applies to the substance in respect of which the breach is alleged to have been committed, the substance must be presumed to be alcohol unless the defendant—
+  (a) proves that it was not; or
+  (b) has given notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
 
 ### 170 Conditions relating to power of search
 (1) Before exercising the power of search under section 169(2)(a) in relation to a container or a vehicle, a constable must—
@@ -2677,9 +2712,16 @@ Every person who wilfully contravenes clause 11(2) of Schedule 7—
 
 **Offences against bylaws**
 
-### 239 Breach of bylaw
-(1) Every person commits an offence and is liable on conviction to the penalty set out in section 242(4) or (5), as the case may be, who breaches a bylaw made under Part 8.
-(2) A District Court presided over by 2 or more Justices has jurisdiction in respect of any offence that is a breach of a bylaw made under section 147.
+### 239 Offences in respect of breaches of bylaws (other than alcohol bans)
+Every person commits an offence and is liable on conviction to the penalty set out in section 242(4) or (5) (as the case may be), who breaches a bylaw made under Part 8 (other than a bylaw made under section 147).
+
+### 239A Breaches of alcohol bans
+(1) Section 21 of the Summary Proceedings Act 1957 applies to a breach of a bylaw made under section 147 as if—and Part 3 and section 208 of that Act apply accordingly.
+  (a) the breach were an infringement offence within the meaning of that Act; and
+  (b) the person who has committed the breach has committed the offence; and
+  (c) the references in subsection (9) of that section to a defendant's being found guilty of, or pleading guilty to, an infringement offence for which an infringement notice has been issued were references to the person's being found to have committed, or admitting to having committed, the breach;—
+(2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011.
+(3) Subsection (2) overrides subsection (1) and section 21(1)(a) of the Summary Proceedings Act 1957.
 
 **Defences**
 
@@ -2713,22 +2755,36 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### Subpart 3 — Infringement offences
 
 ### 243 Interpretation
-In this subpart,—
-  - **infringement fee** , in relation to an infringement offence, means the amount prescribed by regulations made under section 259(b) as the infringement fee for the offence
-  - **infringement offence** means an offence specified as such in regulations made under section 259(a).
+(1) In this subpart,—
+  - **alcohol ban** means a bylaw made under section 147
+  - **enforcement officer** , in relation to an alcohol ban, means a constable
+  - **infringement fee** ,—
+    (a) in relation to an infringement offence specified as such by regulations under section 259(a), means the amount prescribed by regulations under section 259(b) as the infringement fee for the offence; and
+    (b) in relation to a breach of an alcohol ban, means the amount prescribed by regulations under section 259(b) as the infringement fee for the breach
+  - **infringement offence** —
+    (a) means an offence specified as such by regulations under section 259(a); and
+    (b) includes a breach of an alcohol ban.
+(2) The definition in subsection (1) of enforcement officer overrides the definition of that term in section 5.
 
 ### 244 Proceedings for infringement offences
-A person who is alleged to have committed an infringement offence may either—
-  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+(1) A person who is alleged to have committed an infringement offence specified as such by regulations under section 259(a) may either—
+  (a) be proceeded against under the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice under section 245.
+(2) A person who is alleged to have committed a breach of an alcohol ban—
+  (a) may be served with an infringement notice under section 245; and
+  (b) must not be proceeded against under the Criminal Procedure Act 2011.
 
 ### 245 Issue of infringement notices
 (1) An infringement notice may be served on a person if an enforcement officer—
   (a) observes a person committing an infringement offence; or
   (b) has reasonable cause to believe that an infringement offence is being or has been committed by that person.
-(2) An infringement notice may be served—
-  (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence; or
+(2) An infringement notice not relating to a breach of an alcohol ban may be served—
+  (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence concerned; or
   (b) by post addressed to that person's last known place of residence or business.
+(2A) An infringement notice relating to a breach of an alcohol ban may be served—
+  (a) by a constable personally delivering it to the person alleged to have committed the breach; or
+  (b) by a constable personally delivering it, at a time after the person alleged to have committed the breach has been arrested for committing it, to the person; or
+  (c) by post addressed to the last known place of residence or business of the person alleged to have committed the breach.
 (3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) details of the alleged infringement offence sufficient to inform fairly a person of the time, place, and nature of the alleged offence:
@@ -2742,6 +2798,9 @@ A person who is alleged to have committed an infringement offence may either—
 (5) If an infringement notice has been issued under this section,—
   (a) proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and
   (b) the provisions of that section apply with all necessary modifications.
+
+### 245A Constables may require certain information
+A constable who believes on reasonable grounds that a person is committing or has committed an infringement offence may direct the person to give the constable his or her name, address, and date of birth.
 
 ### 246 Entitlement to infringement fees
 A local authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by an enforcement officer appointed by that local authority.
@@ -5942,3 +6001,25 @@ A Commissioner appointed under section 255 or a commission appointed under claus
 ### 42 Transitional provision relating to reorganisation proposals
 (1) This section applies to a reorganisation proposal made under Schedule 3 of the principal Act before the commencement of Part 1 of this Act.
 (2) The principal Act continues to apply to the reorganisation proposal as if Part 1 of this Act had not been enacted.
+
+### 1 Title
+This Act is the Local Government (Alcohol Reform) Amendment Act 2012.
+
+### 2 Commencement
+This Act comes into force on the day 12 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Local Government Act 2002 (the principal Act).
+
+**Transitional provisions**
+
+### 10 References in bylaws to liquor
+Every reference to liquor in a bylaw under section 147(2) made before the commencement of this Act has effect as a reference to alcohol within the meaning of section 147(1).
+
+### 11 Existing bylaws to expire
+Unless earlier revoked, a bylaw under section 147(2) made before the commencement of this section expires 5 years after the commencement of this Act.
+
+### 12 Processing of certain proposals for bylaws
+If before the commencement of this Act proposals for a bylaw under section 147(2) have been released for public consultation,—
+  (a) the bylaw may be made as if section 4 had not been enacted; but
+  (b) it expires 5 years after it is made.
