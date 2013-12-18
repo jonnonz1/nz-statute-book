@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -111,7 +111,7 @@ In this Act, confidential document destruction agent means a person who for valu
 ### 10 Meaning of personal guard
 In this Act, personal guard means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business—
   (a) guarding a specific person or persons; or
-  (b) guarding a specific person or persons and keeping order at any place (not being premises or a conveyance licensed under the Sale of Liquor Act 1989) where the person or persons being guarded may be.
+  (b) guarding a specific person or persons and keeping order at any place (not being premises or a conveyance licensed under the Sale and Supply of Alcohol Act 2012) where the person or persons being guarded may be.
 
 ### 11 Meaning of crowd controller
 (1) In this Act, crowd controller means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business doing all or any of the following:
@@ -163,7 +163,7 @@ In this Act, property guard employee means an individual who in the course of hi
 ### 18 Meaning of personal guard employee
 In this Act, personal guard employee means an individual who in the course of his or her employment, or engagement as a contractor, by a personal guard—
   (a) guards a specific person or persons; or
-  (b) guards a specific person or persons and keeps order at any place (not being premises or a conveyance licensed under the Sale of Liquor Act 1989) where the person or persons being guarded may be.
+  (b) guards a specific person or persons and keeps order at any place (not being premises or a conveyance licensed under the Sale and Supply of Alcohol Act 2012) where the person or persons being guarded may be.
 
 ### 19 Meaning of crowd controller employee
 (1) In this Act, crowd controller employee means an individual who in the course of his or her employment, or engagement as a contractor, by a crowd controller or other person—
