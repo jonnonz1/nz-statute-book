@@ -1,5 +1,5 @@
 # Auctioneers Amendment Act 2013
-_Consolidation as at 2013-06-06_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Auctioneers Amendment Act 2013.
