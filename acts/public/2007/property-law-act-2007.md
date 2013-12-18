@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -516,16 +516,7 @@ A term has no effect if it—
 **Miscellaneous provisions**
 
 ### 42 Auction sales of property other than goods
-(1) This section applies to the sale by auction of every kind of property other than goods.
-(2) If the property is put up for sale by auction in lots, each lot must be treated as the subject of a separate contract of sale, unless the contrary is proved.
-(3) A sale by auction may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly, by or on behalf of the vendor.
-(4) The vendor, or 1 person on the vendor’s behalf, may bid at the auction, but only if a right to bid by or on behalf of the vendor is expressly reserved by or on behalf of the vendor.
-(5) A sale by auction is complete when the auctioneer (by the fall of the hammer, or in some other customary manner) announces its completion.
-(6) A bid may be retracted by the bidder who made it at any time before the auction is complete.
-(7) If a sale by auction is not notified to be subject to a right to bid by or on behalf of the vendor,—
-  (a) the vendor must not bid or employ a person to bid at the sale on the vendor’s behalf; and
-  (b) the auctioneer must not knowingly take a bid from the vendor or a person acting on the vendor’s behalf.
-(8) The purchaser may treat as fraudulent a sale that contravenes subsection (7).
+[Repealed]
 
 ### 43 Later title not invalid because of defect in court order
 (1) This section applies to a person who acquires property, for valuable consideration and without fraud or notice of fraud, from some other person who became entitled to the property under an order of a court.
