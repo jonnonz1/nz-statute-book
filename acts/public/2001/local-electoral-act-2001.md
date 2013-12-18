@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -1959,7 +1959,7 @@ Every person commits an offence, and is liable on conviction to imprisonment for
   (a) for the purpose of influencing that person or any other person to vote or refrain from voting; or
   (b) for the purpose of obtaining his or her election; or
   (c) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
-(2) Every holder of a licence under the Sale of Liquor Act 1989 commits the offence of treating who knowingly supplies any food, drink, entertainment, or provision—
+(2) Every holder of a licence under the Sale and Supply of Alcohol Act 2012 commits the offence of treating who knowingly supplies any food, drink, entertainment, or provision—
   (a) to any person, if the supply is demanded for 1 or more of the purposes specified in subsection (1); or
   (b) to any person, whether an elector or not, for the purpose of obtaining the election of a candidate or affecting the result of a poll, and without receiving payment for it at the time when it is supplied.
 (3) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
