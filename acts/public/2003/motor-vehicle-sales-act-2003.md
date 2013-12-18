@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -42,6 +42,7 @@ This Act binds the Crown.
   - **actual distance** , in relation to a motor vehicle's odometer, means the distance that would otherwise have been recorded on an odometer had it not been tampered with
   - **address for service** means the address of a place in New Zealand at which notices or documents that are required to be served under this Act may be served on the person giving the address
   - **adjudicator** means an adjudicator of a Disputes Tribunal appointed under section 83
+  - **auction** has the meaning given to it in section 4 of the Auctioneers Act 2013
   - **banned person** means a person banned from participating in the business of motor vehicle trading under section 68 or section 69
   - **Board** means the Motor Vehicle Dealers Licensing Board constituted under section 6A of the former Act
   - **branch manager** has the meaning given to it by section 2(1) of the former Act
@@ -119,7 +120,6 @@ This Act binds the Crown.
     (a) means the sale or lease or exchange or any other disposition of that motor vehicle or of any interest in that motor vehicle (for example, under a hire purchase agreement); and
     (b) includes the display for sale or offer for sale or offer for lease or offer for exchange of that motor vehicle; but
     (c) does not include a lease or offer for lease of a motor vehicle for a term not exceeding 4 months
-  - **sales by auction** has the meaning given to it by section 2 of the Auctioneers Act 1928
   - **specified offence** means any of the following offences:
     (a) an offence against—
       (i) the Crimes Act 1961; or
@@ -1284,15 +1284,13 @@ A person must not communicate to any person any information acquired in the cour
 
 ## Part 5 — Miscellaneous provisions
 
-**Exemption for car auctioneers from licensing requirement under Auctioneers Act 1928**
+**Exemption for car auctioneers from registration requirement under Auctioneers Act 2013**
 
-### 141 Exemption for car auctioneers from licensing requirement under Auctioneers Act 1928
-(1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting sales by auction of motor vehicles only, the car auctioneer—
-  (a) is exempt from the requirement to be licensed under section 3 of the Auctioneers Act 1928; and
-  (b) must be treated as if the car auctioneer is a person licensed to conduct sales by auction of motor vehicles for the purposes of that Act.
-(2) However, a car auctioneer—
-  (a) must continue to comply with the duties imposed on auctioneers by the Auctioneers Act 1928; and
-  (b) may apply for and hold a licence under the Auctioneers Act 1928 if the car auctioneer wishes to do so.
+### 141 Exemption for car auctioneers from registration requirement under Auctioneers Act 2013
+(1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting auctions of motor vehicles only, the car auctioneer is exempt from the requirement in the Auctioneers Act 2013 to be a registered auctioneer.
+(2) However, the car auctioneer—
+  (a) must comply with the rules about the conduct of auctions as set out in sections 36Y to 36ZF of the Fair Trading Act 1986; and
+  (b) may apply for registration under the Auctioneers Act 2013 as a registered auctioneer.
 
 **Service of notices**
 
