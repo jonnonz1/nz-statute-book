@@ -1,5 +1,5 @@
 # Sale of Liquor Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 (1) This Act is the Sale of Liquor Amendment Act 2005.
