@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -207,7 +207,7 @@ Notice shall be taken judicially without further proof of—
   provided that no regard shall be had to this subsection in determining whether any such shares are an authorised investment in any case.
 
 ### 27 Sale of goods by auction
-Where any trustee company is realising the goods, chattels, and effects of any estate administered by it, and those goods, chattels, and effects are not in the opinion of the company of greater value than $5,000, or such higher amount as is prescribed by regulations, and are situated at a distance of more than 10 miles from the usual place of business of a licensed auctioneer, those goods, chattels, and effects may be offered for sale by auction by some person to be appointed by the company; and that person, for the purpose of the sale, shall not require to take out an auctioneer's licence.
+Where any trustee company is realising the goods, chattels, and effects of any estate administered by it, and those goods, chattels, and effects are not in the opinion of the company of greater value than $5,000, or such higher amount as is prescribed by regulations, and are situated at a distance of more than 10 miles from the usual place of business of a registered auctioneer, those goods, chattels, and effects may be offered for sale by auction by some person to be appointed by the company; and that person, for the purpose of the sale, shall not be required to be a registered auctioneer.
 
 ### 28 Conditions on which tenant for life may be allowed into possession
 (1) Subject to any order of the court, where any person is equitable tenant for life of any land comprised in an estate being administered by a trustee company, that person shall not be entitled to the use, occupation, and enjoyment of, or to receipt of the income, rents, issues, and profits of the land, until he has given such undertaking, and (where necessary) such security, as the trustee company may require to comply with such terms and conditions as to keeping the trust property in repair and punctual payment of rates, taxes, insurance premiums, assessments, rents, impositions, and other outgoings, or otherwise, as the trustee company may think fit:
