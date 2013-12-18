@@ -1,5 +1,5 @@
 # Sale of Liquor Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-12-18_
 
 > An Act to amend the Sale of Liquor Act 1989
 
