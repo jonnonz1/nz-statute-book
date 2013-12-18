@@ -1,5 +1,5 @@
 # Sale of Goods Act 1908
-_Consolidation as at 2003-07-08_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the sale of goods
 
@@ -351,11 +351,7 @@ Where by this Act any reference is made to a reasonable time, the question what 
 Where any right, duty, or liability is declared by this Act, it may, unless otherwise by this Act provided, be enforced by action.
 
 ### 59 Auction sales
-(1) Where goods are put up for sale by auction in lots, each lot is prima facie deemed to be the subject of a separate contract of sale.
-(2) A sale by auction is complete when the auctioneer announces its completion by the fall of the hammer, or in other customary manner: until such announcement is made any bidder may retract his bid.
-(3) Where a sale by auction is not notified to be subject to a right to bid on behalf of the seller, the seller shall not bid himself or employ any person to bid at such sale, nor shall the auctioneer knowingly take any bid from the seller or any such person. Any sale contravening this rule may be treated as fraudulent by the buyer.
-(4) A sale by auction may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller.
-(5) Where a right to bid is expressly reserved, but not otherwise, the seller, or any one person on his behalf, may bid at the auction.
+[Repealed]
 
 ### 60 Savings
 (1) The rules in bankruptcy relating to contracts of sale shall continue to apply thereto, notwithstanding anything in this Act.
