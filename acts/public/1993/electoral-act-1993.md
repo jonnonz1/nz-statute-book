@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -2450,7 +2450,7 @@ The provisions of this Act as to an equality of votes between constituency candi
 ### 155 Power to appoint polling places
 (1) In respect of each election, the Electoral Commission may from time to time, subject to subsections (2) to (4), appoint polling places for any district, and may revoke, alter, or add to any such appointment.
 (2) The polling places appointed for any district may include polling places that are not within the limits of that district.
-(3) No polling place shall be appointed in any licensed premises under the Sale of Liquor Act 1989 that will, at any time on polling day, be open for the sale, supply, or consumption of liquor.
+(3) No polling place shall be appointed in any licensed premises under the Sale and Supply of Alcohol Act 2012 that will, at any time on polling day, be open for the sale, supply, or consumption of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012).
 (4) At least 12 polling places within the limits of each district shall have access that is suitable for persons who are physically disabled.
 (5) The Electoral Commission may make the details of every appointment, revocation, alteration, or addition publicly available by any means that the Electoral Commission considers appropriate.
 (6) Subsection (5) does not limit section 147.
@@ -4207,7 +4207,7 @@ If a party secretary considers that there is no relevant information to disclose
   (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting; or
   (b) for the purpose of procuring himself or herself to be elected; or
   (c) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
-(3) Every person commits the offence of treating who, being the holder of a licence for the sale by retail of intoxicating liquor, knowingly supplies any food, drink, entertainment, or provision—
+(3) Every person commits the offence of treating who, being the holder of a licence for the sale by retail of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012), knowingly supplies any food, drink, entertainment, or provision—
   (a) to any person where the supply thereof is demanded for the purpose of treating, or for any corrupt or illegal practice; or
   (b) to any persons, whether electors or not, for the purpose of procuring the return of a candidate or candidates at an election, and without receiving payment for it at the time when it is supplied.
 (4) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
