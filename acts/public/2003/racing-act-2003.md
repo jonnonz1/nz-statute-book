@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -575,8 +575,8 @@ The Board is authorised to amalgamate the amount available for an event or event
   (c) in the case of an offence against subsection (2)(a) or (b), a fine not exceeding $5,000:
   (d) in the case of an offence against subsection (2)(c), a fine not exceeding $10,000.
 (6) In this section and section 63A,—
-  - **bet** means a bet made with the Board (whether directly or through a racing club or other agent) or a racing club conducting equalisator betting
-  - **evidence of age document** has the same meaning as in section 2A of the Sale of Liquor Act 1989.
+  - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **bet** means a bet made with the Board (whether directly or through a racing club or other agent) or a racing club conducting equalisator betting.
 
 ### 63A Power to require particulars
 (1) If any constable, or any member, officer, agent or employee of a racing club, or of the Board, or of an agent of the Board (as the case may be) has reasonable grounds to believe that a person has committed, is committing, or is attempting to commit an offence under section 63(1)(a), he or she may demand from that person an evidence of age document verifying his or her age.
