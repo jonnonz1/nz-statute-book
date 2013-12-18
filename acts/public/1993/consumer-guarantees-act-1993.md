@@ -1,11 +1,22 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2009-08-01_
+_Consolidation as at 2013-12-18_
 
-> An Act to amend the law relating to—athe guarantees given, or deemed to be given, to consumers upon the supply of goods or services; andbthe rights of redress against suppliers and manufacturers in respect of any failure of goods or services to comply with any such guarantees
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Consumer Guarantees Act 1993.
 (2) This Act shall come into force on 1 April 1994.
+
+### 1A Purpose
+(1) The purpose of this Act is to contribute to a trading environment in which—
+  (a) the interests of consumers are protected; and
+  (b) businesses compete effectively; and
+  (c) consumers and businesses participate confidently.
+(2) To this end, the Act provides that consumers have—
+  (a) certain guarantees when acquiring goods or services from a supplier, including—
+    (i) that the goods are reasonably safe and fit for purpose and are otherwise of an acceptable quality; and
+    (ii) that the services are carried out with reasonable care and skill; and
+  (b) certain rights of redress against suppliers and manufacturers if goods or services fail to comply with a guarantee.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -259,6 +270,19 @@ For the purposes of section 18(3), a failure to comply with a guarantee is of a 
 (3) The obligation to refund cannot be satisfied by permitting the consumer to acquire goods from the supplier.
 (4) Where a consumer obtains goods to replace rejected goods pursuant to subsection (1)(b), the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier, and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
 
+### 23A Goods subject to collateral credit agreement
+(1) This section applies if—
+  (a) a consumer acquires goods under a contract for the supply of goods; and
+  (b) the contract is associated with a collateral credit agreement; and
+  (c) the supplier is a party to the contract; and
+  (d) the consumer exercises the right to reject the goods under this Act.
+(2) A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+(3) In this section,—
+  - **collateral credit agreement** , in relation to a contract for the supply of goods, means a contract or an agreement that—
+    (a) is arranged or procured by the supplier of the goods; and
+    (b) is for the provision of credit by a person other than the supplier to enable the consumer to pay, or defer payment, for the goods
+  - **supplier** does not include a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 who has lent money to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods.
+
 ### 24 Rights of donees
 Where a consumer acquires goods from a supplier and gives them to another person as a gift, that person may, subject to any defence which would be available to the supplier against the consumer, exercise any rights or remedies under this Part which would be available to that person if he or she had acquired the goods from the supplier, and any reference in this Part to a consumer shall include a reference to that person accordingly.
 
@@ -398,6 +422,20 @@ For the purposes of section 32(b), a failure to comply with a guarantee is of a 
   (c) any person claiming through or under the consumer or the supplier; or
   (d) any other person if it is material for him or her to know whether relief under this section will be granted.
 
+### 39A Services subject to collateral credit agreement
+(1) This section applies if—
+  (a) a consumer acquires services under a contract for the supply of services; and
+  (b) the contract is associated with a collateral credit agreement; and
+  (c) the supplier is a party to the contract; and
+  (d) the consumer exercises the right to cancel the contract for the supply of the services under this Act.
+(2) A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+(3) In this section,—
+  - **collateral credit agreement** , in relation to a contract for the supply of services, means a contract or an agreement that—
+    (a) is arranged or procured by the supplier of the services; and
+    (b) is for the provision of credit by a person other than the supplier to enable the consumer to pay, or defer payment, for the services
+  - **supplier** does not include a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 who has lent money to a consumer, if the whole or part of the price of the services is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the services.
+(4) This section does not limit section 39.
+
 ### 40 Saving
 Nothing in this Part limits or affects—
   (a) any rule of law or any enactment which imposes on the supplier a duty stricter than that imposed by this Part; or
@@ -456,19 +494,19 @@ The damages that a consumer may recover for a failure of goods supplied under a 
 (4) No assignment of the rights under a contract of supply shall affect the exercise of any right or remedy given by this Act against the supplier.
 
 ### 47 Jurisdiction
-(1) Any court of competent jurisdiction, and any Disputes Tribunal having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 39.
+(1) Any court of competent jurisdiction, and any Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
 (2) In this section, court of competent jurisdiction means—
   (a) the High Court:
   (b) a District Court in any case where—
     (i) a claim referred to in subsection (1) does not exceed $200,000; or
-    (ii) an order under section 39 does not exceed the limits prescribed by subsection (3).
-(3) A District Court may make an order under section 39 if the order does not—
+    (ii) an order under section 23A or 39 does not exceed the limits prescribed by subsection (3).
+(3) A District Court may make an order under section 23A or 39 if the order does not—
   (a) require a person to pay an amount exceeding $200,000:
   (b) vest any property exceeding $200,000 in value in any person:
   (c) direct the transfer or assignment or delivery of possession of any property exceeding $200,000 in value:
   (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $200,000.
 (4) Subject to subsection (6), a Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000.
-(5) Subject to subsection (6), a Disputes Tribunal may make an order under section 39 if the order does not—
+(5) Subject to subsection (6), a Disputes Tribunal may make an order under section 23A or 39 if the order does not—
   (a) require a person to pay an amount exceeding $15,000:
   (b) vest any property exceeding $15,000 in value:
   (c) direct the transfer or assignment or delivery of possession of any property exceeding $15,000 in value:
