@@ -1,5 +1,5 @@
 # Auctioneers Act 1928
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to make better provisions with respect to the licensing of and the conduct of business by auctioneers
 
@@ -25,7 +25,7 @@ In this Act, if not inconsistent with the context,—
 
 ### 4 Disqualification of applicants
 No licence shall be issued under this Act to—
-  (a) the holder of an on-licence under the Sale of Liquor Act 1989:
+  (a) the holder of an on-licence under the Sale and Supply of Alcohol Act 2012:
   (b)
   (c) a bankrupt who has not obtained his order of discharge, or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled.
 
