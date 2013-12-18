@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -1303,7 +1303,7 @@ Subject to section 73 of the Public Finance Act 1989, all fines recovered under 
   (c) prescribing the conditions on which persons shall have access to or be excluded from any reserve or any part of a reserve, or on which persons may use any facility (including any building) in a reserve, and fixing charges for the admission of persons to any part of a reserve and for the use of any such facility:
   (d) regulating the times of admission thereto and exclusion therefrom of persons, horses, dogs, or other animals, and vehicles or boats or aircraft or hovercraft of any description:
   (e) the control of all persons, horses, dogs, and other animals, and vehicles or boats or aircraft or hovercraft of any description using or frequenting a reserve:
-  (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of intoxicating liquor, either generally or on specified occasions or during specified periods:
+  (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012), either generally or on specified occasions or during specified periods:
   (g) prescribing the safety devices to be fitted to any machinery or devices operating in a reserve under the authority of any agreement, lease, or licence, and regulating the operation and maintenance of such machinery or devices:
   (h) prescribing conditions on which persons may be permitted to enter and remain on any wilderness area within a reserve:
   (i) prescribing conditions upon which operators and pilots in command of aircraft and persons in charge of hovercraft may set down or pick up or recover within the reserve any person, livestock, carcass, or article of any description:
