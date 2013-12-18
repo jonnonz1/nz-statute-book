@@ -1,5 +1,5 @@
 # Innkeepers Act 1962
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to amend the law relating to inns and innkeepers
 
@@ -11,9 +11,9 @@ _Consolidation as at 2008-01-01_
 (1) In this Act, unless the context otherwise requires,—
   - **guest** means any traveller to whom an innkeeper is liable as an innkeeper in accordance with section 5
   - **inn** means any house or place whose proprietor or licensee holds out that, to the extent of his available accommodation, he will provide, without special contract, sleeping accommodation for any traveller presenting himself who appears able and willing to pay a reasonable sum for the services and facilities provided and is in a fit state to be received; and includes any licensed hotel
-  - **innkeeper** , in relation to a licensed hotel, means the holder of the on-licence for the time being in force under the Sale of Liquor Act 1989 in respect of the hotel; and, in relation to any other inn, means the proprietor of the inn
-  - **licensed hotel** means any hotel in respect of which an on-licence is for the time being in force under the Sale of Liquor Act 1989.
-(2) While any on-licence continues in force under the Sale of Liquor Act 1989 in respect of any hotel, that hotel shall be deemed to be an inn, and the holder of the licence shall be deemed to be an innkeeper.
+  - **innkeeper** , in relation to a licensed hotel, means the holder of the on-licence for the time being in force under the Sale and Supply of Alcohol Act 2012 in respect of the hotel; and, in relation to any other inn, means the proprietor of the inn
+  - **licensed hotel** means any hotel in respect of which an on-licence is for the time being in force under the Sale and Supply of Alcohol Act 2012.
+(2) While any on-licence continues in force under the Sale and Supply of Alcohol Act 2012 in respect of any hotel, that hotel shall be deemed to be an inn, and the holder of the licence shall be deemed to be an innkeeper.
 
 **Innkeepers' liability**
 
