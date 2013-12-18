@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -96,7 +96,7 @@ This Act is the Corrections Act 2004.
   - **investigating officer** means an officer (within the meaning of section 2(1) of the Defence Act 1990) or other duly authorised person investigating a complaint under section 49 of that Act
   - **legal adviser** —
     (a) means a lawyer (within the meaning of the Lawyers and Conveyancers Act 2006) who represents a prisoner; and
-    (b) includes, in relation to any member of the armed forces detained in a prison, any other member of the armed forces responsible for representing that member in the Court Martial or other proceedings
+    (b) includes, in relation to any member of the Armed Forces detained in a prison, any other member of the Armed Forces responsible for representing that member in the Court Martial or other proceedings
   - **mail** means any letter, package, parcel, or postcard sent or delivered to or by a prisoner
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003, as a practitioner of the profession of medicine
   - **medicine** has the same meaning as in section 3 of the Medicines Act 1981
@@ -440,9 +440,9 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
   (b) all the powers, authority, protections, and privileges of a member of the Police (including a constable).
 
 ### 23 Restrictions on exercise of certain powers
-(1) Despite sections 21 and 22, sections 121, 128, 129, and 177 of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to a member of the armed forces, or an officer who is not also a constable.
-(2) Despite sections 21 and 22, section 3(2)(a)(ii) of the Arms Act 1983 (which authorises the possession of firearms and restricted weapons by members of the Police) does not apply to a member of the armed forces, or an officer who is not also a member of the Police..
-(3) Despite sections 21 and 22, the following provisions do not apply to a member of the armed forces, or an officer who is not also a constable:
+(1) Despite sections 21 and 22, sections 121, 128, 129, and 177 of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to a member of the Armed Forces, or an officer who is not also a constable.
+(2) Despite sections 21 and 22, section 3(2)(a)(ii) of the Arms Act 1983 (which authorises the possession of firearms and restricted weapons by members of the Police) does not apply to a member of the Armed Forces, or an officer who is not also a member of the Police.
+(3) Despite sections 21 and 22, the following provisions do not apply to a member of the Armed Forces, or an officer who is not also a constable:
   (a) section 18 of the Misuse of Drugs Act 1975 (which confers powers of search and seizure):
   (b) section 13A of the Misuse of Drugs Amendment Act 1978 (which confers powers in relation to internal concealment):
   (c)
@@ -701,7 +701,7 @@ A prisoner must promptly obey every lawful order given to him or her by—
   (a) a dangerous item or substance; or
   (b) a health hazard; or
   (c) inflammable; or
-  (d) intoxicating liquor; or
+  (d) alcohol; or
   (e) a controlled drug (within the meaning of the Misuse of Drugs Act 1975); or
   (f) objectionable; or
   (g) perishable.
@@ -1325,7 +1325,7 @@ Authority conferred by this Act to search any person includes the authority to d
 (1) In exercising any power of search conferred by this Act, any officer may have with him or her, and use for the purposes of searching, any dog.
 (2) Any dog used for searching may be under the control of—
   (a) the officer conducting the search; or
-  (b) any other person (being a constable, an officer of Customs, or any member of the armed forces) who may accompany the officer for the purposes of the search.
+  (b) any other person (being a constable, an officer of Customs, or any member of the Armed Forces) who may accompany the officer for the purposes of the search.
 (3) While any officer is using a dog for the purposes of searching any person, the person who has control of the dog must not allow that dog to come into physical contact with the person being searched.
 (4) Any officer who uses a dog for the purposes of searching any person must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of dignity consistent with the purpose of the search.
 
