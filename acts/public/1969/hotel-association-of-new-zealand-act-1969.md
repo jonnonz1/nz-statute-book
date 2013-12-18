@@ -1,5 +1,5 @@
 # Hotel Association of New Zealand Act 1969
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to constitute the Hotel Association of New Zealand and to provide for the assistance and control of its members
 
@@ -9,25 +9,26 @@ _Consolidation as at 2013-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **association** means the Hotel Association of New Zealand established by this Act
   - **disciplinary committee** means the Disciplinary Committee of the Association
   - **hotel** means any premises used or intended to be used in the course of business principally for the provision to the public of—
     (a) lodging; and
-    (b) liquor, meals, and refreshments for consumption on the premises
+    (b) alcohol, meals, and refreshments for consumption on the premises
   - **hotel industry** includes the business of operating hotels, taverns, and tourist-houses; and includes any other business or activity that may lawfully be conducted in conjunction therewith
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **tavern** means any premises used or intended to be used in the course of business principally for the provision to the public of liquor and other refreshments; but does not include an airport bar
+  - **tavern** means any premises used or intended to be used in the course of business principally for the provision to the public of alcohol and other refreshments; but does not include an airport bar
   - **tourist-house** means a hotel in which liquor is sold to members of the public only if they are lodging on the premises, or are on the premises for the purpose of having a meal.
 
 **Hotel Association of New Zealand**
 
 ### 3 Constitution of Hotel Association of New Zealand
 (1) There shall be an association to be called the Hotel Association of New Zealand.
-(2) Every person (including a body corporate, but excluding a licensing trust and an employee of a licensing trust) who is the holder of—granted under the Sale of Liquor Act 1989 in respect of a hotel, a tavern, or a tourist-house, is eligible to be a member of the association.
+(2) Every person (including a body corporate, but excluding a licensing trust and an employee of a licensing trust) who is the holder of—granted under the Sale and Supply of Alcohol Act 2012 in respect of a hotel, a tavern, or a tourist-house, is eligible to be a member of the association.
   (a) an on-licence; or
   (b) an off-licence; or
-  (c) a general manager's certificate—
-(3) Every member of the association who ceases to hold such a licence or general manager's certificate shall cease to be a member of the association, unless he retains his membership in accordance with its rules.
+  (c) a manager's certificate—
+(3) Every member of the association who ceases to hold such a licence or manager's certificate shall cease to be a member of the association, unless he retains his membership in accordance with its rules.
 (4) The association shall be a body corporate with perpetual succession and a common seal, and with power to sue and be sued and to hold real and personal property and to do and suffer all that bodies corporate may do and suffer.
 (5) The purposes of the association shall be—
   (a) to promote in any manner which the association thinks fit the general advancement of the hotel industry and the interests of those engaged therein in New Zealand:
@@ -97,7 +98,7 @@ It shall be lawful for the association—
 (6) Except as otherwise provided by this Act, the disciplinary committee shall regulate its own procedure.
 
 ### 10 Charges before disciplinary committee
-(1) Where a charge has been made to the disciplinary committee by any person that any person has, while a member of the association, failed to fulfil that member's responsibilities under any of the provisions of the Sale of Liquor Act 1989, or has committed any breach of the code of ethics or of any other rules in force under this Act, the disciplinary committee may, whether or not that person is still a member of the association, inquire into the charge.
+(1) Where a charge has been made to the disciplinary committee by any person that any person has, while a member of the association, failed to fulfil that member's responsibilities under any of the provisions of the Sale and Supply of Alcohol Act 2012, or has committed any breach of the code of ethics or of any other rules in force under this Act, the disciplinary committee may, whether or not that person is still a member of the association, inquire into the charge.
 (2) If, after inquiring into the charge, the disciplinary committee is satisfied that it is established, it may if it thinks fit do any 1 or more of the following things:
   (a) order the person charged to pay such sum by way of penalty, not exceeding $100, as the disciplinary committee thinks fit:
   (b) censure him:
@@ -147,7 +148,7 @@ Witnesses and counsel shall have the same privileges and immunities in relation 
 Subject to section 15, neither the association nor any branch thereof nor any member, officer, or servant of the association or of any branch thereof or of the disciplinary committee shall be under any criminal or civil liability whatsoever in respect of anything done or omitted to be done, or in respect of any words spoken or written, at or for the purposes of any inquiry or other proceedings under this Act, unless it is proved to the satisfaction of the court before which any proceedings are taken that the defendant in those proceedings has acted in bad faith.
 
 ### 20 Jurisdiction of other authorities not to be limited
-Except as expressly provided in this Act, nothing in this Act shall be construed to limit the jurisdiction of any court or of the Licensing Authority or any District Licensing Agency, or to limit the liability of any person to be prosecuted for any offence against the Sale of Liquor Act 1989 or any other enactment.
+Except as expressly provided in this Act, nothing in this Act shall be construed to limit the jurisdiction of any court or of the Licensing Authority or any licensing committee, or to limit the liability of any person to be prosecuted for any offence against the Sale of Liquor Act 1989 or any other enactment.
 
 ### 21 Consequential amendments and saving
 (1) The Sale of Liquor Act 1962 is hereby amended by omitting from—the word Incorporated, and substituting in each case the words established under the Hotel Association of New Zealand Act 1969.
