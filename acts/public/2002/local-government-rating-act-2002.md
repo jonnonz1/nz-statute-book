@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
