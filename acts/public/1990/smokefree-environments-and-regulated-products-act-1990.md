@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > Title
 
@@ -19,6 +19,7 @@ _Consolidation as at 2013-12-05_
       (i) a substance forming part of the product that has been derived or refined from vegetable matter; and
       (ii) any wrapping forming part of the product that is not itself dried, or dried and cured, vegetable matter
   - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **automatic vending machine** means any self-service machine that,—
     (a) on the insertion of a coin or token or by any other means, dispenses by way of sale tobacco products, whether automatically or with the assistance of the purchaser; and
     (b) does not require replenishment between each sale
@@ -59,7 +60,7 @@ _Consolidation as at 2013-12-05_
       (i) a seller whose business is or includes offering the product for sale (whether by retail or wholesale); and
       (ii) a person (whether the purchaser or a person acting on the purchaser's behalf) who is at a distance from the seller's place of business; and
     (b) contains a term providing for the product to be delivered by or on behalf of the seller to, or to a place or person chosen by, the purchaser
-  - **licensed premises** means any premises, or any part of any premises, on which liquor may be sold pursuant to a licence under the Sale of Liquor Act 1989
+  - **licensed premises** means any premises, or any part of any premises, on which alcohol is sold pursuant to a licence under the Sale and Supply of Alcohol Act 2012
   - **managers** , in relation to a school, or premises to which section 7A(4) applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
   - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
   - **Minister** means the Minister of Health
@@ -584,7 +585,7 @@ Every person who offers a tobacco product or herbal smoking product for sale (by
 ### 30 Sale, and sellers' arranging or effecting delivery, of tobacco products and herbal smoking products to people under 18 prohibited
 (1) No person may sell a tobacco product or herbal smoking product, or having sold it to a person of any age deliver it or arrange for it to be delivered, to a person younger than 18 years.
 (2) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
-(2A) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
+(2A) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (2B) Subsection (2A) does not affect the generality of subsection (2).
 (3) It is not a defence to a charge in respect of a contravention of subsection (1)—
   (a) that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
@@ -602,7 +603,7 @@ Every person who offers a tobacco product or herbal smoking product for sale (by
   (a) supply a tobacco product or herbal smoking product to a person younger than 18 years; or
   (b) supply a tobacco product or herbal smoking product to a person with the intention that it be supplied (directly or indirectly) to a person younger than 18 years.
 (2) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
-(3) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) of the person to whom the product concerned was supplied, indicating that the person was of or over the age of 18 years, proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
+(3) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was supplied, indicating that the person was of or over the age of 18 years, proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
 (4) It is not a defence to a charge in respect of a contravention of subsection (1)—
   (a) that the person younger than 18 years was acquiring the product concerned for or on behalf of, or as agent for, a person of or over the age of 18 years; or
   (b) that the person charged believed on reasonable grounds that the person younger than 18 years was acquiring the product concerned for or on behalf of, or as agent for, a person of or over the age of 18 years.
@@ -773,7 +774,7 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (1) No person may sell a toy tobacco product to a person younger than 18 years.
 (2) Every person who sells a toy tobacco product to a person younger than 18 years in contravention of subsection (1) commits an offence, and is liable to a fine not exceeding $2,000.
 (3) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
-(4) For the purposes of subsection (3), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
+(4) For the purposes of subsection (3), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (5) Subsection (4) does not affect the generality of subsection (3).
 (6) It is not a defence to a charge in respect of a contravention of subsection (1)—
   (a) that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
