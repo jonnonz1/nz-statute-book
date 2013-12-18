@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -14,7 +14,7 @@ _Consolidation as at 2013-07-01_
   - **claim of right** has the same meaning as it has in section 2(1) of the Crimes Act 1961
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **crime involving dishonesty** has the meaning given to it in section 2(1) of the Crimes Act 1961
-  - **intoxicating liquor** means any spirits, wine, ale, beer, porter, stout, cider, or perry, or any other fermented, distilled, or spirituous liquor, which on analysis is found to contain more than 2 parts percent of proof spirit
+  - **intoxicating liquor** means alcohol within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **is liable** means is liable on conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
@@ -381,7 +381,7 @@ Every person is liable to a fine not exceeding $200 who, in any public place, un
   (b) supplies or offers any intoxicating liquor to any other person for consumption there; or
   (c) has in his possession or under his control any intoxicating liquor for consumption there.
 (2) For the purposes of subsection (1), if any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carries any passengers while under charter it shall be deemed to be carrying those passengers for reward.
-(3) Without limiting subsection (1), every person under the age of 18 years commits an offence and is liable to a fine not exceeding $300 who, in any public place and while not accompanied by his or her parent or legal guardian,—
+(3) Without limiting subsection (1), every person under the age of 18 years commits an offence and is liable to a fine not exceeding $300 who, in any public place (or in a vehicle in any public place) and while not accompanied by his or her parent or legal guardian,—
   (a) drinks any intoxicating liquor; or
   (b) has in his possession or under his control any intoxicating liquor for consumption there.
 (4) This section does not apply in respect of any licensed premises under the Sale of Liquor Act 1989.
@@ -443,10 +443,20 @@ No charging document for an offence against section 20 may be filed without the 
 ### 44 Defendant may be convicted of lesser charge of disorderly behaviour
 Where the commission of an offence against section 3 is not proved, but the evidence proves an offence against section 4, the defendant may be convicted of an offence against that latter section notwithstanding that the charge alleges an offence against section 3 only.
 
-### 45 Seizure and forfeiture
-(1) Any constable may seize and remove any intoxicating liquor which there is reasonable ground to suppose is intended for consumption in contravention of subsection (1) or subsection (3) of section 38, and the vessels containing the liquor.
-(2) On the conviction of any person of an offence against either of those provisions, any liquor or vessels so seized shall become forfeited to the Crown.
-(3) If any person is convicted of an offence against section 14, the court may, if it thinks fit, order the instrument or instruments to be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order the person to pay any reasonable cost incurred by the Commissioner of Police in retaining the instrument or instruments.
+### 44A Seizure and forfeiture of burglary instruments
+If a person is found guilty of an offence against section 14, the court—
+  (a) may order the instrument or instruments concerned to be forfeited to the Crown, or disposed of as the court directs at the expense of the person convicted; and
+  (b) may also order the person to pay any reasonable costs incurred by the Commissioner of Police in holding the instrument or instruments.
+
+### 45 Seizure and forfeiture of alcohol
+(1) A constable who believes on reasonable grounds that any intoxicating liquor is intended for consumption in contravention of section 38 may seize and remove it and the vessels containing it.
+(2) On a person's being found guilty of an offence against section 38 in respect of any intoxicating liquor seized, the intoxicating liquor and the vessels containing it are forfeit to the Crown.
+(3) Intoxicating liquor and the vessels containing it are forfeit to the Crown if—
+  (a) it is seized by the Police from a person under the age of 18 years who is issued with an infringement notice in respect of an offence against section 38(3) alleged to have been committed by the young person's drinking it, or having it in his or her possession or control, in a public place; and
+  (b) the infringement fee is later paid.
+(4) If a person is acquitted of an offence against section 38, intoxicating liquor seized under that section in relation to the offence—
+  (a) may be collected from the relevant Police station within 28 days of the acquittal by or on behalf of the person or, if the person is under the age of 18 years, by his or her parent or guardian; and
+  (b) if not collected within that time, may be disposed of in any manner the Commissioner of Police directs.
 
 ### 45A Attachment order default
 An employer who defaults in complying with an attachment order made in the High Court under rules of court against an employee of that employer is liable to a fine not exceeding $1,000.
