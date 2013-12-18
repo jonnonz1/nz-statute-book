@@ -1,5 +1,5 @@
 # Shop Trading Hours Act Repeal Act 1990
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
 
@@ -9,7 +9,7 @@ _Consolidation as at 2013-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **goods** includes all personal chattels other than liquor (within the meaning of the Sale of Liquor Act 1989), money, and things in action
+  - **goods** includes all personal chattels other than alcohol (within the meaning of the Sale and Supply of Alcohol Act 2012), money, and things in action
   - **repealed Act** means the Shop Trading Hours Act 1977
   - **shop** means a building, place, or part of a building or place, where goods are kept, sold, or offered for sale, by retail; and includes an auction mart, and a barrow, stall, or other subdivision of a market; but does not include—
     (a) a private home where the owner or occupier's effects are being sold (by auction or otherwise); or
