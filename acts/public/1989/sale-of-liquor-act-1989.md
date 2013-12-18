@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
