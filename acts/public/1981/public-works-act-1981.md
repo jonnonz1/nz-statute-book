@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1829,7 +1829,7 @@ Notwithstanding anything to the contrary in any Act, it shall be lawful and be d
 (4) For the purposes of the Statutory Land Charges Registration Act 1928, notice of any charge under subsection (2) and any certificate releasing any such charge, and any consent under subsection (3), may be signed by the chief executive of the new Ministry.
 
 ### 230 Minister of Crown may appoint person to sell stores, etc, by auction
-Any Minister of the Crown may from time to time appoint any person to conduct the sale by auction of any chattels which have been acquired or used for the purpose of any Government work under this Act, and which are required to be sold, or for the sale of which lawful authority exists, and it shall not be necessary in any such case that the person so appointed should be the holder of an auctioneer's licence.
+Any Minister of the Crown may from time to time appoint a registered auctioneer to conduct the sale by auction of any chattels which have been acquired or used for the purpose of any Government work under this Act, and which are required to be sold, or for the sale of which lawful authority exists.
 
 ### 231 Money due by local authority may be deducted from money payable by Government
 In all cases where under this Act, or any former Public Works Act, any money is authorised to be recovered from any local authority as a debt due to the Crown, the Minister of Finance may deduct the money or any portion of it from any subsidies or other money (if any) that may be payable by or on behalf of the Crown from time to time to the local authority under any law for the time being in force, but without prejudice to the right of any Minister of the Crown to recover the unsatisfied balance (if any) of the debt from the local authority as a debt due to the Crown in any court of competent jurisdiction.
