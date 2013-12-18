@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2013-12-18_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -24,6 +24,7 @@ _Consolidation as at 2013-08-05_
       (i) that promotes a scheduled programme on behalf of a broadcaster; or
       (ii) that promotes only a station identity on behalf of a broadcaster; or
       (iii) that constitutes an election programme
+  - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved code of broadcasting practice** means a code of broadcasting practice—
     (a) developed and issued under section 21(1)(f); or
     (b) approved for the purposes of this Act under section 21(1)(g)
@@ -43,7 +44,6 @@ _Consolidation as at 2013-08-05_
     (a) in the definition of advertising programme and in sections 8 and 21, means a programme broadcast under Part 6; and
     (b) in Part 6, has the meaning given to it by section 69
   - **individual** has the same meaning as in section 2(1) of the Privacy Act 1993
-  - **liquor** has the meaning given to that term by section 2 of the Sale of Liquor Act 1989
   - **Minister** means, in relation to a Part of this Act, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Part
   - **programme** —
     (a) means sounds or visual images, or a combination of sounds and visual images, intended—
@@ -299,7 +299,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
     (ii) the portrayal of violence:
     (iii) fair and accurate programmes and procedures for correcting factual errors and redressing unfairness:
     (iv) safeguards against the portrayal of persons in programmes in a manner that encourages denigration of, or discrimination against, sections of the community on account of sex, race, age, disability, or occupational status or as a consequence of legitimate expression of religious, cultural, or political beliefs:
-    (v) restrictions on the promotion of liquor:
+    (v) restrictions on the promotion of alcohol:
     (vi) presentation of appropriate warnings in respect of programmes, including programmes that have been classified as suitable only for particular audiences:
     (vii) the privacy of the individual:
   (f) to develop and issue codes of broadcasting practice of the kinds described in paragraph (e) in any case where the Authority considers it appropriate:
