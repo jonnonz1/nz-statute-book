@@ -1,5 +1,5 @@
 # Electricity Industry Reform Act 1998
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform the electricity industry
 
@@ -790,7 +790,7 @@ For the purposes of section 88, the term domestic premises means any premises th
   (d) premises that constitute any barracks conducted by the Armed Forces for the accommodation of persons subject to the Armed Forces Discipline Act 1971:
   (e) premises that constitute part of any hostel, barracks, dormitory, or other similar type of premises providing accommodation for any persons or class of persons:
   (f) premises that constitute part of a building occupied by a club and used by the club for the provision of temporary or transient accommodation to members of the club:
-  (g) premises that constitute part of any hotel in respect of which there is in force an on-licence under the Sale of Liquor Act 1989:
+  (g) premises that constitute part of any hotel in respect of which there is in force an on-licence under the Sale and Supply of Alcohol Act 2012:
   (h) premises that constitute part of any hotel, motel, boardinghouse, or lodginghouse used for the provision of temporary or transient accommodation:
   (i) premises that constitute part of any camping ground, motor camp, or marina.
 
