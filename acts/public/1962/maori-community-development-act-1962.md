@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -10,6 +10,7 @@ _Consolidation as at 2013-07-01_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Ministry of Maori Development
+  - **liquor** means alcohol within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **Maori** means a person of the Maori race of New Zealand; and includes any descendant of such a person
   - **Maori Association** includes a Maori Committee, a Maori Executive Committee, a District Maori Council, and the New Zealand Maori Council
   - **Maori Warden** means a person appointed a Maori Warden under this Act
