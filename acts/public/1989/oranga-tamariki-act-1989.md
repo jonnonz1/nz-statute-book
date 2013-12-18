@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -2703,9 +2703,10 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
   (a) murder; or
   (b) manslaughter; or
   (ba) an infringement offence against the Psychoactive Substances Act 2013; or
-  (c) a traffic offence not punishable by imprisonment—
+  (c) a traffic offence not punishable by imprisonment; or
+  (d) an infringement offence against the Sale and Supply of Alcohol Act 2012 or the Summary Offences Act 1981, or section 239A of the Local Government Act 2002.
 (4) If a young person is charged with murder or manslaughter, section 275 applies.
-(5) Notwithstanding subsection (3)(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or a traffic offence not punishable by imprisonment, a Youth Court shall hear and determine that charge if—
+(5) Notwithstanding subsection (3)(ba) or (c) or (d), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or a traffic offence not punishable by imprisonment or an infringement offence referred to in subsection (3)(d), a Youth Court shall hear and determine that charge if—
   (a) the young person is charged with any other offence, being an offence in respect of which the young person is required to be brought before a Youth Court to be dealt with; and
   (b) both offences arise out of the same event or series of events; and
   (c) the court considers—
