@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -91,7 +91,7 @@ This Act binds the Crown.
   (d) is subject accordingly to the provisions of the Lawyers and Conveyancers Act 2006.
 
 ### 8 Exemption for licensed auctioneers
-A person who is licensed as an auctioneer under the Auctioneers Act 1928 may sell or offer to sell any land by auction.
+A person who is registered as an auctioneer under the Auctioneers Act 2013 may sell or offer to sell any land by auction.
 
 ### 9 Exemption under regulations
 A person who is exempted by a regulation made under section 156(1)(a) may, in accordance with that regulation, carry out real estate agency work.
@@ -418,7 +418,8 @@ A licence may not be transferred and may not vest by operation of law in any per
 
 ### 48 Agent’s licence
 ((1)) An agent's licence authorises the licensee to carry out real estate agency work on his or her own account, whether in partnership or otherwise.
-(2) The licence also authorises the licensee to sell or to offer to sell any land by auction without having to be licensed under the Auctioneers Act 1928.
+(2) An agent's licence authorises the licensee to sell or offer to sell land by auction, and operates as an exemption from the requirement in the Auctioneers Act 2013 to be registered as an auctioneer.
+(3) However, every licensee who conducts an auction of land must comply with the rules about the conduct of auctions set out in sections 36Y to 36ZE (but not the rule in section 36ZF) of the Fair Trading Act 1986.
 
 ### 49 Branch manager’s or salesperson’s licence
 ((1)) A branch manager's licence or a salesperson's licence authorises the licensee to carry out real estate agency work for or on behalf of an agent.
