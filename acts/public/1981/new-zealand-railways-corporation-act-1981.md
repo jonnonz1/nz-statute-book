@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -172,7 +172,7 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
 (4) Any contribution payable under subsection (3) shall be payable out of money appropriated by Parliament for the purpose.
 
 ### 16 Carriage of passengers and goods otherwise than by rail
-(1) Section 12(1)(d) shall authorise the Corporation to arrange for the carriage of passengers and of goods by aircraft maintained and operated by any authority or person for the time being authorised to operate in New Zealand any service for the carriage by aircraft of passengers or of goods.
+(1) Section 12(1)﻿(d) shall authorise the Corporation to arrange for the carriage of passengers and of goods by aircraft maintained and operated by any authority or person for the time being authorised to operate in New Zealand any service for the carriage by aircraft of passengers or of goods.
 (2) With respect to the carriage of passengers or goods otherwise than by rail, the Corporation shall have the same powers and (except as may be otherwise provided by contract or by notice published in the Gazette) the same liabilities, obligations, rights, and protection as it has in the case of the carriage of passengers and goods by railway.
 (3) The provisions of this Act and any regulations under this Act shall be read subject to the provisions of any Act for the time being in force and binding on the Corporation relating to the licensing or control of services for the carriage of passengers or goods.
 (4) Every continuous goods service licence or continuous passenger service licence, issued pursuant to the Transport Services Licensing Act 1989, held by or on behalf of the Minister at the commencement of this Act shall be deemed to be held by or on behalf of the Corporation.
@@ -180,7 +180,7 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
   provided that this subsection shall not apply in respect of licences for road services that are ancillary to rail services or with respect to any temporary licence.
 
 ### 17 Carriage of passengers and goods by water
-(1) The powers conferred on the Corporation under section 12(1)(c) shall include the power—
+(1) The powers conferred on the Corporation under section 12(1)﻿(c) shall include the power—
   (a) to employ such masters of ships, officers, and seamen as the Corporation considers necessary or expedient for the purpose:
   (b) to enter into any agreement under the Labour Relations Act 1987 with any union or association of workers registered under that Act and employed in connection with the carriage of passengers or goods by water, and to be a party to any conciliation proceedings under that Act, and to be bound by any award or agreement made under that Act to which any such union or association is a party:
   (c) to enter into any agreement with any individual workers or any society of workers employed in connection with such carriage of passengers or goods by water who are not bound by any such award or agreement or covered by the membership rule of a union registered under the Labour Relations Act 1987.
@@ -320,7 +320,7 @@ The Corporation may from time to time enter into any agreement or contract with 
   (b) any railway buildings, workshops, or other erections:
   (c) any land or buildings for the sale of refreshments, books, or other articles:
   (d) the use of structures erected on land, or of any part of the rolling stock, for the display of advertisements thereon.
-(2) For the purposes of subsection (1)(a) the expression land includes, whether together with or separately from the surface of the land,—
+(2) For the purposes of subsection (1)﻿(a) the expression land includes, whether together with or separately from the surface of the land,—
   (a) the whole or any portion of the airspace above the land:
   (b) the whole or any portion of the subsoil.
 (3) The letting may be by private contract, or by public tender, or by public auction, or by public application at fixed rentals, or pursuant to a licence granted under section 34:
@@ -368,7 +368,7 @@ The Corporation may from time to time enter into any agreement or contract with 
   (a) advance money to the Corporation; and
   (b) give in respect of any advances made to the Corporation by any other person any guarantee, indemnity or security pursuant to the Public Finance Act 1989,—
 (3) The Minister of Finance may from time to time, on behalf of the Crown, enter into agreements with the Corporation for the purpose of giving full effect to the provisions of this section.
-(4) All money required to be paid by the Minister of Finance under this section (other than subsection (2)(b)) or section 36 shall be paid out of a Crown Bank Account from money appropriated by Parliament for the purpose.
+(4) All money required to be paid by the Minister of Finance under this section (other than subsection (2)﻿(b)) or section 36 shall be paid out of a Crown Bank Account from money appropriated by Parliament for the purpose.
 
 ### 37A Power to enter into swaps or other financial arrangements
 For the purposes of clarification and the avoidance of doubt, it is hereby declared that the Corporation may, from time to time, if it appears to the Corporation to be necessary or expedient to do so, enter (either directly or through an intermediary) into any arrangement with any person, organisation, or government (in this section referred to as the other party), either within or outside New Zealand, whereby the Corporation undertakes to make payments to, or to the account of, the other party in any currency and the other party undertakes to make payments to, or to the account of, the Corporation in the same or any other currency.
@@ -738,9 +738,9 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   provided that while any such notice imposing terms and conditions relating to the checking of luggage is in force no liability shall be incurred by the Corporation in respect of luggage which has not been duly checked.
 (5) Any terms and conditions imposed under the last preceding subsection shall apply with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1), notwithstanding that special scales of charges may be payable:
   provided that, with respect to any of those matters for which special scales of charges are fixed, the Corporation or any employee duly authorised by it may impose special terms and conditions in addition to or in lieu of the ordinary ones; and it shall not be necessary to publish them in the Gazette.
-(6) Without restricting the generality of subsection (5) it is hereby declared that any terms and conditions imposed under subsection (4) may include—
+(6) Without restricting the generality of subsection (5), it is hereby declared that any terms and conditions imposed under subsection (4) may include—
   (a) terms and conditions exempting the Corporation from liability for any loss, damage, or expense, whether due to delays in transit or any other cause, where the loss or damage or expense—
-    (i) it is not occasioned by the negligence or wrongful act in the Corporation or its employees or agents; or
+    (i) is not occasioned by the negligence or wrongful act in the Corporation or its employees or agents; or
     (ii) in the case of goods, arises from the negligence of the consignor or his employees or agents:
   (b) terms and conditions giving the Corporation the right to recover from consignors the cost of damage to Corporation property or other goods where the damage or loss is caused by the inherent defect, quality, or vice of the goods causing the damage:
   (c) terms and conditions exempting the Corporation from liability—
@@ -777,21 +777,22 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (a) places any rolling stock on a railway, not having lawful authority to do so; or
   (b) moves any part of the rolling stock on a railway, or leaves the same on any part of a railway, not having lawful authority to do so; or
   (c) moves any signal, points, or stop blocks without lawful authority, or shows any signal likely to mislead; or
-  (d) obstructs any employee in the performance of his duty; or
-  (e) except when acting in the course of his duties in connection with the purchase, sale, or disposal of intoxicating liquor pursuant to section 26 or section 27 gives or offers to give any intoxicating liquor to any employee while he is on duty; or places any intoxicating liquor in the possession or care of any such employee otherwise than for conveyance of storage on any railway in the ordinary course of business; or
+  (d) obstructs any employee in the performance of his or her duty; or
+  (e) except when acting in the course of his or her duties in connection with the purchase, sale, or disposal of alcohol pursuant to section 26 or section 27 gives or offers to give any alcohol to any employee while he or she is on duty; or places any alcohol in the possession or care of any such employee otherwise than for conveyance of storage on any railway in the ordinary course of business; or
   (f) alters any ticket, certificate, or order with intent to avoid payment of the proper fare or any part thereof; or
   (g) uses any ticket the time for the proper use of which has expired, or which has already been used to the full extent to which the holder is entitled to use it; or
   (h) sells or transfers, or offers for sale or transfer, any ticket which is not transferable, or permits any person other than the person to whom or on whose behalf the ticket is issued to make use of the ticket; or
   (i) sells or transfers, or offers for sale or transfer, a ticket or any portion of a ticket which has been used for the whole or any part of the journey, period, or trips for which the ticket was issued, or travels or attempts to travel with any such ticket or portion of such a ticket sold or transferred by any person; or
   (j) sells, or transfers, or offers for sale or transfer, or permits any person (other than the person in whose name or on whose behalf it is made out) to use, any certificate or order for the purpose of obtaining a concession ticket or reduction in fare; or
   (k) uses or attempts to use any certificate or order for a concession ticket or reduction in fare without being entitled to do so; or
-  (l) uses or attempts to use any ticket which is not transferable and has not been issued to him or to some person on his behalf; or
+  (l) uses or attempts to use any ticket which is not transferable and has not been issued to him or her or to some person on his or her behalf; or
   (m) makes or procures to be made to any employee, or to any agent of the Corporation, or in any document delivered to any such employee or agent, any false statement respecting the age or occupation of any person, or respecting any other matter on which the charge for any ticket is dependent,—
 (2) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding $500.
-  (a) neglects, delays, or refuses to produce or deliver up his ticket immediately it is called for by any employee on any train or other vehicle or elsewhere on the railway; or
+  (a) neglects, delays, or refuses to produce or deliver up his or her ticket immediately it is called for by any employee on any train or other vehicle or elsewhere on the railway; or
   (b) without reasonable cause uses, or attempts to use, or interferes with any braking appliances provided in any railway carriage, or any door in any omnibus for use in cases of emergency; or
   (c) writes, draws, affixes, impresses, or exhibits any placard, bill, statement, word, picture, drawing, or sign on any railway, or sells or attempts to sell any articles on any railway, without being authorised to do so by the Corporation; or
   (d) neglects to shut any gate or slip panel in any fence forming the boundary of, or upon adjoining, any railway,—
+(3) In this section, alcohol has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012.
 
 ### 116 Penalties for damage to railways
 If any person not having lawful authority or the written permission of the Corporation does, or causes or procures to be done, any of the following things—that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
