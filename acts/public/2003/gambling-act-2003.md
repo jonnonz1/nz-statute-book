@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2013-12-18_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -43,6 +43,7 @@ The purpose of this Act is to—
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **allocation** , in relation to an instant game (including a New Zealand lottery that is an instant game), means the determination of the winning tickets or the money or other reward that tickets bear, conducted before or simultaneously with the sale of tickets, randomly or wholly by chance
+  - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved surety** —
     (a) means a person or entity declared by the Secretary, by notice in the Gazette, to be an approved surety for the purpose of section 195; and
     (b) includes a registered bank
@@ -179,9 +180,9 @@ The purpose of this Act is to—
       (ii) venue personnel:
       (iii) a venue operator:
       (iv) a person who is a director, chief executive, or senior manager of a venue operator:
-      (iva) any other person whom the Secretary reasonably believes to have a significant interest in the management, ownership, or operation of a venue operator, except for the following persons holding office, elected, or appointed under the Sale of Liquor Act 1989:
-        (A) a member of a licensing trust elected in accordance with sections 191 to 194 of that Act or appointed under section 195 of that Act; or
-        (B) a trustee of a community trust holding office under section 219Q of that Act or elected in accordance with section 219R of that Act or appointed under section 219U of that Act:
+      (iva) any other person whom the Secretary reasonably believes to have a significant interest in the management, ownership, or operation of a venue operator, except for the following persons holding office, elected, or appointed under the Sale and Supply of Alcohol Act 2012:
+        (A) a member of a licensing trust elected in accordance with sections 308 to 314 of that Act or appointed under section 315 of that Act; or
+        (B) a trustee of a community trust holding office under section 369 of that Act or elected in accordance with sections 370 to 373 of that Act or appointed under section 374 of that Act:
       (v) a person contracted to service gambling equipment at a class 4 venue; and
     (c) in relation to a licensed promoter’s licence, a person who—
       (i) is a director of, or holds office in, a company that is an applicant for, or holder of, a licensed promoter’s licence:
@@ -316,7 +317,7 @@ The purpose of this Act is to—
   - **venue manager** means 1 natural person responsible for supervising the gambling and venue personnel at a class 4 venue and for banking the proceeds of class 4 gambling
   - **venue operator** means the occupier of a class 4 venue to which section 65(3) applies who owns the primary business at the venue
   - **venue personnel** means a person who works at a class 4 venue or a casino and whose work involves dealing with gambling equipment, gamblers, or the proceeds of gambling.
-(2) For the purposes of this Act, an evidence of age document means a document as defined in section 2A of the Sale of Liquor Act 1989.
+(2)
 (3) References to this Act include regulations made or continued under this Act.
 
 ### 5 Meaning of conducting gambling
@@ -2203,8 +2204,8 @@ If the holder of a certificate of approval is employed in a casino or engaged by
 (3) The Governor-General may, by Order in Council, make regulations prescribing the days on, and the hours during, which a licensed casino may conduct casino gambling and the activities that may be undertaken.
 (4) Regulations made under subsection (3) must not override subsection (1) but may impose restrictions that are additional to the restrictions in that subsection.
 
-### 173 Liquor licence
-Despite the Sale of Liquor Act 1989, an on-licence granted under that Act for a licensed casino must be treated as authorising the sale of liquor for consumption in the casino while the casino is lawfully operated.
+### 173 On-licences under Sale and Supply of Alcohol Act 2012
+Despite the Sale and Supply of Alcohol Act 2012, an on-licence granted under that Act for a licensed casino must be treated as authorising the sale of alcohol for consumption in the casino while the casino is lawfully operated.
 
 ### 174 Charges to enter and play not permitted
 (1) The holder of a casino licence must not charge or take a deposit, levy, or charge, directly or indirectly, to or from a person for the right to participate in casino gambling in the casino, except a commission or levy provided for in game rules.
