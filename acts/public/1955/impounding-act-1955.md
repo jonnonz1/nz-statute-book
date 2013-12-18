@@ -1,5 +1,5 @@
 # Impounding Act 1955
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2013-12-18_
 
 > An Act to consolidate and amend the law relating to the establishment and management of public pounds, trespassing and wandering stock, and the impounding of stock
 
@@ -278,7 +278,7 @@ Where stock has not been released from the pound before the time fixed for the s
 
 ### 50 Sales of impounded stock
 (1) Sales of impounded stock shall be held at the time and place specified in the notice referred to in subsection (2) of section 46, and at any such sale not more than 10 sheep or goats nor more than 5 pigs nor more than 1 head of any other kind of stock shall be sold in 1 lot.
-(2) At every such sale the poundkeeper or any other person authorized by the local authority shall act as auctioneer, but in respect of the sale shall not be required to take out an auctioneer's licence.
+(2) At every such sale the poundkeeper or any other person authorized by the local authority shall act as auctioneer, and any such auctioneer is not required to be an auctioneer registered under the Auctioneers Act 2013.
 (3) The local authority or any poundkeeper employed by the local authority or any person conducting the sale on its behalf shall not either in person or through an agent purchase any stock at any such sale, or have any interest of any kind in the stock so purchased.
 (4) Any sale of impounded stock by public auction notified to be subject to a reserved or upset price shall be subject to a reserved or upset price not exceeding the amount of costs and charges to which the local authority is entitled under this Act.
 
