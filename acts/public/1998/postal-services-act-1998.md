@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 > An Act to regulate the provision of postal services
 
@@ -47,6 +47,7 @@ _Consolidation as at 2013-07-01_
   - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) An article is taken to have been posted when, for the purpose of being conveyed or delivered by a postal operator, it has been put into a public letterbox, or delivered at a postal outlet, or accepted for the purpose of being conveyed by post by an employee or agent of a postal operator in the course of his or her duty or authority.
 (3) A postal article is taken to be delivered to the addressee when it is delivered by a postal operator at the addressee's house or office, or into the addressee's letterbox or rural delivery box, or into the proper private box at a postal outlet, or to the addressee's employee or agent or other person considered to be authorised to receive the article, or according to the usual manner of delivering postal articles to the addressee.
