@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -74,6 +74,7 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
   - **vessel** has the same meaning as in section 2 of the Harbours Act 1950
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
 (2) Unless in any case the context otherwise requires, every reference in this Act or any other Act or in any regulation, rule, order, agreement, deed, instrument, application, notice, licence, or other document whatsoever in force at the date on which this subsection comes into force—
   (a) to the Minister of Forests, shall hereafter be read as a reference to the Minister of Forestry:
