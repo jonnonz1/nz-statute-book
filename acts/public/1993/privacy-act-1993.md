@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-01-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -104,6 +104,7 @@ _Consolidation as at 2013-12-16_
     (b) that uniquely identifies that individual in relation to that agency;—
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) For the avoidance of doubt, it is hereby declared that the fact that any body (being a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, by any provision of an Act, to inquire into a specified matter) is not excluded from the definition of the term agency in subsection (1) by virtue of subparagraph (xii) of paragraph (b) of that definition does not mean that such a body is not excluded from that definition by virtue of subparagraph (vii) or subparagraph (viii) of that paragraph.
 
