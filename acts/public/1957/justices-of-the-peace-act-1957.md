@@ -1,5 +1,5 @@
 # Justices of the Peace Act 1957
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the appointment of Justices of the Peace
 
@@ -17,9 +17,10 @@ In this Act, unless the context otherwise requires,—
     (b) by virtue of being a District Court Judge, a Judge of the Maori Land Court, the chairperson of a regional council, or the mayor of a territorial authority
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Secretary** means the Secretary for Justice
-  - **working day** means a day that—
-    (a) is not Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, Labour Day, or the Sovereign's birthday; and
-    (b) does not fall in a period commencing on 20 December in one year and ending with 15 January in the next year.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 
 ### 2A Act binds the Crown
 This Act binds the Crown.
