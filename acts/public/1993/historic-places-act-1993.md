@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 > An Act—ato promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbto continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcto establish the Maori Heritage Council; anddto amend and consolidate the Historic Places Act 1980
 
@@ -56,6 +56,7 @@ In this Act, unless the context otherwise requires,—
   - **wahi tapu area** means an area of land that contains 1 or more wahi tapu
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 20 December in any year and ending with 10 January in the following year.
 
 ### 3 Act to bind the Crown
