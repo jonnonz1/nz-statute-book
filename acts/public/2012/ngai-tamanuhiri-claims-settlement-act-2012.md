@@ -1,5 +1,5 @@
 # Ngai Tāmanuhiri Claims Settlement Act 2012
-_Consolidation as at 2013-05-24_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Ngai Tāmanuhiri Claims Settlement Act 2012.
@@ -129,6 +129,7 @@ In this Act, unless the context requires another meaning,—
   - **business day** means a day other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing on 25 December in any year and ending on the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Auckland and Wellington
   - **coastal marine area** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **commercial redress property** means—
