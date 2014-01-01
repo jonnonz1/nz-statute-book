@@ -1,5 +1,5 @@
 # Anzac Day Act 1966
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to make provision regarding the observance of Anzac Day
 
@@ -29,6 +29,9 @@ This Act may be cited as the Anzac Day Act 1966.
 (3) Any such trustees may receive donations and grants from persons, companies, and societies, whether incorporated or not, carrying out activities on Anzac Day at a profit, and from other persons and public bodies.
 (4) Subject to the provisions of subsection (5), in any case where steps are taken under this section to set up a trust, the body or bodies taking the steps may execute an instrument appointing trustees of all donations and grants made to the trustees under this section and providing for the administration of the money and property to be held by the trustees and for their powers in respect thereof.
 (5) All money and property held by any trustees who are appointed as aforesaid shall be applied at the discretion of the trustees for the specified charitable purposes for which they were received as aforesaid by the trustees.
+
+### 5A Relationship with Holidays Act 2003
+This Act is subject to section 45A of the Holidays Act 2003 (which concerns the transfer of the public holiday for the purposes of Part 2, subpart 3 of that Act when Anzac Day falls on a Saturday or a Sunday).
 
 ### 6 Repeal
 The Anzac Day Act 1949 is hereby consequentially repealed.
