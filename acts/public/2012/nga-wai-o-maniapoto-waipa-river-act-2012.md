@@ -1,5 +1,5 @@
 # Nga Wai o Maniapoto (Waipa River) Act 2012
-_Consolidation as at 2012-04-05_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 Ā muri kia mau ki te kawau mārō. Whanake ake, whanake ake
@@ -113,10 +113,10 @@ This Act comes into force on the day after the date on which it receives the Roy
 (2) In this Act, unless the context requires another meaning,—
   - **appointer** means a person who appoints a member under clause 2 of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2 of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday and Sunday; and
-    (b) the days observed as the anniversaries of the provinces of Auckland and Wellington; and
-    (c) Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
-    (d) a day in the period starting on 20 December and ending with the close of 10 January in the following year
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period starting on 20 December in any year and ending with 10 January in the following year; and
+    (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
   - **catchment** means the area marked C on SO plan 409144
   - **Clean-up Trust** means the trust established by section 32 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 33 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
   - **co-governance entity** means the Waikato River Authority established by section 22 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 23 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
