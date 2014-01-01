@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -268,7 +268,8 @@ In this Act, unless the context otherwise requires,—
   (b) if the Department is not the department referred to in clause 5 of Schedule 2, any day that is a public holiday and not a Saturday or Sunday, and—
     (i) any day in the period beginning on 25 December in a year and ending on 2 January in the following year; and
     (ii) if 1 January falls on a Friday, the following Monday; and
-    (iii) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
+    (iii) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    (iv) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday.
 (3) Subsections (1) and (2) do not apply for the purposes of calculating working days under section 194(2) or 195(3).
 
 ### 7 Meaning of classified information and proceedings involving classified information
@@ -2447,6 +2448,7 @@ The purpose of this Part is—
   (c) becomes liable for deportation for any reason at some future date.
 (9) In subsection (2), working day means a day of the week other than—
   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+  (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
   (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
   (c) if 1 January falls on a Friday, the following Monday; and
   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
