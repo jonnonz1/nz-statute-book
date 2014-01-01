@@ -1,5 +1,5 @@
 # KiwiSaver Amendment Act 2011
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the KiwiSaver Amendment Act 2011.
@@ -647,17 +647,7 @@ The repeal of section 128 of the principal Act by section 22 of this Act does no
 Unless the context otherwise requires, a reference (express or implied) to the department in an instrument of appointment made under section 177 of the principal Act before or on the commencement date must be read as a reference to the FMA.
 
 ### 71 Transitional regulations
-(1) In this section, transition means the transition from the relevant enactments as in force immediately before their amendment by this Act to the relevant enactments as amended by this Act.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional or savings provisions for the purpose of facilitating or ensuring an orderly transition.
-(3) The Minister must not recommend that regulations be made under this section unless he or she is satisfied that the regulations are necessary to facilitate or ensure an orderly transition.
-(4) Regulations made under this section may, for a period specified in the regulations that ends no later than the close of 31 December 2013,—
-  (a) provide that 1 or more provisions (including definitions) of this Act, or of a relevant enactment, do not apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme:
-  (b) provide that 1 or more terms in this Act, or in a relevant enactment, have the meaning given to them by the regulations to the extent that they apply to or in respect of a KiwiSaver scheme:
-  (c) provide that 1 or more provisions repealed, amended, or revoked by this Act are to continue to apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme as if they had not been repealed, amended, or revoked:
-  (d) provide for any other matter necessary to facilitate or ensure an orderly transition.
-(5) On the close of 31 December 2013,—
-  (a) this section expires and is repealed; and
-  (b) any regulations made under this section that are in force on 31 December 2013 expire and are revoked.
+[Repealed]
 
 ## Schedule  — Amendments consequential on amendments to KiwiSaver Act 2006
 
