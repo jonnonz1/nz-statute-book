@@ -1,5 +1,5 @@
 # Ngāti Manawa Claims Settlement Act 2012
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Ngāti Manawa Claims Settlement Act 2012.
@@ -295,10 +295,10 @@ In this Act, unless the context requires otherwise,—
     (d) a person authorised by the chief executive of the land holding agency, for a deferred selection property:
     (e) a person authorised by the Secretary for Justice, for all other cases
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday and Sunday; and
-    (b) the days observed as the anniversaries of the provinces of Auckland and Wellington; and
-    (c) Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
-    (d) a day in the period starting on 25 December and ending with the close of 15 January in the following year
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period starting on 25 December in any year and ending with 15 January in the following year; and
+    (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
   - **CNI forests sites** means the following sites:
     (a) Ahiweka Pā site:
     (b) Ahiwhakamura Kāinga site:
