@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -24,6 +24,7 @@ _Consolidation as at 2013-12-05_
   - **processor** means a person who prints or reproduces, or plays a role in printing or reproducing, any matter
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) The provisions of Part 3 of Schedule 1 shall also have effect for the purposes of the interpretation of that schedule.
 
