@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -148,7 +148,8 @@ In this Act,—
       (i) except in section 171, ends with 2 January in the following year; or
       (ii) in section 171, ends with 15 January in the following year; and
     (d) if 1 January in any year falls on a Friday, the following Monday; and
-    (e) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday
+    (e) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    (f) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
   - **writing** includes the—
     (a) recording of words in a permanent and legible form; and
     (b) recording of words by electronic means that can be retrieved and read; and
@@ -212,7 +213,7 @@ Subject to section 100, the rights referred to in section 10—
 (2) An application for registration of a trade mark is personal property.
 (3) Equities in respect of an application for registration of a trade mark may be enforced in the same way as equities in respect of any other personal property.
 
-**Registrability of trade marks: General**
+**Registrability of trade marks: general**
 
 ### 13 When trade mark registrable
 (1) If all the requirements set out in subsection (2) are met, a trade mark is registrable under this Act in respect of the following:
@@ -1053,14 +1054,14 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
 (3) If an enforcement officer enters and examines a place under section 134D(1)(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
 (4) Subsection (3) is subject to subsection (5).
 (5) The enforcement officer may, before leaving the place, seize any thing already identified by him or her before the revocation of consent as a thing that he or she has reasonable grounds to believe is evidence of, or of significant relevance to the investigation of, an offence under this Act.
-(6) If a member of the Police assists an enforcement officer, nothing in this section prevents that member of the Police from exercising any power ordinarily exercisable by him or her.
+(6) If a constable assists an enforcement officer, nothing in this section prevents that constable from exercising any power ordinarily exercisable by him or her.
 (7) Sections 134P to 134S contain further provisions that apply to an enforcement officer's power of entry and examination.
 
 **Entry and search under search warrant**
 
-### 134F Enforcement officer or member of Police may apply for search warrant
-(1) An enforcement officer or a member of the Police may apply for a search warrant to search a place or thing.
-(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of a District Court (not being a member of the Police) (the issuing officer) may, on an application by an enforcement officer or a member of the Police, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
+### 134F Enforcement officer or constable may apply for search warrant
+(1) An enforcement officer or a constable may apply for a search warrant to search a place or thing.
+(2) Any District Court Judge, Justice of the Peace, Community Magistrate, or any Registrar of a District Court (not being a constable) (the issuing officer) may, on an application by an enforcement officer or a constable, issue a search warrant to search a place or thing if the issuing officer is satisfied that there are reasonable grounds for believing that—
   (a) an offence under this Act has been, or is being, committed at the place or involving the thing; or
   (b) there is at, in, on, over, or under the place or thing, any thing that is—
     (i) evidence of an offence under this Act; or
@@ -1097,7 +1098,7 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
 
 ### 134I Form and content of search warrant
 (1) Every search warrant issued must be in the prescribed form.
-(2) Every search warrant issued must be directed generally to every enforcement officer and every member of the Police.
+(2) Every search warrant issued must be directed generally to every enforcement officer and every constable.
 (3) A search warrant—
   (a) may be executed by any of the persons to whom it is directed:
   (b) may be subject to any conditions specified in the warrant that the issuing officer considers reasonable:
@@ -1158,7 +1159,7 @@ A search warrant is executed when the person executing the warrant—
   (e) take photographs and sound and video recordings of the place or thing and things found in the place or thing if the person executing the warrant determines that those things may lawfully be done:
   (f) bring in or on to the place or thing and use any equipment, make use of any equipment found on the place or thing, or extract electricity from the place or thing for the purposes of operating the equipment that the person executing the warrant determines may lawfully be used:
   (g) copy any document, or part of a document, that the person executing the warrant determines may lawfully be copied.
-(3) If a member of the Police is assisting another person executing the warrant, that member of the Police may exercise any power ordinarily exercisable by him or her.
+(3) If a constable is assisting another person executing the warrant, that constable may exercise any power ordinarily exercisable by him or her.
 (4) The person executing the warrant must—
   (a) accompany any assistant on the first occasion when the assistant enters the place or thing to be searched; and
   (b) provide such other supervision of any assistant as is reasonable in the circumstances.
@@ -1308,14 +1309,14 @@ An enforcement officer to whom any document is produced for inspection under an 
 **Powers of Police**
 
 ### 134ZB Powers of Police
-Every member of the Police has all, and may exercise any, of the powers of an enforcement officer under this subpart.
+Every constable has all, and may exercise any, of the powers of an enforcement officer under this subpart.
 
 **Miscellaneous**
 
 ### 134ZC Privilege against self-incrimination
 (1) An order under section 134Y does not affect the privilege against self-incrimination that an individual may have under section 60 of the Evidence Act 2006.
 (2) Any assertion of a privilege against self-incrimination must be based on section 60 of the Evidence Act 2006.
-(3) If any individual refuses to produce a document on the ground that it is a privileged communication under section 60 of the Evidence Act 2006, an enforcement officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the document.
+(3) If any individual refuses to produce a document on the ground that it is a privileged communication under section 60 of the Evidence Act 2006, an enforcement officer or a constable may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the document.
 (4) To avoid doubt, nothing in this section affects the application of section 65 of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under section 60 of that Act.
 (5) Section 63 of the Evidence Act 2006 does not apply to an order made under section 134Y.
 
@@ -1329,12 +1330,12 @@ Every member of the Police has all, and may exercise any, of the powers of an en
 (4) A person who has a privilege under this section has the right—
   (a) to prevent the examination under section 134D, or the search under a warrant issued under section 134F, or to refuse production under an order made under section 134Y, of any communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
   (b) to require the return of any such communication or information if it is seized by a person exercising the power of examination under section 134D or search under a warrant issued under section 134F pending determination of the claim to privilege.
-(5) If a person asserts a claim to privilege under this section in respect of any communication or information, an enforcement officer or a member of the Police may apply to a District Court Judge for an order determining whether or not the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
-(6) A District Court Judge may, on the application of an enforcement officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
+(5) If a person asserts a claim to privilege under this section in respect of any communication or information, an enforcement officer or a constable may apply to a District Court Judge for an order determining whether or not the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
+(6) A District Court Judge may, on the application of an enforcement officer or a constable, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
 (7) Section 65 of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
 
 ### 134ZE Disclosure of information
-(1) The chief executive (or any employee of the Ministry authorised in that behalf), the chief executive of the New Zealand Customs Service (or any employee of the New Zealand Customs Service authorised in that behalf), and the Commissioner of Police (or any member of the Police authorised in that behalf) may disclose information to each other, on request, for the purpose of investigating and prosecuting offences under this Act.
+(1) The chief executive (or any employee of the Ministry authorised in that behalf), the chief executive of the New Zealand Customs Service (or any employee of the New Zealand Customs Service authorised in that behalf), and the Commissioner of Police (or any constable authorised in that behalf) may disclose information to each other, on request, for the purpose of investigating and prosecuting offences under this Act.
 (2) Information obtained under subsection (1) must not be disclosed except—
   (a) to the persons authorised under that subsection; or
   (b) for the purpose of any proceedings that have been commenced or that are reasonably in contemplation and that are connected with a matter in relation to which those persons perform their duties.
@@ -1343,8 +1344,8 @@ Every member of the Police has all, and may exercise any, of the powers of an en
 ### 134ZF No liability if functions performed or powers exercised in good faith
 (1) This section applies to—
   (a) an enforcement officer:
-  (b) a person who assists an enforcement officer or a member of the Police under this subpart:
-  (c) a member of the Police who exercises any power of an enforcement officer under this subpart.
+  (b) a person who assists an enforcement officer or a constable under this subpart:
+  (c) a constable who exercises any power of an enforcement officer under this subpart.
 (2) No person to whom this section applies is liable for any act done or omitted to be done by the person in the performance or intended performance of his or her functions or the exercise or intended exercise of his or her powers under this Act if the person acted—
   (a) in good faith; and
   (b) in a reasonable manner; and
@@ -1593,7 +1594,7 @@ A Customs officer to whom any document is produced for inspection under an order
 ### 155H Privilege against self-incrimination
 (1) A notice under section 155B or 155C, or an order under section 155E, does not affect the privilege against self-incrimination that an individual may have under section 60 of the Evidence Act 2006.
 (2) Any assertion of a privilege against self-incrimination must be based on section 60 of the Evidence Act 2006.
-(3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under section 60 of the Evidence Act 2006, a Customs officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the information or the document or answered the question.
+(3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under section 60 of the Evidence Act 2006, a Customs officer or a constable may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the information or the document or answered the question.
 (4) To avoid doubt, nothing in this section affects the application of section 65 of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under section 60 of that Act.
 (5) Section 63 of the Evidence Act 2006 does not apply to an order made under section 155E.
 
@@ -1609,8 +1610,8 @@ A Customs officer to whom any document is produced for inspection under an order
   (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
   (b) to prevent the search of any such communication or information; and
   (c) to require the return of any such communication or information if it is seized by a person exercising a power of search pending determination of the claim to privilege.
-(5) If a person asserts a claim to privilege under this section in respect of any communication or information, a Customs officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
-(6) A District Court Judge may, on the application of a Customs officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
+(5) If a person asserts a claim to privilege under this section in respect of any communication or information, a Customs officer or a constable may apply to a District Court Judge for an order determining whether the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
+(6) A District Court Judge may, on the application of a Customs officer or a constable, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
 (7) Section 65 of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
 
 ### 155J Offences
@@ -2060,4 +2061,4 @@ An Order in Council made under section 72 of the Trade Marks Act 1953 has effect
 (1) Notes on the register that indicate that a trade mark is associated with another trade mark cease to have effect on the commencement of this Act.
 (2) Any other note, disclaimer, or condition entered on the register in relation to a trade mark registered under the Trade Marks Act 1953 is deemed to be entered on the register under this Act.
 
-## Schedule Schedule — Acts amended
+## Schedule  — Acts amended
