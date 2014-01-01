@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -84,6 +84,7 @@ In this Act, unless the context otherwise requires,—
   - **unitary authority** means a unitary authority within the meaning of the Local Government Act 2002
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning on 25 December in any year and ending with 15 January in the following year.
 
 ### 5 Act to bind the Crown
