@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -165,7 +165,8 @@ In this Act, unless the context otherwise requires,—
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (c) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (d) if 1 January in any year falls on a Friday, the following Monday; and
-    (e) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday
+    (e) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    (f) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
   - **works** includes—
     (a) a line and any instrument, furniture, plant, office, building, machinery, engine, excavation, or work, of whatever description, used in relation to, or in any way connected with, a line; and
     (b) a fixed radio station.
