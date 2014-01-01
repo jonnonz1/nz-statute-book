@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2009-05-06_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
@@ -50,7 +50,7 @@ This Act comes into force on 1 January 2001.
     (e) the Parliamentary Service:
     (f) an intelligence and security agency:
     (g) a council-controlled organisation within the meaning of section 6 of the Local Government Act 2002
-  - **serious wrongdoing** includes any serious wrongdoing of any of the following types: whether the wrongdoing occurs before or after the commencement of this Act
+  - **serious wrongdoing** includes any serious wrongdoing of any of the following types:whether the wrongdoing occurs before or after the commencement of this Act
     (a) an unlawful, corrupt, or irregular use of funds or resources of a public sector organisation; or
     (b) an act, omission, or course of conduct that constitutes a serious risk to public health or public safety or the environment; or
     (c) an act, omission, or course of conduct that constitutes a serious risk to the maintenance of law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
@@ -58,6 +58,7 @@ This Act comes into force on 1 January 2001.
     (e) an act, omission, or course of conduct by a public official that is oppressive, improperly discriminatory, or grossly negligent, or that constitutes gross mismanagement,—
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning on 25 December in any year and ending on 15 January (both dates inclusive) in the following year.
 (2) An example used in this Act has the following status:
   (a) the example is only illustrative of the provision to which it relates and does not limit the provision; and
@@ -84,7 +85,7 @@ The purpose of this Act is to promote the public interest—
 (4) This section is subject to section 6A.
 
 ### 6A Technical failure to comply with or refer to Act
-(1) A disclosure of information is not prevented from being a protected disclosure of information for the purposes of this Act merely because— Example Person A is an employee of Organisation B. B’s internal procedures for receiving and dealing with information about serious wrongdoing require the information to be provided to B’s Human Resources Manager using a particular form. Person A provides the information using the form to B’s chief executive rather than the Human Resources Manager. Person A otherwise substantially complies with the Act. The failure to comply is merely technical. Under this section, the disclosure is still a protected disclosure for the purposes of this Act.
+(1) A disclosure of information is not prevented from being a protected disclosure of information for the purposes of this Act merely because—ExamplePerson A is an employee of Organisation B.B’s internal procedures for receiving and dealing with information about serious wrongdoing require the information to be provided to B’s Human Resources Manager using a particular form.Person A provides the information using the form to B’s chief executive rather than the Human Resources Manager. Person A otherwise substantially complies with the Act.The failure to comply is merely technical. Under this section, the disclosure is still a protected disclosure for the purposes of this Act.
   (a) of a technical failure to comply with sections 7 to 10 if the employee has substantially complied with the requirement in section 6 to disclose the information in accordance with this Act; or
   (b) the employee does not expressly refer to the name of this Act when the disclosure is made.
 (2) This section applies despite anything to the contrary expressed or implied in the relevant internal procedures.
@@ -156,7 +157,7 @@ The internal procedures of an intelligence and security agency must—
     (ii) the Prime Minister.
 
 ### 13 Special rules on procedures of certain organisations relating to international relations and intelligence and security
-The internal procedures of— must, insofar as they relate to the disclosure of information concerning the international relations of the Government of New Zealand or intelligence and security matters,—
+The internal procedures of—must, insofar as they relate to the disclosure of information concerning the international relations of the Government of New Zealand or intelligence and security matters,—
   (a) the Department of the Prime Minister and Cabinet; and
   (b) the Ministry of Foreign Affairs and Trade; and
   (c) the Ministry of Defence; and
@@ -243,7 +244,7 @@ The Chief Ombudsman may, by written notice, appoint a person to perform an Ombud
 (2) This section applies only to employees within the meaning of the Employment Relations Act 2000.
 
 ### 18 Immunity from civil and criminal proceedings
-(1) No person who— is liable to any civil or criminal proceeding or to a disciplinary proceeding by reason of having made or referred that disclosure of information.
+(1) No person who—is liable to any civil or criminal proceeding or to a disciplinary proceeding by reason of having made or referred that disclosure of information.
   (a) makes a protected disclosure of information; or
   (b) refers a protected disclosure of information to an appropriate authority for investigation—
 (2) Subsection (1) applies despite any prohibition of or restriction on the disclosure of information under any enactment, rule of law, contract, oath, or practice.
