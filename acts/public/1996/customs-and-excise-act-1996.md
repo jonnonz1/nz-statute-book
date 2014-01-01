@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1473,7 +1473,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (1) This section applies to the following Orders in Council:
   (a) an Order in Council made under section 77(1); and
   (b) an Order in Council made under section 79(1); and
-  (ba) an Order in Council made under section 79AA(2); and
+  (ba)
   (c) an Order in Council made under section 79A(1) that has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)).
 (1A) An Order in Council to which this section applies must,—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
