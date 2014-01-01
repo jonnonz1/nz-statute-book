@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 > Title
 
@@ -195,6 +195,7 @@ _Consolidation as at 2013-12-05_
       (iii) the Parliamentary Service
   - **working day** means any day except—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed as anniversary day in Wellington; and
     (c) a day in the period commencing on 25 December in one year and ending on 15 January in the next year.
 (2)
