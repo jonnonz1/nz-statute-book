@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 > Title
 
@@ -310,6 +310,7 @@ This Act shall bind the Crown.
   - **urban area** means any area within the boundaries of any district within the meaning of the Local Government Act 2002 that immediately before 1 November 1989 was or formed part of any borough, town district, or community as those terms were then defined in that Act
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) any day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) Where land is taken or acquired under the Public Works Act 1981 for the functioning indirectly of any road, the land so taken or acquired shall not constitute a road for the purposes of frontage to any land; and no person shall have any right of access to, on, under, over, or through the land so taken or acquired without the consent of the authority taking or acquiring the land.
 
@@ -613,8 +614,8 @@ Every bylaw in force in respect of any State highway on the commencement of this
   (b) if any other Māori claims settlement Act requires consultation about the request, in accordance with that Act:
   (c) in any other case, every iwi or hapū that, in the opinion of the Agency, will or may be affected by the request.
 (3A) The Agency must be satisfied after such consultation that the request should be made.
-(4) The Minister shall cause a copy of every Order in Council made under subsection (1)(b), and of every plan referred to in it, to be deposited in the office of the District Land Registrar; and on receipt of it the District Land Registrar shall note the Order in Council upon the appropriate folio of the proper register.
-(5) Where any land affected by any Order in Council made under subsection (1)(b) is Maori land, the Minister shall cause a copy of that order to be deposited in the office of the Registrar of the Maori Land Court who shall record it in the records of the court.
+(4) The Minister shall cause a copy of every Order in Council made under subsection (1)﻿(b), and of every plan referred to in it, to be deposited in the office of the District Land Registrar; and on receipt of it the District Land Registrar shall note the Order in Council upon the appropriate folio of the proper register.
+(5) Where any land affected by any Order in Council made under subsection (1)﻿(b) is Maori land, the Minister shall cause a copy of that order to be deposited in the office of the Registrar of the Maori Land Court who shall record it in the records of the court.
 (6) Every motorway declared as such by the Governor-General under section 138 of the Public Works Act 1981 and having that status under that Act immediately before the commencement of this Act is hereby deemed to have been declared to be a motorway under this Act.
 
 ### 72 Middle line procedures
@@ -692,12 +693,12 @@ Neither the Crown nor any local authority nor any other person shall place any w
 (3) If any part of any motorway has been inspected by some proper person appointed by the Agency for the purpose, and that person has reported to the Agency that he or she has inspected the part and that it cannot safely and conveniently be used for public traffic, the Agency may fence off and close such part of the motorway as it may consider necessary or expedient, and thereafter the provisions of subsection (1) shall apply as if the part of the motorway so closed had not been opened for public traffic.
 (4) The Agency may open for the use of traffic or any specified category of traffic any land held for motorway purposes notwithstanding that it has not been declared to be a motorway under section 71.
 (5) While any land is open for the use of any traffic or category of traffic pursuant to subsection (4) the land shall be deemed to be—
-  (a) a road for the purposes of the Land Transport Act 1998, and of any regulations or rules in force under either of those Acts; and
+  (a) a road for the purposes of the Land Transport Act 1998, and of any regulations or rules in force under that Act; and
   (b) a motorway for the purposes of any regulations in force under this Act relating to motorways.
 
 ### 80 Maintenance and control of motorways
 (1) Subject to the provisions of this Part, the Agency shall have the sole powers of control for all purposes, including construction and maintenance, of all motorways, and for that purpose shall have all the powers and rights vested in it by this Act as if every motorway were a State highway.
-(2) For the avoidance of doubt it is declared that all the provisions of section 62, shall apply in respect of any motorway that is not a State highway.
+(2) For the avoidance of doubt it is declared that all the provisions of section 62 shall apply in respect of any motorway that is not a State highway.
 
 ### 81 Cost of motorways
 (1) Except as provided in this section, motorways shall, for the purposes of the provisions of this Act relating to the cost of constructing and maintaining State highways, be deemed to be State highways, and no local authority shall be required to contribute to the cost of any motorway.
@@ -759,7 +760,7 @@ The engineer in charge of the construction or maintenance of any motorway shall 
   (a) which has been created a limited access road under either subsection (1) or subsection (2), but subject to section 96(1); or
   (b) which has been created a limited access road under section 4 of the Public Works Act Amendment Act 1963, but subject to section 96(1); or
   (c) whose administration has passed to the Agency under section 96(2).
-(6) Where any land becomes State highway by virtue of section 238(1)(c) of the Resource Management Act 1991 and section 60, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
+(6) Where any land becomes State highway by virtue of section 238(1)﻿(c) of the Resource Management Act 1991 and section 60, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
 
 ### 89 Provisions of Acts relating to roads to apply to limited access roads
 Subject to the provisions of this Part, the provisions of this Act and of every other enactment relating to roads shall, so far as they are applicable and with the necessary modifications, apply to—
@@ -772,7 +773,7 @@ Subject to the provisions of this Part, the provisions of this Act and of every 
 
 ### 91 Authorisation of crossing places
 (1) The Agency, in the case of any limited access road under its control, may from time to time—
-  (a) by notice to the owner of the parcel of land affected—
+  (a) by notice to the owner of the parcel of land affected,—
     (i) authorise, subject to such conditions (if any) as it may impose, any crossing place, whether formed or not, at which vehicles may proceed to and from the limited access road from and to any specified parcel of land:
     (ii) specify the location of any crossing place, whether authorised under section 90 or under this section:
     (iii) cancel the right to use any crossing place, whether authorised under section 90 or under this section or located by a specification under subparagraph (ii), if the parcel of land has reasonably practicable legal access to some other road or has another authorised crossing place:
@@ -786,7 +787,7 @@ Subject to the provisions of this Part, the provisions of this Act and of every 
   (c) enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office that is affected by the notice, the fact of the notice; and
   (d) return the remaining copy to the Agency.
 (5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the Land Transfer Act 1952.
-(6) Any notice entered by the District Land Registrar under subsection (4)(c) may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
+(6) Any notice entered by the District Land Registrar under subsection (4)﻿(c) may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
 
 ### 92 Restricting movement to or from limited access road
 Without restricting any provision of any other Act, it is hereby declared that a person shall not drive or move any vehicle or animal, or permit any vehicle or animal to be driven or moved, on to or from any limited access road, except—
@@ -877,7 +878,7 @@ Where the Agency or any local authority is required under this Act to make any d
 (1) If at any time the Agency has reasonable cause to believe that any road, State highway, or motorway under the control of the Agency or a territorial authority is not in reasonable or satisfactory condition,—
   (a) it may inquire into the circumstances; and
   (b) if, in the opinion of the Agency, the territorial authority in control of the road, State highway, or motorway has not carried out work which the Agency considers necessary and justified in the interest of road users, having regard to the money available to the territorial authority, the Agency may by notice require the Agency or the territorial authority to undertake such work as it may specify and within such period as may be stated in the notice.
-(2) In the event of the Agency or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)(b), the Agency itself may arrange for the work to be carried out and may recover the costs of that work from the Agency or the territorial authority, either as a debt due to the Agency or by deducting the amount from payments then due or becoming due to the Agency or the territorial authority from the National Roads Account.
+(2) In the event of the Agency or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)﻿(b), the Agency itself may arrange for the work to be carried out and may recover the costs of that work from the Agency or the territorial authority, either as a debt due to the Agency or by deducting the amount from payments then due or becoming due to the Agency or the territorial authority from the National Roads Account.
 
 ### 107 Application of Act to Chatham Islands
 Except as otherwise expressly provided in this Act, this Act shall apply to the Chatham Islands as if the Chatham Islands Council were a territorial authority that is also a regional council.
