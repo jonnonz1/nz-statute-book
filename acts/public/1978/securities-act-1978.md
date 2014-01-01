@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2013-09-14_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -185,6 +185,7 @@ _Consolidation as at 2013-09-14_
   - **unit trustee** has the same meaning as the term trustee has in section 2(1) of the Unit Trusts Act 1960
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (c) if 1 January in any year falls on a Friday, the following Monday; and
     (d) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday
