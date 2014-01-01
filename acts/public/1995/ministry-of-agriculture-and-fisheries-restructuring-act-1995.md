@@ -1,5 +1,5 @@
 # Ministry of Agriculture and Fisheries (Restructuring) Act 1995
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2014-01-01_
 
 > An Act—ato provide for the restructuring of the Ministry of Agriculture and Fisheries; andbto repeal the Ministry of Agriculture and Fisheries Act 1953; andcto amend certain related enactments; anddto provide for related matters
 
@@ -20,6 +20,7 @@ In this Act, unless the context otherwise requires,—
   - **responsible Ministry** , in relation to any function or matter, means, subject to any enactment, the Ministry that has, with the authority of the Prime Minister, for the time being assumed responsibility for that function or matter
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
 
 ## Part 1 — Restructuring of Ministry of Agriculture and Fisheries
