@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -131,6 +131,7 @@ This Act may be cited as the Electoral Act 1993.
   - **undue influence** has the meaning assigned to that term by section 218
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **writ** means a writ for an election issued under this Act
   - **writ day** , in relation to any election, means the day of the issue of the writ for that election.
