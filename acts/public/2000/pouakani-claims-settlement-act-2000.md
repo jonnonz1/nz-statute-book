@@ -1,5 +1,5 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 (1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
@@ -94,6 +94,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year, and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **chief executive** means the chief executive of Land Information New Zealand
   - **Chief Surveyor** has the meaning that it has in section 2 of the Survey Act 1986
