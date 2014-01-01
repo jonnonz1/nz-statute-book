@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -93,6 +93,7 @@ In this Act, unless the context otherwise requires,—
     (b) a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
   - **working day** means a day of the week (irrespective of whether or not work is actually carried out on that day) other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) for the purposes of sections 18, 22, 33, 35 to 37, 46, 59, 66, and 72, a day in the period commencing on 24 December in any year and ending with the close of 5 January in the following year; and
     (d) for the purposes of sections 53, 74, and 75, a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year.
