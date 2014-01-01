@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -48,6 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002; and, in relation to land that does not form part of the district of any such territorial authority, means the Minister of the Crown responsible for the administration of that Act
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 
 ### 3 Power to declare specific public work to be essential work
