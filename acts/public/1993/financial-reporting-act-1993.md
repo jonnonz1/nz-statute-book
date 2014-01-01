@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2013-09-14_
+_Consolidation as at 2014-01-01_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
@@ -78,6 +78,7 @@ _Consolidation as at 2013-09-14_
     (b) means, in relation to a group, the total annualised gross operating revenue of the group (exclusive of any tax required to be collected) reported in the consolidated statement of financial performance or consolidated income and expenditure statement, as the case may be, for the accounting period for which the financial statements are required; and includes (without limitation) any sales, fee income, grants, output appropriations, cost recoveries, donations, dividends, interest, and subscriptions of the group for that accounting period
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (c) if 1 January in any year falls on a Friday, the following Monday; and
     (d) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday.
