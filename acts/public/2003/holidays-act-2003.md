@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -527,6 +527,12 @@ ExampleAn employee is to work from 10 pm on 24 April to 6 am on Anzac Day and fr
   (c) falls on a Sunday and the day would otherwise be a working day for the employee, the public holiday must be treated as falling on that day:
   (d) falls on a Sunday and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Tuesday.
 (2) To avoid doubt, this section does not entitle an employee to more than 4 public holidays for the days listed in section 44(1)(a) to (d).
+
+### 45A Transfer of Waitangi Day and ANZAC Day public holidays
+(1) For the purposes of this subpart, if Waitangi Day or ANZAC Day—
+  (a) falls on a Saturday or a Sunday, and the day would otherwise be a working day for the employee, the public holiday must be treated as falling on that day:
+  (b) falls on a Saturday or a Sunday, and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Monday.
+(2) To avoid doubt, this section does not entitle an employee to more than 1 public holiday for Waitangi Day or more than 1 public holiday for ANZAC Day.
 
 **Entitlement to public holidays**
 
