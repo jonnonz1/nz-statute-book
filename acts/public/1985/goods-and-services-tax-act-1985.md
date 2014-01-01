@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-01-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -181,6 +181,7 @@ _Consolidation as at 2013-12-16_
   - **warranty** , in respect of goods supplied, means an undertaking given under the supply agreement to remedy any defect in the goods that appears during a certain period of time after the goods are supplied or before a certain level of usage is reached
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **zero-rating of land rules** means sections 5(24), 11(1)(mb), 60B(6), 75(3B), and 78F.
 (2) For the purposes of this Act, a reference to goods and services includes a reference to goods or services.
@@ -1235,7 +1236,7 @@ If a person makes a return that includes a figure for the value of supplies char
     (iii) in which the Commissioner receives from the registered person a notice of cancellation, if the notice of cancellation does not nominate a taxable period after which the cancellation is to be effective.
 
 ### 20G Treatment of supplies of certain assets
-(1) A registered person who uses an asset described in section DG 3 of the Income Tax Act 2007 for making taxable supplies has a deduction under section 20(3)(hb) of an amount calculated using the formula—input tax for asset×total income-earning days total income-earning days + total private days.
+(1) A registered person who uses an asset described in section DG 3 of the Income Tax Act 2007 for making taxable supplies has a deduction under section 20(3)(hb) of an amount calculated using the formula—input tax for asset×total income-earning daystotal income-earning days + total private days.
 (2) In the formula,—
   (a) input tax for asset is the input tax on expenditure that the person incurs in relation to the use of the asset, other than expenditure that is––
     (i) related solely to the income-earning use of the asset as described in section DG 7 of that Act; or
@@ -1336,13 +1337,13 @@ For the purposes of section 21A(b),—
 (1) This section applies when a registered person—
   (a) acquires goods or services in relation to which they do not have a full deduction, taking into account any adjustments made to input tax in adjustment periods after acquisition; and
   (b) subsequently disposes, or is treated as disposing, of the goods or services in the course or furtherance of a taxable activity.
-(2) The person must make a final adjustment of an amount calculated using the formula—tax fraction × consideration × [1−actual deduction]full input tax deduction
+(2) The person must make a final adjustment of an amount calculated using the formula—tax fraction × consideration × [1 −actual deduction]full input tax deduction
 (3) For the purposes of the formula in subsection (2),—
   (a) tax fraction has the meaning given in section 2(1), unless subsection (7) applies to the disposal:
   (b) consideration is the amount of consideration received, or treated as received, for the supply:
   (c) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the date of disposal:
   (d) the amount, when added to any deduction already claimed, must not be more than the amount of the full input tax deduction on acquisition referred to in section 21D(2).
-(4) Despite subsection (2), if the acquisition referred to in subsection (1)(a) relates to a supply that is charged at the rate of 0% under section 11(1)(mb), on a disposal referred to in subsection (1)(b), the person must make a final adjustment of an amount calculated using the formula—tax fraction × consideration × (1 – previous use)
+(4) Despite subsection (2), if the acquisition referred to in subsection (1)(a) relates to a supply that is charged at the rate of 0% under section 11(1)(mb), on a disposal referred to in subsection (1)(b), the person must make a final adjustment of an amount calculated using the formula—tax fraction × consideration × (1 − previous use)
 (5) For the purposes of the formula in subsection (4),—
   (a) tax fraction has the meaning given in section 2(1), unless subsection (7) applies to the disposal:
   (b) consideration is the amount of consideration received, or treated as received, for the supply:
