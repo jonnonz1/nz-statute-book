@@ -1,5 +1,5 @@
 # Ngati Porou Claims Settlement Act 2012
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Ngati Porou Claims Settlement Act 2012.
@@ -212,10 +212,11 @@ In this Act, unless the context otherwise requires,—
     (a) in section 74(7), in respect of a cultural redress property; and
     (b) in section 85(4), in respect of commercial redress and deferred selection properties; and
     (c) in section 97(5), in respect of rights of access over licensed or unlicensed land
-  - **business day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
-    (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
-    (c) the days observed as the anniversaries of the provinces of Auckland and Wellington
+  - **business day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period starting on 25 December in any year and ending with 15 January in the following year; and
+    (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
   - **commercial redress property** means—
     (a) the licensed land; and
     (b) each commercial redress property for no consideration
@@ -1866,7 +1867,7 @@ For the purposes of section 11, the hapu of Ngati Porou are—
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Te Puia | 0.3819 hectares, more or less, being Section 140R Te Puia Suburban. All Gazette 1930 page 3207. 5.1471 hectares, more or less, being Section 88 Te Puia Suburban. Part Gazette 1903 page 273.0.9282 hectares, more or less, being section 146 Te Puia Suburban. Part Gazette 1929 page 2500.7.3102 hectares, more or less, being Sections 1 and 2 SO 439210. All Gazette 1928 page 2759, Balance Gazette 1903 page 273 and Balance Gazette 1929 page 2500. | Subject to local purpose reserve referred to in section 70(3). |
+| Te Puia | 0.3819 hectares, more or less, being Section 140R Te Puia Suburban. All Gazette 1930 page 3207.5.1471 hectares, more or less, being Section 88 Te Puia Suburban. Part Gazette 1903 page 273.0.9282 hectares, more or less, being section 146 Te Puia Suburban. Part Gazette 1929 page 2500.7.3102 hectares, more or less, being Sections 1 and 2 SO 439210. All Gazette 1928 page 2759, Balance Gazette 1903 page 273 and Balance Gazette 1929 page 2500. | Subject to local purpose reserve referred to in section 70(3). |
 | Whangaokeno | 8.0937 hectares, more or less, being Whangaokeno Block. All Gazette Notice 143420.1. | Subject to local purpose reserve referred to in section 71(3). |
 
 | Name of site | Description |
