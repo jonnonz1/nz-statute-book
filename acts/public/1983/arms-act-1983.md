@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2013-12-11_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -75,6 +75,7 @@ _Consolidation as at 2013-12-11_
   - **specially dangerous airgun** means any airgun declared by the Governor-General, by Order in Council made under section 4, to be a specially dangerous airgun
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) For the purposes of the definition of restricted airgun in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire.
 
@@ -198,7 +199,7 @@ In any proceedings against any person in respect of any offence against section 
   (b) may, in the discretion of that member of the Police, refuse to grant the permit with respect to—
     (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon of any kind; or
     (ii) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind.
-(2) Without limiting the discretion conferred by subsection (1)(b), no application for a permit for the purposes of section 16(1) in respect of—shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
+(2) Without limiting the discretion conferred by subsection (1)﻿(b), no application for a permit for the purposes of section 16(1) in respect of—shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
   (a) a pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon; or
   (b) parts of a pistol, military style semi-automatic firearm, or restricted weapon,—
 (3) Any permit issued for the purposes of section 16(1) is personal to the person to whom it is issued and may not be transferred to any other person.
@@ -209,7 +210,7 @@ In any proceedings against any person in respect of any offence against section 
 Unless sooner revoked under section 18(4), a permit issued for the purposes of section 16(1) shall expire 12 months after the date on which that permit was issued.
 
 ### 18B Samples
-(1) Where an applicant is, pursuant to a requirement made under section 18(1)(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
+(1) Where an applicant is, pursuant to a requirement made under section 18(1)﻿(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
 (2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of section 16(1) and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
 (3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
 
@@ -280,7 +281,7 @@ A member of the Police or officer of the Customs who suspects on reasonable grou
 (1) Every holder of a firearms licence—
   (a) shall produce the licence for inspection whenever required to do so by any member of the Police:
   (b) shall maintain the licence in such a condition that it may be produced in an undefaced and legible condition.
-(2) The holder of a firearms licence issued pursuant to this Act shall be deemed to have complied with subsection (1)(a) if, within 7 days after having been so required to produce his licence or permit, he produces it at a place specified by the member of the Police.
+(2) The holder of a firearms licence issued pursuant to this Act shall be deemed to have complied with subsection (1)﻿(a) if, within 7 days after having been so required to produce his licence or permit, he produces it at a place specified by the member of the Police.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, being the holder of a firearms licence, fails to comply with subsection (1).
 
 ### 27 Revocation and surrender of firearms licence
@@ -320,14 +321,14 @@ Without limiting the generality of sections 24 and 27, it is hereby declared tha
     (ii) a bona fide theatre company or society or cinematic or television film production company or video recording production company; or
   (f) a licensed dealer or an agent or employee of a licensed dealer; or
   (g) a person of a class specified for the purposes of this section by regulations made under this Act.
-(3) For the purposes of subsection (2)(e), approved, in relation to any employee or member, means approved in writing for the purposes of that subsection by the chief executive officer of the body by which he is employed or of which he is a member.
+(3) For the purposes of subsection (2)﻿(e), approved, in relation to any employee or member, means approved in writing for the purposes of that subsection by the chief executive officer of the body by which he is employed or of which he is a member.
 (4) Every application under subsection (1) or subsection (2) shall be made on a form provided by a member of the Police.
 
 ### 30 Power to make endorsement in respect of pistols or restricted weapons
 On receiving an application under section 29, a member of the Police may, subject to any direction from the Commissioner, make the endorsement applied for if he is satisfied—
   (a) that the applicant is a fit and proper person to be in possession of the pistol or restricted weapon to which the application relates; and
   (b) that the applicant should, on grounds or in a capacity specified in section 29, be permitted to have possession of the pistol or restricted weapon to which the application relates; and
-  (c) in the case of an application under section 29(2)(e), that possession of the pistol or restricted weapon by the employee or member is necessary for the purpose of—
+  (c) in the case of an application under section 29(2)﻿(e), that possession of the pistol or restricted weapon by the employee or member is necessary for the purpose of—
     (i) making a broadcast; or
     (ii) producing or staging a play; or
     (iii) filming a cinematic production or television film or making a video recording.
@@ -420,7 +421,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (b) to be disposed of to a person approved by the Commissioner; or
   (c) to be exported from New Zealand; or
   (d) to be delivered to a member of the Police.
-(3) The Minister of Finance shall, subject to subsection (4), pay compensation out of a Crown Bank Account for the value of all weapons in a serviceable condition, and for all parts, delivered to a member of the Police in accordance with subsection (2)(d).
+(3) The Minister of Finance shall, subject to subsection (4), pay compensation out of a Crown Bank Account for the value of all weapons in a serviceable condition, and for all parts, delivered to a member of the Police in accordance with subsection (2)﻿(d).
 (4) Compensation shall not be paid under subsection (3) unless the Minister is satisfied—
   (a) that the person claiming compensation has acquired the weapon or parts lawfully; and
   (b) if he has brought the weapon or parts into New Zealand, that he has done so lawfully.
@@ -558,16 +559,16 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 ### 50 Unlawful possession of pistol, military style semi-automatic firearm, or restricted weapon
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who—
   (a) is in possession of a pistol and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that pistol; or
-  (b) is in possession of a restricted weapon and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that restricted weapon:
+  (b) is in possession of a restricted weapon and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that restricted weapon; or
   (c) is in possession of a military style semi-automatic firearm and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that military style semi-automatic firearm.
 (2) It is not an offence against this section to be in possession of a pistol that is an antique firearm.
 (3) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was in possession of a pistol, military style semi-automatic firearm, or restricted weapon, the burden of proving that the defendant was authorised or permitted, expressly or by implication, by or pursuant to this Act to be in possession of that pistol, military style semi-automatic firearm, or restricted weapon shall lie on the defendant.
-(4) It is a good defence to a prosecution for an offence against subsection (1)(a) if the defendant proves—
+(4) It is a good defence to a prosecution for an offence against subsection (1)﻿(a) if the defendant proves—
   (a) that he is the holder of a firearms licence; and
   (b) that he has owned the firearm to which the charge relates since before 16 May 1969; and
   (c) that, immediately before 16 May 1969, he was registered under section 9 of the Arms Act 1958 as the owner of that firearm; and
   (d) that, although that firearm is less than 762 millimetres in length, it has not been reduced below that length since 15 May 1969 and is not designed or adapted to be held and fired with 1 hand.
-(5) It is a good defence to a prosecution for an offence against subsection (1)(a) if the defendant proves—
+(5) It is a good defence to a prosecution for an offence against subsection (1)﻿(a) if the defendant proves—
   (a) that the pistol was in his possession for use both—
     (i) on the range of an incorporated pistol club for the time being recognised by the Commissioner for the purposes of section 29; and
     (ii) under the immediate supervision of the holder of a firearms licence bearing an endorsement permitting that person to have possession of that pistol or a pistol of that kind; and
@@ -653,7 +654,7 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 (2) On the hearing of an appeal under subsection (1A), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
 (3) Where—the District Court Judge may, notwithstanding that he finds any such ground established, vary or reverse the decision appealed against if he is satisfied that, since the decision was given, adequate measures have been taken to deny access to the firearm to the person whose likelihood of access to it was the basis of the refusal or revocation.
   (a) an application for a firearms licence has been refused on the ground set out in section 24(2); or
-  (b) a firearms licence has been revoked on the ground set out in section 27(1)(b)—
+  (b) a firearms licence has been revoked on the ground set out in section 27(1)﻿(b)—
 (4) Notwithstanding that any appeal under this section may have been determined in favour of the appellant, any commissioned officer of Police, in exercise of the powers conferred on him by this Act, may, subject to the like right of appeal, revoke any licence or permit to which the appeal related or any licence or permit granted in compliance with the decision of the District Court Judge on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
 (5) Subject to subsection (4) and to section 64, the decision of the District Court Judge on any appeal under this section shall be final and conclusive.
 (6) No person shall be excused from complying with any of the provisions of this Act on the ground that an appeal is pending under this section.
@@ -697,7 +698,7 @@ On application by way of originating application, a District Court Judge may mak
 (1) Sections 65A to 65G expire with the close of 30 September 1999, and on 1 October 1999—
   (a) those sections, and the heading above section 65A, are to be treated as having been repealed; and
   (b) all written authorities issued under section 65B(1), and all written permits issued under section 65C(1), are to be treated as having been revoked.
-(2) If a written authority or written permit is treated under subsection (1)(b) as having been revoked, the foreign personal protection officer to whom it was issued must—
+(2) If a written authority or written permit is treated under subsection (1)﻿(b) as having been revoked, the foreign personal protection officer to whom it was issued must—
   (a) immediately deliver the firearms, airguns, pistols, restricted weapons, and ammunition to which the authority or permit relates into the possession of the Police: and
   (b) as soon as practicable after they have been so delivered, arrange for their removal from New Zealand.
 
@@ -743,7 +744,7 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
   (b) to any solicitor or other agent of that person who is duly authorised by that person to receive the same.
 (3) If the person is deceased, the notice or other document may be served on or given to that person's personal representatives.
 (4) If the person is absent from New Zealand and his or her place of abode or business outside New Zealand is not known to the person by whom the notice or other document is to be served or given, the notice or other document shall (unless it can be served on or given to an agent in New Zealand of the person who is absent from New Zealand) be served or given in such manner as may be directed by an order of a District Court.
-(5) Where any notice or other document is sent by post in accordance with subsection (1)(c),—
+(5) Where any notice or other document is sent by post in accordance with subsection (1)﻿(c),—
   (a) it shall, if sent to an address in New Zealand, be deemed, in the absence of evidence to the contrary, to have been served or given on the fourth working day after the date on which it was posted; and
   (b) it shall, if sent to an address outside New Zealand, be deemed in the absence of evidence to the contrary, to have been served or given on the 60th working day after the date on which it was posted; and
   (c) in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
@@ -754,13 +755,13 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
 (1) Notwithstanding anything in this Act, but subject to any prohibitions, limitations, restrictions, or conditions imposed by or pursuant to any regulations made under this Act,—
   (a) any carrier may have possession of a firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in the course of carriage under a contract of carriage:
   (b) any person who seizes any article, being a firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, in the exercise of a power conferred on him by any Act may have possession of that article so long as he is acting in the exercise of that power and in connection with his official duties.
-(2) In subsection (1)(a), carrier includes any postal operator within the meaning of the Postal Services Act 1998.
+(2) In subsection (1)﻿(a), carrier includes any postal operator within the meaning of the Postal Services Act 1998.
 
 ### 74 Regulations
 (1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the issue, renewal, and replacement of permits and licences and the granting of endorsements:
   (b) prescribing the manner and content of applications for permits, licences, and endorsements and of other applications under this Act, and requiring such applications to be supported by statutory declarations and by such other documents or information as may be prescribed:
-  (ba) providing for photographs of licence holders to be affixed to or imaged into dealers licences or firearms licences or both and prescribing requirements in relation to those photographs:
+  (ba) providing for photographs of licence holders to be affixed to or imaged into dealers’ licences or firearms licences or both and prescribing requirements in relation to those photographs:
   (c) providing for applicants for firearms licences to pass theoretical and practical tests as to their ability to handle firearms safely or to undergo courses of training designed to teach them to handle firearms safely:
   (d) exempting applicants or classes of applicants for firearms licences from passing tests prescribed under paragraph (c):
   (e) prescribing conditions to which permits, licences, and endorsements shall be subject:
