@@ -1,5 +1,5 @@
 # Ngāti Tūrangitukua Claims Settlement Act 1999
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2014-01-01_
 
 > An Act—ato record the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāti Tūrangitukua claims
 
@@ -111,6 +111,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year, and ending with the close of 5 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **chief executive** means the chief executive of Land Information New Zealand
   - **Council** means the Taupo District Council
@@ -153,7 +154,7 @@ In this Act, unless the context otherwise requires,—
 (2) In subsection (1),—
   - **ancillary claims** means all claims made at any time by any person, arising out of an alleged act or omission of the Crown during the acquisition and construction of Turangi Township and the construction of the Tongariro Power Development Scheme
   - **interest** includes any legal or equitable right, title, power, privilege, or benefit
-  - **loss** , in relation to any of the interests referred to in subsection (1)(a)(ii), includes extinguishment of, diminution of, or adverse effect on, any such interest.
+  - **loss** , in relation to any of the interests referred to in subsection (1)﻿(a)﻿(ii), includes extinguishment of, diminution of, or adverse effect on, any such interest.
 
 ## Part 3 — Settlement of claims
 
@@ -177,7 +178,7 @@ In this Act, unless the context otherwise requires,—
   (c) sections 27A to 27C of the State-Owned Enterprises Act 1986; or
   (d) sections 211 to 213 of the Education Act 1989; or
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) Subsection (1)(c) does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
+(2) Subsection (1)﻿(c) does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
 
 ### 12 Removal of resumptive memorials
 (1) The chief executive must, as soon as reasonably practicable after the settlement date, issue to the Registrar 1 or more certificates that identify each certificate of title relating to land in the Turangi Township that contains a resumptive memorial entered under any of the enactments referred to in section 11.
@@ -203,14 +204,14 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
   (b) grant or take a lease of any settlement property to or from a Crown body:
   (c) transfer any settlement property to the Ngāti Tūrangitukua Charitable Trust or its nominee:
   (d) sign any memorandum of transfer or lease, or any other document, or do any other thing for the purposes of any such purchase, acquisition, lease, or transfer.
-(2) Section 40 of the Public Works Act 1981 (but not sections 41 and 42 of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property under subsection (1)(c).
+(2) Section 40 of the Public Works Act 1981 (but not sections 41 and 42 of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property under subsection (1)﻿(c).
 (3) Except as expressly provided otherwise in, or by operation of, this Act, nothing in subsection (1) limits—
   (a) subsection (4); or
   (b) sections 10 and 11 of the Crown Minerals Act 1991; or
   (c) any other reservation made by any enactment or statutory instrument; or
   (d) any other enactment which must be complied with before any disposal.
 (4) Nothing in the Land Act 1948 applies to any settlement property that is to be transferred from a Crown body to another Crown body or to the Ngāti Tūrangitukua Charitable Trust or its nominee, or vested in the Ngāti Tūrangitukua Charitable Trust or its nominee, for the purposes of giving effect to the deed of settlement.
-(5) Nothing in the Land Act 1948 restricts the period for which a lease may be granted under subsection (1)(b).
+(5) Nothing in the Land Act 1948 restricts the period for which a lease may be granted under subsection (1)﻿(b).
 
 ### 16 Issue of certificates of title
 (1) In this section, settlement property means a settlement property—
@@ -229,7 +230,7 @@ In this Part, protocol means a statement in writing issued, in accordance with s
   (b) how the Department of Conservation will, on a continuing basis, interact with Ngāti Tūrangitukua and provide for Ngāti Tūrangitukua’s input into its decision-making process.
 
 ### 18 Authority to issue, amend, or cancel protocol
-(1) The Crown, acting by and through the Minister of Conservation may, issue a protocol in the form set out in attachment 6.2 of the deed of settlement.
+(1) The Crown, acting by and through the Minister of Conservation, may issue a protocol in the form set out in attachment 6.2 of the deed of settlement.
 (2) The Minister of Conservation may amend and cancel the protocol.
 (3) The protocol may be amended or cancelled, under subsection (2), at the initiative of either the Minister of Conservation or Turangitukua Nominees Limited.
 (4) The Minister of Conservation may amend or cancel the protocol under this section only after consulting Turangitukua Nominees Limited.
@@ -274,7 +275,7 @@ The revocation of reserves by sections 25(3), 26(2), and 27(3) and the vesting o
 (6) The vesting under subsection (4) is—
   (a) subject to a public pedestrian right of way that is 3 m in width and immediately adjacent to the Tongariro River; and
   (b) to avoid doubt, free from a requirement under Part 4A of the Conservation Act 1987 to reserve a marginal strip.
-(7) If, at any time and for any reason, the course of the Tongariro River is altered, the right of way referred to in subsection (6)(a), immediately adjacent to the river, is determined by the course of the river.
+(7) If, at any time and for any reason, the course of the Tongariro River is altered, the right of way referred to in subsection (6)﻿(a), immediately adjacent to the river, is determined by the course of the river.
 
 ### 25A Notation on title
 (1) The Registrar-General of Land is authorised and directed to make entries in the register under the Land Transfer Act 1952 and on the certificates of title for the Kutai Street reserves, and generally do what is necessary to give effect to the provisions of section 25(6) and (7) of this Act.
@@ -343,7 +344,7 @@ The Registrar must, when issuing a certificate of title for a Crown reserve or a
 
 ### 35 Exclusions
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation of a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
-(2) Sections 78(1)(a), 79, 80, and 81 of the Reserves Act 1977 do not apply to any reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
+(2) Sections 78(1)﻿(a), 79, 80, and 81 of the Reserves Act 1977 do not apply to any reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
 (3) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
 
 ### 36 Encumbrances
@@ -364,7 +365,7 @@ Where the fee simple estate in a reserve is vested in the Ngāti Tūrangitukua C
 (3) The classification and name of the Admirals Scenic Reserve (classified and named by notice in the Gazette 1986, Vol V, at page 4520), is—
   (a) changed, to a recreation reserve subject to section 17(1) of the Reserves Act 1977; and
   (b) changed, to Waikari Recreation Reserve.
-(4) The requirements of section 24 and 16(10) of the Reserves Act 1977 are to be treated as having been complied with for the purposes of subsections (3)(a) and (3)(b).
+(4) The requirements of section 24 and 16(10) of the Reserves Act 1977 are to be treated as having been complied with for the purposes of subsections (3)﻿(a) and (3)﻿(b).
 
 ## Schedule 1 — The Treaty of Waitangi
 
