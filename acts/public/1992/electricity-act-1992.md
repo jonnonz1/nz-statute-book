@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-01-01_
 
 > Title
 
@@ -134,6 +134,7 @@ The purposes of this Act are—
   - **worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **works** —
     (a) means any fittings that are used, or designed or intended for use, in or in connection with the generation, conversion, transformation, or conveyance of electricity; but
@@ -410,7 +411,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
   (a) the electricity operator; and
   (b) the local authority or other body with jurisdiction over the road to which the works relate; and
   (c) any owner referred to in section 25(1)﻿(b).
-(5) Subsection (1) does not apply to the construction of works that are intended to convey, or are associated with, electricity at a voltage of more than 110 KV and a capacity of more than 100 MVA.
+(5) Subsection (1) does not apply to the construction of works that are intended to convey, or are associated with, electricity at a voltage of more than 110 kV and a capacity of more than 100 MVA.
 (6) In subsection (5), works means works located at or above ground level in, on, along, over, or across a road, but does not include works suspended above a road.
 
 ### 24A Criteria for setting reasonable conditions
