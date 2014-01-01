@@ -1,5 +1,5 @@
 # Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
-_Consolidation as at 2009-08-04_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009.
@@ -60,6 +60,7 @@ In this Act, unless the context requires another meaning,—
   - **business day** means the period from 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed as the anniversary of the province of Wellington
   - **Commissioner of Crown Lands** has the same meaning as Commissioner in section 2 of the Land Act 1948
   - **consent authority** has the meaning given to it in section 2(1) of the Resource Management Act 1991
