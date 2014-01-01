@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2013-02-08_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -108,6 +108,7 @@ In this Act, unless the context requires another meaning,—
   - **business day** means a day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period starting on 25 December in a year and ending on 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed as the anniversary of the province of Auckland or the province of Wellington
   - **commercial property** —
     (a) means a property listed in part 3 of the property schedule of the deed of settlement, including the Narrow Neck property; but
