@@ -1,5 +1,5 @@
 # Ngaa Rauru Kiitahi Claims Settlement Act 2005
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 (1) I hainatia te Tiriti o Waitangi, teeraa e whakaatahia ana i roto i te reo Paakehaa me te reo Maaori i te Waahanga Tuatahi o te Ture Tiriti o Waitangi 1975, i te tau 1840:
@@ -235,6 +235,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
   - **chief executive** means the chief executive of Land Information New Zealand
   - **Commissioner of Crown Lands** has the same meaning as Commissioner in section 2 of the Land Act 1948
