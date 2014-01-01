@@ -1,5 +1,5 @@
 # Ngāti Mākino Claims Settlement Act 2012
-_Consolidation as at 2012-07-31_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 (1) Ngāti Mākino are part of the Te Arawa confederation of tribes and have strong connections to Ngāti Awa. Traditionally, they occupied the area between the Rotorua lakes and the Bay of Plenty coast where they existed as an independent iwi:
@@ -117,6 +117,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means a day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed as the anniversary of the province of Wellington; and
     (d) the day observed as the anniversary of the province of Auckland, being the day that is locally observed in the Bay of Plenty as its anniversary
   - **concession** has the meaning given in section 2(1) of the Conservation Act 1987
