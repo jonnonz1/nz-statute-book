@@ -1,5 +1,5 @@
 # Ngāti Awa Claims Settlement Act 2005
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 Kupu Whakataki
@@ -291,6 +291,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, ANZAC Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in a year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of Wellington and Auckland
   - **commercial redress property** means a property described in attachments 8.1 and 8.2 of the Ngāti Awa deed of settlement
   - **Commissioner of Crown Lands** has the same meaning as Commissioner in section 2 of the Land Act 1948
