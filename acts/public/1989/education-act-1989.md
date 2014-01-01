@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-01-01_
 
 > An Act to reform the administration of education
 
@@ -1358,7 +1358,12 @@ Subject to Part 8A and section 120A, a board may from time to time, in accordanc
 (4) Where the Minister has not in fact prescribed terms, or a means of ascertaining or determining them, under subsection (1) in respect of any year, the Minister shall be deemed to have prescribed in respect of the year the terms or means prescribed (or deemed under this subsection to have been prescribed) in respect of the year before.
 
 ### 65C Holidays
-(1) Subject to subsection (2), every board shall ensure that all schools it administers are closed on Saturdays, Sundays, New Year's Day, 2 January, Waitangi Day, Good Friday, Easter Monday, Easter Tuesday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, Boxing Day, and the day observed in the locality in which the school is situated as anniversary day.
+(1) Subject to subsection (2), every board must ensure that every school it administers is closed on—
+  (a) Saturdays, Sundays, New Year's Day, 2 January, Waitangi Day, Good Friday, Easter Monday, Easter Tuesday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, Boxing Day; and
+  (b) the day observed as anniversary day in the locality in which the school is situated; and
+  (c) if 1 January falls on a Friday, the following Monday; and
+  (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+  (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday.
 (2) The Minister may at any time prescribe the circumstances in which boards may open the schools they administer or any of them on Saturdays or Sundays; and schools may be open accordingly.
 (3) The Minister may, before 1 July in any year, prescribe days during the next year (in addition to those specified in subsection (1)) on which boards may close the schools they administer, or any of them; and, subject to section 65A, schools may be closed accordingly.
 (4) Where the Minister has not in fact prescribed days under subsection (1) in respect of any year, the Minister shall be deemed to have prescribed in respect of the year the days prescribed (or deemed under this subsection to have been prescribed) in respect of the year before.
@@ -3261,6 +3266,105 @@ Following an investigation of a complaint under section 139AZC, or following rec
   (b) on behalf of the managers of a school registered under section 35A any student enrolled at or attending the school; or
   (ba) on behalf of a sponsor of a partnership school kura hourua any student enrolled at or attending the school; or
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
+
+### 139AAA Surrender and retention of property
+(1) This section applies if a teacher or an authorised staff member has reasonable grounds to believe that a student has hidden or in clear view on or about the student's person, or in any bag or other container under the student's control, an item that is likely to—
+  (a) endanger the safety of any person; or
+  (b) detrimentally affect the learning environment.
+(2) If this section applies, the teacher or authorised staff member may require the student to produce and surrender the item.
+(3) If the item is stored on a computer or other electronic device, the teacher or authorised staff member may require the student—
+  (a) to reveal the item:
+  (b) to surrender the computer or other electronic device on which the item is stored.
+(4) A teacher or an authorised staff member may do either or both of the following to an item surrendered under this section:
+  (a) retain the item for a reasonable period:
+  (b) dispose of the item (if appropriate).
+(5) A teacher or an authorised staff member may retain a computer or other electronic device surrendered under subsection (3)﻿(b) for a reasonable period.
+(6) If an item or a computer or other electronic device is retained under this section, it must be stored in an appropriate manner.
+(7) At the end of any period of retention, any computer or other electronic device, or any item that is not disposed of under subsection (4)﻿(b), must be—
+  (a) returned to the student; or
+  (b) passed to another person or agency, as appropriate.
+(8) A teacher or an authorised staff member who exercises a power under this section must comply with any rules made under section 139AAH.
+(9) In this section and sections 139AAB to 139AAI, unless the context otherwise requires,—
+  - **authorised staff member** means an employee of a board who is authorised by that board,—
+    (a) when used in this section, to exercise powers under this section; and
+    (b) when used in section 139AAB, to exercise powers under that section
+  - **item** includes information stored in electronic form
+  - **student** includes a person under the supervision of a teacher, whether or not the person is enrolled at the school at which the teacher is employed
+  - **teacher** means a person employed at a State school in a teaching position (within the meaning of section 120).
+(10) An authorisation referred to in the definition of authorised staff member in subsection (9) must be in writing and may be subject to conditions.
+
+### 139AAB Searches of clothing and bags or other containers
+(1) This section applies if—
+  (a) a teacher or an authorised staff member has reasonable grounds to believe that a student has on or about the student's person, or in any bag or other container under the student's control, a harmful item; and
+  (b) the teacher or authorised staff member has required the student to produce and surrender the harmful item under section 139AAA and the student has refused to produce and surrender it.
+(2) If this section applies, the teacher or authorised staff member may do any of the following:
+  (a) require the student to remove any outer clothing, except where the student has no other clothing, or only underclothing, under that outer clothing:
+  (b) require the student to remove any head covering, gloves, footwear, or socks:
+  (c) require the student to surrender the bag or other container.
+(3) The teacher or authorised staff member may search any clothing or footwear removed, and any bag or other container surrendered, under subsection (2).
+(4) If, during a search under this section, the teacher or authorised staff member finds a harmful item or an item that is likely to detrimentally affect the learning environment, the item may be seized by the teacher or authorised staff member and section 139AAA(4) to (7) apply with any necessary modifications.
+(5) A teacher or an authorised staff member who exercises a power under this section must comply with any rules made under section 139AAH.
+(6) In this section, section 139AAD, and section 139AAF,—
+  - **harmful item** means an item that a teacher or an authorised staff member has reasonable grounds to believe poses an immediate threat to the physical or emotional safety of any person
+  - **outer clothing** includes, without limitation, any coat, jacket, jumper, or cardigan
+  - **socks** does not include tights or stockings.
+
+### 139AAC Restrictions on searches under section 139AAB
+(1) A teacher or an authorised staff member who carries out a search under section 139AAB must carry out the search with decency and sensitivity and in a manner that affords the student the greatest degree of privacy and dignity consistent with the purpose of the search.
+(2) Unless impracticable, a search under section 139AAB must be carried out—
+  (a) by a teacher or an authorised staff member who is of the same sex as the student; and
+  (b) in the presence of the student and another teacher or authorised staff member who is of the same sex as the student.
+(3) Unless impracticable, a search under section 139AAB must not be carried out in the view of any person other than the person carrying out the search, the student, and another teacher or authorised staff member.
+(4) A teacher or an authorised staff member who carries out a search under section 139AAB must—
+  (a) return any clothing or footwear removed and any bag or other container surrendered as soon as the search is completed; and
+  (b) keep a written record of any items seized under section 139AAB(4).
+
+### 139AAD Limitations on sections 139AAA and 139AAB
+(1) Nothing in section 139AAA or 139AAB permits a teacher or staff member—
+  (a) to search any student; or
+  (b) to use physical force against a student; or
+  (c) to require a student to provide a bodily sample (but a teacher or staff member may encourage a student to participate in a voluntary drug treatment programme that involves testing of bodily samples).
+(2) Nothing in section 139AAA or 139AAB permits a teacher or an authorised staff member to have a dog with him or her for the purpose of exercising a power under that section.
+(3) The powers set out in sections 139AAA and 139AAB may not be exercised in relation to 2 or more students together unless the teacher or authorised staff member has reasonable grounds to believe that each student has an item specified in section 139AAA(1) or a harmful item on or about his or her person, or in any bag or other container under his or her control.
+(4) Nothing in subsection (1) limits or affects sections 15 and 17 of this Act or sections 41, 48, and 59 of the Crimes Act 1961.
+(5) In this section,—
+  - **rub-down search** means a search in which the person conducting the search—
+    (a) runs or pats his or her hand over the body of the person being searched, whether outside or inside the clothing of the person being searched:
+    (b) inserts his or her hand inside any pocket or pouch in the clothing of the person being searched
+  - **search** , in relation to a student, includes—
+    (a) a strip search; and
+    (b) a rub-down search
+  - **strip search** means a search where the person conducting the search requires the person being searched to—
+    (a) remove any of the latter person's clothing other than outer clothing, head covering, gloves, footwear, or socks; or
+    (b) raise, lower, or open all or any part of the latter person's clothing.
+
+### 139AAE Prohibitions on searches by contractors
+(1) A contractor may not—
+  (a) exercise any power in section 139AAA or 139AAB; or
+  (b) search a student.
+(2) However, a contractor may bring a dog that is trained for the purpose of searching to a school and use the dog for the purpose of searching school property (including lockers, desks, or other receptacles provided to students for storage purposes).
+(3) In this section, contractor has the meaning given by section 78CA(2).
+
+### 139AAF Refusal to reveal, produce, or surrender item
+(1) If a student refuses to reveal, produce, or surrender an item or computer or other electronic device under section 139AAA(2) or (3), a teacher or an authorised staff member may take any disciplinary steps, or steps to manage the student's behaviour, that the teacher or authorised staff member considers reasonable.
+(2) If a student refuses to remove any outer clothing, head covering, gloves, footwear, or socks or to surrender a bag or other container under section 139AAB(2), a teacher or an authorised staff member may take any disciplinary steps, or steps to manage the student's behaviour, that the teacher or authorised staff member considers reasonable.
+
+### 139AAG Power to search storage containers not affected
+Nothing in section 139AAA or 139AAB limits or affects any power to search any locker, desk, or other receptacle provided to students for storage purposes.
+
+### 139AAH Rules about surrender and retention of property and searches
+(1) The Secretary must make rules (which must be consistent with this Act) regulating the practice and procedure to be followed by boards, principals, teachers, and authorised staff members under sections 139AAA to 139AAF, including, without limitation, rules—
+  (a) providing for the keeping of written records relating to the use of the powers under section 139AAA; and
+  (b) prescribing requirements relating to the keeping of written records under section 139AAB; and
+  (c) prescribing the procedure for authorising staff members to exercise powers or carry out functions under sections 139AAA to 139AAI; and
+  (d) specifying the circumstances in which items may be disposed of under section 139AAA(4)﻿(b); and
+  (e) setting out requirements for the storage of items and computers and other electronic devices under section 139AAA(6); and
+  (f) making provision for the return of items and computers and other electronic devices under section 139AAA(7)﻿(a).
+(2) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 139AAI Guidelines about surrender and retention of property and searches
+(1) The Secretary must issue guidelines for the exercise of powers and carrying out of functions under sections 139AAA to 139AAH.
+(2) Boards, principals, teachers, and authorised staff members must have regard to guidelines issued under subsection (1).
 
 ### 139B Building Act 2004
 (1) Where any person making an inspection under this Act believes that any building or sitework does not comply with the Building Act 2004, that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
