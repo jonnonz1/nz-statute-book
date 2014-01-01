@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-01-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -307,6 +307,7 @@ _Consolidation as at 2013-10-04_
   - **whitebait** includes the species Retropina retropina and juveniles of all species of the genus Galaxias
   - **working day** means any day other than—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year.
 (1A) References to this Act include references to rules and regulations made under this Act.
 (2) For the avoidance of doubt, it is hereby declared that, unless the context otherwise requires,—
