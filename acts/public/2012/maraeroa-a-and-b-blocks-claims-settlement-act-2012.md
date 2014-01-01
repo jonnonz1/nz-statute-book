@@ -1,5 +1,5 @@
 # Maraeroa A and B Blocks Claims Settlement Act 2012
-_Consolidation as at 2012-07-31_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 Background
@@ -131,10 +131,11 @@ In this Act, unless the context otherwise requires,—
   - **affected person** has the meaning given in section 2AA(2) of the Resource Management Act 1991
   - **attachments** means the attachments to the deed of settlement
   - **authorised person** has the meaning given in section 64(5), 69(5), or 77(4), as the case may be
-  - **business day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
-    (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
-    (c) the days observed as the anniversaries of the provinces of Auckland and Wellington
+  - **business day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period starting on 25 December in any year and ending with 15 January in the following year; and
+    (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
   - **Commissioner of Crown Lands** has the meaning given in section 2 of the Land Act 1948
   - **consent authority** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **conservation area** has the meaning given in section 2(1) of the Conservation Act 1987
