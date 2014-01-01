@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -103,8 +103,8 @@ _Consolidation as at 2013-12-18_
   - **witness summons** means a summons issued under section 98 requiring the person named in the summons to attend at a specified time and place and to give evidence or to produce any document or thing
   - **work order** means an order by the Tribunal to carry out any repairs to any premises or to any chattels, or to rectify any deficiency in the performance of any services, by doing such work or attending to such matters (including the replacement of chattels) as may be specified in the order
   - **working day** means any day other than—
-    (a) a Saturday or Sunday; and
-    (b) the Sovereign's birthday, Anzac Day, Labour Day, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (d) a day in the period commencing with Good Friday and expiring with the Tuesday after Easter; and
     (e) a day in the period commencing with 24 December and expiring with 3 January.
