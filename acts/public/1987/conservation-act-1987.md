@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2014-01-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -173,7 +173,10 @@ _Consolidation as at 2013-11-28_
   - **watercourse area** means land for the time being declared to be such an area under section 23
   - **wild animal** has the same meaning as in section 2 of the Wild Animal Control Act 1977; but does not include any animal product derived from a wild animal
   - **wildlife** has the same meaning as it has in the Wildlife Act 1953
-  - **working day** means a day that is not a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, or a day during a period commencing on any Christmas Day and ending with the 15th day of the following January.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 (2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18AA(1) or 18(1).
 (3) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare any species to be included in or excluded from the definitions of the terms aquatic life, freshwater fish, or sports fish in subsection (1); and any such declaration may be expressed to apply to any species in any specified areas or waters, or generally throughout New Zealand.
 
