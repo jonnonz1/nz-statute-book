@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -33,6 +33,7 @@ In this Act, unless the context otherwise requires,—
   - **Wheatgrowing Industry Research Trust Account** means the account established pursuant to section 17(1)
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning with 25 December in any year and ending with 15 January in the following year.
 
 ### 3 Act to bind the Crown
@@ -46,20 +47,20 @@ This Act binds the Crown.
   (b) persons carrying on business as flourmillers:
   (c) the purchasers or other persons taking delivery of flour or wheatmeal from a flourmill:
   (d) the purchasers or other persons taking delivery, from any importer of flour or wheatmeal, of flour or wheatmeal imported into New Zealand.
-(2) Where, in respect of any flour or wheatmeal imported into New Zealand, no levy would, apart from this subsection, be payable under subsection (1)(d) because that flour or wheatmeal is imported into New Zealand by an importer for that importer's own use, that importer shall be deemed, for the purposes of this Act, to be a purchaser taking delivery of that flour or wheatmeal from an importer, and the levy imposed by subsection (1)(d) shall be imposed on, and payable by, that importer accordingly.
+(2) Where, in respect of any flour or wheatmeal imported into New Zealand, no levy would, apart from this subsection, be payable under subsection (1)﻿(d) because that flour or wheatmeal is imported into New Zealand by an importer for that importer's own use, that importer shall be deemed, for the purposes of this Act, to be a purchaser taking delivery of that flour or wheatmeal from an importer, and the levy imposed by subsection (1)﻿(d) shall be imposed on, and payable by, that importer accordingly.
 
 ### 5 No levy payable where flour or wheatmeal rejected by purchaser
-(1) No levy shall be payable, under section 4(1)(a), in respect of any wheat that is sold or delivered to any person (being a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat) if that wheat is subsequently rejected by that person and is returned to, or disposed of (other than by sale) at the direction of, the producer of the wheat.
-(2) No levy shall be payable, under section 4(1)(b) or (c), in respect of any flour or wheatmeal that is delivered by a flourmiller from that flourmiller's flourmill if that flour or wheatmeal is subsequently rejected by the purchaser or other person taking delivery of that flour or wheatmeal from that flourmill and is returned to, or disposed of (other than by sale) at the direction of, that flourmiller.
-(3) No levy shall be payable, under section 4(1)(d), in respect of any flour or wheatmeal imported into New Zealand if that flour or wheatmeal is subsequently rejected by the purchaser or other person taking delivery of that flour or wheatmeal from the importer of that flour or wheatmeal and is returned to, or disposed of (other than by sale) at the direction of, that importer.
+(1) No levy shall be payable, under section 4(1)﻿(a), in respect of any wheat that is sold or delivered to any person (being a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat) if that wheat is subsequently rejected by that person and is returned to, or disposed of (other than by sale) at the direction of, the producer of the wheat.
+(2) No levy shall be payable, under section 4(1)﻿(b) or (c), in respect of any flour or wheatmeal that is delivered by a flourmiller from that flourmiller's flourmill if that flour or wheatmeal is subsequently rejected by the purchaser or other person taking delivery of that flour or wheatmeal from that flourmill and is returned to, or disposed of (other than by sale) at the direction of, that flourmiller.
+(3) No levy shall be payable, under section 4(1)﻿(d), in respect of any flour or wheatmeal imported into New Zealand if that flour or wheatmeal is subsequently rejected by the purchaser or other person taking delivery of that flour or wheatmeal from the importer of that flour or wheatmeal and is returned to, or disposed of (other than by sale) at the direction of, that importer.
 (4) Where any wheat, flour, or wheatmeal is rejected by any person in any of the circumstances specified in subsection (1) or subsection (2) or subsection (3), and that wheat, flour, or wheatmeal is subsequently dealt with in circumstances in which a levy would be payable under section 4, nothing in subsection (1) or subsection (2) or subsection (3) exempts that wheat, flour, or wheatmeal from any levy payable under section 4 in those latter circumstances.
 
 ### 6 Determination of rates of levies
-(1) Subject to subsection (2), the levy imposed by section 4(1)(a) shall be at such rate as may from time to time be determined by United Wheatgrowers.
+(1) Subject to subsection (2), the levy imposed by section 4(1)﻿(a) shall be at such rate as may from time to time be determined by United Wheatgrowers.
 (2) No rate of levy shall be determined by United Wheatgrowers under subsection (1) except on the recommendation of the Electoral Committee of that company, and any such recommendation may be made only if it is supported by at least 75% of the persons present and voting at the meeting of the Electoral Committee at which the recommendation is considered.
-(3) Subject to sections 8 and 9, the levy imposed by section 4(1)(b) shall be at such rate as may from time to time be determined by the Flourmillers Association.
-(4) Subject to sections 8 and 9, the levy imposed by section 4(1)(c) shall be at such rate as may from time to time be determined by the Bakers Association.
-(5) Subject to section 9, the levy imposed by section 4(1)(d) shall be at the same rate as is from time to time determined for the purposes of section 4(1)(c).
+(3) Subject to sections 8 and 9, the levy imposed by section 4(1)﻿(b) shall be at such rate as may from time to time be determined by the Flourmillers Association.
+(4) Subject to sections 8 and 9, the levy imposed by section 4(1)﻿(c) shall be at such rate as may from time to time be determined by the Bakers Association.
+(5) Subject to section 9, the levy imposed by section 4(1)﻿(d) shall be at the same rate as is from time to time determined for the purposes of section 4(1)﻿(c).
 
 ### 7 Computation of levies
 The levies imposed by section 4 shall be computed as follows:
@@ -92,27 +93,27 @@ The amount of the levies imposed by section 4 shall not exceed,—
 
 ### 11 Recovery of levies
 All levies imposed by section 4 shall be recoverable in any court of competent jurisdiction as a debt due,—
-  (a) in the case of the levy imposed by section 4(1)(a), to United Wheatgrowers:
-  (b) in the case of the levy imposed by section 4(1)(b), to the Flourmillers Association:
+  (a) in the case of the levy imposed by section 4(1)﻿(a), to United Wheatgrowers:
+  (b) in the case of the levy imposed by section 4(1)﻿(b), to the Flourmillers Association:
   (c) in the case of the levies imposed by paragraphs (c) and (d) of section 4(1), to the Bakers Association.
 
 ### 12 Collection of levies
-(1) Every person (being a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat) who buys from a producer any wheat in respect of which a levy is payable under section 4(1)(a) shall, when making payment to the producer for the wheat, deduct from that payment the levy payable in respect of that wheat by the producer, and shall from time to time, as required by United Wheatgrowers, pay the proceeds of the levy into the Wheatgrowing Industry Research Trust Account.
-(2) The amount of any levy payable under section 4(1)(c) by a purchaser or other person taking delivery of any flour or wheatmeal from a flourmill may be recoverable in the first place from the flourmiller.
-(3) The amount of any levy payable under section 4(1)(d) by a purchaser or other person taking delivery of any flour or wheatmeal imported into New Zealand may be recoverable in the first place from the importer of that flour or wheatmeal into New Zealand.
+(1) Every person (being a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat) who buys from a producer any wheat in respect of which a levy is payable under section 4(1)﻿(a) shall, when making payment to the producer for the wheat, deduct from that payment the levy payable in respect of that wheat by the producer, and shall from time to time, as required by United Wheatgrowers, pay the proceeds of the levy into the Wheatgrowing Industry Research Trust Account.
+(2) The amount of any levy payable under section 4(1)﻿(c) by a purchaser or other person taking delivery of any flour or wheatmeal from a flourmill may be recoverable in the first place from the flourmiller.
+(3) The amount of any levy payable under section 4(1)﻿(d) by a purchaser or other person taking delivery of any flour or wheatmeal imported into New Zealand may be recoverable in the first place from the importer of that flour or wheatmeal into New Zealand.
 (4) On payment, by a flourmiller or an importer, of the amount of any levy on behalf of any other person, that flourmiller or importer shall be entitled to recover the amount of that levy from the person on whose behalf the levy was so paid, as a debt due to that flourmiller or importer, and may deduct the amount so paid from any money at any time owing by the flourmiller or importer to any such person.
 
 ### 13 Bakers Association may arrange for collection of levy by New Zealand Customs Service
-(1) The chief executive of the New Zealand Customs Service may from time to time, on behalf of the Crown, enter into an arrangement with the Bakers Association for the collection, by the New Zealand Customs Service, of the levy imposed by section 4(1)(d).
+(1) The chief executive of the New Zealand Customs Service may from time to time, on behalf of the Crown, enter into an arrangement with the Bakers Association for the collection, by the New Zealand Customs Service, of the levy imposed by section 4(1)﻿(d).
 (2) Any arrangement under subsection (1) may be made on such terms and conditions as may be agreed between the chief executive of the New Zealand Customs Service and the Bakers Association.
 
 ### 14 New Zealand Customs Service to supply Bakers Association with information on imports of flour and wheatmeal
-(1) The New Zealand Customs Service shall, at the request of the Bakers Association, and on payment by the Bakers Association of such reasonable fee (if any) as the chief executive of the New Zealand Customs Service may determine, supply to the Bakers Association such information relating to the importation into New Zealand of flour and wheatmeal as is held by the New Zealand Customs Service and is necessary to enable the Bakers Association to collect the levy imposed by section 4(1)(d).
-(2) No person shall communicate to any other person, except for the purpose of collecting or recovering the levy imposed by section 4(1)(d) or in respect of any prosecution under this Act or for some other purpose authorised by law, any information relating to the importation into New Zealand of flour or wheatmeal, where that information comes to the knowledge of the first-mentioned person pursuant to subsection (1).
+(1) The New Zealand Customs Service shall, at the request of the Bakers Association, and on payment by the Bakers Association of such reasonable fee (if any) as the chief executive of the New Zealand Customs Service may determine, supply to the Bakers Association such information relating to the importation into New Zealand of flour and wheatmeal as is held by the New Zealand Customs Service and is necessary to enable the Bakers Association to collect the levy imposed by section 4(1)﻿(d).
+(2) No person shall communicate to any other person, except for the purpose of collecting or recovering the levy imposed by section 4(1)﻿(d) or in respect of any prosecution under this Act or for some other purpose authorised by law, any information relating to the importation into New Zealand of flour or wheatmeal, where that information comes to the knowledge of the first-mentioned person pursuant to subsection (1).
 (3) Nothing in subsection (1) limits or affects the Official Information Act 1982.
 
 ### 15 Liability of producer to cease when levy deducted from purchase price
-Where, pursuant to section 12(1), any flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat deducts, from any payment made to any producer of wheat, the amount of the levy payable, under section 4(1)(a), by that producer in respect of any wheat, that producer shall cease to be liable for the payment of that levy in respect of that wheat, notwithstanding that the flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat—
+Where, pursuant to section 12(1), any flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat deducts, from any payment made to any producer of wheat, the amount of the levy payable, under section 4(1)﻿(a), by that producer in respect of any wheat, that producer shall cease to be liable for the payment of that levy in respect of that wheat, notwithstanding that the flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat—
   (a) fails to account to United Wheatgrowers for that levy; or
   (b) is unable to pay that levy to United Wheatgrowers, whether on account of insolvency or for any other reason.
 
@@ -130,9 +131,9 @@ Where, pursuant to section 12(1), any flourmiller, grain merchant, feed manufact
 (4) An invoice is not required to be issued under subsection (1) to any person if the information required to be included in any such invoice is included in a goods and services tax invoice supplied to that person by the person who would otherwise be required to issue the invoice.
 
 ### 17 Research Trust Accounts
-(1) For the purposes of this Act United Wheatgrowers shall establish at a bank an account to be known as the Wheatgrowing Industry Research Trust Account, and all levies imposed by section 4(1)(a) shall be collected and paid into that account in such manner as United Wheatgrowers may from time to time approve.
-(2) For the purposes of this Act the Flourmillers Association shall establish at a bank an account to be known as the Flourmilling Industry Research Trust Account, and all levies imposed by section 4(1)(b) shall be collected and paid into that account in such manner as the Flourmillers Association may from time to time approve.
-(3) For the purposes of this Act the Bakers Association shall establish at a bank an account to be known as the Baking Industry Research Trust Account, and all levies imposed by section 4(1)(c) or (d) shall be collected and paid into that account in such manner as the Bakers Association may from time to time approve.
+(1) For the purposes of this Act, United Wheatgrowers shall establish at a bank an account to be known as the Wheatgrowing Industry Research Trust Account, and all levies imposed by section 4(1)﻿(a) shall be collected and paid into that account in such manner as United Wheatgrowers may from time to time approve.
+(2) For the purposes of this Act, the Flourmillers Association shall establish at a bank an account to be known as the Flourmilling Industry Research Trust Account, and all levies imposed by section 4(1)﻿(b) shall be collected and paid into that account in such manner as the Flourmillers Association may from time to time approve.
+(3) For the purposes of this Act, the Bakers Association shall establish at a bank an account to be known as the Baking Industry Research Trust Account, and all levies imposed by section 4(1)﻿(c) or (d) shall be collected and paid into that account in such manner as the Bakers Association may from time to time approve.
 (4) All interest from time to time accruing from the investment of any levies collected pursuant to this Act and paid into a Research Trust Account shall be paid into that account, and section 21 shall apply to that interest as if it were levies collected pursuant to this Act.
 (5) The expenses involved in the administration of a Research Trust Account, including any expenses incurred in connection with the preparation and auditing of the accounts and statements of financial position required by section 25 or the preparation of the reports required by section 26, shall be payable out of the money required by this section to be paid into that account.
 
@@ -148,9 +149,9 @@ Any money in a Research Trust Account that is not immediately required to be exp
 Notwithstanding any rule of law to the contrary, but subject to section 19, the amount of any levy collected or purported to have been collected by any flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat, or by any importer of flour or wheatmeal into New Zealand, pursuant to section 12(1) or (2) or (3) shall be deemed to be money held in trust for the Industry Association entitled in the particular case to recover the levy pursuant to section 11 by that flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat, or by that importer, as the case may be, until that amount has been paid into the appropriate Research Trust Account pursuant to section 17.
 
 ### 21 Expenditure of levies
-(1) The money received by United Wheatgrowers in respect of the levy imposed by section 4(1)(a) shall be expended by that company for the purpose of promoting and conducting research and other scientific work that, in the opinion of that company, is of benefit, whether directly or indirectly, to the wheat growing industry.
-(2) The money received by the Flourmillers Association in respect of the levy imposed by section 4(1)(b) shall be expended by that Association for the purpose of promoting and conducting research and other scientific work that, in the opinion of that Association, is of benefit, whether directly or indirectly, to the flourmilling industry.
-(3) The money received by the Bakers Association in respect of the levies imposed by section 4(1)(c) and (d) shall be expended by that Association for the purpose of promoting or conducting research and other scientific work that, in the opinion of that Association, is of benefit, whether directly or indirectly, to the baking industry or other flour-using industries, or both.
+(1) The money received by United Wheatgrowers in respect of the levy imposed by section 4(1)﻿(a) shall be expended by that company for the purpose of promoting and conducting research and other scientific work that, in the opinion of that company, is of benefit, whether directly or indirectly, to the wheat growing industry.
+(2) The money received by the Flourmillers Association in respect of the levy imposed by section 4(1)﻿(b) shall be expended by that Association for the purpose of promoting and conducting research and other scientific work that, in the opinion of that Association, is of benefit, whether directly or indirectly, to the flourmilling industry.
+(3) The money received by the Bakers Association in respect of the levies imposed by section 4(1)﻿(c) and (d) shall be expended by that Association for the purpose of promoting or conducting research and other scientific work that, in the opinion of that Association, is of benefit, whether directly or indirectly, to the baking industry or other flour-using industries, or both.
 
 ### 22 Power to inspect documents and obtain information
 (1) Subject to subsection (3), for the purposes of ensuring that any levy imposed by section 4 is collected, any person (being an auditor) specifically or generally authorised in writing in that behalf by the Minister may, from time to time, at the request of any Industry Association,—
@@ -268,22 +269,22 @@ The operating expenses of the Committee shall be met, in accordance with such te
   (a) the amount in the account known as the Number 1 Account shall be divided equally between the Flourmilling Industry Research Trust Account and the Baking Industry Research Trust Account:
   (b) the amount in the account known as the Number 2 Account shall be paid into the Wheatgrowing Industry Research Trust Account.
 (2) The following provisions shall apply in relation to all levies imposed under section 3 of the Wheat Research Levy Act 1974 that were payable immediately before the commencement of this Act:
-  (a) all such levies imposed under section 3(1)(a) of that Act shall, on the commencement of this Act, become payable to and be recoverable by United Wheatgrowers, and shall be paid into the Wheatgrowing Industry Research Trust Account:
-  (b) all such levies imposed under section 3(1)(b) of that Act shall, on the commencement of this Act, become payable to and be recoverable by the Flourmillers Association, and shall be paid into the Flourmilling Industry Research Trust Account:
-  (c) all such levies imposed under section 3(1)(c) of that Act shall, on the commencement of this Act, become payable to and be recoverable by the Bakers Association, and shall be paid into the Baking Industry Research Trust Account.
+  (a) all such levies imposed under section 3(1)﻿(a) of that Act shall, on the commencement of this Act, become payable to and be recoverable by United Wheatgrowers, and shall be paid into the Wheatgrowing Industry Research Trust Account:
+  (b) all such levies imposed under section 3(1)﻿(b) of that Act shall, on the commencement of this Act, become payable to and be recoverable by the Flourmillers Association, and shall be paid into the Flourmilling Industry Research Trust Account:
+  (c) all such levies imposed under section 3(1)﻿(c) of that Act shall, on the commencement of this Act, become payable to and be recoverable by the Bakers Association, and shall be paid into the Baking Industry Research Trust Account.
 
 ### 38 Transitional provisions relating to rates of levies
 Until such time as a different rate comes into force, in respect of a particular levy, in accordance with the provisions of this Act, the rates of the levies imposed by section 4 shall be as follows:
-  (a) in the case of the levy imposed by subsection (1)(a) of that section on each producer of wheat grown in New Zealand and sold or delivered to a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat, 50 cents for every tonne of wheat so sold or delivered by that producer:
-  (b) in the case of the levy imposed by subsection (1)(b) of that section on each person who carries on business as a flourmiller, $1 for every tonne of flour or wheatmeal delivered by that person from that person's flourmill:
-  (c) in the case of the levy imposed by subsection (1)(c) of that section on each purchaser or other person who takes delivery of flour or wheatmeal from a flourmill, $1 for every tonne of that flour or wheatmeal:
-  (d) in the case of the levy imposed by subsection (1)(d) of that section on each purchaser or other person who takes delivery, from any importer of flour or wheatmeal, of flour or wheatmeal imported into New Zealand, $1 for every tonne of that flour or wheatmeal.
+  (a) in the case of the levy imposed by subsection (1)﻿(a) of that section on each producer of wheat grown in New Zealand and sold or delivered to a flourmiller, grain merchant, feed manufacturer, or other purchaser of wheat, 50 cents for every tonne of wheat so sold or delivered by that producer:
+  (b) in the case of the levy imposed by subsection (1)﻿(b) of that section on each person who carries on business as a flourmiller, $1 for every tonne of flour or wheatmeal delivered by that person from that person's flourmill:
+  (c) in the case of the levy imposed by subsection (1)﻿(c) of that section on each purchaser or other person who takes delivery of flour or wheatmeal from a flourmill, $1 for every tonne of that flour or wheatmeal:
+  (d) in the case of the levy imposed by subsection (1)﻿(d) of that section on each purchaser or other person who takes delivery, from any importer of flour or wheatmeal, of flour or wheatmeal imported into New Zealand, $1 for every tonne of that flour or wheatmeal.
 
 ## Schedule Schedule — Provisions relating to holding of referendum
 
 ### 1 Persons who may demand referendum
 A demand for a referendum may be made—
-  (a) in the case of a demand for a referendum in respect of the levy imposed by section 4(1)(b), by any person or persons—
+  (a) in the case of a demand for a referendum in respect of the levy imposed by section 4(1)﻿(b), by any person or persons—
     (i) who has or have paid that levy at any time during the period of 12 months immediately preceding the date on which the demand is made; and
     (ii) whose total payments of that levy during that period whether individually or collectively, amount to not less than 15% of the total amount received by the Flourmillers Association in respect of that levy during that period:
   (b) in the case of a demand for a referendum in respect of the levy imposed by paragraph (c) of subsection (1) of section 4, by any person or persons—
@@ -296,8 +297,8 @@ A demand for a referendum shall—
   (a) be made in writing; and
   (b) be signed by every person who is making the demand, who shall state against the signature—
     (i) the person's name and address; and
-    (ii) the total amount of the relevant levy or levies paid by that person during the period specified in paragraph (a)(i) or paragraph (b)(ii) of clause 1, as the case requires; and
-  (c) be accompanied by such evidence of the payment of the amount or amounts stated in accordance with paragraph (b)(ii) as will enable the Industry Association to which the demand is made to satisfy itself that the person or persons making the demand are entitled to do so; and
+    (ii) the total amount of the relevant levy or levies paid by that person during the period specified in paragraph (a)﻿(i) or paragraph (b)﻿(ii) of clause 1, as the case requires; and
+  (c) be accompanied by such evidence of the payment of the amount or amounts stated in accordance with paragraph (b)﻿(ii) as will enable the Industry Association to which the demand is made to satisfy itself that the person or persons making the demand are entitled to do so; and
   (d) be delivered or sent to the principal office of—
     (i) the Flourmillers Association, in the case of a demand for a referendum in respect of the levy imposed by paragraph (b) of subsection (1) of section 4:
     (ii) the Bakers Association, in the case of a demand for a referendum in respect of the levy imposed by paragraph (c) of that subsection.
@@ -319,16 +320,16 @@ A demand for a referendum shall—
 Where an Industry Association is required to hold a referendum, that Association shall, as soon as practicable after receiving the demand for that referendum, appoint a suitable person to be the returning officer for that referendum.
 
 ### 5 Persons qualified to vote in referendum
-(1) Every person is qualified to vote in a referendum held in respect of the levy imposed by section 4(1)(b) who has paid that levy at any time during the period of 12 months immediately preceding the date on which the demand for the referendum was made.
+(1) Every person is qualified to vote in a referendum held in respect of the levy imposed by section 4(1)﻿(b) who has paid that levy at any time during the period of 12 months immediately preceding the date on which the demand for the referendum was made.
 (2) Every person is qualified to vote in a referendum held in respect of the levy imposed by paragraph (c) of subsection (1) of section 4 who has paid that levy, or the levy imposed by paragraph (d) of that subsection, or both, at any time during the period of 12 months immediately preceding the date on which the demand for the referendum was made.
 
 ### 6 Votes to be allocated to voter in accordance with amount of levy paid
-(1) Every person who is qualified to vote in a referendum held in respect of the levy imposed by section 4(1)(b) shall be entitled to 1 vote for every $1 paid by that person in respect of that levy during the period referred to in clause 5(1).
+(1) Every person who is qualified to vote in a referendum held in respect of the levy imposed by section 4(1)﻿(b) shall be entitled to 1 vote for every $1 paid by that person in respect of that levy during the period referred to in clause 5(1).
 (2) Every person who is qualified to vote in a referendum held in respect of the levy imposed by paragraph (c) of subsection (1) of section 4 shall be entitled to 1 vote for every $1 paid by that person in respect of that levy, or the levy imposed by paragraph (d) of that subsection, or both, during the period referred to in clause 5(2).
 
 ### 7 Provisions applicable to partnerships, joint tenants, etc
-Where any amount paid in respect of the levy imposed by section 4(1)(b) or (c) or (d) is paid on behalf of 2 or more persons (whether as partners, joint tenants, tenants in common, or otherwise), that amount shall not be taken into account more than once, in respect of a particular referendum, in determining—
-  (a) for the purposes of paragraph (a)(ii) or paragraph (b)(iii) of clause 1, the total amount of the levies paid by the person or persons demanding the referendum:
+Where any amount paid in respect of the levy imposed by section 4(1)﻿(b) or (c) or (d) is paid on behalf of 2 or more persons (whether as partners, joint tenants, tenants in common, or otherwise), that amount shall not be taken into account more than once, in respect of a particular referendum, in determining—
+  (a) for the purposes of paragraph (a)﻿(ii) or paragraph (b)﻿(iii) of clause 1, the total amount of the levies paid by the person or persons demanding the referendum:
   (b) for the purposes of clause 6, the allocation of votes to persons qualified to vote in that referendum.
 
 ### 8 Referendum to be held by postal vote
@@ -371,7 +372,7 @@ Every request for a voting paper for a referendum shall—
   (a) open the envelopes not rejected under subclause (1); and
   (b) reject any voting paper the returning officer considers invalid; and
   (c) ascertain the number of votes received for each proposal.
-(3) In respect of every valid voting paper, votes shall be alloted to the proposal for which the voter has voted, according to the number of votes appearing beside the voter's name on the list of voters kept pursuant to clause 10(5).
+(3) In respect of every valid voting paper, votes shall be allotted to the proposal for which the voter has voted, according to the number of votes appearing beside the voter's name on the list of voters kept pursuant to clause 10(5).
 
 ### 13 Declaration of result of referendum
 After ascertaining the number of votes recorded for each proposal, the returning officer shall, as soon as practicable, publish—the result of the referendum.
