@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -95,6 +95,7 @@ _Consolidation as at 2013-08-05_
   - **Tribunal** means the Trans-Tasman Occupations Tribunal established by section 41
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) A reference to or citation of any Act in this Act includes the citation of all subsequent enactments passed in amendment or substitution of the Act so referred to or cited, unless it is otherwise manifested by the context. This subsection applies despite anything in the Interpretation Act 1999, but is subject to section 76(1) and (2).
 (3) The Governor-General may, from time to time, by Order in Council, declare an entity to be an organism for the purposes of paragraph (e) of the definition of law relating to quarantine in subsection (1).
