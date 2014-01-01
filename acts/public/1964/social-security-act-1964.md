@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -338,10 +338,11 @@ Every person exercising or performing a function, duty or power under this Act m
         (A) the spouse or partner of a person who is receiving long-term residential care in a hospital or rest home; and
         (B) aged under 60 years; and
         (C) in receipt of a supported living payment under section 40I(5) or an emergency benefit under regulations under section 155
-  - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (aa) the day observed as the anniversary of the appropriate province; and
-    (b) a day in the period commencing on 25 December in any year and ending with 15 January in the following year
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year; and
+    (d) the day observed as the anniversary day of the appropriate province
   - **young parent payment** means a young parent payment payable under Part 5
   - **youth payment** means a youth payment payable under Part 5
   - **youth support payment** means a young parent payment or youth payment.
