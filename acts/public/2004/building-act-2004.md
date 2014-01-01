@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -151,7 +151,7 @@ In this Act, unless the context otherwise requires,—
   - **classifiable dam** has the meaning given to it by regulations made under this Act
   - **code compliance certificate** means a certificate issued by a building consent authority under section 95
   - **compliance schedule** means a compliance schedule required under section 100
-  - **consideration** , in relation to estimated value, has the meaning given to it in section 2(1) of the Goods and Service Tax Act 1985
+  - **consideration** , in relation to estimated value, has the meaning given to it in section 2(1) of the Goods and Services Tax Act 1985
   - **construct** , in relation to a building, includes to design, build, erect, prefabricate, and relocate the building
   - **crest** , in relation to a dam, means the uppermost surface of a dam, not taking into account any camber allowed for settlement, or any curbs, parapets, guard rails, or other structures that are not part of the water-retaining structure; and for the avoidance of doubt, any freeboard is part of the water-retaining structure for the purposes of this definition
   - **Crown organisation** has the meaning given to it by section 4 of the Crown Organisations (Criminal Liability) Act 2002
@@ -315,6 +315,7 @@ In this Act, unless the context otherwise requires,—
   - **verification method** means a verification method issued under section 22(1)
   - **working day** means any day except—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period beginning on 20 December in any year and ending with the close of 10 January in the following year.
 
@@ -456,7 +457,7 @@ Under this Act, a regional authority—
   (b) the building consent authority and territorial authority are responsible for performing functions under this Act relating to the parts of the building that are not a dam.
 (3) For the purposes of subsection (1),—
   (a) sections 31 to 39 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority; and
-  (b) sections 40 to 116 (except section 114(2)(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371D, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
+  (b) sections 40 to 116 (except section 114(2)(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371C, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
 (4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
 (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
 
@@ -5401,44 +5402,3 @@ A meeting of the Board may be held—
 (5) A delegation under this clause may be revoked at any time, and the delegation of a function of the Board does not prevent the Board from exercising that function itself.
 
 ## Schedule 4 — Enactments amended
-
-### 1 Title
-This Act is the Building Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 2 — Validation and transitional provisions
-
-### 92 Validation in respect of levies on estimated value of building work
-(1) For the purpose of determining the calculation of any relevant levy on building work, the principal Act must be read as if at all material times it contained the definition of estimated value in section 7 of the Act, as amended by section 6 of this Act.
-(2) In this section, relevant levy means a levy—
-  (a) imposed under section 53 of the principal Act; and
-  (b) calculated in accordance with section 53(2)(a) of the principal Act; and
-  (c) prescribed in the Building Levy Order 2005; and
-  (d) paid to the chief executive by the applicant for a building consent.
-
-### 93 Transitional provision for content of project information memorandum
-A territorial authority that issues a project information memorandum need not comply with section 35(1)(i) of the principal Act in respect of that project information memorandum, as inserted by this Act, unless 6 months have elapsed since the commencement of this Act.
-
-### 94 Transitional provision for refusal of application for code compliance certificate
-(1) This section applies to a code compliance certificate application—
-  (a) made under section 92 of the principal Act or to which section 436 of the principal Act applies; and
-  (b) in respect of which a building consent authority has not made a decision under section 93 of the principal Act before the commencement of this Act.
-(2) A building consent authority that refuses to issue a code compliance certificate in respect of an application to which this section applies need not comply with section 95A of the principal Act, as inserted by this Act, in respect of that refusal unless 3 months have elapsed since the commencement of this Act.
-
-### 95 Transitional provision for refusal of application for certificate of acceptance
-(1) This section applies to an application for a certificate of acceptance—
-  (a) made under section 97 of the principal Act or to which section 437 of the principal Act applies; and
-  (b) in respect of which a territorial authority has not granted or refused a certificate of acceptance before the commencement of this Act.
-(2) A territorial authority that refuses to issue a certificate of acceptance in respect of an application to which this section applies need not comply with section 99A of the principal Act, as inserted by this Act, in respect of that refusal unless 3 months have elapsed since the commencement of this Act.
-
-### 1 Title
-These regulations are the Building (National Multiple-use Approval) Regulations 2011.
-
-### 2 Commencement
-These regulations come into force on 19 May 2011.
-
-### 6 Revocation and transitional provision
-(1) The Building (National Multiple-use Approval) Regulations 2009 (SR 2009/409) are revoked.
-(2) Any application under section 30B of the Building Act 2004 received by the chief executive before the commencement of these regulations must be considered and determined as if these regulations (other than this regulation) had not been made.
