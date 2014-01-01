@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -78,6 +78,7 @@ _Consolidation as at 2013-12-18_
   - **victim** means a person who, through or by means of an offence, suffers physical or emotional harm, or loss of or damage to property; and where an offence results in death, the term includes the members of the immediate family of the deceased
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year; and
     (c) in relation to a requirement to file a document with any court or to supply a document before a sitting of any court,—
       (i) the day observed as the anniversary of the province in which the court is situated; and
@@ -1577,7 +1578,7 @@ The Family Court Judge who presides over a mediation conference shall be entitle
   (a) a registered medical practitioner holding a psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry; or
   (b) a registered psychologist; or
   (c) a person appointed by the court for the purpose, being a person whom the court is satisfied—
-    (i) is entitled to practice as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
+    (i) is entitled to practise as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
     (ii) has qualifications that, in the view of the appropriate registering body in New Zealand, are at least equivalent to those required of a person referred to in paragraph (a) or paragraph (b).
 (4) Every child or young person who is examined under section 178(1) is, where practicable, entitled to have present during that examination 1 adult—
   (a) who is nominated for that purpose by that child or young person or, if the age or level of maturity of the child or young person makes it impracticable for him or her to make such a nomination, by a social worker; and
@@ -2388,7 +2389,7 @@ Subject to section 244, a child or young person to whom section 235 or section 2
 (1) The court shall not make an order under section 238(1)(d) for the detention of a child or young person in the custody of the chief executive or an iwi social service or a cultural social service unless it appears to the court that pending the determination of the charge, or if the order is being considered under section 296F(3), pending the determination of the breach application or variation or cancellation application,—
   (a) the child or young person is likely to abscond; or
   (b) the child or young person may commit further offences; or
-  (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence; or
+  (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence.
 (2) The court shall not make an order under section 238(1)(e) for the detention of a young person in Police custody unless the court is satisfied—
   (a) that the young person is likely to abscond or be violent; and
   (b) that suitable facilities for the detention in safe custody of that young person are not available to the chief executive.
@@ -3566,7 +3567,7 @@ So far as practicable the sittings of a Youth Court shall be so arranged that—
 
 ### 334 Report by social worker
 (1) Where the court makes a finding that a charge against a young person is proved, the court may, before making any order under section 283, obtain a report from a social worker.
-(2) The court shall not make an order under paragraph (ja) or paragraph (jb) or paragraph (jc) paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) or paragraph (o) of section 283, or under section 296G, unless a report from a social worker is first obtained by the court.
+(2) The court shall not make an order under paragraph (ja) or paragraph (jb) or paragraph (jc) or paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) or paragraph (o) of section 283, or under section 296G, unless a report from a social worker is first obtained by the court.
 (3) The court shall consider every report furnished to it pursuant to this section.
 (4) Every report furnished to the court pursuant to this section shall include—
   (a) such information relating to the disposition of the case as will assist the court in its consideration of the matter:
@@ -3574,7 +3575,7 @@ So far as practicable the sittings of a Youth Court shall be so arranged that—
 (5) Every report required pursuant to this section shall be prepared, where appropriate, in consultation with a Maatua Whangai worker.
 
 ### 335 Report to be accompanied by plan
-(1) Every report required under section 334 in relation to any order proposed to be made under paragraph (ja) or paragraph (jb) or paragraph (jc) paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283, or under section 296G, shall be accompanied by a plan containing details of how that order is to be implemented, including details of—
+(1) Every report required under section 334 in relation to any order proposed to be made under paragraph (ja) or paragraph (jb) or paragraph (jc) or paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of section 283, or under section 296G, shall be accompanied by a plan containing details of how that order is to be implemented, including details of—
   (a) the arrangements that would be made for the care and control of the young person during the period in which the young person would be in the custody, or under the supervision, of the chief executive or any other person or organisation; and
   (b) the nature of any programme that would be provided to the young person during that period.
 (2) Every plan required by subsection (1) shall be prepared—
@@ -3836,6 +3837,7 @@ Subject to sections 368 and 370 and to any regulations made under section 447, t
 (2) Notwithstanding anything in subsection (1), no child or young person (being a child or young person who is placed in the custody of the chief executive pursuant to section 42 or section 235) shall be kept in secure care for a continuous period of more than 24 hours unless an approval has been granted under section 376.
 (3) In calculating, for the purposes of subsection (2), the period for which a child or young person has been kept in secure care, any period spent in secure care on any of the following days shall not be included:
   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, Waitangi Day, Christmas Day, Boxing Day, New Year's Day, or the second day of January:
+  (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday:
   (b) the day observed as the anniversary of the province in which the residence in which the child or young person is detained is situated:
   (c) any day that is a public holiday in the place in which that residence is situated.
 
