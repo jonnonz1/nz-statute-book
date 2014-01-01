@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -126,6 +126,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (ii) buildings, machinery, and appliances
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
     (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
