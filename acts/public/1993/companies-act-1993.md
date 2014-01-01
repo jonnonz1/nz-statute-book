@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2013-12-10_
+_Consolidation as at 2014-01-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -87,6 +87,7 @@ _Consolidation as at 2013-12-10_
   - **surplus assets** means the assets of a company remaining after the payment of creditors' claims and available for distribution in accordance with section 313 prior to its removal from the New Zealand register
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (c) if 1 January in any year falls on a Friday, the following Monday; and
     (d) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday.
