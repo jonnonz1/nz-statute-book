@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -36,12 +36,12 @@ In this Act, unless the context otherwise requires,—
   - **Health and Disability Commissioner** means the Health and Disability Commissioner appointed under section 8 of the Health and Disability Commissioner Act 1994
   - **health services or disability services** means health services or disability services within the meaning of the Health and Disability Commissioner Act 1994
   - **limited registration** means provisional or temporary registration
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **particular condition** , in relation to a registered social worker, means a condition that is not a condition adopted under section 29 in respect of all practising certificates, or the practising certificates of all registered social workers of a description that includes the social worker
   - **practising certificate** —
-    (a) means a practising certificate issued under section 28(1) or section 33(3)(b); and
-    (b) includes an interim practising certificate issued under section 33(3)(a) or section 37
+    (a) means a practising certificate issued under section 28(1) or section 33(3)﻿(b); and
+    (b) includes an interim practising certificate issued under section 33(3)﻿(a) or section 37
   - **recognised New Zealand qualification** means a New Zealand educational qualification for the time being recognised by the Board as appropriate for social workers working in New Zealand
   - **Register** means the register of social workers kept under section 121
   - **registered social worker** means a person in respect of whom the information stated in section 123(1) is entered in the Register
@@ -49,9 +49,10 @@ In this Act, unless the context otherwise requires,—
   - **registration** means the entry in the Register of the information stated in section 123(1) in respect of a person; and has a corresponding meaning
   - **transition day** means the day 6 months after the commencement of Parts 2 to 4
   - **Tribunal** means the Social Workers Complaints and Disciplinary Tribunal established by section 114
-  - **working day** means a day that—
-    (a) is not Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, Labour Day, or the Sovereign's birthday; and
-    (b) does not fall in a period commencing on 20 December in one year and ending with 15 January in the next year.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -150,7 +151,7 @@ The Board must decide that the applicant should be registered fully if, and only
 (2) This subsection applies to an applicant for registration if—
   (a) he or she applied for registration within 3 months after the commencement of this section; and
   (b) immediately before that commencement, he or she was practising social work, in any occupation or profession, in New Zealand.
-(3) The Board may consult an applicant's employer before setting a time frame under subsection (1)(b)(ii).
+(3) The Board may consult an applicant's employer before setting a time frame under subsection (1)﻿(b)﻿(ii).
 
 ### 15 Criteria for temporary registration
 The Board must decide that the applicant should be registered temporarily if, and only if, satisfied that he or she—
@@ -160,7 +161,7 @@ The Board must decide that the applicant should be registered temporarily if, an
   (d) has enough knowledge and practical experience of social work to practise social work at the institution or place.
 
 ### 16 Applications by certain people previously registered
-(1) If the Tribunal has under section 84(1)(b) imposed conditions that a person must meet before being re-registered, the Board must not decide that the person should be registered unless satisfied that he or she has met the conditions.
+(1) If the Tribunal has under section 84(1)﻿(b) imposed conditions that a person must meet before being re-registered, the Board must not decide that the person should be registered unless satisfied that he or she has met the conditions.
 (2) Subsection (1) overrides sections 6, 7, and 12 to 15.
 
 ### 17 Board to give reasons
@@ -232,7 +233,7 @@ Promptly after the Board has decided that a person should not be registered, the
 The Board may at any time, in its absolute discretion, cancel a registered social worker's limited registration; and in that case the Registrar must make reasonable efforts to give the holder written notice, signed and dated by the Registrar,—
   (a) that the registration has been cancelled; and
   (b) of the reasons for the cancellation; and
-  (c) that the holder is required by section 21(2)(a) to surrender his or her certificate of registration.
+  (c) that the holder is required by section 21(2)﻿(a) to surrender his or her certificate of registration.
 
 **Practising certificates**
 
@@ -312,10 +313,10 @@ Promptly after the Registrar refers an application for a practising certificate 
   (c) in any other case, the Board must direct the Registrar—
     (i) to refuse to issue a practising certificate to the applicant until he or she has met conditions stated by the Board (and must also direct the Registrar to issue any practising certificate to the applicant subject to particular conditions), if it is satisfied that the applicant will be competent to practise as a social worker in accordance with his or her registration only subject to those conditions; or
     (ii) to refuse to issue a practising certificate to the applicant at all.
-(2) If the Board gives a direction under subsection (1)(c),—
+(2) If the Board gives a direction under subsection (1)﻿(c),—
   (a) the direction must state the Board's reasons; and
   (b) the Registrar must give the applicant notice of the direction and reasons.
-(3) If the Board gives a direction under subsection (1)(c)(i),—
+(3) If the Board gives a direction under subsection (1)﻿(c)﻿(i),—
   (a) it may also direct the Registrar to issue an interim practising certificate to the applicant; and
   (b) if the conditions stated by the Board are later met, the Registrar may issue a practising certificate to the applicant and cancel the interim practising certificate.
 
@@ -343,13 +344,13 @@ Promptly after the Registrar refers an application for a practising certificate 
   (a) it is cancelled or suspended; or
   (b) it is required for endorsement under Part 3; or
   (c) its holder's registration is—
-    (i) cancelled under any of sections 24, 83(1)(a)(i), 127, 128, 129, 131, 132, and 133(6)(b)(ii); or
-    (ii) suspended under any of sections 45(1)(b)(ii), 49(2)(b), 54, 57(2)(b)(ii), 77(1)(a), 83(1)(a)(i), and 133(6)(b)(i).
+    (i) cancelled under any of sections 24, 83(1)﻿(a)﻿(i), 127, 128, 129, 131, 132, and 133(6)﻿(b)﻿(ii); or
+    (ii) suspended under any of sections 45(1)﻿(b)﻿(ii), 49(2)﻿(b), 54, 57(2)﻿(b)﻿(ii), 77(1)﻿(a), 83(1)﻿(a)﻿(i), and 133(6)﻿(b)﻿(i).
 (2) If subsection (1) applies to the holder of a practising certificate, he or she (or, in the case of a holder who has died, his or her personal representative) must deliver it to the Registrar within 14 days of receiving from the Registrar notice of the cancellation, suspension, or requirement for endorsement.
 
 ### 37 Interim practising certificates
 (1) An interim practising certificate—
-  (a) may only be issued pursuant to a direction under section 33(3)(a); and
+  (a) may only be issued pursuant to a direction under section 33(3)﻿(a); and
   (b) may be issued subject to any conditions the Board thinks fit.
 (2) An interim practising certificate is cancelled by the issue to its holder of a practising certificate that is not an interim practising certificate.
 (3) The Board may, at any time and for any reason, direct the Registrar to give the holder of an interim practising certificate notice of—
@@ -369,12 +370,12 @@ Promptly after the Registrar refers an application for a practising certificate 
   (b) in the Board's opinion, reached in the light of the outcome of the assessment, he or she—
     (i) has the skill and knowledge required to practise social work in accordance with his or her registration (or proposed registration); and
     (ii) meets the professional standards reasonably to be expected of a registered social worker.
-(2) The Board may direct the Registrar to arrange for the applicants for registration to complete competence assessments for the purposes of subsection (1)(a).
+(2) The Board may direct the Registrar to arrange for the applicants for registration to complete competence assessments for the purposes of subsection (1)﻿(a).
 (3) Subsection (1) does not prevent the Board, when reviewing under section 39 a person's competence to practise social work, from concluding, without the person's having completed a competence assessment, that it has no reason to believe that his or her competence may be unsatisfactory.
 
 ### 39 Reviews of competence to practise social work
 (1) The Board may at any time review a registered social worker's competence to practise social work.
-(2) Promptly after being notified of a determination under section 71(1)(a) that the Board should review a registered social worker's competence to practise social work, the Board must review his or her competence to practise social work.
+(2) Promptly after being notified of a determination under section 71(1)﻿(a) that the Board should review a registered social worker's competence to practise social work, the Board must review his or her competence to practise social work.
 
 ### 40 Form of review
 (1) When reviewing a registered social worker's competence to practise social work, the Board must—
@@ -383,7 +384,7 @@ Promptly after the Registrar refers an application for a practising certificate 
     (ii) describing any information relating to his or her competence to practise social work it has in its possession; and
     (iii) stating that he or she has a reasonable opportunity to make written submissions and to be heard on the review, either personally or by a representative; and
   (b) give him or her a reasonable opportunity to make written submissions and to be heard on the review, either personally or by a representative.
-(2) A statement under subsection (1)(a)(i) must contain enough detail to inform the social worker clearly of the particular grounds for the review.
+(2) A statement under subsection (1)﻿(a)﻿(i) must contain enough detail to inform the social worker clearly of the particular grounds for the review.
 (3) A social worker exercising his or her right to be heard personally is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
 (4) The Board may permit a social worker exercising his or her right to be heard personally to be accompanied by any number of people of his or her choice who agree to attend, in addition to the person by whom he or she is entitled to be accompanied by subsection (3).
 (5) Except as provided in subsections (1) to (4) and clause 33(1) of Schedule 1, the review may be conducted as the Board thinks fit.
@@ -437,14 +438,14 @@ The Board must take all practicable steps to ensure that copies of all competenc
   (b) the Board may direct the Registrar to—
     (i) make the social worker's registration or practising certificate, or both, subject to conditions stated by the Board; or
     (ii) suspend the social worker's registration (if it is not already suspended) or practising certificate.
-(2) If the Board proposes to give a direction under subsection (1)(b), it must give to the registered social worker concerned—
+(2) If the Board proposes to give a direction under subsection (1)﻿(b), it must give to the registered social worker concerned—
   (a) a copy of the proposed direction; and
   (b) notice stating—
     (i) why the Board proposes to give the direction; and
     (ii) that he or she has a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
   (c) a copy of any information on which the Board is relying in proposing to give the direction.
-(3) The statement under subsection (2)(b)(i) must contain enough detail to inform the person clearly of the particular grounds for the proposal to give the direction.
-(4) A direction under subsection (1)(b) remains in effect until the person concerned has—
+(3) The statement under subsection (2)﻿(b)﻿(i) must contain enough detail to inform the person clearly of the particular grounds for the proposal to give the direction.
+(4) A direction under subsection (1)﻿(b) remains in effect until the person concerned has—
   (a) satisfied all the requirements of the competence assessment (in the case of a failure of a competence assessment); or
   (b) undertaken a competence assessment (in the case of a failure or refusal to undertake a competence assessment).
 (5) The Board may extend the period within which a social worker is required to satisfy the requirements of a competence assessment.
@@ -485,21 +486,21 @@ The Board must take all practicable steps to ensure that copies of all competenc
 ### 48 Consideration of fitness to practise social work
 The Board must consider whether a person is a fit and proper person to practise social work—
   (a) promptly after receiving from the Registrar a valid application for registration made by the person; and
-  (b) promptly after being notified of a determination under section 71(1)(a) that the Board should review his or her fitness.
+  (b) promptly after being notified of a determination under section 71(1)﻿(a) that the Board should review his or her fitness.
 
 ### 49 Action if Board considers registered social worker not fit and proper
-(1) This section applies to a registered social worker if, after being notified of a determination under section 71(1)(a) that the Board should review his or her fitness, the Board—
+(1) This section applies to a registered social worker if, after being notified of a determination under section 71(1)﻿(a) that the Board should review his or her fitness, the Board—
   (a) has considered whether he or she is a fit and proper person to practise social work; and
   (b) determines that he or she may not be a fit and proper person to practise social work.
 (2) If this section applies to a registered social worker, the Board may—
   (a) make a complaint against the social worker under section 59; or
   (b) direct the Registrar to suspend the social worker's registration or practising certificate.
-(3) If the Board proposes to give a direction under subsection (2)(b), it must give to the registered social worker concerned—
+(3) If the Board proposes to give a direction under subsection (2)﻿(b), it must give to the registered social worker concerned—
   (a) notice stating—
     (i) why the Board proposes to give the direction; and
     (ii) that he or she has a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
   (b) a copy of any information on which the Board is relying in proposing to give the direction.
-(4) The statement under subsection (3)(a)(i) must contain enough detail to inform the person clearly of the particular grounds for the proposal to give the direction.
+(4) The statement under subsection (3)﻿(a)﻿(i) must contain enough detail to inform the person clearly of the particular grounds for the proposal to give the direction.
 (5) The Board must not direct the Registrar to suspend the social worker's registration or practising certificate unless—
   (a) it has given the social worker a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
   (b) it is satisfied that the social worker is not a fit and proper person to practise social work.
@@ -540,7 +541,7 @@ When the Registrar receives a notice under section 51,—
   (c) state that the social worker may respond to the direction; and
   (d) be signed by the chairperson.
 (4) The Registrar must take all reasonably practicable steps to ensure that a copy of the direction is given to the social worker as soon as is possible after it is given.
-(5) The suspension does not take effect until the social worker is given a copy the direction.
+(5) The suspension does not take effect until the social worker is given a copy of the direction.
 (6) The deputy or other acting chairperson may act under this section, section 53, or section 57 if there is no chairperson of the Board or the chairperson is unavailable.
 
 ### 55 Power to order medical examination
@@ -621,7 +622,7 @@ When the Registrar receives a notice under section 51,—
 (4) Subsection (3) does not limit the generality of subsection (1).
 
 ### 60 Registrar to notify Tribunal of complaints
-The Registrar must notify the chairperson of the Tribunal in writing of a complaint under section 59(1)(b).
+The Registrar must notify the chairperson of the Tribunal in writing of a complaint under section 59(1)﻿(b).
 
 ### 61 Registrar to notify Health and Disability Commissioner of certain complaints
 The Registrar must promptly notify the Health and Disability Commissioner in writing of a complaint about the provision of health services or disability services made to the Registrar under section 59(1).
@@ -637,7 +638,7 @@ The registrar of a court in New Zealand in which a person whom the registrar kno
   (a) the Health and Disability Commissioner notifies the chairperson of the Tribunal in writing—
     (i) that the complaint is not to be investigated, or investigated further, under the Health and Disability Commissioner Act 1994; or
     (ii) that the complaint has been resolved; or
-    (iii) that the complaint has been investigated under the Health and Disability Commissioner Act 1994 and the complaint is not to be referred to the Director of Proceedings under section 45(2)(f) of that Act; or
+    (iii) that the complaint has been investigated under the Health and Disability Commissioner Act 1994 and the complaint is not to be referred to the Director of Proceedings under section 45(2)﻿(f) of that Act; or
   (b) the Director of Proceedings notifies the chairperson of the Tribunal in writing that the Director of Proceedings has decided under section 49 of the Health and Disability Commissioner Act 1994 not to lay a charge under this Act in relation to the complaint.
 (2) Subsection (1) overrides section 65.
 
@@ -730,7 +731,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
   (a) frame an appropriate charge; and
   (b) lay it before the Tribunal; and
   (c) give written notice of it to the social worker and, in the case of a complaint, to the complainant.
-(4) On receiving notice under subsection (2)(a) of a determination to which subsection (1)(a) applies, the Registrar must promptly put the notice before the Board.
+(4) On receiving notice under subsection (2)﻿(a) of a determination to which subsection (1)﻿(a) applies, the Registrar must promptly put the notice before the Board.
 
 ### 73 Conciliation
 (1) If a complaints assessment committee has decided that it should submit a complaint to conciliation, it must try to help the registered social worker and complainant concerned to resolve the complaint by agreement.
@@ -804,7 +805,7 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
   (a) must hear the application within 10 working days after it is received by the Registrar; and
   (b) the Tribunal may, as it thinks fit,—
     (i) grant or refuse the application; or
-    (ii) in the case of restrictions imposed under section 77(1)(b), amend or replace the restrictions.
+    (ii) in the case of restrictions imposed under section 77(1)﻿(b), amend or replace the restrictions.
 (4) The Registrar must promptly give the social worker notice of the Tribunal's decision.
 (5) The Tribunal may revoke a direction under section 77(1) of its own motion.
 (6) The Tribunal's decision takes effect immediately.
@@ -850,7 +851,7 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
   (i) 1 person of the social worker's choice who agrees to be present:
   (j) any other person expressly permitted by the Tribunal to be present.
 (5) The witness may object to the presence of a person of the social worker's choice (or a particular person of the social worker's choice); and in that case a person of the social worker's choice (or the particular person) may not be present in the room while the witness is giving the evidence.
-(6) If it thinks that the interests of the witness require it to do so, the Tribunal may make an order under section 79(2)(b) forbidding publication of any report or account of any part of the evidence relating to acts—
+(6) If it thinks that the interests of the witness require it to do so, the Tribunal may make an order under section 79(2)﻿(b) forbidding publication of any report or account of any part of the evidence relating to acts—
   (a) that are alleged to have been performed on or in respect of the witness; or
   (b) that the witness is alleged to have been compelled or induced to perform.
 (7) This section does not limit or affect section 79.
@@ -869,7 +870,7 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
   (c) has been convicted by a court (in New Zealand or elsewhere) of an offence that—
     (i) is punishable by imprisonment for a term of 3 months or longer; and
     (ii) was committed in circumstances that reflect adversely on the social worker's fitness to practise as a social worker; or
-  (d) has failed to comply with restrictions on his or her registration, or restrictions stated under section 77(1)(b).
+  (d) has failed to comply with restrictions on his or her registration, or restrictions stated under section 77(1)﻿(b).
 (2) A registered social worker is guilty of professional misconduct if he or she—
   (a) breaches the code of conduct; or
   (b) while employed or engaged as a social worker, claims or holds himself or herself out to be registered while not holding a current practising certificate.
@@ -908,9 +909,9 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
     (ii) any specified psychological or psychiatric examination, counselling, or therapy:
   (c) a condition that the person attend any specified course of treatment or therapy for alcohol or drug abuse:
   (d) any other condition designed to address the matter that gave rise to the cancellation of the person's registration.
-(3) The Tribunal must not impose a condition under paragraph (b) or paragraph of (c) subsection (2) unless the person consents to the examination, treatment, counselling, or therapy concerned.
+(3) The Tribunal must not impose a condition under paragraph (b) or paragraph (c) of subsection (2) unless the person consents to the examination, treatment, counselling, or therapy concerned.
 (4) If the Tribunal fixes a date before which the person may not apply for registration again, no application for registration from him or her may be received or considered before that date.
-(5) Subsection (2) does not limit subsection (1)(b).
+(5) Subsection (2) does not limit subsection (1)﻿(b).
 
 ### 85 Orders of Tribunal
 (1) An order of the Tribunal must—
@@ -930,10 +931,10 @@ A complaints assessment committee that lays a charge before the Tribunal may rec
     (ii) all the costs of every complaints assessment committee; and
     (iii) all costs of and incidental to any hearing before the Tribunal; but
   (b) may use any money paid to it under an order under section 83(1) to reimburse itself for its payments.
-(2) To fund the costs referred to in subsection (1)(a) (less any payments made to it), the Board may impose a levy, to be called the disciplinary levy, under section 109.
+(2) To fund the costs referred to in subsection (1)﻿(a) (less any payments made to it), the Board may impose a levy, to be called the disciplinary levy, under section 109.
 
 ### 87 Recovery of fines and costs
-(1) All costs and expenses of the Health and Disability Commissioner or Director of Proceedings ordered to be paid under subparagraph (i) or subparagraph (iii) of section 83(1)(e) are recoverable by the Health and Disability Commissioner as a debt due to the Health and Disability Commissioner.
+(1) All costs and expenses of the Health and Disability Commissioner or Director of Proceedings ordered to be paid under subparagraph (i) or subparagraph (iii) of section 83(1)﻿(e) are recoverable by the Health and Disability Commissioner as a debt due to the Health and Disability Commissioner.
 (2) All other fines, costs, and expenses ordered to be paid under section 83(1) are recoverable by the Board as a debt due to the Board.
 
 ## Part 5 — Appeals
@@ -1032,8 +1033,8 @@ On any appeal under this Part, a District Court may order the person or body who
     (ii) registered social workers:
   (q) to provide administrative and related services for the Tribunal:
   (r) any other functions conferred or imposed on it by or under this Act or any other enactment.
-(2) Subsection (1)(h) does not limit or affect the functions or powers of any department of State.
-(3) Subsection (1)(p) does not apply to information required by this Act to be kept confidential.
+(2) Subsection (1)﻿(h) does not limit or affect the functions or powers of any department of State.
+(3) Subsection (1)﻿(p) does not apply to information required by this Act to be kept confidential.
 
 ### 100 Obligations of Board in relation to Māori
 (1) In the exercise and performance of its powers and functions, the Board must ensure that the aims and aspirations of Māori as tangata whenua, and the need for the appropriate involvement of Māori as tangata whenua, are integral and ongoing priorities.
@@ -1073,7 +1074,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (1) The Board comprises—
   (a) 6 registered social workers (not being registered social workers whose registration is suspended); and
   (b) 4 other people.
-(2) Before the transition day, the references in subsection (1)(a) and clause 37 of Schedule 1 to registered social workers must be read as references to people engaged or employed as a social worker.
+(2) Before the transition day, the references in subsection (1)﻿(a) and clause 37 of Schedule 1 to registered social workers must be read as references to people engaged or employed as a social worker.
 (3) Members of the Board are the board for the purposes of the Crown Entities Act 2004.
 
 ### 107 Additional information in annual report
@@ -1135,7 +1136,7 @@ The Tribunal's functions are—
 (2) A member of the Board is not eligible to be a member of the Tribunal.
 
 ### 117 Suitability of certain people to be appointed
-In considering the suitability of any person to be appointed to the Tribunal under section 116(1)(a)(iii), the Board must—
+In considering the suitability of any person to be appointed to the Tribunal under section 116(1)﻿(a)﻿(iii), the Board must—
   (a) have regard not only to his or her qualifications but also to his or her knowledge and experience of matters likely to come before the Tribunal; and
   (b) have regard to the need to ensure that the Tribunal has—
     (i) enough members who are registered social workers (being registered social workers whose registration is not suspended); and
@@ -1158,9 +1159,9 @@ In considering the suitability of any person to be appointed to the Tribunal und
 ### 119 Hearings by Tribunal
 (1) For the purposes of a particular hearing, the Tribunal comprises,—
   (a) as presiding officer, the chairperson of the Tribunal or (if the chairperson so decides) a deputy chairperson chosen by the chairperson; and
-  (b) the member of the Tribunal appointed under section 116(1)(a)(ii) (or, if 2 or more members are appointed, 1 of those members chosen by the chairperson); and
-  (c) of the 5 members of the Tribunal appointed under section 116(1)(a)(iii), 2 members chosen by the chairperson; and
-  (d) the member of the Tribunal appointed under section 116(1)(b) (or, if 2 or more members are appointed, 1 of those members chosen by the chairperson).
+  (b) the member of the Tribunal appointed under section 116(1)﻿(a)﻿(ii) (or, if 2 or more members are appointed, 1 of those members chosen by the chairperson); and
+  (c) of the 5 members of the Tribunal appointed under section 116(1)﻿(a)﻿(iii), 2 members chosen by the chairperson; and
+  (d) the member of the Tribunal appointed under section 116(1)﻿(b) (or, if 2 or more members are appointed, 1 of those members chosen by the chairperson).
 (2) A hearing of the Tribunal—
   (a) must be held at times and places the Tribunal or the presiding officer appoints for it; and
   (b) may be adjourned from time to time and from place to place by the Tribunal or the presiding officer.
@@ -1199,14 +1200,14 @@ The Registrar must keep the Register in 3 separate parts—
   (c) if the person's registration is suspended,—
     (i) the fact that it is suspended; and
     (ii) any current conditions relating to its suspension:
-  (d) any current restrictions imposed under section 77(1)(b) or section 83(1)(a)(ii) on the person's ability to practise as a social worker:
+  (d) any current restrictions imposed under section 77(1)﻿(b) or section 83(1)﻿(a)﻿(ii) on the person's ability to practise as a social worker:
   (e) particulars of all practising certificates issued to the person:
   (f) any particular conditions to which the person's current practising certificate is subject:
   (g) if the person's current practising certificate is suspended,—
     (i) the fact that it is suspended; and
     (ii) any current conditions relating to its suspension.
 (4) The Registrar must make all amendments to the Register necessary to reflect—
-  (a) any changes in the information referred to in subsection (1)(d) or subsection (3):
+  (a) any changes in the information referred to in subsection (1)﻿(d) or subsection (3):
   (b) any changes notified to the Registrar in any other information referred to in subsection (1).
 
 ### 124 Certificates of registered information
@@ -1267,7 +1268,7 @@ If satisfied that a registered social worker has changed his or her name, or tha
     (iv) written notice that the social worker has a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
   (b) if the Registrar has succeeded, the Board—
     (i) has given the social worker a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
-    (ii) has considered any written or oral submissions made to it within a reasonable time of the social worker's being given the notice referred to in paragraph (a)(iv).
+    (ii) has considered any written or oral submissions made to it within a reasonable time of the social worker's being given the notice referred to in paragraph (a)﻿(iv).
 (4) A person exercising his or her right to be heard personally is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
 (5) The Board may permit a person exercising his or her right to be heard personally to be accompanied by any number of people of his or her choice who agree to attend, in addition to the person by whom he or she is entitled to be accompanied by subsection (4).
 (6) The Registrar must make reasonable efforts to give a copy of a direction under subsection (1) to the social worker concerned.
@@ -1389,7 +1390,7 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
   (a) by delivering it personally to the person; or
   (b) by sending it by pre-paid post addressed to the person at the person's usual or last known place of residence or business; or
   (c) in any other manner a District Court Judge directs.
-(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)(b) must be treated as having been given to the person when it would have been delivered in the ordinary course of the post; and in proving the delivery, it is enough to prove the letter was properly addressed and posted.
+(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)﻿(b) must be treated as having been given to the person when it would have been delivered in the ordinary course of the post; and in proving the delivery, it is enough to prove the letter was properly addressed and posted.
 (3) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given to him or her.
 (4) If a person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
 
@@ -1450,7 +1451,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 **Members' appointments**
 
 ### 2 Criteria for appointment
-(1) Members must be appointed by the Minister under section 28(1)(a) of the Crown Entities Act 2004 after consultation with organisations and individuals that, in the Minister's opinion, represent various sectors of the social work profession.
+(1) Members must be appointed by the Minister under section 28(1)﻿(a) of the Crown Entities Act 2004 after consultation with organisations and individuals that, in the Minister's opinion, represent various sectors of the social work profession.
 (2) The Minister—
   (a)
   (b) in appointing members, must take all reasonable steps to ensure that the Board will be representative of—
@@ -1709,7 +1710,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
   (c) is eligible for re-appointment.
 (2) No person may hold office as chairperson or deputy chairperson of the Tribunal for more than 6 consecutive years.
 (3) A person whose term of office as chairperson or deputy chairperson of the Tribunal has expired or who has resigned from office as chairperson or as deputy chairperson of the Tribunal may continue in office for the purpose of completing any proceedings heard by the Tribunal before the expiry or resignation concerned, whether or not his or her successor has come into office.
-(4) Subclause (1)(c) is subject to subclause (2).
+(4) Subclause (1)﻿(c) is subject to subclause (2).
 (5) Subclause (3) overrides subclauses (1) and (2).
 
 ### 3 Vacation of office
@@ -1788,7 +1789,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
   (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings.
 (2) Every person commits an offence who, after being summoned to produce to the Tribunal any papers, documents, records, or things, without reasonable excuse, fails to produce them.
 (3) Every person commits an offence who—
-  (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to clause 7(1)(a); or
+  (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to clause 7(1)﻿(a); or
   (b) without reasonable excuse, fails to comply with any requirement of the Tribunal or any authorised person made under paragraph (b) or paragraph (c) of clause 7(1); or
   (c) without reasonable excuse, acts in contravention of, or fails to comply with, any order made by the Tribunal under clause 7(3) or any term or condition of such an order.
 (4) Every person who commits an offence against this clause is liable on conviction to a fine not exceeding $1,500.
