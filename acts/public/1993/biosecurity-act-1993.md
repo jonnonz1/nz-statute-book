@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -224,6 +224,7 @@ _Consolidation as at 2013-12-05_
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) the day observed in the region of a regional council as the anniversary day of the province of which the region forms part; and
+    (ac) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
   - **written** or means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax, email, or other electronic means.
 (2)
