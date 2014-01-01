@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -161,6 +161,7 @@ This Act binds the Crown.
     (b) selling used motor vehicles to motor vehicle traders
   - **working day** means any day other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 (2) Unless the context otherwise requires, a reference in this Act to a person concerned in the management of a company means—
