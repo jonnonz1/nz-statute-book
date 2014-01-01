@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2008-04-14_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -42,6 +42,7 @@ In this Act, unless the context requires otherwise,—
   - **wine** has the same meaning as in section 4(1) of the Wine Act 2003
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (c) a day in the period beginning with 25 December in any year and,—
       (i) except in section 49, ending with 2 January in the following year; or
