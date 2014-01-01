@@ -1,5 +1,5 @@
 # Interpretation Act 1999
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 > An Act relating to the interpretation, application, and effect of legislation
 
@@ -202,7 +202,8 @@ In an enactment,—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
-    (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday
+    (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
   - **writing** means representing or reproducing words, figures, or symbols in a visible and tangible form and medium (for example, in print).
 
 ### 29A Meaning of de facto relationship
