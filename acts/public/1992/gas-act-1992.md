@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-01-01_
 
 > Title
 
@@ -109,6 +109,7 @@ The purposes of this Act are—
   - **worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2)
