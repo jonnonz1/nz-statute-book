@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -120,9 +120,10 @@ In this Act, unless the context otherwise requires,—
     (c) in the other provisions of this Act, means a Judge-alone trial or jury trial
   - **trial court** means, in any particular case, the court before which the defendant, in accordance with subpart 6 of Part 3, is to be tried
   - **victim** has the meaning given to it in section 4 of the Victims' Rights Act 2002
-  - **working day** means a day that is not—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, or Waitangi Day; or
-    (b) a day in the period commencing on 25 December in one year and ending on 15 January in the next year.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
 ### 6 Categories of offence defined
 (1) In this Act,—
