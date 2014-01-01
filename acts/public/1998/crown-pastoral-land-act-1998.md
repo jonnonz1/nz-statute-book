@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-01-01_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -104,7 +104,10 @@ Unless the context requires otherwise, in this Act,—
     (c) an occupation licence granted under section 14(7)
   - **unused Crown land** means Crown land not held under a lease, licence, or permit
   - **Valuer-General** has the same meaning as in section 2 of the Valuers Act 1948
-  - **working day** means day that is not a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, or a day during the period commencing on any Christmas Day and ending with the 15th day of the following January.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
