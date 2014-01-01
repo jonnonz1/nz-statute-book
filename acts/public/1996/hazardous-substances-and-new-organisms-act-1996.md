@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-01-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -202,6 +202,7 @@ _Consolidation as at 2013-12-16_
   - **weapons system** means any ammunition, explosive, or propellant; and includes any platform designed to carry any combination thereof
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
   - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) For the purposes of paragraph (a) of the definition of the term substance in section 2(1), the definition of any mixture of elements or mixture of compounds may include a range of percentages of the elements or compounds making up the substance.
@@ -1804,7 +1805,7 @@ Where a transferable permit scheme exists for a substance—
     (ii) meets the relevant test certification requirements that apply to the substance under section 82; and
   (b) may make the licence subject to any conditions it may specify in the licence.
 (4) Regulations made under section 76 or section 140, or both, may (without limitation)—
-  (a) specify the criteria the Authority must consider in deter-mining whether the applicant is a fit and proper person:
+  (a) specify the criteria the Authority must consider in determining whether the applicant is a fit and proper person:
   (b) specify any other matters that the Authority may consider in determining whether to grant a licence under this section:
   (c) prescribe the form of an application for a licence under this section:
   (d) provide for the variation of licences under this section and provide for their revocation:
