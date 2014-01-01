@@ -1,5 +1,5 @@
 # Temporary Safeguard Authorities Act 1987
-_Consolidation as at 2003-07-08_
+_Consolidation as at 2014-01-01_
 
 > An Act to provide for the appointment of Temporary Safeguard Authorities and to define their functions
 
@@ -25,7 +25,8 @@ In this Act, unless the context otherwise requires,—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
-    (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday
+    (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
   - **WTO Agreement** means the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994.
 
 ### 3 Establishment of Authorities
@@ -82,7 +83,7 @@ For the purposes of an inquiry pursuant to section 5(1), sections 4A, 4B, 4C, 4D
 (5) The Authority shall, as soon as practicable after making its report to the Minister, cause the report to be published.
 
 ### 8 Remuneration and travelling expenses
-(1) Every Authority established under this Act is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(1) Every Authority established under this Act is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There shall be paid to members of Authorities remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 
 ### 9 Money to be appropriated by Parliament for the purposes of this Act
@@ -99,4 +100,4 @@ Amendment(s) incorporated in the Act(s).
 (1) The enactments set out in the Schedule are hereby repealed.
 (2) The provisions of sections 10A to 10E of the Industries Development Commission Act 1961 shall, notwithstanding the repeal of that Act by subsection (1), for the purposes of the completion of any inquiry undertaken by an Emergency Protection Authority before the commencement of this Act, continue to apply as if subsection (1) had not been enacted.
 
-## Schedule Schedule — Enactments repealed
+## Schedule  — Enactments repealed
