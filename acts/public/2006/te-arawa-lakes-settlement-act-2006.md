@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -134,6 +134,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **cadastral survey dataset** has the same meaning as in section 4 of the Cadastral Survey Act 2002
   - **conservation document** means a national park management plan, conservation management strategy, or conservation management plan
