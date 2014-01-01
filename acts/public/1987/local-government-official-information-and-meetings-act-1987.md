@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2014-01-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -48,6 +48,7 @@ _Consolidation as at 2013-11-28_
     (b) performing duties expressly conferred on that person by virtue of that person's office by an enactment
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2)
 (3) Subject to subsection (4), information that is held by an officer or employee or member of a local authority in that person's capacity as such an officer or employee or member or in that person's capacity as a statutory officer shall be deemed to be held by the local authority of which that person is an officer or employee or member.
