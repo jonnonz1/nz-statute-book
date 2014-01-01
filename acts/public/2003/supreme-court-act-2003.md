@@ -1,5 +1,5 @@
 # Supreme Court Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Supreme Court Act 2003.
@@ -47,10 +47,11 @@ In this Act, unless the context otherwise requires,—
   - **Privy Council** means the Judicial Committee of the Privy Council
   - **Registrar** means the Registrar of the Supreme Court appointed under section 36(1)
   - **Supreme Court** and the mean the Supreme Court of New Zealand established by section 6
-  - **working day** means a day that is not—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, or Waitangi Day; or
-    (b) the day observed as anniversary day in Wellington; or
-    (c) a day in the period commencing on 25 December in one year and ending with 15 January in the next year.
+  - **working day** means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (b) the day observed as anniversary day in Wellington; and
+    (c) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (d) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -98,7 +99,7 @@ Sections 7 to 10 are subject to—
   (c) the appeal involves a matter of general commercial significance.
 (3) For the purposes of subsection (2), a significant issue relating to the Treaty of Waitangi is a matter of general or public importance.
 (4) The Supreme Court must not give leave to appeal to it against an order made by the Court of Appeal on an interlocutory application unless satisfied that it is necessary in the interests of justice for the Supreme Court to hear and determine the proposed appeal before the proceeding concerned is concluded.
-(5) Subsection (2) does not limit the generality of subsection (1); and subsection (3) does not limit the generality of subsection (2)(a).
+(5) Subsection (2) does not limit the generality of subsection (1); and subsection (3) does not limit the generality of subsection (2)﻿(a).
 
 ### 14 No direct appeal from court other than Court of Appeal unless exceptional circumstances established
 The Supreme Court must not give leave to appeal directly to it against a decision made, a conviction entered, or a sentence imposed, in a proceeding in a New Zealand court other than the Court of Appeal unless (in addition to being satisfied that it is necessary in the interests of justice for the Court to hear and determine the proposed appeal) it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court.
@@ -146,7 +147,7 @@ The Supreme Court must not give leave to appeal directly to it against a decisio
 (5) This section does not affect clause 12 of the Letters Patent constituting the Office of Governor-General of New Zealand 1983 (SR 1983/225).
 
 ### 20 Judges to be Judges of High Court
-(1) No person can be appointed as a Judge of the Supreme Court under section 17(1)(b) unless he or she—
+(1) No person can be appointed as a Judge of the Supreme Court under section 17(1)﻿(b) unless he or she—
   (a) was a Judge of the High Court (whether sitting in the High Court or the Court of Appeal) immediately before being appointed as a Judge of the Supreme Court; or
   (b) is appointed as a Judge of the High Court when appointed as a Judge of the Supreme Court.
 (2) Every permanent Judge of the Supreme Court—
@@ -291,7 +292,7 @@ The Registrar, Deputy Registrars, and other officers of the Supreme Court have t
 (2) No fee is payable for an application for the exercise of a power specified in paragraph (d) or paragraph (f) of subsection (1).
 
 ### 40 Reviews of decisions of Registrars about fees
-(1) A person aggrieved by a decision of the Registrar or a Deputy Registrar under regulations under section 39(1)(d) may apply to a Judge of the Supreme Court for a review of the decision.
+(1) A person aggrieved by a decision of the Registrar or a Deputy Registrar under regulations under section 39(1)﻿(d) may apply to a Judge of the Supreme Court for a review of the decision.
 (2) An application must be made within—
   (a) 20 working days after the date on which the applicant is notified of the decision; or
   (b) any further time the Judge allows on application made for that purpose before or after the expiration of that period.
