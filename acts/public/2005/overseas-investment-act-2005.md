@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -143,6 +143,7 @@ The purpose of this Act is to acknowledge that it is a privilege for overseas pe
     (d) the arriving at, or the giving of effect to, an understanding
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year.
 (2) In this Act, a person is ordinarily resident in New Zealand if the person—
   (a) holds a residence class visa granted under the Immigration Act 2009; and
