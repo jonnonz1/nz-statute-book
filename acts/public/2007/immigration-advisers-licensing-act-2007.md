@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-01-01_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -22,18 +22,18 @@ This Act binds the Crown.
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Authority** means the Immigration Advisers Authority established by section 34
-  - **category 1 exemptee** means a person exempt from the requirement to be licensed as an immigration adviser under section 12(3)(a)
-  - **category 2 exemptee** means a person exempt from the requirement to be licensed as an immigration adviser under section 12(3)(b)
+  - **category 1 exemptee** means a person exempt from the requirement to be licensed as an immigration adviser under section 12(3)﻿(a)
+  - **category 2 exemptee** means a person exempt from the requirement to be licensed as an immigration adviser under section 12(3)﻿(b)
   - **chief executive** means the chief executive of the Department
   - **clerical work** means the provision of services in relation to an immigration matter, or to matters concerning sponsors, employers, and education providers, in which the main tasks involve all or any combination of the following:
     (a) the recording, organising, storing, or retrieving of information:
     (b) computing or data entry:
     (c) recording information on any form, application, request, or claim on behalf and under the direction of another person
-  - **code of conduct** means a code of conduct approved by the Minister under section 37 and published or notified in accordance with section 38(1)(a)
+  - **code of conduct** means a code of conduct approved by the Minister under section 37 and published or notified in accordance with section 38(1)﻿(a)
   - **company** has the meaning given to it by section 2(1) of the Companies Act 1993; and includes companies or bodies corporate registered or formed outside New Zealand
-  - **competency standards** means the competency standards approved by the Minister under section 36 and published or notified in accordance with section 38(1)(a)
+  - **competency standards** means the competency standards approved by the Minister under section 36 and published or notified in accordance with section 38(1)﻿(a)
   - **Department** means the Department of Labour, or such other department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of this Act
-  - **former licensed immigration adviser** has the meaning given to it by section 44(1)(b)
+  - **former licensed immigration adviser** has the meaning given to it by section 44(1)﻿(b)
   - **immigration advice** has the meaning given to it by section 7
   - **immigration adviser** means a person who provides immigration advice
   - **immigration application or request** means the putting forward of any application, request, claim, appeal, or other approach seeking to have the Minister, the Department, the Immigration and Protection Tribunal, or an immigration officer or a refugee and protection officer deal with an immigration matter
@@ -51,12 +51,13 @@ In this Act, unless the context otherwise requires,—
     (a) has been lawfully present in New Zealand for more than 183 days in the immediately preceding 12-month period; and
     (b) is not unlawfully in New Zealand
   - **register** means the register of immigration advisers established and maintained under section 77
-  - **Registrar** means the officer appointed under section 34(2)(a)
+  - **Registrar** means the officer appointed under section 34(2)﻿(a)
   - **settlement services** means all or any of a range of targeted support services provided for migrants, refugees, protected persons, and their families, including services for the purposes of enabling migrants, refugees, protected persons, and their families to settle into the community, learn the language, and find out how to access essential community services
   - **Tribunal** means the Immigration Advisers Complaints and Disciplinary Tribunal established by section 40
   - **visa** means a visa granted under the Immigration Act 2009
   - **working day** means any day other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 
@@ -83,18 +84,18 @@ No person may provide immigration advice unless that person—
 (2) Despite subsection (1), a person who is not ordinarily resident in New Zealand need not be licensed in respect of immigration advice provided by the person outside New Zealand before the date that is 3 years after the day on which this Act receives the Royal assent, and—
   (a) section 9 does not require the Department to refuse to accept an immigration application or request from such a person before that date; and
   (b) such a person will not be treated as committing an offence under this Act by reason only of providing immigration advice outside New Zealand before that date without being licensed.
-(3) A person to whom subsection (2) applies may however apply for and be granted a licence at any time after the date that is 1 year after the day on which this Act receives the Royal assent, if the person chooses to apply.
+(3) A person to whom subsection (2) applies may however apply for, and be granted, a licence at any time after the date that is 1 year after the day on which this Act receives the Royal assent, if the person chooses to apply.
 
 ### 9 No acceptance of immigration applications or requests from unlicensed immigration advisers
 (1) No immigration application or request put forward on behalf of another person by an unlicensed immigration adviser may be accepted, unless the adviser is exempt from the requirement to be licensed under section 11.
-(2) The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 must so far as practicable ensure that immigration forms and information brochures prepared or provided by that department advise that, in accordance with subsection (1), immigration applications or requests provided or prepared on behalf of another person by persons who are neither licensed immigration advisers nor exempt from the requirement to be licensed will not be accepted.
+(2) The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 must, so far as practicable, ensure that immigration forms and information brochures prepared or provided by that department advise that, in accordance with subsection (1), immigration applications or requests provided or prepared on behalf of another person by persons who are neither licensed immigration advisers nor exempt from the requirement to be licensed will not be accepted.
 (3) Where an immigration application or request on behalf of another person is not accepted by reason of contravening subsection (1), the relevant person or body must notify that person in writing of that fact, and advise the person as to how the application or request may be relodged or advanced in an acceptable manner.
 
 ### 10 Who may be licensed as immigration adviser
 A person may be licensed as an immigration adviser only if—
   (a) the person is a natural person who applies for a licence under section 18; and
   (b) the Registrar is satisfied that the person meets the competency standards set under section 36; and
-  (c) the person is not prohibited from holding a licence under section 15, and, in the case of a person to whom section 16 or 17 applies, is determined by the Registrar to be a fit and appropriate person to hold a licence; and
+  (c) the person is not prohibited from holding a licence under section 15 and, in the case of a person to whom section 16 or 17 applies, is determined by the Registrar to be a fit and appropriate person to hold a licence; and
   (d) the person is not a category 2 exemptee or a lawyer.
 
 ### 11 Persons exempt from licensing
@@ -117,15 +118,15 @@ The following persons are exempt from the requirement to be licensed:
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) exempting any person or class of persons from the requirement to be licensed as immigration advisers:
   (b) removing in whole or in part the exemption provided for in section 11(h).
-(2) Regulations under subsection (1)(a) may be made only on the recommendation of the Minister given in accordance with section 13.
+(2) Regulations under subsection (1)﻿(a) may be made only on the recommendation of the Minister given in accordance with section 13.
 (3) Exemptions under subsection (1) must be classed as one of 2 categories:
   (a) category 1 exemptions, exempted on the basis that—
     (i) there is little consumer benefit to be gained by requiring members of the exempt class to be licensed; and
     (ii) there are sufficient processes in place to ensure competent and ethical conduct; and
   (b) category 2 exemptions, for persons in professions or occupations that, under their own statute, have their own disciplinary procedures that could apply to the provision of immigration advice, and prescriptive requirements as to conduct.
-(4) An exemption under subsection (1)(a) may be subject to any terms and conditions specified in the regulations.
+(4) An exemption under subsection (1)﻿(a) may be subject to any terms and conditions specified in the regulations.
 (5) Subject to subsection (6), a person exempt under any of paragraphs (a), (b), (c), (d), (f), (g), (h), and (i) of section 11 or a category 1 exemptee may, despite being exempt, apply for a licence and, if the licence is granted, operate as a licensed immigration adviser.
-(6) A lawyer or a category 2 exemptee may neither apply for nor hold a licence.
+(6) A lawyer or a category 2 exemptee may neither apply for, nor hold, a licence.
 (7) A removal of the exemption provided for in section 11(h) by regulations made under subsection (1) may be in respect of all or any 1 or more classes of person to whom the exemption relates, and the removal or retention of the exemption may be subject to any terms and conditions specified in the regulations.
 
 ### 13 Process for Minister to make recommendation
@@ -133,7 +134,7 @@ The following persons are exempt from the requirement to be licensed:
   (a) has received a report from the Registrar that assesses the proposed exemption or removal of the exemption; and
   (b) has provided the Registrar's assessment to, and has consulted with, such persons and organisations as the Minister considers appropriate; and
   (c) in the case of an exemption, is satisfied that the criteria for an exemption are met (including by considering the matters specified in subsection (2), where appropriate).
-(2) In assessing whether the criterion for exemption specified in section 12(3)(a)(ii) is met, the Minister must, in respect of the person or class of persons being considered for exemption, have regard (where appropriate) to such matters as—
+(2) In assessing whether the criterion for exemption specified in section 12(3)﻿(a)﻿(ii) is met, the Minister must, in respect of the person or class of persons being considered for exemption, have regard (where appropriate) to such matters as—
   (a) obligations to clients:
   (b) the existence or likelihood of conflicts of interest:
   (c) disclosure requirements:
@@ -144,11 +145,11 @@ The following persons are exempt from the requirement to be licensed:
 
 ### 14 Review of exemptions
 (1) The Registrar—
-  (a) must review each exemption granted by regulations made under section 12(1)(a) at intervals not greater than 3 years:
+  (a) must review each exemption granted by regulations made under section 12(1)﻿(a) at intervals not greater than 3 years:
   (b) may review any such exemption at any time.
 (2) The Registrar must report to the Minister on the outcome of any review under this section.
 (3) After considering the report provided by the Registrar, the Minister may recommend to the Governor-General that the exemption in question be removed or amended.
-(4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (3), make regulations revoking or amending any exemption granted by regulations made under section 12(1)(a).
+(4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (3), make regulations revoking or amending any exemption granted by regulations made under section 12(1)﻿(a).
 
 ### 15 Persons prohibited from licensing
 (1) A person is prohibited from being licensed if he or she—
@@ -164,13 +165,13 @@ The following persons are exempt from the requirement to be licensed:
 
 ### 16 Persons subject to restriction on being licensed
 The following persons must not be licensed unless the Registrar is satisfied that the nature of the relevant offence or matter is unlikely to adversely affect the person's fitness to provide immigration advice:
-  (a) a person who has been convicted, whether in New Zealand or in another country, of a crime involving dishonesty, an offence resulting in a term of imprisonment, or an offence against the Fair Trading Act 1986 (or any equivalent law of another country):
+  (a) a person who has been convicted, whether in New Zealand or in another country, of a crime involving dishonesty, an offence resulting in a term of imprisonment, or an offence against the Fair Trading Act 1986 (or any equivalent law of another country); or
   (b) a person who, under the law of another country,—
     (i) is an undischarged bankrupt; or
     (ii) has been prohibited or disqualified from managing a company; or
     (iii) has been convicted of an immigration offence; or
     (iv) has been removed or deported from the country; or
-  (c) a person to whom section 15(1)(a) or (b) has applied in the past.
+  (c) a person to whom section 15(1)﻿(a) or (b) has applied in the past.
 
 ### 17 Other matters relevant to fitness for licensing
 In determining a person's fitness to be licensed, the Registrar may take into account—
@@ -267,29 +268,29 @@ A licence—
   (c) the application for the licence or its renewal was accompanied by payment of an application fee that has subsequently been dishonoured; or
   (d) the payment of the immigration adviser's levy has subsequently been dishonoured; or
   (e) the person has died.
-(2) A licence is cancelled if the Tribunal has determined to impose on the licensee the sanction of cancellation of the licence in accordance with section 51(1)(d).
+(2) A licence is cancelled if the Tribunal has determined to impose on the licensee the sanction of cancellation of the licence in accordance with section 51(1)﻿(d).
 
 ### 28 Process for cancellation
-(1) The process for cancellation of a licence other than under section 27(1)(e) or by determination of the Tribunal under section 51 is as follows:
+(1) The process for cancellation of a licence other than under section 27(1)﻿(e) or by determination of the Tribunal under section 51 is as follows:
   (a) the Registrar must give the licensee written notice of his or her intention to cancel the licence; and
   (b) the notice must—
     (i) contain or be accompanied by a statement of the Registrar's reasons for the cancellation; and
     (ii) state that the licensee has 10 working days within which to make written representations to the Registrar as to why the licence should not be cancelled; and
-  (c) if any written representations are made by the licensee within the 10-working day period referred to in paragraph (b)(ii), the Registrar must take those representations into account in deciding whether or not to cancel the licence; and
+  (c) if any written representations are made by the licensee within the 10-working day period referred to in paragraph (b)﻿(ii), the Registrar must take those representations into account in deciding whether or not to cancel the licence; and
   (d) the Registrar must then decide whether or not to cancel the licence, and notify the licensee accordingly, as soon as practicable.
 (2) If the Registrar decides to cancel the licence,—
-  (a) he or she must include in the notice under subsection (1)(d) the grounds for the decision and the date on which the cancellation takes effect; and
+  (a) he or she must include in the notice under subsection (1)﻿(d) the grounds for the decision and the date on which the cancellation takes effect; and
   (b) he or she must also specify in the notice the right of the person to appeal to the Tribunal under section 55.
 
 ### 29 Suspension of licence
 (1) A licence is suspended if the Tribunal has determined—
-  (a) to impose on the licensee the sanction of suspension of licence in accordance with section 51(1)(c); or
+  (a) to impose on the licensee the sanction of suspension of licence in accordance with section 51(1)﻿(c); or
   (b) to suspend the licence under section 53.
 (2) A person whose licence has been suspended may not apply for a further licence during the period or duration of the suspension.
 
 ### 30 Effective date of cancellation or suspension
-(1) The cancellation of a licence other than under section 51 takes effect on the date specified by the Registrar in the notice given to the licensee under section 28(1)(d), which must be a date after the date of that notice.
-(2) The cancellation or suspension of a licence under section 51 as a result of disciplinary proceedings, or the suspension of a licence under section 53, takes effect on the date notified in the Tribunal's decision communicated under section 51(2) or 53(2)(d).
+(1) The cancellation of a licence other than under section 51 takes effect on the date specified by the Registrar in the notice given to the licensee under section 28(1)﻿(d), which must be a date after the date of that notice.
+(2) The cancellation or suspension of a licence under section 51 as a result of disciplinary proceedings, or the suspension of a licence under section 53, takes effect on the date notified in the Tribunal's decision communicated under section 51(2) or 53(2)﻿(d).
 
 ### 31 Voluntary surrender of licence
 (1) The holder of a licence may at any time surrender that licence by written notice to the Registrar.
@@ -383,7 +384,7 @@ The functions of the Tribunal are—
   (b) to make decisions as to whether an immigration adviser's licence should be suspended under section 53 pending a final decision in regard to a matter involving a licensee:
   (c) to hear appeals against—
     (i) a decision of the Registrar to cancel the licence of an immigration adviser under section 27; or
-    (ii) a determination by the Registrar to reject a complaint under section 45(1)(b) or (c) as not disclosing a ground of complaint, or as being trivial or inconsequential.
+    (ii) a determination by the Registrar to reject a complaint under section 45(1)﻿(b) or (c) as not disclosing a ground of complaint, or as being trivial or inconsequential.
 
 ### 42 Services for Tribunal
 The Ministry of Justice must furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
@@ -421,9 +422,9 @@ The provisions of the Schedule have effect in relation to the Tribunal and its p
 (4) If the complaint is to be referred to the Tribunal under subsection (2), the Registrar must—
   (a) prepare the complaint for submission to the Tribunal under section 47; and
   (b) file the complaint with the Tribunal under section 48.
-(5) If the Registrar makes a determination of any of the kinds referred to in subsection (1)(a) to (c), the Registrar must—
+(5) If the Registrar makes a determination of any of the kinds referred to in subsection (1)﻿(a) to (c), the Registrar must—
   (a) notify the complainant of the relevant determination in writing; and
-  (b) in the case of a determination under subsection (1)(b) or (c), notify the complainant of the right to appeal to the Tribunal under section 54.
+  (b) in the case of a determination under subsection (1)﻿(b) or (c), notify the complainant of the right to appeal to the Tribunal under section 54.
 
 ### 46 Registrar may refer complaint to Tribunal of own motion
 (1) The Registrar may, of his or her own motion, make a complaint on one of the grounds set out in section 44(2) and prepare it for referral to the Tribunal.
@@ -433,9 +434,9 @@ The provisions of the Schedule have effect in relation to the Tribunal and its p
 ### 47 Preparation of complaint for referral to Tribunal
 (1) For the purpose of preparing a complaint for submission to the Tribunal, the Registrar or a person authorised by the Registrar may gather further information on the complaint, including by exercising the powers of inspection referred to in section 57.
 (2) Before referring a complaint to the Tribunal, the Registrar must—
-  (a) notify the person complained of in writing of the complaint; and
+  (a) notify the person complained of, in writing, of the complaint; and
   (b) give both the complainant (if any) and the person complained about a reasonable opportunity to make a written statement or explanation in relation to the complaint.
-(3) The notice required by subsection (2)(a) must identify the complainant (if any), unless the Registrar considers that exceptional circumstances justify the withholding of the complainant's identity.
+(3) The notice required by subsection (2)﻿(a) must identify the complainant (if any), unless the Registrar considers that exceptional circumstances justify the withholding of the complainant's identity.
 
 ### 48 Filing complaint with Tribunal
 (1) After determining to refer a complaint to the Tribunal under section 45(2) or 46(1), the Registrar must, having gathered such further information in relation to the complaint as he or she thinks fit (if any), file the complaint or matter with the Tribunal.
@@ -470,17 +471,17 @@ After hearing a complaint, the Tribunal may—
   (i) an order directing the licensed immigration adviser or former licensed immigration adviser to pay reasonable compensation to the complainant or other person.
 (2) The Tribunal must notify its decision to the complainant (if any) and the person complained about in writing, giving reasons for the decision.
 (3) A person subject to a sanction under this section has the right to appeal, under section 81, the Tribunal's decision to impose the sanction.
-(4) If an immigration adviser fails to demonstrate, to the satisfaction of the Registrar, compliance with a requirement imposed under subsection (1)(b), the adviser's licence is deemed to be cancelled at the end of the specified period.
-(5) Any payment ordered by the Tribunal under subsection (1)(f) or (g) may be recovered as a debt due to the Crown.
+(4) If an immigration adviser fails to demonstrate, to the satisfaction of the Registrar, compliance with a requirement imposed under subsection (1)﻿(b), the adviser's licence is deemed to be cancelled at the end of the specified period.
+(5) Any payment ordered by the Tribunal under subsection (1)﻿(f) or (g) may be recovered as a debt due to the Crown.
 
 ### 52 Enforcement of disciplinary sanctions
 The following orders for disciplinary sanctions made by the Tribunal under section 51 may be enforced in all respects as if they were an order of the District Court on the filing of a sealed copy in that court by—
   (a) the Crown, in the case of—
-    (i) an order for payment of a penalty under section 51(1)(f); or
-    (ii) an order for payment of costs and expenses of the investigation, inquiry, or hearing, or any related prosecution under section 51(1)(g):
+    (i) an order for payment of a penalty under section 51(1)﻿(f); or
+    (ii) an order for payment of costs and expenses of the investigation, inquiry, or hearing, or any related prosecution under section 51(1)﻿(g):
   (b) the person in whose favour the order is made, in the case of—
-    (i) an order for a refund of all or any part of fees or expenses paid by the complainant or another person to the immigration adviser or former licensed immigration adviser under section 51(1)(h); or
-    (ii) an order for the payment of reasonable compensation to the complainant or another person under section 51(1)(i).
+    (i) an order for a refund of all or any part of fees or expenses paid by the complainant or another person to the immigration adviser or former licensed immigration adviser under section 51(1)﻿(h); or
+    (ii) an order for the payment of reasonable compensation to the complainant or another person under section 51(1)﻿(i).
 
 ### 53 Suspension of licence pending outcome of complaint
 (1) The Tribunal may suspend a licence where—
@@ -494,14 +495,14 @@ The following orders for disciplinary sanctions made by the Tribunal under secti
     (i) contain or be accompanied by a statement of the Tribunal's reasons for the intended suspension; and
     (ii) state that the licensee has 10 working days within which to make written representations to the Tribunal as to why the licence should not be suspended; and
     (iii) state the proposed period or otherwise describe the proposed duration of the suspension; and
-  (c) if any written representations are made by the licensee within the 10-working day period referred to in paragraph (b)(ii), the Tribunal must take those representations into account in deciding whether or not to suspend the licence, or the period or duration of the suspension; and
+  (c) if any written representations are made by the licensee within the 10-working day period referred to in paragraph (b)﻿(ii), the Tribunal must take those representations into account in deciding whether or not to suspend the licence, or the period or duration of the suspension; and
   (d) the Tribunal must then decide whether or not to suspend the licence, and notify the licensee accordingly, as soon as practicable.
 (3) If the Tribunal decides to suspend the licence, the Tribunal must—
-  (a) include in the notice under subsection (1)(d) the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
+  (a) include in the notice under subsection (1)﻿(d) the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
   (b) specify in the notice the right of the licensee to appeal to the District Court under section 81.
 
 ### 54 Appeal to Tribunal against determination by Registrar to reject complaint
-(1) A complainant may appeal to the Tribunal against a determination of the Registrar to reject or not pursue a complaint under section 45(1)(b) or (c) within 20 working days after the date of the notice given under section 45(5).
+(1) A complainant may appeal to the Tribunal against a determination of the Registrar to reject or not pursue a complaint under section 45(1)﻿(b) or (c) within 20 working days after the date of the notice given under section 45(5).
 (2) The appeal is by way of written notice to the Tribunal of the complainant's intention to appeal, accompanied by—
   (a) a copy of the notice given to the complainant under section 45(5); and
   (b) such other information as the complainant wishes the Tribunal to consider in relation to the appeal.
@@ -509,18 +510,18 @@ The following orders for disciplinary sanctions made by the Tribunal under secti
   (a) reject the appeal; or
   (b) determine that the decision of the Registrar was incorrect, but nevertheless reject the complaint upon another ground; or
   (c) determine that it should hear the complaint, and direct the Registrar to prepare the complaint for filing with the Tribunal; or
-  (d) determine that the Registrar should make a request under section 45(1)(d).
+  (d) determine that the Registrar should make a request under section 45(1)﻿(d).
 (4) A decision on an appeal under this section is final.
 
 ### 55 Appeal to Tribunal against determination by Registrar to cancel licence
-(1) A person may appeal to the Tribunal against a decision of the Registrar to cancel that person's licence within 20 working days after the date of the notice given under section 28(1)(d).
+(1) A person may appeal to the Tribunal against a decision of the Registrar to cancel that person's licence within 20 working days after the date of the notice given under section 28(1)﻿(d).
 (2) The appeal is by way of written notice to the Tribunal of the person's intention to appeal, accompanied by—
-  (a) a copy of the notice given to the person under section 28(1)(d); and
+  (a) a copy of the notice given to the person under section 28(1)﻿(d); and
   (b) such other information as the person wishes the Tribunal to consider in relation to the appeal.
 (3) After considering the appeal, the Tribunal may—
   (a) reject the appeal; or
   (b) uphold the appeal, and give the Registrar any appropriate directions in relation to the licence.
-(4) A person may appeal to the District Court under section 81 against a decision of the Tribunal to reject an appeal under subsection (3)(a).
+(4) A person may appeal to the District Court under section 81 against a decision of the Tribunal to reject an appeal under subsection (3)﻿(a).
 
 **Inspection**
 
@@ -541,7 +542,7 @@ The powers in section 57 may be used for 1 or more of the following purposes:
   (c) require a person of a kind described in paragraph (a) to produce for inspection relevant documents in that person's possession or under that person's control:
   (d) inspect and take copies of documents referred to in paragraph (c):
   (e) retain documents referred to in paragraph (c), if there are grounds for believing that they are evidence of the commission of an offence.
-(2) If a requirement is made of a person under subsection (1)(c), the person must immediately comply with that requirement.
+(2) If a requirement is made of a person under subsection (1)﻿(c), the person must immediately comply with that requirement.
 (3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 58 Inspection powers for investigating offences
@@ -584,14 +585,14 @@ No person may, under section 57, enter or be in any dwellinghouse unless he or s
 (1) A person commits an offence if the person—
   (a) provides immigration advice without being licensed to do so under this Act or exempt from the requirement to be so licensed, knowing that he or she is required to be licensed or exempt; or
   (b) provides immigration advice without being licensed to do so under this Act or exempt from the requirement to be so licensed.
-(2) For the purposes of subsection (1)(a), a person is deemed to know that he or she is required to be licensed or exempt if, at any time within the 12 months preceding the date of the alleged offence, that person had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
-(3) It is a defence to a charge under subsection (1)(b) that the person to whom the charge relates—
+(2) For the purposes of subsection (1)﻿(a), a person is deemed to know that he or she is required to be licensed or exempt if, at any time within the 12 months preceding the date of the alleged offence, that person had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
+(3) It is a defence to a charge under subsection (1)﻿(b) that the person to whom the charge relates—
   (a) did not know that he or she was providing immigration advice and had exercised all reasonable care and due diligence to ensure he or she did not provide immigration advice; or
   (b) did not know that he or she was not licensed to provide immigration advice and had exercised all reasonable care and due diligence to ensure that he or she did have a licence.
-(4) A person convicted of an offence under subsection (1)(a) is liable to—
+(4) A person convicted of an offence under subsection (1)﻿(a) is liable to—
   (a) imprisonment for a term not exceeding 7 years or a fine not exceeding $100,000, or both; and
   (b) any additional amount imposed by the court under section 71 or 72.
-(5) A person convicted of an offence under subsection (1)(b) is liable to—
+(5) A person convicted of an offence under subsection (1)﻿(b) is liable to—
   (a) a fine not exceeding $100,000; and
   (b) any additional amount imposed by the court under section 71 or 72.
 
@@ -610,22 +611,22 @@ No person may, under section 57, enter or be in any dwellinghouse unless he or s
 (1) A person commits an offence who, for the purposes of any application for a licence or for renewal of a licence under this Act,—
   (a) supplies to the Authority any false or misleading information, knowing it to be false or misleading; or
   (b) supplies to the Authority any false or misleading information.
-(2) It is a defence to a charge under subsection (1)(b) that the person to whom the charge relates did not know that he or she was providing false or misleading information and had exercised all reasonable care and due diligence to ensure that the information provided was not false or misleading.
-(3) A person convicted of an offence under subsection (1)(a) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000, or both.
-(4) A person convicted of an offence under subsection (1)(b) is liable to a fine not exceeding $10,000.
+(2) It is a defence to a charge under subsection (1)﻿(b) that the person to whom the charge relates did not know that he or she was providing false or misleading information and had exercised all reasonable care and due diligence to ensure that the information provided was not false or misleading.
+(3) A person convicted of an offence under subsection (1)﻿(a) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000, or both.
+(4) A person convicted of an offence under subsection (1)﻿(b) is liable to a fine not exceeding $10,000.
 
 ### 67 Offence of asking for or receiving fee or reward for immigration advice when neither licensed nor exempt
 (1) A person commits an offence who—
   (a) asks for or receives a fee or reward for the provision of immigration advice by a person who is neither licensed under this Act to provide immigration advice nor exempt from the requirement to be licensed, knowing that the person is neither licensed nor exempt; or
   (b) asks for or receives a fee or reward for the provision of immigration advice by a person who is neither licensed under this Act to provide immigration advice nor exempt from the requirement to be licensed.
-(2) For the purposes of subsection (1)(a), a person charged with an offence under subsection (1)(a) is deemed to know that the person providing immigration advice was neither licensed nor exempt if, at any time within the 12 months preceding the date of the alleged offence, the person charged had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
-(3) It is a defence to a charge under subsection (1)(b) that the person to whom the charge relates—
+(2) For the purposes of subsection (1)﻿(a), a person charged with an offence under subsection (1)﻿(a) is deemed to know that the person providing immigration advice was neither licensed nor exempt if, at any time within the 12 months preceding the date of the alleged offence, the person charged had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
+(3) It is a defence to a charge under subsection (1)﻿(b) that the person to whom the charge relates—
   (a) did not know that immigration advice was being provided and had exercised all reasonable care and due diligence to ensure that such advice was not provided; or
   (b) did not know that the person concerned was not licensed to provide immigration advice and had exercised all reasonable care and due diligence to ensure that the person did have a licence.
-(4) A person convicted of an offence under section (1)(a) is liable to—
+(4) A person convicted of an offence under subsection (1)﻿(a) is liable to—
   (a) imprisonment for a term not exceeding 7 years or a fine not exceeding $100,000, or both; and
   (b) any additional amount imposed by the court under section 71 or 72.
-(5) A person convicted of an offence under subsection (1)(b) is liable to—
+(5) A person convicted of an offence under subsection (1)﻿(b) is liable to—
   (a) a fine not exceeding $100,000; and
   (b) any additional amount imposed by the court under section 71 or 72.
 
@@ -633,14 +634,14 @@ No person may, under section 57, enter or be in any dwellinghouse unless he or s
 (1) A person commits an offence who—
   (a) employs or contracts, or continues to employ or contract, as an immigration adviser any person who is neither licensed to be an immigration adviser nor exempt from the requirement to be licensed, knowing that the person is neither licensed nor exempt; or
   (b) employs or contracts, or continues to employ or contract, as an immigration adviser any person who is neither licensed to be an immigration adviser nor exempt from the requirement to be licensed.
-(2) For the purposes of subsection (1)(a), a person charged with an offence under subsection (1)(a) is deemed to know that the person employed or contracted as an immigration adviser was neither licensed nor exempt if, at any time within the 12 months preceding the date of the alleged offence, the person charged had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
-(3) It is a defence to a charge under subsection (1)(b) that the person to whom the charge relates—
+(2) For the purposes of subsection (1)﻿(a), a person charged with an offence under subsection (1)﻿(a) is deemed to know that the person employed or contracted as an immigration adviser was neither licensed nor exempt if, at any time within the 12 months preceding the date of the alleged offence, the person charged had been informed of that fact in writing by the Registrar or a person appointed to the Authority.
+(3) It is a defence to a charge under subsection (1)﻿(b) that the person to whom the charge relates—
   (a) did not know that immigration advice was being provided and had exercised all reasonable care and due diligence to ensure that such advice was not provided; or
   (b) did not know that the person concerned was not licensed to provide immigration advice and had exercised all reasonable care and due diligence to ensure that the person did have a licence.
-(4) A person convicted of an offence under subsection (1)(a) is liable to—
+(4) A person convicted of an offence under subsection (1)﻿(a) is liable to—
   (a) imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000, or both; and
   (b) any additional amount imposed by the court under section 71 or 72.
-(5) A person convicted of an offence under subsection (1)(b) is liable to—
+(5) A person convicted of an offence under subsection (1)﻿(b) is liable to—
   (a) a fine not exceeding $10,000; and
   (b) any additional amount imposed by the court under section 71 or 72.
 
@@ -667,12 +668,12 @@ In addition to any penalty imposed on a person convicted under any of sections 6
 A person may be charged with an offence under any of sections 63 to 70 whether or not the offence or any part of it occurred within New Zealand.
 
 ### 74 Presumption as to non-exemption
-(1) In proceedings for an offence under any of sections 63(1)(a), 64(1), 67(1)(a), and 68(1)(a), it is presumed, in the absence of evidence to the contrary, that the person alleged to be neither licensed nor exempt is not in fact exempt from the requirement to be licensed.
-(2) In proceedings for an offence under section 63(1)(b), 67(1)(b), or 68(1)(b), it is presumed, in the absence of proof to the contrary to the standard of the balance of probabilities, that the person alleged to be neither licensed nor exempt from the requirement to be licensed is not in fact exempt.
+(1) In proceedings for an offence under any of sections 63(1)﻿(a), 64(1), 67(1)﻿(a), and 68(1)﻿(a), it is presumed, in the absence of evidence to the contrary, that the person alleged to be neither licensed nor exempt is not in fact exempt from the requirement to be licensed.
+(2) In proceedings for an offence under section 63(1)﻿(b), 67(1)﻿(b), or 68(1)﻿(b), it is presumed, in the absence of proof to the contrary to the standard of the balance of probabilities, that the person alleged to be neither licensed nor exempt from the requirement to be licensed is not in fact exempt.
 
 ### 75 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
-  (a) a charging document may be filed at any time in respect of an offence against any of sections 63(1)(a), 64(1), 65(1), 67(1)(a), and 68(1)(a); and
+  (a) a charging document may be filed at any time in respect of an offence against any of sections 63(1)﻿(a), 64(1), 65(1), 67(1)﻿(a), and 68(1)﻿(a); and
   (b) the limitation period in respect of an offence against any other offence against this Act ends on the date that is 2 years after the earlier of—
     (i) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an employee of the Department responsible for the enforcement of this Act; or
     (ii) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to such an employee.
@@ -721,7 +722,7 @@ No person who exercises any power of decision in relation to an immigration matt
 The Registrar may at any time make any amendments to the register that are necessary to—
   (a) reflect any changes in the information referred to in section 18; or
   (b) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers; or
-  (c) accurately reflect the status of immigration advisers as licensed or not, and, if licensed, the type of licence held.
+  (c) accurately reflect the status of immigration advisers as licensed or not and, if licensed, the type of licence held.
 
 ### 80 Search of register
 (1) A person may search the register for a purpose set out in section 77(2).
@@ -736,7 +737,7 @@ The Registrar may at any time make any amendments to the register that are neces
   (a) a decision of the Registrar to refuse to license the person as an immigration adviser:
   (b) a decision of the Registrar to grant the person a limited or a provisional licence only, rather than a full licence:
   (c) a decision of the Tribunal to cancel or suspend the person's licence:
-  (d) any other decision of the Tribunal imposing on the person a sanction of a kind referred to in section 51(1)(a) to (i):
+  (d) any other decision of the Tribunal imposing on the person a sanction of a kind referred to in section 51(1)﻿(a) to (i):
   (e) a decision of the Tribunal to reject an appeal under section 55.
 (2) An appeal under this section must be made by giving notice of appeal within—
   (a) 20 working days after the date on which notice of the decision was communicated to the person concerned; or
@@ -788,14 +789,14 @@ The Registrar may, under section 41 of the State Sector Act 1988, delegate to an
 ### 89 Licensing fees
 (1) The Governor-General may, by Order in Council, make regulations setting fees, or prescribing a method for determining fees, for licence applications, the granting and renewal of licences, and other associated matters.
 (2) Fees, or the method for determining fees, may differ for different classes of applicant or licensee, and may take account of whether or not the person concerned charges or proposes to charge for the provision of immigration advice.
-(3) The regulations may provide for the waiver of or exemption from fees, in whole or in part.
+(3) The regulations may provide for the waiver of, or exemption from, fees, in whole or in part.
 
 ### 90 Immigration adviser's levy
 (1) For the purpose of funding the functions of the Authority under section 35(1) and the costs of operation and administration of the Tribunal (to the extent they are otherwise unfunded), the Governor-General may, by Order in Council, make regulations prescribing a levy, or a method or methods for determining levies, payable by licensed immigration advisers (or payable as a prerequisite for the granting or renewal of a licence).
 (2) Levies, or the method or methods for determining levies, may differ for different classes of licence holder, and may take account of whether or not the person concerned charges or proposes to charge for the provision of immigration advice.
 (3) Regulations imposing levies may—
   (a) specify when and how any levy is to be paid:
-  (b) provide for the waiver of or exemption from levies, in whole or in part.
+  (b) provide for the waiver of, or exemption from, levies, in whole or in part.
 
 ### 91 Waiver of further immigration fees in certain cases
 The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 may, in whole or in part, waive any fee payable on a further immigration application or request by a person whose earlier application or request has not been accepted because it contravened section 9.
@@ -805,10 +806,10 @@ The chief executive of the department of State that has, with the authority of t
 (2) The disclosure of personal information under subsection (1) must be—
   (a) in accordance with an agreement between the Registrar and the agency, body, or person concerned that complies with subsections (3) and (4); or
   (b) in accordance with subsection (8).
-(3) The Registrar must not enter into an agreement under subsection (2)(a) unless satisfied that its purpose is to help the Authority carry out its functions under this Act, or to help the person, agency, or body carry out its functions relating to—
+(3) The Registrar must not enter into an agreement under subsection (2)﻿(a) unless satisfied that its purpose is to help the Authority carry out its functions under this Act, or to help the person, agency, or body carry out its functions relating to—
   (a) the registration or regulation of immigration advisers; or
   (b) the taking of any investigative, disciplinary, or enforcement action against immigration advisers.
-(4) An agreement under subsection (2)(a)—
+(4) An agreement under subsection (2)﻿(a)—
   (a) must be in writing; and
   (b) must state the purpose of the agreement; and
   (c) must state the personal information that can be disclosed; and
@@ -824,12 +825,12 @@ The chief executive of the department of State that has, with the authority of t
   (b) must provide the Privacy Commissioner with a copy of any agreement or variation promptly after it has been entered into; and
   (c) if the Privacy Commissioner so requires, must undertake a review of the agreement under this section, and the arrangements for disclosure under it; and
   (d) as soon as practicable after conducting a review required to be undertaken under paragraph (c), must report the result to the Privacy Commissioner.
-(6) The Privacy Commissioner must not require the Registrar to undertake a review of an agreement under subsection (5)(c) within 12 months of last doing so.
+(6) The Privacy Commissioner must not require the Registrar to undertake a review of an agreement under subsection (5)﻿(c) within 12 months of last doing so.
 (7) This section does not limit the general powers of the Registrar or the Authority to enter into agreements not related to the disclosure of personal information with any overseas agency, body, or person.
-(8) The Registrar may disclose personal information to an overseas agency, body, or person without a written agreement under subsection (2)(a) if—
+(8) The Registrar may disclose personal information to an overseas agency, body, or person without a written agreement under subsection (2)﻿(a) if—
   (a) the functions of the agency, body, or person include the regulation of immigration advisers; and
   (b) the personal information is disclosed subject to conditions stating the use the agency, body, or person may make of it and either—
-    (i) that the agency, body, or person must not disclose it to any other agency, body or person; or
+    (i) that the agency, body, or person must not disclose it to any other agency, body, or person; or
     (ii) the other agencies, bodies, or persons to which the agency, body, or person may disclose any of it, and the extent to which and conditions subject to which the agency, body, or person may do so; and
   (c) the Registrar makes and keeps record of—
     (i) the personal information that was disclosed; and
@@ -841,7 +842,7 @@ The chief executive of the department of State that has, with the authority of t
 (10) The personal information that may be disclosed under this section is—
   (a) whether a person is licensed, or has applied to be licensed, as an immigration adviser:
   (b) if a person is licensed, whether the person has been granted a full licence, a limited licence, or a provisional licence, and the details of the licence:
-  (c) if a person is not licensed—
+  (c) if a person is not licensed,—
     (i) whether the person is prohibited from being licensed and the reason for any such prohibition:
     (ii) whether the person is restricted from being licensed and the reasons for such restriction:
     (iii) information about matters otherwise relevant to the person's fitness for licensing in New Zealand:
@@ -858,9 +859,9 @@ The chief executive of the department of State that has, with the authority of t
 ### 93 Service of notices
 (1) Any notice or any other document required to be served on, or given to, any person under this Act, or any regulation made under this Act, is sufficiently served if,—
   (a) in the case of an applicant for a licence or a licensed immigration adviser, the notice or document is—
-    (i) delivered to the person at the person's address for service stated in accordance with section 18(c)(ii); or
+    (i) delivered to the person at the person's address for service stated in accordance with section 18(c)﻿(ii); or
     (ii) sent by fax or email to the person's fax number or email address, as the case may be, provided for the purpose by the applicant or licensed immigration adviser; or
-    (iii) posted in a letter addressed to the person at the person's address for service stated in accordance with section 18(c)(ii); or
+    (iii) posted in a letter addressed to the person at the person's address for service stated in accordance with section 18(c)﻿(ii); or
   (b) in any other case, the notice or document is—
     (i) delivered to the person; or
     (ii) left at the person's usual or last known place of residence or business in New Zealand; or
@@ -884,7 +885,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 **Amendments to other Acts**
 
 ### 95 Immigration Act 1987 amended
-Section 142(1)(j) of the Immigration Act 1987 is repealed.
+Section 142(1)﻿(j) of the Immigration Act 1987 is repealed.
 
 ### 96 Privacy Act 1993 amended
 Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:Immigration Advisers Licensing Act 2007section 77.
