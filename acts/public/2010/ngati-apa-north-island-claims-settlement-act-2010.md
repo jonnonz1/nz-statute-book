@@ -1,5 +1,5 @@
 # Ngāti Apa (North Island) Claims Settlement Act 2010
-_Consolidation as at 2010-12-15_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 Background
@@ -137,6 +137,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period from 9 am to 5 pm on a day other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; or
     (c) the day observed as the anniversary of the province of Wellington
   - **commercial redress property** means—
     (a) the settlement licensed land; and
