@@ -1,5 +1,5 @@
 # Ngāti Mutunga Claims Settlement Act 2006
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2014-01-01_
 
 ## Preamble
 Background
@@ -266,6 +266,7 @@ In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
+    (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
   - **charter** —
     (a) means the Te Rūnanga o Ngāti Mutunga Charter, dated 21 December 2005 and signed by the initial trustees; and
