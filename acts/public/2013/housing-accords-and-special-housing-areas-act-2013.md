@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2013-09-13_
+_Consolidation as at 2014-01-09_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -276,7 +276,7 @@ The table in Schedule 2 provides for time periods that are to be excluded from t
   (e) an activity for which Part 3 of the Resource Management Act 1991 requires a resource consent, where there is no plan or proposed plan, or no relevant rule in the relevant plan or proposed plan; and
   (f) an activity for which the relevant plan or a proposed plan requires a resource consent, but does not classify the activity as controlled, restricted discretionary, discretionary, or non-complying.
 (3) Subsection (2)(b), (c), and (d) is subject to section 26(3) and (5).
-(4) The authorised agency, when determining an application for a resource consent referred to in the first column of the following table, must treat the activity in the manner set out against that reference in the second column of the table:Application for a resource consent for an activity referred to in—Authorised agency must treat the activity—subsection (2)(a)(i)as if the proposed plan described the activity as a controlled activitysubsection (2)(a)(ii) to (v) as if the description in the proposed plan appliedsubsection (2)(b) to (f)as if the activity were a discretionary activity
+(4) The authorised agency, when determining an application for a resource consent referred to in the first column of the following table, must treat the activity in the manner set out against that reference in the second column of the table:Application for a resource consent for an activity referred to in—Authorised agency must treat the activity—subsection (2)(a)(i)as if the proposed plan described the activity as a controlled activitysubsection (2)(a)(ii) to (v)as if the description in the proposed plan appliedsubsection (2)(b) to (f)as if the activity were a discretionary activity
 
 ### 26 Accord territorial authority may require applications to be made in conjunction with requests for plan changes or variations to proposed plans
 (1) If the authorised agency is an accord territorial authority, the authorised agency may, within 10 working days after a resource consent application is lodged, require an applicant for a resource consent referred to in—
