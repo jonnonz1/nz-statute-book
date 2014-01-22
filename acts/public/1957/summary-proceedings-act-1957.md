@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2013-09-04_
+_Consolidation as at 2014-01-22_
 
 > Title
 
@@ -1769,7 +1769,7 @@ If a fine has been ordered to be paid or an order has been made by a court or th
     (i) the defendant is already undergoing a sentence of imprisonment or is about to be sentenced to imprisonment for another offence at the time that the Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part:
     (ii) the Judge is satisfied that the defendant has the financial capacity to pay the fine or fines.
 (8) Subsection (7) is subject to section 83.
-(9) Section 19 of the Sentencing Act 2002 applies if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
+(9) Sections 19 and 20A of the Sentencing Act 2002 apply if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
 
 ### 106EA Defendant may be arrested for assessment of financial capacity
 (1) Before a District Court Judge sentences a defendant to home detention, or issues or directs the issue of a warrant of commitment, under section 88AE(1), he or she may direct that a warrant for the defendant's arrest be issued to have the defendant brought before a District Court Judge to enable the defendant's financial capacity to pay the fine or fines to be assessed.
