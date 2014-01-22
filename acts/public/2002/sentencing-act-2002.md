@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-01-22_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -340,8 +340,27 @@ Nothing in this Part limits the discretion of a court to impose a sentence of im
   (a) a sentence of community work is appropriate; but
   (b) the offender requires the imposition of standard conditions or any of the special conditions available under a sentence of supervision or intensive supervision to address the causes of his or her offending.
 
+### 20A Subsequent community-based sentence or sentence of home detention
+(1) This section applies to an offender who, while serving a community-based sentence or sentence of home detention (the first sentence), is sentenced to another community-based sentence or sentence of home detention (the second sentence) in respect of another offence.
+(2) The court must, when imposing the second sentence,—
+  (a) impose a sentence that would be permitted in combination with the first sentence under section 19; or
+  (b) defer the commencement of the second sentence until the first sentence has been served; or
+  (c) cancel the first sentence; or
+  (d) cancel the first sentence and substitute any other sentence that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed so that the sentences are a permitted combination of sentences under section 19.
+(3) When cancelling the first sentence under subsection (2)(c) or (d), the court must, when imposing the second sentence or substituting the first sentence with another sentence, as the case may be, take into account the portion of the first sentence that remains unserved.
+(4) A court—
+  (a) must not cancel a first sentence under subsection (2)(c) or (d) if that sentence has been imposed by a higher court; and
+  (b) if it considers the first sentence should be cancelled, must refer the matter to the court that imposed the first sentence.
+(5) For the purposes of this section, an offender is to be treated as serving a sentence of home detention until the offender is no longer subject to any post-detention conditions imposed under section 80N (if any).
+(6) Sections 54, 54K, 68, 69I, and 80F (which relate to the variation or cancellation of community-based sentences and a sentence of home detention) do not apply to a cancellation under this section.
+(7) If the second sentence is a sentence of home detention or community detention and the court defers, under subsection (2)(b), the commencement of that sentence for more than 2 months, a probation officer must—
+  (a) review the suitability of the home detention residence or curfew address; and
+  (b) ensure every relevant occupant consents, in accordance with section 26A(3), to the offender resuming the sentence at the home detention residence or curfew address; and
+  (c) if necessary, apply to the court for a variation or cancellation of the sentence under section 69I or 80F or obtain from the chief executive of the Department of Corrections a variation of the curfew address or home detention residence under section 69JA or 80FA.
+(8) In this section, relevant occupant has the meaning given to it by section 26A(4)(a).
+
 ### 21 Effect of provisions concerning multiple sentences on powers of court
-Nothing in sections 19 and 20—
+Nothing in sections 19, 20, and 20A—
   (a) empowers a court to impose any sentence that it would not otherwise be empowered to impose; or
   (b) limits the power of a court to make any order that it is empowered to make on the conviction of any person, whether under this or any other enactment.
 
@@ -386,7 +405,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (2) If proceedings are adjourned under this section or under section 10(4), a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
 
 ### 26 Pre-sentence reports
-(1) If an offender who is charged with an offence punishable by imprisonment is found guilty or pleads guilty, the court may direct a probation officer to provide a report to the court under subsection (2).
+(1) Except as provided in section 26A, if an offender who is charged with an offence punishable by imprisonment is found guilty or pleads guilty, the court may direct a probation officer to prepare a report for the court in accordance with subsection (2).
 (2) A pre-sentence report may include—
   (a) information regarding the personal, family, whanau, community, and cultural background, and social circumstances of the offender:
   (b) information regarding the factors contributing to the offence, and the rehabilitative needs of the offender:
@@ -408,11 +427,10 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (a) any particular item of information sought by the court; or
   (b) any alternative sentence or other mode of disposition that may be considered by the court if it appears that the sentence or other mode of disposition under consideration is inappropriate.
 
-### 26A Additional requirements when considering sentence of community detention or home detention
-(1) If the court has directed a probation officer to provide a pre-sentence report under section 26, the probation officer must prepare the pre-sentence report in accordance with subsection (2) if—
-  (a) the court has indicated that it is considering a sentence of community detention or home detention; or
-  (b) the probation officer intends to recommend a sentence of community detention or home detention.
-(2) A pre-sentence report to which subsection (1) applies may include any of the matters outlined in section 26(2), and must include—
+### 26A Pre-sentence reports when considering sentence of community detention or home detention
+(1) If the court is considering a sentence of community detention or home detention, the court must direct a probation officer to prepare a pre-sentence report for the court in accordance with subsection (2).
+(1A) If a probation officer intends to recommend to the court a sentence of community detention or home detention, the probation officer must prepare a pre-sentence report in accordance with subsection (2) and provide it to the court.
+(2) A pre-sentence report to which subsection (1) or (1A) applies may include any of the matters outlined in section 26(2), and must include—
   (a) information regarding the suitability of the proposed curfew address or home detention residence, including the safety and welfare of the occupants of the proposed curfew address or home detention residence; and
   (b) in the case of a sentence of community detention, confirmation that the offender consents to the conditions of the sentence and the proposed curfew period; and
   (c) in the case of a sentence of home detention, confirmation that the offender consents to the standard detention conditions and any special conditions recommended by the probation officer or that the court has indicated it is considering imposing.
@@ -429,6 +447,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) in relation to an address that the probation officer is considering as a curfew address,—
     (i) if the address is a residence, every person referred to in paragraph (a)(i) and (ii); and
     (ii) in the case of any other place, the person or persons whom the probation officer identifies as being authorised to give consent for the purposes of subsection (3).
+(5) Section 26(3), (4), and (5) apply, with any necessary modifications, to a report prepared under this section.
 
 ### 27 Offender may request court to hear person on personal, family, whanau, community, and cultural background of offender
 (1) If an offender appears before a court for sentencing, the offender may request the court to hear any person or persons called by the offender to speak on—
@@ -496,10 +515,10 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (2) Despite subsection (1), a court must not impose a sentence of reparation in respect of emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
 (3) In determining whether a sentence of reparation is appropriate or the amount of reparation to be made for any consequential loss or damage described in subsection (1)(c), the court must take into account whether there is or may be, under the provisions of any enactment or rule of law, a right available to the person who suffered the loss or damage to bring proceedings or to make any application in relation to that loss or damage.
 (4) Subsection (3) applies whether or not the right to bring proceedings or make the application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired.
-(5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the Accident Compensation Act 2001.
 (6) When determining the amount of reparation to be made, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
 (7) The court must not impose as part of a sentence of reparation an obligation on the offender to perform any form of work or service for the person who suffered the harm, loss, or damage.
-(8) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+(8) Nothing in section 320 of the Accident Compensation Act 2001 applies to sentencing proceedings.
 
 ### 33 Court may order reparation report
 (1) If the court considers that a sentence of reparation may be appropriate, the court may order a probation officer, or any other person designated by the court for the purpose, to prepare a reparation report for the court in accordance with section 34 on all or any of the following matters:
@@ -507,7 +526,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) in the case of emotional harm, the nature of that harm and the value of any consequential loss or damage:
   (c) in the case of any loss or damage consequential on physical harm,—
     (i) the nature and value of the loss or damage; and
-    (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+    (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the Accident Compensation Act 2001:
   (d) the financial capacity of the offender:
   (e) the maximum amount that the offender is likely to be able to pay under a sentence of reparation:
   (f) the frequency and magnitude of any payments that should be required under a sentence of reparation, if provision for payment by instalments is thought desirable.
@@ -665,7 +684,7 @@ An offender who is sentenced to supervision is subject to—
 
 ### 49 Standard conditions of supervision
 (1) If an offender is sentenced to supervision, the following standard conditions apply:
-  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 72 hours, after the sentence is imposed:
+  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable and not later than 72 hours after the sentence is imposed unless the start date of the sentence has been deferred under section 20A(2)(b), in which case the offender must report not later than 72 hours after that date:
   (b) the offender must report to a probation officer as and when required to do so by a probation officer, and must notify the officer of his or her residential address and the nature and place of his or her employment when asked to do so:
   (c) the offender must not move to a new residential address in another probation area without the prior written consent of a probation officer:
   (d) if consent is given under paragraph (c), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
@@ -732,6 +751,13 @@ An offender who is subject to a sentence of supervision must be under the superv
 (6) If the court cancels a sentence under this section, the sentence expires on the date that the order is made, or on any other date that the court may specify.
 (7) If an application is made under this section for the remission, suspension, or variation of any condition imposed by the court, a probation officer may suspend the condition until the application has been heard and disposed of.
 
+### 54AA When time ceases to run on sentence of supervision
+For the purpose of calculating how much time an offender has served on a sentence of supervision,—
+  (a) time ceases to run on the sentence during any period between the date on which an application under section 54(1)(a) is lodged and the date on which the application is determined by the court; but
+  (b) some or all of the period between those dates may be regarded by the court as time served, as the court thinks appropriate in the circumstances, after taking into account—
+    (i) the extent (if any) to which the offender has complied with any conditions of the sentence; and
+    (ii) the amount of time (if any) that the offender has spent in custody.
+
 ### 54A Application of section 54 during epidemic
 (1) While an epidemic management notice is in force,—
   (a) a probation officer who has applied in accordance with section 72 for an order under section 54(3) varying the special conditions subject to which a sentence of supervision was imposed by the court on an offender may himself or herself vary those conditions; and
@@ -768,7 +794,7 @@ An offender who is sentenced to intensive supervision is subject to—
 
 ### 54F Standard conditions of intensive supervision
 (1) If an offender is sentenced to intensive supervision, the following standard conditions apply:
-  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 72 hours, after the sentence is imposed:
+  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable and not later than 72 hours after the sentence is imposed unless the start date of the sentence has been deferred under section 20A(2)(b), in which case the offender must report not later than 72 hours after that date:
   (b) the offender must report to a probation officer—
     (i) at least once in each week during the first 3 months of the sentence and at least once in each month during the remainder of the sentence; and
     (ii) as and when required to do so by a probation officer:
@@ -842,6 +868,13 @@ An offender who is subject to a sentence of intensive supervision is under the s
 (6) If the court cancels a sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
 (7) If an application is made under this section for the remission, suspension, or variation of any special condition imposed by the court, a probation officer may suspend the special condition until the application has been heard and disposed of.
 
+### 54KA When time ceases to run on sentence of intensive supervision
+For the purpose of calculating how much time the offender has served on a sentence of intensive supervision,—
+  (a) time ceases to run on the sentence during any period between the date on which an application under section 54K(1)(a) is lodged and the date on which the application is determined by the court; but
+  (b) some or all of the period between those dates may be regarded by the court as time served, as the court thinks appropriate in the circumstances, after taking into account—
+    (i) the extent (if any) to which the offender has complied with any conditions of the sentence; and
+    (ii) the amount of time (if any) that the offender has spent in custody.
+
 ### 54L Application of section 54K during epidemic
 (1) While an epidemic management notice is in force,—
   (a) a probation officer who has applied in accordance with section 72 for an order under section 54K(3) varying the special conditions subject to which a sentence of intensive supervision was imposed by the court on an offender may himself or herself vary those conditions; and
@@ -874,7 +907,7 @@ An offender who is subject to a sentence of intensive supervision is under the s
 ### 57 Concurrent and cumulative sentences of community work
 (1) If a court imposes a sentence of community work on an offender who is already subject to a sentence of community work, the sentences must be served concurrently unless the court directs that they are to be served cumulatively.
 (2) If a court imposes a sentence of community work in respect of each of 2 or more offences, the sentences must be served concurrently unless the court directs that they are to be served cumulatively.
-(2A) If a court directs that sentences of community work be served cumulatively (whether or not the sentences are imposed at the same time), the total term of the sentences must not be more than 400 hours.
+(2A) If a court directs that sentences of community work be served cumulatively or concurrently (whether or not the sentences are imposed at the same time), the total term of the sentences must not be more than 400 hours.
 (3) A sentence of community work must be served concurrently with any sentence of supervision, intensive supervision, community detention, or home detention, whether or not the sentences are imposed at the same time.
 
 ### 57A Court may defer commencement date of sentence of community work
@@ -889,7 +922,7 @@ If a court imposes both a sentence of community work and a sentence of either in
 
 ### 59 Offender must report to probation officer
 An offender who is subject to a sentence of community work must report in person to a probation officer in the probation area in which the offender resides—
-  (a) as soon as practicable, and not later than 72 hours, after the sentence is imposed; and
+  (a) as soon as practicable, and not later than 72 hours, after the sentence is imposed or, if the start date of the sentence has been deferred under section 20A(2)(b) or 57A, within 72 hours of the specified start date; and
   (b) as directed at any other time during the sentence for the purpose of monitoring the sentence.
 
 ### 60 Offender must notify probation officer if offender changes residential address
@@ -941,23 +974,23 @@ For the purposes of section 61, the probation officer must take into account—
 (5) A certificate obtained in accordance with subsection (4) is not conclusive as to whether the offender is, will be, or was unfit to report.
 (6) To avoid doubt, if an offender is excused under this section from reporting, that does not have the effect of remitting any of the hours of community work required to be done under the sentence.
 
-### 66A Court may authorise hours of work to be converted into training
+### 66A Probation officer may direct hours of work to be converted to training
 (1) This section applies to sentences of community work of at least 80 hours.
-(2) A court may, when imposing a sentence of community work, or at any time on application by a probation officer, authorise a probation officer to direct that some of the hours of work ordered to be undertaken be instead spent in training in basic work and living skills.
-(3) In determining whether to give an authorisation under this section, the court must take account of both—
-  (a) the benefits of skill development to the offender for reducing the likelihood of his or her reoffending; and
+(2) A probation officer may direct that a specified number of hours of work, not exceeding 20% of the total number of hours of work ordered by the court to be undertaken, be spent in training in basic work and living skills.
+(3) In determining whether to give a direction under this section, the probation officer must take account of—
+  (a) the benefits of skill development to the offender for reducing the likelihood of reoffending; and
   (b) the need to hold the offender accountable to the community by making compensation to it.
-
-### 66B Some hours of work may be converted to training
-(1) If authorised by the court under section 66A, a probation officer may, but is not obliged to, direct that a specified number of hours of work, not exceeding 20% of the total number of hours under the sentence, be instead spent in training in basic work and living skills.
-(2) A probation officer may not give a direction under subsection (1) unless—
+(4) A probation officer must not give a direction under this section unless—
   (a) it is reasonably practicable for the offender to undertake training in basic work and living skills (having regard to the availability of that training in the place where the offender lives); and
   (b) the offender consents to undertake that training.
-(3) Any hours spent by the offender training in basic work and living skills under a direction given under subsection (1) must, for all legal purposes, be treated as hours of authorised community work undertaken by the offender under his or her sentence.
-(4) Subsection (3) is subject to section 66C.
+(5) Any hours spent by the offender training in basic work and living skills under a direction given under this section must, for all legal purposes, be treated as hours of authorised community work undertaken by the offender under his or her sentence.
+(6) Subsection (5) is subject to section 66C.
+
+### 66B Some hours of work may be converted to training
+[Repealed]
 
 ### 66C Consequences of failing without excuse to complete training
-If an offender fails, without reasonable excuse, to complete the number of hours training in basic work and living skills directed under section 66B,—
+If an offender fails, without reasonable excuse, to complete the number of hours training in basic work and living skills directed under section 66A,—
   (a) any hours spent by the offender undertaking that training are not to be treated as hours of authorised community work undertaken by the offender under his or her sentence:
   (b) the offender must, in addition to the period spent in training, but subject to section 67, undertake community work for the total number of hours ordered under the sentence.
 
@@ -1025,6 +1058,7 @@ If a probation officer is satisfied that the offender has a good record of compl
       (C) have been informed that they may withdraw their consent, at any time, to the offender serving the sentence at the curfew address; and
     (iii) the offender has been made aware of and understands all the conditions that will apply during the sentence and he or she agrees to comply with them; and
   (b) the proposed curfew address is in an area in which a community detention scheme is operated by the chief executive of the Department of Corrections.
+(3) Before imposing a sentence of community detention on an offender, a court must consider the pre-sentence report prepared by a probation officer in accordance with section 26A.
 
 ### 69D Concurrent and cumulative sentences of community detention
 (1) If a court imposes a sentence of community detention on an offender who is already subject to a sentence of community detention, the sentences must be served concurrently unless the court directs that they are to be served cumulatively.
@@ -1036,10 +1070,13 @@ If a probation officer is satisfied that the offender has a good record of compl
   (a) during the curfew period—
     (i) the offender must not, at any time, leave the curfew address except in the circumstances set out in subsection (2):
     (ii) the offender is under the supervision of a probation officer and must co-operate with the probation officer and comply with any lawful direction given by that probation officer:
-  (b) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 24 hours, after the sentence is imposed, unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day:
+  (b) the offender must report in person to a probation officer in the probation area in which the offender resides—
+    (i) as soon as practicable and not later than 24 hours after the sentence is imposed unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day; or
+    (ii) not later than 24 hours after the start date of the sentence if the sentence has been deferred under section 20A(2)(b) unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day:
   (c) the offender must report to a probation officer as and when required to do so by the probation officer, and must notify the probation officer of his or her residential address, any change to that address, and the nature and place of his or her employment when asked to do so:
   (d) the offender must keep in his or her possession the curfew order drawn up under section 74 and, if requested to do so by a constable or a probation officer, must produce the order for inspection:
-  (e) the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with the conditions of his or her sentence, which may require the offender to be connected to electronic monitoring equipment throughout the sentence term and not just throughout the curfew period.
+  (e) the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with the conditions of his or her sentence, which may require the offender to be connected to electronic monitoring equipment throughout the sentence term and not just throughout the curfew period:
+  (f) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain during the curfew period within the area defined by the probation officer.
 (2) An offender may leave the curfew address during the curfew period only—
   (a) to seek urgent medical or dental treatment; or
   (b) to avoid or minimise a serious risk of death or injury to the offender or any other person; or
@@ -1050,6 +1087,7 @@ If a probation officer is satisfied that the offender has a good record of compl
     (iv) to carry out any undertaking arising from any restorative justice process; or
   (d) with the approval of a probation officer and subject to any conditions imposed by the probation officer, on humanitarian grounds.
 (3) A probation officer may only give an approval under subsection (2)(c) if the offender is serving a sentence of supervision or intensive supervision together with the sentence of community detention.
+(3A) A probation officer must define the area within which an offender subject to electronic monitoring is required to remain at the curfew address during the curfew period and show that area to the offender and advise the relevant occupants (as defined in section 26A(4)(b)) of that area.
 (4) A probation officer may approve an alternative curfew address under section 69K, pending determination of an application to vary the curfew address under section 69I.
 
 ### 69F Electronic monitoring
@@ -1088,9 +1126,19 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
   (b) vary the curfew address; or
   (c) cancel the sentence; or
   (d) cancel the sentence and substitute any other sentence (including another sentence of community detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
+(3A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)(b) and there is no suitable alternative curfew address available, the court may do either or both of the following things:
+  (a) issue to a constable a warrant for the offender's arrest:
+  (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (4) When determining a substitute sentence to be imposed under subsection (3)(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
 (5) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
 (6) If an application is made under this section for the suspension or variation of the curfew period, a probation officer may suspend the curfew period until the application has been heard and disposed of.
+
+### 69IA When time ceases to run on sentence of community detention
+For the purpose of calculating how much time an offender has served on a sentence of community detention,—
+  (a) time ceases to run on the sentence during any period between the date on which an application under section 69I(1)(a) is lodged and the date on which the application is determined by the court; but
+  (b) some or all of the period between those dates may be regarded by the court as time served, as the court thinks appropriate in the circumstances, after taking into account—
+    (i) the extent (if any) to which the offender has complied with any conditions of the sentence; and
+    (ii) the amount of time (if any) that the offender has spent in custody.
 
 ### 69J Application of section 69I during epidemic
 (1) While an epidemic management notice is in force,—
@@ -1102,12 +1150,23 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
   (a) the revocation of the epidemic management notice; or
   (b) the date on which a probation officer rescinds the variation or suspension.
 
+### 69JA Chief executive of Department of Corrections may vary offender's curfew address
+(1) The chief executive of the Department of Corrections may vary an offender's curfew address if—
+  (a) the curfew address is no longer available or suitable because of a change in circumstances; and
+  (b) an alternative address is suitable; and
+  (c) every relevant occupant (as defined in section 26A(4)(b)) at the alternative address has given their informed consent to the offender remaining at that address during the curfew period; and
+  (d) the alternative address is in an area in which a community detention scheme is administered by the Department of Corrections; and
+  (e) the offender has given written consent to the change in address.
+(2) A probation officer may, subject to subsection (3), approve a provisional curfew address at which the offender must remain during the curfew period pending a decision by the chief executive under subsection (1).
+(3) If the chief executive does not vary a curfew address within 10 days after a provisional curfew address is approved under subsection (2),—
+  (a) a probation officer must approve another provisional curfew address at which the offender must remain during the curfew period pending a decision by the chief executive under subsection (1); or
+  (b) a probation officer must apply to the court for an order under section 69I(3) at the earliest opportunity and the offender must, unless the probation officer directs otherwise, remain at the provisional curfew address approved under subsection (2) during the curfew period pending the decision of the court.
+(4) If the chief executive does not vary a curfew address within 10 days after the probation officer has approved a provisional curfew address under subsection (3)(a),—
+  (a) the probation officer must apply to the court for an order under section 69I(3) at the earliest opportunity; and
+  (b) the offender must, unless the probation officer directs otherwise, remain at the provisional curfew address approved under subsection (3)(a) during the curfew period pending the decision of the court.
+
 ### 69K Alternative curfew address pending determination of application under section 69I
-(1) This section applies if a probation officer or an offender who is subject to a sentence of community detention intends to apply, or has applied, for a variation of conditions under section 69I on the ground specified in section 69I(1)(b) (which relates to the offender's curfew address).
-(2) A probation officer may approve an alternative curfew address at which the offender must remain during the curfew period pending the determination of an application.
-(3) If a probation officer approves an alternative curfew address before an application under section 69I has been made, the probation officer must make an application to the court under that section within 5 working days.
-(4) Subsection (3) does not apply if an offender makes an application under section 69I within the 5-day period specified in subsection (3).
-(5) If, in the opinion of the probation officer, there is no suitable alternative curfew address available and the probation officer has not made an application under section 69I, the probation officer must make an application to the court under that section at the earliest opportunity.
+[Repealed]
 
 ### 69L When sentence ends on non-release day
 If the last day of an offender's sentence of community detention falls on a non-release day, the offender ceases to be subject to the sentence on the nearest preceding day that is not a non-release day.
@@ -1155,7 +1214,8 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
     (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
     (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
     (ii) by a District Court Judge on conviction following a jury trial; or
-  (c) to a District Court presided over by any Judge, in any other case.
+  (c) to a District Court presided over by a Judge or Community Magistrate if the sentence was imposed by a Community Magistrate; or
+  (d) to a District Court presided over by any Judge, in any other case.
 (2) A copy of the application must, either before or as soon as practicable after the application is lodged in the office of the court, be served—
   (a) on the offender, if the offender is not the applicant; or
   (b) on the chief executive of the Ministry of Justice, if a Registrar is not the applicant under section 38A; or
@@ -1164,7 +1224,7 @@ An offender commits an offence, and is liable on conviction to imprisonment for 
 (2B) If an application under section 38A has been lodged in a court by a Registrar, the Registrar may, for the purpose of having the offender brought before the court dealing with the application, issue a warrant for the arrest of the offender.
 (2C) Sections 88AA and 88AC of the Summary Proceedings Act 1957 apply with any necessary modifications to a warrant to arrest issued under subsection (2B).
 (2D) For the purposes of sections 280C to 280F of the Customs and Excise Act 1996 and sections 295 to 297 of the Immigration Act 2009, a warrant for the arrest of the offender issued under subsection (2B) is to be treated as a warrant for arrest that has been issued in respect of the non-payment of the whole, or of any part, of a fine.
-(3) If an application under section 54, 54K, 68, or 69I has been lodged in a court by a probation officer, a probation officer or a constable may, for the purpose of having the offender brought before the court dealing with the application, apply to a court for the issue of a warrant to arrest the offender.
+(3) If an application under section 54, 54K, 68, or 69I has been lodged in a court by a probation officer, a probation officer or a constable may, for the purpose of having the offender brought before the court dealing with the application, apply to a court or a Registrar for the issue of a warrant to arrest the offender and the court or Registrar may issue a warrant for arrest.
 (4) No warrant issued under subsection (3) may be executed otherwise than by a constable.
 (5) If an offender is arrested under a warrant issued under subsection (3), sections 167 to 170, 206, and 385 of the Criminal Procedure Act 2011, so far as they are applicable and with any necessary modifications, apply as if the application were a charging document.
 
@@ -1194,10 +1254,12 @@ For the purposes of any appeal or application for leave to appeal, a sentence su
 ### 75 Commencement of community-based sentences
 (1) A community-based sentence commences on the day on which it is imposed.
 (2) Subsection (1) applies—
-  (a) subject to sections 75A and 75B and to sections 345 and 346 of the Criminal Procedure Act 2011; and
+  (a) subject to this section and sections 75A and 75B and to sections 345 and 346 of the Criminal Procedure Act 2011; and
   (b) regardless of whether or not the sentence is imposed in substitution for another sentence.
 (2A) If the commencement date of a sentence of community work is deferred under section 57A, the sentence commences on the date specified in the order of the court.
-(3)
+(3) If a community-based sentence is imposed as a second sentence and deferred under section 20A(2)(b),—
+  (a) the community-based sentence commences on the date that the first sentence is completed; or
+  (b) if the offender is subject to post-detention conditions imposed in respect of the first sentence, the community-based sentence commences on the date that the offender is no longer subject to those conditions.
 (4)
 (5)
 (6)
@@ -1240,9 +1302,9 @@ For the purposes of any appeal or application for leave to appeal, a sentence su
 (3A) An offender who is sentenced to community detention must report within 24 hours, unless the 24 hours elapses on a weekend or public holiday, in which case the offender must report on the next working day.
 (4) This section applies despite any other provisions in this Act.
 
-### 77 Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving community-based sentence
+### 77 Application of Accident Compensation Act 2001 to persons serving community-based sentence
 When an offender performs any service or does any work or attends any course or programme for the purposes of a community-based sentence, the following provisions apply:
-  (a) if the offender suffers any personal injury for which he or she has cover under the Injury Prevention, Rehabilitation, and Compensation Act 2001 arising out of and in the course of performing the activities described above,—
+  (a) if the offender suffers any personal injury for which he or she has cover under the Accident Compensation Act 2001 arising out of and in the course of performing the activities described above,—
     (i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
     (ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
   (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
@@ -1302,6 +1364,7 @@ When an offender performs any service or does any work or attends any course or 
       (C) have been informed that they may withdraw their consent to the offender serving the sentence in the residence at any time; and
     (iii) the offender has been made aware of and understands the conditions that will apply during home detention, and he or she agrees to comply with them; and
   (b) the proposed home detention residence is in an area in which a home detention scheme is operated by the chief executive of the Department of Corrections.
+(2A) Before imposing a sentence of home detention on an offender, a court must consider the pre-sentence report prepared by a probation officer in accordance with section 26A.
 (3) A sentence of home detention may be for such period as the court thinks fit, but must not be for less than 14 days or more than 12 months.
 (4) The court must specify the home detention residence when sentencing the offender to a sentence of home detention.
 (5) An offender sentenced to home detention is not in custody while serving the sentence.
@@ -1322,6 +1385,7 @@ When an offender performs any service or does any work or attends any course or 
   (b) the offender must not leave the home detention residence at any time except in the circumstances set out in subsections (3), (4), and (5); and
   (c) the offender must keep in his or her possession the order drawn up under section 80ZC and, if requested to do so by a constable or a probation officer, must produce the order for inspection; and
   (d) the offender must, when required by a probation officer, submit to the electronic monitoring of compliance with his or her detention conditions; and
+  (da) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain within the area defined by the probation officer; and
   (e) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage; and
   (f) the offender must not associate with any specified person, or with persons of any specified class, with whom a probation officer has, in writing, directed the offender not to associate; and
   (g) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
@@ -1337,6 +1401,7 @@ When an offender performs any service or does any work or attends any course or 
     (vi) for any other purpose specifically approved by the probation officer.
 (4) A probation officer may approve an alternative residence under section 80H pending determination of an application to vary the residence under section 80F.
 (5) In addition to absences authorised under subsection (3), a probation officer may authorise an offender, who has served at least three quarters of a sentence of home detention of 6 months or more, to be absent from the home detention residence for up to 4 hours a day without a specified purpose for any or all days remaining to be served under the sentence.
+(5A) A probation officer must define the area within which an offender subject to electronic monitoring is required to remain at the home detention residence and show that area to the offender and advise the relevant occupants (as defined in section 26A(4)(a)) of that area.
 (6) For the purposes of subsection (5), an offender who is subject to 2 or more sentences of home detention is eligible when he or she has served the longer of—
   (a) three quarters of the longest of any concurrent sentences of home detention imposed on the offender; or
   (b) three quarters of the notional single sentence of home detention that is created when sentences of home detention are ordered to be served concurrently or cumulatively.
@@ -1388,8 +1453,26 @@ When an offender performs any service or does any work or attends any course or 
   (b) vary the home detention residence; or
   (c) cancel the sentence; or
   (d) cancel the sentence and substitute any other sentence (including another sentence of home detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
+(4A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)(c) and there is no suitable alternative residence available, the court may do either or both of the following things:
+  (a) issue to a constable a warrant for the offender's arrest:
+  (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (5) An application under subsection (1), (2), or (3) may be made at any time before or after the sentence commences.
 (6) Section 72 applies, with any necessary modifications, to an application under this section.
+
+### 80FA Chief executive of Department of Corrections may vary offender's home detention address
+(1) The chief executive of the Department of Corrections may vary an offender's home detention address if—
+  (a) the home detention address is no longer available or suitable because of a change in circumstances; and
+  (b) an alternative address is suitable; and
+  (c) every relevant occupant (as defined in section 26A(4)(a)) at the alternative address has given their informed consent to the offender remaining at that address while serving his or her home detention sentence; and
+  (d) the alternative address is in an area in which a home detention scheme is administered by the Department of Corrections; and
+  (e) the offender has given written consent to the change in address.
+(2) A probation officer may, subject to subsection (3), approve a provisional home detention address at which the offender must remain pending a decision by the chief executive under subsection (1).
+(3) If the chief executive does not vary a home detention address within 10 working days after a provisional home detention address is approved under subsection (2),—
+  (a) the probation officer must approve another provisional home detention address at which the offender must remain pending a decision by the chief executive under subsection (1); or
+  (b) the probation officer must apply to the court for an order under section 80F(4) at the earliest opportunity and the offender must, unless the probation officer directs otherwise, remain at the provisional home detention address approved under subsection (2) pending the decision of the court.
+(4) If the chief executive does not vary a home detention address within 10 days after the probation officer has approved a provisional home detention address under subsection (3)(a),—
+  (a) the probation officer must apply to the court for an order under section 80F(4) at the earliest opportunity; and
+  (b) the offender must, unless the probation officer directs otherwise, remain at the provisional home detention address approved under subsection (3)(a) pending the decision of the court.
 
 ### 80G Matters relating to orders under section 80F
 (1) If the court cancels a sentence of home detention under section 80F(4)(d), the court may at the same time cancel any sentence of community work that the offender is serving concurrently with the sentence of home detention.
@@ -1399,11 +1482,7 @@ When an offender performs any service or does any work or attends any course or 
 (5) If an application is made under section 80F for the remission, suspension, or variation of any special condition of a sentence of home detention, a probation officer may suspend the condition until the application has been heard and disposed of.
 
 ### 80H Alternative residence pending determination of application under section 80F
-(1) This section applies if a probation officer or an offender who is subject to a sentence of home detention intends to apply, or has applied, for a variation of conditions under section 80F on the ground in section 80F(1)(c) (which relates to the offender's home detention residence).
-(2) A probation officer may approve an alternative residence in which the sentence of home detention must be served pending the determination of an application.
-(3) If a probation officer approves an alternative residence before an application under section 80F has been made, the probation officer must make an application to the court under that section within 5 working days.
-(4) Subsection (3) does not apply if an offender makes an application under section 80F within the 5-day period specified in subsection (3).
-(5) If, in the opinion of the probation officer, there is no suitable alternative residence available and the probation officer has not made an application under section 80F, the probation officer must make an application to the court under that section at the earliest opportunity.
+[Repealed]
 
 ### 80I Leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention in certain cases
 (1) This section applies if—
@@ -1445,13 +1524,14 @@ If the outcome of an offender's appeal against a sentence of home detention is u
 ### 80N Imposition of post-detention conditions on offender
 (1) A court that sentences an offender to a term of home detention of 6 months or less may impose the standard post-detention conditions and any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
 (2) If a court sentences an offender to a term of home detention of more than 6 months,—
-  (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies otherwise; and sections 80Q, 80R, and 80U apply as if the standard conditions had been imposed by order of the court; and
+  (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies otherwise; and sections 80Q, 80R, 80U, and 80ZG apply as if the standard conditions had been imposed by order of the court; and
   (b) the court may, at the same time, impose any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
 (3) The court may specify that post-detention conditions imposed under this section expire on a date that is a specified period of at least 6 months, but no more than 12 months, from the detention end date.
 (4) If the court imposes special post-detention conditions on the offender, the special post-detention conditions may apply for as long as, but not longer than, the standard post-detention conditions that apply to the offender.
 (5) If the court sentences the offender to more than 1 sentence of home detention on the same occasion,—
   (a) only 1 order under this section may be made; and
   (b) that order applies in respect of all the sentences of home detention imposed on that occasion.
+(6) If the court imposes a home detention sentence cumulatively on an existing sentence, or imposes a concurrent sentence of home detention, any post-detention conditions imposed with the first home detention sentence commence only after both sentences have been completed.
 
 ### 80O Standard post-detention conditions
 The standard post-detention conditions of a sentence of home detention are the following:
@@ -1501,7 +1581,8 @@ The standard post-detention conditions of a sentence of home detention are the f
 ### 80S Offence to breach detention conditions
 An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who—
   (a) breaches, without reasonable excuse, any detention conditions of a sentence of home detention; or
-  (b) fails to report when required to do so under section 80ZG.
+  (b) fails to return to a home detention residence when required to do so under section 80ZG(6)(b); or
+  (c) fails to report when required to do so under section 80ZGC(3)(a) or 80ZGD(2).
 
 ### 80T Offence to refuse entry to home detention residence
 (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer, who has identified himself or herself, to enter into the home detention residence if the offender is required to be at the residence at the time that the probation officer seeks entry.
@@ -1530,12 +1611,12 @@ Any constable or any probation officer may arrest, without warrant, an offender 
   (d) the offender has already commenced serving the sentence or is detained under any other sentence or order.
 
 ### 80X Commencement of sentence of home detention
-(1) A sentence of home detention commences on the day it is imposed unless the start date of the sentence is deferred under section 80W.
+(1) A sentence of home detention commences on the day it is imposed unless the start date of the sentence is deferred under section 20A(2)(b) or 80W.
 (2) Subsection (1) applies—
   (a) subject to the remainder of this section; and
   (b) regardless of whether or not the sentence is imposed in substitution for another sentence.
 (3) If a sentence of home detention is imposed cumulatively on another sentence of home detention imposed at the same time,—
-  (a) at least 1 of the sentences must commence on the day that the sentence is imposed or to which the start date has been deferred under section 80W; and
+  (a) at least 1 of the sentences must commence on the day that the sentence is imposed or to which the start date has been deferred under section 20A(2)(b) or 80W; and
   (b) the commencement date for the subsequent sentence is the detention end date of the first sentence.
 (4) If a sentence of home detention is imposed cumulatively on another sentence of home detention (the first sentence) to which the offender is already subject, the commencement date of the subsequent sentence is the detention end date of the first sentence.
 (5) If a sentence of home detention is imposed cumulatively on another sentence of home detention (the first sentence), whether or not imposed at the same time, and the first sentence is subsequently quashed,—
@@ -1565,11 +1646,11 @@ Any constable or any probation officer may arrest, without warrant, an offender 
 The detention conditions of an offender serving a sentence of home detention are suspended during any period that the offender spends in custody under a court order (for example, on remand), but time continues to run during any period that they are suspended.
 
 ### 80ZB Time ceases to run in certain circumstances
-For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served, time ceases to run on the sentence during any period—
-  (a) between the date on which an application for a variation or cancellation of the sentence under section 80F is lodged and the earlier of—
-    (i) the date on which the offender is next taken into custody; and
-    (ii) the date on which the offender resumes serving his or her sentence in accordance with his or her detention conditions; or
-  (b) in which an offender is released on bail pending an appeal.
+For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served,—
+  (a) time ceases to run on the sentence during any period between the date on which an application under section 80F(1)(a) is lodged and the date on which the application is determined by the court; but
+  (b) some or all of the period between those dates may be regarded by the court as time served, as the court thinks appropriate in the circumstances, after taking into account—
+    (i) the extent (if any) to which the offender has complied with any detention conditions; and
+    (ii) the amount of time (if any) that the offender has spent in custody.
 
 ### 80ZC Order must be drawn up
 (1) If a court imposes a sentence of home detention on an offender, the particulars of the sentence must be drawn up in the form of an order.
@@ -1592,24 +1673,58 @@ If an offender's detention conditions or post-detention conditions are varied or
 ### 80ZE Home detention does not affect entitlements under Social Security Act 1964
 The fact that a person is serving a sentence of home detention does not, of itself, affect any entitlement the person may have under the Social Security Act 1964.
 
-### 80ZF Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence
+### 80ZF Application of Accident Compensation Act 2001 to persons serving home detention sentence
 When an offender performs any service or does any work or attends any assessment, course, or programme for the purposes of a home detention sentence, the following provisions apply:
-  (a) if the offender suffers any personal injury for which he or she has cover under the Injury Prevention, Rehabilitation, and Compensation Act 2001 arising out of and in the course of performing the activities described above,—
+  (a) if the offender suffers any personal injury for which he or she has cover under the Accident Compensation Act 2001 arising out of and in the course of performing the activities described above,—
     (i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
     (ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
   (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
 
-### 80ZG Effect of subsequent sentence of imprisonment
-(1) This section applies if an offender who is subject to a sentence of home detention is subsequently sentenced to a term of imprisonment.
-(2) If this section applies, the sentence of home detention is suspended until the earlier of the following events—
-  (a) it resumes under subsection (4)(b); or
-  (b) it is cancelled under subsection (6).
-(3) No period during which a sentence of home detention is suspended under subsection (2) is counted towards the period under section 80A(3).
-(4) If the sentence or sentences of imprisonment are quashed and that results in the offender no longer being detained under a sentence of imprisonment,—
+### 80ZG Effect of subsequent sentence of imprisonment of not more than 12 months
+(1) This section applies if an offender who is subject to a sentence of home detention is subsequently sentenced to—
+  (a) a term of imprisonment of not more than 12 months; or
+  (b) 2 or more terms of imprisonment to be served concurrently, the total term of which is not more than 12 months; or
+  (c) 2 or more terms of imprisonment that are cumulative, the total term of which is not more than 12 months.
+(2) If this section applies, the court must either—
+  (a) order that the sentence of home detention be suspended; or
+  (b) order that the sentence of home detention be suspended for the duration of the period in which the offender is detained under the sentence or sentences of imprisonment.
+(3) If the court suspends the sentence of home detention under subsection (2)(b), it may, if it thinks fit and subject to subsection (4), remit, suspend, or vary any detention or post-detention conditions of the sentence imposed by the court, or impose additional detention or post-detention conditions.
+(4) The court may not impose post-detention conditions on an offender under subsection (3) unless the court that sentenced the offender to home detention imposed post-detention conditions.
+(5) The court must not vary any existing detention or post-detention condition or impose any new detention or post-detention condition of a kind referred to in section 80D(4)(b) or 80P(2)(b) (which involve prescription medication) unless the offender—
+  (a) has been fully advised by a person who is qualified to prescribe that medication about the nature and likely or intended effect of any variation or new condition in relation to the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(6) If the court suspends the sentence of home detention under subsection (2)(b),—
+  (a) a probation officer must, before the statutory release date of the sentence of imprisonment,—
+    (i) review the suitability of the home detention residence; and
+    (ii) ensure every relevant occupant (as defined in section 26A(4)(a)) of the home detention residence consents, in accordance with section 26A(3), to the offender resuming the sentence at the home detention residence; and
+    (iii) if necessary, apply for a variation or cancellation of the sentence under section 80F or obtain from the chief executive of the Department of Corrections a variation of the home detention residence under section 80FA; and
+  (b) the offender must go to and remain at the home detention residence after being released from detention, unless absent in accordance with section 80C(3)(a) or (b); and
+  (c) the sentence of home detention resumes when the offender has arrived at the home detention residence under paragraph (b).
+(7) If, for the purpose of subsection (6)(a)(iii), the probation officer makes an application for variation of the sentence under section 80F and approves an alternative residence pending determination of the application—
+  (a) the offender must go and remain at the alternative address until the application is decided; and
+  (b) once the application is decided, subsection (6)(b) and (c) apply accordingly.
+
+### 80ZGA Effect of subsequent sentence of imprisonment of more than 12 months
+(1) Subsection (2) applies if an offender who is subject to a sentence of home detention is subsequently sentenced to—
+  (a) a term of imprisonment of more than 12 months; or
+  (b) 2 or more terms of imprisonment to be served concurrently, the total term of which is more than 12 months; or
+  (c) 2 or more terms of imprisonment that are cumulative, the total term of which is more than 12 months.
+(2) If this section applies, the sentence of home detention is suspended.
+
+### 80ZGB Period of suspension not counted towards sentence
+No period during which a sentence of home detention is suspended under section 80ZG(2) or 80ZGA(2) is counted towards the period of home detention imposed under section 80A(3).
+
+### 80ZGC Resumption of sentence of home detention
+(1) This section applies to a sentence of home detention that is suspended under section 80ZG(2) or 80ZGA(2).
+(2) The sentence of home detention is suspended until the earlier of the following events:
+  (a) it resumes under subsection (3); or
+  (b) it resumes under section 80ZG(6)(c); or
+  (c) it is cancelled under subsection (5).
+(3) If the sentence or sentences of imprisonment are quashed and that results in the offender no longer being detained under a sentence of imprisonment,—
   (a) the offender must report to a probation officer as soon as practicable and not later than 72 hours after being released from detention; and
   (b) the sentence of home detention resumes when the offender has reported as required under paragraph (a).
-(5) The Registrar of the court in which the sentence or sentences of imprisonment are quashed must notify the chief executive of the Department of Corrections.
-(6) If the sentence of home detention never resumes under subsection (4)(b), it is cancelled when the offender ceases to be detained under the sentence of imprisonment.
+(4) The Registrar of the court in which the sentence or sentences of imprisonment are quashed must notify the chief executive of the Department of Corrections.
+(5) If the sentence of home detention does not resume under section 80ZG(6)(c) or subsection (3), it is cancelled when the offender ceases to be detained under the sentence or sentences of imprisonment.
 
 ### 80ZGD Effect of appeal on resumption of sentence of home detention
 (1) This section applies if—
@@ -1952,6 +2067,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
   (a) the sentence expiry date; or
   (b) the date that is a specified period before the sentence expiry date; or
   (c) the date that is a specified period of up to 6 months after the sentence expiry date.
+(2AB) If the court imposes special conditions on an offender, the special conditions may apply for as long as, but no longer than, the standard conditions apply to the offender.
 (2B) In this section,—
   - **sentence expiry date** has the meaning given to it in section 4 of the Parole Act 2002
   - **special conditions** includes, without limitation, conditions of a kind described in section 15(3) of the Parole Act 2002, other than an electronic monitoring condition as referred to in section 15(3)(f) of that Act, or a residential restriction condition as referred to in section 15(3)(ab) of that Act
@@ -2010,9 +2126,7 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 **Provisions about start date of sentence of imprisonment**
 
 ### 100 Court may defer start date of sentence of imprisonment
-(1) The court may defer the start date of a sentence of imprisonment for a specified period of up to 2 months—
-  (a) on humanitarian grounds; or
-  (b)
+(1) The court may defer the start date of a sentence of imprisonment for a specified period of up to 2 months on humanitarian grounds.
 (2)
 (3) The sentence of imprisonment starts on the date specified in section 78 of the Parole Act 2002.
 (3A) The Bail Act 2000 provides that an offender whose sentence is deferred under this section must be granted bail.
@@ -2334,7 +2448,7 @@ In this section and sections 123B to 123G, unless the context otherwise requires
 ### 123G Protection order treated as if made by Family Court
 As soon as an order has been entered in the records of the Family Court under section 123F(2),—
   (a) the order is to be treated as if it were a final protection order made by that court under the Domestic Violence Act 1995; and
-  (b) sections, 22(2)(b) and (6), 23, 29 to 31, 34, 35, 38 to 44, 45(2), 46(1), 47(1), 48 to 50, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
+  (b) sections 22(2)(b) and (6), 23, 29 to 31, 34, 35, 38 to 44, 45(2), 46(1), 47(1), 48 to 50, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
 
 **Disqualification from driving**
 
@@ -2412,7 +2526,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 
 ### 129 Confiscation of motor vehicle after second offence
 (1) This section applies if,—
-  (a) on or after 26 July 1996, a person commits an offence (the first offence) against any of sections 32(1)(a) or (b), 35(1)(a) or (b), 36(1), 36AA, 36A(1)(a) or (c), 39(1), 56(1) or (2), 57A(1), 58(1), 60(1), 61(1), 61(2) or 62(1) of the Land Transport Act 1998 (which relate to driving offences) or section 171 of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
+  (a) on or after 26 July 1996, a person commits an offence (the first offence) against any of sections 32(1)(a) or (b), 35(1)(a) or (b), 36(1), 36AA, 36A(1)(a) or (c), 39(1), 56(1) or (2), 57A(1), 58(1), 60(1), 61(1) or (2), or 62(1) of the Land Transport Act 1998 (which relate to driving offences) or section 171 of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
   (b) within 4 years after the date of the commission of that offence, the person commits a further offence (the second offence) against any of those provisions of the Land Transport Act 1998.
 (2) For the purpose of subsection (1), it does not matter whether or not the second offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
 (3) If the court by or before which the offender is convicted of the second offence is satisfied that any motor vehicle owned by the offender or in which the offender has any interest was being driven by, or in the charge of, the offender at the material time, the court must order that the motor vehicle be confiscated.
@@ -2897,7 +3011,7 @@ If 1 sentence is imposed following a finding of guilt or verdict of guilty on mo
 Nothing in this Act limits or affects the Royal prerogative of mercy.
 
 ### 145 Maximum period of detention for administrative tasks
-(1) The purpose of this section is to provide for the maximum period for which an offender may be detained in the custody of the court, on any 1 occasion, to allow any administrative tasks to be completed if—
+(1) The purpose of this section is to provide for the maximum period for which an offender may be detained in the custody of the court, on any one occasion, to allow any administrative tasks to be completed if—
   (a) 2 or more of those tasks apply or relate to the offender; and
   (b) they have to be completed at the same time.
 (2) An offender may be detained in the custody of the court for a period not exceeding 3 hours if the offender is required, at any time before sentencing, to complete both of the following:
@@ -2913,7 +3027,7 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
   (a) a period not exceeding 3 hours if any 2 administrative tasks are required to be completed; or
   (b) a period not exceeding 4 hours if any 3 or more administrative tasks are required to be completed.
 (5) If an offender is detained in the custody of the court for 2 or more orders for community-based sentences to be drawn up under section 74, each order is a separate administrative task for the purposes of subsection (4).
-(6) Nothing in this section limits or affects sections 42A, 74(4), 80ZC(4), 115(2), 123E(2), and 130(3) if the administrative task described in each of those sections is undertaken separately on any 1 occasion, rather than in conjunction with other administrative tasks.
+(6) Nothing in this section limits or affects sections 42A, 74(4), 80ZC(4), 115(2), 123E(2), and 130(3) if the administrative task described in each of those sections is undertaken separately on any one occasion, rather than in conjunction with other administrative tasks.
 (7) In this section, administrative task means a task of a kind specified in subsection (2) or, as the case may be, subsection (3).
 
 ### 145A Manner in which amounts of reparation must be applied in cases involving same offence
@@ -3125,6 +3239,9 @@ This Act is the Sentencing Amendment Act 2007.
 ### 2 Commencement
 This Act comes into force on a day to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
 
+### 3 Principal Act amended
+This Act amends the Sentencing Act 2002.
+
 **Transitional provisions**
 
 ### 55 Transitional arrangements for intensive supervision
@@ -3186,6 +3303,8 @@ This Act is the Sentencing and Parole Reform Act 2010.
 The purpose of this Act is to—
   (a) deny parole to certain repeat offenders and to offenders guilty of the worst murders:
   (b) impose maximum terms of imprisonment on persistent repeat offenders who continue to commit serious violent offences.
+
+## Part 1 — Amendments to Sentencing Act 2002
 
 ### 12 Transitional provision
 (1) Sections 86A to 86I of the principal Act (as inserted by section 6) do not apply to any offence committed, whether in whole or in part, before the commencement of this Act.
