@@ -1,5 +1,5 @@
 # Sentencing Amendment Act 2007
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2014-01-22_
 
 ### 1 Title
 This Act is the Sentencing Amendment Act 2007.
@@ -789,9 +789,7 @@ Section 91 is amended by repealing subsections (4) and (5).
 ### 49 Imposition of conditions on release of offender sentenced to imprisonment for short term
 (1) Section 93(1) is amended by omitting 12 months and substituting 6 months.
 (2) Section 93(2) is amended by omitting 12 months but not more than 24 months and substituting 6 months but not more than 12 months.
-(3) Section 93 is amended by repealing subsection 2A and substituting the following subsections:
-  (2A) The court may specify that any standard conditions or special conditions expire on the date that is a specified period of up to 12 months but no less than 6 months after the sentence expiry date.
-  (2AA) If the court imposes special conditions on an offender, the special conditions may apply for as long as, but no longer than, the standard conditions apply to the offender.
+(3)
 (4) The definition of special conditions in section 93(2B) is amended by inserting , or a residential restriction condition as referred to in section 15(3)(ab) of that Act after section 15(3)(f) of that Act.
 (5) Section 93(5) is amended by omitting 24 months and substituting 12 months.
 
