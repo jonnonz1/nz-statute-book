@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-01-22_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -229,6 +229,9 @@ The chairperson or a panel convenor may, on the application of the person who ap
   (d) conditions requiring the offender to take prescription medication:
   (e) conditions prohibiting the offender from entering or remaining in specified places or areas, at specified times, or at all times:
   (f) conditions requiring the offender to submit to the electronic monitoring of compliance with any release conditions, or conditions of an extended supervision order, that relate to the whereabouts of the offender.
+(3A) If the Board imposes on an offender special conditions relating to residential restrictions (specified under subsection (3)(ab)),—
+  (a) the offender's probation officer must define the area of the residence specified under section 33(2)(a) within which the offender must remain and show that area to the offender and advise every relevant occupant (as defined in section 34(4)) of the residence of that area; and
+  (b) the offender must remain within that area.
 (4) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
   (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
   (b) consents to taking the prescription medication.
@@ -274,7 +277,7 @@ For the purposes of section 15, a programme means any of the following:
   (a) must impose the standard release conditions for a period of 6 months from the offender's statutory release date; and
   (b) may impose any special conditions for a period of up to 6 months from the offender's statutory release date.
 (2AA) Despite subsection (2)(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
-(2A) Subsection (2) applies to an offender in respect of whom an extended supervision order is made, in order to ensure that, if the offender is released early under section 52, he or she will be subject to release conditions before the extended supervision order comes into force.
+(2A) If an offender in respect of whom an extended supervision order is made is released at his or her statutory release date, or released early under section 52, the Board may impose special conditions, the duration of which are determined by section 107L(2A).
 (3) If an offender who is subject to a long-term sentence is, while not on parole or compassionate release, sentenced within the year preceding his or her statutory release date to a short-term sentence whose release date is after that statutory release date, then, if the offender is released at the release date of the short-term sentence, that release date must be treated as if it were the release date of a long-term sentence.
 (4) A prisoner to whom section 179A of the Corrections Act 2004 applies—
   (a) is not, during the period between the statutory release date and the date of actual release, subject to any release conditions that will apply on or after his or her statutory release date; but
@@ -397,7 +400,7 @@ An offender who is unlawfully at large on the date on which he or she is due to 
 (2) Despite subsection (1)(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 (3) The standard release conditions imposed on an offender are in force—
   (a) in the case of an offender who is subject to 1 or more determinate sentences, for the period that the Board specifies; and
-  (b) in the case of an offender who is subject to an indeterminate sentence, for the rest of the offender's life.
+  (b) in the case of an offender who is subject to an indeterminate sentence, for the rest of the offender's life, unless the release conditions are varied or discharged by the Board under section 58.
 (4) The period that the Board specifies under subsection (3)(a) may not be less than 6 months and may not extend for more than 6 months after the offender's statutory release date.
 (5) If the Board imposes special conditions on an offender, the special conditions are in force for the period that the Board specifies for the conditions.
 (6) Special conditions imposed on an offender who is subject to 1 or more determinate sentences may not be in force for a longer period than the offender's standard release conditions.
@@ -423,6 +426,9 @@ The Board, when directing the release on parole of an offender in respect of who
   (b) impose new special conditions on the offender:
   (c) if the offender is on parole or compassionate release, and if the Board is satisfied of the matters stated in section 62, make an order in respect of the offender that has the same effect as an interim recall order under that section.
 (6) Sections 57 and 58 apply, with any necessary modifications, to any action taken under subsection (5)(a) or (b).
+(6A) Sections 63 and 65 to 66A apply, with any necessary modifications, in respect of an order made under subsection (5)(c) as if—
+  (a) the order were an interim recall order made under section 62; and
+  (b) a recall application had been made.
 (7) In this section, specified period, in relation to an offender released from detention, means a period of—
   (a) 12 months from the date of release, if the offender is released on parole or compassionate release:
   (b) 6 months from the date of release, if the offender is released at the statutory release date.
@@ -473,21 +479,23 @@ An offender who has been released on parole ceases to be on parole—
   (f) for any other purpose specifically approved by the probation officer.
 
 ### 34 Prior report on suitability of residential restrictions
-(1) Before the Board imposes residential restrictions on an offender, the Board must request and consider a report from a probation officer on the matters specified in subsection (2).
+(1) Before the Board imposes residential restrictions on an offender, the Board must request and consider a report from the chief executive on the matters specified in subsection (2).
+(1A) Nothing in subsection (1) prevents the chief executive from providing a report on the matters specified in subsection (2) without receiving a request from the Board.
+(1B) Despite subsection (1), if the chief executive provides a report on the matters specified in subsection (2) without a request from the Board, the Board must consider that report as if it were a report requested by the Board under subsection (1).
 (2) The matters are as follows:
   (a) the nature of the offence or offences for which the offender is currently serving a sentence of imprisonment or has previously been convicted:
   (b) the likelihood that the residential restrictions will prevent further offending on the part of the offender:
   (c) the likelihood that the offender's rehabilitation and reintegration will be assisted by residential restrictions:
   (d) the suitability of the proposed residence, including the safety and welfare of the occupants of the residence where the offender is to reside.
-(3) Before completing the report requested under subsection (1), the probation officer must—
+(3) Before completing the report under this section, the chief executive must—
   (a) ensure that every relevant occupant of the residence where it is proposed that the offender reside is aware of the nature of the offender's past and current offending; and
   (b) tell every relevant occupant that the reason for giving that information is to enable the occupant to make an informed decision about whether to consent to having the offender reside at the residence; and
   (c) tell every relevant occupant that the information provided about the offender must not be used for any purpose other than that described in paragraph (b); and
   (d) obtain the consent of every relevant occupant to having the offender reside at the residence; and
   (e) inform every relevant occupant of their right to withdraw their consent, at any time, to having the offender reside at the residence.
-(4) In subsection (3), relevant occupant means, in relation to a residence that the probation officer is considering as a suitable residence for an offender subject to residential restrictions,—
+(4) In subsection (3), relevant occupant means, in relation to a residence that the chief executive is considering as a suitable residence for an offender subject to residential restrictions,—
   (a) in the case of a family residence, every person of or over the age of 16 who ordinarily lives there; and
-  (b) in the case of any other residence, every person whom the probation officer identifies as being a relevant occupant for the purpose of subsection (3).
+  (b) in the case of any other residence, every person whom the chief executive identifies as being a relevant occupant for the purpose of subsection (3).
 
 ### 35 Residential restrictions only to be imposed if residence suitable and occupants consent
 The Board may impose residential restrictions only if satisfied on reasonable grounds that—
@@ -498,8 +506,15 @@ The Board may impose residential restrictions only if satisfied on reasonable gr
     (iii) have been informed of their right to withdraw their consent, at any time, to having the offender reside in the residence; and
   (c) the offender has been made aware of and understands the residential restrictions, and he or she agrees to comply with them.
 
-### 36 Detention conditions
-[Repealed]
+### 36 Chief executive may approve alternative residence pending determination of application for variation of residential restrictions
+(1) This section applies if an offender who is subject to residential restrictions or a probation officer intends to apply or has applied to the Board under section 56 for a variation of residential restrictions.
+(2) If this section applies, the chief executive may approve an alternative residence at which the offender must stay at all times or at times specified by the Board, pending the determination of the application.
+(3) If the chief executive approves an alternative residence before the application has been made, a probation officer must apply to the Board under section 56 within 5 working days of the chief executive's approval being given.
+(4) Subsection (3) does not apply if an offender makes the application within the 5-day period specified in subsection (3).
+(5) If the chief executive considers there is no suitable alternative residence available,—
+  (a) a probation officer must apply to the Board under section 56 at the earliest opportunity; or
+  (b) the chief executive must make a recall application to the Board under section 60.
+(6) In subsections (2) to (4), an application means application to the Parole Board under section 56 for a variation of residential restrictions.
 
 ### 37 Expiry and revocation of direction for home detention
 [Repealed]
@@ -751,6 +766,7 @@ The following apply to an offender released and deported under sections 55 and 5
 (2) A probation officer may at any time apply to the Board for the variation or discharge of any release condition imposed by the Board that applies to an offender.
 (3) An application under this section must indicate whether or not the offender wishes to appear before the Board to state his or her case.
 (4) When a probation officer applies for the variation or discharge of a condition, the probation officer may suspend the condition until the application is determined.
+(5) Subsection (4) does not apply to an application for variation or discharge of standard release conditions imposed on an offender who is subject to an indeterminate sentence.
 
 ### 56A Application of section 56 during epidemic
 While an epidemic management notice is in force, a probation officer who has made an application to the Board under section 56(2) for the variation of a release condition imposed by the Board may himself or herself vary the condition; and the variation has effect until the application has been heard and disposed of.
@@ -788,7 +804,13 @@ A recall application is an application for an order that an offender be recalled
   (c) is on parole or compassionate release.
 (2A) The Commissioner of Police may make a recall application in respect of any offender described in subsection (1) or (2) on the ground stated in section 61(a).
 (3) A recall application must specify the ground or grounds in section 61 on which the applicant relies, and the basis on which the applicant is satisfied that the ground or grounds apply.
-(4) When a recall application is made, the sentence to which the application relates ceases to run, except for the period (if any) between the lodgement of the application and the date of its determination during which the offender is under legal custody in accordance with the Corrections Act 2004.
+(4) When a recall application is made, the sentence to which the recall application relates ceases to run as follows:
+  (a) if a final recall order is made, for the period between the lodgement of the application and the making of the order during which the offender was at large:
+  (b) if an interim recall order is made but the Board does not make a final recall order, for the period between the making of the interim recall order and the date of the determination of the application during which the offender was at large.
+(5) When a recall application is made, the sentence to which the recall application relates continues to run as follows:
+  (a) for the period (if any) between the lodgement of the application and the date of its determination during which the offender is under legal custody in accordance with the Corrections Act 2004:
+  (b) if an interim recall order is made, for the period between the lodgement of the application and the making of the interim recall order:
+  (c) if no interim or final recall order is made, for the period between the lodgement of the application and the date of its determination.
 
 ### 61 Grounds for recall
 The grounds for recall are that—
@@ -1116,7 +1138,7 @@ Pre-cd sentences do not have non-parole periods under this Act and, except for t
 ### 94 Time ceases to run in certain circumstances
 For the purpose of calculating how much time an offender who is subject to a sentence of imprisonment has served, time ceases to run,—
   (a) for an offender detained in a prison, during any period when the offender is unlawfully at large from detention; and
-  (b) for an offender on parole or compassionate release, during any period between the date on which an application for a recall order is lodged and the date on which the offender is next taken into custody.
+  (b) for an offender on parole or compassionate release, as provided in section 60(4).
   (c)
 
 ### 95 Time on bail pending appeal does not count as time served
@@ -1441,6 +1463,9 @@ The chief executive must ensure that, before an eligible offender is released fr
 (1) An extended supervision order comes into force,—
   (a) if the order is made while the offender is detained under a sentence of imprisonment or liable to be recalled, on the offender's statutory release date; or
   (b) if the order is made at any other time, on the date specified in the order.
+(1A) If an offender is released early under section 52 and the offender is subject to an extended supervision order made in the circumstances described in subsection (1)(a), then—
+  (a) the extended supervision conditions and any special conditions (including any special conditions imposed under section 107IA) come into force on the offender's actual release date; but
+  (b) time does not begin to run on the order until the offender's statutory release date.
 (2) Any standard release conditions to which the offender is subject when the extended supervision order comes into force are discharged.
 (2A) Any special conditions (including any special conditions imposed under section 107IA) to which the offender is subject when an extended supervision order comes into force continue in force—
   (a) until the date that is 3 months after the date on which the extended supervision order comes into force; or
@@ -1489,6 +1514,9 @@ The chief executive must ensure that, before an eligible offender is released fr
 (2) If the conditions of an extended supervision order are suspended under subsection (1), they are reactivated,—
   (a) in the case of an offender who is detained under a sentence of imprisonment, on the offender's statutory release date and in place of any other release conditions that would otherwise apply; and
   (b) in the case of an offender who is detained under a court order, on the date the offender is released.
+(2A) If an offender is released early under section 52 and the offender is subject to an extended supervision order that is reactivated in the circumstances described in subsection (2)(a), then—
+  (a) the extended supervision conditions and any special conditions (including any special conditions imposed under section 107IA) are reactivated on the offender's actual release date; but
+  (b) time does not begin to run on the order until the offender's statutory release date.
 (3) If an offender who is subject to an extended supervision order is detained in a hospital or secure facility under a compulsory care order or under a compulsory treatment order, then—
   (a) the conditions of the extended supervision order are suspended while the offender is detained, but a probation officer may reactivate any condition that is required to ensure that the offender does not pose an undue risk to the community or any person or class of persons; and
   (b) time on the order continues to run during the period of detention; and
