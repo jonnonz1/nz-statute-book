@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-02-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1501,9 +1501,7 @@ Directions
   (a) publish a notice in the Gazette stating that the Governor-General has approved the direction and the date on which the Governor-General approved it; and
   (b) publicly notify the direction in whatever form he or she thinks appropriate; and
   (c) send a copy of the direction to every management agency and regional council.
-(9) The national policy direction—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(9) The national policy direction is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 58 Process for amending or revoking and replacing national policy direction
 (1) If the national policy direction is to be amended in a way that the Minister considers would materially alter the direction, the Minister must—
@@ -1515,9 +1513,7 @@ Directions
   (c) publicly notify the amendment in whatever form he or she thinks appropriate; and
   (d) send a copy of the amendment to every management agency and regional council.
 (3) If the national policy direction is to be revoked and replaced, the Minister must follow the process in section 57(1) to (8).
-(4) An amendment under subsection (1) or (2) or a replacement direction under subsection (3)—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) An amendment under subsection (1) or (2) or a replacement direction under subsection (3) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **National pest management plans**
 
@@ -1693,9 +1689,7 @@ If the Minister is satisfied that section 64 has been complied with, the Ministe
 
 ### 66 Making of plan
 (1) If the Minister is satisfied of the matters in section 65, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
-(2) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 67 Exemptions from rules
 (1) The Minister may exempt a person from a requirement in a rule, without conditions or on conditions that the Minister considers appropriate.
@@ -1720,9 +1714,7 @@ If the Minister is satisfied that section 64 has been complied with, the Ministe
   (c) the extended period becomes the period of the exemption; and
   (d) the Minister may exercise the power in paragraph (a) more than once; and
   (e) extensions of the period of an exemption must be notified in the Gazette.
-(9) Exemptions—
-  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(9) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Regional pest management plans**
 
@@ -2142,9 +2134,7 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
 
 ### 86 Making of plan
 (1) If the Minister is satisfied of the matters in section 85, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
-(2) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(2) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 87 Exemptions from rules
 (1) The following are exempt from the requirements in rules for acts or omissions in the course of an emergency as described in subsection (2):
@@ -2185,9 +2175,7 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
   (c) the extended period becomes the period of the exemption; and
   (d) the Minister may exercise the power in paragraph (a) more than once; and
   (e) extensions of the period of an exemption must be notified in the Gazette.
-(11) Exemptions—
-  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+(11) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Regional pathway management plans**
 
@@ -2577,9 +2565,7 @@ National pest management plan or national pathway management plan
   (a) does not have a significant effect on any person's rights and obligations; and
   (b) is not inconsistent with the national policy direction.
 (2) The Governor-General may make the order.
-(3) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 Regional pest management plan or regional pathway management plan
 (4) A regional pest management plan or a regional pathway management plan may be amended from time to time by a council by resolution without a review under section 100D, if the council is satisfied that the amendment—
   (a) does not have a significant effect on any person's rights and obligations; and
@@ -2655,9 +2641,7 @@ A management agency must not spend funds to meet the costs of implementing a pla
   (f) the management agency will have in place adequate systems of accounting to persons who will be responsible for paying the levy; and
   (g) all other relevant matters known to the Minister have been properly considered.
 (6) A levy order may be made from time to time.
-(7) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 100M Effect of order
 (1) A person responsible for paying a levy set by a levy order must pay it.
@@ -2785,14 +2769,14 @@ A management agency must not spend funds to meet the costs of implementing a pla
 (1) Subsection (2) applies to a levy order that—
   (a) is made on or after 1 January and before 1 July in the same year; and
   (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012.
 (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
 (3) Subsection (4) applies to a levy order that—
   (a) is made on or after 1 July and before or on 31 December in the same year; and
   (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012.
 (4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
 
 **Funding from rates**
@@ -2955,9 +2939,7 @@ The purpose of this Part is to provide a framework that enables the government a
 (6) The Minister must not recommend that a levy order be made unless satisfied that the proposed levy payers have been consulted and their views taken into account.
 (7) For the purposes of subsection (6), the Minister may be satisfied by consultation undertaken under section 100ZA(6).
 (8) A levy order may be made from time to time.
-(9) A levy order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(9) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 100ZC Effect of order
 (1) This section applies to a levy imposed by a readiness or response levy order.
@@ -3079,14 +3061,14 @@ The purpose of this Part is to provide a framework that enables the government a
 (1) Subsection (2) applies to a readiness or response levy order that—
   (a) is made on or after 1 January and before 1 July in the same year; and
   (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012.
 (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
 (3) Subsection (4) applies to a readiness or response levy order that—
   (a) is made on or after 1 July and before or on 31 December in the same year; and
   (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 5 of the Regulations (Disallowance) Act 1989.
+  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012; and
+  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012.
 (4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
 
 ## Part 6 — Administrative provisions
@@ -3502,7 +3484,7 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
   (b) carry out any test controlled by an Order in Council made under this section other than in accordance with the conditions imposed by a chief technical officer.
 (3) No person may act in a manner that the person knows or suspects is likely to alter a response to a controlled test.
 (4) For the purposes of this section a test means a test carried out for any of the purposes specified in section 121(1A).
-(5) An order made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(5) An order made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 122 Power to give directions
 (1) An inspector or authorised person may, whenever that inspector or authorised person considers it to be necessary, direct the occupier of any place or the owner or person in charge of any organism or risk goods—
@@ -3669,7 +3651,7 @@ A declaration of a restricted place or a controlled area shall remain in force u
 
 ### 137 Levies
 (1) The Governor-General may from time to time, on the recommendation of the responsible Minister, by Order in Council impose a levy payable to the Director-General for the purposes of wholly or partially funding a service provided or function performed by the department for the purposes of this Act.
-(2) Every levy order shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+(2) A levy order made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) The fact that Part 5A provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply:
   (a) it is imposed to wholly or partly fund a readiness or response activity; and
   (b) it is imposed on a sector that is not specified in a Gazette notice under section 100ZA.
@@ -3677,10 +3659,10 @@ A declaration of a restricted place or a controlled area shall remain in force u
 ### 138 Orders to be confirmed
 (1) Where in any year an order under section 137 has been made on or after 1 January and before 1 July, and—it shall be deemed to have been revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
   (a) has not been revoked with effect on or before 1 July in the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where in any year an order under section 137 has been made after 30 June and on or before 31 December, and—it shall be deemed to have been revoked with the close of 31 December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ### 139 Restrictions on levies
 The Minister shall not recommend the making of an order under section 137 unless the Director-General has satisfied the Minister that—
@@ -4092,10 +4074,8 @@ In sections 142M to 142S,—
 (4) Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
 
 ### 142S Effect of other enactments
-(1) The Acts and Regulations Publication Act 1989 does not apply to material incorporated in a biosecurity document.
-(2) In relation to the Regulations (Disallowance) Act 1989,—
-  (a) it applies to regulations that incorporate material; and
-  (b) its section 4 does not require material incorporated in regulations to be presented to the House of Representatives.
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated in a biosecurity document.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material, but the requirement in section 41 to present a disallowable instrument to the House of Representatives does not apply to material incorporated in regulations.
 (3) Sections 22 to 25 of the Standards Act 1988 are not affected by sections 142L to 142R.
 
 ## Part 7 — Exigency actions
@@ -4132,7 +4112,7 @@ The purpose of this Part is to provide for the effective prevention, eradication
   (a) another Proclamation under section 144; or
   (b) a resolution of the House of Representatives.
 (6) A resolution revoking a declaration has effect from the time of the resolution or a later time specified in the resolution.
-(7) An extension under subsection (2)(b) or a revocation under subsection (5)(b) must be published as provided in section 10 of the Regulations (Disallowance) Act 1989.
+(7) An extension under subsection (2)(b) or a revocation under subsection (5)(b) must be published as provided in section 47 of the Legislation Act 2012.
 
 ### 147 House of Representatives must be informed
 (1) The Minister must inform the House of the making of a Proclamation under section 144.
@@ -4170,10 +4150,10 @@ Definition for this section
 ### 151 Emergency regulations to be confirmed
 (1) Where in any year regulations under section 150 have been made on or after 1 January and before 1 July, and—they shall be deemed to have been revoked with the close of 30 June in that next year unless they have been confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
 (2) Where in any year regulations under section 150 have been made after 30 June and on or before 31 December, and—they shall be deemed to have been revoked with the close of 31 December in the year after the year in which they were made, unless they have been confirmed by an Act of Parliament passed on or before that day.
   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
 
 ### 152 Provisional control action
 (1) If a Minister suspects on reasonable grounds that a pest or unwanted organism may be present in New Zealand but is unable to confirm the suspicion until further information is available to enable identification of the organism and consideration of the appropriate means of eradicating or managing the organism, and the Minister believes on reasonable grounds that sufficient powers are not otherwise available under this Act to prevent the spread or development of the organism, the Minister may by written notice to a chief technical officer declare a provisional control programme.
