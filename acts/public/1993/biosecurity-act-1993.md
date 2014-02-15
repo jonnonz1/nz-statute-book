@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2014-02-01_
+_Consolidation as at 2014-02-15_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -3640,6 +3640,7 @@ A declaration of a restricted place or a controlled area shall remain in force u
   (e) refundable or non-refundable deposits paid before provision of the service or performance of the function:
   (f) charges imposed on users of services or third parties:
   (g) in the case only of the Director-General or some other chief executive, liens on property in the possession of the Crown.
+(4) This section does not apply to costs incurred by a recovering authority in processing travellers to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
 
 ### 136 Failure to pay
 (1) Where all or part of a charge made under this Act or the regulations remains unpaid after 20 working days since the charge was demanded in writing, the debt shall be deemed to have been increased by an amount calculated in accordance with subsection (2).
@@ -4934,6 +4935,7 @@ Part 6 matters
   (c) the method by which they must be assessed:
   (d) the persons liable for their payment:
   (e) the circumstances in which their recovery may be wholly or partly waived or remitted.
+(12A) This section does not authorise the making of regulations prescribing fees and charges to recover the costs of processing travellers to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
 Part 8 matters
 (13) The Governor-General may from time to time, by Order in Council, make regulations prescribing methods of implementing and enforcing standards prescribed under this Act.
 (14) The Governor-General may from time to time, by Order in Council, make regulations on the following matters relating to offences:
