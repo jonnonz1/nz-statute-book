@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-02-15_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1120,6 +1120,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (e) provide for the refund or waiver of any fee or charge in whole or in part, in any specified case or class of cases.
 (4) Fees and charges in respect of the use of any airport operated or managed by an airport authority shall not be prescribed, except on the advice of the Minister given after consultation with that airport authority.
 (4A) The power to prescribe, or provide for the fixing of, fees and charges in respect of any matter under this Act includes the power to prescribe, or provide for the fixing of, fees or charges, or both, in respect of any matter.
+(4B) Nothing in this section or in section 100 authorises the making of regulations prescribing charges in relation to traveller processing to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
 (5) For the purposes of this section, the expressions airport and airport authority shall have the same meaning as in the Airport Authorities Act 1966.
 
 ### 39 Rebates
