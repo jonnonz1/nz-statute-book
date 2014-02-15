@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-02-15_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -4273,6 +4273,7 @@ Without limiting any other obligation imposed on the chief executive to give not
 (4) Any regulation made under subsection (1) may—
   (a) prescribe the circumstances in which any fee, charge, or expense may be refunded, remitted, or waived, in whole or in part:
   (b) fix a date by which any fee or charge is to be paid.
+(5) This section does not authorise the making of regulations prescribing fees and charges to recover the costs of processing travellers to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
 
 ### 287A Incorporation of provisions by reference in regulations
 (1) Regulations made under this Act (for example, regulations made under section 65) may incorporate by reference any provisions set out in—
