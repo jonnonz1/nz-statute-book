@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-02-21_
 
 > Title
 
@@ -2929,6 +2929,7 @@ Material incorporated by reference in a Part 4 determination that expires, is re
 | Origin Energy Resources NZ (Rimu) Ltd | Rimu Production Station—Mokoia Mixing station gas pipeline |
 | TAG Oil (NZ) Limited | Sidewinder Production Station—Vector 300 Line at Durham Road Upper |
 | Cheal Petroleum Limited | Cheal Gas Export Pipeline |
+| Contact Energy Limited | Ahuroa Gas Storage Facility—Taranaki Combined Cycle and Stratford Peaker power stations gas pipeline |
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Commerce Amendment Act 1990 and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as “the principal Act”).
