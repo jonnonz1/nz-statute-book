@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-02-27_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -871,7 +871,7 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (a) in determining whether a non-resident is controlled by a New Zealand resident, the New Zealand resident is treated as holding anything held by a person who is resident in New Zealand, or is a controlled foreign company, and is associated with the New Zealand resident; and
   (b) a law of a foreign country that relates to the secrecy of information must be ignored.
 (1D) If information in writing is required, or documents must be produced, the Commissioner may require that the information be furnished, or the documents be produced, to a particular office of the department.
-(2) Without limiting subsection (1), the information in writing which may be required under this section shall include lists of shareholders of companies, with the amount of capital contributed by and dividends paid to each shareholder, copies of balance sheets and of profit and loss accounts and other accounts, and statements of assets and liabilities.
+(2)
 (3) The Commissioner may, if the Commissioner considers it reasonable to do so, remove and retain any documents produced for inspection under this section for so long as is necessary for a full and complete inspection of those documents.
 (4) Any person producing any documents which are retained by the Commissioner under subsection (3) shall, at all reasonable times and subject to such reasonable conditions as may be determined by the Commissioner, be entitled to inspect the retained documents and to obtain copies of them at the person's own expense.
 (5) The Commissioner may require that any written information or particulars furnished under this section shall be verified by statutory declaration or otherwise.
@@ -1095,8 +1095,23 @@ An information holder who is required to disclose information in relation to a p
 
 **Taxpayer's obligations to keep records**
 
+### 21B Preparing financial statements
+(1) A company must prepare financial statements in accordance with the applicable minimum requirements prescribed in an Order in Council made under section 21C, unless the company is of a class specified as exempt from the minimum requirements in an Order in Council made under section 21C.
+(2) A taxpayer of a class specified in an Order in Council under section 21C must prepare financial statements in accordance with the applicable minimum requirements prescribed in an Order in Council made under section 21C.
+(3) If an enactment other than this one provides applicable minimum requirements for preparing financial statements for a company or taxpayer, the company or taxpayer must prepare financial statements using those minimum requirements and subsection (1) and (2) do not apply.
+(4) Section 22 applies to keeping and retaining the financial statements.
+
+### 21C Preparing financial statements: Orders in Council
+(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of Revenue, prescribe, for the purposes of section 21B,—
+  (a) minimum requirements for preparing financial statements:
+  (b) classes of taxpayers to whom the minimum requirements apply:
+  (c) classes of companies that are exempt from the minimum requirements:
+  (d) the period for which financial statements must be prepared.
+(2) Before recommending the making or amending of an Order in Council under this section, the Minister of Revenue must, whether before or after the date on which the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 receives the Royal assent, consult with professional accounting bodies that the Minister decides it is reasonable to consult for the purposes of this section.
+
 ### 22 Keeping of business and other records
 (1) Without limiting the generality of subsection (7), the records required to be kept and retained under subsection (2) in respect of any business carried on during any income year by any person, shall contain—
+  (aa) the financial statements required to be prepared by section 21B; and
   (a) a record of the assets and liabilities of the person (in relation to that business); and
   (b) a record of all entries from day to day of all sums of money received and expended by the person (in relation to that business) and the matters in respect of which the receipt and expenditure takes place; and
   (c) where that business involves dealing in goods—
@@ -1338,9 +1353,9 @@ An employee who wishes to have a tax code for their employment as a private dome
   (a) the name and tax file number of the employer; and
   (b) the name of the person who received the payment; and
   (c) the tax file number of the person who received the payment if the employer has been supplied the number; and
-  (d) the gross amount of the payment; and
-  (e) the date of the payment; and
-  (f) the number of an exemption certificate or special tax rate certificate provided to the person who received the payment if the employer has been supplied the number.
+  (d) the gross amount of the payment.
+  (e)
+  (f)
 
 ### 24P Variation of requirements
 The Commissioner may vary the requirements set out in sections RD 22 of the Income Tax Act 2007, and 24B, 24H, 24I, and 24L for a person or a class of persons.
@@ -3332,7 +3347,7 @@ Despite section 81, the Commissioner may supply personal information about an id
   - **entitlement card** means a card issued under regulations made under section 132A of the Social Security Act 1964
   - **qualifying person** means a person qualifying for an entitlement under section MC 2 of the Income Tax Act 2007.
 
-### 84 Disclosure of information for family support double payment identification
+### 84 Disclosure of information for WFF tax credit double payment identification
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964 for the purposes of—
   (a) identifying a qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship who are in receipt of a WFF tax credit from both the Commissioner and the chief executive of that department; and
   (b) verifying whether a qualifying person is or was entitled to any benefit.
@@ -3443,7 +3458,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (3) In this section,—
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Accident Compensation Act 2001
   - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001
-  - **earnings as an employee, employer, private domestic worker,** and have the meanings given to them by section 6 of the Accident Compensation Act 2001.
+  - **earnings as an employee** , , , and have the meanings given to them by section 6 of the Accident Compensation Act 2001.
 
 ### 85F Disclosure of information for verification of government screen production payment entitlement
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the Commission for the purpose of providing to the Commission information which the chief executive considers necessary to enable the Commission to determine the entitlement of a company to a government screen production payment.
@@ -4952,7 +4967,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
 (3) Subsections (1) and (2) apply to a return filed in the period between 1 October 1996 and 31 March 1997, and, for such a return, a reference to section 108 is deemed to be a reference to this section.
 
 ### 108 Time bar for amendment of income tax assessment
-(1) Except as specified in this section or in section 108B, if—the Commissioner may not amend the assessment so as to increase the amount assessed.
+(1) Except as specified in this section or in section 108B, if—the Commissioner may not amend the assessment so as to increase the amount assessed or decrease the amount of a net loss.
   (a) a taxpayer furnishes an income tax return and an assessment has been made; and
   (b) 4 years have passed from the end of the tax year in which the taxpayer provides the tax return,—
 (1A) Unless subsection (2) or section 108B applies, the Commissioner must not issue an income statement under Part 3A if 4 years have passed since the end of the tax year that follows the tax year to which the income statement would apply.
