@@ -1,13 +1,14 @@
 # Child Support Amendment Act 2013
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-02-27_
 
 ### 1 Title
 This Act is the Child Support Amendment Act 2013.
 
 ### 2 Commencement
 (1) Sections 6, 31, and 32 come into force on the day after the date of Royal assent.
-(2) The rest of this Act, except Part 2, comes into force on 1 April 2014.
-(3) Part 2 comes into force on 1 April 2015.
+(2) Sections 18, 19, and 19A come into force on 1 April 2014.
+(3) Sections in Part 1 not referred to in subsection (1) or (2) come into force on 1 April 2015.
+(4) Part 2 comes into force on 1 April 2016.
 
 ### 3 Principal Act amended
 This Act amends the Child Support Act 1991.
@@ -82,7 +83,7 @@ The following section is inserted after section 4:Overview of child support paya
     (a) a registered school (as defined in section 2(1) of the Education Act 1989); or
     (b) an overseas school.
   (3) A child who is enrolled at a registered school and attends it until the end of the school's academic year is deemed to be enrolled at and attending the school until 31 December in that year.
-  (4) In relation to the child support year commencing on 1 April 2014, subsection (1) must be read as if the whole of paragraph (a) were replaced by a reference to a child under 19 years of age.
+  (4) In relation to the child support year commencing on 1 April 2015, subsection (1) must be read as if the whole of paragraph (a) were replaced by a reference to a child under 19 years of age.
 
 ### 10 New headings and sections 7B to 19 substituted
 Sections 8 to 24 and the headings above sections 8, 11, 14, 18, and 21 are repealed and the following sections and headings substituted:Assumptions about parents of childApplication for formula assessmentWho may apply for formula assessmentSocial security beneficiaries must apply for formula assessmentForm of applicationMultiple applications in single formDeemed application by beneficiaryNotification by Commissioner of applicationDetermining care cost percentagesCommissioner to establish proportions of careHow Commissioner establishes proportions of careDetermining care cost percentagesLiable parents and receiving carersDetermining who are liable parents and receiving carersEffect of being liable parent or receiving carerBeginning of liability to pay child support under formula assessmentWhen liability to pay child support starts
@@ -194,14 +195,14 @@ Section 25 is repealed and the following section substituted:When liability to p
 **Amendments to Part 2 (assessment of amounts)**
 
 ### 12 New headings and sections 29 to 36D substituted
-Sections 29 to 36 and the heading above section 32 are repealed and the following sections and headings substituted: Commissioner to assess child support payable under formula assessmentFormula for assessing annual amount of child supportAnnual amount of child support payable by liable parentMinimum annual rate of child supportDetermining income percentagesIncome percentageChild support income amountAdjusted taxable incomeLiving allowanceDependent child allowanceMulti-group allowanceAmounts payable in respect of receiving carersWhere parent is sole receiving carerWhere no receiving carers are parentsWhere 1 receiving carer is parent and other is non-parentExpenditure on childrenChild expenditure tables
+Sections 29 to 36 and the heading above section 32 are repealed and the following sections and headings substituted:Commissioner to assess child support payable under formula assessmentFormula for assessing annual amount of child supportAnnual amount of child support payable by liable parentMinimum annual rate of child supportDetermining income percentagesIncome percentageChild support income amountAdjusted taxable incomeLiving allowanceDependent child allowanceMulti-group allowanceAmounts payable in respect of receiving carersWhere parent is sole receiving carerWhere no receiving carers are parentsWhere 1 receiving carer is parent and other is non-parentExpenditure on childrenChild expenditure tables
   (1) As soon as practicable after identifying a liable parent under Part 1, the Commissioner must—
     (a) assess the annual amount of child support payable by the liable parent in that child support year in respect of each of his or her qualifying children; and
     (b) assess the annual rate of child support payable by the liable parent in that child support year in respect of all of his or her qualifying children; and
     (c) where the application for a formula assessment was made in the previous child support year, make such assessments in relation to the previous child support year.
   (2) Before, or as soon as practicable after, the start of each later child support year in which child support continues, or appears likely to continue, to be payable in respect of any qualifying child of the parent, the Commissioner must make the assessments referred to in subsection (1)(a) and (b) in relation to that later child support year.
   (3) Every assessment must be done in accordance with this Part and Part 5.
-  (1) The formula for assessing the annual amount of child support payable under a formula assessment by a liable parent in a child support year in respect of a qualifying child is the parent's income percentage minus the parent's care cost percentage, multiplied by the child expenditure amount for the child. This formula can be expressed as—(i% – c%) × pwhere—i%is the liable parent's income percentage determined under section 33c%is the liable parent's care cost percentage determined under section 16pis the child expenditure amount for a qualifying child.
+  (1) The formula for assessing the annual amount of child support payable under a formula assessment by a liable parent in a child support year in respect of a qualifying child is the parent's income percentage minus the parent's care cost percentage, multiplied by the child expenditure amount for the child. This formula can be expressed as—(i% − c%) × pwhere—i%is the liable parent's income percentage determined under section 33c%is the liable parent's care cost percentage determined under section 16pis the child expenditure amount for a qualifying child.
   (2) The child expenditure amount for a qualifying child in a child support year is—enwhere—eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the child on the basis of—nis the number of children in the same child support group as the child.
     (a) the combined child support income amounts of both parents of the child; and
     (b) the number of children in the child's child support group; and
@@ -218,8 +219,8 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
     (c) for a parent to whom section 36A applies (whether or not section 36 also applies),—
       (i) the amount determined in accordance with the formula set out in section 30(1); or
       (ii) if the multi-group cap applies, the amount determined under the multi-group cap applying to the child, but only if it is less than the amount referred to in subparagraph (i); or
-      (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less than each of the amounts referred to in subparagraph (i) or (ii).
-  (3) The multi-group cap for a child is the amount determined as follows: (100% – c%) × mwhere—c%is the parent's care cost percentage in relation to the childmis the multi-group cost of the child, as determined under section 36(4).
+      (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less thaneach of the amounts referred to in subparagraph (i) or (ii).
+  (3) The multi-group cap for a child is the amount determined as follows:(100% − c%) × mwhere—c%is the parent's care cost percentage in relation to the childmis the multi-group cost of the child, as determined under section 36(4).
   (4) The purpose of the multi-group cap is to avoid liable parents paying more in child support than they would pay if all the children for whom they are liable to pay child support were living together.
   If, after assessing the annual amount of child support payable by a liable parent in respect of each of his or her qualifying children, the Commissioner determines that the total amount payable by the parent is less than the minimum annual rate referred to in section 72(1)(a), the Commissioner must, despite sections 30 and 31(2),—
     (a) assess the parent's annual rate of child support as the minimum annual rate referred to in section 72(1)(a); and
@@ -237,7 +238,7 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
     (a) income that is exempt income under section CW 32 of the Income Tax Act 2007 (child support and spousal maintenance):
     (b) income referred to in section MB 11 of the Income Tax Act 2007 (income derived by dependent children):
     (c) income referred to in section MB 12 of the Income Tax Act 2007 (non-residents' foreign-sourced income of the person's spouse or partner).
-  (2) However, for the purposes of an assessment of child support for the child support year commencing 1 April 2014 only, the adjustments referred to in subsection (1) must not be applied to a person's taxable income.
+  (2) However, for the purposes of an assessment of child support for the child support year commencing 1 April 2015 only, the adjustments referred to in subsection (1) must not be applied to a person's taxable income.
   (3) A person's taxable income must be taken to be their income from employment for the calendar year immediately preceding the start of the child support year if, in the most recent tax year,—
     (a) the person's taxable income was derived solely from withholding income; and
     (b) no adjustments of the sort referred to in subsection (1) are made.
@@ -268,7 +269,7 @@ Sections 29 to 36 and the heading above section 32 are repealed and the followin
   (1) This section applies to a parent who has more than 1 child support group.
   (2) For the purpose of calculating a parent's child support income amount in relation to a particular child (child C) in a child support year, a parent to whom this section applies is entitled to a multi-group allowance in relation to child C.
   (3) The multi-group allowance in relation to child C is the sum of the multi-group costs of each child (child D) of the parent who is not in the same child support group as child C.
-  (4) The multi-group cost of child D is—enwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D— nis the total number of children of the parent in all the parent's child support groups.
+  (4) The multi-group cost of child D is—enwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D—nis the total number of children of the parent in all the parent's child support groups.
     (a) on the basis of the child support income amount of that parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance and the sum of any dependent child allowances to which the parent is entitled; and
     (b) as if—
       (i) child D were one of n children; and
@@ -477,6 +478,10 @@ Section 89C is amended by inserting the following subsection after subsection (1
 Section 89D is amended by inserting the following subsection after subsection (1):
   (1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
 
+### 19A Section 89F amended (Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period)
+(1) In section 89F(1)(a)(i), after income, insert (subject to section 89C(1A)).
+(2) In section 89F(1)(a)(ii), after income, insert (subject to sections 89C(1A) and 89D(1A)).
+
 **Amendments to Part 6 (objections)**
 
 ### 20 Objections to appealable decisions
@@ -629,7 +634,7 @@ Section 16(6) of the Adoption Act 1955 is amended by omitting section 25(1)(b)(i
 
 ### 38 New heading and sections 129 to 131B substituted
 Sections 129 to 131 and the heading above section 129 are repealed and the following sections and heading substituted:Financial support to be collected only by automatic deduction or other method acceptable to CommissionerFinancial support generally to be paid only by automatic deductionPayments to be made by other methods if automatic deduction not required or inappropriatePayment of child support by recognition of qualifying payments for child's direct benefitConditions for recognition of payments under section 131Effect, amendment, and cessation of recognition under section 131
-  (1) All financial support that an automatic deduction person is required by this Act to pay on or after 1 April 2015 must be paid only by way of automatic deduction under Part 10 except insofar as the Commissioner considers that method inappropriate.
+  (1) All financial support that an automatic deduction person is required by this Act to pay on or after 1 April 2016 must be paid only by way of automatic deduction under Part 10 except insofar as the Commissioner considers that method inappropriate.
   (2) The Commissioner considers automatic deduction under Part 10 to be an inappropriate method of payment for some or all of the financial support specified in subsection (1) only if, and to the extent that, all or any of the following apply:
     (a) the Commissioner considers automatic deduction under Part 10 of that financial support (or of that part of it) to be administratively inappropriate:
     (b) the Commissioner grants recognition under section 131(3) of qualifying payments for the child's direct benefit made by the automatic deduction person:
@@ -637,16 +642,16 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
   (3) The Commissioner's discretion under subsection (2)(c) is exercisable on an application for the purpose or on the Commissioner's own motion.
   (4) Automatic deduction person, in this section and section 130, means (subject to subsections (5) to (7)) a person who is 1 or more of the following:
     (a) a person who is a PAYE or ACC income recipient, but only if or to the extent that he or she is not a person who is in receipt of a benefit specified in paragraph (c) or a grant specified in paragraph (d):
-    (b) a person who, on or after 1 April 2015, defaults in a payment of financial support under this Act:
+    (b) a person who, on or after 1 April 2016, defaults in a payment of financial support under this Act:
     (c) a person who is in receipt of a benefit under the Social Security Act 1964, the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, Part 6 of the War Pensions Act 1954, or the New Zealand Superannuation and Retirement Income Act 2001:
     (d) a person who is in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998.
   (5) PAYE or ACC income recipient, in subsection (4)(a), means a person whose income is or includes either or both of the following:
     (a) income specified in paragraph (a) of the definition of withholding income in section 2(1):
     (b) earnings related compensation (as defined in section 82(9) of the Tax Administration Act 1994).
-  (6) A person mentioned in subsection (4)(a) to (d) is an automatic deduction person regardless of whether the person's liability to pay that financial support arises before, on, or after 1 April 2015.
+  (6) A person mentioned in subsection (4)(a) to (d) is an automatic deduction person regardless of whether the person's liability to pay that financial support arises before, on, or after 1 April 2016.
   (7) A person mentioned in subsection (4)(a), (c), and (d) is an automatic deduction person regardless of whether the person defaults or has defaulted in a payment or payments of that financial support.
   (8) Automatic deduction required by subsection (1) in respect of a person specified in subsection (4)(c) must be from an instalment of a benefit to which the person is or may become entitled under the Act or Part specified in subsection (4)(c).
-  All financial support that a person is required by this Act to pay on or after 1 April 2015 must be paid by a payment method or methods (other than automatic deduction under Part 10) acceptable to the Commissioner to the extent that either or both of the following apply:
+  All financial support that a person is required by this Act to pay on or after 1 April 2016 must be paid by a payment method or methods (other than automatic deduction under Part 10) acceptable to the Commissioner to the extent that either or both of the following apply:
     (a) the person is not an automatic deduction person (as defined in section 129(4) to (7)):
     (b) the Commissioner under section 129(1) considers payment of financial support referred to in section 129(1) by way of automatic deduction under Part 10 to be inappropriate.
   (1) The other payment method or methods referred to in section 130 may be, for some or all of the child support for a child in respect of a child support year, payment by way of recognition under this section of 1 or more qualifying payments for the child's direct benefit.
@@ -693,8 +698,8 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
 
 ### 39 New sections 134 to 134B substituted
 Section 134 is repealed and the following sections are substituted:Penalties for late payment of financial support debtsLate payment penalties (initial and incremental)Initial late payment penalty: due dateInitial late payment penalty: seventh day after due dateIncremental late payment penalty: first month after due dateIncremental late payment penalty: first 11 later monthsIncremental late payment penalty: months after 1 year1976 No 65 s 398; 1985 No 141 s 41Status of penalties under section 1341976 No 65 s 398; 1985 No 141 s 41Act's provisions on liable person's financial support debt also apply to payees' debts arising from overpayments
-  (1) A person liable to pay a financial support debt (whether that debt is incurred before, on, or after 1 April 2015) is liable to pay to the Commissioner a penalty of the amount stated in subsection (2), (3), (4), (5), or (6) if—
-    (a) the time stated in that subsection (which is a time after the time at which all of the debt became due and payable) occurs on or after 1 April 2015; and
+  (1) A person liable to pay a financial support debt (whether that debt is incurred before, on, or after 1 April 2016) is liable to pay to the Commissioner a penalty of the amount stated in subsection (2), (3), (4), (5), or (6) if—
+    (a) the time stated in that subsection (which is a time after the time at which all of the debt became due and payable) occurs on or after 1 April 2016; and
     (b) at the time stated in that subsection, some or all of the debt remains unpaid.
   (2) At the expiry of the due date, the penalty is the greater of the following amounts:
     (a) the amount of $5; and
@@ -722,11 +727,11 @@ Section 134 is repealed and the following sections are substituted:Penalties for
 (1) The heading to section 135 is amended by omitting 135A and substituting 135AA.
 (2) Section 135 is amended by repealing the definitions of incremental penalty and initial late payment penalty and substituting the following definitions:.
   - **incremental penalty** means a penalty that is imposed—
-    (a) before 1 April 2015 under section 134(1)(b) or (c) (as repealed by the Child Support Amendment Act 2013); or
-    (b) on or after 1 April 2015 under section 134(4), (5), or (6) (as substituted by the Child Support Amendment Act 2013)
+    (a) before 1 April 2016 under section 134(1)(b) or (c) (as repealed by the Child Support Amendment Act 2013); or
+    (b) on or after 1 April 2016 under section 134(4), (5), or (6) (as substituted by the Child Support Amendment Act 2013)
   - **initial late payment penalty** means a penalty that is imposed—
-    (a) before 1 April 2015 under section 134(1)(a) (as repealed by the Child Support Amendment Act 2013); or
-    (b) on or after 1 April 2015 under section 134(2) or (3) (as substituted by the Child Support Amendment Act 2013)
+    (a) before 1 April 2016 under section 134(1)(a) (as repealed by the Child Support Amendment Act 2013); or
+    (b) on or after 1 April 2016 under section 134(2) or (3) (as substituted by the Child Support Amendment Act 2013)
 
 **Amendment to Part 8 (payment agreements)**
 
@@ -747,10 +752,10 @@ The following heading and section are inserted after section 135:Sufficient reas
 (2) Section 135A(1) and (2) are amended by omitting 135G and substituting in each case 135GA.
 
 ### 43 New section 135FA inserted
-The following section is inserted after section 135F:Discretionary relief from incremental penalties unpaid before agreement entered into on or after 1 April 2015
+The following section is inserted after section 135F:Discretionary relief from incremental penalties unpaid before agreement entered into on or after 1 April 2016
   (1) For the purposes of this section,—
     - **initial debt** , in relation to a payment agreement, means the amount the liable person owes at the time that the agreement is entered into in respect of financial support and initial late payment penalties
-    - **payment agreement** means an agreement entered into on or after 1 April 2015 between a liable person and the Commissioner that requires the liable person to pay, in 1 sum or 2 or more instalments of specified amounts,—
+    - **payment agreement** means an agreement entered into on or after 1 April 2016 between a liable person and the Commissioner that requires the liable person to pay, in 1 sum or 2 or more instalments of specified amounts,—
       (a) the amount of the initial debt; and
       (b) the amount of financial support (if any) that the person will become liable to pay during the term of the payment agreement.
   (2) The Commissioner may grant relief to the liable person in the manner prescribed by section 135A in respect of the incremental penalties of the liable person that were unpaid at the time a payment agreement was entered into if the Commissioner is satisfied that recovery of those incremental penalties would do either or both of the following:
@@ -778,10 +783,10 @@ The following section is inserted after section 135G:Discretionary relief for re
 **Amendment to Part 8 (mandatory relief from initial late payment penalties)**
 
 ### 46 New sections 135GB and 135H inserted
-Section 135H is repealed and the following sections are inserted: Relief from initial late payment penalty if full or substantial compliance with payment arrangement entered into or made on or after 1 April 2015 and within 3-month periodRelief from initial late payment penalty if full compliance with payment arrangement entered into or made before 1 April 2015 and within 3-month period
+Section 135H is repealed and the following sections are inserted:Relief from initial late payment penalty if full or substantial compliance with payment arrangement entered into or made on or after 1 April 2016 and within 3-month periodRelief from initial late payment penalty if full compliance with payment arrangement entered into or made before 1 April 2016 and within 3-month period
   (1) The Commissioner must write off an initial late payment penalty if satisfied that—
-    (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2015; and
-    (b) a payment arrangement was entered into or made on or after 1 April 2015 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully or substantially complied with in accordance with subsection (5).
+    (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
+    (b) a payment arrangement was entered into or made on or after 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully or substantially complied with in accordance with subsection (5).
   (2) The payment arrangement referred to in subsection (1)(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
   (3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
     (a) the first payment mentioned in subsection (1)(a); and
@@ -794,8 +799,8 @@ Section 135H is repealed and the following sections are inserted: Relief from in
     (b) it is a deduction notice, and to date there has been either no default in the making in accordance with that notice of every one of the 2 or more deductions and payments specified in subsection (4), or only default of that kind to an extent, or arising from a cause, that the Commissioner considers reasonable.
   (6) If an initial late payment penalty written off under subsection (1) has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the penalty paid.
   (1) The Commissioner must write off an initial late payment penalty if satisfied that—
-    (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2015; and
-    (b) a payment arrangement was entered into or made on or after 26 September 2006 and before 1 April 2015 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully complied with in accordance with subsection (5).
+    (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
+    (b) a payment arrangement was entered into or made on or after 26 September 2006 and before 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully complied with in accordance with subsection (5).
   (2) The payment arrangement referred to in subsection (1)(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
   (3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
     (a) the first payment mentioned in subsection (1)(a); and
@@ -841,12 +846,12 @@ Section 135N is amended by repealing subsection (1) and substituting the followi
 The heading to section 148 is amended by omitting in and substituting by.
 
 ### 52 Overpayments to payees
-(1) The heading to section 151 is amended by adding before 1 April 2015.
-(2) Section 151(1) is amended by inserting before 1 April 2015 before paid an amount under any provision of this Part.
+(1) The heading to section 151 is amended by adding before 1 April 2016.
+(2) Section 151(1) is amended by inserting before 1 April 2016 before paid an amount under any provision of this Part.
 
 ### 53 New section 151AA inserted
-The following section is inserted after section 151:Overpayments to payees on or after 1 April 2015
-  (1) This subsection applies to an amount that on or after 1 April 2015 is paid to a payee under any provision of this Part if—
+The following section is inserted after section 151:Overpayments to payees on or after 1 April 2016
+  (1) This subsection applies to an amount that on or after 1 April 2016 is paid to a payee under any provision of this Part if—
     (a) the payee was not entitled to be paid the amount; or
     (b) the amount is, because of a subsequent variation in the liability of the liable person, repayable by the Commissioner to the liable person; or
     (c) the amount is, because of a subsequent variation in the entitlement of the payee, in excess of the amount properly payable to the payee under this Act.
@@ -924,24 +929,24 @@ Section 206 is amended by adding the following subsection as subsection (2):
 **Amendment to Part 16 (transitional and savings provisions)**
 
 ### 62 New section 276 substituted
-Section 276 (as added by section 31 of this Act) is repealed and the following section substituted:Transitional and savings provisions relating to amendments to Act
-  (1) The transitional and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2014, have effect for the purposes of this Act.
-  (2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 1 specified in the second column of that table:Amendment Act or provisions of itSchedule 1 PartChild Support Amendment Act 2013: Part 1 (except sections 6, 31, and 32) Part 1Child Support Amendment Act 2013: Part 2Part 2
+Section 276 (as added by section 31 of this Act and amended by the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014) is repealed and the following section substituted:Transitional and savings provisions relating to amendments to Act
+  (1) The transitional and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2015, have effect for the purposes of this Act.
+  (2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 1 specified in the second column of that table:Amendment Act or provisions of itSchedule 1 PartChild Support Amendment Act 2013: Part 1 (except sections 6, 18, 19, 19A, 31, and 32)Part 1Child Support Amendment Act 2013: Part 2Part 2
 
 **Amendments to Schedule 1**
 
 ### 63 Schedule 1 amended
-(1) Schedule 1 (as inserted by section 32 of this Act) is amended by inserting the following Part heading before clause 1:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2014.
-(2) Schedule 1 (as inserted by section 32 of this Act) is amended by adding the following Part:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2015Amendments to Part 7 (grounds for departure from formula assessment)Amendments to Part 8 (penalties imposed under section 134 before 1 April 2015)
-  Section 105(2)(d), (7), and (8) (as substituted or added on 1 April 2015 by the Child Support Amendment Act 2013) apply only to the following made on or after 1 April 2015:
+(1) Schedule 1 (as inserted by section 32 of this Act) is amended by inserting the following Part heading before clause 1:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2015.
+(2) Schedule 1 (as inserted by section 32 of this Act) is amended by adding the following Part:Child Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 2016Amendments to Part 7 (grounds for departure from formula assessment)Amendments to Part 8 (penalties imposed under section 134 before 1 April 2016)
+  Section 105(2)(d), (7), and (8) (as substituted or added on 1 April 2016 by the Child Support Amendment Act 2013) apply only to the following made on or after 1 April 2016:
     (a) applications under section 96B:
     (b) applications under section 104.
-  (1) Section 134 (as substituted on 1 April 2015 by the Child Support Amendment Act 2013) does not limit or affect a person's liability to pay any penalties imposed in respect of the same debt under section 134 (as in force before 1 April 2015).
-  (2) The reference in section 134(1) (as substituted on 1 April 2015) to a financial support debt incurred before 1 April 2015 includes any initial late payment penalties or incremental penalties or both that are imposed under section 134(1) (as in force before 1 April 2015) in respect of, and that are deemed under section 134(2) (as in force before 1 April 2015) to be of the same nature as, that debt.
-  (3) An initial late payment penalty (seventh day after due date) under section 134(3) (as substituted on 1 April 2015) must not be imposed on a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2015) was imposed on or after 25 March 2015.
-  (4) Section 134(4) (as substituted on 1 April 2015) applies to a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2015) was imposed on or after 1 March 2015.
-  (5) Section 134(5) or (6) (as substituted on 1 April 2015) applies (as the case requires) to a financial support debt on which an incremental penalty under (as the case requires) section 134(1)(b) or (c) (as in force before 1 April 2015) was imposed on or after 1 March 2015.
-  (6) The Commissioner may, in the Commissioner's discretion, grant relief from initial late payment penalties, incremental penalties, or both, imposed on a person under section 134 (as substituted on 1 April 2015) if satisfied that the relief is necessary or desirable to prevent unfairness arising from corresponding equivalent penalties also having been imposed on the person under section 134 (as in force before 1 April 2015).
+  (1) Section 134 (as substituted on 1 April 2016 by the Child Support Amendment Act 2013) does not limit or affect a person's liability to pay any penalties imposed in respect of the same debt under section 134 (as in force before 1 April 2016).
+  (2) The reference in section 134(1) (as substituted on 1 April 2016) to a financial support debt incurred before 1 April 2016 includes any initial late payment penalties or incremental penalties or both that are imposed under section 134(1) (as in force before 1 April 2016) in respect of, and that are deemed under section 134(2) (as in force before 1 April 2016) to be of the same nature as, that debt.
+  (3) An initial late payment penalty (seventh day after due date) under section 134(3) (as substituted on 1 April 2016) must not be imposed on a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2016) was imposed on or after 25 March 2016.
+  (4) Section 134(4) (as substituted on 1 April 2016) applies to a financial support debt on which an initial late payment penalty under section 134(1)(a) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
+  (5) Section 134(5) or (6) (as substituted on 1 April 2016) applies (as the case requires) to a financial support debt on which an incremental penalty under (as the case requires) section 134(1)(b) or (c) (as in force before 1 April 2016) was imposed on or after 1 March 2016.
+  (6) The Commissioner may, in the Commissioner's discretion, grant relief from initial late payment penalties, incremental penalties, or both, imposed on a person under section 134 (as substituted on 1 April 2016) if satisfied that the relief is necessary or desirable to prevent unfairness arising from corresponding equivalent penalties also having been imposed on the person under section 134 (as in force before 1 April 2016).
 
 ## Schedule 1 — New Schedule 1 inserted
 
