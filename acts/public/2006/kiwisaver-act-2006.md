@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2013-09-14_
+_Consolidation as at 2014-02-27_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2770,7 +2770,7 @@ A employee member may, at any time, take a contributions holiday in accordance w
 (3) A member may, at any time during that person’s membership of a KiwiSaver scheme, be transferred to another KiwiSaver scheme in the circumstances provided for in, and in accordance with, this Act.
 
 ### 17 Crown contributions: tax credits
-Despite rules 4 to 14, the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
+Despite rules 4 to 14C, the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
   (a) before the member, the personal representative, or the relevant person under section 65 of the Administration Act 1969 (as the case may be) gives the provider a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
   (b) to the extent to which the provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of section MK 2 of the Income Tax Act 2007 wrong.
 
