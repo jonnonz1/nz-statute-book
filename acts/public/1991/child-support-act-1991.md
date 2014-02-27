@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-02-27_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -109,7 +109,7 @@ _Consolidation as at 2013-12-05_
 Subject to section 186, this Act shall bind the Crown.
 
 ### 3A Transitional and savings provisions relating to amendments to this Act
-Schedule 1 contains transitional and savings provisions (relating to amendments made to this Act on or after 1 April 2014) that affect other provisions of this Act (see section 276).
+Schedule 1 contains transitional and savings provisions (relating to amendments made to this Act on or after 1 April 2015) that affect other provisions of this Act (see section 276).
 
 ### 4 Objects
 The objects of this Act are—
@@ -3435,14 +3435,14 @@ Where a provision of this Act (a relevant provision)—the repealed provision sh
   (b) incorporates the repealed provision for any purpose to give effect to the relevant provision,—
 
 ### 276 Transitional and savings provisions relating to amendments to Act
-The transitional and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2014, have effect for the purposes of this Act.
+The transitional and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2015, have effect for the purposes of this Act.
 
-## Schedule 1 — Transitional and savings provisions relating to amendments to Act made on or after 1 April 2014
+## Schedule 1 — Transitional and savings provisions relating to amendments to Act made on or after 1 April 2015
 
 ### 1 Definitions
 In this clause and clauses 2 to 8, unless the context otherwise requires,—
-  - **commencement date** means 1 April 2014 (which is the date on which Part 1 (except sections 6, 31, and 32) of the Child Support Amendment Act 2013 comes into force)
-  - **new assessment** means a formula assessment made or applied for under the new provisions and applying after the commencement date to the child support year ending on 31 March 2015
+  - **commencement date** means 1 April 2015 (which is the date on which Part 1 (except sections 6, 18, 19, 19A, 31, and 32) of the Child Support Amendment Act 2013 comes into force)
+  - **new assessment** means a formula assessment made or applied for under the new provisions and applying after the commencement date to the child support year ending on 31 March 2016
   - **new formula** means the formula assessment as provided for by the new provisions
   - **new provisions** means the provisions of this Act as amended by Part 1 of the Child Support Amendment Act 2013; and references to and have a corresponding meaning
   - **old assessment** means a formula assessment made or applied for under the old provisions
@@ -3450,7 +3450,7 @@ In this clause and clauses 2 to 8, unless the context otherwise requires,—
   - **old provisions** means the provisions of this Act as they are immediately before Part 1 of the Child Support Amendment Act 2013 comes into force; and references to and have a corresponding meaning.
 
 ### 2 New provisions treated as if in force for certain purposes
-(1) This clause applies for the purpose of ensuring that, at the start of the child support year commencing 1 April 2014, the annual rate of child support payable under the new formula has been ascertained in relation to every person who is or will be subject to a formula assessment on the commencement date.
+(1) This clause applies for the purpose of ensuring that, at the start of the child support year commencing 1 April 2015, the annual rate of child support payable under the new formula has been ascertained in relation to every person who is or will be subject to a formula assessment on the commencement date.
 (2) For the purpose described in subclause (1),—
   (a) the new provisions apply as if they were in force; and
   (b) the Commissioner may exercise any powers under the new provisions, and take any steps necessary, to enable that purpose to be achieved.
@@ -3481,7 +3481,7 @@ After the commencement date, if any person applies for a variation of a court or
   (b) prescribing assumptions that may be made concerning any element of the new formula, in order to ensure that new formula assessments are given before the commencement date, but any such assumption must be subject to correction by any party to whom it relates or applies.
 (2) Regulations made under this clause must include a date on which the regulations are repealed, and that date must be no later than 3 years after the date on which they are made.
 (3) The Minister may recommend the making of regulations under this clause only if satisfied that the regulations are consistent with the purposes of this Act and clauses 1 to 7 of this schedule, and are necessary or desirable for the orderly implementation of Part 1 of the Child Support Amendment Act 2013.
-(4) This clause expires and is repealed on 1 April 2016.
+(4) This clause expires and is repealed on 1 April 2017.
 
 ### 1 Short Title
 This Act may be cited as the Child Support Amendment Act 1992, and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as the principal Act).
