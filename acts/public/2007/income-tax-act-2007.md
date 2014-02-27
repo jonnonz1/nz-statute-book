@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-02-27_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2961,7 +2961,7 @@ An amount that a company derives in an income year and that would not otherwise 
 
 ### CV 2 Consolidated groups: income of company in group
 When this section applies
-(1) This section applies for the purposes of section FM 8 (Transactions between group companies: income) to an amount derived by a company that is part of a consolidated group, when the amount would be income of the group if the group were 1 company.
+(1) This section applies for the purposes of section FM 9 (Amounts that are company's income) to an amount derived by a company that is part of a consolidated group, when the amount would be income of the group if the group were 1 company.
 Income
 (2) The amount is treated as income of the company.
 
@@ -3283,7 +3283,11 @@ Some definitions
       (ii) would in any circumstances under the laws of the territory in which the person is resident or under the laws of part of the territory be entitled to receive from the government of the territory or part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness, or other compensation for a payment of the tax referred to in subparagraph (i); and
     (f) does not have a holder of a direct or indirect interest in the capital of the legal entity who,—
       (i) is resident in New Zealand:
-      (ii) when treated as holding the interests of a person associated with the resident, holds a total direct or indirect interest of 10% or more.
+      (ii) when treated as holding the interests of a person associated with the resident, holds a total direct or indirect interest of 10% or more
+  - **qualifying foreign equity investor** means a person who is not resident in New Zealand and who is 1 or more of—
+    (a) a foreign exempt entity:
+    (b) a person who is part of a foreign exempt partnership:
+    (c) a foreign exempt person.
 Residency of territory
 (5) For the purpose of this section, whether a person is resident in a territory other than New Zealand is determined—
   (a) under a double tax agreement that is in force between New Zealand and the territory, if there is an agreement and it provides for the residency of the person; or
@@ -3867,6 +3871,15 @@ A distribution from a Maori authority to a member, to the extent to which it is 
 
 ### CW 55BA Tertiary education institutions
 An amount of income derived by a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual is exempt income.
+
+### CW 55BAB Rebate of fees paid by FIF
+When this section applies
+(1) This section applies to a person having an attributing interest in a foreign investment fund when—
+  (a) the FIF pays fees to another person; and
+  (b) the person derives, from the other person, a rebate of the fees; and
+  (c) the person is not allowed a deduction for the fees; and
+  (d) the person's FIF income or loss from the interest is not calculated using the comparative value method.
+(2) The amount of the rebate is exempt income.
 
 ### CW 55BB Minors' income, to limited extent
 When this section applies
@@ -5012,26 +5025,31 @@ Benefits with unknown value for employee
 
 ### CZ 25 Land and buildings as revenue account property affected by Canterbury earthquakes and replaced—insurance or compensation, Government purchase
 When this section applies
-(1) This section applies for a person and an income year (the current year) before the 2016–17 income year when the person,—
+(1) This section applies for a person and an income year (the current year) before the 2019–20 income year when the person,—
   (a) in or before the current year, derives for buildings or land (the affected property), all of which is revenue account property,—
-    (i) insurance or compensation, if a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011 damages the land and damages each building, or the neighbourhood of the building, causing the building to be useless for the purpose of deriving income and consequently to be abolished or abandoned for later demolition:
-    (ii) an amount from a purchase by the Government from the person under section 53(1) of the Canterbury Earthquake Recovery Act 2011; and
-  (b) in the absence of this section, would have in or before the current year a total amount of income under section CG 6 (Receipts from insurance, indemnity, or compensation for trading stock) from the insurance or compensation for the affected property that exceeds the total amount of deductions under section DB 23 (Cost of revenue account property) for the affected property; and
-  (c) plans in the current year to acquire property (the replacement property) replacing affected property and meeting the requirements of subsection (4); and
+    (i) insurance or compensation, if a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011 damages the land and damages each building, or the neighbourhood of the building, causing the building to be useless for the purpose of deriving income and consequently to be demolished or abandoned for later demolition:
+    (ii) an amount from a purchase by the Crown from the person under section 53(1), 54, or 55 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) in the absence of this section, would have in or before the current year a total amount of income (the insurance income) under sections CB 6, CB 7, CB 12, CB 13, and CG 6 (which relate to income from certain disposals of land and from compensation for trading stock) from the consideration, compensation, or insurance for the affected property that exceeds the total amount of deductions under sections DB 23 and DB 27 (which relate to deductions for the cost or value of land) for the affected property; and
+  (c) plans, in the current year, to acquire property (the replacement property)—
+    (i) replacing affected property; and
+    (ii) meeting the requirements of subsection (4); and
+    (iii) having a cost exceeding the total amount of deductions under sections DB 23 and DB 27 for the affected property; and
   (d) gives written notice to the Commissioner under subsection (6) in relation to the affected property.
 Suspended recovery income
-(2) The amount of the excess (the excess recovery) referred to in subsection (1)(a) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
+(2) The amount (the excess recovery) by which the insurance income referred to in subsection (1)(b) exceeds the deductions referred to in subsection (1)(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
 Effect of purchase of replacement property
 (3) If the person incurs expenditure (the replacement cost) to acquire replacement property,—
-  (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person's expenditure on the replacement property, to the extent that it is less than or equal to the total amount of the income under section CG 6 for the affected property, is treated as being reduced by an amount calculated by multiplying the replacement cost by the excess recovery and dividing the result by the total amount of deductions under section DB 23 for the affected property; and
+  (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person's expenditure on the replacement property is reduced by—
+    (i) the amount calculated by dividing the replacement cost by the total amount of deductions under sections DB 23 and DB 27 for the affected property and multiplying the result by the excess of the insurance income over the replacement cost, if the insurance income exceeds the replacement cost and the calculated amount is less than or equal to the amount of insurance income; or
+    (ii) the amount of the excess recovery, if the insurance income does not exceed the replacement cost or is less than the amount calculated in subparagraph (i); and
   (b) the amount of the suspended recovery income immediately before the expenditure is reduced by an amount equal to the reduction of expenditure under paragraph (a) for the purposes of section EA 2.
 Requirements for replacement property
 (4) For an item of affected property, replacement property must be a building or land that is revenue account property—
-  (a) acquired in or before the person's 2015–16 income year; and
+  (a) acquired in or before the person's 2018–19 income year; and
   (b) located in greater Christchurch as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011.
-Amount remaining at end of 2015–16 income year or when person changes intentions, is liquidated, or becomes bankrupt
+Amount remaining at end of 2018–19 income year or when person changes intentions, is liquidated, or becomes bankrupt
 (5) The person has an amount of income for the affected property in the current year equal to the amount of suspended recovery income when—
-  (a) the current year ends, if the current year is the 2015–16 income year:
+  (a) the current year ends, if the current year is the 2018–19 income year:
   (b) in the current year, the person decides not to replace the affected property:
   (c) in the current year, the person goes into liquidation or becomes bankrupt.
 Notice of election for affected property
@@ -5049,8 +5067,19 @@ Contents of notice of election
 Relationship to section CG 6
 (8) This section overrides section CG 6.
 
-### CZ 26 Land and buildings affected by Canterbury earthquakes—sections CB 9 to CB 12 overridden for Government purchase
-Sections CB 9 to CB 12 (which relate to disposals within 10 years of acquisition) do not apply to a person and land or buildings purchased by the Government from the person under section 53(1) of the Canterbury Earthquake Recovery Act 2011.
+### CZ 26 Land and buildings affected by Canterbury earthquakes—sections CB 9 to CB 11 and CB 14 overridden for Crown purchases
+Sections CB 9 to CB 11 and CB 14 (which relate to disposals within 10 years of acquisition) do not apply to a person and land or buildings purchased by the Crown from the person under section 53(1), 54, or 55 of the Canterbury Earthquake Recovery Act 2011.
+
+### CZ 27 Prior bad debt deductions clawback
+When this section applies
+(1) This section applies when––
+  (a) a person acquires a debt before the introduction of the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Bill (the introduction day); and
+  (b) the debt exists on the first day of the 2014–15 income year and a base price adjustment under section EW 31 (Base price adjustment formula) is not calculated for the debt in the 2014–15 income year or an earlier income year; and
+  (c) the person has taken, in a return of income, a deduction for the debt under section DB 31 (Bad debts) for an income year that starts before the introduction day (a prior bad debt deduction); and
+  (d) the prior bad debt deduction arose before the introduction day; and
+  (e) the person does not have a dispute with the Commissioner on the introduction day in relation to any prior bad debt deduction for the debt.
+Income: prior bad debt deductions clawback
+(2) The person has an amount of income equal to the difference between their total prior bad debt deductions for the debt, and the amount of deductions that they would have had for the debt under section DB 31 for the same period of the prior bad debt deductions if section DB 31(4B), (4C), and (5B) were treated as applying on and after the first day that the person acquires the debt.
 
 ## Part D — Deductions
 
@@ -5553,26 +5582,39 @@ Link with subpart DA
 ### DB 31 Bad debts
 No deduction (with exception)
 (1) A person is denied a deduction in an income year for a bad debt, except to the extent to which—
-  (a) the debt is written off as bad in the income year; and
+  (a) the debt is a debt––
+    (i) written off as bad in the income year:
+    (ii) for which the debtor is released from making all remaining payments under the Insolvency Act 2006 excluding Part 5, subparts 1 and 2 of that Act, or under the Companies Act 1993, or under the laws of a country or territory other than New Zealand, and the person is required to calculate a base price adjustment by section EW 29 (When calculation of base price adjustment required) for the debt for the income year:
+    (iii) for which the debtor is a company that is released from making all remaining payments by a deed or agreement of composition, and the person is required to calculate a base price adjustment by section EW 29 for the debt for the income year; and
   (b) in the case of the bad debts described in subsections (2) to (5), the requirements of the relevant subsection are met.
 Deduction: financial arrangement debt: amount of income
 (2) A person who derives assessable income from a financial arrangement to which the financial arrangements rules apply is allowed a deduction for an amount owing under the financial arrangement, but only to the extent to which—
-  (a) the amount is a bad debt and the requirement of subsection (1)(a) is met; and
+  (a) the amount is a bad debt and a requirement of subsection (1)(a) is met; and
   (b) the amount is attributable to the income; and
   (c) subsection (5) does not limit the deduction.
 Deduction: financial arrangement debt: dealers in arrangements
 (3) A person is allowed a deduction for an amount owing under a financial arrangement to which the financial arrangements rules apply, but only to the extent to which—
-  (a) the amount is a bad debt and the requirement of subsection (1)(a) is met; and
+  (a) the amount is a bad debt and a requirement of subsection (1)(a) is met; and
   (b) the person carries on a business for the purpose of deriving assessable income that includes dealing in or holding financial arrangements that are the same as, or similar to, the financial arrangement; and
   (c) the person is not associated with the person owing the amount written off; and
-  (d) subsection (5) does not limit the deduction.
+  (d) subsections (4B) to (5) do not limit the deduction.
 Deduction: financial arrangement debt: dealers in property or services sold
 (4) A person is allowed a deduction for an amount owing under a financial arrangement to which the financial arrangements rules apply, but only to the extent to which—
-  (a) the amount is a bad debt and the requirement of subsection (1)(a) is met; and
+  (a) the amount is a bad debt and the requirement of subsection (1)(a)(i) is met; and
   (b) the financial arrangement is an agreement for the sale and purchase of property or services; and
   (c) the person carries on a business of dealing in the property or services that are the subject of the agreement; and
   (d) the person carries on the business for the purpose of deriving assessable income; and
   (e) subsection (5) does not limit the deduction.
+Face value
+(4B) A person is allowed a deduction, under subsection (3), for a debt acquired for less than its face value, only to the extent of the consideration the person pays for acquiring the debt.
+Limited recourse
+(4C) A person is allowed a deduction, under subsection (3), for a debt that a limited recourse arrangement relates to, only to the extent to which the amount of the debt, after applying subsection (4B), exceeds the consideration paid to the person under the limited-recourse arrangement in relation to that debt.
+Limited recourse: deduction when base price adjustment performed
+(4D) If subsection (4C) applies for a debt (the debt), then the person is allowed a deduction, at the time that the person performs a base price adjustment for the relevant limited-recourse arrangement, equal to the positive amount calculated using the following formula:consideration paid to person – consideration paid by person.
+Definition of items in formula
+(4E) In the formula,––
+  (a) consideration paid to the person is the consideration paid to the person under the relevant limited-recourse arrangement in relation to the debt:
+  (b) consideration paid by the person is the consideration paid by the person under the relevant limited-recourse arrangement in relation to the debt.
 Deduction: bad debt representing loss already offset
 (5) A person is allowed a deduction for a bad debt only to the extent to which it is more than the total of the amounts offset under section IC 1 (Company A making tax loss available to company B) that are described in paragraphs (e) and (f) if—
   (a) the person writing off the amount of debt is a company (company A); and
@@ -5583,6 +5625,10 @@ Deduction: bad debt representing loss already offset
   (d) company B or company C has a tax loss, in the calculation of which the amount used is taken into account; and
   (e) company A, or a company that is part of the same group of companies as company A at any time in the income year in which company B or company C has the tax loss, offsets an amount for the tax loss under section IC 1; and
   (f) the offset is in a tax year before the tax year that corresponds to the income year in which company A writes off the amount of debt, but not before the 1993–94 tax year.
+A definition
+(5B) In this section, limited-recourse arrangement means, in relation to a debt (the debt), an arrangement that is for the person's business of dealing in or holding financial arrangements, and that provides for payment or non-payment by the person, contingent upon—
+  (a) payment of some or all of the debt to the person:
+  (b) failure to make payment of some or all of the debt to the person.
 Link with subpart DA
 (6) The link between this section and subpart DA (General rules) is as follows:
   (a) subsection (1) overrides the general permission; and
@@ -6753,10 +6799,7 @@ Exclusions
     (ii) the main use of the asset is use in a business that is not a rental or charter business; and
     (iii) for a company or a trustee of a trust, the use of the asset places an obligation on the company or the trustee, as applicable, to pay fringe benefit tax or income tax:
   (b) the asset is a residential property and its only income-earning use is as a long-term rental property:
-  (c) the asset—
-    (i) is being used in an income year by a person (person A); and
-    (ii) during the income year, undergoes a change of use; and
-    (iii) the only uses made of the asset for the income year are the use by person A and the use by another person from which person A derives income.
+  (c)
 Meaning of market value
 (5) For the purposes of this subpart, other than subsection (2)(b)(ii), market value means the price at which the asset is provided for use at a particular time or for a particular season—
   (a) in the open market; and
@@ -7732,6 +7775,7 @@ Meaning of timber
   (a) the creation or grant of a right to take timber:
   (b) the grant of a licence or an easement in relation to timber:
   (c) the creation of a forestry right as defined in section 2 of the Forestry Rights Registration Act 1983, other than a right in favour of the proprietor in relation to establishing, maintaining, and harvesting timber.
+Exception
 (4B) Subsection (2) does not apply if the amount of income of the person under section CB 24 would be exempt income under section CW 1B (Treaty of Waitangi claim settlements: rights to take timber) but for section CW 1B(3).
 Link with subpart DA
 (5) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
@@ -7798,18 +7842,18 @@ Link with subpart DA
 ### DR 3 Life reinsurance outside New Zealand
 No deduction
 A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,—
-  (a) was not offered in New Zealand:
+  (a) was not offered in New Zealand; and
   (b) was not entered into in New Zealand.
 
-### DR 4 Life insurers' claims reserves
+### DR 4 Life insurers' claims
 No deduction on account of claims
 (1) For a life insurer's life insurance policies, the life insurer is denied a deduction relating to the life insurer's outstanding claims or for a claim's expenditure or loss for an income year, except as provided by—
   (a) section EY 24 (Outstanding claims reserving amount: non-participation policies not annuities):
   (b) subsection (2).
 Deduction for payments of current claims
-(2) The life insurer is allowed a deduction for the amount of expenditure or loss of a claim paid under a life insurance policy for the income year.
 Link with subpart DA
-(3) This section supplements the general permission. The general limitations still apply.
+(2) The life insurer is allowed a deduction as provided by section EY 20 (Shareholder base allowable deductions: non-participation policies) for the amount of expenditure or loss relating to the life risk component of a claim paid for the income year under a life insurance policy that is not an annuity and not a profit participation policy.
+(3) This section supplements the general permission. The general limitations still apply, except that the capital limitation does not apply for a life insurer and the life risk components of claims under life insurance policies that are not annuities and not profit participation policies and have been transferred to the life insurer.
 
 ### Subpart DS — Film industry expenditure
 
@@ -8002,7 +8046,7 @@ Link with subpart DA
 Expenditure that a person incurs in buying a petroleum mining asset is treated as petroleum development expenditure if, at the time the asset is bought,—
   (a) petroleum is produced in commercial quantities on a continuing basis under a petroleum permit that is the one being bought; or
   (b) petroleum is produced in commercial quantities on a continuing basis under a petroleum permit that applies to the permit area in which an asset of the kind described in section CT 7(1)(b) or (c) (Meaning of petroleum mining asset) is to be used; or
-  (c) an application for a petroleum mining permit for the permit area has been made by a person entitled under section 32(3) of the Crown Minerals Act 199.
+  (c) an application for a petroleum mining permit for the permit area has been made by a person entitled under section 32(3) of the Crown Minerals Act 1991.
 
 ### DT 7 Exploratory well expenditure
 When this section applies
@@ -10326,7 +10370,7 @@ When amount of depreciation recovery income arises
   (a) the person owns an item of property, as described in sections EE 2 to EE 5; and
   (b) the item is depreciable property, as described in sections EE 6 to EE 8; and
   (c) the item is disposed of or an event of a kind described in section EE 47 occurs; and
-  (d) the amount of depreciation recovery income is calculated for the person, the item, and the income year under any of sections EE 22(5), EE 38(5), EE 48(1), EE 49(2), EE 51(3), EE 52(3), and EZ 23B(8) (Property acquired after depreciable property affected by Canterbury earthquakes).
+  (d) the amount of depreciation recovery income is calculated for the person, the item, and the income year under any of sections EE 22(5), EE 38(5), EE 48(1), EE 49(2), EE 51(3), EE 52(3), EZ 23B, and EZ 23BB (which relate to property, and interests in property, acquired after depreciable property was affected by the Canterbury earthquakes).
 Amounts of loss incurred and income derived
 (4) To avoid doubt,—
   (a) an amount of depreciation loss is treated as being incurred in the income year for which it is calculated; and
@@ -11270,6 +11314,8 @@ Compensation subtracted
 (2) An amount must be subtracted from the item’s adjusted tax value. The amount is the amount by which the insurance, indemnity, or compensation that the person receives is more than the expenditure that the person incurs because of the event for which the person receives the insurance, indemnity, or compensation.
 Depreciation recovery income
 (3) If the item’s adjusted tax value becomes negative in an income year through the application of subsection (2), the negative amount is an amount of depreciation recovery income derived by the person in the income year.
+Compensation derived when item no longer owned
+(4) If, in the absence of this subsection, the person would derive the amount of insurance, indemnity, or compensation after ceasing to own the item, the person is treated as deriving the amount immediately before the person ceases to own the item.
 
 ### EE 53 Unused geothermal well brought into use
 When this section applies
@@ -17239,21 +17285,21 @@ Life insurance term usually includes life reinsurance term
 
 ### EY 15 Policyholder base income: non-participation policies
 What is included
-(1) For an income year, a life insurer's income is included as their policyholder base income if it relates to life insurance policies that are not profit participation policies, and it—
-  (a) does not relate to life risk components of premiums and claims:
-  (b) is investment income that—
-    (i) is included in investment income gains or losses in the financial statements of the life insurer; and
-    (ii) is not a premium; and
-    (iii) is fairly attributable to savings product policies.
+(1) For an income year, a life insurer's income is included as their policyholder base income if it—
+  (a) relates to life insurance policies that are savings product policies and not profit participation policies; and
+  (b) does not relate to life risk components of premiums and claims; and
+  (c) is not a premium, or is a premium relating to income that is treated under subsection (5) as not relating to life risk components of premiums and claims; and
+  (d) is included in the amount of policyholder base income calculated under subsection (2) or (4).
 Certain income: basis of apportionment
-(2) Despite subsection (1), if an amount of investment income is included in a life insurer's policyholder base income under subsection (1), but may also be shareholder base income under section EY 19, ignoring section EY 19(1)(d), then the investment income is included in policyholder base income to the extent provided by the formula—income×average surrender valueaverage savings assets.
+(2) If an amount of income meets the requirements of subsection (1)(a) to (c), the amount of the income that is policyholder base income is calculated using the formula—investment×average surrender value+de minimis amounts.average savings assets
 Definition of items in formula
 (3) In the formula,—
-  (a) income is the income described in subsection (2):
+  (a) investment is the amount of income that meets the requirements of subsection (1)(a) to (c), other than income included in the item de minimis amounts:
   (b) average surrender value is, for the savings product policies to which the income relates, the average surrender value of the policies for the income year. The life insurer may determine an equitable and reasonable basis for the measurement of the average:
-  (c) average savings assets is, for the savings product policies to which the income relates, the average market value of assets held by the life insurer for the policies for the income year. The life insurer may determine an equitable and reasonable basis for the measurement of the average.
+  (c) average savings assets is, for the savings product policies to which the income relates, the average market value of assets held by the life insurer for the policies for the income year. The life insurer may determine an equitable and reasonable basis for the measurement of the average:
+  (d) de minimis amounts is the amount of income meeting the requirements of subsection (1)(a) to (c) that would be treated as relating to life risk components of premiums and life reinsurance claims in the absence of subsection (5).
 More equitable or reasonable basis of apportionment
-(4) Despite subsections (2) and (3), for investment income described in subsection (2), the life insurer may use a basis of apportionment that is different from the one described in subsections (2) and (3), if that basis results in an amount, actuarially determined, that is more equitable and reasonable than an amount determined using the basis described in subsections (2) and (3).
+(4) Despite subsections (2) and (3), for income included in the item investment in the formula in subsection (2), the life insurer may use a basis of apportionment that is different from the one described in subsections (2) and (3), if that basis results in an amount, actuarially determined, that is more equitable and reasonable than an amount determined using the basis described in subsections (2) and (3).
 Treatment of de minimis life risk component amounts
 (5) An amount of income relating to a policy that, but for this subsection, is an amount related to the life risk of a premium or life reinsurance claim, is treated as not relating to the relevant life risk component for the purposes of subsection (1), if—
   (a) the life insurer has actuarially determined that the life risk is 1% or less of the premium or life reinsurance claim; and
@@ -17261,11 +17307,14 @@ Treatment of de minimis life risk component amounts
 
 ### EY 16 Policyholder base allowable deductions: non-participation policies
 What is included
-(1) For an income year, a life insurer's deduction that relates to life insurance policies that are not profit participation policies is included as their policyholder allowable deduction to the extent to which it is incurred in relation to their policyholder base income under section EY 15.
+(1) For an income year, a life insurer's deduction is included as their policyholder allowable deduction if it—
+  (a) relates to life insurance policies that are savings product policies and not profit participation policies; and
+  (b) relates to income meeting the requirements of section EY 15(1)(a) to (c); and
+  (c) is included in the amount of policyholder base allowable deduction calculated under subsection (2).
 Basis of apportionment
-(2) Despite subsection (1), if a deduction is included in a life insurer's policyholder base allowable deduction under subsection (1), but may also be a shareholder base allowable deduction under section EY 20, ignoring section EY 20(1)(d), the life insurer must use a basis of apportionment for the deduction which is—
-  (a) the same as in section EY 15(2) and (3)with necessary modifications; or
-  (b) is the same as in section EY 15(4) with necessary modifications.
+(2) If a deduction meets the requirements of subsection (1)(a) and (b), the amount of the deduction that is policyholder base allowable deduction is calculated using the basis for apportionment in—
+  (a) section EY 15(2) and (3) with necessary modifications; or
+  (b) section EY 15(4) with necessary modifications.
 
 **Profit participation policies**
 
@@ -17281,8 +17330,8 @@ Definition of items in formula
     (i) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the year before the income year:
     (ii) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the income year:
   (c) future shareholder transfers average is an actuarially determined amount that is the average of the following 2 proportions:
-    (i) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the beginning of the income year:
-    (ii) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the end of the income year:
+    (i) the proportion of the value of the policies' asset base that is attributable to the value of future transfers to the life insurer's shareholders for their portions of the future profits that are able to be supported by the supporting asset base at the beginning of the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the value of future transfers to the life insurer's shareholders for their portions of the future profits that are able to be supported by the supporting asset base at the end of the income year:
   (d) net transfers is the amount transferred to the benefit of policyholders from shareholders in relation to profit participation policies.
 Meaning of supporting asset base
 (3) Supporting asset base means the asset base for relevant policies excluding—
@@ -17300,17 +17349,18 @@ For an income year, a life insurer has policyholder base allowable deductions eq
 ### EY 19 Shareholder base income: non-participation policies
 What is included
 (1) For an income year, a life insurer's income is included as their shareholder base income if it relates to life insurance policies that are not profit participation policies, and it—
-  (a) relates to life risk components of premiums and claims, other than for annuities, and is not described in paragraphs (b) to (d):
+  (a) relates to life risk components of premiums and claims, other than for annuities, and is not described in paragraphs (b) to (db):
   (b) relates to fees and commissions:
   (c) relates to the life risk component of life reinsurance claims:
-  (d) is investment income that is not included as their policyholder base income under section EY 15:
+  (d) is income meeting the requirements of section EY 15(1)(a) to (c) that is not included as their policyholder base income under section EY 15:
+  (db) is income relating to annuities that would meet the requirements of section EY 15(1)(a) to (c) if the annuities were treated as being savings product policies:
   (e) is not otherwise accounted for in this subpart, for the income year.
 Treatment of de minimis life risk component amounts
 (2) An amount of income relating to a policy that, but for this subsection, is an amount related to the life risk of a premium or life reinsurance claim, is treated as not relating to the life risk component for the purposes of subsection (1), if—
   (a) the life insurer has actuarially determined that the life risk is 1% or less of the premium or life reinsurance claim; and
   (b) chooses to apply section EY 15(5) for the policy.
 No double-counting
-(3) If an amount is included as shareholder base income under sections EY 23 to EY 29, it is not included under this section.
+(3) If an amount is included as shareholder base income under sections EY 23 to EY 27, it is not included under this section.
 
 ### EY 20 Shareholder base allowable deductions: non-participation policies
 What is included
@@ -17318,13 +17368,15 @@ What is included
   (a) relates to life risk components of premiums and claims, other than for annuities, and is not described in paragraphs (b) to (e):
   (b) relates to fees and commissions:
   (c) relates to the life risk component of life reinsurance premiums:
-  (d) is a deduction in relation to investment income that is not included as their policyholder base allowable deduction under section EY 16:
+  (d) is a deduction that—
+    (i) relates to income that is included in the item investment in the formula in section EY 15(2) or meets the requirements of section EY 19(1)(db); and
+    (ii) is not included in the life insurer's policyholder base allowable deduction under section EY 16:
   (e) is a premium payback amount, and—
     (i) section EY 19 applies or has applied to include the original premium as shareholder base income; and
     (ii) section EY 30(7) does not apply or has not applied to calculate a transitional amount for the original premium:
   (f) is not otherwise accounted for in this subpart, for the income year.
 No double-counting
-(2) If an amount is included as shareholder base allowable deduction under sections EY 23 to EY 29, it is not included under this section.
+(2) If an amount is included as shareholder base allowable deduction under sections EY 23 to EY 27, it is not included under this section.
 
 **Profit participation policies**
 
@@ -17340,8 +17392,8 @@ Definition of items in formula
     (i) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the year before the income year:
     (ii) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the income year:
   (c) future shareholder transfers average is an actuarially determined amount that is the average of the following 2 proportions:
-    (i) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the beginning of the income year:
-    (ii) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the end of the income year:
+    (i) the proportion of the value of the policies' asset base that is attributable to the value of future transfers to the life insurer's shareholders for their portions of the future profits that are able to be supported by the supporting asset base at the beginning of the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the value of future transfers to the life insurer's shareholders for their portions of the future profits that are able to be supported by the supporting asset base at the end of the income year:
   (d) net transfers is the amount transferred to the benefit of policyholders from shareholders in relation to profit participation policies.
 
 ### EY 22 Shareholder base allowable deductions: profit participation policies
@@ -18044,54 +18096,61 @@ Definition of items in formula
 
 ### EZ 23B Property acquired after depreciable property affected by Canterbury earthquakes
 When this section applies
-(1) This section applies for a person and an income year (the current year) before the 2016–17 income year when the person,—
-  (a) in or before the current year, receives insurance or compensation for items of depreciable property (the affected property) each of which, as a result of a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, is affected by—
+(1) This section applies for a person and an income year (the current year) before the 2019–20 income year when the person,—
+  (a) in or before the current year, receives insurance or compensation (the earthquake compensation) for items of depreciable property (the affected property), each of which is—
+    (i) not depreciable intangible property; and
+    (ii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (10)(b); and
+    (iii) included in an affected class that is not linked with a replacement interest under section EZ 23BB; and
+  (b) is entitled to the earthquake compensation because each item of the affected property, as a result of a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, is affected by—
     (i) damage meeting the requirements of section EE 47(4) (Events for purposes of section EE 44); or
-    (ii) a disposal and reacquisition under section EZ 23C.
-  (b) in the absence of this section, would have in or before the current year, from insurance or compensation for the items of affected property (the affected class) in 1 of the categories referred to in subsection (10)(b), total depreciation recovery income under section EE 48 (Effect of disposal or event) exceeding the total amount for the affected class of depreciation loss, treated as a positive amount, under section EE 48; and
-  (c) plans in the current year to acquire depreciable property (the replacement property) meeting the requirements of subsection (7); and
-  (d) gives written notice to the Commissioner under subsection (9)—
-    (i) specifying the affected property:
+    (ii) a disposal and reacquisition under section EZ 23C or EZ 70; and
+  (c) would have, in the absence of this section, from the earthquake compensation for the affected property in the affected class, depreciation recovery income under section EE 48 (Effect of disposal or event) in or before the current year; and
+  (d) has a total amount of depreciation loss under section EE 48 for the affected property in the affected class that, treated as a positive amount, is less than the total amount of depreciation recovery income referred to in paragraph (c) by an amount (the excess recovery); and
+  (e) plans in the current year to acquire depreciable property (the replacement property) meeting the requirements of subsection (7); and
+  (f) gives written notice to the Commissioner under subsection (9)—
+    (i) specifying the affected property and affected class; and
     (ii) linking, for the purposes of this section, each item of acquired replacement property with an affected class.
-Depreciation recovery income and suspended recovery income
-(2) The amount for the affected class of the excess referred to in subsection (1)(b) (the excess recovery) is not depreciation recovery income except to the extent of the amount that—
-  (a) remains after adjustment under subsection (3) or (6) (the suspended recovery income); and
-  (b) is attributed to an income year by subsection (8).
+Suspended recovery income
+(2) For an affected class, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery that remains at the beginning of the current year after—
+  (a) adjustment under subsections (3) and (6) for an earlier income year; and
+  (b) attribution to an earlier income year by subsection (8).
+Depreciation recovery income
+(2B) The person has an amount of depreciation recovery income for the current year equal to the amount of suspended recovery income that is attributed to the current year by subsection (8).
 Effect of acquiring item of replacement property if suspended recovery income from affected property not in pool
-(3) If the person acquires an item of replacement property (the replacement item) and links the replacement item with affected property for which the person does not use the pool method, the amount given by subsection (4)—
+(3) If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person does not use the pool method, the amount given by subsection (4)—
   (a) is treated as not being included in the amount of the person's expenditure on the replacement item, for the purposes of determining—
     (i) under section EE 16(4) (Amount resulting from standard calculation) the item value or cost for the replacement item, if the person uses the diminishing value method or straight-line method for the replacement item; or
     (ii) under section EE 22 (Cases affecting pool) the cost of the replacement item, if the person uses the pool method for the replacement item; and
-  (b) is a reduction in the amount of the suspended recovery income for the affected property.
+  (b) is a reduction in the amount of the suspended recovery income for the affected class.
 Amount of reduction: expenditure on replacement item and suspended recovery income
-(4) The amount of the reduction under subsection (3)(a) or (b) for a replacement item and affected property for which the person does not use the pool method is—
-  (a) zero, if the cost of the affected property equals or is less than the person's total expenditure in acquiring, with or before the replacement item, other replacement property linked with the affected property; or
+(4) The amount of the reduction under subsection (3)(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
+  (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
   (b) the amount calculated using the formula—limited replacement cost × excess affected cost.
 Definition of items in formula
 (5) In the formula,—
   (a) limited replacement cost is the lesser of the following:
-    (i) the amount by which the cost of the affected property exceeds the total expenditure in acquiring, with or before the replacement item, other replacement property linked with the affected property:
+    (i) the amount by which the cost of the affected class exceeds the total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class:
     (ii) the amount of the expenditure on the replacement item:
   (b) excess is the excess recovery for the affected property:
   (c) affected cost is the total cost for the person of the affected property.
 Effect of acquiring item of replacement property if suspended recovery income from affected property in pool
-(6) If the person acquires an item of replacement property (the replacement item) and links the replacement item with affected property for which the person uses the pool method,—
-  (a) the amount of the person's expenditure on the replacement item is treated as being reduced, by the amount equal to the lesser of the amount of expenditure on the replacement item and the amount of suspended recovery income for the affected property after the acquisition of other replacement property with or before the replacement item, for the purposes of determining—
+(6) If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person uses the pool method,—
+  (a) the amount of the person's expenditure on the replacement item is treated as being reduced, by the amount equal to the lesser of the amount of expenditure on the replacement item and the amount of suspended recovery income for the affected property after the acquisition of other replacement property before the replacement item, for the purposes of determining—
     (i) the adjusted tax value of the replacement item, if subparagraphs (ii) or (iii) do not apply; or
-    (ii) the cost of the replacement item for the straight-line method, if that method is used to determine depreciation loss for the replacement item; and
+    (ii) the cost of the replacement item for the straight-line method, if that method is used to determine depreciation loss for the replacement item; or
     (iii) the adjusted tax value of the pool of the replacement item, if the person uses the pool method for the replacement item; and
-  (b) the amount of the suspended recovery income for the affected property is reduced by the amount of the treated reduction under paragraph (a).
+  (b) the amount of the suspended recovery income for the affected class is reduced by the amount of the treated reduction under paragraph (a).
 Requirements for replacement property
 (7) An item of replacement property for a person must—
-  (a) be depreciable property that is not depreciable intangible property; and
-  (b) be acquired in or before the person's 2015–16 income year; and
+  (a)
+  (b)
   (c) be included in the same category under subsection (10)(b) as the affected class with which the person links the item, if the affected class is described in subsection (10)(b)(i) or (ii); and
   (d) be located in greater Christchurch as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, if the item is a building, grandparented structure, or commercial fit-out.
-Amount of depreciation recovery income
-(8) The person has, in an income year for affected property, an amount of depreciation recovery income equal to the amount of suspended recovery income for the affected property—
-  (a) at the end of the income year, if that year is the 2015–16 income year and neither of paragraphs (b) and (c) apply earlier; or
-  (b) when in the income year the person decides not to acquire more replacement property, if neither of paragraphs (a) and (c) apply earlier; or
-  (c) when in the income year the person goes into liquidation or becomes bankrupt, if neither of paragraphs (a) and (b) apply earlier.
+Attribution of suspended recovery income to income year: other events
+(8) The person has, in the current year, an amount of depreciation recovery income for an affected class equal to the amount of suspended recovery income for the affected class—
+  (a) at the end of the current year, if that year is the 2018–19 income year and neither of paragraphs (b) and (c) apply earlier; or
+  (b) when in the current year the person decides not to acquire more replacement property, if neither of paragraphs (a) and (c) apply earlier; or
+  (c) when in the current year the person goes into liquidation or becomes bankrupt, if neither of paragraphs (a) and (b) apply earlier.
 Notice of election for affected property
 (9) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance or compensation for affected property must give written notice to the Commissioner—
   (a) for the earliest income year (the estimate year) in which the amount of the insurance or compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
@@ -18111,8 +18170,98 @@ Contents of notice of election
   (e) give the amount, for the affected class, of the suspended recovery income at the end of the current year.
 Disposal of replacement property: reduction in cost treated as depreciation loss
 (11) For the purposes of section EE 48, the amount by which a person's expenditure on a replacement item is treated as being reduced under subsection (3) or (6) is an amount of depreciation loss for the item for which the person has been allowed a deduction.
+Removal of link by election under section EZ 23BB
+(11B) If a person in the current year has an amount of suspended recovery income for an affected class of buildings or grandparented structures and has made an election under this section to link replacement property (the linked property) to the affected class and has not incurred expenditure in acquiring the linked property,—
+  (a) the person may choose to make an election under section EZ 23BB linking the affected class with replacement property, which may include linked property:
+  (b) a consequence of an election referred to in paragraph (a) is that the affected class and the linked property are treated as not being linked under this section for the current year.
+Order of acquisition for items acquired at same time
+(11C) If items of replacement property are acquired at the same time and the effect of this section depends on the order in which the items are acquired, the items are treated as being acquired in the order chosen by the person in the first return of income for which the order of acquisition is taken into account.
 Relationship to subpart EE
 (12) This section overrides subpart EE (Depreciation).
+
+### EZ 23BB Interest in property acquired after depreciable property affected by Canterbury earthquakes
+When this section applies
+(1) This section applies for a person and an income year (the current year) before the 2019–20 income year when the person,—
+  (a) in or before the current year, receives insurance or compensation (the earthquake compensation) for items of depreciable property (the affected property), each of which is—
+    (i) not depreciable intangible property; and
+    (ii) not property for which the person uses the pool method; and
+    (iii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (11)(b); and
+    (iv) not linked with replacement property under section EZ 23B or has a link with replacement property that may be removed under section EZ 23B(11B); and
+  (b) is entitled to the earthquake compensation because each item of the affected property, as a result of a Canterbury earthquake as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, is affected by—
+    (i) damage meeting the requirements of section EE 47(4) (Events for purposes of section EE 44); or
+    (ii) a disposal and reacquisition under section EZ 23C or EZ 70; and
+  (c) would have, in the absence of this section, from the earthquake compensation for the affected class, depreciation recovery income under section EE 48 (Effect of disposal or event) in or before the current year; and
+  (d) has a total amount of depreciation loss under section EE 48 for the affected class that, treated as a positive amount, is less than the total amount of depreciation recovery income referred to in paragraph (c) by an amount (the excess recovery); and
+  (e) has in the current year an interest (a replacement interest) in a voting interest in a company (the owning company) having the purpose of acquiring depreciable property (the replacement property) meeting the requirements of subsection (6); and
+  (f) holds the voting interest in the owning company or is the settlor of a trust of which the trustee holds the voting interest; and
+  (g) gives written notice to the Commissioner under subsection (10).
+Suspended recovery income
+(2) For a replacement interest, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery, for the affected property with which the replacement interest is linked under subsections (10) and (11), that remains at the beginning of the current year after—
+  (a) adjustment under subsections (3), (8), and (9) for an earlier income year; and
+  (b) attribution to an earlier income year by subsections (8) to (10).
+Effect of acquiring interest in replacement property if suspended recovery income from affected class
+(3) If the person acquires a replacement interest and links the replacement interest with an affected class, the amount calculated using the formula in subsection (4)—
+  (a) is an amount of suspended recovery income for the replacement interest; and
+  (b) is a reduction in the amount of the depreciation recovery income for the affected class.
+Suspended recovery income for replacement interest and reduction of suspended recovery income for affected class
+(4) The amount under subsection (3)(a) and (b) for a replacement interest and affected class is—
+  (a) zero, if the cost of the affected property in the affected class equals or is less than the total of the fractional interest values for other replacement interests acquired by the person before the replacement interest; or
+  (b) the amount calculated using the formula—limited replacement cost × excessaffected cost.
+Definition of items in formula
+(5) In the formula,—
+  (a) limited replacement cost is the lesser of—
+    (i) the fractional interest value of the replacement interest:
+    (ii) the amount by which the total cost for the person of the affected property in the affected class exceeds the total amount of the fractional interest values of other replacement interests acquired by the person before the replacement interest:
+  (b) excess is the excess recovery for the affected class:
+  (c) affected cost is the total cost for the person of the affected property in the affected class.
+Requirements for replacement property
+(6) An item of replacement property for a person or owning company must—
+  (a) be included in the same category under subsection (11)(b) as the affected class with which the person links the item, if the affected class is described in subsection (11)(b)(i) or (ii); and
+  (b) be located in greater Christchurch as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, if the item is a building or commercial fit-out.
+Depreciation recovery income and suspended recovery income
+(7) The amount of suspended recovery income for a person's replacement interest is not depreciation recovery income for the person arising from the replacement interest unless it is attributed to an income year by subsections (8) and (9).
+Depreciation recovery income: disposal of replacement property by owning company
+(8) If the owning company in which a person has a replacement interest disposes of the replacement property in an income year, and subsection (9) does not apply earlier,—
+  (a) the person has, in the income year for the replacement interest, an amount of depreciation recovery income equal to the fractional interest value of the replacement interest calculated under subsection (12); and
+  (b) the suspended recovery income for the replacement interest is reduced by the amount referred to in paragraph (a).
+Depreciation recovery income: other events
+(9) The person has, in an income year, an amount of depreciation recovery income equal to the suspended recovery income for a replacement interest and affected property, and the suspended recovery income for the replacement interest and affected property is reduced to zero,—
+  (a) at the end of the income year, if—
+    (i) the income year is the 2018–19 income year; and
+    (ii) the owning company does not acquire the replacement property relating to the replacement interest and the affected property before the end of the income year; and
+    (iii) neither of paragraphs (b) and (c) apply earlier; or
+  (b) when in the income year the person disposes of the replacement interest, if neither of paragraphs (a) and (c) apply earlier; or
+  (c) when in the income year the person goes into liquidation or becomes bankrupt, if neither of paragraphs (a) and (b) apply earlier.
+Notice of election for affected property
+(10) A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from earthquake compensation must give written notice under this section, or under section EZ 23B for years before the current year, to the Commissioner—
+  (a) for the earliest income year (the estimate year) in which the amount of the earthquake compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
+  (b) if the current year is after the estimate year,—
+    (i) for each income year between the estimate year and the current year, by the date on which the return of income is filed for that income year; and
+    (ii) for the current year, by the date on which the return of income is filed for the current year.
+Contents of notice of election
+(11) A notice under subsection (10) for the current year must—
+  (a) describe the affected property; and
+  (b) indicate in which of the following categories each item of affected property is included:
+    (i) a building or grandparented structure:
+    (ii) commercial fit-out:
+    (iii) depreciable property not referred to in subparagraphs (i) and (ii); and
+  (c) indicate which items of affected property were linked with replacement property under section EZ 23B before the current year; and
+  (d) give details of each item of replacement property in which a replacement interest is held in the current year, and the affected class to which the person is linking the replacement interest; and
+  (e) for each replacement interest held in the current year, give the amount of the expenditure by the owning company on the replacement property, the shareholding of the person's holding entity in the owning company, and the shareholding of the person in, or the fraction of the trust corpus that has been settled by the person on, the person's holding entity; and
+  (f) for each category of replacement property, give the amount of the suspended recovery income at the end of the current year; and
+  (g) for each category of replacement property, give the amount of depreciation recovery income for the current year.
+Formula for calculating fractional interest value
+(12) For a person with a replacement interest in replacement property, the fractional interest value of the replacement interest for the purposes of this section is the value calculated using the formula—person's fractional interest × replacement expenditure.
+Definition of items in formula
+(13) In the formula,—
+  (a) person's fractional interest is—
+    (i) the voting interest of the person in the owning company; or
+    (ii) the fraction calculated by multiplying the voting interest in the owning company held by the trustee of a trust of which the person is a settlor by the fraction of the trust corpus that has been settled by the person:
+  (b) replacement expenditure is the amount of the expenditure by the owning company on the replacement property.
+Order of acquisition for items acquired at same time
+(14) If items of replacement property are acquired at the same time and the effect of this section depends on the order in which the items are acquired, the items are treated as being acquired in the order chosen by the person in the first return of income for which the order of acquisition is taken into account.
+Relationship to subpart EE
+(15) This section overrides subpart EE (Depreciation).
 
 ### EZ 23C Insurance for Canterbury earthquake damage of property: deemed sale and purchase
 When this section applies
@@ -20564,9 +20713,9 @@ When ownership interest more than 50%
 
 ### FE 41 Treatment of associated persons’ interests
 Aggregating ownership interests
-(1) For the purposes of section FE 39, a person’s direct ownership interests include the direct ownership interests of a person associated with them. But if an aggregation of ownership interests results in the same percentage shares or rights in a company being counted more than once, the person’s ownership interest in the company must be adjusted to the extent necessary to avoid multiple counting.
+(1) For the purposes of section FE 40, a person’s direct ownership interests include the direct ownership interests of a person associated with them. But if an aggregation of ownership interests results in the same percentage shares or rights in a company being counted more than once, the person’s ownership interest in the company must be adjusted to the extent necessary to avoid multiple counting.
 Relative resident in New Zealand
-(2) For the purposes of sections FE 38 to FE 40, a non-resident who does not have a direct or an indirect ownership interest in a company and a relative resident in New Zealand are not associated persons in relation to the company.
+(2) For the purposes of section FE 38 or FE 40, as applicable, a non-resident who does not have a direct or an indirect ownership interest in a company and a relative resident in New Zealand are not associated persons in relation to the company.
 
 ### Subpart FF — Interest apportionment for conduit investment
 
@@ -20998,6 +21147,7 @@ When company eligible
   (c) it is not a company that derives only exempt income, except exempt income under sections CW 9 and CW 10 (which relate to income from equity); and
   (d) it is incorporated in New Zealand or carrying on a business in New Zealand through a fixed establishment; and
   (e) it is not, by the law of another country or territory, liable to income tax in that country or territory through domicile, residence, or place of incorporation; and
+  (eb) it is a member of the same wholly-owned group of companies as the other members of the consolidated group; and
   (f) when subsection (2) or (4) applies, it meets the relevant conditions; and
   (g) subsection (6) does not apply to it.
 Restriction when company of certain type
@@ -21118,7 +21268,7 @@ Notifying date
   (a) provide the notice within 20 working days after the date on which the company’s eligibility or entitlement ended, although the Commissioner may agree to extend this period if it is reasonable to do so in the circumstances; and
   (b) provide part-year financial statements under section FM 14.
 Anti-avoidance measure
-(5) A notice under this section is not valid if it is made in connection with an arrangement entered into for a purpose of enabling the company to leave a consolidated group so as to defeat the intent and application of the consolidation rules. When this subsection applies, the company is treated as leaving the consolidated group on the date on which its eligibility or entitlement ended.
+(5) A notice under this section is not valid if it is made in connection with an arrangement entered into for a purpose of enabling the company to leave a consolidated group so as to defeat the intent and application of the consolidation rules. When this subsection applies, the company is treated as leaving the consolidated group at the beginning of the tax year in which its eligibility or entitlement ended.
 
 ### FM 41 No nominated company
 If, during an income year, no nominated company exists for a consolidated group and no company that is part of the consolidated group is notified as a replacement under section FM 34(3), all companies in the consolidated group are treated as having left the consolidated group with effect from the start of the income year. Section FM 34(5) overrides this section.
@@ -21155,7 +21305,7 @@ When company eligible
   (a) it is resident in New Zealand or resident in Australia; and
   (b) it is part of the same wholly-owned group of companies; and
   (c) it is not treated under a double tax agreement as resident in a country other than New Zealand or Australia, as applicable, for the purposes of taxation in the relevant country; and
-  (d) it is required to maintain an imputation credit account under section OB 1 (General rules for companies with imputation credit accounts), or chooses to maintain an account under section OB 2 (Australian companies with imputation credit accounts); and
+  (d) it is required to maintain an imputation credit account under section OB 1 (General rules for companies with imputation credit accounts) or because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts); and
   (e) if it is a company that is part of a consolidated group, it meets the criteria set out in subsection (2); and
   (f) if it is a qualifying company or a mining company, it meets the condition set out in subsection (3); and
   (g) subsection (5) does not apply to it.
@@ -21256,7 +21406,7 @@ Notifying date
 First tax year
 (4) Despite subsections (2) and (3), if a company leaves an imputation group in the same tax year in which it became part of the imputation group, the company is treated as leaving the group on the date when it became part of the imputation group, and not at the start of the tax year.
 Anti-avoidance measure
-(5) A notice under this section is not valid if it is made in connection with an arrangement entered into for a purpose of enabling the company to leave an imputation group so as to defeat the intent and application of the imputation rules. When this subsection applies, the company is treated as leaving the imputation group on the date on which its eligibility or entitlement ended.
+(5) A notice under this section is not valid if it is made in connection with an arrangement entered into for a purpose of enabling the company to leave an imputation group so as to defeat the intent and application of the imputation rules. When this subsection applies, the company is treated as leaving the imputation group at the beginning of the tax year in which its eligibility or entitlement ended.
 
 ### FN 13 Imputation group with no nominated company
 If, during a tax year, no nominated company exists for an imputation group and no replacement is made under section FN 6(6), all companies in the imputation group are treated as having left the imputation group with effect from the start of the tax year.
@@ -21570,16 +21720,16 @@ Requirements of other provisions
 
 ### FZ 7 Valuation of group assets: insurance proceeds from Canterbury earthquake
 When this section applies
-(1) This section applies for the purposes of sections FE 16 and FE 18 (which relate to the valuation of the assets of a person's New Zealand group and worldwide group) and a person if—
+(1) This section applies for the purposes of sections FE 16 (Total group assets) and FE 18 (Measurement of debts and assets of worldwide group) and a person if—
   (a) an asset of the person's New Zealand group is damaged as a result of a Canterbury earthquake, as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) the asset is impaired, or derecognised, under generally accepted accounting practice as a result of the damage; and
+  (b) the asset is impaired or derecognised, under generally accepted accounting practice as a result of the damage; and
   (c) insurance for the damage is recognised at a later date under generally accepted accounting practice.
 Optional treatment of insurance
 (2) The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person's New Zealand group during the period—
   (a) beginning with the impairment or derecognition of the asset; and
   (b) ending before the earlier of—
     (i) the recognition of the amount of insurance:
-    (ii) the beginning of the 2016–17 income year.
+    (ii) the beginning of the 2019–20 income year.
 Corresponding treatment for worldwide group
 (3) If a person includes an amount under subsection (2) in the value of the total group assets of the person's New Zealand group for a period, the person must include the amount in the value of the total group assets of the person's worldwide group for the period.
 Notice to Commissioner
@@ -22195,7 +22345,7 @@ Exemption for shareholder-employees and corporate associates
 Exemption for LTCs and partnerships
 (2B) Subsection (3) does not apply when—
   (a) the benefit is provided by an employer that is—
-    (i) an LTC:
+    (i) a look-through company (an LTC):
     (ii) a partnership or limited partnership; and
   (b) the person associated with the employee, described in subsection (1)(a), is—
     (i) an owner of the relevant LTC:
@@ -22357,10 +22507,10 @@ Some definitions
 ### GB 44 Arrangements involving tax credits for families
 When this section applies
 (1) This section applies if both of the following paragraphs are met:
-  (a) a person (the claimant) enters into an arrangement with another person:
-  (b) a purpose of the arrangement is that subparts MA to MF and MZ (which relate to tax credits for families) has a more favourable effect for the claimant than would otherwise have occurred.
+  (a) a person enters into an arrangement:
+  (b) a purpose of the arrangement is that subparts MA to MF and MZ (which relate to tax credits for families) has a more favourable effect than would otherwise have occurred.
 Credit reduced
-(2) The claimant’s tax credit under subparts MA to MF and MZ is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
+(2) A tax credit under subparts MA to MF and MZ is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
 
 ### GB 45 Arrangements involving money not at risk
 Application of section GB 46
@@ -22732,7 +22882,7 @@ In this Act, a qualifying company means a company other than a unit trust that, 
 Becoming and continuing as qualifying company
 (1) The requirements of sections HA 5 to HA 9 are preconditions of, and ongoing conditions for, qualifying companies. For a company to become and to continue as a qualifying company, the requirements of those sections must be met.
 Losing status
-(2) Sections HA 11 and HA 12 apply in relation to a failure to maintain the requirements and avoidance arrangements.
+(2) Section HA 11 applies in relation to a failure to maintain the requirements and avoidance arrangements.
 Avoidance
 (3) Section GB 6 (Arrangements involving qualifying companies) may apply to treat a company as not being a qualifying company.
 
@@ -25239,7 +25389,7 @@ Formula
 (2) The formula is—percentage × (income − loss)−(expenses − credits for fees).days in period
 Definition of items in formula
 (3) In the formula,—
-  (a) percentage is the percentage of the investor’s entitlement to a distribution by the PIE to the investor class:
+  (a) percentage is the percentage of the investor's entitlement for the day to a distribution by the PIE to the investor class for the period:
   (b) income is the amount of taxable income determined under section HM 35(5) and (7) for the period:
   (c) loss is the amount of tax loss determined under section HM 35(5) and (7) for the period:
   (d) days in period is the number of days in the period:
@@ -25477,7 +25627,7 @@ Definition of items in formula
   (d) days in period is the number of days in the attribution period.
 Supplementary dividends and foreign investment PIEs
 (5) For the purposes of this section and for a payment of a dividend and related supplementary dividend to a foreign investment PIE, the dividend is treated as if it were divided into separate dividends as follows:
-  (a) a dividend of an amount that represents the part to which the notified foreign investors in the PIE who meet the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends) are entitled; and
+  (a) a dividend of an amount that represents the part to which the notified foreign investors in the PIE who meet the requirements of section LP 2(1)(c) (Tax credits for supplementary dividends) are entitled; and
   (b) a dividend of an amount that represents the remaining part to which all investors other than those referred to in paragraph (a) are entitled.
 Imputation credits: first part
 (6) The imputation credits for the dividend referred to in subsection (5)(a) are treated as attached to that part as if it were a separate dividend.
@@ -25605,7 +25755,7 @@ Foreign investment variable-rate PIEs
 When this section applies
 (1) This section applies when—
   (a) a foreign investment PIE has an investment consisting of shares in a company resident in New Zealand; and
-  (b) a notified foreign investor in the PIE is a non-resident who meets the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends); and
+  (b) a notified foreign investor in the PIE is a non-resident who meets the requirements of section LP 2(1)(c) (Tax credits for supplementary dividends); and
   (c) the company has declared a dividend to be paid on a later date.
 Notification by PIE
 (2) The PIE must notify the company of the investors referred to in subsection (1)(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
@@ -25832,7 +25982,7 @@ Election to become foreign investment PIE
 
 ### HM 72 When elections take effect
 Notice of election
-(1) An election under section HM 71 or HM 71B to become a PIE or a foreign investment PIE, as applicable takes effect on the latest of the following dates:
+(1) An election under section HM 71 or HM 71B to become a PIE or a foreign investment PIE, as applicable, takes effect on the latest of the following dates:
   (a) the date the entity is formed:
   (b) the date set out in the notice:
   (c) 30 days before the Commissioner receives the notice.
@@ -27576,7 +27726,7 @@ Section LD 1 does not apply to—
 ### LD 3 Meaning of charitable or other public benefit gift
 Meaning
 (1) For the purposes of this subpart, a charitable or other public benefit gift—
-  (a) means a gift of $5 or more that is paid to a society, institution, association, organisation, trust, or fund, described in subsection (2) or listed in schedule 32 (Recipients of charitable or other public benefit gifts):
+  (a) means a monetary gift of $5 or more that is paid to a society, institution, association, organisation, trust, or fund, described in subsection (2) or listed in schedule 32 (Recipients of charitable or other public benefit gifts):
   (b) includes a subscription paid to a society, institution, association, organisation, trust, or fund, only if the subscription does not confer any rights arising from membership in that or any other society, institution, association, organisation, trust, or fund:
   (c) does not include a testamentary gift.
 Description of organisations
@@ -29240,7 +29390,7 @@ Definition of items in formula
     (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 21.25 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 56-day period includes 31 March
-(4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives fortnightly instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+(4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
   (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
   (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
 Order in Council increasing amount
@@ -29991,7 +30141,7 @@ Relationship with sections OZ 8 and OZ 9
 
 ### OB 1 General rules for companies with imputation credit accounts
 New Zealand resident
-(1) A company that is resident in New Zealand (the imputation credit account (ICA) company) must establish and maintain an imputation credit account for a tax year. Subsection (2) overrides this subsection.
+(1) A company that is resident in New Zealand is a company (an ICA company) that must establish and maintain an imputation credit account for a tax year. Subsection (2) overrides this subsection.
 Exclusions
 (2) A company that is resident in New Zealand is excluded from being an ICA company if it is—
   (a) a company that—
@@ -30008,17 +30158,17 @@ Exclusions
 Exception to subsection (2): Australian resident
 (3)
 
-### OB 2 Australian companies with imputation credit accounts
-Company resident in Australia
-(1) A company that is resident in Australia may choose to establish and maintain an imputation credit account.
+### OB 2 Australian companies choosing to have imputation credit accounts
+Election to be Australian ICA company
+(1) A company that is resident in Australia may choose, by notifying the Commissioner, to be obliged to establish and maintain an imputation credit account.
 Ineligibility
 (2) Despite meeting the residency requirements, a company is not eligible to make an election referred to in subsection (1) if—
   (a) the company—
     (i) is a company referred to in section OB 1(2)(a)(ii) to (iv), and (b) to (f); or
     (ii) is treated as resident in a country other than Australia under an agreement between Australia and the other country that would be a double tax agreement if negotiated between New Zealand and that other country; or
   (b) an earlier election has been revoked by the Commissioner under subsection (7)(b), and the company has not shown the Commissioner that it has taken adequate steps to prevent the grounds of revocation occurring again.
-Election, and when status starts
-(3) The election is made by notifying the Commissioner, and the company must maintain an imputation credit account from the following date, as applicable:
+When electing company becomes Australian ICA company
+(3) A company making an election under subsection (1) must maintain an imputation credit account from the following date, as applicable:
   (a) the first day of the tax year in which the Commissioner is notified:
   (b) for the purposes of section OB 60,—
     (i) for a company that is formed or becomes eligible in the tax year, the first day of the tax year in which the Commissioner receives the notice and the Commissioner notifies the company of that date; or
@@ -30031,7 +30181,7 @@ Dividend in Australian currency
 (6) An Australian ICA company that pays a dividend in Australian currency must make a currency conversion under section OB 60(6).
 How status ends
 (7) A company ends its status as an Australian ICA company if—
-  (a) the company becomes ineligible to maintain an imputation credit account; or
+  (a) the company ceases to be resident in Australia or meets a requirement of subsection (2)(a) or (b); or
   (b) the company revokes the election by notifying the Commissioner; or
   (c) the Commissioner gives the company notice revoking the election.
 When status ends
@@ -30593,7 +30743,10 @@ Debit date
 
 ### OB 47 Debit for policyholder base imputation credits
 Debit
-(1) An ICA company has an imputation debit for the amount of an imputation credit attached to a dividend derived by the company, to the extent to which it is derived by it as a life insurer and apportioned to their policyholder base.
+(1) An ICA company has an imputation debit for the amount of an imputation credit attached to a dividend derived by the company, to the extent to which it is—
+  (a) derived by it as a life insurer; and
+  (b) apportioned to their policyholder base; and
+  (c) not affected by a debit under section OB 41.
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 20 (debit for policyholder base imputation credits).
 Debit date
@@ -32725,7 +32878,10 @@ Debit date
 
 ### OP 44 Consolidated ICA debit for policyholder base imputation credits
 Debit
-(1) A consolidated imputation group has an imputation debit for the amount of an imputation credit attached to a dividend derived by a group company, to the extent to which it is derived by a group company that is a life insurer and apportioned to that life insurer's policyholder base.
+(1) A consolidated imputation group has an imputation debit for the amount of an imputation credit attached to a dividend derived by a group company, to the extent to which it is—
+  (a) derived by a group company that is a life insurer; and
+  (b) apportioned to that life insurer's policyholder base; and
+  (c) not affected by a debit under section OP 42.
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 18 (debit for policyholder base imputation credits).
 Debit date
@@ -34477,6 +34633,7 @@ Payments to Governor-General, members of Parliament, and judicial officers
   (aa) salary made to the Governor-General:
   (a) salary or allowances made to a member of Parliament:
   (b) salary and principal allowances made to a judicial officer.
+Sum payable after office of Governor-General becomes vacant
 (5B) A payment to a person made under section 7 of the Governor-General Act 2010 is included in the salary and wages of that person.
 Certain benefits and grants
 (6) A payment of the following benefits or grants is included in salary or wages
@@ -34568,7 +34725,7 @@ Relationship with section RD 17
 Schedular payments
 (3) The amount of tax for a schedular payment is determined—
   (a) at the relevant rate set out in schedule 4 (Rates of tax for schedular payments); and
-  (b) on the basis of the gross amount of the payment, whether—
+  (b) on the basis of the gross amount of the payment, other than GST, whether—
     (i) some or all of the payment is income; and
     (ii) the full income tax liability lies with the person receiving the payment, or lies partly with an employee or subcontractor of the person.
 Tax tables
@@ -35509,7 +35666,7 @@ Non-cash dividends
 
 ### RE 4 Persons who have withholding obligations
 Requirements
-(1) A person referred to in section RE 3(1)(a) must meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
+(1) A person referred to in section RE 3(1)(a) meets the requirements of this section for an obligation to withhold an amount of tax if they meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
 Requirement for person
 (2) The person must be, at the time the payment is made,—
   (a) resident in New Zealand; or
@@ -35525,10 +35682,10 @@ Requirements for person and payment
   (e) the payment is a replacement payment under a share-lending arrangement.
 When person not treated as resident or carrying on taxable activity
 (4) For the purposes of subsection (2), a person who is not resident in New Zealand and is carrying on a taxable activity in New Zealand through a fixed establishment in New Zealand, is treated as not meeting the requirements of the subsection if they establish that, at the time the payment is made,—
-  (a) either,—
-    (i) for interest or a dividend, the payment is attributable to or effectively connected with a fixed establishment of the person outside New Zealand; or
-    (ii) for a dividend, the company is not resident in New Zealand; and
-  (b) all amounts payable in relation to money lent or shares to which the payment relates are payable in a currency other than New Zealand currency.
+  (a) for an amount payable in relation to money lent or to shares issued by another person,—
+    (i) the payment is attributable to or effectively connected with a fixed establishment of the person outside New Zealand; and
+    (ii) all amounts payable in relation to the money lent or to the shares are payable in a currency other than New Zealand currency:
+  (b) for dividends payable in relation to shares issued by the person, the person is not required by generally accepted accounting practice to express its financial statements in New Zealand currency.
 Currency conversion
 (5) A person who is required to withhold RWT in relation to a payment of resident passive income that is in a currency other than New Zealand currency may withhold and pay the amount of the RWT in the foreign currency.
 Conversion rates: credit
@@ -36347,7 +36504,7 @@ Amount of refund or transfer limited
   (b) the last day of a period for which the company is required to file a return under section 70(1) of the Tax Administration Act 1994:
   (c) the last day of a period for which the company filed an annual ICA return under section 70(3) of that Act.
 Time for filing returns
-(3) Subsection (2) does not apply if the ICA company has an extension of time to file its annual ICA return for a tax year. In that case, the total amount refunded or transferred must be no more than the credit balance of the ICA company in its imputation credit account on the last day of the tax year to which the ICA return relates.
+(3) Subsection (2) does not apply if the ICA company has an extension of time to file its annual ICA return for a tax year and files the return within the extended time allowed. In that case, the total amount refunded or transferred must be no more than the credit balance of the ICA company in its imputation credit account on the last day of the tax year to which the ICA return relates.
 
 ### RM 14 Limits on refunds when company stops being ICA company
 When this section applies
@@ -37192,7 +37349,7 @@ In this Act, unless the context requires otherwise,—
   - **Australian complying superannuation scheme** means an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority
   - **Australian exempt public sector superannuation scheme** means an exempt public sector superannuation scheme as defined in section 10 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian financial year** is defined in section CV 8(3) (Regulations: Australian wine producer rebate) for the purposes of that section
-  - **Australian ICA company** means a company referred to in section OB 2(1) (Australian companies with imputation credit accounts)
+  - **Australian ICA company** is a company that must establish and maintain an imputation credit account because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts)
   - **Australian non-attributing shares** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
   - **Australian regulated superannuation fund** means a regulated superannuation fund as defined in section 19 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian retirement savings account** means a retirement savings account as defined in section 8 of the Retirement Savings Accounts Act 1997 (Aust)
@@ -37528,7 +37685,7 @@ In this Act, unless the context requires otherwise,—
   - **co-operative company** does not include a statutory producer board
   - **copyright in a sound recording** means the copyright in the version of the recording of which copies have been sold or offered for sale to the public
   - **core acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **corpus** is defined in section HC 4 (Corpus of trust) for the purposes of the trust rules
+  - **corpus** is defined in section HC 4 (Corpus of trust)
   - **corresponding income year** , for a tax year, means an income year that ends in the period starting on 1 October in the tax year and ending on 30 September immediately after the tax year
   - **cost** ,—
     (a) in subpart EB (Valuation of trading stock (including dealer’s livestock)), for trading stock, means costs incurred in the ordinary course of business to bring trading stock to its present location and condition, including purchase costs and costs of production, calculated under sections EB 6 to EB 8 (which relate to costs for standard valuations), EB 15 to EB 18 (which relate to costs for low-turnover traders), and EB 22 (Valuing closing stock consistently for low-turnover traders):
@@ -38359,7 +38516,9 @@ In this Act, unless the context requires otherwise,—
   - **housekeeper**
   - **housekeeping payments**
   - **ICA** means imputation credit account
-  - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
+  - **ICA company** means a company that must establish and maintain an imputation credit account,—
+    (a) as a New Zealand resident company, under section OB 1 (General rules for companies with imputation credit accounts):
+    (b) as an Australian ICA company, because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
   - **identical share** means a share that confers the same rights and imposes the same obligations on a holder as an original share
   - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, approved or issued under the Financial Reporting Act 1993, and as amended from time to time or an equivalent standard issued in its place
@@ -38651,6 +38810,7 @@ In this Act, unless the context requires otherwise,—
   - **limited partnership deduction** is defined in section HG 11(12) (Limitations on deductions by partners in limited partnerships) for the purposes of that section
   - **limited partnership net deduction**
   - **limited-recourse amount** is defined in section GB 48(2) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
+  - **limited-recourse arrangement** is defined in section DB 31(5B) (Bad debts) for the purposes of that section
   - **limited-recourse loan** is defined in section GB 48(3) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **lines trust** means a trustee of a trust that—
   (a) has had shares allocated or transferred to or vested in it, being shares in—
@@ -39086,8 +39246,8 @@ In this Act, unless the context requires otherwise,—
   - **NZIAS 8** means New Zealand Equivalent to International Accounting Standard 8, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 17** means New Zealand Equivalent to International Accounting Standard 17, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 23** means New Zealand Equivalent to International Accounting Standard 23, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 28** means New Zealand Equivalent to International Accounting Standard 28 approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 31** means New Zealand Equivalent to International Accounting Standard 31 approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 28** means New Zealand Equivalent to International Accounting Standard 28 approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 31** means New Zealand Equivalent to International Accounting Standard 31 approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
@@ -39122,6 +39282,7 @@ In this Act, unless the context requires otherwise,—
     (b) is entered into on or after 20 May 1999
   - **operational allowance** is defined in section CW 23(4) (Income for military or police service in operational area) for the purposes of that section
   - **operational area** is defined in section CW 23(4) (Income for military or police service in operational area) for the purposes of that section
+  - **operational expenditure** is defined in section DU 11(4) (Meaning of mining development expenditure) for the purposes of that section and section IS 2 (Treatment of net losses resulting from certain expenditure)
   - **option** , in sections FB 10 (Continuity provisions: shares and options), GB 5 (Arrangements involving trust beneficiaries), and YC 2, YC 3, YC 5, YC 8, and YC 9 (which relate to the measurement of company ownership), and in the definitions of (paragraphs (a) and (b)), (paragraphs (c) to (f)), , and , includes an agreement for sale at a time when beneficial ownership of the property sold has not completely passed to the purchaser
   - **ordering rule** means the rule set out in section CD 23(1) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **original share** means a share in a company that is described as the original share in the definition of
@@ -39161,7 +39322,7 @@ In this Act, unless the context requires otherwise,—
     (b) a joint venture, if the joint venturers all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (c) co-owners of property, other than persons who are co-owners only because they are shareholders of the same company, or settlors, trustees, or beneficiaries of the same trust, if the co-owners all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (d) a limited partnership
-  - **partnership share** means, for a particular right, obligation, or other property, status, or thing, the share that a partner has the partnership it
+  - **partnership share** means, for a particular right, obligation, or other property, status, or thing, the share that a partner has in the partnership
   - **patent right** means the right to do or authorise anything that would, but for the right, be an infringement of a patent
   - **pay** ,—
     (a) for an amount and a person, includes—
@@ -39757,14 +39918,14 @@ In this Act, unless the context requires otherwise,—
   - **services** ,—
     (a) in sections CD 5 (What is a transfer of value?) and EA 3 (Prepayments), means anything that is not goods, money, or a chose in action:
     (b) in sections CX 1 (Goods and services tax) and DB 2 (Goods and services tax), means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
-  - **settlement** , in section FE 2 (When this subpart applies) and subpart HC (Trusts), in the trust rules, and in the definitions of , and ,—
+  - **settlement** —
     (a) means—
       (i) an act or failure to act on the part of a person that has the effect of making the person a settlor; or
       (ii) a transaction or series of transactions that a person enters into and that has the effect of making the person a settlor; and
     (b) includes a settlement that a person is treated as making because the person is treated as being a settlor of the settlement
   - **settlement of relationship property** is defined in section FB 1(3) (What this subpart does) for the purposes of subpart FB (Transfers of relationship property)
   - **settlor** ,—
-    (a) is defined in section HC 27 (Who is a settlor?) for the purposes of section CW 59 (New Zealand companies operating in Niue), section MB 7 (Family scheme income of settlor of trust), subpart YB (Associated persons and nominees), the consolidation rules, the trust rules, and the definition of settlement:
+    (a) is defined in section HC 27 (Who is a settlor?):
     (b) in sections HC 36 and HC 37 (which relate to minor beneficiaries), has the meaning given in paragraph (a), with the following qualifications:
       (i) in section HC 27(2) if the transfer of value is the provision of financial assistance by way of a loan for less than market value, it means loans existing on or after 1 April 2002 for which the interest rate on the amount borrowed is at any time during a tax year less than the interest rate set out in the Income Tax (Fringe Benefit Tax, Interest on Loans) Regulations on 31 March of the previous tax year; and
       (ii) in section HC 27(2) the transfer of value does not include the provision of financial assistance by way of a guarantee that was not called on or the provision of security that was not called on; and
@@ -41308,7 +41469,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 8, the basic rate of income tax for the person on each dollar of the person’s taxable income is calculated using the formula—tax under table 1taxable income:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 upwards0.330How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1taxable income:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 upwards0.330How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -52797,3 +52958,99 @@ This Act is the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Ac
   (a) inconsistent with subsections (3) and (4); and
   (b) taken in a tax return filed before the date on which the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Bill is first considered by a committee of the whole House.
 ((43)–(45)) Amendment(s) incorporated in the Act(s).
+
+### 1 Title
+This Act is the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 139 comes into force on 24 October 2001.
+(3) Section 142 comes into force on 1 April 2005.
+(4) Sections 15, 17, 34(1), (2), (3), (5), and (9), 37, 71, 72(1), (4), and (5), 73(1) and (4), 74, 75, 82, 119, 120, 123(2), 124, 125, 126, 127(4), (13), (41), and (54), 136, 138, and 144(a) come into force on 1 April 2008.
+(5) Section 5 comes into force on 1 January 2009.
+(6) Section 20 comes into force on 1 April 2009.
+(7) Section 89 comes into force on 1 April 2010.
+(8) Sections 39(1) and (3) to (5), 58(1), (3), and (8), 59, 60, 61(1) to (3) and (5), 62(1) and (3), 63, 121, and 122 come into force on 1 July 2010.
+(9) Sections 28, 29(1), 48, 64, 65, 76, 127(6), (50), and (51) come into force on 4 September 2010.
+(10) Section 128 comes into force on 1 April 2011.
+(11) Section 127(38) and (39) come into force on 1 July 2011.
+(12) Sections 85, 86, 87, 88, and 92 come into force on 29 August 2011.
+(13) Section 79 comes into force on 2 November 2012.
+(14) Sections 35, 90, 91, and 123(1) come into force on 1 April 2013.
+(15) Sections 146 to 149 come into force on 17 April 2013.
+(16) Sections 30, 34(4), (6), (7), and (8), and 127(16) come into force on 20 May 2013.
+(17) Section 49 comes into force on 25 June 2013.
+(18) Sections 10, 42, 47, and 57 come into force on the first day of the first financial quarter beginning after this Act receives the Royal assent.
+(19) Sections 6, 7, 8, 9, 11, 12, 13, 14, 16, 18, 19, 21, 22, 23, 24, 25, 26, 27, 31, 32, 33, 36, 40, 41, 43, 45, 46, 50, 51, 52, 53, 54, 55, 56, 67, 69, 70, 72(2) and (3), 73(2) and (3), 77, 78, 81, 83, 84, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 108, 109, 110, 111, 112, 114, 115, , 118, 127(2), (3), (5), (7), (8), (9), (10), (11), (12), (14), (15), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (11632), (33), (34), (35), (36), (37), (42), (43), (44), (45), (46), (47), (48), (49), (52), (53), and (55), 129, 130, 137, 140(1), 141, 143, and 144(b) come into force on 1 April 2014.
+(20) Sections 44, 66, and 68 come into force on 1 April 2016.
+
+## Part 2 — Amendments to Income Tax Act 2007
+
+### 4 Income Tax Act 2007
+This Part amends the Income Tax Act 2007.
+
+### 20 New section CW 55BAB inserted (Rebate of fees paid by FIF)
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies to a person for a rebate derived—
+  (a) on or after the date (the assent date) on which the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 receives the Royal assent:
+  (b) at or after the beginning of the 2009–10 income year and before the assent date, if the person gives notice to the Commissioner of an election to have the inserted provision apply to rebates derived in the income year of the rebate.
+
+### 39 Section DR 4 amended (Life insurers' claims reserves)
+((1)–(4)) Amendment(s) incorporated in the Act(s).
+(5) Subsections (2) and (3) apply—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 58 Section EY 15 amended (Policyholder base income: non-participation policies)
+((1)–(7)) Amendment(s) incorporated in the Act(s).
+(8) Subsections (1) and (3) apply—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 59 Section EY 16 amended (Policyholder base allowable deductions: non-participation policies)
+((1)–(3)) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) and (2) apply—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 60 Section EY 17 amended (Policyholder base income: profit participation policies)
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 61 Section EY 19 amended (Shareholder base income: non-participation policies)
+((1)–(4)) Amendment(s) incorporated in the Act(s).
+(5) Subsections (1) to (3) apply—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 62 Section EY 20 amended (Shareholder base allowable deductions: non-participation policies)
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 63 Section EY 21 amended (Shareholder base income: profit participation policies)
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 121 Section OB 47 amended (Debit for policyholder base imputation credits)
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 122 Section OP 44 amended (Consolidated ICA debit for policyholder base imputation credits)
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chose to apply the life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 125 Section RE 4 amended (Persons who have withholding obligations)
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for a person and a payment made in the 2008–09 or a later income year, except if—
+  (a) the person makes the payment before the date on which the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 receives the Royal assent; and
+  (b) the person withholds from the payment an amount required by the law that would apply to the payment in the absence of subsection (2).
