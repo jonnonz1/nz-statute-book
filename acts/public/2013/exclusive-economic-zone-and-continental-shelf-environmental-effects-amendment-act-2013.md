@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013
-_Consolidation as at 2013-10-22_
+_Consolidation as at 2014-02-28_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013.
@@ -24,7 +24,7 @@ This Act amends the Exclusive Economic Zone and Continental Shelf (Environmental
 (2) In section 3(8), after standard process for applying for a marine consent, insert for a non-notified activity, the standard process for applying for a marine consent for a publicly notifiable activity,.
 (3) After section 3(8), insert:
   (8A) Subpart 3 adapts the standard process for obtaining a marine consent for marine discharge consents and marine dumping consents.
-(4) In section 3(11)(c), delete under sections 132 and 133.
+(4) In section 3(11)﻿(c), delete under sections 132 and 133.
 (5) In section 3(14), replace Acts with Acts, regulations, and marine protection rules.
 
 ### 5 Section 4 amended (Interpretation)
@@ -75,18 +75,18 @@ This Act amends the Exclusive Economic Zone and Continental Shelf (Environmental
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
-(2) In section 4(1), replace the definition of activity with:.
+(2) In section 4(1), replace the definition of activity with:
   - **activity** ,—
     (a) in relation to the exclusive economic zone and continental shelf, means an activity described in section 20 or subpart 2 of Part 2; and
     (b) in relation to the sea above the continental shelf beyond the outer limits of the exclusive economic zone, means an activity described in subpart 2 of Part 2
 (3) In section 4(1), definition of applicant, after section 38, insert or 87B.
-(4) In section 4(1), replace the definition of marine consent or consent with:.
+(4) In section 4(1), replace the definition of marine consent or consent with:
   - **marine consent** or means—
     (a) a marine consent granted under section 62; or
     (b) an emergency dumping consent, a marine discharge consent, or a marine dumping consent
-(5) In section 4(1), definition of structure, replace paragraph (b) with:.
+(5) In section 4(1), definition of structure, replace paragraph (b) with:
   (b) includes an offshore installation, an artificial island, or a floating platform; but
-(6) In section 4(1), replace the definition of waste or other matter with:.
+(6) In section 4(1), replace the definition of waste or other matter with:
   - **waste or other matter** means material and substances of any kind, form, or description
 
 ### 6 Section 9 amended (Application to ships and aircraft of New Zealand Defence Force and foreign States)
@@ -109,7 +109,7 @@ In section 11, after paragraph (b), insert:
   (d) the Convention on the Prevention of Marine Pollution by Dumping Wastes and Other Matter, 1972 (the London Convention).
 
 ### 9 Section 13 amended (Functions of Environmental Protection Authority)
-In section 13(1)(d)(i), replace subparts 2 and 3 with subparts 2, 2A, and 3.
+In section 13(1)﻿(d)﻿(i), replace subparts 2 and 3 with subparts 2, 2A, and 3.
 
 ### 10 Section 16 amended (Restriction on Environmental Protection Authority's power to delegate)
 In section 16, replace or make a decision on a review of a consent under section 62, 81, or 82 (as appropriate), with under section 62 or to make a decision under section 81 or 82 on a review of a consent granted under section 62,.
@@ -269,7 +269,7 @@ Replace Part 2 with:Duties, restrictions, and prohibitionsRestrictions on activi
       (i) training and supervision to all of the person's employees who are engaged in the activity in order to ensure compliance with this Act, regulations, and any marine consent; and
       (ii) sufficient resources to the person's employees to ensure compliance with this Act, regulations, and any marine consent, including establishing appropriate management systems.
   (3) The duties referred to in subsection (2) are not enforceable against any person, and no person is liable to any other person for a breach of a duty.
-  (4) However, despite subsection (3), an enforcement order may be made or an abatement notice may be served under Part 3 to require a person to comply with subsection (2)(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
+  (4) However, despite subsection (3), an enforcement order may be made or an abatement notice may be served under Part 3 to require a person to comply with subsection (2)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
   To avoid doubt,—
     (a) compliance with this Act does not remove the need to comply with all other applicable Acts, regulations, and rules of law; and
     (b) compliance with any Act, regulations, or rule of law does not remove the need to comply with this Act.
@@ -279,10 +279,10 @@ In the cross-heading above section 27, replace activities and environment of exc
 
 ### 13 Section 27 amended (Regulations prescribing standards, methods, or requirements)
 (1) In section 27(1), replace technical standards, methods, or requirements with requirements, methods, or technical standards.
-(2) In section 27(1)(a), after activities, insert described in section 20.
-(3) Replace section 27(1)(b) with:.
+(2) In section 27(1)﻿(a), after activities, insert described in section 20.
+(3) Replace section 27(1)﻿(b) with:
   (b) the effects of the activities referred to in paragraph (a), including effects that occur in the territorial sea or in the sea above and beyond the continental shelf:
-(4) In section 27(2)(d)(i), replace section 21, 22, or 23 with section 21, 22, or 23.
+(4) In section 27(2)﻿(d)﻿(i), replace section 21, 22, or 23 with section 21, 22, or 23.
 
 ### 14 Section 28 amended (Regulations classifying areas of exclusive economic zone or continental shelf)
 (1) In section 28(1), after section 27, insert or 29A.
@@ -313,10 +313,10 @@ After section 29, insert:Regulation of discharges and dumpingRegulations for dis
     (f) specify sites at which burial at sea may be approved:
     (g) specify criteria to be considered in deciding an application for a marine dumping consent or an application to change or cancel a condition of a marine dumping consent.
   (5) Regulations may apply to different classes of persons, ships involved in mining activities, offshore installations, or submarine pipelines.
-  (6) Despite subsection (2)(b)(ii), the regulations must not provide for the discharge of a harmful substance to be a permitted activity if, in the Minister's opinion,—
+  (6) Despite subsection (2)﻿(b)﻿(ii), the regulations must not provide for the discharge of a harmful substance to be a permitted activity if, in the Minister's opinion,—
     (a) the activity has or is likely to have adverse effects on the environment or an existing interest that are significant in the circumstances; and
     (b) it is more appropriate for the adverse effects of the activity to be considered in relation to an application for a marine consent.
-  (7) Section 27(2) applies to regulations made under subsection (2)(a).
+  (7) Section 27(2) applies to regulations made under subsection (2)﻿(a).
   (8) Section 29(2) and (3) applies to the regulations made under this section.
   (1) This section applies to the exclusive economic zone, continental shelf, and the waters above the continental shelf beyond the outer limits of the exclusive economic zone.
   (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe requirements, methods, or technical standards for emergency dumping of waste or other matter.
@@ -342,12 +342,12 @@ After section 29, insert:Regulation of discharges and dumpingRegulations for dis
   (2A) A regulation made under section 27 or 29A may apply to the effects of an activity even if the effects occur outside the area to which the regulation applies.
 
 ### 17 Section 32 amended (Process for developing or amending regulations)
-(1) In section 32(1), replace section 27 or 30(1)(a) or (c) with section 27, 29A, or 30(1)(a) or (c).
-(2) In section 32(2)(a)(ii), replace section 27 with section 27 or 29A.
+(1) In section 32(1), replace section 27 or 30(1)﻿(a) or (c) with section 27, 29A, or 30(1)﻿(a) or (c).
+(2) In section 32(2)﻿(a)﻿(ii), replace section 27 with section 27 or 29A.
 
 ### 18 Section 33 amended (Matters to be considered for regulations)
 (1) In the heading to section 33, after regulations, insert under section 27.
-(2) In section 33(3)(k), replace permitted or discretionary with permitted, discretionary, non-notified, or publicly notifiable.
+(2) In section 33(3)﻿(k), replace permitted or discretionary with permitted, discretionary, non-notified, or publicly notifiable.
 
 ### 19 Section 34 amended (Information principles)
 In section 34(1), replace section 27 with sections 27, 29A, and 29B.
@@ -390,7 +390,7 @@ After section 42, insert:Joint processing and decision making on related applica
 
 ### 26 Section 44 amended (Environmental Protection Authority may obtain advice)
 (1) In the heading to section 44, after advice, insert or information.
-(2) In section 44(1)(d), after advice, insert or information.
+(2) In section 44(1)﻿(d), after advice, insert or information.
 
 ### 27 New sections 44A to 44C and cross-headings inserted
 After section 44, insert:Disclosure and hearings of applications for marine consents for non-notified activitiesCopy of consent applications for non-notified activitiesHearings in respect of consent applications for non-notified applicationsPublic notification and hearings of applications for marine consents for publicly notifiable activitiesApplication of sections 45 to 58
@@ -470,14 +470,14 @@ After section 87, insert:Marine discharge consents and marine dumping consentsAp
     (b) the waste or other matter is identified in such a way that it is not possible to assess the potential effects of dumping the waste or other matter on human health or the environment; or
     (c) the EPA considers that dumping the waste or other matter is not the best approach to the disposal of the waste or other matter in the circumstances.
   (3) To avoid doubt, the EPA may refuse an application for a marine discharge consent or a marine dumping consent if the EPA considers that it does not have adequate information to determine the application.
-  (4) If the EPA grants the application, it may issue the consent subject to conditions under section 63, but not under section 63(2)(b).
+  (4) If the EPA grants the application, it may issue the consent subject to conditions under section 63, but not under section 63(2)﻿(b).
   The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
     (a) sections 65 to 67, which relate to conditions:
     (b) sections 68 to 72, which relate to time limits for making decisions, the form and notification of the decision, commencement of the consent, and the nature of the consent.
   (1) The duration of a marine discharge consent or a marine dumping consent is the term specified in the consent.
   (2) However, the duration must not be more than 35 years.
   (3) If no duration is specified in a consent, its duration is 5 years.
-  (4) When determining the duration of a consent, the Environmental Protection Authority must comply with sections 73(2)(b) and (c), 87D, and 87E.
+  (4) When determining the duration of a consent, the Environmental Protection Authority must comply with sections 73(2)﻿(b) and (c), 87D, and 87E.
   (1) The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
     (a) sections 74 and 75, which relate to the exercise of a consent while applying for a new consent and the transfer of consents:
     (b) sections 76 to 82, which relate to the review of the conditions and duration of consents:
@@ -486,7 +486,7 @@ After section 87, insert:Marine discharge consents and marine dumping consentsAp
     (a) section 80(a) applies as if—
       (i) the reference to sections 59 and 60 were a reference to section 87D; and
       (ii) the reference to section 61 were a reference to section 87E; and
-    (b) section 81(2) applies as if Sections 63 to 71 were replaced with Sections 63 (but not subsection (2)(b)) and 65 to 71.
+    (b) section 81(2) applies as if Sections 63 to 71 were replaced with Sections 63 (but not subsection (2)﻿(b)) and 65 to 71.
   (1) The holder of a marine dumping consent or a marine discharge consent granted under section 87F may request the Environmental Protection Authority to change or cancel a condition of the consent.
   (2) Sections 87B to 87G apply, with all necessary modifications, as if—
     (a) the request were an application for a marine dumping consent or a marine discharge consent; and
@@ -495,17 +495,17 @@ After section 87, insert:Marine discharge consents and marine dumping consentsAp
   (3) Section 87(3) to (6) apply to the request.
 
 ### 34 Section 93 amended (Environmental Protection Authority may require joint application)
-(1) In section 93(3)(a), replace proceed with the notification with continue with the processing.
-(2) In section 93(3)(b), before return, insert to.
+(1) In section 93(3)﻿(a), replace proceed with the notification with continue with the processing.
+(2) In section 93(3)﻿(b), before return, insert to.
 
 ### 35 Section 94 amended (Decision to separate joint application for consent)
-Replace section 94(2)(b) with:.
+Replace section 94(2)﻿(b) with:
   (b) one application must be publicly notified, but not the other; or
 
 ### 36 Section 96 amended (Environmental Protection Authority to administer process)
-(1) In section 96(2)(b), replace the application is with if both applications must be publicly notified, they are.
-(2) In section 96(2)(c), after submissions, insert (if applicable).
-(3) In section 96(2)(e), replace and notify with and (if applicable) notify.
+(1) In section 96(2)﻿(b), replace the application is with if both applications must be publicly notified, they are.
+(2) In section 96(2)﻿(c), after submissions, insert (if applicable).
+(3) In section 96(2)﻿(e), replace and notify with and (if applicable) notify.
 (4) In section 96(3), after ensure that, insert (where applicable).
 
 ### 37 Section 99 amended (Application for consent for nationally significant cross-boundary activity referred to board of inquiry)
@@ -518,15 +518,15 @@ Replace section 94(2)(b) with:.
       (i) notify the application, if it has not already been notified; and
       (ii) receive submissions made under section 46; and
     (b) the board of inquiry must apply sections 59 to 67 in making its decision on the application as if the board were the EPA.
-(2) Replace section 99(5)(c) and (d) with:.
-  (c) section 149R (which requires the board to produce a final report), but not subsections (3)(e) and (f) and (4)(b) and (c):
+(2) Replace section 99(5)﻿(c) and (d) with:
+  (c) section 149R (which requires the board to produce a final report), but not subsections (3)﻿(e) and (f) and (4)﻿(b) and (c):
   (d) section 149RA(1) and (2) (which allows the board to make minor corrections to board decisions and resource consents):
-  (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)(b):
+  (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)﻿(b):
 (3) After section 99(5), insert:
   (6) An application for a resource consent is associated with an application for a marine consent if the applications relate to the same cross-boundary activity.
 
 ### 38 Section 105 amended (Appeals on question of law)
-In section 105(2)(c), replace section 81(2) with section 81(3).
+In section 105(2)﻿(c), replace section 81(2) with section 81(3).
 
 ### 39 Sections 132 to 134 and cross-heading above section 132 replaced
 Replace sections 132 to 134 and the cross-heading above section 132 with:Offences and defences in relation to activities regulated under section 20Offences in relation to activities regulated under section 20Strict liability and defencesOffences and defences in relation to discharge or escape of harmful substancesOffences in relation to discharge of harmful substancesDefenceOffences and defences in relation to dumpingOffences in relation to dumping of radioactive waste or other radioactive matterOffences in relation to dumping of toxic or hazardous wasteOffences in relation to dumping and incineration of waste and other matterDefence in relation to dumping of waste or other matterOther offencesOffence in relation to enforcement order, abatement notice, section 24, or section 167Other offencesPenaltiesPenaltiesAdditional penalties for discharge and dumping offencesPenalties for section 134G offencesCourt ordersAdditional penalty for offence involving commercial gainApplication of fines for discharge and dumping offences
@@ -536,8 +536,8 @@ Replace sections 132 to 134 and the cross-heading above section 132 with:Offence
     (b) if the activity involves a ship, the master and owner of the ship:
     (c) if the activity involves a submarine pipeline, the owner of the pipeline:
     (d) if the activity involves a submarine cable, the owner of the cable:
-    (e) if the activity is one described in section 20(2)(d) to (g), the person who carried out the activity:
-    (f) if the activity is one described in section 20(4)(b) or (c), the person who carried out the activity.
+    (e) if the activity is one described in section 20(2)﻿(d) to (g), the person who carried out the activity:
+    (f) if the activity is one described in section 20(4)﻿(b) or (c), the person who carried out the activity.
   (3) In this section and sections 134 and 134B to 134D, owner,—
     (a) in relation to a ship, includes—
       (i) a person who is the legal or equitable owner, or both, of the ship; and
@@ -651,12 +651,12 @@ After section 136, insert:Commencement of proceedings against natural person
       (ii) a person who is ordinarily resident in New Zealand; or
     (b) in the case of any other person, the Attorney-General consents to the commencement of the proceedings and certifies that it is expedient to do so.
   (2) However, before the Attorney-General's consent has been obtained,—
-    (a) a person described in subsection (1)(b) may be arrested or a warrant for the person's arrest may be issued and executed; and
+    (a) a person described in subsection (1)﻿(b) may be arrested or a warrant for the person's arrest may be issued and executed; and
     (b) the person may be remanded in custody or on bail.
   (3) This section overrides any other enactment that is inconsistent with this section.
 
 ### 42 Section 143 amended (Principles of cost recovery)
-In section 143(2)(c), replace section 22, with section 22,.
+In section 143(2)﻿(c), replace section 22, with section 22,.
 
 ### 43 New sections 158A and 158B inserted
 After section 158, insert:EPA and Maritime New Zealand to share informationEPA may provide information to other regulatory agencies for purposes of this Act
@@ -692,7 +692,7 @@ After section 164, insert:Transitional provisions relating to discharges and dum
   (3) Part 200 of the Marine Protection Rules does not apply to the provisions of the discharge management plan that are to be treated as a marine discharge consent under subsection (2).
   (4) Despite subsection (3), the following marine protection rules, as they were on the day before this section comes into force, must be treated as if they were conditions of the consent:
     (a) rule 200.13:
-    (b) rule 200.14(1), (2), and (5)(a), as if a reference to the Director in those provisions were a reference to the Environmental Protection Authority, and (8):
+    (b) rule 200.14(1), (2), and (5)﻿(a), as if a reference to the Director in those provisions were a reference to the Environmental Protection Authority, and (8):
     (c) rule 200.15:
     (d) rule 200.16(1):
     (e) rule 200.17, as if the reference to rule 200.19 were a reference to that rule as it was before this section comes into force:
@@ -700,10 +700,10 @@ After section 164, insert:Transitional provisions relating to discharges and dum
     (g) rule 200.22, as if—
       (i) the words in a form approved by the Director in subrule (1) were replaced with in the prescribed form:
       (ii) the reference in subrule (4) to the Director were a reference to the Environmental Protection Authority:
-    (h) rule 200.23(1) and (3), as if in each case paragraph (b) were replaced with::
+    (h) rule 200.23(1) and (3), as if in each case paragraph (b) were replaced with:
       (b) the Environmental Protection Authority and the Director, if the spill occurs in the exclusive economic zone; or
       (c) the Director, if the spill occurs beyond the exclusive economic zone,
-    (i) rule 200.24 as if the reference to the Director in subrule (2)(a) included a reference to the Environmental Protection Authority:
+    (i) rule 200.24 as if the reference to the Director in subrule (2)﻿(a) included a reference to the Environmental Protection Authority:
     (j) rule 200.25 as if the reference to the Director in subrule (2) were a reference to the Environmental Protection Authority.
   (5) The marine protection rules described in subsection (4) and treated as conditions of a marine discharge consent by that subsection may be amended, cancelled, or replaced as if they were conditions imposed under this Act.
   (1) If a person makes an application for a permit under section 262 of the Maritime Transport Act 1994 and it has not been decided before section 164A comes into force, the application is to be continued and completed under that Act as it was before section 164A comes into force.
@@ -712,7 +712,7 @@ After section 164, insert:Transitional provisions relating to discharges and dum
   (4) Section 164B applies to a discharge management plan approved after being continued and completed under subsection (3).
 
 ### 45 New section 167A and cross-heading inserted
-After section 167, insert:Transitional and savings provision relating to regulationsTransitional and savings provision relating to regulations2000 No 91 s 114.
+After section 167, insert:Transitional and savings provision relating to regulationsTransitional and savings provision relating to regulations2000 No 91 s 114
   Any consultation undertaken before the commencement of this section by the Minister on proposals as to whether certain discretionary activities should be classified as non-notified activities may be taken to be consultation for the purposes of section 32(2) for the first non-notified activities regulations made after this section comes into force.
 
 ### 46 New Schedule inserted
