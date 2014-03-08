@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-03-08_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -33,7 +33,9 @@ The purposes of this Act are to—
   - **annual total deduction** has the same meaning as in section BC 3 of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced deductions that may be offset against the borrower's non-residents' foreign-sourced income as if the borrower were a New Zealand resident
   - **base interest rate** means the interest rate that applies for a tax year, calculated in accordance with the formula—a% = b% + 0.74%where—a%rounded to the nearest 1 decimal place is the interest rate for the relevant tax yearb%is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year
   - **borrower** means a person who has received or been charged with a loan advance and who has not fully repaid his or her consolidated loan balance
-  - **borrower deduction** means a deduction from a borrower's salary or wages in accordance with section 39
+  - **borrower deduction** means—
+    (a) a deduction from a borrower's salary or wages in accordance with section 39:
+    (b) the amount of a standard deduction that exceeds the borrower's loan balance
   - **challenge** , for the purposes of subpart 5 of Part 4, has the same meaning as in section 3(1) of the Tax Administration Act 1994
   - **charity** means a charitable organisation that is specified in regulations
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
@@ -927,7 +929,7 @@ A borrower must pay his or her terminal payment on or before the borrower's term
     (i) if the borrower has only 1 payment date, the borrower has only 1 due date; and
     (ii) if the borrower has an odd number of payment dates, then the last payment date does not apply to the borrower:
   (c) if a borrower does not pay provisional tax for a tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
-  (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012–2013 tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
+  (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012–2013 tax year or any subsequent tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
 (3) In this section, GST ratio and transitional year have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 ### 85 Commissioner's powers in relation to due dates
@@ -1330,6 +1332,13 @@ The Commissioner must, as soon as practicable after charging late payment intere
 (2) For each month that the borrower meets his or her obligations under the instalment arrangement, any late payment interest that the borrower is liable to pay on the unpaid amount for that month must be calculated as if, in the definition of late payment interest rate in section 139(3), the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
 (3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
 
+### 141A Late payment interest reduced if deduction or extraction notice applies
+(1) This section applies if—
+  (a) a borrower is liable to pay late payment interest on an unpaid amount under section 139; and
+  (b) the Commissioner has exercised powers available under section 157 of the Tax Administration Act 1994 to require any person to deduct or extract any amount from any moneys payable by that person to the borrower.
+(2) For a month during which any unpaid amount remains unpaid and the Commissioner has received tax withheld or deducted in accordance with the requirements of a notice issued under section 157 of the Tax Administration Act 1994 (a deduction or extraction notice), any late payment interest that the borrower is liable to pay on the unpaid amount must be calculated as if, in the definition of late payment interest rate in section 139(3), the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
+(3) However, subsection (2) applies only to the days in a month during which a deduction or extraction notice is in effect.
+
 **Matters of general application to interest**
 
 ### 142 No interest on consolidated loan balance in credit
@@ -1548,6 +1557,30 @@ Section 159 applies to a borrower if—
   (a) every reference to a taxpayer were a reference to a borrower; and
   (b) every reference to income tax were a reference to a repayment obligation.
 
+### 162A Offence for default of overseas-based repayment obligation
+(1) Every person commits an offence who is in default of his or her overseas-based repayment obligation and who, having been notified by the Commissioner that he or she is in default, knowingly fails, or refuses, by the due date specified in the notification to make reasonable efforts to pay the amount in default or to make arrangements with the Inland Revenue Department to pay the amount in default.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000.
+
+### 162B Arrest of liable person
+(1) A District Court Judge or, if a District Court Judge is not available and the case appears to be urgent, a Registrar may, on an application in writing by the Commissioner, issue a warrant for the arrest of a person (the liable person) if the Judge or Registrar (as the case may be) is satisfied that the person has committed the offence in section 162A and is about to leave or attempt to leave New Zealand.
+(2) The liable person must be brought as soon as possible before a District Court, which, if it is satisfied that the person is about to leave or attempt to leave New Zealand without making reasonable efforts to pay the amount in default or without making arrangements with the Inland Revenue Department to pay the amount in default, may order that the liable person—
+  (a) pay the amount in default:
+  (b) make arrangements with the Inland Revenue Department to pay the amount in default:
+  (c) give such security (including the provision of sureties) for the payment of that liability as the court specifies:
+  (d) not leave New Zealand without the written permission of the court:
+  (e) surrender to the court, for such period as the court specifies, any travel documents or tickets in the person's possession:
+  (f) provide the court, within such period as the court specifies, with any information the court thinks appropriate.
+(3) To avoid doubt, the court may make an order under subsection (2) even if the Commissioner is able to recover the debt by other means.
+(4) On making an order under subsection (2)(d) or (e), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks appropriate.
+(5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who—
+  (a) is a person against whom an order is in force under subsection (2)(d) or (e); and
+  (b) is in default of his or her overseas-based repayment obligation; and
+  (c) either—
+    (i) leaves New Zealand; or
+    (ii) attempts, or does any act with the intent, to leave New Zealand.
+(6) A person against whom an order under subsection (2) is in force may apply to the court for the discharge of the order, and the court may, if it considers it just or appropriate, discharge the order accordingly.
+(7) If the court discharges an order made under subsection (2)(e), it must direct the return of any travel documents or tickets surrendered pursuant to the order (unless the court grants a new order under subsection (2)(e) in relation to the same documents).
+
 ### 163 Offence to prejudice employees because of student loan repayment liability
 (1) An employer commits an offence against this Act if the employer—
   (a) refuses to employ, or to pay salary or wages to, another person because that person is a borrower; or
@@ -1559,16 +1592,16 @@ Section 159 applies to a borrower if—
 (3) If an employer is convicted of an offence against subsection (1), the Court may order the payment of compensation to the borrower for loss or damage suffered as a result of the offence.
 
 ### 164 Proceedings to be commenced by Commissioner
-A proceeding for an offence against section 163 must be commenced by the filing of a charging document in the name of the Commissioner.
+A proceeding for an offence against section 162A or 163 must be commenced by the filing of a charging document in the name of the Commissioner.
 
 ### 165 Charging document may charge several offences
-(1) A charging document may charge the defendant with any number of offences against section 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
+(1) A charging document may charge the defendant with any number of offences against section 162A or 163 if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
 (2) If a charging document charges more than 1 offence,—
   (a) particulars of each offence charged must be set out separately in the charging document; and
   (b) all of those charges must be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
 ### 166 Time for filing charging document
-Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 163 ends on the date that is 10 years after the end of the year in which the offence was committed.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 162A or 163 ends on the date that is 10 years after the end of the year in which the offence was committed.
 
 ### Subpart 4 — Borrower's right to object to loan manager about details of loan advances
 
@@ -1734,7 +1767,7 @@ If this Act does not specify a date by which an amount payable under this Act is
 (2) If, in any case where a borrower has an unpaid amount, the Commissioner does not have the current address details for the borrower or is uncertain as to the accuracy of the address details for the borrower, the Commissioner may request the borrower's contact person—
   (a) to notify the Commissioner of the borrower's current address details; or
   (b) to ask the borrower to notify the Commissioner of the borrower's current address details.
-(3) In subsection (2), address details, in relation to a borrower, means—
+(3) In this section and section 193C, address details, in relation to a borrower, means—
   (a) all postal addresses for the borrower; and
   (b) all electronic addresses for the borrower (if the borrower has any); and
   (c) all telephone numbers for the borrower (if the borrower has any).
@@ -1751,7 +1784,8 @@ If this Act does not specify a date by which an amount payable under this Act is
 (2) If there is a change in any of the details of a borrower's contact person, the borrower must promptly notify the Commissioner of the changed details.
 
 ### 193C Changes relating to contact details of borrower
-If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
+(1) If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
+(2) For the purpose of verifying the borrower's address details, the Commissioner may receive the borrower's address details from any other person if the information is shared in accordance with any other provision of this Act or any other enactment.
 
 ### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
 (1) A salary or wage deduction or payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
@@ -1856,6 +1890,7 @@ A loan contract entered into by a borrower (whether before or after the commence
 (1) No obligation as to secrecy or other restriction imposed by an enactment or otherwise on the disclosure of information prevents—
   (a) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to confirm the identity of a person who applies for a student loan; or
   (b) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to correctly identify a borrower who has received or been charged with a loan advance; or
+  (ba) an authorised person from disclosing to another authorised person any information for the purpose of verifying any declaration made by an applicant for a student loan as to any unpaid amounts owed by the applicant where the declaration is a condition of obtaining the loan; or
   (c) the Commissioner from disclosing to the chief executive information that is necessary to investigate circumstances in which an authorised person considers—
     (i) a student loan may have been improperly obtained; or
     (ii) an attempt has been made to obtain a student loan by improper means.
