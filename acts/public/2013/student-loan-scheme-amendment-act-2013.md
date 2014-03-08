@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2013
-_Consolidation as at 2013-03-29_
+_Consolidation as at 2014-03-08_
 
 ### 1 Title
 This Act is the Student Loan Scheme Amendment Act 2013.
@@ -45,11 +45,11 @@ Repeal section 2(5).
   (2) A reference to a borrower estimating his or her end-of-year repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her end-of-year repayment obligation in accordance with section RC 7 of the Income Tax Act 2007, as applied by section 86 and Schedule 4 of this Act.
 
 ### 7 Section 5 amended (Meaning of unpaid amount)
-(1) Replace section 5(1)(a) with:.
+(1) Replace section 5(1)﻿(a) with:.
   (a) a terminal payment:
-(2) In section 5(2), definition of due date, replace paragraph (b)(ii) with:.
-  (ii) if the Commissioner has determined the instalments that must be paid under section 112(3), 115(1)(d), or 115A, the final date determined by the Commissioner; and
-(3) In section 5(2), definition of interim payment default, paragraph (a)(i) and (ii), replace pre-taxed repayment obligation or other income repayment obligation with end-of-year repayment obligation.
+(2) In section 5(2), definition of due date, replace paragraph (b)﻿(ii) with:.
+  (ii) if the Commissioner has determined the instalments that must be paid under section 112(3), 115(1)﻿(d), or 115A, the final date determined by the Commissioner; and
+(3) In section 5(2), definition of interim payment default, paragraph (a)﻿(i) and (ii), replace pre-taxed repayment obligation or other income repayment obligation with end-of-year repayment obligation.
 (4) In section 5(2), replace the definition of overseas-based instalment default with:
   - **overseas-based instalment default** means the sum of the instalments of an overseas-based borrower's repayment obligations for a tax year that must be paid in accordance with subparts 4 and 5 of Part 2.
 
@@ -58,15 +58,15 @@ After section 8, insert:Application of provisions of Act
   Schedule 6 contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, and replaced (see section 220).
 
 ### 9 Section 15 amended (Right to cancel loan contract)
-(1) In section 15(1)(b), delete ; and.
-(2) Repeal section 15(1)(c).
+(1) In section 15(1)﻿(b), delete ; and.
+(2) Repeal section 15(1)﻿(c).
 
 ### 10 Section 28 amended (Borrower to notify Commissioner of absence from New Zealand of 184 or more days)
 After section 28(2), insert:
   (3) See section 193C concerning the obligation on a borrower if there is a change in any of the contact details provided to the Commissioner under this section.
 
 ### 11 Section 31 amended (Repayment obligations that apply to New Zealand-based borrowers and overseas-based borrowers)
-In section 31(1)(a), replace subparts 1 to 3 with subparts 1 and 2.
+In section 31(1)﻿(a), replace subparts 1 to 3 with subparts 1 and 2.
 
 ### 12 Section 32 amended (Interrelationship between subparts 1 to 3)
 (1) In the heading to section 32, replace 1 to 3 with 1 and 2.
@@ -100,7 +100,7 @@ Replace subparts 2 and 3 of Part 2 with:Repayment obligations for New Zealand-ba
       (ii) if the borrower has received an extension of time to make the declaration in accordance with section 75, the date on which the borrower is required to make the declaration; or
       (iii) if the Commissioner has granted the borrower an extension of time to make the declaration (other than in accordance with section 75), the date on which the borrower is required to make the declaration as specified by the Commissioner.
   A borrower may apply to the Commissioner for an extension of time for the making of a declaration of adjusted net income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
-    (a) the reference to the due date required under this section were a reference to the due date required under section 74(2)(b)(i) of the Student Loan Scheme Act 2011; and
+    (a) the reference to the due date required under this section were a reference to the due date required under section 74(2)﻿(b)﻿(i) of the Student Loan Scheme Act 2011; and
     (b) every reference to a taxpayer were a reference to a borrower; and
     (c) every reference to a return or a return of income were a reference to a declaration of adjusted net income.
   (1) The Commissioner must assess the amount (if any) of a borrower's end-of-year repayment obligation for a tax year as soon as practicable after the borrower provides—
@@ -150,7 +150,7 @@ Replace subparts 2 and 3 of Part 2 with:Repayment obligations for New Zealand-ba
       (i) the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year multiplied by 105%; or
       (ii) if the borrower did not make a declaration of adjusted net income for the immediately preceding tax year, the amount of the borrower's end-of-year repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
     (b) the amount calculated in accordance with paragraph (a) must not exceed the sum of the borrower's loan balance on 1 April of the relevant tax year plus any loan advances made or charged to the borrower for that tax year after that date.
-  (4) For the purposes of subsection (3)(b), the borrower's loan balance on 1 April of the relevant tax year must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
+  (4) For the purposes of subsection (3)﻿(b), the borrower's loan balance on 1 April of the relevant tax year must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
   (1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide—
     (a) his or her return of income; or
     (b) details of his or her annual gross income and annual total deductions under section 114; or
@@ -185,7 +185,7 @@ Replace subparts 2 and 3 of Part 2 with:Repayment obligations for New Zealand-ba
   (1) This section applies to an overseas-based borrower who—
     (a) is not or is no longer entitled to a repayment holiday under section 107B or 108A(2); and
     (b) has not had his or her overseas-based repayment obligation reassessed under section 115A.
-(2) Replace section 110(6)(a) and (b) with:
+(2) Replace section 110(6)﻿(a) and (b) with:
   (a) if a borrower was not overseas-based at the start of the tax year, the borrower's consolidated loan balance on the date on which the borrower became overseas-based; and
   (b) if a borrower was overseas-based at the start of the tax year (year A), the sum determined by—
     (i) including the amount of the borrower's consolidated loan balance on 31 March in the year prior to year A (the previous year); and
@@ -193,12 +193,12 @@ Replace subparts 2 and 3 of Part 2 with:Repayment obligations for New Zealand-ba
     (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
 
 ### 16 Section 111 amended (Exceptions to repayment obligations of overseas-based borrowers)
-(1) Replace section 111(5)(a) with:.
+(1) Replace section 111(5)﻿(a) with:.
   (a) for the first tax year during a period when section 110 applies to a borrower, the sum determined by—
     (i) including the borrower's loan balance on the day on which that section first applies to the borrower in that period; and
     (ii) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day; and
-(2) In section 111(5)(b)(iii), after previous year, insert ; and.
-(3) In section 111(5)(b), after paragraph (iii), insert:
+(2) In section 111(5)﻿(b)﻿(iii), after previous year, insert ; and.
+(3) In section 111(5)﻿(b), after paragraph (iii), insert:
   (iv) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 (4) Replace section 111(4) with:
   (4) This section overrides section 110.
@@ -221,7 +221,7 @@ Replace section 112(3) with:
     (b) of the dates and the amounts determined by the Commissioner.
 
 ### 18 Section 114 amended (Notification of worldwide income by New Zealand-based non-resident borrowers)
-Replace section 114(3)(a) with:.
+Replace section 114(3)﻿(a) with:.
   (a) a declaration of adjusted net income; or
 
 ### 19 Section 115 amended (Repayment obligations of borrowers who are overseas-based for part of tax year)
@@ -237,12 +237,12 @@ After section 115, insert:Reassessment of borrower's overseas-based repayment ob
     (a) establishing any of the matters in subsection (1):
     (b) the reassessment.
   (3) If the Commissioner reassesses a borrower's overseas-based repayment obligation under this section,—
-    (a) the reassessment must be made in accordance with section 115, as if the borrower were New Zealand-based from the date notified by the borrower under subsection (1)(c); and
+    (a) the reassessment must be made in accordance with section 115, as if the borrower were New Zealand-based from the date notified by the borrower under subsection (1)﻿(c); and
     (b) section 109(6) and (7) apply to the reassessment as if it were an assessment under that section.
   (4) Despite the reassessment of a borrower's overseas-based repayment obligation under this section, the borrower continues to be treated as an overseas-based borrower for all other purposes (for example, interest continues to be calculated in accordance with the borrower's overseas-based status) until the borrower becomes New Zealand-based.
   (5) The Commissioner may review a reassessment of a borrower's overseas-based repayment obligation made under this section if—
     (a) the borrower does not become New Zealand-based; or
-    (b) the borrower becomes New Zealand-based from a date that is different from the expected date notified to the Commissioner under subsection (1)(c).
+    (b) the borrower becomes New Zealand-based from a date that is different from the expected date notified to the Commissioner under subsection (1)﻿(c).
 
 ### 21 Section 120 amended (Commissioner must notify borrower of excess repayment)
 Replace section 120(1) with:
@@ -265,13 +265,13 @@ Replace section 132(2) with:
   (3) If a tax year includes an extra day because of a leap year, the reference to 365 in the formula in subsection (2) must be treated as if it were a reference to 366.
 
 ### 24 Section 144 amended (Power of Commissioner in relation to small amounts)
-(1) In section 144(1)(c), after collecting a repayment obligation, insert (or part of a repayment obligation).
-(2) In section 144(2)(a), replace is more than $20 with is $20 or more.
-(3) Replace section 144(3)(a) with:.
-  (a) under subsection (1)(c) is written off:
+(1) In section 144(1)﻿(c), after collecting a repayment obligation, insert (or part of a repayment obligation).
+(2) In section 144(2)﻿(a), replace is more than $20 with is $20 or more.
+(3) Replace section 144(3)﻿(a) with:.
+  (a) under subsection (1)﻿(c) is written off:
 
 ### 25 Section 154 amended (Application for instalment arrangement)
-In section 154(1)(a), replace an unpaid amount; and with an unpaid amount or an amount that is not yet due; and.
+In section 154(1)﻿(a), replace an unpaid amount; and with an unpaid amount or an amount that is not yet due; and.
 
 ### 26 Section 155 amended (Late filing penalty for certain declarations)
 Replace section 155(5) with:
@@ -291,7 +291,7 @@ Replace section 160 with:Notification and payment obligations if Commissioner im
   (5) The borrower must pay the student loan shortfall penalty on or before the date specified in the notice given under subsection (2).
 
 ### 29 Section 161 amended (Student loan shortfall penalty reduced or removed to reflect change to shortfall penalty)
-In section 161(1)(a), after a borrower, insert disputes or.
+In section 161(1)﻿(a), after a borrower, insert disputes or.
 
 ### 30 Cross-heading above section 174 replaced
 Replace the cross-heading above section 174 with:Rights to challenge and challenge procedures.
@@ -317,7 +317,7 @@ After section 193B, insert:Changes relating to contact details of borrower
   If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
 
 ### 36 Section 204 amended (Commissioner may exercise rights in loan contracts to recall loans)
-In section 204(3)(c), replace before or after with before, on, or after.
+In section 204(3)﻿(c), replace before or after with before, on, or after.
 
 ### 37 Section 208 amended (Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes)
 Replace section 208(1) with:
@@ -328,7 +328,7 @@ Replace section 208(1) with:
 
 ### 38 Section 215 amended (Regulations)
 Replace section 215(d) with:.
-  (d) specifying further information requirements in accordance with sections 10(2)(d), 13(i), 16(2)(a)(viii), 16A(1)(e), or 107A(2)(e):
+  (d) specifying further information requirements in accordance with sections 10(2)﻿(d), 13(i), 16(2)﻿(a)﻿(viii), 16A(1)﻿(e), or 107A(2)﻿(e):
 
 ### 39 New section 220 replaced (Savings and transitional provisions)
 Replace section 220 with:Application, savings, and transitional provisions
@@ -394,7 +394,7 @@ Amend the principal Act as set out in Schedule 1.
 
 ### 45 Accident Compensation Act 2001 amended
 (1) This section amends the Accident Compensation Act 2001.
-(2) In section 123(2)(i), replace subparts 1 to 3 with subparts 1, 2,.
+(2) In section 123(2)﻿(i), replace subparts 1 to 3 with subparts 1, 2,.
 
 ### 46 Customs and Excise Act 1996 amended
 Sections 47 to 49 amend the Customs and Excise Act 1996.
@@ -410,7 +410,7 @@ In section 280G, insert in their appropriate alphabetical order:
     (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
     (b) verify whether borrowers are New Zealand residents for the purposes of that Act:
     (c) locate, when they enter or leave New Zealand, borrowers who are in serious default in relation to a student loan.
-(2) After section 280H(4)(d), insert:
+(2) After section 280H(4)﻿(d), insert:
   (e) information provided by the borrower when arriving in or, as the case may be, departing from New Zealand.
 
 ### 49 Section 280I amended (Direct access to arrival and departure information for purposes of Student Loan Scheme Act 2011)
@@ -434,7 +434,7 @@ Replace section 280I(1) with:
 
 ### 52 Tax Administration Act 1994 amended
 (1) This section amends the Tax Administration Act 1994.
-(2) In section 3(1), definition of tax, paragraphs (a)(x) and (d)(ix), replace a pre-taxed repayment obligation, an other income repayment obligation, with an end-of-year repayment obligation.
+(2) In section 3(1), definition of tax, paragraphs (a)﻿(x) and (d)﻿(ix), replace a pre-taxed repayment obligation, an other income repayment obligation, with an end-of-year repayment obligation.
 (3) In the Schedule, after the item relating to the Stamp Duty Abolition Act 1999, insert Student Loan Scheme Act 1992.
 
 **Revocation**
@@ -445,7 +445,7 @@ The Student Loan Scheme Act 2011 (Transitional Provisions) Regulations 2012 (SR 
 ## Part 2 — Amendments to principal Act that apply for 2013–2014 and later tax years
 
 ### 54 Section 4 amended (Interpretation)
-(1) In section 4(1), definition of loan balance, after paragraph (a)(iv), insert:.
+(1) In section 4(1), definition of loan balance, after paragraph (a)﻿(iv), insert:.
   (iva) an underestimation penalty; and
 (2) In section 4(1), definition of repayment obligation, replace paragraph (c) with:.
   (c) any amount that must be paid by a borrower in accordance with a written notification under section 52:
@@ -453,8 +453,8 @@ The Student Loan Scheme Act 2011 (Transitional Provisions) Regulations 2012 (SR 
 (3) In section 4(1), insert in its appropriate alphabetical order:underestimation penalty means a penalty that a borrower is liable to pay under section 161A.
 
 ### 55 Section 5 amended (Meaning of unpaid amount)
-(1) In section 5(1)(e), replace 1992 with 1992:.
-(2) After section 5(1)(e), insert:
+(1) In section 5(1)﻿(e), replace 1992 with 1992:.
+(2) After section 5(1)﻿(e), insert:
   (f) an amount that must be paid by a borrower in accordance with a written notification under section 52:
   (g) a late filing penalty:
   (h) a student loan shortfall penalty:
@@ -470,13 +470,13 @@ Replace section 119 with:Meaning of excess repayment
     (b) all penalties charged to the borrower for the tax year; and
     (c) the borrower's unpaid amounts.
   (2) In determining whether an excess repayment has been made, the Commissioner must—
-    (a) disregard any standard deduction (other than a significant over-deduction) or Commissioner deductions for the purposes set out in section 49(1)(a); and
+    (a) disregard any standard deduction (other than a significant over-deduction) or Commissioner deductions for the purposes set out in section 49(1)﻿(a); and
     (b) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
     (c) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
     (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
 
 ### 58 Section 139 amended (Late payment interest charged on unpaid amount)
-(1) In section 139(2)(a) and (b), replace 0.843% of with the late payment interest rate multiplied by.
+(1) In section 139(2)﻿(a) and (b), replace 0.843% of with the late payment interest rate multiplied by.
 (2) After section 139(2), insert:
   (3) In this section, late payment interest rate means the base interest rate plus 4%, calculated as an equivalent monthly rate expressed as a percentage and truncated to 3 decimal places.
 
@@ -489,7 +489,7 @@ Replace section 141 with:Late payment interest reduced if instalment arrangement
   (3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
 
 ### 60 Section 145 amended (Application of different types of relief for borrower)
-After section 145(1)(a), insert:.
+After section 145(1)﻿(a), insert:.
   (ab) relief from a penalty (see section 146A):
 
 ### 61 Section 146 replaced (Commissioner may grant relief from late payment interest)
@@ -497,7 +497,7 @@ Replace section 146 with:Commissioner may grant relief from late payment interes
   (1) Subsection (2) applies—
     (a) if a borrower has been charged with late payment interest; and
     (b) regardless of whether that late payment interest has been paid, either in whole or in part; and
-    (c) if an application is made under section 145(1)(a) for relief from late payment interest.
+    (c) if an application is made under section 145(1)﻿(a) for relief from late payment interest.
   (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the late payment interest as the Commissioner considers equitable.
   (3) If late payment interest is cancelled,—
     (a) the borrower's consolidated loan balance is decreased by the amount of the cancelled late payment interest; and
@@ -512,14 +512,14 @@ After section 146, insert:Relief from penaltiesCommissioner may grant relief fro
   (1) Subsection (2) applies—
     (a) if a borrower has been charged with a penalty; and
     (b) regardless of whether that penalty has been paid, either in whole or in part; and
-    (c) if an application is made under section 145(1)(ab).
+    (c) if an application is made under section 145(1)﻿(ab).
   (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the penalty as the Commissioner considers equitable.
   (3) For the purposes of this section, penalty—
     (a) means—
       (i) a late filing penalty:
       (ii) an underestimation penalty:
       (iii) a student loan shortfall penalty; but
-    (b) despite paragraph (a)(iii), does not include a student loan shortfall penalty where, for the purposes of the application of section 159 (as set out in section 158), the shortfall penalty for which the borrower was liable was imposed under section 141D or 141E of the Tax Administration Act 1994.
+    (b) despite paragraph (a)﻿(iii), does not include a student loan shortfall penalty where, for the purposes of the application of section 159 (as set out in section 158), the shortfall penalty for which the borrower was liable was imposed under section 141D or 141E of the Tax Administration Act 1994.
 
 ### 63 Section 147 amended (Hardship relief for any tax year)
 Replace section 147(2) with—
@@ -546,10 +546,10 @@ After section 161, insert:Underestimation penaltyUnderestimation penalty where i
 In section 194, insert as subsection (2):
   (2) The following must not be used to satisfy other repayment obligations, unpaid amounts, or penalties:
     (a) a standard deduction that is not a significant over-deduction:
-    (b) a Commissioner deduction for the purposes of section 49(1)(a) that does not exceed the total amount specified under section 49(2)(b).
+    (b) a Commissioner deduction for the purposes of section 49(1)﻿(a) that does not exceed the total amount specified under section 49(2)﻿(b).
 
 ### 67 Section 196 amended (Cancellation of interest if consolidated loan balance repaid early)
-(1) In section 196(1)(a), delete on or before 31 March 2013.
+(1) In section 196(1)﻿(a), delete on or before 31 March 2013.
 (2) Repeal section 196(4).
 
 ### 68 Section 197 replaced (Write-off of consolidated loan balance)
@@ -558,10 +558,10 @@ Replace section 197 with:Write-off of consolidated loan balance1992 No 141 s 60.
     (a) the borrower dies; or
     (b) the Commissioner has reasonable grounds for believing that the borrower has died.
   (2) The Commissioner may reduce a borrower's consolidated loan balance to zero if that balance is less than $20.
-  (3) Subsection (1)(a) has effect from the day on which the borrower died.
-  (4) Subsection (1)(b) has effect from the day on which the borrower is believed to have died.
+  (3) Subsection (1)﻿(a) has effect from the day on which the borrower died.
+  (4) Subsection (1)﻿(b) has effect from the day on which the borrower is believed to have died.
   (5) Subsection (2) has effect from the day on which the Commissioner exercises his or her discretion to reduce the consolidated loan balance to zero.
-  (6) If a borrower's consolidated loan balance is reduced to zero under subsection (1)(a) or (2), that action may not be reversed.
+  (6) If a borrower's consolidated loan balance is reduced to zero under subsection (1)﻿(a) or (2), that action may not be reversed.
   (7) Subsection (6) applies despite anything to the contrary.
 
 ### 69 Section 219 repealed (Early applications and issues of certificates for transition to this Act)
@@ -582,7 +582,7 @@ Replace section 73 with:Meaning of adjusted net income
   In this Act, adjusted net income means net income, as defined in section YA 1 of the Income Tax Act 2007, with the adjustments set out in Schedule 3 of this Act (including any adjustment determined by the Commissioner under clause 15 of that schedule) and excluding salary or wages.
 
 ### 73 Amendments consequential on repeal of definitions of annual gross income and annual total deduction
-In the following provisions, replace annual gross income and annual total deductions with adjusted net income in each place: sections 74(1), 76(1)(b), 79(2)(b), 83(1)(b), 114(2) and (4), 114A(2), and 202(d), and Schedule 1, clause 11(2).
+In the following provisions, replace annual gross income and annual total deductions with adjusted net income in each place: sections 74(1), 76(1)﻿(b), 79(2)﻿(b), 83(1)﻿(b), 114(2) and (4), 114A(2), and 202(d), and Schedule 1, clause 11(2).
 
 ### 74 New Schedule 3 inserted
 After Schedule 2, insert the Schedule 3 set out in Schedule 3 of this Act.
@@ -590,7 +590,7 @@ After Schedule 2, insert the Schedule 3 set out in Schedule 3 of this Act.
 **Amendments relating to repeal of provisions on 10% bonus**
 
 ### 75 Section 111 amended (Exceptions to repayment obligations of overseas-based borrowers)
-In section 111(5)(b), repeal subparagraph (iii).
+In section 111(5)﻿(b), repeal subparagraph (iii).
 
 ### 76 Student Loan Scheme (Budget Measures) Amendment Act 2012 consequentially amended
 (1) This section amends the Student Loan Scheme (Budget Measures) Amendment Act 2012.
@@ -628,7 +628,7 @@ The adjusted net income of a borrower who is non-resident includes the net incom
 
 ### 5 Exempt income included
 An amount derived by the borrower is not treated as exempt income if it is—
-  (a) an overseas pension within the meaning of section CW 28(2)(a) of the Act:
+  (a) an overseas pension within the meaning of section CW 28(2)﻿(a) of the Act:
   (b) an amount of salary or wages that is exempt from income tax under an Act, or under a regulation or Order in Council made under an Act, that is listed in Schedule 38 of the Act (Acts exempting income from tax: income included in family scheme income).
 
 ### 6 Income from portfolio investment entities
@@ -641,9 +641,8 @@ An amount derived by the borrower is not treated as exempt income if it is—
 A refund under sections EH 8 to EH 26 of the Act (which relate to refunds from main income equalisation accounts) of a deposit made on or after 1 April 2014 is not included in adjusted net income of a borrower, except to the extent that the refund is interest payable to the borrower under section EH 6 of the Act (Interest on deposits in main income equalisation account).
 
 ### 8 Borrowers who are shareholders in close companies
-If a borrower is a major shareholder in a close company on the last day of the company’s balance date for financial purposes and the company has paid the major shareholder a dividend in the income year,—
-  (a) the amount of the borrower's adjusted net income calculated under the formula in paragraph (b) is reduced by the total dividends for the income year; and
-  (b) the borrower's adjusted net income includes an amount calculated using the formula—(a ÷ b) × cwhere—ais the number of shares issued by the company and held by the borrower, excluding fixed-rate shares, on the last day of the company's accounting yearbis the number of shares issued by the company, excluding fixed-rate shares, on the last day of the company's accounting yearcis the net income of the company for the company's accounting year.
+(1) This clause applies to a borrower who is a major shareholder in a close company on the last day of the company’s income year.
+(2) The borrower's adjusted net income for the income year includes an amount calculated using the following formula, if the amount is greater than zero,—a × (b – c)where—ais the voting interest (in percentage) in the company held by the borrower on the last day of the company's income yearbis the net income of the company for the company's income yearcis the total dividends paid by the company for the company's income year.
 
 ### 9 Treatment of distributions from superannuation schemes
 (1) Subclause (3) applies if a borrower receives a distribution from a superannuation scheme in an income year and—
@@ -671,24 +670,28 @@ If a borrower is a major shareholder in a close company on the last day of the c
   (c) interest and dividends derived by the trustee of the borrower’s trust would be exempt income of the trustee under section CW 45 (Funeral trusts) of the Act:
   (d) the borrower’s trust is a superannuation fund:
   (e) the borrower and the members of the borrower’s family are not permitted to benefit from the borrower’s trust except under an order of a court.
-(3) If this subclause applies, the adjusted net income of the borrower for that income year includes an amount calculated in accordance with the following formula:(a + b − c) ÷ dwhere—ais the net income of the trustee of the borrower's trust for the income year reduced, to not less than zero, by the amount of the trustee’s income that vests or is paid by the trustee as beneficiary income for the income yearbis the total of amounts calculated for companies in which, at the end of the company’s income year, the trustee of the borrower's trust and associated persons hold voting interests of 50% or more, or market value interests of 50% or more if there is a market value circumstance, with the amount for each company being calculated by multiplying the company’s net income for the income year by the trustee’s voting interest or market value interest in the company at the end of the income yearcis the total amount, not exceeding b, of dividends that are derived by the trustee of the borrower’s trust in the income year from companies referred to in item b of the formuladis the number of settlors of the borrower’s trust, including the borrower, to which this clause applies.
+(3) If this subclause applies, the adjusted net income of the borrower for that income year includes an amount calculated in accordance with the following formula:(a + b) ÷ dwhere—ais the net income of the trustee of the borrower's trust for the income year reduced, to not less than zero, by the amount of the trustee’s income that vests or is paid by the trustee as beneficiary income for the income yearbis the greater of zero and the total of amounts calculated in accordance with subclause (4) for each company in which the trustee of the borrower's trust and associated persons hold voting interests of 50% or more on the last day of the company’s income yeardis the number of settlors of the borrower’s trust who are alive at any time in the income year, including the borrower, to which this clause applies.
+(4) The amount referred to in item b of the formula in subclause (3) is to be calculated for each company using the following formula:x × (y – z)where—xis the total of the voting interests (in percentage) held by the trustee on the last day of the company’s income yearyis the net income of the company for the company's income yearzis the total dividends paid by the company for the company's income year.
 
 ### 12 Income from fringe benefits
 (1) Subclause (2) applies if—
-  (a) a borrower is an employee of a company in which the borrower and associated persons hold—
-    (i) voting interests of 50% or more; or
-    (ii) market value interests of 50% or more (if a market value circumstance exists); and
+  (a) a borrower is an employee of a company in which the borrower and associated persons hold voting interests of 50% or more on the last day of the income year; and
   (b) the company provides a fringe benefit that must be attributed to the borrower under section RD 47 of the Act (Attribution of certain fringe benefits).
 (2) The adjusted net income of the borrower for the income year includes an amount equal to the total of the following amounts:
   (a) the taxable value of the fringe benefits that the company must attribute to the borrower under sections RD 47 to RD 49 of the Act for the income year; and
   (b) the company’s FBT liability in relation to the borrower under section RD 50 of the Act (Employer’s liability for attributed benefits) for the income year.
+
+### 12A Income from employment benefits
+(1) This clause applies to a borrower to whom clause 12 does not apply if the borrower's employer makes a motor vehicle or a short term charge facility available to the borrower in the income year.
+(2) If the borrower's employer makes a motor vehicle available for the borrower’s private use (the benefit) and, under the terms of the borrower’s employment, the borrower would be entitled to a greater amount of employment income if the borrower chose not to receive the benefit, the borrower's adjusted net income for that income year includes an amount equal to the amount by which the borrower's employment income would be greater without the benefit.
+(3) If the borrower's employer makes any short term charge facility available to the borrower (the facility), and the total value for the income year of any such facilities (excluding any fringe benefit tax) is more than the lesser of $1,200 or 5% of the borrower's salary or wages, then the borrower's adjusted net income for the income year includes the total value of the facilities including any fringe benefit tax.
 
 ### 13 Income from deposits in main income equalisation accounts
 The adjusted net income of a borrower for an income year includes the amount of a deduction under section DQ 1 of the Act (Main income equalisation scheme) allowed for a payment made to the Commissioner under section EH 4 of the Act (Main deposit) for an accounting year, corresponding to the same tax year as does the income year, and for a business of—
   (a) the borrower:
   (b) a company that meets the requirements of section MB 4 of the Act for the borrower's adjusted net income to be affected by net income of the company for the accounting year:
   (c) a trustee of a trust that meets the requirements of section MB 7 for the borrower's adjusted net income to be affected by net income of the trustee for the accounting year:
-  (d) a company in which a trustee referred to in paragraph (c) and associated persons hold a voting interest of 50% or more, or a market value interest of 50% or more if a market value circumstance exists.
+  (d) a company in which a trustee referred to in paragraph (c) and associated persons hold a voting interest of 50% or more on the last day of the income year.
 
 ### 14 Income from certain pensions and annuities
 If, in the income year, a borrower derives a pension or an annuity that is exempt income of the borrower under section CW 4 of the Act (Annuities under life insurance policies) or is a pension from a superannuation fund, the adjusted net income of the borrower for the income year—
