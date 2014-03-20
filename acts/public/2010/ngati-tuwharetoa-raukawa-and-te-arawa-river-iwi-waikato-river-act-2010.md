@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-03-20_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -107,6 +107,7 @@ This Act—
     (e) a regional policy statement:
     (f) a proposed regional policy statement
   - **scoping study** means the independent scoping study concerning the Waikato River commissioned and funded by the Crown
+  - **Te Arawa Lakes** has the meaning given to it by the Te Arawa Lakes Settlement Act 2006
   - **Te Arawa River Iwi** means Ngati Tahu-Ngati Whaoa, Ngati Kearoa-Ngati Tuara, and Tuhourangi-Ngati Wahiao, which are the relevant Affiliate Te Arawa Iwi/Hapu under the deed of settlement between the Crown, the Affiliate Te Arawa Iwi/Hapu, and the trustees of Te Pumautanga o Te Arawa Trust dated 11 June 2008
   - **Te Arawa River Iwi Trust** means the trust created by the trust deed dated 20 May 2009
   - **Te Puaha o Waikato** means the mouth of the Waikato River
@@ -118,10 +119,21 @@ This Act—
     (a) in sections 10, 17, 18, 21, 23, 24, 27, 33, and 46 and Schedules 1 to 4,—
       (i) means the body of water known as the Waikato River flowing continuously or intermittently from Te Waiheke o Huka (from a point that Ngati Tuwharetoa know as Te Toka a Tia) to Te Puaha o Waikato to the extent to which it is within the areas marked A and B on SO plan 409144:
       (ii) includes the Waipa River from its junction with the Puniu River to its junction with the Waikato River to the extent to which the rivers are within the areas marked A and B on SO plan 409144:
-    (b) in sections 36 to 40, 42, 44, 45, 47, 49, and 58 and Schedule 5, means the body of water known as the Waikato River flowing continuously or intermittently from Te Waiheke o Huka (from a point that Ngati Tuwharetoa know as Te Toka a Tia) to Karapiro to the extent to which it is within the area marked B on SO plan 409144:
-    (c) in sections 45, 47, and 49, includes the Waipa River from its source to its junction with the Puniu River to the extent to which—
-      (i) the Waipa River is within the area marked C on SO plan 409144; and
-      (ii) activities in the catchment of the Waipa River are included in a joint management agreement through the application of section 44(2)(a)(ii)
+      (iii) includes all tributaries, streams, and watercourses flowing into the rivers described in subparagraphs (i) and (ii), to the extent to which they are within the areas marked A and B on SO plan 409144:
+      (iv) includes lakes and wetlands within the areas marked A and B on SO plan 409144:
+      (v) includes the beds and banks of the water bodies described in subparagraphs (i) to (iv):
+    (b) in sections 36 to 40, 42, 44, 45, 47, 49, and 58 and Schedule 5,—
+      (i) means the body of water known as the Waikato River flowing continuously or intermittently from Te Waiheke o Huka (from a point that Ngati Tuwharetoa know as Te Toka a Tia) to Karapiro to the extent to which it is within the area marked B on SO plan 409144:
+      (ii) includes all tributaries, streams, and watercourses flowing into the part of the Waikato River described in subparagraph (i) to the extent to which they are within the area marked B on SO plan 409144:
+      (iii) includes lakes and wetlands within the area marked B on SO plan 409144 but does not include any of the Te Arawa Lakes:
+      (iv) includes the beds and banks of the water bodies, other than the Te Arawa Lakes, described in subparagraphs (i) to (iii):
+    (c) in sections 45, 47, and 49,—
+      (i) includes the Waipā River from its source to its junction with the Puniu River to the extent to which—
+        (A) the Waipā River is within the area marked C on SO plan 409144:
+        (B) activities in the catchment of the Waipā River are included in a joint management agreement through the application of section 44(2)(a)(ii):
+      (ii) includes all tributaries, streams, and watercourses flowing into the part of the Waipā River described in subparagraph (i) to the extent to which they are within the area marked C on SO plan 409144:
+      (iii) includes lakes and wetlands associated with the part of the Waipā River described in subparagraph (i) to the extent to which they are within the area marked C on SO plan 409144:
+      (iv) includes the beds and banks of the water bodies described in subparagraphs (i) to (iii)
   - **Waikato River Authority** means the body established by section 23
   - **Waikato River Clean-up Trust** means the trust established by section 33(2).
 
