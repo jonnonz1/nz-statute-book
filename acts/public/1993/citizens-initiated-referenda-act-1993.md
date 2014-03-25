@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-03-25_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **indicative referendum petition** means a petition seeking the holding under this Act of an indicative referendum; and includes the forms on which the signatures of the signatories are recorded
   - **person complained of** means a person named in an application as a person connected with the referendum, into whose conduct the application asks for an inquiry
   - **postal voting** has the same meaning as it has in the Referenda (Postal Voting) Act 2000
-  - **promoter** , in relation to an indicative referendum petition, means the person who, in accordance with section 13(2)(a)(ii), is the promoter of that petition
+  - **promoter** , in relation to an indicative referendum petition, means the person who, in accordance with section 13(2)﻿(a)﻿(ii), is the promoter of that petition
   - **Registrar of the court** means the Registrar of the High Court where an application is filed
   - **respondent** means a respondent to an application
   - **Speaker** means the Speaker of the House of Representatives
@@ -64,7 +64,7 @@ An indicative referendum petition shall not relate to a matter that is or could 
 (3) Where a proposal relates to an indicative referendum petition that would contravene section 4, the Clerk of the House of Representatives shall not publish, under subsection (1), notice of the receipt of that proposal.
 
 ### 8 Comments on wording
-The Clerk of the House of Representatives, on receiving any comments made under section 7(2)(b), shall—
+The Clerk of the House of Representatives, on receiving any comments made under section 7(2)﻿(b), shall—
   (a) give 1 copy of those comments to the person who submitted the proposal; and
   (b) make 1 copy of those comments available for public inspection at the office of the Clerk of the House of Representatives.
 
@@ -80,7 +80,7 @@ The Clerk of the House of Representatives, before making a determination under s
 (2) Subject to subsection (1), the Clerk of the House of Representatives, in making a determination under section 11,—
   (a) shall take into account—
     (i) the proposal submitted under section 6; and
-    (ii) any comments received under section 7(2)(b); and
+    (ii) any comments received under section 7(2)﻿(b); and
     (iii) the consultation that took place under section 9; and
   (b) may take into account such other matters as the Clerk of the House of Representatives considers relevant.
 
@@ -123,7 +123,7 @@ The Clerk of the House of Representatives, before making a determination under s
     (ii) his or her residential address; and
   (b) may, against his or her signature, state his or her date of birth.
 (2) Failure by a signatory to comply with any of the requirements of subsection (1) shall not of itself prevent the signature of that signatory from being used for the purposes of determining the number of signatures that must be checked in accordance with section 19.
-(3) The promoter shall deliver the indicative referendum petition to the Clerk of the House of Representatives within 12 months after the date of the publication in the Gazette of the notice required by section 13(1)(b).
+(3) The promoter shall deliver the indicative referendum petition to the Clerk of the House of Representatives within 12 months after the date of the publication in the Gazette of the notice required by section 13(1)﻿(b).
 (4) Subject to section 20, no pages or signatures shall be added to an indicative referendum petition after it has been delivered to the Clerk of the House of Representatives.
 (5) An indicative referendum petition shall lapse if it is not delivered to the Clerk of the House of Representatives within the time prescribed by subsection (3).
 
@@ -141,15 +141,15 @@ The Clerk of the House of Representatives, before making a determination under s
 (1) Where the Clerk of the House of Representatives receives an indicative referendum petition that complies with section 14(2), the Clerk of the House of Representatives shall, within 2 months after the date on which he or she receives the indicative referendum petition, either—
   (a) certify that the indicative referendum petition is correct and give that petition to the Speaker; or
   (b) certify that the indicative referendum petition has lapsed and return that petition to the promoter of the petition.
-(2) Subject to the provisions of this Act, an indicative referendum petition shall be certified correct by the Clerk of the House of Representatives if he or she is satisfied, in accordance with section 19, that the petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors.
+(2) Subject to the provisions of this Act, an indicative referendum petition shall be certified correct by the Clerk of the House of Representatives if he or she is satisfied, in accordance with section 19, that the petition has, after the date on which the promoter received the written notice required by section 13(1)﻿(a), been signed by not less than 10% of the eligible electors.
 
 ### 19 Procedure in relation to certification
-(1) For the purpose of ascertaining whether an indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors, the Clerk of the House of Representatives shall, with the assistance of the Government Statistician,—
+(1) For the purpose of ascertaining whether an indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)﻿(a), been signed by not less than 10% of the eligible electors, the Clerk of the House of Representatives shall, with the assistance of the Government Statistician,—
   (a) calculate the number of signatures that must be checked for the purpose of providing a sample that can, with confidence, be regarded as providing an accurate estimate of the result that would be obtained if all of the signatures were checked; and
   (b) take, from the signatures to the indicative referendum petition, the number of signatures calculated under paragraph (a).
-(2) The Clerk of the House of Representatives must give to the Electoral Commission established by section 4B of the Electoral Act 1993 the signatures taken under subsection (1)(b).
+(2) The Clerk of the House of Representatives must give to the Electoral Commission established by section 4B of the Electoral Act 1993 the signatures taken under subsection (1)﻿(b).
 (3) The Electoral Commission must check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
-(4) The Clerk of the House of Representatives shall, on receiving the result, determine, with the assistance of the Government Statistician, whether or not the indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors.
+(4) The Clerk of the House of Representatives shall, on receiving the result, determine, with the assistance of the Government Statistician, whether or not the indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)﻿(a), been signed by not less than 10% of the eligible electors.
 
 ### 20 Power to resubmit rejected indicative referendum petition
 (1) Notwithstanding that an indicative referendum petition has been delivered to the Clerk of the House of Representatives under section 15(3), the promoter of that petition may continue to collect signatures to that petition and those signatures may be added to that petition if it is resubmitted to the Clerk of the House of Representatives under subsection (2).
@@ -157,18 +157,18 @@ The Clerk of the House of Representatives, before making a determination under s
 (3) Where a petition that is resubmitted under subsection (2) is not certified correct under section 18, that petition shall lapse and may not be resubmitted pursuant to this section.
 
 ### 21 Duty of Speaker to present indicative referendum petition to House
-The Speaker, on receiving from the Clerk of the House of Representatives an indicative referendum petition certified correct under section 18(1)(a), shall forthwith—
+The Speaker, on receiving from the Clerk of the House of Representatives an indicative referendum petition certified correct under section 18(1)﻿(a), shall forthwith—
   (a) announce to the House of Representatives the receipt of that petition; and
   (b) present the petition to the House of Representatives.
 
 ### 22 Date of, or voting period for, indicative referendum
-(1) This section applies when a petition that has been certified correct under section 18(1)(a) is presented to the House of Representatives under section 21.
+(1) This section applies when a petition that has been certified correct under section 18(1)﻿(a) is presented to the House of Representatives under section 21.
 (2) Within 1 month after the date on which the indicative referendum petition is presented to the House of Representatives, the Governor-General must either—
   (a) make an Order in Council appointing, in accordance with section 22AA, the date on which the indicative referendum is to be held under this Act; or
   (b) make an Order in Council under section 5(b) of the Referenda (Postal Voting) Act 2000 specifying the indicative referendum as a referendum that must be conducted by postal voting.
 
 ### 22AA Date of indicative referendum not conducted by postal voting
-(1) The date appointed under section 22(2)(a) for holding the indicative referendum under this Act must be a date within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
+(1) The date appointed under section 22(2)﻿(a) for holding the indicative referendum under this Act must be a date within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
 (2) However, subsection (1) does not apply in the circumstances described in subsection (3) or subsection (5).
 (3) The circumstances referred to in subsection (2) are that—
   (a) the House of Representatives passes a resolution deferring the holding of the indicative referendum; and
@@ -180,10 +180,10 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of section 17 of the Constitution Act 1986); and
   (b) the House of Representatives passes a resolution requiring the indicative referendum to be held on the polling day for the general election.
 (6) In the circumstances described in subsection (5), the indicative referendum is held on polling day.
-(7) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made under section 22(2)(a), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
+(7) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made under section 22(2)﻿(a), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
 
 ### 22AB Date of indicative referendum conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying that the indicative referendum be conducted by postal voting.
 (2) The Friday appointed by the Governor-General under section 30(2) of the Referenda (Postal Voting) Act 2000 must be within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
 (3) However, subsection (2) does not apply in the circumstances described in subsection (4) or subsection (6).
 (4) The circumstances are that—
@@ -198,7 +198,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of section 17 of the Constitution Act 1986); and
   (b) the House of Representatives passes a resolution requiring the voting period to close on the polling day for the general election.
 (7) In the circumstances described in subsection (6), the date on which the voting period closes is polling day.
-(8) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made in accordance with section 22(2)(b), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
+(8) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made in accordance with section 22(2)﻿(b), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
 
 ### 22A Withdrawal of indicative referendum petition
 (1) The promoter of an indicative referendum petition may withdraw that petition by delivering to the Clerk of the House of Representatives a notice in writing withdrawing that petition, before the Governor-General has, under section 26 or section 26A, as the case may require, issued a writ for the holding of the indicative referendum.
@@ -214,19 +214,19 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 ## Part 2 — Indicative referendum
 
 ### 24 Application of Electoral Act 1993 to indicative referendum not conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council under section 22(2)(a) appointing the date on which the indicative referendum is to be held under this Act.
+(1) This section applies when the Governor-General makes an Order in Council under section 22(2)﻿(a) appointing the date on which the indicative referendum is to be held under this Act.
 (2) This section is subject to the provisions of this Act and of any regulations made under this Act.
 (3) The indicative referendum is taken in the manner prescribed by the Electoral Act 1993 for the taking of an electoral poll.
 (4) The provisions of the Electoral Act 1993 and of any regulations made under that Act, as far as they are applicable and with the necessary modifications, apply to the indicative referendum as if it were an electoral poll.
-(5) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum are sections 4B to 9, 28 to 38, 41 to 45(8), 46 to 59, 62 to 71, 113, 125 to 140, 143 to 146L, 148 to 154, 157(2), 160(1), (3), (4), and (8), 165(1)(b), 168(1) to (3), 170(6), 174(4), 179(1)(a), 180(1) to (5), 180(7)(e), 181, 183, 185, 186, 191 to 193A, 196A, 197 to 199, 203 to 210F, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, 267, 268, and 269 to 284.
+(5) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum are sections 4B to 9, 28 to 38, 41 to 45(8), 46 to 59, 62 to 71, 113, 125 to 140, 143 to 146L, 148 to 154, 157(2), 160(1), (3), (4), and (8), 165(1)﻿(b), 168(1) to (3), 170(6), 174(4), 179(1)﻿(a), 180(1) to (5), 180(7)﻿(e), 181, 183, 185, 186, 191 to 193A, 196A, 197 to 199, 203 to 210F, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)﻿(c), 256(2), 256(3), 258 to 262, 264, 267, 268, and 269 to 284.
 
 ### 24A Application of Electoral Act 1993 to indicative referendum conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying that the indicative referendum be conducted by postal voting.
 (2) The provisions of the Electoral Act 1993 and of any regulations made under that Act apply to the indicative referendum to the extent provided by the Referenda (Postal Voting) Act 2000. The provisions invoked by the Referenda (Postal Voting) Act 2000 apply to the indicative referendum as far as they are applicable and with the necessary modifications.
-(3) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum conducted by postal voting are sections 4B to 9, 28 to 38, 41 to 45(8), 46 to 59, 61 to 71, 113, 125 to 177, 178(8), 179(1)(a), 180(1) to (5), 180(7)(e), 181 to 199, 203 to 205S, 207 to 207P (so far as they are applicable to candidate donations), 209 to 209E, 215 to 219, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, and 266 to 284.
+(3) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum conducted by postal voting are sections 4B to 9, 28 to 38, 41 to 45(8), 46 to 59, 61 to 71, 113, 125 to 177, 178(8), 179(1)﻿(a), 180(1) to (5), 180(7)﻿(e), 181 to 199, 203 to 205S, 207 to 207P (so far as they are applicable to candidate donations), 209 to 209E, 215 to 219, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)﻿(c), 256(2), 256(3), 258 to 262, 264, and 266 to 284.
 
 ### 24B Application of this Act to indicative referendum conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying that the indicative referendum be conducted by postal voting.
 (2) Sections 27, 29 to 38, 40A, 40B, 48 to 51G, 52, 53, 54, and 58 do not apply to the indicative referendum.
 
 ### 25 Governor-General's warrant for issue of writ: indicative referendum not conducted by postal voting
@@ -236,7 +236,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 [Repealed]
 
 ### 26 Writ for indicative referendum not conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council, under section 22(2)(a) or section 22AA(7), appointing the date on which an indicative referendum is to be held under this Act.
+(1) This section applies when the Governor-General makes an Order in Council, under section 22(2)﻿(a) or section 22AA(7), appointing the date on which an indicative referendum is to be held under this Act.
 (2) The Governor-General must issue a writ in form 2 of the Schedule to the Electoral Commission requiring the Electoral Commission to make all necessary arrangements for the conduct of the indicative referendum.
 (3) If the indicative referendum is to be held on the polling day for a general election, the writ must be issued on the day on which the writ for the general election is issued.
 (4) If the indicative referendum is to be held on another day, the writ must be issued at least 28 days before the day on which the indicative referendum is to be held.
@@ -246,7 +246,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (b) if the indicative referendum is to be held on another day, the 50th day after the issue of the writ.
 
 ### 26A Writ for indicative referendum conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying the indicative referendum as a referendum that must be conducted by postal voting.
+(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying the indicative referendum as a referendum that must be conducted by postal voting.
 (2) The Governor-General must issue a writ in form 2A of the Schedule to the Electoral Commission requiring the Electoral Commission to conduct the indicative referendum.
 (3) If the voting period for the indicative referendum ends on the polling day for a general election, the writ must be issued on the day on which the writ for the general election is issued.
 (4) If the voting period for the indicative referendum ends on another day, the writ must be issued at least 28 days before the commencement of that period.
@@ -319,7 +319,7 @@ If the result of any indicative referendum in any electoral district is disputed
   (a) any 6 electors may, within 3 working days after the public declaration, apply to a District Court Judge for a recount of the votes:
   (b) every such application shall be accompanied by a deposit of $200 (which deposit is inclusive of goods and services tax):
   (c) the District Court Judge shall cause a recount of the votes to be commenced within 3 working days of receiving the application, and shall give notice in writing to the applicants and to any scrutineers appointed under section 35 of the time and place at which the recount will be made:
-  (d) sections 180(6), 180(7)(a) to (d), 180(8) to (11), 182, and 184 of the Electoral Act 1993, so far as they are applicable and with the necessary modifications, shall apply to the recount.
+  (d) sections 180(6), 180(7)﻿(a) to (d), 180(8) to (11), 182, and 184 of the Electoral Act 1993, so far as they are applicable and with the necessary modifications, shall apply to the recount.
 
 ### 39 Endorsement and return of writ
 (1) An Electoral Commissioner must, on behalf of the Electoral Commission,—
@@ -338,16 +338,16 @@ If the result of any indicative referendum in any electoral district is disputed
 (6) Subsections (4) to (5B) prevail over subsections (1) to (3).
 
 ### 40 Declaration of result
-(1) This section applies when the Governor-General makes an Order in Council, under section 22(2)(a) or section 22AA(7), appointing the date on which an indicative referendum is to be held under this Act.
+(1) This section applies when the Governor-General makes an Order in Council, under section 22(2)﻿(a) or section 22AA(7), appointing the date on which an indicative referendum is to be held under this Act.
 (2) The Electoral Commission—
   (a) must notify in the Gazette—
     (i) the total number of valid votes recorded for each of the 2 answers to the precise question; and
     (ii) the total number of valid votes recorded in each electoral district for each of the 2 answers to the precise question; and
   (b) must give to the Minister of Justice written notice of the numbers notified in the Gazette under paragraph (a).
-(3) The Minister of Justice must, as soon as practicable, present to the House of Representatives a copy of the notice given to the Minister of Justice under subsection (2)(b).
+(3) The Minister of Justice must, as soon as practicable, present to the House of Representatives a copy of the notice given to the Minister of Justice under subsection (2)﻿(b).
 
 ### 40AA Declaration of result of indicative referendum conducted by postal voting
-(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+(1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying that the indicative referendum be conducted by postal voting.
 (2) The result of an indicative referendum conducted by postal voting must be declared under section 49 of the Referenda (Postal Voting) Act 2000.
 
 ### 40A Infringement of secrecy
@@ -365,8 +365,8 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 ## Part 3 — Publicity
 
 ### 41 Publicity for indicative referendum
-(1) No person shall, at any time in the indicative referendum period, or, in the case of a indicative referendum conducted by postal voting, at any time during the voting period, publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement used or appearing to be used in connection with the indicative referendum petition or to promote one of the answers to the precise question in the indicative referendum unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published or broadcast and the address of that person's place of residence or business.
-(2) For the purposes of this section, the term indicative referendum period means, in relation to an indicative referendum, the period commencing on the day after the date of the publication in the Gazette, in relation to the indicative referendum petition, of the notice required by section 13(1)(b), and ending with the close of the day before the day on which the referendum is held.
+(1) No person shall, at any time in the indicative referendum period, or, in the case of an indicative referendum conducted by postal voting, at any time during the voting period, publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement used or appearing to be used in connection with the indicative referendum petition or to promote one of the answers to the precise question in the indicative referendum unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published or broadcast and the address of that person's place of residence or business.
+(2) For the purposes of this section, the term indicative referendum period means, in relation to an indicative referendum, the period commencing on the day after the date of the publication in the Gazette, in relation to the indicative referendum petition, of the notice required by section 13(1)﻿(b), and ending with the close of the day before the day on which the referendum is held.
 (3) Every person is guilty of an illegal practice within the meaning of the Electoral Act 1993 who wilfully contravenes subsection (1).
 (4) Nothing in this section shall restrict the publication of any news or comments relating to the indicative referendum petition or the indicative referendum in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
@@ -393,7 +393,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) is, in any other case, guilty of an illegal practice, and is liable on conviction to a fine not exceeding $20,000, unless the person proves:
     (i) that he or she had no intention to mis-state or conceal the facts; and
     (ii) that he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
-(5) Every person charged with an offence against subsection (4)(a) may be convicted of an offence against subsection (4)(b).
+(5) Every person charged with an offence against subsection (4)﻿(a) may be convicted of an offence against subsection (4)﻿(b).
 
 ### 44 Duty of Electoral Commission
 (1) It shall be the duty of the Electoral Commission to see that the provisions of sections 41 to 43 are faithfully complied with.
@@ -414,7 +414,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 
 ### 47 Sections of Electoral Act 1993 applied
 (1) The sections of the Electoral Act 1993 described in subsection (2), as far as they are applicable and with the necessary modifications, shall apply to a petition for an inquiry under section 48.
-(2) The sections of the Electoral Act 1993 referred to in subsection (1) are sections 232 to 234, 235, 236(1), (2), (4) to (7), 240, 241, 242, 247 to 255, 256(1)(a) and (b), and 257.
+(2) The sections of the Electoral Act 1993 referred to in subsection (1) are sections 232 to 234, 235, 236(1), (2), (4) to (7), 240, 241, 242, 247 to 255, 256(1)﻿(a) and (b), and 257.
 
 **Applicants**
 
@@ -495,7 +495,7 @@ At the end of a hearing, the court must do one of the following:
   (k) subject to any regulations made under this Act, at any time on the day on which the referendum is held before the close of the poll, within, or at the entrance to, or in the vicinity of, any polling place,—
     (i) gives or offers to give any person any written or oral information as to any name or number on the main roll or any supplementary roll being used at the election:
     (ii) permits or offers to permit any person to examine any copy of the main roll or any supplementary roll being used at the election.
-(2) It shall be a defence to a prosecution for an offence against subsection (1)(g) that relates to the exhibition in or in view of a public place of a statement, name, emblem, slogan, or logo, if the defendant proves that—
+(2) It shall be a defence to a prosecution for an offence against subsection (1)﻿(g) that relates to the exhibition in or in view of a public place of a statement, name, emblem, slogan, or logo, if the defendant proves that—
   (a) the exhibition was inadvertent; and
   (b) the defendant caused the exhibition to cease as soon as the defendant was notified by a Returning Officer or a Deputy Returning Officer that the exhibition was taking place.
 (3) Nothing in this section shall apply to any official statement or announcement made or exhibited under the authority of this Act or the Electoral Act 1993.
@@ -505,7 +505,7 @@ At the end of a hearing, the court must do one of the following:
   (a) any statement advising or intended or likely to influence any elector as to the answer for which the elector should or should not vote; or
   (b) any statement advising or intended or likely to influence any elector to abstain from voting; or
   (c) any name, emblem, slogan, or logo identified with any answer to the question to which the indicative referendum relates or any proponent of any such answer,—
-(2) Nothing in subsection (1)(c) shall apply to ribbons, streamers, rosettes, or items of a similar nature which are worn or displayed by any person (whether on his or her person or on any vehicle) in colours that are identified with any answer to the question to which the indicative referendum relates or with any proponent of any such answer or to a lapel badge worn by any person.
+(2) Nothing in subsection (1)﻿(c) shall apply to ribbons, streamers, rosettes, or items of a similar nature which are worn or displayed by any person (whether on his or her person or on any vehicle) in colours that are identified with any answer to the question to which the indicative referendum relates or with any proponent of any such answer or to a lapel badge worn by any person.
 (3) Nothing in subsection (1) shall apply to a statement, name, emblem, slogan, or logo which does not relate specifically to the indicative referendum and which was so exhibited before the day on which the referendum is held in a fixed position and in relation to the New Zealand or regional or campaign headquarters (not being mobile headquarters) of a proponent of any answer to the question to which the indicative referendum relates.
 (4) All expenses incurred by the Returning Officer in carrying out the power conferred by subsection (1) may be recovered by the Returning Officer from the persons by whom or by whose direction the statement, name, emblem, slogan, or logo was exhibited, as a debt due by them jointly and severally to the Crown.
 
@@ -535,8 +535,8 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 (1) Every person commits an offence who, at an indicative referendum,—
   (a) except in accordance with any regulations made under the Electoral Act 1993 or this Act in relation to special voters, obtains possession of or has in his or her possession any voting paper other than the one given to him or her by the Returning Officer or issuing officer for the purpose of recording his or her vote, or retains any voting paper in his or her possession after leaving the polling place; or
   (b) does or omits to do an act (other than an act to which section 52 applies) that if done or omitted to be done at an electoral poll would be an offence under the Electoral Act 1993.
-(2) Every person who commits an offence against subsection (1)(a) shall be liable on conviction to a fine not exceeding $2,000.
-(3) Every person who commits an offence against subsection (1)(b) shall be liable on conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
+(2) Every person who commits an offence against subsection (1)﻿(a) shall be liable on conviction to a fine not exceeding $2,000.
+(3) Every person who commits an offence against subsection (1)﻿(b) shall be liable on conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
 
 ## Part 6 — Miscellaneous provisions
 
