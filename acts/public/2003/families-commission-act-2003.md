@@ -1,5 +1,5 @@
 # Families Commission Act 2003
-_Consolidation as at 2005-04-26_
+_Consolidation as at 2014-03-25_
 
 ### 1 Title
 This Act is the Families Commission Act 2003.
@@ -22,7 +22,6 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Commission** means the Families Commission established by section 6
-  - **Commissioner** means a member
   - **member** means a member of the Commission
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
 
@@ -32,19 +31,19 @@ This Act binds the Crown.
 **Establishment of Commission**
 
 ### 6 Commission established
-This section establishes the Families Commission.
+(1) This section establishes the Families Commission.
+(2) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
 
 **Commission's functions**
 
-### 7 Commission's main function
-(1) The Commission's main function is to act as an advocate for the interests of families generally.
-(2) That function does not include acting as an advocate for the interests of a particular family or particular families in connection with a particular case or issue.
-(3) In performing that function, the Commission must identify and have regard to factors that help to maintain or enhance either or both of the following:
-  (a) families' resilience:
-  (b) families' strengths.
+### 7 Commission's main functions
+The Commission's main functions are—
+  (a) to act as an advocate for the interests of families generally (the advocacy function); and
+  (b) to monitor and evaluate programmes and interventions in the social sector, and provide social science research into key issues, programmes, and interventions across that sector (the monitoring, evaluation, and research function).
 
-### 8 Commission's additional functions
-In order to perform its main function stated in section 7, the Commission has the following additional functions:
+### 8 Commission's advocacy function
+(1) In order to perform its advocacy function, the Commission has the following additional functions:
   (a) to encourage and facilitate informed debate, by any of the following persons, on matters relating to the interests of families:
     (i) representatives of government, academic, and community sectors; and
     (ii) members of the public:
@@ -52,6 +51,7 @@ In order to perform its main function stated in section 7, the Commission has th
     (i) the importance of stable family relationships (including those between parties to a marriage, civil union, or a de facto relationship); and
     (ii) the importance of the parenting role; and
     (iii) the rights and responsibilities of parents:
+  (ba) to prepare and publish an annual Families Status Report that measures and monitors the well-being of New Zealand families:
   (c) to encourage and facilitate the development and provision, by Ministers of the Crown, departments of State, and other instruments of the Executive Government, of policies designed to promote or serve the interests of families:
   (d) to consider, and to report and make recommendations on, any matter (for example, a proposed government policy) relating to families that is referred to it by any Minister of the Crown:
   (e) to stimulate and promote research into any matter relating to the interests of families, for example,—
@@ -60,6 +60,19 @@ In order to perform its main function stated in section 7, the Commission has th
     (iii) by entering into contracts or arrangements for research or information about families to be undertaken or collected:
   (f) to consult with, or to refer a matter to, any 1 or more other official bodies or statutory officers, if the Commission considers it necessary or desirable to do so for the proper performance of any or all of its other functions.
   (g)
+(2) The advocacy function does not include acting as an advocate for the interests of a particular family or particular families in connection with a particular case or issue.
+(3) In performing its advocacy function, the Commission must identify and have regard to factors that help to maintain or enhance either or both of the following:
+  (a) families' resilience:
+  (b) families' strengths.
+
+### 8A Commission's monitoring, evaluation, and research function
+(1) In order to perform its monitoring, evaluation, and research function, the Commission has the following additional functions:
+  (a) to identify evidence and research that will assist in determining or achieving the Government's policies and priorities in the social sector:
+  (b) to commission social science research in the social sector on behalf of the Government and others:
+  (c) to manage contracts for social science research in the social sector on behalf of the Government and others:
+  (d) to set standards and specify best practice for monitoring and evaluating programmes and interventions in the social sector:
+  (e) to establish and maintain a database of social science research undertaken by or on behalf of the Government.
+(2) When monitoring or evaluating programmes and interventions as part of its monitoring, evaluation, and research function, the Commission must act independently of the programmes and interventions being monitored or evaluated.
 
 **Other matters to which Commission must have regard**
 
@@ -84,7 +97,7 @@ In the exercise and performance of its powers and functions, the Commission must
 **Obligation to obtain views of specified groups**
 
 ### 13 Mechanisms for obtaining views of specified groups
-(1) In the exercise and performance of its powers and functions, the Commission must maintain mechanisms (for example, by appointing advisory committees or forming consultation forums) to ensure that there are at all times readily accessible to it the views—
+(1) In the exercise and performance of its advocacy function and associated powers, the Commission must maintain mechanisms (for example, by appointing advisory committees or forming consultation forums) to ensure that there are at all times readily accessible to it the views—
   (a) of Māori as tangata whenua:
   (b) of the Pacific Islands peoples of New Zealand:
   (c) of other ethnic and cultural groups in New Zealand:
@@ -110,7 +123,7 @@ In the exercise and performance of its powers and functions, the Commission must
 (2) The Commission must notify the person of the referral of the communication.
 (3) Subsection (1) overrides section 18 of the Crown Entities Act 2004.
 
-**Nature and membership of Commission, and board's role**
+**Members of Commission**
 
 ### 15 Commission is body corporate
 [Repealed]
@@ -119,19 +132,38 @@ In the exercise and performance of its powers and functions, the Commission must
 [Repealed]
 
 ### 17 Commission is Crown entity
-(1) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 18 Membership of Commission
 (1) The Commission consists of no more than 7, and no less than 3, members.
-(2) The Minister must appoint 1 member to be Chief Commissioner.
-(3) The Minister may appoint 1 member to be Deputy Chief Commissioner.
-(4) The Chief Commissioner is the chairperson of the board of the Commission, and the Deputy Chief Commissioner (if any) is the deputy chairperson of that board, for the purposes of clause 1 of Schedule 5 of the Crown Entities Act 2004.
+(2)
+(3)
+(4)
 (5) In addition to the appointment processes and criteria in sections 28 and 29 of the Crown Entities Act 2004, the Minister must—
   (a) before appointing a member, notify a vacancy in a manner that enables suitably qualified individuals to apply for appointment; and
-  (b) in appointing a member, take into account the need for Commissioners to have among them a breadth of experience and expertise, and knowledge of, or experience in,—
+  (b) in appointing a member, take into account the need for members to have among them a breadth of experience and expertise, and knowledge of, or experience in,—
     (i) different aspects of matters likely to come before the Commission; and
     (ii) the needs and aspirations (including life experiences) of different communities of interest and population groups in New Zealand society.
+
+### 18A Families Commissioner
+(1) The Minister must appoint 1 member to be the Families Commissioner.
+(2) The functions of the Families Commissioner are as determined by the Commission.
+
+**Social Science Experts Panel**
+
+### 18B Social Science Experts Panel
+(1) A Social Science Experts Panel is established.
+(2) The Panel's function is to provide academic peer review of any research, evaluations, standards, reports, or other publications done or issued by or on behalf of the Commission, and otherwise to provide guidance to the Commission.
+
+### 18C Membership of Social Science Experts Panel
+(1) The Social Science Experts Panel comprises a minimum of 4 members.
+(2) Each member of the Panel must be appointed by the Commission on the joint recommendation of—
+  (a) the Minister; and
+  (b) the person (if any) appointed as principal adviser to the Prime Minister on science matters or, if there is no such person, the chief executive of the department responsible for science matters.
+(3) The Commission must appoint 1 member of the Panel to be its chairperson.
+(4) Every member of the Panel may be appointed for a period of up to 3 years and may be reappointed at the expiry of each term of appointment.
+(5) Clause 14(2) of Schedule 5 of the Crown Entities Act 2004 applies with respect to the appointment of a person to the Panel as if the person were to be appointed as a member of a committee appointed by the board of the Commission under clause 14(1) of that schedule.
+(6) Clause 15 of Schedule 5 of the Crown Entities Act 2004 applies to each member of the Panel as if he or she were a member of a committee appointed by the board of the Commission under clause 14(1) of that schedule.
 
 ### 19 Board's role
 [Repealed]
@@ -302,3 +334,18 @@ The Acts listed in Schedule 4 are amended in the manner set out in that schedule
 ## Schedule 3 — Procedure of board
 
 ## Schedule 4 — Amendments to other Acts
+
+### 1 Title
+This Act is the Families Commission Amendment Act 2014.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Transitional provisions
+
+### 14 Transitional provisions relating to members of Commission
+(1) On the day on which this Act comes into force,—
+  (a) the Chief Families Commissioner is renamed the Families Commissioner and holds office as the chairperson of the Commission in accordance with Schedule 5 of the Crown Entities Act 2004; and
+  (b) the Deputy Chief Families Commissioner (if any) ceases to be called a Commissioner but holds office as the deputy chairperson of the Commission in accordance with Schedule 5 of the Crown Entities Act 2004; and
+  (c) all other Commissioners cease to be called Commissioners but remain as members of the Commission.
+(2) Except as provided in subsection (1), nothing in that subsection or in any other changes made by this Act affects the terms and conditions of appointment of any member of the Commission appointed before this Act comes into force.
