@@ -1,5 +1,5 @@
 # Electoral (Administration) Amendment Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-03-25_
 
 ### 1 Title
 This Act is the Electoral (Administration) Amendment Act 2011.
@@ -22,7 +22,7 @@ This Act amends the Electoral Act 1993.
 (2) Paragraph (b) of the definition of election expenses in section 3(1) is amended by omitting 206A and substituting 206.
 
 ### 5 Powers of Electoral Commission
-Section 6(1)(e)(ii) (as substituted on 1 October 2010 by section 7 of the Electoral (Administration) Amendment Act 2010) is amended by omitting tabling in and substituting presentation to.
+Section 6(1)﻿(e)﻿(ii) (as substituted on 1 October 2010 by section 7 of the Electoral (Administration) Amendment Act 2010) is amended by omitting tabling in and substituting presentation to.
 
 ### 6 Electoral Commission may delegate functions, duties, or powers to non-employees
 (1) Section 9 (as substituted on 1 October 2010 by section 7 of the Electoral (Administration) Amendment Act 2010) is amended as from its commencement on 1 October 2010 by omitting In addition to the persons listed in section 73(1) of the Crown Entities Act 2004, the Electoral Commission may delegate any of its functions, duties, or powers, either generally or specifically, and substituting The Electoral Commission's board may under section 73 of the Crown Entities Act 2004 delegate any of the Commission's functions or powers, either generally or specifically, not only to any person or persons listed in section 73(1) of the Crown Entities Act 2004, but also.
@@ -40,8 +40,8 @@ Section 22 is amended by inserting the following subsection after subsection (3)
 
 ### 8 Compulsory registration of electors
 Section 82 is amended by inserting the following subsections after subsection (4):
-  (4A) A person who is or has been a registered elector may, instead of using the prescribed form to make an application required by subsection (1)(c), make it by supplying to the Registrar using an electronic medium approved for the purpose by the Chief Registrar information necessary to complete the prescribed form and identified by the Registrar.
-  (4B) Nothing in section 85(1) and (2) applies to an application required by subsection (1)(c) and that a person intends to make, or makes, in accordance with subsection (4A).
+  (4A) A person who is or has been a registered elector may, instead of using the prescribed form to make an application required by subsection (1)﻿(c), make it by supplying to the Registrar using an electronic medium approved for the purpose by the Chief Registrar information necessary to complete the prescribed form and identified by the Registrar.
+  (4B) Nothing in section 85(1) and (2) applies to an application required by subsection (1)﻿(c) and that a person intends to make, or makes, in accordance with subsection (4A).
 
 ### 9 New section 83A substituted
 Section 83A is repealed and the following section substituted:Procedure following inquiry under section 83
@@ -49,7 +49,7 @@ Section 83A is repealed and the following section substituted:Procedure followin
     (a) the Registrar must ensure that the form or the information contained in the form, or the information supplied electronically, is transmitted to the Registrar for the new electoral district; and
     (b) the Registrar for the new electoral district must, as if the form or the information supplied electronically were an application for registration, register that elector, in accordance with section 87, on the roll for the district in which the elector resides; and
     (c) the form or the information supplied electronically is deemed to be an application for registration for the purposes of section 82; and
-    (d) the Registrar for the old electoral district must, in accordance with section 98(1)(a), remove from the roll for that district the name of the elector.
+    (d) the Registrar for the old electoral district must, in accordance with section 98(1)﻿(a), remove from the roll for that district the name of the elector.
   (2) If, following an inquiry under section 83, the Registrar receives from an elector a form, or information supplied electronically under subsection (3), that contains a change to any particulars other than a change of place of residence referred to in subsection (1), the Registrar must amend the roll in accordance with the information supplied in the form or electronically.
   (3) An elector may, instead of returning a form to the Registrar to notify the Registrar that the elector has changed his or her place of residence and now resides in another electoral district or to notify the Registrar of a change to any other of the elector's particulars, notify the Registrar of a change to any of the elector's particulars by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
   (4) An elector remains on the roll and his or her particulars on the roll remain unchanged if—
@@ -58,11 +58,11 @@ Section 83A is repealed and the following section substituted:Procedure followin
   (5) A form that a person intends to return, or returns, in response to an inquiry under section 83 must be signed or marked, and may be rejected for incompleteness, in accordance with subsections (1), (2), and (4) of section 85 (which apply with all necessary modifications) as if the form were an application or declaration in respect of registration as an elector.
   (6) Information that an elector intends to supply, or supplies, electronically under subsection (3) in response to an inquiry under section 83—
     (a) is not an application or declaration in respect of registration as an elector required by subsections (1) and (2) of section 85 to be signed or marked; but
-    (b) may be rejected for incompleteness under section 85(4) (which applies with all necessary modifications) if it does not include all the particulars stated or referred to in section 85(3)(a), (b), (c), (f), and (i).
+    (b) may be rejected for incompleteness under section 85(4) (which applies with all necessary modifications) if it does not include all the particulars stated or referred to in section 85(3)﻿(a), (b), (c), (f), and (i).
 
 ### 10 New section 87A inserted
 The following section is inserted after section 87:Procedure if immigration status means applicant apparently not qualified to be registered
-  (1) This section applies in accordance with section 263A(6)(a) if the Chief Registrar under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
+  (1) This section applies in accordance with section 263A(6)﻿(a) if the Chief Registrar under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
     (a) unlawfully in New Zealand; or
     (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
   (2) When this section applies the Registrar must comply with subsections (3) to (5) before determining under section 87 whether the applicant for registration as an elector is qualified to be registered.
@@ -86,16 +86,16 @@ Section 90 is amended by inserting the following subsection after subsection (2)
   (2A) A person to whom subsection (1) applies (but not a person who is required by subsection (2) to comply with subsection (1)) may, instead of giving a written notice to the Registrar of the change of place of residence and the address of the new place of residence, notify the Registrar of them by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
 
 ### 12 Chief Registrar may seek consent of Maori electors to supply of information to designated body
-Section 111C(2)(b) is amended by adding , email address (if any), and contact telephone numbers (if any).
+Section 111C(2)﻿(b) is amended by adding , email address (if any), and contact telephone numbers (if any).
 
 ### 13 Supply of information on age and Maori descent
-Section 112(1)(a)(i) is amended by omitting 114(8) and substituting 114(9).
+Section 112(1)﻿(a)﻿(i) is amended by omitting 114(8) and substituting 114(9).
 
 ### 14 Supply of electoral information to candidates, political parties, and members of Parliament
-Section 114(2)(d) is amended by omitting section 5(d) and substituting section 5(c).
+Section 114(2)﻿(d) is amended by omitting section 5(d) and substituting section 5(c).
 
 ### 15 Unpublished names
-Section 115(2) is amended by repealing paragraph (b) and substituting the following paragraph:.
+Section 115(2) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) a statutory declaration from a constable to the effect that he or she believes that the personal safety of a person or of a person’s family could be prejudiced by the publication of that person’s name,—
 
 ### 16 Duty to report suspected offences
@@ -126,7 +126,7 @@ Section 205F(1) is amended by omitting 205B and substituting 205C.
 Section 206D(1) is amended by omitting 206B and substituting 206C.
 
 ### 23 Auditor's report on return of party's election expenses
-Section 206L(2)(a) is amended by omitting 206B and substituting 206C.
+Section 206L(2)﻿(a) is amended by omitting 206B and substituting 206C.
 
 ### 24 Limit on maximum amount of donations protected from disclosure
 Section 208B(1) is amended by omitting 206B(1) and substituting 206C(1).
@@ -135,8 +135,8 @@ Section 208B(1) is amended by omitting 206B(1) and substituting 206C(1).
 Section 215(4) is amended by omitting police and substituting New Zealand Police.
 
 ### 26 Disclosure of immigration information for matching purposes
-(1) Section 263A(2)(a) (as substituted at 2 am on 29 November 2010 by section 406(1) and Schedule 3 of the Immigration Act 2009) is amended by omitting person registered as an elector of an electoral district and substituting person who is, or has applied to be, registered as an elector of an electoral district.
-(2) Section 263A(2)(b) (as so substituted) is amended by omitting person registered as an elector and substituting person who is, or has applied to be, registered as an elector.
+(1) Section 263A(2)﻿(a) (as substituted at 2 am on 29 November 2010 by section 406(1) and Schedule 3 of the Immigration Act 2009) is amended by omitting person registered as an elector of an electoral district and substituting person who is, or has applied to be, registered as an elector of an electoral district.
+(2) Section 263A(2)﻿(b) (as so substituted) is amended by omitting person registered as an elector and substituting person who is, or has applied to be, registered as an elector.
 (3) Section 263A(5) (as so substituted) is amended—
   (a) by omitting person on the electoral roll and substituting person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll,; and
   (b) by omitting person is registered as an elector and substituting person is, or has applied to be, registered as an elector.
@@ -183,7 +183,7 @@ Section 9 (as substituted on 1 October 2010 by section 7 of the Electoral (Admin
 Section 21 is repealed.
 
 ### 31 New section 22 substituted
-Section 22 is repealed and the following section substituted:Registrar of Electors1956 No 107 s 7A; 1986 No 124 s 32(1).
+Section 22 is repealed and the following section substituted:Registrar of Electors1956 No 107 s 7A; 1986 No 124 s 32(1)
   (1) Each electoral district must have a Registrar of Electors to be appointed by the Electoral Commission.
   (2) Every Registrar—
     (a) must be an individual who is an electoral official (as defined in section 3(1)); and
@@ -219,14 +219,14 @@ Section 23 is repealed.
 **Consequential amendments to principal Act**
 
 ### 33 No form of inquiry required if application for registration as elector received
-Section 83B is amended by inserting or information supplied electronically to make an application for registration as an elector under section 82(1)(c) and (4A), after a duly completed application for registration as an elector,.
+Section 83B is amended by inserting or information supplied electronically to make an application for registration as an elector under section 82(1)﻿(c) and (4A), after a duly completed application for registration as an elector,.
 
 ### 34 Transfer of electors between electorates
 Section 83D(7) is amended by omitting a form is returned under section 83A(1) and substituting the Registrar under section 83A(1) receives a form or information supplied electronically under section 83A(3) in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district.
 
 ### 35 Applications received after issue of writ
 Section 88(2) is amended by adding ; or and also by adding the following paragraph:
-  (c) in the case only of an application required by section 82(1)(c) and made by the applicant for registration supplying information using an electronic medium in accordance with section 82(4A), the electronic medium records the information as having been received by or on behalf of the Registrar before polling day.
+  (c) in the case only of an application required by section 82(1)﻿(c) and made by the applicant for registration supplying information using an electronic medium in accordance with section 82(4A), the electronic medium records the information as having been received by or on behalf of the Registrar before polling day.
 
 ### 36 False statements or declarations
 Section 118 is amended by omitting or declaration and substituting declaration, or information supplied (by written notice or electronically) under section 82(4A), 83A(3), or 90.
@@ -240,14 +240,7 @@ Section 118 is amended by omitting or declaration and substituting declaration, 
 **Transitional provision approving electronic medium for online re-enrolment and updating**
 
 ### 38 Deemed approval of electronic medium called igovt logon service
-(1) In this section,—
-  - **igovt logon service** means the government logon service developed by the Department of Internal Affairs and on the commencement of this section called the igovt logon service
-  - **online re-enrolment and updating provisions** means sections 82(4A), 83A(3), and 90(2A) of the principal Act (as inserted by sections 8, 9, and 11 of this Act).
-(2) The igovt logon service must, if and insofar as the deemed approval by this section has not been amended, revoked, or replaced, be taken to be an electronic medium approved for the purposes of all of the online re-enrolment and updating provisions.
-(3) The Chief Registrar, or on or after 1 July 2012 the Electoral Commission, may in accordance with the online re-enrolment and updating provisions do either or both of the following:
-  (a) amend, revoke, or revoke and replace some or all of the deemed approval by this section, and for the purposes of all of those provisions, of the igovt logon service:
-  (b) approve for the purposes of all or any of those provisions 1 or more additional electronic media.
-(4) This section does not limit or affect the generality of the online re-enrolment and updating provisions.
+[Repealed]
 
 **Transitional provisions relating to abolition of Chief Registrar of Electors**
 
@@ -270,8 +263,8 @@ No person is entitled to compensation or any other payment or benefit in respect
 (1) The Secretary for Justice must identify—
   (a) the expenses (incurred after 30 June 2012 arising from commitments before 18 August 2009) to be paid under section 44; and
   (b) the expenses (incurred after 30 June 2012 arising from commitments after 17 August 2009 and before 1 July 2012) to be paid under section 45.
-(2) Liabilities in respect of expenses identified under subsection (1)(a) must be treated as having been vested in the Electoral Commission on 1 July 2012.
-(3) Liabilities in respect of expenses identified under subsection (1)(b) must be treated as having been vested on 1 July 2012 in—
+(2) Liabilities in respect of expenses identified under subsection (1)﻿(a) must be treated as having been vested in the Electoral Commission on 1 July 2012.
+(3) Liabilities in respect of expenses identified under subsection (1)﻿(b) must be treated as having been vested on 1 July 2012 in—
   (a) the Crown, if the Minister of Finance under section 45 approves them being paid by the Crown; or
   (b) the Electoral Commission, if the Minister of Finance under section 45 approves them being paid by the Electoral Commission.
 
@@ -314,8 +307,8 @@ Section 140 is repealed.
 
 ### 52 References to Chief Registrar of Electors
 (1) The definition of Chief Registrar in section 3(1) is repealed.
-(2) Section 3A(2)(a)(i) (as inserted on 1 January 2011 by section 5 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) is amended by omitting , the Chief Registrar of Electors,.
-(3) Section 35(5) and (6)(b) are amended by omitting he or she and substituting in each case the Electoral Commission.
+(2) Section 3A(2)﻿(a)﻿(i) (as inserted on 1 January 2011 by section 5 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) is amended by omitting , the Chief Registrar of Electors,.
+(3) Section 35(5) and (6)﻿(b) are amended by omitting he or she and substituting in each case the Electoral Commission.
 (4) Section 39(1) (as amended on 1 October 2010 by section 14 and Schedule 1 of the Electoral (Administration) Amendment Act 2010) is amended by omitting , the Chief Registrar of Electors,.
 (5) Section 92(2) is amended by omitting Chief Registrar and.
 (6) Section 110(1) is amended by omitting Minister of Justice or the Chief Registrar and substituting Electoral Commission.
@@ -323,7 +316,7 @@ Section 140 is repealed.
 (8) Section 111(1) is amended by omitting Chief Registrar, and substituting Electoral Commission,.
 (9) The headings to sections 111C and 111D are amended by omitting Chief Registrar and substituting in each case Electoral Commission.
 (10) Section 113(9A) is amended by omitting Chief Registrar is and substituting Electoral Commission is.
-(11) Section 114(2)(d) is repealed.
+(11) Section 114(2)﻿(d) is repealed.
 (12) The heading to section 114A is amended by omitting Chief Registrar and substituting Electoral Commission.
 (13) Section 115(2) is amended by omitting he or she in the first place where it appears and substituting the Electoral Commission.
 (14) Section 123(2) is amended by omitting Chief Registrar may, with the agreement of the Electoral Commission, and substituting Electoral Commission may.
@@ -332,35 +325,35 @@ Section 140 is repealed.
   (a) section 81(1) and (2):
   (b) section 92(1):
   (c) section 105(1):
-  (d) section 107(1)(a)(iii):
+  (d) section 107(1)﻿(a)﻿(iii):
   (e) section 111(1), (2), and (3):
   (f) section 113(9A).
 (17) The following provisions are amended by omitting Chief Registrar and substituting in each case Electoral Commission:
-  (a) section 35(5) and (6)(b):
+  (a) section 35(5) and (6)﻿(b):
   (b) section 77(6):
   (c) section 82(4A) (as inserted by section 8 of this Act):
-  (d) section 83(2)(b):
+  (d) section 83(2)﻿(b):
   (e) section 83A(3) (as substituted by section 9 of this Act):
-  (f) section 83C(2)(a):
+  (f) section 83C(2)﻿(a):
   (g) section 87A(1) (as inserted by section 10 of this Act):
   (h) section 90(2A) (as substituted by section 11 of this Act):
   (i) section 93(2) and (4):
   (j) section 94(2):
   (k) section 95A(4):
   (l) section 96(5):
-  (m) section 101(1), (3), and (5)(b):
+  (m) section 101(1), (3), and (5)﻿(b):
   (n) section 102(1), (2), and (4):
   (o) section 103(1):
-  (p) section 104(2)(b):
+  (p) section 104(2)﻿(b):
   (q) section 108:
-  (r) section 114(1), (3)(a), (5), (6)(c), and (8):
+  (r) section 114(1), (3)﻿(a), (5), (6)﻿(c), and (8):
   (s) section 117A(1):
   (t) section 267(b).
 (18) The following provisions are amended by omitting Chief Registrar in each place where it appears and substituting in each case Electoral Commission:
   (a) section 111C:
   (b) section 111D(1) and (3):
   (c) section 112(1) and (5):
-  (d) section 113(1), (4), (5), (6), (8)(a), (9), and (9C):
+  (d) section 113(1), (4), (5), (6), (8)﻿(a), (9), and (9C):
   (e) section 114A:
   (f) section 115(1) and (2):
   (g) section 263A(2), (3), (4), (5), and (6) (as substituted at 2 am on 29 November 2010 by section 406(1) and Schedule 3 of the Immigration Act 2009 and, in the case only of section 263A(6), as substituted by section 26(4) of this Act on the day after the date on which this Act received the Royal assent):
@@ -372,18 +365,18 @@ Section 140 is repealed.
 ### 53 Amendments to Broadcasting Act 1989
 (1) This section amends the Broadcasting Act 1989.
 (2) The definition of Electoral Commission in section 69(1) is amended by omitting under section 4 and substituting by section 4B.
-(3) Section 70(2)(d) is amended by omitting or by the Chief Registrar of Electors.
+(3) Section 70(2)﻿(d) is amended by omitting or by the Chief Registrar of Electors.
 
 ### 54 Amendments to Citizens Initiated Referenda Act 1993
 (1) This section amends the Citizens Initiated Referenda Act 1993.
 (2) Section 19(2) is repealed and the following subsection substituted:
-  (2) The Clerk of the House of Representatives must give to the Electoral Commission established by section 4B of the Electoral Act 1993 the signatures taken under subsection (1)(b).
+  (2) The Clerk of the House of Representatives must give to the Electoral Commission established by section 4B of the Electoral Act 1993 the signatures taken under subsection (1)﻿(b).
 (3) Section 19(3) is amended by omitting Chief Registrar of Electors shall and substituting Electoral Commission must.
-(4) Section 26B(1)(b) is repealed.
+(4) Section 26B(1)﻿(b) is repealed.
 
 ### 55 Amendment to Electoral Referendum Act 2010
 (1) This section amends the Electoral Referendum Act 2010.
-(2) Section 31(2)(a)(i) is amended by omitting , the Chief Registrar of Electors,.
+(2) Section 31(2)﻿(a)﻿(i) is amended by omitting , the Chief Registrar of Electors,.
 
 ### 56 Amendments to Energy Companies Act 1992
 (1) This section amends the Energy Companies Act 1992.
@@ -399,20 +392,20 @@ Section 140 is repealed.
 ### 57 Amendments to Juries Act 1981
 (1) This section amends the Juries Act 1981.
 (2) The definition of Chief Registrar of Electors in section 2 is repealed.
-(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
 (4) Section 9(1), (2), and (3) are amended by omitting Chief Registrar of Electors and substituting in each case Electoral Commission.
 (5) Section 10 is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
 (6) Section 11 is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
-(7) Section 35(1)(a)(iii) is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
+(7) Section 35(1)﻿(a)﻿(iii) is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
 
 ### 58 Amendments to Local Electoral Act 2001
 (1) This section amends the Local Electoral Act 2001.
 (2) The definition of Chief Registrar of Electors in section 5(1) is repealed.
-(3) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
-(4) Section 19ZC(2)(c)(i) is amended by omitting Chief Registrar and substituting Electoral Commission.
-(5) Section 30(2)(b)(i) is amended by omitting Chief Registrar and substituting Electoral Commission.
+(4) Section 19ZC(2)﻿(c)﻿(i) is amended by omitting Chief Registrar and substituting Electoral Commission.
+(5) Section 30(2)﻿(b)﻿(i) is amended by omitting Chief Registrar and substituting Electoral Commission.
 (6) Section 38(4) is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
 (7) The heading to section 41 is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
 (8) Section 41(1), (2), and (3) are amended by omitting Chief Registrar of Electors and substituting in each case Electoral Commission.
@@ -428,10 +421,10 @@ Section 140 is repealed.
 ### 60 Amendments to Referenda (Postal Voting) Act 2000
 (1) This section amends the Referenda (Postal Voting) Act 2000.
 (2) The definition of Chief Registrar in section 3(1) is repealed.
-(3) Section 3(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 3(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
 (4) The definition of roll identifier number in section 3(1) is amended by omitting Chief Registrar and substituting Electoral Commission.
-(5) Section 10 is repealed and the following section substituted:Electoral Commission1997 No 13 s 9.
+(5) Section 10 is repealed and the following section substituted:Electoral Commission1997 No 13 s 9
   (1) The Electoral Commission is charged with the duty of implementing Part 4 (which relates to rolls of electors).
   (2) For the purposes of implementing Part 4, the Electoral Commission may provide such computer and other services, and such facilities, as the Electoral Commission thinks necessary.
 (6) The heading to section 11 is amended by omitting Chief Registrar and substituting Electoral Commission.
@@ -441,16 +434,16 @@ Section 140 is repealed.
 (8) The following provisions are amended by omitting Chief Registrar and substituting in each case Electoral Commission:
   (a) section 14(2) and (4):
   (b) section 17(3):
-  (c) section 18(2)(a), (3), and (4):
+  (c) section 18(2)﻿(a), (3), and (4):
   (d) section 21(3):
   (e) section 22(3):
   (f) section 24:
-  (g) section 27(2)(b):
-  (h) section 28(1), (2), (4)(b), and (5)(b):
-  (i) section 34(3)(c):
-  (j) section 51(1)(b)(iii):
+  (g) section 27(2)﻿(b):
+  (h) section 28(1), (2), (4)﻿(b), and (5)﻿(b):
+  (i) section 34(3)﻿(c):
+  (j) section 51(1)﻿(b)﻿(iii):
   (k) section 54(c):
-  (l) section 63(1)(c).
+  (l) section 63(1)﻿(c).
 (9) Section 26(1) and (5) are amended by omitting Chief Registrar in each place where it appears and substituting in each case Electoral Commission.
 
 **Consequential amendments to local Act**
@@ -472,7 +465,7 @@ Section 140 is repealed.
 
 ### 63 Amendment to Local Electoral Regulations 2001
 (1) This section amends the Local Electoral Regulations 2001.
-(2) Regulation 11(2)(a)(iii) is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
+(2) Regulation 11(2)﻿(a)﻿(iii) is amended by omitting Chief Registrar of Electors and substituting Electoral Commission.
 
 ### 64 Amendment to Referenda (Postal Voting) Regulations 2009
 (1) This section amends the Referenda (Postal Voting) Regulations 2009.
