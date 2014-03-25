@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-03-25_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -23,7 +23,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **electoral roll** , in relation to any district, and subject to sections 101 and 103 of the Electoral Act 1993,—
     (a) means the forms that the Registrar keeps of applications for registration of persons registered under the Electoral Act 1993 as electors of that district; and
-    (b) includes the forms deemed by section 83A and 83D of the Electoral Act 1993 to be applications for registration as an elector
+    (b) includes the forms deemed by sections 89C and 89F of the Electoral Act 1993 to be applications for registration as an elector
   - **electorate code** means a number indicating the district for which any elector is qualified to be enrolled
   - **give public notice** means to do both of the following:
     (a) publish a notice in the Gazette; and
