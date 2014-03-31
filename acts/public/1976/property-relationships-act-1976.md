@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2014-03-31_
 
 > Title
 
@@ -458,7 +458,7 @@ This Act also applies—
 
 ## Part 4 — Division of relationship property
 
-**Division of relationship property: General**
+**Division of relationship property: general**
 
 ### 11 Division of relationship property
 (1) On the division of relationship property under this Act, each of the spouses or partners is entitled to share equally in—
@@ -880,9 +880,9 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 ### 22 Jurisdiction
 (1) Every application under this Act must be heard and determined in a Family Court.
 (2) This section is subject to any other provision of this Act that confers jurisdiction on any other court.
-(3) Regardless of subsections (1) and (2), a Family Court Judge may order that proceedings be transferred to the High Court if the Judge is satisfied that the High Court is the more appropriate venue for dealing with the proceedings, because of their complexity or the complexity of a question in issue in them.
-(4) The Family Court Judge may transfer proceedings on the application of a party to the proceedings or on his or her own initiative.
-(5) Proceedings transferred to the High Court continue in that court as if they had been properly commenced there.
+(3)
+(4)
+(5)
 
 ### 23 Who can apply
 (1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
@@ -951,7 +951,7 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
   (c) either spouse or partner is residing in the dwellinghouse.
 (2) On the taking effect of an order made under subsection (1), unless the tenancy is sooner lawfully determined, the applicant shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of that order, and the other party shall cease to be the tenant. Every such order shall have effect and may be enforced as if it were an order of the court for possession of the land granted in favour of the applicant.
 (3) Nothing in this section or in any order made under this section shall be construed to limit or affect the operation of any enactment or rule of law for the time being applicable to any tenancy to which this section applies or to the dwellinghouse held under the tenancy, or to authorise the court to vary, except by vesting or revesting the tenancy pursuant to this section, any express or implied term or condition of the tenancy.
-(4) On the application of the other party or his personal representative in any case in which an order is made under subsection (1), the court may, if it thinks fit, make an order discharging the first-mentioned order and revesting the tenancy accordingly.
+(4) On the application of the other party or his or her personal representative in any case in which an order is made under subsection (1), the court may, if it thinks fit, make an order discharging the first-mentioned order and revesting the tenancy accordingly.
 (5) On the taking effect of any revesting order made under subsection (4), unless the tenancy is sooner lawfully determined, the person in whose favour it is made shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of the revesting order.
 (5A) In this section, dwellinghouse means any building or part of a building let as a separate dwelling; and includes—
   (a) any furniture or other chattels let with the building or part of a building; and
@@ -1064,7 +1064,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 36 Evidence
-In all proceedings under this Act, and whether by way of hearing in the first instance or by way of appeal or otherwise howsoever, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+[Repealed]
 
 ### 37 Persons entitled to be heard
 (1) Before any order is made under this Act, such notice as the court directs shall be given to any person having an interest in the property which would be affected by the order, and any such person shall be entitled to appear and to be heard in the matter as a party to the application.
@@ -1073,7 +1073,7 @@ In all proceedings under this Act, and whether by way of hearing in the first in
 ### 37A Court may appoint lawyer for children
 (1) The court may appoint a lawyer to represent any minor or dependent children of the marriage or, as the case requires, any minor or dependent children of the civil union or de facto relationship in any proceedings under this Act if, in the opinion of the court, special circumstances make the appointment necessary or desirable.
 (2) Fees payable to a lawyer appointed under subsection (1), and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under this Act; and
+  (a) must be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) must be paid by 1 or more of the parties to the proceedings as ordered by the court.
 (3) However, if the court thinks it proper, the court may order that the fees and expenses be paid out of public money appropriated by Parliament for the purpose.
 (4) If the Crown pays the amount payable under subsection (2)(b), the amount is a debt due to the Crown by the party or parties ordered to pay it and, if that party or those parties do not pay that amount, the Crown may recover it by order of the court in the same manner as a judgment of that court.
@@ -1085,6 +1085,19 @@ In all proceedings under this Act, and whether by way of hearing in the first in
 (4) Fees payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3), and reasonable expenses incurred,—provided that, if the court thinks proper, it may order any party to refund to the Crown such amount as the court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable out of public money appropriated by Parliament for the purpose:
+
+**Transfer of proceedings**
+
+### 38A Transfer of proceedings to High Court
+(1) A Family Court Judge may order the transfer of proceedings to the High Court if the Judge is satisfied that the High Court is the more appropriate venue for dealing with the proceedings.
+(2) In considering whether to make an order under subsection (1), the Judge must have regard to—
+  (a) the complexity of the proceedings or of any question in issue in the proceedings:
+  (b) any proceedings before the High Court that are between the same parties and that involve related issues:
+  (c) any other matter that the Judge considers relevant in the circumstances.
+(3) An order may be made under subsection (1) on—
+  (a) the application of a party to the proceedings; or
+  (b) the court's initiative.
+(4) Any proceedings transferred to the High Court by an order made under subsection (1) continue in that court as if they had been properly commenced there.
 
 **Appeals**
 
@@ -1123,7 +1136,7 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
   (b) the person in whose favour and the person against whom the order is made so agree in writing and the agreement is signed and witnessed in accordance with section 21F(2), (4), and (5); or
   (c) the period for which the order was made has expired; or
   (d) the court so directs in any other case.
-(3) Where the District Land Registrar or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) has ceased to have effect, he shall, on application in that behalf, endorse the register accordingly.
+(3) Where the District Land Registrar or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) has ceased to have effect, he or she shall, on application in that behalf, endorse the register accordingly.
 (4) Where an order made under any of the provisions of this Act relates to any stocks, shares or other company securities, or to any other property the title to which passes upon or is evidenced by registration, the foregoing provisions of this section shall apply with all necessary modifications to such stocks, shares, securities or other property as if they were estates or interests in land.
 
 **Protection of spouses' or partners' rights**
@@ -1131,7 +1144,7 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 ### 42 Notice of interest against title
 (1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 1952 shall be deemed to be a registrable interest for the purposes of that Act.
 (2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
-(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of that Act and the provisions of that Act, except subsections (3) and (4) of section 141, shall apply subject to the following modifications:
+(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of the Land Transfer Act 1952 and the provisions of that Act, except subsections (3) and (4) of section 141, shall apply subject to the following modifications:
   (a) any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
   (b) an order under section 148 of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
 (4) In the case of land that is not subject to the Land Transfer Act 1952, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
@@ -1291,7 +1304,7 @@ Notwithstanding any enactment or rule of law, a minor who is or has been married
 (1A) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
 (2) The Governor-General may from time to time, by Order in Council, make regulations under section 100A of the Judicature Act 1908 for the purposes of this Act.
 (2A) The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) making provision for determining the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 37A, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (a)
   (b) making provision for determining the amount of fees and expenses payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3) of section 38:
   (ba) requiring the personal representative of a deceased spouse or partner to provide the surviving spouse or partner with information about the estate of the deceased spouse or partner; and providing for the enforcement of any such requirement (including, without limitation, providing for the court, on the application of the surviving spouse or partner, to order the personal representative to provide all or any of the relevant information):
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
@@ -1397,7 +1410,7 @@ A surviving spouse or partner may not apply under this Act for a division of the
 A surviving spouse or civil union partner may apply under this Act for a division of the relationship property without having first chosen option A if he or she is in one of the following situations:
   (a) a separation order is in force in relation to the marriage or civil union when the deceased spouse or civil union partner dies:
   (b) the marriage was ended while both spouses were alive by a legal process that occurred within or outside New Zealand:
-  (c) the civil union was ended while both civil union partners were alive by a legal process that occurs within New Zealand.
+  (c) the civil union was ended while both civil union partners were alive by a legal process that occurred within New Zealand.
 
 ### 65 How choice to be made
 (1) A surviving spouse or partner who wishes to choose option A or option B must complete and sign a written notice indicating that choice.
