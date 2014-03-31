@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Amendment Act 2013
-_Consolidation as at 2013-09-24_
+_Consolidation as at 2014-03-31_
 
 ### 1 Title
 This Act is the Protection of Personal and Property Rights Amendment Act 2013.
