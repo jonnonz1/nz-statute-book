@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2013-09-25_
+_Consolidation as at 2014-03-31_
 
 > An Act to provide greater protection from domestic violence
 
@@ -21,6 +21,7 @@ In this Act, unless the context otherwise requires,—
   - **associated respondent** means a person against whom a protection order applies by virtue of a direction made pursuant to section 17
   - **child** means a person who is under the age of 17 years; but does not include a person who is or has been married or in a civil union or a de facto relationship
   - **child of the applicant’s family** means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
+  - **contact** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **country** includes any State, territory, province, or other part of a country
   - **court** means a Family Court or a District Court; and includes a Judge of any such court
   - **day-to-day care** has the meaning given to it by section 8 of the Care of Children Act 2004
@@ -55,7 +56,7 @@ In this Act, unless the context otherwise requires,—
     (a) Australia; or
     (b) any state or territory of Australia; or
     (c) any other country outside New Zealand that is declared, by Order in Council made under section 105, to be a prescribed foreign country
-  - **programme** , means a programme—
+  - **programme** means a programme—
     (a) that is for the time being approved in accordance with regulations made under this Act; and
     (b) that is provided by a programme provider; and
     (c) that,—
@@ -167,7 +168,7 @@ Any application for a protection order may seek—
   (b) a direction under section 17 that the order apply against a particular person, being a person whom the respondent has encouraged to engage in behaviour that, if engaged in by the respondent, would amount to domestic violence against the applicant, a child of the applicant’s family, or a person referred to in paragraph (a).
 
 ### 9 Applications by minors
-(1) Subject to subsections (2) (2A) and (4), a minor may make an application for a protection order under this Act.
+(1) Subject to subsections (2), (2A), and (4), a minor may make an application for a protection order under this Act.
 (2) A minor under 16 years of age must make the application for a protection order by a representative pursuant to rules of court.
 (2A) Subject to sections 11 and 12, a minor aged 16 years may make an application either on his or her own behalf under subsection (4), or by a representative pursuant to rules of court.
 (3) Nothing in subsection (2) or subsection (2A) prevents a minor under the age of 17 on whose behalf an application for a protection order is made by a representative from being heard in the proceedings; and where the minor expresses views on the need for and outcome of the proceedings, the court must take account of those views to the extent that it thinks fit, having regard to the age and maturity of the minor.
@@ -299,7 +300,8 @@ Where the court grants an application for a protection order, it must not also m
     (i) as is reasonably necessary in any emergency; or
     (ii) as is permitted under any order or written agreement relating to the role of providing day-to-day care for, or contact with, or custody of any minor; or
     (iii) as is permitted under any special condition of the protection order; or
-    (iv) as is necessary for the purposes of attending a family group conference within the meaning of section 2 of the Children, Young Persons, and Their Families Act 1989.
+    (iv) as is necessary for the purposes of attending a family group conference within the meaning of section 2 of the Children, Young Persons, and Their Families Act 1989; or
+    (v) as is necessary for the purposes of attending a settlement conference convened under section 46Q of the Care of Children Act 2004.
 (3) Where, pursuant to a direction made under section 17, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
 (4) References in subsection (2) of this section to the express consent of a protected person include the express consent of a person (other than the respondent or, as the case may be, the associated respondent) who is specified, in a special condition of the protection order imposed pursuant to section 27(3), as a person who is entitled to consent, on the protected person’s behalf, in relation to the matter, and to withdraw such consent.
 
@@ -1032,12 +1034,15 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (c) to represent any other person (being a person to whom section 11 applies)—
     (i) in any proceedings on an application made, on behalf of that person, in accordance with section 11(2), for any order under this Act; or
     (ii) in any proceedings relating to or arising out of an order made, under this Act, on any such application made on that person’s behalf.
-(2) A lawyer appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
-(3) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under this Act; and
-  (b) are payable out of public money appropriated by Parliament for the purpose.
-(4) The bill of costs rendered by a lawyer appointed under this section must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may tax the bill of costs.
-(5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the bill, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
+(2) A lawyer appointed under subsection (1)(c) may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
+(2A) The fees and expenses of a lawyer appointed under subsection (1)(a) or (b) must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(3) The fees and expenses of a lawyer appointed under subsection (1)(c) must—
+  (a) be determined in accordance with regulations made under this Act or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(4) An invoice rendered by a lawyer appointed under this section for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
 
 ### 82 Power of court to call witnesses
 (1) In any proceedings before a court under this Act (not being criminal proceedings), the court may, of its own motion, call as a witness any person whose evidence may, in its opinion, be of assistance to the court.
@@ -1080,7 +1085,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (c) to exclude any person from the court.
 
 ### 84 Evidence
-In any proceedings under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that it thinks fit, whether or not it is otherwise admissible in a court of law.
+[Repealed]
 
 ### 85 Standard of proof
 Every question of fact arising in any proceedings under this Act (other than criminal proceedings) must be decided on the balance of probabilities.
@@ -1603,7 +1608,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (c)
   (d)
   (e)
-  (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81(1)(c), which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under section 82; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 42:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
