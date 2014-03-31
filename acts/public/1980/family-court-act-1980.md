@@ -1,5 +1,5 @@
 # Family Courts Act 1980
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-03-31_
 
 > An Act to establish Family Courts as divisions of District Courts, and to provide for the constitution, jurisdiction, powers, and procedures of Family Courts
 
@@ -55,6 +55,34 @@ Every District Court shall have a division, to be known as the Family Court.
 (4) The days appointed for regular sittings of a Family Court shall be subject to the approval of the Principal Family Court Judge.
 (5) In exercising his powers under this section, the Principal Family Court Judge shall consult with the Chief District Court Judge.
 (6) This section shall be read subject to section 9 of the District Courts Act 1947.
+
+### 9A Duty of lawyers to promote conciliation
+(1) A lawyer acting for a party in any proceeding in the Family Court must, so far as possible, promote conciliation.
+(2) In subsection (1), party includes a proposed party.
+
+### 9B Role of lawyer appointed to represent child or young person in proceedings
+(1) The role of a lawyer who is appointed to represent a child or young person in proceedings is to—
+  (a) act for the child or young person in the proceedings in a way that the lawyer considers promotes the welfare and best interests of the child or young person:
+  (b) ensure that any views expressed by the child or young person to the lawyer on matters affecting the child or young person and relevant to the proceedings are communicated to the court:
+  (c) assist the parties to reach agreement on the matters in dispute in the proceedings to the extent to which doing so is in the best interests of the child or young person:
+  (d) provide advice to the child or young person, at a level commensurate with that child's or young person's level of understanding, about—
+    (i) any right of appeal against a decision of the court; and
+    (ii) the merits of pursuing any such appeal:
+  (e) undertake any other task required by or under any other Act.
+(2) To facilitate the role set out in subsection (1)(b), the lawyer must meet with the child or young person and, if it is appropriate to do so, ascertain the child's or young person's views on matters affecting the child or young person relevant to the proceedings.
+(3) However, subsection (2) does not apply if, because of exceptional circumstances, a Judge directs that it is inappropriate for the lawyer to meet with the child or young person.
+(4) A lawyer appointed to represent a child or young person in proceedings may—
+  (a) call any person as a witness in the proceedings:
+  (b) cross-examine witnesses called by any party to the proceedings or by the court.
+
+### 9C Role of lawyer appointed to assist court
+(1) The role of a lawyer who is appointed to assist the court in proceedings is to—
+  (a) provide independent legal advice to the court on any complex factual or legal issue requested by the court:
+  (b) offer an impartial perspective in relation to any issue arising in the proceedings:
+  (c) undertake any other task required by or under any other Act.
+(2) A lawyer appointed to assist the court in proceedings may—
+  (a) call any person as a witness in the proceedings:
+  (b) cross-examine witnesses called by any party to the proceedings or by the court.
 
 ### 10 Avoidance of unnecessary formality
 (1) Family Court proceedings shall be conducted in such a way as to avoid unnecessary formality.
@@ -152,6 +180,30 @@ For the purposes of section 11B, vulnerable person means—
 ### 12 Proceedings to be brought and dealt with under Family Courts Rules
 While any Family Courts Rules are in force, all proceedings in a Family Court (and all proceedings in a District Court under section 15 of this Act or section 151 of the Children, Young Persons, and Their Families Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
 
+### 12A Evidence
+(1) This section applies to a proceeding—
+  (a) under an Act specified in subsection (2); and
+  (b) in a court described in subsection (3).
+(2) The Acts referred to in subsection (1)(a) are as follows:
+  (a) Adoption Act 1955:
+  (b) Care of Children Act 2004:
+  (c) Child Support Act 1991:
+  (d) Children, Young Persons, and Their Families Act 1989:
+  (e) Domestic Violence Act 1995:
+  (f) Family Proceedings Act 1980:
+  (g) Property (Relationships) Act 1976:
+  (h) Protection of Personal and Property Rights Act 1988.
+(3) The courts referred to in subsection (1)(b) are as follows:
+  (a) a Family Court:
+  (b) a District Court that has concurrent jurisdiction with a Family Court:
+  (c) a District Court acting under section 15:
+  (d) a District Court hearing a proceeding under section 151 of the Children, Young Persons, and Their Families Act 1989:
+  (e) any other court hearing a proceeding that is—
+    (i) under an Act specified in subsection (2); and
+    (ii) not a criminal proceeding; and
+    (iii) one in which the court receives evidence or further evidence.
+(4) The effect of section 5(3) of the Evidence Act 2006 is that that Act applies to the proceeding. However, the court hearing the proceeding may receive any evidence, whether or not admissible under the Evidence Act 2006, that the court considers may assist it to determine the proceeding.
+
 ### 13 Court may state case for High Court
 A Family Court may, on the application of any party to any proceedings before the court, or of its own motion, state a case for the opinion of the High Court on any question of law arising in any matter before the court.
 
@@ -201,7 +253,7 @@ Notwithstanding anything in section 11, a District Court may—
   (l) the Property (Relationships) Act 1976:
   (m) the Protection of Personal and Property Rights Act 1988.
 
-### 16B Regulations
+### 16B Regulations relating to court fees
 (1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees payable in respect of proceedings, or intended proceedings, in a Family Court:
   (b) in order to promote access to justice, empowering Registrars or Deputy Registrars of Family Courts to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (c) that—
@@ -216,8 +268,8 @@ Notwithstanding anything in section 11, a District Court may—
   (e) providing for the postponement of the payment of a fee, including (without limitation) providing—
     (i) for the recovery of the fee after the expiry of the period of postponement; and
     (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
-  (f) providing for the manner in which an application for the exercise of a power specified in paragraph (b) or (d) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice:
-  (g) prescribing the qualifications required to be held by persons appointed as Senior Family Court Registrars.
+  (f) providing for the manner in which an application for the exercise of a power specified in paragraph (b) or (d) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice.
+  (g)
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1)(b) or (d).
 
 ### 16C Reviews of decisions of Registrars concerning fees
@@ -232,9 +284,83 @@ Notwithstanding anything in section 11, a District Court may—
 (5) The Judge may confirm, modify, or reverse the decision.
 (6) No fee is payable for an application under this section.
 
+### 16D Regulations relating to payments to professionals
+Fees and expenses for lawyers for child and lawyers to assist court
+(1) In subsections (2) to (5), lawyer means either of the following:
+  (a) a lawyer appointed under any of the following provisions to represent a child or young person:
+    (i) section 7 of the Care of Children Act 2004:
+    (ii) section 226 of the Child Support Act 1991:
+    (iii) section 159 of the Children, Young Persons, and Their Families Act 1989:
+    (iv) section 81(1)(b) of the Domestic Violence Act 1995:
+    (v) section 162 of the Family Proceedings Act 1980:
+    (vi) section 37A of the Property (Relationships) Act 1976; or
+  (b) a lawyer appointed under any of the following provisions to assist the court:
+    (i) section 130 of the Care of Children Act 2004:
+    (ii) section 226A of the Child Support Act 1991:
+    (iii) section 160 of the Children, Young Persons, and Their Families Act 1989:
+    (iv) section 81(1)(a) of the Domestic Violence Act 1995:
+    (v) section 162A of the Family Proceedings Act 1980:
+    (vi) section 65A of the Protection of Personal and Property Rights Act 1988.
+(2) The Governor-General may, from time to time, by Order in Council, make regulations for determining—
+  (a) the fees payable to a lawyer in respect of the lawyer's appointment:
+  (b) the expenses payable to a lawyer in respect of the lawyer's appointment.
+(3) Regulations under subsection (2)(a) may—
+  (a) prescribe the maximum hourly rate or rates for the fee payable, and different rates may be prescribed depending on—
+    (i) the complexity of the proceedings:
+    (ii) the number of proceedings in which the lawyer is engaged during a specified period:
+  (b) prescribe the maximum number of hours for which the fee is payable, and different numbers of hours may be prescribed depending on—
+    (i) the complexity of the proceedings:
+    (ii) the number of proceedings in which the lawyer is engaged during a specified period:
+  (c) provide that any rate prescribed under paragraph (a), or any number of hours prescribed under paragraph (b), or both, may be increased by the court in a particular proceeding if the court is satisfied that the increase is justified because of exceptional circumstances.
+(4) If no regulations are made under subsection (2)(a) in respect of any lawyer, the fees payable to that lawyer are to be determined by the Registrar of the court.
+(5) Regulations under subsection (2)(b) may prescribe—
+  (a) the types of expenses for which a lawyer may claim reimbursement:
+  (b) the rate of reimbursement of those expenses:
+  (c) the circumstances in which expenses may be reimbursed.
+Fees and expenses for report writers under Care of Children Act 2004
+(6) In subsections (7) to (10), report writer means any of the following:
+  (a) a person who prepares a cultural report when requested to do so under section 133(2) of the Care of Children Act 2004:
+  (b) a person who prepares a medical report when requested to do so under section 133(2) of the Care of Children Act 2004:
+  (c) a person who prepares a psychiatric report when requested to do so under section 133(2) of the Care of Children Act 2004:
+  (d) a person who prepares a psychological report when requested to do so under section 133(5) of the Care of Children Act 2004.
+(7) The Governor-General may, from time to time, by Order in Council, make regulations for determining—
+  (a) the fees payable to a report writer for doing either or both of the following:
+    (i) preparing a report:
+    (ii) attending as a witness in the proceedings for which the report writer prepared the report:
+  (b) the expenses payable to a report writer for doing either or both of the following:
+    (i) preparing a report:
+    (ii) attending as a witness in the proceedings for which the report writer prepared the report.
+(8) Regulations under subsection (7)(a) may—
+  (a) prescribe the maximum hourly rate or rates for the fee payable, and different rates may be prescribed depending on—
+    (i) the type of report:
+    (ii) the complexity of the proceedings:
+    (iii) the number of proceedings in which the report-writer is engaged during a specified period:
+  (b) prescribe the maximum number of hours for which the fee is payable, and different numbers of hours may be prescribed depending on—
+    (i) the type of report:
+    (ii) the complexity of the proceedings:
+    (iii) the number of proceedings in which the report-writer is engaged during a specified period:
+  (c) provide that any rate prescribed under paragraph (a), or any number of hours prescribed under paragraph (b), or both, may be increased by the court in a particular proceeding if the court is satisfied that the increase is justified because of exceptional circumstances.
+(9) If no regulations are made under subsection (7)(a) in respect of any report writer, the fees payable to that report writer are to be determined by the Registrar of the court.
+(10) Regulations under subsection (7)(b) may prescribe the following:
+  (a) the types of expenses for which a report writer may claim reimbursement:
+  (b) the rate of reimbursement of those expenses:
+  (c) the circumstances in which expenses may be reimbursed.
+
 ### 17 Certain enactments amended
 (1) The enactments specified in the Schedule are hereby consequentially amended in the manner specified in that schedule.
-(2) Section 2(1) of the Adoption Amendment Act 1965 is hereby consequentially repealed.
+(2)
+
+### 17A Repeals
+The following provisions are repealed:
+  (a) section 24 of the Adoption Act 1955:
+  (b) section 128 of the Care of Children Act 2004:
+  (c) section 228 of the Child Support Act 1991:
+  (d) section 195 of the Children, Young Persons, and Their Families Act 1989:
+  (e) section 84 of the Domestic Violence Act 1995:
+  (f) sections 4 and 5 of the Family Courts Amendment Act 2008:
+  (g) section 164 of the Family Proceedings Act 1980:
+  (h) section 36 of the Property (Relationships) Act 1976:
+  (i) section 77 of the Protection of Personal and Property Rights Act 1988.
 
 ### 18 Transitional and saving provisions
 (1) Subject to subsections (2) and (3), all matters and proceedings commenced under any enactment before the commencement of section 11 and required by virtue of that section to be heard and determined in a Family Court, shall be continued in a Family Court.
