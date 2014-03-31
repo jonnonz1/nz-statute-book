@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-03-31_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -579,21 +579,34 @@ Except as provided in sections 54 and 55, nothing in this Act shall affect the l
 (2) A court may hear and determine any proceedings before it under Part 1 in conjunction with any proceedings under Part 3 in any case where both proceedings are in respect of the same person, whether or not the parties to the proceedings are the same.
 (3) If it appears to a court hearing an application under Part 1 that a property order should be made, either in addition to or instead of a personal order, or if it appears to a court hearing an application under Part 3 that a personal order should be made, either in addition to or instead of a property order, the court may make all such orders and give all such directions as may be necessary to facilitate the hearing of an application under Part 3 or (as the case may require) Part 1.
 
-### 65 Appointment of barrister or solicitor by court or Registrar
-(1) On an application for the exercise of the court's jurisdiction under this Act, a court or the Registrar of a court must appoint a barrister or solicitor to represent the person in respect of whom the application is made, unless the court or the Registrar is satisfied that the person has retained or will retain a barrister or solicitor.
-(2) So far as may be practicable, it shall be the duty of the barrister or solicitor appointed under subsection (1) to—
+### 65 Appointment of lawyer to represent person in respect of whom application made
+(1) On an application for the exercise of the court's jurisdiction under this Act, a court or the Registrar of a court must appoint a lawyer to represent the person in respect of whom the application is made, unless the court or the Registrar is satisfied that the person has retained or will retain a lawyer.
+(2) So far as may be practicable, it shall be the duty of the lawyer appointed under subsection (1) to—
   (a) contact the person in respect of whom the application is made, explain to that person the nature and purpose of the application, and ascertain and give effect to that person's wishes in respect of the application; and
   (b) evaluate the solutions for the problem for which an order is sought submitted by other parties to the proceedings, taking account of the need to find a solution that—
     (i) makes the least restrictive intervention possible in the life of the person in respect of whom the application is made, having regard to the degree of incapacity or incompetence of that person; and
     (ii) enables or encourages the person in respect of whom the application is made to develop and exercise such capacity or competence that the person may have to the greatest extent possible.
-(3) Without limiting anything in the preceding provisions of this section, in respect of any application for the exercise of the court's jurisdiction under this Act, a court may appoint, or direct the Registrar of the court to appoint, a barrister or solicitor to assist the court.
-(4) A barrister or solicitor appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the person in respect of whom the application is made or by the court.
-(5) Fees for professional services provided by barristers or solicitors appointed under this section, and reasonable expenses incurred,—
+(3)
+(4) A lawyer appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the person in respect of whom the application is made or by the court.
+(5) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(6) The bill of costs rendered by a barrister or solicitor appointed under this section shall be given to the Registrar of the court in which the proceedings were heard, and the Registrar may tax the bill of costs.
-(7) If the barrister or solicitor is dissatisfied with the decision of the Registrar as to the amount of the bill, the barrister or solicitor may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
+(6) An invoice rendered by a lawyer appointed under this section for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(7) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
 (8) Notwithstanding subsection (5), the court shall have regard to the means of any party to the proceedings or the person in respect of whom the application is made, and shall, if it thinks proper, order any party or the person to refund to the Crown such amount as the court specifies in respect of any fees or expenses paid under that subsection; and the amount ordered to be refunded shall be a debt due to the Crown by that party or by that person and shall be recoverable accordingly in any court of competent jurisdiction.
+
+### 65A Appointment of lawyer to assist court
+In any proceedings under this Act, a court may—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct the Registrar of the court to appoint a lawyer to assist the court.
+
+### 65B Payment of lawyer appointed under section 65A
+(1) The fees and expenses of any lawyer appointed under section 65A must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) An invoice rendered by a lawyer appointed under section 65A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+(4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 **Pre-hearing conferences**
 
@@ -669,23 +682,23 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
   (b) direct the Registrar of the court to request any person whom the Registrar considers qualified to do so to prepare a medical, psychiatric, psychological, or other report on the person in respect of whom the application is made.
 (2) In deciding whether or not to request a report or make a direction under subsection (1), a court may ascertain and have regard to the wishes of the parties and of the person in respect of whom the application is made.
 (3) A copy of any report obtained under this section shall be given by the Registrar of the court to—
-  (a) the barrister or solicitor for each party to the proceedings and for the person in respect of whom the application is made or, if any party is not represented by a barrister or solicitor, to that party; and
-  (b) any barrister or solicitor appointed under section 65(3).
-(4) A report given to a barrister or solicitor under subsection (3) shall not be given or be shown to the person for whom the barrister or solicitor is acting if the court so orders.
+  (a) the lawyer for each party to the proceedings and for the person in respect of whom the application is made or, if any party is not represented by a lawyer, to that party; and
+  (b) any lawyer appointed under section 65A.
+(4) A report given to a lawyer under subsection (3) shall not be given or be shown to the person for whom the lawyer is acting if the court so orders.
 (5) Fees for reports prepared pursuant to a request under subsection (1), and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable by such party or parties to the proceedings as the court orders or, if the court so decides, are payable out of public money appropriated by Parliament for the purpose.
 (5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
-(6) Any party to the proceedings, or the person in respect of whom the application is made, or any barrister or solicitor appointed under section 65(3) may tender evidence on any matter referred to in any such report.
+(6) Any party to the proceedings, or the person in respect of whom the application is made, or any lawyer appointed under section 65A may tender evidence on any matter referred to in any such report.
 (7) The court may call the person making the report as a witness, either of its own motion or on the application of any party or the person in respect of whom the application is made.
 
 ### 77 Evidence
-In any proceedings under this Act, whether by way of hearing in the first instance or by way of appeal or otherwise, a court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+[Repealed]
 
 ### 78 Power of court to call witnesses
 (1) Without limiting anything in section 77, in respect of any application for the exercise of the court's jurisdiction under this Act, a court may, of its own motion, call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) A witness called by a court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
-(3) A witness called by a court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or the person in respect of whom the application is made.
+(3) A witness called by a court under this section may be examined and re-examined by the court and may be cross-examined by or on behalf of any party to the proceedings or the person in respect of whom the application is made.
 (4) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by a court under this section shall be paid in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
 
@@ -696,7 +709,7 @@ In any proceedings under this Act, whether by way of hearing in the first instan
   (c) lawyers representing parties to the proceedings:
   (d) the person in respect of whom the application is made:
   (e) the lawyer representing the person in respect of whom the application is made:
-  (f) a barrister or solicitor appointed under section 65(3) to assist the court:
+  (f) a lawyer appointed under section 65A to assist the court:
   (g) witnesses:
   (h) accredited news media reporters:
   (i) persons whom the Judge permits to be present as support persons for any person described in paragraphs (b) and (d):
@@ -812,7 +825,7 @@ A party to an appeal under section 83 may, with the leave of the Court of Appeal
 (10) No order to which subsection (8) or subsection (9) applies shall automatically expire by reason only of the fact that the date specified for the first review or any further review has been reached.
 
 ### 88 Procedure on review
-On any application for the review of any personal order or property order, the provisions of sections 63 to 65 and 74 to 81, so far as they are applicable and with any necessary modifications, shall apply.
+On any application for the review of any personal order or property order, the provisions of sections 63 to 65A and 74 to 81, so far as they are applicable and with any necessary modifications, shall apply.
 
 ### 89 Review of welfare guardian's or manager's decisions
 (1) A person for whom a welfare guardian or a manager is acting, and any other person with the leave of the court, may at any time apply to a court to review any decision made by the welfare guardian or manager, and the court may, if it thinks it reasonable to do so in all the circumstances, review the decision and make such order as it thinks fit.
@@ -1247,7 +1260,7 @@ Rules may be made regulating the practice and procedure of courts in proceedings
 
 ### 112 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by barristers and solicitors appointed under section 65, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 65, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (b) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to section 76, which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
   (ba) prescribing forms for enduring powers of attorney for the purposes of Part 9:
   (bb) prescribing forms for certificates for the purposes of the witnessing requirements in section 94A(7):
@@ -1338,7 +1351,7 @@ Subject to the terms of the property order (or, in a case where a trustee corpor
   (iii) to grant to a lessee or sublessee a right to claim compensation for improvements made or to be made by the lessee or sublessee in, upon, or about the property that is leased or subleased:
   provided that the manager shall not, without the consent of the court, grant a lease or sublease for a term of more than 10 years or a lease or sublease with a right or rights of renewal if the aggregate duration of the original and of the renewed terms could exceed 10 years; and shall not, without the consent of the court, grant a lease with an optional or compulsory purchasing clause in any case where the value (as determined in accordance with section 28 of the Trustee Act 1956) of the property to be leased or of the share or interest of the person therein exceeds the specified sum at the time of the granting of the lease:
 (s) accept the surrender of any lease, sublease, or tenancy:
-(t) accept a lease, sublease, or tenancy of any property, or a renewal of a lease, sublease, or tenancy, at such rent, on such terms, and subject to such convenants and conditions as the manager thinks fit:
+(t) accept a lease, sublease, or tenancy of any property, or a renewal of a lease, sublease, or tenancy, at such rent, on such terms, and subject to such covenants and conditions as the manager thinks fit:
 (u) surrender any lease, sublease, or tenancy:
 (v) in the name and on behalf of the person subject to a property order exercise any option to purchase property conferred on the person:
   provided that the manager shall not, without the consent of the court, exercise the power conferred by this paragraph if the price payable for the property exceeds or may exceed the specified sum:
