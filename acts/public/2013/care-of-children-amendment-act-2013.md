@@ -1,5 +1,5 @@
 # Care of Children Amendment Act 2013
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2014-03-31_
 
 ### 1 Title
 This Act is the Care of Children Amendment Act 2013.
