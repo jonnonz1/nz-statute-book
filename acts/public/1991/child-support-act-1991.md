@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2014-02-27_
+_Consolidation as at 2014-03-31_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -2024,6 +2024,9 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 
 ### 120 Appeal from decisions of courts
 (1) A party to the proceeding may appeal to the High Court against an order or declaration of a Family Court made under this Act.
+(1AA) However, no appeal may be made to the High Court under subsection (1) in relation to a decision under—
+  (a) section 226 to appoint a lawyer to represent a child; or
+  (b) section 226A to appoint, or to direct the Registrar to appoint, a lawyer to assist the court.
 (1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
@@ -3041,22 +3044,59 @@ No action, prosecution, or other proceeding under, or arising out of, this Act s
 (1) A minor may bring and continue or defend any proceeding under this Act.
 (2) Any order made under this Act against a minor shall be binding on and may be enforced against the minor, as if the minor were of full age.
 
-### 226 Appointment of barrister or solicitor to assist court or represent children
-(1) In any proceeding under this Act (not being criminal proceedings) a court may, if the court is satisfied that it is necessary or desirable to do so, appoint a barrister or solicitor—
-  (a) to assist the court; or
-  (b) to represent any child who is the subject of or who is otherwise a party to the proceeding.
-(2) A barrister or solicitor appointed under this section may call any person as a witness in the proceeding, and may cross-examine witnesses called by any party to the proceeding or by the court.
-(3) The fees and expenses of any barrister or solicitor appointed under this section shall, in accordance with regulations made under this Act, be paid out of a Crown Bank Account from money appropriated by Parliament for the purpose.
-(4) The bill of costs rendered by a barrister or solicitor appointed under this section shall be given to the Registrar of the court in which the proceeding was heard and the Registrar may tax the bill of costs.
-(5) If the barrister or solicitor is dissatisfied with the decision of the Registrar as to the amount of the bill of costs, that person may within 14 days after the date of the decision apply to a Family Court Judge to review the decision; and the Judge may thereupon make such order varying or confirming the decision as the Judge considers fair and reasonable.
-(6) Notwithstanding subsection (3), the court may, if it thinks proper, order any party to the proceeding to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and shall then be enforceable in the same manner as a judgment given by the District Court in any civil proceeding.
+### 226 Appointment of lawyer to represent child in proceedings
+(1) In any proceedings under this Act (other than criminal proceedings), a court may appoint a lawyer to represent any child who is—
+  (a) the subject of the proceedings; or
+  (b) a party to the proceedings.
+(2) An appointment under subsection (1) may be made only if the court is satisfied that the appointment is necessary or desirable.
+
+### 226A Appointment of lawyer to assist court
+In any proceedings under this Act (other than criminal proceedings), a court may—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct the Registrar of the court to appoint a lawyer to assist the court.
+
+### 226B Fees and expenses of lawyer appointed under section 226 or 226A
+(1) The fees and expenses of a lawyer appointed under section 226 or 226A must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) An invoice rendered by a lawyer appointed under section 226 or 226A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+(4) Where in any proceedings a lawyer has been appointed under section 226 or 226A and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under section 226C, unless the court declines to do so in accordance with that section.
+(5) However, no order under section 226C may be made—
+  (a) against the Crown, whether acting through the department for the time being responsible for the administration of this Act or otherwise; or
+  (b) in respect of an appointment under section 226A, where a lawyer has been appointed under that section to provide to the court independent legal advice on any complex legal issue.
+
+### 226C Order requiring reimbursement of costs payments
+(1) An order referred to in section 226B(4) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown, under section 226B(1)(b), in respect of the fees and expenses of a lawyer appointed under section 226 or 226A.
+(2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
+(3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
+(4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
+(5) In this section,—
+  - **dependent child,** in relation to a party, means a child whose day-to-day care is substantially the responsibility of the party
+  - **prescribed proportion** means the same proportion that is prescribed by regulations made under section 147 of the Care of Children Act 2004 for the purposes of section 135A of that Act
+  - **serious hardship** , in relation to a party or a dependent child of the party,—
+    (a) includes significant financial difficulties that arise because of—
+      (i) the party's inability to meet minimum living expenses according to normal community standards; or
+      (ii) the cost of medical treatment for an illness or injury of the party or a dependent child of the party; or
+      (iii) a serious illness suffered by the party or by a dependent child of the party; or
+      (iv) the cost of education for a dependent child of the party:
+    (b) does not include significant financial difficulties that arise because—
+      (i) the social activities and entertainment of the party or those of a dependent child of the party may be limited; or
+      (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
+
+### 226D Enforcement of orders made under section 226C
+(1) The amount that a party is ordered to reimburse under section 226C is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+  (a) is to be added to the amount sought to be enforced; and
+  (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
+(3) For the purposes of section 14(1)(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
 
 ### 227 Vexatious proceedings
 (1) A Family Court or District Court may dismiss any proceeding before it under this Act if it is satisfied that it is frivolous or vexatious or an abuse of the procedure of the court.
 (2) A Family Court or District Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceeding under this Act, or no such proceeding of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
 
 ### 228 Evidence
-In any proceeding under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+[Repealed]
 
 ### 229 Power of Family Court or District Court to call witnesses
 (1) In any proceeding before it under this Act (not being criminal proceedings) a Family Court or District Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
@@ -3076,7 +3116,8 @@ In any proceeding under this Act (other than criminal proceedings), and whether 
 Every question of fact arising in any proceeding under this Act (not being criminal proceedings) shall be decided on a balance of probabilities.
 
 ### 232 Costs
-In any proceeding under this Act the court may make such order as to costs as it thinks fit but all costs awarded against the Commissioner shall be payable out of public money appropriated by Parliament and not otherwise.
+(1) In any proceeding under this Act the court may make such order as to costs as it thinks fit but all costs awarded against the Commissioner shall be payable out of public money appropriated by Parliament and not otherwise.
+(2) This section is subject to section 226B(4).
 
 ### 233 Court fees
 (1) Unless otherwise provided by regulations made under section 235, no court fees shall be taken by the Registrar of a Family Court or District Court in respect of any proceeding under this Act.
@@ -3101,7 +3142,7 @@ In any proceeding under this Act the court may make such order as to costs as it
   (b)
   (c)
   (ca)
-  (d) prescribing the fees and expenses payable to any barrister or solicitor appointed under section 226:
+  (d)
   (e) prescribing the duties and functions of officers and other persons appointed or employed under this Act:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
@@ -3409,6 +3450,17 @@ Where—child support under a formula assessment shall, notwithstanding section 
 (4) Where the Commissioner accepts such a request, the order or agreement shall be deemed to be an order made,—
   (a) in any case where the request and all the information required to be provided is received by the Commissioner on or before 30 June 1992, on 1 July 1992; or
   (b) in any case where the request and all the information required to be provided is not received by the Commissioner on or before 30 June 1992, on the day on which the request and all the information required to be provided is received by the Commissioner.
+
+**Child Support Amendment Act (No 3) 2013**
+
+### 268A Transitional provision for proceedings commenced before commencement of Child Support Amendment Act (No 3) 2013 but not completed
+(1) This section applies to proceedings under this Act that were commenced before the date of commencement of the Child Support Amendment Act (No 3) 2013 but were not by that date completed (a pending proceeding).
+(2) The following provisions do not apply to a pending proceeding:
+  (a) section 226A:
+  (b) section 226B:
+  (c) section 226C:
+  (d) section 226D.
+(3) Section 226, as in force immediately before the date of commencement of the Child Support Amendment Act (No 3) 2013, continues to apply to a pending proceeding with any necessary modifications as if the Child Support Amendment Act (No 3) 2013 had not come into force.
 
 **Miscellaneous provisions**
 
