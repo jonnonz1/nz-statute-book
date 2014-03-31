@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2013-09-25_
+_Consolidation as at 2014-03-31_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -25,27 +25,41 @@ This Act comes into force on 1 July 2005.
   (f) implements in New Zealand law the Hague Convention on the Civil Aspects of International Child Abduction:
   (g) reforms and replaces the Guardianship Act 1968 (including the Guardianship Amendment Act 1991).
 
-### 4 Child’s welfare and best interests to be paramount
-(1) The welfare and best interests of the child must be the first and paramount consideration—
+### 4 Child's welfare and best interests to be paramount
+(1) The welfare and best interests of a child in his or her particular circumstances must be the first and paramount consideration—
   (a) in the administration and application of this Act, for example, in proceedings under this Act; and
   (b) in any other proceedings involving the guardianship of, or the role of providing day-to-day care for, or contact with, a child.
-(2) The welfare and best interests of the particular child in his or her particular circumstances must be considered.
-(3) A parent’s conduct may be considered only to the extent (if any) that it is relevant to the child’s welfare and best interests.
-(4) For the purposes of this section, and regardless of a child’s age, it must not be presumed that placing the child in the day-to-day care of a particular person will, because of that person’s sex, best serve the welfare and best interests of the child.
-(5) In determining what best serves the child’s welfare and best interests, a court or a person must take into account—
-  (a) the principle that decisions affecting the child should be made and implemented within a time frame that is appropriate to the child’s sense of time; and
-  (b) any of the principles specified in section 5 that are relevant to the welfare and best interests of the particular child in his or her particular circumstances.
-(6) Subsection (5) does not limit section 6 (child’s views) or prevent the court or person from taking into account other matters relevant to the child’s welfare and best interests.
-(7) This section does not limit section 83 or subpart 4 of Part 2.
+(2) Any person considering the welfare and best interests of a child in his or her particular circumstances—
+  (a) must take into account—
+    (i) the principle that decisions affecting the child should be made and implemented within a time frame that is appropriate to the child's sense of time; and
+    (ii) the principles in section 5; and
+  (b) may take into account the conduct of the person who is seeking to have a role in the upbringing of the child to the extent that that conduct is relevant to the child's welfare and best interests.
+(3) It must not be presumed that the welfare and best interests of a child (of any age) require the child to be placed in the day-to-day care of a particular person because of that person's gender.
+(4) This section does not—
+  (a) limit section 6 or 83, or subpart 4 of Part 2; or
+  (b) prevent any person from taking into account other matters relevant to the child's welfare and best interests.
 
-### 5 Principles relevant to child’s welfare and best interests
-The principles referred to in section 4(5)﻿(b) are as follows:
-  (a) the child’s parents and guardians should have the primary responsibility, and should be encouraged to agree to their own arrangements, for the child’s care, development, and upbringing:
-  (b) there should be continuity in arrangements for the child’s care, development, and upbringing, and the child’s relationships with his or her family, family group, whānau, hapu, or iwi, should be stable and ongoing (in particular, the child should have continuing relationships with both of his or her parents):
-  (c) the child’s care, development, and upbringing should be facilitated by ongoing consultation and co-operation among and between the child’s parents and guardians and all persons exercising the role of providing day-to-day care for, or entitled to have contact with, the child:
-  (d) relationships between the child and members of his or her family, family group, whānau, hapu, or iwi should be preserved and strengthened, and those members should be encouraged to participate in the child’s care, development, and upbringing:
-  (e) the child’s safety must be protected and, in particular, he or she must be protected from all forms of violence as defined in section 3(2) to (5) of the Domestic Violence Act 1995 (whether by members of his or her family, family group, whānau, hapu, or iwi, or by other persons):
-  (f) the child’s identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
+### 5 Principles relating to child's welfare and best interests
+The principles relating to a child's welfare and best interests are that—
+  (a) a child's safety must be protected and, in particular, a child must be protected from all forms of violence (as defined in section 3(2) to (5) of the Domestic Violence Act 1995) from all persons, including members of the child's family, family group, whānau, hapū, and iwi:
+  (b) a child's care, development, and upbringing should be primarily the responsibility of his or her parents and guardians:
+  (c) a child's care, development, and upbringing should be facilitated by ongoing consultation and co-operation between his or her parents, guardians, and any other person having a role in his or her care under a parenting or guardianship order:
+  (d) a child should have continuity in his or her care, development, and upbringing:
+  (e) a child should continue to have a relationship with both of his or her parents, and that a child's relationship with his or her family group, whānau, hapū, or iwi should be preserved and strengthened:
+  (f) a child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
+
+### 5A Domestic violence to be taken into account
+(1) This section applies if—
+  (a) an application is made to the court for—
+    (i) a guardianship order under section 19 or 27; or
+    (ii) a direction under section 46R in relation to a guardianship dispute; or
+    (iii) a parenting order under section 48; or
+    (iv) a variation of a parenting order under section 56; and
+  (b) a final protection order made under section 14 of the Domestic Violence Act 1995 is, or at any time has been, in force against 1 or more parties to the application.
+(2) In taking into account the principle in section 5(a), the court must have regard in particular to the following matters:
+  (a) whether the protection order is still in force:
+  (b) the circumstances in which the protection order was made:
+  (c) any written reasons given by the Judge who made the protection order for his or her decision.
 
 ### 6 Child’s views
 (1) This subsection applies to proceedings involving—
@@ -56,20 +70,55 @@ The principles referred to in section 4(5)﻿(b) are as follows:
   (a) a child must be given reasonable opportunities to express views on matters affecting the child; and
   (b) any views the child expresses (either directly or through a representative) must be taken into account.
 
-### 7 Lawyer to act for child
-(1) A court may appoint, or direct the Registrar of the court to appoint, a lawyer to act for a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act.
-(2) However, unless it is satisfied the appointment would serve no useful purpose, the court must make an appointment or a direction under subsection (1) if the proceedings—
-  (a) involve the role of providing day-to-day care for the child, or contact with the child; and
-  (b) appear likely to proceed to a hearing.
-(3) To facilitate performance of the lawyer’s duties and compliance with section 6 (child’s views), the lawyer must, unless he or she considers it inappropriate to do so because of exceptional circumstances, meet with the child.
-(4) The lawyer may call any person as a witness in the proceedings, and may cross-examine witnesses called by a party to the proceedings or by the court.
+### 7 Appointment of lawyer to represent child in proceedings
+A court may appoint, or direct the Registrar of the court to appoint, a lawyer to represent a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act if the court—
+  (a) has concerns for the safety or well-being of the child; and
+  (b) considers an appointment necessary.
+
+### 7A Lawyers acting for parties
+(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in a Family Court only as provided in subsections (2) to (6).
+(2) A lawyer may act for a party to a proceeding commenced by an application made under subpart 4 of Part 2.
+(3) A lawyer may act for a party to a proceeding if that party is the Crown.
+(4) A lawyer may act for a party to a proceeding that is—
+  (a) commenced by an application made without notice until such time (if at all) as a Family Court Judge directs that the application proceed on notice:
+  (b) commenced by an application made on notice from such time (if at all) as a Family Court Judge directs that—
+    (i) the application proceed as if it were an application made without notice; or
+    (ii) the application be heard by the court in conjunction with an application that is filed under any other Act; or
+    (iii) the application proceed to a hearing:
+  (c) commenced by an application made without notice that a Family Court Judge has directed proceed on notice, from such time (if at all) as the Judge makes a direction of a kind specified in paragraph (b)﻿(ii) or (iii).
+(5) A lawyer may act for a child who is a party to a proceeding if the lawyer has been appointed by the court under section 7 to represent that child.
+(6) A lawyer may act for a party at a settlement conference convened under section 46Q if a Judge directs that the parties may be represented at that conference.
+(7) A direction referred to in subsection (6) may be made by a Judge if the Judge considers that—
+  (a) at least 1 of the parties needs legal representation at the settlement conference; and
+  (b) the parties having legal representation at the settlement conference will be likely to facilitate settlement of the issues in dispute by agreement between the parties.
+(8) In this section,—
+  - **act** , in relation to a party, means—
+    (a) to sign any document for the party:
+    (b) to file any document for the party:
+    (c) to accept service for the party:
+    (d) to represent the party in court, or otherwise attend with the party before a Judge or Registrar
+  - **party to a proceeding** includes a party to a proposed proceeding.
+(9) To avoid doubt, nothing in this section prevents a lawyer from—
+  (a) giving legal advice to a party:
+  (b) preparing any document for a party:
+  (c) conducting negotiations for a party.
+
+### 7B Duties of lawyer when giving advice
+A lawyer providing legal advice to a person about arrangements for the guardianship or care of a child, or both, must ensure that the person is aware of—
+  (a) the need for the child's welfare and best interests to be the first and paramount consideration when settling arrangements; and
+  (b) the mechanisms for assisting resolution of family disputes; and
+  (c) the steps for commencing a proceeding under this Act and subsequently pursuing the proceeding through the court process to obtain a resolution; and
+  (d) the types of directions and orders that the court may make if a proceeding is commenced.
 
 ### 8 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **approved counselling organisation** means a counselling organisation that is approved by the Secretary under section 46H
   - **certified copy** , in relation to an order of a court, means a copy certified by the proper officer of the court to be a true copy of the order
   - **chief executive** means the chief executive of the department
   - **child** means a person under the age of 18 years
   - **contact** , in relation to a child, includes all forms of direct and indirect interaction with the child
+  - **counselling services** means counselling services provided by a counsellor for the purposes specified in section 46G(2)
+  - **counsellor** means a person who is appointed as a counsellor under section 46K
   - **country** includes any State, territory, province, or other part of a country
   - **court** means a court having jurisdiction in the proceedings, under section 125
   - **day-to-day care** includes care that is provided only for 1 or more specified days or parts of days
@@ -88,8 +137,8 @@ In this Act, unless the context otherwise requires,—
     (b) does not include—
       (i) an interim order or an order made without notice; or
       (ii) an order made by a court in a prescribed overseas country and that varies or discharges or is made in substitution for an order, made in New Zealand, that is registered or is otherwise enforceable in the prescribed overseas country
+  - **parenting information programme** means a programme specified as a parenting information programme in regulations made under this Act
   - **parenting order** means an order under section 48(1)
-  - **prescribed** means prescribed by rules of court, regulations, or Order in Council
   - **prescribed overseas country** means—
     (a) Australia; or
     (b) any State or Territory of Australia; or
@@ -130,7 +179,7 @@ This Act binds the Crown.
 
 ## Part 2 — Guardianship and care of children
 
-### Subpart 1 — Guardianship: Responsibility for children, and decisions about children
+### Subpart 1 — Guardianship: responsibility for children, and decisions about children
 
 **Guardianship**
 
@@ -237,7 +286,7 @@ For the purposes of this Act, guardianship of a child means having (and therefor
 (4) The appointment may be made only if each person making the appointment and the proposed additional guardian—
   (a) has taken all reasonable steps to ascertain and consider any views on the appointment expressed by the child; and
   (b) agrees to the appointment in writing.
-(5) The appointment must be in the prescribed form (which must include the agreements in writing referred to in subsection (4)﻿(b)), and must be accompanied by—
+(5) The appointment must be in a form approved by the Secretary (which must include the agreements in writing referred to in subsection (4)﻿(b)), and must be accompanied by—
   (a) the declarations specified in section 24; and
   (b) the proposed additional guardian’s criminal record.
 (6) Criminal record means a document giving all details recorded in law enforcement information held by or on behalf of the Ministry of Justice of every criminal conviction (if any) of the proposed additional guardian (whether a conviction in New Zealand or overseas).
@@ -434,7 +483,7 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
   (b) a refusal to consent to the carrying out on her of any procedure of that kind.
 (2) This section overrides section 36.
 
-### Subpart 2 — Care of children: Making arrangements and resolving disputes
+### Subpart 2 — Care of children: making arrangements and resolving disputes
 
 **Making arrangements**
 
@@ -442,9 +491,7 @@ The declarations required by section 23(5)﻿(a) are statutory declarations by e
 The purpose of sections 40 to 43 is to encourage parents, guardians, and donors to agree to their own arrangements for the child’s care, development, and upbringing.
 
 ### 40 Agreements between parents and guardians
-(1) A party to an agreement to which subsection (2) applies—
-  (a) may request counselling in respect of a dispute relating to the agreement, under section 65(1); and
-  (b) may seek to have terms of the agreement embodied in an order of the court that may be enforced, as provided in subsections (3) and (4).
+(1) A party to an agreement to which subsection (2) applies may seek to have the terms of the agreement embodied in an order of the court that may be enforced, as provided in subsections (3) and (4).
 (2) This subsection applies to an agreement between parents or guardians of a child so far as it relates to when 1 or more specified persons have the role of providing day-to-day care for the child or have contact with the child, or to the upbringing of the child, or to any combination of those matters.
 (3) An agreement to which subsection (2) applies cannot be enforced under this Act, but some or all of the terms of the agreement may be embodied in an order of the court if, under 1 or more provisions of this Act other than this section (for example, under section 48(1)),—
   (a) some or all of the parties to the agreement may apply for the order; and
@@ -484,23 +531,13 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
 **Resolving disputes**
 
 ### 44 Disputes between guardians
-(1) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may—
-  (a) request counselling in respect of their dispute under section 65(2); or
-  (b) apply to the court for its direction.
-(2) Subsection (1)﻿(a) does not limit section 45 (which relates to counselling between certain spouses, civil union partners, or de facto partners).
-(3) On an application under subsection (1)﻿(b), the court may make any order relating to the matter that it thinks proper.
-(4) If, under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, the High Court has exclusive jurisdiction to settle disputes, unless the order has been removed into a Family Court under section 127.
+[Repealed]
 
 ### 45 Family Proceedings Act 1980 dispute resolution provisions apply to certain proceedings
-(1) This subsection applies to proceedings resulting from a spouse, civil union partner, or de facto partner applying for an order under this Act relating to the role of providing day-to-day care for a child of the marriage, civil union, or de facto relationship, or contact with a child of that kind, or both of those matters.
-(2) The following sections of the Family Proceedings Act 1980 apply to proceedings to which subsection (1) applies:
-  (a) section 10(4) and (5) (under which a Family Court Judge may refer the matter to a counsellor, in which case a Family Court hearing generally does not proceed unless either spouse, civil union partner, or de facto partner, not less than 28 days after the date of the reference, requests that the hearing should proceed); and
-  (b) section 19(1) (which, among other things, requires the court to consider the possibility of a reconciliation between the spouses, civil union partners, or de facto partners, or of conciliation between them on any matter in issue).
+[Repealed]
 
 ### 46 Certain children may seek review of parent’s or guardian’s decision or refusal to give consent
-(1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
-(2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
-(3) This section does not apply where a parent or guardian refuses to give consent to a child’s marriage, civil union, or entry into a de facto relationship. In those cases, sections 18 to 20 of the Marriage Act 1955, sections 19 and 20 of the Civil Union Act 2004, and section 46A of this Act, respectively, apply instead.
+[Repealed]
 
 **Consent to certain decisions**
 
@@ -518,7 +555,60 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
 (3) When an application is made under subsection (2)﻿(b), a Family Court Judge may, if he or she considers that giving the consent is reasonable in all the circumstances, give the consent required.
 (4) A consent given to a child for a purpose referred to in subsection (2), either by the child’s former guardians or by a Family Court Judge under subsection (3), has the same effect as if it had been given by all the people whose consent was required for that purpose.
 
+### 46C Certain children may seek review of parent's or guardian's decision or refusal to give consent
+(1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge, who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
+(2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
+(3) This section does not apply where a parent or guardian refuses to give consent to a child's marriage, civil union, or entry into a de facto relationship. In those cases, sections 18 to 20 of the Marriage Act 1955, sections 19 and 20 of the Civil Union Act 2004, and section 46A of this Act, respectively, apply instead.
+
+**Family dispute resolution**
+
+### 46D Meaning of family dispute resolution
+In sections 46E and 46F, family dispute resolution, family dispute resolution form, and FDR provider have the meanings given to them by the Family Dispute Resolution Act 2013.
+
+### 46E Family dispute resolution mandatory before commencement of proceedings
+(1) This section applies to an application under section 46R or 48.
+(2) The application must be accompanied by a family dispute resolution form that has been signed by an FDR provider within the preceding 12 months.
+(3) Subsection (2) does not apply if subsection (4) applies.
+(4) A family dispute resolution form is not required to accompany an application that—
+  (a) is in response to an application that another party to the proceedings has made for an order under section 46R or 48; or
+  (b) is without notice; or
+  (c) is for a consent order; or
+  (d) seeks the enforcement of an existing order; or
+  (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Children, Young Persons, and Their Families Act 1989; or
+  (f) is accompanied by an affidavit that provides evidence of either of the following matters:
+    (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
+    (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute.
+(5) A Registrar may refuse to accept for filing an application that is accompanied by an affidavit of the kind referred to in subsection (4)﻿(f) if the affidavit does not provide sufficient evidence of either of the matters set out in subparagraphs (i) and (ii) of that paragraph.
+(6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer that application and accompanying affidavit to a Judge, and the Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)﻿(f).
+
+### 46F Family dispute resolution after proceedings commenced
+(1) This section applies after an application has been made to a Family Court for—
+  (a) a direction under section 46R; or
+  (b) a parenting order under section 48.
+(2) At any time before the application is finally determined, a Family Court Judge may direct the parties to attend family dispute resolution.
+(3) A direction under subsection (2) may only be made by a Judge if—
+  (a) the Judge considers that there is a reasonable prospect that family dispute resolution will assist the parties in reaching an agreement on the resolution of the matters in dispute; and
+  (b) the parties—
+    (i) have not participated in family dispute resolution in the preceding 12 months; or
+    (ii) have participated in family dispute resolution in the preceding 12 months but consent to the direction being made.
+(4) A direction under subsection (2) may be made only once.
+
 **Counselling**
+
+### 46G Counselling after proceedings commenced
+(1) This section applies after an application has been made to a Family Court for—
+  (a) a direction under section 46R; or
+  (b) a parenting order under section 48.
+(2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services for either or both of the following purposes:
+  (a) to improve the relationship between the parties:
+  (b) to encourage compliance with any direction or order made by the court.
+(3) A direction under subsection (2) may only be made by a Family Court Judge if the Judge considers that the provision of counselling services is the best means of assisting the parties with their relationship or the implementation of any decision of the court, or both of those matters.
+(4) A Family Court Judge may make a direction under subsection (2)—
+  (a) at any stage of the proceedings, including when making a final order; but
+  (b) once only.
+(5) On receipt of a direction under subsection (2), the Registrar must—
+  (a) arrange for the parties to be referred to a counsellor or an approved counselling organisation; and
+  (b) inform the parties accordingly.
 
 ### 46H Approval of counselling organisation
 (1) The Secretary may, by notice in the Gazette, approve any organisation (whether incorporated or unincorporated) as an approved counselling organisation.
@@ -529,9 +619,56 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
 (1) The Secretary may, by notice in the Gazette, suspend or cancel the approval of an organisation as an approved counselling organisation on any ground prescribed by regulations made under section 147(2)﻿(ab).
 (2) If under subsection (1) the Secretary suspends the approval of an organisation, the organisation is not an approved counselling organisation during the period for which the approval is suspended.
 
+### 46J Duties of approved counselling organisation
+An approved counselling organisation to which any parties are referred under section 46G(5)﻿(a) must—
+  (a) nominate a counsellor to provide counselling services to the parties; and
+  (b) arrange for the counsellor to meet with the parties.
+
 ### 46K Appointment of counsellors
 (1) The Secretary or an approved counselling organisation may appoint a person as a counsellor if the Secretary or approved counselling organisation is satisfied that the person is qualified and competent to provide counselling services.
 (2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved counselling organisation must apply the qualification and competency requirements prescribed by regulations made under section 147(2)﻿(ac) and (ad).
+
+### 46L Privilege
+(1) This section applies to a statement a party makes to a counsellor for the purpose of enabling the counsellor to provide counselling services.
+(2) No evidence of the statement is admissible in any court or before any person acting judicially.
+(3) A counsellor commits an offence and is liable on conviction to a fine not exceeding $500 who discloses to any other person a statement made to the counsellor for the purpose of enabling the counsellor to provide counselling services.
+
+### 46M Number of sessions of counselling
+The maximum number of sessions of counselling to be carried out under section 46G must be determined in accordance with regulations made under section 147(2)﻿(ae) or, if no such regulations are made, by the Registrar of the court.
+
+### 46N Counselling fees and expenses
+Fees in respect of counselling carried out under section 46G, and reasonable expenses incurred, must—
+  (a) be determined in accordance with regulations made under section 147(2)﻿(af) or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+
+**Parenting information programmes**
+
+### 46O Judge may direct party to undertake parenting information programme
+(1) At any time after an application has been made to the court for a parenting order under section 48, a Family Court Judge may direct 1 or more parties to the application to attend a parenting information programme.
+(2) However, the Family Court Judge may not make a direction under subsection (1) in respect of a party if that party has undertaken a parenting information programme within the preceding 2 years.
+
+**Settlement conferences**
+
+### 46P Purpose of settlement conferences
+The purpose of a settlement conference is to enable a Family Court Judge to—
+  (a) ascertain whether any or all of the issues in dispute between the parties can be settled; and
+  (b) settle those issues.
+
+### 46Q Settlement conferences
+(1) A Family Court Judge may, before the hearing of a proceeding, direct the Registrar to convene a settlement conference.
+(2) However, a settlement conference may be convened under subsection (1) on 1 occasion only, but may be adjourned at any time and to any place.
+(3) At a settlement conference, a Family Court Judge may, with the consent of the parties, make an order settling some or all of the issues in dispute between the parties.
+(4) Before a party consents to the making of an order, a Family Court Judge may advise that party to obtain legal advice.
+
+**Guardianship disputes**
+
+### 46R Disputes between guardians
+(1) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may apply to the court for its direction.
+(2) An application under subsection (1) must be made to a Family Court unless subsection (3) applies.
+(3) An application under subsection (1) must be made to the High Court, and the High Court has exclusive jurisdiction to settle the dispute, where,—
+  (a) under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, and that order has not been removed into a Family Court under section 127; or
+  (b) a child is under the guardianship of the High Court.
+(4) On an application under subsection (1), the court may make any order relating to the matter that it thinks proper.
 
 **Parenting orders**
 
@@ -547,6 +684,22 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
   (b) a sibling of that parent of the child; and
   (c) a sibling of the child.
 
+### 47A Mandatory statement in applications
+(1) This section applies to an application for a parenting order under section 48.
+(2) The application must include a statement made by or on behalf of the applicant for the order about whether and how the order can and should provide for any other person or persons to have the role of providing day-to-day care for, or contact with, the child.
+
+### 47B Mandatory statement and evidence in applications
+(1) This section applies to—
+  (a) an application for a parenting order under section 48:
+  (b) an application to vary a parenting order under section 56.
+(2) The application must include a statement made by or on behalf of the applicant for the order—
+  (a) that the applicant has undertaken a parenting information programme within the preceding 2 years; or
+  (b) that the applicant is not required to undertake a parenting information programme because—
+    (i) the applicant is unable to participate effectively in a parenting information programme; or
+    (ii) the applicant is making the application without notice.
+(3) Evidence in support of a statement made under subsection (2)﻿(a) or (b)﻿(i) must be included in the application.
+(4) A Registrar may refuse to accept an application if the Registrar considers that the evidence provided does not adequately support the statement.
+
 ### 48 Parenting orders
 (1) On an application made to it for the purpose by an eligible person, the court may make a parenting order determining the time or times when specified persons have the role of providing day-to-day care for, or may have contact with, the child.
 (2) A parenting order determining that a person has the role of providing day-to-day care for the child may specify that the person has that role—
@@ -556,12 +709,36 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
   (a) the nature of that contact (for example, whether it is direct (that is, face to face) contact or some form of indirect contact (for example, contact by way of letters, telephone calls, or email)):
   (b) the duration and timing of that contact:
   (c) any arrangements that are necessary or desirable to facilitate that contact.
-(4) A parenting order may be a final order or it may be an interim order that has effect until a specified date or event or until the court orders otherwise.
-(5) A parenting order may also be subject to any other terms or conditions (including, without limitation, a condition requiring a party to enter into a bond) the court determines.
-(6) This section is subject to sections 50 to 52 and 60.
+(4) A parenting order (whether an interim parenting order or a final parenting order) may be made subject to any terms or conditions the court considers appropriate (for example, a condition requiring a party to enter into a bond).
+(5)
+(6)
 
-### 49 Applications to include statement on others’ involvement
-An application for a parenting order must include a statement made by or on behalf of the applicant for the order about whether and how the order can and should provide for any other person or persons to have the role of providing day-to-day care for, or contact with, the child.
+### 49 Interim parenting orders
+(1) At any time before an application for a parenting order is finally determined in a court, a Judge may make an interim parenting order that has effect until—
+  (a) a specified date; or
+  (b) a specified event; or
+  (c) it is replaced by—
+    (i) another interim order; or
+    (ii) a final order.
+(2) However, a Judge must not make an interim order unless the Judge is satisfied that an interim order serves the welfare and best interests of the child better than a final order.
+
+### 49A Interim parenting order where parent does not have day-to-day care for, or contact with, child
+(1) This section applies if—
+  (a) an interim parenting order is made; and
+  (b) the parents of the child in respect of whom the interim parenting order is made are parties to the order; and
+  (c) under the interim parenting order, one of the parents has neither the role of providing day-to-day care for nor contact with the child.
+(2) If this section applies, the court must, as soon as practicable, assign a hearing date that is not more than 3 months after the date of the interim parenting order, and at the hearing on that date the court may replace the interim order with—
+  (a) a further interim order; or
+  (b) a final parenting order.
+
+### 49B Interim parenting order may become final order on specified date
+(1) When making an interim parenting order that has effect until a specified date (the specified date), a Family Court Judge may direct that the interim parenting order is to become a final parenting order on the specified date unless before that date a party to the proceeding or any lawyer appointed under section 7 notifies the court that he or she wishes to be heard.
+(2) If a party to the proceeding or any lawyer appointed under section 7 does not, before the specified date, notify the court that he or she wishes to be heard, the interim parenting order becomes a final parenting order on the specified date.
+(3) When an interim parenting order becomes a final parenting order under subsection (2), the final parenting order comes into effect immediately.
+
+### 49C Final parenting orders
+(1) At any time during a proceeding, a Judge may make a final parenting order if the parties consent.
+(2) When an application for a parenting order is finally determined by the court, a Judge must make a final parenting order.
 
 ### 50 Parenting orders in respect of children of or over 16 years
 (1) A parenting order determining the person or persons who have the role of providing day-to-day care for a child of or over the age of 16 years must not be made unless there are special circumstances.
@@ -573,7 +750,7 @@ An application for a parenting order must include a statement made by or on beha
   (a) the order provides for a person (person A) to have contact with a child; and
   (b) the court is satisfied that person A has physically or sexually abused the child or a person (person B) who has the role of providing day-to-day care for the child.
 (2) The court must consider whether the order should be subject to conditions imposed for the purpose of protecting the safety of person B while person A’s contact with the child takes place (including while the child is being collected from, or returned to, person B).
-(3) This section does not limit section 48(4) or (5) or section 60.
+(3)
 
 ### 52 Court must consider contact arrangements in certain cases
 If a court proposes to make a parenting order that does not give a parent the role of providing day-to-day care for a child, the court must consider whether and how the order can and should provide for that parent to have contact with the child.
@@ -595,7 +772,7 @@ If a court proposes to make a parenting order that does not give a parent the ro
     (i) the effect of the order (for example, of the obligations the order creates); and
     (ii) any processes for the monitoring and review of the order, and the means by which the order can be varied or discharged; and
     (iii) the consequences that may follow if the order is not complied with; and
-  (b) without limiting paragraph (a), must be accompanied by general information, in the prescribed form, about the matters stated in paragraph (a)﻿(i) to (iii).
+  (b) without limiting paragraph (a), must be accompanied by general information, in a form approved by the Secretary, about the matters stated in paragraph (a)﻿(i) to (iii).
 (2) A lawyer acting for, or other person representing, a party to an order under section 48(1) must explain to the party the effect of the order.
 (3) Explanations required by subsections (1)﻿(a) and (2) must be given in a manner and in language that the recipients of those explanations understand.
 (4) A lawyer acting for, or other person representing, a child, must take all reasonable steps to ensure that the effect of an order under section 48(1) is explained to the child, to an extent and in a manner and in language that the child understands.
@@ -615,147 +792,71 @@ If a court proposes to make a parenting order that does not give a parent the ro
   (b) any interim order or adoption order under the Adoption Act 1955.
 (5) Subsection (2) does not limit section 29.
 
-### 57 Procedure if child’s parents are parties to interim order
-(1) If the parents of a child are parties to an interim order and, under the order, each of them has either the role of providing day-to-day care for, or contact with, the child,—
-  (a) the order ceases to have effect (if it has not ceased to have effect sooner) on the following date:
-    (i) the date that is 1 year after the day on which the order is made (the specified date); or
-    (ii) a later date the court appoints, before or after the specified date, on an application for the purpose under this subsection before the specified date; and
-  (b) the parents must take all reasonable steps to obtain a final order as soon as practicable.
-(2) In making an order as to costs, the court may have regard to a failure to comply with subsection (1)﻿(b); but nothing in this subsection limits the court’s powers under section 142.
-(3) The court must, as soon as practicable, assign a date that is within the next 3 months as the date for a hearing on whether a final order should be substituted for the interim order if—
-  (a) an interim order is made on an application with notice or an application without notice; and
-  (b) the parents of a child are parties to the order and, under it, one of them (parent A) has neither the role of providing day-to-day care for, nor contact with, the child.
-(4) However, if the interim order referred to in subsection (3)﻿(a) was made on an application without notice, parent A may notify the court that he or she wishes to be heard on whether a final order should be substituted for that interim order and, if he or she does so, the Registrar of the court must, as soon as practicable, assign a hearing date that is—
-  (a) as soon as practicable; and
-  (b) unless there are special circumstances, within 42 days after parent A’s notice is received by the court.
-(5) In this section, interim order means—
-  (a) an interim parenting order under section 48(1); or
-  (b) an interim order under section 53(2).
+### 57 Variation of final parenting order by consent memorandum instead of application
+(1) This section applies if the parties to a final parenting order made under this Act agree to a variation of the order, or to a variation of any term or condition to which the order is subject (the proposed variation).
+(2) A party to the final parenting order may, instead of applying under section 56 for a variation of the order, file a consent memorandum seeking an order in terms of the proposed variation.
+(3) The consent memorandum must—
+  (a) set out the proposed variation; and
+  (b) state that all persons affected by the final parenting order (other than children) agree to the proposed variation; and
+  (c) be signed by all parties.
+(4) On the filing of a consent memorandum, the Registrar may make and seal an order varying the final parenting order in terms of the proposed variation set out in the memorandum.
 
-**Cases involving violence**
+**Supervised contact**
 
 ### 58 Interpretation
-In this section and sections 59 to 62, unless the context otherwise requires,—
-  - **allegation of violence** , in relation to a party to proceedings, means an allegation that that party has physically or sexually abused—
-    (a) another party to the proceedings; or
-    (b) a child who is the subject of the proceedings; or
-    (c) a child of the family
+In this section and sections 59 and 60,—
   - **approved provider** means a supervised contact service provider who is—
     (a) approved—
-      (i) by the chief executive as a Community Service under section 403 of the Children, Young Persons, and Their Families Act 1989; or
+      (i) by the chief executive as a community service under section 403 of the Children, Young Persons, and Their Families Act 1989; or
       (ii) by the Secretary; or
       (iii) by an officer of the court appointed under section 8(2) of the Family Courts Act 1980; and
     (b) nominated by the court or Registrar for the particular case
-  - **child of the family** , in relation to any proceedings, means—
-    (a) a child of the applicant and the respondent, or of either of them; or
-    (b) any child who was a member of the family of the applicant and the respondent, or either of them, immediately before the commencement of the proceedings
-  - **protection order** means—
-    (a) a protection order, including a temporary protection order, made under section 14 of the Domestic Violence Act 1995:
-    (b) a protection order made under section 123B of the Sentencing Act 2002
-  - **supervised contact** means direct (that is, face to face) contact between a party and a child, being contact that occurs—
+  - **supervised contact** means direct (that is, face-to-face) contact between a party and a child, being contact that occurs—
     (a) under the supervision of an approved provider; or
-    (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable)
-  - **violent party** means a party to the proceedings against whom—
-    (a) there is currently in force a protection order for the protection of any of the following persons:
-      (i) another party to the proceedings:
-      (ii) a child who is the subject of the proceedings:
-      (iii) a child of the family; or
-    (b) an allegation of violence is made that, on the basis of the evidence presented by, or on behalf of, the parties to the proceedings (without the court being required to make inquiries on its own initiative), the court is satisfied is proved
+    (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
 
-### 59 Application of section 60
-(1) Section 60 applies to proceedings—
-  (a) relating to an application under this Act for any of the following:
-    (i) an order about the person or persons who have the role of providing day-to-day care for a child:
-    (ii) an order about contact with a child:
-    (iii) the variation or discharge of, or of any condition of, an order in subparagraph (i) or subparagraph (ii); and
-  (b) in which there is a violent party.
-(2) Section 60 applies to proceedings specified in subsection (1) whether or not those proceedings also relate to any other matter (whether arising under this Act or any other enactment).
-
-### 60 Procedure for dealing with proceedings in section 59(1)
-(1)
-(2)
-(3) In proceedings to which this section applies in accordance with section 59 (the proceedings), the court must not make—
-  (a) an order giving the violent party the role of providing day-to-day care for the child to whom the proceedings relate; or
-  (b) any order allowing the violent party contact (other than supervised contact) with that child.
-(3A) Subsection (3) is subject to subsection (4).
-(4) In the situation in subsection (3), the court may make an order in subsection (3)﻿(a) or (b) if, after complying with section 61, the court is satisfied that the child will be safe while the violent party—
-  (a) provides day-to-day care for the child; or (as the case may be)
-  (b) has contact with the child.
-(5) If, in the situation in subsection (3), the court is not satisfied as provided in subsection (4), it may make an order for supervised contact between the child and the violent party, and, if it does so, the court must specify in the order whether the supervised contact is to occur—
+### 59 Court may order supervised contact
+(1) This section applies if the court—
+  (a) is making or varying a parenting order determining the time or times when a person may have contact with a child; and
+  (b) is not satisfied that the child will be safe with that person.
+(2) The court may make an order for supervised contact between the child and that person, and, if it does so, the court must specify in the order whether the supervised contact is to occur—
   (a) under the supervision of an approved provider; or
   (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
-(6)
 
-### 61 Matters relevant to question in section 60(4)
-In considering, for the purposes of section 60(4), whether a child will be safe if a violent party provides day-to-day care for, or has contact (other than supervised contact) with, the child, the court must, so far as is practicable, have regard to the following matters:
-  (a) the nature and seriousness of the violence used:
-  (b) how recently the violence occurred:
-  (c) the frequency of the violence:
-  (d) the likelihood of further violence occurring:
-  (e) the physical or emotional harm caused to the child by the violence:
-  (f) whether the other party to the proceedings—
-    (i) considers that the child will be safe while the violent party provides day-to-day care for, or has contact with, the child; and
-    (ii) consents to the violent party providing day-to-day care for, or having contact (other than supervised contact) with, the child:
-  (g) any views the child expresses on the matter (as required by section 6):
-  (h) any steps taken by the violent party to prevent further violence occurring:
-  (i) all other matters the court considers relevant.
-
-### 61A Court may make orders to ensure safety of child in other cases
-(1) This section applies if—
-  (a) there are proceedings before the court relating to any of the kinds of application specified in section 59(1)﻿(a); and
-  (b) section 60 does not apply to the proceedings because—
-    (i) the court is not satisfied that an allegation of violence (as defined in section 58) is proved; and
-    (ii) there is not otherwise a violent party (as defined in section 58) to the proceedings.
-(2) If the court is satisfied that there is a real risk to the safety of a child, the court may make any order under this Act that it thinks fit in order to ensure the safety of the child.
-
-### 62 Costs of formal supervised contact
-(1) This section applies only to supervised contact that is ordered under section 60(5) and supervised by an approved provider.
+### 60 Costs of formal supervised contact
+(1) This section applies only to supervised contact that is ordered under section 59 and supervised by an approved provider.
 (2) The number of sessions of the contact that will be funded out of public money must be determined in accordance with regulations made under section 147(2)﻿(a) or, in the absence of regulations of that kind, by the Registrar or the court.
 (3) Fees in respect of the contact—
   (a) must be determined in accordance with regulations made under section 147(2)﻿(b) or, in the absence of regulations of that kind, by the Registrar or the court; and
   (b) are payable out of public money appropriated by Parliament for the purpose.
 
+### 61 Matters relevant to question in section 60(4)
+[Repealed]
+
+### 61A Court may make orders to ensure safety of child in other cases
+[Repealed]
+
+### 62 Costs of formal supervised contact
+[Repealed]
+
 **Making parenting orders work**
 
 ### 63 Purpose and overview of sections 64 to 80
-(1) The purpose of sections 64 to 80 is to provide to the court, and to parties to a parenting order, a range of options for making the order work.
-(2) To that end, sections 64 to 80—
-  (a) provide for the parties to request counselling to resolve a dispute over observing and carrying out the order:
-  (b) provide for the court to make orders of various kinds, or to respond in various other ways, if a dispute over contravention of a parenting order is not resolved by the parties themselves:
-  (c) make it an offence for a party to the parenting order to intentionally—
-    (i) contravene the order; or
-    (ii) prevent compliance with the order:
-  (d) make it an offence to knowingly resist or obstruct the execution of—
-    (i) a warrant to enforce the role of providing day-to-day care for, or an order for contact with, a child; or
-    (ii) a warrant relating to preventing removal of a child from New Zealand:
-  (e) make it an offence to knowingly fail or refuse to afford immediate entrance to (all or a part of) any premises to a person executing a warrant of that kind:
-  (f) make it an offence in certain circumstances to take or attempt to take a child out of New Zealand.
+[Repealed]
 
 ### 64 Guiding consideration and principles
 (1) In determining whether to make an order or to issue a warrant or to respond in another way under any of sections 68 to 77, the court must (as required by section 4) consider whether the order or other response would serve the welfare and best interests of the child who is the subject of the parenting order concerned.
-(2) The court must, unless the circumstances are exceptional, make orders or issue warrants under any of sections 70 to 77 only as a matter of last resort.
+(2)
 (3) The court may not make orders or issue warrants under any of sections 72 to 77 contrary to the views of a child of or over the age of 16 years, unless the circumstances are exceptional.
 
 ### 65 Request for counselling
-(1) A party to a parenting order (or to an agreement of the kind described in section 40(2)) may ask a Registrar of a Family Court to arrange counselling in respect of a dispute arising from another party to the order (or to the agreement) contravening or appearing to contravene the order (or the agreement).
-(2) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may ask a Registrar of a Family Court to arrange counselling in respect of their dispute.
+[Repealed]
 
 ### 66 Procedure for request under section 65(1) or (2)
-The following sections of the Family Proceedings Act 1980 apply, with the following and all other necessary modifications, to a request under section 65(1) or (2) as if the request were one under section 9(1) of that Act by a party to a marriage, civil union, or de facto relationship for counselling in respect of the marriage, civil union, or de facto relationship:
-  (a) section 9(2) (which requires the Registrar to whom the request is made, on the person making the request completing the prescribed form, to arrange for the matter to be referred to a counsellor):
-  (b) section 11 (which relates to the procedure the counsellor must follow on being referred the matter), except that the reference in subsection (2)﻿(a) to whether or not the parties wish to resume or continue the marriage, civil union, or de facto relationship must be read as a reference to whether or not the parties to the parenting order (or the agreement), or the 2 or more guardians, have resolved the dispute:
-  (c) section 12 (which relates to the counsellor’s duties in relation to reconciliation or conciliation):
-  (d) section 12A (which relates to the number of sessions of counselling):
-  (e) section 12B (which relates to counselling fees and expenses).
+[Repealed]
 
 ### 67 Registrar may decline requests for counselling and recommend instead applications under section 68
-(1) The Registrar may decline a request under section 65(1) that relates to a parenting order if he or she considers that arranging for the matter to be referred to a counsellor is unlikely to help the parties to resolve the dispute.
-(2) Without limiting the discretion in subsection (1), in exercising that discretion the Registrar must have regard to whether a party to the order has used violence (as defined in section 3(2) of the Domestic Violence Act 1995) against—
-  (a) another party to the order; or
-  (b) a child in the care of another party to the order; or
-  (c) both.
-(3) In declining a request under subsection (1), the Registrar may recommend that any or all of the parties to the order make an application under section 68.
-(4) This section overrides sections 65 and 66.
+[Repealed]
 
 ### 68 Court may make certain orders or respond in other ways to contravention of parenting orders
 (1) On an application for the purpose by a party to a parenting order, the court may, if satisfied that another party to the order has contravened the order, do any of the following:
@@ -769,9 +870,9 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
   (a) must appoint a date and time for the hearing of the application and, by notice in writing to the parties to the application, inform them of that date and time:
   (b) may, if the court directs, request them to attend.
 
-### 69 Court may require parties to attend for counselling or for hearing of application under section 68
+### 69 Court may require parties to attend for hearing of application under section 68
 (1) On an application for the purpose or on its own initiative, the court may issue a summons requiring a person to attend at a time and place to be specified in the summons if the person fails to comply with—
-  (a) a request under section 11(1)﻿(b) of the Family Proceedings Act 1980 (as modified and applied by section 66(b) of this Act) that the person attend before a counsellor; or
+  (a)
   (b) a request under section 68(4)﻿(b) to attend the hearing of an application under section 68.
 (2) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
@@ -883,9 +984,17 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
 
 **Offences**
 
-### 78 Contravening parenting order
-(1) Every person commits an offence and is liable on conviction to the penalty stated in subsection (2) who, without reasonable excuse and with intent to prevent a parenting order from being complied with, contravenes, or prevents compliance with, the parenting order.
-(2) The penalty is imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500.
+### 78 Contravening parenting or guardianship order
+(1) A person commits an offence who, without reasonable excuse, intentionally—
+  (a) contravenes—
+    (i) a parenting order; or
+    (ii) a guardianship order made under section 40 or 46R; or
+  (b) prevents compliance with—
+    (i) a parenting order; or
+    (ii) a guardianship order made under section 40 or 46R.
+(2) A person who commits an offence under subsection (1) is liable on conviction to—
+  (a) a term of imprisonment not exceeding 3 months; or
+  (b) a fine not exceeding $2,500.
 (3) Nothing in this section limits the power of a court to punish a person for contempt of court.
 
 ### 79 Resisting execution of warrant
@@ -1078,7 +1187,7 @@ Subject to Articles 39 and 40 of the Convention, for the purposes of this subpar
   (b) that the child was removed from New Zealand to that other Contracting State in breach of that person’s rights of custody in respect of the child; and
   (c) that at the time of the removal those rights of custody were actually being exercised by that person, or would have been so exercised but for the removal; and
   (d) that the child was habitually resident in New Zealand immediately before the removal.
-(2) Every application under subsection (1) must be in the form prescribed by rules made under, or referred to in, section 146.
+(2) Every application under subsection (1) must be in a form approved by the Secretary.
 (3) If the Authority is satisfied that an application made under subsection (1) is in accordance with the requirements of the Convention, the Authority must take on behalf of the applicant any action required to be taken by the Authority under the Convention.
 
 ### 103 Child abducted to New Zealand
@@ -1168,7 +1277,7 @@ A court that has jurisdiction under this subpart may, if requested by the Centra
   (a) to have rights of access in respect of a child; and
   (b) that the child is habitually resident in a Contracting State; and
   (c) that the child is present in the Contracting State other than New Zealand.
-(2) Every application under subsection (1) must be in the form prescribed by rules made under, or referred to in, section 146.
+(2) Every application under subsection (1) must be in a form approved by the Secretary.
 (3) If the Authority is satisfied that an application made under subsection (1) is in accordance with the requirements of the Convention, the Authority must take on behalf of the applicant any action required to be taken by the Authority under the Convention.
 
 ### 113 Child in New Zealand
@@ -1284,7 +1393,7 @@ Nothing in this subpart prevents a court, at any time, from making an order for 
     (ii) sections 27, 30, 35, 72, 73, 76, and 77:
     (iii) subpart 4 of Part 2.
 (2) A Family Court must not entertain an application in respect of a child (except an application specified in subsection (3))—
-  (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under section 44) is in force, and has not been removed into a Family Court under section 127; or
+  (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under section 46R) is in force, and has not been removed into a Family Court under section 127; or
   (b) if the child is under the guardianship of the High Court.
 (3) Despite subsection (2), a Family Court may entertain—
   (a) an application for an interim order about the role of providing day-to-day care for, or about contact with, the child; or
@@ -1317,7 +1426,7 @@ Nothing in this subpart prevents a court, at any time, from making an order for 
 **Procedural provisions**
 
 ### 128 Evidence
-In all proceedings under this Act (other than criminal proceedings, but including appeals or any other proceedings), the court may receive any evidence that it thinks fit, whether or not it is otherwise admissible in a court of law.
+[Repealed]
 
 ### 129 Court’s power to call witnesses
 (1) In proceedings before it under this Act (other than criminal proceedings), a court may, on its own initiative, call as a witness a person whose evidence may in its opinion assist the court.
@@ -1329,32 +1438,107 @@ In all proceedings under this Act (other than criminal proceedings, but includin
 (5) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as applicable and with all necessary modifications, apply with respect to every person called as a witness by the court under this section as if the witness had been called by a party to the proceedings.
 (6) The expenses of a witness called by the court under this section, in accordance with the prescribed scale of witnesses’ expenses, are in the first instance payable out of public money appropriated by Parliament for the purpose.
 
-### 130 Counsel to assist court
-(1) In proceedings before it under this Act (other than criminal proceedings), a court may appoint, or direct the Registrar of the court to appoint, a lawyer to assist the court.
-(2) The lawyer may call a person as a witness in the proceedings, and may cross-examine witnesses called by a party to the proceedings or by the court.
+### 130 Appointment of lawyer to assist court
+In any proceedings under this Act (other than criminal proceedings), a court may—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct the Registrar of the court to appoint a lawyer to assist the court.
 
-### 131 Costs of court-appointed counsel
-(1) Fees for professional services provided by lawyers appointed under section 7(1) or section 130(1), and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under section 147(2)﻿(c); and
-  (b) are payable out of public money appropriated by Parliament for the purpose.
-(2) The bill of costs rendered by a lawyer appointed under section 7(1) or section 130(1) must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may tax the bill of costs.
-(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the bill may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may on the application make any order varying or confirming the decision the Judge considers fair and reasonable.
-(4) Despite subsection (1), the court may, if it thinks proper, order a party to the proceedings to refund to the Crown an amount the court specifies in respect of any fees and expenses paid under subsection (1), and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of the amount, payment of it may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+### 131 Fees and expenses of lawyer appointed under section 7 or 130
+(1) The fees and expenses of a lawyer appointed under section 7 or 130 must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) An invoice rendered by a lawyer appointed under section 7 or 130 for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+(4) Where in any proceedings a lawyer has been appointed under section 7 or 130 and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under section 135A, unless the court declines to do so in accordance with that section.
+(5) However, no order under section 135A may be made—
+  (a) in any proceedings commenced by an application under section 105 or a request under section 111; or
+  (b) against—
+    (i) the Crown, whether acting through the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 or otherwise; or
+    (ii) a person in whose custody the child concerned has been placed pursuant to an order made under the Children, Young Persons, and Their Families Act 1989; or
+  (c) in respect of an appointment under section 130, where a lawyer has been appointed under that section to provide to the court independent advice on any complex legal issue.
+
+### 131A Advice from chief executive or social worker
+(1) For the purpose of expediting an application for a guardianship order or parenting order, a Registrar, on his or her own initiative, may—
+  (a) refer the application to the chief executive; and
+  (b) request the chief executive to provide brief written advice on the nature and extent of any involvement that the department has had with the parties.
+(2) On receipt of a request for advice made under subsection (1), the chief executive or a social worker must provide the advice.
+(3) The Registrar must refer advice received under subsection (2) to the Family Court Judge who is considering the application.
 
 ### 132 Reports from chief executive or social worker
 (1) A copy of an application for guardianship or a parenting order (other than an interim parenting order) must be supplied to the chief executive if the court so directs.
 (2) The chief executive or a social worker must report on the application, and may appear on the application personally or by a lawyer.
 
 ### 133 Reports from other persons
-(1) This section applies to the following applications:
-  (a) an application for guardianship:
-  (b) an application for a parenting order (other than an application for an interim order about the role of providing day-to-day care for a child):
-  (c) an application under section 105(1).
-(2) If satisfied that it is necessary for the proper disposition of an application, the court may—
-  (a) request a person whom the court considers qualified for the purpose to prepare a written cultural, medical, psychiatric, or psychological report on the child who is the subject of the application; or
-  (b) direct the Registrar of the court to request a person whom the Registrar considers qualified for the purpose to prepare a written cultural, medical, psychiatric, or psychological report on the child who is the subject of the application.
-(3) A cultural report on the child who is the subject of the application may address any aspect or aspects of that child’s cultural background (for example, that child’s religious denomination and practice).
-(4) In deciding whether to request a report or to direct the Registrar of the court to request a report, the court must, if the wishes of the parties are known to the court or can be speedily ascertained, have regard to those wishes.
+Definitions
+(1) In this section,—
+  - **application** —
+    (a) means—
+      (i) an application for guardianship; or
+      (ii) an application for a parenting order; or
+      (iii) an application under section 105(1); but
+    (b) does not include an application for an interim order about the role of providing day-to-day care for a child
+  - **approval** means an approval under subsection (10)
+  - **cultural report** means a report that is about the child who is the subject of an application and that covers an aspect or aspects of the child’s cultural background, including the child’s religious denomination and practice
+  - **materials** means—
+    (a) the psychological report; and
+    (b) the report writer's notes; and
+    (c) other materials the report writer used in preparing the psychological report
+  - **medical report** means a medical report that is about the child who is the subject of an application
+  - **psychiatric report** means a psychiatric report that is about the child who is the subject of an application
+  - **psychological report** means a report that is about the child who is the subject of an application and that covers any or all of the following matters:
+    (a) how current arrangements for the child’s care are working for the child:
+    (b) the child’s relationship with each party, including, if appropriate, the child's attachment to each party:
+    (c) the child's relationship with other significant persons in the child's life:
+    (d) the effect or likely effect on the child of each party's parenting skills:
+    (e) the effect or likely effect on the child of the parties' ability or otherwise to co-operate in the parenting of the child:
+    (f) the advantages and disadvantages for the child of the options for the care of the child:
+    (g) any matter that the court specifies under subsection (5)﻿(b)﻿(ii)
+  - **report writer** means—
+    (a) the person requested under subsection (2) to prepare a report:
+    (b) the psychologist requested under subsection (5) to prepare a report
+  - **second opinion** means—
+    (a) a critique of a psychological report; and
+    (b) a report covering the same matters as those covered by a psychological report.
+Court's power to obtain cultural reports, medical reports, or psychiatric reports
+(2) To obtain a written cultural report, medical report, or psychiatric report, the court may—
+  (a) request a person whom the court considers qualified for the purpose to prepare one; or
+  (b) direct the Registrar to request a person whom the Registrar considers qualified for the purpose to prepare one.
+(3) The court may act under subsection (2) only if satisfied that—
+  (a) the information that the report will provide is essential for the proper disposition of the application; and
+  (b) the report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+  (c) the proceedings will not be unduly delayed by the time taken to prepare the report; and
+  (d) any delay in the proceedings will not have an unacceptable effect on the child.
+(4) If the court is entitled by subsection (3) to act under subsection (2) and if the court knows the parties' wishes about the obtaining of a report or can speedily ascertain them, the court must have regard to the parties' wishes before deciding whether or not to act under subsection (2).
+Court's power to obtain psychological reports
+(5) To obtain a written psychological report,—
+  (a) the court may—
+    (i) request a psychologist whom the court considers qualified for the purpose to prepare one; or
+    (ii) direct the Registrar to request a psychologist whom the Registrar considers qualified for the purpose to prepare one; and
+  (b) the court—
+    (i) must specify which of the matters listed in paragraphs (a) to (f) of the definition of psychological report in subsection (1) that the report is to cover; and
+    (ii) may specify any matter not listed in paragraphs (a) to (f) of the definition of psychological report in subsection (1) that the report is to cover.
+(6) The court may act under subsection (5) only if—
+  (a) the court is satisfied that the information that the psychological report will provide is essential for the proper disposition of the application; and
+  (b) the court is satisfied that the psychological report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+  (c) the court is satisfied that the proceedings will not be unduly delayed by the time taken to prepare the psychological report; and
+  (d) the court is satisfied that any delay in the proceedings will not have an unacceptable effect on the child; and
+  (e) the court does not seek the psychological report solely or primarily to ascertain the child's wishes.
+(7) If the court is entitled by subsection (6) to act under subsection (5) and if the court knows the parties' wishes about the obtaining of a psychological report or can speedily ascertain them, the court must have regard to the parties' wishes before deciding whether or not to act under subsection (5).
+Court's power to direct meetings
+(8) If the court acts under subsection (2) or (5), it may give directions at the same time on arrangements for—
+  (a) the child to meet with the report writer; or
+  (b) 1 or more of the parties to meet with the report writer; or
+  (c) the child and 1 or more of the parties to meet with the report writer.
+(9) If a party or the child fails to meet with the report writer as directed by the court,—
+  (a) the report writer must notify the court; and
+  (b) the court may make further directions.
+Second opinions
+(10) The approval of the court must be obtained before a second opinion may be prepared and presented.
+(11) The court may give approval only if there are exceptional circumstances.
+(12) A party who obtains the approval of the court for the preparation and presentation of a second opinion is liable for the costs of that opinion.
+(13) If the court gives approval, it may permit disclosure of the materials to the psychologist preparing the second opinion.
+(14) If the court declines to give approval to a party, or if a party does not seek approval, the court may permit disclosure of the materials to a psychologist who is employed by the party and who is not the report writer.
+(15) The court may permit disclosure under subsection (14) only if the court is satisfied that the psychologist requires the materials to assist the party to prepare the party's cross-examination.
 
 ### 134 Distribution, etc, of reports under sections 132 and 133
 (1) The Registrar of the court must copy a report under section 132 or section 133 (the report)—
@@ -1363,17 +1547,44 @@ In all proceedings under this Act (other than criminal proceedings, but includin
 (2) If the court orders a lawyer referred to in subsection (1)﻿(a) not to give or show the report to the person for whom the lawyer is acting, the lawyer must comply with the order.
 (3) If a party has no lawyer acting for that party and the court is satisfied that information in the report would, if provided directly to that party, place the child concerned or another person at risk of physical abuse, sexual abuse, or psychological abuse, the court may—
   (a) order that the report not be copied to that party under subsection (1)﻿(a); and
-  (b) appoint counsel to assist the court under section 130(1) for the purpose of explaining the contents of the report to that party.
+  (b) appoint counsel to assist the court under section 130 for the purpose of explaining the contents of the report to that party.
 (4) Before the report is copied to a lawyer under subsection (1)﻿(b), the court must consider whether the report may be given or shown to the child for whom the lawyer is acting.
 (5) A lawyer referred to in subsection (1)﻿(b) may give or show the report to the child for whom the lawyer is acting only if the court so orders, but in every case the lawyer must explain to the child the purpose and contents of the report, unless the lawyer considers that to do so would be contrary to the welfare and best interests of the child.
 (6) A party to the proceedings, or a lawyer appointed to act for a child who is the subject of the proceedings, may present evidence on any matter referred to in the report.
 (7) The court may, if it thinks fit, call as a witness the person who made or prepared the report.
 
-### 135 Costs of reports under section 133
-(1) Fees for reports prepared under a request under section 133(2), and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under section 147(2)﻿(d); and
-  (b) are payable by any party or parties to the proceedings the court orders or, if the court so decides, are payable out of public money appropriated by Parliament for the purpose.
-(2) An amount of any fees and expenses ordered to be paid by a party under subsection (1)﻿(b) is, if paid by the Crown, a debt due to the Crown by that party and, in default of payment of the amount, payment of the amount may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+### 135 Costs of reports requested under section 133
+(1) Fees for the preparation of reports requested under section 133, and reasonable expenses incurred, must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) Where in any proceedings a report requested under section 133 has been prepared and the fees and expenses relating to that report have been paid under subsection (1), the court must make an order under section 135A unless the court declines to do so in accordance with that section.
+
+### 135A Order requiring reimbursement of costs payments
+(1) An order referred to in section 131(4) or 135(2) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown,—
+  (a) under section 131(1)﻿(b), in respect of the fees and expenses of a lawyer appointed under section 7 or 130:
+  (b) under section 135(1)﻿(b), in respect of a report requested under section 133.
+(2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
+(3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
+(4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
+(5) In this section,—
+  - **dependent child** , in relation to a party, means a child whose day-to-day care is substantially the responsibility of the party
+  - **prescribed proportion** means the proportion that is prescribed by regulations made under section 147 for the purposes of this section
+  - **serious hardship** , in relation to a party or a dependent child of a party,—
+    (a) includes significant financial difficulties that arise because of—
+      (i) the party's inability to meet minimum living expenses according to normal community standards; or
+      (ii) the cost of medical treatment for an illness or injury of the party or a dependent child of the party; or
+      (iii) a serious illness suffered by the party or by a dependent child of the party; or
+      (iv) the cost of education for a dependent child of the party:
+    (b) does not include significant financial difficulties that arise because—
+      (i) the social activities and entertainment of the party or those of a dependent child of the party may be limited; or
+      (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
+
+### 135B Enforcement of orders made under section 135A
+(1) The amount that a party is ordered to reimburse under section 135A is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+  (a) is to be added to the amount sought to be enforced; and
+  (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
+(3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary may, on behalf of the Crown, enforce a debt under this section.
 
 ### 136 Court may hear person on child’s cultural background
 (1) A party to proceedings under this Act that appear likely to proceed to a hearing may, before a date is set for a hearing of the proceedings, ask the court to hear a person to speak on—
@@ -1385,11 +1596,12 @@ In all proceedings under this Act (other than criminal proceedings, but includin
 ### 137 Attendance at hearings generally
 (1) Only the following persons may attend a hearing of proceedings (other than criminal proceedings) under this Act:
   (a) officers of the court:
-  (b) parties to the proceedings and their lawyers:
-  (c) lawyers appointed under section 7(1) or section 130(1):
+  (b) parties to the proceedings:
+  (ba) lawyers acting for the parties (if any):
+  (c) lawyers appointed under section 7 or 130:
   (d) witnesses:
   (e) persons the court agrees to hear under section 136:
-  (f) persons who may attend under section 138(2)﻿(b):
+  (f)
   (g) accredited news media reporters:
   (h) persons whom the Judge permits to be present as support persons for a party on a request by that party:
   (i) any other persons whom the Judge permits to be present.
@@ -1398,37 +1610,45 @@ In all proceedings under this Act (other than criminal proceedings, but includin
 (4) If, during a hearing, the Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) a witness:
   (b) a person the court agrees to hear under section 136:
-  (c) a person who may attend under section 138(2)﻿(b):
+  (c)
   (d) an accredited news media reporter:
   (e) a support person whom the Judge permits to be present under subsection (1)﻿(h).
-(5) However, in considering, at or before a hearing, whether to exclude from the courtroom a person who may attend under section 138(2)﻿(b), the Judge must take into account all relevant objections under section 138(3)﻿(b).
+(5)
 (6) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (ab) to permit a McKenzie friend to be present; or
   (b) to exclude any person from the court.
 
 ### 138 Attendance at hearings of persons involved in counselling or conciliation under Family Proceedings Act 1980
-(1) This subsection applies to a person (other than a party to the proceedings, the counsellor, or the Family Court Judge who presided over the mediation conference) who attended one of the following kinds of event involving a matter under this Act that is to proceed to a hearing:
-  (a) 1 or more sessions of counselling carried out under section 9 or section 10 or section 19 of the Family Proceedings Act 1980:
-  (b) a mediation conference held under section 13 of that Act.
-(2) A person to whom subsection (1) applies—
-  (a) must be given reasonable prior notice in writing of the date and time of the hearing and of the period within which he or she must advise the court whether he or she intends to attend the hearing; and
-  (b) may attend the hearing if he or she has, within the period specified in that notice, advised the court that he or she intends to do so.
-(3) Each party to the proceedings must, before the hearing, be given—
-  (a) details of all persons (if any) who have advised under subsection (2) that they intend to attend the hearing; and
-  (b) a reasonable opportunity to object to those persons attending.
+[Repealed]
 
 ### 139 Publication of reports of proceedings
 Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
   (a) in a Family Court:
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
+### 139A Leave required in certain cases to commence substantially similar proceedings
+(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56without the leave of the court if that new proceeding—
+  (a) is substantially similar to a proceeding previously filed in a Family Court by any person (a previous proceeding); and
+  (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
+(2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
+  (a) any party to the previous proceeding:
+  (b) any child who was the subject of the previous proceeding.
+(3) In this section, a new proceeding is substantially similar to a previous proceeding if—
+  (a) the party commencing the new proceeding was a party to the previous proceeding; and
+  (b) a child who is the subject of the new proceeding was the subject of the previous proceeding; and
+  (c) the new proceeding—
+    (i) is commenced under the same provision of this Act as the previous proceeding; or
+    (ii) is for an order varying the order made in the previous proceeding; or
+    (iii) is for an order discharging the order made in the previous proceeding.
+(4) This section does not apply if every party to the new proceeding consents to its commencement.
+
 ### 140 Power to dismiss proceedings
 The court may dismiss proceedings before it under this Act if it is satisfied—
   (a) that the proceedings relate to a specified child, and that the continuation of the proceedings is, in the particular circumstances, clearly contrary to the welfare and best interests of the child; or
   (b) that the proceedings are frivolous or vexatious or an abuse of the procedure of the court.
 
-### 141 Power to restrict commencement of proceedings
+### 141 Power to restrict commencement of proceedings if vexatious proceedings previously instituted
 (1) This section applies to a court if, and only if, the court—
   (a) is satisfied that a person has persistently instituted vexatious proceedings under this Act or under any former Act (whether those proceedings were in respect of the same person or matter or different persons or matters); and
   (b) has given the person a reasonable opportunity to be heard.
@@ -1440,14 +1660,25 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
 ### 142 Costs
 (1) In any proceedings under this Act, the court may make any order as to costs it thinks fit.
 (2) An order under this section may be made either in addition to, or instead of, an order under section 71 or section 87 or section 121.
+(3) This section is subject to sections 131 and 135.
 
 ### 143 Appeals to High Court
 (1) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (other than criminal proceedings), to—
   (a) make or refuse to make an order (other than an interlocutory or interim order); or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
-(2) A party to proceedings in which there is made a decision to which subsection (1) applies, or a child to whom those proceedings relate, may appeal to the High Court against the decision. However, if the proceedings are under section 44 or section 46, the party or child may appeal only with the leave of the High Court.
-(3) A party to proceedings under this Act in a Family Court or District Court (other than criminal proceedings or proceedings under section 44 or section 46) in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
+(2) A party to proceedings in which there is made a decision to which subsection (1) applies, or a child to whom those proceedings relate, may appeal to the High Court against the decision. However, if the proceedings are under section 46C or 46R, the party or child may appeal only with the leave of the High Court.
+(3) A party to proceedings under this Act in a Family Court or District Court in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
+(3A) However, no appeal may be made to the High Court under subsection (3) in relation to—
+  (a) any interlocutory or interim order made in the following kinds of proceedings:
+    (i) criminal proceedings; or
+    (ii) proceedings under section 46C; or
+    (iii) proceedings under section 46R; or
+  (b) a decision under—
+    (i) section 7 to appoint, or to direct the Registrar of the court to appoint, a lawyer to represent a child; or
+    (ii) section 130 to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court; or
+    (iii) section 133 to obtain a written cultural report, medical report, psychiatric report, or psychological report; or
+  (c) a direction under section 7A(6) that the parties may, or may not, be represented at a settlement conference.
 (4) The High Court Rules and sections 73 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 72 of that Act.
 (5) On the ex parte application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (6) Subsection (5) overrides subsection (4).
@@ -1457,7 +1688,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 
 ### 145 Appeal to Court of Appeal
 (1) An appeal lies to the Court of Appeal from an order or decision of the High Court under this Act, but—
-  (a) no appeal lies from an order or decision under section 44 or section 46:
+  (a) no appeal lies from an order or decision under section 46C or 46R:
   (b) if the order or decision was made on appeal from a Family Court or a District Court, an appeal lies only with the leave of the Court of Appeal.
 (2) The Court of Appeal may, in its discretion, if it thinks that the interests of justice so require,—
   (a) rehear the whole or any part of the evidence; or
@@ -1468,7 +1699,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 ### 146 Rules of court
 (1) Rules may be made in the manner prescribed by the Judicature Act 1908 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
 (2) Rules may be made under section 16A of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
-(3) An application or other document required to be made in a form prescribed by rules made under this Act must instead, if it relates to proceedings in a Family Court, be made in a form prescribed by rules made under the Family Courts Act 1980.
+(3)
 (4) In addition to the powers conferred by section 122 of the District Courts Act 1947, the Governor-General may, by Order in Council, make rules—
   (a) regulating the practice and procedure of District Courts in proceedings under this Act; and
   (b) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -1492,13 +1723,11 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
   (ag) specifying for the purposes of sections 46O and 47B(2) 1 or more parenting information programmes that provide information about the effects of a relationship breakdown, including—
     (i) how a child may be affected when parents separate; and
     (ii) how the needs of a child may be met when parents separate:
-  (a) providing for the determination, for the purposes of section 62(2), of the number of sessions of supervised contact (ordered under section 60(5), and supervised by an approved provider) that will be funded out of public money:
-  (b) providing for the determination, for the purposes of section 62(3), of the amount of fees and expenses, including minimum and maximum amounts, payable to approved providers in respect of supervised contact carried out under an order under section 60(5), which fees and expenses may differ—
-    (i) according to the number of sessions of supervised contact determined to be carried out under section 62(2); and
+  (a) providing for the determination, for the purposes of section 60(2), of the number of sessions of supervised contact (ordered under section 59(2), and supervised by an approved provider) that will be funded out of public money:
+  (b) providing for the determination, for the purposes of section 60(3), of the amount of fees and expenses, including minimum and maximum amounts, payable to approved providers in respect of supervised contact carried out under an order under section 59(2), which fees and expenses may differ—
+    (i) according to the number of sessions of supervised contact determined to be carried out under section 60(2); and
     (ii) according to whether supervision services are to be provided in a specified number of proceedings during a specified period:
-  (c) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 7(1) or section 130(1), which fees and expenses may differ—
-    (i) according to the complexity of the proceedings and the time spent; and
-    (ii) according to whether professional services are to be provided in a specified number of proceedings during a specified period:
+  (c)
   (d) prescribing, for the purposes of section 135A, the proportion of any amount paid by the Crown under—
     (i) section 131(1)﻿(b):
     (ii) section 135(1)﻿(b):
@@ -1508,7 +1737,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 (1) Nothing in this Act affects the following Acts:
   (a) Children, Young Persons, and Their Families Act 1989:
   (b) Family Proceedings Act 1980.
-(2) This section is subject to sections 66 and 69 and 149 to 151 and Schedules 2 to 4.
+(2) This section is subject to sections 66 and 149 to 151 and Schedules 2 to 4.
 
 **Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)**
 
@@ -1525,10 +1754,13 @@ The Family Proceedings Act 1980 is amended in the manner specified in Schedule 3
 ### 151 Other amendments in Schedule 4
 The Acts listed in Schedule 4 are amended in the manner specified in that schedule.
 
-### 152 Repeal
-The Guardianship Act 1968 (1968 No 63) is repealed.
+### 152 Repeals
+The following Acts are repealed:
+  (a) Guardianship Act 1968 (1968 No 63):
+  (b) Care of Children Amendment Act 2008 (2008 No 74):
+  (c) Care of Children Amendment Act 2013 (2013 No 45).
 
-**Saving and transitional provisions**
+**Saving and transitional provisions on enactment of this Act**
 
 ### 153 Orders under 1968 Act appointing person as guardian
 (1) Orders made under provisions of the Guardianship Act 1968 listed in column 2 of the following table and that are in force immediately before the date on which this Act comes into force may be enforced, varied, discharged, or otherwise dealt with under this Act as if they were made under the corresponding provisions of this Act listed in column 3 of that table.The following table is small in size and has 3 columns. Column 1 is headed Kind of guardian. Column 2 is headed Provision of 1968 Act. Column 3 is headed Provision of this Act.Kind of guardianProvision of 1968 ActProvision of this Actfathersection 6(3)section 19(4)testamentarysection 7(3)section 26(3)court-appointedsection 8section 27
@@ -1579,6 +1811,24 @@ The repeal of the Guardianship Amendment Act 1991 by section 152 of this Act doe
   (a) as if the United Kingdom of Great Britain and Northern Ireland were a prescribed country under this Act; and
   (b) if the order was registered under section 22A of the Guardianship Act 1968, as if the order were registered under section 81 of this Act; and
   (c) if the order was not registered under section 22A of the Guardianship Act 1968, as if section 31(2) of the Guardianship Amendment Act 1991 continued in force and permitted the order to be registered under section 81 of this Act.
+
+**Transitional provision applying on enactment of Care of Children Amendment Act (No 2) 2013**
+
+### 165 Proceedings commenced before commencement of this section but not completed
+(1) This section applies to proceedings under this Act that were commenced before the date of commencement of this section but were not by that date completed (a pending proceeding).
+(2) The following provisions do not apply to a pending proceeding:
+  (a) section 7A; and
+  (b) section 135A; and
+  (c) section 135B.
+(3) The following provisions, as in force immediately before the date of commencement of this section, continue to apply to a pending proceeding with any necessary modifications as if the Care of Children Amendment Act (No 2) 2013 had not been enacted:
+  (a) section 131; and
+  (b) section 135; and
+  (c) section 137.
+(4) If section 57, as in force immediately before the date of commencement of this section, applied in respect of any interim order, section 57 continues to apply in respect of that order as if the Care of Children Amendment Act (No 2) 2013 had not been enacted.
+(5) If in any pending proceeding there is in force immediately before the date of commencement of this section an order for supervised contact between a child who is the subject of the proceeding and any party, sections 62 and 147(2)﻿(a) and (b) continue to apply in respect of that proceeding as if the Care of Children Amendment Act (No 2) 2013 had not been enacted.
+(6) If in any pending proceeding a referral to counselling was made either on the court's initiative (under section 45) or on the request of a party (under section 65) and that counselling was arranged or was in progress immediately before the date of commencement of this section,—
+  (a) sections 66, 67, 69, and 138 continue to apply as if the Care of Children Amendment Act (No 2) 2013 had not been enacted; but
+  (b) the counselling may not start or continue 4 months after the date of commencement of this section.
 
 ## Schedule 1 — Convention on the Civil Aspects of International Child Abduction
 
