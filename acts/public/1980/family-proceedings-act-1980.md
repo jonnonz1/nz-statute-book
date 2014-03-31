@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2014-03-31_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -11,16 +11,12 @@ _Consolidation as at 2013-08-19_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **affiliation order** includes an order declaring a person to be a parent of a child (however the order is described, and whether or not it also provides for the maintenance of the child)
-  - **approved marriage or civil union guidance organisation or counselling organisation** means an organisation approved under section 5 by the Minister of the Crown who is responsible for the Ministry of Justice
-  - **attachment order** means an attachment order made under section 105
   - **blood sample** means any of the following, taken in accordance with normal medical procedures:
     (a) a fingerprick sample (that is, a sample of capillary blood taken from the tip of a finger or thumb); or
     (b) a venous sample (that is, a sample of venous blood); or
     (c) any other sample of blood
   - **buccal sample** means a sample of epithelial cells from inside the mouth taken by a device, or provided by other means
   - **certified copy** , in relation to an order of a court, means a copy of the order certified by the proper officer of the court to be a true copy
-  - **charging order** means a charging order made under section 118
-  - **child of the civil union** means, in relation to a civil union (including a void civil union), a child of both civil union partners, and includes, in relation to any proceedings under this Act, a child (whether or not a child of the partners) who was a member of the family of the partners to the civil union or void civil union at the time the partners ceased to live together or at the time immediately preceding the institution of proceedings, whichever first occurred
   - **child of the de facto relationship** means a child of both de facto partners, and includes, in relation to any proceedings under this Part, a child (whether or not a child of either de facto partner) who was a member of the family of the de facto partners at the time when they ceased to live together or at the time immediately before the institution of proceedings, whichever first occurred
   - **child of the marriage** —
     (a) in relation to a marriage (other than a void marriage)—
@@ -38,11 +34,6 @@ In this Act, unless the context otherwise requires,—
   - **Convention country** —
     (a) means a country that is a party to the United Nations Convention for the Recovery of Maintenance Abroad done at New York on 20 June 1956; but
     (b) does not include Australia
-  - **counsellor** means—to act as a counsellor under this Act; or
-    (a) a person—
-      (i) nominated by an approved marriage or civil union guidance organisation or counselling organisation; or
-      (ii) nominated by a court from a list of counsellors prepared by an officer of the court appointed under section 8(2) of the Family Courts Act 1980,—
-    (b) a counsellor or counselling supervisor appointed pursuant to the Family Courts Act 1980
   - **country** includes any State, territory, province, or other part of a country
   - **court** , in Part 8, includes any body or person exercising judicial functions, outside New Zealand, in relation to maintenance orders
   - **deduction notice** means a deduction notice issued under section 110
@@ -54,14 +45,9 @@ In this Act, unless the context otherwise requires,—
     (a) means—
       (i) a benefit granted under section 27B or section 27C of the Social Security Act 1964; or
       (ii) a benefit which is granted under section 61 of the Social Security Act 1964 and which corresponds to a benefit granted under section 27B or section 27C of that Act; and
-    (b) includes a benefit described in paragraph (a)(i) or (ii) as increased by a child supplement under section 61A of the Social Security Act 1964
-  - **employer** , for the purposes of sections 105 to 117, in relation to a respondent, includes—
-    (a) a person by whom a retiring allowance or pension or other payment of a like nature is payable to the respondent:
-    (b) the Accident Compensation Corporation in relation to weekly compensation payable to the respondent under the Injury Prevention, Rehabilitation, and Compensation Act 2001
-  - **family chattels** has the meaning given to it by section 2 of the Property (Relationships) Act 1976
+    (b) includes a benefit described in paragraph (a)﻿(i) or (ii) as increased by a child supplement under section 61A of the Social Security Act 1964
   - **Family Court** means the division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
   - **Family Court Judge** means a Family Court Judge appointed under section 5 of the Family Courts Act 1980; and includes the Principal Family Court Judge
-  - **family home** has the meaning given to it by section 2 of the Property (Relationships) Act 1976
   - **interim order** , in relation to maintenance, means an order made under section 82
   - **maintenance** means the provision of money, property, and services; and includes—
     (a) in respect of a child, provision for the child's education and training to the extent of the child's ability and talents; and
@@ -78,21 +64,17 @@ In this Act, unless the context otherwise requires,—
     (a) means an order or interim order made under Part 6 for the payment of maintenance; and includes—
       (i)
       (ii) in Part 8, a subsisting order (including an order in or consequent on an affiliation order) for the payment by any person of a periodical sum of money towards the maintenance of a person whom the first-mentioned person is, according to the law in force in the place where the order is made, liable to maintain; and
-      (iii) in Part 8, a subsisting order of the kind described in section 78(1)(b) or (2); and
+      (iii) in Part 8, a subsisting order of the kind described in section 78(1)﻿(b) or (2); and
     (b) where an order within the meaning of paragraph (a) has been varied, means the order as varied and all orders by which it has been varied
   - **marriage** includes a union in the nature of marriage that—where the law of the country in which each of the parties is domiciled at the time of the union then permits polygamy
     (a) is entered into outside New Zealand; and
     (b) is at any time polygamous,—
-  - **mediation conference** means a conference held under section 13
   - **parentage tests** means tests carried out on blood samples or buccal samples to help to determine the parentage of a child
   - **paternity order** means an order made under section 51
   - **proceedings** means proceedings before a court
   - **property** includes real and personal property, and any estate or interest in any real or personal property, and any debt, and any thing in action, and any other right or interest
   - **report on parentage tests** means a report compiled under section 54
   - **responsible authority** , in relation to a country other than New Zealand, means the appropriate authority in that country for the discharge of the functions contemplated by Part 8 in relation to that authority
-  - **salary** or , for the purposes of sections 105 to 117, includes—
-    (a) a retiring allowance or pension or other payment of a like nature:
-    (b) weekly compensation under the Injury Prevention, Rehabilitation, and Compensation Act 2001
   - **Secretary** means the chief executive of the Ministry of Justice
   - **separation order** means a separation order made under Part 3
   - **social worker** means—
@@ -113,8 +95,7 @@ Subject to sections 27, 29, 32, 37, and 48, the High Court, District Courts, and
     (ii) the child resides in New Zealand.
 
 ### 5 Marriage or civil union guidance or counselling organisations
-(1) The Minister of the Crown who is responsible for the Ministry of Justice may from time to time, by notice in the Gazette, approve any body of persons (whether incorporated or unincorporated) as a marriage or civil union guidance organisation or counselling organisation for the purposes of this Act.
-(2) Any approved marriage or civil union guidance organisation or counselling organisation may nominate any person to act as a counsellor under this Act.
+[Repealed]
 
 ### 6 Maintenance officers
 [Repealed]
@@ -128,122 +109,53 @@ Subject to sections 27, 29, 32, 37, and 48, the High Court, District Courts, and
 [Repealed]
 
 ### 8 Duty of legal advisers to promote reconciliation and conciliation
-(1) In all matters in issue between spouses, civil union partners, or de facto partners that are or may become the subject of proceedings under this Act or the Care of Children Act 2004, every barrister or solicitor acting for either spouse, civil union partner, or de facto partner shall—
-  (a) ensure that the spouse, civil union partner, or de facto partner for whom the barrister or solicitor is acting is aware of the facilities that exist for promoting reconciliation and conciliation; and
-  (b) take such further steps as in the opinion of the barrister or solicitor may assist in promoting reconciliation or, if reconciliation is not possible, conciliation.
-(2) Every barrister or solicitor who—shall certify on the application that he has carried out his responsibilities under subsection (1).
-  (a) is acting for a spouse, civil union partner, or de facto partner; and
-  (b) applies to the court to have set down for hearing any matter in issue between the spouses, civil union partners, or de facto partners under this Act or the Care of Children Act 2004—
+[Repealed]
 
 **Counselling**
 
 ### 9 Requests for counselling
-(1) Either party to a marriage, civil union, or de facto relationship may request a Registrar of a Family Court to arrange counselling in respect of the marriage, civil union, or de facto relationship.
-(2) Where a request has been made to a Registrar of a Family Court under subsection (1), the Registrar shall, on the completion by the person making the request of the prescribed form, arrange for the matter to be referred to a counsellor.
-(3)
+[Repealed]
 
 ### 10 Counselling where proceedings commenced
-(1) On the filing of an application for a separation order, the Registrar shall arrange for the matter to be referred to a counsellor.
-(2) Subsection (1) shall not apply if—
-  (a) the Registrar is satisfied that, not more than 12 months before the date of the application, either—
-    (i) the applicant or the respondent has requested counselling in respect of the marriage or civil union under section 9; or
-    (ii) the applicant and the respondent have attended counselling before a counsellor without a request under section 9 having been made; or
-  (b) a Family Court Judge gives a direction that the matter be not referred under subsection (1) or that a reference made by the Registrar be revoked.
-(3) A direction may be given under subsection (2)(b) if the Family Court Judge is satisfied, on the application of the Registrar or of either party to the marriage or civil union, that—
-  (a) the respondent has used violence (within the meaning of section 3(2) of the Domestic Violence Act 1995) against the applicant or a child of the marriage or civil union; or
-  (b) delay in hearing the application for a separation order would be undesirable or unlikely to serve a useful purpose; or
-  (c) other reasonable cause exists to dispense with a reference to counselling.
-(4) On an application under section 67 for a maintenance order or on an application by a party to a marriage, civil union, or de facto relationship for an order under the Care of Children Act 2004 with respect to the role of providing day-to-day care for a child of the marriage, civil union, or de facto relationship, a Family Court Judge may, if he thinks it expedient to do so, and without limiting his power to make an interim maintenance order, direct the Registrar to arrange for the matter to be referred to a counsellor and, on receipt of a direction under this subsection, the Registrar shall refer the matter accordingly.
-(5) If, not less than 28 days after the date on which the Registrar has arranged for a matter to be referred to a counsellor under subsection (1) or subsection (4), either party to the marriage, civil union, or de facto relationship requests that the hearing should proceed, the hearing shall be commenced or resumed unless the court otherwise directs.
-(6) Nothing in subsection (5) shall prevent the commencement or resumption of the hearing before the expiration of the period of 28 days if the court, upon application made to it, so directs.
+[Repealed]
 
 ### 11 Reference to counsellor
-(1) A counsellor to whom a matter is referred under section 9 or section 10 shall—for the purposes of counselling.
-  (a) arrange to meet either or both of the spouses or civil union partners or de facto partners at such times and places (including the home of either party) as the counsellor thinks fit; or
-  (b) by letter sent by post request the either or both of the spouses or civil union partners or de facto partners to attend before the counsellor at a specified time and place—
-(2) As soon as reasonably practicable after the matter has been referred to the counsellor, the counsellor shall submit a written report to the Registrar stating—
-  (a) whether or not the parties wish to resume or continue the marriage, civil union, or de facto relationship; and
-  (b) if not, whether any understandings have been reached between them on matters in issue.
-(3) The Registrar shall give a copy of the report to each party or to each party's barrister or solicitor.
+[Repealed]
 
 ### 12 Duty on counsellors
-A counsellor to whom a matter is referred under section 9 or section 10—
-  (a) shall explore the possibility of reconciliation between the spouses, civil union partners, or de facto partners; and
-  (b) if reconciliation does not appear to be possible, shall attempt to promote conciliation between the spouses, civil union partners, or de facto partners.
+[Repealed]
 
 ### 12A Number of sessions of counselling
-The number of sessions of counselling to be carried out pursuant to section 9 or section 10 or section 19 shall be determined in accordance with such regulations as may be made under this Act or, if no regulations apply, by the Registrar or the court.
+[Repealed]
 
 ### 12B Counselling fees and expenses
-Fees in respect of counselling services carried out pursuant to section 9 or section 10 or section 19, and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under this Act; and
-  (b) are payable out of public money appropriated by Parliament for the purpose.
+[Repealed]
 
 **Mediation conferences**
 
 ### 13 Mediation conference
-(1) Where any of the following applications has been made in a Family Court, either party to the proceedings, or a Family Court Judge, may ask the Registrar of the court to arrange for a mediation conference to be convened:
-  (a) an application for a separation order:
-  (b) an application for a maintenance order:
-  (c) an application by one parent of a child against the other parent under section 48(1) of the Care of Children Act 2004 about the role of providing day-to-day care for the child, or about contact with the child.
-(2) On receiving a request under subsection (1), the Registrar must—
-  (a) appoint a time and place for the holding of a mediation conference in accordance with section 14; and
-  (b) by letters sent by post to each of the parties to the application, inform them of the time and place of the mediation conference and request them to attend.
-(3) The time appointed under subsection (2)(a) must be as soon as reasonably practicable.
+[Repealed]
 
 ### 14 Procedure at mediation conference
-(1) At each mediation conference a Family Court Judge shall be the chairperson.
-(2) The objectives of the conference shall be—
-  (a) to identify the matters in issue between the parties; and
-  (b) to try to obtain agreement between the parties on the resolution of those matters.
-(3) Any barrister or solicitor representing a party may, at the request of that party, be present at the conference to assist and advise that party.
-(4) Where the role of providing day-to-day care for, or contact with, a child is in issue at the conference, any barrister or solicitor appointed to represent the child may be present.
-(5) Subject to subsections (3) and (4), every mediation conference shall, unless the chairman otherwise directs, be held in private.
-(6) The chairperson may from time to time adjourn the conference to a time and place to be appointed by the chairperson.
-(7) The chairperson shall record in writing the matters in issue at the conference, showing separately—and the record shall be filed in the District Court in which the relevant proceedings are filed.
-  (a) those matters on which agreement is reached between the parties; and
-  (b) those matters on which no agreement is reached between the parties—
+[Repealed]
 
 ### 15 Power of chairperson to make consent orders
-(1) Subject to subsection (2), the chairperson presiding at a mediation conference may, by consent of the parties, make any orders that could have been made by a Family Court and that relate to an application by either party for—
-  (a) a separation order; or
-  (b) the role of providing day-to-day care for any child of the parties, whether or not the child is a child of the marriage, civil union, or de facto relationship, or contact with that child; or
-  (c) a maintenance order; or
-  (d) the possession or disposition of property under the Property (Relationships) Act 1976.
-(2) Where a party has no barrister or solicitor, or a party's barrister or solicitor is not present at the conference, a consent order shall not be made unless that party states expressly that that party does not wish the conference to be adjourned to provide an opportunity for legal advice to be taken.
-(3) An order made under this section shall for all purposes have the same effect as if it were made by the consent of the parties in proceedings before a Family Court.
+[Repealed]
 
 ### 16 Proceedings after mediation conference
-The Family Court Judge who presides over a mediation conference between the parties to an application shall be entitled to hear any subsequent proceedings between those parties under that application unless in all the circumstances he decides, on his own motion or on the application of any party,—
-  (a) that it would be inappropriate for him to do so; or
-  (b) that there is some other sufficient reason for the application to be heard by another Judge.
+[Repealed]
 
 ### 17 Power to require attendance for counselling or mediation
-(1) Where a person fails to comply with—a District Court Judge may, on the request of a counsellor or Registrar, issue a summons requiring the person to attend before the counsellor or to attend a mediation conference at a time and place to be specified in the summons.
-  (a) a request under section 11(1)(b) to attend before a counsellor; or
-  (b) a request under section 13(2)(b) to attend a mediation conference—
-(2) Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
+[Repealed]
 
 ### 18 Privilege
-(1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made—
-  (a) to a counsellor exercising his functions under this Part; or
-  (b) in the course of a mediation conference.
-(2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under section 14(7), or to any consent order made under section 15, or to any proceedings for the review of such an order.
-(3) Except to the extent that it is necessary for a counsellor to do so in the proper discharge of that counsellor's functions, every counsellor commits an offence and is liable on conviction to a fine not exceeding $500 who discloses to any other person any information, statement, or admission received by or made to the counsellor in the exercise of the counsellor's functions under this Part.
+[Repealed]
 
 ### 19 Duty of courts as to reconciliation and conciliation
-(1) In all proceedings under this Act between spouses or civil union partners (other than proceedings under section 27 or section 29 or section 32), and in all proceedings under the Care of Children Act 2004 between spouses, civil union partners, or de facto partners for any order about the role of providing day-to-day care for a child, or about contact with a child, the court shall—
-  (a) consider from time to time the possibility of a reconciliation between the spouses, civil union partners, or de facto partners, or of conciliation between them on any matter in issue; and
-  (b) take such further steps as in its opinion may assist in promoting reconciliation or, if reconciliation is not possible, conciliation.
-(2) In all proceedings under this Act between spouses, civil union partners, or de facto partners for the dissolution of their marriage or civil union, where it appears to the court from the nature of the case, the evidence, or the attitude of either or both of the spouses, civil union partners, or de facto partners, that there is a reasonable possibility of a reconciliation between them, or of conciliation between them on any matter in issue, the court may—
-  (a) adjourn the proceedings to afford the spouses, civil union partners, or de facto partners an opportunity for reconciliation, or for conciliation; and
-  (b) nominate a counsellor or, in special circumstances, any other suitable person, to explore the possibility of reconciliation or, if reconciliation does not appear to be possible, to attempt to promote conciliation.
-(3) Where, not less than 28 days after any proceedings have been adjourned under subsection (2), either spouse, civil union partner, or de facto partner so requests, the hearing shall, unless the court otherwise directs, be resumed.
-(4) Where the court considers that special circumstances exist, the court may, on the application of either spouse, civil union partner, or de facto partner, resume the hearing before the expiration of the period of 28 days mentioned in subsection (3).
+[Repealed]
 
 ### 19A Circumstances where joint counselling not to be required
-(1) Notwithstanding anything in this Part, a party to a marriage, civil union, or de facto relationship shall not be required, under any provision of this Part, to attend counselling at which the other party to the marriage, civil union, or de facto relationship is also present, in any case where the other party to the marriage, civil union, or de facto relationship has used violence (within the meaning of section 3(2) of the Domestic Violence Act 1995) against the first-mentioned party, or against a child of the marriage, civil union, or de facto relationship.
-(2) Nothing in this section prevents the provision of counselling in the circumstances referred to in subsection (1) with the agreement of the first-mentioned party.
+[Repealed]
 
 ## Part 3 — Separation
 
@@ -301,10 +213,10 @@ An application for an order declaring a marriage or civil union to be void ab in
 Every application under section 29 shall be heard and determined in a Family Court.
 
 ### 31 Grounds on which marriage or civil union void
-(1) A marriage or civil union that is governed by New Zealand law shall be void ab initio (whether or not an order has been made declaring the marriage or civil union to be void) only where—
-  (a) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to capacity to marry—
+(1) A marriage or civil union that is governed by New Zealand law shall be void ab initio (whether or not an order has been made declaring the marriage or civil union to be void) only where,—
+  (a) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to capacity to marry,—
     (i) at the time of the solemnisation of the marriage or civil union, either party was already married or in a civil union; or
-    (ii) by reason of duress, mistake, or insanity, or for any other reason, there was at the time of the marriage or civil union an absence of consent by either party to marriage or civil union to the other party; or
+    (ii) by reason of duress, mistake, or insanity, or for any other reason, there was at the time of the marriage or civil union an absence of consent by either party to marriage to or civil union with the other party; or
     (iii) the parties to the marriage are within the prohibited degrees of relationship set out in Schedule 2 of the Marriage Act 1955, and no order is in force under section 15(2) of that Act dispensing with the prohibition; or
     (iv) the parties to the civil union are within the prohibited degrees of civil union set out in Schedule 2 of the Civil Union Act 2004, and no order is in force under section 10 of that Act dispensing with the prohibition; or
   (b) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to the formalities of marriage or civil union, the parties knowingly and wilfully married without a marriage or civil union licence, or in the absence of a marriage or civil union celebrant or Registrar of Marriages, in contravention of the Marriage Act 1955; or
@@ -404,7 +316,7 @@ For the purposes of section 39, there shall be no presumption that the parties t
   (b) it is impracticable for the party or parties appearing before the court to make any such arrangement; or
   (c) there are special circumstances justifying the making of an order dissolving the marriage or civil union, notwithstanding that the court is not satisfied that any such arrangements have been made.
 (1A) A Registrar shall not make an order dissolving a marriage or civil union unless he or she is satisfied that arrangements have been made for the day-to-day care, maintenance, and other aspects of the welfare of every child of the marriage or civil union who is under the age of 16 years (or, in special circumstances, of or over that age) and those arrangements are satisfactory or are the best that can be devised in the circumstances.
-(2) A Family Court shall not make an order dissolving a marriage or civil union, in reliance on any special circumstances referred to in subsection (1)(c), unless it has obtained a satisfactory undertaking from either or both of the parties to the proceedings to bring before the court within a specified time the question of the arrangements for every child of the marriage or civil union.
+(2) A Family Court shall not make an order dissolving a marriage or civil union, in reliance on any special circumstances referred to in subsection (1)﻿(c), unless it has obtained a satisfactory undertaking from either or both of the parties to the proceedings to bring before the court within a specified time the question of the arrangements for every child of the marriage or civil union.
 (3) No order dissolving a marriage or civil union shall be invalid solely on the ground that—
   (a) any provision of subsections (1), (1A), and (2) has not been complied with; or
   (b) any information that is relevant for the purposes of those subsections has not been supplied to the court; or
@@ -458,7 +370,7 @@ An application for a paternity order in respect of a child (whether it is born, 
 (2) Nothing in subsection (1) or in sections 47, 48, 49, 51, or 52 shall limit the jurisdiction of the High Court to determine the paternity of a child under any other enactment or rule of law.
 
 ### 51 Paternity orders
-(1) On hearing an application for a paternity order made under section 47 in respect of a child, the Family Court,—
+(1) On hearing an application for a paternity order made under section 47 in respect of a child, the Family Court—
   (a) must, if it is satisfied that the respondent is the father of the child, make an order declaring that the respondent is the father of the child; and
   (b) may, if it is satisfied (either on its own initiative or on an application for the purpose by a party to the proceedings) that the respondent is not the father of the child, make an order declaring that the respondent is not the father of the child.
 (2) For the purposes of proceedings under section 74, a paternity order in respect of a child shall be conclusive evidence that the person against whom it is made is the father of the child.
@@ -473,12 +385,12 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 **Parentage tests in civil proceedings**
 
 ### 54 Parentage tests
-(1) In any civil proceedings (whether under this Act or not) in which the parentage of a child is in issue—
+(1) In any civil proceedings (whether under this Act or not) in which the parentage of a child is in issue,—
   (a) the court may, of its own motion or on the application of a party to the proceedings, recommend that parentage tests be carried out on—and that a report of the results be compiled, by a person who is qualified to compile such a report, and submitted to the court; and
     (i) the child; and
     (ii) any person who may be a natural parent of the child—
   (b) whether or not the court has made a recommendation under paragraph (a), the court may, of its own motion or on the application of a party to the proceedings, adjourn the proceedings in order to allow time for such parentage tests to be carried out and for such a report to be compiled and submitted to the court.
-(2) For the purposes of this section—
+(2) For the purposes of this section,—
   (a) parentage tests may be carried out by any person or persons who are qualified to do so, whether or not any of them is the person by whom the report is compiled; and
   (b) the consent of a minor who has attained the age of 16 years to submit to parentage tests shall have the same effect as the consent of a person of full age.
 
@@ -546,7 +458,7 @@ Without limiting or affecting the law relating to any other benefit, the liabili
     (i) it is reasonable in all the circumstances for that party to do; and
     (ii) is adequate to provide for that party:
   (f) the undertaking by a party of a reasonable period of education or training designed to increase that party's earning capacity or to reduce or eliminate that party's need for maintenance from the other party, where it would be unfair, in all the circumstances, for the reasonable needs of the party undertaking that education or training to be met immediately by that party—
-    (i) because of the effects of any of the matters set out in paragraphs (a)(i) and (b) on the potential earning capacity of that party; or
+    (i) because of the effects of any of the matters set out in paragraphs (a)﻿(i) and (b) on the potential earning capacity of that party; or
     (ii) because that party has previously maintained or contributed to the maintenance of the other party during a period of education or training.
 (3) Except as provided in this section, neither party to a marriage or civil union is liable to maintain the other party during the marriage or civil union.
 
@@ -560,9 +472,9 @@ Without limiting or affecting the law relating to any other benefit, the liabili
   (b) the responsibilities of each spouse, civil union partner, or de facto partner for the ongoing daily care of any minor or dependent children of the marriage or civil union or (as the case requires) any minor or dependent children of the de facto relationship after the dissolution of the marriage or civil union or (as the case requires) the de facto partners ceased to live together:
   (c) the standard of living of the spouses, civil union partners, or de facto partners while they lived together:
   (d) the undertaking by a spouse, civil union partner, or de facto partner of a reasonable period of education or training designed to increase the earning capacity of that spouse, civil union partner, or de facto partner or to reduce or eliminate the need of that spouse, civil union partner, or de facto partner for maintenance from the other spouse, civil union partner, or de facto partner if it would be unfair, in all the circumstances, for the reasonable needs of the spouse, civil union partner, or de facto partner undertaking that education or training to be met immediately by that spouse, civil union partner, or de facto partner—
-    (i) because of the effects of any of the matters set out in paragraphs (a)(i) and (b) on the potential earning capacity of that spouse, civil union partner, or de facto partner; or
+    (i) because of the effects of any of the matters set out in paragraphs (a)﻿(i) and (b) on the potential earning capacity of that spouse, civil union partner, or de facto partner; or
     (ii) because that spouse, civil union partner, or de facto partner has previously maintained or contributed to the maintenance of the other spouse, civil union partner, or de facto partner during a period of education or training.
-(3) For the purposes of subsection (2)(a)(i), if the marriage or civil union was immediately preceded by a de facto relationship between the spouses or civil union partners, the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
+(3) For the purposes of subsection (2)﻿(a)﻿(i), if the marriage or civil union was immediately preceded by a de facto relationship between the spouses or civil union partners, the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
 (4) Except as provided in this section and section 64A,—
   (a) neither party to a marriage or civil union is liable to maintain the other party after the dissolution of the marriage or civil union:
   (b) neither party to a de facto relationship is liable to maintain the other de facto partner after the de facto partners cease to live together.
@@ -583,8 +495,8 @@ Without limiting or affecting the law relating to any other benefit, the liabili
     (iii) the responsibilities of each spouse, civil union partner, or de facto partner for the ongoing daily care of any minor or dependent children of the marriage or civil union or (as the case requires) any minor or dependent children of the de facto relationship after the dissolution of the marriage or civil union or (as the case requires) after the de facto partners ceased to live together:
     (iv) any other relevant circumstances.
 (4) If the marriage or civil union was immediately preceded by a de facto relationship between the spouses or partners,—
-  (a) for the purposes of subsection (3)(b), the de facto relationship must be treated as if it were part of the marriage or civil union; and
-  (b) for the purposes of subsection (3)(c)(i), the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
+  (a) for the purposes of subsection (3)﻿(b), the de facto relationship must be treated as if it were part of the marriage or civil union; and
+  (b) for the purposes of subsection (3)﻿(c)﻿(i), the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
 
 ### 65 Assessment of maintenance payable to spouse, civil union partner, or de facto partner
 (1) This section sets out the matters that a court must have regard to in determining the amount payable,—
@@ -598,9 +510,9 @@ Without limiting or affecting the law relating to any other benefit, the liabili
   (c) the fact that the spouse, civil union partner, or de facto partner by whom maintenance is payable is supporting any other person:
   (d) the financial and other responsibilities of each spouse, civil union partner, or de facto partner:
   (e) any other circumstances that make one spouse, civil union partner, or de facto partner liable to maintain the other.
-(3) In considering the potential earning capacity of each spouse, civil union partner, or de facto partner under subsection (2)(a)(i), the court must have regard to the effects of the division of functions within the marriage or civil union or the de facto relationship while the spouses, civil union partners, or de facto partners were living together.
+(3) In considering the potential earning capacity of each spouse, civil union partner, or de facto partner under subsection (2)﻿(a)﻿(i), the court must have regard to the effects of the division of functions within the marriage or civil union or the de facto relationship while the spouses, civil union partners, or de facto partners were living together.
 (4) For the purposes of subsection (3), where the marriage or civil union was immediately preceded by a de facto relationship between the spouses or civil union partners, the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
-(5) In considering the reasonable needs of each spouse, civil union partner, or de facto partner under subsection (2)(b), the court may have regard to the standard of living of the spouses, civil union partners, or de facto partners while they were living together.
+(5) In considering the reasonable needs of each spouse, civil union partner, or de facto partner under subsection (2)﻿(b), the court may have regard to the standard of living of the spouses, civil union partners, or de facto partners while they were living together.
 
 ### 66 Relevance of conduct to maintenance of spouses, civil union partners, or de facto partners
 (1) The court may have regard to the matters set out in subsection (2) in considering,—
@@ -625,7 +537,7 @@ Every application under section 67 shall be heard and determined in a Family Cou
   (a) at a future date specified in the order; or
   (b) by instalments specified in the order; or
   (c) on such terms and conditions as the court specifies in the order.
-(3) Subject to any agreement by the parties to the contrary, an order made under subsection (1)(a) or (b), and every order made under section 99 varying or extending such an order, shall cease to have effect if the party in whose favour it is made marries or enters into a civil union.
+(3) Subject to any agreement by the parties to the contrary, an order made under subsection (1)﻿(a) or (b), and every order made under section 99 varying or extending such an order, shall cease to have effect if the party in whose favour it is made marries or enters into a civil union.
 
 ### 70 Order for maintenance after marriage or civil union dissolved or de facto relationship ends
 (1) A Family Court may make an order under subsection (2)—
@@ -646,7 +558,7 @@ Every application under section 67 shall be heard and determined in a Family Cou
   (a) in the case of an order made in favour of a party against a spouse or civil union partner to whom they were married, or with whom they were in a civil union, that party has married or entered into a civil union with someone else or has entered into a de facto relationship with someone else:
   (b) in the case of an order made in favour of a party against a de facto partner with whom they were living in a de facto relationship, that party has entered into a de facto relationship with someone else, or has married or entered into a civil union with someone else.
 (3) The orders referred to in subsection (2) are as follows:
-  (a) an order made under section 70, other than an order referred to in section 69(1)(c):
+  (a) an order made under section 70, other than an order referred to in section 69(1)﻿(c):
   (b) any order made under section 99 varying or extending an order to which paragraph (a) applies.
 (4) Subsection (2) is subject to any agreement by the parties to the contrary.
 
@@ -657,7 +569,7 @@ Every application under section 67 shall be heard and determined in a Family Cou
     (i) that there is a child of the de facto relationship; or
     (ii) that the de facto partner seeking the order has made a substantial contribution to the de facto relationship; and
   (b) the court is satisfied that failure to make the order would result in serious injustice to that de facto partner.
-(3) In subsection (2)(a)(ii), contribution has the same meaning as it has in section 2 of the Property (Relationships) Act 1976.
+(3) In subsection (2)﻿(a)﻿(ii), contribution has the same meaning as it has in section 2 of the Property (Relationships) Act 1976.
 
 ### 71 Time limit for applying for order against estate of deceased party
 (1) No order under section 70 shall be sought against the personal representative of a person after the expiration of 12 months from the date of the grant in New Zealand of administration of the deceased person's estate.
@@ -994,7 +906,7 @@ Where an order is registered in a District Court in New Zealand under section 13
 (6) Where the respondent appears at the hearing and it appears to the court to be necessary for the purpose of any defence to remit the case to the court that made the provisional order for the taking of any further evidence, the court of hearing may so remit the case, and may adjourn the proceedings for the purpose.
 (7) Where at the hearing (whether following an adjournment or otherwise) the respondent does not appear, or on appearing fails to satisfy the court that the order ought not to be confirmed, the court may confirm the order either without modification or with such modifications as it thinks just.
 (8) An order that has been confirmed with modifications shall for all the purposes of this Act have effect in the form in which it is confirmed.
-(9) The court confirming a maintenance order to which subsection (1)(a) applies may also, if it is satisfied that the respondent is of sufficient ability, at the same time order the respondent to pay, at such time or times and in such manner as the court thinks fit, any sum on account of the maintenance of the person or persons in whose favour the provisional order was made between the date of the making of that order and its confirmation.
+(9) The court confirming a maintenance order to which subsection (1)﻿(a) applies may also, if it is satisfied that the respondent is of sufficient ability, at the same time order the respondent to pay, at such time or times and in such manner as the court thinks fit, any sum on account of the maintenance of the person or persons in whose favour the provisional order was made between the date of the making of that order and its confirmation.
 (10) An order made under subsection (9) shall be a maintenance order for the purposes of this Act.
 
 ### 139 Confirmation of provisional orders affecting New Zealand maintenance orders
@@ -1034,7 +946,7 @@ Sections 173 and 174 shall apply to the confirmation of an order or the refusal 
   (d) an order remitting or suspending arrears due under a maintenance order for the purposes of New Zealand law:
   (e) an order varying or extending an order for the giving of security for the payment of maintenance (whether by altering the term of the order, or the nature of any security, or by increasing or diminishing the amount of any security, or otherwise):
   (f) an order discharging an order for the giving of security for the payment of maintenance.
-(1A) If the court makes an order referred to in subsection (1)(d),—
+(1A) If the court makes an order referred to in subsection (1)﻿(d),—
   (a) the remittance or suspension may be in respect of all or any part of the arrears; and
   (b) the remittance or suspension may be in respect of any maintenance order, whether or not it has ceased to be in force; and
   (c) any suspension may be on any terms and conditions that the court specifies.
@@ -1044,7 +956,7 @@ Sections 173 and 174 shall apply to the confirmation of an order or the refusal 
   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under section 215 of the Child Support Act 1991); and
   (b) under that agreement only a provisional order may be made.
 (2B) A provisional order has no effect unless and until it is confirmed by a competent court in the country in which the maintenance order was originally made.
-(2C) Where the court makes a provisional order under subsection (2), section 147(5) to (9) apply, except that the court must, instead of sending the statement referred to in section 147(6)(c), send a statement of the grounds on which the provisional order has been made.
+(2C) Where the court makes a provisional order under subsection (2), section 147(5) to (9) apply, except that the court must, instead of sending the statement referred to in section 147(6)﻿(c), send a statement of the grounds on which the provisional order has been made.
 (3) Where a person makes an application under subsection (1) in respect of a maintenance order registered in New Zealand, for a variation of the order under section 99, the application shall be dealt with as if the maintenance order had been made under this Act on the date when it was made outside New Zealand.
 (4) Where, on the hearing of an application under subsection (1), it appears to the court to be necessary to remit the case to the court that made the maintenance order for the purpose of taking any further evidence, the court may so remit the case and adjourn the proceedings for the purpose.
 (5) Where a maintenance order has been either registered or confirmed in New Zealand, and at any time thereafter the person in whose favour the order was made and the respondent are resident in New Zealand, a District Court may on the application of any person make an order under section 99 substituting a new order for the registered or confirmed order.
@@ -1079,7 +991,7 @@ In sections 142B to 142E, child maintenance order means a maintenance order that
 
 ### 142D Payment of arrears on child maintenance orders
 (1) All arrears due under a child maintenance order at the time when it is discharged or otherwise ceases to have effect are recoverable by the person to whom they are owing as if the order were still in force, unless and to the extent that the arrears are remitted by the court.
-(2) If a court remits or suspends, under this section or section 142B(1)(d), any arrears due under a child maintenance order,—
+(2) If a court remits or suspends, under this section or section 142B(1)﻿(d), any arrears due under a child maintenance order,—
   (a) the remittance or suspension may be in respect of all or any part of the arrears; and
   (b) the remittance or suspension may be in respect of any child maintenance order, whether or not it has ceased to be in force; and
   (c) any suspension may be on any terms and conditions that the court specifies.
@@ -1090,7 +1002,7 @@ In sections 142B to 142E, child maintenance order means a maintenance order that
   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under section 215 of the Child Support Act 1991); and
   (b) under that agreement only a provisional order may be made.
 (2) A provisional order has no effect unless and until it is confirmed by a competent court in the country in which the child maintenance order was originally made.
-(3) Subsections (5) to (9) of section 147 apply, except that the court must, instead of sending the statement referred to in subsection (6)(c), send a statement of the grounds on which the provisional order has been made.
+(3) Subsections (5) to (9) of section 147 apply, except that the court must, instead of sending the statement referred to in subsection (6)﻿(c), send a statement of the grounds on which the provisional order has been made.
 
 ### 142F Copies of orders to be forwarded to Commissioner
 If a court makes an order under any of sections 142 to 142E, the Registrar or other responsible officer of the court must, within 14 days after the date on which the order is made, send a certified or sealed copy of the order to the Commissioner of Inland Revenue.
@@ -1181,7 +1093,7 @@ Every application under section 145A(b) shall be heard and determined in a Famil
     (i) no natural or adoptive parent of the child is alive; or
     (ii) no natural or adoptive parent can be found who is capable of providing proper maintenance for the child; and
   (b) the child has at some time lived with the spouse or civil union partner of the child's parent as a member of that person's family.
-(3) An order made under subsection (1)(b) or subsection (1)(c) for the payment of a lump sum may provide that the sum shall be payable—
+(3) An order made under subsection (1)﻿(b) or subsection (1)﻿(c) for the payment of a lump sum may provide that the sum shall be payable—
   (a) at a future date specified in the order; or
   (b) by instalments specified in the order; or
   (c) on such terms and conditions as the court thinks fit.
@@ -1194,10 +1106,10 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 (10) No order made under this section and no extension of an order shall have effect in respect of a child after the child marries or enters into a civil union.
 
 ### 145H Contributions by other parent
-(1) Where an application is made under section 145E(a) against a parent of a child—
+(1) Where an application is made under section 145E(a) against a parent of a child,—
   (a) that parent may join another person as a respondent in the proceedings; or
   (b) the court may in any case direct that another parent be joined as a respondent in the proceedings.
-(2) Where, pursuant to an application made under section 145E(a), the court has made a maintenance order against a parent of a child, and another parent was not a respondent in those proceedings—
+(2) Where, pursuant to an application made under section 145E(a), the court has made a maintenance order against a parent of a child, and another parent was not a respondent in those proceedings,—
   (a) the parent against whom the order was made may apply to the court for an order requiring another parent to make a monetary contribution towards the maintenance of the child; and
   (b) on hearing the application, the court may order another parent to make such monetary contribution towards the maintenance of the child as the court thinks fit.
 
@@ -1219,8 +1131,8 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 (1) Where the Registrar of a District Court is unable to comply with the requirements as to service in section 145J(1), the Registrar shall—
   (a) send the documents received under section 145A to the Registrar of any other District Court which the Registrar has reason to believe is nearest to the place in New Zealand at which the respondent then resides; or
   (b) send the documents received under section 145A back to the Secretary together with a statement that the present whereabouts of the respondent are unknown.
-(2) Where a Registrar receives documents under subsection (1)(a), the provisions of subsection (1) and of sections 145A and 145J shall have effect accordingly.
-(3) Where the Secretary receives the documents and statement referred to in subsection (1)(b), the Secretary shall transmit the documents to the responsible authority in the Convention country with a statement that the present whereabouts of the respondent are unknown.
+(2) Where a Registrar receives documents under subsection (1)﻿(a), the provisions of subsection (1) and of sections 145A and 145J shall have effect accordingly.
+(3) Where the Secretary receives the documents and statement referred to in subsection (1)﻿(b), the Secretary shall transmit the documents to the responsible authority in the Convention country with a statement that the present whereabouts of the respondent are unknown.
 
 **Applications for child maintenance in respect of persons residing overseas**
 
@@ -1246,7 +1158,7 @@ Every application under section 145A(b) shall be heard and determined in a Famil
   (b) in the case of a maintenance order in respect of a party to a marriage or civil union, the order could have been made as a final order if notice of an application had been duly served on the respondent and he had failed to appear at the hearing.
 (4)
 (5) The evidence of every witness who is examined on any application under this section shall be put into writing, and the deposition shall be read over to and signed by the witness.
-(6) Where an order is made under this section, the court shall send to the Secretary, for transmission to the country in which the respondent resides—
+(6) Where an order is made under this section, the court shall send to the Secretary, for transmission to the country in which the respondent resides,—
   (a) the depositions so taken; and
   (b) a certified copy of the order; and
   (c) a statement of the grounds on which the making of the order might have been opposed if the respondent had been duly served with notice of the application and had appeared at the hearing; and
@@ -1272,7 +1184,7 @@ Every application under section 145A(b) shall be heard and determined in a Famil
 ### 149 Transmission of applications by New Zealand residents to Convention countries
 (1) Where a person in New Zealand—and that other person is for the time being subject to the jurisdiction of that Convention country, the first person may apply to the Secretary, in accordance with this section, to have the first person's claim for the recovery of maintenance from that other person transmitted to that Convention country.
   (a) claims to be entitled to recover in a Convention country maintenance from another person; or
-  (b) seeks to apply against another person for the variation, suspension, or discharge, of any order or other provision in force in a Convention country for the payment of maintenance—
+  (b) seeks to apply against another person for the variation, suspension, or discharge of any order or other provision in force in a Convention country for the payment of maintenance—
 (2) An application to the Secretary under subsection (1) shall be made through the Registrar of a District Court, who shall—
   (a) assist the applicant in completing an application that will comply with the requirements of the law and practice of the Convention country; and
   (b) send the application to the Secretary, together with such other documents (if any) as are required by that law and practice.
@@ -1307,19 +1219,19 @@ In any proceedings under or for the purposes of this Part, a certificate purport
 
 ### 155 Applications by agents
 (1) A person who may apply for a maintenance order under this Act may do so by an agent authorised in writing by that person.
-(2) If a person is incapable of authorising an agent under subsection (1) to make an application on that person's behalf—
+(2) If a person is incapable of authorising an agent under subsection (1) to make an application on that person's behalf,—
   (a) the manager of that person's estate under the Protection of Personal and Property Rights Act 1988 may make the application; or
   (b) where there is no such manager, the next friend of the person may make the application.
 
 ### 156 Service on disabled person
-(1) Where a person against whom an order is sought under this Act (other than an order under Part 4) is a person whose estate is being administered by Public Trust under the Protection of Personal and Property Rights Act 1988, or in respect of whose estate there is a manager appointed under the Protection of Personal and Property Rights Act 1988, notice of the application under this Act shall be served on Public Trust or the manager, as the case may be, instead of on the respondent, and Public Trust or manager shall then represent and act for the respondent, in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if the estate of the respondent were not being administered by Public Trust, or, as the case may be, there were no manager of that person's estate and that person had been duly served with notice of the application.
+(1) Where a person against whom an order is sought under this Act (other than an order under Part 4) is a person whose estate is being administered by Public Trust under the Protection of Personal and Property Rights Act 1988, or in respect of whose estate there is a manager appointed under the Protection of Personal and Property Rights Act 1988, notice of the application under this Act shall be served on Public Trust or the manager, as the case may be, instead of on the respondent, and Public Trust or the manager shall then represent and act for the respondent, in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if the estate of the respondent were not being administered by Public Trust, or, as the case may be, there were no manager of that person's estate and that person had been duly served with notice of the application.
 (2) All money payable under any order so made shall be paid by Public Trust or the manager, as the case may be, out of the estate of the respondent according to the tenor of the order, subject to all other debts and liabilities of the respondent so far as Public Trust or the manager, as the case may be, has notice of them.
 
 ### 157 Proceedings where respondent is absent from New Zealand or cannot be found
 (1) Where an application is made to a court under this Act (not being an application under section 47), and it is proved to the satisfaction of the court that the respondent is absent from New Zealand or cannot be found, the court may—
   (a) hear and determine the application in the same manner as if the respondent had been served with the appropriate notice of the proceedings; or
   (b) order any steps to be taken to bring the proceedings to the notice of the respondent, and from time to time amend any such order.
-(2) An order referred to in subsection (1)(b) may direct that notice of the proceedings be given by advertisement in any newspaper, or by the service of a notice on any solicitor or agent of the respondent or on any other person, or in any manner whatsoever.
+(2) An order referred to in subsection (1)﻿(b) may direct that notice of the proceedings be given by advertisement in any newspaper, or by the service of a notice on any solicitor or agent of the respondent or on any other person, or in any manner whatsoever.
 (3) Where an application is made under section 47 for a paternity order, and it is proved to the satisfaction of the court that the respondent is absent from New Zealand and that his whereabouts are known, the court may order that notice of the proceedings be served on the respondent.
 (4) Where an application is made under section 47 for a paternity order and it is proved to the satisfaction of the court that the respondent cannot be found, the court (whether the respondent is believed to be in New Zealand or elsewhere) may order any steps to be taken to bring the proceedings to the notice of the respondent, and may from time to time amend any such order.
 (5) An order referred to in subsection (4) may direct that notice of the proceedings be given by advertisement in any newspaper, or by the service of a notice on any solicitor or agent of the respondent or on any other person, or in any manner whatsoever.
@@ -1337,19 +1249,19 @@ A minor may bring and continue or defend any proceedings under this Act, and an 
   (ca) accredited news media reporters:
   (cb) persons whom the Judge permits to be present as support persons for a party on a request by that party:
   (d) any other person whom the Judge permits to be present.
-(3) The Judge must agree to a request under subsection (2)(cb) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(3) The Judge must agree to a request under subsection (2)﻿(cb) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
 (4) No support persons may help a party conduct his or her case.
 (5) If, during a hearing, the Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) a witness:
   (b) an accredited news media reporter:
-  (c) a support person whom the Judge permitted to be present under subsection (2)(cb).
+  (c) a support person whom the Judge permitted to be present under subsection (2)﻿(cb).
 (6) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (b) to permit a McKenzie friend to be present; or
   (c) to exclude any person from the court.
 
 ### 160 Applications may be heard together
-(1) An application under this Act may be joined with an application under the Care of Children Act 2004 or under the Property (Relationships) Act 1976, and, subject to any rules of procedure made under this Act or under the Family Courts Act 1980, it shall not be necessary to file separate applications.
+(1) An application under this Act may be joined with an application under the Property (Relationships) Act 1976, and, subject to any rules of procedure made under this Act or under the Family Courts Act 1980, it shall not be necessary to file separate applications.
 (2) A court may hear and determine any proceedings before it under this Act in conjunction with any other proceedings under this Act or under the Care of Children Act 2004 or under the Property (Relationships) Act 1976 in any case where—
   (a) all the proceedings are between the same parties; or
   (b) all the proceedings are in respect of members of the same family.
@@ -1358,30 +1270,67 @@ A minor may bring and continue or defend any proceedings under this Act, and an 
 ### 161 Intervention
 In any proceedings under Part 4, the Attorney-General shall, if the court so requests, appear and argue any question of law or of fact arising in the proceedings, and may file affidavits or lead evidence relating to the proceedings.
 
-### 162 Appointment of barrister or solicitor to assist court or represent children
-(1) In any proceedings under this Act (not being criminal proceedings) a court may, if the court is satisfied that it is necessary or desirable to do so, appoint a barrister or solicitor—
-  (a) to assist the court; or
-  (b) to represent any child who is the subject of or who is otherwise a party to the proceedings.
-(2) A barrister or solicitor appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
-(3) Fees for professional services provided by barristers or solicitors appointed under this section, and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under this Act; and
-  (b) are payable out of public money appropriated by Parliament for the purpose.
-(4) The bill of costs rendered by a barrister or solicitor appointed under this section shall be given to the Registrar of the court in which the proceedings were heard and the Registrar may tax the bill of costs.
-(5) If the barrister or solicitor is dissatisfied with the decision of the Registrar as to the amount of the bill of costs, that person may within 14 days after the date of the decision apply to a Family Court Judge to review the decision; and the Judge may thereupon make such order varying or confirming the decision as the Judge considers fair and reasonable.
-(6) Notwithstanding subsection (3), the court may, if it thinks proper, order any party to the proceedings to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+### 162 Appointment of lawyer to represent child in proceedings
+(1) In any proceedings under this Act (other than criminal proceedings), a court may appoint a lawyer to represent any child who is—
+  (a) the subject of the proceedings; or
+  (b) a party to the proceedings.
+(2) An appointment under subsection (1) may be made only if the court is satisfied that the appointment is necessary or desirable.
+
+### 162A Appointment of lawyer to assist court
+In any proceedings under this Act (other than criminal proceedings), a court may—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct the Registrar of the court to appoint a lawyer to assist the court.
+
+### 162B Fees and expenses of lawyer appointed under section 162 or 162A
+(1) The fees and expenses of a lawyer appointed under section 162 or 162A must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) An invoice rendered by a lawyer appointed under section 162 or 162A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+(4) Where in any proceedings a lawyer has been appointed under section 162 or 162A and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under section 162C, unless the court declines to do so in accordance with that section.
+(5) However, no order under section 162C may be made—
+  (a) against the Crown, whether acting through the department for the time being responsible for the administration of this Act or otherwise; or
+  (b) in respect of an appointment under section 162A, where a lawyer has been appointed under that section to provide to the court independent legal advice on any complex legal issue.
+
+### 162C Order requiring reimbursement of costs payments
+(1) An order referred to in section 162B(4) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown, under section 162B(1)﻿(b), in respect of the fees and expenses of a lawyer appointed under section 162 or 162A.
+(2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
+(3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
+(4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
+(5) In this section,—
+  - **dependent child,** in relation to a party, means a child whose day-to-day care is substantially the responsibility of the party
+  - **prescribed proportion** means the same proportion that is prescribed by regulations made under section 147 of the Care of Children Act 2004 for the purposes of section 135A of that Act
+  - **serious hardship** , in relation to a party or a dependent child of the party,—
+    (a) includes significant financial difficulties that arise because of—
+      (i) the party's inability to meet minimum living expenses according to normal community standards; or
+      (ii) the cost of medical treatment for an illness or injury of the party or a dependent child of the party; or
+      (iii) a serious illness suffered by the party or by a dependent child of the party; or
+      (iv) the cost of education for a dependent child of the party:
+    (b) does not include significant financial difficulties that arise because—
+      (i) the social activities and entertainment of the party or those of a dependent child of the party may be limited; or
+      (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
+
+### 162D Enforcement of orders made under section 162C
+(1) The amount that a party is ordered to reimburse under section 162C is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
+  (a) is to be added to the amount sought to be enforced; and
+  (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
+(3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
 
 ### 163 Vexatious proceedings
 (1) A District Court or Family Court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
 (2) A District Court or Family Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceedings under this Act, or no such proceedings of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
 
 ### 164 Evidence
-In any proceedings under this Act (other than criminal proceedings or proceedings under section 130), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+[Repealed]
 
 ### 165 Power of District Court or Family Court to call witnesses
 (1) In any proceedings before it under this Act (not being criminal proceedings) a District Court or Family Court may of its own motion call as a witness any person whose evidence may in its opinion be of assistance to the court.
 (2) The power conferred by subsection (1) shall include power to call as a witness any party to the proceedings or the spouse or civil union partner of any party to the proceedings.
 (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
-(4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or by any barrister or solicitor appointed to represent a child who is involved in the proceedings.
+(4) A witness called by the court under this section may be—
+  (a) examined and re-examined by the court, or by a lawyer appointed to assist the court; and
+  (b) cross-examined by or on behalf of any party to the proceedings.
 (5) Sections 159 and 161 to 165 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
 (6) The expenses of any witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, shall be paid in the first instance out of public money appropriated by Parliament.
 
@@ -1410,9 +1359,10 @@ In any proceedings before it under this Act (not being proceedings under Part 4)
 ### 171 Costs
 (1) Subject to any other provision in this Act, the court, on the hearing of any proceedings before it under this Act, may make such order as to costs as it thinks fit.
 (2) An order made by a District Court or Family Court under subsection (1) shall be enforceable in the same manner as money ordered to be paid by a maintenance order under this Act, and all the provisions of this Act as to recovery of such money shall apply.
+(3) This section is subject to section 162B.
 
 ### 172 Dismissal of application in District Court or Family Court no bar to further proceedings
-Neither the dismissal of an application under this Act by a District Court or a Family Court nor the refusal of a District Court or a Family Court to make an order under this Act, shall be a bar to the making of a further application in the same matter and against the same or any other respondent by the same or any other applicant.
+Neither the dismissal of an application under this Act by a District Court or a Family Court nor the refusal of a District Court or a Family Court to make an order under this Act shall be a bar to the making of a further application in the same matter and against the same or any other respondent by the same or any other applicant.
 
 ### 173 Rehearings
 (1) Where an order has been made or refused on an application under this Act (other than an application under Part 4), the court may, on the application of the applicant or respondent, grant a rehearing of the application on such conditions as it thinks fit.
@@ -1422,12 +1372,17 @@ Neither the dismissal of an application under this Act by a District Court or a 
 ## Part 10 — Appeals
 
 ### 174 Appeals from decisions of District Courts and Family Courts
-(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (other than criminal proceedings or proceedings under section 130), to—
+(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
   (a) make or refuse to make an order; or
   (b) dismiss the proceedings; or
   (c) otherwise finally determine the proceedings.
-(1) A party to proceedings in which there is made a decision to which subsection (1A) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
-(1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
+(1A) However, no appeal may be made to the High Court under subsection (1) in relation to—
+  (a) criminal proceedings; or
+  (b) a decision under—
+    (i) section 162 to appoint a lawyer to represent a child; or
+    (ii) section 162A to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court.
+(1B) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the District Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
 (3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by a Family Court or a Registrar in undefended proceedings, no appeal shall lie to the High Court against the order.
@@ -1521,12 +1476,12 @@ Neither the dismissal of an application under this Act by a District Court or a 
 
 ### 187 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) prescribing expenses to be paid to any person summoned under section 17, and prescribing by whom those expenses shall be paid:
+  (a)
   (b) prescribing the matters in respect of which fees are payable under this Act:
   (c) prescribing fees and expenses for the purposes of this Act:
-  (ca) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of counselling services carried out pursuant to section 9 or section 10 or section 19, which fees and expenses may differ according to the number of sessions of counselling determined to be carried out pursuant to section 12A and according to whether or not counselling services are to be provided in a specified number of proceedings during a specified period:
-  (cb) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by barristers and solicitors appointed under section 162, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
-  (cc) making provision for the determination of the number of sessions of counselling that may be carried out pursuant to section 9 or section 10 or section 19:
+  (ca)
+  (cb)
+  (cc)
   (d) prescribing parentage tests to be carried out for the purposes of sections 54 to 57:
   (e) prescribing the manner in which such parentage tests are to be carried out:
   (f) prescribing the form of reports on parentage tests:
@@ -1583,6 +1538,20 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) is of the kind that could have been made under this Act if this Act were then in force—
 (5) Notwithstanding subsection (4), no application may be made under section 99 for an order varying a maintenance order that has been made before the commencement of that section, unless a period of not less than 12 months has expired since the making of the order or since the last date before the commencement of section 99 on which the order was varied; but an application for a variation of that order may nevertheless be made before the expiration of that period of 12 months under section 47 of the Matrimonial Proceedings Act 1963 or under section 85 of the Domestic Proceedings Act 1968, as the case may require, as if those sections had not been repealed.
 (6) This Act shall apply to every maintenance agreement registered under the Domestic Proceedings Act 1968 at the commencement of section 83; and every agreement so registered shall, on the commencement of section 83, have effect as if it were registered under that section.
+
+### 193 Transitional provision for counselling or mediation arranged before commencement of Family Proceedings Amendment Act (No 2) 2013
+If any counselling or mediation has been arranged under Part 2 before the date of commencement of the Family Proceedings Amendment Act (No 2) 2013, but that counselling or mediation has not been commenced or completed by that date,—
+  (a) the counselling or mediation may be commenced or completed on or after the date of commencement of the Family Proceedings Amendment Act (No 2) 2013 as if the Family Proceedings Amendment Act (No 2) 2013 had not come into force; but
+  (b) the counselling or mediation may not be commenced or continued 4 months after the date of commencement of the Family Proceedings Amendment Act (No 2) 2013.
+
+### 194 Transitional provision for proceedings commenced before commencement of Family Proceedings Amendment Act (No 2) 2013
+(1) This section applies to proceedings under this Act that were commenced before the date of commencement of the Family Proceedings Amendment Act (No 2) 2013 but were not by that date completed (a pending proceeding).
+(2) The following provisions do not apply to a pending proceeding:
+  (a) section 162A:
+  (b) section 162B:
+  (c) section 162C:
+  (d) section 162D.
+(3) Section 162, as in force immediately before the date of commencement of the Family Proceedings Amendment Act (No 2) 2013, continues to apply to a pending proceeding with any necessary modifications as if the Family Proceedings Amendment Act (No 2) 2013 had not come into force.
 
 ## Schedule 1 — Enactments amended
 
