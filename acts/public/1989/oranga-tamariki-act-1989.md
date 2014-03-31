@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-03-31_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -1224,7 +1224,7 @@ The court may order that the whole or any part of a plan given to any person pur
 The provisions of sections 132 and 133 shall apply, with such modifications as may be necessary, with respect to every report, and every revised plan, furnished to the court pursuant to section 135.
 
 ### 137 Court to consider report and make directions
-(1) Where a report is furnished to the court pursuant to section 135 in respect of the review of any plan prepared in relation to any child or young person, the court shall consider the report and the accompanying revised plan, and, after giving such persons (if any) as it thinks fit an opportunity to be heard, may do any 1 or more of the following things:
+(1) Where a report is furnished to the court pursuant to section 135 in respect of the review of any plan prepared in relation to any child or young person, the court shall consider the report and the accompanying revised plan, and may do any 1 or more of the following things:
   (a) in relation to any order that is in force under this Part and that relates to that child or young person,—
     (i) make any order under section 127 as if an application had been made under section 125 in relation to that order; or
     (ii) direct any person to make an application under section 125 in relation to that order:
@@ -1236,6 +1236,7 @@ The provisions of sections 132 and 133 shall apply, with such modifications as m
     (iii) the revised plan accompanying that report:
   (e) where the court considers that the report furnished under section 135, or the revised plan, or both, are inadequate, direct the person who prepared the report to furnish to the court a further report, or a further revised plan, or both, and may indicate any specific matter that it requires to be dealt with in that report or plan:
   (f) make any order that it is empowered to make under section 178 or section 181 or section 186 or section 187 in relation to the hearing of an application for a declaration under section 67, and the provisions of those sections, of sections 179, 180, 182, 183, 184, and 185, and of sections 188 to 194 shall apply with such modifications as may be necessary with respect to every report required to be furnished to the court under this paragraph.
+(1A) When considering the report and revised plan, the court may, but need not, give to any person the opportunity to be heard.
 (2) The provisions of section 199 shall apply with respect to any person required to appear before the court pursuant to subsection (1)(d) as if that person had been called by the court as a witness.
 (3) The court shall not make any order under paragraph (a)(i) or paragraph (b) of subsection (1) unless—
   (a) the report furnished to the court under section 135 recommends that the order be made, and the court is satisfied that every person to whom a copy of that report is required to be given agrees with that recommendation; or
@@ -1394,33 +1395,38 @@ The court may hear and determine an application for a declaration under section 
 
 **Appointment of persons to represent child or young person or assist court**
 
-### 159 Appointment of barrister or solicitor to represent child or young person
-(1) Where a child or young person who is the subject of any proceedings under Part 2 or Part 3A is not represented by a barrister or solicitor, the court or the Registrar of the court must appoint a barrister or solicitor to represent the child or young person—
+### 159 Appointment of lawyer to represent child or young person in proceedings
+(1) Where a child or young person who is the subject of any proceedings under Part 2 or Part 3A is not represented by a lawyer, the court or the Registrar of the court must appoint a lawyer to represent the child or young person—
   (a) in those proceedings:
   (b) for any other specified purpose (including in relation to other proceedings under this Act or any other Act) considered desirable.
-(2) Where a court or a Registrar appoints a barrister or solicitor under subsection (1), the court or the Registrar (as the case may be) must, so far as practicable, appoint a barrister or solicitor who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the child or young person.
-(3) Although the proceedings in respect of which any barrister or solicitor was appointed under subsection (1)(a) have been disposed of, or that the appointment is no longer required for any other purpose specified under subsection (1)(b), the court may, if it is satisfied that it is necessary or desirable in the interests of the child or young person to do so,—
-  (a) extend the barrister’s or solicitor’s appointment for any specified purpose; or
-  (b) subject to subsection (2), appoint any other barrister or solicitor to represent the child or young person for any specified purpose; or
+(2) Where a court or a Registrar appoints a lawyer under subsection (1), the court or the Registrar (as the case may be) must, so far as practicable, appoint a lawyer who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the child or young person.
+(3) Although the proceedings in respect of which any lawyer was appointed under subsection (1)(a) have been disposed of, or that the appointment is no longer required for any other purpose specified under subsection (1)(b), the court may, if it is satisfied that it is necessary or desirable in the interests of the child or young person to do so,—
+  (a) extend the lawyer’s appointment for any specified purpose; or
+  (b) subject to subsection (2), appoint any other lawyer to represent the child or young person for any specified purpose; or
   (c) direct the Registrar of the court to do either of these things.
 
-### 160 Appointment of barrister or solicitor to assist court
-In any proceedings in a Family Court under Part 2 or Part 3A the court may appoint, or direct the Registrar of the court to appoint, a barrister or solicitor to assist the court.
+### 160 Appointment of lawyer to assist court
+In any proceedings in a Family Court under Part 2 or 3A, the court may—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct the Registrar of the court to appoint a lawyer to assist the court.
 
-### 161 Further provisions relating to barrister or solicitor appointed under section 159 or section 160
-A barrister or solicitor appointed under section 159 or section 160 in respect of any proceedings—
-  (a) shall be served with all documents required to be served on the parties to the proceedings; and
+### 161 Further provisions relating to appointment under section 159 or 160
+(1) A lawyer appointed under section 159—
+  (a) must be served with all documents required to be served on the parties to the proceedings; and
   (b) may—
-    (i) call any person as a witness in the proceedings:
-    (ii) cross-examine witnesses called by any party to the proceedings or by the court:
-    (iii) request the court to obtain any report that the court is empowered to obtain for the purposes of the proceedings:
-    (iv) in the case of a barrister or solicitor appointed under section 159 to represent a child or young person, act on behalf of the child or young person in respect of any matter relating to the detention of that child or young person in secure care, or the care of that child or young person in a residence.
+    (i) request the court to obtain any report that the court is empowered to obtain for the purposes of the proceedings:
+    (ii) act on behalf of the child or young person in respect of any matter relating to the detention of that child or young person in secure care, or the care of that child or young person in a residence.
+(2) A lawyer appointed under section 160—
+  (a) must be served with all documents required to be served on the parties to the proceedings; and
+  (b) may request the court to obtain any report that the court is empowered to obtain for the purposes of the proceedings.
 
-### 162 Payment of barrister or solicitor appointed under section 159 or section 160
-(1) The fees and expenses of any barrister or solicitor appointed under section 159 or section 160 shall, in accordance with regulations made under this Act, be paid out of a Crown Bank Account from money appropriated by Parliament for the purpose.
-(2) The bill of costs rendered by a barrister or solicitor appointed under section 159 or section 160 shall be given to the Registrar of the court that made the appointment, and the Registrar may tax the bill of costs.
-(3) A barrister or solicitor who is dissatisfied with the decision of the Registrar as to the amount of the bill may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
-(4) Notwithstanding subsection (1), the court may, if it thinks proper, order any party to the proceedings to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and shall be recoverable accordingly in any court of competent jurisdiction.
+### 162 Payment of lawyer appointed under section 159 or 160
+(1) The fees and expenses of any lawyer appointed under section 159 or 160 must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(2) An invoice rendered by a lawyer appointed under section 159 or 160 for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+(4) Where the fees and expenses of a lawyer appointed under section 159 or 160 have been paid under subsection (1)(b), the court may, if it thinks it is appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 ### 163 Appointment of lay advocate
 (1) The court may, at any stage of any proceedings under Part 2 or Part 3A, on application by any party to the proceedings or of its own motion, appoint, in respect of the child or young person who is the subject of those proceedings, any person, not being a barrister or solicitor, to appear in support of that child or young person in those proceedings and, if the court thinks desirable, for such other purposes (including any other proceedings under this Act or any other enactment) as the court may specify.
@@ -1675,7 +1681,7 @@ The court may if it thinks fit call as a witness the person making any report to
 **Miscellaneous provisions**
 
 ### 195 Evidence
-Subject to sections 65 and 198, in any proceedings under Part 2 or Part 3A the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+[Repealed]
 
 ### 196 Special provisions applying to disclosure of communications to medical practitioner or clinical psychologist
 (1) A barrister or solicitor appointed pursuant to section 159 to represent a child in any proceedings under Part 2 or Part 3A may, for the purposes of section 32 of the Evidence Amendment Act (No 2) 1980, consent to the disclosure by a registered medical practitioner or a clinical psychologist in any such proceedings of any protected communication made to that registered medical practitioner or clinical psychologist by that child, and any consent so given shall be deemed to be the consent of the child given under that section.
@@ -1735,6 +1741,35 @@ In any proceedings under Part 2 or Part 3A, the court may make such order as to 
 ### 206 Offence to take child or young person out of New Zealand where proceedings pending
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who, without the leave of the court, takes or attempts to take any child or young person out of New Zealand knowing that an application for a declaration under section 67, or for an order under section 207K or section 207Q, in respect of that child or young person is about to be made or that a determination of any such application is pending.
 (2) No proceedings for contempt of court shall be taken against any person in respect of any act to which this section applies.
+
+### 206A Leave required in certain cases to commence substantially similar proceedings
+(1) A proceeding (a new proceeding) may not be commenced under Part 2 without the leave of the court if that new proceeding—
+  (a) is substantially similar to a proceeding previously filed in a Family Court by any person (a previous proceeding); and
+  (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
+(2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
+  (a) any party to the previous proceeding:
+  (b) any child or young person who was the subject of the previous proceeding.
+(3) In this section, a new proceeding is substantially similar to a previous proceeding if—
+  (a) the party commencing the new proceeding was a party to the previous proceeding; and
+  (b) a child who is the subject of the new proceeding was the subject of the previous proceeding; and
+  (c) the new proceeding—
+    (i) is commenced under the same provision of this Act as the previous proceeding; or
+    (ii) is for an order varying the order made in the previous proceeding; or
+    (iii) is for an order discharging the order made in the previous proceeding.
+(4) This section does not apply if—
+  (a) every party to the new proceeding consents to its commencement; or
+  (b) the new proceeding is commenced by—
+    (i) the chief executive; or
+    (ii) a social worker; or
+    (iii) an iwi social service; or
+    (iv) a cultural social service; or
+    (v) the director of a child and family support service; or
+    (vi) a constable.
+
+### 206B Power to dismiss proceedings
+The court may dismiss proceedings before it under Part 2 if it is satisfied—
+  (a) that the proceedings relate to a specified child and that the continuation of the proceedings is, in the particular circumstances, clearly contrary to the welfare and best interests of the child; or
+  (b) that the proceedings are frivolous or vexatious or an abuse of the procedure of the court.
 
 ### 207 Vexatious proceedings
 (1) The court may dismiss any proceedings before it under Part 2 if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
@@ -3681,7 +3716,7 @@ Any parent or guardian or other person having the care of a young person may app
   (ad) an intensive supervision order made under section 296G in respect of that young person:
   (b) any order made under section 283(e) requiring that parent or guardian to pay a sum towards the cost of the prosecution:
   (c) any order made under section 283(f) requiring that parent or guardian to make reparation to any person:
-  (d) any order made under section 283(g) requiring that parent or guardian to make restitution.
+  (d) any order made under section 283(g) requiring that parent or guardian to make restitution:
   (e) an order made under section 283(ja) requiring that parent or guardian or other person having the care of that young person to attend a parenting education programme.
 
 ### 353 Appeal by persons other than young person dealt with in Youth Court
@@ -4562,7 +4597,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (v) prescribing procedures by which a child or young person may lay a complaint in relation to an inspection of mail or a search, and how the complaint is to be dealt with:
   (d) providing for the administration, management, and control of any centre that is established to provide for the part-time care, training, or occupation of children or young persons:
   (e) prescribing the amounts payable to—
-    (i) any barrister or solicitor appointed under section 159 or section 160:
+    (i)
     (ii) any lay advocate appointed under section 163 or section 326:
     (iii) any youth advocate appointed under section 323:
   (f) prescribing forms of applications, licences, notices, or other documents for the purposes of this Act, or authorising the chief executive to prescribe or approve forms, and requiring the use of such forms:
