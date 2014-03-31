@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2014-03-31_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -199,7 +199,7 @@ In any case where a District Court has refused to make an interim order or an ad
   provided that,—
     (a) for the purposes of any appointment, affiliation order, maintenance order, or agreement to which paragraph (h) or paragraph (i) of subsection (2) applies, the adoption order, if made before the commencement of this Act, shall be deemed to have been made on the date of the commencement of this Act:
     (b) for the purposes of any other deed or instrument (except a will) made before the commencement of this Act, or of the will or intestacy of any testator or intestate who died before the commencement of this Act, or of any vested or contingent right of the adopted child or any other person under any such deed, instrument, will, or intestacy, this section shall not apply, and the adoption order shall have effect for the purposes of the deed, instrument, will, or intestacy according to the law existing at the date on which the deed, instrument, will, or intestacy took effect:
-    (c) an adoption order made before 1 April 1954, shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
+    (c) an adoption order made before 1 April 1954 shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
 (4) Subsection (2)(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992.
 (5) The first proviso to subsection (2)(a) applies subject to section 6(2) of the Child Support Act 1991.
 (6) The first proviso to subsection (2)(i) applies subject to section 25(1)(b)(iii) of the Child Support Act 1991.
@@ -303,7 +303,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
   (b) may not consider information relating to any party to the adoption or application that was obtained by the department before the application was made.
 
 ### 24 Evidence in adoption cases
-The court to which any application is made under this Act may receive as evidence any statement, document, information, or matter that may in its opinion assist it to deal effectually with the application, whether or not the same would be otherwise admissible in a court of law.
+[Repealed]
 
 ### 25 Prohibition of payments in consideration of adoption
 (1) Except with the consent of the court, it shall not be lawful for any person to give or receive or agree to give or receive any payment or reward in consideration of the adoption or proposed adoption of a child or in consideration of the making of arrangements for an adoption or proposed adoption:
@@ -326,7 +326,7 @@ The court to which any application is made under this Act may receive as evidenc
   (b) that functions have been delegated to that body under Part 1 of that Act.
 
 ### 27 Offences
-(1) Every person commits an offence against this section who,—
+(1) Every person commits an offence against this section who—
   (a) places or receives or keeps any child in the home of any person for the purpose of adoption in contravention of section 6:
   (b) takes out of New Zealand without leave of the court any child in respect of whom an interim order is in force:
   (c) being a person in whose favour an interim order has been made, fails to give any notice of change of residence required by paragraph (d) of subsection (2) of section 15:
