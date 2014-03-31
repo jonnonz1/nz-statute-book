@@ -1,5 +1,5 @@
 # Family Courts Amendment Act 2008
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2014-03-31_
 
 ### 1 Title
 This Act is the Family Courts Amendment Act 2008.
@@ -12,35 +12,10 @@ This Act is the Family Courts Amendment Act 2008.
 This Act amends the Family Courts Act 1980.
 
 ### 4 New sections 7A and 7B inserted
-The following sections are inserted after section 7:Appointment of Senior Family Court RegistrarsJurisdiction and powers of Senior Family Court Registrars
-  (1) Senior Family Court Registrars may be appointed under the State Sector Act 1988.
-  (2) No person may be appointed a Senior Family Court Registrar unless he or she is by reason of training, experience, and personality a suitable person to hold office as a Senior Family Court Registrar.
-  (3) Where any regulations are in force prescribing the qualifications required to be held by persons appointed as Senior Family Court Registrars, no person may be appointed as a Senior Family Court Registrar who does not hold those qualifications.
-  (4) If the chief executive of the department of State responsible for the administration of this Act is satisfied that it is compatible with the office of Senior Family Court Registrar, a Senior Family Court Registrar may also—
-    (a) practise as a barrister or solicitor; or
-    (b) undertake paid employment; or
-    (c) hold another office (whether paid or not).
-  (5) A Senior Family Court Registrar may exercise the jurisdiction and powers of a Senior Family Court Registrar in relation to more than 1 Family Court.
-  (6) A Senior Family Court Registrar may be appointed on a part-time or full-time basis.
-  (1) The Governor-General may by Order in Council make regulations specifying the kinds of orders that a Senior Family Court Registrar may make in a Family Court proceeding, and the kinds of directions that a Senior Family Court Registrar may give in a Family Court proceeding, in relation to any of the following matters:
-    (a) interlocutory matters:
-    (b) applications made without notice:
-    (c) pre-hearing conferences:
-    (d) uncontested applications:
-    (e) applications for leave:
-    (f) matters that are consented to by all the parties:
-    (g) confirmation of orders made overseas:
-    (h) the holding of inquiries:
-    (i) the enforcement of orders and directions.
-  (2) A Senior Family Court Registrar has and may exercise the powers of a Registrar under the Family Courts Rules 2002 and any other powers conferred on a Registrar under any other enactment.
-  (3) An order made or direction given by a Senior Family Court Registrar has the same effect and is enforceable in the same manner as if made or given by a Family Court Judge, or a Registrar, as the case may be.
-  (4) Any party to any proceedings who is affected by any order made or direction given by a Senior Family Court Registrar may apply to a Family Court Judge to review that order or direction, and where a party so applies the Family Court Judge may confirm, vary, or rescind the Senior Family Court Registrar's order or direction.
+[Repealed]
 
 ### 5 Counselling supervisors, counsellors, and other officers
-(1) The heading to section 8 is amended by inserting mediators, after counsellors,.
-(2) Section 8(1) is amended by inserting , mediation, after counselling.
-(3) Section 8(2) is amended by inserting mediators, after counsellors,.
-(4) Section 8(3) is amended by inserting mediator, after counsellor,.
+[Repealed]
 
 ### 6 Avoidance of unnecessary formality
 Section 10 is amended by repealing subsection (2) and substituting the following subsections:
