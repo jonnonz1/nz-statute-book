@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Amendment Act 2013
-_Consolidation as at 2013-09-24_
+_Consolidation as at 2014-03-31_
 
 ### 1 Title
 This Act is the Children, Young Persons, and Their Families Amendment Act 2013.
@@ -18,7 +18,7 @@ This Act amends the Children, Young Persons, and Their Families Act 1989 (the pr
 ### 5 Section 159 amended (Appointment of barrister or solicitor to represent child or young person)
 (1) Replace the heading to section 159 with Appointment of lawyer to represent child or young person in proceedings.
 (2) In section 159, replace barrister or solicitor with lawyer in each place.
-(3) In section 159(3)(a), replace barrister's or solicitor's with lawyer's.
+(3) In section 159(3)﻿(a), replace barrister's or solicitor's with lawyer's.
 
 ### 6 Sections 160 and 161 replaced
 Replace sections 160 and 161 with:Appointment of lawyer to assist courtFurther provisions relating to appointment under section 159 or 160
@@ -41,7 +41,7 @@ Replace section 162 with:Payment of lawyer appointed under section 159 or 160
     (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
   (2) An invoice rendered by a lawyer appointed under section 159 or 160 for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
   (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
-  (4) Where the fees and expenses of a lawyer appointed under section 159 or 160 have been paid under subsection (1)(b), the court may, if it thinks it is appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+  (4) Where the fees and expenses of a lawyer appointed under section 159 or 160 have been paid under subsection (1)﻿(b), the court may, if it thinks it is appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 ### 8 New sections 206A and 206B inserted
 After section 206, insert:Leave required in certain cases to commence substantially similar proceedingsPower to dismiss proceedings
@@ -72,4 +72,4 @@ After section 206, insert:Leave required in certain cases to commence substantia
     (b) that the proceedings are frivolous or vexatious or an abuse of the procedure of the court.
 
 ### 9 Section 447 amended (Regulations)
-Repeal section 447(e)(i).
+Repeal section 447(e)﻿(i).
