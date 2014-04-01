@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2014-02-15_
+_Consolidation as at 2014-04-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -433,10 +433,10 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (2) Regional councils have all the powers of territorial authorities set out in section 14.
 
 ### 14 Powers of territorial authorities
-Every territorial authority has power to—
-  (a) take any action any natural person could take under Part 5:
-  (b) act as a management agency under a pest management plan or a pathway management plan:
-  (c) take any action provided for or required by a pest management plan or a pathway management plan:
+Every territorial authority has power—
+  (a) to take any action any natural person could take under Part 5:
+  (b) to act as a management agency under a pest management plan or a pathway management plan:
+  (c) to take any action provided for or required by a pest management plan or a pathway management plan:
   (d) if, and only if,—to take those actions:
     (i) a pest management plan or a pathway management plan provides for certain actions to be taken; but does not expressly provide for them to be taken by territorial authorities, territorial authorities of a class or description to which the authority belongs, or the authority; and
     (ii) the management agency for the plan agrees with the authority that the authority will take those actions and the agency will meet the authority's costs in doing so,—
@@ -445,9 +445,9 @@ Every territorial authority has power to—
     (ii) territorial authorities of a class or description to which the authority belongs; or
     (iii) the authority,—
   (db) to set and assess rates under the Local Government (Rating) Act 2002 for the purpose of making any contributions that the authority is empowered by paragraph (da) to make:
-  (e) gather information, keep records, undertake research, or do any other similar thing, if doing so is necessary or desirable to enable it to act effectively under this Act:
-  (f) perform or exercise any function, power, or duty whose performance or exercise is for the time being transferred to it under section 15:
-  (g) perform or exercise any other function, power, or duty conferred on it by this Act.
+  (e) to gather information, keep records, undertake research, or do any other similar thing, if doing so is necessary or desirable to enable it to act effectively under this Act:
+  (f) to perform or exercise any function, power, or duty whose performance or exercise is for the time being transferred to it under section 15:
+  (g) to perform or exercise any other function, power, or duty conferred on it by this Act.
 
 ### 15 Transfer of powers, etc, by local authorities
 (1) Subject to subsections (2) and (3), a local authority that has an operation under this Act (in this section referred to as the transferor) may transfer the performance of the operation to another local authority (in this section referred to as the transferee), if—by (and subject to any terms and conditions contained in) a written agreement with the transferee.
@@ -969,7 +969,7 @@ Section 28 does not apply to organisms approved under the following sections of 
   (c) take any specified action on or in respect of the craft.
 (2) Before exercising a power conferred by subsection (1), the person who proposes to exercise the power shall consult the chief executives of—
   (a) the New Zealand Customs Service; and
-  (b) the Ministry of Agriculture and Forestry.
+  (b) the Ministry for Primary Industries.
 
 ### 33 Risk goods on board craft
 (1) Where there are any risk goods on board or attached to the outside of a craft that has entered New Zealand territory from outside New Zealand territory, an inspector may direct the master or other person in charge of the craft to take (as the master or person thinks fit) one of the following steps:
@@ -2720,12 +2720,7 @@ A management agency must not spend funds to meet the costs of implementing a pla
   (f) the extent to which the accounts, statements, and records kept are properly kept.
 (4) If an arbitrator has been appointed to resolve a dispute, the Minister may appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
 (5) The purpose of the audit is to ascertain the matters of fact that are in dispute, to the extent to which it is practicable to ascertain them, and report them to the arbitrator, the persons involved, and the Minister.
-(6) A person is qualified for appointment as an auditor only if the person is—
-  (a) a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or
-  (b) a member, fellow, or associate of an association of accountants that is—
-    (i) constituted in a Commonwealth country outside New Zealand; and
-    (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the Companies Act 1993; and
-    (iii) named as approved under subparagraph (ii) in a notice published in the Gazette and current at the time of the appointment.
+(6) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (7) No officer or employee of any of the following may be appointed an auditor:
   (a) the management agency:
   (b) a person responsible for collecting the levy:
@@ -3023,12 +3018,7 @@ The purpose of this Part is to provide a framework that enables the government a
   (f) the extent to which the accounts, statements, and records kept are properly kept.
 (4) If an arbitrator has been appointed to resolve a dispute, the Minister may appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
 (5) The purpose of the audit is to ascertain the matters of fact that are in dispute, to the extent to which it is practicable to ascertain them, and report them to the arbitrator, the persons involved, and the Minister.
-(6) A person is qualified for appointment as an auditor only if the person is—
-  (a) a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or
-  (b) a member, fellow, or associate of an association of accountants that is—
-    (i) constituted in a Commonwealth country outside New Zealand; and
-    (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the Companies Act 1993; and
-    (iii) named as approved under subparagraph (ii) in a notice published in the Gazette and current at the time of the appointment.
+(6) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (7) No officer or employee of any of the following may be appointed an auditor:
   (a) the payee:
   (b) a person responsible for collecting the levy:
@@ -3725,7 +3715,7 @@ For the purpose of ascertaining whether or not an order under section 137 is bei
   (a) some or all of the persons responsible for collecting the levy:
   (b) some or all of the persons responsible for paying the levy.
 (2) While an order under section 137 is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
-(3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993, by notice published in the Gazette.
+(3) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (4) No officer or employee of any of the following persons or organisations may be appointed an auditor:
   (a) the Director-General:
   (b) any person responsible for collecting the levy under the order concerned:
@@ -4264,7 +4254,7 @@ An appeal under section 154E or 154F has the following effects:
 
 ### 154H Pecuniary penalty order
 (1) The Director-General may apply to the High Court for an order that a person pay the Crown a pecuniary penalty under this Act.
-(2) The Court may make the order if it is satisfied that the person failed to comply with—
+(2) The court may make the order if it is satisfied that the person failed to comply with—
   (a) section 16A:
   (b) section 16B:
   (c) section 16C:
@@ -4285,7 +4275,7 @@ An appeal under section 154E or 154F has the following effects:
   (r) any of the following requirements, if the requirement has been prescribed by regulations as a requirement for which a contravention gives rise to civil liability:
     (i) a requirement in regulations:
     (ii) a requirement in a rule.
-(3) The Court must not make the order if the person satisfies the Court—
+(3) The court must not make the order if the person satisfies the Court—
   (a) that the failure was necessary for the purpose of—
     (i) saving or protecting life or health, preventing serious damage to property, or avoiding an actual or likely adverse effect on human health or a natural and physical resource; and
     (ii) the person's conduct was reasonable in all the circumstances; and
@@ -4297,7 +4287,7 @@ An appeal under section 154E or 154F has the following effects:
     (iv) the person took steps that were reasonable in all the circumstances to mitigate or remedy the effects of the failure after the event occurred; or
   (c) that the person did not know, and could not reasonably have known, of the failure.
 (4) The standard of proof in proceedings under this section is the standard of proof that applies in civil proceedings.
-(5) The Director-General may apply for an order of the Court to obtain discovery and administer interrogatories.
+(5) The Director-General may apply for an order of the court to obtain discovery and administer interrogatories.
 
 ### 154I Liability of principals and employers
 (1) Subsections (2) and (3) apply if the person who is liable under section 154H(2) was acting as the agent or employee of another person at the time of the non-compliance.
@@ -4310,23 +4300,23 @@ An appeal under section 154E or 154F has the following effects:
   (b) that the director or person knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
 
 ### 154J Amount
-(1) In determining the appropriate amount of a pecuniary penalty under section 154H, the Court must have regard to all relevant matters, including—
+(1) In determining the appropriate amount of a pecuniary penalty under section 154H, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the contravention:
   (b) the nature and extent of loss or damage caused to a person, human health, or a natural and physical resource as a result of the contravention:
   (c) the circumstances in which the contravention took place:
   (d) whether or not the person has been found in previous proceedings under this Act to have engaged in similar conduct:
   (e) the steps taken by the person to bring the contravention to the attention of the appropriate authority:
   (f) the steps taken by the person to avoid, remedy, or mitigate the effects of the contravention.
-(2) Subsections (3) to (7) state the limits on the amounts of pecuniary penalty that the Court may order.
+(2) Subsections (3) to (7) state the limits on the amounts of pecuniary penalty that the court may order.
 (3) For an individual, the limit is $500,000.
 (4) For a body corporate,—
   (a) subsection (5) states the limit that applies if—
-    (i) the Court is satisfied that the contravention occurred in the course of producing a commercial gain; and
+    (i) the court is satisfied that the contravention occurred in the course of producing a commercial gain; and
     (ii) the commercial gain can be readily ascertained:
   (b) subsection (6) states the limit that applies if—
-    (i) the Court is satisfied that the contravention occurred in the course of producing a commercial gain; and
+    (i) the court is satisfied that the contravention occurred in the course of producing a commercial gain; and
     (ii) the commercial gain cannot be readily ascertained:
-  (c) subsection (7) states the limit that applies if the Court is not satisfied that the contravention occurred in the course of producing a commercial gain.
+  (c) subsection (7) states the limit that applies if the court is not satisfied that the contravention occurred in the course of producing a commercial gain.
 (5) For the purposes of subsection (4)(a), the limit is the greater of—
   (a) $10,000,000; and
   (b) 3 times the value of the commercial gain resulting from the contravention.
@@ -4336,7 +4326,7 @@ An appeal under section 154E or 154F has the following effects:
 (7) For the purposes of subsection (4)(c), the limit is $10,000,000.
 
 ### 154K Other orders instead of or in addition to pecuniary penalty order
-In proceedings under section 154H, the Court may, instead of or in addition to making a pecuniary penalty order, make—
+In proceedings under section 154H, the court may, instead of or in addition to making a pecuniary penalty order, make—
   (a) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that are caused by or on behalf of the person:
   (b) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that relate to land owned or occupied by the person:
   (c) an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b).
@@ -5024,7 +5014,7 @@ The Governor-General may, by Order in Council, make regulations specifying any A
 [Repealed]
 
 ### 170 Savings of Plants Act 1970 for limited administrative purposes
-Notwithstanding section 167(1) of this Act, the Plants Act 1970 shall continue in full effect to the extent necessary for the proper administration of sections 15, and 16 of that Act in relation to the export of plants.
+Notwithstanding section 167(1) of this Act, the Plants Act 1970 shall continue in full effect to the extent necessary for the proper administration of sections 15 and 16 of that Act in relation to the export of plants.
 
 ### 171 Savings of Apiaries Act 1969 for limited administrative purposes
 [Repealed]
@@ -5186,11 +5176,6 @@ This Part amends the Biosecurity Act 1993.
   - **sections 23 to 24A** mean sections 23 to 24A of the principal Act as substituted by section 20.
 (2) Subsection (3) applies when the process of making an import health standard under section 22 and section 22A is underway on the day on which this section commences.
 (3) If the process is to continue, it must continue from the provision in sections 23 to 24A that most accurately describes the stage that the process reached under section 22 or section 22A.
-
-### 82 Saving of independent review panel Gazette notice
-(1) This section applies to the Biosecurity (Process for Establishing Independent Review Panel) Notice 2008 (Gazette 2008, p 2765).
-(2) The notice is unaffected by the repeal of section 22A of the principal Act by section 20 of this Act.
-(3) The notice may be amended, revoked and replaced, or revoked as if section 22A of the principal Act had not been repealed by section 20 of this Act.
 
 ### 83 Transitional provision on pest management
 (1) A national pest management strategy in force on the day on which this section commences is deemed to be a national pest management plan.
