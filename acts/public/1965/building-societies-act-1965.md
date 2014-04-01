@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -13,6 +13,7 @@ _Consolidation as at 2013-12-05_
 (1) In this Act, unless the context otherwise requires,—
   - **alteration** , in relation to the rules of a society, includes any addition to the rules, and also includes the rescission of all or any of the rules, with or without the substitution of 1 or more new rules for any rules rescinded
   - **annual return** means the annual return required to be made by a society pursuant to section 103
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **board of directors** , in relation to a society managed by a committee of management, means that committee
   - **bonus ballot** means a ballot, held by or on behalf of a society, of eligible bonus balloting shares for the purpose of ascertaining which of the holders of those shares are entitled to receive any prizes arising in respect of those shares
   - **bonus balloting shares** means shares issued pursuant to section 31A
@@ -21,8 +22,10 @@ _Consolidation as at 2013-12-05_
   - **debt security** has the same meaning as in section 2 of the Securities Act 1978
   - **director** includes a member of a committee of management of a society, and any other person occupying the position of director, by whatever name called
   - **disposition** , in relation to any land, means any disposition of that land inter vivos, and includes the grant of a lease or underlease; and has a corresponding meaning
-  - **financial year** , in relation to any society, means the period in respect of which any revenue and appropriation account of the society laid before it at the annual general meeting is made up, whether that period is a year or not
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **financial year** , in relation to a society, means a year ending on a balance date of the society (within the meaning of section 41 of the Financial Reporting Act 2013), and if, as a result of the date of the incorporation of the society or a change of the balance date of the society, the period ending on that date is longer or shorter than a year, that longer or shorter period is a financial year
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **instrument** includes—
     (a) any instrument (other than this Act) of any form or kind that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy thereof were lodged, filed, or registered under any enactment; and
     (b) any judgment, order, or process of a court
@@ -32,7 +35,6 @@ _Consolidation as at 2013-12-05_
       (i) a licence to occupy (within the meaning of section 121A of the Land Transfer Act 1952); or
       (ii) a deferred payment licence (within the meaning of section 2 of the Land Act 1948)
   - **liabilities** means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
-  - **licensed auditor** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **member** , in relation to a society, includes—
     (a) any person who for the time being holds a share (whether advanced or not) in the society:
     (b) any person who has succeeded to any of the rights or liabilities of a member of the society
@@ -46,7 +48,6 @@ _Consolidation as at 2013-12-05_
     (b) goodwill:
     (c) rights, interests and claims of every kind in or to property, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether liquidated or unliquidated, actual, contingent, or prospective
   - **purchase price** , in respect of any leasehold estate in land, means any sum payable as the consideration, or as part of the consideration, for the grant or assignment of the lease
-  - **registered audit firm** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **registered valuer** means a valuer for the time being registered under the Valuers Act 1948
   - **Registrar** means the Registrar of Building Societies under this Act
   - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
@@ -702,101 +703,67 @@ Every society shall have at least 2 directors.
   (b) has by his or her own wilful act been the cause of any default by the society thereunder—
 (4) It shall be a defence to a charge of an offence against paragraph (a) of subsection (3) to prove that the person charged had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the requirements of this section were complied with and was in a position to discharge that duty.
 
-**Accounts and audit**
+**Accounting records and financial reporting**
 
-### 90 Accounts
-(1) Every society shall—
-  (a) cause to be kept proper books of account with respect to its transactions and its assets and liabilities; and
-  (b) establish and maintain a system of control and inspection of its books of account and a system for supervising its cash holdings and all receipts and remittances.
-(2) For the purposes of paragraph (a) of subsection (1), the books of account must—
-  (a) correctly record and explain the transactions of the society; and
-  (b) in the case of a society that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, be such as are necessary to give a true and fair view of the affairs of the society; and
-  (c) in the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, be such as are necessary to ensure that the financial statements of the society within the meaning of that Act comply with that Act.
+### 90 Accounting records must be kept
+Every society must comply with subpart 2 of Part 7 of the Financial Markets Conduct Act 2013 (which relates to accounting records).
 
-### 91 Annual financial statements
-(1) Every society shall, not later than 4 months after the end of each financial year, prepare the following financial statements:including any notes or documents giving information relating to the statements.
-  (a) a revenue and appropriation account for that financial year; and
-  (b) a statement of financial position as at the end of that financial year; and
-  (c) a statement of cash flows for that financial year; and
-  (d) such other financial statements in respect of the financial year as may be prescribed by regulations made under this Act—
-(2) The directors of every society shall lay all such financial statements before the society at the annual general meeting.
-(3) In the case of a terminating society whose shares are divided into groups, this section shall be read subject to section 102.
+### 91 Financial reporting
+(1) Every society must comply with subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 (which relates to the preparation, audit, and lodgement of financial statements).
+(2) The directors of every society must ensure that the financial statements of the society are laid before the society at the annual general meeting.
 
 ### 91A Summary financial statements
-(1) In addition to the financial statements required under section 91, a society may also prepare summary financial statements.
-(2) Any summary financial statements must be prepared within 4 months after the end of the financial year.
-(3) The directors of every society must lay any summary financial statements before the society at the annual general meeting.
+[Repealed]
 
-### 92 Half-yearly financial statements
-(1) Every society shall, not later than 4 months after the end of the first half of each financial year, prepare, in respect of the first half of that financial year, such financial statements as may be prescribed by regulations made under this Act.
-(2) Such financial statements shall be published in such manner, or distributed to such persons, as may be prescribed.
-(3) Such regulations may prescribe requirements for the auditing of the financial statements and may confer on the auditors such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of auditing those financial statements.
+### 92 Half-yearly financial statements must be prepared
+(1) Every society must ensure that, within 3 months after the end of the first half of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the society and that first half of the financial year; and
+  (b) dated and signed on behalf of the society by 2 directors of the society.
+(2) The financial statements referred to in subsection (1) must be—
+  (a) published in the manner, or distributed to the persons, that are prescribed; and
+  (b) audited by a qualified auditor if required by regulations made under this Act.
 
 ### 93 Form and content of financial statements
-(1) The financial statements required by section 91 must—
-  (a) give a true and fair view of—the financial year to which they relate; and
-    (i) the society's income and expenditure for; and
-    (ii) the state of the society's affairs as at the end of; and
-    (iii) the cash flows of the society for—
-  (b) be in such form and contain such information as may be prescribed; and
-  (c) in the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, comply with the requirements of that Act.
-(1A) Summary financial statements prepared under section 91A must—
-  (a) give a true and fair view of the matters to which they relate; and
-  (b) comply with generally accepted accounting practice, as defined in section 3 of the Financial Reporting Act 1993; and
-  (c) be in the form and contain the information that may be prescribed.
-(2) Any financial statements required under section 92 shall—
-  (a) give a true and fair view,—the half-year to which they relate; and
-    (i) in the case of any revenue and appropriation account, of the society's income and expenditure for; and
-    (ii) in the case of any statement of financial position, of the state of the society's affairs as at the end of—
-  (b) be in such form and contain such information as may be prescribed.
+[Repealed]
 
 ### 94 Offences under sections 90 to 93
-(1) Every director of a society commits an offence, and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $400, who—
-  (a) fails to take all reasonable steps to comply or, as the case may require, to ensure compliance by the society, with the requirements of any of the provisions of sections 90 to 93; or
-  (b) has by any wilful act been the cause of any default by the society under any such provision.
-(2) In any proceedings against any person in respect of an offence against subsection (1)(a), it shall be a defence to prove that the person charged had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the requirements of the provision in question were complied with and was in a position to discharge that duty.
+[Repealed]
 
-### 95 Signing of financial statements
-(1) The financial statements required by sections 91 and 92 and any summary financial statements prepared under section 91A must be signed on behalf of the board of directors by 2 directors of the society.
-(2) The financial statements referred to in subsection (1) must be approved by the board of directors before they are signed on their behalf.
-(3) If the financial statements referred to in subsection (1) have not been signed and a copy of them is issued, circulated, or published, the society and every officer of the society who is in default is guilty of an offence.
+### 95 Directors' report
+(1) The directors must prepare for submission at the annual general meeting a report on the state of the affairs of the society.
+(2) The directors' report must be attached to the financial statements laid before that meeting.
+(3) The directors of every society must ensure that every copy of the financial statements of the society referred to in section 91 that is issued, circulated, or published has attached to it, or is accompanied by,—
+  (a) a copy of the directors' report; and
+  (b) a copy of the auditor's report on those statements.
 
-### 96 Documents required to be annexed to statements of financial position
-(1) The revenue and appropriation account, statement of cash flows, and such other financial statements as are required under section 91, and the auditor's report shall be annexed to the statement of financial position required by that section.
-(2) Any revenue and appropriation account required pursuant to regulations made under section 92 and such other financial statements as are required pursuant to those regulations shall be annexed to any statement of financial position required pursuant to those regulations.
-(3) If any copy of a statement of financial position is issued, circulated, or published without having annexed to it a copy of the financial statements required to be annexed to it, and, in the case of a statement of financial position required by section 91(1)(b), a copy of the auditor's report, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+### 96 Distribution of copies of financial statements and reports
+(1) The directors of every society must ensure that a copy of the financial statements to be laid before the society at the annual general meeting, a copy of the auditor's report on those statements, and a copy of the directors' report are, not less than 14 days before the date of the meeting,—
+  (a) sent to each member of the society; or
+  (b) published in major daily newspapers circulating generally in those parts of New Zealand where members reside.
+(2) The directors of every society must ensure that a copy of the directors' report is sent to the Registrar for registration within the time frame referred to in subsection (1).
+(3) Subsection (1)(b) is subject to the society's rules and to any conditions or requirements that may be prescribed.
 
-### 97 Directors' report
-(1) The directors shall prepare for submission at the annual general meeting a report of the state of the affairs of the society.
-(2) The directors' report shall be attached to the statement of financial position laid before that meeting.
-(3) If any copy of a statement of financial position required by section 91(1)(b) is issued, circulated, or published without having attached to it a copy of the directors' report, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+### 97 Depositors and members entitled to be supplied with copy of financial statements
+(1) Every depositor in or member of a society is entitled, on demand and without charge, to be supplied with copies of the last financial statements and reports of the society that are required to be laid before that society at the annual general meeting.
+(2) The directors of the society must ensure that the depositor or member is sent copies of the financial statements and reports within 7 days after the demand is made.
+(3) However, this section does not apply if the depositor in or member of the society—
+  (a) has previously been sent copies of the financial statements and reports; or
+  (b) has already demanded and received copies of the financial statements and reports under this section.
 
-### 97A Distribution of copies of financial statements and reports
-(1) Except as provided in section 97B, a copy of the financial statements required by section 91 to be laid before a society at the annual general meeting, together with a copy of the auditor's report and of the directors' report, or a copy of the summary financial statements prepared under section 91A (if any) and of the directors' report, must, not less than 14 days before the date of the meeting,—
-  (a) be sent to the members of the society; or
-  (b) subject to the society's rules and to any conditions or requirements that may be prescribed, be published in major daily newspapers circulating generally in those parts of New Zealand where the members reside.
-(2) The society (unless it is an issuer within the meaning of section 4 of the Financial Reporting Act 1993) must send to the Registrar for registration at the same time a copy of those financial statements and reports, certified by a director and the manager or secretary of the society as being a true copy.
-(3) The directors of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993 must attach to the financial statements to be delivered to the Registrar of Companies under that Act any financial statements required by section 91(1)(d).
-(4) Every depositor in or member of a society, including a depositor or member who has made an election under section 97B, is entitled, on demand and without charge, to be supplied a copy of the last financial statements required under section 91 and reports of the society required to be laid before that society at the annual general meeting.
-(5) However, subsection (4) does not apply if the depositor in or member of a society—
-  (a) has previously been sent a copy of the last financial statements required under section 91 and the reports referred to in subsection (1); or
-  (b) has already demanded and received a copy of the financial statements and reports under subsection (4).
-(6) The society, and every officer of the society, is guilty of an offence if default is made—
-  (a) in complying with subsection (1) or subsection (2); or
-  (b) in supplying to any depositor or member, within 7 days after a demand is made under subsection (4), a copy of the financial statements and reports with which that depositor or member is entitled to be supplied.
+### 97A Offences relating to laying financial statements before annual general meeting, half-yearly financial statements, directors' report, and distribution of financial statements
+(1) If any of sections 91(2), 92, 95, 96, and 97 are not complied with, every director of the society commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(2) It is a defence to a director of a society charged with an offence under this section in respect of a requirement referred to in section 91(2), 92, 95, 96, or 97 if the director proves that—
+  (a) the society took all reasonable and proper steps to ensure that the requirement would be complied with; or
+  (b) the director took all reasonable steps to ensure that the requirement would be complied with; or
+  (c) in the circumstances, the director could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
 
 ### 97B Election to receive summary financial statements
-(1) A member of a society may, by written notice to the society, elect to be sent each year, in place of the financial statements prepared under section 91, summary financial statements prepared under section 91A (if any) and a directors' report, and the society must cause those documents to be sent to the member in accordance with section 97A(1).
-(2) The society must cause to be sent to a member of the society financial statements prepared under section 91 and any reports required to be attached to those statements if the member—
-  (a) has not made any election under subsection (1); or
-  (b) has made an election under subsection (1) to receive summary financial statements prepared under section 91A, but the society has not produced any summary financial statements.
+[Repealed]
 
 ### 98 Appointment of auditors
 (1) Every society shall at each annual general meeting appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting.
-(2) The appointment of a partnership by the firm name to be the auditors of a society shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
-(2A) However, if the society is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),—
-  (a) a partnership appointed by its firm name to be the auditors of the society must be a registered audit firm; and
-  (b) the appointment of a registered audit firm by its firm name to be the auditors of the society is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
+(2)
+(2A)
 (3) At any annual general meeting a retiring auditor, however appointed, shall be reappointed without any resolution being passed unless—
   (a) he is not qualified for reappointment; or
   (b) a resolution has been passed at that meeting appointing somebody instead of him or her or providing expressly that he or she shall not be reappointed; or
@@ -821,50 +788,24 @@ Every society shall have at least 2 directors.
 (5) Copies of any such representations need not be sent out, and they need not be read out at the meeting, if, on the application either of the society or of any other person who claims to be aggrieved, the High Court or a Judge thereof is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter; and the court or Judge may order the society's costs on any such application to be paid in whole or in part by the auditor, notwithstanding that he or she is not a party to the application.
 (6) Subsections (4) and (5) shall apply in relation to a resolution to remove the first auditors of a society, by virtue of subsection (4) of section 98, as they apply in relation to a resolution that a retiring auditor shall not be reappointed.
 
-### 100 Disqualifications for appointment as auditor
-(1) No person is qualified for appointment as auditor of a society unless he or she is,—
-  (a) in the case of a society that is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993), a licensed auditor:
-  (b) in any other case,—
-    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-    (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of section 199 of the Companies Act 1993.
-(2) Nothing in subsection (1) shall disqualify any person appointed as auditor of a society before the commencement of this Act from acting as auditor of that society, or from being at any time and from time to time reappointed as auditor thereof.
-(3) None of the following persons shall be qualified for appointment as auditor of a society:
-  (a) an officer or servant of the society:
-  (b) a person who is a partner of or in the employment of an officer or servant of the society:
-  (c) a body corporate.
-(4) References in this section to an officer or servant shall be construed as not including references to an auditor.
-(5) Subsections (1) and (3) shall have effect notwithstanding anything in the rules of any society.
-(6) Any unqualified person who acts as auditor of a society commits an offence against this Act.
-(7) If a society appoints any unqualified person to be an auditor—
-  (a) the appointment shall be void, and the FMA may appoint a qualified person to fill the vacancy:
-  (b) the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+### 100 Qualifications of auditors and access to information
+(1) No person is qualified for appointment as auditor of a society unless he or she is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a society).
 
-### 101 Auditors' report, right of access to books, and right to attend meetings
-(1) The auditors of a society shall make a report to the members on the accounts examined by them, and on the financial statements laid before the society at the annual general meeting during their tenure of office.
-(2) The auditors' report shall be read before the society at the annual general meeting and shall be open to inspection by any member.
-(3) In the case of a society that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the report shall state whether the financial statements are properly prepared in accordance with the requirements of this Act and any regulations made thereunder, and whether, in the opinion of the auditors, they give a true and fair view,—
-  (a) in the case of the revenue and appropriation account of the society's income and expenditure for the financial year; and
-  (b) in the case of the statement of financial position, of the state of the society's affairs as at the end of the financial year; and
-  (c) in the case of the statement of cash flows, of the society's cash flows for the financial year.
-(4) In the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the auditor's report shall state whether the financial statements are properly prepared in accordance with the requirements of this Act and any regulations made thereunder and shall also state the matters required to be stated in an auditors' report under the Financial Reporting Act 1993.
-(4A) It shall be the duty of the auditors in preparing the report referred to in subsection (3) or subsection (4), as the case may be, to carry out such investigations as will enable them to complete those reports.
-(5) Every auditor of a society—
-  (a) shall have a right of access at all times to the books, accounts, and vouchers of the society, and to all other documents relating to its affairs, including the instruments relating to property mortgaged to the society; and
-  (b) shall be entitled to require from the society's officers such information and explanations as he or she thinks necessary for the performance of the auditors' duties.
-(6) If the auditors fail to obtain all the information and explanations which, to the best of their knowledge and belief, are necessary for the purposes of their audit, they shall state that fact in their report.
+### 101 Auditors' report and right to attend meetings
+(1) The auditors of a society shall make a report to the members on the financial statements laid before the society at the annual general meeting during their tenure of office.
+(2) An auditor must, in carrying out an audit for the purposes of subsection (1) or section 92, comply with all applicable auditing and assurance standards.
+(3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+(4)
+(4A)
+(5)
+(6)
 (7) The auditors of a society shall be entitled—
   (a) to attend any general meeting of the society, and to receive notices of and other communications relating to any general meeting which any member of the society is entitled to receive; and
   (b) to be heard at any meeting which they attend on any part of the business of the meeting which concerns them as auditors.
 
 ### 102 Accounts of groups in terminating society
-(1) Where the shares of a terminating society are divided into groups, there shall be prepared, in addition to the financial statements referred to in section 91, corresponding financial statements in respect of each such group.
-(2) Every financial statement prepared in respect of a group shall be laid before the society at the annual general meeting.
-(3) Subject to the provisions of this section, the provisions of sections 93 to 96, section 97A(2), and section 101, with all necessary modifications, shall apply to every financial statement prepared in respect of a group.
-(4) For the purposes of sections 96 and 101 (as applied by this section),—
-  (a) it shall not be necessary for the auditors' report on the financial statements prepared in respect of each group to be attached to the statement of financial position or to be read before the society at the annual general meeting, if the auditors' report attached to the society's statement of financial position includes a report on all financial statements prepared in respect of each group:
-  (b) where in the auditors' opinion any financial statements prepared in respect of a group are not properly prepared, or do not give a true and fair view of the affairs, income and expenditure, and cash flows of the group, or are not in agreement with the books and records of the society, the auditors shall state that fact in their report attached to the society's statement of financial position as well as in their report on the financial statements prepared in respect of the group.
-(5) Any member of any group in a terminating society shall be entitled, on demand and without charge, to be supplied with a copy of the last financial statements relating to that group and, on payment to the society of a fee not exceeding $2, with copies of the last financial statements relating to all other groups; but no such member shall be entitled to more than 1 copy of any such statements in respect of any one financial year.
-(6) If default is made in supplying to any such member, within 1 month after a demand is made under subsection (5), a copy of any financial statement with which the member is entitled to be so supplied, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+[Repealed]
 
 **Annual return**
 
@@ -898,7 +839,7 @@ Every society shall have at least 2 directors.
 (3) The auditors' report on the annual return shall, without prejudice to any provision of this Act requiring any other information to be contained therein, contain statements as to the following matters:
   (a) whether in their opinion the annual return is properly drawn up in accordance with this Act and any regulations made thereunder:
   (b) whether the annual return gives a true and fair view of the matters to which it is to be addressed, other than those with which the auditors, by virtue of regulations made under this Act, are not required to deal:
-  (c) whether the annual return is in agreement with the books of account and records of the society.
+  (c) whether the annual return is in agreement with the accounting and other records of the society.
 
 **Liability of officers**
 
@@ -1215,7 +1156,7 @@ In relation to a terminating society, the provisions of this Part shall have eff
 ### 121B Registration of documents
 (1) On receipt of a document for registration under this Act, the Registrar must (unless section 121C applies or he or she is not satisfied that any registration condition is met)—
   (a) register the document in the register; and
-  (b) give written advice of the registration to the person from whom the document was received (except in the case of an annual return or the financial statements and reports referred to in section 97A(1)).
+  (b) give written advice of the registration to the person from whom the document was received (except in the case of an annual return or the financial statements and reports referred to in section 96(1)).
 (2) Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
 (3) In this section, a registration condition for a document is a matter of which the Registrar must be satisfied under this Act before registering that document.
 
@@ -1364,8 +1305,8 @@ Without prejudice to section 124, the Registrar may, if he or she thinks fit, ca
 (3) Any printed document purporting to be a copy of the rules of a society, and certified by the secretary or other officer of the society to be a true copy of its rules as registered, shall be received in evidence and shall, in the absence of any evidence to the contrary, be deemed to be a true copy of the rules.
 
 ### 130 Form in which records may be kept
-(1) Any register, record, or book of account to be kept by a society may be kept either by making entries in bound books or by recording the matters in question in any other manner.
-(2) Where any such register, record, or book of account is not kept by making records in a bound book but is kept by some other means, adequate precautions shall be taken for guarding against falsification and for facilitating its discovery.
+(1) Any register, record, or accounting record to be kept by a society may be kept either by making entries in bound books or by recording the matters in question in any other manner.
+(2) Where any such register, record, or accounting record is not kept by making records in a bound book but is kept by some other means, adequate precautions shall be taken for guarding against falsification and for facilitating its discovery.
 (3) Where default is made in complying with subsection (2), the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 131 Exemptions from stamp duties
@@ -1401,9 +1342,9 @@ Every society or person who commits an offence against this Act, or against any 
 ### 137 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of, and the particulars to be included in, applications, notices, certificates, returns, reports, or other documents made or issued under or for the purposes of this Act (and those regulations may require the inclusion in, or attachment to, forms of specified information or documents and forms to be signed by specified persons), and prescribing requirements, not inconsistent with this Act, with which those documents must comply:
-  (aa) prescribing the financial statements to be prepared by a society, and prescribing the forms of, and the information and particulars to be included in, such financial statements:
+  (aa)
   (ab) prescribing the manner in which any financial statements required under section 92 are to be published or distributed:
-  (ac) prescribing requirements for the auditing of any financial statements required under section 92, and conferring on the auditors such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of auditing those statements:
+  (ac) requiring financial statements required under section 92 to be audited by a qualified auditor:
   (b) prescribing the procedure to be followed in respect of applications to and proceedings before the Registrar:
   (c) prescribing fees to be paid to the Registrar in respect of the registration of rules, alterations in rules, and other documents and matters under this Act, the issue of certificates and other documents, search or inspection of the register, and the exercise by the Registrar of any of his or her functions under this Act:
   (ca) regulating bonus ballots and bonus balloting shares:
