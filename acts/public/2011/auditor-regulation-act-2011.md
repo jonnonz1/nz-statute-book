@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -14,14 +14,14 @@ This Act is the Auditor Regulation Act 2011.
 **Preliminary provisions**
 
 ### 3 Purpose
-The purpose of this Act is to regulate auditors who carry out audits in respect of issuers and to establish an independent oversight system in order to—
-  (a) promote, in respect of issuer audits, quality, expertise, and integrity in the profession of auditors; and
+The purpose of this Act is to regulate auditors who carry out audits in respect of FMC reporting entities and to establish an independent oversight system in order to—
+  (a) promote, in respect of FMC audits, quality, expertise, and integrity in the profession of auditors; and
   (b) promote the recognition of the professional status of New Zealand auditors in overseas jurisdictions.
 
 ### 4 Overview
 (1) In this Act,—
   (a) this Part—
-    (i) requires auditors who carry out audits of financial statements and group financial statements of issuers, or otherwise in respect of issuers, to hold a licence; and
+    (i) requires auditors who carry out audits of financial statements and group financial statements of FMC reporting entities, or otherwise in respect of FMC reporting entities, to hold a licence; and
     (ii) requires audit firms appointed or engaged in respect of those audits to be registered; and
     (iii) provides for other preliminary provisions, including purposes and interpretation; and
   (b) Part 2 provides for—
@@ -48,7 +48,7 @@ The FMA's functions under this Act are as follows:
   - **accredited body** means a person that is granted accreditation, or is treated as having been granted accreditation, under subpart 5 of Part 2
   - **audit firm** means a partnership or body corporate that carries on the business of providing auditing services (whether or not it provides other services)
   - **audit regulatory systems** means, in relation to an accredited body, the body's systems and processes for performing its regulatory functions
-  - **auditing and assurance standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
+  - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Auditor-General** has the same meaning as in section 4 of the Public Audit Act 2001
   - **director** has the same meaning as in section 2 of the Securities Act 1978
   - **disciplinary body** ,—
@@ -56,18 +56,24 @@ The FMA's functions under this Act are as follows:
     (b) in relation to any other accredited body, means the tribunal, committee, or other body that has been—
       (i) set up to take disciplinary action in respect of the members of the accredited body; and
       (ii) approved by the FMA to act as the disciplinary body
-  - **engagement partner** , in respect of an issuer audit where an audit firm is acting, means the partner or other person in the firm who is responsible for the audit and the performance of the audit, and for the audit report that is issued on behalf of the firm
-  - **financial statements** has the same meaning as in section 8 of the Financial Reporting Act 1993
+  - **engagement partner** , in respect of an FMC audit where an audit firm is acting, means the partner or other person in the firm who is responsible for the audit and the performance of the audit, and for the audit report that is issued on behalf of the firm
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **FMA** means the Financial Markets Authority established under the Financial Markets Authority Act 2011
-  - **group financial statements** has the same meaning as in section 9 of the Financial Reporting Act 1993
-  - **Institute** means the New Zealand Institute of Chartered Accountants constituted under the New Zealand Institute of Chartered Accountants Act 1996
-  - **issuer** has the same meaning as in section 4 of the Financial Reporting Act 1993
-  - **issuer audit** —
+  - **FMC audit** —
     (a) means the audit of—
-      (i) the financial statements of an issuer and, if the issuer is required to complete group financial statements, of those group financial statements (being financial statements or group financial statements that are prepared under the Financial Reporting Act 1993); or
-      (ii) the financial statements of a scheme, a fund, or a retirement village referred to in section 9A of the Financial Reporting Act 1993; and
-    (b) includes any audit or review required to be carried out under the Securities Act 1978, or regulations made or exemptions granted under that Act, by a qualified auditor (within the meaning of that Act); but
-    (c) does not include any audit carried out under the Public Audit Act 2001 (whether the Auditor-General or any other person is acting as the auditor)
+      (i) the financial statements or group financial statements of an FMC reporting entity that are prepared under the Financial Markets Conduct Act 2013; or
+      (ii) the financial statements of a scheme or a fund prepared under section 461A of the Financial Markets Conduct Act 2013; or
+      (iii) the financial statements referred to in section 461B of the Financial Markets Conduct Act 2013; and
+    (b) includes any audit or review required to be carried out under the regulations made, or exemptions granted, under the Financial Markets Conduct Act 2013 or the Securities Act 1978 by a qualified auditor (within the meaning of either of those Acts); and
+    (c) includes any audit of the financial statements or group financial statements prepared under the Financial Reporting Act 1993 in accordance with section 55 of the Financial Reporting Act 2013; and
+    (d) includes any issuer audit (as defined in this Act before the commencement of this paragraph); but
+    (e) does not include any audit carried out under the Public Audit Act 2001 (whether the Auditor-General or any other person is acting as the auditor)
+  - **FMC reporting entity** —
+    (a) has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013; and
+    (b) includes a person to which section 55 of the Financial Reporting Act 2013 applies; and
+    (c) includes any issuer (as defined in this Act before the commencement of this paragraph)
+  - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
+  - **Institute** means the New Zealand Institute of Chartered Accountants constituted under the New Zealand Institute of Chartered Accountants Act 1996
   - **licence** —
     (a) means a licence issued by an accredited body or the FMA under Part 2; and
     (b) includes a licence that a person is treated as holding under subpart 3 of Part 3
@@ -97,7 +103,7 @@ The FMA's functions under this Act are as follows:
     (h) hearing complaints about, and taking disciplinary action against, its members and former members and audit firms:
     (i) dealing with appeals from decisions of the disciplinary body.
 (2) In this Act, unless the context otherwise requires, audit regulatory systems are adequate and effective if they are designed and operate in a manner that—
-  (a) promotes, in respect of issuer audits, quality, expertise, and integrity in the profession of auditors; and
+  (a) promotes, in respect of FMC audits, quality, expertise, and integrity in the profession of auditors; and
   (b) promotes the recognition of the professional status of New Zealand auditors in overseas jurisdictions.
 (3) In this Act, unless the context otherwise requires, a person is ordinarily resident in a country, state, or territory if that person—
   (a) is domiciled in the country, state, or territory; or
@@ -108,30 +114,36 @@ This Act binds the Crown.
 
 **Key provisions**
 
-### 8 Auditors in respect of issuer audits must be licensed
-(1) Every natural person who acts as the auditor in respect of an issuer audit must hold a licence that—
-  (a) authorises the person to act as the auditor in respect of that kind of issuer audit; and
+### 8 Auditors in respect of FMC audits must be licensed
+(1) Every natural person who acts as the auditor in respect of an FMC audit must hold a licence that—
+  (a) authorises the person to act as the auditor in respect of that kind of FMC audit; and
   (b) is recorded in the register.
-(2) A person who acts as the auditor in respect of an issuer audit in breach of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(2) A person who acts as the auditor in respect of an FMC audit in breach of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
-### 9 Audit firms engaged or appointed to act as auditor in respect of issuer audits must be registered
-(1) An audit firm must not accept an engagement or appointment to act as the auditor in respect of an issuer audit unless it is a partnership that is a registered audit firm.
-(2) If an audit firm is engaged or appointed to act as the auditor in respect of an issuer audit,—
-  (a) the partners of the audit firm, from time to time, who are licensed auditors must, for the purposes of this Act, be treated as acting as the auditor or auditors in respect of the issuer audit; and
+### 9 Audit firms engaged or appointed to act as auditor in respect of FMC audits must be registered
+(1) An audit firm must not accept an engagement or appointment to act as the auditor in respect of an FMC audit unless it is a partnership that is a registered audit firm.
+(2) If an audit firm is engaged or appointed to act as the auditor in respect of an FMC audit,—
+  (a) the partners of the audit firm, from time to time, who are licensed auditors must, for the purposes of this Act, be treated as acting as the auditor or auditors in respect of the FMC audit; and
   (b) the audit firm must ensure that each engagement partner is a licensed auditor.
 (3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
   (a) the breach took place with his or her authority, permission, or consent; or
   (b) he or she could reasonably have known that the breach was to be or was being made and failed to take all reasonable steps to prevent or stop it.
 
-### 10 Partners who are responsible if issuer audit not carried out in accordance with requirements
-(1) Subsection (2) applies if a registered audit firm is engaged or appointed to act as the auditor in respect of an issuer audit and that issuer audit is not being, or has not been, carried out—
-  (a) in accordance with this Act or any other enactment that relates to the conduct of an issuer audit; or
+### 10 Partners who are responsible if FMC audit not carried out in accordance with requirements
+(1) Subsection (2) applies if a registered audit firm is engaged or appointed to act as the auditor in respect of an FMC audit and that FMC audit is not being, or has not been, carried out—
+  (a) in accordance with this Act or any other enactment that relates to the conduct of an FMC audit; or
   (b) in accordance with auditing and assurance standards; or
   (c) otherwise with reasonable care, diligence, and skill.
-(2) Despite section 9(2)(a), a partner of the registered audit firm may have his or her licence cancelled under section 20(1)(c) or suspended under section 21(1)(b), or be subject to an order under section 78, in relation to the failure to carry out the issuer audit in accordance with the matters referred to in subsection (1)(a) or (b) or otherwise with reasonable care, diligence, and skill only if—
-  (a) he or she was the engagement partner in respect of the issuer audit; or
+(2) Despite section 9(2)(a), a partner of the registered audit firm may have his or her licence cancelled under section 20(1)(c) or suspended under section 21(1)(b), or be subject to an order under section 78, in relation to the failure to carry out the FMC audit in accordance with the matters referred to in subsection (1)(a) or (b) or otherwise with reasonable care, diligence, and skill only if—
+  (a) he or she was the engagement partner in respect of the FMC audit; or
   (b) the failure took place with his or her authority, permission, or consent; or
   (c) he or she could reasonably have known of the failure and failed to take all reasonable steps to prevent or stop it.
+
+### 10A Licence and registration requirements do not apply if FMA exemption applies
+Sections 8 and 9 do not apply to an FMC audit if—
+  (a) the FMA has granted an exemption under the Financial Markets Conduct Act 2013 that applies in relation to the FMC audit; and
+  (b) the effect of the exemption is that, for the purposes of that Act, the FMC audit is not required to be carried out by a qualified auditor (within the meaning of that Act); and
+  (c) the terms and conditions of the exemption are complied with.
 
 ## Part 2 — Licences, registration, accreditation, and role of FMA
 
@@ -154,9 +166,9 @@ This Act binds the Crown.
   (c) the person is required, under the law or the regulatory requirements of the person's home jurisdiction, to comply with requirements for maintaining the person's ongoing competence, and that those requirements are equivalent to, or as satisfactory as, the requirements under section 18; and
   (d) the person's practice is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under subpart 6; and
   (e) the systems, policies, and procedures of the person's practice are satisfactory in terms of—
-    (i) promoting compliance with the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; and
+    (i) promoting compliance with the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) promoting compliance with auditing and assurance standards; and
-    (iii) otherwise promoting reasonable care, diligence, and skill in the carrying out of issuer audits; and
+    (iii) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits; and
   (f) the person is otherwise a fit and proper person to hold a licence.
 (2) In subsection (1), home jurisdiction, in relation to a person, means the country, state, or territory outside New Zealand in which the person is—
   (a) ordinarily resident; and
@@ -193,8 +205,8 @@ This Act binds the Crown.
 (1) A licence issued to a person by an accredited body or the FMA—
   (a) must be subject to any applicable conditions of the kinds prescribed under section 32(1)(b)(i); and
   (b) may be subject to any other conditions of a kind prescribed under section 32(1)(b)(ii) that the accredited body or the FMA thinks fit; and
-  (c) must specify a condition relating to the kinds of issuer audits in respect of which the person is authorised to act under the licence.
-(2) The condition under subsection (1)(c) may specify that the person is authorised to act in respect of all kinds of issuer audits.
+  (c) must specify a condition relating to the kinds of FMC audits in respect of which the person is authorised to act under the licence.
+(2) The condition under subsection (1)(c) may specify that the person is authorised to act in respect of all kinds of FMC audits.
 (3) The accredited body or the FMA may, at any time after the licence is issued, vary, remove, add to, or substitute any conditions of the licence.
 (4) The accredited body or the FMA must not exercise a power referred to in subsection (3) unless—
   (a) the accredited body or the FMA gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
@@ -245,8 +257,8 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
     (iv) the person has failed to comply with a condition of the licence; or
     (v) the person has failed to comply with section 13, 85(3), or 86(3); or
     (vi) the person is otherwise not a fit and proper person to hold a licence; or
-  (c) if the relevant authority is satisfied on reasonable grounds that 1 or more issuer audits carried out by the person are not being, or have not been, carried out—
-    (i) in accordance with this Act or any other enactment that relates to the conduct of an issuer audit; or
+  (c) if the relevant authority is satisfied on reasonable grounds that 1 or more FMC audits carried out by the person are not being, or have not been, carried out—
+    (i) in accordance with this Act or any other enactment that relates to the conduct of an FMC audit; or
     (ii) in accordance with auditing and assurance standards; or
     (iii) otherwise with reasonable care, diligence, and skill.
 (2) In this section and sections 21 and 22, relevant authority means,—
@@ -265,8 +277,8 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
     (i) has failed to comply with a condition of the licence; or
     (ii) has failed to comply with section 13, 85(3), or 86(3); or
     (iii) has not satisfied the requirements of a competence programme that he or she is required to complete (in the case of a licence issued under section 11) or has failed to comply with the requirements referred to in section 12(1)(c) (in the case of a licence issued under section 12); or
-  (b) that 1 or more issuer audits carried out by the person are not being, or have not been, carried out—
-    (i) in accordance with this Act or any other enactment that relates to the conduct of an issuer audit; or
+  (b) that 1 or more FMC audits carried out by the person are not being, or have not been, carried out—
+    (i) in accordance with this Act or any other enactment that relates to the conduct of an FMC audit; or
     (ii) in accordance with auditing and assurance standards; or
     (iii) otherwise with reasonable care, diligence, and skill.
 (2) A suspension under subsection (1) is for the period that the relevant authority thinks fit or until the person satisfies any requirements specified by the relevant authority.
@@ -287,22 +299,22 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
   (b) the Registrar.
 (3) The notice given to the licensed auditor must include a statement of the grounds for the cancellation or suspension.
 
-### 23 FMA may authorise person to continue to act in respect of issuer audit despite cancellation or suspension of licence
+### 23 FMA may authorise person to continue to act in respect of FMC audit despite cancellation or suspension of licence
 (1) This section applies if—
   (a) a person's licence is cancelled or suspended; and
-  (b) the person is acting, or has been appointed to act, as the auditor in respect of an issuer audit at the time that the licence is cancelled or suspended.
-(2) The FMA may, on an application made under subsection (4), authorise the person whose licence is cancelled or suspended to act, or to continue to act, as the auditor in respect of the issuer audit referred to in subsection (1)(b).
-(3) The FMA may act under subsection (2) only if the FMA is satisfied that the issuer audit will be carried out—
+  (b) the person is acting, or has been appointed to act, as the auditor in respect of an FMC audit at the time that the licence is cancelled or suspended.
+(2) The FMA may, on an application made under subsection (4), authorise the person whose licence is cancelled or suspended to act, or to continue to act, as the auditor in respect of the FMC audit referred to in subsection (1)(b).
+(3) The FMA may act under subsection (2) only if the FMA is satisfied that the FMC audit will be carried out—
   (a) in accordance with—
-    (i) this Act and any other enactment that relates to the conduct of the issuer audit; and
+    (i) this Act and any other enactment that relates to the conduct of the FMC audit; and
     (ii) auditing and assurance standards; and
   (b) otherwise with reasonable skill, diligence, and care.
 (4) An application—
-  (a) may be made only by the issuer in respect of the issuer audit referred to in subsection (1)(b); and
+  (a) may be made only by the FMC reporting entity in respect of the FMC audit referred to in subsection (1)(b); and
   (b) must otherwise be made in the manner that is specified by the FMA; and
   (c) must be accompanied by payment of the prescribed fee for the application (if any).
 (5) The authorisation may be subject to the terms and conditions that the FMA thinks fit.
-(6) A person who acts, or continues to act, as the auditor in respect of an issuer audit in accordance with the terms and conditions of an authorisation does not commit an offence under section 8.
+(6) A person who acts, or continues to act, as the auditor in respect of an FMC audit in accordance with the terms and conditions of an authorisation does not commit an offence under section 8.
 
 **Appeals in respect of licensing and related matters**
 
@@ -333,9 +345,9 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
   (a) 1 or more of the partners of the firm are licensed auditors; and
   (b) the firm is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under subpart 6; and
   (c) the systems, policies, and procedures of the firm are satisfactory in terms of—
-    (i) promoting compliance with the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; and
+    (i) promoting compliance with the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) promoting compliance with auditing and assurance standards; and
-    (iii) otherwise promoting reasonable care, diligence, and skill in the carrying out of issuer audits; and
+    (iii) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits; and
   (d) the firm meets the prescribed minimum standards.
 (2) A limited partnership may not apply under subsection (1) (and may not be a registered audit firm).
 (3) The application must be accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under section 27(1)(c) or refund to the audit firm if it is not registered).
@@ -410,23 +422,23 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
 ### 34 Minimum standards for registration of audit firm
 (1) A notice under section 32 may prescribe minimum standards for the registration of an audit firm in any way the FMA thinks fit, including prescribing requirements relating to the firm's systems, policies, and procedures that relate to—
   (a) promoting compliance with—
-    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; and
+    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) auditing and assurance standards; and
-  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of issuer audits.
+  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits.
 (2) The FMA may recognise any overseas certificate, registration, licence, or other authorisation as satisfying a particular minimum standard for the registration of an audit firm (in whole or in part) if, in the opinion of the FMA, that overseas certificate, registration, licence, or authorisation is equivalent to, or as satisfactory as, the standard, or part of the standard, that is treated as being satisfied.
 
 ### 35 Principles guiding prescribing of licensing, registration, and other matters
 In prescribing matters under this subpart, the FMA must be guided by the following principles:
   (a) the matters must be necessary or desirable to—
-    (i) promote, in respect of issuer audits, quality, expertise, and integrity in the profession of auditors; or
+    (i) promote, in respect of FMC audits, quality, expertise, and integrity in the profession of auditors; or
     (ii) promote the recognition of the professional status of New Zealand auditors in overseas jurisdictions; or
     (iii) carry out, give effect to, or provide for a matter that is incidental to, or consequential on, the matters relating to subparagraph (i) or (ii); and
   (b) the matters should not unnecessarily restrict the licensing of auditors or the registration of audit firms; and
-  (c) the matters should not impose undue costs on auditors, on audit firms, or on issuers.
+  (c) the matters should not impose undue costs on auditors, on audit firms, or on FMC reporting entities.
 
 ### 36 FMA must consult before publishing notices
 (1) Before the FMA publishes a notice in the Gazette under section 32, the FMA must consult the following about its proposal for the contents of the notice:
-  (a) persons who the FMA considers are able to represent the views of auditors who carry out issuer audits (including the Institute); and
+  (a) persons who the FMA considers are able to represent the views of auditors who carry out FMC audits (including the Institute); and
   (b) organisations—
     (i) that the FMA considers will be substantially affected by the proposal; or
     (ii) whose members the FMA considers will be substantially affected by the proposal.
@@ -461,7 +473,7 @@ The purpose of the register is—
   (a) to enable any person to—
     (i) determine whether a person is a licensed auditor and, if so, the status and relevant history of the person's licence; and
     (ii) determine whether a partnership is a registered audit firm and, if so, the status and relevant history of the firm's registration; and
-    (iii) choose a suitable person or audit firm to carry out an issuer audit; and
+    (iii) choose a suitable person or audit firm to carry out an FMC audit; and
     (iv) know which licensed auditors have been disciplined within the last 7 years; and
   (b) to assist any person in the exercise of the person’s powers or the performance of the person’s functions under this Act or any other enactment.
 
@@ -472,7 +484,7 @@ The purpose of the register is—
   (c) the date of each licence that has been issued to the licensed auditor; and
   (d) the date on which each licence was recorded in the register; and
   (e) the expiry date of each licence that is currently in force (and whether the licence continues in force under section 17(4)); and
-  (f) the kinds of issuer audits in respect of which the licensed auditor is authorised to act under each licence; and
+  (f) the kinds of FMC audits in respect of which the licensed auditor is authorised to act under each licence; and
   (g) the conditions placed on each licence that is currently in force; and
   (h) any suspension or cancellation of a licence that has been issued to the licensed auditor or any other action that has been taken on a disciplinary matter against the licensed auditor under this Act by an accredited body, a disciplinary body, or the FMA in the last 7 years; and
   (i) any other prescribed information.
@@ -524,7 +536,7 @@ The Registrar may refuse to accept a document received by the Registrar under th
   (a) the name, or any part of the name, of a person or audit firm:
   (b) the business address of a person or audit firm:
   (c) the name of an accredited body:
-  (d) any kind of issuer audit in respect of which a licensed auditor is authorised to act under a licence:
+  (d) any kind of FMC audit in respect of which a licensed auditor is authorised to act under a licence:
   (e) any other prescribed criteria:
   (f) any combination of the criteria in paragraphs (a) to (e).
 (3) The register may be searched for the following purposes:
@@ -664,7 +676,7 @@ An order made under section 59 must—
   (b) suspended under section 59, each licence issued by A is treated as suspended during the period in which A's accreditation is suspended.
 (2) The FMA may order that subsection (1) does not apply in respect of 1 or more classes of licences.
 (3) If 1 or more classes of licences issued by A continue in force as a result of an order under subsection (2), the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may perform regulatory functions in respect of those licences as if the other accredited body issued those licences (and that other accredited body may be the FMA acting under section 91).
-(4) The FMA may authorise a person whose licence is suspended or cancelled under subsection (1) to act, or continue to act, in respect of an issuer audit under section 23.
+(4) The FMA may authorise a person whose licence is suspended or cancelled under subsection (1) to act, or continue to act, in respect of an FMC audit under section 23.
 (5) Subsection (1) is subject to subsections (2) and (4).
 (6) If A was the relevant body under subpart 2 in respect of a registered audit firm,—
   (a) the cancellation or suspension of A's accreditation under section 59 does not result in the cancellation or suspension of the registration of the audit firm; but
@@ -702,9 +714,9 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (b) each licensed auditor who holds a licence issued under section 11 that is not a partner, director, or employee of an audit firm.
 (2) The quality review is for the purpose of ensuring that the systems, policies, and procedures are satisfactory in terms of—
   (a) promoting compliance with—
-    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; and
+    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) auditing and assurance standards; and
-  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of issuer audits.
+  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits.
 (3) A quality review must be carried out at least once in every 4-year period during which,—
   (a) in the case of subsection (1)(a), at least 1 partner, director, or employee of the audit firm holds a licence issued under section 11:
   (b) in the case of subsection (1)(b), the person holds a licence issued under section 11.
@@ -727,16 +739,16 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 ### 68 Quality review must include certain matters
 (1) A quality review must include—
   (a) an assessment of the design of the internal quality control system of the audit firm or licensed auditor in connection with the provision of audit services; and
-  (b) reasonable compliance testing of procedures, and a review of audit files in respect of a reasonable number of issuer audits, in order to verify the effectiveness of the internal quality control system; and
+  (b) reasonable compliance testing of procedures, and a review of audit files in respect of a reasonable number of FMC audits, in order to verify the effectiveness of the internal quality control system; and
   (c) a review of the systems, policies, and procedures of the audit firm or licensed auditor in respect of—
-    (i) compliance with this Act and other enactments that relate to the conduct of issuer audits:
+    (i) compliance with this Act and other enactments that relate to the conduct of FMC audits:
     (ii) compliance with auditing and assurance standards:
     (iii) the quantity and quality of resources used:
     (iv) compliance with competence programmes.
 (2) A quality review must otherwise be carried out in the prescribed manner.
-(3) If an audit file has been reviewed under subsection (1)(b), the quality review may include any further inquiries in respect of the issuer audit for the purpose of determining whether the issuer audit has been carried out—
+(3) If an audit file has been reviewed under subsection (1)(b), the quality review may include any further inquiries in respect of the FMC audit for the purpose of determining whether the FMC audit has been carried out—
   (a) in accordance with—
-    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; and
+    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) auditing and assurance standards; and
   (b) otherwise with reasonable care, diligence, and skill.
 
@@ -744,12 +756,12 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (1) This section applies, in respect of a quality review of the systems, policies, and procedures of an audit firm, to—
   (a) every partner, director, and employee of the audit firm; and
   (b) every person who provides services to the audit firm under a contract for services; and
-  (c) every issuer in relation to which the audit firm (or any of its partners, directors, or employees) has carried out, or is carrying out, an issuer audit.
+  (c) every FMC reporting entity in relation to which the audit firm (or any of its partners, directors, or employees) has carried out, or is carrying out, an FMC audit.
 (2) This section applies, in respect of a quality review of the systems, policies, and procedures of a licensed auditor, to—
   (a) the licensed auditor; and
   (b) every employee of the licensed auditor; and
   (c) every person who provides services to the licensed auditor under a contract for services; and
-  (d) every issuer in relation to which the licensed auditor (or any of his or her employees) has carried out, or is carrying out, an issuer audit.
+  (d) every FMC reporting entity in relation to which the licensed auditor (or any of his or her employees) has carried out, or is carrying out, an FMC audit.
 (3) Every person to whom this section applies commits an offence if the person hinders, obstructs, or delays the FMA (or a person referred to in section 66(1)) in connection with the carrying out of a quality review and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $40,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
@@ -757,16 +769,16 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 ### 70 FMA may issue directions
 (1) Subsection (2) applies if, after a quality review is completed, the FMA is satisfied on reasonable grounds that the systems, policies, and procedures of the audit firm or the licensed auditor are not sufficient in terms of—
   (a) promoting compliance with—
-    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; or
+    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
-  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of issuer audits.
+  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits.
 (2) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to amend the systems, policies, and procedures of the audit firm or the licensed auditor to effectively address the matters that caused the FMA to give the directions.
-(3) Subsection (4) applies if, after inquiries are made under section 68(3) in respect of an issuer audit, the FMA is satisfied on reasonable grounds that the issuer audit has not been carried out—
+(3) Subsection (4) applies if, after inquiries are made under section 68(3) in respect of an FMC audit, the FMA is satisfied on reasonable grounds that the FMC audit has not been carried out—
   (a) in accordance with—
-    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of issuer audits; or
+    (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
   (b) otherwise with reasonable care, diligence, and skill.
-(4) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to take reasonable steps to mitigate or remedy the failure to carry out the issuer audit in accordance with the matters referred to in subsection (3)(a) or otherwise with reasonable care, diligence, and skill (for example, by making a public announcement relating to the auditor's report).
+(4) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to take reasonable steps to mitigate or remedy the failure to carry out the FMC audit in accordance with the matters referred to in subsection (3)(a) or otherwise with reasonable care, diligence, and skill (for example, by making a public announcement relating to the auditor's report).
 (5) However, the FMA may not require a person, under subsection (4), to pay compensation to any other person in respect of the failure.
 (6) Subsection (4) does not limit the action that the FMA may take in respect of the matter under subpart 7 (and, for that purpose, the FMA's inquiries under section 68(3) may form part of or constitute the FMA's investigation under that subpart).
 
@@ -824,12 +836,12 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (a) start an investigation; or
   (b) take over an investigation started by an accredited body; or
   (c) conduct an investigation in conjunction with an accredited body.
-(2) However, the FMA may not investigate, under this subpart, the conduct of a member of an accredited body in respect of an issuer audit unless—
+(2) However, the FMA may not investigate, under this subpart, the conduct of a member of an accredited body in respect of an FMC audit unless—
   (a) the FMA is satisfied on reasonable grounds that—
     (i) the accredited body has decided not to investigate the matter; or
     (ii) the matter is not being investigated promptly or otherwise in a reasonable manner by, or on behalf of, the accredited body; or
   (b) the accredited body has asked the FMA to act under this subpart in respect of the matter.
-(3) In this subpart, an investigation is an investigation into the conduct of a licensed auditor in respect of 1 or more issuer audits (whether he or she holds a licence issued under section 11 or 12).
+(3) In this subpart, an investigation is an investigation into the conduct of a licensed auditor in respect of 1 or more FMC audits (whether he or she holds a licence issued under section 11 or 12).
 (4) This subpart does not limit any other powers of the FMA, under any other enactment, to investigate or inquire into any matter.
 
 ### 76 Relationship between FMA's investigation and other investigations or proceedings
@@ -846,16 +858,16 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (3) An accredited body that commits an offence under subsection (2) is liable on conviction to a fine not exceeding $100,000.
 
 ### 78 Disciplinary powers of FMA
-(1) The FMA may, after acting under section 75, make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more issuer audits carried out by the licensed auditor are not being, or have not been, carried out—
+(1) The FMA may, after acting under section 75, make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more FMC audits carried out by the licensed auditor are not being, or have not been, carried out—
   (a) in accordance with—
-    (i) the requirements imposed by or under this Act or any other enactments that relate to the conduct of issuer audits; or
+    (i) the requirements imposed by or under this Act or any other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
   (b) otherwise with reasonable care, diligence, and skill.
 (2) The orders are—
   (a) an order that the licensed auditor's licence be cancelled:
   (b) an order that the person whose licence is cancelled may not apply to be relicensed, whether with the same or a different accredited body, before the expiry of a specified period:
   (c) an order that the licensed auditor's licence be suspended for the period that the FMA thinks fit:
-  (d) an order prohibiting the licensed auditor from acting in respect of a specified issuer audit, or a specified class or classes of issuer audit,—
+  (d) an order prohibiting the licensed auditor from acting in respect of a specified FMC audit, or a specified class or classes of FMC audit,—
     (i) permanently; or
     (ii) for any period that the FMA thinks fit:
   (e) an order that the licensed auditor pay to the FMA any sum that the FMA considers just and reasonable towards the costs and expenses of, and incidental to, the FMA's investigation and the proceedings.
@@ -941,7 +953,7 @@ The enactments specified in the Schedule are amended in the manner indicated in 
   (b) satisfies the transitional requirements prescribed under section 32(1)(g) for the purposes of this section.
 (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the Institute under section 11 that—
   (a) is recorded in the register; and
-  (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of issuer audits; and
+  (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of FMC audits; and
   (c) expires on the earliest of—
     (i) the date that the person is issued with another licence under section 11; or
     (ii) the date that the licence is cancelled; or
@@ -955,7 +967,7 @@ The enactments specified in the Schedule are amended in the manner indicated in 
   (b) satisfies the transitional requirements prescribed under section 32(1)(g) for the purposes of this section.
 (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the FMA under section 12 that—
   (a) is recorded in the register; and
-  (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of issuer audits; and
+  (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of FMC audits; and
   (c) expires on the earliest of—
     (i) the date that the person is issued with another licence under section 12; or
     (ii) the date that the licence is cancelled; or
@@ -987,7 +999,7 @@ Nothing in section 85 or 86 or 87 prevents—
   (b) the FMA from exercising any power in relation to that licence or registration under this Act.
 
 ### 89 Requirements do not apply to accounting periods that have ended
-(1) The requirements in sections 8 and 9 do not apply to issuer audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section.
+(1) The requirements in sections 8 and 9 do not apply to FMC audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section.
 (2) The amendments made by section 82 and the Schedule do not apply to audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section and, accordingly, the requirements and provisions that would have applied if those amendments had not been made continue to apply to those audits.
 
 ### Subpart 4 — Miscellaneous provisions
