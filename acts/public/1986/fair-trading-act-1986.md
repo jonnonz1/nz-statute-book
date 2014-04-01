@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -104,9 +104,7 @@ _Consolidation as at 2013-12-18_
 (2) Notwithstanding any enactment or rule of law, proceedings under Part 5 may be brought against a body corporate referred to in subsection (1).
 
 ### 5A No liability under Act if not liable under Securities Act 1978 or Securities Markets Act 1988
-A court hearing a proceeding brought against a person under this Act must not find that person liable for conduct—
-  (a) that is regulated by the Securities Act 1978 if that person would not be liable for that conduct under that Act:
-  (b) that is regulated by the Securities Markets Act 1988 if that person would not be liable for that conduct under that Act.
+[Repealed]
 
 ### 5B Act does not apply to certain conduct regulated by Takeovers Code
 Nothing in this Act applies to conduct in relation to any transaction or event regulated by the Takeovers Code that is in force under the Takeovers Act 1993 or incidental or preliminary to a transaction or event that is or is likely to be regulated by that code.
@@ -993,6 +991,38 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 (3) The Commission must not provide a communication or information that is subject to the privilege referred to in section 57 of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
 (4) To avoid doubt, this section applies whether or not a communication or information is provided under a co-operation arrangement.
 
+### 48P Proceedings relating to financial products or financial services
+(1) This section applies if—
+  (a) the Commission is considering commencing civil or criminal proceedings in relation to conduct that constitutes, or may constitute, a contravention of any of sections 9 to 13; and
+  (b) the Commission considers that that conduct is in relation to a financial product or a financial service.
+(2) The Commission must, before commencing those proceedings, obtain the consent of the Financial Markets Authority (the FMA).
+(3) However, a failure to obtain consent under subsection (2) does not affect any proceedings commenced by the Commission.
+(4) The FMA, when considering whether to give its consent, must have regard to the following matters to the extent that the FMA considers that those matters are relevant:
+  (a) the purposes of the Financial Markets Conduct Act 2013 specified in sections 3 and 4 of that Act:
+  (b) any warning, report, or guideline issued, or comment or statement made, under section 9(1)(a)(ii) or (v) of the Financial Markets Authority Act 2011:
+  (c) any undertaking accepted under section 46 of the Financial Markets Authority Act 2011:
+  (d) any exemption granted under the Financial Markets Conduct Act 2013:
+  (e) any other action that the FMA has taken, or intends to take, in relation to the conduct:
+  (f) any other matters that the FMA considers relevant.
+(5) The FMA's consent may relate to particular conduct or a class of conduct (whether or not the conduct has already occurred).
+(6) In this section,—
+  - **financial product** —
+    (a) has the same meaning as in section 7 of the Financial Markets Conduct Act 2013; and
+    (b) includes, in relation to any provision of sections 9 to 13, any class or classes of financial product declared by regulations made under section 548(1)(a) of that Act to be a financial product for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act
+  - **financial service** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
+
+### 48Q No pecuniary penalty and fine for same conduct involving financial products or financial services
+(1) A person cannot be ordered to pay a pecuniary penalty, or be liable for a fine, under the Financial Markets Conduct Act 2013 and be liable for a fine under this Act for the same conduct.
+(2) A person that has, in respect of certain conduct, paid an amount in lieu of a pecuniary penalty under section 46A(1)(b) of the Financial Markets Authority Act 2011 is not liable for a fine under this Act for the same conduct.
+
+### 48R Unsubstantiated representations prohibition does not apply to financial markets disclosure
+(1) The provision of this Act that corresponds to section 23 of the Financial Markets Conduct Act 2013 does not apply to a representation made in a disclosure document or a register entry.
+(2) In this section, disclosure document and register entry have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
+
+### 48S Certain conduct under Financial Markets Conduct Act 2013 does not contravene various provisions of this Act
+(1) Conduct that contravenes section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 does not contravene any of sections 9 to 13 of this Act.
+(2) For the purpose of this section, conduct must be treated as contravening section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
+
 ### 49 Repeals and consequential amendments
 (1) The enactment specified in Schedule 1 is hereby amended in the manner indicated in that schedule.
 (2) The enactments specified in Part A of Schedule 2 are hereby repealed with effect from the commencement of this Act.
@@ -1016,3 +1046,21 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — Orders and notices revoked
+
+### 1 Title
+This Act is the Financial Markets (Repeals and Amendments) Act 2013.
+
+### 2 Commencement
+(1) Sections 4(2) to (4), 91, 101(3), (6), and (7), 105, and 107 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 April 2017.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+**Amendments to Fair Trading Act 1986**
+
+### 9 Transitional provision for existing offences and contraventions
+(1) This section applies to an offence committed under, or a contravention of, the principal Act before the commencement of section 7.
+(2) The principal Act continues to have effect as if it had not been amended by sections 7 and 8 for the purpose of—
+  (a) investigating an offence or a contravention to which this section applies:
+  (b) commencing or completing proceedings for an offence or a contravention to which this section applies:
+  (c) imposing a penalty or other remedy, or making an order, in relation to an offence or a contravention to which this section applies.
