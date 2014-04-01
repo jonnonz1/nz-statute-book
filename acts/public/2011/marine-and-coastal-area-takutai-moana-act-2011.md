@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2014-04-01_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -576,7 +576,7 @@ Nothing in this Act limits or affects—
 (1) For as long as a computer register issued for reclaimed land subject to this subpart contains a record made under section 39(3)(b), the freehold interest in the land may not be disposed of otherwise than in accordance with section 45, but if that record is removed (in accordance with subsection (6) of this section) following a disposition in accordance with section 45, the freehold interest may be disposed of in any lawful way.
 (2) However, the restriction in subsection (1) does not apply to a disposition that—
   (a) is made by a company to another company if both companies are—
-    (i) members of the same group (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
+    (i) members of the same group (within the meaning of section 5 of the Financial Reporting Act 2013); or
     (ii) related companies (within the meaning of section 2(3) of the Companies Act 1993); or
   (b) affects not solely the freehold interest in the reclaimed land, but also 1 or more other assets.
 (3) The Minister may, at the request of the proprietor of the freehold interest and on payment of any fees payable under regulations made under this Act, sign a certificate stating that the freehold interest in reclaimed land has been disposed of in accordance with section 45 or that the disposition is permitted by subsection (2).
