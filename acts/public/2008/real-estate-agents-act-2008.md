@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -258,7 +258,8 @@ The grounds for exercising a power conferred by any of sections 26 to 28 in resp
 (4) Section 27(2) applies, with all necessary modifications, to an order made under this section.
 
 ### 29 Authority may direct audit of agent's trust account
-The Authority may direct an audit of an agent's trust account at any time and appoint an auditor to carry out that audit.
+(1) The Authority may direct an audit of an agent's trust account at any time and appoint an auditor to carry out that audit.
+(2) No person is qualified for appointment as an auditor of the trust account unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 
 ### 30 Authority may inspect certain financial records
 (1) This section applies if the Authority has reasonable grounds to believe that any money entrusted to an agent or to any person acting on behalf of the agent has been stolen by any of the following persons:
