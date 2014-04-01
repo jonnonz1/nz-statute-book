@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1700,7 +1700,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) the deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased person's reasonable funeral expenses if—
   (a) a spouse or partner; or
   (b) a child or children whom he or she is liable in law to maintain; or
   (c) any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1710,10 +1710,10 @@ If a person, other than a child, dies and the deceased person is survived by—t
   (e) the annual income of any spouse or partner who survives the deceased is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
-If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
 
 ### 61DD Children's funeral grants
-If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased child's reasonable funeral expenses if—
+If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased child's reasonable funeral expenses if—
   (a) those funeral expenses cannot be paid from the aggregate of—
     (i) the deceased child's assessable estate before the payment of any other debts; and
     (ii) the combined assets of the parents, or any other person or persons, who were liable in law to maintain the deceased child on the date of death, other than non-assessable assets, in excess of the amount in clause 2 of Part 1 of Schedule 31; and
@@ -4736,15 +4736,15 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 3 — Rates of generally abolished former widows' benefits under section 21 as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $295.37 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $299.45 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $214.79 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $217.75 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 3A — Rate of sole parent support
 
 ### 1
-To a beneficiary with 1 or more dependent children: $295.37 a week, subject to Income Test 1.
+To a beneficiary with 1 or more dependent children: $299.45 a week, subject to Income Test 1.
 
 ### 2
 For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
@@ -4756,31 +4756,31 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
-| 1 | (a) | In respect of a child aged 14 years or over | $200.65 a week |
+| 1 | (a) | In respect of a child aged 14 years or over | $203.42 a week |
 | --- | --- | --- | --- |
-|  | (b) | In respect of a child aged over 10 years and under 14 years | $183.53 a week |
-|  | (c) | In respect of a child aged over 5 years and under 10 years | $166.32 a week |
-|  | (d) | In respect of a child aged under 5 years | $143.32 a week |
+|  | (b) | In respect of a child aged over 10 years and under 14 years | $186.06 a week |
+|  | (c) | In respect of a child aged over 5 years and under 10 years | $168.62 a week |
+|  | (d) | In respect of a child aged under 5 years | $145.30 a week |
 | 2 |  | The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of supported living payment benefits
 
-| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $208.58 a week, subject to Income Test 1 |
+| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $211.46 a week, subject to Income Test 1 |
 | --- | --- | --- | --- |
-|  | (b) | To any other single beneficiary without dependent children | $257.75 a week, subject to Income Test 1 |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $338.60 a week, subject to Income Test 1 |
+|  | (b) | To any other single beneficiary without dependent children | $261.31 a week, subject to Income Test 1 |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $343.27 a week, subject to Income Test 1 |
 |  | (d) | [Repealed] |  |
-|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $214.79 a week, subject to Income Test 2 |
-|  | (f) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $214.79 a week, increased by $214.79 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
-|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $214.79 a week, subject to Income Test 1 |
-|  | (h) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right | $214.79 a week, subject to Income Test 1 |
+|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $217.75 a week, subject to Income Test 2 |
+|  | (f) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $217.75 a week, increased by $217.75 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
+|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $217.75 a week, subject to Income Test 1 |
+|  | (h) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right | $217.75 a week, subject to Income Test 1 |
 | provided that, in computing the income of any beneficiary for the purpose of this schedule, the chief executive shall— |  |  |  |
 |  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 |  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $344.79 a week, increased by $42.96 a week if the beneficiary is a single person |
-| 3 |  | Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $214.79 a week. |  |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $347.75 a week, increased by $43.56 a week if the beneficiary is a single person |
+| 3 |  | Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $217.75 a week. |  |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -4788,28 +4788,28 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 9 — Rates of jobseeker support
 
-| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $137.47 a week, subject to Income Test 3 |
+| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $139.37 a week, subject to Income Test 3 |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | living with a parent (as that term is defined in section 3(1)); and |  |
 |  |  | (ii) | whose benefit commenced on or after 1 July 1998 |  |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $171.84 a week, subject to Income Test 3 |
-|  | (ab) | To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support— |  | $214.79 a week, subject to Income Test 1 |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $174.21 a week, subject to Income Test 3 |
+|  | (ab) | To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support— |  | $217.75 a week, subject to Income Test 1 |
 |  |  | (i) | by clause 2(9) and (11) of Schedule 32; or |  |
 |  |  | (ii) | by clause 10(6) and (8) of Schedule 32 |  |
-|  | (b) | To any other single beneficiary without dependent children |  | $206.21 a week, subject to Income Test 3 |
-|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $295.37 a week, subject to Income Test 1 |
-|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $295.37 a week, subject to Income Test 1 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $171.84 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $171.84 a week, increased by $171.84 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $171.84 a week, subject to Income Test 3 |
+|  | (b) | To any other single beneficiary without dependent children |  | $209.06 a week, subject to Income Test 3 |
+|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $299.45 a week, subject to Income Test 1 |
+|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $299.45 a week, subject to Income Test 1 |
+|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $174.21 a week, subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $174.21 a week, increased by $174.21 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $174.21 a week, subject to Income Test 3 |
 |  | (g) | [Repealed] |  |  |
 |  | (h) | [Repealed] |  |  |
 |  | (i) | [Repealed] |  |  |
 |  | (j) | [Repealed] |  |  |
-| 2 | Maximum increase in respect of a housekeeper |  |  | $171.84 a week |
+| 2 | Maximum increase in respect of a housekeeper |  |  | $174.21 a week |
 | 3 | [Repealed] |  |  |  |
 | 4 | [Repealed] |  |  |  |
-| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $171.84 a week, subject to Income Test 4 |
+| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $174.21 a week, subject to Income Test 4 |
 | 5A | A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(ba), includes, without limitation, any such beneficiary who is— |  |  |  |
 |  | (a) | a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or |  |  |
 |  | (b) | a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32; or |  |  |
@@ -4837,9 +4837,9 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 16 — Rates of generally abolished former DPB for solo parents under section 27B as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $295.37 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $299.45 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $214.79 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $217.75 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
@@ -4901,10 +4901,10 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1 | Rate of child disability allowance | $45.62 a week |
+| 1 | Rate of child disability allowance | $46.25 a week |
 | --- | --- | --- |
-| 2 | Maximum rate of disability allowance under section 69C(1) | $60.54 a week |
-| 3 | Rate of special disability allowance under section 69C(5) | $37.76 a week |
+| 2 | Maximum rate of disability allowance under section 69C(1) | $61.38 a week |
+| 3 | Rate of special disability allowance under section 69C(5) | $38.28 a week |
 
 ## Schedule 20 — Rates of contributions by liable parents to cost of domestic purposes benefit
 
@@ -4912,7 +4912,7 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act | $42.64 a week |
+| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act | $43.23 a week |
 | --- | --- | --- |
 | 2 | [Repealed] |  |
 
@@ -4926,11 +4926,11 @@ In determining the base rate in relation to a person in respect of any period th
 
 |  | $ |
 | --- | --- |
-| 1For a single young person without dependent children. | 171.84 a week subject to clause 10 |
-| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 137.47 a week subject to clause 10 |
-| 3For any other single young person with a dependent child or children. | 295.37 a week subject to clause 10 |
-| 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 171.84 a week subject to clause 11 |
-| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children. | 171.84 a week subject to clause 11 |
+| 1For a single young person without dependent children. | 174.21 a week subject to clause 10 |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 139.37 a week subject to clause 10 |
+| 3For any other single young person with a dependent child or children. | 299.45 a week subject to clause 10 |
+| 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 174.21 a week subject to clause 11 |
+| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children. | 174.21 a week subject to clause 11 |
 
 |  | $ |
 | --- | --- |
@@ -4942,9 +4942,9 @@ In determining the base rate in relation to a person in respect of any period th
 | 8Budgeting incentive. | 10 a week |
 | 9Parenting education incentive. | 10 a week |
 
-| 10The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $208.00, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $258.00. |
+| 10The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $210.88, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $260.88. |
 | --- |
-| 11The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $208.00, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $308.00. |
+| 11The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $210.88, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $310.88. |
 | 12For the purposes of clause 10 or 11 and a rate of young parent payment, the chief executive may, in his or her discretion, disregard up to $20 a week of the personal earnings of the young person used to meet the costs of child care for any of the person’s dependent children. |
 
 ## Schedule 27 — Means assessment under Part 4
@@ -5083,27 +5083,27 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
-| 1 | For a single person without dependent children | $1,031.36 |
+| 1 | For a single person without dependent children | $1,045.59 |
 | --- | --- | --- |
-| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,718.52 |
-| 3 | For a sole parent with 1 dependent child | $1,354.21 |
-| 4 | For any other sole parent | $1,454.71 |
+| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,742.24 |
+| 3 | For a sole parent with 1 dependent child | $1,372.90 |
+| 4 | For any other sole parent | $1,474.78 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 5 | For a single person aged 16 or 17 years without dependent children | $471.09 |
-| 6 | For any other single person without dependent children | $541.43 |
-| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $786.39 |
-| 8 | For a sole parent with 1 dependent child | $656.99 |
-| 9 | For any other sole parent | $692.18 |
+| 5 | For a single person aged 16 or 17 years without dependent children | $477.59 |
+| 6 | For any other single person without dependent children | $548.90 |
+| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $797.24 |
+| 8 | For a sole parent with 1 dependent child | $666.06 |
+| 9 | For any other sole parent | $701.73 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 10 | For a single person aged 16 or 17 years without dependent children | $509.10 |
-| 11 | For any other single person without dependent children | $595.92 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $882.79 |
-| 13 | For a sole parent with 1 dependent child | $710.02 |
-| 14 | For any other sole parent | $748.07 |
+| 10 | For a single person aged 16 or 17 years without dependent children | $516.13 |
+| 11 | For any other single person without dependent children | $607.36 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $900.57 |
+| 13 | For a sole parent with 1 dependent child | $719.82 |
+| 14 | For any other sole parent | $758.39 |
 
 ## Schedule 32 — Transitional and savings provisions related to amendments to this Act
 
