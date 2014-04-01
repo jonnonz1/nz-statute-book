@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -317,7 +317,7 @@ The following must from time to time be paid out of the Fund:
 (2) If a contravention of subsection (1) arises (through inadvertence or otherwise), the Authority must take all reasonable steps to remedy the default as soon as practicable.
 (3) For the purposes of this Act, an entity is controlled by the Fund if—
   (a) the entity is a subsidiary of the Fund; or
-  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
+  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (4) This section limits section 15B(5)(b), but does not limit section 15B(5)(a) or (c).
 (5) In this section, Fund means the Authority acting in respect of the Fund.
@@ -2761,7 +2761,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
 
 ### 93 Financial statements
 (1) The Authority shall ensure that financial statements for the Fund are prepared in respect of each financial year.
-(2) The annual financial statements shall be prepared in accordance with generally accepted accounting practice (as defined in section 3 of the Financial Reporting Act 1993) and shall include—
+(2) The annual financial statements shall be prepared in accordance with generally accepted accounting practice (as defined in section 8 of the Financial Reporting Act 2013) and shall include—
   (a) a statement of the financial position of the Fund at its balance date:
   (b) an operating statement reflecting the revenues and expenses of the Fund for the financial year:
   (c) a statement of cash flows reflecting cash flows of the Fund for the financial year.
