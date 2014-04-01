@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2014-03-25_
+_Consolidation as at 2014-04-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -3668,7 +3668,7 @@ A person is eligible to be appointed as an auditor under section 206J unless tha
   (c) an employee or partner of a person referred to in paragraph (a) or (b); or
   (d) an officer or employee of a party; or
   (e) a body corporate; or
-  (f) a person who, by virtue of section 199(1) of the Companies Act 1993, may not be appointed or act as an auditor of a company; or
+  (f) a person who, by virtue of section 36(1) of the Financial Reporting Act 2013, may not be appointed or act as an auditor of an entity; or
   (g) a Returning Officer.
 
 ### 206L Auditor's report on return of party's election expenses
