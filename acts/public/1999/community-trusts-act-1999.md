@@ -1,5 +1,5 @@
 # Community Trusts Act 1999
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2014-04-01_
 
 > An Act to make continued provision for the operation of the community trusts established under the Trustee Banks Restructuring Act 1988
 
@@ -48,7 +48,7 @@ A person must not be appointed or reappointed, or hold office as a trustee of a 
   (b) convicted of an offence punishable by imprisonment for a term of 2 years or more:
   (c) convicted of an offence punishable by a term of imprisonment of less than 2 years and is sentenced to imprisonment for that offence:
   (d) subject to an order made under section 383 of the Companies Act 1993:
-  (e) a person to whom section 151(2)(ba) or section 151(2)(c) of the Companies Act 1993 applies:
+  (e) a person to whom section 151(2)⁠(ba) or section 151(2)⁠(c) of the Companies Act 1993 applies:
   (f)
   (g) not resident in the area or region of the trust:
   (h) employed in the service of, or holding an office (other than the office of director) in, a trustee bank's successor company in which that trust holds shares.
@@ -91,24 +91,44 @@ An indemnity given by a community trust to a trustee of that trust in respect of
 
 **Operational requirements relating to community trusts**
 
-### 13 Community trusts must comply with Financial Reporting Act 1993
-(1) A community trust must comply with the Financial Reporting Act 1993 as if it were a reporting entity within the meaning of section 2 of that Act.
-(2) The trustees of a community trust are deemed to be directors within the meaning of section 2 of the Financial Reporting Act 1993.
-(3) Sections 15, 16(1), 38(a), and 40 of the Financial Reporting Act 1993 apply to a community trust as if it were an issuer within the meaning of section 4 of that Act.
-(4) Despite section 7 of the Financial Reporting Act 1993, the balance date of a community trust is the close of 31 March.
-(5) In addition to complying with section 8 of the Financial Reporting Act 1993, the financial statements of a community trust must show separately—
-  (a) the names of persons or organisations to whom distributions of income and capital have been approved or paid by the community trust under section 12 in that financial year; and
+### 13 Community trusts must prepare financial statements
+(1) A community trust must ensure that, within 5 months after the balance date of the trust, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the trust and that balance date; and
+  (b) dated and signed on behalf of the trust by 2 trustees of the trust.
+(2) In addition to complying with subsection (1), the financial statements of a community trust must show separately—
+  (a) the names of persons or organisations to whom distributions of income and capital have been approved or paid by the community trust under section 12 in the relevant accounting period; and
   (b) the amounts approved or paid.
-(6) Despite section 15(2) of the Financial Reporting Act 1993, an auditor appointed by the trustees of a community trust—
-  (a) must be appointed in accordance with the provisions of the Companies Act 1993 which, for that purpose, apply with such modifications as may be necessary; and
-  (b) must not be a trustee, employee, or agent of the trust.
-(7) Unless directed otherwise by the Minister, the trustees of a community trust must, not later than 31 August in each year,—
-  (a) send the financial statements and the auditor's report to the Minister; and
-  (b) publish copies of the financial statements and the auditor's report—
-    (i) in the Gazette; and either
-    (ii) in 1 or more principal newspapers circulating in the area or region of the trust; or
-    (iii) by distribution to every household in that area or region.
-(8) Despite subsection (7)(b), the trustees are not required to publish in the Gazette the information specified in subsection (5) if the trustees publish in the Gazette, with the financial statements and auditor's report, a statement that a list of all distributions of income and capital approved or paid by the community trust in the relevant financial year is available, on request, from the office of the trust.
+(3) In this section and sections 13A to 13C,—
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **balance date** means the close of 31 March
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
+
+### 13A Financial statements must be audited
+(1) A community trust must ensure that its financial statements are audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a community trust).
+(3) The auditor must, in carrying out an audit, comply with all applicable auditing and assurance standards.
+(4) The auditor's report on the financial statements must comply with the requirements of all applicable auditing and assurance standards.
+(5) Subsections (3) and (4) do not apply to a community trust that is a public entity (within the meaning of the Public Audit Act 2001).
+
+### 13B Distribution and publication of financial statements
+(1) Unless directed otherwise by the Minister, the trustees of a community trust must, not later than 31 August in each year,—
+  (a) send the financial statements of the trust and the auditor's report to the Minister; and
+  (b) publish copies of those financial statements and the auditor's report on an Internet site maintained by or on behalf of the trust.
+(2) Despite subsection (1)⁠(b), the trustees are not required to publish on the Internet site the information specified in section 13(2) if the trustees publish on the Internet site, with the financial statements and auditor's report, a statement that a list of all distributions of income and capital approved or paid by the community trust in the relevant accounting period is available, on request, from the office of the trust.
+
+### 13C Financial reporting offences
+(1) Subsection (2) applies if—
+  (a) the financial statements of a community trust—
+    (i) are not completed and signed within the time specified in section 13; or
+    (ii) fail to comply with an applicable financial reporting standard; or
+  (b) a community trust fails to comply with section 13A or 13B (which relates to auditing and distribution and publication of financial statements).
+(2) Every trustee commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) It is a defence to a trustee charged with an offence under this section in respect of a requirement referred to in subsection (1) if the trustee proves that—
+  (a) the community trust took all reasonable and proper steps to ensure that the requirement would be complied with; or
+  (b) the trustee took all reasonable steps to ensure that the requirement would be complied with; or
+  (c) in the circumstances, the trustee could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
 
 ### 14 Trustees must hold public meeting
 (1) The trustees of a community trust must hold a public meeting in the area or region of the trust not later than 31 October in each year.
@@ -165,7 +185,7 @@ The trust deed of a community trust must contain provisions—
   (c) the property, rights, assets, and liabilities of each of the existing community trusts vest in those trustees in the manner specified in the order, and are held by them on and subject to the trusts contained in the trust deed; and
   (d) the existing community trusts are dissolved; and
   (e) the trustees of the existing community trusts cease to hold office as trustees of those trusts.
-(7) The area or region of the new community trust established under subsection (6)(a) must correspond with the area or region of the existing community trusts referred to in subsection (2)(a).
+(7) The area or region of the new community trust established under subsection (6)⁠(a) must correspond with the area or region of the existing community trusts referred to in subsection (2)⁠(a).
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
 
 ### 18 Formation of separate community trusts in place of existing community trust
@@ -194,7 +214,7 @@ The trust deed of a community trust must contain provisions—
   (c) the property, rights, assets, and liabilities of the existing community trust vest in those trustees in the manner specified in the order and are held by them on and subject to the trusts contained in the trust deeds; and
   (d) the existing community trust is dissolved; and
   (e) the trustees of the existing community trust cease to hold office as trustees of that trust.
-(7) The area or region of each new community trust established under subsection (6)(a) is the part of the area or region of the existing community trust referred to in subsection (2)(a) as is specified in the order.
+(7) The area or region of each new community trust established under subsection (6)⁠(a) is the part of the area or region of the existing community trust referred to in subsection (2)⁠(a) as is specified in the order.
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
 
 **Other matters**
@@ -216,7 +236,7 @@ Section 64 of the Reserve Bank of New Zealand Act 1989 does not apply to—
   (a) are in addition to the powers given by this Act, the instrument creating the trust, and the powers given by any Act under which the trustees are incorporated:
   (b) unless otherwise stated, apply and have effect subject to any contrary intention expressed in this Act or the instrument creating the trust:
   (c) unless otherwise stated, apply and have effect subject to any contrary intention expressed in the Act under which the trustees are incorporated.
-(4) Nothing in subsection (3)(c) affects any Act which applies to all trustees, whether corporations or not.
+(4) Nothing in subsection (3)⁠(c) affects any Act which applies to all trustees, whether corporations or not.
 
 ### 22 Fees
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations prescribing or providing for fees or charges payable by community trusts to the department for the provision of services by the department.
