@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -17,6 +17,8 @@ In this Act, unless the context otherwise requires,—
   - **annual return** means the return sent to the Registrar—
     (a) in the case of societies registered under Part 2, under section 70:
     (b) in the case of credit unions, under section 127
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **association** means an association of credit unions registered as such under Part 3
   - **bank** means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand, the Post Office Bank Limited, any private savings bank company's successor under the Private Savings Banks (Transfer of Undertakings) Act 1992, and any trustee bank's successor company constituted under the Companies Act 1993
   - **benevolent society** means a society of the kind specified in section 11(1)(b)
@@ -25,19 +27,20 @@ In this Act, unless the context otherwise requires,—
   - **committee** and mean the directing body of a society or branch, by whatever name that body is known
   - **credit union** means any society or body of persons registered or deemed to be registered as a credit union under Part 3; and, unless otherwise provided by this Act and with any necessary modifications, includes an association of credit unions
   - **document** includes all instruments by way of security and title, membership and other registers, and all documents and records; but does not include accounting records
-  - **exempt society** or or means a registered society or branch or credit union exempted from certain audit requirements pursuant to section 62(4) or, as the case may be, section 122(2) or (6); but does not include an association of credit unions
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
   - **friendly society** means a society of the kind specified in section 11(1)(a)
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **land** includes any interest in land
-  - **licensed auditor** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **meeting** includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
   - **Minister** means the Minister of the Crown having for the time being charge of the administration of this Act
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **officer** , in relation to a registered society or branch or credit union, includes any trustee, treasurer, secretary, or member of the committee of management of the society, branch, or credit union, and any person appointed by the society or branch or credit union to sue and be sued on its behalf
   - **persons claiming through a member** includes the nominee of the member where nomination is allowed
   - **property** means all property, whether real or personal (including accounting records and all documents)
+  - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013
   - **registered** means received by the Registrar and sealed with his seal of office
-  - **registered audit firm** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **registered society or branch** means a society or branch registered or deemed to be registered under Part 2
   - **Registrar** means the Registrar of Friendly Societies and Credit Unions, and, where a Deputy Registrar of Friendly Societies and Credit Unions is lawfully acting, includes that Deputy Registrar
   - **Revising Barrister** means the Solicitor-General; and includes any Crown Counsel in the Crown Law Office
@@ -94,7 +97,7 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 
 ### 9 Registrar may publish statements, etc
 The Registrar may from time to time prepare, cause to be circulated, or publish, for the use of registered societies or branches, or credit unions,—
-  (a) model forms (including forms of accounts, and statements of financial position) and model rules:
+  (a) model forms and model rules:
   (b) information on the subject of the statistics of life and sickness and its application to the business of friendly societies:
   (c) such particulars of annual returns and valuations, and reports, and such other information as the Registrar thinks fit.
 
@@ -308,8 +311,7 @@ Except as provided in this Part, the subscription of a person who is or has been
 (3) The register shall be kept at the registered office of the society or branch, and shall be open to inspection during ordinary office hours by any member of the society or branch.
 
 ### 41 Inspection of books and accounts of society
-(1) Subject to subsection (2), any member or other person having an interest in the funds of a registered society or branch may inspect the books and accounts of the society or branch at all reasonable hours at the registered office of the society or branch or at any place where the books or accounts are kept.
-(2) Unless he is an officer of the society or branch or is specially authorised by resolution of the society or branch to do so, a member or other person having an interest in the funds of a registered society or branch shall not have the right to inspect any account of any other member without the written consent of that member.
+[Repealed]
 
 **Benefits**
 
@@ -422,90 +424,79 @@ A registered society or branch may (if its rules so provide) out of any surplus 
 (2) Public Trust or the trustee company shall invest, in accordance with the rules, any funds so transferred and shall pay the interest on any stocks, shares, or securities acquired by or transferred pursuant to this section to the trustees of the society or branch, and shall, where the trustees so require, transfer the capital of the stocks, shares, or securities to them, or realise the same and transfer the proceeds to them.
 (3) Public Trust or the trustee company shall not be under any liability in relation to any stock, shares, or securities held under this section, and no action shall lie against Public Trust or the trustee company in respect of any such stock, shares, or securities where it acts in accordance with the provisions of this section.
 
-**Accounts, audit, and auditors**
+**Accounting records and financial reporting**
 
 ### 59 Financial year
 (1) The first financial year of a registered society or branch may extend from the date of its registration to such date not later than 18 months from the date of its registration as may be specified in its rules.
 (2) Where the rules of a registered society or branch are amended to alter its financial year, the amendment may provide that the financial year current at the date of amendment shall be extended for such period not exceeding 6 months as may be specified in its rules or that the financial year next following the financial year that is so current shall be for such period exceeding 12 months but not exceeding 18 months as may be specified in its rules.
-(3) Nothing in this section limits or affects the requirements imposed by the Financial Reporting Act 1993 on a registered society or branch which is an issuer within the meaning of section 4 of that Act.
+(3)
 
-### 60 Accounting records to be kept
-(1) Every registered society and branch shall—
-  (a) cause proper accounting records to be kept relating to its transactions, and its assets and liabilities; and
-  (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments.
-(2) For the purposes of subsection (1)(a), the accounting records must—
-  (a) correctly record and explain the transactions of the society or branch; and
-  (b) enable the financial position of the society or branch to be determined with reasonable accuracy at any time; and
-  (c) in the case of a society or branch that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, be such as are necessary to give a true and fair view of the state of affairs of the society or branch; and
-  (d) in the case of a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, be such as are necessary to ensure that the financial statements of the society or branch within the meaning of that Act comply with that Act; and
-  (e) enable the accounts of the society or branch to be readily and properly audited.
-(3) Any accounting records to be kept by a registered society or branch may be kept either by making entries in bound books or by recording the matters in question in any other manner.
-(4) Every society or branch shall take adequate precautions for guarding against falsification of any accounting records and for facilitating the discovery of any such falsification.
+### 60 Accounting records must be kept
+(1) Every registered society or branch must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the society or branch; and
+  (b) will enable the society or branch to ensure that the financial statements of the society or branch comply with the requirements of this Act or any other Act (if those statements are required to be prepared); and
+  (c) will enable the financial statements of the society or branch to be readily and properly audited (if those statements are required to be audited).
+(2) Every registered society or branch must establish and maintain a satisfactory system of control of its accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
 
-### 61 General provisions relating to accounts and statement of financial position
-(1) Every registered society or branch shall, in respect of each financial year, cause to be prepared—
-  (a) either an income and expenditure account which deals with the affairs of the society or branch as a whole for that year, or 2 or more income and expenditure accounts for that year which deal separately with the particular businesses or activities conducted by the society or branch; and
-  (b) a statement of financial position as at the end of that financial year.
-(2) Every income and expenditure account of a registered society or branch shall give a true and fair view—
-  (a) if it deals with the affairs of the society or branch as a whole, of the income and expenditure of the society or branch as a whole for the period to which the account relates; and
-  (b) if it deals with any particular business or activity conducted by the society or branch, of the income and expenditure of the society or branch in respect of that business or activity for the period to which the account relates.
-(3) Where that part of subsection (1)(a) relating to 2 or more income and expenditure accounts applies, then, without prejudice to the application of subsection (2)(b) to each income and expenditure account dealing with a particular business or activity conducted by a society or branch, the income and expenditure accounts in question, when considered together, shall give a true and fair view of the income and expenditure of the society or branch as a whole for the financial year to which they relate.
-(4) Every statement of financial position of a registered society or branch shall give a true and fair view, as at the date of the statement of financial position, of the state of the affairs of the society or branch.
-(5) A registered society or branch shall not publish any income and expenditure account or statement of financial position unless—
-  (a) it has been previously audited by the auditor or auditors last appointed to audit the accounts and statement of financial position of the society or branch; and
-  (b) it incorporates a report by the auditor or auditors stating whether, in their opinion, it complies with this section; and
-  (c) it has been signed by the secretary of the society or branch and either by 2 members of its committee of management acting on behalf of that committee, or by 1 member of its committee of management acting on behalf of that committee and by one of the trustees of the society or branch.
-(6) Nothing in this section applies to a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993.
+### 61 Non-application of section 63 if alternative financial reporting duties under financial markets legislation
+Section 63 does not apply to a registered society or branch in relation to a financial year if financial statements in relation to the society or branch and that financial year are required to be prepared under subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
 
-### 62 Obligation to appoint auditors
-(1) Subject to this section, every registered society and branch shall, in each financial year, appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year.
-(2) Subsection (1) shall not apply to a society or branch if—
-  (a) the receipts and payments of that society or branch in respect of the preceding financial year did not, in the aggregate, exceed $50,000; and
-  (b) the value of its assets at the end of that year did not, in the aggregate, exceed $50,000.
-(3) Subsection (1) shall not apply to a registered branch if—
-  (a) the conditions specified in subsection (2)(a) are satisfied in respect of that branch; and
-  (b) at the end of the preceding financial year at least 75% of its assets had been transferred to the society of which it is a branch or to another registered branch of that society for the purpose of being invested, in accordance with section 50, by that society or other branch, and the value of its assets not so transferred did not, in the aggregate, exceed $50,000; and
-  (c) the society or branch to which the assets were transferred is one to which subsection (1) applies in the financial year in question.
-(4) A registered society or branch to which, by virtue of subsection (2) or subsection (3), subsection (1) does not apply in respect of any financial year shall, in this Act, be referred to as an exempt society or, as the case may be, an exempt branch, in respect of that financial year.
-(5) For the purposes of subsection (4), where the preceding financial year of a registered society or branch was greater than a period of 12 months, as provided under section 59, the amount of $50,000 referred to in subsection (2) and subsection (3) shall be increased proportionately.
-(6) The Registrar may give a direction in the case of any particular society or branch which is not an exempt society or branch and which has not complied with subsection (1) requiring it to comply with the said subsection within such period as he may specify in the direction; and any society or branch which fails to so comply within the specified time commits an offence against this Act.
-(7) The Governor-General, from time to time by Order in Council, may—and any such order may make different provision in relation to different cases or different circumstances.
-  (a) substitute for any sum or percentage for the time being specified in this section, such sum or percentage as may be specified in the order; and
-  (b) prescribe what receipts and payments of a society shall be taken into account for the purposes of subsection (2) or subsection (3),—
+### 62 Meaning of specified not-for-profit entity
+In sections 63 to 64A, a registered society or branch is, in respect of a financial year, a specified not-for-profit entity if it is such an entity in respect of that year under section 46 of the Financial Reporting Act 2013.
 
-### 63 Qualifications for appointment as auditor
-(1) No person is qualified for appointment as auditor of a registered society or branch under this Act unless he or she is,—
-  (a) in the case of a registered society or branch that is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993), a licensed auditor:
-  (b) in any other case,—
-    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-    (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of section 199 of the Companies Act 1993.
-(2) The appointment of a partnership by the firm name to be the auditors of a registered society or branch shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
-(2A) However, if the registered society or branch is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),—
-  (a) a partnership appointed by its firm name to be the auditors of the registered society or branch must be a registered audit firm; and
-  (b) the appointment of a registered audit firm by its firm name to be the auditors of the registered society or branch is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
-(3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a registered society or branch and holding office as such immediately before the commencement of this Act from acting as auditor of that society or branch, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that society or branch.
-(4) None of the following persons shall be qualified for appointment as auditor of a registered society or branch:
-  (a) an officer or employee of the society or branch:
-  (b) a person who is a partner of or in the employment of an officer or employee of the society or branch:
-  (c) a body corporate.
-(5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any society or branch.
-(6) Subject to section 64, if a registered society or branch appoints any unqualified person to be an auditor—
-  (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
-  (b) the society or branch, and every officer of the society or branch who is in default, commits an offence against this Act.
-(7) Subject to this Act, any unqualified person who acts as auditor of any registered society or branch commits an offence against this Act.
+### 63 Financial statements must be prepared
+(1) Every registered society or branch must ensure that, within 3 months after the end of the financial year of the society or branch, financial statements are—
+  (a) completed in relation to the society or branch and that financial year; and
+  (b) dated and signed on behalf of the society or branch by the secretary of the society or branch and either by 2 members of its committee of management acting on behalf of that committee, or by 1 member of its committee of management acting on behalf of that committee and by 1 of the trustees of the society or branch.
+(2) The financial statements must be prepared in accordance with,—
+  (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+(3) A registered society or branch must not publish any financial statements unless—
+  (a) those financial statements have been audited by the auditor or auditors last appointed to audit the financial statements of the society or branch; and
+  (b) those financial statements include, or are accompanied by, a report by the auditor or auditors.
+(4) Subsection (3) does not apply if the financial statements are not required to be audited.
+(5) This section is subject to sections 61 and 64.
 
-### 64 Audit of exempt societies and branches
-(1) Subject to any direction given by the Registrar under subsection (2), every exempt society or exempt branch shall, in each financial year, appoint at its option either—to audit its accounts and statement of financial position for that year.
-  (a) a qualified auditor or qualified auditors; or
-  (b) 2 or more persons who are not qualified auditors,—
-(2) The Registrar may give a direction in the case of any particular exempt society or exempt branch in respect of the current financial year requiring it to appoint a qualified auditor or auditors to audit its accounts and statement of financial position for that year.
-(3) The Registrar may also give a direction in the case of any particular exempt society or exempt branch in respect of any financial year before that in which the direction is given and did not appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year—
-  (a) requiring it to appoint a qualified auditor to audit those accounts and that statement of financial position; and
-  (b) in any case where that society or branch has sent to him its annual return for that year before the date of the direction, requiring it (after its accounts and statement of financial position have been audited by a qualified auditor) to send to him within 3 months from receipt of the direction, or within such further period as he may allow in any particular case, a further annual return complying with the requirements of this Act (other than the requirement as to the time at which the annual return must be sent).
+### 64 Registered society or branch may opt out
+(1) This section applies to a registered society or branch that would, but for this section, be required to comply with section 63 unless the rules of the society or branch expressly provide that this section does not apply.
+(2) However, this section does not apply to a registered society or branch in respect of a financial year if, in each of the 2 preceding financial years, the total operating expenditure of the society or branch is $30 million or more.
+(3) The members of a registered society or branch may, at a meeting of the society or branch held within 6 months from the start of a financial year, opt out of compliance with section 63 in relation to that financial year by way of a resolution of a majority of the members of the registered society or branch.
+(4) If the members opt out of compliance with section 63 in relation to a financial year under this section, the section does not apply to the society or branch in relation to that financial year.
+(5) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of this section must be applied in determining whether subsection (2) applies.
+
+### 64A Obligation to appoint auditors
+(1) Every registered society or branch that is a specified not-for-profit entity in respect of a financial year must appoint a qualified auditor to audit its financial statements for that year (whether the financial statements are prepared under this Act or another Act).
+(2) Subsection (1) does not apply if financial statements for that year are not required to be prepared under any Act.
+(3) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a registered society or branch).
+(4) If a registered society or branch is not a specified not-for-profit entity in respect of a financial year, the society or branch must appoint a qualified auditor to audit its financial statements for that year if the rules of the society or branch require an auditor to be appointed.
+
+### 64B Registrar may appoint auditor
+The Registrar may appoint an auditor if—
+  (a) no auditor is appointed as required by section 64A; or
+  (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring.
+
+### 64C Offences relating to accounting records and financial reporting
+Every registered society or branch commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
+  (a) the society or branch fails to comply with section 60, 63(3), or 64A; or
+  (b) the society or branch is required to comply with section 63 and the financial statements of the society or branch—
+    (i) are not completed and signed within the time specified in that section; or
+    (ii) fail to comply with an applicable financial reporting standard or a non-GAAP standard (as the case may be).
+
+### 64D Audit must be carried out in accordance with auditing and assurance standards
+An auditor must, in carrying out an audit of the financial statements of a registered society or branch, comply with all applicable auditing and assurance standards.
+
+### 64E Auditor must report to society or branch
+(1) The auditor of a registered society or branch must make a report to the society or branch on the financial statements audited by the auditor.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
 
 ### 65 Reappointment and removal of auditors
-(1) Subject to this Act, a qualified auditor appointed to audit the accounts and statement of financial position of a registered society or branch for the preceding financial year shall be deemed to be reappointed as auditor of the society for the current financial year unless—
+(1) Subject to this Act, a qualified auditor appointed to audit the financial statements of a registered society or branch for the preceding financial year shall be deemed to be reappointed as auditor of the society for the current financial year unless—
   (a) a resolution has been passed at a general meeting of the society or branch appointing another auditor or other auditors or providing expressly that the present auditor shall not be reappointed; or
+  (ab) financial statements for the current financial year are not required to be prepared; or
+  (ac) the society or branch is not required under section 64A or any other enactment to appoint an auditor for the current financial year; or
   (b) he has given to the society or branch notice in writing of his unwillingness to be reappointed; or
   (c) he is ineligible for appointment as auditor of the society or branch for the current financial year; or
   (d) he has ceased to act as auditor of the society or branch by reason of death or incapacity.
@@ -536,22 +527,10 @@ A registered society or branch may (if its rules so provide) out of any surplus 
 (6) Any provision in this section which requires notice to be given to the members of a society or branch or confers any right upon a member (as the case may be) shall be construed, in the case of a meeting of delegates appointed by members, as requiring a notice to be given to the delegates so appointed or as conferring the right upon a delegate (as the case may be).
 
 ### 68 Auditors' report
-(1) The auditors of a registered society or branch shall make a report to the society or branch on the accounts examined by them and on the income and expenditure account or accounts and the statement of financial position of the society or branch for the financial year in respect of which they are appointed.
-(2) The report shall state whether the income and expenditure account or accounts and the statement of financial position for that year comply with the requirements of this Act and whether, in the opinion of the auditors,—
-  (a) the income and expenditure account or accounts give a true and fair view, in accordance with section 61, of the income and expenditure of the society or branch as a whole for that financial year and, in the case of each such account which deals with a particular business or activity conducted by the society or branch, a true and fair view in accordance with that section of the income and expenditure of the society or branch in respect of that business or activity for that year; and
-  (b) the statement of financial position gives a true and fair view, in accordance with that section, of the state of the affairs of the society or branch as at the end of that financial year.
-(3) Where the report of the auditors relates to any accounts other than the income and expenditure account or accounts for the financial year in respect of which they are appointed, that report shall state whether those accounts give a true and fair view of any matter to which they relate.
-(4) It shall be the duty of the auditors of a registered society or branch, in preparing their report under this section, to carry out such investigations and make such enquiries as will enable them to form an opinion of the following matters:and, if the auditors are of opinion that the society or branch has failed to comply with paragraph (a) or paragraph (b) of section 60(1) or, as the case may be, section 60(4), or if the income and expenditure account or accounts, the other accounts (if any) and the statement of financial position are not in agreement with the accounting records of the society or branch, the auditors shall state that fact in their report.
-  (a) whether the society or branch has kept proper accounting records in accordance with section 60(1)(a) and (2); and
-  (b) whether the society or branch has maintained a satisfactory system of control over its transactions in accordance with section 60(1)(b) and section 60(4); and
-  (c) whether the income and expenditure account or accounts, the other accounts (if any) to which the report relates, and the statement of financial position are in agreement with the accounting records of the society or branch,—
-(5) If the auditors fail to obtain all the information and explanations which, to the best of their knowledge and belief, are necessary for the purposes of their audit, they shall state that fact in their report.
-(6) Nothing in this section applies to a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993.
+[Repealed]
 
-### 69 Auditors' rights of access
-(1) Every auditor of a registered society or branch—
-  (a) shall have a right of access at all times to the accounting records of the society or branch and to all other documents relating to its affairs; and
-  (b) shall be entitled to require from the officers of the society or branch such information and explanations as he thinks necessary for the performance of the duties of the auditors.
+### 69 Auditors' rights to attend and be heard at meetings
+(1)
 (2) The auditors of a registered society or branch shall be entitled—
   (a) to attend any general meeting of the society or branch, and to receive all notices of, and other communications relating to, any general meeting which any member of the society or branch is entitled to receive; and
   (b) to be heard at any meeting which they attend on any part of the business of the meeting which concerns them as auditors.
@@ -563,34 +542,23 @@ A registered society or branch may (if its rules so provide) out of any surplus 
 (2) Every annual return shall relate to the affairs of the society or branch for the financial year preceding that in which the return is required to be sent, and, subject to subsection (3), shall be made in such form and contain such particulars as the Registrar may from time to time require.
 (3) Every annual return—
   (a) shall be made up for the financial year to which the return relates; and
-  (b) shall contain—
-    (i) in the case of a society or branch that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the income and expenditure account or accounts of the society or branch prepared in accordance with section 61(1) for the financial year to which the return relates and a statement of financial position as at the end of that year; or
-    (ii) in the case of a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the financial statements required to be completed in respect of the issuer and the financial year to which the return relates; and
-  (c) shall not contain any other accounts unless they have been audited by the auditors for the society or branch:
+  (b) must contain, if financial statements are required by this Act or any other Act to be prepared in relation to the society or branch for the financial year to which the return relates, a copy of those financial statements; and
+  (c)
   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the society or branch; and
   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to section 40.
 (4) In the case of a branch, the annual return, list, and statement shall be sent to the Registrar under the hand of the secretary of the society of which the branch forms part or, alternatively, may be comprised in the annual return of that society.
-(5) The annual return to the Registrar shall be accompanied,—
-  (a) in the case of a society or branch that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, by the report of the auditors on the income and expenditure account or accounts and statement of financial position contained in the annual return; or
-  (b) in the case of a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, by the report of the auditors on the financial statements contained in the annual return.
+(5) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b) (if any).
 
 ### 71 Annual return by society under dissolution, etc
 (1) Any registered society or branch which is being terminated by an instrument of dissolution under section 94 or the award of the Registrar under section 95 shall make up its annual return to the date of that instrument of dissolution or that award.
 (2) In the case of a society or branch amalgamating or transferring its engagements pursuant to section 83 or converting to a company pursuant to section 84, the Registrar may require an annual return made up to the date of such amalgamation, transfer of engagements, or conversion, or to such other date as he may specify.
 
 ### 72 Annual return to be supplied to members
-(1) On the application of a member or person interested in its funds a registered society or branch shall supply to him without charge either—
-  (a) a copy of the last annual return of the society or branch; or
-  (b) a statement of financial position or other document duly audited containing the same particulars relating to the affairs of the society or branch as are contained in the annual return.
-(2) Together with every copy of an annual return supplied in accordance with paragraph (a) of subsection (1), a registered society or branch shall provide—
-  (a) in the case of a society or branch that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the report of the auditors on the accounts and statement of financial position contained in the return; or
-  (b) in the case of a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the report of the auditors on the financial statements contained in the return.
-(3) Together with every statement of financial position or other document supplied in accordance with paragraph (b) of subsection (1), a registered society or branch shall provide a copy of the report of the auditors on the statement of financial position or document.
+(1) A registered society or branch must, on the application of a member or person interested in its funds, supply to the member or person without charge a copy of the last annual return of the society or branch.
+(2) A registered society or branch must provide, together with every copy of an annual return supplied under subsection (1), a copy of the auditor's report on the financial statements contained in the return (if any).
 
-### 73 Accounts and statement of financial position to be available
-Every registered society or branch shall keep available for inspection (without charge) by a member or person interested in its funds at its office during ordinary office hours,—
-  (a) in the case of a society or branch that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last statement of financial position for the time being including the income and expenditure account or accounts for the year to which the statement of financial position relates, together with the auditor's report and a copy of the last actuarial report; or
-  (b) in the case of a society or branch that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last financial statements completed and signed in accordance with that Act, together with the auditor's report and a copy of the last actuarial report.
+### 73 Financial statements must be available
+Every registered society or branch must keep available for inspection (without charge), by a member or person interested in its funds, at its office during ordinary office hours a copy of the last financial statements completed and signed in accordance with this Act or any other Act (if any), together with the auditor's report (if any) and a copy of the last actuarial report.
 
 ### 74 Actuarial valuation and report
 (1) Every registered society shall—cause its assets and liabilities (including the assets and liabilities of its branches) to be valued by an actuary and the financial condition of the society and branches reported on to the Registrar within the time specified.
@@ -1071,7 +1039,7 @@ For the purposes of this Part, the following provisions shall, as far as they ar
   (c) section 80 (which authorises the statement of a case on a matter of law for the opinion of the High Court); and
   (d) section 81 (which relates to the reference of disputes to court).
 
-**Accounts, audit, and auditors**
+**Accounting records and financial reporting**
 
 ### 119 Credit union to maintain general reserves
 [Repealed]
@@ -1079,69 +1047,29 @@ For the purposes of this Part, the following provisions shall, as far as they ar
 ### 120 Financial year of credit union
 (1) The first financial year of a credit union may extend from the date of its registration to such date not later than 18 months from the date of its registration as may be specified in its rules.
 (2) Where the rules of a credit union are amended to alter its financial year, the amendment may provide that the financial year current at the date of amendment shall be extended for such period not exceeding 6 months as may be specified in its rules or that the financial year next following the financial year that is so current shall be for such period exceeding 12 months but not exceeding 18 months as may be specified in its rules.
-(3) Nothing in this section limits or affects the requirements imposed by the Financial Reporting Act 1993 on a credit union that is an issuer within the meaning of section 4 of that Act.
+(3)
 
-### 121 Accounting records and statement of financial position
-(1) Every credit union that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993 shall—and, for these purposes the provisions of sections 60 and 61 shall, as far as they are applicable and with any necessary modification, apply in respect of such credit unions as if they were societies registered under Part 2.
-  (a) cause proper accounting records to be kept relating to its transactions and its assets and liabilities; and
-  (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments; and
-  (c) in respect of each financial year, cause to be prepared an income and expenditure account which deals with the affairs of the credit union for that year, and a statement of financial position—
-(2) Every credit union that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993 shall—and, for these purposes the provisions of section 60 shall, as far as they are applicable and with any necessary modification, apply in respect of such credit unions as if they were societies registered under Part 2.
-  (a) cause proper accounting records to be kept relating to its transactions and its assets and liabilities; and
-  (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments; and
-  (c) cause financial statements to be completed in accordance with that Act—
+### 121 Accounting records must be kept
+Every credit union must comply with subpart 2 of Part 7 of the Financial Markets Conduct Act 2013 (which relates to accounting records).
 
-### 122 Credit union to be audited
-(1) Subject to this section, every credit union shall, in each financial year, appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year.
-(2) Subsection (1) shall not apply to a credit union if—
-  (a) the receipts and payments of that credit union in respect of the preceding financial year did not, in the aggregate, exceed $20,000; and
-  (b) the value of its assets at the end of that year did not, in the aggregate, exceed $20,000.
-(3) A credit union to which, by virtue of subsection (2), subsection (1) does not apply in respect of any financial year shall, in this Part, be referred to as an exempt credit union in respect of that financial year.
-(4) For the purposes of subsection (3), where the preceding financial year of a credit union was greater than a period of 12 months, as provided under section 120, the amount of $20,000 referred to in subsection (2) shall be increased proportionately.
-(5) The Governor-General, from time to time by Order in Council, may—and any such order may make different provision in relation to different cases or different circumstances.
-  (a) substitute for any sum for the time being specified in this section, such sum as may be specified in the order; and
-  (b) prescribe what receipts and payments of a credit union shall be taken into account for the purpose of subsection (2),—
-(6) Any credit union which is audited under a programme approved by the Registrar (which approval may be reviewed, made subject to conditions, or withdrawn, at any time) and conducted by an association of credit unions of which it is a member, shall be an exempt credit union to which subsection (1) does not apply.
-(7) No association of credit unions shall be an exempt credit union under this section.
+### 122 Financial reporting
+Every credit union must comply with subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 (which relates to the preparation, audit, and lodgement of financial statements).
 
-### 123 Qualifications for appointment as auditor
-(1) For the purposes of section 122(1), no person is qualified for appointment as auditor of a credit union unless he or she is,—
-  (a) in the case of a credit union that is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993), a licensed auditor:
-  (b) in any other case,—
-    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-    (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of section 199 of the Companies Act 1993.
-(2) The appointment of a partnership by the firm name to be auditors shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
-(2A) However, if the credit union is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),—
-  (a) a partnership appointed by its firm name to be the auditors of the credit union must be a registered audit firm; and
-  (b) the appointment of a registered audit firm by its firm name to be the auditors of the credit union is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
-(3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a credit union and holding office as such immediately before the commencement of this Act from acting as auditor of that credit union, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that credit union.
-(4) None of the following persons shall be qualified for appointment as auditor of a credit union:
-  (a) an officer or employee of the credit union:
-  (b) a person who is a partner of or in the employment of an officer or employee of the credit union:
-  (c) a body corporate.
-(5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any credit union.
-(6) If a credit union to which section 122(1) applies appoints any unqualified person to be an auditor—
-  (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
-  (b) the credit union, and every officer of the credit union who is in default, commits an offence against this Act.
-(7) Subject to this Act, any unqualified person who acts as auditor of any credit union commits an offence against this Act.
+### 123 Obligation to appoint auditors
+(1) Every credit union must, in each financial year, appoint a qualified auditor to audit its financial statements for that year.
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a credit union).
 
-### 124 Audit of certain exempt credit unions
-(1) Subject to any direction given by the Registrar under subsection (2), every credit union exempt under section 122(3) shall, in each financial year, appoint at its option either—to audit its accounts and statement of financial position for that year.
-  (a) a qualified auditor or qualified auditors; or
-  (b) 2 or more persons who are not qualified auditors,—
-(2) The Registrar may give a direction in the case of any particular exempt credit union (whether exempt under subsection (3) or subsection (6) of section 122) in respect of the current financial year requiring it to appoint a qualified auditor or auditors to audit its accounts and statement of financial position for that year.
-(3) The Registrar may also give a direction in the case of any particular exempt credit union in respect of any financial year before that in which the direction is given and did not appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year—
-  (a) requiring it to appoint a qualified auditor to audit those accounts and that statement of financial position; and
-  (b) in any case where that credit union has sent to him its annual return for that year before the date of the direction, requiring it (after its accounts and statement of financial position have been audited by a qualified auditor) to send to him within 3 months from receipt of the direction or within such further period as he may allow a further annual return complying with the requirements of this Act (other than the requirement as to the time at which the annual return must be sent).
+### 124 General matters relating to auditors
+For the purposes of this Part, the following provisions of this Act, as far as they are applicable and with the necessary modifications, apply in respect of credit unions as if they were societies registered under Part 2:
+  (a) section 64B (which relates to the Registrar appointing an auditor):
+  (b) sections 64D and 64E (which relate to compliance with auditing and assurance standards):
+  (c) section 65 (which relates to the reappointment and removal of auditors):
+  (d) section 66 (which relates to notices of resolution affecting the appointment or removal of auditors):
+  (e) section 67 (which relates to proceedings subsequent to a notice of intention to move a resolution):
+  (f) section 69 (which relates to auditors' rights to attend and be heard at meetings).
 
 ### 125 General matters relating to auditors, the auditors' report, and auditors' rights of access
-(1) For the purposes of this Part, the following provisions of this Act shall, as far as they are applicable and with the necessary modification, apply in respect of credit unions as if they were societies registered under Part 2:
-  (a) section 65 (which relates to the reappointment and removal of auditors):
-  (b) section 66 (which relates to notices of resolution affecting the appointment or removal of auditors):
-  (c) section 67 (which relates to proceedings subsequent to a notice of intention to move a resolution):
-  (d) section 68 (which imposes an obligation on auditors to report to the credit union):
-  (e) section 69 (which relates to auditors' rights of access to the accounting records of the credit union).
-(2) Notwithstanding subsection (1), nothing in section 68 shall apply to a credit union which is an issuer within the meaning of section 4 of the Financial Reporting Act 1993.
+[Repealed]
 
 ### 126 Registrar may advise credit union on financial position
 Where it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of a credit union should be amended or improved, he may advise the credit union of his opinion and require it to submit to him such proposals (whether by way of levy on members or the writing down of share capital or otherwise) as will effect that financial amendment or improvement.
@@ -1153,28 +1081,19 @@ Where it appears to the Registrar to be necessary or desirable that the financia
 (2) Every annual return shall relate to the affairs of the credit union for the financial year preceding that in which the return is required to be sent, and, subject to subsection (3), shall be made in such form and contain such particulars as the Registrar may from time to time require.
 (3) Every annual return—
   (a) shall be made up for the financial year to which the return relates; and
-  (b) shall contain,—
-    (i) in the case of a credit union that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the income and expenditure account or accounts of the credit union prepared in accordance with section 61(1) (as applied by section 121) for the financial year to which the return relates and a statement of financial position as at the end of that year; or
-    (ii) in the case of a credit union which is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, the financial statements required to be completed in respect of the issuer under that Act for the financial year to which the return relates; and
-  (c) shall not contain any other accounts unless they have been audited by the auditors for the credit union:
+  (b) must contain a copy of the financial statements that are prepared in relation to the credit union for the financial year; and
+  (c)
   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the credit union; and
   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to section 130.
-(4) The annual return to the Registrar shall be accompanied,—
-  (a) in the case of a credit union that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, by the report of the auditors on the income and expenditure account or accounts and statement of financial position contained in the annual return; or
-  (b) in the case of a credit union that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, by the report of the auditors on the financial statements contained in the annual return.
+(4) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b).
 
 ### 128 Annual return by credit union under dissolution
 (1) Any credit union which is being terminated by an instrument of dissolution under section 94 or the award of the Registrar under section 95 (each section being as applied by section 140) shall make up its annual return to the date of that instrument of dissolution or that award.
 (2) In the case of a credit union amalgamating or transferring its engagements pursuant to section 135, the Registrar may require an annual return made up to the date of such amalgamation or transfer of engagements, or to such other date as he may specify.
 
 ### 129 Annual return to be supplied to members
-(1) On the application of a member or person interested in its funds a credit union shall supply to him without charge either—
-  (a) a copy of the last annual return of the credit union; or
-  (b) a statement of financial position or other document duly audited containing the same particulars relating to the affairs of the credit union as are contained in the annual return.
-(2) Together with every copy of an annual return supplied in accordance with paragraph (a) of subsection (1), a credit union shall provide,—
-  (a) in the case of a credit union that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the report of the auditors on the accounts and statement of financial position contained in the return; or
-  (b) in the case of a credit union that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the report of the auditors on the financial statements contained in the return.
-(3) Together with every statement of financial position or other document supplied in accordance with paragraph (b) of subsection (1), a credit union shall provide a copy of the report of the auditors on the statement of financial position or document.
+(1) A credit union must, on the application of a member or person interested in its funds, supply to the member or person without charge a copy of the last annual return of the credit union.
+(2) A credit union must provide, together with every copy of an annual return supplied under subsection (1), a copy of the auditor's report on the financial statements contained in the return.
 
 **Miscellaneous provisions**
 
@@ -1190,13 +1109,10 @@ Where it appears to the Registrar to be necessary or desirable that the financia
 (4) The register shall be kept at the registered office of the credit union, and shall be open to inspection during ordinary office hours by any member of the credit union.
 
 ### 131 Inspection of books and accounts of credit union
-(1) Subject to subsection (2), any member or other person having an interest in the funds of a credit union may inspect the books and accounts of the credit union at all reasonable hours at the registered office of the credit union or at any place where the books or accounts are kept.
-(2) Unless he is an officer of, or is specially authorised by resolution of, the credit union to do so, a member or other person having an interest in the funds of a credit union shall not have the right to inspect any account of any other member without the written consent of that member.
+[Repealed]
 
-### 132 Accounts and statement of financial position to be available
-Every credit union shall keep available for inspection (without charge) by a member or person interested in its funds at its office during ordinary office hours,—
-  (a) in the case of a credit union that is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last statement of financial position for the time being, including the income and expenditure account for the year to which the statement of financial position relates, together with the report of the auditor or auditors; or
-  (b) in the case of a credit union that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last financial statements completed and signed in accordance with that Act, together with the auditor's report.
+### 132 Financial statements must be available
+Every credit union must keep available for inspection (without charge), by a member or person interested in its funds, at its office during ordinary office hours a copy of the last financial statements completed and signed in accordance with the Financial Markets Conduct Act 2013 or any other Act, together with the auditor's report.
 
 ### 133 Credit union to be insured against fraud or other dishonesty
 (1) No society shall be registered as a credit union unless the Registrar is satisfied that, on registration, there will be in force in relation to that society a policy of insurance complying with the requirements of this section.
@@ -1344,7 +1260,7 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
   (b) so much of section 104(1) as relates to section 12 (except subsection (6)), section 17, and section 23(3) and (4):
   (c) section 104(1)(a), (b), and (c), and (2):
   (d) section 106 (except subsection (8)), and sections 107 and 108:
-  (e) sections 124 and 142.
+  (e) section 142.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -1472,3 +1388,26 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 13 Proceedings in relation to section 135(4)(b), 138(c), or 140(1)(c)(ii)
 Every application, investigation, proceeding, action, or other matter concerning a common bond that was commenced under section 135(4)(b), 138(c), or 140(1)(c)(ii) before the commencement of this Act may continue as if this Act had not been passed.
+
+### 1 Title
+This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
+(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
+
+**Amendments to Friendly Societies and Credit Unions Act 1982**
+
+### 63 Principal Act
+Sections 64 to 85 amend the Friendly Societies and Credit Unions Act 1982 (the principal Act).
+
+### 86 Transitional provision for registered societies and branches
+(1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a registered society or branch in relation to financial years that commence on or after the commencement of this section.
+(2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a registered society or branch in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+(3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
+
+### 87 Transitional provision for credit unions
+(1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a credit union in relation to financial years that commence on or after the commencement of this section.
+(2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a credit union in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+(3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
