@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -55,7 +55,7 @@ _Consolidation as at 2014-01-01_
   - **series** —
     (a) means 2 or more related sequential programmes; but
     (b) does not include any news or current affairs programme
-  - **total revenue** means all income classified as revenue by the applicable financial reporting standard issued under section 24 of the Financial Reporting Act 1993
+  - **total revenue** means all income classified as revenue by the applicable financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)
   - **transmit on demand** means the transmission of content, by any means, made on the demand of a particular person for reception by that person
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
