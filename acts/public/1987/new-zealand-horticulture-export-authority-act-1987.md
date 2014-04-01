@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -15,6 +15,8 @@ In this Act, unless the context otherwise requires,—
     (a) product samples:
     (b) gifts of product:
     (c) product which forms part of the personal baggage of a passenger
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **grade** means an indication of the degree of refinement of a product
   - **licence** , or , in relation to a product, means an export licence granted in respect of that product under section 36; and includes a provisional licence granted under that section
   - **licensed exporter** , in relation to a product, means a person who holds an export licence for that product
@@ -614,13 +616,18 @@ The financial year of the Authority shall end with 30 September or with such oth
 ### 56 Unauthorised expenditure
 The Authority may, in any financial year, expend out of the funds of the Authority for purposes not authorised by this Act or any other enactment any sum or sums not amounting in the whole to more than $5,000.
 
-### 57 Audit of accounts
-(1) Within 6 months after the end of each financial year or within such further period as the Minister may allow, the Authority shall prepare a statement of financial position and such other statements of accounts as are necessary to show fully the financial position of the Authority, and the financial results of its operations during the year.
+### 57 Financial statements must be prepared
+The Authority must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Authority and that financial year; and
+  (b) dated and signed on behalf of the Authority by 2 members of the Authority.
+
+### 57A Financial statements must be audited
+(1) The Authority must ensure that the financial statements of the Authority are audited.
 (2) The Authority is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
-### 58 Annual report and statement of accounts
-(1) As soon as reasonably practicable after the end of each financial year the Authority shall deliver to the Minister a general report of its operations during the year together with a copy of its duly audited accounts for that year and the report of the Auditor-General on those accounts.
-(2) A copy of the general report and of the accounts of the Authority, together with a copy of the report of the Auditor-General on the accounts, shall be laid before the House of Representatives as soon as practicable after their receipt by the Minister.
+### 58 Annual report and financial statements
+(1) As soon as reasonably practicable after the end of each financial year the Authority shall deliver to the Minister a general report of its operations during the year together with a copy of its duly audited financial statements for that year and the report of the Auditor-General on those financial statements.
+(2) A copy of the general report and of the financial statements of the Authority, together with a copy of the report of the Auditor-General on the financial statements, shall be laid before the House of Representatives as soon as practicable after their receipt by the Minister.
 
 ### 59 Taxation
 [Repealed]
