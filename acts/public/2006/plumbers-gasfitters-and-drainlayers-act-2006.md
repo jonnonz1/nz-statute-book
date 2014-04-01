@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2013-09-14_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1562,23 +1562,19 @@ The Minister must present a copy of the annual report given to him or her under 
 (3) In this section, industry training organisation has the same meaning as in section 2 of the Industry Training Act 1992.
 
 ### 158 Annual financial statements and statement of responsibility
-(1) The Board must prepare annual financial statements with respect to the affairs of the Board for each financial year in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
-(2) The annual financial statements must contain—
-  (a) a statement of the financial position as at the balance date; and
-  (b) an income and expenditure statement for the financial year; and
-  (c) a statement of cash flows, reflecting cash flows for the financial year; and
-  (d) a statement of the commitments as at the balance date; and
-  (e) a statement of the contingent liabilities as at the balance date; and
-  (f) a statement of accounting policies; and
-  (g) any other statements that are necessary to fairly reflect the Board’s financial operations for the financial year and its financial position as at the end of the financial year; and
-  (h) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, paragraph (g), budgeted figures for the financial year; and
-  (i) in relation to each statement required by this subsection (other than by paragraph (f)), comparative actual figures for the previous financial year.
+(1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+(2) The financial statements must contain, in relation to each financial statement, budgeted figures for the financial year.
+(2A) In this section,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
 (3) The statement of responsibility for the financial statements must—
-  (a) contain a statement of the Board’s responsibility for the preparation of the annual financial statements and the judgements in them; and
+  (a) contain a statement of the Board’s responsibility for the preparation of the financial statements and the judgements in them; and
   (b) contain a statement of the Board’s responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
 
 ### 159 Audit
-(1) The Board must, within 90 days after the end of each financial year, submit the annual report on operations, the annual financial statements, and the statement of responsibility to the Auditor-General for audit.
+(1) The Board must, within 3 months after the end of each financial year, submit the annual report on operations, the financial statements, and the statement of responsibility to the Auditor-General for audit.
 (2) The Auditor-General must audit those documents, and provide an audit report on them to the Board, within 30 days after receiving them.
 
 ### 160 Power to borrow money
