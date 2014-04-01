@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -13,6 +13,10 @@ _Consolidation as at 2013-12-05_
   - **debt security** has the same meaning as in the Securities Act 1978
   - **directorate** , in relation to any port company, means the board of directors of the port company
   - **equity security** has the same meaning as in the Securities Act 1978
+  - **financial statements** , in relation to a port company, means—
+    (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the port company and its subsidiaries; or
+    (b) if the port company does not have any subsidiaries, financial statements within the meaning of section 6 of the Financial Reporting Act 2013 for the port company
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Harbour Board** means a Harbour Board specified in Schedule 1; and, in relation to any port company, means the Harbour Board in respect of whose port related commercial undertakings the port company is established
   - **instrument** —
     (a) includes—
@@ -139,14 +143,12 @@ A failure by a port company to comply with—shall not affect the validity or en
   (a) any provision of sections 5 to 12; or
   (b) any provision contained in any statement of corporate intent,—
 
-### 16 Reports and accounts
+### 16 Reports and financial statements
 (1) Within 2 months after the end of the first half of each financial year of a port company, the directorate of the port company shall deliver to the shareholders and the Minister a report of its operations during that half-year.
 (2) Each report required by subsection (1) shall include the information required by the statement of corporate intent to be included therein.
 (3) Within 3 months after the end of each financial year of a port company or such longer period as the Minister may allow, the directorate of the port company shall deliver to the shareholders and the Minister—
   (a) a report of the operations of the port company and those of its subsidiaries during that financial year; and
-  (b) audited consolidated financial statements for that financial year consisting of—
-    (i) statements of financial position, profit and loss, and cash flows; and
-    (ii) such other statements as may be necessary to show the financial position of the port company and its subsidiaries and the financial results of their operations during that financial year; and
+  (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on those financial statements.
 (4) Every report under subsection (3)(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the port company and its subsidiaries, including a comparison of the performance of the port company and subsidiaries with any relevant statement of corporate intent; and
@@ -165,7 +167,7 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
 (3) This section applies to a Harbour Board that is a regional council or a territorial authority only in relation to statutory functions, duties, or powers transferred from a Harbour Board specified in Schedule 1 to that regional council or territorial authority pursuant to an Order in Council made under section 36 of the Local Government Act 1974.
 
 ### 19 Auditor-General to be auditor of port companies and subsidiaries
-Despite sections 196 to 203 of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+Despite sections 207P to 207V of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 20 Application of Act to related and associated companies
 (1) Subject to subsection (2), sections 4 (except subsections (1), (3), (6), and (7)), 5, 6, 7, 15, and 18 shall apply to every company that is—as if that company were a port company within the meaning of this Act.
