@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2013-08-30_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -198,16 +198,16 @@ The Board may, at any time, make any amendments to the register that are necessa
   (e) order that the person undertake training specified in the order:
   (f) order that the person must pay a fine not exceeding $10,000.
 (2) The Board may take only 1 type of action in subsection (1) in relation to a case, except that—
-  (a) it may impose a fine under subsection (1)(f) in addition to taking the action under subsection (1)(b) or (c) or (e); or
-  (b) it may order that a person be censured in addition to taking the action under subsection (1)(d) or (e) or (f).
-(3) No fine may be imposed under subsection (1)(f) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
+  (a) it may impose a fine under subsection (1)﻿(f) in addition to taking the action under subsection (1)﻿(b) or (c) or (e); or
+  (b) it may order that a person be censured in addition to taking the action under subsection (1)﻿(d) or (e) or (f).
+(3) No fine may be imposed under subsection (1)﻿(f) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
 (4) In any case to which section 25 applies, the Board may order that the person must pay costs and expenses of, and incidental to, the inquiry by the Board.
 (5) In addition to notifying the action taken by the Board in the register, the Board—
   (a) must notify the Registrar of Licensed Building Practitioners appointed under the Building Act 2004 of the action and the reasons for it; and
   (b) may publicly notify the action in any other way that it thinks fit.
 
 ### 27 Non-payment of fines or costs
-If money payable by a person under section 26(1)(f) or (4) remains unpaid for 60 days or more, the Board may—
+If money payable by a person under section 26(1)﻿(f) or (4) remains unpaid for 60 days or more, the Board may—
   (a) cancel the person’s registration and remove the person’s name from the register; or
   (b) suspend the person’s registration until the person pays the money and, if he or she does not do so within 12 months, cancel his or her registration and remove his or her name from the register.
 
@@ -254,8 +254,8 @@ Except as otherwise provided in this Act, the Board may regulate its own procedu
   (a) by delivering it personally to the person summoned; or
   (b) by posting it to the person summoned at that person’s usual place of residence.
 (2) A summons must,—
-  (a) if it is to be served under subsection (1)(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 34 Witnesses’ fees, allowances, and expenses
@@ -327,7 +327,7 @@ Except as provided in section 46, the decision of the District Court on an appea
 On an appeal under this Part, the District Court may order any party to the appeal to pay to any other party to the appeal any or all of the costs incurred by the other party in respect of the appeal.
 
 ### 45 Orders as to publication of names
-(1) On any appeal under this subpart, the District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of a registered architect or any other person.
+(1) On any appeal under this Part, the District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of a registered architect or any other person.
 (2) In deciding whether to make an order under subsection (1), the court must have regard to—
   (a) the interests of any person (including, without limitation, the privacy of any complainant); and
   (b) the public interest.
@@ -408,7 +408,7 @@ The Board must prepare an annual report on its operations for each financial yea
 ### 59 Form and content of annual report
 (1) An annual report must contain the following information and reports in respect of the financial year to which it relates:
   (a) a report on operations, including the information that is necessary to enable an informed assessment to be made of the Board’s performance during the financial year; and
-  (b) annual financial statements and a statement of responsibility prepared in accordance with section 60; and
+  (b) financial statements and a statement of responsibility prepared in accordance with section 60; and
   (c) the auditor’s report in accordance with section 61; and
   (d) the number of registered architects at the end of the financial year; and
   (e) the number of persons whom the Board registered and the number of persons whom the Board declined to register during the financial year; and
@@ -418,23 +418,19 @@ The Board must prepare an annual report on its operations for each financial yea
 (2) An annual report must be in writing, be dated, and be signed on behalf of the Board by 2 members.
 
 ### 60 Annual financial statements and statement of responsibility
-(1) The Board must prepare its annual financial statements with respect to its affairs for each financial year in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
-(2) The annual financial statements must contain—
-  (a) a statement of the financial position as at the balance date; and
-  (b) a statement of financial performance for the financial year; and
-  (c) a statement of cash flows reflecting cash flows for the financial year; and
-  (d) a statement of the commitments as at the balance date; and
-  (e) a statement of the contingent liabilities as at the balance date; and
-  (f) a statement of accounting policies; and
-  (g) any other statements that are necessary to fairly reflect its financial operations for the financial year and its financial position at the end of the financial year; and
-  (h) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, paragraph (g), budgeted figures for the financial year; and
-  (i) in relation to each statement required by this subsection (other than by paragraph (f)), comparative actual figures for the previous financial year.
+(1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+(2) The financial statements must contain, in relation to each financial statement, budgeted figures for the financial year.
+(2A) In this section,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
 (3) The statement of responsibility for the financial statements must—
-  (a) contain a statement of the Board’s responsibility for the preparation of the annual financial statements and the judgments in them; and
+  (a) contain a statement of the Board’s responsibility for the preparation of the financial statements and the judgments in them; and
   (b) contain a statement of the Board’s responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
 
 ### 61 Audit
-(1) The Board must, within 90 days after the end of each financial year, submit the report on operations, the annual financial statements, and the statement of responsibility required under section 59(1)(a) and (b) to the Auditor-General for audit.
+(1) The Board must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under section 59(1)﻿(a) and (b) to the Auditor-General for audit.
 (2) The Auditor-General must audit those documents, and provide an audit report on them to the Board, within 30 days after receiving them.
 
 ### 62 Obligation for Board to provide annual report to Minister
@@ -453,7 +449,7 @@ The Minister must present a copy of the report given to him or her under section
 (2) However, a request may be refused if—
   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); or
   (b) there would, under the Official Information Act 1982, be good reason for withholding the information if—
-    (i) the request had been made under section 12 of that Act and section 9(2)(a) of that Act applied; and
+    (i) the request had been made under section 12 of that Act and section 9(2)﻿(a) of that Act applied; and
     (ii) the need to protect the privacy of any person were not outweighed by the Minister’s need to have the information in order to discharge the Minister’s ministerial duties; or
   (c) the information relates to a particular matter in respect of which the Board or any person appointed or employed by the Board is required to act judicially.
 
@@ -469,7 +465,7 @@ The financial year of the Board ends on 30 June or on any other date determined 
   (c) a code of minimum standards of ethical conduct for registered architects.
 (2) The Board must also make, and from 1 July 2006 always have, rules that govern all of the following matters:Title of registered architectRegistration of registered architectsDisciplining of registered architectsRule-making procedures
   (a) the form of words, initials, and abbreviations that may be used to represent a person as a registered architect (without limiting any others that may be used consistently with this Act):
-  (b) the form of words, initials, and abbreviations that must be used if the title registered architect (or words, initials, or abbreviations of that title to which section 7(1)(b) applies) or architect is used in representing qualifications or titles awarded by overseas agencies:
+  (b) the form of words, initials, and abbreviations that must be used if the title registered architect (or words, initials, or abbreviations of that title to which section 7(1)﻿(b) applies) or architect is used in representing qualifications or titles awarded by overseas agencies:
   (c) the information that must be provided by an applicant for registration, and the way in which this information must be evaluated and decisions on the information must be made and implemented:
   (d) the period for which a certificate of registration is to be issued:
   (e) the information that must be provided by a registered architect to demonstrate his or her current competence, and the way in which this information must be evaluated and decisions on the information must be made and implemented:
@@ -872,7 +868,7 @@ A meeting of the Board may be held—
 (1) The Board must, if it employs employees,—
   (a) operate a personnel policy that complies with the principle of being a good employer; and
   (b) report on its compliance with that policy (including its equal employment opportunities programme) in its annual report.
-(2) For the purposes of this section, a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
+(2) For the purposes of this clause, a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
   (a) good and safe working conditions; and
   (b) an equal employment opportunities programme; and
   (c) the impartial selection of suitably qualified persons for appointment; and
@@ -884,7 +880,7 @@ A meeting of the Board may be held—
   (f) recognition of the aims and aspirations, and the cultural differences, of ethnic or minority groups; and
   (g) recognition of the employment requirements of women; and
   (h) recognition of the employment requirements of persons with disabilities.
-(3) For the purposes of this section, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
+(3) For the purposes of this clause, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
 
 ### 39 Application of Acts to members and employees
 No person is, by reason only of that person’s appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the State Sector Act 1988 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
