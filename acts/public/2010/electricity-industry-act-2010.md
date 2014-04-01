@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2013-11-21_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -962,7 +962,7 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
 
 ### 99 Customer and community trusts must prepare and submit for audit financial statements
 The trustees of a customer trust and the trustees of a community trust must, within 4 months after the end of each financial year of the trust,—
-  (a) prepare financial statements in accordance with generally accepted accounting practice (within the meaning in section 3 of the Financial Reporting Act 1993, applied as if trusts were reporting entities) with respect to the affairs of the trust for that financial year; and
+  (a) prepare financial statements in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013) in relation to the trust for that financial year; and
   (b) submit those financial statements to an auditor for audit.
 
 ### 100 Publication of audited financial statements
@@ -976,10 +976,11 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (a) at the annual meeting of beneficiaries or in the way the beneficiaries determine at the meeting, if the auditor is appointed at the annual meeting:
   (b) by the trustees, if the auditor is appointed by the trustees.
 (4) An auditor of a customer trust or community trust—
-  (a) must be a person who is qualified to act as an auditor under section 199(1) of the Companies Act 1993 and, in selecting an auditor, the beneficiaries may seek the advice of the Auditor-General:
-  (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under section 199(2)(b) and (d) of the Companies Act 1993.
-(5) In addition, sections 198, 200, and 202 to 207 of the Companies Act 1993 apply in relation to the auditor.
-(6) These sections of the Companies Act 1993 apply as if references to a company were to a trust, references to a director were to a trustee, references to a board were to the trustees, references to shareholders were to beneficiaries, references to a subsidiary were to a distributor owned by the trust and the distributor's subsidiaries, and all other necessary modifications were made.
+  (a) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) and, in selecting an auditor, the beneficiaries may seek the advice of the Auditor-General:
+  (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under section 36(4)(b) and (d) of the Financial Reporting Act 2013.
+(5) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a customer trust or community trust).
+(6) In addition, sections 207B and 207T to 207W of the Companies Act 1993 apply in relation to the auditor.
+(7) Those sections of the Companies Act 1993 apply as if references to a company were to a trust, references to a director were to a trustee, references to a board were to the trustees, references to shareholders were to beneficiaries, references to a subsidiary were to a distributor owned by the trust and the distributor's subsidiaries, and all other necessary modifications were made.
 
 ### 102 Procedures for annual meeting to appoint auditor
 (1) The trustees must give no less than 14 days' notice of the annual meeting of beneficiaries to appoint an auditor in the news section of 2 separate editions of each newspaper that is widely read by customers of the customer trust or by persons in the community of the community trust (as the case requires).
