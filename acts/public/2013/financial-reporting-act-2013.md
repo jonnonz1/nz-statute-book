@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2013-12-03_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
