@@ -1,5 +1,5 @@
 # Wool Industry Restructuring Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Wool Industry Restructuring Act 2003.
@@ -124,16 +124,16 @@ The things authorised and achieved by this Act and the restructuring plan, in pa
 (1) The Board must appoint 3, 4, or 5 directors of the Board, immediately before its conversion, as directors of the company.
 (2) The directors of the company appointed under subsection (1) must include—
   (a) at least 2 persons who were elected to the Board by growers; and
-  (b) at least 1 person who was appointed to the Board by the Minister on the recommendation of the Board under section 13(2)(b) of the Wool Board Act 1997.
+  (b) at least 1 person who was appointed to the Board by the Minister on the recommendation of the Board under section 13(2)﻿(b) of the Wool Board Act 1997.
 (3) The total number of directors of the company must not exceed 5.
 
 ### 14 Ministerial appointments
 (1) At any time before the Minister receives the final report on the implementation of the restructuring plan under section 57, the Minister—
   (a) may appoint a director of the company; and
   (b) must appoint a director of the company if the number of directors is smaller than 3.
-(2) A person may not be appointed by the Minister under subsection (1)(a) unless the person is recommended for appointment by the directors of the company.
-(3) To facilitate appointment by the Minister under subsection (1)(b), the directors of the company must recommend a person for appointment by the Minister before the number of directors is smaller than 3.
-(4) However, the Minister must appoint a director of the company under subsection (1)(b) if the directors do not make the required recommendation under subsection (3).
+(2) A person may not be appointed by the Minister under subsection (1)﻿(a) unless the person is recommended for appointment by the directors of the company.
+(3) To facilitate appointment by the Minister under subsection (1)﻿(b), the directors of the company must recommend a person for appointment by the Minister before the number of directors is smaller than 3.
+(4) However, the Minister must appoint a director of the company under subsection (1)﻿(b) if the directors do not make the required recommendation under subsection (3).
 (5) The Minister may reject particular individuals recommended under subsections (2) and (3) and seek other recommendations.
 
 ### 15 Liability of directors and employees of Board
@@ -167,7 +167,7 @@ No director of the Board is entitled to compensation for loss of office resultin
     (ii) the amount of payments to SheepCo under paragraph (f); and
   (h) contain plans for the allocation and issue of shares in the company, Wool Equities Limited, and Merino Grower Investments Limited, including the criteria for eligibility for shares in the latter 2 companies; and
   (i) contain constitutions for Wool Equities Limited, Merino Grower Investments Limited, and the company that comply with the requirements of this Act.
-(2) The restructuring plan may specify 2 portions for allocation under subsection (1)(c) and (d), one that assumes that the condition attaching to the allocation of assets to SheepCo referred to in subsection (1)(e) is satisfied, and a second that assumes that that condition is not satisfied.
+(2) The restructuring plan may specify 2 portions for allocation under subsection (1)﻿(c) and (d), one that assumes that the condition attaching to the allocation of assets to SheepCo referred to in subsection (1)﻿(e) is satisfied, and a second that assumes that that condition is not satisfied.
 (3) The restructuring plan must specify that the percentage of the Board's assets, as at the restructuring day, that will be allocated to merino wool growers will be 7.2%, adjusted to account for the following items:
   (a) the liabilities of the Board on or after the restructuring day:
   (b) amounts held by the Board, on the day before the restructuring day, specifically for groups of growers identified by the Board who produce particular categories of wool:
@@ -184,10 +184,10 @@ No director of the Board is entitled to compensation for loss of office resultin
   (a) a shareholder must not sell shares in Merino Grower Investments Limited to a person other than another grower; and
   (b) a person who is not a grower must not buy shares or become a shareholder in Merino Grower Investments Limited; and
   (c) a shareholder and an associated person must not acquire, hold, or control voting rights for, directly or indirectly, in concert or otherwise, more than 5% of the total number of shares in Merino Grower Investments Limited.
-(3) A person who breaches subsection (1)(c) or subsection (2)(c) must—
+(3) A person who breaches subsection (1)﻿(c) or subsection (2)﻿(c) must—
   (a) take the steps that are necessary to ensure that the person is no longer in breach of either subsection; and
   (b) while the person remains in breach, not exercise or control the exercise of any voting rights that exceed the 5% limit.
-(4) An exercise of voting rights by or under the control of a person in breach of subsection (1)(c) or subsection (2)(c) is of no effect, and must be disregarded by the person responsible for counting the votes concerned.
+(4) An exercise of voting rights by or under the control of a person in breach of subsection (1)﻿(c) or subsection (2)﻿(c) is of no effect, and must be disregarded by the person responsible for counting the votes concerned.
 (5) Voting rights held or controlled by an associated person of a person are to be treated as voting rights held or controlled by that person.
 (6) A person is an associated person of another person if—
   (a) they are acting jointly or in concert; or
@@ -204,25 +204,25 @@ The 3 share allocation plans are to restrict the allocation and issue of shares 
 
 ### 22 Size of entitlement for non-merino growers
 (1) The share allocation plan for non-merino growers must provide that the proportion, and therefore number, of shares in the company to be allocated to a non-merino grower must be the same proportion that the average number of non-merino sheep of that grower (calculated under subsection (2)) bears to the total average number of non-merino sheep of all growers entitled to an allocation of shares for non-merino growers.
-(2) The average number of non-merino sheep of a non-merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—ais the greater of the numbers derived from the following:bis—
+(2) The average number of non-merino sheep of a non-merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:a ÷ bwhere—ais the greater of the numbers derived from the following:bis—
   (a) the aggregate number of non-merino sheep farmed by a non-merino grower—
     (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed non-merino sheep on all 3 of those dates; or
     (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on 2 of those 3 dates; or
     (iii) as at one of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on just 1 of those 3 dates; or
   (b) the number of non-merino sheep farmed by a non-merino grower on 30 June 2002
-  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
+  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)﻿(i) of item a; or
   (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
   (c) 1 , if the grower farmed sheep on just 1 of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
 
 ### 23 Size of entitlement for merino wool growers
 (1) The share allocation plan for merino wool growers must provide that the proportion, and therefore number, of shares in the company to be allocated to a merino grower must be the same proportion that the average number of merino sheep of that grower (calculated under subsection (2)) bears to the total average number of merino sheep of all growers entitled to an allocation of shares for merino wool growers.
-(2) The average number of merino sheep of a merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—ais the greater of the numbers derived from the following:bis—
+(2) The average number of merino sheep of a merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:a ÷ bwhere—ais the greater of the numbers derived from the following:bis—
   (a) the aggregate number of merino sheep farmed by a merino grower—
     (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed merino sheep on all 3 of those dates; or
     (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed merino sheep on 2 of those 3 dates; or
     (iii) as at one of the dates specified in subparagraph (i), if the grower farmed merino sheep on just 1 of those 3 dates; or
   (b) the number of merino sheep farmed by a merino grower on 30 June 2002
-  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
+  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)﻿(i) of item a; or
   (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
   (c) 1, if the grower farmed sheep on just 1 of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
 
@@ -412,7 +412,7 @@ The following activities are specified activities for the purpose of this Act:
 (1) The company may estimate the amount of levy money payable under this Act for a relevant period, and make a written demand for payment of that amount, if—
   (a) a levy return is not made by the required time; or
   (b) the company is not satisfied that the levy return is complete and correct.
-(2) A person who receives a demand under subsection (1) may dispute the estimated amount demanded within 10 days of the demand being made; however, this applies only to the initial demand and not to a substitute demand made under subsection (3)(c)(i).
+(2) A person who receives a demand under subsection (1) may dispute the estimated amount demanded within 10 days of the demand being made; however, this applies only to the initial demand and not to a substitute demand made under subsection (3)﻿(c)﻿(i).
 (3) Within 15 days of receiving a notice of dispute, the company must—
   (a) consider the matters raised in it; and
   (b) undertake any audit of the operations of the person concerned that the company thinks appropriate and the person allows; and
@@ -453,7 +453,7 @@ The following activities are specified activities for the purpose of this Act:
 
 ### 52 Appointment of auditor
 (1) The Minister may appoint a person referred to in subsection (2) as an auditor to exercise the powers in section 51 if the company so requests.
-(2) A person whom the Minister may appoint as an auditor under subsection (1) must be a chartered accountant (as defined in section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
+(2) A person whom the Minister may appoint as an auditor under subsection (1) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (3) However, the Minister must not appoint a person as an auditor who is an officer or employee of—
   (a) the company; or
   (b) a collection agent; or
@@ -509,7 +509,7 @@ The company may transfer the company's database containing the following informa
   (a) a report of its progress in implementing the restructuring plan; and
   (b) the annual return of the company under section 214 of the Companies Act 1993 until a final report has been made in accordance with section 57.
 (2) As soon as reasonably practicable after receiving the report and annual return, the Minister must present them to the House of Representatives.
-(3) The directors of the company must send a copy of the report referred to in subsection 56(1)(a) to a person who was a grower immediately before the restructuring day who requests a copy of that report.
+(3) The directors of the company must send a copy of the report referred to in subsection 56(1)﻿(a) to a person who was a grower immediately before the restructuring day who requests a copy of that report.
 
 ### 57 Final report on implementation of restructuring plan
 (1) As soon as reasonably practicable after the implementation of the restructuring plan is completed and all assets of the company are distributed in accordance with the plan, the directors of the company must arrange for the preparation of a final report on the implementation of the restructuring plan.
