@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2014-02-27_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2760,6 +2760,25 @@ If a member dies, the trustees (in the case of a restricted KiwiSaver scheme) or
     (i) of the member's departure from New Zealand (see, for examples of proof: clause 14(3)(b)(i)); and
     (ii) that the member has resided at an Australian address at some time following the member's departure from New Zealand.
 (5) The trustees or the manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
+
+### 14C Withdrawal to meet tax liability on foreign superannuation withdrawal
+(1) A member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), withdraw an amount for the payment of the member's liability for—
+  (a) tax, other than interest or penalties, arising under the Income Tax Act 2007 from the member's withdrawal of an interest in a foreign superannuation scheme and conversion of the interest into an interest in a KiwiSaver scheme:
+  (b) repayment obligations arising under the Student Loan Scheme Act 2011 from the member's withdrawal of an interest in a foreign superannuation scheme and conversion of the interest into an interest in a KiwiSaver scheme.
+(2) The amount withdrawn under—
+  (a) subclause (1)(a) may not exceed the lesser of—
+    (i) the member's liability for tax referred to in that paragraph:
+    (ii) the member's liability for terminal tax in the tax year to which the tax relates:
+  (b) subclause (1)(b) may not exceed the member's repayment obligations referred to in that paragraph.
+(3) An amount withdrawn under subclause (1) may not exceed the value at the time of the withdrawal of the member's accumulation less the amount of the Crown contribution.
+(4) An application under subclause (1) must—
+  (a) be made within the period of 24 months beginning from the end of the month in which the liability of the member for tax or student loan repayments is assessed; and
+  (b) be in the form required by the trustees or manager (as the case may be); and
+  (c) must include a completed statutory declaration giving the relevant details of the foreign superannuation withdrawal, the reinvestment, and the resulting liability of the member for tax under the Income Tax Act 2007; and
+  (d) must include any documents and other information that may be required by the trustees or manager (as the case may be) in support of the statutory declaration.
+(5) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must—
+  (a) provide to the Commissioner of Inland Revenue, in a form satisfactory to the Commissioner, the details of any withdrawal made by a member under subclause (1); and
+  (b) if payment to a person other than the member is possible, pay to the Commissioner the amount of the withdrawal.
 
 ### 15 Contributions holiday
 A employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
