@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2014-03-08_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -26,11 +26,9 @@ The purposes of this Act are to—
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **adjusted net income** has the meaning given to it in section 73
-  - **annual gross income** has the same meaning as in section BC 2 of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced income as if the borrower were a New Zealand resident
   - **annual repayment threshold** means—
     (a) $19,084 for the tax year commencing on 1 April 2012 and for each subsequent tax year to which regulations referred to in paragraph (b) do not apply; or
     (b) the amount prescribed by regulations for a tax year and subsequent tax years
-  - **annual total deduction** has the same meaning as in section BC 3 of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced deductions that may be offset against the borrower's non-residents' foreign-sourced income as if the borrower were a New Zealand resident
   - **base interest rate** means the interest rate that applies for a tax year, calculated in accordance with the formula—a% = b% + 0.74%where—a%rounded to the nearest 1 decimal place is the interest rate for the relevant tax yearb%is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year
   - **borrower** means a person who has received or been charged with a loan advance and who has not fully repaid his or her consolidated loan balance
   - **borrower deduction** means—
@@ -92,12 +90,6 @@ The purposes of this Act are to—
   - **pay period** , for a borrower who receives a payment of salary or wages, means the period for which that payment is payable
   - **PAYE intermediary** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **PAYE rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **pre-taxed income** means annual gross income derived from 1 or more of the following:
-    (a) interest, as defined in section YA 1 of the Income Tax Act 2007:
-    (b) a dividend, as defined in sections CD 3 to CD 20 of the Income Tax Act 2007:
-    (c) a taxable Māori authority distribution, as defined in section HF 7 of the Income Tax Act 2007:
-    (d) salary or wages from employment as a casual agricultural employee, as defined in section YA 1 of the Income Tax Act 2007:
-    (e) salary or wages from employment as an election day worker, as defined in section YA 1 of the Income Tax Act 2007
   - **primary employment earnings** has the same meaning as in section 3(1) of the Tax Administration Act 1994, except that it—
     (a) includes an extra pay paid to the borrower in the pay period; but
     (b) does not include—
@@ -826,17 +818,10 @@ This subpart applies to the following New Zealand-based borrowers, other than ne
     (ii) have been issued a default assessment for an end-of-year repayment obligation under section 106 of the Tax Administration Act 1994 for that tax year.
 
 ### 73 Meaning of adjusted net income
-(1) In this Act, adjusted net income means a borrower's income calculated in accordance with the formula—a = b − cwhere—ais the borrower's adjusted net incomebis the borrower's annual gross income other than from salary or wagescis the borrower's annual total deductions.
-(2) However, the income and deductions for any investment activity, or for any business, for a tax year are ignored when calculating a borrower's adjusted net income for that tax year if, treating the borrower as having only the income and deductions of that investment activity or of that business, the borrower would have a net loss for that year.
-(3) For the purposes of applying subsection (2), 2 or more business or investment activities may be treated as a single activity if the Commissioner considers that those business or investment activities are of a kind that are normally carried on in association with each other.
-(4) For the purposes of applying subsection (2), as modified by subsection (3), deductions that relate to an asset used in carrying on 2 or more business or investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
-(5) Subsections (2) to (4) do not apply to a borrower whose only income for the tax year is from pre-taxed income, or pre-taxed income and salary and wages.
-(6) In this section,—
-  - **business** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **investment activity** has the same meaning as in section MB 3(5) of the Income Tax Act 2007.
+In this Act, adjusted net income means net income, as defined in section YA 1 of the Income Tax Act 2007, with the adjustments set out in Schedule 3 of this Act (including any adjustment determined by the Commissioner under clause 15 of that schedule) and excluding salary or wages.
 
 ### 74 Declaration of adjusted net income
-(1) If this subpart applies to a borrower and the borrower is not required to file a return of his or her income for the tax year or provide details of his or her annual gross income and annual total deductions under section 114, the borrower must make a declaration of the borrower's adjusted net income.
+(1) If this subpart applies to a borrower and the borrower is not required to file a return of his or her income for the tax year or provide details of his or her adjusted net income under section 114, the borrower must make a declaration of the borrower's adjusted net income.
 (2) The declaration of adjusted net income must be made—
   (a) by notifying the Commissioner in a manner acceptable to the Commissioner; and
   (b) on or before—
@@ -853,7 +838,7 @@ A borrower may apply to the Commissioner for an extension of time for the making
 ### 76 Commissioner to assess borrower's end-of-year repayment obligation
 (1) The Commissioner must assess the amount (if any) of a borrower's end-of-year repayment obligation for a tax year as soon as practicable after the borrower provides—
   (a) his or her return of income for that tax year; or
-  (b) details of his or her annual gross income and annual total deductions under section 114; or
+  (b) details of his or her adjusted net income under section 114; or
   (c) his or her declaration of adjusted net income.
 (2) In making the assessment, the Commissioner may have regard to—
   (a) any document provided under subsection (1):
@@ -887,7 +872,7 @@ If the Commissioner is satisfied that a borrower meets the criteria in section 7
   (b) on or before the due date under section 81 or a due date determined by the Commissioner under section 85.
 (2) Subsection (3) applies to a borrower if—
   (a) the borrower's end-of-year repayment obligation for a tax year is $1,000 or more; or
-  (b) the borrower has not made a declaration of adjusted net income for a tax year, provided a return of income, or provided details of his or her annual gross income and annual gross deductions under section 114 for a tax year, and the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year was $1,000 or more.
+  (b) the borrower has not made a declaration of adjusted net income for a tax year, provided a return of income, or provided details of his or her adjusted net income under section 114 for a tax year, and the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year was $1,000 or more.
 (3) A borrower must also pay interim payments for the next tax year—
   (a) calculated in accordance with section 82 or 83:
   (b) on or before the due dates determined in accordance with section 84 or 85.
@@ -917,7 +902,7 @@ A borrower must pay his or her terminal payment on or before the borrower's term
 ### 83 Commissioner may assess interim payments if information for preceding year not provided
 (1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide—
   (a) his or her return of income; or
-  (b) details of his or her annual gross income and annual total deductions under section 114; or
+  (b) details of his or her adjusted net income under section 114; or
   (c) his or her declaration of adjusted net income under section 74.
 (2) Section 82 does not apply if the Commissioner makes an assessment in accordance with subsection (1).
 
@@ -1088,22 +1073,19 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
 (1) This section applies to an overseas-based borrower who—
   (a) is not or is no longer entitled to a repayment holiday under section 107B or 108A(2); and
   (b) has not had his or her overseas-based repayment obligation reassessed under section 115A.
-(2) If the borrower's consolidated loan balance is less than $1,000, the borrower's repayment obligation for a tax year (or, if applicable, part of a tax year) during which this section applies to the borrower is the amount of the borrower's consolidated loan balance.
-(3) If the borrower's consolidated loan balance is—
-  (a) $1,000 or more, but less than or equal to $15,000, the borrower's repayment obligation is $1,000 for each full tax year during which the borrower is overseas-based:
-  (b) more than $15,000, but less than or equal to $30,000, the borrower's repayment obligation is $2,000 for each full tax year during which the borrower is overseas-based:
-  (c) more than $30,000, the borrower's repayment obligation is $3,000 for each full tax year during which the borrower is overseas-based.
-(4) The borrower's repayment obligation for the portion of a tax year (being less than a full tax year) during which this section applies is calculated in accordance with the formula—a × b365where—ais the number of days in the tax year during which this section applies to the borrowerbis one of the following:
-  (a) $1,000, if the borrower's consolidated loan balance is $1,000 or more, but less than or equal to $15,000; or
-  (b) $2,000, if the borrower's consolidated loan balance is more than $15,000, but less than or equal to $30,000; or
-  (c) $3,000, if the borrower's consolidated loan balance is more than $30,000.
-(5) If the amount of a threshold or the amount of a repayment obligation set out in subsections (2) to (4) is changed by regulations, that amount is changed accordingly.
-(6) In this section, consolidated loan balance means,—
-  (a) if a borrower was not overseas-based at the start of the tax year, the borrower's consolidated loan balance on the date on which the borrower became overseas-based; and
-  (b) if a borrower was overseas-based at the start of the tax year (year A), the sum determined by—
-    (i) including the amount of the borrower's consolidated loan balance on 31 March in the year prior to year A (the previous year); and
-    (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
-    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
+(2) The borrower's repayment obligation for every full tax year during which this section applies to the borrower is—
+  (a) $1,000, if the relevant loan balance is less than or equal to $15,000:
+  (b) $2,000, if the relevant loan balance is more than $15,000 but less than or equal to $30,000:
+  (c) $3,000, if the relevant loan balance is more than $30,000 but less than or equal to $45,000:
+  (d) $4,000, if the relevant loan balance is more than $45,000 but less than or equal to $60,000:
+  (e) $5,000, if the relevant loan balance is more than $60,000.
+(3) The borrower's repayment obligation for any portion of a tax year (being less than a full tax year) during which this section applies to the borrower must be calculated in accordance with the following formula:x×y365where—xis the number of days in the tax year during which this section applies to the borroweryis the amount that would apply under subsection (2) if this section applied to the borrower for the full tax year.
+(4) In this section—
+  - **existing borrower** means a borrower who was overseas-based on 31 March 2014 and has been continuously overseas-based since that date
+  - **relevant loan balance** means the borrower's consolidated loan balance on the start date or, if the borrower's consolidated loan balance increases, the greatest balance on any 31 March after the start date but before the last day of the tax year
+  - **start date** means,—
+    (a) for an existing borrower, 31 March 2014:
+    (b) for any other borrower, the day when the borrower becomes overseas-based.
 
 ### 111 Exceptions to repayment obligations of overseas-based borrowers
 (1) For each tax year in which an overseas-based borrower has an unpaid amount but has no loan balance, the borrower's repayment obligation is zero.
@@ -1119,7 +1101,7 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
   (b) if a borrower was overseas-based at the start of the tax year (year A), the sum determined by—
     (i) including the amount of the borrower's loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
-    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year; and
+    (iii)
     (iv) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 
 ### 112 Repayment to be made by instalments
@@ -1139,24 +1121,24 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 
 ### 114 Notification of worldwide income by New Zealand-based non-resident borrowers
 (1) This section applies to a New Zealand-based borrower who is a non-resident.
-(2) For each tax year and each part of a tax year to which this section applies to a borrower, the borrower must notify the Commissioner, in a manner acceptable to the Commissioner, of the borrower's annual gross income and annual total deductions.
+(2) For each tax year and each part of a tax year to which this section applies to a borrower, the borrower must notify the Commissioner, in a manner acceptable to the Commissioner, of the borrower's adjusted net income.
 (3) The borrower must notify the Commissioner at the time when, if the borrower were a New Zealand resident, he or she would have had to provide—
   (a) a declaration of adjusted net income; or
   (b) a return of income for a tax year.
-(4) The Commissioner may require the borrower to provide evidence of the borrower's annual gross income and annual total deductions.
+(4) The Commissioner may require the borrower to provide evidence of the borrower's adjusted net income.
 
 ### 114A Extension of time for making notification of worldwide income
 (1) This section applies if section 114(2) applies.
-(2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's annual gross income and annual total deductions in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
+(2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's adjusted net income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
   (a) the reference to the due date required under this section were a reference to the due date required under section 114(3) of the Student Loan Scheme Act 2011; and
   (b) every reference to a taxpayer were a reference to a borrower; and
-  (c) every reference to a return or a return of income were a reference to a notification of the borrower's annual gross income and annual total deductions.
+  (c) every reference to a return or a return of income were a reference to a notification of the borrower's adjusted net income.
 
 ### 115 Repayment obligations of borrowers who are overseas-based for part of tax year
 (1) If a borrower is both New Zealand-based and overseas-based during a tax year,—
   (a) subparts 1 and 2 apply to the borrower for the period in the tax year during which he or she is New Zealand-based (the New Zealand-based period), except that, for the purposes of subpart 2, the amount of the annual repayment threshold for the tax year must be proportionately decreased to the same proportion as the number of days in the New Zealand-based period bears to the number of days in a year; and
   (b) only the income that the borrower derived during the period that the borrower was New Zealand-based during the year must be taken into account when calculating the borrower’s repayment obligation under subparts 1 and 2; and
-  (c) section 110(4) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and is not entitled to a repayment holiday (as defined in section 106); and
+  (c) section 110(3) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and is not entitled to a repayment holiday (as defined in section 106); and
   (d) the borrower's overseas-based repayment obligation is payable in instalments as determined by the Commissioner.
 (2) Subsection (1) applies despite anything to the contrary in this Act, except as provided in section 115A.
 
@@ -1853,7 +1835,7 @@ Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106
   (a) every reference to a taxpayer or a person were a reference to a borrower; and
   (b) every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) every reference to income tax were a reference to a repayment obligation; and
-  (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's annual gross income and annual total deductions under section 114.
+  (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's adjusted net income under section 114.
 
 ### Subpart 2 — Miscellaneous matters
 
@@ -2128,14 +2110,108 @@ A borrower who makes an application under section 25(1)(j) must—
 
 ### 11 Certain exempt borrowers must notify Commissioner of their worldwide income
 (1) This clause applies to a borrower who is treated as being physically in New Zealand under any of paragraphs (b), (g), (h), (i), and (j) of section 25(1).
-(2) The borrower must notify the Commissioner of the borrower's annual gross income and annual total deductions in accordance with section 114(2), and sections 114(3) and (4) and 114A apply accordingly.
+(2) The borrower must notify the Commissioner of the borrower's adjusted net income in accordance with section 114(2), and sections 114(3) and (4) and 114A apply accordingly.
 
 ## Schedule 2 — Application of PAYE rules for purposes of section 70
 
 | Compare: 1992 No 141 s 25 |
 | --- |
 
-## Schedule 3 — Application of provisional tax rules for purposes of section 86
+## Schedule 3 — Adjustments to net income for purposes of section 73, applying from 1 April 2014 for 2014–2015 and later tax years
+
+### 1 Interpretation
+In this schedule, unless the context otherwise requires—
+  (a) any term or expression that is defined in the Income Tax Act 2007 and used, but not defined, in this schedule has the same meaning as in the Income Tax Act 2007; and
+  (b) Act means the Income Tax Act 2007.
+
+### 2 Adjustments to net income for purpose of determining adjusted net income
+For the purposes of section 73 of this Act, the adjustments to net income in clauses 3 to 15 apply for the purposes of determining adjusted net income.
+
+### 3 Non-resident's foreign-sourced income
+The adjusted net income of a borrower who is non-resident includes the net income of the non-resident's foreign-sourced income, as if the borrower were a New Zealand resident.
+
+### 4 Borrowers who carry on business and investment activities
+(1) The income and deductions for any investment activity, or for any business, for a tax year are ignored when calculating a borrower's adjusted net income for that tax year if, treating the borrower as having only the income and deductions of that investment activity or of that business, the borrower would have a net loss for that year.
+(2) For the purposes of applying subclause (1), 2 or more business or investment activities may be treated as a single activity if the Commissioner considers that those business or investment activities are of a kind that are normally carried on in association with each other.
+(3) For the purposes of applying subclause (1), as modified by subclause (2), deductions that relate to an asset used in carrying on 2 or more business or investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
+
+### 5 Exempt income included
+An amount derived by the borrower is not treated as exempt income if it is—
+  (a) an overseas pension within the meaning of section CW 28(2)(a) of the Act:
+  (b) an amount of salary or wages that is exempt from income tax under an Act, or under a regulation or Order in Council made under an Act, that is listed in Schedule 38 of the Act (Acts exempting income from tax: income included in family scheme income).
+
+### 6 Income from portfolio investment entities
+(1) An amount of income attributed by a portfolio investment entity to the borrower for an income year—
+  (a) is not included in adjusted net income of the borrower for the income year if the portfolio investment entity is a superannuation fund or retirement savings scheme:
+  (b) is included in adjusted net income of the borrower for the income year if paragraph (a) does not apply.
+(2) A distribution from a listed PIE that is derived by the borrower in an income year is included in adjusted net income of the borrower for the income year.
+
+### 7 Refunds from main income equalisation accounts
+A refund under sections EH 8 to EH 26 of the Act (which relate to refunds from main income equalisation accounts) of a deposit made on or after 1 April 2014 is not included in adjusted net income of a borrower, except to the extent that the refund is interest payable to the borrower under section EH 6 of the Act (Interest on deposits in main income equalisation account).
+
+### 8 Borrowers who are shareholders in close companies
+(1) This clause applies to a borrower who is a major shareholder in a close company on the last day of the company’s income year.
+(2) The borrower's adjusted net income for the income year includes an amount calculated using the following formula, if the amount is greater than zero,—a × (b – c)where—ais the voting interest (in percentage) in the company held by the borrower on the last day of the company's income yearbis the net income of the company for the company's income yearcis the total dividends paid by the company for the company's income year.
+
+### 9 Treatment of distributions from superannuation schemes
+(1) Subclause (3) applies if a borrower receives a distribution from a superannuation scheme in an income year and—
+  (a) an employer of the borrower has made contributions to the superannuation scheme in the income year in which the distribution was received or in the 2 income years immediately before that income year; and
+  (b) the borrower continues to work for the employer for 1 month or more after the date of the distribution.
+(2) Subclause (3) does not apply if a borrower receives a distribution from a superannuation scheme—
+  (a) as a result of, and on or after, the person's retirement from employment with an employer who was a contributor to the scheme; or
+  (b) if the superannuation scheme is a KiwiSaver scheme or a complying superannuation fund.
+(3) For the purposes of calculating adjusted net income, the distribution (excluding any amount attributable to a contribution by the borrower as a member of the superannuation scheme) is adjusted net income of the borrower derived in the tax year or tax years that corresponds to the income year or years in which the employer contributions were made.
+
+### 10 Treatment of distributions from retirement savings schemes
+(1) Subclause (2) applies if—
+  (a) a borrower receives a distribution of a retirement scheme contribution from a retirement savings scheme in an income year; and
+  (b) RSCT has been withheld from the contribution; and
+  (c) at the time of the distribution, the person—
+    (i) is not eligible for New Zealand superannuation; and
+    (ii) is eligible for a distribution of a retirement scheme contribution from a retirement scheme contributor.
+(2) For the purposes of calculating adjusted net income, the distribution is adjusted net income of the person derived in the income year in which the distribution is made.
+
+### 11 Borrowers who are settlors of trusts
+(1) Subclause (3) applies if a borrower is the settlor of a trust (the borrower’s trust) at a time in the income year, other than solely as a result of providing personal services for less than market value in the administration of the trust or the maintenance of trust property.
+(2) However, subclause (3) does not apply if—
+  (a) the trustee of the borrower’s trust is registered as a charitable entity under the Charities Act 2005:
+  (b) the borrower’s trust is solely for the benefit of a local authority:
+  (c) interest and dividends derived by the trustee of the borrower’s trust would be exempt income of the trustee under section CW 45 (Funeral trusts) of the Act:
+  (d) the borrower’s trust is a superannuation fund:
+  (e) the borrower and the members of the borrower’s family are not permitted to benefit from the borrower’s trust except under an order of a court.
+(3) If this subclause applies, the adjusted net income of the borrower for that income year includes an amount calculated in accordance with the following formula:(a + b) ÷ dwhere—ais the net income of the trustee of the borrower's trust for the income year reduced, to not less than zero, by the amount of the trustee’s income that vests or is paid by the trustee as beneficiary income for the income yearbis the greater of zero and the total of amounts calculated in accordance with subclause (4) for each company in which the trustee of the borrower's trust and associated persons hold voting interests of 50% or more on the last day of the company’s income yeardis the number of settlors of the borrower’s trust who are alive at any time in the income year, including the borrower, to which this clause applies.
+(4) The amount referred to in item b of the formula in subclause (3) is to be calculated for each company using the following formula:x × (y – z)where—xis the total of the voting interests (in percentage) held by the trustee on the last day of the company’s income yearyis the net income of the company for the company's income yearzis the total dividends paid by the company for the company's income year.
+
+### 12 Income from fringe benefits
+(1) Subclause (2) applies if—
+  (a) a borrower is an employee of a company in which the borrower and associated persons hold voting interests of 50% or more on the last day of the income year; and
+  (b) the company provides a fringe benefit that must be attributed to the borrower under section RD 47 of the Act (Attribution of certain fringe benefits).
+(2) The adjusted net income of the borrower for the income year includes an amount equal to the total of the following amounts:
+  (a) the taxable value of the fringe benefits that the company must attribute to the borrower under sections RD 47 to RD 49 of the Act for the income year; and
+  (b) the company’s FBT liability in relation to the borrower under section RD 50 of the Act (Employer’s liability for attributed benefits) for the income year.
+
+### 12A Income from employment benefits
+(1) This clause applies to a borrower to whom clause 12 does not apply if the borrower's employer makes a motor vehicle or a short term charge facility available to the borrower in the income year.
+(2) If the borrower's employer makes a motor vehicle available for the borrower’s private use (the benefit) and, under the terms of the borrower’s employment, the borrower would be entitled to a greater amount of employment income if the borrower chose not to receive the benefit, the borrower's adjusted net income for that income year includes an amount equal to the amount by which the borrower's employment income would be greater without the benefit.
+(3) If the borrower's employer makes any short term charge facility available to the borrower (the facility), and the total value for the income year of any such facilities (excluding any fringe benefit tax) is more than the lesser of $1,200 or 5% of the borrower's salary or wages, then the borrower's adjusted net income for the income year includes the total value of the facilities including any fringe benefit tax.
+
+### 13 Income from deposits in main income equalisation accounts
+The adjusted net income of a borrower for an income year includes the amount of a deduction under section DQ 1 of the Act (Main income equalisation scheme) allowed for a payment made to the Commissioner under section EH 4 of the Act (Main deposit) for an accounting year, corresponding to the same tax year as does the income year, and for a business of—
+  (a) the borrower:
+  (b) a company that meets the requirements of section MB 4 of the Act for the borrower's adjusted net income to be affected by net income of the company for the accounting year:
+  (c) a trustee of a trust that meets the requirements of section MB 7 for the borrower's adjusted net income to be affected by net income of the trustee for the accounting year:
+  (d) a company in which a trustee referred to in paragraph (c) and associated persons hold a voting interest of 50% or more on the last day of the income year.
+
+### 14 Income from certain pensions and annuities
+If, in the income year, a borrower derives a pension or an annuity that is exempt income of the borrower under section CW 4 of the Act (Annuities under life insurance policies) or is a pension from a superannuation fund, the adjusted net income of the borrower for the income year—
+  (a) includes half the amount of pension or annuity derived in the income year; and
+  (b) does not include the other half of the amount of pension or annuity derived in the income year.
+
+### 15 Payments from trusts, not being beneficiary income, and where borrower not settlor
+(1) For the purposes of calculating adjusted net income, a borrower must include all payments from trusts in the adjusted net income of the person derived in the income year in which the distribution is made where—
+  (a) the distribution is not beneficiary income in relation to the borrower; and
+  (b) the borrower is not the settlor of the trust.
+(2) The Commissioner may, in his or her discretion, determine the circumstances in which payments from a trust should be excluded for the purposes of calculating adjusted net income.
 
 ## Schedule 4 — Application of provisional tax rules for purposes of section 86
 
