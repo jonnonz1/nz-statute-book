@@ -1,5 +1,5 @@
 # Pacific Islands Polynesian Education Foundation Act 1972
-_Consolidation as at 2005-04-26_
+_Consolidation as at 2014-04-01_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
@@ -11,8 +11,10 @@ In this Act, unless the context otherwise requires,—
   - **Board** means the Board of Trustees of the Foundation
   - **contributor** means a person who is for the time being a contributor to the Foundation within the meaning of section 6
   - **education** includes pre-school education
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a period of 12 months ending with the last day of December
   - **Foundation** means the Pacific Islands Polynesian Education Foundation constituted by this Act
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Polynesian** means a member of the Polynesian race living in New Zealand who is both—and includes any descendant of any such member of the Polynesian race
     (a) a native of any island of the Pacific Ocean (other than New Zealand); and
     (b) a New Zealand citizen or a person who has been granted permanent residence or who has been permitted to enter New Zealand with the intention of permanent residence,—
@@ -201,24 +203,30 @@ Notwithstanding the terms of any trust affecting any such land, the Board may le
 (1) The Board shall for each financial year make an estimate, in a form approved by the Minister of Finance, of the amount of the expenditure for all purposes and the receipts of the Foundation in that year. The estimate shall show separately the estimated amount of capital expenditure and income expenditure.
 (2) The estimate shall be forwarded in duplicate to the Minister on or before 1 May in the financial year to which it relates.
 
-### 28 Accounts
-(1) The Board shall cause books to be provided and kept, and true and regular accounts to be entered therein of the income and expenditure of the Foundation, and of all sums received and paid by the Foundation, and of the several purposes for which those sums were received and paid.
-(2) A separate account shall be kept in respect of every trust fund or trust property under the control of the Board.
-(3) The said books of account shall be open at all reasonable times to the inspection of any trustee.
+### 28 Accounting records must be kept
+(1) The Board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Foundation; and
+  (b) will enable the Board to ensure that the financial statements of the Foundation comply with this Act; and
+  (c) will enable the financial statements of the Foundation to be readily and properly audited.
+(2) The Board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+(4) Separate accounting records must be kept in respect of every trust fund or trust property under the control of the Board.
+(5) The accounting records must be open at all reasonable times to the inspection of any trustee.
 
-### 29 Annual balance
-(1) The Board shall, before 1 April in every year, cause its accounts for the immediately preceding financial year to be balanced and a true statement of account to be prepared in the form approved by the Controller and Auditor-General showing:
-  (a) the source and application of the Foundation's funds during the financial year; and
-  (b) the income and expenditure of the Foundation for the financial year; and
-  (c) the statement of financial position of the Foundation at the end of the financial year.
-(2)
+### 29 Financial statements must be prepared
+The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Foundation and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
 
-### 29A Auditor-General to be auditor of Board
-The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+### 29A Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Foundation are audited.
+(2) The Foundation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 30 Annual report
-(1) The Board shall, not later than 30 June in each year, furnish to the Minister and to the Minister of Pacific Island Affairs, a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year with the report of the Auditor-General thereon.
-(2) A copy of the report and of the accounts with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
+(1) The Board shall, not later than 30 June in each year, furnish to the Minister and to the Minister of Pacific Island Affairs, a report of its proceedings and operations for its preceding financial year, together with a copy of the financial statements of the Foundation for that year with the report of the Auditor-General thereon.
+(2) A copy of the report and of the financial statements with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
 
 ### 31 Exemption from taxes
 (1) All land held by or on behalf of the Foundation shall be exempt from land tax.
