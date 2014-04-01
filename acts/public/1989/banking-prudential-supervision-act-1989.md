@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2013-12-10_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -1068,7 +1068,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (c) about any individual member of its banking group, whether or not the member is incorporated, domiciled, or resident in New Zealand:
   (d) about a body incorporated in New Zealand, or an overseas company registered under section 337 of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
 (2) An Order in Council made under section 81 may also—
-  (a) prescribe the information that is required to be contained in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993) in financial statements:
+  (a) prescribe information that is required to be contained in financial statements:
   (b) require the publication of financial statements and notes to those statements for any period or periods specified in the order:
   (c) require the information to be published in consolidated form:
   (d) require financial information that is required to be published to be taken from audited financial statements:
@@ -2033,7 +2033,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (1) Subject to subsection (2), all the provisions of the Companies Act 1993 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a company within the meaning of section 2 of that Act and that is subject to statutory management.
 (2)
 (3)
-(4) Nothing in sections 120, 196 to 209B, and 214 of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management.
+(4) Nothing in sections 120, 207P to 209B, and 214 of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management.
 (5) Nothing in the Receiverships Act 1993 shall apply to a company that is subject to statutory management.
 (6) Subject to subsection (7), all the provisions of the Building Societies Act 1965 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a building society within the meaning of section 2 of that Act and that is subject to statutory management.
 (7) Nothing in sections 76 and 91 to 106 of the Building Societies Act 1965 shall apply to a building society that is subject to statutory management.
@@ -2041,7 +2041,10 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (9) To avoid doubt, the Bank or any other person is not a director (within the meaning of section 126 of the Companies Act 1993) of any registered bank or an associated person of the registered bank by reason only of the Bank or that other person exercising the powers conferred by this Part.
 
 ### 154 Appointment of auditors
-(1) The statutory manager of a registered bank must appoint 1 or more persons (whether as individuals or as the members from time to time of any firm or firms) who are qualified for appointment as auditors of a company under the Companies Act 1993 and who have been approved by the Bank to be the auditor of that registered bank.
+(1) The statutory manager of a registered bank must appoint 1 or more persons (whether as individuals or as the members from time to time of any firm or firms) to be the auditor of that registered bank.
+(1A) The person or persons appointed to be the auditor under subsection (1) must be—
+  (a) licensed auditors (within the meaning of section 6(1) of the Auditor Regulation Act 2011); and
+  (b) approved by the Bank.
 (2) Every such appointment shall be for a term not exceeding 2 years, but any person appointed as auditor shall continue in office until a successor comes into office.
 (3) Any person appointed as auditor shall be eligible for reappointment.
 (4) Any auditor may be removed from office at any time by the Minister, by notice in writing to the auditor, for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
