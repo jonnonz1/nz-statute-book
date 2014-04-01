@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2012
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Amendment Act 2012.
@@ -204,10 +204,10 @@ Sections 106 to 108 and the heading above section 107 are repealed and the follo
 ### 31 Repayment obligations of overseas-based borrowers
 (1) Section 110 is amended by repealing subsection (1) and substituting the following subsection:
   (1) This section applies to an overseas-based borrower who is not, or is no longer, entitled to a repayment holiday under section 107B or 108A(2).
-(2) Section 110(6)(b)(iii) is amended by omitting excluding and substituting subtracting.
+(2)
 
 ### 32 Exceptions to repayment obligations of overseas-based borrowers
-Section 111(5)(b)(iii) is amended by omitting excluding and substituting subtracting.
+[Repealed]
 
 ### 33 Repayment to be made by instalments
 Section 112 is amended by repealing subsection (3) and substituting the following subsection:
