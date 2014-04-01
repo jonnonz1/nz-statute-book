@@ -1,5 +1,5 @@
 # Taranaki Scholarships Trust Board Act 1957
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2014-04-01_
 
 > An Act to incorporate the Taranaki Scholarships Trust Board, and to provide for the administration of the Taranaki Scholarships endowment and the award of scholarships
 
@@ -11,6 +11,8 @@ _Consolidation as at 2008-09-10_
 In this Act, unless the context otherwise requires,—
   - **Board** means the Taranaki Scholarships Trust Board constituted under this Act
   - **Chairman** means the Chairman of the Board
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Taranaki Post-graduate Scholarship** means a Taranaki Post-graduate Scholarship awarded under section 15.
   - **Taranaki Scholarship** means a Taranaki Scholarship awarded under section 12
 
@@ -98,11 +100,11 @@ In this Act, unless the context otherwise requires,—
   (a) obtained an A award in the University Bursaries Examination, or attained a standard approved by the Board for the purpose in the Entrance Scholarships Examination, conducted by the Universities Entrance Board; or
   (b) as a student enrolled at a tertiary institution at which such a scholarship is tenable, in any year been credited with passes, at a level of attainment acceptable to the Board for the purpose, in subjects or units that together constitute a full-time programme within the meaning of the Tertiary Assistance Grants Regulations 1980 or regulations passed in amendment of or substitution for those regulations.
 (4) No candidate shall be awarded a Taranaki Scholarship unless, for a continuous period of at least 2 years, he either was enrolled at a school situated within the Provincial District of Taranaki, or was resident in that District and enrolled at a correspondence school established by the Minister of Education, and—
-  (a) in the case of a candidate qualified under subsection (3)(a), that period included 31 July in the year in which he sat the examination concerned; or
-  (b) in the case of a candidate qualified under subsection (3)(b), that period either—
+  (a) in the case of a candidate qualified under subsection (3)﻿(a), that period included 31 July in the year in which he sat the examination concerned; or
+  (b) in the case of a candidate qualified under subsection (3)﻿(b), that period either—
     (i) included 31 July in the year before the year in which he first attended a tertiary institution; or
     (ii) if the Board is satisfied that the candidate had good reason for delaying his enrolment at that institution, included 31 July in the year 2 years before the year in which he first attended a tertiary institution.
-(5) Notwithstanding subsection (4)(b), where the Board is satisfied that special reasons exist for doing so, it may award a Taranaki Scholarship to a candidate who is qualified under subsection (3)(b) and who for any continuous period of at least 2 years either was enrolled at a secondary school situated in the Provincial District of Taranaki or was resident in that District and enrolled at a correspondence school established by the Minister of Education.
+(5) Notwithstanding subsection (4)﻿(b), where the Board is satisfied that special reasons exist for doing so, it may award a Taranaki Scholarship to a candidate who is qualified under subsection (3)﻿(b) and who for any continuous period of at least 2 years either was enrolled at a secondary school situated in the Provincial District of Taranaki or was resident in that District and enrolled at a correspondence school established by the Minister of Education.
 (6) A Taranaki Scholarship is tenable—
   (a) at any institution established under Part 14 of the Education Act 1989:
   (b) at any private training establishment (within the meaning of section 159(1) of the Education Act 1989) approved for the purposes of this Act by the Minister of Education by notice in the Gazette.
@@ -166,14 +168,28 @@ The Board may from time to time make bylaws, not inconsistent with this Act, for
 (1) All money belonging to the Board amounting to 5 pounds and upwards shall, within 7 days after it has come into the hands of any member or servant or agent of the Board, be paid into the account of the Board at such bank as the Board from time to time appoints.
 (2) No money shall be withdrawn from any such account, except by authority of the Board and by cheque signed by such person or persons as the Board from time to time, subject to any requirements of the Auditor-General, may authorise.
 
-### 21 Accounts
-(1) The Board must keep full and correct accounts of all money received and expended by it.
-(1A) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) The Board shall, as soon as practicable after the end of any financial year ending with such date as the Board may from time to time determine, cause its accounts for that year to be balanced, and full and true statements and accounts of all the money received and expended by it in that year and of its assets and liabilities at the end of that year, to be prepared and submitted to the Auditor-General.
+### 21 Accounting records must be kept
+(1) The Board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Board; and
+  (b) will enable the Board to ensure that the financial statements of the Board comply with this Act; and
+  (c) will enable the financial statements of the Board to be readily and properly audited.
+(2) The Board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 21A Financial statements must be prepared
+(1) The Board must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+(2) The financial year of the Board ends on the date that the Board may from time to time determine.
+
+### 21B Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Board are audited.
+(2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 22 Annual report to Minister
-(1) The Board shall, within 1 month after the receipt of the accounts certified by the Auditor-General, furnish to the Minister of Education a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year as so certified.
-(2) A copy of the said report and accounts shall be forwarded to the Universities Entrance Board.
+The Board must, within 1 month after the receipt of the audit report on the financial statements, provide to the Minister of Education a report of its proceedings and operations for its preceding financial year, a copy of its financial statements for that year, and a copy of the audit report.
 
 ### 23 Repeals
 [Repealed]
