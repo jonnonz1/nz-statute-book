@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -254,7 +254,7 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
   (b) some or all of the persons who are or may be liable to pay the levy (whether or not as persons primarily responsible for paying it):
   (c) both.
 (2) While a levy order is in force, the Minister who recommended its making may, if a mediator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of the affairs of all or any of the persons involved in the dispute.
-(3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996), or a member fellow or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993 by notice published in the Gazette.
+(3) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (4) No officer or employee of any of the following persons or organisations shall be appointed an auditor:
   (a) any industry organisation:
   (b) any person engaged in the collection of levies under the levy order concerned:
