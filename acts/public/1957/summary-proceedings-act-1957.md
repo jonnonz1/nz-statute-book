@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2014-01-22_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -36,7 +36,8 @@ _Consolidation as at 2014-01-22_
   - **infringement notice** means a notice issued under—
     (a)
     (b) section 14 of the Litter Act 1979; or
-    (ba) section 41B of the Financial Reporting Act 1993; or
+    (baa) section 514 of the Financial Markets Conduct Act 2013; or
+    (ba) section 207Z of the Companies Act 1993; or
     (c) section 32A of the Weights and Measures Act 1987; or
     (ca) section 57C of the Gas Act 1992; or
     (d) section 58 of the Civil Aviation Act 1990; or
