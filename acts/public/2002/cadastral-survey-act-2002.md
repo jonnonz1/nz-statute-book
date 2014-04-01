@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -20,6 +20,7 @@ The purpose of this Act is—
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Board** means the Cadastral Surveyors Licensing Board of New Zealand established by section 10
   - **cadastral survey** means the determination and description of the spatial extent (including boundaries) of interests under a tenure system
   - **cadastral survey data** —
@@ -31,6 +32,8 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **digital cadastral survey dataset** means cadastral survey dataset in digital form
   - **document** has the same meaning as in the Official Information Act 1982
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **geodetic system** means a system that enables positions on the surface of the Earth to be determined by reference to a mathematical model that describes the size and shape of the Earth
   - **land** includes—
     (a) subsoil, airspace, and water and marine areas; and
@@ -172,14 +175,30 @@ There may be paid out of the funds of the Board to members of the Board and any 
 ### 18 Unauthorised expenditure
 The Board may, in any financial year, expend for purposes not authorised by any Act or law any sum or sums not amounting in total to more than $500.
 
-### 19 Accounts
-(1) The Board must keep full and true accounts of all money received and expended by it.
-(2) As soon as practicable after the end of each financial year ending with 30 June, the Board must prepare and submit to a qualified auditor for auditing full and true statements and accounts of all its income and expenditure in that year and of its assets and liabilities at the end of that year.
-(3) In this section, qualified auditor means a person eligible to be appointed as an auditor under the Companies Act 1993.
+### 19 Accounting records must be kept
+(1) The Board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Board; and
+  (b) will enable the Board to ensure that the financial statements of the Board comply with this Act; and
+  (c) will enable the financial statements of the Board to be readily and properly audited.
+(2) The Board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 19A Financial statements must be prepared
+The Board must ensure that, within 5 months after the end of the financial year ending on 30 June, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+
+### 19B Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Board are audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the Board).
+(3) The auditor must, in carrying out an audit for the purposes of subsection (1), comply with all applicable auditing and assurance standards.
+(4) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
 
 ### 20 Annual report
 (1) The Board must, in each year, make a report to the Minister on the performance of its functions and duties and the exercise of its powers.
-(2) The report must contain a copy of the Board's audited accounts and the auditor's report on them.
+(2) The report must contain a copy of the Board's audited financial statements and the auditor's report on them.
 (3) The Board must—
   (a) notify, in writing, all cadastral surveyors—
     (i) that it has made its annual report to the Minister; and
