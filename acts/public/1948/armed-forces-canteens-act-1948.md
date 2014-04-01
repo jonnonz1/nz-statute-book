@@ -1,5 +1,5 @@
 # Armed Forces Canteens Act 1948
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to constitute the Armed Forces Canteen Council, to provide for the establishment of canteens and other amenities for the benefit of the Armed Forces, and for matters incidental thereto
 
@@ -10,8 +10,10 @@ This Act may be cited as the Armed Forces Canteens Act 1948 and shall come into 
 In this Act, unless the context otherwise requires,—
   - **amenities** means canteens, cinematograph theatres and other theatres and places of social entertainment, hairdressing saloons, cafeterias, shops, and other facilities calculated to meet the current requirements of members of Her Majesty's Armed Forces and of other persons employed or residing on service establishments; but does not include any service mess
   - **Council** means the Armed Forces Canteen Council constituted under this Act
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a year ending on 31 March
   - **Fund** means the Armed Forces Canteen Fund established under this Act
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Defence
   - **service establishment** means any place where members of Her Majesty's Armed Forces are from time to time stationed or assembled under naval, military, or air force control.
 
@@ -99,11 +101,28 @@ The Minister may from time to time—
   provided that no bank or payee or other person shall be concerned to inquire whether any cheque drawn upon a subsidiary account is within the authority of a resolution of the Council authorising operations upon that account.
 (8) The administrative expenses of the Council shall be payable out of the Fund.
 
-### 13 Accounts and annual report
-(1) The Council shall keep proper accounts of its moneys and property.
-(1A) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) The Council shall, as soon as may be after the end of each financial year, furnish to the Minister a report of its proceedings and operations for that year, together with a copy of its accounts for that year certified by the Auditor-General.
-(3) A copy of the report and of the accounts so certified shall be laid before Parliament within 28 days after the receipt thereof by the Minister if Parliament is then in session, and, if not, shall be laid before Parliament within 28 days after the commencement of the next ensuing session.
+### 13 Accounting records must be kept
+(1) The Council must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Council; and
+  (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
+  (c) will enable the financial statements of the Council to be readily and properly audited.
+(2) The Council must establish and maintain a satisfactory system of control of its accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 13A Financial statements and annual report
+(1) The Council must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Council and that financial year; and
+  (b) dated and signed on behalf of the Council by 2 members of the Council.
+(2) The Council must, within 5 months after the end of the financial year, provide to the Minister a report of its proceedings and operations for that year, together with a copy of its financial statements for that year and a copy of the audit report on the financial statements.
+(3) The Minister must present a copy of the report, of the financial statements, and of the audit report to the House of Representatives—
+  (a) not later than 10 working days after the Minister receives those documents; or
+  (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
+
+### 13B Financial statements must be audited
+(1) The Council must ensure that the financial statements of the Council are audited.
+(2) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 14 Distribution of profits
 (1) After such provision has been made as the Council thinks proper for liabilities, whether accrued or contingent, for reserves, and for future activities of the Council, the profits arising from the activities of the Council shall from time to time be disposed of in such manner as the Council, with the approval of the Minister, thinks fit for the benefit of—or may, with the approval of the Minister, be paid to the Chief of Defence Force for disposal for any other purposes that the Chief of Defence Force considers to be of advantage to the New Zealand Naval Forces, the New Zealand Army, or the Royal New Zealand Air Force, as the case may be, or the members thereof.
