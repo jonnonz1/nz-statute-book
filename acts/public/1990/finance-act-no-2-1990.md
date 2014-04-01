@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -44,7 +44,7 @@ The Governor-General may from time to time, by Order in Council published in the
 ### 8 Application of section 11(2) of Unit Trusts Act 1960 from 1 October 1997
 (1) The Bank is exempted from compliance with section 11(2) of the Unit Trusts Act 1960 (as substituted by section 4(1) of the Unit Trusts Amendment Act 1996) in respect of an approved unit trust.
 (2) The exemption in subsection (1) is subject to the condition that the Bank supplies to a holder of a unit or units in an approved unit trust, on request, a copy of—
-  (a) the unit trust's most recent financial statements registered under the Financial Reporting Act 1993; and
+  (a) the unit trust's most recent financial statements; and
   (b) the auditor's report on those financial statements; and
   (c) a summary of any amendments of the trust deed that have been made since the last balance date of the unit trust.
 
