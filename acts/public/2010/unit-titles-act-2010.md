@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -1226,7 +1226,7 @@ The body corporate may distribute money or personal property in its possession a
 (4) The body corporate must pay any costs incurred under subsection (2).
 (5) A copy of the financial statements for the most recent financial year must accompany the notice of the annual general meeting.
 (6) The body corporate must comply with any reasonable request by a person appointed to undertake any of the functions described in subsection (2), that the body corporate answer questions or provide information within 20 working days after receiving the request.
-(7) Any person appointed to undertake any of the functions described in subsection (2) must be a person who is qualified to act as an auditor for a company in accordance with section 199 of the Companies Act 1993.
+(7) Any person appointed to undertake any of the functions described in subsection (2) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (8) The body corporate may, at the annual general meeting, decide by special resolution that subsection (2) does not apply for a particular year.
 
 ### 133 Special powers of chief executive for monitoring and reporting on long-term financial and maintenance planning regime
