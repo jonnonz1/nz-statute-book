@@ -1,5 +1,5 @@
 # New Zealand Maori Arts and Crafts Institute Act 1963
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to establish the New Zealand Maori Arts and Crafts Institute and to prescribe its functions and powers
 
@@ -9,7 +9,9 @@ _Consolidation as at 2003-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a period of 12 months ending with the last day of March
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Institute** means the New Zealand Maori Arts and Crafts Institute
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
@@ -142,14 +144,25 @@ Subject to the terms of any trust or endowment, any money belonging to the Insti
   (b) a mortgage of or charge on any personal property owned by the Institute:
   (c) a floating charge on the property of the Institute.
 
-### 24 Accounts
-(1) The Institute must keep full and correct accounts of all money received and expended by it.
-(2) The Institute shall, as soon as possible after the end of every financial year, cause the accounts of the Institute for that financial year to be balanced and prepare a statement of the assets and liabilities of the Institute as at the end of that financial year, together with an account of income and expenditure showing the financial transactions for that year.
-(3) The Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+### 24 Accounting records must be kept
+(1) The Institute must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Institute; and
+  (b) will enable the Institute to ensure that the financial statements of the Institute comply with this Act; and
+  (c) will enable the financial statements of the Institute to be readily and properly audited.
+(2) The Institute must establish and maintain a satisfactory system of control of those accounting records.
+
+### 24A Financial statements must be prepared
+The Institute must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Institute and that financial year; and
+  (b) dated and signed on behalf of the Institute by 2 members of the Institute.
+
+### 24B Financial statements must be audited
+(1) The Institute must ensure that the financial statements of the Institute are audited.
+(2) The Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 25 Annual report
-(1) The Institute shall, not later than 1 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year certified by the Auditor-General.
-(2) A copy of the report and of the accounts so certified shall be laid before Parliament if then sitting, and, if not, within 28 days after the commencement of the next ensuing session.
+(1) The Institute shall, not later than 1 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its financial statements for that year certified by the Auditor-General.
+(2) A copy of the report and of the financial statements so certified shall be laid before Parliament if then sitting, and, if not, within 28 days after the commencement of the next ensuing session.
 
 ### 26 Fees and travelling allowances
 (1) The Institute is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
