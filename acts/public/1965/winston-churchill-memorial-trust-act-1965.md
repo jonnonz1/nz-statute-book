@@ -1,5 +1,5 @@
 # Winston Churchill Memorial Trust Act 1965
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a Board to administer the Fund, and to make provision with respect to the Fund
 
@@ -9,7 +9,9 @@ This Act may be cited as the Winston Churchill Memorial Trust Act 1965.
 ### 2 Interpretation
 In this Act, unless the context otherwise requires—
   - **Board** means the Winston Churchill Memorial Trust Board established by this Act
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **Fund** means the Winston Churchill Memorial Trust Fund established by this Act
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Internal Affairs.
 
 **The Winston Churchill Memorial Trust Board**
@@ -145,17 +147,33 @@ Any local authority within the meaning of the Local Government Act 2002 or other
 (3) All amounts borrowed by way of overdraft by the Board shall be repaid within 30 days of the date of the advance or within such longer period as may be authorised by the Minister.
 (4) Any authorisation given by the Minister under subsection (2)(b) or subsection (3) may be subject to such conditions as the Minister thinks fit.
 
-### 21 Accounts
-(1) The Board must keep full and correct accounts of all money received and expended by it.
-(2) The Board shall, as soon as possible after the end of every financial year ending with 31 March, cause the accounts of the Board for that financial year to be balanced and prepare a statement of the assets and liabilities of the Board as at the end of that financial year, together with an account of income and expenditure showing the financial transactions for that year.
-(3) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+### 21 Accounting records must be kept
+(1) The Board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Board; and
+  (b) will enable the Board to ensure that the financial statements of the Board comply with this Act; and
+  (c) will enable the financial statements of the Board to be readily and properly audited.
+(2) The Board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 21A Financial statements must be prepared
+The Board must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+
+### 21B Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Board are audited.
+(2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 22 Exemption from taxation
 The Board shall be exempt from the payment of land tax and income tax.
 
 ### 23 Annual report
-(1) The Board shall, not later than 30 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year certified by the Auditor-General.
-(2) A copy of the report and of the accounts so certified shall be laid before Parliament if then sitting and, if not, within 28 days after the commencement of the next ensuing session.
+(1) The Board must, not later than 31 August in every year, provide to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its financial statements for that year and a copy of the audit report.
+(2) The Minister must present a copy of the report, of the financial statements, and of the audit report to the House of Representatives—
+  (a) not later than 10 working days after the Minister receives those documents; or
+  (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 
 ### 24 Travelling allowances
 (1) The Board is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
