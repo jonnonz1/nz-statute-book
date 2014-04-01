@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -1556,21 +1556,36 @@ On request from a territorial authority, the Secretary must provide—
 (3) The first financial year for which a corporate society must provide an annual report is the financial year that commences after the commencement of this section.
 (4) The requirements of this section are in addition to any other reporting requirements imposed on the corporate society in or under this Act or any other enactment.
 (5) This section does not limit the Secretary’s power to require other financial information in accordance with this Act.
-(6) In this section, auditor means,—
+(6) In this section and section 108A, auditor means,—
   (a) in the case of a public entity under the Public Audit Act 2001, the Auditor-General; or
-  (b) in any other case, a person who is eligible to be appointed as an auditor under section 199 of the Companies Act 1993.
+  (b) in any other case, a person who is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013.
 
 ### 108 Contents of annual report
-(1) An annual report must include an itemised statement of the application or distribution of net proceeds from class 4 gambling for authorised purposes, and,—
-  (a) in the case of a reporting entity under the Financial Reporting Act 1993, financial statements required by that Act; or
-  (b) in any other case, financial statements prepared in accordance with generally accepted accounting practice.
+(1) An annual report must include—
+  (a) an itemised statement of the application or distribution of net proceeds from class 4 gambling for authorised purposes; and
+  (b) financial statements prepared in accordance with generally accepted accounting practice.
 (2) In this section,—
-  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
-  - **generally accepted accounting practice** means—
-    (a) relevant financial reporting standards; and
-    (b) in relation to matters for which no provision is made in financial reporting standards and that are not subject to any applicable rule of law, accounting policies that—
-      (i) are appropriate to the corporate society; and
-      (ii) have authoritative support within the accounting profession in New Zealand.
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
+
+### 108A Audit must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit on the information contained in an annual report under section 107, comply with all applicable auditing and assurance standards.
+(2) The auditor's report on the information contained in the annual report must comply with the requirements of all applicable auditing and assurance standards.
+(3) This section does not apply to a corporate society that is a public entity under the Public Audit Act 2001.
+(4) In this section, applicable auditing and assurance standard has the same meaning as in section 5 of the Financial Reporting Act 2013.
+
+### 108B Clubs that operate gambling equipment at non-commercial class 4 venues must make financial statements available to members
+(1) This section applies to a corporate society that is a club that operates gambling equipment at a non-commercial class 4 venue that—
+  (a) it owns or leases; and
+  (b) is mainly for the use of club members.
+(2) A corporate society to which this section applies must ensure that a copy of any financial statements referred to in section 108(1)(b) and a copy of the auditor's report on those statements are sent to the members or shareholders of the society (if any) within 20 working days after the annual report is required to be provided to the Secretary under section 107.
+(3) A corporate society that contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 108C Other corporate societies must make financial statements available on Internet
+(1) This section applies to a corporate society other than a corporate society to which section 108B applies.
+(2) A corporate society to which this section applies must, not later than 4 months after the end of its financial year, ensure that a copy of any financial statements referred to in section 108(1)(b) for that financial year and a copy of the auditor's report on those statements are available at all reasonable times on an Internet site maintained by or on behalf of the society.
+(3) This section does not limit any other duty under this Act or regulations made under this Act to make available the annual report, the financial statements, or the auditor's report.
+(4) A corporate society that contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 109 Annual review of criteria for distribution of net proceeds
 A corporate society that operates mainly to distribute net proceeds to the community must, at least annually, review the criteria, methods, systems, and policies it uses for consideration of applications for the distribution of net proceeds.
