@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -42,6 +42,8 @@ In this Act, unless the context otherwise requires,—
       (v) a contract or arrangement for the granting of a lease or licence of a kind described in subparagraph (iv); or
       (vi) the transfer or variation of a lease or licence of a kind described in subparagraph (iv) (other than a variation extending the term of such a lease or licence); or
       (vii) a disposition by way of sale by a mortgagee pursuant to a power expressed or implied in any instrument of mortgage
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **beneficial estate** or does not include an estate or interest vested in any person by way of trust, mortgage, or charge
   - **block** , in relation to any Maori freehold land, means the whole parcel of land comprised and described in an instrument of title
   - **chief executive** means the chief executive of the Ministry
@@ -51,9 +53,11 @@ In this Act, unless the context otherwise requires,—
   - **court** means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
   - **Crown land** means land that, in terms of Part 6, has the status of Crown land
   - **District Land Registrar** means the District Land Registrar of the land registration district under the Land Transfer Act 1952 within which any land to be dealt with or affected is situated
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **forestry right** has the same meaning as in section 2 of the Forestry Rights Registration Act 1983
   - **General land** means land that, in terms of Part 6, has the status of General land
   - **General land owned by Maori** means General land that is owned for a beneficial estate in fee simple by a Maori or by a group of persons of whom a majority are Maori
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Judge** means a Judge of the Maori Land Court; and includes the Chief Judge and the Deputy Chief Judge
   - **kaitiaki** means guardian
   - **land** —
@@ -74,6 +78,7 @@ In this Act, unless the context otherwise requires,—
   - **Māori Trustee** means the Māori Trustee appointed under the Maori Trustee Act 1953
   - **Minister** means the Minister of Maori Affairs
   - **Ministry** means Te Puni Kōkiri
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **occupation order** means an order made under section 328
   - **order** , in relation to the court,—
     (a) means—
@@ -99,6 +104,7 @@ In this Act, unless the context otherwise requires,—
   - **prescribed** means prescribed by this Act or by regulations made for the purposes of this Act or by the rules of court
   - **Registrar** means a Registrar of the Maori Land Court; and includes the Chief Registrar and a Deputy Registrar
   - **road** has the same meaning as in section 315 of the Local Government Act 1974
+  - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
   - **State Loan Department** means—
     (a) Public Trust:
     (b) Housing New Zealand Corporation:
@@ -2811,38 +2817,48 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (11) No general meeting shall be deemed to be properly constituted unless at least 3 shareholders are present in person throughout the meeting.
 (12) Except as otherwise provided in this section or by the constitution of the incorporation, the shareholders present, either personally or by proxy at a general meeting, may regulate the procedure of that meeting.
 
-### 276 Accounts and statement of financial position
-(1) Every Maori incorporation shall cause to be kept proper books of account in which shall be kept full, true, and complete accounts of the affairs and transactions of the incorporation.
-(2) The committee of management of every Maori incorporation shall, within 18 months after the making of the order of incorporation, and subsequently at least once in every calendar year, submit to a general meeting of shareholders a statement of financial performance made up to a date not earlier than 6 months before the meeting, together with a statement of financial position as at the date to which the statement of financial performance is made up.
-(3) Every statement of financial position of a Maori incorporation shall, when read in conjunction with the statement required by paragraph (c) of subsection (4), give a true and fair view of the state of affairs of the incorporation as at the end of its financial year, and every statement of financial performance of an incorporation shall give a true and fair view of the profit or loss of the incorporation for the financial year.
-(4) The statement of financial performance shall be annexed to the statement of financial position, and there shall also be annexed or attached to the statement of financial position—
-  (a) the auditor’s report made pursuant to section 277; and
-  (b) a report by the committee of management with respect to the state of the incorporation’s affairs and the amount, if any, that it has determined is available for the purposes of section 259(1)(c); and
-  (c) with respect to the assets of the incorporation, a statement setting forth the estimated current market value of the assets, together with a statement of the liabilities, if any, of the body corporate charged on or relating particularly to those assets.
-(5) Notwithstanding subsection (4)(c), where the statement of financial position is prepared on a basis that includes the information specified in that paragraph, no separate statement need be attached.
-(6) Where the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (4)(c) shall, if it is separately valued in the district valuation roll, be deemed to be the capital value of the interest as appearing on that roll.
-(7) The committee of management of a Maori incorporation must ensure that copies of the statement of financial position, statement of financial performance, and other documents are filed with the Registrar in whose court district the land is situated, for the purpose of public inspection, within 14 days after their submission to a general meeting of shareholders.
-(8) Copies filed under subsection (7) must be available for inspection by the public during the office hours of the court on payment of the fee (if any) prescribed for that purpose.
+### 276 Accounting records to be kept
+(1) Every Maori incorporation must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the incorporation; and
+  (b) will enable the incorporation to ensure that the financial statements of the incorporation comply with this Act; and
+  (c) will enable the financial statements of the incorporation to be readily and properly audited.
+(2) Every Maori incorporation must establish and maintain a satisfactory system of control of its accounting records.
+
+### 276A Financial statements must be prepared
+(1) The committee of management of every Maori incorporation must, within 18 months after the making of the order of incorporation, and subsequently at least once in every calendar year, submit to a general meeting of shareholders financial statements for a period ending on a date not earlier than 6 months before the meeting.
+(2) The financial statements must be prepared in accordance with,—
+  (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+(3) The financial statements must be accompanied by—
+  (a) the auditor's report made under section 277 (if any); and
+  (b) a report by the committee of management in respect of the state of the incorporation's affairs and the amount, if any, that the committee has determined is available for the purposes of section 259(1)(c); and
+  (c) in respect of the assets of the incorporation, a statement setting out the estimated current market value of the assets, together with a statement of the liabilities, if any, of the body corporate charged on or relating particularly to those assets (unless this information is already included in the financial statements).
+(4) If the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (3)(c) must, if it is separately valued in the district valuation roll, be treated as the capital value of the interest as appearing on that roll.
+
+### 276B Financial statements must be filed
+(1) The committee of management of a Maori incorporation must ensure that copies of the financial statements and other documents referred to in section 276A are filed with the Registrar in whose court district the land is situated, for the purpose of public inspection, within 14 days after their submission to a general meeting of shareholders.
+(2) Copies filed under this section must be available for inspection by the public during the office hours of the court on payment of the fee (if any) prescribed for that purpose.
 
 ### 277 Appointment and duties of auditor
 (1) The shareholders of a Maori incorporation (except the Maori incorporations referred to in subsection (1A)) shall, at each annual general meeting, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting.
-(1A) This section does not apply to a Maori incorporation that had gross revenue of $25,000 or less for its most recently completed financial year, unless the shareholders of that Maori incorporation resolve by special resolution that the accounts of the Maori incorporation should be audited under this section.
+(1A) This section does not apply to a Maori incorporation that is not a specified not-for-profit entity unless the shareholders of the Maori incorporation resolve by special resolution that the financial statements of the Maori incorporation should be audited or reviewed under this section.
 (2) At any annual general meeting a retiring auditor, however appointed, shall be reappointed without any resolution being passed unless—
   (a) he or she is not qualified for reappointment; or
   (b) a resolution has been passed at that meeting appointing somebody instead of him or her, or providing expressly that he or she shall not be reappointed; or
   (c) he or she has given the incorporation notice in writing of his or her unwillingness to be reappointed.
 (3) Notwithstanding subsection (2), where notice is given of an intended resolution to appoint some person or persons in place of a retiring auditor, and by reason of the death, incapacity, or disqualification of that person or of all those persons, as the case may be, the resolution cannot be proceeded with, the retiring auditor shall not be automatically reappointed.
-(4) No person shall be appointed as auditor of a Maori incorporation unless that person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996), or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand and, by notice in the Gazette, for the time being approved for the purpose of the audit of company accounts by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993.
-(5) The appointment of a partnership by the firm name to be the auditors of a Maori incorporation shall be deemed to be the appointment of all the persons who are partners in the firm at the time of the appointment.
-(6) The auditor shall make a report to the shareholders on the accounts examined by the auditor, and on every statement of financial position and every statement of financial performance submitted to the shareholders in a general meeting during the auditor’s tenure of office, and the report shall state—
-  (a) whether or not the auditor has obtained all the information and explanations that the auditor has required; and
-  (b) whether or not, in the auditor’s opinion, proper books of account have been kept by the incorporation so far as appears from the auditor’s examination of those books; and
-  (c) whether or not, in the auditor’s opinion, according to the best of the auditor’s information and the explanations given to the auditor, and as shown by the books of the incorporation,—
-    (i) the statement of financial position and any statement required by section 276(4)(c) are properly drawn up so as to give a true and fair view of the state of the incorporation’s affairs as at the end of its financial year; and
-    (ii) the statement of financial performance is properly drawn up so as to give a true and fair view of the results of the business of the incorporation for its financial year; and
-  (d) whether or not the share register and index of shareholders required by section 263 to be kept by the incorporation have been duly and correctly kept.
+(4) No person may be appointed as auditor of a Maori incorporation unless that person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(5) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a Maori incorporation).
+(6) The auditor must—
+  (a) audit the financial statements that are to be submitted to the shareholders in a general meeting during the auditor's tenure of office; and
+  (b) in carrying out the audit, comply with all applicable auditing and assurance standards.
+(6A) If a Maori incorporation referred to in subsection (1A) has resolved that the financial statements should be reviewed, subsection (6) applies as if the references to an audit were references to a review.
+(6B) The auditor's report on the financial statements must—
+  (a) comply with the requirements of all applicable auditing and assurance standards; and
+  (b) state whether or not, in the auditor's opinion, according to the best of the auditor's information and the explanations given to the auditor, and as shown by the accounting records of the incorporation, any statement required by section 276A(3)(c) is properly drawn up so as to give a true and fair view of the state of the incorporation's affairs as at the end of its financial year; and
+  (c) state whether or not the share register and index of shareholders required by section 263 to be kept by the incorporation have been duly and correctly kept.
 (7) The auditor’s report shall be read before the general meeting of the shareholders and shall be open to inspection by any shareholder.
-(8) Every auditor of a Maori incorporation shall have a right of access at all times to the books and papers of the incorporation, and shall be entitled to require from the officers of the incorporation such information and explanation as the auditor thinks necessary for the performance of the duties of the auditor.
+(8)
 (9) The auditor of a Maori incorporation shall be entitled to attend any general meeting of the shareholders, and to receive all notices of and other communications relating to any general meeting that any shareholder is entitled to receive, and to be heard at any general meeting that the auditor attends on any part of the business of the meeting that concerns him or her as an auditor.
 
 ### 278 Appointment of share valuer
@@ -2908,9 +2924,9 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (1) The court may at any time require any officer of a Maori incorporation to attend before the court and to explain any act or omission of any of the following kinds:
   (a) failure to compile a list of unclaimed dividends and to transmit it to the Registrar in accordance with section 267(2):
   (aa) failure to comply with section 274A(2):
-  (b) failure to keep accounts as required by section 276(1):
-  (c) failure to submit to a general meeting of shareholders a statement of financial position and statement of financial performance and such other statements and reports as are required by section 276:
-  (d) failure to file in the court the statement of financial position and other documents as required by section 276(7):
+  (b) failure to keep accounting records as required by section 276:
+  (c) failure to submit to a general meeting of shareholders financial statements and such other statements and reports as are required by section 276A:
+  (d) failure to file in the court the financial statements and other documents as required by section 276B:
   (e) failure to appoint an auditor as required by section 277:
   (f) failure to transmit a copy of a special resolution to the Registrar in accordance with section 279(3):
   (g) failure to keep, in the prescribed manner, a register of shareholders, and an index of shareholders:
@@ -2925,7 +2941,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 (1) The court may order the winding up of a Maori incorporation—
   (a) pursuant to section 280(7)(g); or
   (b) if a general meeting of shareholders has by special resolution resolved that the incorporation be wound up; or
-  (c) if default has been made in the submission to a general meeting of shareholders, or in the filing in the court, of the statement of financial position and other documents required by section 276 to be so submitted and filed; or
+  (c) if default has been made in the submission to a general meeting of shareholders, or in the filing in the court, of the financial statements and other documents required by sections 276A and 276B to be so submitted and filed; or
   (d) if the number of shareholders is reduced below 2; or
   (e) if the incorporation is unable to pay its debts; or
   (f) if the court is of the opinion that it is just and equitable that the incorporation should be wound up.
