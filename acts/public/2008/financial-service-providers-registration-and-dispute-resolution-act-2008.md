@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2013-09-07_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -94,7 +94,7 @@ In this Act, unless the context otherwise requires,—
 ### 5 Meaning of financial service
 In this Act, financial service means any of the following financial services:
   (a) a financial adviser service:
-  (ab) a broking service:
+  (ab) a broking service (including a custodial service):
   (b) acting as a deposit taker as defined in the Reserve Bank of New Zealand Act 1989:
   (c) being a registered bank:
   (d) keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons:
@@ -143,7 +143,8 @@ This Act binds the Crown.
 ### 8A Territorial scope
 This Act applies to a person who—
   (a) is ordinarily resident in New Zealand (within the meaning of section 4 of the Crimes Act 1961) or has a place of business in New Zealand, regardless of where the financial service is provided; or
-  (b) is, or is required to be, a licensed provider under a licensing enactment.
+  (b) is, or is required to be, a licensed provider under a licensing enactment; or
+  (c) is required to be registered under this Act by any other enactment.
 
 ## Part 2 — Registration
 
@@ -947,3 +948,4 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
 | Financial Markets Authority | Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees | Securities Trustees and Statutory Supervisors Act 2011 |
 | Reserve Bank of New Zealand | Licensed insurers | Insurance (Prudential Supervision) Act 2010 |
+| Financial Markets Authority | Persons who hold, or are authorised bodies under, a market services licence | Financial Markets Conduct Act 2013 |
