@@ -1,5 +1,5 @@
 # Maori Purposes Fund Act 1934–35
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and extend its functions, to establish a fund to be called the Maori Purposes Fund, and to provide for the administration of the said Fund
 
@@ -39,8 +39,17 @@ The general objects for which moneys in the Fund may be applied are the followin
 (3) Proper books of account shall be kept by the Māori Trustee in which shall be entered correct records of all moneys received into and paid out of the Fund Account. Such books shall be open at all reasonable times to inspection by any member of the Board or by any authorised officer of the Board.
 (4) All expenses incurred in respect of the administration of this Act shall be paid out of the Fund Account.
 
-### 6 Annual accounts of Maori Purposes Fund
-At the close of each financial year the Māori Trustee shall cause to be prepared in respect of the Fund a revenue account for that year, together with a statement of financial position showing the assets and liabilities of the Board. That account and statement of financial position shall be audited by the Auditor-General.
+### 6 Financial statements and audit
+(1) The Māori Trustee must ensure that, within 5 months after the end of the financial year, financial statements are completed in relation to the Board and that financial year.
+(2) The financial statements must be prepared in accordance with—
+  (a) generally accepted accounting practice if the Board is a specified not-for-profit entity; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+(3) The Māori Trustee must ensure that the financial statements of the Board are audited by the Auditor-General.
+(4) In this section,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013.
 
 **Maori Purposes Fund Board**
 
@@ -124,7 +133,7 @@ Any local authority or other public body, any company or other incorporated body
 **General**
 
 ### 14 Annual report, etc
-(1) The Board shall in each financial year cause to be prepared a report of its operations and commitments during the preceding financial year, together with an estimate of the moneys that will be required by it for expenditure during such first-mentioned year, and such report and estimate and the audited statements and statement of financial position mentioned in section 6 shall be laid before and considered by the Board at its annual meeting.
+(1) The Board shall in each financial year cause to be prepared a report of its operations and commitments during the preceding financial year, together with an estimate of the moneys that will be required by it for expenditure during such first-mentioned year, and such report and estimate and the audited financial statements mentioned in section 6 shall be laid before and considered by the Board at its annual meeting.
 (2) Within 14 days after the annual meeting all such documents as aforesaid shall be laid before the House of Representatives, if Parliament is then in session, and if not, then within 14 days after the commencement of the next ensuing session.
 
 ### 15 Regulations
