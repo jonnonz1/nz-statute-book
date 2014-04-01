@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2014-02-27_
+_Consolidation as at 2014-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1935,6 +1935,16 @@ Timing of income
 (3) The amount is allocated in equal parts to the income year of remission and the following 2 income years. However, the person may choose to allocate some or all of the amount in the following 2 income years to a previous income year that is 1 of the 3 income years.
 Business ceasing
 (4) If the person ceases to carry on the business for which the specified suspensory loan was granted, an amount remitted that is allocated to a later income year is allocated to the income year in which the person ceases business.
+
+### CF 3 Optional treatment of withdrawals from foreign superannuation schemes not included in return or assessed before 1 April 2014
+When this section applies
+(1) This section applies when a person—
+  (a) derives an amount, other than a pension or annuity, as a withdrawal from a foreign superannuation scheme in the period beginning with the beginning of the 2005–06 income year and ending with the end of the 2007–08 income year; and
+  (b) does not include all or part of the withdrawal (the omitted withdrawal) in a return of income for the income year in which the amount was derived; and
+  (c) is not assessed before 1 April 2014 for income included in the omitted withdrawal; and
+  (d) chooses to include in a return of income for an income year (the return year) that is the 2013–14 or 2014–15 income year an amount of assessable income as relating to all omitted withdrawals from the foreign superannuation scheme.
+Law applying at time of withdrawal overridden
+(2) In the circumstances described in subsection (1), the provisions of this Act applying to the taxation of the omitted withdrawal when the person derived the omitted withdrawal, and of the person’s interest in the foreign superannuation scheme for the period ending by 31 March 2014 in which the person had the interest, are overridden by section CZ 21B (Optional treatment of withdrawals from foreign superannuation schemes not included in return or assessed before 1 April 2014) of the Income Tax Act 2007.
 
 ### Subpart CG — Recoveries
 
