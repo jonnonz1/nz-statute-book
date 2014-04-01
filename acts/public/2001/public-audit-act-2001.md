@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -17,7 +17,7 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **appointed auditor** means an auditor appointed under either of section 32 or section 33
-  - **auditing and assurance standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
+  - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Auditor-General** means the Controller and Auditor-General appointed under section 7 and, in sections 21 and 24 to 30, includes every employee of the Controller and Auditor-General or every appointed auditor who has been authorised under this Act to act under the section concerned
   - **Crown** —
     (a) means Her Majesty the Queen in right of New Zealand; and
@@ -34,8 +34,8 @@ In this Act, unless the context otherwise requires,—
     (c) anything from which sounds, images, or writing can be reproduced, with or without the aid of anything else
   - **employee** , in section 16, includes any person who is engaged to work, or works, under a contract of service or a contract for services
   - **entity** means any person, whether corporate or unincorporate
-  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
-  - **issuer** has the same meaning as in section 4 of the Financial Reporting Act 1993
+  - **financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **FMC reporting entity** has the same meaning as in section 451 of the Financial Markets Conduct Act 2013
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **office of Parliament** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **public entity** has the meaning set out in section 5
@@ -111,12 +111,13 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 ### 15 Financial report audit
 (1) The Auditor-General must from time to time audit the financial statements, accounts, and other information that a public entity is required to have audited.
 (2) In the case of an audit of a department (within the meaning of section 2(1) of the Public Finance Act 1989) or an Office of Parliament, the Auditor-General must also audit the appropriations administered by the department or Office.
-(3) In the case of an audit of an issuer carried out under this Act, the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the audit.
+(3) In the case of an audit of an FMC reporting entity carried out under this Act, the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the audit.
+(4) If another enactment that would otherwise apply to a public entity (other than an FMC reporting entity) requires an audit of the public entity or the audit report (or both) to comply with auditing and assurance standards, that requirement does not apply in relation to the public entity.
 
-### 15A Auditor-General may ask for quality review in respect of audits of issuers
-(1) The Auditor-General may ask the Financial Markets Authority to arrange for a quality review to be carried out of the systems, policies, and procedures applying to the employees of the Auditor-General who assist in the carrying out of audits of issuers under this Act.
+### 15A Auditor-General may ask for quality review in respect of audits of FMC reporting entities
+(1) The Auditor-General may ask the Financial Markets Authority to arrange for a quality review to be carried out of the systems, policies, and procedures applying to the employees of the Auditor-General who assist in the carrying out of audits of FMC reporting entities under this Act.
 (2) The purpose of a quality review under this section is to provide the Auditor-General with advice on whether those systems, policies, and procedures are satisfactory in terms of—
-  (a) promoting, in relation to audits of issuers under this Act, compliance with the auditing and assurance standards that apply to those audits; and
+  (a) promoting, in relation to audits of FMC reporting entities under this Act, compliance with the auditing and assurance standards that apply to those audits; and
   (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of those audits.
 (3) The Auditor-General must take reasonable steps to ensure that the period between quality reviews carried out under this section does not exceed 4 years.
 (4) The Financial Markets Authority may—
@@ -242,18 +243,18 @@ For the purpose of obtaining documents, information, or other evidence relevant 
 ### 32 Appointment of auditors for financial report audit
 (1) The Auditor-General may from time to time appoint any of the following persons or bodies to act as an auditor and to carry out 1 or more audits of entities under section 15, or to provide a specific service under section 17, on the Auditor-General’s behalf:
   (a) an employee of the Auditor-General:
-  (b) a person qualified to be an auditor of a company under section 199 of the Companies Act 1993, regardless of whether the entity concerned is a company:
-  (c) subject to subsection (2), a partnership, if all or some of the partners are persons who are qualified to be appointed as auditors of a company under section 199 of the Companies Act 1993.
-(1A) The Auditor-General must, before appointing a person to act as the auditor of an issuer under subsection (1)(a) or (b), be satisfied that the person—
+  (b) a person qualified to be an auditor of an entity under section 36(1) and (4) of the Financial Reporting Act 2013:
+  (c) a partnership, if all or some of the partners are persons who are qualified to be appointed as auditors of an entity under section 36(1) and (4) of the Financial Reporting Act 2013.
+(1A) The Auditor-General must, before appointing a person to act as the auditor of an FMC reporting entity under subsection (1)(a) or (b), be satisfied that the person—
   (a) meets the prescribed minimum standards for the issue of a licence prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
   (b) has the competence, qualifications, and experience that are equivalent to, or as satisfactory as, those standards.
-(1B) The Auditor-General must, before appointing a partnership to act as the auditor of an issuer under subsection (1)(c), be satisfied that the partnership—
+(1B) The Auditor-General must, before appointing a partnership to act as the auditor of an FMC reporting entity under subsection (1)(c), be satisfied that the partnership—
   (a) meets the prescribed minimum standards for the registration of an audit firm prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
   (b) meets other requirements that are equivalent to, or as satisfactory as, those standards.
 (1C) Subsections (1A) and (1B) apply only after the relevant minimum standards have been prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011.
 (2) If a partnership is appointed under subsection (1)(c),—
   (a) the appointment of the partnership is to be treated as an appointment of all the persons who are partners in the firm from time to time; and
-  (b) if the partnership includes persons who are not qualified to be appointed as auditors of a company under section 199 of the Companies Act 1993, the persons who are not qualified to be appointed as auditors must not act as auditors.
+  (b) if the partnership includes persons who are not qualified to be appointed as auditors of an entity under section 36(1) and (4) of the Financial Reporting Act 2013, the persons who are not qualified to be appointed as auditors must not act as auditors.
 (3) An appointment must be in writing and may be made subject to any restrictions and conditions that the Auditor-General thinks fit.
 
 ### 33 Appointment of auditors for performance audit or inquiries
