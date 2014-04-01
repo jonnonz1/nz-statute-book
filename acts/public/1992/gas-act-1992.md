@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -955,7 +955,7 @@ The objectives of the industry body, in recommending gas governance regulations 
 
 ### 43ZR Extra information required in statement of intent for first financial year
 The industry body’s statement of intent must contain the following information for the first financial year to which it relates:
-  (a) forecast financial statements for the industry body that have been prepared in accordance with the Financial Reporting Act 1993 as if the industry body were a reporting entity under that Act; and
+  (a) forecast financial statements for the industry body that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and
   (b) other measures and standards necessary to judge the industry body’s performance at the end of the financial year; and
   (c) a statement of all significant assumptions underlying the forecast financial statements; and
   (d) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the industry body.
@@ -998,7 +998,7 @@ The industry body must publicise a final statement of intent or a final amended 
 (1) Within 3 months after the end of each financial year, the industry body must deliver to the Minister an annual report of the industry body’s operations and performance for that year, including—
   (a) information that is necessary to enable an informed assessment to be made of the industry body’s operations and performance under this Part for that year, including an assessment against its statement of intent prepared under this subpart at the beginning of the year and against the GPS objectives and outcomes; and
   (b) a report on the exercise of the powers conferred on it by this Part during the year; and
-  (c) audited consolidated financial statements for the industry body for that financial year that have been prepared in accordance with the Financial Reporting Act 1993 as if the industry body were a reporting entity under that Act; and
+  (c) audited financial statements for the industry body for that financial year that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and
   (d) the report on those financial statements that is signed by an auditor who was appointed or reappointed by the industry body within 12 months before the end of the period to which the statements relate; and
   (e) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of section 211(1) of the Companies Act 1993; and those paragraphs apply as if references to—
     (i) an accounting period were references to that year; and
