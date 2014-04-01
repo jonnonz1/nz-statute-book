@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1657,8 +1657,8 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
 ### 80 Interpretation
 In this subpart, unless the context otherwise requires,—
   - **financial statements** ,—
-  (a) except if section 79 applies, has the same meaning as in section 8 of the Financial Reporting Act 1993; and
-  (b) if section 79 applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in section 3 of the Financial Reporting Act 1993
+  (a) except if section 79 applies, has the same meaning as in section 6 of the Financial Reporting Act 2013; and
+  (b) if section 79 applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in section 8 of the Financial Reporting Act 2013
   - **minimum telecommunications revenue** means $10 million, or such other amount, as may be prescribed by regulations made under section 101(1)(a), of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
     (a) telecommunications services by means of its PTN:
     (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN.
