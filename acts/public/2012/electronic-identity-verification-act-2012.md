@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -288,7 +288,7 @@ The chief executive may disclose an individual's record of usage history to a la
   (b) the law enforcement agency cannot investigate the offence without the record of usage history.
 
 ### 25 Access to record of usage history via search warrant
-A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the Summary Proceedings Act 1957 to access an individual's record of usage history.
+An issuing officer may issue a search warrant under the Search and Surveillance Act 2012 to access an individual's record of usage history.
 
 **Applications**
 
