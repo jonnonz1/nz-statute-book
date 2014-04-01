@@ -1,5 +1,5 @@
 # Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund, to commemorate the service of the Maoris and, in particular, of the 28th (Maori) Battalion, in the war against Germany, and the award of the Victoria Cross to Second Lieutenant Te Moananui a Kiwa Ngarimu, and to make provision for the control and administration of the Fund
 
@@ -96,12 +96,17 @@ The Board shall pay out of the Fund to its members (other than the Minister and 
 ### 13 Members of Board not personally liable
 No member of the Board shall be personally liable for any act or default done or made by the Board or by any member thereof in good faith in the course of the operations of the Board.
 
-### 14 Statement of account
-(1) The Board shall, before 1 April in each year, cause to be prepared in respect of the Fund a true statement of account, in a form for the time being approved by the Controller and Auditor-General, which shall include:
-  (a) a statement of financial position showing the assets and liabilities of the Fund at the end of the immediately preceding financial year:
-  (b) an income and expenditure account showing the financial transactions for the immediately preceding financial year.
+### 14 Financial statements must be prepared
+The Board must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+
+### 14A Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Board are audited.
 (2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 15 Annual report
-(1) As soon as practicable after the end of each financial year the Board shall furnish to the Minister a report of its operations and proceedings during that year, together with a copy of its statement of account for that year with the report of the Auditor-General thereon.
-(2) A copy of the annual report and of the statement of account with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
+(1) As soon as practicable after the end of each financial year, the Board must provide to the Minister a report of its operations and proceedings during that year, together with a copy of its financial statements for that year with the audit report on those statements.
+(2) The Minister must present a copy of the report, the financial statements, and the audit report to the House of Representatives—
+  (a) not later than 10 working days after the Minister receives those documents; or
+  (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
