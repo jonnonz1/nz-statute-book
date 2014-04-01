@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -12,12 +12,14 @@ _Consolidation as at 2014-01-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **accounting period** , in relation to a company, means a year ending on a balance date of the company and, if as a result of the date of the registration of the company or a change of the balance date of the company, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **address for service** in relation to a company, means the company's address for service adopted in accordance with section 192
   - **annual meeting** means a meeting required to be held by section 120
   - **annual report** —
     (a) means a report prepared under section 208; and
     (b) does not include a concise annual report
-  - **balance date** has the meaning set out in section 7 of the Financial Reporting Act 1993
+  - **balance date** , in relation to a company or an overseas company, has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **board** and have the meanings set out in section 127
   - **charge** includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under section 313; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
   - **class** has the meaning set out in section 116
@@ -41,13 +43,12 @@ _Consolidation as at 2014-01-01_
   - **entitled person** , in relation to a company, means—
     (a) a shareholder; and
     (b) a person upon whom the constitution confers any of the rights and powers of a shareholder
-  - **exempt company** has the meaning set out in section 6A of the Financial Reporting Act 1993
   - **existing company** means a body corporate registered or deemed to be registered under Part 2 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
   - **financial markets participant** has the same meaning as in section 4 of the Financial Markets Authority Act 2011
-  - **financial statements** has the meaning set out in section 8 of the Financial Reporting Act 1993
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
-  - **group financial statements** has the meaning set out in section 9 of the Financial Reporting Act 1993
-  - **group of companies** has the meaning set out in section 2 of the Financial Reporting Act 1993
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **holding company** has the meaning set out in section 5
   - **interest group** has the meaning set out in section 116
   - **interested** , in relation to a director, has the meaning set out in section 139
@@ -104,6 +105,8 @@ _Consolidation as at 2014-01-01_
 (5) A reference in this Act to an address means,—
   (a) in relation to an individual, the full address of the place where that person usually lives:
   (b) in relation to a body corporate, its registered office or, if it does not have a registered office, its principal place of business.
+(6) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
+(7) If an example and a provision to which it relates are inconsistent, the provision prevails.
 
 ### 3 Public notice
 (1) Where, pursuant to this Act, public notice must be given of any matter affecting a company, that notice must be given by publishing notice of the matter—
@@ -127,12 +130,14 @@ _Consolidation as at 2014-01-01_
   (b) the value of the company's assets is greater than the value of its liabilities, including contingent liabilities.
 (2) Without limiting sections 52 and 55(3), in determining for the purposes of this Act (other than sections 221 and 222 which relate to amalgamations) whether the value of a company's assets is greater than the value of its liabilities, including contingent liabilities, the directors—
   (a) must have regard to—
-    (i) the most recent financial statements of the company that comply with section 10 of the Financial Reporting Act 1993; and
+    (i) the most recent financial statements of the company that are prepared under this Act or any other enactment (if any); and
+    (ia) the accounting records of the company; and
     (ii) all other circumstances that the directors know or ought to know affect, or may affect, the value of the company's assets and the value of the company's liabilities, including its contingent liabilities:
   (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
 (3) Without limiting sections 221 and 222, in determining for the purposes of those sections whether the value of the amalgamated company's assets will be greater than the value of its liabilities, including contingent liabilities, the directors of each amalgamating company—
   (a) must have regard to—
-    (i) financial statements that comply with section 10 of the Financial Reporting Act 1993 and that are prepared as if the amalgamation had become effective; and
+    (i) the most recent financial statements of each amalgamating company that are prepared under this Act or any other enactment (if any); and
+    (ia) the accounting records of the amalgamating company; and
     (ii) all other circumstances that the directors know or ought to know would affect, or may affect, the value of the amalgamated company's assets and the value of its liabilities, including contingent liabilities:
   (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
 (4) In determining, for the purposes of this section, the value of a contingent liability, account may be taken of—
@@ -866,12 +871,15 @@ For the purposes of section 78, a disclosure document is a document that sets ou
 
 ### 80 Financial assistance not exceeding 5% of shareholders' funds
 (1) Financial assistance may be given under section 76(1)(c), only if—
-  (a) the amount of the financial assistance, together with any other financial assistance given by the company pursuant to this paragraph, repayment of which remains outstanding, would not exceed 5% of the aggregate of amounts received by the company in respect of the issue of shares and reserves as disclosed in the most recent financial statements of the company that comply with section 10 of the Financial Reporting Act 1993, and the company receives fair value in connection with the assistance; and
+  (a) the amount of the financial assistance, together with any other financial assistance given by the company pursuant to this paragraph, repayment of which remains outstanding, would not exceed 5% of the aggregate of amounts received by the company in respect of the issue of shares and reserves as disclosed in the relevant statements or records, and the company receives fair value in connection with the assistance; and
   (b) within 10 working days of providing the financial assistance, the company sends to each shareholder a notice containing the following particulars:
     (i) the class and number of shares in respect of which the financial assistance has been provided:
     (ii) the consideration paid or payable for the shares in respect of which the financial assistance has been provided:
     (iii) the identity of the person receiving the financial assistance and, if that person is not the beneficial owner of the shares in respect of which the financial assistance has been provided, the identity of that beneficial owner:
     (iv) the nature and, if quantifiable, the amount of the financial assistance.
+(1A) In subsection (1), relevant statements or records means—
+  (a) financial statements of the company prepared for the most recently completed accounting period in accordance with generally accepted accounting practice; or
+  (b) if those financial statements have not been prepared, the accounting records of the company.
 (2) If a company fails to comply with subsection (1)(b),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
@@ -1335,14 +1343,11 @@ The taking of action by a company affecting the rights attached to shares is not
 **Meetings of shareholders**
 
 ### 120 Annual meeting of shareholders
-(1) Subject to subsections (2) and (3), the board of a company must call an annual meeting of shareholders to be held—
-  (a)
-  (b) either—
-    (i) in the case of an exempt company, if all the shareholders of the company agree, not later than 10 months after the balance date of the company; or
-    (ii) in the case of a company, not being a company to which subparagraph (i) applies, not later than 6 months after the balance date of the company; and
-  (c) not later than 15 months after the previous annual meeting.
-(2) A company, not being a company that is reregistered under this Act, does not have to hold its first annual meeting in the calendar year of its registration but must hold that meeting within 18 months of its registration.
-(3) A company that is reregistered under this Act does not have to hold its first annual meeting in the calendar year of its reregistration but must hold that meeting within 18 months of its registration under the Companies Act 1955.
+(1) The board of a company must call an annual meeting of shareholders to be held—
+  (a) not later than 6 months after the balance date of the company; and
+  (b) not later than 15 months after the previous annual meeting.
+(2) However, a company does not have to hold its first annual meeting in the calendar year of its registration but must hold that meeting within 18 months after its registration.
+(3)
 (4) The company must hold the meeting on the date on which it is called to be held.
 
 ### 121 Special meetings of shareholders
@@ -1360,7 +1365,7 @@ A special meeting of shareholders entitled to vote on an issue—
   (a) relates to a matter that is required by this Act or by the constitution to be decided at a meeting of the shareholders of a company; and
   (b) is signed by the shareholders specified in subsection (3)—
 (3) For the purposes of subsection (2)(b), the shareholders are,—
-  (a) in the case of a resolution under section 196(2), all the shareholders who are entitled to vote on the resolution:
+  (a) in the case of a resolution under section 207I or 207J, the shareholders who together hold not less than 95% of the votes entitled to be cast on the resolution:
   (b) in any other case, the shareholders referred to in subsection (1).
 (3A) Any resolution in writing under this section may consist of 1 or more documents in similar form (including letters, telegrams, cables, facsimiles, telex messages, electronic mail, or other similar means of communication) each signed or assented to by or on behalf of 1 or more of the shareholders specified in subsection (3).
 (4) It shall not be necessary for a company to hold an annual meeting of shareholders under section 120 if everything required to be done at that meeting (by resolution or otherwise) is done by resolution in accordance with subsections (2) and (3).
@@ -1766,7 +1771,7 @@ In this Part, unless the context otherwise requires, the terms entitled person, 
 **Injunctions**
 
 ### 164 Injunctions
-(1) The court may, on an application under this section, make an order restraining a company that, or a director of a company who, proposes to engage in conduct that would contravene the constitution of the company or this Act or the Financial Reporting Act 1993 from engaging in that conduct.
+(1) The court may, on an application under this section, make an order restraining a company that, or a director of a company who, proposes to engage in conduct that would contravene the constitution of the company or this Act from engaging in that conduct.
 (2) An application may be made by—
   (a) the company; or
   (b) a director or shareholder of the company; or
@@ -1825,13 +1830,13 @@ No proceedings brought by a shareholder or a director or in which a shareholder 
   (i) section 145 (which relates to the use of company information)—
 
 ### 170 Actions by shareholders to require directors to act
-Notwithstanding section 169, the court may, on the application of a shareholder of a company, if it is satisfied it is just and equitable to do so, make an order requiring a director of the company to take any action that is required to be taken by the directors under the constitution of the company or this Act or the Financial Reporting Act 1993 and, on making the order, the court may grant such other consequential relief as it thinks fit.
+Notwithstanding section 169, the court may, on the application of a shareholder of a company, if it is satisfied it is just and equitable to do so, make an order requiring a director of the company to take any action that is required to be taken by the directors under the constitution of the company or this Act and, on making the order, the court may grant such other consequential relief as it thinks fit.
 
 ### 171 Personal actions by shareholders against company
 A shareholder of a company may bring an action against the company for breach of a duty owed by the company to him or her as a shareholder.
 
 ### 172 Actions by shareholders to require company to act
-Notwithstanding section 171, the court may, on the application of a shareholder of a company, if it is satisfied that it is just and equitable to do so, make an order requiring the board of the company to take any action that is required to be taken by the constitution of the company or this Act or the Financial Reporting Act 1993 and, on making the order, the court may grant such other consequential relief as it thinks fit.
+Notwithstanding section 171, the court may, on the application of a shareholder of a company, if it is satisfied that it is just and equitable to do so, make an order requiring the board of the company to take any action that is required to be taken by the constitution of the company or this Act and, on making the order, the court may grant such other consequential relief as it thinks fit.
 
 ### 173 Representative actions
 Where a shareholder of a company brings proceedings against the company or a director, and other shareholders have the same or substantially the same interest in relation to the subject matter of the proceedings, the court may appoint that shareholder to represent all or some of the shareholders having the same or substantially the same interest, and may, for that purpose, make such order as it thinks fit including, without limiting the generality of this section, an order—
@@ -2020,7 +2025,7 @@ In proceedings against a company for breach of a pre-incorporation contract whic
   (e) certificates given by directors under this Act within the last 7 years:
   (f) the full names and addresses of the current directors:
   (g) copies of all written communications to all shareholders or all holders of the same class of shares during the last 7 years, including annual reports made under section 208:
-  (h) copies of all financial statements and group financial statements required to be completed by this Act or the Financial Reporting Act 1993 for the last 7 completed accounting periods of the company:
+  (h) copies of all financial statements and group financial statements required to be completed by this Act or any other enactment for the last 7 completed accounting periods of the company:
   (i) the accounting records required by section 194 for the current accounting period and for the last 7 completed accounting periods of the company:
   (j) the share register.
 (2) The references in paragraphs (b), (d), (e), and (g) of subsection (1) to 7 years and the references in paragraphs (h) and (i) of that subsection to 7 completed accounting periods include such lesser periods as the Registrar may approve by notice in writing to the company.
@@ -2070,165 +2075,385 @@ In proceedings against a company for breach of a pre-incorporation contract whic
 (1) This section applies if the address for service of a company is rectified or corrected under section 360A or section 360B.
 (2) The rectification or correction takes effect at the time that the rectification or correction is made to the New Zealand register.
 
-## Part 11 — Accounting records and audit
+## Part 11 — Accounting records and financial reporting
 
-**Accounting records**
+### Subpart 1 — Accounting records
 
-### 194 Accounting records to be kept
-(1) The board of a company must cause accounting records to be kept that—
-  (a) correctly record and explain the transactions of the company; and
-  (b) will at any time enable the financial position of the company to be determined with reasonable accuracy; and
-  (c) will enable the directors to ensure that the financial statements of the company comply with section 10 of the Financial Reporting Act 1993 and any group financial statements comply with section 13 of that Act; and
-  (d) will enable the financial statements of the company to be readily and properly audited.
-(2) Without limiting subsection (1), the accounting records must contain—
-  (a) entries of money received and spent each day and the matters to which it relates:
-  (b) a record of the assets and liabilities of the company:
-  (c) if the company's business involves dealing in goods—
-    (i) a record of goods bought and sold, except goods sold for cash in the ordinary course of carrying on a retail business, that identifies both the goods and buyers and sellers and relevant invoices:
-    (ii) a record of stock held at the end of the financial year together with records of any stocktakings during the year:
-  (d) if the company's business involves providing services, a record of services provided and relevant invoices.
+### 194 Accounting records must be kept
+(1) The board of a company must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the company; and
+  (b) will enable the company to ensure that the financial statements or group financial statements of the company comply with generally accepted accounting practice (if the company is required to prepare such statements under this Act or any other enactment); and
+  (c) will enable the financial statements or group financial statements of the company to be readily and properly audited (if those statements are required to be audited).
+(2) The board of a company must establish and maintain a satisfactory system of control of its accounting records.
 (3) The accounting records must be kept—
-  (a) in written form and in English; or
+  (a) in written form in English; or
   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
-(4) If the board of a company fails to comply with the requirements of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+(4) If the board of a company fails to comply with the requirements of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(3).
 
 ### 195 Place accounting records to be kept
 (1) A company need not keep its accounting records in New Zealand.
 (2) If the records are not kept in New Zealand,—
-  (a) the company must ensure that accounts and returns for the operations of the company that—are sent to, and kept at, a place in New Zealand; and
-    (i) disclose with reasonable accuracy the financial position of the company at intervals not exceeding 6 months; and
-    (ii) will enable the preparation in accordance with the Financial Reporting Act 1993 of the company's financial statements and any group financial statements and any other document required by this Act—
-  (b) notice of the place where—are kept, must be given to the Registrar.
-    (i) the accounting records; and
-    (ii) the accounts and returns required under paragraph (a)—
+  (a) the company must ensure that accounts and returns for the operations of the company that satisfy the following requirements are sent to, and kept at, a place in New Zealand:
+    (i) the accounts and returns must enable the preparation of the company's financial statements or group financial statements required by this Act or any other enactment; and
+    (ii) the accounts and returns must enable the preparation of any other document required by this Act; and
+  (b) notice of the place where the accounting records and the accounts and returns required under paragraph (a) are kept must be given to the Registrar.
 (3) If a company fails to comply with subsection (2),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(2):
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
-**Auditors**
+### Subpart 2 — Financial reporting
 
-### 196 Appointment of auditors
-(1) Subject to this section, a company must, at each annual meeting, appoint an auditor to—
+### 196 Overview
+(1) This subpart imposes financial reporting requirements on—
+  (a) every large company; and
+  (b) every large overseas company that carries on business in New Zealand; and
+  (c) every other company with 10 or more shareholders (unless the shareholders of the company opt out of compliance); and
+  (d) every other company with fewer than 10 shareholders if shareholders of the company holding at least 5% of the voting shares require the company to comply.
+(2) This section is only a guide to the general scheme and effect of this subpart.
+
+### 197 Non-application of subpart if alternative financial reporting duties under financial markets legislation
+This subpart does not apply to a company or an overseas company in relation to an accounting period if financial statements of the company or overseas company, or group financial statements of the group that comprises the company or overseas company and its subsidiaries, are required to be prepared for that period under subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
+
+### 198 Interpretation
+In this subpart,—
+  - **group** means a group comprising a company or an overseas company and its subsidiaries
+  - **large company** means a company that is large under section 45 of the Financial Reporting Act 2013
+  - **large overseas company** means a body corporate incorporated outside New Zealand that—
+    (a) carries on business in New Zealand within the meaning of section 332; and
+    (b) is large under section 45 of the Financial Reporting Act 2013
+  - **public entity** has the same meaning as in section 5 of the Public Audit Act 2001
+  - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013
+  - **subsidiary** —
+    (a) means a subsidiary within the meaning of sections 5 to 8; and
+    (b) includes, except in section 207D, any entity that is classified as a subsidiary in any applicable financial reporting standard
+  - **voting share** , in relation to a company, means a share in the company that confers a currently exercisable right to cast a vote at meetings of shareholders of the company, not being a right to vote that is exercisable only in 1 or more of the following circumstances:
+    (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the share is in arrears or some other default exists:
+    (b) on a proposal that affects rights attached to the share:
+    (c) during the liquidation of the company:
+    (d) in respect of a special, immaterial, or remote matter that is inconsequential to control of the company.
+
+### 199 Determining number of shareholders
+(1) For the purposes of this subpart and section 208, the number of shareholders that a company has, in relation to an accounting period, is the number of shareholders that hold voting shares as at the close of the first day of the period.
+(2) Joint holders of a parcel of shares must be counted as a single shareholder.
+ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015. ABC Limited is not large (see section 45 of the Financial Reporting Act 2013).At the close of 1 April 2014, 16 shareholders hold ordinary voting shares. (The company also has 12 shareholders who hold non-voting preference shares, but non-voting shares are not relevant to the calculation under this section).Two of those shareholders hold their parcel of ordinary voting shares jointly. These shareholders are counted as a single shareholder.For the purposes of this subpart and section 208, ABC Limited has 15 shareholders in relation to the 1 April 2014 to 31 March 2015 period. This means that it must prepare financial statements, have those statements audited, and prepare an annual report unless it opts out of compliance under section 207I.
+
+**Preparation of financial statements**
+
+### 200 Application of preparation provisions
+(1) Sections 201 and 202 apply to—
+  (a) every large company; and
+  (b) every company that is a public entity; and
+  (c) every large overseas company; and
+  (d) every other company with 10 or more shareholders unless the company has opted out of compliance with the provision in accordance with section 207I; and
+  (e) every other company with fewer than 10 shareholders if the company has opted into compliance with the provision in accordance with section 207K.
+(2) However, section 201 does not apply to a company or an overseas company in relation to a balance date if the company or overseas company has, on that date, 1 or more subsidiaries (see section 202).
+
+### 201 Financial statements must be prepared
+Every company or overseas company to which this section applies (A) must ensure that, within 5 months after the balance date of A, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to A and that balance date; and
+  (b) dated and signed on behalf of A by 2 directors of A, or, if A has only 1 director, by that director.
+
+### 202 Group financial statements must be prepared
+(1) Every company or overseas company to which this section applies (A) that has, on the balance date of A, 1 or more subsidiaries must ensure that, within 5 months after that balance date, group financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to that group and that balance date; and
+  (b) dated and signed on behalf of A by 2 directors of A, or, if A has only 1 director, by that director.
+(2) Group financial statements are not required under subsection (1) in relation to a balance date if,—
+  (a) on the balance date, A is a subsidiary of a body corporate that is incorporated in New Zealand (B); and
+  (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to that balance date under this Act or any other enactment.
+
+### 203 Recognition of financial reporting requirements of overseas countries
+(1) Subsection (2) applies if the Registrar notifies a large overseas company (A) that the Registrar is satisfied that—
+  (a) the financial statements of A comply with the requirements of the law in force in the country where A is incorporated or constituted; and
+  (b) those requirements are—
+    (i) substantially the same as those of this Act; or
+    (ii) sufficiently equivalent, in relation to the quality of financial reporting they achieve, to the requirements of this Act.
+(2) The financial statements must be treated as complying with generally accepted accounting practice.
+(3) Subsection (4) applies if the Registrar notifies a large overseas company (A) that the Registrar is satisfied that—
+  (a) the group financial statements of the group that comprises A and its subsidiaries comply with the law in force in the country where A is incorporated or constituted; and
+  (b) those requirements are—
+    (i) substantially the same as those of this Act; or
+    (ii) sufficiently equivalent, in relation to the quality of financial reporting they achieve, to the requirements of this Act.
+(4) The group financial statements must be treated as complying with generally accepted accounting practice.
+
+### 204 Financial statements for overseas company must include financial statements for large New Zealand business
+(1) If an overseas company is required to prepare financial statements under section 201 and its New Zealand business is large, the financial statements that are prepared must include, in addition to the financial statements of the overseas company, financial statements for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
+(2) If an overseas company is required to prepare group financial statements under section 202 and the group's New Zealand business is large, the group financial statements that are prepared must include, in addition to the financial statements of the group, financial statements for the group's New Zealand business prepared as if the members of the group were companies formed and registered in New Zealand.
+(3) In this section, the New Zealand business or the group's New Zealand business is large in respect of an accounting period if at least 1 of the following paragraphs applies (calculated as if that business were an entity):
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the business exceed $20 million:
+  (b) in each of the 2 preceding accounting periods, the total revenue of the business exceeds $10 million.
+(4) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of subsection (3) must be applied in determining whether that provision applies.
+(5) If an overseas company has been granted an exemption under section 207L from a requirement to prepare financial statements under section 201 or group financial statements under section 202, subsection (1) or (2) (as the case may be) still applies (except that the financial statements for the New Zealand business are not in addition to the financial statements of the overseas company or its group).
+
+### 205 Balance date of subsidiaries
+(1) The board of a company or an overseas company that is required to comply with section 202 must ensure that, unless in the board's opinion there are good reasons against it, the balance date of each subsidiary of the company is the same as the balance date of the company.
+(2) If the balance date of a subsidiary of a company or an overseas company referred to in subsection (1) is not the same as that of the company, the balance date of the subsidiary for the purposes of any particular group financial statements must be a date that precedes the balance date of the company.
+
+**Audit of financial statements**
+
+### 206 Application of audit requirement
+(1) Section 207 applies to—
+  (a) every large company unless subsection (2) applies; and
+  (b) every company that is a public entity; and
+  (c) every large overseas company; and
+  (d) every company with 10 or more shareholders unless the company has opted out of compliance with that section in accordance with section 207I; and
+  (e) every company with fewer than 10 shareholders if the company has opted into compliance with the section in accordance with section 207K.
+(2) Subsection (1)(a) does not apply to a large company (A) if—
+  (a) A has opted out of compliance with section 207 in accordance with section 207J; or
+  (b) the following requirements are satisfied:
+    (i) A is a wholly-owned subsidiary of another company (B) or of a large overseas company (B); and
+    (ii) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in section 202; and
+    (iii) a copy of the group financial statements referred to in subparagraph (ii) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
+
+### 207 Financial statements must be audited
+(1) Every company or overseas company to which this section applies (A) must ensure that the financial statements or group financial statements prepared in respect of A under section 201, 202, or 204 (if any) are audited by a qualified auditor.
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a company or an overseas company).
+
+### 207A Audit must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit for the purposes of section 207, comply with all applicable auditing and assurance standards.
+(2) Subsection (3) applies if the Registrar notifies a large overseas company (A) that the Registrar is satisfied that standards relating to auditing or assurance that are in force in the country where A is incorporated or constituted (the overseas standards) are—
+  (a) substantially the same as the applicable auditing and assurance standards referred to in subsection (1); or
+  (b) sufficiently equivalent, in relation to the quality of auditing they achieve, to the applicable auditing and assurance standards referred to in subsection (1).
+(3) The auditor of A's financial statements or group financial statements may, in carrying out the audit of those statements and in preparing the auditor's report, comply with the overseas standards instead of the applicable auditing and assurance standards.
+(4) This section does not apply to a company that is a public entity.
+
+### 207B Auditor must report to shareholders
+(1) The auditor of a company must make a report to the shareholders on the financial statements or group financial statements audited by the auditor.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+(3) Subsection (2) is subject to section 207A(3).
+
+### 207C Auditor's report must be sent to Registrar and External Reporting Board if requirements have not been complied with
+If the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements or group financial statements to which it relates to the Registrar and the External Reporting Board.
+
+**Registration of financial statements of overseas companies and other companies with significant overseas ownership**
+
+### 207D Application of registration provisions
+(1) Section 207E applies to each of the following:
+  (a) every large overseas company:
+  (b) every large company in which shares that in aggregate carry the right to exercise or control the exercise of 25% or more of the voting power at a meeting of the company are held by—
+    (i) a subsidiary of a body corporate incorporated outside New Zealand; or
+    (ii) a body corporate incorporated outside New Zealand; or
+    (iii) a person not ordinarily resident in New Zealand.
+(2) However, section 207E does not apply to a company or an overseas company (A) if the following requirements are satisfied:
+  (a) A is a subsidiary of a company that is incorporated in New Zealand (B); and
+  (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in section 202; and
+  (c) a copy of the group financial statements referred to in paragraph (b) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
+(3) For the purposes of subsection (1), a person is ordinarily resident in New Zealand if that person—
+  (a) is domiciled in New Zealand; or
+  (b) is living in New Zealand and the place where that person usually lives, and has been living for the immediately preceding 12 months, is in New Zealand, whether or not that person has on occasions been away from New Zealand during that 12-month period.
+
+### 207E Financial statements must be registered
+(1) A company or an overseas company to which this section applies must ensure that, within 5 months after the balance date of the company or overseas company, copies of its financial statements or group financial statements completed in relation to that balance date under section 201, 202, or 204 together with a copy of the auditor's report on those statements (if any) are delivered to the Registrar for registration.
+(2) The company or overseas company must, when the financial statements or group financial statements are registered, pay to the Registrar the prescribed registration fee (if any).
+(3) Any person may, on payment of the prescribed fee (if any), inspect the copies of the financial statements, group financial statements, and auditor's report on those statements delivered to the Registrar under this section.
+
+**Shareholders may request copy of financial statements prepared for tax purposes**
+
+### 207F Shareholders may request copy of financial statements prepared for tax purposes
+(1) This section applies if—
+  (a) neither financial statements in relation to a company nor group financial statements in relation to a company's group are prepared under this Act or Part 7 of the Financial Markets Conduct Act 2013; but
+  (b) financial statements in relation to the company, or group financial statements in relation to its group, are prepared under, or for the purposes of, any of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994).
+(2) A shareholder of the company may at any time make a written request to the company for a copy of the financial statements or group financial statements (or both) referred to in subsection (1)(b).
+(3) The company must, within 10 working days of receiving a request under subsection (2), provide, free of charge, a copy of the financial statements or group financial statements (or both) to the shareholder together with a copy of the auditor's report on those statements (if any).
+
+**Financial reporting offences**
+
+### 207G Financial reporting offences
+(1) This section applies if—
+  (a) a company or an overseas company is required to comply with section 201 and financial statements of the company or overseas company—
+    (i) are not completed and signed within the time specified in that section; or
+    (ii) fail to comply with an applicable financial reporting standard; or
+  (b) a company or an overseas company is required to comply with section 202 and group financial statements of a group comprising the company or overseas company and its subsidiaries—
+    (i) are not completed and signed within the time specified in that section; or
+    (ii) fail to comply with an applicable financial reporting standard; or
+  (c) an overseas company is required to comply with section 204 and the financial statements or group financial statements referred to in that section—
+    (i) are not completed and signed within 5 months after the balance date of the overseas company; or
+    (ii) fail to comply with an applicable financial reporting standard; or
+  (d) a company or an overseas company fails to comply with section 207 (which relates to auditing); or
+  (e) a company or an overseas company fails to comply with section 207E (which relates to registration of financial statements); or
+  (f) a company fails to comply with section 207F (which relates to the supply of copies of financial statements prepared for tax purposes).
+(2) The company or overseas company commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) Every director of the company or overseas company commits an offence and is liable on conviction to the penalty set out in section 374(3).
+(4) See section 376(2) (which provides defences to directors in respect of an offence under this section).
+
+**Provisions relating to opting out and opting in**
+
+### 207H Period during which company may opt in or opt out
+In sections 207I to 207K, the opting period, in relation to the accounting period referred to in section 207I(3), 207J(3), or 207K(2), is the period from the start of the accounting period until the close of the earliest of the following dates:
+  (a) the date that is 6 months after the start of the accounting period:
+  (b) the date of the annual meeting to be held in the accounting period:
+  (c) in the case of an accounting period that is shorter than 6 months (as a result of the date of the registration of the company or a change of the balance date of the company), the balance date of the period.
+
+### 207I Companies with 10 or more shareholders may opt out
+(1) This section applies to a company with 10 or more shareholders.
+(2) However, this section does not apply—
+  (a) if the constitution of the company expressly provides that this section does not apply; or
+  (b) if the company is a large company or a public entity.
+(3) The shareholders of the company may, at a meeting of shareholders held within the opting period, opt out of compliance with 1 or more of the following provisions in relation to the accounting period by way of a resolution approved by not less than 95% of the votes of those shareholders entitled to vote and voting on the question:
+  (a) sections 201 and 202 (preparation of financial statements and group financial statements):
+  (b) section 207 (audit requirement):
+  (c) section 208 (obligation to prepare annual report).
+(4) If the shareholders opt out of compliance with a provision in relation to an accounting period under this section, the provision does not apply to the company in relation to that period.
+ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.ABC Limited is not a large company in relation to that period (see section 45 of the Financial Reporting Act 2013).Under section 199, it has 15 shareholders.The opting period ends no later than the close of the date of the annual meeting to be held in that period. At the annual meeting, a resolution to opt out of the preparation provisions (sections 201 and 202) is passed by a 95% majority. Accordingly, ABC Limited does not have to prepare financial statements for that period (section 207, which relates to auditing, also does not apply because financial statements are not required to be prepared).
+
+### 207J Large companies may opt out of audit requirement
+(1) This section applies to a large company.
+(2) However, this section does not apply if—
+  (a) the constitution of the company expressly provides that this section does not apply; or
+  (b) the company is a public entity; or
+  (c) the company is required to register financial statements under section 207E.
+(3) The shareholders of the company may, at a meeting of shareholders held within the opting period, opt out of compliance with section 207 in relation to the accounting period by way of a resolution approved by not less than 95% of the votes of those shareholders entitled to vote and voting on the question.
+(4) If the shareholders opt out of compliance with section 207 in relation to an accounting period under this section, that section does not apply to the company in relation to that period.
+
+### 207K Companies with fewer than 10 shareholders may opt in
+(1) This section applies to a company (other than a large company) with fewer than 10 shareholders.
+(2) A shareholder of the company who holds, or shareholders of the company who together hold, not less than 5% of the voting shares may, by written notice given to the company within the opting period but not later than 5 working days before the end of that period, require the company to comply with 1 or more of the following provisions in relation to the accounting period:
+  (a) section 201 or 202 (preparation of financial statements or group financial statements):
+  (b) section 207 (audit requirement):
+  (c) section 208 (obligation to prepare annual report).
+(3) If a notice is given under subsection (2) in relation to a provision and an accounting period, the provision applies to the company in relation to that period.
+
+**Registrar may grant exemptions to overseas companies**
+
+### 207L Registrar may grant exemptions to overseas companies
+(1) The Registrar may, by notice in the Gazette, exempt any large overseas company, or any class of large overseas companies, from compliance with any provision of sections 201, 202, 207, and 207E.
+(2) The Registrar must not grant an exemption under this section unless he or she is satisfied that—
+  (a) compliance with the relevant provision would require the overseas company to comply with requirements that are unduly onerous or burdensome; and
+  (b) financial reporting requirements must be complied with in relation to the overseas company under the law in force in the country where the overseas company is incorporated or constituted and that those requirements are satisfactory; and
+  (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
+(3) The exemption may be granted on any terms and conditions that the Registrar thinks fit.
+(4) The Registrar may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+
+### 207M Publication and status of exemptions
+(1) The Registrar may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the Gazette).
+(2) Each notice published in the Gazette under section 207L is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The Registrar's reasons for granting an exemption (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+
+### 207N Consultation
+In deciding whether or not to grant, amend, or revoke an exemption under section 207L, the Registrar—
+  (a) may consult with any persons or organisations that the Registrar thinks fit; but
+  (b) must consult with the Commissioner of Inland Revenue if the exemption involves any provision of section 201 or 202.
+
+### 207O Exemption may apply to accounting period before exemption is granted
+An exemption under section 207L may, if the Registrar thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before financial statements or group financial statements for that period are required to be delivered for registration under section 207E.
+
+### Subpart 3 — Miscellaneous auditing provisions
+
+### 207P Auditor must be appointed if financial statements must be audited
+(1) This section applies to a company in relation to an accounting period if financial statements or group financial statements of the company for that period are required to be audited under this Act, the Financial Markets Conduct Act 2013, or any other enactment.
+(2) A company must, at the annual meeting held in the accounting period referred to in subsection (1), appoint a qualified auditor to—
   (a) hold office from the conclusion of the meeting until the conclusion of the next annual meeting; and
-  (b) audit the financial statements of the company and, if the company is required to complete group financial statements, those group financial statements, for the accounting period next after the meeting.
-(1A) If a company is a public entity as defined in section 4 of the Public Audit Act 2001, the Auditor-General is its auditor in accordance with that Act; and subsection (2) does not apply in respect of that company.
-(2) A company need not appoint an auditor in accordance with subsection (1) if, at or before the meeting, a unanimous resolution is passed by all the shareholders who would be entitled to vote on that resolution at a meeting of shareholders. Such a resolution ceases to have effect at the commencement of the next annual meeting.
-(3) Nothing in subsection (2) applies to a company—
-  (a) to which section 19 of the Financial Reporting Act 1993 applies; or
-  (b) that is an issuer within the meaning of section 4 of that Act.
-(3A) An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
-(3B) If a company fails to comply with subsection (3A), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
-(4) The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains, the surviving or continuing auditor, if any, may continue to act as auditor.
-(5) If—the Registrar may appoint an auditor.
-  (a) at an annual meeting of a company no auditor is appointed or reappointed and no resolution has been passed pursuant to subsection (2); or
-  (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring,—
-(6) A company must, within 5 working days of the power becoming exercisable, give written notice to the Registrar of the fact that the Registrar is entitled to appoint an auditor under subsection (5).
-(7) If a company fails to comply with subsection (6),—
+  (b) audit the financial statements or group financial statements referred to in subsection (1).
+(3) However, if a company is a public entity, the Auditor-General is its auditor in accordance with that Act and subsection (2) does not apply.
+(4) The first auditor of a company may be appointed by the directors of the company before the first annual meeting, and, if so appointed, holds office until the conclusion of that meeting.
+
+### 207Q Registrar may appoint auditor
+(1) The Registrar may appoint an auditor if,—
+  (a) at an annual meeting of a company, no auditor is appointed or reappointed as required by section 207P; or
+  (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring and the company is required to comply with section 207P.
+(2) A company must, within 5 working days of the power becoming exercisable, give written notice to the Registrar of the fact that the Registrar is entitled to appoint an auditor under this section.
+(3) If a company fails to comply with subsection (2),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(2); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
-(8)
 
-### 196A Auditor is not required to audit financial statements of non-active company
-If, by virtue of section 10A of the Financial Reporting Act 1993, the directors of a company are not required to comply with section 10 of that Act in respect of an accounting period, the auditor of the company is not required to audit financial statements of the company for that period
+### 207R Resignation and casual vacancy
+(1) An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
+(2) If a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+(3) The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains the surviving or continuing auditor, if any, may continue to act as auditor.
 
-### 197 Auditors' fees and expenses
-The fees and expenses of an auditor of a company shall be fixed,—
-  (a) if the auditor is appointed at a meeting of the company, by the company at the meeting or in such manner as the company determines at the meeting:
+### 207S Auditor's fees and expenses
+The fees and expenses of an auditor of a company must be fixed,—
+  (a) if the auditor is appointed at a meeting of the company, by the company at the meeting or in the manner that the company determines at the meeting:
   (b) if the auditor is appointed by the directors, by the directors:
   (c) if the auditor is appointed by the Registrar, by the Registrar:
   (d) if the auditor is the Auditor-General, in accordance with the Public Audit Act 2001.
 
-### 198 Appointment of partnership
-(1) A partnership may be appointed by the firm name to be the auditor of a company if,—
-  (a) in the case of a company that is an issuer, the partnership is a registered audit firm:
-  (b) in any other case, all or some of the partners are persons who are qualified to be appointed as auditors of the company.
-(2) The appointment of a partnership by the firm name to be the auditor of a company is deemed, despite section 199, to be the appointment of,—
-  (a) in the case of a company that is an issuer, all the partners in the firm, from time to time, who are licensed auditors:
-  (b) in any other case, all the partners in the firm from time to time.
-(3) If a partnership that includes persons who are not qualified to be appointed as auditors of a company is appointed as auditor of a company, the persons who are not qualified to be appointed as auditors must not act as auditors of the company.
-(4) In this section and section 199, issuer, registered audit firm, and licensed auditor have the same meanings as in section 6 of the Auditor Regulation Act 2011.
-
-### 199 Qualifications of auditors
-(1) A person must not be appointed or act as an auditor of a company unless—
-  (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-  (ab) the person is a licensed auditor; or
-  (b)
-  (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
-    (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this section by the Registrar; and
-    (ii) the person is eligible to act as an auditor in the country, State, or territory in which the association is constituted; or
-  (d) the person, not being a person to whom paragraph (c) applies, is—
-    (i) eligible to act as an auditor in a country, State, or territory outside New Zealand; and
-    (ii) approved for the time being for the purposes of this section by the Registrar by notice in the Gazette.
-(1A) However, if the company is an issuer, a person must not be appointed or act as an auditor of the company unless he or she is a licensed auditor.
-(2) None of the following persons may be appointed or act as auditor of a company:
-  (a) a director or employee of the company:
-  (b) a person who is a partner, or in the employment, of a director or employee of the company:
-  (c) a liquidator or a person who is a receiver in respect of the property of the company:
-  (d) a body corporate:
-  (e) a person who, by virtue of paragraph (a) or paragraph (b), may not be appointed or act as auditor of a related company.
-
-### 200 Automatic reappointment
-(1) An auditor of a company, other than an auditor appointed under section 201(1), is automatically reappointed at an annual meeting of the company unless—
-  (a) the auditor is not qualified for appointment; or
+### 207T Automatic reappointment
+(1) An auditor of a company, other than an auditor appointed under section 207P(4), is automatically reappointed at an annual meeting of the company unless—
+  (a) the auditor is not a qualified auditor; or
   (b) the company passes a resolution at the meeting appointing another person to replace him or her as auditor; or
-  (c) the company passes a resolution under section 196(2) that no auditor be appointed; or
-  (d) the auditor has given notice to the company that he or she does not wish to be reappointed.
-(2) An auditor is not automatically reappointed if the person who it is proposed will replace him or her dies, or is, or becomes incapable of, or disqualified from, appointment.
+  (c) the company is not required to appoint an auditor at the meeting (see section 207P); or
+  (d) the auditor has given notice to the company that the auditor does not wish to be reappointed.
+(2) An auditor is not automatically reappointed if the person who it is proposed will replace the auditor dies, or is or becomes incapable of, or disqualified from, appointment.
 
-### 201 Appointment of first auditor
-(1) The first auditor of a company may be appointed by the directors of the company before the first annual meeting, and, if so appointed, holds office until the conclusion of that meeting.
-(2) If the directors do not appoint an auditor under subsection (1), the company must appoint the first auditor at a meeting of the company.
-(3) Neither the directors nor the company need appoint an auditor in accordance with this section if a unanimous resolution is passed by the company that no auditor be appointed. Such a resolution ceases to have effect at the commencement of the first annual meeting.
-(4) Nothing in subsection (3) applies to a company referred to in section 196(3).
-
-### 202 Replacement of auditor
-(1) A company must not appoint a new auditor in the place of an auditor who is qualified for reappointment, unless—
+### 207U Replacement of auditor
+(1) A company must not appoint a new auditor in the place of an auditor who is a qualified auditor, unless—
   (a) at least 20 working days' written notice of a proposal to do so has been given to the auditor; and
-  (b) the auditor has been given a reasonable opportunity to make representations to the shareholders on the appointment of another person either in writing or by the auditor or his or her representative speaking at a shareholders' meeting (whichever the auditor may choose).
+  (b) the auditor has been given a reasonable opportunity to make representations to the shareholders on the appointment of another person either in writing or by the auditor or the auditor's representative speaking at a shareholders' meeting (whichever the auditor may choose).
+(2) The auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
+
+### 207V Auditor not seeking reappointment or resigning
+(1) If an auditor gives the board of a company written notice that the auditor does not wish to be reappointed or of the auditor's resignation, the board must, if requested to do so by that auditor,—
+  (a) distribute, as soon as practicable, to all shareholders, at the expense of the company, a written statement of the auditor's reasons for the auditor's wish not to be reappointed or for the auditor's resignation; or
+  (b) permit the auditor or the auditor's representative to explain at a shareholders' meeting the reasons for wishing not to be reappointed or for resigning.
 (2) An auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
 
-### 203 Auditor not seeking reappointment or resigning
-(1) If an auditor gives the board of a company written notice that he or she does not wish to be reappointed or of his or her resignation, the board must, if requested to do so by that auditor,—
-  (a) distribute, as soon as practicable, to all shareholders, at the expense of the company, a written statement of the auditor's reasons for his or her wish not to be reappointed or for his or her resignation; or
-  (b) permit the auditor or his or her representative to explain at a shareholders' meeting the reasons for his or her wish not to be reappointed or for his or her resignation.
-(2) An auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
-
-### 204 Auditor to avoid conflict of interest
-An auditor of a company must ensure, in carrying out the duties of an auditor under this Part, that his or her judgment is not impaired by reason of any relationship with or interest in the company or any of its subsidiaries.
-
-### 205 Auditor's report
-(1) The auditor of a company must make a report to the shareholders on the financial statements audited by him or her.
-(2) The auditor's report must state the matters required to be stated in an auditor's report under the Financial Reporting Act 1993.
-
-### 206 Access to information
-(1) The board of a company must ensure that an auditor of a company has access at all times to the accounting records and other documents of the company.
-(2) An auditor of a company is entitled to require from a director or employee of the company such information and explanations as he or she thinks necessary for the performance of his or her duties as auditor.
-(3) If the board of a company fails to comply with subsection (1), every director commits an offence and is liable on conviction to the penalty set out in section 374(2).
-(4) A director or employee who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in section 373(2).
-(5) It is a defence to an employee charged with an offence against subsection (4) if he or she proves that—as the case may be.
-  (a) he or she did not have the information required in his or her possession or under his or her control; or
-  (b) by reason of the position occupied by him or her or the duties assigned to him or her, he or she was unable to give the explanations required,—
-
-### 207 Auditor's attendance at shareholders' meeting
+### 207W Auditor's attendance at shareholders' meeting
 (1) The board of a company must ensure that an auditor of the company—
   (a) is permitted to attend a meeting of shareholders of the company; and
-  (b) receives the notices and communications that a shareholder is entitled to receive relating to a meeting of shareholders; and
-  (c) may be heard at a meeting of shareholders which he or she attends on any part of the business of the meeting which concerns him or her as auditor.
+  (b) receives the notices and communications that a shareholder is entitled to receive that relate to a meeting of shareholders; and
+  (c) may be heard at a meeting of shareholders that the auditor attends on any part of the business of the meeting that concerns the auditor as auditor.
 (2) If the board of a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+
+### Subpart 4 — Infringement offence for failing to register financial statements
+
+### 207X Interpretation in this subpart
+In this subpart,—
+  - **infringement fee** , in relation to an infringement offence, means $7,000
+  - **infringement notice** means a notice issued under section 207Z
+  - **infringement offence** means an offence under section 207G(2) or (3) in respect of a failure referred to in section 207G(1)(e) (which relates to failing to register financial statements).
+
+### 207Y Infringement offences
+(1) If a person is alleged to have committed an infringement offence, that person may—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice as provided in section 207Z.
+(2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under section 21(1)(a) of the Summary Proceedings Act 1957.
+
+### 207Z Infringement notices
+(1) The Registrar may issue an infringement notice to a person if the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
+
+### 207ZA Procedural requirements for infringement notices
+(1) An infringement notice may be served on a person—
+  (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
+  (b) by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
+(2) An infringement notice sent under subsection (1)(b) must be treated as having been served on the person on the date it was posted.
+(3) An infringement notice must be in the prescribed form and must contain—
+  (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
+  (b) the amount of the infringement fee; and
+  (c) an address at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice does not pay the fee and does not request a hearing; and
+  (h) any other prescribed matters.
+(4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case,—
+  (a) reminder notices may be prescribed under regulations made under this Act; and
+  (b) in all other respects, section 21 of the Summary Proceedings Act 1957 applies with all necessary modifications.
+(5) Reminder notices must contain the prescribed information.
+
+### 207ZB Payment of infringement fee
+The Registrar must pay all infringement fees received into a Crown Bank Account.
 
 ## Part 12 — Disclosure by companies
 
 **Disclosure to shareholders**
 
 ### 208 Obligation to prepare annual report
-(1) Subject to subsection (2), the board of every company must, within 5 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
-(2) The board of an exempt company to which section 120(1)(b)(i) applies, must, within 9 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
-(3) If the board of a company fails to comply with subsection (1) or subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+(1) This section applies to—
+  (a) every large company (within the meaning of section 198); and
+  (b) every company that is a public entity; and
+  (c) every company that is required to prepare financial statements or group financial statements under Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013; and
+  (d) every company with 10 or more shareholders unless the company has opted out of compliance with this section in accordance with section 207I (in relation to the accounting period referred to in subsection (2)); and
+  (e) every company with fewer than 10 shareholders if the company has opted into compliance with this section in accordance with section 207K (in relation to the accounting period referred to in subsection (2)).
+(2) The board of every company to which this section applies must, within 5 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
+(3) If the board of a company fails to comply with subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
 ### 209 Obligation to make annual report available to shareholders
 (1) The board of a company must send to every shareholder of the company, not less than 20 working days before the date fixed for holding the annual meeting of shareholders,—
   (a) a copy of the annual report; or
   (b) a notice containing the statements specified in subsection (3).
+(1A) Subsection (1) does not apply if the annual report is not required to be prepared under section 208.
 (2) Subsection (1) is subject to section 212.
 (3) The notice referred to in subsection (1)(b) must contain—
   (a) a statement to the effect that the shareholder has a right to receive from the company, free of charge, a copy of the annual report if the shareholder, within 15 working days of receiving the notice, makes a request to the company to receive a copy of the annual report; and
@@ -2241,15 +2466,12 @@ An auditor of a company must ensure, in carrying out the duties of an auditor un
 (4) The notice referred to in subsection (1)(b) may be accompanied by any additional information or documentation that the board of the company thinks fit.
 (5) For the purposes of this section and sections 209A and 209B, every concise annual report for a company must, in relation to an accounting period, include,—
   (a) in relation to a company that has, on the balance date of the company, no subsidiaries,—
-    (i) financial statements for the accounting period and any auditor's report on those financial statements required under Part 11; or
-    (ii) summary financial statements for the accounting period:
+    (i) financial statements for the accounting period that comply with generally accepted accounting practice and any auditor's report on those financial statements; or
+    (ii) summary financial statements for the accounting period that comply with generally accepted accounting practice:
   (b) in relation to a company that has, on the balance date of the company, 1 or more subsidiaries,—
-    (i) group financial statements for the accounting period and any auditor's report on those group financial statements required under Part 11; or
-    (ii) summary financial statements for the accounting period prepared in relation to the group comprising the company and its subsidiaries.
-(6) For the purposes of subsection (5),—
-  (a) financial statements must be completed and signed in accordance with section 10 of the Financial Reporting Act 1993:
-  (b) group financial statements must be completed and signed in accordance with section 13 of the Financial Reporting Act 1993:
-  (c) summary financial statements must give a true and fair view of the matters to which they relate and comply with generally accepted accounting practice (as defined in section 3 of the Financial Reporting Act 1993).
+    (i) group financial statements for the accounting period that comply with generally accepted accounting practice and any auditor's report on those group financial statements; or
+    (ii) summary financial statements for the accounting period, prepared in relation to the group comprising the company and its subsidiaries, that comply with generally accepted accounting practice.
+(6)
 (7) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
 ### 209A Board must send copy of annual report or concise annual report on request
@@ -2257,6 +2479,7 @@ An auditor of a company must ensure, in carrying out the duties of an auditor un
 (2) If a shareholder makes a request under subsection (1),—
   (a) the request must be treated as a request by the shareholder to send to the shareholder each year a copy of the annual report under section 209(1)(a); and
   (b) the board of the company must send to the shareholder each year a copy of the annual report under section 209(1)(a) until the shareholder revokes the request by notice to the company.
+(2A) Subsection (2) does not require a company to send a copy of an annual report on the affairs of the company during a particular accounting period if the board of the company is not required to comply with section 208 in respect of that period.
 (3) Subsection (4) applies if—
   (a) the board of a company has sent a notice to a shareholder under section 209(1)(b); and
   (b) that notice states that the board has prepared a concise annual report; and
@@ -2281,8 +2504,8 @@ An auditor of a company must ensure, in carrying out the duties of an auditor un
   (a) describe, so far as the board believes is material for the shareholders to have an appreciation of the state of the company's affairs and will not be harmful to the business of the company or of any of its subsidiaries, any change during the accounting period in—
     (i) the nature of the business of the company or any of its subsidiaries; or
     (ii) the classes of business in which the company has an interest, whether as a shareholder of another company or otherwise; and
-  (b) include financial statements for the accounting period completed and signed in accordance with section 10 of the Financial Reporting Act 1993 and any group financial statements for the accounting period completed and signed in accordance with section 13 of that Act; and
-  (c) where an auditor's report is required under Part 11 in relation to the financial statements or group financial statements, as the case may be, included in the report, include that auditor's report; and
+  (b) include any financial statements or group financial statements for the accounting period that are required to be prepared under Part 11, Part 7 of the Financial Markets Conduct Act 2013, or any other enactment (if any); and
+  (c) if an auditor's report is required under Part 11, Part 7 of the Financial Markets Conduct Act 2013, or any other enactment in relation to the financial statements or group financial statements included in the report, include that auditor's report; and
   (d)
   (e) state particulars of entries in the interests register made during the accounting period; and
   (f) state, in respect of each director or former director of the company, the total of the remuneration and the value of other benefits received by that director or former director from the company during the accounting period; and
@@ -2292,19 +2515,18 @@ An auditor of a company must ensure, in carrying out the duties of an auditor un
   (j) state the amounts payable by the company to the person or firm holding office as auditor of the company as audit fees and, as a separate item, fees payable by the company for other services provided by that person or firm; and
   (k) be signed on behalf of the board by 2 directors of the company or, if the company has only 1 director, by that director.
 (2) A company that is required to include group financial statements in its annual report must include, in relation to its subsidiaries, the information specified in paragraphs (e) to (j) of subsection (1).
-(3) The annual report of a company need not comply with any of paragraphs (a), and (e) to (j) of subsection (1), and subsection (2) if all shareholders agree that the report need not do so.
-(4) Nothing in subsection (3) affects the requirements of the Financial Reporting Act 1993.
+(3) The annual report of a company need not comply with any of paragraphs (a), and (e) to (j) of subsection (1), and subsection (2) if shareholders who together hold at least 95% of the voting shares (within the meaning of section 198) agree that the report need not do so.
+(4)
 
 ### 211A Obligations to prepare and make available annual reports or financial statements do not apply to non-active companies
-If, under section 10A of the Financial Reporting Act 1993, the directors of a company are not required to comply with section 10 of that Act in respect of an accounting period, the board of the company is not required to—
-  (a) prepare an annual report under section 208 in respect of that accounting period; or
-  (b) send or make available under sections 209 to 209B any annual report, notice, or other document in respect of that accounting period.
+[Repealed]
 
 ### 212 Shareholders may elect not to receive documents
 (1) A shareholder of a company may from time to time, by written notice to the company, waive the right to receive all or any documents from the company and may revoke the waiver in the same manner and, while the waiver is in effect, the company need not send to the shareholder the documents to which the waiver relates.
 (2) However, if a shareholder of a company purports to waive the right to receive both a copy of the annual report and a notice under section 209(1)(b),—
   (a) the purported waiver is invalid; and
   (b) the board of the company must, in accordance with section 209(1), send to the shareholder a copy of the annual report or a notice under section 209(1)(b).
+(3) Subsection (2)(b) does not apply if the board of the company is not required to comply with section 209(1) in respect of an accounting period.
 
 ### 213 Failure to disclose
 Subject to the constitution of a company, the failure to send an annual report, notice, or other document to a shareholder in accordance with this Act does not affect the validity of proceedings at a meeting of the shareholders of the company if the failure to do so was accidental.
@@ -2861,7 +3083,7 @@ The administrator may lodge a report with the Registrar specifying any matter th
     (i) the Crimes Act 1961:
     (ii) the Securities Act 1978:
     (iii) the Securities Markets Act 1988:
-    (iv) the Financial Reporting Act 1993:
+    (iv)
     (v) the Takeovers Act 1993; or
   (c) a person who has taken part in the formation, promotion, administration, management, or liquidation of the company—
     (i) may have misapplied or retained or become liable or accountable for the company's money or property (whether in New Zealand or elsewhere); or
@@ -4068,7 +4290,7 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
   (a) the Crimes Act 1961:
   (b) the Securities Act 1978:
   (c) the Securities Markets Act 1988:
-  (d) the Financial Reporting Act 1993:
+  (d)
   (e) the Takeovers Act 1993:
   (f) the Insurance (Prudential Supervision) Act 2010.
 (2) A report made under subsection (1), and any communications between the liquidator and Registrar relating to that report, are protected by absolute privilege.
@@ -4578,7 +4800,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
 (1) Subject to subsection (2), if—the court, on the application of the liquidator, may, if it thinks it proper to do so, declare that any 1 or more of the directors and former directors of the company is, or are, personally responsible, without limitation of liability, for all or any part of the debts and other liabilities of the company as the court may direct.
   (a) a company that is in liquidation and is unable to pay all its debts has failed to comply with—
     (i) section 194 (which relates to the keeping of accounting records); or
-    (ii) section 10 of the Financial Reporting Act 1993 (which relates to the preparation of financial statements); and
+    (ii) section 201 or 202 (which relates to the preparation of financial statements or group financial statements) or any other enactment that requires the company to prepare financial statements or group financial statements; and
   (b) the court considers that—
     (i) the failure to comply has contributed to the company's inability to pay all its debts, or has resulted in substantial uncertainty as to the assets and liabilities of the company, or has substantially impeded the orderly liquidation; or
     (ii) for any other reason it is proper to make a declaration under this section,—
@@ -5178,6 +5400,9 @@ A failure by an overseas company to comply with section 333 or section 334 does 
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(2); and
   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
+### 340A Financial reporting requirements for large overseas companies
+Subpart 2 of Part 11 imposes obligations on large overseas companies (within the meaning of section 198).
+
 ### 341 Overseas company ceasing to carry on business in New Zealand
 (1) An overseas company registered under this Part that intends to cease to carry on business in New Zealand must—
   (a) give public notice of that intention; and
@@ -5403,9 +5628,9 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 ### 365 Registrar's powers of inspection
 (1) The Registrar or a person authorised by the Registrar may,—do any of the following:
   (a) for the purpose of—
-    (i) ascertaining whether a company or a director of a company is complying, or has complied, with this Act or the Financial Reporting Act 1993; or
-    (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the Financial Reporting Act 1993; or
-    (iii) detecting offences against this Act or the Financial Reporting Act 1993; and
+    (i) ascertaining whether a company or a director of a company is complying, or has complied, with this Act; or
+    (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act; or
+    (iii) detecting offences against this Act; and
   (b) if, in the Registrar's opinion, it is in the public interest to do so,—
   (c) require a person, including a person carrying on the business of banking, to produce for inspection relevant documents within that person's possession or control; or
   (d) inspect and take copies of relevant documents; or
@@ -5542,8 +5767,8 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (f) section 179(8) (which relates to disclosure and use of information obtained in the course of an investigation):
   (g) section 189(5)(a) (which relates to company records):
   (h) section 195(3)(a) (which relates to the place where accounting records must be kept):
-  (i) section 196(7)(a) (which relates to the appointment of an auditor):
-  (j) section 206(4) (which relates to access to information by auditors):
+  (i) section 207Q(3)(a) (which relates to the appointment of an auditor):
+  (j)
   (k) section 215(2)(a) (which relates to public inspection of company records):
   (l) section 216(2)(a) (which relates to inspection of company records by shareholders):
   (m) section 250(7) (which relates to the termination of the liquidation of a company):
@@ -5604,13 +5829,13 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (12) section 176(4) (which relates to alterations to the constitution of a company by the court):
   (13) section 189(5)(b) (which relates to company records):
   (14) section 190(3) (which relates to the form in which company records are kept):
-  (15) section 194(4) (which relates to the keeping of accounting records):
-  (16) section 195(3)(b) (which relates to the place where accounting records must be kept):
-  (16A) section 196(3B) (which relates to the notification of the resignation of an auditor):
-  (17) section 196(7)(b) (which relates to the appointment of an auditor):
-  (18) section 206(3) (which relates to access to information by auditors):
-  (19) section 207(2) (which relates to the attendance of auditors at meetings of shareholders):
-  (20) section 208(2) (which relates to the duty to prepare an annual report):
+  (15) section 195(3)(b) (which relates to the place where accounting records must be kept):
+  (16) section 207Q(3)(b) (which relates to the appointment of an auditor):
+  (16A)
+  (17) section 207R(2) (which relates to the notification of the resignation of an auditor):
+  (18) section 207W(2) (which relates to the attendance of auditors at meetings of shareholders):
+  (19) section 208(3) (which relates to the duty to prepare an annual report):
+  (20)
   (21) section 209(7) (which relates to the obligation to make the annual report available to shareholders):
   (22) section 209A(5) (which relates to the obligation to send copies of annual reports or concise annual reports to shareholders on request):
   (22A) section 209B(3) (which relates to making annual reports and concise annual reports available by electronic means):
@@ -5623,6 +5848,9 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (29) section 334(6)(b) (which relates to the registration of overseas companies):
   (30) section 339(2)(b) (which relates to changes in the constitution of an overseas company):
   (31) section 340(6)(b) (which relates to the filing of annual returns by overseas companies).
+(3) A director of a company who is convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $50,000:
+  (a) section 194(4) (which relates to the keeping of accounting records):
+  (b) section 207G(3) (which relates to the preparation, audit, and registration of financial statements).
 
 ### 375 Proceedings for offences
 (1)
@@ -5690,7 +5918,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 (5) In this section, the term company includes an overseas company that carries on business in New Zealand.
 
 ### 383 Court may disqualify directors
-(1) Where—the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company for such period not exceeding 10 years as may be specified in the order.
+(1) Where—the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company permanently or for a period specified in the order.
   (a) a person has been convicted under section 373(4) of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
   (c) a person has, while a director of a company and whether convicted or not,—
@@ -5700,6 +5928,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
   (ca) a person has been prohibited in a country, State, or territory outside New Zealand from carrying on activities that the court is satisfied are substantially similar to being a director or promoter of or being concerned or taking part in the management of a body corporate; or
   (d)
   (e) a person has become of unsound mind,—
+(1A) The court may make an order under this section permanent or for a period longer than 10 years only in the most serious of cases for which an order may be made.
 (2) A person intending to apply for an order under this section must give not less than 10 days' notice of that intention to the person against whom the order is sought, and on the hearing of the application the last-mentioned person may appear and give evidence or call witnesses.
 (3) An application for an order under this section may be made by the Registrar, the FMA, the Official Assignee, or by the liquidator of the company, or by a person who is, or has been, a shareholder or creditor of the company.
 (3A) Subsection (3B) applies on the hearing of—
@@ -5729,7 +5958,7 @@ A person who acts as a director of a company in contravention of section 382 or 
   (f) that has entered into a compromise or arrangement with its creditors:
   (g) that is in voluntary administration under Part 15A.
 (2) This section also applies in relation to a company the liquidation of which has been completed whether or not the company has been removed from the New Zealand register.
-(3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 5 years after the date of the notice as is specified in the notice. Every notice shall be published in the Gazette.
+(3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice shall be published in the Gazette.
 (4) The power conferred by subsection (3) may be exercised in relation to—
   (a) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, a company in relation to which this section applies if the Registrar or the FMA is also satisfied that the manner in which the affairs of it were managed was wholly or partly responsible for the company being a company in relation to which this section applies; or
   (b) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, 2 or more companies to which this section applies, unless that person satisfies the Registrar or the FMA—
@@ -5811,7 +6040,7 @@ A person who acts in contravention of a notice under section 385 is personally l
 (1) The prohibitions in section 386A(1)(a) and (b) do not apply in respect of a phoenix company that has been known by a name or names that are the same as the failed company's pre-liquidation name or are similar names if—
   (a) it has been known by that name or those names for not less than the period of 12 months before liquidation commences; and
   (b) it has not been dormant during those 12 months.
-(2) For the purposes of subsection (1), a company has not been dormant during the 12-month period if transactions that are required by section 194(2) to be recorded in its accounting records have occurred throughout that period.
+(2) For the purposes of subsection (1), a company has not been dormant during the 12-month period if transactions that are required by section 194(1) to be recorded in its accounting records have occurred throughout that period.
 
 ## Part 22 — Miscellaneous
 
@@ -5955,6 +6184,7 @@ A reference in any enactment to a company incorporated under the Companies Act 1
 (2) The notice must state—
   (a) the nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
   (b) the text of any special resolution to be submitted to the meeting; and
+  (ba) the text of any resolution for the purposes of section 207I or 207J to be submitted to the meeting; and
   (c) in the case of special resolutions required by section 106(1)(a) or (b), the right of a shareholder under section 110.
 (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.
@@ -6355,3 +6585,22 @@ This Part amends the Companies Act 1993.
 
 ### 11 Application of amendments in Part 1
 The amendments in Part 1 do not apply to any special resolution passed under section 106(1) of the Companies Act 1993 before this Act comes into force.
+
+### 1 Title
+This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
+(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
+
+**Amendments to Companies Act 1993**
+
+### 23 Principal Act
+Sections 24 to 43 amend the Companies Act 1993 (the principal Act).
+
+### 44 Transitional provision
+(1) The Companies Act 1993, as amended by sections 24 to 43, applies to a company or an overseas company in relation to accounting periods that commence on or after the commencement of this section.
+(2) The Companies Act 1993 and the Financial Reporting Act 1993 (and the regulations and order referred to in section 54(2) and (3)), as in force before the commencement of this section, continue to apply to a company or an overseas company in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+(3) Unless the context otherwise requires, a reference to financial statements or group financial statements in the Companies Act 1993 (other than sections 200 to 207O) includes financial statements or group financial statements prepared under the Financial Reporting Act 1993 (whether under section 55 of the Financial Reporting Act 2013 or otherwise).
+(4) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
