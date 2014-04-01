@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -44,11 +44,15 @@ _Consolidation as at 2013-12-05_
     (a) a Board:
     (b) a local authority whose operations include an energy undertaking
   - **establishment plan** , in relation to an establishing authority, means the plan prepared by that establishing authority pursuant to section 18; and includes a revised establishment plan prepared pursuant to section 27
+  - **financial statements** , in relation to an energy company, means—
+    (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the energy company and its subsidiaries; or
+    (b) if the energy company does not have any subsidiaries, financial statements within the meaning of section 6 of the Financial Reporting Act 2013 for the energy company
   - **gas** has the same meaning as it has in section 2 of the Gas Act 1992
   - **gas undertaking** , in relation to a local authority, means the undertaking of that local authority as it relates to the manufacture, extraction, storage, processing, treatment, distribution, or supply of gas; and includes—
     (a) the sale or supply of equipment or appliances that consume gas; and
     (b) the sale or supply of services in relation to equipment or appliances that consume gas; and
     (c) all the assets of the local authority used for or in connection with the gas undertaking of that local authority, including all land, buildings, works, machinery, mains, apparatus, fittings, appliances, stocks, by-products, contracts, and every other property, right, or interest, whether real or personal and whether legal or equitable, that is an asset of that gas undertaking
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Inland Revenue Acts** means the Acts specified in the Schedule of the Tax Administration Act 1994
   - **instrument** includes—
     (a) any instrument (other than an enactment) of any form or kind that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy thereof were lodged, filed, or registered under any enactment; and
@@ -388,40 +392,29 @@ A failure by an energy company to comply with—shall not affect the validity or
   (a) any provision of sections 36 to 41; or
   (b) any provision contained in any statement of corporate intent—
 
-### 44 Reports and accounts
+### 44 Reports and financial statements
 (1) Within 3 months after the end of the first half of each financial year of an energy company, the directorate of the energy company shall deliver to the shareholders a report of the company's operations during that half-year.
 (2) Each report required by subsection (1) shall include the information required by the statement of corporate intent to be included therein.
 (3) Within 3 months after the end of each financial year of an energy company, the directorate shall deliver to the shareholders—
   (a) a report of the operations of the energy company and those of its subsidiaries (if any) during the financial year; and
-  (b) audited consolidated financial statements for that financial year in respect of the energy company and its subsidiaries (if any); and
+  (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on—
     (i) those financial statements; and
     (ii) the performance targets and other measures by which performance has been judged in relation to the objectives.
 (4) Every report under subsection (3)(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the energy company and its subsidiaries (if any), including a comparison of the performance of the energy company and its subsidiaries (if any) with any relevant statement of corporate intent; and
   (b) state the maximum dividend (if any) recommended to be payable by the energy company in respect of its equity securities (other than fixed interest securities) for the financial year to which the report relates.
-(5) The audited consolidated financial statements under subsection (3)(b) shall consist of—
-  (a) a statement of financial position; and
-  (b) a statement of financial performance; and
-  (c) an overall operating statement; and
-  (d) 1 operating statement in respect of each significant activity; and
-  (e) a statement of cash flows; and
-  (f) the details of all transactions that, during the financial year, were entered into between the energy company or any of its subsidiaries and—
-    (i) any local authority that is a shareholder in the energy company or any of its subsidiaries:
-    (ii) every company that, in relation to the energy company or any of its subsidiaries, is a related company (as defined in subsections (5) and (6) of section 2 of the Companies Act 1955 or subsections (3) and (4) of section 2 of the Companies Act 1993, as the case may be):
-    (iii) every company in relation to which the energy company, or any of its subsidiaries, is a related company (as so defined):
-    (iv) every company that, in relation to any local authority that is a shareholder in the energy company or any of its subsidiaries, would be a related company (as so defined) if that local authority were a company; and
-  (g) such other statements as may be necessary to fairly reflect the financial position of the energy company and its subsidiaries (if any), the resources available to them, and the financial results of their operations.
+(5)
 (6) If, at any time, section 39 does not apply or ceases to apply in respect of any energy company, the company shall not be required or, as the case may be, shall no longer be required to comply with this section, and, notwithstanding any subsequent change in the shareholding of the energy company, this section shall have no or, as the case may be, no further application to that company at any time.
 
 ### 45 Auditor-General to be auditor of energy companies and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993 and subject to subsection (3), every energy company and every subsidiary of every energy company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(1) Despite sections 207P to 207V of the Companies Act 1993 and subject to subsection (3), every energy company and every subsidiary of every energy company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) Without limiting the provisions of this section, the directors of an energy company may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the energy company or any subsidiary of it.
 (3) If an energy company is not a public energy company,—
   (a) the company is not a public entity under subsection (1); and
   (b) the Auditor-General is not the auditor of the company; and
-  (c) the directors of the company and of every subsidiary of the company must appoint an auditor or auditors of the company and of every subsidiary of the company and, where such appointment is made consequent on the Auditor-General ceasing to be the auditor of the energy company, every such appointment must be treated as having been made by the directors to fill a casual vacancy in the office of auditor under section 196(4) of the Companies Act 1993.
-(4) Despite subsection (3), if, in respect of any energy company that has ceased to be a public energy company, and its subsidiaries (if any), consolidated financial statements have been submitted to the Auditor-General for audit, the Auditor-General is to continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
+  (c) the directors of the company and of every subsidiary of the company must appoint an auditor or auditors of the company and of every subsidiary of the company and, where such appointment is made consequent on the Auditor-General ceasing to be the auditor of the energy company, every such appointment must be treated as having been made by the directors to fill a casual vacancy in the office of auditor under section 207R(3) of the Companies Act 1993.
+(4) Despite subsection (3), if, in respect of any energy company that has ceased to be a public energy company, and its subsidiaries (if any), financial statements have been submitted to the Auditor-General for audit, the Auditor-General is to continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
 (5) In this section, public energy company means an energy company in which a controlling interest is held by any local authority or local authorities, or any approved person or approved persons, or any combination of 1 or more local authorities and 1 or more approved persons.
 
 ### 46 Protection from disclosure of sensitive information
@@ -437,7 +430,7 @@ Nothing in this Act shall be construed as requiring the inclusion, in any statem
   (d) the approved person shall make available to the public—and section 85 shall apply accordingly with all necessary modifications.
     (i) the auditor's report prepared under paragraph (c); and
     (ii) the statement of financial position and account to which the report relates,—
-(2) In this section, the term auditor means a person who is qualified for appointment as auditor of a company under the Companies Act 1955.
+(2) In this section, auditor means a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013.
 (3) Nothing in this section limits any other enactment or rule of law relating to the maintenance and auditing of the accounts of an approved person.
 (4) This section is subject to section 104 of the Electricity Industry Act 2010.
 
