@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2013-02-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -321,17 +321,13 @@ For any of the purposes of this Act, each Board may, from time to time,—
 (1) After an accounting period ends, a Board must prepare an annual report on the Board's affairs during the accounting period.
 (2) The annual report for an accounting period must be prepared at least 1 month before the day on which the hui to present the report is to be held under section 23C.
 (3) The annual report must include—
-  (a) the following financial statements for the Board for the accounting period:
-    (i) a statement of financial position as at the balance date; and
-    (ii) an income and expenditure statement; and
-    (iii) a statement of cash flows, if required by an applicable financial reporting standard; and
-    (iv) any notes or documents giving information relating to the statements; and
+  (a) financial statements for the Board for the accounting period; and
   (b) the auditor's report on the financial statements.
 (4) The financial statements must comply with generally accepted accounting practice.
 (5) The financial statements and the annual report must be dated and signed on behalf of the Board by 2 members and the Secretary of the Board.
 (6) In this section,—
-  - **applicable financial reporting standard** has the meaning given by section 2(1) of the Financial Reporting Act 1993 as if a Board were a reporting entity under that Act
-  - **generally accepted accounting practice** has the meaning given by section 3 of the Financial Reporting Act 1993 as if a Board were a reporting entity under that Act.
+  - **financial statements** has the meaning given by section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the meaning given by section 8 of the Financial Reporting Act 2013.
 
 ### 31A Annual budget
 Before the start of an accounting period, a Board must prepare a budget for the accounting period that states the Board's expected income and expenditure for the period.
@@ -340,9 +336,8 @@ Before the start of an accounting period, a Board must prepare a budget for the 
 (1) A Board must—
   (a) have its annual financial statements audited; and
   (b) obtain the auditor's report on the financial statements.
-(2) The auditor must be—
-  (a) a chartered accountant (as defined by section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-  (b) eligible to act as an auditor under section 199(1)(c) or (d) of the Companies Act 1993.
+(2) The auditor must be a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013.
+(3) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a Board).
 
 ### 32 Annual report and budget must be provided to Minister
 (1) A Board must provide copies of the following documents to the Minister for his or her information:
