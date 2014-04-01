@@ -1,5 +1,5 @@
 # Trustee Companies Management Act 1975
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to make special provision for the protection of persons who have beneficial interests, or interests as depositors or contributors, in property or funds administered by trustee companies and their associated companies to which this Act is applied, and for matters incidental thereto
 
@@ -176,7 +176,7 @@ If it appears to the board of any trustee company or associated company to which
 (4) Nothing in the Companies Act 1993 requires the board of a trustee company or an associated company to which this Act applies to file any annual or other return under that Act in respect of that company.
 
 ### 24A Application of Financial Reporting Act 1993
-The Financial Reporting Act 1993 shall not apply to any trustee company or associated company to which this Act applies.
+[Repealed]
 
 ### 25 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
