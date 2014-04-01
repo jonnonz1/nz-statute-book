@@ -1,5 +1,5 @@
 # Taratahi Agricultural Training Centre (Wairarapa) Act 1969
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to make provision for the control and management of the Taratahi Agricultural Training Centre (Wairarapa) and for matters incidental thereto
 
@@ -19,6 +19,8 @@ And whereas it is desirable that for this purpose the committee of trustees be i
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the responsible Minister
   - **training centre** means the Taratahi Agricultural Training Centre (Wairarapa) comprising the lands described in the Schedule
   - **trust board** means the Taratahi Agricultural Training Centre (Wairarapa) Trust Board established by this Act
@@ -114,10 +116,24 @@ Except with the prior consent of the Minister, the trust board shall not sell, e
 (1) All money belonging to the trust board shall, within 7 days after it has been received by the proper officer of the board, be paid into the account of the board at such bank as the board from time to time appoints.
 (2) No money shall be withdrawn from the bank except by authority of the trust board and by cheque signed and countersigned by at least 2 persons whom the board from time to time appoints for that purpose.
 
-### 14 Accounts
-(1) The trust board shall at all times keep full and correct records and accounts of all its financial transactions, assets, liabilities, and funds.
-(2) The accounts shall be audited by the Auditor-General.
-(3) The trust board shall, not later than 3 months after the end of every financial year ending with 31 December, cause its accounts for that year to be balanced, and full and true accounts of its funds, income, and expenditure for that year, with a statement of financial position at the end of that year, to be prepared and submitted to the Auditor-General.
+### 14 Accounting records must be kept
+(1) The trust board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the trust board; and
+  (b) will enable the trust board to ensure that the financial statements of the trust board comply with this Act; and
+  (c) will enable the financial statements of the trust board to be readily and properly audited.
+(2) The trust board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 14A Financial statements must be prepared
+The trust board must ensure that, within 3 months after the end of the financial year ending on 31 December, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the trust board and that financial year; and
+  (b) dated and signed on behalf of the trust board by 2 members of the trust board.
+
+### 14B Financial statements must be audited
+(1) The trust board must ensure that the financial statements of the trust board are audited.
+(2) The trust board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 15 Exemption from land tax and income tax
 The trust board is hereby declared to be exempt from the payment of land tax and income tax.
@@ -126,6 +142,6 @@ The trust board is hereby declared to be exempt from the payment of land tax and
 No member of the trust board shall be personally liable for any act done or omitted by the board or by any member thereof in good faith in the course of the operations of the board.
 
 ### 17 Annual report
-The trust board shall furnish to the Minister a report of its operations during each year ending with 31 December, together with a copy of its statement of financial performance for that year and statement of financial position at the end of that year certified by the Auditor-General, as soon as practicable after the end of that year.
+The trust board must provide to the Minister a report of its operations during each year ending on 31 December, a copy of its financial statements for that year, and a copy of the audit report on those statements, as soon as practicable after the end of that year.
 
 ## Schedule Schedule — Lands comprising the Taratahi Agricultural Training Centre (Wairarapa)
