@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1613,7 +1613,7 @@ The Registrar may, on the application of a mortgagee or other person who is requ
 ### 166 Persons entitled to inspect reports
 A person to whom a report must be sent on request under section 165 is entitled to inspect the report during normal business hours at—
   (a) the mortgagee’s registered office, residence, or address notified under section 156(2)(d); or
-  (b) at any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
+  (b) any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
 
 ### 167 Duty to notify breaches of other Acts
 (1) This section applies if—
@@ -1622,7 +1622,7 @@ A person to whom a report must be sent on request under section 165 is entitled 
     (i) the Crimes Act 1961; or
     (ii) the Securities Act 1978; or
     (iii) the Companies Act 1993; or
-    (iv) the Financial Reporting Act 1993; or
+    (iv)
     (v) the Takeovers Act 1993.
 (2) The mortgagee or other person who is required to prepare a report under section 162 or 163 must report the fact referred to in subsection (1)(b) to the Registrar.
 (3) A report made under subsection (2), and any communications between the mortgagee or other person and the Registrar relating to that report, are protected by absolute privilege.
@@ -1895,7 +1895,7 @@ The Registrar may, at any time before the sale, consent to the correction of any
 (1) A vendor mortgagee who applies for a sale under section 187 must pay to the Registrar—
   (a) the prescribed fee payable on the making of the application; and
   (b) the reasonable expenses of, and incidental to, the conduct of the sale (whether or not the land is in fact sold); and
-  (c) if the land is sold, a further fee of one-quarter of 1% of the purchase money, but the further fee must not be less than the minimum fee, and not more than the maximum fee, prescribed for the purposes of this paragraph.
+  (c) if the land is sold, a further fee of 0.25% of the purchase money, but the further fee must not be less than the minimum fee, and not more than the maximum fee, prescribed for the purposes of this paragraph.
 (2) In subsection (1)(c), purchase money includes, in the case of a sale subject to any mortgage or other encumbrance having priority over the vendor mortgagee’s mortgage, the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority at the time of the sale.
 
 ### 195 Current mortgagor or other person may redeem on payment of nominated discharge sum
@@ -2458,7 +2458,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
 (1) An order of a court granting relief against the cancellation, or proposed cancellation, of a lease may be registered as an instrument under—
   (a) the Land Transfer Act 1952; or
   (b) the Deeds Registration Act 1908.
-(2) On and after the making of the order—
+(2) On and after the making of the order,—
   (a) the lessee and any sublessee continue to hold the land under the terms of the lease, without any need for a new lease or sublease to be entered into; and
   (b) any right or interest deriving from any sublease is reinstated.
 (3) Subsection (2) is subject to subsection (4), but otherwise applies despite anything to the contrary in section 121 of the Land Transfer Act 1952.
@@ -3564,7 +3564,7 @@ Until the commencement of section 13 of the Insolvency (Cross-border) Act 2006, 
 
 ## Schedule 1 — Form of certificate of non-revocation of power of attorney
 
-| *Delete if inapplicable.**If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.***Include if donor is a body corporate. |
+| *Delete if inapplicable.†If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.‡Include if donor is a body corporate. |
 | --- |
 
 ## Schedule 2 — Covenants implied in mortgages
@@ -4027,7 +4027,7 @@ The owners and occupiers of the land for the benefit of which, and the land over
 A conveyance of land without words of limitation passes the fee simple or other whole estate that the party conveying has power to dispose of.
 
 ### 3 Form of conveyance in fee simple
-(1) A deed in, or to the effect of, the following form passes title to, and possession of, land:Deed of ConveyanceThis deed, made on [insert date], between [name of conveying party] of [place of residence], [occupation], the conveying party and [name of assignee] of [place of residence], [occupation], the assignee[Recitals, if any,]: [Now this deed]witnesses that, in consideration of the sum of [amount] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land [insert description of land]: as shown on the plan drawn on this conveyance and coloured [insert description of colour used].Signed at, thisday of [month], [year][signature][name of conveying party]Signed by [name of conveying party] in the presence of:[signature of witness][place of residence][occupation]
+(1) A deed in, or to the effect of, the following form passes title to, and possession of, land:Deed of ConveyanceThis deed, made on [date], between [name of conveying party] of [place of residence], [occupation], the conveying party and [name of assignee] of [place of residence], [occupation], the assignee[Recitals, if any,]: [Now this deed]witnesses that, in consideration of the sum of [amount] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land [description of land]: as shown on the plan drawn on this conveyance and coloured [description of colour used].Signed at [place, date][signature][name of conveying party]Signed by [name of conveying party] in the presence of:[signature of witness][place of residence][occupation]
 (2) The description of the land must—
   (a) refer to the marks and numbers in the Surveyor-General’s map or other official record map; and
   (b) describe particularly the situation, boundaries, and measurements; and
@@ -4067,7 +4067,7 @@ A conveyance of land without words of limitation passes the fee simple or other 
   - **grantee** includes the grantee’s assigns.
 
 ### 8 Form of mortgage
-(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:Mortgage of Land(a)Mortgagor: [full name, place of residence, and occupation of mortgagor or mortgagors](b)Estate: [“freehold in fee simple” or “leasehold”, as the case may be](c)Land: [full description, with plan, of the land to be mortgaged](d)Mortgagee: [full name, place of residence, and occupation of mortgagee or mortgagees](e)Principal sum: [amount](f)Date of advance: [date](g)Rate of interest: [rate (if any) agreed upon](h)How interest payable: [“yearly”, “half-yearly”, “quarterly”, and date or dates for payment, or otherwise, as the case may be](i)How and when principal sum to be repaid: [date and mode of payment agreed upon].And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.Signed at, thisday of [month], [year][signature or signatures]Mortgagor [or Mortgagors]Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:[signature of witness][place of residence][occupation]
+(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:Mortgage of Land(a)Mortgagor: [full name, place of residence, and occupation of mortgagor or mortgagors](b)Estate: [“freehold in fee simple” or “leasehold”, as the case may be](c)Land: [full description, with plan, of the land to be mortgaged](d)Mortgagee: [full name, place of residence, and occupation of mortgagee or mortgagees](e)Principal sum: [amount](f)Date of advance: [date](g)Rate of interest: [rate (if any) agreed upon](h)How interest payable: [“yearly”, “half-yearly”, “quarterly”, and date or dates for payment, or otherwise, as the case may be](i)How and when principal sum to be repaid: [date and mode of payment agreed upon].And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.Signed at [place, date][signature or signatures]Mortgagor [or Mortgagors]Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:[signature of witness][place of residence][occupation]
 (2) A mortgage in the form set out in subclause (1)—
   (a) is to be treated as a charge on the land; and
   (b) may be registered accordingly.
