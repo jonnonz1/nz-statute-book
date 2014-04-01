@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -13,6 +13,10 @@ In this Act, unless the context otherwise requires,—
   - **constitution** , in relation to a Crown Research Institute, means the constitution of the Crown Research Institute under section 29 of the Companies Act 1993
   - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
   - **Crown Research Institute** means a company established as a Crown Research Institute under section 11
+  - **financial statements** , in relation to a Crown Research Institute, means—
+    (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the Crown Research Institute and its Crown entity subsidiaries; or
+    (b) if the Crown Research Institute does not have any Crown entity subsidiaries, financial statements within the meaning of section 6 of the Financial Reporting Act 2013 for the Crown Research Institute
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **multi-parent subsidiary** has the same meaning as in section 10 of the Crown Entities Act 2004
   - **parent Crown Research Institute** has the same meaning as in section 8 of the Crown Entities Act 2004, with any necessary modifications
   - **research** means scientific research; and includes scientific development and related services
@@ -153,10 +157,10 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
   (a) be in writing, be dated, and be signed on behalf of the board by 2 directors:
   (b) be published as soon as practicable after it has been presented to the House of Representatives under section 19.
 
-### 17 Annual report, accounts, and dividend
+### 17 Annual report, financial statements, and dividend
 (1) Within 3 months after the end of each financial year of a Crown Research Institute, the board of the Crown Research Institute shall deliver to the shareholding Ministers—
   (a) a report of the operations of the Crown Research Institute and those of its Crown entity subsidiaries (if any) during that financial year; and
-  (b) audited consolidated financial statements for that financial year consisting of statements of financial position, profit and loss, changes in financial position, and such other statements as may be necessary to show the financial position of the Crown Research Institute and its Crown entity subsidiaries and the financial results of their operations during the financial year; and
+  (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on those financial statements; and
   (d) a statement of responsibility for the financial statements that, with any necessary modifications, complies with section 155 of the Crown Entities Act 2004.
 (2) Every report under subsection (1)(a) shall—
@@ -192,7 +196,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 (6) No member of a board of a Crown Research Institute and no officer or employee of a Crown Research Institute who acts in accordance with a request or direction under this section is liable to any person under any other enactment or rule of law by reason of acting in accordance with that request or direction.
 
 ### 21 Auditor-General to be auditor of Crown Research Institutes and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993, every Crown Research Institute and every Crown entity subsidiary of every Crown Research Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(1) Despite sections 207P to 207V of the Companies Act 1993, every Crown Research Institute and every Crown entity subsidiary of every Crown Research Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) Without limiting subsection (1), the board of a Crown Research Institute may, after consultation with the Auditor-General and with the approval of the Minister, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the Crown Research Institute or any Crown entity subsidiary of the Crown Research Institute.
 
 ### 22 Protection from disclosure of sensitive information
