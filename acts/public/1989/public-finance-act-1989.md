@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2014-03-07_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -111,11 +111,7 @@ _Consolidation as at 2014-03-07_
     (c) a forecast statement of cash flows; and
     (d) any other forecast financial statement required by generally accepted accounting practice; and
     (e) any other forecast financial statement required for a reporting entity by any regulations made, or instructions issued, under this or any other Act
-  - **generally accepted accounting practice** means—
-    (a) financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) so far as those standards apply to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be:
-    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that—
-      (i) are appropriate in relation to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be; and
-      (ii) have authoritative support within the accounting profession in New Zealand
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Government** means the Executive Government of New Zealand
   - **Government reporting entity** means—
     (a) the Sovereign in right of New Zealand; and
