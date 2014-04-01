@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -16,11 +16,13 @@ This Act is the Financial Advisers Act 2008.
   (a)
   (b)
   (c)
-(2) To this end, the Act—
+(1A) That purpose is additional to the purposes of the Financial Markets Conduct Act 2013 set out in sections 3 and 4 of that Act (and those purposes apply to this Act also).
+(2) To those ends, this Act (without limitation)—
   (a) requires financial advisers and brokers to take an appropriate degree of care in providing services to investors and consumers and prohibits certain conduct by financial advisers and brokers; and
   (b) in addition,—
     (i) requires disclosure by financial advisers and brokers to retail clients, so ensuring that clients can make informed decisions about whether to use the financial adviser or broker and, in the case of an adviser, whether to follow a financial adviser's advice; and
     (ii) imposes competency requirements on certain financial advisers who deal with retail clients, so ensuring that there are available to retail clients financial advisers who have the experience, expertise, and integrity to match effectively a person to a financial product that best meets that person's need and risk profile; and
+    (iia) ensures that appropriate governance arrangements apply to services to allow for effective monitoring and reduce governance risks; and
     (iii) ensures that financial advisers are held accountable for the services that they give to retail clients and that there are incentives for financial advisers to manage conflicts of interest appropriately.
 
 ### 4 Overview of Act
@@ -213,7 +215,7 @@ In this Act, unless the context otherwise requires,—
 ### 5A Who are clients
 (1) For the purposes of this Act, a client—
   (a) means a person who receives a service (whether or not on payment of a charge); and
-  (b) in relation to a broking service, means the person on whose behalf the financial product is acquired or disposed of or the client money or client property is held (but excludes the product provider); but
+  (b) in relation to a broking service, means the person on whose behalf the client money or client property is received, held, paid, or transferred under the service (but excludes the product provider); but
   (c) does not include a person who receives any service from another person if the service is both provided and received in the course of, and for the purposes of,—ExampleIf a company employee (A) gives financial advice to the board of directors on investments to be made by the company, the directors are not clients of A. However, if A, in the course of business, gives that same financial advice to another employee (B) in relation to B's own investments, B would be a client of A for the purposes of this Act.
     (i) the same business; or
     (ii) the businesses of related bodies corporate; or
@@ -1055,8 +1057,17 @@ The FMA must not take any of the actions specified in section 75D(2) unless it h
 (2) See section 77U for how the Act's requirements apply in the case of a person who provides a broking service on behalf of another person's business.
 
 ### 77B What is broking service
-(1) A broking service is the receipt, holding, payment, or transfer of client money or client property by a person acting as an intermediary for a client.
-(2) A person acts as an intermediary if the person does not receive, hold, pay, or transfer the money or property on the person's own account.
+(1) A broking service—
+  (a) is the receipt of client money or client property by a person and the holding, payment, or transfer of that client money or client property; and
+  (b) includes the holding of client money or client property by a person (A) in trust for, or on behalf of, a client (C), or another person nominated by C, under an arrangement between A and C or between A and another person with whom C has an arrangement (whether or not there are also other parties to any such arrangement).
+(2) In this Act,—
+  - **client money** means money—
+    (a) received in connection with acquiring, holding, or disposing of a financial product or otherwise in connection with a financial product; and
+    (b) received from, or on account of, a client by a person (A) (and not on A's own account)
+  - **client property** means property (other than money) to which the following applies:
+    (a) the property is a financial product, is a beneficial interest in a financial product, or is received in connection with a financial product; and
+    (b) the property is received from, or on account of, the client by a person (A) (and not on A's own account)
+  - **custodial service** means the type of broking service referred to in subsection (1)(b).
 (3) The mere transmission of a non-transferable instrument payable to another person is not a broking service.
 
 ### 77C Other exemptions
@@ -1096,7 +1107,7 @@ A broker must disclose prescribed information to a retail client, in accordance 
     (ii) disciplinary proceedings:
     (iii) adverse findings by a court or the FMA:
     (iv) bankruptcy or other insolvency proceedings:
-  (g) procedures for handling client money or client property:
+  (g) information relating to the broking service provided:
   (h) indemnity insurance.
 (2) Regulations for the purposes of this section may provide for the form that the disclosure must take.
 
@@ -1121,7 +1132,9 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
 (1) A conduct obligation under this Part is an obligation under sections 77K to 77T.
 (2) The conduct obligations in sections 77K to 77O apply to all broking services.
 (3) The conduct obligations in sections 77P to 77T—
-  (a) apply only to broking services provided for a retail client; and
+  (a) apply to broking services provided to a retail client; and
+  (ab) apply to custodial and other broking services provided to every investor under a retail service of a DIMS licensee (as provided by section 446 of the Financial Markets Conduct Act 2013); and
+  (ac) otherwise apply to broking services provided to a wholesale client only if provided by the regulations; and
   (b) do not apply to a broker within the meaning of the Insurance Intermediaries Act 1994 in relation to any money to which section 14 or 15 of that Act applies.
 
 ### 77K Broker must exercise care, diligence, and skill
@@ -1139,8 +1152,7 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
 (2) Contravention of this section may give rise to an offence (see section 119).
 
 ### 77N Restriction on use of term sharebroker
-(1) In any advertising or promotional material, the term sharebroker must not be used in connection with a person unless the person, or the person's employer, is a member of a registered exchange.
-(2) Contravention of this section may give rise to an offence (see section 120).
+[Repealed]
 
 ### 77O Broker must not receive client money if offer for subscription illegal
 (1) A broker (A) must not receive client money or client property from a person for the acquisition of securities if—
@@ -1149,35 +1161,46 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
   (c) A knows or ought to know that, when the securities were or are offered for subscription, the offer was or is illegal.
 (2) Contravention of this section may give rise to an offence (see section 134B).
 
-**Trust accounting obligations for services for retail clients**
+**Obligations for handling client money and client property**
 
-### 77P Broker must pay client money into separate trust account
-(1) A broker who receives client money or client property, in his, her, or its capacity as a broker for a retail client,—
+### 77P Broker must pay client money into separate trust account and hold client property on trust
+(1) A broker who receives client money or client property, in his, her, or its capacity as a broker for a client,—
   (a) must hold the client money or client property, or ensure the client money or client property is held, on trust for the client; and
-  (b) must ensure that the client money is paid promptly into a bank in New Zealand (or into any other prescribed entity) to a trust account of the broker or of a related person or entity specified in the regulations.
+  (b) must ensure that the client money is paid promptly into a bank in New Zealand (or into any other prescribed entity) to—
+    (i) a trust account of the broker or of a related person or entity specified in the regulations; or
+    (ii) (if section 44 of this Act or section 445 of the Financial Markets Conduct Act 2013 applies) a trust account of a person permitted to hold the money under that section.
+(1B) A broker must comply with any prescribed duties and other requirements in relation to the client money and client property held on trust under this section.
 (2) Contravention of this section may give rise to an offence (see section 134C).
 
 ### 77Q Broker must account for client money and client property
-(1) A broker who receives or holds client money and client property on trust for a retail client must account properly, or ensure that account is properly made, to the client for that client money or client property.
+(1) A broker who receives or holds client money and client property on trust for a client must account properly, or ensure that account is properly made, to the client for that client money or client property.
 (2) Contravention of this section may give rise to an offence (see section 134D).
 
 ### 77R Broker must keep records of client money and client property
-(1) A broker who receives or holds client money on trust for a retail client must keep, or ensure that there are kept, trust account records that disclose clearly the position of the client money in the trust account.
-(2) A broker who receives or holds client property on trust for a retail client must keep, or ensure that there are kept, records that—
+(1) A broker who receives or holds client money on trust for a client must keep, or ensure that there are kept, trust account records that disclose clearly the position of the client money in the trust account.
+(2) A broker who receives or holds client property on trust for a client must keep, or ensure that there are kept, records that—
   (a) identify the client property; and
   (b) show the date when the client property was received; and
-  (c) if the client property has been disposed of, show where the client property was disposed of and to whom.
-(3) A broker must keep the records required by this section, or ensure that they are kept, in a manner that enables those records to be conveniently and properly audited or inspected.
+  (c) if the client property has been disposed of, show when the client property was disposed of and to whom.
+(2A) The broker must also keep all other prescribed records.
+(3) The broker must—
+  (a) keep the records required by this section, or ensure that they are kept, in a manner that enables those records to be conveniently and properly audited, reviewed, or inspected; and
+  (b) comply with the prescribed requirements (if any) relating to those records and their audit, review, or inspection.
 (4) Contravention of any of subsections (1) to (3) may give rise to an offence (see section 134E).
 
+### 77RA Broker must report on client money and client property
+(1) A broker must, in the prescribed circumstances, provide confirmation information to a client or other prescribed persons in respect of client money or client property received or held on behalf of the client.
+(2) The confirmation information must be provided in the prescribed manner.
+(3) In this section, confirmation information means the information relating to the client money or client property, or transactions relating to it, that is prescribed.
+
 ### 77S Restrictions on use of client money and client property
-(1) A person must not use or apply client money or client property received or held on trust for a retail client by a broker in any way except—
+(1) A person must not use or apply client money or client property received or held on trust for a client by a broker in any way except—
   (a) as expressly directed by the client (either generally or specifically); or
   (b) in accordance with section 77P (which relates to payment of client money into a trust account).
 (2) Contravention of this section may give rise to an offence (see section 134F).
 
 ### 77T Protection of client money and client property held on trust
-(1) The client money or client property that is received or held by a broker on trust for a retail client—
+(1) The client money or client property that is received or held by a broker on trust for a client—
   (a) is not available for the payment of the debts of any other creditor of the broker; and
   (b) is not liable to be attached or taken in execution under the order or process of any court at the instance of another creditor of the broker.
 (2) Nothing in section 77S or this section takes away or affects any lawful lien or claim that a broker who holds client money or client property has against the client money or client property.
@@ -1511,9 +1534,7 @@ A person who knowingly or recklessly contravenes section 35(1) or section 77M co
   (b) in the case of an entity, not exceeding $300,000.
 
 ### 120 Offence of contravening restrictions on use of term sharebroker
-A person who knowingly or recklessly contravenes section 77N commits an offence and is liable on conviction to a fine,—
-  (a) in the case of an individual, not exceeding $10,000:
-  (b) in the case of an entity, not exceeding $50,000.
+[Repealed]
 
 **Offences: Authorised financial advisers only**
 
@@ -1594,7 +1615,7 @@ A person who contravenes section 77O commits an offence and is liable on convict
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
-### 134C Offence of contravening requirement to pay client money into separate trust account
+### 134C Offence of contravening requirement to pay client money into separate trust account and hold client property on trust
 A person who contravenes section 77P commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
@@ -1606,6 +1627,11 @@ A person who contravenes section 77Q commits an offence and is liable on convict
 
 ### 134E Offence in relation to records of client money and client property
 A person who contravenes any of section 77R(1) to (3) commits an offence and is liable on conviction to a fine,—
+  (a) in the case of an individual, not exceeding $5,000:
+  (b) in the case of an entity, not exceeding $25,000.
+
+### 134EA Offence of failing to report on client money and client property
+A person who contravenes section 77RA commits an offence and is liable on conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
@@ -1888,7 +1914,8 @@ On an appeal under this Part, the District Court may order any party to the appe
   (b) is made in response to an emergency; or
   (c) is necessary to comply with statutory or international obligations; or
   (d) is necessary to avoid an unfair commercial advantage being taken; or
-  (e) is necessary to avoid the defeat of the purpose of this Act.
+  (e) is necessary to avoid the defeat of the purpose of this Act; or
+  (f) is necessary or desirable in order to ensure timely and consistent implementation of changes to standard conditions for discretionary investment management services in connection with the commencement or implementation of the Financial Markets (Repeals and Amendments) Act 2013.
 (4) The notice in the Gazette need not set out the standard conditions, but those conditions must be—
   (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) made available in printed form for purchase on request by members of the public.
@@ -1998,14 +2025,20 @@ A standard condition, or a variation or revocation of a standard condition, that
   (e) defining investment-linked contract of insurance, land investment product, and cash or term portfolio investment entity:
   (f) providing for disclosure by financial advisers under sections 22 to 24 and for QFEs under section 25:
   (g) prescribing the form of disclosure that (in addition to the matters set out in subsection (2)) may include a maximum length of a form and that some or all of the information that must be disclosed must be included in 1 disclosure statement:
-  (h) specifying, for the purposes of section 55(1)(d), cases in which an authorisation under that paragraph may be granted:
+  (ga) prescribing the information that must be made available under section 29A, the time or events referred to in that section, and the manner of making the information available (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+  (gb) prescribing the matters that must be contained in a client agreement required for the purposes of section 41 and prescribing provisions to be implied in a client agreement (which may, without limitation, specify duties under the client agreement, including by supplementing, or adding to, any duties prescribed by this Act):
+  (gc) prescribing circumstances for the purposes of section 44:
+  (gd) prescribing eligibility criteria for authorisation for a service (including any preconditions or requirements that apply, or could be imposed by regulations, in relation to an application for a licence under subpart 2 of Part 6 of the Financial Markets Conduct Act 2013 if the service was a market service):
+  (h) specifying, for the purposes of section 55(1)(d), cases in which an authorisation under that paragraph may be granted and, for the purposes of section 55(1A), limits on the scope of discretionary investment management services (whether by funds under management, number of clients, nature of services, or other matters) that may be authorised under this Act:
   (i) providing for disclosure by brokers under sections 77E and 77F:
   (j) prescribing when, and subject to what terms and conditions, disclosure may be made in a joint disclosure document (whether by financial advisers or by brokers jointly, or by 1 or more persons in different capacities) and the form of a joint disclosure document:
   (k) prescribing requirements relating to class services provided to retail clients for the purposes of section 36:
   (l) prescribing the following matters in relation to Part 3A:
-    (i) the duties of brokers in relation to their trust accounts (including who may be a related person or entity for the purposes of section 77P and what entities are prescribed for the purposes of the trust account), and other provisions regulating their establishment and use:
-    (ii) provisions regulating the keeping, inspection, and audit of trust account records or other records in connection with the receipt, holding, payment, and transfer of client money and client property, and prescribing the duties in relation to those records:
-    (iii) any other requirements necessary or desirable to ensure that trust accounts are duly kept and that persons on whose behalf client money and client property are held by brokers are informed of the client money and client property held and of the transactions made in connection with it:
+    (i) that any or all of sections 77P to 77T to apply to wholesale clients and the extent to which and the circumstances in which they so apply:
+    (ia) the duties and obligations of brokers in relation to client money and client property, provisions specifying who may be a related person or entity for the purposes of section 77P and what entities are prescribed for the purposes of the trust account, and other provisions regulating the establishment and operation of the trust account and the receipt, handling, and application of client money and client property by a broker (including requirements relating to the investment of money that is held in trust and providing for how interest or other income from that investment is to be paid, retained, or otherwise dealt with):
+    (ii) provisions regulating the keeping, retention, reconciliation, inspection, and audit or review of trust account records and other records and procedures of brokers:
+    (iii) any other requirements necessary or desirable to ensure that trust accounts are duly kept and that persons on whose behalf client money and client property are held by brokers are informed of the client money and client property held and of the transactions made in connection with it (including prescribing what confirmation information must be made available and to whom, when, where, and how it must be provided, and any other matters for the purposes of section 77RA):
+    (iv) provisions regulating the delivery of client money or client property to the person on whose behalf they are held, and other steps to be taken or provisions to apply, in connection with the termination of any broking service:
   (m) prescribing the form of an application for authorisation:
   (n) prescribing the form of an application for the grant of QFE status:
   (o) prescribing information that must be contained in a QFE's annual report:
@@ -2017,10 +2050,10 @@ A standard condition, or a variation or revocation of a standard condition, that
 (2) In subsection (1), prescribing the form includes specifying additional content, means of communication, or any other requirement of form without necessarily specifying the use of a particular form.
 (3) Regulations for the purposes of subsection (1) may make different provision for different classes of financial adviser or broker, financial adviser service or broking service, and client, and for different circumstances in which a financial adviser service or broking service is provided.
 (4) The Minister must consult with the FMA before making a recommendation under subsection (1).
-(5) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that—
-  (a) the exemption is consistent with the purposes of the Act; and
-  (b) the costs of compliance with the provision or provisions to which the exemption relates would be unreasonable or not justified by the benefit of compliance; and
-  (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
+(5) The Minister must not recommend the making of regulations under subsection (1)(a) or (gc) unless the Minister is satisfied that—
+  (a) the regulations are consistent with the purposes of the Act; and
+  (b) the costs of compliance with the provision or provisions to which the regulations relate would be unreasonable or not justified by the benefit of compliance; and
+  (c) the extent of the exemption, or the extent to which requirements are disapplied, under the regulations is not broader than what is reasonably necessary to address the matters that gave rise to the regulations.
 (6) The Minister must not recommend the making of regulations under paragraph (r) or (s) of subsection (1) unless the Minister is satisfied that the regulations—
   (a) are necessary or desirable for the orderly implementation of this Act or the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
   (b) are consistent with the purposes of this Act or of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
