@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
