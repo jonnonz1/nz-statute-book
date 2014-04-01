@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2013-12-10_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -91,18 +91,19 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (b) in the case of an entity that does not have directors as such, any trustee, manager, or other person who acts in relation to that entity in the same or a similar fashion as a director would act were that entity a company incorporated in New Zealand under the Companies Act 1993
   - **document** has the same meaning as in section 4(1) of the Evidence Act 2006
   - **failing to maintain a solvency margin** , in relation to an insurer, means that the insurer is failing to comply with a condition of its licence imposed under section 21(2)(b) or (c)
-  - **financial statements** has the same meaning as in section 8 of the Financial Reporting Act 1993
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial strength rating** ,—
     (a) in relation to an insurer other than a Lloyd's underwriter, means a rating that indicates the ability of the insurer to meet its liabilities under contracts of insurance as they fall due:
     (b) in relation to a Lloyd's underwriter, means a rating obtained by Lloyd's that applies to the Lloyd's market
   - **fit and proper standard** means a fit and proper standard issued under section 36
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **governing body** means,—
     (a) in relation to a body corporate, the board of directors (or other persons or body exercising powers of management, however described) of the body corporate:
     (b) in relation to a partnership or other unincorporated body of persons, either—
       (i) the board of directors (or other persons or body exercising powers of management, however described) of the partnership or other unincorporated body of persons; or
       (ii) if there is no board or other persons or body as described in subparagraph (i), the partners of the partnership or members of the unincorporated body of persons
   - **Governor** means the Governor of the Bank appointed under the Reserve Bank of New Zealand Act 1989
-  - **group financial statements** has the same meaning as in section 9 of the Financial Reporting Act 1993
+  - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **health insurance** means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of section 5(1) of the Health Practitioners Competence Assurance Act 2003)
   - **holding entity** has the meaning set out in section 10(3)
   - **home jurisdiction** means,—
@@ -184,7 +185,9 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (e) otherwise reflects adversely on a person’s competence, diligence, judgement, honesty, or integrity
   - **solvency standard** means a standard issued under section 55
   - **statutory fund** means a statutory fund maintained under subpart 3 of Part 2
-  - **subsidiary** means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993
+  - **subsidiary** —
+    (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
+    (b) in section 81, includes any entity that is classified as a subsidiary in any applicable financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)
   - **voluntary administration** means voluntary administration under Part 15A of the Companies Act 1993
   - **voting right** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
   - **voting security** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
@@ -920,8 +923,8 @@ A licensed insurer commits an offence if it fails to comply with section 73 and 
 (5) A person appointed under subsection (1) or (2) may be an employee of the licensed insurer or engaged under a contract for services.
 
 ### 77 Review of actuarial information in, or used in the preparation of, financial statements
-(1) A licensed insurer must ensure that the actuarial information contained in, or used in the preparation of, the financial statements of the insurer and any group financial statements referred to in section 81(1) is reviewed by the appointed actuary.
-(2) The licensed insurer must take all practicable steps to ensure that the review is completed, and the report referred to in section 78 in respect of the review is prepared, before the date on which the relevant financial statements and group financial statements are required to be registered under the Financial Reporting Act 1993.
+(1) A licensed insurer must ensure that the actuarial information contained in, or used in the preparation of, the financial statements or group financial statements of the insurer referred to in section 81(1) is reviewed by the appointed actuary.
+(2) The licensed insurer must take all practicable steps to ensure that the review is completed, and the report referred to in section 78 in respect of the review is prepared, before the date on which the financial statements or group financial statements are required to be given to the Bank under section 81.
 (3) The review must be carried out in accordance with an applicable solvency standard.
 (4) For the purposes of this section and section 78, actuarial information means—
   (a) information relating to an insurer's calculations of premiums, claims, reserves, dividends, insurance and annuity rates, and technical provisions; and
@@ -943,8 +946,8 @@ The appointed actuary's report in respect of a review under section 77 must stat
   (h) in the case of a life insurer, whether, in the actuary's opinion and from an actuarial perspective, the life insurer is maintaining the solvency margins that apply in respect of its statutory funds under a condition imposed under section 21(2)(c) (as at the balance date of the insurer).
 
 ### 79 Provisions relating to auditor's report
-A licensed insurer must ensure that the auditor's report that is prepared under section 16 of the Financial Reporting Act 1993 is accompanied by the appointed actuary's report prepared under section 78 when—
-  (a) the auditor's report is delivered for registration under section 18 of that Act; and
+A licensed insurer must ensure that the auditor's report that is prepared in respect of the insurer's financial statements or group financial statements is accompanied by the appointed actuary's report prepared under section 78 when—
+  (a) the auditor's report is delivered for registration or lodgement under any enactment; and
   (b) the auditor's report is included in the insurer's annual report (in the case of an insurer that includes the auditor's report in its annual report).
 
 ### 80 Access to information
@@ -962,14 +965,14 @@ A licensed insurer must ensure that the auditor's report that is prepared under 
 **Supply of financial statements**
 
 ### 81 Financial statements and interim financial information must be given to Bank
-(1) A licensed insurer must ensure that, on or before the date on which the financial statements of the insurer and any group financial statements are required to be registered under the Financial Reporting Act 1993,—
+(1) A licensed insurer must ensure that, on or before the date on which the financial statements or group financial statements of the insurer are required to be registered or lodged under any Act,—
   (a) copies of those statements together with a copy of the auditor's report on those statements are given to the Bank; and
   (b) a copy of the appointed actuary's report prepared under section 78 in respect of those statements is given to the Bank.
 (2) A licensed insurer must, within 4 months after the end of the first half of each accounting period of the insurer,—
   (a) prepare interim financial information for that half-period that complies with subsection (3); and
   (b) ensure that copies of that information together with a copy of the auditor's report on the information (if any) are given—
     (i) to the Bank; and
-    (ii) for registration to the Registrar if this is required by the regulations.
+    (ii) for registration to the Registrar of Companies if this is required by the regulations.
 (3) The interim financial information must—
   (a) comply with—
     (i) generally accepted accounting practice; or
@@ -978,7 +981,7 @@ A licensed insurer must ensure that the auditor's report that is prepared under 
 (4) If subsection (3)(a)(i) applies, the interim financial information must be interim financial statements prepared in respect of—
   (a) the insurer if the insurer, at the end of the half-period, has no subsidiaries; or
   (b) a group comprising the insurer and its subsidiaries in any other case.
-(4A) In this section, generally accepted accounting practice, Registrar, and subsidiaries have the same meanings as in the Financial Reporting Act 1993.
+(4A)
 (5) This section is subject to any exemption under section 238(1)(a)(iii) in respect of any provision of this section.
 (6) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
@@ -2037,7 +2040,10 @@ If all or any part of any liability of a body corporate formed and registered un
 **Auditor, actuary, and annual financial statements and records**
 
 ### 192 Appointment of auditor and actuary
-(1) The statutory manager of a licensed insurer must appoint 1 or more persons (whether as individuals or as the members of any firm or firms) to be the auditor of the insurer, being a person or persons who are qualified for appointment as an auditor of a company under the Companies Act 1993 and who have been approved by the Bank.
+(1) The statutory manager of a licensed insurer must appoint 1 or more persons (whether as individuals or as the members of any firm or firms) to be the auditor of the insurer.
+(1A) The person or persons appointed to be the auditor under subsection (1) must be—
+  (a) licensed auditors (within the meaning of section 6(1) of the Auditor Regulation Act 2011); and
+  (b) approved by the Bank.
 (2) The statutory manager of a licensed insurer must appoint a person to be the appointed actuary of the insurer, being a person who has been approved by the Bank.
 (3) Every appointment must be for a term not exceeding 2 years, but any person appointed as auditor or actuary continues in office until a successor comes into office.
 (4) A person appointed as auditor or actuary is eligible for reappointment.
@@ -2544,7 +2550,9 @@ A person commits an offence if the person fails to comply with an order under se
     (ii) section 60; or
     (iii) any provision of section 81; or
     (iv) subpart 3 of Part 2:
-  (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)(da) of that Act:
+  (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being—
+    (i) an FMC reporting entity for the purposes of the Financial Markets Conduct Act 2013 by virtue of section 451(h) of that Act:
+    (ii) an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)(da) of that Act:
   (c) prescribing terms and conditions that an exemption under paragraph (a) or (b) is subject to.
 (2) If the terms and conditions of an exemption under subsection (1)(a) or (b) that are prescribed under subsection (1)(c) are not complied with by a person, the exemption does not apply to the person.
 (3) For the purposes of subsection (1),—
