@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -71,12 +71,12 @@ In this Act, unless the context otherwise requires,—
     (b) does not include—
       (i) the transfer of those assets by Te Ohu Kai Moana Trustee Limited; or
       (ii) distributions made under section 83(b) or section 95(b); or
-      (iii) grants of assistance made under section 35(1)(h)
+      (iii) grants of assistance made under section 35(1)﻿(h)
   - **annual catch entitlement** has the meaning given to it in section 2(1) of the Fisheries Act 1996
   - **Aotearoa Fisheries Limited** means the company established in accordance with section 60
   - **appointed day** means the day specified as the appointed day by the Governor-General by Order in Council made on the recommendation of the Minister at the request of the Treaty of Waitangi Fisheries Commission, being a day not later than 45 working days after the commencement of this Act
   - **asset-holding company** means a company—
-    (a) established as required by section 12(1)(d); and
+    (a) established as required by section 12(1)﻿(d); and
     (b) that complies with section 16(1) and (2); and
     (c) whose constitutional documents comply with the relevant requirements of sections 17 and 18
   - **beneficiary of the Deed of Settlement** means iwi and, through iwi, ultimately all Maori
@@ -157,12 +157,12 @@ In this Act, unless the context otherwise requires,—
   - **register of iwi members** means the register required by kaupapa 5 of Schedule 7
   - **registered coastline entitlement** means the proportion and equivalent number of quota shares for a particular stock that—
     (a) is determined by Te Ohu Kai Moana Trustee Limited under section 11; and
-    (b) is recorded in the iwi register by Te Ohu Kai Moana Trustee Limited under section 11(2)(b); and
+    (b) is recorded in the iwi register by Te Ohu Kai Moana Trustee Limited under section 11(2)﻿(b); and
     (c) represents the allocation, to a named iwi, of settlement quota for the stock, determined by coastline length under subpart 2 of Part 3
   - **representative Maori organisation** means an organisation specified in Schedule 5
   - **Rongomaiwahine** means the group that is a member of Ngati Kahungunu
   - **settlement assets** means—
-    (a) the assets transferred to Te Ohu Kai Moana Trustee Limited under section 194(1)(c) (including Aotearoa Fisheries Limited and all its assets); and
+    (a) the assets transferred to Te Ohu Kai Moana Trustee Limited under section 194(1)﻿(c) (including Aotearoa Fisheries Limited and all its assets); and
     (b) any further quota shares allocated to Te Ohu Kai Moana Trustee Limited under section 44 of the Fisheries Act 1996; and
     (c) any New Zealand units allocated to Te Ohu Kai Moana Trustee Limited under the fishing allocation plan issued under the Climate Change Response Act 2002
   - **settlement quota** means quota shares that have a settlement quota interest registered against them
@@ -221,7 +221,7 @@ This Act binds the Crown.
   (c) in freshwater, must be classified as freshwater.
 (2) For each stock, if any commercial catch was taken during the 5 fishing years prior to the declaration referred to in section 7(1) in any of the harbours listed in Schedule 2, Te Ohu Kai Moana Trustee Limited must determine a harbour quota.
 (3) In relation to each harbour listed in Schedule 2, the proportion of the available settlement quota that is to be classified as harbour quota for each stock must be the proportion of the total commercial catch of that stock taken in that harbour in the fishing year with the highest commercial catch in that harbour during the 5 fishing years prior to the declaration referred to in section 7(1).
-(4) Harbour quota is calculated under subsection (3) in accordance with the following formula:Harbour quota for the listed harbour = a× cbwhere—ais the highest commercial catch of a stock in a listed harbour in a fishing year during the 5 fishing years prior to the declaration referred to in section 7(1)bis the total commercial catch of that stock in that yearcis the available settlement quota.
+(4) Harbour quota is calculated under subsection (3) in accordance with the following formula: Harbour quota for the listed harbour = a× cbwhere—ais the highest commercial catch of a stock in a listed harbour in a fishing year during the 5 fishing years prior to the declaration referred to in section 7(1)bis the total commercial catch of that stock in that yearcis the available settlement quota.
 
 ### 9 Alternative basis for classification of new quota
 (1) This section applies when Te Ohu Kai Moana Trustee Limited is unable to classify a stock under section 8.
@@ -274,7 +274,7 @@ This Act binds the Crown.
     (i) is wholly owned by the mandated iwi organisation; and
     (ii) performs the functions and complies with the requirements set out in sections 16 to 18.
 (2) A mandated iwi organisation may—
-  (a) directly receive and hold, on behalf of its iwi, settlement assets allocated and grants made to that iwi by Te Ohu Kai Moana Trustee Limited, other than assets referred to in section 16(1)(c):
+  (a) directly receive and hold, on behalf of its iwi, settlement assets allocated and grants made to that iwi by Te Ohu Kai Moana Trustee Limited, other than assets referred to in section 16(1)﻿(c):
   (b) receive distributions from Te Putea Whakatupu Trustee Limited and Te Wai Maori Trustee Limited, as provided for under subparts 4 and 5 of Part 2:
   (c) if relevant, enter into agreements with other mandated iwi organisations in relation to—
     (i) coastline claims under section 11:
@@ -304,12 +304,12 @@ Te Ohu Kai Moana Trustee Limited must, if requested, recognise an iwi governance
   (a) it has been approved as a governance entity of the iwi for the purposes of the settlement of the historical Treaty of Waitangi claims of that iwi, as perfected through the enactment of legislation; and
   (b) it represents an iwi listed in Schedule 3; and
   (c) it complies with section 14(a); and
-  (d) it has established 1 or more asset-holding companies as required by section 12(1)(d); and
+  (d) it has established 1 or more asset-holding companies as required by section 12(1)﻿(d); and
   (e) it has directors, trustees, or office holders, as the case may be, who are elected in a manner that complies with the kaupapa of Schedule 7; and
   (f) it has a dispute resolution mechanism that complies with kaupapa 8 of Schedule 7.
 
 ### 16 Functions and powers of asset-holding companies
-(1) An asset-holding company required by section 12(1)(d) must—
+(1) An asset-holding company required by section 12(1)﻿(d) must—
   (a) be and remain wholly owned by the mandated iwi organisation that established the company; and
   (b) have constitutional documents that comply with section 17; and
   (c) receive and hold, on behalf of the mandated iwi organisation that owns the company, for so long as they are to be retained, all settlement quota and income shares allocated by Te Ohu Kai Moana Trustee Limited to, or otherwise acquired by, the iwi under this Act; and
@@ -320,10 +320,10 @@ Te Ohu Kai Moana Trustee Limited must, if requested, recognise an iwi governance
   (b) in its function of receiving and holding settlement quota and income shares, is bound by all the requirements specified for mandated iwi organisations in relation to those matters.
 (3) An asset-holding company may—
   (a) establish 1 or more subsidiaries to be its subsidiary asset-holding companies; and
-  (b) transfer to a subsidiary some or all of the assets received under subsection (1)(c).
-(4) A subsidiary established under subsection (3)(a) must—
+  (b) transfer to a subsidiary some or all of the assets received under subsection (1)﻿(c).
+(4) A subsidiary established under subsection (3)﻿(a) must—
   (a) be and remain wholly owned by the asset-holding company that established it, and
-  (b) receive and hold, on behalf of the asset-holding company, settlement quota and income shares transferred to it by the asset-holding company under subsection (3)(b); and
+  (b) receive and hold, on behalf of the asset-holding company, settlement quota and income shares transferred to it by the asset-holding company under subsection (3)﻿(b); and
   (c) provide dividends solely to the mandated iwi organisation owning the asset-holding company that established the subsidiary; and
   (d) comply with subsection (2); and
   (e) not undertake fishing or hold a fishing permit.
@@ -339,10 +339,10 @@ Te Ohu Kai Moana Trustee Limited must, if requested, recognise an iwi governance
       (A) in person at a general meeting called for the purpose of adopting a constitution; or
       (B) by postal ballot; and
     (ii) in the case of each asset-holding company and subsidiary of an asset-holding company, by not less than 75% of the directors, trustees, or office holders of the mandated iwi organisation that owns the asset-holding company.
-(3) Notice of the meeting referred to in subsection (2)(b)(i)(A) must comply with kaupapa 4(2) of Schedule 7.
-(4) As soon as is reasonably practicable after the constitutional documents of an asset-holding company or subsidiary of an asset-holding company have been approved in accordance with subsection (2)(a)(ii) and ratified in accordance with subsection (2)(b)(ii), the mandated iwi organisation that owns the asset-holding company must—
+(3) Notice of the meeting referred to in subsection (2)﻿(b)﻿(i)﻿(A) must comply with kaupapa 4(2) of Schedule 7.
+(4) As soon as is reasonably practicable after the constitutional documents of an asset-holding company or subsidiary of an asset-holding company have been approved in accordance with subsection (2)﻿(a)﻿(ii) and ratified in accordance with subsection (2)﻿(b)﻿(ii), the mandated iwi organisation that owns the asset-holding company must—
   (a) advise Te Ohu Kai Moana Trustee Limited that the constitutional documents have been approved and ratified; and
-  (b) provide documentation to Te Ohu Kai Moana Trustee Limited, supported by a statutory declaration if Te Ohu Kai Moana Trustee Limited so requests, as may be necessary to establish that the constitutional documents of its asset-holding company, and any subsidiary of the asset-holding company, comply with the requirements of subsection (2)(a)(ii) and (b)(ii), and, in the case of amendments to a constitutional document, with the requirements of section 18.
+  (b) provide documentation to Te Ohu Kai Moana Trustee Limited, supported by a statutory declaration if Te Ohu Kai Moana Trustee Limited so requests, as may be necessary to establish that the constitutional documents of its asset-holding company, and any subsidiary of the asset-holding company, comply with the requirements of subsection (2)﻿(a)﻿(ii) and (b)﻿(ii), and, in the case of amendments to a constitutional document, with the requirements of section 18.
 (5) This section does not apply to an iwi governance entity recognised by Te Ohu Kai Moana Trustee Limited as a mandated iwi organisation because it meets the criteria set out in section 15.
 (6) However, this section does apply to—
   (a) an asset-holding company of a mandated iwi organisation referred to in subsection (5); and
@@ -369,7 +369,7 @@ In sections 18A to 18G,—
 ### 18B Requirements for recognition of new mandated iwi organisation
 (1) An organisation may be recognised as the mandated iwi organisation (new organisation) of an iwi in place of the existing mandated iwi organisation (existing organisation) if the requirements of this section, and section 18C (if applicable), are met.
 (2) The new organisation must—
-  (a) meet the criteria in section 14, and have 1 or more asset-holding companies (as required by section 12(1)(d)); or
+  (a) meet the criteria in section 14, and have 1 or more asset-holding companies (as required by section 12(1)﻿(d)); or
   (b) have met the criteria in section 15 before the commencement of this Act.
 (3) The 1 or more asset-holding companies of the new organisation that are to receive the transfer of the specified settlement assets under section 18E(3) must comply with section 17(1).
 (4) The existing organisation must—
@@ -377,7 +377,7 @@ In sections 18A to 18G,—
   (b) obtain approval for the proposal from not less than 75% of the adult members of the iwi who vote—
     (i) at a general meeting of the existing organisation called for the purpose; or
     (ii) by postal ballot.
-(5) A notice given under subsection (4)(a) must—
+(5) A notice given under subsection (4)﻿(a) must—
   (a) specify the name of the new organisation; and
   (b) state that, if the proposal is approved and Te Ohu Kai Moana Trustee Limited is satisfied that the requirements for recognition are met and authorises the transfer of the relevant settlement assets, the following things may happen:
     (i) the new organisation is recognised as the mandated iwi organisation for the iwi in place of the existing organisation; and
@@ -386,8 +386,8 @@ In sections 18A to 18G,—
 ### 18C Requirements relating to constitutional documents of new organisation
 (1) This section applies if the new organisation seeks recognition by meeting the criteria in section 14.
 (2) The existing organisation is responsible for ensuring that the constitutional documents of the new organisation comply with section 17 (as required by section 14(b)).
-(3) The existing organisation must first have the constitutional documents approved by Te Ohu Kai Moana Trustee Limited for the purposes of section 17(2)(a)(i).
-(4) The existing organisation must then have the constitutional documents ratified for the purposes of section 17(2)(b)(i).
+(3) The existing organisation must first have the constitutional documents approved by Te Ohu Kai Moana Trustee Limited for the purposes of section 17(2)﻿(a)﻿(i).
+(4) The existing organisation must then have the constitutional documents ratified for the purposes of section 17(2)﻿(b)﻿(i).
 (5) The constitutional documents must be ratified at the same general meeting, or by the same postal ballot, that approves the proposal to have the new organisation recognised.
 (6) Notice of the proposed ratification must be given together with notice of the proposal to have the new organisation recognised, in accordance with subclause (4) of kaupapa 4 of Schedule 7 (and despite section 17(3)).
 
@@ -400,14 +400,14 @@ In sections 18A to 18G,—
 (1) This section applies only if—
   (a) the existing organisation has given notice of a proposed transfer date under section 18D(2); and
   (b) before the proposed transfer date, Te Ohu Kai Moana Trustee Limited—
-    (i) has authorised (for the purposes of section 158(1)(a)) the transfer of the specified settlement quota to 1 or more asset-holding companies of the new organisation; and
+    (i) has authorised (for the purposes of section 158(1)﻿(a)) the transfer of the specified settlement quota to 1 or more asset-holding companies of the new organisation; and
     (ii) has authorised the transfer of the specified income shares to 1 or more asset-holding companies of the new organisation.
 (2) Te Ohu Kai Moana Trustee Limited must, on the proposed transfer date,—
   (a) do the following things under section 13(1):
     (i) recognise the new organisation as the mandated iwi organisation for the iwi in place of the existing organisation; and
     (ii) record its recognition of the new organisation in the iwi register; and
   (b) remove its recognition of the existing organisation from the iwi register.
-(3) The existing organisation must ensure that all the specified settlement assets are transferred to the 1 or more asset-holding companies of the new organisation on the proposed transfer date in accordance with the authorisations referred to in subsection (1)(b).
+(3) The existing organisation must ensure that all the specified settlement assets are transferred to the 1 or more asset-holding companies of the new organisation on the proposed transfer date in accordance with the authorisations referred to in subsection (1)﻿(b).
 (4) Te Ohu Kai Moana Trustee Limited must contribute its part of the joint application required by section 158(2) to transfer the specified settlement quota.
 (5) The new organisation must, as soon as is reasonably practicable after the specified income shares have been transferred, give written notice of the transfer to Aotearoa Fisheries Limited.
 
@@ -416,8 +416,8 @@ In sections 18A to 18G,—
   (a) the new organisation is the mandated iwi organisation of the relevant iwi for the purposes of this Act; and
   (b) any registered coastline entitlement held by the existing organisation is to be treated as a registered coastline entitlement held by the new organisation; and
   (c) any coastline claim, agreement, or written statement of the existing organisation under Part 1 of Schedule 6 is to be treated as a coastline claim, agreement, or written statement of the new organisation.
-(2) However, to avoid doubt, section 136(1)(b) does not require the specified settlement quota to be transferred to the new organisation under that provision.
-(3) Subpart 2 of Part 4 does not apply to, and section 136(1)(a) does not prevent, the transfer of the specified settlement quota under section 18E(3).
+(2) However, to avoid doubt, section 136(1)﻿(b) does not require the specified settlement quota to be transferred to the new organisation under that provision.
+(3) Subpart 2 of Part 4 does not apply to, and section 136(1)﻿(a) does not prevent, the transfer of the specified settlement quota under section 18E(3).
 (4) Sections 69 to 73 do not apply to the transfer of the specified income shares under section 18E(3).
 
 ### 18G Remedy if specified settlement assets not transferred
@@ -427,7 +427,7 @@ In sections 18A to 18G,—
   (b) an order to vest any specified settlement assets in an asset-holding company of the existing organisation or of the new organisation:
   (c) an order to vest any consideration for the transaction or contract in the new organisation:
   (d) an order directing Te Ohu Kai Moana Trustee Limited—
-    (i) to recognise the new organisation as the mandated iwi organisation for the iwi in place of the existing organisation in accordance with section 18E(2)(a) and (b); or
+    (i) to recognise the new organisation as the mandated iwi organisation for the iwi in place of the existing organisation in accordance with section 18E(2)﻿(a) and (b); or
     (ii) to reverse any such recognition so that the existing organisation is reinstated as the mandated iwi organisation for the iwi:
   (e) any other order, if the new organisation has on-sold, or has granted any interest in or security over, any specified settlement assets:
   (f) an order that the costs of the applicant be met by the parties to the transaction or contract.
@@ -469,40 +469,40 @@ In this Act,—
     (ii) the relevant joint mandated iwi organisation; and
   (b) the process for determining, consistently with the provisions of Part 3, the matters set out in subsection (3); and
   (c) the criteria that must be met by the withdrawing group in order to complete the process of withdrawal, including having a mandated iwi organisation recognised by Te Ohu Kai Moana Trustee Limited in accordance with section 13(1).
-(3) The matters that must be determined by the process provided for under subsection (2)(b) are—
+(3) The matters that must be determined by the process provided for under subsection (2)﻿(b) are—
   (a) the amount of the notional iwi population specified in column 2 of Schedule 3 for an iwi that must, in each case, be attributed to any withdrawing group; and
   (b) the division of settlement assets that must be made between the joint mandated iwi organisation and a withdrawing group, including the proportion that the withdrawing group is entitled to receive of—
     (i) the settlement assets of the joint mandated iwi organisation, on the date when the withdrawal is complete; and
     (ii) other settlement assets that the joint mandated iwi organisation receives—
-      (A) under sections 36(1)(f)(ii), 43, 84(1)(g), and 96(1)(g); and
+      (A) under sections 36(1)﻿(f)﻿(ii), 43, 84(1)﻿(g), and 96(1)﻿(g); and
       (B) as a consequence of the allocation and transfer of settlement assets under subparts 1 and 2 of Part 3, including quota shares in respect of new species introduced into the quota management system and transferred to Te Ohu Kai Moana Trustee Limited under section 44 of the Fisheries Act 1996.
-(4) In determining the amount of the notional iwi population to be attributed to a withdrawing group under subsection (3)(a) and the proportion of the settlement assets that a withdrawing group must receive under subsection (3)(b), a joint mandated iwi organisation and a withdrawing group may use any relevant information, including the relevant data from the census of 2001 or 2006 (but no other census data).
-(5) If a withdrawing group chooses to withdraw from its joint mandated iwi organisation, it must commence the process of withdrawal, in accordance with the process provided for under subsection (2)(a), not later than 5 years after the recognition of the relevant joint mandated iwi organisation under section 13(1).
+(4) In determining the amount of the notional iwi population to be attributed to a withdrawing group under subsection (3)﻿(a) and the proportion of the settlement assets that a withdrawing group must receive under subsection (3)﻿(b), a joint mandated iwi organisation and a withdrawing group may use any relevant information, including the relevant data from the census of 2001 or 2006 (but no other census data).
+(5) If a withdrawing group chooses to withdraw from its joint mandated iwi organisation, it must commence the process of withdrawal, in accordance with the process provided for under subsection (2)﻿(a), not later than 5 years after the recognition of the relevant joint mandated iwi organisation under section 13(1).
 
 ### 21 Recognition of mandated iwi organisation of withdrawing group
-(1) Despite section 13(2), if a withdrawing group notifies in accordance with section 20(2)(a) its intention to withdraw from a joint mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must recognise under section 13(1) a mandated iwi organisation for the withdrawing group if the withdrawing group has set up an organisation that meets—
-  (a) the criteria of section 14 (other than section 14(d)(ii)); and
+(1) Despite section 13(2), if a withdrawing group notifies in accordance with section 20(2)﻿(a) its intention to withdraw from a joint mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must recognise under section 13(1) a mandated iwi organisation for the withdrawing group if the withdrawing group has set up an organisation that meets—
+  (a) the criteria of section 14 (other than section 14(d)﻿(ii)); and
   (b) the following further criteria:
-    (i) it has on its register of iwi members no fewer than the minimum number of persons specified in column 4 of Schedule 3, in the proportion that the amount attributed to the withdrawing group under section 20(3)(a) represents of the notional iwi population specified in column 2 of Schedule 3, calculated in accordance with the formula—a× cbwhere—ais the amount attributed to the withdrawing group under section 20(3)(a)bis the total notional population for the iwi set out in column 2 of Schedule 3cis the minimum number of members specified in column 4 of Schedule 3; and
-    (ii) it has an asset-holding company, as required by section 12(1)(d).
-(2) Despite subsection (1), if a group has withdrawn from a joint mandated iwi organisation as provided for under section 20, settlement assets must be distributed under section 36(1)(f)(ii), allocated and transferred under section 43 or Part 3, or payments must be made under section 84(1)(g) or section 96(1)(g), as the case may be, to the relevant joint mandated iwi organisation as if no group had withdrawn from that joint mandated iwi organisation.
+    (i) it has on its register of iwi members no fewer than the minimum number of persons specified in column 4 of Schedule 3, in the proportion that the amount attributed to the withdrawing group under section 20(3)﻿(a) represents of the notional iwi population specified in column 2 of Schedule 3, calculated in accordance with the formula— a× cbwhere—ais the amount attributed to the withdrawing group under section 20(3)﻿(a)bis the total notional population for the iwi set out in column 2 of Schedule 3cis the minimum number of members specified in column 4 of Schedule 3; and
+    (ii) it has an asset-holding company, as required by section 12(1)﻿(d).
+(2) Despite subsection (1), if a group has withdrawn from a joint mandated iwi organisation as provided for under section 20, settlement assets must be distributed under section 36(1)﻿(f)﻿(ii), allocated and transferred under section 43 or Part 3, or payments must be made under section 84(1)﻿(g) or section 96(1)﻿(g), as the case may be, to the relevant joint mandated iwi organisation as if no group had withdrawn from that joint mandated iwi organisation.
 
 ### 22 Transfer of assets
-(1) A joint mandated iwi organisation must not transfer to a withdrawing group the assets referred to in section 20(3)(b) until the withdrawing group has completed the process of withdrawal in accordance with the criteria provided for under section 20(2)(c).
+(1) A joint mandated iwi organisation must not transfer to a withdrawing group the assets referred to in section 20(3)﻿(b) until the withdrawing group has completed the process of withdrawal in accordance with the criteria provided for under section 20(2)﻿(c).
 (2) A transfer of assets referred to in subsection (1) must be—
   (a) free of charge to the withdrawing group, other than reasonable administrative costs; and
   (b) treated as if it were between wholly-owned asset-holding companies of the joint mandated iwi organisation.
 
 ### 23 Voting rights
-(1) The mandated iwi organisation of a withdrawing group, after it has completed the process of withdrawal provided for under section 20(2)(c),—
+(1) The mandated iwi organisation of a withdrawing group, after it has completed the process of withdrawal provided for under section 20(2)﻿(c),—
   (a) has all the voting rights of a mandated iwi organisation under this Act; and
   (b) may exercise those rights from the date when it has completed the process of withdrawal.
 (2) However, only the joint mandated iwi organisation may exercise voting rights in respect of an appointment or removal at a meeting convened under—
   (a) clause 1 or clause 6 of Schedule 8 to appoint or remove a member or alternate member of Te Kawai Taumata; or
   (b) clause 1 of Schedule 8 to appoint a member of a committee of representatives, as provided for by section 117(1).
-(3) For the purposes of sections 115(2), 127(3), 137(2)(b), and 138(3)(b),—
-  (a) the notional iwi population represented by the mandated iwi organisation of any withdrawing group is the amount attributed to the withdrawing group under section 20(3)(a), and
-  (b) the notional iwi population represented by the joint mandated iwi organisation is the number stated in column 2 of Schedule 3, after subtracting the amount attributed, under section 20(3)(a), to the withdrawing group.
+(3) For the purposes of sections 115(2), 127(3), 137(2)﻿(b), and 138(3)﻿(b),—
+  (a) the notional iwi population represented by the mandated iwi organisation of any withdrawing group is the amount attributed to the withdrawing group under section 20(3)﻿(a), and
+  (b) the notional iwi population represented by the joint mandated iwi organisation is the number stated in column 2 of Schedule 3, after subtracting the amount attributed, under section 20(3)﻿(a), to the withdrawing group.
 
 ### 24 Status of Ngati Hine and Rongomaiwahine
 (1) If Ngati Hine withdraws from the joint mandated iwi organisation of Ngapuhi in accordance with the constitutional documents of Ngapuhi, Ngati Hine becomes, upon completion of its withdrawal, an iwi for the purposes of this Act as if it were listed in Group B—NGAPUHI of Schedule 3.
@@ -526,7 +526,7 @@ For the purpose of recognising and continuing to recognise mandated iwi organisa
 (3) A recognised iwi organisation has the functions and powers of a mandated iwi organisation, including the right—
   (a) to receive all documents, reports, and notices that must be provided to mandated iwi organisations under Part 2; and
   (b) to participate in the process for offering annual catch entitlement provided for in section 152; and
-  (c) to participate in the process for resolving a dispute referred to in section 180(1)(b), (d), (e), (g), (h), (i), (k), or (l); and
+  (c) to participate in the process for resolving a dispute referred to in section 180(1)﻿(b), (d), (e), (g), (h), (i), (k), or (l); and
   (d) to represent the iwi in consultation, negotiation, and proceedings relating to a matter listed in this subsection; and
   (e) to represent its iwi by voting at any meeting convened under clause 1 or clause 6 of Schedule 8 to appoint or remove a member or alternate member of Te Kawai Taumata.
 (4) However, a recognised iwi organisation does not have the right—
@@ -538,9 +538,9 @@ For the purpose of recognising and continuing to recognise mandated iwi organisa
   (f) to submit coastline claims to Te Ohu Kai Moana Trustee Limited for determination under section 11; or
   (g) to enter into agreements for freshwater quota or harbour quota; or
   (h) to nominate an entity with charitable status to receive distributions on the termination of—
-    (i) Te Ohu Kai Moana, as provided for under section 36(1)(f)(ii):
-    (ii) Te Putea Whakatupu Trust, as provided for under section 84(1)(g):
-    (iii) Te Wai Maori Trust, as provided for under section 96(1)(g).
+    (i) Te Ohu Kai Moana, as provided for under section 36(1)﻿(f)﻿(ii):
+    (ii) Te Putea Whakatupu Trust, as provided for under section 84(1)﻿(g):
+    (iii) Te Wai Maori Trust, as provided for under section 96(1)﻿(g).
 
 ### 28 Status of recognised iwi organisations
 (1) Te Ohu Kai Moana Trustee Limited, mandated iwi organisations, and recognised iwi organisations must recognise and deal with a recognised iwi organisation as if it were a mandated iwi organisation, including for the matters listed in section 27(3), until there is a mandated iwi organisation for the iwi.
@@ -615,7 +615,7 @@ Te Ohu Kai Moana Trustee Limited must administer the settlement assets in accord
   (c) in relation to other activities, so long as the nature of the business activities of Te Ohu Kai Moana Group, taken as a whole, is not significantly changed from the primary focus on fisheries, fishing, or fisheries-related activities,—
     (i) approve other activities, including, but not limited to, activities related to the seafood industry:
     (ii) give prior approvals to specified entities of Te Ohu Kai Moana Group to conduct other activities up to thresholds specified by Te Ohu Kai Moana Trustee Limited:
-  (d) require mandated iwi organisations to demonstrate their progress in meeting the criteria and requirements set out in section 14, 17, or section 130(3)(b), as the case may be, before granting assistance under section 34(i) or (j):
+  (d) require mandated iwi organisations to demonstrate their progress in meeting the criteria and requirements set out in section 14, 17, or section 130(3)﻿(b), as the case may be, before granting assistance under section 34(i) or (j):
   (e) in accordance with the provisions of Part 4, acquire or dispose of income shares, settlement quota, and quota other than settlement quota, and sell annual catch entitlement generated by settlement quota or by quota other than settlement quota:
   (f) perform the functions of the voting shareholder of Aotearoa Fisheries Limited:
   (g) apply the funds of the trust by way of payments to—
@@ -665,11 +665,11 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
   (a) whether Te Ohu Kai Moana Trustee Limited will hold and account separately or collectively for—
     (i) the net proceeds of sales referred to in section 152(4); and
     (ii) income shares and dividends referred to in section 153(1); and
-  (b) the matters referred to in section 152(5)(a) (which relates to the sale of annual catch entitlement) for the year to which the plan applies, unless those matters have been included in a panui; and
+  (b) the matters referred to in section 152(5)﻿(a) (which relates to the sale of annual catch entitlement) for the year to which the plan applies, unless those matters have been included in a panui; and
   (c) the budget for Te Ohu Kai Moana Trustee Limited; and
   (d) the budget to be paid by Te Ohu Kai Moana Trustee Limited for Te Kawai Taumata, as provided for under clause 19 of Schedule 8, including the daily rate for meetings payable to the members and alternate members of Te Kawai Taumata under clause 18 of Schedule 8; and
   (e) when relevant, the budget for—
-    (i) a review under section 114(2) and (3)(a); and
+    (i) a review under section 114(2) and (3)﻿(a); and
     (ii) a committee of representatives, as provided for under section 115(1), including the daily rate for meetings payable to the members of a committee under section 120(4); and
   (f) the scale of fees (expressed in bands of $10,000) that applies for—
     (i) the directors of Te Ohu Kai Moana Trustee Limited, to be paid by Te Ohu Kai Moana Trustee Limited; and
@@ -679,7 +679,7 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
 
 ### 38 Annual report of Te Ohu Kai Moana Trustee Limited
 (1) The trust deed of Te Ohu Kai Moana must set out the reporting obligations of Te Ohu Kai Moana Trustee Limited, as provided for in this section and section 39.
-(2) In measuring its performance against the annual plan and strategic plan referred to in section 36(1)(b), Te Ohu Kai Moana Trustee Limited must report annually, not later than 5 months after the end of each financial year, to—
+(2) In measuring its performance against the annual plan and strategic plan referred to in section 36(1)﻿(b), Te Ohu Kai Moana Trustee Limited must report annually, not later than 5 months after the end of each financial year, to—
   (a) mandated iwi organisations and representative Maori organisations; and
   (b) the members and alternate members of Te Kawai Taumata.
 (3) In each annual report required by subsection (2), Te Ohu Kai Moana Trustee Limited must—
@@ -688,12 +688,12 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
     (i) Te Ohu Kai Moana Trustee Limited; and
     (ii) any subsidiary set up by Te Ohu Kai Moana Trustee Limited, including Aotearoa Fisheries Limited; and
     (iii) Te Putea Whakatupu Trustee Limited and Te Wai Maori Trustee Limited; and
-  (c) describe any special resolution passed or approval granted during that year in respect of the matters referred to in section 35(1)(c); and
-  (d) separately describe each of the funds it has reserved under section 35(1)(i), the reason why each reserve fund is held, and any proposed applications of those reserves; and
+  (c) describe any special resolution passed or approval granted during that year in respect of the matters referred to in section 35(1)﻿(c); and
+  (d) separately describe each of the funds it has reserved under section 35(1)﻿(i), the reason why each reserve fund is held, and any proposed applications of those reserves; and
   (e) separately describe each sale of income shares sold under section 71; and
   (f) describe how the revenue from annual catch entitlements sold in the previous year was used; and
   (g) describe separately or collectively, as provided for in the annual plan, the income shares and dividends held under section 153(1); and
-  (h) describe separately, in relation to any loan referred to in section 75(4)(f),—
+  (h) describe separately, in relation to any loan referred to in section 75(4)﻿(f),—
     (i) the capital sum of the loans; and
     (ii) the money received, in each case by way of capital repayments or interest; and
     (iii) loans written off or discharged; and
@@ -701,7 +701,7 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
 (4) The annual report must include—
   (a) the audited financial statements of Te Ohu Kai Moana and Te Ohu Kai Moana Trustee Limited; and
   (b) a statement of—
-    (i) the payments made under section 35(1)(g); and
+    (i) the payments made under section 35(1)﻿(g); and
     (ii) the fees (expressed in bands of $10,000) and the reimbursing allowances or actual and reasonable expenses paid to each of the directors of Te Ohu Kai Moana Trustee Limited, Te Putea Whakatupu Trustee Limited, and Te Wai Maori Trustee Limited; and
     (iii) the remuneration and reimbursing allowances or actual and reasonable expenses paid, collectively, to—
       (A) the members and alternate members of Te Kawai Taumata; and
@@ -713,7 +713,7 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
   (b) to provide, in a timely manner, to mandated iwi organisations, representative Maori organisations, and the members and alternate members of Te Kawai Taumata—
     (i) the minutes of every general meeting; and
     (ii) the annual report required by section 38, together with information on where the report is publicly available; and
-    (iii) the annual and strategic plans referred to in section 36(1)(b).
+    (iii) the annual and strategic plans referred to in section 36(1)﻿(b).
 (2) This section does not limit any reporting obligations arising under any other enactment or rule of law.
 
 ### 40 Obligation to establish and maintain iwi register
@@ -732,7 +732,7 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
 
 ### 41 Review of revenue requirements
 (1) In this section and sections 42 and 43,—
-  - **loan funds** means the funds identified in section 42(1)(c)
+  - **loan funds** means the funds identified in section 42(1)﻿(c)
   - **revenue review** means the review conducted in accordance with those sections.
 (2) The trust deed of Te Ohu Kai Moana must include an obligation on Te Ohu Kai Moana Trustee Limited to commence and complete, during the 12th year after the commencement of this Act, a review of the revenue requirements of Te Ohu Kai Moana Trustee Limited.
 (3) Te Ohu Kai Moana Trustee Limited must include, in the next annual report after the completion of the revenue review, a report on the findings and conclusions of the review.
@@ -741,11 +741,11 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
 (1) The revenue review conducted under section 41 must consider and report on the following matters:
   (a) the activities that Te Ohu Kai Moana Trustee Limited must undertake in carrying out its duties and functions under this Act; and
   (b) the revenue that is necessary to enable Te Ohu Kai Moana Trustee Limited to carry out the activities identified under paragraph (a); and
-  (c) whether, in order to meet the revenue requirements identified under paragraph (b), it is necessary for Te Ohu Kai Moana Trustee Limited to continue to hold and receive any of the funds relating to the loans referred to in section 75(4)(f), as follows:
+  (c) whether, in order to meet the revenue requirements identified under paragraph (b), it is necessary for Te Ohu Kai Moana Trustee Limited to continue to hold and receive any of the funds relating to the loans referred to in section 75(4)﻿(f), as follows:
     (i) the capital funds of the loans:
     (ii) the income from the capital funds:
     (iii) the accumulated income from the loans.
-(2) If Te Ohu Kai Moana Trustee Limited determines under subsection (1)(c) that it is necessary that it continue to hold and receive some or all of the loan funds, it must—
+(2) If Te Ohu Kai Moana Trustee Limited determines under subsection (1)﻿(c) that it is necessary that it continue to hold and receive some or all of the loan funds, it must—
   (a) state the period of time for which it will continue to do so; and
   (b) complete a further revenue review before the expiry of the period of time provided for under paragraph (a).
 (3) In conducting the revenue review, Te Ohu Kai Moana Trustee Limited must—
@@ -753,7 +753,7 @@ The trust deed of Te Ohu Kai Moana must require Te Ohu Kai Moana Trustee Limited
   (b) take their views into account.
 
 ### 43 Allocation and transfer of surplus loan funds
-If Te Ohu Kai Moana Trustee Limited determines, in the revenue review conducted under section 41, that some or all of the loan funds are not necessary to meet its revenue requirements identified under section 42(1)(b), Te Ohu Kai Moana Trustee Limited must allocate and transfer the surplus loan funds to mandated iwi organisations in the percentage specified for each iwi in column 3 of Schedule 3.
+If Te Ohu Kai Moana Trustee Limited determines, in the revenue review conducted under section 41, that some or all of the loan funds are not necessary to meet its revenue requirements identified under section 42(1)﻿(b), Te Ohu Kai Moana Trustee Limited must allocate and transfer the surplus loan funds to mandated iwi organisations in the percentage specified for each iwi in column 3 of Schedule 3.
 
 **Te Ohu Kai Moana Trustee Limited**
 
@@ -919,11 +919,11 @@ The functions and powers of Te Ohu Kai Moana Trustee Limited are not affected by
 (1) Before the appointed day, unless it has done so before the commencement of this Act, the Treaty of Waitangi Fisheries Commission must form a company under the Companies Act 1993 with the name Aotearoa Fisheries Limited.
 (2) Aotearoa Fisheries Limited must have—
   (a) voting shares that have—
-    (i) all the rights to vote under the Companies Act 1993, except those under section 196 of that Act, subject to the decisions taken by income shareholders using their rights under the constitution of Aotearoa Fisheries Limited; but
+    (i) all the rights to vote under the Companies Act 1993, except those under section 207P of that Act, subject to the decisions taken by income shareholders using their rights under the constitution of Aotearoa Fisheries Limited; but
     (ii) no rights to distributions from Aotearoa Fisheries Limited; and
   (b) income shares that have—
     (i) equal distribution rights; and
-    (ii) sole rights to vote under section 196 of the Companies Act 1993.
+    (ii) sole rights to vote under section 207P of the Companies Act 1993.
 (3) To avoid doubt, Aotearoa Fisheries Limited is not the company of the same name referred to in section 12 of the Maori Fisheries Act 1989.
 
 **Duty of Aotearoa Fisheries Limited**
@@ -933,13 +933,13 @@ The functions and powers of Te Ohu Kai Moana Trustee Limited are not affected by
 (2) Despite section 35(2), in carrying out its duty under subsection (1), Aotearoa Fisheries Limited and its subcompanies may undertake—
   (a) fishing and fisheries-related activities:
   (b) other activities including, but not limited to, activities related to the seafood industry.
-(3) However, Aotearoa Fisheries Limited and its subcompanies must not undertake activities referred to in subsection (2)(b) unless they do so in a manner consistent with the terms and conditions of an approval given under section 35(1)(c).
+(3) However, Aotearoa Fisheries Limited and its subcompanies must not undertake activities referred to in subsection (2)﻿(b) unless they do so in a manner consistent with the terms and conditions of an approval given under section 35(1)﻿(c).
 
 **Constitution of Aotearoa Fisheries Limited**
 
 ### 62 Requirements for constitution
 (1) Aotearoa Fisheries Limited must have a constitution that includes—
-  (a) a provision that prevents Aotearoa Fisheries Limited from passing a special resolution for the purpose of approving any transaction that would be likely to have the effect of breaching section 35(1)(c); and
+  (a) a provision that prevents Aotearoa Fisheries Limited from passing a special resolution for the purpose of approving any transaction that would be likely to have the effect of breaching section 35(1)﻿(c); and
   (b) a procedure for the appointment of an alternate for a director to attend and vote at meetings on behalf of that director; and
   (c) the criteria that must be taken into account when an alternate is appointed, and any restrictions on eligibility that apply to an appointment; and
   (d) a method by which the board of Aotearoa Fisheries Limited must address conflicts of interest that may arise for its directors; and
@@ -982,7 +982,7 @@ The functions and powers of Te Ohu Kai Moana Trustee Limited are not affected by
 (4) A breach of subsection (1) does not—
   (a) invalidate an action or decision of Aotearoa Fisheries Limited:
   (b) occur in the case of an extraordinary vacancy of a director, if the vacancy is filled within 3 months.
-(5) To avoid doubt, subsection (1) does not apply to the appointment of an alternate for a director, as provided for in the constitution of Aotearoa Fisheries Limited under section 62(1)(b).
+(5) To avoid doubt, subsection (1) does not apply to the appointment of an alternate for a director, as provided for in the constitution of Aotearoa Fisheries Limited under section 62(1)﻿(b).
 (6) A person who is, or who has been within the previous 2 years, a member or alternate member of Te Kawai Taumata is not eligible for appointment as a director of Aotearoa Fisheries Limited.
 (7) A director of Aotearoa Fisheries Limited is not eligible to be, at the same time, a director of Te Putea Whakatupu Trustee Limited or of Te Wai Maori Trustee Limited.
 
@@ -1018,7 +1018,7 @@ The functions and powers of Te Ohu Kai Moana Trustee Limited are not affected by
 
 ### 68 Additional income shares
 If Aotearoa Fisheries Limited issues additional income shares,—
-  (a) they must be offered to income shareholders in proportion to the income shares they hold at the date of issue, including income shares held in trust under section 67(3)(b); and
+  (a) they must be offered to income shareholders in proportion to the income shares they hold at the date of issue, including income shares held in trust under section 67(3)﻿(b); and
   (b) in the case of any unsubscribed shares, they must be offered or withdrawn in accordance with the constitution of Aotearoa Fisheries Limited.
 
 ### 69 Disposal of income shares by mandated iwi organisations
@@ -1038,19 +1038,19 @@ If Aotearoa Fisheries Limited issues additional income shares,—
   (b) obtain the prior approval of at least 75% of the adult members of the iwi who vote—
     (i) at a general meeting; or
     (ii) in a process prescribed in the constitutional documents of the mandated iwi organisation.
-(2) A notice given under subsection (1)(a) must specify,—
+(2) A notice given under subsection (1)﻿(a) must specify,—
   (a) in a public notice,—
     (i) the approximate proportion of the total value of the income shares of the mandated iwi organisation affected by the proposal; and
     (ii) the date on which any approval expires; and
   (b) in a private notice, if required under kaupapa 4 of Schedule 7,—
     (i) the number of income shares affected by the proposal; and
     (ii) a reasonable estimate of the net present value or likely sale price of those shares.
-(3) If approval to sell income shares is obtained under subsection (1)(b), the mandated iwi organisation must—
+(3) If approval to sell income shares is obtained under subsection (1)﻿(b), the mandated iwi organisation must—
   (a) offer the income shares to—
     (i) every mandated iwi organisation; and
     (ii) Te Ohu Kai Moana Trustee Limited; and
   (b) accept the best price reasonably obtainable at the time of the sale, unless the offer permits the mandated iwi organisation to withdraw the income shares from sale.
-(4) Approval obtained under subsection (1)(b) to sell income shares is valid for not more than 15 months from the date on which it is given.
+(4) Approval obtained under subsection (1)﻿(b) to sell income shares is valid for not more than 15 months from the date on which it is given.
 (5) As soon as is reasonably practicable after a mandated iwi organisation has sold any income shares under section 69, it must—
   (a) notify Aotearoa Fisheries Limited of the sale; and
   (b) provide documentation to Aotearoa Fisheries Limited, supported by a statutory declaration if Aotearoa Fisheries Limited so requires, to establish that the sale complied with all the requirements of sections 69, 70, and 72.
@@ -1071,7 +1071,7 @@ If Aotearoa Fisheries Limited issues additional income shares,—
   (a) the sale of its income shares; or
   (b) the iwi being disentitled to the income from the income shares for a period of more than 5 years.
 (2) If a third party to a transaction or series of transactions referred to in subsection (1) exercises a right to sell or requires the sale of income shares,—
-  (a) section 69(1)(a) and (b) applies as if the vendor were a mandated iwi organisation; and
+  (a) section 69(1)﻿(a) and (b) applies as if the vendor were a mandated iwi organisation; and
   (b) the third party proposing to sell must notify the proposal to—
     (i) Te Ohu Kai Moana Trustee Limited; and
     (ii) all mandated iwi organisations.
@@ -1104,7 +1104,7 @@ If Aotearoa Fisheries Limited issues additional income shares,—
   (b) subsidiaries of asset-holding companies that are wholly owned by the same mandated iwi organisation.
 (2) If an asset-holding company or a subsidiary of an asset-holding company ceases to be wholly owned by its mandated iwi organisation, its income shares must be—
   (a) treated as the property of the mandated iwi organisation; and
-  (b) held by another asset-holding company of the mandated iwi organisation, as required by section 16(1)(c).
+  (b) held by another asset-holding company of the mandated iwi organisation, as required by section 16(1)﻿(c).
 
 **Transfer of assets**
 
@@ -1144,8 +1144,8 @@ If Aotearoa Fisheries Limited issues additional income shares,—
 ### 77 Circumstances when payments not required
 Section 76(2) does not apply—
   (a) until Te Ohu Kai Moana Trustee Limited has made payments—
-    (i) under section 137(1)(a) to Te Putea Whakatupu Trustee Limited; and
-    (ii) under section 137(1)(b) to Te Wai Maori Trustee Limited; or
+    (i) under section 137(1)﻿(a) to Te Putea Whakatupu Trustee Limited; and
+    (ii) under section 137(1)﻿(b) to Te Wai Maori Trustee Limited; or
   (b) to the extent that compliance would put Aotearoa Fisheries Limited, a subcompany, or any directors of either, in breach of any obligation under the Companies Act 1993.
 
 ### Subpart 4 — Te Putea Whakatupu Trust and Te Putea Whakatupu Trustee Limited
@@ -1161,18 +1161,18 @@ In this subpart and in subpart 5,—
   - **investment plan** means the proposed investment of the trust capital
   - **trust capital** means,—
     (a) in the case of Te Putea Whakatupu Trust—
-      (i) settlement asset money transferred by Te Ohu Kai Moana Trustee Limited in accordance with section 137(1)(a); and
+      (i) settlement asset money transferred by Te Ohu Kai Moana Trustee Limited in accordance with section 137(1)﻿(a); and
       (ii) any further payments made under section 90(5); and
     (b) in the case of Te Wai Maori Trust—
-      (i) settlement asset money transferred by Te Ohu Kai Moana Trustee Limited in accordance with sections 103(3) and 137(1)(b); and
+      (i) settlement asset money transferred by Te Ohu Kai Moana Trustee Limited in accordance with sections 103(3) and 137(1)﻿(b); and
       (ii) any further payments made under section 103(6)
   - **trust funds** means trust capital and accumulated trust income
   - **trust income** means—
     (a) in the case of Te Putea Whakatupu Trust,—
-      (i) funds transferred under section 137(1)(e)(ii); and
+      (i) funds transferred under section 137(1)﻿(e)﻿(ii); and
       (ii) earnings derived from the trust capital; and
     (b) in the case of Te Wai Maori Trust—
-      (i) funds transferred under section 137(1)(e)(iii); and
+      (i) funds transferred under section 137(1)﻿(e)﻿(iii); and
       (ii) earnings derived from trust capital.
 
 ### 79 Establishment of Te Putea Whakatupu Trust
@@ -1313,9 +1313,9 @@ The trust deed of Te Putea Whakatupu Trust must require Te Putea Whakatupu Trust
 **Payments**
 
 ### 90 Payments to Te Putea Whakatupu Trustee Limited
-(1) Te Ohu Kai Moana Trustee Limited must pay the settlement asset money to Te Putea Whakatupu Trustee Limited, as provided for by section 137(1)(a), to be held on trust for the purpose of Te Putea Whakatupu Trust.
+(1) Te Ohu Kai Moana Trustee Limited must pay the settlement asset money to Te Putea Whakatupu Trustee Limited, as provided for by section 137(1)﻿(a), to be held on trust for the purpose of Te Putea Whakatupu Trust.
 (2) Te Ohu Kai Moana Trustee Limited must comply with the obligation under subsection (1) on a date to be determined by Te Ohu Kai Moana Trustee Limited in its discretion, but not later than 31 October 2009.
-(3) Subject to the limit specified in section 137(1)(e)(ii), Te Ohu Kai Moana Trustee Limited must, before the date of payment referred to in subsection (2), fund the activities undertaken by Te Putea Whakatupu Trustee Limited, to a maximum of $1 million in each financial year (including directors’ fees provided for under section 84(1)(a) and administrative costs provided for under section 85(c) and (d)), in accordance with the annual plan of Te Putea Whakatupu Trustee Limited approved by Te Ohu Kai Moana Trustee Limited.
+(3) Subject to the limit specified in section 137(1)﻿(e)﻿(ii), Te Ohu Kai Moana Trustee Limited must, before the date of payment referred to in subsection (2), fund the activities undertaken by Te Putea Whakatupu Trustee Limited, to a maximum of $1 million in each financial year (including directors’ fees provided for under section 84(1)﻿(a) and administrative costs provided for under section 85(c) and (d)), in accordance with the annual plan of Te Putea Whakatupu Trustee Limited approved by Te Ohu Kai Moana Trustee Limited.
 (4) After the date of the payment referred to in subsection (2), no further amounts are payable by Te Ohu Kai Moana Trustee Limited under subsection (3).
 (5) Te Ohu Kai Moana Trustee Limited may make payments of other money as trust capital to Te Putea Whakatupu Trustee Limited, subject to the conditions specified in section 137(2) (if that provision applies).
 (6) Te Putea Whakatupu Trustee Limited is not entitled to receive allocations of settlement quota or income shares from Te Ohu Kai Moana Trustee Limited.
@@ -1461,10 +1461,10 @@ The constitution of Te Wai Maori Trustee Limited must specify that the directors
 **Payments**
 
 ### 103 Payments to Te Wai Maori Trustee Limited
-(1) Te Ohu Kai Moana Trustee Limited must pay to Te Wai Maori Trustee Limited the settlement asset money, as provided for by section 137(1)(b), to be held on trust for the purpose of Te Wai Maori Trust.
+(1) Te Ohu Kai Moana Trustee Limited must pay to Te Wai Maori Trustee Limited the settlement asset money, as provided for by section 137(1)﻿(b), to be held on trust for the purpose of Te Wai Maori Trust.
 (2) Te Ohu Kai Moana Trustee Limited must comply with the obligation under subsection (1) on a date to be determined by Te Ohu Kai Moana Trustee Limited in its discretion, but not later than 31 October 2009.
 (3) After the date of payment referred to in subsection (2), Te Ohu Kai Moana Trustee Limited must pay not less than $1 million per year, until Te Wai Maori Trustee Limited has received in total the sum of $20 million (including the sum referred to in subsection (1)) from Te Ohu Kai Moana Trustee Limited (but excluding the sums referred to in subsection (4)).
-(4) Subject to the limit specified in section 137(1)(e)(iii), Te Ohu Kai Moana Trustee Limited must, before the date of payment referred to in subsection (2), fund the activities undertaken by Te Wai Maori Trustee Limited (including directors’ fees provided for under section 96(1)(a) and administrative costs provided for under section 97(c) and (d)), in accordance with the annual plan of Te Wai Maori Trustee Limited approved by Te Ohu Kai Moana Trustee Limited.
+(4) Subject to the limit specified in section 137(1)﻿(e)﻿(iii), Te Ohu Kai Moana Trustee Limited must, before the date of payment referred to in subsection (2), fund the activities undertaken by Te Wai Maori Trustee Limited (including directors’ fees provided for under section 96(1)﻿(a) and administrative costs provided for under section 97(c) and (d)), in accordance with the annual plan of Te Wai Maori Trustee Limited approved by Te Ohu Kai Moana Trustee Limited.
 (5) After the date of payment referred to in subsection (2), no further amounts are payable by Te Ohu Kai Moana Trustee Limited under subsection (4).
 (6) Te Ohu Kai Moana Limited may make payments of other money as trust capital to Te Wai Maori Trustee Limited, subject to the conditions specified in section 137(2) (if that provision applies).
 (7) Te Wai Maori Trustee Limited is not entitled to receive allocations of settlement quota or income shares from Te Ohu Kai Moana Trustee Limited.
@@ -1544,7 +1544,7 @@ In the case of an audit of Te Ohu Kai Moana Trustee Limited, the audit must cons
 (2) Not later than 40 working days after receiving an audit report under subsection (1), each entity subject to audit must—
   (a) prepare a plan specifying the actions that it intends to take to address the findings and recommendations of the audit report; and
   (b) provide a copy of that plan to Te Ohu Kai Moana Trustee Limited.
-(3) After an audit has been completed, an entity subject to audit must include in its next annual report a description of the progress it has made in addressing the matters specified in the plan prepared under subsection (2)(a).
+(3) After an audit has been completed, an entity subject to audit must include in its next annual report a description of the progress it has made in addressing the matters specified in the plan prepared under subsection (2)﻿(a).
 
 ### 113 Procedure for Te Ohu Kai Moana Trustee Limited
 (1) Not later than 60 working days after receiving an audit report under section 112(1), Te Ohu Kai Moana Trustee Limited must distribute to the members and alternate members of Te Kawai Taumata, to all mandated iwi organisations, and to all representative Maori organisations—
@@ -1553,7 +1553,7 @@ In the case of an audit of Te Ohu Kai Moana Trustee Limited, the audit must cons
   (c) in the case of an audit of Aotearoa Fisheries Limited, Te Putea Whakatupu Trustee Limited, or Te Wai Maori Trustee Limited, any further plan prepared by Te Ohu Kai Moana Trustee Limited to address the findings and recommendations of the audit report.
 (2) At its next general meeting after it has received an audit report under section 112(1), Te Ohu Kai Moana Trustee Limited must provide for consideration of—
   (a) the audit report; and
-  (b) the plans referred to in subsection (1)(b) and (c), as relevant; and
+  (b) the plans referred to in subsection (1)﻿(b) and (c), as relevant; and
   (c) any comments from mandated iwi organisations or representative Maori organisations on the audit report or any plans.
 
 **Requirement for review of entities**
@@ -1565,7 +1565,7 @@ In the case of an audit of Te Ohu Kai Moana Trustee Limited, the audit must cons
   (a) not later than the beginning of the fifth year after the date of completion of the review under subsection (2), if the reviewer found, as provided for in section 124(2), that the interests of the beneficiaries of the Deed of Settlement would be better served by changes to section 161(1) or section 168 (that restrict the disposal of settlement quota to mandated iwi organisations and Te Ohu Kai Moana Group); or
   (b) not sooner than the beginning of the fifth year after the completion of the preceding review, if at least 75% of mandated iwi organisations agree, at a general meeting of Te Ohu Kai Moana Trustee Limited, that a review should be conducted in relation to—
     (i) a specified entity or entities; or
-    (ii) the matters set out in section 122(1)(b).
+    (ii) the matters set out in section 122(1)﻿(b).
 (4) The entities referred to in subsections (2) and (3) are—
   (a) Te Ohu Kai Moana Trustee Limited; and
   (b) Aotearoa Fisheries Limited; and
@@ -1573,10 +1573,10 @@ In the case of an audit of Te Ohu Kai Moana Trustee Limited, the audit must cons
   (d) Te Wai Maori Trustee Limited.
 
 ### 115 Funding of reviews
-(1) Te Ohu Kai Moana Trustee Limited must provide adequate funding for reviews conducted under section 114(2) and (3)(a), including—
+(1) Te Ohu Kai Moana Trustee Limited must provide adequate funding for reviews conducted under section 114(2) and (3)﻿(a), including—
   (a) the budget for a committee of representatives; and
   (b) remuneration of the members of that committee for attendance at meetings and reimbursing allowances or actual and reasonable expenses to be paid to the members in undertaking their functions under this Act.
-(2) Mandated iwi organisations must fund reviews conducted under section 114(3)(b), in the proportion that each mandated iwi organisation represents of the notional iwi population specified in column 2 of Schedule 3, including—
+(2) Mandated iwi organisations must fund reviews conducted under section 114(3)﻿(b), in the proportion that each mandated iwi organisation represents of the notional iwi population specified in column 2 of Schedule 3, including—
   (a) the budget for a committee of representatives; and
   (b) remuneration and reimbursing allowances or actual and reasonable expenses for the members of a committee of representatives, in accordance with the provisions included in the annual plan of Te Ohu Kai Moana Trustee Limited under section 37(e) and (g).
 
@@ -1599,11 +1599,11 @@ In the case of an audit of Te Ohu Kai Moana Trustee Limited, the audit must cons
   (a) to set the terms of reference for the review in respect of which the committee has been appointed; and
   (b) to appoint the reviewer; and
   (c) to receive and distribute the review report in accordance with section 125.
-(2) The committee of representatives must complete its functions in subsection (1)(a) and (b) not later than 60 working days after the date specified under section 117(2)(b).
+(2) The committee of representatives must complete its functions in subsection (1)﻿(a) and (b) not later than 60 working days after the date specified under section 117(2)﻿(b).
 
 ### 119 Terms of reference
 (1) The terms of reference required by section 118(1) must include—
-  (a) the date for the commencement of the review (which must be not later than 6 months after the date of the notice given under section 117(2)(b)); and
+  (a) the date for the commencement of the review (which must be not later than 6 months after the date of the notice given under section 117(2)﻿(b)); and
   (b) the date by which the review report must be presented under section 125(1) (which must be not later than 6 months after the commencement date set under paragraph (a)).
 (2) Before finalising the terms of reference for the review, the committee of representatives must, for the purposes of consultation,—
   (a) provide the draft terms of reference to—
@@ -1670,7 +1670,7 @@ Every review conducted under section 114 must take into account—
   (a) the reviewer must—
     (i) include the finding in the review report; but
     (ii) not recommend that the restrictions be changed; and
-  (b) a subsequent review must be carried out, as provided for by section 114(3)(a), not later than 5 years after the completion of the review under section 114(2).
+  (b) a subsequent review must be carried out, as provided for by section 114(3)﻿(a), not later than 5 years after the completion of the review under section 114(2).
 (3) If, in conducting a review of Te Putea Whakatupu Trustee Limited or Te Wai Maori Trustee Limited under section 114(2) or (3), a reviewer finds that the entity continues to fulfil its purpose under this Act, the reviewer must not recommend that the relevant trust be wound up.
 (4) If a reviewer makes findings of the kind referred to in subsections (2) or (3), mandated iwi organisations must not amend a recommendation to achieve a change to the restriction.
 
@@ -1701,7 +1701,7 @@ Every review conducted under section 114 must take into account—
   (a) the review report; and
   (b) any plan prepared under section 126(1) by the entity under review; and
   (c) any comments from mandated iwi organisations on the review report or on any plan; and
-  (d) any comments from members or alternate members of Te Kawai Taumata on the review report, as provided for in section 56(2)(d).
+  (d) any comments from members or alternate members of Te Kawai Taumata on the review report, as provided for in section 56(2)﻿(d).
 (2) At the meeting referred to in subsection (1), the mandated iwi organisations may resolve to—
   (a) adopt all or some of the recommendations set out in the review report; or
   (b) adopt all or part of the plan prepared under section 126(1); or
@@ -1783,10 +1783,10 @@ In sections 132 to 134,—
     (iii) a copy of any notice given under paragraph (a).
 
 ### 134 Allocation and transfer after request under section 132(2)
-(1) If, before the date specified in the notice issued to a named iwi under section 133(2)(a)(iii), Te Ohu Kai Moana Trustee Limited recognises a mandated iwi organisation for that iwi, the mandated iwi organisation that made the request under section 132(2) must—
+(1) If, before the date specified in the notice issued to a named iwi under section 133(2)﻿(a)﻿(iii), Te Ohu Kai Moana Trustee Limited recognises a mandated iwi organisation for that iwi, the mandated iwi organisation that made the request under section 132(2) must—
   (a) complete the necessary agreements in accordance with clauses 6 and 7 of Schedule 6; and
   (b) request Te Ohu Kai Moana Trustee Limited to register those agreements under clause 8 of Schedule 6.
-(2) If, after the date specified in the notice issued to a named iwi under section 133(2)(a)(iii), any agreements required under subsection (1) have been completed, but 1 or more named iwi do not have a mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must proceed to determine coastline entitlements for the mandated iwi organisation that made the request under section 132(2).
+(2) If, after the date specified in the notice issued to a named iwi under section 133(2)﻿(a)﻿(iii), any agreements required under subsection (1) have been completed, but 1 or more named iwi do not have a mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must proceed to determine coastline entitlements for the mandated iwi organisation that made the request under section 132(2).
 (3) Coastline entitlements determined under subsection (2) must be made in accordance with—
   (a) section 11 and Schedule 6; and
   (b) the coastline claims made by the mandated iwi organisation, as supported or modified by any agreements registered under clause 8 of Schedule 6.
@@ -1795,17 +1795,17 @@ In sections 132 to 134,—
 **Discretionary power**
 
 ### 135 Discretion to allocate and transfer
-(1) If a mandated iwi organisation does not, 2 years or more after the date when it, or the iwi's first mandated iwi organisation (for a mandated iwi organisation that replaced another organisation under section 18E(2)), was recognised by Te Ohu Kai Moana Trustee Limited, hold the registered coastline entitlements required by section 130(3)(b), Te Ohu Kai Moana Trustee Limited may allocate and transfer, in accordance with sections 130(1) and 151, any or all of the following settlement assets to that mandated iwi organisation:
+(1) If a mandated iwi organisation does not, 2 years or more after the date when it, or the iwi's first mandated iwi organisation (for a mandated iwi organisation that replaced another organisation under section 18E(2)), was recognised by Te Ohu Kai Moana Trustee Limited, hold the registered coastline entitlements required by section 130(3)﻿(b), Te Ohu Kai Moana Trustee Limited may allocate and transfer, in accordance with sections 130(1) and 151, any or all of the following settlement assets to that mandated iwi organisation:
   (a) non-quota settlement assets:
   (b) settlement quota for which the mandated iwi organisation holds a registered coastline entitlement:
   (c) settlement quota for which the mandated iwi organisation does not hold a registered coastline entitlement.
-(2) However, if a transfer is made under subsection (1)(c),—
+(2) However, if a transfer is made under subsection (1)﻿(c),—
   (a) settlement quota that is to be allocated on the basis of coastline may only be transferred in proportion to the length of coastline of the relevant iwi that Te Ohu Kai Moana Trustee Limited is satisfied is unlikely to be disputed; and
-  (b) in the case of deepwater quota for which a registered coastline entitlement is required, settlement quota that is to be allocated on the basis of population must not be transferred unless a transfer of that quota management stock is made under subsection (2)(a).
-(3) Assets transferred under subsection (1)(a) or (b) must have been allocated to the iwi in accordance with sections 137 and 139 to 141.
+  (b) in the case of deepwater quota for which a registered coastline entitlement is required, settlement quota that is to be allocated on the basis of population must not be transferred unless a transfer of that quota management stock is made under subsection (2)﻿(a).
+(3) Assets transferred under subsection (1)﻿(a) or (b) must have been allocated to the iwi in accordance with sections 137 and 139 to 141.
 
 ### 136 Limitations applying if mandated iwi organisation receives settlement quota under section 135
-(1) If settlement quota is transferred to a mandated iwi organisation under section 135(1)(c), the mandated iwi organisation, or a new organisation recognised in place of that organisation under section 18E(2), must—
+(1) If settlement quota is transferred to a mandated iwi organisation under section 135(1)﻿(c), the mandated iwi organisation, or a new organisation recognised in place of that organisation under section 18E(2), must—
   (a) not sell, exchange, or otherwise transfer that quota until it holds registered coastline entitlements for the relevant quota management stock; and
   (b) where another mandated iwi organisation becomes entitled to any amount of that quota as a result of holding a registered coastline entitlement, transfer the relevant amount of that quota to that mandated iwi organisation without consideration or compensation before the start of the next fishing year.
 (2) This section applies in addition to, and does not limit, the provisions of Part 4.
@@ -1836,7 +1836,7 @@ In sections 132 to 134,—
   (a) submits a written proposal to do so to the mandated iwi organisation of each iwi listed in Schedule 3; and
   (b) at least 75% of mandated iwi organisations, representing at least 50% of the total notional iwi population specified in column 3 of Schedule 3, support the proposal in writing to Te Ohu Kai Moana Trustee Limited not later than 20 working days after the date when Te Ohu Kai Moana Trustee Limited submitted the proposal to mandated iwi organisations.
 (4) Despite subsections (2) and (3), Te Ohu Kai Moana Trustee Limited may set aside up to $10 million from the net positive cash balance referred to in subsection (2) against its liability to Te Wai Maori Trustee Limited under section 103(3).
-(5) In this section the forecast net positive cash balance referred to in subsection (1) must be determined according to generally accepted accounting practice, after taking into account the amounts allocated under section 137(1)(a) to (d) and (f), but yet to be paid.
+(5) In this section the forecast net positive cash balance referred to in subsection (1) must be determined according to generally accepted accounting practice, after taking into account the amounts allocated under section 137(1)﻿(a) to (d) and (f), but yet to be paid.
 
 ### 138A Allocation and transfer of New Zealand units
 (1) In this section—
@@ -1848,7 +1848,7 @@ In sections 132 to 134,—
 **Income shares**
 
 ### 139 Allocation of income shares
-Te Ohu Kai Moana Trustee Limited must allocate the income shares in Aotearoa Fisheries Limited referred to in section 67(3)(b) to iwi—
+Te Ohu Kai Moana Trustee Limited must allocate the income shares in Aotearoa Fisheries Limited referred to in section 67(3)﻿(b) to iwi—
   (a) in the percentage specified for each iwi in column 3 of Schedule 3; and
   (b) in accordance with the requirements of sections 130 and 135.
 
@@ -1882,7 +1882,7 @@ When allocating deepwater quota to iwi, Te Ohu Kai Moana Trustee Limited must—
 (2) If a quota management area is partly within the Chatham zone, the settlement quota for that quota management stock must be divided for the purpose of allocation into 2 portions in accordance with subsection (3), with—
   (a) 1 portion being attributed to the Chatham zone; and
   (b) the other portion being attributed to the remaining part of the quota management area to be allocated under section 140 or section 141 or section 144, as if it were an allocation for a complete quota management area.
-(3) If settlement quota for a stock is to be divided under subsection (2), the portion of the quota for the stock attributable to the Chatham zone is given by—a× cbwherea = ac −as2andacmeans the amount of stock taken in the Chatham zoneasmeans the amount of stock taken from the shared zoneac and asare derived from—bmeans the total of all commercial catches for the stock for the relevant period described in subparagraphs (i) and (ii)cmeans the amount of settlement quota for the stock.
+(3) If settlement quota for a stock is to be divided under subsection (2), the portion of the quota for the stock attributable to the Chatham zone is given by— a× cbwhere a = ac −as2andacmeans the amount of stock taken in the Chatham zoneasmeans the amount of stock taken from the shared zoneac and asare derived from—bmeans the total of all commercial catches for the stock for the relevant period described in subparagraphs (i) and (ii)cmeans the amount of settlement quota for the stock.
   (i) in the case of stocks introduced into the quota management system before 1 October 1999, the total of all commercial catches for the stock for the fishing years commencing on 1 October 1990 and ending on 30 September 2001 (inclusive):
   (ii) in the case of stocks introduced into the quota management system after 1 October 1999, the total of all commercial catches of the stock for the most recent 5 fishing years of available data
 (4) If a quota management area is wholly within the Chatham zone, all the settlement quota for that stock is attributed to the Chatham zone.
@@ -1904,7 +1904,7 @@ When allocating deepwater quota to iwi, Te Ohu Kai Moana Trustee Limited must—
   (b) to agree on the proportion of the harbour quota for each relevant stock that must be—
     (i) attributed to each iwi; and
     (ii) used subsequently by the mandated iwi organisation of each iwi in submitting coastline claims for that harbour quota.
-(3) If, after negotiating in good faith, mandated iwi organisations are unable to reach agreement under subsection (2)(b), they may enter into the dispute resolution process provided for in Part 5.
+(3) If, after negotiating in good faith, mandated iwi organisations are unable to reach agreement under subsection (2)﻿(b), they may enter into the dispute resolution process provided for in Part 5.
 (4) Harbour quota must be deducted from the total settlement quota for each relevant stock before the general allocation of that stock is made under section 140.
 (5) The classification of settlement quota as harbour quota under section 7 for each quota management stock lapses when all that quota has been allocated.
 
@@ -1948,7 +1948,7 @@ The number of quota shares listed in the third column of Schedule 1 for a quota 
 (2) If more than 1 iwi has its territory within a quota management area, an allocation of freshwater quota under subsection (1) may be made by Te Ohu Kai Moana Trustee Limited only—
   (a) in accordance with an agreement entered into by the mandated iwi organisations of all the iwi whose territory is wholly or partly within the quota management area, that sets out how the settlement quota for the quota management area is to be divided among those iwi; or
   (b) if there is no agreement between the mandated iwi organisations of the iwi whose territory is wholly or partly within the quota management area, as identified under subsection (1), in the proportion that the population of each iwi living within the quota management area bears to the combined population of those iwi living within the quota management area.
-(3) For the purpose of subsection (2)(b), the population of an iwi living within a quota management area must be determined from the 2001 census.
+(3) For the purpose of subsection (2)﻿(b), the population of an iwi living within a quota management area must be determined from the 2001 census.
 
 **Alteration of quota management areas under Fisheries Act 1996**
 
@@ -1998,16 +1998,16 @@ The number of quota shares listed in the third column of Schedule 1 for a quota 
 (2) Te Ohu Kai Moana Trustee Limited may, as it sees fit,—
   (a) offer to sell the annual catch entitlement that would otherwise be offered to a mandated iwi organisation under subsection (1) to Aotearoa Fisheries Limited or its nominated subcompany at commercial rates; or
   (b) sell that annual catch entitlement on the open market; or
-  (c) in the circumstances referred to in subsection (3)(c), determine the amount of annual catch entitlement to be offered to each affected mandated iwi organisation.
+  (c) in the circumstances referred to in subsection (3)﻿(c), determine the amount of annual catch entitlement to be offered to each affected mandated iwi organisation.
 (3) Subsection (2) applies only if—
   (a) there is no mandated iwi organisation or recognised iwi organisation for an iwi; or
   (b) Te Ohu Kai Moana Trustee Limited considers that the recognised iwi organisation has not demonstrated reasonable progress in meeting the criteria set out in section 14; or
   (c) in the case of a particular group of iwi,—
-    (i) there is sufficient information to satisfy subsection (1)(b) for the group as a whole, but not for 1 or more individual iwi of that group; and
+    (i) there is sufficient information to satisfy subsection (1)﻿(b) for the group as a whole, but not for 1 or more individual iwi of that group; and
     (ii) the mandated iwi organisations of the group as a whole are unable to agree on a division of the annual catch entitlement to be offered to them.
-(4) Te Ohu Kai Moana Trustee Limited must hold in trust the net proceeds of a sale under subsection (2)(a) or (b) (after deducting its reasonable costs and expenses) to be transferred to the relevant mandated iwi organisation when it is established or when the matters referred to in subsection (3)(b) or (c) are remedied or settled.
-(5) Te Ohu Kai Moana Trustee Limited may prescribe the terms and conditions for offering annual catch entitlement under subsection (1) or subsection (2)(c)—
-  (a) by describing in its draft annual plan distributed in accordance with section 36(1)(c), or in a panui distributed to all mandated iwi organisations and recognised iwi organisations,—
+(4) Te Ohu Kai Moana Trustee Limited must hold in trust the net proceeds of a sale under subsection (2)﻿(a) or (b) (after deducting its reasonable costs and expenses) to be transferred to the relevant mandated iwi organisation when it is established or when the matters referred to in subsection (3)﻿(b) or (c) are remedied or settled.
+(5) Te Ohu Kai Moana Trustee Limited may prescribe the terms and conditions for offering annual catch entitlement under subsection (1) or subsection (2)﻿(c)—
+  (a) by describing in its draft annual plan distributed in accordance with section 36(1)﻿(c), or in a panui distributed to all mandated iwi organisations and recognised iwi organisations,—
     (i) the proposed terms and conditions for offering annual catch entitlements; and
     (ii) the reason for the charges (if any) to be levied for annual catch entitlements against mandated iwi organisations; and
     (iii) how Te Ohu Kai Moana Trustee Limited proposes to use the expected net revenue (if any) from these charges; and
@@ -2021,7 +2021,7 @@ The number of quota shares listed in the third column of Schedule 1 for a quota 
 (1) Unless Te Ohu Kai Moana Trustee Limited exercises its discretion under section 135(1), it must hold in trust for each iwi that does not comply with section 130(3)—
   (a) the income shares that would otherwise be transferred to each mandated iwi organisation; and
   (b) any dividends that relate to those shares.
-(2) Te Ohu Kai Moana Trustee Limited is entitled to withhold from any dividends held in trust under subsection (1)(b) the reasonable costs incurred in administering the income shares and dividends.
+(2) Te Ohu Kai Moana Trustee Limited is entitled to withhold from any dividends held in trust under subsection (1)﻿(b) the reasonable costs incurred in administering the income shares and dividends.
 
 **Status of settlement assets for purposes of Inland Revenue Acts and other enactments**
 
@@ -2030,7 +2030,7 @@ The number of quota shares listed in the third column of Schedule 1 for a quota 
 (2) Income tax, goods and services tax, gift duty, any tax duty levy, and any other charge imposed or provided for under the Inland Revenue Acts or any other enactment do not apply to allocations or transfers of settlement assets—
   (a) by Te Ohu Kai Moana Trustee Limited to—
     (i) mandated iwi organisations; or
-    (ii) asset-holding companies required by section 12(1)(d); or
+    (ii) asset-holding companies required by section 12(1)﻿(d); or
     (iii) Te Putea Whakatupu Trustee Limited; or
     (iv) Te Wai Maori Trustee Limited; and
   (b) by an asset-holding company to any of its subsidiaries established under section 16(3), so long as that allocation or transfer is completed within 12 months of the transfer of settlement assets by Te Ohu Kai Moana Trustee Limited to the relevant asset-holding company under section 151.
@@ -2074,7 +2074,7 @@ In this Part, bundle of assets means a bundle that contains 1 or more stocks of 
     (i) at a general meeting of the mandated iwi organisation called for the purpose; or
     (ii) by postal ballot; and
   (c) obtained the approval of any party that holds a mortgage or caveat registered against the quota.
-(3) A public notice given under subsection (2)(a) must specify the quota management stock and the number of quota shares affected by the proposal.
+(3) A public notice given under subsection (2)﻿(a) must specify the quota management stock and the number of quota shares affected by the proposal.
 
 ### 160 Application for registration
 (1) This section applies if Te Ohu Kai Moana Trustee Limited—
@@ -2085,7 +2085,7 @@ In this Part, bundle of assets means a bundle that contains 1 or more stocks of 
   (a) request the chief executive of the Ministry of Fisheries to register a settlement quota interest against the quota shares; and
   (b) specify which quota management stock is the subject of the request; and
   (c) specify the number of quota shares to which the request applies.
-(3) If, in the case of an exchange contemplated by subsection (1)(c), a request is made to remove a settlement quota interest from settlement quota, Te Ohu Kai Moana Trustee Limited and the registered owner of the quota jointly (or Te Ohu Kai Moana Trustee Limited alone if it is the registered owner of the quota) must—
+(3) If, in the case of an exchange contemplated by subsection (1)﻿(c), a request is made to remove a settlement quota interest from settlement quota, Te Ohu Kai Moana Trustee Limited and the registered owner of the quota jointly (or Te Ohu Kai Moana Trustee Limited alone if it is the registered owner of the quota) must—
   (a) request the chief executive of the Ministry of Fisheries to remove the settlement quota interest from the quota shares; and
   (b) specify which quota management stock is the subject of the request; and
   (c) specify the number of quota shares to which the request applies.
@@ -2110,18 +2110,18 @@ In this Part, bundle of assets means a bundle that contains 1 or more stocks of 
   (b) obtained the prior approval of not less than 75% of the adult members of the iwi who vote—
     (i) at a general meeting of the mandated iwi organisation called for the purpose; or
     (ii) by postal ballot.
-(2) A notice given under subsection (1)(a) must specify,—
+(2) A notice given under subsection (1)﻿(a) must specify,—
   (a) in the public notice, the approximate proportion of the total value of the settlement quota of the iwi that is affected by the proposal; and
   (b) in the case of a private notice to an adult member of the iwi,—
     (i) the amount of settlement quota of the iwi affected by the proposal; and
     (ii) a reasonable estimate of the likely market value of that settlement quota.
-(3) An approval obtained under subsection (1)(b) may give a power for the mandated iwi organisation to sell—
+(3) An approval obtained under subsection (1)﻿(b) may give a power for the mandated iwi organisation to sell—
   (a) specified settlement quota; or
   (b) settlement quota generally up to a specified limit that must not exceed 10% of the total value of the settlement quota held by the asset-holding companies or any subsidiary of the asset-holding companies of the mandated iwi organisation; or
-  (c) settlement quota approved for sale in accordance with a programme set out in the annual plan approved under kaupapa 11(b)(iii) of Schedule 7.
-(4) For transactions involving settlement quota, an approval obtained under subsection (1)(b) is valid from the date on which it is given—
+  (c) settlement quota approved for sale in accordance with a programme set out in the annual plan approved under kaupapa 11(b)﻿(iii) of Schedule 7.
+(4) For transactions involving settlement quota, an approval obtained under subsection (1)﻿(b) is valid from the date on which it is given—
   (a) for a term not exceeding 15 months; or
-  (b) in the case of an approval of the kind referred to in subsection (3)(b), for the term specified in the approval, which must not exceed 12 months.
+  (b) in the case of an approval of the kind referred to in subsection (3)﻿(b), for the term specified in the approval, which must not exceed 12 months.
 (5) The terms referred to in subsection (4) do not limit the term of a transaction or series of transactions referred to in section 167.
 
 **Option to purchase**
@@ -2136,7 +2136,7 @@ In this Part, bundle of assets means a bundle that contains 1 or more stocks of 
 
 ### 164 Procedure for selling bundle of assets
 If bids have been received under section 163(1) to purchase a bundle of assets as a single lot, the mandated iwi organisation offering to sell must—
-  (a) calculate the sum of the highest bids received under section 163(2)(b) for each of the asset lots; and
+  (a) calculate the sum of the highest bids received under section 163(2)﻿(b) for each of the asset lots; and
   (b) either—
     (i) notify all bidders of its intention to proceed with the sale as a bundle of assets or as separate lots, whichever yields the higher total cash return based on the bids received; or
     (ii) withdraw the settlement quota from sale.
@@ -2185,7 +2185,7 @@ If assets offered for sale under section 163 include inshore or freshwater settl
 (1) Te Ohu Kai Moana Trustee Limited must allow a sale of settlement quota if it has ascertained that—
   (a) in the case of a sale by a mandated iwi organisation,—
     (i) the 2-year period referred to in section 161(2) has elapsed; and
-    (ii) the mandated iwi organisation has obtained the approval required by section 162(1)(b); and
+    (ii) the mandated iwi organisation has obtained the approval required by section 162(1)﻿(b); and
   (b) in the case of a sale by a mandated iwi organisation or by an entity within Te Ohu Kai Moana Group, the offer of an option to purchase has been made as required by sections 163 to 166.
 (2) If a mandated iwi organisation or an entity within Te Ohu Kai Moana Group proposes to sell settlement quota, it must provide documentation to Te Ohu Kai Moana Trustee Limited, supported by a statutory declaration if Te Ohu Kai Moana Trustee Limited so requires, to establish the matters relevant under subsection (1).
 (3) Te Ohu Kai Moana Trustee Limited—
@@ -2245,10 +2245,10 @@ Subpart 2 does not apply to—
 (1) Before a mandated iwi organisation may exchange settlement quota under section 173, it must—
   (a) advise Te Ohu Kai Moana Trustee Limited, for each quota management stock, of—
     (i) the number of settlement quota shares it proposes to offer for exchange; and
-    (ii) an estimate of the fair market value of those shares, determined in accordance with any rules made under section 176(2)(g); and
+    (ii) an estimate of the fair market value of those shares, determined in accordance with any rules made under section 176(2)﻿(g); and
     (iii) the stock and the number of shares to be received by the mandated iwi organisation in exchange for the settlement quota referred to in subparagraph (i); and
     (iv) whether the quota to be received is settlement quota; and
-    (v) an estimate of the fair market value of the quota shares to be received, determined in accordance with any rules made under section 176(2)(g); and
+    (v) an estimate of the fair market value of the quota shares to be received, determined in accordance with any rules made under section 176(2)﻿(g); and
   (b) obtain the consent of Te Ohu Kai Moana Trustee Limited to the exchange; and
   (c) ensure that the exchange complies with the policy on exchanges, as expressed in the annual plan of the mandated iwi organisation.
 (2) The mandated iwi organisation must provide to Te Ohu Kai Moana Trustee Limited documentation, supported by a statutory declaration if Te Ohu Kai Moana Trustee Limited so requires, to establish the matters referred to in subsection (1).
@@ -2314,7 +2314,7 @@ This Part provides a process for the resolution of disputes over specified decis
 (1) A person who makes a decision specified in section 180(1) must notify the parties in writing of—
   (a) the nature of the decision that has been made; and
   (b) if requested by a party, the principal reasons for the decision.
-(2) Subsection (1)(b) applies only to the extent that it is not inconsistent with any other enactment or rule of law.
+(2) Subsection (1)﻿(b) applies only to the extent that it is not inconsistent with any other enactment or rule of law.
 (3) Notification required by subsection (1) may be made by publication in the Gazette or in another publication that the decision maker considers appropriate.
 
 **Application of Part**
@@ -2354,7 +2354,7 @@ This Part provides a process for the resolution of disputes over specified decis
     (iii) determination of the dispute by an independent expert; and
   (b) before proceeding to take any other action under this Part, engage in the process agreed under paragraph (a).
 (2) Unless Te Ohu Kai Moana Trustee Limited is a party to the dispute, a party may refer the dispute to Te Ohu Kai Moana Trustee Limited for determination if—
-  (a) the parties cannot agree on a dispute resolution process under subsection (1)(a); or
+  (a) the parties cannot agree on a dispute resolution process under subsection (1)﻿(a); or
   (b) the timetable for the dispute resolution process is not being complied with; or
   (c) the dispute resolution process does not resolve the dispute.
 
@@ -2362,7 +2362,7 @@ This Part provides a process for the resolution of disputes over specified decis
 (1) This section applies if—
   (a) Te Ohu Kai Moana Trustee Limited is one of the parties to a dispute referred to in section 180(1); or
   (b) resolution is unable to be reached under section 181.
-(2) A party to a dispute may, except in a dispute over a decision referred to in section 180(1)(g), refer the dispute to the Maori Land Court under section 26B of Te Ture Whenua Maori Act 1993 to obtain—
+(2) A party to a dispute may, except in a dispute over a decision referred to in section 180(1)﻿(g), refer the dispute to the Maori Land Court under section 26B of Te Ture Whenua Maori Act 1993 to obtain—
   (a) advice on an appropriate dispute resolution process for the purposes of section 181(1):
   (b) a non-binding ruling on a question of fact or law to assist in the conduct of the dispute resolution process.
 (3) The Maori Land Court may make a determination under section 26C of Te Ture Whenua Maori Act 1993 if, on a reference to it under subsection (2), it is of the view that the parties have taken reasonable steps to resolve a dispute resolution process provided for under section 181(1).
@@ -2378,10 +2378,10 @@ This Part provides a process for the resolution of disputes over specified decis
   (c) an action taken by Te Ohu Kai Moana Trustee Limited in reliance on section 186:
   (d) an application made under section 187:
   (e) an order made by a Judge under section 26M of Te Ture Whenua Maori Act 1993.
-(2) Until a matter referred to in subsection (1)(a) to (d) has been determined under section 26C of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not—
+(2) Until a matter referred to in subsection (1)﻿(a) to (d) has been determined under section 26C of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not—
   (a) apply for review under Part 1 of the Judicature Amendment Act 1972; or
   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
-(3) Until all rights of appeal in relation to an order referred to in subsection (1)(e) have been exercised in full, a person who is a party to the matter which is the subject of the order must not—
+(3) Until all rights of appeal in relation to an order referred to in subsection (1)﻿(e) have been exercised in full, a person who is a party to the matter which is the subject of the order must not—
   (a) apply for review under Part 1 of the Judicature Amendment Act 1972; or
   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
 
@@ -2393,7 +2393,7 @@ This Part provides a process for the resolution of disputes over specified decis
 (3) If, within that 30-working day period, all parties notified of a decision under section 180 advise the decision maker that they do not wish to invoke the dispute resolution process, that waiver is binding on the parties.
 
 ### 185 Powers of Te Ohu Kai Moana Trustee Limited in relation to mandated iwi organisations
-(1) Whether or not the processes in sections 181 and 182 have been followed by the parties that dispute a decision referred to in section 180(1)(d) or (e), Te Ohu Kai Moana Trustee Limited may apply to the Maori Land Court under section 26C of Te Ture Whenua Maori Act 1993 for an order denying or suspending recognition of a mandated iwi organisation on the ground that—
+(1) Whether or not the processes in sections 181 and 182 have been followed by the parties that dispute a decision referred to in section 180(1)﻿(d) or (e), Te Ohu Kai Moana Trustee Limited may apply to the Maori Land Court under section 26C of Te Ture Whenua Maori Act 1993 for an order denying or suspending recognition of a mandated iwi organisation on the ground that—
   (a) it fails to meet 1 or more of the criteria set out in section 14; or
   (b) it is not making reasonable efforts to meet the requirements to enable it to qualify to receive settlement assets under section 130.
 (2) An application referred to in subsection (1) must explain fully why, in the opinion of Te Ohu Kai Moana Trustee Limited, the mandated iwi organisation has failed to meet 1 or more of the relevant criteria.
@@ -3387,7 +3387,7 @@ In this Part,—
   - **coastal boundary point** means any point on the mean high-water mark whose co-ordinates are defined under the Fisheries Act 1996
   - **coastal endpoint** means a point on the mean high-water mark that is defined in the description of a quota management area under the Fisheries Act 1996
   - **harbour entrance point** means a point on the mean high-water mark on either the northern or southern entrance of the harbour, the co-ordinates of which are listed in Part 1 of Schedule 2
-  - **specified point** means a point on the coastline that complies with clause 3(2)(b).
+  - **specified point** means a point on the coastline that complies with clause 3(2)﻿(b).
 
 ### 3 Method of making coastline claim
 (1) To enable Te Ohu Kai Moana Trustee Limited to make a determination of the coastline entitlements of an iwi as required by section 11, the mandated iwi organisation of that iwi must submit to Te Ohu Kai Moana Trustee Limited—
@@ -3402,14 +3402,14 @@ In this Part,—
   (c) a percentage representing the proportion of the coastline between the 2 specified points that the mandated iwi organisation is claiming for that stock; and
   (d) all affected iwi for that claim.
 (3) A coastline claim submitted under this clause may—Example relating to clause 3Either of the points may be a point on the mean high-water mark taken from the description of the relevant quota management area boundary for the stock, as set out in Part 3 of Schedule 1 of the Fisheries Act 1996 or otherwise defined under that Act.If the 2 specified points mark out the 2 extremities of a claimant’s territory, the percentage claimed would be 100%.If a mandated iwi organisation has agreed a percentage split with other mandated iwi organisations, they may set out the points marking out the whole area to which the agreement relates, and the percentage of that area assigned by agreement to the claimant iwi.
-  (a) contain all, or only some, of the coastline claims necessary to enable Te Ohu Kai Moana Trustee Limited to determine all the coastline entitlements for the mandated iwi organisation, as required by section 130(3)(b):
+  (a) contain all, or only some, of the coastline claims necessary to enable Te Ohu Kai Moana Trustee Limited to determine all the coastline entitlements for the mandated iwi organisation, as required by section 130(3)﻿(b):
   (b) be an interim coastline claim as provided for in clause 4 or a supplementary coastline claim as provided for in clause 5.
 
 ### 4 Interim coastline claims
 (1) If 2 mandated iwi organisations are unable to reach agreement to allow their coastline claims to be made under clause 3, but are able to agree in writing to the geographical extent of the coastline under dispute, each may submit an interim coastline claim based on the undisputed coastline.
 (2) An interim coastline claim must comply with the requirements of clause 3, except that it must exclude the area of coastline under dispute.
 (3) Following verification under clause 10, an interim coastline claim may be used to determine under clause 11 a coastline entitlement that is then registered as an interim coastline entitlement.
-(4) An interim coastline entitlement for a quota management stock satisfies the requirements of section 130(3)(b) for that stock.Example relating to clauses 4 and 5Interim and supplementary claimsIwi A and iwi B have overlapping claims to a section of coastline. They sign an agreement to exclude the coastline between points X and Y. They may then make interim coastline claims as provided for by clause 3(3)(b), which may allow them to qualify for allocation of settlement assets. The quota allocated on the basis of the coastline length between points X and Y must be held back by Te Ohu Kai Moana Trustee Limited until the dispute is resolved.Following allocation on this basis, where iwi are unable to agree on a boundary point within the section of coastline between points X and Y, they may be able to agree on a percentage split for that section without nominating a boundary point. This is provided for in clause 3.For example, iwi A and B may agree that, in order to finalise the allocation of settlement quota without conceding to the relevance of a particular point on the coast as a tribal boundary,—40% of the quota to be allocated on the basis of the disputed coastline should go to iwi A; and60% to iwi B.Both iwi could then submit a supplementary coastline claim to Te Ohu Kai Moana Trustee Limited as provided for by clause 3(3)(b), nominating points X and Y as the specified points and the agreed percentage for their iwi (40% for iwi A and 60% for iwi B).
+(4) An interim coastline entitlement for a quota management stock satisfies the requirements of section 130(3)﻿(b) for that stock.Example relating to clauses 4 and 5Interim and supplementary claimsIwi A and iwi B have overlapping claims to a section of coastline. They sign an agreement to exclude the coastline between points X and Y. They may then make interim coastline claims as provided for by clause 3(3)﻿(b), which may allow them to qualify for allocation of settlement assets. The quota allocated on the basis of the coastline length between points X and Y must be held back by Te Ohu Kai Moana Trustee Limited until the dispute is resolved.Following allocation on this basis, where iwi are unable to agree on a boundary point within the section of coastline between points X and Y, they may be able to agree on a percentage split for that section without nominating a boundary point. This is provided for in clause 3.For example, iwi A and B may agree that, in order to finalise the allocation of settlement quota without conceding to the relevance of a particular point on the coast as a tribal boundary,—40% of the quota to be allocated on the basis of the disputed coastline should go to iwi A; and60% to iwi B.Both iwi could then submit a supplementary coastline claim to Te Ohu Kai Moana Trustee Limited as provided for by clause 3(3)﻿(b), nominating points X and Y as the specified points and the agreed percentage for their iwi (40% for iwi A and 60% for iwi B).
 (5) To avoid doubt, this clause does not apply to a claim for harbour quota.
 
 ### 5 Supplementary coastline claims
@@ -3434,7 +3434,7 @@ In this Part,—
 (5) If any part of a claim has been the subject of dispute resolution under clause 9, the documentation of that process may be used to support a claim instead of the endorsements referred to in subclause (1), but the documentation must clearly set out the information required under subclause (3).
 
 ### 7 Agreements
-Before a mandated iwi organisation submits a claim under clause 3 to Te Ohu Kai Moana Trustee Limited, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under clause 6(3)(a) to (c).
+Before a mandated iwi organisation submits a claim under clause 3 to Te Ohu Kai Moana Trustee Limited, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under clause 6(3)﻿(a) to (c).
 
 ### 8 Registration of agreements
 (1) A mandated iwi organisation may, at any time, request Te Ohu Kai Moana Trustee Limited to verify and subsequently place on the iwi register any agreement made by mandated iwi organisations relating to coastline claims to which it is a party.
@@ -3452,7 +3452,7 @@ Before a mandated iwi organisation submits a claim under clause 3 to Te Ohu Kai 
 
 ### 10 Verification of coastline claim
 (1) After receiving a coastline claim under clause 3, Te Ohu Kai Moana Trustee Limited must—
-  (a) attempt to verify that all the data required by clause 3 or clause 6(3)(d) has been supplied for each stock for which a claim is made; and
+  (a) attempt to verify that all the data required by clause 3 or clause 6(3)﻿(d) has been supplied for each stock for which a claim is made; and
   (b) attempt to verify that each specified point is—
     (i) a coastal boundary point; or
     (ii) a harbour entrance point; or
@@ -3466,19 +3466,19 @@ Before a mandated iwi organisation submits a claim under clause 3 to Te Ohu Kai 
 
 ### 10A Determination of entitlements for harbour quota
 (1) This clause applies when Te Ohu Kai Moana Trustee Limited, after receiving a coastline claim for harbour quota,—
-  (a) has verified the matters set out in clause 10(1)(a) and (b); and
-  (b) is satisfied as to the matters set out in clause 10(1)(c).
-(2) Te Ohu Kai Moana Trustee Limited must determine coastline entitlements for harbour quota by multiplying the percentage set out in the claim (as required by clause 3(2)(c)) by the total number of harbour quota shares for the relevant stock and harbour.
+  (a) has verified the matters set out in clause 10(1)﻿(a) and (b); and
+  (b) is satisfied as to the matters set out in clause 10(1)﻿(c).
+(2) Te Ohu Kai Moana Trustee Limited must determine coastline entitlements for harbour quota by multiplying the percentage set out in the claim (as required by clause 3(2)﻿(c)) by the total number of harbour quota shares for the relevant stock and harbour.
 (3) For each harbour quota stock, the percentage set out in the claim and the number of shares resulting from the calculation made under subclause (2) together describe the coastline entitlement for the claimant iwi.
 
 ### 11 Determination of entitlements other than for harbour quota
 (1) Before the determination of a coastline entitlement under this clause, Te Ohu Kai Moana Trustee Limited must determine the length of the relevant quota management area by applying the 2 coastal endpoints for the area as input to the computation model described in Part 2 of this schedule.
-(2) When Te Ohu Kai Moana Trustee Limited has verified the matters set out in clause 10(1)(a) and (b) and is satisfied of the matters set out in clause 10(1)(c), it must determine coastline entitlements as follows:
+(2) When Te Ohu Kai Moana Trustee Limited has verified the matters set out in clause 10(1)﻿(a) and (b) and is satisfied of the matters set out in clause 10(1)﻿(c), it must determine coastline entitlements as follows:
   (a) for each coastline claim, the data representing the 2 specified points must be applied as input to the computation model to produce output that represents the coastline length between the 2 points; and
   (b) using the coastline length of the relevant quota management area determined under subclause (1), the percentage of the quota management area coastline represented by the result obtained from the calculation under paragraph (a) must be determined; and
-  (c) the result obtained from the determination under paragraph (b) must be multiplied by the percentage set out in the claim, as required by clause 3(2)(c); and
+  (c) the result obtained from the determination under paragraph (b) must be multiplied by the percentage set out in the claim, as required by clause 3(2)﻿(c); and
   (d) the result obtained from the calculation under paragraph (c) must be multiplied by the total number of settlement quota shares to be allocated on the basis of coastline for the stock that is the subject of the claim.
-(3) For each stock, the results obtained from calculations made under subclause (2)(c) and (d) together describe the coastline entitlement for the claimant iwi.Examples for clause 11If the stock is an inshore stock, the entitlement is a percentage of the total settlement quota for that stock, and the equivalent number of quota shares.If the stock is a deepwater stock, the entitlement is a percentage of the part of the settlement quota that is allocated on the basis of coastline (ie, 25% of the total settlement quota for the stock, and the equivalent number of quota shares).
+(3) For each stock, the results obtained from calculations made under subclause (2)﻿(c) and (d) together describe the coastline entitlement for the claimant iwi.Examples for clause 11If the stock is an inshore stock, the entitlement is a percentage of the total settlement quota for that stock, and the equivalent number of quota shares.If the stock is a deepwater stock, the entitlement is a percentage of the part of the settlement quota that is allocated on the basis of coastline (ie, 25% of the total settlement quota for the stock, and the equivalent number of quota shares).
 
 ### 11A Recalculation of entitlements
 (1) Subsection (2) applies if—
@@ -3545,11 +3545,11 @@ The calculation of coastline lengths must be based on the following decision rul
     (i) the term of office of a member or alternate member expires under clause 5; or
     (ii) a member or alternate member is removed under clause 6; or
     (iii) a member or alternate member dies or resigns.
-(2) In the case of the initial appointments referred to in subclause (1)(a), the mandated iwi organisation of the first iwi named in each group of iwi set out in Schedule 3 (except Group B—NGAPUHI) must—
+(2) In the case of the initial appointments referred to in subclause (1)﻿(a), the mandated iwi organisation of the first iwi named in each group of iwi set out in Schedule 3 (except Group B—NGAPUHI) must—
   (a) appoint a time and place to hold a meeting of the representatives of the mandated iwi organisations of every iwi in the group; and
   (b) give not less than 10 working days’ notice of the meeting to all mandated iwi organisations in the same group, or other period of notice previously agreed by them; and
   (c) advise Te Ohu Kai Moana Trustee Limited of the name of the member and the alternate member appointed to Te Kawai Taumata by the mandated iwi organisations of that group of iwi.
-(3) In the case of a subsequent appointment referred to in subclause (1)(b), the requirements of subclause (2) apply only to the group of iwi that needs to make an appointment.
+(3) In the case of a subsequent appointment referred to in subclause (1)﻿(b), the requirements of subclause (2) apply only to the group of iwi that needs to make an appointment.
 (4) In the case of Group B—NGAPUHI, as set out in Schedule 3, the mandated iwi organisation must—
   (a) appoint a time and place to hold a meeting of the directors, trustees, or office holders; and
   (b) give not less than 10 working days’ notice of the meeting to all directors, trustees, or office holders, or any other period of notice previously agreed by them; and
@@ -3558,10 +3558,10 @@ The calculation of coastline lengths must be based on the following decision rul
   (a) appoint a time and place to hold a meeting of 1 representative from each representative Maori organisation; and
   (b) give not less than 10 working days’ notice of the meeting to every other representative Maori organisation, or other period of notice previously agreed by them; and
   (c) advise Te Ohu Kai Moana Trustee Limited of the name of the member and the alternate member appointed to Te Kawai Taumata by the representative Maori organisations.
-(6) A notice given under subclause (2)(b) or subclause (4)(b) or subclause (5)(b) may be combined with a notice given under clause 7 or clause 8.
+(6) A notice given under subclause (2)﻿(b) or subclause (4)﻿(b) or subclause (5)﻿(b) may be combined with a notice given under clause 7 or clause 8.
 
 ### 2 Purpose of meetings
-The only purpose and business of the meetings referred to in clause 1(2)(a), (4)(a), and (5)(a) is to appoint a member of Te Kawai Taumata, an alternate member, or both, unless clause 6 applies.
+The only purpose and business of the meetings referred to in clause 1(2)﻿(a), (4)﻿(a), and (5)﻿(a) is to appoint a member of Te Kawai Taumata, an alternate member, or both, unless clause 6 applies.
 
 ### 3 Voting to appoint or remove members or alternate members
 (1) At meetings held for the purposes of clause 1 or clause 6,—
@@ -3642,7 +3642,7 @@ Except as otherwise provided in this Act, the members or alternate members of Te
   (a) may, as he or she considers necessary, call meetings of Te Kawai Taumata to—
     (i) consider whether any action is necessary under section 46 or section 49(2); or
     (ii) appoint or remove directors of Te Ohu Kai Moana Trustee Limited under section 46 or section 49(2), as the case may be; and
-  (b) must, if requested by at least 2 members, call a meeting of Te Kawai Taumata, provided the meeting relates to a matter referred to in subclause (1)(a).
+  (b) must, if requested by at least 2 members, call a meeting of Te Kawai Taumata, provided the meeting relates to a matter referred to in subclause (1)﻿(a).
 (2) The chairperson of Te Kawai Taumata must determine the date, time, and place of each meeting of Te Kawai Taumata and must give not less than 10 working days’ written notice to the members and alternate members of—
   (a) the date, time, and place of the meeting; and
   (b) the agenda for the meeting.
