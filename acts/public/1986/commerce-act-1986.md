@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2014-02-21_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -12,7 +12,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **accounting period** has the same meaning as in section 2(1) of the Financial Reporting Act 1993, except that every reference to an entity is a reference to a body corporate
+  - **accounting period** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **acquire** ,—
     (a) in relation to goods, includes obtain by way of gift, purchase, or exchange; and also includes take on lease, hire, or hire purchase:
     (b) in relation to services, includes accept:
