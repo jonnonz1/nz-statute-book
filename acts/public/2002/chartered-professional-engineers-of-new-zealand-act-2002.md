@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -418,28 +418,24 @@ Schedule 1 applies to the Council and its board.
 (1) The Council must prepare an annual report on its operations for each financial year as soon as practicable after the end of that financial year.
 (2) The report must contain the following information and reports in respect of the financial year to which it relates:
   (a) a report on its operations, including the information that is necessary to enable an informed assessment to be made of the Council's performance and exercise of its functions and powers under this Act during the financial year; and
-  (b) annual financial statements and a statement of responsibility for them prepared in accordance with section 55; and
+  (b) financial statements and a statement of responsibility for them prepared in accordance with section 55; and
   (c) the auditor's report in accordance with section 56.
 (3) The annual report must be dated and signed on behalf of the Council's board by 2 members.
 
-### 55 Annual financial statements and statement of responsibility
-(1) The Council must prepare its annual financial statements with respect to the affairs of the Council for each financial year in accordance with generally accepted accounting practice (within the meaning of section 3 of the Financial Reporting Act 1993, applied as if the Council were a reporting entity).
-(2) The annual financial statements must contain—
-  (a) a statement of the financial position at the balance date; and
-  (b) a statement of financial performance for the financial year; and
-  (c) a statement of cash flows reflecting cash flows for the financial year; and
-  (d) a statement of the commitments as at the balance date; and
-  (e) a statement of the contingent liabilities as at the balance date; and
-  (f) a statement of accounting policies; and
-  (g) any other statements that are necessary to fairly reflect its financial operations for the financial year and its financial position at the end of the financial year; and
-  (h) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, paragraph (g), budgeted figures for the financial year; and
-  (i) in relation to each statement required by this subsection (other than by paragraph (f)), comparative actual figures for the previous financial year.
+### 55 Financial statements and statement of responsibility
+(1) The Council must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Council and that financial year; and
+  (b) dated and signed on behalf of the Council by 2 members of the Council.
+(2) The financial statements must contain, in relation to each financial statement, budgeted figures for the financial year.
+(2A) In this Act,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
 (3) The statement of responsibility for the financial statements must—
-  (a) contain a statement of the board's responsibility for the preparation of the annual financial statements and the judgements in them; and
+  (a) contain a statement of the board's responsibility for the preparation of the financial statements and the judgements in them; and
   (b) contain a statement of the board's responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
 
 ### 56 Audit
-(1) The Council must, within 90 days after the end of each financial year, submit the report on operations, the annual financial statements, and the statement of responsibility required under section 54(2)(a) and (b) to the Auditor-General for audit.
+(1) The Council must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under section 54(2)(a) and (b) to the Auditor-General for audit.
 (2) The Auditor-General must audit those documents, and provide an audit report on them to the Council, within 30 days after receiving them.
 
 ### 57 Obligation for Council to provide own annual report to Minister
