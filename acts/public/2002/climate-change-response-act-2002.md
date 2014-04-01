@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -207,7 +207,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (iii) a final emissions return submitted under section 118; or
       (iv) an emissions return submitted under section 186, 187, 189, 191, 192, or 193; and
     (b) includes any emissions return submitted under section 65, 66, 118, 186, 187, 189, 191, 192, or 193 that shows nil liability
-  - **entity** , in relation to a group, means a reporting entity or reporting entity’s subsidiary, within the meaning of section 2(1) of the Financial Reporting Act 1993
+  - **entity** , in relation to a group, means a reporting entity or a reporting entity's subsidiary, within the meaning of section 5 of the Financial Reporting Act 2013
   - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **executive board** means the board established under Article 12(4) of the Protocol
   - **exempt land** —
@@ -237,7 +237,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **goods** means all kinds of movable property, including motor vehicles
   - **goods levy** means the synthetic greenhouse gas levy imposed by section 227(1)(b)
   - **greenhouse gas** means a gas listed in Annex A of the Protocol
-  - **group** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
+  - **group** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **holding account** means an account in the Registry for the purpose of holding units that have not been retired, surrendered, converted, or cancelled
   - **import** has a corresponding meaning to importation in section 2(1) of the Customs and Excise Act 1996
   - **importer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
