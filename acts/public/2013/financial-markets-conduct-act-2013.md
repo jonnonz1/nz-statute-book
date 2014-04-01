@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2013-09-13_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -72,6 +72,7 @@ This Act has the following additional purposes:
 
 ### 6 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **accounting period** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **acquire** —
     (a) includes obtain by buying, subscribing, or taking an assignment or transfer of; and
     (b) includes, in Part 5, agreeing to acquire; and
@@ -82,12 +83,14 @@ This Act has the following additional purposes:
     (b) in relation to the supply of financial services, means any form of communication made to the public or a section of the public for the purpose of promoting the supply of the services
   - **agreement** includes any contract, arrangement, or understanding
   - **alternative disclosure obligation** means any provision of regulations made under section 351 that is stated by those regulations to be an alternative disclosure obligation
+  - **applicable auditing and assurance standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **application** , in relation to financial products, includes an offer to acquire the financial products whether in writing or otherwise
   - **associated person** or has the meaning set out in section 12(1)
   - **audio or visual service** means an audio or visual service provided to users of the service by means of telecommunications
   - **authorised body** , in relation to a market services licence, means a related body corporate of a licensee that is authorised under section 400 to provide a market service under the licence
   - **authorised financial adviser** has the same meaning as in section 5 of the Financial Advisers Act 2008
-  - **balance date** has the same meaning as in section 7 of the Financial Reporting Act 1993
+  - **balance date** has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **broadcaster** has the same meaning as in section 2(1) of the Broadcasting Act 1989
   - **broadcasting** has the same meaning as in section 2(1) of the Broadcasting Act 1989
   - **building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
@@ -187,13 +190,18 @@ This Act has the following additional purposes:
     (a) has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
     (b) includes a market service; but
     (c) does not include, for the purposes of any provision of this Act, any class or classes of services declared by the regulations not to be financial services for the purposes of that provision
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **FMA** means the Financial Markets Authority established by Part 2 of the Financial Markets Authority Act 2011
+  - **FMC reporting entity** has the meaning set out in section 451
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **generally available to the market** has the meaning set out in section 232
   - **give** , in relation to information or any other matter, includes give by electronic or other means that enable the recipient to readily store the matter in a permanent and legible form
   - **governing document** —
     (a) means (in the case of a debt security) a trust deed:
     (b) means (in the case of a managed investment scheme constituted as a trust) the 1 or more trust deeds that constitutes the scheme or (in the case of any other managed investment scheme) the 1 or more deeds, agreements, or instruments that constitute or govern the scheme (for example, a partnership agreement):
     (c) includes (in each case) any amendments to a document referred to in paragraph (a) or (b)
+  - **group** , in Part 7, means a group comprising an FMC reporting entity and its subsidiaries
+  - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **in the business of** , in relation to any service or other activity, means carrying on a business of that type (whether or not the business is the person's only business or the person's principal business)
   - **indemnify** includes relieve, exempt, or excuse from liability, whether before or after the liability arises
   - **independent trustee** , in relation to a restricted scheme, means the trustee, or director of a sole corporate trustee, who is the licensed independent trustee for the purposes of the restricted scheme
@@ -236,6 +244,9 @@ This Act has the following additional purposes:
   - **KiwiSaver scheme** means a scheme that is registered on the register of managed investment schemes as a KiwiSaver scheme
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **licence** means a licence under this Act or, in relation to a supervisor, the Financial Markets Supervisors Act 2011, and means having a licence, or being authorised under a licence, under this Act or, in relation to a supervisor, having a licence under the Financial Markets Supervisors Act 2011
+  - **licensed insurer** —
+    (a) has the same meaning as in section 6 of the Insurance (Prudential Supervision) Act 2010; but
+    (b) in Part 7, does not include a Lloyd's underwriter (within the meaning of that Act) or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(b) of that Act
   - **licensed market** means a financial product market that is licensed under Part 5 (subject to any regulations made under section 351(1)(d))
   - **licensed market operator** means a person that is authorised to operate a licensed market under a financial product market licence
   - **licensed market services** means those market services—
@@ -294,7 +305,7 @@ This Act has the following additional purposes:
   - **Part 4 governance provision** means any of the provisions specified in section 228(3) or (4)
   - **Part 5 market provision** means any of the provisions specified in section 385(3) or (4)
   - **Part 6 services provision** means any of the provisions specified in section 449(3) or (4)
-  - **Part 7 financial reporting provision** means any of the provisions specified in section 461(3) or (4)
+  - **Part 7 financial reporting provision** means any of the provisions specified in section 461M(3) or (4)
   - **participant** means, in relation to a licensed market, a person authorised by the licensed market operator to participate in that market
   - **person** includes any entity
   - **prescribed intermediary services** means services of a kind that are prescribed for the purposes of this definition and involve a person acting as an intermediary in relation to a financial product or financial service
@@ -307,7 +318,7 @@ This Act has the following additional purposes:
   - **provider of a discretionary investment management service** has the meaning set out in section 392
   - **QFE** or has the same meaning as in section 5 of the Financial Advisers Act 2008
   - **QFE adviser** has the same meaning as in section 5 of the Financial Advisers Act 2008
-  - **qualified auditor** has the meaning set out in section 458
+  - **qualified auditor** has the meaning set out in section 461E
   - **quoted** , in relation to—
     (a) financial products of a listed issuer, means financial products of the issuer that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those products is suspended):
     (b) derivatives, means derivatives that are approved for trading on a licensed market (and, to avoid doubt, derivatives do not cease to be quoted merely because trading in those products is suspended)
@@ -368,7 +379,9 @@ This Act has the following additional purposes:
     (c) holders of debt securities in any other case, means a resolution approved by product holders holding debt securities with a combined nominal value of no less than 75% of the nominal value of the debt securities held by those persons who are entitled to vote and who vote on the question:
     (d) holders of managed investment products in any other case, means a resolution approved by product holders holding managed investment products with a combined value of no less than 75% of the value of the managed investment products held by those persons who are entitled to vote and who vote on the question
   - **stop order** means an order under section 462
-  - **subsidiary** has the meaning set out in section 5 of the Companies Act 1993
+  - **subsidiary** —
+    (a) has the meaning set out in section 5 of the Companies Act 1993; and
+    (b) in Part 7, includes any entity that is classified as a subsidiary in any applicable financial reporting standard
   - **substantial holding** has the meaning set out in section 274
   - **substantial product holder** has the meaning set out in section 274(1)
   - **superannuation scheme** means a scheme that is registered on the register of managed investment schemes as a superannuation scheme (or, if the scheme is registered as a superannuation scheme in respect of only a section of the scheme, means the scheme in respect of that section)
@@ -3543,9 +3556,10 @@ To avoid doubt, market rules are not—
 (6) If the FMA purports to act under a delegation under this section, the FMA must, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No delegation affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
-### 351 Regulations modifying Part for licensed markets
+### 351 Regulations modifying this Part or Part 7 for licensed markets
 (1) The Governor-General may, on the recommendation of the Minister in accordance with subsection (3), make regulations for any 1 or more of the following purposes:
   (a) providing that any 1 or more of the provisions in subparts 2 to 8 of this Part (including any definitions in this Act as they apply in the relevant provisions, but excluding the obligations in section 314) do not apply in respect of a licensed market or class of licensed markets (and accordingly do not apply in relation to any issuers listed or financial products quoted on those markets):
+  (ab) providing that section 451(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to accounting records and financial reporting:
   (b) providing for replacement or modified provisions to apply in respect of the licensed market or class of licensed markets (for example, instead of having continuous disclosure provisions in the listing rules and requiring listed issuers to comply with those provisions, having periodic or event-based disclosure or some other way of dealing with any information asymmetries in the market):
   (c) stating which provisions of the regulations (if any) are Part 5 market provisions for the purposes of this Act and, if so, whether the provisions give rise to civil liability under section 385(3) or (4) (see Part 8, in which Part 5 market provisions are specified to be civil liability provisions), including which provisions are alternative disclosure obligations for the purposes of section 314:
   (d) providing that a financial product market must not be treated as a licensed market for the purposes of any provision or provisions of this Act or any other specified enactment.
@@ -4360,95 +4374,218 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
 
 ## Part 7 — Financial reporting
 
-### Subpart 1 — Overview
+### Subpart 1 — Overview, application, and interpretation
 
 ### 450 Overview
-This Part provides for issuers to—
+(1) This Part provides for FMC reporting entities to—
   (a) keep proper accounting records; and
-  (b) have the issuer's financial statements audited.
+  (b) prepare financial statements, to have those financial statements audited, and to lodge those financial statements.
+(2) This section is only a guide to the general scheme and effect of this Part.
 
-### 451 Interpretation
-In this Part, financial statements means the financial statements and any group financial statements that are required to be prepared for the purposes of the Financial Reporting Act 1993, this Act, or the regulations.
+### 451 Meaning of FMC reporting entity
+In this Act, FMC reporting entity means—
+  (a) every person who is an issuer of a regulated product (but see section 452):
+  (b) every person who holds a licence under Part 6 (other than an independent trustee of a restricted scheme):
+  (c) every licensed supervisor:
+  (d) every listed issuer (but see section 351(1)(ab)):
+  (e) every operator of a licensed market (other than a market licensed under section 317 (overseas-regulated markets)):
+  (f) every recipient of money from a conduit issuer (see section 453):
+  (g) every registered bank:
+  (h) every licensed insurer:
+  (i) every credit union:
+  (j) every building society:
+  (k) every person that is an FMC reporting entity under clause 27A of Schedule 1.
+
+### 452 Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders
+(1) A company within the meaning of section 2(1) of the Companies Act 1993 is not an FMC reporting entity under section 451(a) if it—
+  (a) has fewer than 50 shareholders or fewer than 50 parcels of shares that are voting products; and
+  (b) would, but for this section, be an FMC reporting entity by reason only of being an issuer of equity securities that are both voting products and regulated products.
+(2) In this section, shareholder means a shareholder holding a voting product.
+
+### 453 Recipients of money from conduit issuers
+In section 451, a person (A) is a recipient of money from a conduit issuer if—
+  (a) A is an associated person of another person (the conduit issuer); and
+  (b) the conduit issuer raises an amount of money by the issue of financial products under—
+    (i) a regulated offer; or
+    (ii) an offer made, in the prescribed circumstances, in reliance upon an exclusion in Schedule 1; and
+  (c) that money is raised as part of an agreement under which 75% or more of that money is provided, directly or indirectly and whether by 1 transaction or a series of transactions, for the use of—
+    (i) A; or
+    (ii) A and 1 or more third persons that are associated persons of A; and
+  (d) the money that is provided to A under paragraph (c) is 10% or more of the money that is raised under paragraph (b); and
+  (e) all or part of the money that is provided under paragraph (c) has not yet been repaid or returned to the conduit issuer.
+
+### 454 Miscellaneous provisions relating to application
+(1) If a person ceases to be an FMC reporting entity during an accounting period, that person must be treated as continuing to be an FMC reporting entity in relation to that accounting period for the purposes of this Act and every other enactment.
+(2) Nothing in this Part or clause 20 of Schedule 4 requires an FMC reporting entity to ensure the completion of financial statements or group financial statements and the lodgement of those financial statements in relation to an accounting period that ended before the accounting period in which that person became an FMC reporting entity.
 
 ### Subpart 2 — Accounting records
 
-### 452 Issuer must keep proper accounting records
-Every issuer of regulated products must ensure that there are kept at all times accounting records that—
-  (a) correctly record and explain the transactions,—
-    (i) in the case of an issuer of equity securities, debt securities, or derivatives, of the issuer; and
-    (ii) in the case of an issuer of managed investment products, of the issuer and of the registered scheme; and
-  (b) will at any time enable the financial position of the issuer and of any such scheme to be determined with reasonable accuracy; and
-  (c) will enable the issuer to ensure that the financial statements of the issuer and of any such scheme comply with the Financial Reporting Act 1993 and any prescribed requirements; and
-  (d) will enable the financial statements of the issuer and of any such scheme to be readily and properly audited.
+### 455 FMC reporting entities must keep proper accounting records
+(1) Every FMC reporting entity must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the FMC reporting entity; and
+  (b) in the case of a manager of a registered scheme, correctly record the transactions of the scheme; and
+  (c) will enable the FMC reporting entity to ensure that the financial statements of the FMC reporting entity and of any such scheme comply with generally accepted accounting practice and any prescribed requirements; and
+  (d) will enable the financial statements of the FMC reporting entity and of any such scheme to be readily and properly audited.
+(2) Every FMC reporting entity must establish and maintain a satisfactory system of control of its accounting records.
+(3) In this subpart, financial statements means the financial statements or group financial statements that are required to be prepared for the purposes of this Act or the regulations.
 
-### 453 Place where accounting records to be kept
+### 456 Place where accounting records to be kept
 (1) Accounting records required to be kept by this subpart must be kept—
-  (a) at the registered office of the issuer (if any); or
-  (b) at another place that the directors of the issuer think fit.
-(2) The accounting records may be kept at a place outside New Zealand only if there are sent to, and kept at a place in, New Zealand documents in respect of the business dealt with in those accounting records that—
-  (a) disclose with reasonable accuracy the financial position of the business at intervals not exceeding 6 months; and
-  (b) will enable the preparation in accordance with the Financial Reporting Act 1993 of—
-    (i) the financial statements of the issuer and any registered scheme referred to in section 452; and
-    (ii) any other document annexed to any of those statements that gives information that is required by any enactment.
+  (a) at the registered office of the FMC reporting entity (if any); or
+  (b) at another place that the directors of the FMC reporting entity think fit.
+(2) The accounting records may be kept at a place outside New Zealand only if there are sent to, and kept at a place in, New Zealand documents in respect of the business dealt with in those accounting records that will enable the preparation in accordance with this Act of—
+  (a) the financial statements of the FMC reporting entity and any registered scheme referred to in section 455; and
+  (b) any other document annexed to any of those statements that gives information that is required by any enactment.
 
-### 454 Accounting records to be in English
-(1) Accounting records required to be kept by this subpart and the documents in respect of the business dealt with in those accounting records referred to in section 453 must be kept—
-  (a) in written form in English; or
+### 457 Accounting records to be in English
+(1) Accounting records required to be kept by this subpart and the documents referred to in section 456(2) must be kept—
+  (a) in written form and in English; or
   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
-(2) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(2) An FMC reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
-### 455 Period for which accounting records to be kept
-(1) Accounting records kept under this subpart, or copies of them, must be retained by the issuer for a period of at least 7 years after the later of—
+### 458 Period for which accounting records to be kept
+Accounting records kept under this subpart, or copies of them, must be retained by the FMC reporting entity for a period of at least 7 years after the later of—
   (a) the date the records are made; and
   (b) the date of completion of the transaction to which the records relate.
-(2) Nothing in this section limits any other requirement under an enactment to keep accounting records for a particular time.
 
-### 456 Inspection of accounting records
-(1) Every issuer must make the accounting records required to be kept under this subpart and the documents in respect of the business dealt with in those accounting records referred to in section 453 available, in written form in English at all reasonable times for inspection without charge, to—
-  (a) the directors of the issuer; and
-  (b) any supervisor (in the case of an issuer of debt securities or the manager of a registered scheme); and
+### 459 Inspection of accounting records
+(1) Every FMC reporting entity must make the accounting records required to be kept under this subpart and the documents referred to in section 456(2) available, in written form in English at all reasonable times for inspection without charge, to—
+  (a) the directors of the FMC reporting entity; and
+  (b) any supervisor (if the FMC reporting entity is an issuer of debt securities or the manager of a registered scheme); and
   (c) the FMA; and
-  (d) any other persons authorised or permitted to inspect the accounting records of the issuer or scheme.
-(2) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+  (d) any other persons authorised or permitted by an enactment to inspect the accounting records of the FMC reporting entity or scheme.
+(2) An FMC reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
-### Subpart 3 — Audit of financial statements
+### Subpart 3 — Preparation, audit, and lodgement of financial statements
 
-### 457 Financial statements to be audited
-(1) Every issuer of regulated products that are equity securities, debt securities, or derivatives must ensure that its financial statements are audited by a qualified auditor.
-(2) Every issuer of regulated products that are managed investment products must ensure that its financial statements and the financial statements for the scheme to which the products relate are audited by a qualified auditor.
-(3) This section applies only to financial statements prepared for the purposes of the Financial Reporting Act 1993.
+**Preparation of financial statements**
 
-### 458 Meaning of qualified auditor
+### 460 Financial statements must be prepared
+(1) Every FMC reporting entity must ensure that, within 4 months after the balance date of the entity, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the entity and that balance date; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(2) Subsection (1) is subject to sections 461(2) and 461A(4).
+
+### 461 Group financial statements must be prepared
+(1) Every FMC reporting entity that has, on the balance date of the entity, 1 or more subsidiaries must ensure that, within 4 months after that balance date, group financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the group and that balance date; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(2) Section 460 does not apply to an FMC reporting entity in relation to a balance date if the entity has, on that date, 1 or more subsidiaries (and is, accordingly, required to prepare group financial statements under subsection (1)).
+(3) The board of an FMC reporting entity must ensure that the balance date of the FMC reporting entity is the same as the balance date of its subsidiaries.
+(4) This section is subject to section 461A(4).
+
+### 461A Financial statements for registered schemes and funds
+(1) This section applies to every manager of a registered scheme.
+(2) If the liabilities of the manager and the scheme are not limited to a particular group of assets (a separate fund), the manager must ensure that, within 4 months after the balance date of the manager, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the scheme and that balance date; and
+  (b) dated and signed on behalf of the manager by 2 directors of the manager or, if the manager has only 1 director, by that director.
+(3) If the liabilities of the manager or the scheme are limited to a separate fund, the manager must ensure that, within 4 months after the balance date of the manager, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the scheme and that balance date; and
+  (b) completed in relation to the separate fund and that balance date; and
+  (c) dated and signed on behalf of the manager by 2 directors of the manager or, if the manager has only 1 director, by that director.
+(4) If the manager is an FMC reporting entity by reason only of being a manager of a restricted scheme, the manager—
+  (a) is required to comply with this section; but
+  (b) is not required to comply with sections 460 and 461.
+
+### 461B Financial statements for overseas FMC reporting entity to include financial statements for New Zealand business
+(1) If an FMC reporting entity that is an overseas company is required to prepare financial statements under section 460, the financial statements that are prepared must include, in addition to the financial statements of the entity, financial statements for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
+(2) If an FMC reporting entity that is an overseas company is required to prepare group financial statements under section 461, the group financial statements that are prepared must include, in addition to the financial statements of the group, financial statements for the group's New Zealand business prepared as if the members of the group were companies formed and registered in New Zealand.
+(3) In this section, overseas company means a body corporate that is incorporated outside New Zealand.
+
+### 461C Failure to comply with authoritative notice does not give rise to pecuniary penalty
+(1) This section applies if financial statements or group financial statements referred to in this subpart fail to comply with generally accepted accounting practice as a result of a failure to comply with an authoritative notice.
+(2) A pecuniary penalty order may not be made under section 489 in relation to the failure to comply with the authoritative notice.
+(3) In this section, authoritative notice has the same meaning as in section 5(1) of the Financial Reporting Act 2013.
+
+**Audit of financial statements**
+
+### 461D Financial statements must be audited
+Every FMC reporting entity must ensure that the financial statements or group financial statements that are required to be prepared under this subpart are audited by a qualified auditor.
+
+### 461E Meaning of qualified auditor
 (1) For the purposes of this Act, qualified auditor means—
   (a) a licensed auditor; or
   (b) a registered audit firm; or
-  (c) in the case of an issuer that is a public entity under the Public Audit Act 2001, the Auditor-General or any other person who may act as the auditor under that Act.
-(2) In this section and section 459, licensed auditor and registered audit firm have the same meanings as in section 6(1) of the Auditor Regulation Act 2011.
-(3) None of the following persons is qualified for appointment as the qualified auditor of an issuer of regulated products:
-  (a) the issuer, or a director, an officer, or an employee of the issuer:
+  (c) in the case of an FMC reporting entity that is a public entity under the Public Audit Act 2001, the Auditor-General or any other person who may act as the auditor under that Act.
+(2) In this section, licensed auditor and registered audit firm have the same meanings as in section 6(1) of the Auditor Regulation Act 2011.
+(3) The appointment of a registered audit firm by the firm name to be the qualified auditor for the purposes of this Act is deemed to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
+(4) None of the following persons is qualified for appointment as the qualified auditor of an FMC reporting entity:
+  (a) the FMC reporting entity, or a director, an officer, or an employee of the FMC reporting entity:
   (b) a person who is a partner, or in the employment, of a person specified in paragraph (a):
   (c) a body corporate.
-(4) A person is not qualified for appointment as the qualified auditor of an issuer of regulated products if the person is, by virtue of subsection (3), disqualified for appointment as auditor of a person that is the issuer's subsidiary or holding company or a subsidiary of the issuer's holding company, or would be so disqualified if that person were a company.
+(5) A person is not qualified for appointment as the qualified auditor of an FMC reporting entity if the person is, by virtue of subsection (4), disqualified for appointment as auditor of a related body corporate.
 
-### 459 Appointment of registered audit firm
-The appointment of a registered audit firm by the firm name to be the qualified auditor for the purposes of this Act is deemed to be the appointment of all of the partners in the firm, from time to time, who are licensed auditors.
+### 461F Audit must be carried out in accordance with auditing and assurance standards
+An auditor must, in carrying out an audit for the purposes of section 461D, comply with all applicable auditing and assurance standards.
 
-### 460 Application of other Acts not affected
-Nothing in this subpart limits the Companies Act 1993, the Financial Reporting Act 1993, or any other enactment.
+### 461G Auditor's report
+(1) The auditor's report on the financial statements or group financial statements that are required to be audited under this subpart must comply with the requirements of all applicable auditing and assurance standards.
+(2) If the auditor's report indicates that the requirements of this Part have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report, and a copy of the financial statements or group financial statements to which it relates, to—
+  (a) the FMA; and
+  (b) the External Reporting Board; and
+  (c) in the case of an issuer of debt securities or a manager of a registered scheme, the supervisor.
+
+**Lodgement of financial statements**
+
+### 461H Lodgement of financial statements
+(1) Every FMC reporting entity must ensure that, within 4 months after the balance date of the entity, copies of the financial statements or group financial statements that are required to be prepared under this subpart, together with a copy of the auditor's report on those statements, are delivered to the Registrar for lodgement.
+(2) An FMC reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
+
+**Offences**
+
+### 461I Offence to knowingly fail to comply with financial reporting standards
+(1) An FMC reporting entity and every director of the entity commit an offence if—
+  (a) any of the following fail to comply with an applicable financial reporting standard:
+    (i) the financial statements of the entity prepared under section 460:
+    (ii) group financial statements in relation to a group comprising the entity and its subsidiaries prepared under section 461:
+    (iii) in the case of a manager of a registered scheme, financial statements for the scheme or a fund referred to in section 461A:
+    (iv) the financial statements prepared by the entity under section 461B; and
+  (b) the entity or the director (as the case may be) knows that the financial statements or group financial statements (as the case may be) fail to so comply when those statements are lodged.
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 5 years, a fine not exceeding $500,000, or both; and
+  (b) in any other case, to a fine not exceeding $2.5 million.
+
+**FMC reporting entities with higher level of public accountability**
+
+### 461J External Reporting Board must have regard to indication of level of public accountability
+(1) Subsection (2) applies when the External Reporting Board is preparing a proposal to vary or replace the strategy for establishing different tiers of financial reporting (see sections 29 to 33 of the Financial Reporting Act 2013).
+(2) The External Reporting Board must have regard to which FMC reporting entities are considered to have a higher level of public accountability under section 461K.
+(3) Nothing in this section or section 461K requires any particular class of FMC reporting entity to be included within a particular tier of financial reporting (for example, some entities referred to in section 461K(1) could be included in one tier while other entities referred to in that subsection could be included in another tier).
+
+### 461K FMA reporting entities considered to have higher level of public accountability
+(1) The following FMC reporting entities are considered to have a higher level of public accountability than other FMC reporting entities:
+  (a) issuers of equity securities or debt securities under a regulated offer:
+  (b) managers of registered schemes, but only in respect of financial statements of a scheme or fund prepared under section 461A:
+  (c) listed issuers:
+  (d) registered banks:
+  (e) licensed insurers:
+  (f) credit unions:
+  (g) building societies:
+  (h) an FMC reporting entity, or a class of FMC reporting entities, specified for the purposes of this paragraph by a notice issued under section 461L(1)(a).
+(2) However, an FMC reporting entity, or a class of FMC reporting entities, is not considered to have a higher level of public accountability than other FMC reporting entities if the entity or class is specified for the purposes of this subsection by a notice issued under section 461L(1)(b).
+(3) Subsection (1)(b) does not limit subsection (1)(h).
+
+### 461L FMA may issue notice relating to level of public accountability
+(1) The FMA may issue a notice that specifies an FMC reporting entity, or a class of FMC reporting entities, for the purposes of—
+  (a) section 461K(1)(h); or
+  (b) section 461K(2).
+(2) The FMA must, before issuing a notice under subsection (1), be satisfied that the notice is necessary or desirable in order to promote the main purposes of this Act as specified in section 3 or any of the additional purposes specified in section 4.
+(3) Subpart 5 of Part 9 (general provisions relating to certain FMA instruments) applies to a notice under this section.
 
 ### Subpart 4 — Civil liability for certain contraventions of this Part
 
-### 461 Part 7 financial reporting provisions
+### 461M Part 7 financial reporting provisions
 (1) All of the provisions specified in subsections (3) and (4) are Part 7 financial reporting provisions.
 (2) A contravention of any of the provisions listed in subsection (3) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding the greatest of the consideration for the relevant transaction, 3 times the amount of the gain made or the loss avoided, and $1 million in the case of an individual or $5 million in any other case.
 (3) The provisions are the following:
-  (a) section 452 (issuer must keep proper accounting records):
-  (b) section 457 (financial statements to be audited).
-(4) A contravention of any of the following may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case:
-  (a) section 453 (place where accounting records to be kept):
-  (b) section 455 (period for which accounting records to be kept).
+  (a) section 455 (FMC reporting entities must keep proper accounting records):
+  (b) sections 460, 461, 461A, and 461B (financial statements and group financial statements must be prepared):
+  (c) section 461D (financial statements must be audited):
+  (d) section 461H (financial statements must be lodged).
+(4) A contravention of section 456 or 458 (place where, and period for which, accounting records to be kept) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case.
 
 ## Part 8 — Enforcement, liability, and appeals
 
@@ -4474,6 +4611,7 @@ Nothing in this subpart limits the Companies Act 1993, the Financial Reporting A
   (g) disclosure relating to financial products under subpart 4 of Part 3, or a disclosure statement relating to market services required under subpart 4 of Part 6,—
     (i) is false or misleading, or is likely to mislead or confuse, in a material particular; or
     (ii) does not comply with this Act or the regulations; or
+  (ga) an issuer of financial products, or a person that provides a licensed market service, has contravened any provision of Part 7; or
   (h) any provision of section 388, 391, or 423 has been, or is likely to be, contravened in respect of the supply of market services.
 (2) If the FMA is satisfied that a provision referred to in subsection (1)(b) to (d) or (h) is likely to be contravened by a person (A) in the future, the FMA may make a stop order—
   (a) whether or not A has previously contravened the provision; and
@@ -4717,7 +4855,9 @@ A declaration of contravention must state the following:
   (a) must determine whether the person has contravened, or been involved in a contravention of, a civil liability provision; and
   (b) must make a declaration of contravention if it is satisfied that the person has contravened, or been involved in a contravention of, a civil liability provision; and
   (c) may order the person to pay to the Crown a pecuniary penalty that the court considers appropriate if it is satisfied that the person has contravened, or been involved in a contravention of, a civil liability provision.
-(3) However, a pecuniary penalty order may not be made for a contravention, or involvement in a contravention, of section 19.
+(3) However, a pecuniary penalty order may not be made—
+  (a) for a contravention, or involvement in a contravention, of section 19:
+  (b) in the circumstances referred to in section 461C.
 (4) The court may make a pecuniary penalty order against a director who is treated as contravening a civil liability provision under section 534 (but only if the FMA has applied for the order against the director).
 
 ### 490 Maximum amount of pecuniary penalty
@@ -4731,7 +4871,7 @@ A declaration of contravention must state the following:
   (c) a Part 4 governance provision (other than a provision specified in section 228(4)):
   (d) a Part 5 market provision (other than a provision specified in section 385(4)):
   (e) a Part 6 services provision (other than a provision specified in section 449(4)):
-  (f) a Part 7 financial reporting provision (other than a provision specified in section 461(4)):
+  (f) a Part 7 financial reporting provision (other than a provision specified in section 461M(4)):
   (g) an unsolicited offer provision:
   (h) clause 21, 22(1)(b) or (c), or 25 of Schedule 4 (transitional requirements).
 (3) The maximum amount of a pecuniary penalty for a contravention, or involvement in a contravention, of any other civil liability provision is—
@@ -4834,9 +4974,9 @@ A civil liability order under section 497 may—
   (b) after doing so, believed on reasonable grounds that there was no omission from the disclosure document or register entry in relation to that matter.
 (3) In any proceeding under this subpart against a person (A) for a contravention of section 82 because of a circumstance referred to in section 82(1)(a)(iii), it is a defence if A proves that A was not aware of the matter.
 
-### 501 Additional disclosure defence for directors who are treated as contravening
+### 501 Additional disclosure or financial reporting defence for directors who are treated as contravening
 (1) This section applies if—
-  (a) a person (A) contravenes section 82, 99, or 427 or clause 27 of Schedule 1; and
+  (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, and 461H or clause 27 of Schedule 1; and
   (b) a person (B) is a director of A who is treated as being in contravention under section 534.
 (2) In any proceeding under this subpart against B, it is a defence if B proves that B took all reasonable and proper steps to ensure that A complied with the provision referred to in subsection (1)(a).
 (3) Subsection (2) does not limit any defence that B may have under section 499(1)(a) or 500 (as a person who is treated as contravening a provision referred to in subsection (1)(a)).
@@ -5151,16 +5291,17 @@ An aggrieved person that considers that any of the following decisions of the FM
   (d) has conspired with others to effect the contravention.
 (2) Subsection (1) does not apply to proceedings for offences (but see Part 4 of the Crimes Act 1961, which relates to parties to the commission of offences).
 
-### 534 Directors treated as having contravened in case of defective disclosure
+### 534 Directors treated as having contravened in case of defective disclosure or financial reporting contravention
 (1) This section applies if, in a proceeding under subpart 3, the court is satisfied that—
   (a) an offeror has contravened section 82 (defective disclosure in PDS or register entry); or
   (b) an issuer has contravened section 99 (defective ongoing disclosure); or
   (c) a licensee or an authorised body has contravened section 427 (defective disclosure statement); or
+  (ca) an FMC reporting entity has contravened any of sections 460 to 461B, 461D, and 461H (financial reporting obligations); or
   (d) an entity that provided a disclosure document under clause 26 of Schedule 1 has contravened clause 27 of that schedule (defective disclosure document).
 (2) However, this section does not apply in the prescribed circumstances.
-(3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)(a), (b), (c), or (d) (as the case may be).
+(3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, FMC reporting entity, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)(a), (b), (c), (ca), or (d) (as the case may be).
 (4) Every director that is treated as contravening a provision under this section may, under subpart 3, be ordered to pay to the Crown a pecuniary penalty, ordered to pay compensation under section 495, or subject to any other order under subpart 3.
-(5) Nothing in this section limits the liability of the offeror, issuer, licensee, authorised body, or entity referred to in subsection (1).
+(5) Nothing in this section limits the liability of the offeror, issuer, licensee, authorised body, FMC reporting entity, or entity referred to in subsection (1).
 (6) See sections 499(1)(a), 500, and 501, which provide defences to a director.
 
 ### 535 State of mind of directors, employees, or agents attributed to body corporate or other principal
@@ -5242,6 +5383,8 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (j) prescribing schemes for the purposes of clause 11(3)(a) of Schedule 1:
   (k) prescribing markets and persons for the purposes of clause 20(4) of Schedule 1:
   (l) prescribing kinds of category 2 products or currency forwards for the purposes of clause 21(c) or (d) of Schedule 1:
+  (la) prescribing circumstances for the purposes of section 453(b)(ii):
+  (lb) prescribing circumstances for the purposes of clause 27A of Schedule 1:
   (m) prescribing circumstances for the purposes of clause 31(1)(c)(ii) or (2)(d)(ii) or 34(1)(d)(ii) of Schedule 1:
   (n) prescribing matters for the purposes of the definitions of relevant person, relevant time, and prescribed transaction in clause 49 of Schedule 1:
   (o) prescribing forms and information for the purposes of clause 46 of Schedule 1.
@@ -5362,8 +5505,8 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 
 ### 547 Transitionals, savings, and orderly implementation of Act and related enactments
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for any of the following purposes:
-  (a) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of the specified enactments (in addition to, or in substitution for, any other transitional provisions in Schedule 4) apply during the whole or any part of the transitional implementation period ending on the 5-year date:
-  (b) providing that, subject to any conditions stated in the regulations, specified provisions of the specified enactments (including definitions and any transitional provisions in Schedule 4), or provisions of other enactments amended, revoked, or repealed by the specified enactments, do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on the 5-year date:
+  (a) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of the specified enactments (in addition to, or in substitution for, any other transitional provisions in the specified enactments) apply during the whole or any part of the transitional implementation period ending on the 5-year date:
+  (b) providing that, subject to any conditions stated in the regulations, specified provisions of the specified enactments (including definitions and any transitional provisions in the specified enactments), or provisions of other enactments amended, revoked, or repealed by the specified enactments, do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on the 5-year date:
   (c) prescribing circumstances for the purposes of clause 7(2)(b) of Schedule 4.
 (2) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the regulations—
   (a) are necessary or desirable for the orderly implementation of the specified enactments; and
@@ -5375,6 +5518,8 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   - **5-year date** means the date that is 5 years after the date on which this section comes into force
   - **specified enactments** means—
     (a) this Act; and
+    (ab) the Financial Reporting Act 2013; and
+    (ac) the Financial Reporting (Amendments to Other Enactments) Act 2013; and
     (b) the Financial Markets (Repeals and Amendments) Act 2013.
 
 ### 548 Other regulations
@@ -5469,9 +5614,8 @@ Any provision that is implied into a deed or an agreement by or under this Act�
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations, notice, or exemption.
 (3) In this section,—
-  - **auditing and assurance standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
-  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
-  - **generally accepted accounting practice** has the same meaning as in section 3 of the Financial Reporting Act 1993.
+  - **auditing and assurance standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **financial reporting standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013.
 
 ### 555 Different matters may be prescribed in respect of different circumstances
 Different matters may be prescribed, prohibited, restricted, specified, or required under the regulations in respect of different kinds or classes of financial products, services, persons, or other circumstances.
@@ -5505,6 +5649,13 @@ The breach of a term or condition of an exemption granted under this subpart is 
 (1) If the FMA grants an exemption under this subpart from any provision of subpart 1 or 2 of Part 3 or Schedule 1 and that exemption applies in respect of an offer of financial products that would be a regulated offer, the offer continues to be a regulated offer unless subsection (2) applies.
 (2) An offer of financial products that would, but for this subsection, be a regulated offer is not a regulated offer if the terms of an exemption granted under this subpart state that the offer is not a regulated offer.
 (3) A statement under subsection (2) may be in respect of an offer or a class of offers.
+
+### 561A Financial reporting exemptions
+(1) An exemption granted under this subpart in relation to any provision of Part 7 may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be lodged under that Part.
+(2) In deciding whether to grant, amend, or revoke an exemption under this subpart in relation to any provision of Part 7, the FMA must consult the Reserve Bank if the exemption concerns any of the following:
+  (a) a registered bank:
+  (b) a licensed insurer:
+  (c) an NBDT.
 
 ### Subpart 3 — FMA's designation power
 
@@ -5594,6 +5745,7 @@ A declaration under this subpart—
 ### 570 Application of subpart
 This subpart applies to the following instruments:
   (a) notices issued under section 69:
+  (ab) notices issued under section 461L:
   (b) exemptions granted under subpart 2:
   (c) declarations made under subpart 3:
   (d) notices issued under subpart 4.
@@ -5604,6 +5756,7 @@ This subpart applies to the following instruments:
   (b) must be presented to the House of Representatives under section 41 of that Act.
 (2) The following instruments are legislative instruments for the purposes of the Legislation Act 2012:
   (a) a notice issued under section 69:
+  (ab) a notice issued under section 461L in respect of a class of FMC reporting entities:
   (b) a class exemption:
   (c) a class declaration.
 (3) An instrument to which this subpart applies that is not referred to in subsection (2) must, as soon as practicable after it is made, be—
@@ -6081,6 +6234,9 @@ The purposes of clauses 26 to 29 are to—
 (3) Subclause (2) does not limit the meaning of a reference to a misleading statement.
 (4) This clause does not limit clause 26(2) to (4).
 (5) See section 511 (offence to knowingly or recklessly contravene this clause) and section 496 (which provides that a person may be treated as suffering loss or damage in the case of a contravention of this clause).
+
+### 27A Offeror is FMC reporting entity in prescribed circumstances
+A person to whom clause 26 applies is an FMC reporting entity in the prescribed circumstances.
 
 ### 28 Persons who must inform offeror about deficiencies in disclosure document under clause 26
 (1) A person referred to in subclause (2) must, in relation to an offer of financial products made without disclosure under Part 3 of this Act in reliance upon any of clauses 3 to 24, notify the offeror in writing as soon as practicable if the person becomes aware at any time before the end of the application period that—
@@ -6643,6 +6799,8 @@ Nothing in this Part prevents an issuer from lodging a PDS in preparation for ma
   (d) any regulations made for the purposes of subpart 4 of Part 3, Part 4, or Part 7 of this Act:
   (e) any other provision of this Act relating to the enforcement, application, or effect of subpart 4 of Part 3, Part 4, or Part 7 of this Act.
 (2) The provisions referred to in subclause (1) apply with all necessary modifications as if the security had been offered and allotted under a regulated offer under this Act.
+(2A) For the purposes of subclause (1), the security must, on and after the effective date, be treated as being a regulated product under section 451(a) and, accordingly, the issuer must be treated as being an FMC reporting entity (unless section 452 applies).
+(2B) See section 56 of the Financial Reporting Act 2013 (which provides for the former law to generally continue to apply to accounting periods that commence before the commencement of that Act).
 (3) However, subclause (1) and clauses 21, 22, and 30 (obligations relating to registration of a scheme under this Act) do not apply to a security if,—
   (a) before the effective date, the security is cancelled, redeemed, or forfeited, or all of the obligations owing under the security have been discharged; or
   (b) on the effective date, the security is not a financial product within the meaning of section 7 (but see clause 33); or
@@ -6942,12 +7100,7 @@ An Order in Council made under section 7 of the Securities Transfer Act 1991 tha
 **Financial reporting**
 
 ### 50 Issuers continue to be issuers under Financial Reporting Act 1993
-(1) A person who, immediately before the commencement of this clause, was an issuer under section 4(1)(a) to (b) of the Financial Reporting Act 1993 (as in force before the commencement of this clause) in relation to securities continues to be an issuer in respect of those securities for the purposes of the Financial Reporting Act 1993 until—
-  (a) all of those securities are cancelled, redeemed, or forfeited; or
-  (b) all of the obligations owing under those securities have been discharged.
-(2) Subclause (1) must be treated as applying to a person—
-  (a) who makes an offer of securities to which the Securities Act 1978 continues to apply in accordance with Part 1 of this schedule; and
-  (b) who would, if this Act had not been enacted, have been an issuer under section 4(1)(a) to (b) of the Financial Reporting Act 1993 (as in force before the commencement of this clause).
+[Repealed]
 
 ### 51 Section 10A of Auditor Regulation Act 2011 also applies to exemptions granted under Securities Act 1978
 Section 10A of the Auditor Regulation Act 2011 (which provides that licence and registration requirements of that Act do not apply if an FMA exemption applies) also applies in relation to exemptions granted by the FMA under the Securities Act 1978 as if references to the Financial Markets Conduct Act 2013 were references to that Act.
