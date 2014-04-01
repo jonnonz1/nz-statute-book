@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -25,6 +25,8 @@ Except as provided in subsection (5) of section 19 or Part 6, the provisions of 
       (ii) illness; or
       (iii) advanced age
   - **dependent child** , in relation to a member of the forces or any other person claiming a pension or allowance under this Act, means a child who is being cared for as a member of the family of the member of the forces or other such person
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Emergency Reserve Corps** means any person who was at any time a member of the Emergency Reserve Corps established under the Emergency Reserve Corps Regulations 1941
   - **member of the family** , in relation to a family that includes a member of the forces, means—
@@ -328,10 +330,24 @@ There is hereby established a fund to be known as the War Pensions Medical Resea
 (1) All money received by the Advisory Board or by an employee of the Department on behalf of the Advisory Board shall as soon as practicable after its receipt be paid into such bank account or accounts of the Advisory Board as the Advisory Board from time to time determines.
 (2) No such money shall be withdrawn from the bank except by cheque signed by an employee of the Department approved for the purpose by the Advisory Board and countersigned by another such employee or by a member of the Advisory Board approved for the purpose by the Advisory Board.
 
-### 18O Accounts
-(1) The Advisory Board must at all times keep full and correct records and accounts of all its financial transactions and of its assets and liabilities.
-(1A) The Advisory Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) As soon as practicable after the end of each financial year ending with 31 March, the Advisory Board shall cause to be prepared and submitted to the Auditor-General full and true statements and accounts of all money, both capital and income, received and expended, and of all its income and expenditure, in that year, with a statement of financial position at the end of that year.
+### 18O Accounting records must be kept
+(1) The Advisory Board must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Advisory Board; and
+  (b) will enable the Advisory Board to ensure that the financial statements of the Advisory Board comply with this Act; and
+  (c) will enable the financial statements of the Advisory Board to be readily and properly audited.
+(2) The Advisory Board must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 18OA Financial statements must be prepared
+The Advisory Board must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Advisory Board and that financial year; and
+  (b) dated and signed on behalf of the Advisory Board by 2 members of the Board.
+
+### 18OB Financial statements must be audited
+(1) The Advisory Board must ensure that the financial statements of the Advisory Board are audited.
+(2) The Advisory Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 18P Purposes of Fund declared to be charitable purposes
 The purposes for which the Fund is established are hereby declared to be charitable purposes.
@@ -1187,16 +1203,16 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 20— |  |
-|  | in every case | $214.00 a week. |
+|  | in every case | $216.95 a week. |
 | 2 | Under section 23— |  |
-|  | in certain cases of severe disablement (additional pension) | $128.40 a week. |
+|  | in certain cases of severe disablement (additional pension) | $130.17 a week. |
 | 3 | Under section 28— |  |
 |  | clothing allowance (additional pension) as follows— |  |
-|  | aloss of 2 limbs or parts | $22.73 a week. |
-|  | bloss of leg or part | $21.93 a week. |
-|  | closs of arm or part | $15.89 a week. |
-|  | duse of mechanical appliance, etc | $15.89 a week. |
-|  | esoiling of clothing | $15.89 a week. |
+|  | aloss of 2 limbs or parts | $23.04 a week. |
+|  | bloss of leg or part | $22.23 a week. |
+|  | closs of arm or part | $16.11 a week. |
+|  | duse of mechanical appliance, etc | $16.11 a week. |
+|  | esoiling of clothing | $16.11 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 4 | Under section 62— |  |
 |  | the same rates as those specified in Part 1. |  |
@@ -1209,7 +1225,7 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 29— |  |
-|  | in every case | $377.47 a week. |
+|  | in every case | $382.68 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 2 | Under section 62— |  |
 |  | the same rate as that specified in Part 1. |  |
@@ -1224,11 +1240,11 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 32(1)— |  |
-|  | to the surviving spouse or surviving partner in every case | $157.86 a week. |
+|  | to the surviving spouse or surviving partner in every case | $160.04 a week. |
 | 2 | Under section 32(2)— |  |
 |  | additional parent’s allowance to a surviving spouse or surviving partner— |  |
-|  | aon account of first or only dependent child | $159.64 a week. |
-|  | bon account of each additional dependent child after the first | $25.42 a week. |
+|  | aon account of first or only dependent child | $161.84 a week. |
+|  | bon account of each additional dependent child after the first | $25.77 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 3 | Under section 32(1) as applied by section 62— |  |
 |  | the same rate as that specified in clause 1 of Part 1. |  |
@@ -1245,9 +1261,9 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 36— |  |
-|  | in ordinary cases | $9.41 a week. |
+|  | in ordinary cases | $9.54 a week. |
 | 2 | Under section 40— |  |
-|  | in certain cases where parents dead, or child not under control of its mother | $125.91 a week. |
+|  | in certain cases where parents dead, or child not under control of its mother | $127.65 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 3 | Under section 62— |  |
 |  | the same rates as those specified in Part 1. |  |
@@ -1293,19 +1309,19 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 
 |  |  | Entitlements under section 70(1)(b)(i) or section 70(2) | Entitlements under section 70(1)(b)(ii) or section 71 |
 | --- | --- | --- | --- |
-| 1 | ato a person at the single living alone rate | $410.32 per week | $410.32 per week, subject to section 74D |
-|  | bto a person at the single sharing accommodation rate | $377.05 per week | $377.05 per week, subject to section 74D |
-|  | cto a person who is married or in a civil union or in a de facto relationship | $310.34 per week | $310.34 per week, subject to section 74D |
+| 1 | ato a person at the single living alone rate | $421.76 per week | $421.76 per week, subject to section 74D |
+|  | bto a person at the single sharing accommodation rate | $387.58 per week | $387.58 per week, subject to section 74D |
+|  | cto a person who is married or in a civil union or in a de facto relationship | $319.23 per week | $319.23 per week, subject to section 74D |
 | 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship, and whose spouse or civil union partner or de facto partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | ato a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $620.68 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $620.68 per week, subject to section 74D, or the rate specified in paragraph (b), whichever is the greater |
-|  | bto any other person who is married or in a civil union or in a de facto relationship | $587.46 per week, subject to Income Test 3 | $587.46 per week, subject to section 74D |
+|  | ato a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $638.46 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $638.46 per week, subject to section 74D, or the rate specified in paragraph (b), whichever is the greater |
+|  | bto any other person who is married or in a civil union or in a de facto relationship | $604.54 per week, subject to Income Test 3 | $604.54 per week, subject to section 74D |
 
 ## Schedule 12 — Payments on death of veteran or veteran’s spouse or civil union partner
 
-| 1 | aon the death of a person who,—ion the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service; andiibefore 1 April 1990, was in receipt of a war veteran’s allowance under the War Pensions Act 1954 | $14,403.96 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
+| 1 | aon the death of a person who,—ion the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service; andiibefore 1 April 1990, was in receipt of a war veteran’s allowance under the War Pensions Act 1954 | $14,602.73 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
 | --- | --- | --- |
-|  | bon the death of any person who, on the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service | $5,712.64 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
-|  | con the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran’s pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran’s pension | $4,356.05 to that person |
+|  | bon the death of any person who, on the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service | $5,791.47 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
+|  | con the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran’s pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran’s pension | $4,416.16 to that person |
 | 2 | There is deductable from any amount payable under clause 1 the amount of any veteran’s pension paid or payable in respect of the person who has died following their death. |  |
 
 ## Schedule 13 — Specified Pacific countries
