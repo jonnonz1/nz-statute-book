@@ -1,5 +1,5 @@
 # Engineering Associates Act 1961
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to provide for the registration and control of certain persons associated with or employed in engineering work, and for the encouragement of better qualification in that work
 
@@ -176,8 +176,16 @@ Every person commits an offence against this Act who wilfully makes or causes to
 (5) Every payment of money by the Board shall either be authorised by a prior resolution of the Board or be confirmed by the Board at its first ordinary meeting after the date of payment.
 (6) The Board may from time to time, as it thinks fit, invest any money not for the time being required for any of the purposes mentioned in subsection (3) by depositing it in its name in the Post Office Savings Bank or with any bank or investing it in any manner in which trustees are for the time being authorised to invest trust funds.
 
-### 27 Accounts and audit
-(1) The accounts of the Board for every year ending with 31 March shall comprise a statement of financial position showing the financial position of the Board at 31 March in that year, together with a statement of income and expenditure.
+### 27 Financial statements
+(1) The Board must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+(2) In this section and section 27A,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013.
+
+### 27A Financial statements must be audited
+(1) The Board must ensure that the financial statements of the Board are audited.
 (2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 28 Associations to contribute to Board's funds
