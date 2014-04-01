@@ -1,5 +1,5 @@
 # New Zealand Council for Educational Research Act 1972
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the law relating to the powers and functions of the New Zealand Council for Educational Research
 
@@ -11,7 +11,9 @@ _Consolidation as at 2008-09-10_
 In this Act, unless the context otherwise requires,—
   - **Council** means the New Zealand Council for Educational Research
   - **electoral college** means the electoral college constituted under this Act
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a period of 12 consecutive months ending with 31 March
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Education.
 
 **Constitution of New Zealand Council for Educational Research**
@@ -183,10 +185,24 @@ With the prior consent in writing of the Minister of Finance, the Council may bo
 (3) The Council shall from time to time by resolution fix the maximum amount not exceeding such amount as the Auditor-General may from time to time approve, to be held at any time in each imprest account.
 (4) The payment of money out of any imprest account for any purpose not authorised under this section shall be deemed to be a misappropriation of the funds of the Council.
 
-### 28 Audit of Council's accounts
-(1) The Council must keep full and correct accounts of all money received and spent by it.
-(2) As soon as practicable after the end of each financial year, the Council shall cause the accounts of the Council for that financial year to be balanced and shall prepare a statement of financial position as at the end of the financial year together with an account of income and expenditure showing the financial transactions for that year, which it shall submit to the Auditor-General.
-(3) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+### 28 Accounting records must be kept
+(1) The Council must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Council; and
+  (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
+  (c) will enable the financial statements of the Council to be readily and properly audited.
+(2) The Council must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 28A Financial statements must be prepared
+The Council must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the Council and that financial year; and
+  (b) dated and signed on behalf of the Council by 2 members of the Council.
+
+### 28B Financial statements must be audited
+(1) The Council must ensure that the financial statements of the Council are audited.
+(2) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 29 Exemption from land and income tax
 (1) All land owned by the Council shall be exempt from land tax.
@@ -203,7 +219,7 @@ The Council may in any financial year out of its income available for general pu
 
 ### 32 Annual report
 (1) The Council shall, as soon as practicable after the end of each financial year, provide the Minister with a report of its proceedings and operations for the preceding financial year.
-(2) The annual report shall contain the statement of financial position of the Board as at the end of the financial year, together with an account of income and expenditure showing the financial transactions for that year, and shall also contain the report of the Auditor-General on the statement of financial position and account.
+(2) The annual report must contain the financial statements of the Council for the financial year and the audit report on those statements.
 (3) A copy of the annual report shall, after its receipt by the Minister, be laid before Parliament as soon as practicable.
 
 ### 33 Rules
