@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal Act 1995
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to provide for various matters relating to Crown land and other land held for public or special purposes
 
@@ -75,15 +75,28 @@ This Act may be cited as the Reserves and Other Lands Disposal Act 1995.
 (7) The powers of the Board shall not be affected by any vacancy in its membership, nor shall the proceedings of the Board be invalidated merely because of the subsequent discovery that some defect existed in the appointment of any member.
 (8) Subject to the provisions of this section, the Board may regulate its procedure in such manner as it thinks fit.
 
-### 10 Accounts and audit
-(1) The Ngati Whakaue Education Endowment Trust Board shall, before 1 July in each year, cause to be prepared a true statement of account, in a form for the time being approved by the Controller and Auditor-General, which shall include—
-  (a) a statement of financial position showing the assets and liabilities of the Board at the end of the immediately preceding period of 12 months; and
-  (b) an income and expenditure account showing the financial transactions for that immediately preceding period.
-(2) Ngāti Whakaue Education Endowment Trust Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+### 10 Financial statements must be prepared
+(1) The Ngati Whakaue Education Endowment Trust Board must ensure that, within 5 months after the end of the financial year, financial statements are—
+  (a) completed in relation to the Board and that financial year; and
+  (b) dated and signed on behalf of the Board by 2 members of the Board.
+(2) The financial statements must be prepared in accordance with—
+  (a) generally accepted accounting practice if the Ngati Whakaue Education Endowment Trust Board is a specified not-for-profit entity; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+(3) In this section and sections 10A and 11,—
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013.
+
+### 10A Financial statements must be audited
+(1) The Ngati Whakaue Education Endowment Trust Board must ensure that the financial statements of the Board are audited.
+(2) The Ngati Whakaue Education Endowment Trust Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 11 Annual report
-(1) As soon as practicable after 30 June in each year, the Ngati Whakaue Education Endowment Trust Board shall furnish to the Minister of Education a report of its operations and proceedings during that year, together with a copy of its statement of account for that year with the report of the Auditor-General thereon.
-(2) The Minister shall lay before the House of Representatives a copy of the annual report and of the statement of account with the report of the Auditor-General thereon, as soon as practicable after their receipt by the Minister.
+(1) The Ngati Whakaue Education Endowment Trust Board must, within 1 month after the receipt of the audit report on the financial statements, provide to the Minister of Education a report of its proceedings and operations for its preceding financial year, a copy of its financial statements for that year, and a copy of the audit report.
+(2) The Minister must present a copy of the report, of the financial statements, and of the audit report to the House of Representatives—
+  (a) not later than 10 working days after the Minister receives those documents; or
+  (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 
 ### 12 Repeals
 Amendment(s) incorporated in the Act(s).
