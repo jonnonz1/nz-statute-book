@@ -1,5 +1,5 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to reform the law relating to co-operative companies and, in particular—ato reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbto provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcto provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddto modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
@@ -95,11 +95,11 @@ This Act binds the Crown.
 
 ### 10 Annual resolution by directors of co-operative company
 (1) The board of a company registered under this Act must, not later than—whichever is the earlier, resolve whether or not, in the opinion of the board, the company has, throughout the accounting period to which the report relates or would relate, as the case may be, been a co-operative company.
-  (a) the date on which the annual report of the company is prepared under section 208 of the Companies Act 1993; or
-  (b) the date by which the annual report of the company is required to be prepared under that section,—
+  (a) the date on which the annual report of the company is prepared under section 208 of the Companies Act 1993 (if any); or
+  (b) the date that is 5 months after the balance date of the company,—
 (2) The resolution must set out in full the reasons for the directors' opinion.
 (3) Every director who does not vote in favour of the resolution must sign a certificate stating his or her reasons.
-(4) The board of the company must ensure that there is attached to the annual report for, and the annual return of, the company, a statement setting out—
+(4) The board of the company must ensure that there is attached to the annual report (if any) for, and the annual return of, the company, a statement setting out—
   (a) the date and terms of the resolution; and
   (b) the name of any director who did not vote in favour of the resolution and the director's reasons.
 (5) If the annual return of the company does not comply with subsection (4), the Registrar must, as soon as practicable after receiving the return, give notice in writing to the board of the company stating that the return does not comply.
