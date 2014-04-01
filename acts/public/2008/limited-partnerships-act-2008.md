@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -80,7 +80,7 @@ Without limiting what may be contained in a partnership agreement, a partnership
   (c) the entitlement of partners to distributions:
   (d) whether a general partner may compete with the limited partnership and in what circumstances:
   (e) when a meeting of partners must be held, and the procedure for conducting a meeting of partners:
-  (f) whether the financial statements of the limited partnership must be audited:
+  (f)
   (g) how a partner may leave the limited partnership, including whether a partner may be expelled from the limited partnership, and how a new partner may be admitted to the limited partnership:
   (h) when and how the limited partnership terminates:
   (i) whether the limited partnership has a conflict of interest policy, and the nature of that policy.
@@ -537,7 +537,7 @@ Any document may be served on a limited partnership by—
   (e) accounting records that—
     (i) correctly record and explain the limited partnership’s transactions; and
     (ii) at any time enable the financial position of the limited partnership to be determined with reasonable accuracy:
-  (f) the limited partnership’s financial statements prepared in accordance with section 75 for—
+  (f) the limited partnership’s financial statements prepared in accordance with section 75 (if any) for—
     (i) the last 7 completed accounting periods of the limited partnership; or
     (ii) if 7 completed accounting periods have not elapsed since the limited partnership was first registered, the completed accounting periods since registration.
 (2) The references in subsection (1)(b) and (c) to 7 years and the references in subsection (1)(d) and (f) to 7 completed accounting periods include any lesser period that the Registrar may approve by notice in writing to the limited partnership.
@@ -546,20 +546,66 @@ Any document may be served on a limited partnership by—
   (a) the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
   (b) each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
-### 75 Obligation to prepare financial statements
-(1) The general partners of a limited partnership must ensure that, within 5 months after the balance date of the limited partnership, financial statements are—
+**Financial reporting**
+
+### 75 Financial statements must be prepared
+(1) The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under section 75F, must ensure that, within 5 months after the balance date of the limited partnership, financial statements that comply with generally accepted accounting practice are—
   (a) completed in relation to the limited partnership and that balance date; and
   (b) dated and signed on behalf of the general partners by 2 general partners of the limited partnership, or, if the limited partnership has only 1 general partner, by that general partner.
-(2) In subsection (1), financial statements has the same meaning as in section 8(1) of the Financial Reporting Act 1993.
-(3) For the purposes of this section, sections 7(1) to (6) and 8(1) of the Financial Reporting Act 1993 apply as if a reference to—
-  (a) an entity or a reporting entity were a reference to a limited partnership:
-  (b) the directors were a reference to the general partners.
-(4) Where financial statements in relation to a limited partnership are not completed and signed within the time specified in subsection (1), every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
-(5) It is a defence to a general partner of a limited partnership charged with an offence under subsection (4) if the general partner proves that—
-  (a) the general partners of the limited partnership took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
-  (b) the general partner took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
-  (c) in the circumstances the general partner could not reasonably have been expected to take steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1).
-(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (4) ends on the date that is 3 years after the date on which the offence was committed.
+(2) In sections 75A to 75G, accounting period, applicable auditing and assurance standard, and applicable financial reporting standard have the same meanings as in section 5 of the Financial Reporting Act 2013.
+(3) In this section and sections 75A to 75G,—
+  - **balance date** has the same meaning as in section 41 of the Financial Reporting Act 2013
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **large limited partnership** —
+    (a) means a limited partnership that is large under section 45 of the Financial Reporting Act 2013; and
+    (b) includes a limited partnership that is a public entity
+  - **public entity** has the same meaning as in section 5 of the Public Audit Act 2001
+  - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013.
+
+### 75A Financial statements must be audited
+(1) The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under section 75F, must ensure that the financial statements of the limited partnership are audited by a qualified auditor.
+(2) This section does not apply to a large limited partnership if the limited partnership opts out of this section under section 75G.
+(3) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a limited partnership).
+
+### 75B Audit must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit for the purposes of section 75A, comply with all applicable auditing and assurance standards.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+(3) This section does not apply to a limited partnership that is a public entity.
+
+### 75C Distribution of financial statements
+The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under section 75F, must ensure that, within 5 months after the balance date of the limited partnership, copies of the financial statements of the limited partnership completed in relation to that balance date and a copy of the auditor's report on those statements (if any) are delivered to each general partner and each limited partner.
+
+### 75D Financial reporting offences
+(1) Subsection (2) applies if—
+  (a) financial statements in relation to a large limited partnership, or a limited partnership that has opted into compliance with section 75, are not completed and signed within the time specified in section 75(1); or
+  (b) the financial statements of a limited partnership referred to in paragraph (a) fail to comply with an applicable financial reporting standard; or
+  (c) the financial statements of a large limited partnership, or of a limited partnership that has opted into compliance with section 75A, are not audited in accordance with section 75A; or
+  (d) a copy of the financial statements of a large limited partnership, or of a limited partnership that has opted into compliance with section 75C, and a copy of the auditor's report on those statements are not delivered to each partner in accordance with section 75C.
+(2) Every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) It is a defence to a general partner of a partnership charged with an offence under this section in respect of a requirement referred to in subsection (1) if the partner proves that—
+  (a) the general partners took all reasonable and proper steps to ensure that the requirement would be complied with; or
+  (b) the general partner took all reasonable steps to ensure that the requirement would be complied with; or
+  (c) in the circumstances, the general partner could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
+
+### 75E Non-application of provisions if alternative financial reporting duties under financial markets legislation
+Sections 75 to 75D do not apply to a limited partnership in relation to an accounting period if financial statements of the partnership are required to be prepared for that period under subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
+
+### 75F Limited partnership may opt in
+(1) A partner of a limited partnership who has, or the partners of a limited partnership who together have, contributed at least 5% of the capital contributions of all the partners may, by written notice given to the limited partnership within 6 months after the start of an accounting period, require the limited partnership to comply with 1 or more of the following provisions in relation to the accounting period:
+  (a) section 75 (preparation of financial statements):
+  (b) section 75A (audit requirement):
+  (c) section 75C (distribution of financial statements).
+(2) If a notice is given under subsection (1) in relation to a provision and an accounting period, the provision applies to the limited partnership in relation to that period.
+
+### 75G Large limited partnerships may opt out of audit requirement
+(1) This section applies to a large limited partnership unless—
+  (a) the partnership agreement for the limited partnership expressly provides that this section does not apply; or
+  (b) the limited partnership is a public entity.
+(2) The limited partnership may, within 6 months from the start of an accounting period, opt out of compliance with section 75A (audit requirement) in relation to that accounting period by way of a resolution passed or signed by partners who together have contributed at least 95% of the capital contributions of all the partners.
+(3) If the limited partnership opts out of compliance with section 75A in relation to an accounting period under this section, the section does not apply to the limited partnership in relation to that period.
+
+**Annual return**
 
 ### 76 Annual return
 (1) The general partners of a limited partnership must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the limited partnership for the purpose, an annual return in the prescribed form.
