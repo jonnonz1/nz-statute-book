@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -175,7 +175,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (d) a regional road within the meaning of section 362 of the Local Government Act 1974:
     (e) a limited access regional road within the meaning of section 371 of the Local Government Act 1974:
     (f) a regional motorway within the meaning of section 374 of the Local Government Act 1974
-  - **royalties** means money payable to the Crown under section 33(1)(c) in accordance with—
+  - **royalties** means money payable to the Crown under section 33(1)﻿(c) in accordance with—
     (a) section 34(b); or
     (b) regulations made under section 105A
   - **sand** does not include ironsand
@@ -227,15 +227,15 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (i) relates to an underground operation or an operation that is (whether wholly or partially) 50 metres or more beyond the seaward side of the mean high-water mark; and
     (ii) is not for a special purpose mining activity.
 (2) In this Act, Tier 2 permit means a permit that is not a Tier 1 permit.
-(3) For the purposes of the Minister making an estimate for the purposes of subsection (1)(c) or (d), the life of a permit includes any extensions of duration to the permit granted under this Act.
+(3) For the purposes of the Minister making an estimate for the purposes of subsection (1)﻿(c) or (d), the life of a permit includes any extensions of duration to the permit granted under this Act.
 
 ### 2C Determination of permit tier status
-(1) This section applies to each exploration permit and mining permit whose Tier 1 (or, by default, Tier 2) status must be determined in accordance with section 2B(1)(c) or (d).
+(1) This section applies to each exploration permit and mining permit whose Tier 1 (or, by default, Tier 2) status must be determined in accordance with section 2B(1)﻿(c) or (d).
 (2) The Minister must determine the tier status of a permit—
   (a) on first granting the permit, and then once in each permit year and at any time that the permit is changed under section 36(1); or
   (b) if the permit exists on the commencement of this section, as soon as practicable after the commencement of this section, and then once in each permit year and at any time that the permit is changed under section 36(1).
 (3) The Minister may determine the tier status of a permit at any other time as he or she thinks fit.
-(4) For the purposes of subsection (2)(a), a determination made because of a change to the permit may, in the Minister's complete discretion, be treated as the required determination for the following permit year.
+(4) For the purposes of subsection (2)﻿(a), a determination made because of a change to the permit may, in the Minister's complete discretion, be treated as the required determination for the following permit year.
 
 ### 2D Consequences of change in status of permit
 (1) This section applies if, as a result of a determination made by the Minister under section 2C, a Tier 1 permit becomes a Tier 2 permit or a Tier 2 permit becomes a Tier 1 permit.
@@ -283,7 +283,7 @@ The chief executive has the following functions under this Act:
 (1) No person may prospect or explore for, or mine, Crown owned minerals in land unless the person—
   (a) is the holder of a permit granted under this Act which authorises the holder to do so, or is authorised to do so by the holder of such a permit in accordance with the permit, or is otherwise authorised to do so under this Act; and
   (b) complies with sections 49, 50, 51, 53, and 54.
-(2) Subsection (1)(a) does not apply to the taking by any person of—
+(2) Subsection (1)﻿(a) does not apply to the taking by any person of—
   (a) any Crown owned mineral that—for use for any reasonable agricultural, pastoral, domestic, roadmaking, or building purpose on land of which the person is an owner or occupier; or
     (i) exists in a natural state in land of which the person is an owner or occupier; and
     (ii) is in land which is not the subject of a permit in respect of such mineral—
@@ -355,9 +355,9 @@ The Minister must, as soon as practicable, prepare a draft minerals programme fo
   (a) public notice is given of a draft minerals programme; and
   (b) notice is given of a draft minerals programme to all iwi; and
   (c) the draft minerals programme is available on an Internet site maintained by or on behalf of the chief executive.
-(2) Every notice under subsection (1)(a) must—
+(2) Every notice under subsection (1)﻿(a) must—
   (a) give reasonable notice of the contents of the draft minerals programme; and
-  (b) specify the Internet site referred to in subsection (1)(c) where the draft minerals programme may be inspected; and
+  (b) specify the Internet site referred to in subsection (1)﻿(c) where the draft minerals programme may be inspected; and
   (c) indicate that submissions may be made on the draft minerals programme, how submissions may be made, and by what date.
 
 ### 18 Submissions
@@ -475,7 +475,7 @@ Where, in respect of any application for a prospecting permit, the Minister cons
   (d) has effect until the close of the earlier of the following periods:
     (i) the period specified in the notice:
     (ii) 3 years from the date on which the notice is published in the Gazette.
-(3) The Minister must not accept a permit application that is contrary to a notice under subsection (1) while the notice has effect, unless the application relates to a subsequent permit referred to in subsection (4)(c).
+(3) The Minister must not accept a permit application that is contrary to a notice under subsection (1) while the notice has effect, unless the application relates to a subsequent permit referred to in subsection (4)﻿(c).
 (4) A notice under subsection (1) does not affect any—
   (a) application received by the Minister before the notice is published in the Gazette; or
   (b) permit granted before the notice is published in the Gazette; or
@@ -503,12 +503,12 @@ Where the Minister considers it appropriate to do so, the Minister may require t
     (iii) any relevant information on the applicant’s failure to comply with permits or rights, or conditions in respect of those permits or rights, to prospect, explore, or mine in New Zealand or internationally; and
   (c) that the applicant is likely to comply with the relevant obligations under the Act or the regulations in respect of reporting and the payment of fees and royalties; and
   (d) in the case of a Tier 1 permit for exploration or mining, that the proposed permit operator has, or is likely to have, by the time the relevant work in any granted permit is undertaken, the capability and systems that are likely to be required to meet the health and safety and environmental requirements of all specified Acts for the types of activities proposed under the permit.
-(3) For the purposes of the Minister satisfying himself or herself of the matter in subsection (2)(d), the Minister—
+(3) For the purposes of the Minister satisfying himself or herself of the matter in subsection (2)﻿(d), the Minister—
   (a) is only required to undertake a high-level preliminary assessment; and
   (b) must seek the views of WorkSafe and may, but is not required to, obtain the views of any other regulatory agency; and
   (c) may, but is not required to, rely on the views of the regulatory agencies; and
   (d) is not required to duplicate any assessment process that a regulatory agency may be required to undertake in accordance with a specified Act.
-(4) To avoid doubt, subsection (2)(d) does not limit, have any effect on, or have any bearing on—
+(4) To avoid doubt, subsection (2)﻿(d) does not limit, have any effect on, or have any bearing on—
   (a) whether the permit holder or permit operator is required to obtain any permit, consent, or other permission under any health and safety or environmental legislation:
   (b) the granting to the permit holder or permit operator of any permit, consent, or other permission necessary under any health and safety or environmental legislation by any government agency, consent authority, or Minister responsible for the administration of that legislation.
 (5) This section is subject to section 29B.
@@ -518,10 +518,10 @@ Where the Minister considers it appropriate to do so, the Minister may require t
   (a) a Tier 1 permit for exploration is offered for allocation by public tender under section 24(1); and
   (b) a tender made in response to the offer under section 24(1) states that it is to be considered in accordance with this section; and
   (c) the proposed work programme provided with the tender contains an exploration drilling committal date.
-(2) If this section applies, the Minister must, when considering whether to grant the permit to the tenderer, be satisfied of the matters set out in section 29A(2)(b) and (d) only in relation to work that will be undertaken before the exploration drilling committal date.
+(2) If this section applies, the Minister must, when considering whether to grant the permit to the tenderer, be satisfied of the matters set out in section 29A(2)﻿(b) and (d) only in relation to work that will be undertaken before the exploration drilling committal date.
 (3) If a permit is granted in accordance with this section,—
   (a) work cannot be undertaken after the exploration drilling committal date unless, before that date,—
-    (i) the Minister has, upon application by the permit holder, satisfied himself or herself of the matters set out in section 29A(2)(b) and (d) in relation to that work; and
+    (i) the Minister has, upon application by the permit holder, satisfied himself or herself of the matters set out in section 29A(2)﻿(b) and (d) in relation to that work; and
     (ii) the permit holder has committed, in accordance with the permit, to drilling for exploration purposes; and
   (b) the requirements of paragraph (a) are a condition of the permit.
 (4) For the purposes of subsection (3),—
@@ -603,7 +603,7 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (1) The chief executive may require the holder of a Tier 1 permit to attend, once in each permit year, a review meeting for the purposes of—
   (a) monitoring the permit holder's progress against the work programme for the permit; and
   (b) providing an opportunity for discussion between the chief executive, the permit holder, the appropriate Minister (but only if the permit relates to Crown land), and any regulatory agency that the chief executive has invited to attend the meeting.
-(2) Without limiting subsection (1)(b), the chief executive must invite any regulatory agency that he or she thinks is likely to have regulatory oversight of the activities under the permit to attend a review meeting. However, the chief executive may limit the agency's attendance at the meeting to only those parts of the meeting that are relevant to its oversight.
+(2) Without limiting subsection (1)﻿(b), the chief executive must invite any regulatory agency that he or she thinks is likely to have regulatory oversight of the activities under the permit to attend a review meeting. However, the chief executive may limit the agency's attendance at the meeting to only those parts of the meeting that are relevant to its oversight.
 (3) Unless otherwise agreed between the chief executive and a permit holder, a review meeting must be—
   (a) held on a date and at a place notified to the permit holder by the chief executive (which date must be at least 20 working days after the date of notification); and
   (b) attended by at least 1 representative of the permit operator who has sufficient seniority, expertise, and knowledge to enable full discussion of the work programme and conditions of the permit.
@@ -679,15 +679,15 @@ The Minister may—
   (b) extend the land to which the permit relates:
   (c) change the minerals to which the permit relates:
   (d) extend the duration of the permit.
-(3) An application under subsection (1)(b) to extend the duration of an exploration permit for petroleum may only be made as provided by section 35A.
-(4) An application under subsection (1)(b) to extend the duration of a mining permit in accordance with this section, or to extend the duration of an exploration permit under section 35A, must be received by the Minister not later than 6 months before the expiry of the permit.
+(3) An application under subsection (1)﻿(b) to extend the duration of an exploration permit for petroleum may only be made as provided by section 35A.
+(4) An application under subsection (1)﻿(b) to extend the duration of a mining permit in accordance with this section, or to extend the duration of an exploration permit under section 35A, must be received by the Minister not later than 6 months before the expiry of the permit.
 (4A) However, if the Minister is satisfied that there are compelling reasons why a permit holder could not comply with subsection (4), the Minister may receive an application by a later date agreed by the Minister.
-(4B) All other applications under subsection (1)(b) must be received by the Minister not later than 90 days before—
+(4B) All other applications under subsection (1)﻿(b) must be received by the Minister not later than 90 days before—
   (a) the expiry date of the permit; or
   (b) in the case of an application to change the specified date by which specified work must be carried out, the specified date; or
   (c) in the case of an application to change the specified work that must be carried out by a specified date, the specified date.
 (4C) However, if the Minister is satisfied that there are compelling reasons why a permit holder could not comply with subsection (4B), the Minister may receive an application by a later date agreed by the Minister (which date must not be later than the date of expiry of the permit or the specified date by which the specified work must be done).
-(4D) If a permit holder makes an application to which subsection (4B)(b) or (c) applies, the permit holder does not contravene the condition that the permit holder has applied to change if the condition—
+(4D) If a permit holder makes an application to which subsection (4B)﻿(b) or (c) applies, the permit holder does not contravene the condition that the permit holder has applied to change if the condition—
   (a) must be complied with or fulfilled while the application is being considered by the Minister; and
   (b) is not complied with or fulfilled while the application is being considered by the Minister.
 (4E) However, if the application is declined, the permit holder contravenes the condition from the date on which the condition should have been complied with or fulfilled.
@@ -741,7 +741,7 @@ The Minister may—
     (ii) provide reasons why the permit should not be revoked or transferred.
 (3) The Minister may, by serving written notice on the permit holder, revoke or transfer the permit with effect on the date that is 41 working days after the date on which the notice under subsection (2) is served if—
   (a) the grounds for revocation or transfer have not been removed; or
-  (b) after having considered reasons provided in accordance with subsection (2)(b)(ii), the Minister still considers there are grounds for revoking or transferring the permit.
+  (b) after having considered reasons provided in accordance with subsection (2)﻿(b)﻿(ii), the Minister still considers there are grounds for revoking or transferring the permit.
 (4) If the Minister transfers a permit in accordance with subsection (3),—
   (a) the permit is automatically transferred into the name of the Minister; and
   (b) the consent of the Minister under section 41 is not required to transfer the permit to, or from, the Minister; and
@@ -763,7 +763,7 @@ The Minister may—
 (2) Unless the Minister considers it is in the interests of the Crown to acquire the permit for the purposes of reallocation or otherwise (in which case the permit vests in the Crown as if it were personal property), the surrender—
   (a) must be accepted by the chief executive if everything is in order and, in the case of a partial surrender, the Minister has approved the area to be surrendered under subsection (7A); and
   (b) takes effect when the chief executive accepts it.
-(2A) Despite subsection (1)(b) and (c), the chief executive may accept a surrender application even though the permit holder has not paid to the Crown all the money owing to the Crown or has not provided to the chief executive all the information and records required to be provided.
+(2A) Despite subsection (1)﻿(b) and (c), the chief executive may accept a surrender application even though the permit holder has not paid to the Crown all the money owing to the Crown or has not provided to the chief executive all the information and records required to be provided.
 (3) For the purposes of subsections (5) and (6), if a permit vests in the Crown under this section,—
   (a) the permit is deemed to have been surrendered under this section; and
   (b) the date on which the permit is deemed to have been surrendered,—
@@ -809,17 +809,17 @@ The Minister may—
   (a) a copy of any agreement or document that specifies the change of control; and
   (b) a statement from the permit participant that it has the financial capability to meet its obligations under the permit; and
   (c) in the case of a change of control of a guarantor, a statement from the guarantor that it has the financial capability to meet its obligations under the guarantee.
-(4) A statement for the purposes of subsection (3)(b) or (c) must be signed,—
+(4) A statement for the purposes of subsection (3)﻿(b) or (c) must be signed,—
   (a) if the permit participant or guarantor is a company, on behalf of all the directors by at least 2 directors of the company or, if the company has only 1 director, by that director; or
   (b) if the permit participant or guarantor is not a company, by a person responsible for the management of the permit participant or guarantor.
 (5) If required to do so, a permit participant must provide to the Minister information or documents relevant to the financial capability of the person A concerned, which may be—
   (a) general information about that person's financial capability; or
-  (b) information specific to the matters referred to in subsection (3)(b) and (c).
+  (b) information specific to the matters referred to in subsection (3)﻿(b) and (c).
 (6) However, the permit participant must do so only if the Minister requests the information or documents no later than 3 months from the date on which the permit participant notifies the Minister of the change of control in accordance with this section.
 (7) The Minister may revoke the permit in accordance with the procedure set out in section 39 if the Minister—
   (a) is not satisfied that, following the change of control, the permit holder has the financial capability to meet its obligations under the permit; and
   (b) revokes the permit no later than 3 months from the date on which the permit participant notifies the change of control in accordance with this section.
-(8) In subsection (1)(b), a specified person, in relation to person A, means—
+(8) In subsection (1)﻿(b), a specified person, in relation to person A, means—
   (a) a person who is acting or will act jointly or in concert with person A in respect of exercising, or controlling the exercise of, the voting rights of the permit participant; or
   (b) a person who acts, or is accustomed to acting, in accordance with the wishes of person A.
 
@@ -936,26 +936,26 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 (2) This section does not apply in the case of entry onto land that is in the common marine and coastal area.
 
 ### 51 Entry on Maori land for minimum impact activity
-(1) Where a permit holder or, any person authorised under section 49, as the case may be, seeks to enter any Maori land for the purpose of carrying out any minimum impact activity, the permit holder or that person, shall, in addition to complying with section 49 and before any such entry is made—
+(1) Where a permit holder or any person authorised under section 49, as the case may be, seeks to enter any Maori land for the purpose of carrying out any minimum impact activity, the permit holder or that person, shall, in addition to complying with section 49 and before any such entry is made—
   (a) ensure that reasonable efforts have been made to consult with those owners of the land able to be identified by the Registrar of the Maori Land Court; and
   (b) give not less than 10 working days' notice to the local iwi authority of the land to be entered and the matters referred to in section 49(3).
 (2) No person may, without the consent of the owners of the land, enter Maori land for the purpose of carrying out a minimum impact activity where the land is regarded as waahi tapu by the tangata whenua.
 (3) No person may, without the consent of the land holding trustee (as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995), enter on any land that is both—for the purpose of carrying out a minimum impact activity.
   (a) registered in the name of Pootatau Te Wherowhero under section 19 of that Act; and
   (b) regarded as waahi tapu by the land holding trustee within the meaning of that Act—
-(4) Subsection (1)(b) shall apply in relation to land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995 as if that land were Maori land and as if the land holding trustee were the local iwi authority of that land.
+(4) Subsection (1)﻿(b) shall apply in relation to land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995 as if that land were Maori land and as if the land holding trustee were the local iwi authority of that land.
 (5) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the Ngāti Awa governance entity (as defined in section 12 of the Ngāti Awa Claims Settlement Act 2005), if the land is—
   (a) registered in the name of Awanuiārangi II as protected land under section 157 of that Act; and
   (b) regarded as wāhi tapu by the Ngāti Awa governance entity.
-(6) Subsection (1)(b) applies in relation to land registered in the name of Awanuiārangi II as protected land under section 157 of the Ngāti Awa Claims Settlement Act 2005 as if—
+(6) Subsection (1)﻿(b) applies in relation to land registered in the name of Awanuiārangi II as protected land under section 157 of the Ngāti Awa Claims Settlement Act 2005 as if—
   (a) the land were Maori land; and
   (b) the Ngāti Awa governance entity were the local iwi authority of the land.
 (7) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012), if the land is registered in the names of Wharepakau and Tangiharuru as tenants in common.
-(8) Subsection (1)(b) applies in relation to land registered in the names of Wharepakau and Tangiharuru as tenants in common under section 104 of the Ngāti Whare Claims Settlement Act 2012 and section 88 of the Ngāti Manawa Claims Settlement Act 2012 as if that land were Māori land and as if the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012) were jointly the local iwi authority of that land.
+(8) Subsection (1)﻿(b) applies in relation to land registered in the names of Wharepakau and Tangiharuru as tenants in common under section 104 of the Ngāti Whare Claims Settlement Act 2012 and section 88 of the Ngāti Manawa Claims Settlement Act 2012 as if that land were Māori land and as if the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012) were jointly the local iwi authority of that land.
 (9) No person may, for the purpose of carrying out a minimum impact activity enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare (as defined in section 10 of the Ngāti Whare Claims Settlement Act 2012), if the land is—
   (a) registered in the name of Wharepakau as protected land under section 104 of that Act; and
   (b) regarded as wāhi tapu by the trustees.
-(10) Subsection (1)(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
+(10) Subsection (1)﻿(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
 
 ### 52 Permit holder may obtain order
 Where a permit holder or other person authorised to enter on land under section 49 has complied with the requirements of that section and, in the exercise of his or her rights under that section, is obstructed, hindered, or interfered with by an owner or occupier of the land, or any other person, the permit holder or person so authorised may apply to a District Court for an order directing that he or she or any other person having rights under section 49 be permitted to exercise those rights.
@@ -971,7 +971,7 @@ Where a permit holder or other person authorised to enter on land under section 
   (a) land in the continental shelf; or
   (b) land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
     (i) in respect of land that is not subject to a customary marine title order or agreement; and
-    (ii) in accordance with an access arrangement agreed in writing between the permit holder, the Minister, and the appropriate Minister in relation to an activity set out in section 61(1A)(a) to (e).
+    (ii) in accordance with an access arrangement agreed in writing between the permit holder, the Minister, and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e).
 
 ### 54 Access to land for minerals other than petroleum
 (1) This section shall not apply to minimum impact activities.
@@ -982,7 +982,7 @@ Where a permit holder or other person authorised to enter on land under section 
   (a) land in the continental shelf; or
   (b) land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
     (i) in respect of land that is not subject to a customary marine title order or agreement; and
-    (ii) in accordance with an access arrangement agreed in writing between the permit holder and the appropriate Minister in relation to an activity set out in section 61(1A)(a) to (e).
+    (ii) in accordance with an access arrangement agreed in writing between the permit holder and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e).
 
 ### 55 Restrictions on determination of access arrangements by arbitrators
 (1) Subject to section 66, or to any agreement between each owner and occupier of the land and the person desiring access, an arbitrator shall not be entitled to determine an access arrangement in respect of prospecting or exploration for, or mining of, a mineral other than petroleum.
@@ -1090,7 +1090,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
 (1) A person must not prospect, explore, or mine in any Crown land in respect of any mineral that is not the property of the Crown otherwise than in accordance with an access arrangement entered into under section 61B.
 (2) Nothing in sections 54 to 59, 61, 62 to 75, 78 to 82, and 89 applies in respect of any such access arrangement.
 (3) For the purposes of section 61B, in sections 60, 76, and 83 to 88,—
-  (a) the term permit includes any form of authorisation by the owner of the mineral to prospect, explore, or mine any mineral that is not the property of Crown:
+  (a) the term permit includes any form of authorisation by the owner of the mineral to prospect, explore, or mine any mineral that is not the property of the Crown:
   (b) the term permit holder includes the holder of an authorisation under paragraph (a).
 
 ### 61B Access arrangements in respect of Crown land where mineral not property of the Crown
@@ -1205,11 +1205,11 @@ Subject to section 76(4), no proceedings lie against an arbitrator for or with r
 (2) In assessing the amount of compensation to which an owner or occupier is entitled under subsection (1), an arbitrator shall assess it in accordance with the provisions of the Public Works Act 1981, as if the commencement of activities on land under a permit were the taking of land within the meaning of that Act, except that—
   (a) where any land damaged is flat land the use of which is necessary for the proper working of hill land, the extent to which the value of the hill land is affected shall, in addition, be taken into account; and
   (b) where an Order in Council has been made under section 66 declaring that an arbitrator may determine an access arrangement, once the amount has been assessed in accordance with that Act and this section, the arbitrator shall also assess it in the light of any consideration agreed to be paid by the person desiring access, or any other person, to an owner or occupier in any comparable situation in respect of the same or a similar prospecting, exploration, or mining proposal, and shall then determine that the amount to be paid is to be the higher of the amounts so assessed.
-(3) For the purposes of subsection (2)(b)—
+(3) For the purposes of subsection (2)﻿(b)—
   (a) the owner and occupier and any other person may give such information to the arbitrator as they possess:
   (b) the arbitrator may require the person desiring access to give such information to the arbitrator as the arbitrator determines regarding the consideration agreed to be paid by that person for an access arrangement entered into with any other owner and occupier in any comparable situation.
-(4) Any information provided by a person to an arbitrator pursuant to subsection (3)(b) shall be treated as confidential by the arbitrator, and section 75 shall not apply in respect of any breach of such confidentiality by the arbitrator.
-(5) If a person desiring access fails or refuses to give any information pursuant to subsection (3)(b) to the arbitrator's satisfaction, within such reasonable period as is specified by the arbitrator, the arbitrator shall refuse to determine an access arrangement.
+(4) Any information provided by a person to an arbitrator pursuant to subsection (3)﻿(b) shall be treated as confidential by the arbitrator, and section 75 shall not apply in respect of any breach of such confidentiality by the arbitrator.
+(5) If a person desiring access fails or refuses to give any information pursuant to subsection (3)﻿(b) to the arbitrator's satisfaction, within such reasonable period as is specified by the arbitrator, the arbitrator shall refuse to determine an access arrangement.
 (6) In considering the provision of compensation as part of an access arrangement, an arbitrator shall have regard to any monetary or non-monetary compensation offered to the owner or occupier by a person desiring access.
 (7) Where an owner or occupier suffers loss, injury, or damage due to the activities of a permit holder or of a person authorised under section 49(1) carried out on the owner's or occupier's land, and the permit holder entered the land under the authority of an access arrangement or of section 49, the owner or occupier shall be entitled to and may claim full compensation against the permit holder or person authorised for all loss, injury, or damage suffered by him or her as a consequence of such activities to the extent that compensation for such activities has not already been provided for in an access arrangement.
 (8) In default of agreement between the parties, compensation payable under subsection (7) shall be assessed and determined by an arbitrator appointed in the same manner as for the determination of an access arrangement; and the provisions of this Act relating to the determination of an access arrangement shall, with all necessary modifications, apply accordingly.
@@ -1251,7 +1251,7 @@ No person entitled to exercise a right of access by virtue of an access arrangem
 [Repealed]
 
 ### 83 Notation of access rights on land titles
-(1) On entering into an access arrangement that is of more than 6 months duration from its date of commencement, the permit holder or applicant for a permit who entered into the arrangement shall forthwith lodge with the Registrar-General of Land 3 copies of a notice of the particulars of the arrangement with a copy of the arrangement attached, and any fee prescribed by regulations under the Land Transfer Act 1952.
+(1) On entering into an access arrangement that is of more than 6 months’ duration from its date of commencement, the permit holder or applicant for a permit who entered into the arrangement shall forthwith lodge with the Registrar-General of Land 3 copies of a notice of the particulars of the arrangement with a copy of the arrangement attached, and any fee prescribed by regulations under the Land Transfer Act 1952.
 (2) A copy of an arrangement attached to a notice under subsection (1) may have excluded from it any monetary sums paid or agreed to be paid under it.
 (3) On receipt of copies of a notice under subsection (1) and of the prescribed fee, the Registrar-General of Land shall, if everything is in order,—
   (a) sign and seal on all copies a statement of the time and date of receipt; and
@@ -1303,7 +1303,7 @@ Any person may, for the purpose of inspection, have access to any document recor
 (6) The information supplied by a permit holder under subsections (1) to (3), other than information in relation to permits specified in subsection (7), must be made available by the chief executive to any person who requests it, on the payment of a reasonable charge for the costs incurred in making the information available, on and from the earliest of the following events:
   (a) the expiry of 5 years from the date on which the information was obtained by the permit holder:
   (b) the expiry of the permit and every subsequent permit in respect of that permit (in so far as the information relates to land covered by both the initial and any subsequent permit):
-  (c) if the permit holder surrenders the permit and is concurrently granted (under section 36(2)(b)) an extension of land for an equivalent permit and the extension includes land to which the surrendered permit applied, the expiry of the extended permit and every subsequent permit in respect of the extended permit (in so far as the information relates to land covered by the surrendered permit, the extended permit, and any subsequent permit in respect of the extended permit).
+  (c) if the permit holder surrenders the permit and is concurrently granted (under section 36(2)﻿(b)) an extension of land for an equivalent permit and the extension includes land to which the surrendered permit applied, the expiry of the extended permit and every subsequent permit in respect of the extended permit (in so far as the information relates to land covered by the surrendered permit, the extended permit, and any subsequent permit in respect of the extended permit).
 (7) The information supplied by a permit holder under subsections (1) to (3) in respect of a prospecting permit for petroleum, or a non-exclusive prospecting permit for a mineral other than petroleum, must be made available by the chief executive to any person who requests it, on the payment of a reasonable charge for the costs incurred in making the information available, on and from the earlier of the following events:
   (a) the expiry of 15 years from the date on which the information was obtained by the permit holder:
   (b) the conclusion of a public tender process for exploration permits to the extent that the information relates to land to which the public tender relates, except if the public tender process concludes earlier than 5 years from the date on which the information was obtained by the permit holder, in which case, the expiry of the 5 years.
@@ -1321,8 +1321,8 @@ Any person may, for the purpose of inspection, have access to any document recor
   (e) disclosure is required by another enactment; or
   (f) disclosure is required by a court of competent jurisdiction; or
   (g) the information is disclosed to a regulatory agency under section 90E.
-(2) Any information that is disclosed under subsection (1)(a) for the purposes of, or in connection with, the Minister's function of attracting permit applications under section 5(a) must be disclosed only to external advisers to the Minister.
-(3) All disclosures that are made under subsection (1)(a) to an external adviser to the Minister must be made on a confidential basis.
+(2) Any information that is disclosed under subsection (1)﻿(a) for the purposes of, or in connection with, the Minister's function of attracting permit applications under section 5(a) must be disclosed only to external advisers to the Minister.
+(3) All disclosures that are made under subsection (1)﻿(a) to an external adviser to the Minister must be made on a confidential basis.
 
 ### 90B Disclosure and publication of mineral resources and mineral production information
 (1) Every holder of a permit must provide to the chief executive all information in connection with mineral resources and mineral production that is prescribed as information that must be provided under this section.
@@ -1355,7 +1355,7 @@ Any person may, for the purpose of inspection, have access to any document recor
   (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
   (b) considers may assist the Director of Maritime New Zealand in the performance or exercise of his or her or Maritime New Zealand's functions, duties, or powers under the Maritime Transport Act 1994.
 (3) The Minister may provide to the Environmental Protection Authority (established by section 7 of the Environmental Protection Authority Act 2011) and to any consent authority any information, or a copy of any document, that the Minister—
-  (a) holds in relation to the matters referred to in section 29A(2)(d) (whether obtained under section 24, 29A, or 29B); and
+  (a) holds in relation to the matters referred to in section 29A(2)﻿(d) (whether obtained under section 24, 29A, or 29B); and
   (b) considers may assist—
     (i) the Environmental Protection Authority in the performance or exercise of its functions, duties, or powers under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 or the Resource Management Act 1991; or
     (ii) a consent authority in the performance or exercise of its functions, duties, or powers under the Resource Management Act 1991.
@@ -1413,7 +1413,7 @@ The chief executive may correct any clerical error or omission in a permit docum
   (c) a permit shall be treated as property for the purposes of the Protection of Personal and Property Rights Act 1988; and
   (d) a permit is personal property for the purposes of the Personal Property Securities Act 1999.
 (3) The holder of a permit may grant a charge over that permit as if it were personal property, but the permit may only be transferred to the chargee, or by or on behalf of the chargee, to the same extent as it could be so transferred by the holder.
-(4) In the case of a participating interest to which subsection (2)(a) applies, the participating interest must be treated as property for the purposes of the distribution of the permit participant's estate and the permit participant's personal representative may transfer the participating interest to a beneficiary of the permit participant's estate without obtaining consent under section 41.
+(4) In the case of a participating interest to which subsection (2)﻿(a) applies, the participating interest must be treated as property for the purposes of the distribution of the permit participant's estate and the permit participant's personal representative may transfer the participating interest to a beneficiary of the permit participant's estate without obtaining consent under section 41.
 
 ### 92A Effect of liquidation or loss of registration of company
 (1) On the liquidation of a permit participant, its participating interest vests in the liquidator as if it were personal property, and the liquidator may deal with the participating interest to the same extent as the permit participant would have been able to.
@@ -1447,7 +1447,7 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
 (1) The chief executive may prescribe—
   (a) the form and electronic format of any applications, returns, information accompanying any applications or returns, or any other documents that are not otherwise prescribed in regulations made under this Act:
   (b) the manner in which any applications, returns, information, or other documents must be submitted or notified if the manner of submission or notification is not otherwise prescribed in regulations made under this Act.
-(2) For the purposes of subsection (1)(a), the chief executive may prescribe different forms or formats for different classes of permits or minerals.
+(2) For the purposes of subsection (1)﻿(a), the chief executive may prescribe different forms or formats for different classes of permits or minerals.
 (3) The chief executive must publish any form or format prescribed under subsection (1) on an Internet site maintained by or on behalf of the chief executive.
 (4) The production by the chief executive of any document purporting to be a prescribed form or an extract from a prescribed form, or a copy of a form or an extract, is, in all courts and in all proceedings, unless the contrary is proved, sufficient evidence that the form or electronic format was prescribed.
 (5) To avoid doubt, if the chief executive prescribes an electronic format for a form, the chief executive may require any signature on the form to be an electronic signature.
@@ -1663,9 +1663,9 @@ In sections 101B and 101C,—
   (c) prevent any person or ship from entering a specified non-interference zone:
   (d) board a ship (whether within a specified non-interference zone or otherwise), give directions to the person appearing to be in charge, and require the person to give his or her name and address:
   (e) without warrant, arrest a person.
-(2) If an enforcement officer described in subsection (6)(b) or (c) arrests a person under subsection (1)(e), the enforcement officer must cause the person to be delivered into the custody of a constable as soon as practicable.
+(2) If an enforcement officer described in subsection (6)﻿(b) or (c) arrests a person under subsection (1)﻿(e), the enforcement officer must cause the person to be delivered into the custody of a constable as soon as practicable.
 (3) An enforcement officer who exercises a power under this section may be accompanied by any person or persons reasonably necessary to assist the enforcement officer to exercise the power.
-(4) A person who provides assistance under subsection (3) may exercise the powers provided to an enforcement officer under subsection (1)(a) to (d).
+(4) A person who provides assistance under subsection (3) may exercise the powers provided to an enforcement officer under subsection (1)﻿(a) to (d).
 (5) No enforcement officer, or person called upon to assist an enforcement officer, who does an act, or omits to do an act, when exercising a power under this section is under any civil or criminal liability in respect of the act or omission, unless the person has acted, or omitted to act, in bad faith.
 (6) For the purposes of this section, the following persons are enforcement officers:
   (a) every constable:
@@ -1759,7 +1759,7 @@ In sections 101B and 101C,—
 
 ### 105C Regulations may incorporate material by reference
 (1) Regulations made under section 105 or 105A may incorporate by reference 1 or more of the following:
-  (a) financial reporting standards made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act (financial reporting standards):
+  (a) financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act (financial reporting standards):
   (b) a standard, framework, code of practice, recommended practice, or requirement of an international organisation or a national organisation:
   (c) a standard, framework, code of practice, recommended practice, or requirement prescribed in any country or jurisdiction, or by any group of countries:
   (d) any other written material that deals with technical matters and that can reasonably be regarded as being too large or impractical to include in, or publish as part of, the regulations.
@@ -1769,7 +1769,7 @@ In sections 101B and 101C,—
 (3) The incorporated material—
   (a) is as that exists at the time that the regulations are made; and
   (b) forms part of the regulations for all purposes and has legal effect accordingly.
-(4) An amendment to, or replacement of, a financial reporting standard in regulations made under section 105 or 105A (the initial regulations) has legal effect as part of the initial regulations on and from the date on which the amendment or regulation takes effect and commences to apply under section 28 of the Financial Reporting Act 1993, if—
+(4) An amendment to, or replacement of, a financial reporting standard in regulations made under section 105 or 105A (the initial regulations) has legal effect as part of the initial regulations on and from the date on which the amendment or regulation takes effect and commences to apply under sections 27 and 28 of the Financial Reporting Act 2013, if—
   (a) the amendment or replacement is made by the External Reporting Board in accordance with that Act; and
   (b) the amendment or replacement is of the same general character as the standard that is amended or replaced; and
   (c) the initial regulations state that amendments or replacements have this effect.
@@ -1803,10 +1803,10 @@ In sections 101B and 101C,—
 (2) The chief executive—
   (a) may make copies of the proposed material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the proposed material is available in other ways and giving details of where or how it can be accessed or obtained.
-(3) The chief executive may comply with subsection (1)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the administrating department to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(3) The chief executive may comply with subsection (1)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the administrating department to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
 (4) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on section 105C.
-(5) For the purposes of subsection (1)(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
-(6) Nothing in this section applies to material proposed to be incorporated by reference described in section 105C(1)(a).
+(5) For the purposes of subsection (1)﻿(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
+(6) Nothing in this section applies to material proposed to be incorporated by reference described in section 105C(1)﻿(a).
 (7) In this section, proposed material means—
   (a) the material itself:
   (b) an accurate translation in an official New Zealand language of the material, if the material is not in an official New Zealand language.
@@ -1815,6 +1815,80 @@ In sections 101B and 101C,—
 
 ### 106 Savings and transitional provisions
 The savings and transitional provisions set out in Schedule 1 have effect for the purposes of this Act.
+
+**Existing privileges**
+
+### 107 Existing privileges to continue
+[Repealed]
+
+### 108 Administration of existing privileges
+[Repealed]
+
+### 109 Bonds and monetary deposits
+[Repealed]
+
+### 110 Fees payable by holders of existing privileges
+[Repealed]
+
+### 110A Data lodgement requirements in respect of petroleum licences
+[Repealed]
+
+### 110B Extension of term of petroleum prospecting licences
+[Repealed]
+
+### 111 Right to new permits
+[Repealed]
+
+### 111A No application under section 103D of Mining Act 1971 for extension of duration of mining privilege
+[Repealed]
+
+**Existing applications**
+
+### 112 Existing applications under Mining Act 1971
+[Repealed]
+
+### 113 Existing applications under Coal Mines Act 1979
+[Repealed]
+
+### 114 Existing applications under Petroleum Act 1937
+[Repealed]
+
+### 114A Priority of existing applications under Mining Act 1971, Coal Mines Act 1979, and Petroleum Act 1937
+[Repealed]
+
+**Transitional arrangements regarding access to land**
+
+### 115 Existing agreements regarding land access not affected
+[Repealed]
+
+**Miscellaneous provisions**
+
+### 116 Notices under section 24 of Mining Act 1971
+[Repealed]
+
+### 117 Minister's obligations in respect of minerals programmes
+[Repealed]
+
+### 118 Granting of petroleum permits before minerals programme issued
+[Repealed]
+
+### 119 Restriction on granting of permits
+[Repealed]
+
+### 119A No compensation
+[Repealed]
+
+### 120 Repeals and revocations
+[Repealed]
+
+### 121 Consequential amendments
+[Repealed]
+
+### 122 Savings as to compensation claims
+[Repealed]
+
+### 123 Savings as to court proceedings
+[Repealed]
 
 ## Schedule 1 — Savings and transitional provisions
 
@@ -1952,10 +2026,10 @@ This subpart applies to existing privileges in replacement of all provisions con
 (4) Before a consent authority varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of the existing privilege, the consent authority must give written notice to the Minister of the proposed action and the reasons for it.
 (5) A failure to comply with subclause (3) or (4) does not invalidate any variation or enforcement action.
 (6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by section 332 of the Resource Management Act 1991.
-(7) Despite clause 12(1)(d) or section 4 of the Health and Safety in Employment Act 1992, the functions, powers, and duties that—are exercisable or performable by an Inspector in relation to the existing privilege and that Act applies accordingly with any necessary modifications.
+(7) Despite clause 12(1)﻿(d) or section 4 of the Health and Safety in Employment Act 1992, the functions, powers, and duties that—are exercisable or performable by an Inspector in relation to the existing privilege and that Act applies accordingly with any necessary modifications.
   (a) before the commencement of the Health and Safety in Employment Act 1992, would have been exercisable or performable by any person in respect of an existing privilege; and
   (b) concern matters that are within the functions, powers, and duties of an Inspector holding office under section 29(1) of the Health and Safety in Employment Act 1992—
-(8) Despite clause 12(1)(d), the functions, powers, and duties—are exercisable or performable by the chief executive, and the provisions of the Act relating to the existing privilege apply accordingly, with any necessary modifications.
+(8) Despite clause 12(1)﻿(d), the functions, powers, and duties—are exercisable or performable by the chief executive, and the provisions of the Act relating to the existing privilege apply accordingly, with any necessary modifications.
   (a) that before the commencement of the principal Act would have been exercisable or performable by an Inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
   (b) that concern matters that are not within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991 or an Inspector under section 29(1) of the Health and Safety in Employment Act 1992—
 (9) References in this section to the Minister include references to any statutory officer appointed under the Act under which the existing privilege was granted.
@@ -2001,8 +2075,8 @@ This subpart applies to existing privileges in replacement of all provisions con
   (a) any land set apart by any such notice for mining purposes, or any specified mining purposes exclusively, is not available for any other purpose; and
   (b) no minerals permit that is inconsistent with any such notice may be applied for or granted under new Part 1B.
 (2) The Minister may revoke—
-  (a) a notice issued under section 24(1)(aa) of the Mining Act 1971, only with the concurrence of the Minister of Conservation:
-  (b) a notice issued under section 24(1)(b) of that Act, only with the concurrence of the Minister of Lands.
+  (a) a notice issued under section 24(1)﻿(aa) of the Mining Act 1971, only with the concurrence of the Minister of Conservation:
+  (b) a notice issued under section 24(1)﻿(b) of that Act, only with the concurrence of the Minister of Lands.
 
 ### 20 Compensation claims
 (1) If, immediately before the date of commencement of the principal Act, any claim for compensation under any enactment repealed by the principal Act has been or could be made, that claim may be made or continued and enforced in all respects as if the principal Act had not been enacted.
