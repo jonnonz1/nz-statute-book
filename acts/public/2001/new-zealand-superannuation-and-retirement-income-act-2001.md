@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -68,7 +68,7 @@ The purpose of this Act is—
   - **required annual capital contribution** has the same meaning as in section 43
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
-    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993).
+    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013).
 (2) In this Act, unless the context otherwise requires, the terms Crown, Crown Bank Account, expenses, financial year, Government, public money, and Treasury have the meanings given to them by section 2(1) of the Public Finance Act 1989.
 
 ### 5A Interpretation of Part 4 and Schedule 6
@@ -498,7 +498,7 @@ Schedule 3 applies to the board and its members.
 (2) If a contravention of subsection (1) arises (through inadvertence or otherwise), the Guardians must take all reasonable steps to remedy the default as soon as practicable.
 (3) For the purposes of this Act, an entity is controlled by the Fund if—
   (a) the entity is a subsidiary of the Fund; or
-  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
+  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)(c) of the Crown Entities Act 2004).
 
@@ -556,7 +556,7 @@ The statement of intent of the Guardians prepared each financial year under Part
 
 ### 66 Financial statements of Fund
 (1) The Guardians must ensure that financial statements for the Fund are prepared for each financial year.
-(2) The annual financial statements must be prepared in accordance with generally accepted accounting practice (as defined in section 3 of the Financial Reporting Act 1993) as if the Fund were a reporting entity.
+(2) The annual financial statements must be prepared in accordance with generally accepted accounting practice (as defined in section 8 of the Financial Reporting Act 2013).
 
 ### 67 Auditor-General is auditor of Fund
 (1) The Fund is to be treated as if it were a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
@@ -716,14 +716,14 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a person at the single living alone rate | $410.32 a week |
-|  | (b)to a person at the single sharing accommodation rate | $377.05 a week |
-|  | (c)to a person who is married or in a civil union or in a de facto relationship | $310.34 a week |
+| 1 | (a)to a person at the single living alone rate | $421.76 a week |
+|  | (b)to a person at the single sharing accommodation rate | $387.58 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $319.23 a week |
 | 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $620.68 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
-|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $587.46 a week, subject to Income Test 3 |
-| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $42.64 a week |
-| 4Rate of special disability allowance under section 20 |  | $37.76 a week |
+|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $638.46 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
+|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $604.54 a week, subject to Income Test 3 |
+| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $43.23 a week |
+| 4Rate of special disability allowance under section 20 |  | An amount that, after deduction of any income tax, is equal to $38.28 per week |
 
 ## Schedule 2 — Specified Pacific countries
 
