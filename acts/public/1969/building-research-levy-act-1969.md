@@ -1,5 +1,5 @@
 # Building Research Levy Act 1969
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to authorise the levying of building contractors to provide money for research into improved techniques and materials for use in the building industry
 
@@ -9,6 +9,7 @@ _Consolidation as at 2013-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **association** means the Building Research Association of New Zealand (Incorporated), a society incorporated under the Incorporated Societies Act 1908; and, where appropriate, includes the board of the association
   - **builder** , in relation to any construction work, means—
     (a) in any case where there is a main contract by an employer for the performance of the construction work, the person with whom the contract is made:
@@ -20,7 +21,9 @@ In this Act, unless the context otherwise requires,—
   - **construction work** or means any work in connection with the construction, erection, renewal, alteration, or improvement of a building for which a building consent is required under the Building Act 2004
   - **contract** means a contract between an employer and a builder which is for the performance of construction work and which determines the amount of consideration payable to the builder in respect of the work
   - **employer** means any owner or other person who contracts with a builder for the performance of construction work by the builder, or at whose request, or on whose behalf or on whose credit, with his privity or consent, construction work is performed; and includes all persons claiming under him whose rights are acquired after the commencement of the work
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means the period of 12 months ending with 31 March in any year
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **owner** means the person to whom the land in respect of which any construction work is to be, is being, or has been performed belongs; and includes a person having a leasehold or other limited estate or interest in the land
@@ -114,24 +117,42 @@ This Act shall bind the Crown.
 
 **Financial provisions**
 
-### 11 Annual accounts, etc
-(1) The association shall at all times ensure that full and correct records of all its financial transactions, assets, liabilities, and funds are kept.
-(2) The association shall appoint some fit person to act as its secretary and to keep all records and books of account.
-(3) At the end of each financial year, the association shall prepare an income and expenditure account showing its financial transactions for that year, together with a statement of financial position as at the last day of that year. Every such statement of financial position shall give a true and fair view of the state of affairs of the association as at the end of its financial year, and every such income and expenditure account shall give a true and fair view of the income and expenditure for that year.
+### 11 Accounting records must be kept
+(1) The association must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the association; and
+  (b) will enable the association to ensure that the financial statements of the association comply with this Act; and
+  (c) will enable the financial statements of the association to be readily and properly audited.
+(2) The association must establish and maintain a satisfactory system of control of its accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
 
-### 12 Auditors and auditing of accounts
-(1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
-  provided that no person who is an officer, member, or servant of the association shall be capable of being appointed as an auditor under this subsection.
+### 11A Financial statements must be prepared
+The association must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the association and that financial year; and
+  (b) dated and signed on behalf of the association by 2 members of the board of the association.
+
+### 12 Appointment of auditor
+(1) The association must, at its annual general meeting, appoint a person to hold office until its next annual general meeting as its auditor for the purpose of auditing its financial statements.
+(1A) No person is qualified for appointment as the auditor unless the person is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013.
+(1B) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the association).
 (2) In the event of there being a vacancy in the office of auditor due to death, resignation, removal from office for misconduct, or inability to act, the board of the association may appoint a person qualified to hold office as auditor under subsection (1) to fill the vacancy until the next annual general meeting of the association. While any such vacancy continues the surviving or continuing auditor or auditors (if any) may act.
 (3) The remuneration of any auditor appointed under subsection (1) shall be fixed by the association at its annual general meeting. The remuneration of any auditor appointed under subsection (2) shall be fixed by the board of the association.
-(4) As soon as practicable after the end of each financial year the board of the association shall cause the income and expenditure account and the statement of financial position for that year to be sent to the auditor or auditors who shall thereupon audit and report on those documents. The auditor or auditors shall, on completion of the audit, return the audited income and expenditure account and statement of financial position to the board, which shall then cause those documents and the report of the auditor or auditors to be submitted to the next annual general meeting of the association for the approval of the meeting.
-(5) All the provisions of section 166 of the Companies Act 1955 (which section relates to auditors' reports and auditors' rights of access to books of account and to attend and be heard at general meetings), so far as they are applicable and with the necessary modifications, shall apply to the association as if it were a company registered under the Companies Act 1955. For the purposes of this subsection the term profit and loss account in the said section 166 shall be construed as meaning income and expenditure account.
-(6) Any unqualified person who acts as auditor of the association commits an offence and is liable on conviction to a fine not exceeding $200.
+(4)
+(5)
+(6)
 
-### 13 Copy of statement of financial position to be sent to Minister and members
-(1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the income and expenditure account and statement of financial position of the association together with a copy of the report of the auditor and auditors thereon.
-(2) The Minister shall lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the association's income and expenditure account and statement of financial position for the year to which the report relates) within 28 days after the date of his receiving the report if Parliament is then in session or, if Parliament is not in session, within 28 days after the date of the commencement of the next ensuing session.
-(3) Within 3 months after the expiration of its financial year, the association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its income and expenditure account and statement of financial position for that year and a copy of the report of the auditor or auditors in respect thereof.
+### 12A Auditing of financial statements
+(1) As soon as practicable after the end of each financial year, the board of the association must send the financial statements for the financial year to the auditor.
+(2) The auditor must, in carrying out an audit for the purposes of subsection (1), comply with all applicable auditing and assurance standards.
+(3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+(4) The board of the association must, after receiving a copy of the auditor's report, submit the financial statements and the report to the next annual general meeting of the association for the approval of the meeting.
+(5) Section 207W of the Companies Act 1993 (which relates to the auditor's right to attend a meeting of shareholders) applies with all necessary modifications to the association as if it were a company registered under that Act.
+
+### 13 Copy of financial statements to be sent to Minister and members
+(1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the financial statements of the association together with a copy of the report of the auditor and auditors thereon.
+(2) The Minister shall lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the association's financial statements for the year to which the report relates) within 28 days after the date of his receiving the report if Parliament is then in session or, if Parliament is not in session, within 28 days after the date of the commencement of the next ensuing session.
+(3) Within 3 months after the expiration of its financial year, the association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its financial statements for that year and a copy of the report of the auditor or auditors in respect thereof.
 (4) Nothing in this section shall be construed so as to limit the application of the provisions of the Incorporated Societies Act 1908 to the association.
 
 ### 14 Copy of rules to be sent to Minister
