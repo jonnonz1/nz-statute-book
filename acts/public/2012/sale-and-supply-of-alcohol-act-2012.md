@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -59,7 +59,6 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (a) means a document of a kind approved by regulations made under this Act for the purposes of this definition; and
     (b) in relation to a person, means an evidence of age document relating to the person
   - **approved evidence of age system** means a system of a kind approved by regulations made under this Act for the purposes of this definition; and means using an approved evidence of age system in the manner approved for it by the regulations that approved the system
-  - **approved financial reporting standard** has the meaning given by section 2(1) of the Financial Reporting Act 1993
   - **banned alcohol product** means a product—
     (a) declared by regulations made under this Act to be a banned product; or
     (b) of a kind declared by regulations made under this Act to be banned products
@@ -118,11 +117,7 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (a) supplied free in clean drinking vessels on request; or
     (b) available free in larger containers from which it may easily be poured or drawn by customers, together with clean drinking vessels that are also available free nearby; or
     (c) available free from a tap to which customers have easy access, together with clean drinking vessels that are also available free nearby
-  - **generally accepted accounting practice** , in relation to a community trust or a licensing trust,—
-    (a) means approved financial reporting standards (so far as they apply to community trusts or licensing trusts (as the case requires)); and
-    (b) in relation to matters that are not provided for in approved financial reporting standards and are not subject to any applicable rule of law, includes accounting policies that—
-      (i) are appropriate to the community trust or a licensing trust; and
-      (ii) have authoritative support within the accounting profession in New Zealand
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **grocery store** has the meaning given by section 33(1)
   - **guardian** means guardian in accordance with section 246
   - **hotel** means premises used or intended to be used in the course of business principally for providing to the public—
@@ -2904,12 +2899,19 @@ The first meeting of a licensing trust established under section 300 must be hel
 ### 332 Financial year
 The financial year of a licensing trust begins on 1 April in each year and ends on 31 March in the following year.
 
-### 333 Records of financial transactions
-(1) The members of a licensing trust must ensure that full and correct accounts of all the financial transactions of the licensing trust and its assets, liabilities, and funds are kept.
-(2) If the members fail to comply with subsection (1), each member commits an offence and is liable on conviction to the penalty set out in section 374(2) of the Companies Act 1993 but subject to section 376 of that Act, which applies as if the members were the board of a company.
+### 333 Accounting records
+(1) The members of a licensing trust must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the licensing trust; and
+  (b) will enable the members to ensure that the financial statements of the licensing trust comply with this Act; and
+  (c) will enable the financial statements of the licensing trust to be readily and properly audited.
+(1A) The members of a licensing trust must establish and maintain a satisfactory system of control of the accounting records.
+(1B) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+(2) If the members fail to comply with this section, each member commits an offence and is liable on conviction to the penalty set out in section 374(2) of the Companies Act 1993 but subject to section 376 of that Act, which applies as if the members were the board of a company.
 
 ### 334 Financial statements
-(1) The members of a licensing trust must ensure that financial statements are prepared for the trust for each financial year.
+(1) The members of a licensing trust must ensure that, within 5 months after the end of each financial year, financial statements are prepared for the trust for the financial year.
 (2) The financial statements must be prepared in accordance with generally accepted accounting practice.
 (3) The financial statements must be audited by the Auditor-General.
 (4) The audited financial statements must, as soon as practicable after the completion of their audit, be publicly notified in accordance with regulations made under this Act.
@@ -3272,12 +3274,19 @@ The Minister may, by notice in writing, remove a trustee from office if the Mini
 ### 381 Financial year
 The financial year of a community trust begins on 1 April in each year and ends on 31 March in the following year.
 
-### 382 Records of financial transactions
-(1) The trustees of a community trust must ensure that full and correct accounts of all the financial transactions of the community trust and its assets, liabilities, and funds are kept.
-(2) If the trustees fail to comply with subsection (1), each trustee commits an offence and is liable on conviction to the penalty set out in section 374(2) of the Companies Act 1993 but subject to section 376 of that Act, which applies as if the trustees were the board of a company.
+### 382 Accounting records
+(1) The trustees of a community trust must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the community trust; and
+  (b) will enable the trustees to ensure that the financial statements of the community trust comply with this Act; and
+  (c) will enable the financial statements of the community trust to be readily and properly audited.
+(1A) The trustees of a community trust must establish and maintain a satisfactory system of control of the accounting records.
+(1B) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+(2) If the trustees fail to comply with this section, each trustee commits an offence and is liable on conviction to the penalty set out in section 374(2) of the Companies Act 1993 but subject to section 376 of that Act, which applies as if the trustees were the board of a company.
 
 ### 383 Financial statements
-(1) The trustees of a community trust must ensure that financial statements are prepared for the trust for each financial year.
+(1) The trustees of a community trust must ensure that, within 5 months after the end of each financial year, financial statements are prepared for the trust for the financial year.
 (2) The financial statements must be prepared in accordance with generally accepted accounting practice.
 (3) The financial statements must be audited by the Auditor-General.
 (4) The audited financial statements must, as soon as practicable after the completion of their audit, be publicly notified in accordance with regulations made under this Act.
