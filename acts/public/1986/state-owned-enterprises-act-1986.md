@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2014-03-07_
+_Consolidation as at 2014-04-01_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -16,6 +16,10 @@ In this Act, unless the context otherwise requires,—
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **Crown** means Her Majesty the Queen in right of New Zealand
   - **equity bond** means a State enterprise equity bond issued pursuant to section 12
+  - **financial statements** , in relation to a State enterprise, means—
+    (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the State enterprise and its subsidiaries; or
+    (b) if the State enterprise does not have any subsidiaries, financial statements within the meaning of section 6 of the Financial Reporting Act 2013 for the State enterprise
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means a Minister of the Crown
   - **organisation** includes a company, a body corporate, a partnership, and a joint venture
   - **responsible Minister** , in relation to a State enterprise, means the Minister for the time being responsible for that State enterprise
@@ -133,10 +137,10 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (4) The board shall consider any comments on the draft statement of corporate intent that are made to it not later than 14 days before the commencement of the financial year by the shareholding Ministers, and shall deliver the completed statement of corporate intent to the shareholding Ministers on or before the commencement of the financial year or such later date as the shareholding Ministers may determine.
 (5) A statement of corporate intent for a State enterprise may be modified at any time by written notice from the board to the shareholding Ministers, so long as the board has first given written notice to the shareholding Ministers of the proposed modification and considered any comments made thereon by the shareholding Ministers within 1 month of the date on which that notice was given.
 
-### 15 Annual report, accounts, and dividend
+### 15 Annual report, financial statements, and dividend
 (1) Within 3 months after the end of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers—
   (a) a report of the operations of the State enterprise and those of its subsidiaries during that financial year; and
-  (b) audited consolidated financial statements for that financial year consisting of statements of financial position, financial performance, changes in financial position, and such other statements as may be necessary to show the financial position of the State enterprise and its subsidiaries and the financial results of their operations during that financial year; and
+  (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on those financial statements.
 (2) Every report under subsection (1)(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the State enterprise and its subsidiaries, including a comparison of the performance of the State enterprise and subsidiaries with the relevant statement of corporate intent; and
@@ -166,7 +170,7 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (5) No member of a board of a State enterprise and no officer or employee of a State enterprise who acts in accordance with a request or direction under this section is liable to any person under the Securities Markets Act 1988 or any other Act or rule of law by reason of acting in accordance with that request or direction.
 
 ### 19 Auditor-General to be auditor of State enterprises and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993, every State enterprise and every subsidiary of every State enterprise is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(1) Despite sections 207P to 207V of the Companies Act 1993, every State enterprise and every subsidiary of every State enterprise is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) Without limiting subsection (1), the board of a State enterprise may, after consultation with the Auditor-General and if its responsible Minister so approves, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the State enterprise or any subsidiary of a State enterprise.
 
 ### 20 Protection from disclosure of sensitive information
