@@ -1,5 +1,5 @@
 # Industry Training Act 1992
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to—aprovide for the recognition and funding of organisations (to be known as industry training organisations) setting skill standards for, and administering the delivery of, industry-based training; andbencourage and improve industry-based training; andcrepeal the Technicians Training Act 1967 and the Apprenticeship Act 1983, and provide for the continued administration of contracts under those Acts; anddprovide for the protection of people receiving industry-based training under certain training arrangements in the nature of apprenticeship, or under contracts under the Technicians Training Act 1967 or the Apprenticeship Act 1983; andeprovide for other related matters
 
@@ -366,7 +366,7 @@ An industry training organisation that receives a levy must ensure that accurate
 
 ### 46 Duty to provide annual report
 (1) As soon as is practicable after the end of a financial year during which a levy has been paid to an industry training organisation under a levy order, the organisation—
-  (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice; and
+  (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and
   (b) must include in the financial statements required by paragraph (a) all the necessary information to explain—
     (i) the balance of the levy fund; and
     (ii) the movements in the levy fund over the course of the year, including receipts of money collected and payments of money made under the levy order; and
