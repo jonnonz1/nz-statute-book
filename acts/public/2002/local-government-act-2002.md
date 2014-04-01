@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -55,11 +55,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **enforcement officer** means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
   - **equity security** has the meaning given to it in section 2 of the Securities Act 1978
   - **financial year** means a period of 12 months ending on 30 June
-  - **generally accepted accounting practice** means—
-    (a) financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to local authorities and council-controlled organisations; and
-    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
-      (i) are appropriate to the local authority or council-controlled organisation; and
-      (ii) have authoritative support within the accounting profession in New Zealand
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **good-quality** , in relation to local infrastructure, local public services, and performance of regulatory functions, has the meaning given in section 10(2)
   - **group of activities** means 1 or more related activities provided by, or on behalf of, a local authority or council-controlled organisation
   - **local authority** means a regional council or territorial authority
@@ -879,7 +875,7 @@ A report on the operations of a council-controlled organisation under section 67
 (2) The audited financial statements under subsection (1)(a) must be prepared in accordance with generally accepted accounting practice.
 
 ### 70 Auditor-General is auditor of council-controlled organisations
-Despite sections 196 to 203 of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+Despite sections 207P to 207V of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 71 Protection from disclosure of sensitive information
 Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, or half-yearly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the Local Government Official Information and Meetings Act 1987.
@@ -3303,7 +3299,7 @@ The Secretary may refund the whole or any part of the levy if the Secretary is s
 (2) The Auditor-General must report on the completeness and accuracy of the disclosures made by each local authority in the report required from him or her under section 84(4), 94(1), or 99(1), as the case may be.
 
 ### 259D Regulations may incorporate financial reporting standards by reference
-(1) Regulations made under section 259(1)(dc) may incorporate financial reporting standards made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act.
+(1) Regulations made under section 259(1)(dc) may incorporate financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act.
 (2) Financial reporting standards may be incorporated by reference in the regulations—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
@@ -3311,10 +3307,10 @@ The Secretary may refund the whole or any part of the levy if the Secretary is s
 
 ### 259E Effect of amendments to, or replacement of, standards incorporated by reference in regulations
 (1) An amendment to, or replacement of, a financial reporting standard incorporated by reference in regulations made under section 259(1)(dc) (the initial regulations) has legal effect, and commences to apply, as part of the initial regulations on and from the dates referred to in subsection (2) if—
-  (a) the amendment or replacement is made by the External Reporting Board in accordance with the Financial Reporting Act 1993; and
+  (a) the amendment or replacement is made by the External Reporting Board in accordance with the Financial Reporting Act 2013; and
   (b) the amendment or replacement is of the same general character as the standard amended or replaced; and
   (c) the initial regulations state that amendments or replacements have this effect.
-(2) An amendment to, or replacement of, a financial reporting standard has legal effect as part of the initial regulations on and from the dates on which the amendment or replacement takes effect, and commences to apply, under section 28 of the Financial Reporting Act 1993.
+(2) An amendment to, or replacement of, a financial reporting standard has legal effect as part of the initial regulations on and from the dates on which the amendment or replacement takes effect, and commences to apply, under sections 27 and 28 of the Financial Reporting Act 2013.
 
 ### 259F Proof of standards incorporated by reference
 (1) A copy of financial reporting standards incorporated by reference in regulations, including any amendment to, or replacement of, the standards must be—
