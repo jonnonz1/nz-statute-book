@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -34,7 +34,7 @@ In this Act, unless the context otherwise requires,—
       (i) a person who participates in an offer of securities to the public as an issuer or a promoter (within the meaning of those terms in section 2(1) of the Securities Act 1978):
       (ii) a person who acts, in respect of securities offered to the public, as a trustee, a unit trustee, a superannuation trustee, a statutory supervisor, a manager, an expert, or a qualified auditor (within the meaning of those terms in section 2(1) of the Securities Act 1978):
       (iii) a public issuer (within the meaning of section 2(1) of the Securities Markets Act 1988):
-      (iv) an issuer (within the meaning of section 4 of the Financial Reporting Act 1993); and
+      (iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and
     (c) also includes any of the following:
       (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 5B(2) of the Securities Markets Act 1988); or
       (ii) a director or senior manager of a person referred to in paragraph (a) or (b) (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if the person referred to in those paragraphs is not a financial service provider); or
@@ -85,8 +85,9 @@ The FMA's main objective is to promote and facilitate the development of fair, e
     (ii) issuing warnings, reports, or guidelines, or making comments, about any matter relating to those markets, financial markets participants, or other persons engaged in conduct relating to those markets (including in relation to 1 or more particular persons):
     (iii) providing information about its functions, powers, and duties under this Act and other enactments (including promoting awareness by investors that all investments involve risks and that it is not the role of the FMA to remove those risks):
     (iv) providing, or facilitating the provision of, public information and education about any matter relating to those markets:
+    (v) stating whether or not, or in what circumstances, the FMA intends to take or not take action over a particular state of affairs or particular conduct (for example, to give a person some level of certainty that the FMA will take no further action in relation to a matter):
   (b) to perform and exercise the functions, powers, and duties conferred or imposed on it by or under the financial markets legislation and any other enactments:
-  (c) to monitor compliance with, investigate conduct that constitutes or may constitute a contravention of, and enforce—
+  (c) to monitor compliance with, investigate conduct that constitutes or may constitute a contravention or an involvement in a contravention of, and enforce—
     (i) the Acts referred to in Part 1 of Schedule 1 (and the enactments made under those Acts); and
     (ii) the Acts referred to in Part 2 of Schedule 1 (and the enactments made under those Acts) to the extent that those Acts or other enactments apply, or otherwise relate, to financial markets participants:
   (d) to monitor, and conduct inquiries and investigations into any matter relating to, financial markets or the activities of financial markets participants or of other persons engaged in conduct relating to those markets:
@@ -234,14 +235,14 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 **Power to enter and search place, vehicle, or other thing**
 
 ### 29 Power to enter and search place, vehicle, or other thing
-(1) The FMA may authorise a specified person to enter and search a place, vehicle, or other thing for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of any provision of the financial markets legislation if the FMA is satisfied that there are reasonable grounds—
-  (a) to suspect that person has engaged in or is engaging in conduct that constitutes or may constitute such a contravention; and
+(1) The FMA may authorise a specified person to enter and search a place, vehicle, or other thing for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention, or being involved in a contravention, of any provision of the financial markets legislation if the FMA is satisfied that there are reasonable grounds—
+  (a) to suspect that person has engaged in or is engaging in conduct that constitutes or may constitute such a contravention or involvement; and
   (b) to believe that the search will find evidential material in or on or part of the place, vehicle, or thing.
 (2) A specified person authorised under subsection (1) may enter and search the place, vehicle, or other thing if—
   (a) the occupier of the place consents or the person in charge of the vehicle or thing consents (as the case may be); or
   (b) the specified person obtains a warrant under subsection (3).
 (3) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or thing, on an application made in the manner provided by subpart 3 of Part 4 of that Act by a specified person authorised under subsection (1), if the issuing officer is satisfied that there are reasonable grounds to—
-  (a) suspect that a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of any provision of the financial markets legislation; and
+  (a) suspect that a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention, or being involved in a contravention, of any provision of the financial markets legislation; and
   (b) believe that the search will find evidential material in or on or part of the place, vehicle, or thing.
 (4) In this section,—
   - **specified person** means—
@@ -305,7 +306,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
   (b) take over specified proceedings that have been commenced by a person (person A) against a person who is or has been a financial markets participant for the purpose of continuing the proceedings.
 (2) In this subpart, specified proceedings means any of the following kinds of proceedings:
   (a) proceedings under, or in respect of, any financial markets legislation (other than criminal proceedings):
-  (b) proceedings seeking damages or other relief for fraud, negligence, default, breach of duty, or other misconduct, committed in connection with a matter to which the inquiry or investigation referred to in subsection (1) related.
+  (b) proceedings seeking damages or other relief for a contravention, an involvement in a contravention, fraud, negligence, breach of duty, or other misconduct, committed in connection with a matter to which the inquiry or investigation referred to in subsection (1) related.
 (3) In exercising a power under this section, the FMA must act in the public interest, but (subject to that duty) may take into account the interests of—
   (a) person A; and
   (b) the shareholders, members, and creditors of person A; and
@@ -409,7 +410,19 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 
 ### 46 FMA may accept undertakings
 (1) The FMA may accept a written undertaking given by, or on behalf of, a person in connection with a matter in relation to which the FMA is performing or exercising any of its functions, powers, or duties for the purposes of this Act or any other enactment.
+(1A) An undertaking may be given in connection with the FMA making a statement under section 9(1)(a)(v) (but this subsection does not limit subsection (1)).
 (2) The person may withdraw or vary the undertaking with the consent of the FMA.
+
+### 46A Undertaking may include requirements as to compensation or penalties
+(1) An undertaking under section 46 may include—
+  (a) an undertaking to pay compensation to any person or otherwise take action to avoid, remedy, or mitigate any actual or likely adverse effects arising from a contravention, involvement in a contravention, or possible contravention, or involvement in a contravention of any provision of the financial markets legislation:
+  (b) an undertaking to pay to the FMA an amount in lieu of a pecuniary penalty.
+(2) The FMA must ensure that each amount paid under subsection (1)(b) is paid into a Crown Bank Account (after deducting the FMA's actual costs incurred in connection with the matter).
+(3) If an undertaking referred to in subsection (1)(b) is given, the FMA must give notice of that undertaking on its Internet site (whether or not it gives notification of other undertakings given in relation to the same matter).
+(4) The notice under subsection (3) must include—
+  (a) a statement of the amount that has been undertaken to be paid; and
+  (b) a brief description of the circumstances and nature of the alleged contravention to which the undertaking relates.
+(5) This section does not limit section 46.
 
 ### 47 Enforcement of undertakings
 (1) If the FMA considers that a person who has given an undertaking under section 46 has breached a term of that undertaking, the FMA may apply to the High Court for an order under subsection (2).
@@ -431,14 +444,22 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (2) The High Court may order the removal into the Court of Appeal of a case stated for the opinion of the High Court under this section.
 (3) The High Court or the Court of Appeal, as the case may be, must hear and determine the question, and remit the case with its opinion to the FMA.
 
+**Power to appear and be heard and adduce evidence**
+
+### 48A FMA may appear and be heard and adduce evidence
+(1) The FMA is entitled to appear and be heard in any specified proceedings.
+(2) The FMA has the right to adduce evidence and the right to cross-examine witnesses if the FMA appears under this section, unless the specified proceedings are by way of appeal.
+(3) The rights referred to in this section apply whether or not the FMA was a party to the specified proceedings at any earlier stage in the proceedings.
+(4) In this section, specified proceedings means any of the following kinds of proceedings:
+  (a) civil or criminal proceedings under, or in respect of, any financial markets legislation:
+  (b) civil proceedings that, in connection with the offer, issue, transfer, supply, or use of financial products or financial services, seek damages or other relief for a contravention, involvement in a contravention, fraud, negligence, breach of duty, or other misconduct.
+
 **Power to require warning to be disclosed**
 
 ### 49 FMA may require its warning to be disclosed
 (1) If the FMA has issued a warning about any matter relating to a relevant person, the FMA may, by written notice served on the relevant person, order the relevant person, or all or any associated persons of the relevant person, or both to do 1 or more of the following:
   (a) prominently disclose a copy of the warning on 1 or more Internet sites maintained by or on behalf of the relevant person or any of those associated persons:
-  (b) in the case of a relevant person that is an issuer, ensure that—
-    (i) a registered prospectus specified in the order is promptly amended so that it contains a copy of the warning in a prominent position:
-    (ii) every investment statement of the kind that is specified in the order and that is distributed by or on behalf of the issuer contains a copy of the warning in a prominent position or is accompanied by a copy of the warning:
+  (b) ensure that every restricted communication of the kind that is specified in the order and that is distributed by or on behalf of the relevant person or any of those associated persons contains a copy of the warning in a prominent position or is accompanied by a copy of the warning:
   (c) ensure that any offer document of the kind that is specified in the order contains, or is amended to contain, a copy of the warning in a prominent position or is accompanied by a copy of the warning:
   (d) ensure that any document of the kind that is specified in the order and that is required by any provision of the financial markets legislation to be given by the relevant person, or any of those associated persons, to another person contains, or is amended to contain, a copy of the warning in a prominent position or is accompanied by a copy of the warning.
 (2) The FMA may make an order under subsection (1) on the terms and conditions (if any) that it thinks fit.
@@ -459,14 +480,11 @@ If the FMA applies for the leave of the High Court to commence proceedings under
   (a) relevant person means—
     (i) a person who is or has been a financial markets participant; or
     (ii) a person who is or has engaged in conduct that involves dealings in securities:
-  (b) a person (A) is an associated person of a relevant person if—
-    (i) A and the relevant person are associated persons within the meaning of section 2(1) of the Securities Act 1978; or
-    (ii) A and the relevant person are acting jointly or in concert; or
-    (iii) A acts, or is accustomed to act, in accordance with the wishes of the relevant person; or
-    (iv) the relevant person is a director or senior manager of A (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if A is not a financial service provider); or
-    (v) A and the relevant person are related bodies corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988):
+  (b) disclosure document—
+    (i) has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013; and
+    (ii) includes a register entry (within the meaning of that Act):
   (c) offer document means a document that contains or refers to an offer to acquire or dispose of securities:
-  (d) issuer, registered prospectus, investment statement, offer, and distributed have the same meaning as in section 2(1) of the Securities Act 1978.
+  (d) offer, restricted communication, associated person, and distributed have the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 50 FMA must give notice of orders
 (1) If the FMA makes an order under section 49,—
@@ -683,7 +701,9 @@ Nothing in this Part limits the Privacy Act 1993.
 (7) If a person is in 2 or more classes of specified persons in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
 (8) A levy for a financial year that starts after the FMA begins to carry out any additional function under any enactment may recover the costs of performing that additional function, irrespective of the fact that the regulations may be made and come into effect after the start of the financial year.
 (9) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the FMA, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
-(10) The FMA, or any other person prescribed for the purposes of this subsection, must ensure that each levy payment is paid into a Crown Bank Account and is separately accounted for.
+(10) The FMA, or any other person prescribed for the purposes of this subsection, must ensure that—
+  (a) each levy payment is paid into a Crown Bank Account and is separately accounted for; or
+  (b) by the 20th day of the month after the month in which the FMA or other person receives a levy payment, the levy payment is paid into a Crown Bank Account.
 
 ### 69 FMA must consult about request for appropriation
 (1) The FMA must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 68, consult about that request with—
