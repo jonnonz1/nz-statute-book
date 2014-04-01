@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -27,11 +27,15 @@ This Act binds the Crown.
 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **accounting period** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **advertisement** —
     (a) means any publication to the public or to any section of the public or to any individual of any words, whether written or printed, spoken, or in any electronic form, or of any pictorial representation or design or device, used to promote a retirement village,—
       (i) that is authorised or instigated by, or on behalf of, the operator or promoter of the retirement village; or
       (ii) that is prepared with the co-operation of, or by arrangement with, the operator or promoter of that village; and
     (b) includes a disclosure statement
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **balance date** has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **capital sum** , in relation to a residential unit, means any of the following:
     (a) any lump sum or sums payable for the right to occupy the unit (other than a sum that is a bond or rent within the meaning of section 2 of the Residential Tenancies Act 1986):
     (b) any periodical payment for the right to occupy the unit that, in respect of the period for which it is payable, substantially exceeds the total of—
@@ -47,9 +51,11 @@ In this Act, unless the context otherwise requires,—
     (a) contains all the information that it is required to contain by Schedule 2, any applicable code of practice, and regulations made under this Act; and
     (b) states that it is a disclosure statement for the purposes of this Act
   - **facilities** , in relation to a retirement village, means facilities of a shared or communal kind provided in the retirement village for the benefit of residents of the retirement village and includes recreational facilities and amenities
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **former resident** means a person—
     (a) who was a resident of a retirement village on or after the date on which this section comes into force; and
     (b) whose occupation right agreement has since terminated
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **hospital care institution** has the meaning specified in section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **intending resident** means a person—
     (a) who has within the last 3 months,—
@@ -72,6 +78,7 @@ In this Act, unless the context otherwise requires,—
     (c) does not include a person—
       (i) acting solely in his or her professional capacity; or
       (ii) who has ceased to have any involvement with the village
+  - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013
   - **register** means the register maintained under Schedule 1
   - **registered document** means, in respect of any registered retirement village, any document registered in accordance with Schedule 1
   - **Registrar** means the Registrar of Retirement Villages appointed under section 87
@@ -189,9 +196,10 @@ Registration of a retirement village does not imply approval by the Registrar or
 (2) The annual return must be in the prescribed form and must contain the prescribed information for the prescribed period.
 (3) The annual return that is delivered for registration must be accompanied by—
   (a) the certificate referred to in section 16; and
-  (b) a copy of the audited financial statements that the operator is required to prepare under the Financial Reporting Act 1993 (being statements that comply with that Act); and
+  (b) a copy of the audited financial statements prepared by the operator under section 35B or under an Act referred to in section 35F; and
+  (ba) a copy of the audited financial statements prepared by the operator under section 35C (if any); and
   (c) if the operator is not exempt, under section 41, from the requirement to appoint a statutory supervisor, a certificate signed by the statutory supervisor stating that—
-    (i) the operator has supplied to the supervisor a copy of the retirement village's audited financial statements (being statements that in the supervisor's opinion comply with the Financial Reporting Act 1993); and
+    (i) the operator has supplied to the supervisor a copy of the financial statements of the operator and, if section 35C applies, financial statements of the village; and
     (ii) the information contained in the annual return is, to the best of the supervisor's knowledge and belief, accurate; and
   (d) the prescribed fee for filing an annual return or an application to pay that prescribed fee by arrangement.
 (4) The annual return must be dated as at a day within the month in which the return is required to be delivered to the Registrar, and the information required to be contained in it must be accurate as at that date.
@@ -440,6 +448,54 @@ If a receiver is appointed in respect of property of an operator that includes a
 
 ### 35 No legal impediments to occupation
 The operators of a retirement village must ensure that, at the commencement of the resident's occupation right, there is no legal impediment to the occupation of the residential unit for residential purposes.
+
+**Financial reporting**
+
+### 35A Accounting records
+(1) An operator of a retirement village must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the operator; and
+  (b) will enable the operator to ensure that the financial statements of the operator and of the retirement village comply with generally accepted accounting practice (if the operator is required to prepare such statements under this Act or any other enactment); and
+  (c) will enable the financial statements of the operator and of the retirement village to be readily and properly audited.
+(2) The operator of a retirement village must establish and maintain a satisfactory system of control of its accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 35B Financial statements must be prepared
+(1) An operator of a retirement village must ensure that, within 5 months after the balance date of the operator, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the operator and that balance date; and
+  (b) dated and signed on behalf of the operator by 2 directors, trustees, or office holders of the operator.
+(2) Subsection (1) does not apply to a receiver or liquidator, or a person who has no financial interest in the retirement village.
+
+### 35C Financial statements for retirement villages
+(1) This section applies if—
+  (a) the financial statements of an operator of a retirement village include the activities of—
+    (i) more than 1 retirement village; or
+    (ii) another trading activity that operates independently of the retirement village; and
+  (b) either the statutory supervisor of the retirement village, or, if the operator is exempted under section 41 from appointing a statutory supervisor, the Registrar, as a condition of that exemption, requires the operator to comply with this section.
+(2) The operator of a retirement village must ensure that, within 5 months after the balance date of the operator, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the village and that balance date; and
+  (b) dated and signed on behalf of the operator by 2 directors, trustees, or office holders of the operator.
+(3) The operator of a retirement village must lodge a copy of the financial statements of the operator and each village, within 5 months after the balance date of the operator,—
+  (a) with the statutory supervisor of the retirement village (if there is one); or
+  (b) if the operator is exempted from appointing a statutory supervisor, with the person the Registrar appoints under a condition of that exemption (if any).
+
+### 35D Financial statements must be audited
+(1) The operator of a retirement village must ensure that the financial statements prepared under sections 35B and 35C are audited by a qualified auditor.
+(2) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to an operator of a retirement village).
+
+### 35E Audit must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit for the purposes of section 35D, comply with all applicable auditing and assurance standards.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+
+### 35F Non-application of section 35B if alternative financial reporting duties under financial markets legislation
+Section 35B does not apply to an operator of a retirement village in relation to an accounting period if financial statements of the operator are required to be prepared for that period under subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
+
+### 35G Financial reporting offences
+An operator of a retirement village commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
+  (a) financial statements required to be prepared by the operator under section 35B or 35C are not completed and signed within the time specified in those sections; or
+  (b) financial statements required to be prepared by the operator under section 35B or 35C fail to comply with an applicable financial reporting standard; or
+  (c) the operator fails to comply with section 35A, 35C(3), or 35D.
 
 ## Part 3 — Retirement Commissioner and statutory supervisors
 
@@ -992,9 +1048,9 @@ In any application for an order against a person under section 82, a finding of 
 ### 97 Registrar's powers of inspection
 (1) The Registrar or a person authorised by the Registrar may,—
   (a) for the purpose of—
-    (i) ascertaining whether a retirement village or operator complies, or has complied, with this Act or the Financial Reporting Act 1993; or
-    (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the Financial Reporting Act 1993; or
-    (iii) detecting offences against this Act or the Financial Reporting Act 1993; and
+    (i) ascertaining whether a retirement village or operator complies, or has complied, with this Act; or
+    (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act; or
+    (iii) detecting offences against this Act; and
   (b) if, in the Registrar's opinion, it is in the public interest to do so,—
     (i) inspect and take copies of relevant documents; or
     (ii) take possession of relevant documents and remove them from the place where they are kept, and retain them for a reasonable time, for the purpose of taking copies; or
@@ -1364,3 +1420,24 @@ The matters that must be addressed in the code of practice are—
 
 ### 10 Communication
 The matters that must be addressed in the code of practice are requirements in relation to communication by the operator of a retirement village with residents or intending residents for whom English is a second language or whose ability to communicate is limited.
+
+### 1 Title
+This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
+(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
+
+### 3 Overview
+This Act makes amendments to other enactments in connection with the Financial Reporting Act 2013.
+
+**Amendments to Retirement Villages Act 2003**
+
+### 117 Transitional provision
+(1) The Retirement Villages Act 2003, as amended by sections 113 to 116, applies to an operator in relation to accounting periods that commence on or after the commencement of this section.
+(2) The Retirement Villages Act 2003 and the Financial Reporting Act 1993, as in force before the commencement of this section, continue to apply to an operator in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+(3) If, immediately before the commencement of this section, an operator is, in accordance with section 9A(4)(b) of the Financial Reporting Act 1993, required to comply with section 9A(5) of that Act,—
+  (a) the operator must be treated as being required to comply with section 35C of the Retirement Villages Act 2003; and
+  (b) the requirement in paragraph (a) may be removed by the statutory supervisor or the Registrar (as the case may be).
+(4) This section is subject to section 56 of the Financial Reporting Act 2013 (which provides transitional rules for FMC reporting entities).
