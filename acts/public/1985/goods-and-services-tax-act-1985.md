@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -331,6 +331,9 @@ _Consolidation as at 2014-01-01_
   (b) where the second person has been unable to obtain the written statement referred to in paragraph (a), that person may determine, in relation to any reasonable information held, that the supply of those goods would not have been a taxable supply if those goods had been sold by the first person (notwithstanding that the first person may not be the owner of those goods).
 (3) For the purposes of this Act, where a person ceases to be a registered person, any goods and services then forming part of the assets of a taxable activity carried on by that person shall be deemed to be supplied by that person in the course of that taxable activity at a time immediately before that person ceases to be a registered person, unless the taxable activity is carried on by another person who, pursuant to section 58, is deemed to be a registered person.
 (3A)
+(3B) For the purposes of this Act, when a person who is a non-resident ceases to be a registered person,—
+  (a) any goods that are part of the assets of the taxable activity carried on by the person that are present in New Zealand at the time the person ceases to be registered are treated as supplied by the person in the course of the taxable activity at a time immediately before the person ceases to be registered:
+  (b) any services that would be performed in New Zealand as part of the taxable activity carried on by the person at the time the person ceases to be registered are treated as performed by the person in the course of the taxable activity at a time immediately before the person ceases to be registered.
 (4) For the purposes of this Act, a credit agreement to which the Door to Door Sales Act 1967 applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under section 7 of that Act to cancel the agreement within the period made available to the purchaser by that section.
 (5) For the purposes of this Act, any contract that is a layby sale to which the Layby Sales Act 1971 applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
   provided that a supply of services shall, in respect of any such contract, be deemed to have taken place where—
@@ -602,7 +605,7 @@ This Act shall bind the Crown.
 (7) If goods and services are treated by section 21I(1) as being supplied by a person, the consideration in money for the supply is—
   (a) an amount equal to the taxable value of the fringe benefit as determined by sections CX 20, and RD 54 to RD 57 of the Income Tax Act 2007, if paragraph (b) does not apply; or
   (b) nil, if the person would not have a deduction under section 20(3) relating to the supply of the fringe benefit if the consideration in money for the supply were given by paragraph (a).
-(7A) If goods and services are deemed to be supplied by a person under section 5(3), the consideration in money for the supply is treated as being the open market value of the supply.
+(7A) If goods and services are deemed to be supplied by a person under section 5(3) and (3B), the consideration in money for the supply is treated as being the open market value of the supply.
 (7B) If goods and services are treated as supplied by a person under section 5(23), the value of the supply is an amount equal to the consideration for the supply first made to the recipient.
 (8) Where goods and services are deemed to be supplied by a person under section 5(3) and the goods and services were acquired before 1 October 1986, the consideration in money for either supply shall be deemed to be the lesser of—
   (a) the cost of those goods and services to the supplier, including any input tax deduction claimed in respect of the supply of those goods and services to that supplier:
@@ -687,7 +690,10 @@ This Act shall bind the Crown.
   (n) the supply of new fine metal, being the first supply of the new fine metal after its refining, by the refiner to a dealer in fine metal, for the purpose of supplying the fine metal for use as an investment item; or
   (o) the goods are supplied to or by the Crown as consideration for a supply—
     (i) for which there is no payment of a price; and
-    (ii) that is chargeable at the rate of 0% under section 11A(1)(s) or (t).
+    (ii) that is chargeable at the rate of 0% under section 11A(1)(s) or (t); or
+  (p) the goods are—
+    (i) jigs, patterns, templates, dies, punches, and similar machine tools to be used in New Zealand solely to manufacture goods that will be for export from New Zealand; and
+    (ii) supplied to a recipient who is a non-resident, and is not registered.
 (2) For the purpose of subsection (1)(n), if a person is both a refiner of and a dealer in fine metal, the new fine metal is treated as having been supplied to the dealer at a time immediately before the making of an exempt supply of the new fine metal.
 (3) Subsection (1)(a) to (1)(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)(c) in respect of the goods; or
@@ -1018,6 +1024,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 
 ### 19 Accounting basis
 (1) Subject to sections 19A to 19D, every registered person must account for tax payable on an invoice basis for the purpose of section 20.
+(1B) Despite subsection (1), if the Commissioner registers a non-resident person under section 54B, the person must account for tax payable on a payments basis for the purpose of section 20.
 (2) The Commissioner may, on application in writing in that behalf by a registered person, direct that for the purposes of section 20 the registered person account for tax payable—
   (a) on a payments basis, if the registered person satisfies the requirements of section 19A(1); or
   (b) on a hybrid basis.
@@ -1037,6 +1044,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
     (i)
     (ii)
     (iii) a non-profit body; or
+    (iv) a non-resident; or
   (b) in respect of the registered person—
     (i) at the end of any month, the total value of the person's taxable supplies in the period of 12 months then ending has not exceeded $2,000,000 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare); or
     (ii) in the period of 12 months beginning on the first day of any month, the total value of the person's taxable supplies is not likely to exceed the amount specified in or under subparagraph (i); or
@@ -1139,7 +1147,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 (3A) For the purpose of subsection (3), output tax does not include the tax on the taxable value of a fringe benefit provided or granted to another person under the FBT rules of the Income Tax Act 1994.
 (3AB)
 (3B)
-(3C) For the purposes of subsection (3), and if subsection (3D) does not apply,—
+(3C) For the purposes of subsection (3), and if subsections (3D) or (3L) do not apply,—
   (a) input tax as defined in section 3A(1)(a) or (c) may be deducted to the extent to which the goods or services are used for, or are available for use in, making taxable supplies:
   (b) input tax as defined in section 3A(1)(b) may be deducted to the extent to which the goods are used for, or are available for use in, making taxable supplies other than—
     (i) the delivery of the goods to a person in New Zealand:
@@ -1168,7 +1176,9 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
     (ii) determine the extent to which they intend to use the goods, as described in subsection (3G); and
     (iii) account for input tax for the amount calculated under subsections (3G) and (3H); and
   (b) make adjustments under section 20G(4) and (5) in relation to the taxable supply referred to in paragraph (a).
-(3K) For the purposes of subsections (3) and (3C), to the extent to which a non-profit body uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
+(3K) For the purposes of subsections (3) and (3C), to the extent to which a non-profit body that is resident in New Zealand uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
+(3L) For the purposes of subsection (3), for a non-resident person who is registered under section 54B, input tax may be deducted only to the extent to which the goods or services are used for, or are available for use in, making taxable supplies, treating all the supplies made by the person as if they were made and received in New Zealand.
+(3M) Despite subsection (3L), a non-resident person who is registered under section 54B and who principally makes supplies of financial services may, for the purposes of calculating the amount of input tax, choose to use a fair and reasonable method of apportionment agreed with the Commissioner, as set out in subsection (3E).
 (4) For the purpose of subsection (3), output tax in relation to a supply made by a registered person must be attributed to a taxable period—
   (a) in the case of a registered person who is required to account for tax payable on an invoice or a hybrid basis under section 19, if the supply is made or is deemed to be made during the taxable period; or
   (b) in the case of a registered person who is required to account for tax payable on a payments basis under section 19—
@@ -1776,6 +1786,7 @@ A registered person who receives a supply of services that is treated by section
       (A) investigated the circumstances of the return in accordance with subsection (2); or
       (B) reviewed the information requested in accordance with subsection (2); and
     (ii) is satisfied that the registered person has complied with the person's tax obligations.
+(1B) For the purposes of subsections (1)(a), (4)(a), and (5), when a registered person is non-resident, the reference to a 15-day period is treated as a reference to a 90-day period following the day on which the registered person's return was received by the Commissioner.
 (2) If the Commissioner is not satisfied with a return made by a registered person, the Commissioner—
   (a) may investigate the circumstances of the return:
   (b) may request the registered person to provide further information concerning the return.
@@ -1841,7 +1852,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (a) that person is carrying on any taxable activity; or
   (b) that person intends to carry on any taxable activity from a specified date,—
 (4) Where any person has—
-  (a) made application for registration pursuant to subsection (2) or subsection (3), and the Commissioner is satisfied that that person is eligible to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from such date as the Commissioner may determine; or
+  (a) made application for registration pursuant to subsection (2), (3), or section 54B, and the Commissioner is satisfied that that person is eligible to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from such date as the Commissioner may determine; or
   (b) not made application for registration pursuant to subsection (2), and the Commissioner is satisfied that that person is liable to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from the date on which that person first became liable to be registered under this Act:
     provided that the Commissioner may, having regard to the circumstances of the case, determine that person to be a registered person from such later date as the Commissioner considers equitable.
 (5) Notwithstanding anything in this Act, where any taxable activity is carried on by any non-profit body in branches or divisions, that non-profit body may apply in writing to the Commissioner for any such branch or division to be a separate person for the purposes of this section, and if each such branch or division maintains an independent system of accounting and can be separately identified by reference to the nature of the activities carried on or the location of that branch or division, each such branch or division shall be deemed to be a separate person, and not a part of the non-profit body, and, where any such branch or division is a separate person pursuant to this subsection, any taxable activity carried on by that branch or division shall, to that extent, be deemed not to be carried on by the non-profit body first mentioned in this subsection.
@@ -1854,7 +1865,8 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (b) if goods are treated by section 5(2) as being supplied by a person—
     (i) the person selling the goods, if subparagraph (ii) does not apply; or
     (ii) the person whose goods are sold, if the person supplies a written statement under section 5(2)(a) to the person selling the goods and the Commissioner considers that the written statement is incorrect:
-  (c) a person whose registration has been cancelled under section 52(5) with effect from the original date of registration.
+  (c) a person whose registration has been cancelled under section 52(5) with effect from the original date of registration:
+  (d) a non-resident person referred to in section 54B(2).
 (2) If a person referred to in subsection (1) represents that tax is being charged on a supply that they make in a taxable period, the person is liable to pay the amount of the tax.
 (3) If a person is treated by subsection (1)(c) as being a registered person, the person is treated as being registered from the original date of registration to the date when the Commissioner cancels the registration.
 (4) For the purposes of this Act, in relation to a supply to which section 11(1)(mb) applies, a recipient who is treated as a supplier under section 5(23)—
@@ -1876,7 +1888,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (a) the last day of the taxable period during which taxable activity by the person ceased; or
   (b) the date on which the person was registered under this Act, if the Commissioner is satisfied that the person did not, from that date, carry on any taxable activity.
 (6)
-(7) In subsections (5) and (5A), for a person who is a non-resident, a taxable activity means a taxable activity carried on in New Zealand.
+(7) In subsections (5) and (5A), for a non-resident person who is not registered under section 54B, a taxable activity means a taxable activity carried on in New Zealand.
 
 ### 53 Registered person to notify change of status
 (1) Subject to this Act, every registered person shall within 21 days notify the Commissioner in writing of—
@@ -1894,6 +1906,30 @@ In any case where, upon the investigation by the Commissioner of the liability o
 ### 54 Liabilities not affected by ceasing to be registered person
 The obligations and liabilities under this Act of any person in respect of anything done, or omitted to be done, by that person while that person is a registered person shall not be affected by the fact that that person ceases to be a registered person, or by the fact that, being a registered person, the Commissioner cancels that person's registration.
 
+### 54B Non-residents: registration
+(1) Despite section 51(3), the Commissioner may register a person who is a non-resident and has not become liable to be registered under section 51(1) if the Commissioner is satisfied that the person meets the following requirements:
+  (a) the person—
+    (i) is registered for a consumption tax in the country or territory in which they are resident; or
+    (ii) if the country or territory in which the person is resident does not have a consumption tax, or has a consumption tax that does not apply to the person's activities, is carrying on a taxable activity, and has a level of taxable activity in a country or territory that would render them liable to be registered under section 51(1) if they were carrying out the taxable activity in New Zealand; and
+  (b) the amount of the person's input tax for the first taxable period after the date of registration in New Zealand is likely to be more than $500; and
+  (c) the person's taxable activity does not involve a performance of services in relation to which it is reasonably foreseeable that the performance of the services will be received in New Zealand by a person who is not a registered person; and
+  (d) the person—
+    (i) is not carrying on a taxable activity in New Zealand, or intending to carry on a taxable activity in New Zealand; and
+    (ii) is not, and does not intend to become, a member of a group of companies that is carrying on a taxable activity in New Zealand.
+(2) If a non-resident person who is registered under this section starts making taxable supplies, or becomes a member of a group of companies that is making taxable supplies, they are treated as registered on the date specified by the Commissioner under subsection (1), and not being registered under this section from the date on which they start making taxable supplies or the date on which they join the group, as applicable.
+(3) For timing purposes, the following days are treated as the end of a taxable period:
+  (a) the day on which a person ceases to be eligible to be registered under this section:
+  (b) the day on which a person who is otherwise registered becomes registered under this section.
+
+### 54C Non-residents: cancellation of registration
+(1) Section 52 applies to the cancellation of registration of a non-resident person registered under section 54B as modified by this section.
+(2) The Commissioner may, in addition to the powers provided under section 52(5) and (5A), cancel the person's registration if—
+  (a) the Commissioner is satisfied that the person no longer meets the requirements of section 54B(1)(a):
+  (b) for 3 consecutive taxable periods, the person has either not filed a return or has filed a late return.
+(3) When a person's registration is cancelled under subsection (2)(b),—
+  (a) the effective date of the cancellation is the first day of the third period:
+  (b) the person may not apply to become a registered person again until a period of 5 years has expired, starting on the date of cancellation, and this exclusion period also applies to a non-resident associate of the person.
+
 ## Part 9 — Special cases
 
 ### 55 Group of companies
@@ -1906,6 +1942,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (b) the companies,—
     (i) at the time, are each a registered person:
     (ii) in a 12-month period that includes the time, make a total value of taxable supplies to persons other than the companies that is at least 75% of the total value of all supplies made in that period by the companies to persons other than the companies.
+(1B) Despite subsections (1) and (4)(a), a person registered under section 54B may not apply to be a member of a group of companies or for a further company to be a member of a group of companies, if the resulting group would have both resident and non-resident persons as members.
 (2) Where 2 or more companies apply to be members of a group of companies for the purposes of this section, and the Commissioner is satisfied that they are eligible to be members of a group of companies pursuant to subsection (1), they shall be members of a group of companies from the beginning of such taxable period as is determined by the Commissioner.
 (3) In any application made under subsection (2) by 2 or more companies—
   (a) one of the companies shall be nominated to be the representative member; and
