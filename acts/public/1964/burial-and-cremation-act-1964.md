@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -23,7 +23,9 @@ _Consolidation as at 2013-07-01_
   - **disposal** includes burial and cremation
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in section 46B or 46C relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **funeral director** means a person whose business is or includes disposing of bodies
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **give a doctor's certificate** , in relation to a person's death, means complete and sign a doctor's certificate and give it to the person having charge of the person's body
   - **guardian** means a person appointed to be a guardian under section 14
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
@@ -32,8 +34,10 @@ _Consolidation as at 2013-07-01_
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
   - **monument** includes any tombstone, headstone, memorial, kerbing, or other erection
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **private burial ground** means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
   - **religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
+  - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
   - **stillborn child** has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **tablet** includes a plaque
   - **trustees** means the trustees of a cemetery or of a private burial ground, as the case may require, and, for all the purposes of this Act in relation to the rights, powers, and duties conferred or imposed on managers by this Act, includes managers
@@ -215,10 +219,27 @@ A local authority may expend such money as it thinks fit for the purposes of cle
 (5) Trustees may from time to time with the consent of the Minister apply any money received by them under this Act or any regulations or bylaws made under this Act in respect of a cemetery towards the management, administration, or improvement of any other cemetery.
 (6) When land comprised in a cemetery, which is under the control and management of trustees, is disposed of pursuant to subsections (4) or (5) of section 21, or where any such cemetery has been closed under section 41, the trustees shall apply the proceeds of such disposition or any money received by them in respect of such cemetery and unexpended at the time when the closing order takes effect, respectively, in accordance with such directions as may be given to them by the Minister in that behalf.
 
-### 29 Accounts and audit
-(1) Trustees shall keep full accounts of all money received and expended by them.
-(2) In the month of April in each year trustees shall prepare for audit a statement of accounts, showing full particulars of all money received and paid during the year ending on 31 March then last past, together with a statement of assets and liabilities as at the close of that year.
-(3) Trustees are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+### 29 Accounting records must be kept
+(1) Trustees must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the trustees; and
+  (b) will enable the trustees to ensure that the financial statements of the trustees comply with this Act; and
+  (c) will enable the financial statements of the trustees to be readily and properly audited.
+(2) Trustees must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 29A Financial statements
+(1) Trustees must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements are—
+  (a) completed in relation to the trustees and that financial year; and
+  (b) dated and signed on behalf of the trustees by 2 of the trustees.
+(2) The financial statements must be prepared in accordance with,—
+  (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+
+### 29B Financial statements must be audited
+(1) Trustees must ensure that the financial statements of the trustees are audited.
+(2) Trustees are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
 
 ### 30 Bylaws made by trustees
 (1) No bylaw made by trustees under this Act shall take effect until it has been approved by the Minister and his approval has been publicly notified.
