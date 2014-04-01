@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2014-04-01_
 
 > Title
 
@@ -450,8 +450,8 @@ On and after the vesting day,—
 (2) If the assets and liabilities of an existing company vest in the Corporation under section 53,—
   (a) section FO 12(1)(b) and (d) of the Income Tax Act 2007 must be treated as having been satisfied; and
   (b) for the purposes of section FE 10 of that Act, the company must be treated as having been solvent immediately before the vesting day.
-(3) For the purposes of the Financial Reporting Act 1993, the vesting of the assets and liabilities of an existing company under section 53 is an amalgamation under the Companies Act 1993 of the company and the Corporation.
-(4) Subsections (1) to (3) apply as if the Corporation were a company within the meaning of the Companies Act 1993.
+(3)
+(4) Subsections (1) and (2) apply as if the Corporation were a company within the meaning of the Companies Act 1993.
 (5) Subsections (1) and (2) override section 45.
 
 ### 57 Certain matters not affected by vesting
