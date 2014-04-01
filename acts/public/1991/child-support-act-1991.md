@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2014-04-01_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -1048,6 +1048,7 @@ In this Part, unless the context otherwise requires,—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
   (c) the person applies for the exemption in accordance with section 89H.
+(1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
 (2) This section is subject to sections 89F and 89G.
 
 **Exemption for prisoners**
@@ -1059,6 +1060,7 @@ In this Part, unless the context otherwise requires,—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
   (c) the person applies for the exemption in accordance with section 89H.
+(1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
 (2) This section is subject to sections 89F and 89G.
 
 **Exemption for persons under 16 years**
@@ -1077,8 +1079,8 @@ In this Part, unless the context otherwise requires,—
 ### 89F Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period
 (1) An exemption under this subpart does not apply at any time during the whole of a child support year if,—
   (a) at any time during the relevant period,—
-    (i) in the case of an exemption under section 89C, the person receives any income other than from investments or a social security benefit payable at the rate specified in Schedule 22 of the Social Security Act 1964; or
-    (ii) in the case of an exemption under section 89D or 89E, the person receives any income other than from investments; or
+    (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Schedule 22 of the Social Security Act 1964; or
+    (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to sections 89C(1A) and 89D(1A)) other than from investments; or
   (b) the person receives income from investments during the relevant period that—
     (i) exceeds, if the relevant period is less than a full child support year in duration, an average amount per week in the relevant period that is equal to the relevant minimum annual rate of financial support, divided by 52; or
     (ii) exceeds, if the relevant period is a full child support year in duration, the relevant minimum annual rate of financial support.
