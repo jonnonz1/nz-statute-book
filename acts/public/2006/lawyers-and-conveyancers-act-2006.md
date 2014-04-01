@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3049,7 +3049,8 @@ All money belonging to the Special Fund must, pending its application or investm
 Any money belonging to the Special Fund may, pending its application in accordance with this Part, be kept in an interest-bearing account at a bank, but may not otherwise be invested.
 
 ### 297 Audit of accounts
-The accounts of the Special Fund must be audited annually by a chartered accountant appointed for the purpose by the Management Committee.
+(1) The accounts of the Special Fund must be audited annually by a qualified auditor appointed for the purpose by the Management Committee.
+(2) No person is qualified for appointment as an auditor of the accounts unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 
 ### 298 Distribution of Special Fund
 (1) On the last working day of every month, all money standing to the credit of the Special Fund at the close of the previous day (other than any money required to meet the costs of administering the Special Fund) must be paid to the Secretary for Justice for the purpose of funding community law centres.
