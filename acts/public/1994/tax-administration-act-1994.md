@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-02-27_
+_Consolidation as at 2014-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2054,7 +2054,9 @@ An employer that is not required to furnish an employer monthly schedule electro
 (5) An application under subsection (1) must be made in the manner required by the Commissioner, be signed by the person, and be accompanied by any information the Commissioner requires, including—
   (a)
   (b) the amount of a charitable or other public benefit gift to which sections LD 1 to LD 3 of that Act apply.
-(6) A taxpayer with a standard balance date or an early balance date may apply for a refund for a tax year after 1 April that follows the end of the taxpayer’s income year. A taxpayer with a late balance date may apply for a refund for a tax year on or after the first day of the taxpayer’s next accounting year.
+(6) A taxpayer may apply for a refund for the tax year in which the gift is made in the 4-year period beginning with—
+  (a) the 1 April following the end of the taxpayer's income year corresponding to the tax year, if the taxpayer has a standard balance date or an earlier balance date; or
+  (b) the day after the end of the taxpayer's income year corresponding to the tax year, if the taxpayer has a late balance date.
 (7) Despite subsection (6), the Commissioner may, in special circumstances, accept an application for a refund before the end of the tax year to which the application relates.
 (8) For the purpose of subsection (7), special circumstances include—
   (a) the person leaving New Zealand, permanently or for a significant length of time:
@@ -3331,8 +3333,8 @@ Despite section 81, the Commissioner may supply personal information about an id
   (b) the tax file number of each person in receipt of that credit of tax; and
   (c) the number of children to which that credit of tax relates; and
   (d) whether that credit of tax is a full credit or a partial credit; and
-  (e) the expected net income of the qualifying person, or the combined expected net income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
-  (f) the net income of the qualifying person, or the combined net income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
+  (e) the expected family scheme income of the qualifying person, or the combined expected family scheme income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
+  (f) the family scheme income of the qualifying person, or the combined family scheme income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
   (g) the amounts of all credits of tax by instalments payable to the qualifying person, or the combined amounts of all credits of tax by instalments payable to the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
   (h) the amounts of the credits of tax for the income year that are payable to the qualifying person, or the combined amounts of the credits of tax for the income year that are payable to the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
   (i) the birth date of each child to which that credit of tax relates.
@@ -5170,7 +5172,7 @@ Nothing in this Part applies to—
       (v) for a provisional taxpayer to whom section 120KE(6) applies, the later of—
         (A) the day after the date set out in section RC 18(3) of the Income Tax Act 2007:
         (B) the day after their last ratio instalment date; and
-    (c) for a GST refund, means the latest of the following days:
+    (c) for a GST refund, other than a refund for a non-resident person who is registered under section 54B of the Goods and Services Tax Act 1985, means the latest of the following days:
       (i) the day after the earlier of—
         (A) the 15th working day after the taxpayer provides a tax return for the return period to which the GST refund relates; and
         (B) the original due date for payment of output GST in respect of that return period; and
@@ -7743,7 +7745,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
   (c) an Assistant Commissioner of Stamp Duties; or
   (d) a District Commissioner of Stamp Duties—
 
-## Schedule Schedule — Inland Revenue Acts
+## Schedule  — Inland Revenue Acts
 
 ### 1 Short Title
 This Act may be cited as the Tax Administration Amendment Act (No 2) 1996, and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the principal Act).
