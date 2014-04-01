@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to reform the law relating to receivers
 
@@ -288,7 +288,7 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (aa) the Crimes Act 1961; or
   (b) the Securities Act 1978; or
   (c) the Companies Act 1993; or
-  (d) the Financial Reporting Act 1993; or
+  (d)
   (e) the Takeovers Act 1993—
 (1A) A report made under subsection (1), and any communications between the receiver and Registrar relating to that report, are protected by absolute privilege.
 (2) A receiver who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
@@ -568,7 +568,7 @@ Subject to the Personal Property Securities Act 1999, and without limiting any o
   - **Aircraft Protocol** has the same meaning as in section 104(1) of the Civil Aviation Act 1990
   - **Cape Town Convention** has the same meaning as in section 104(1) of the Civil Aviation Act 1990.
 
-## Schedule Schedule — Modifications and exceptions that apply in relation to receivers of assets of local authorities
+## Schedule  — Modifications and exceptions that apply in relation to receivers of assets of local authorities
 
 ### 1 Application of modifications and exceptions
 The modifications and exceptions to the provisions of this Act that are set out in this schedule are the modifications and exceptions referred to in section 40C(2).
