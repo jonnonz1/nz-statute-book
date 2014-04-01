@@ -1,5 +1,5 @@
 # Patriotic and Canteen Funds Act 1947
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-01_
 
 > An Act to make provision for the administration and control of moneys raised for patriotic purposes and of the accumulated profits and surplus property of the Canteen Board and for matters incidental thereto
 
@@ -10,9 +10,12 @@ This Act may be cited as the Patriotic and Canteen Funds Act 1947 and shall come
 In this Act, unless the context otherwise requires,—
   - **Council** means a Provincial Patriotic Council constituted under this Act, and in relation to any provincial district means the Council for that district
   - **discharged serviceman** means a serviceman who, whether before or after the passing of this Act, has ceased to serve as a serviceman
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a year ending on 30 September
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Funds** means the Patriotic and Canteen Funds established under this Act
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
+  - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **patriotic purpose** means any purpose for which the Patriotic and Canteen Funds or any Provincial Fund may be used under this Act
   - **provincial district** means a provincial patriotic district under this Act
   - **Provincial Fund** means a Provincial Patriotic Fund established under this Act
@@ -21,6 +24,7 @@ In this Act, unless the context otherwise requires,—
     (a) any person who, by reason of service rendered while he was ordinarily resident outside New Zealand, would have been such a serviceman if he had then been ordinarily resident in New Zealand; and
     (b) any person who, by reason of service rendered (while he was ordinarily resident in New Zealand or elsewhere) in any war before the Second World War in which His Majesty was engaged, would have been such a serviceman if that service had been rendered during the Second World War and if he had then been ordinarily resident in New Zealand; and
     (c) any person who, by reason of service rendered (while he was ordinarily resident in New Zealand or elsewhere) as a member of the naval, military, or air forces of New Zealand or any other part of the Commonwealth during any emergency, whether arising out of the obligations undertaken by New Zealand or that other part of the Commonwealth in the Charter of the United Nations or otherwise, would have been such a serviceman if that service had been rendered during the Second World War and if he had then been ordinarily resident in New Zealand. If any question arises as to whether service rendered as aforesaid was rendered during an emergency for the purposes of this paragraph, that question shall be decided by the Minister
+  - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
   - **the War** means the Second World War; and expressions relating to the duration or termination thereof have the same meaning as in section 16 of the Finance Act 1945.
 
 ## Part 1 — Patriotic and Canteen Funds Board
@@ -206,7 +210,7 @@ Each Council may, in any financial year, expend out of its general fund for purp
 (1) Any contract which, if made between private persons, must be by deed shall, when made by any Council, be in writing under the common seal of the Council.
 (2) Any contract which, if made between private persons, must be in writing signed by the parties to be charged therewith shall, when made by any Council, be in writing signed by any person acting on behalf of and under the express or implied authority of the Council.
 (3) Any contract which, if made between private persons, may be made orally without writing may, when made by any Council, be made orally without writing by any person acting on behalf of and under the express or implied authority of the Council, but no oral contract shall be made for any sum exceeding $40.
-(4) The common seal of any Council shall not be affixed to any document except pursuant to a resolution of the Council, or of a committee of the Council authorised for that purpose by the Council either generally or with respect to any specified document or class of documents, and the execution of any document so sealed shall be attested by 2 members of the Council or committee, as the case may be:provided that no person shall be concerned to inquire whether the execution of any document attested by 2 members of any such committee is within an authority granted under this subsection to the committee by the Council, as the case may be, to execute documents on its behalf.
+(4) The common seal of any Council shall not be affixed to any document except pursuant to a resolution of the Council, or of a committee of the Council authorised for that purpose by the Council either generally or with respect to any specified document or class of documents, and the execution of any document so sealed shall be attested by 2 members of the Council or committee, as the case may be:provided that no person shall be concerned to inquire whether the execution of any document attested by 2 members of any such committee is within an authority granted under this subsection to the committee by the Council to execute documents on its behalf.
 
 ### 38 Vesting, management, and investment of property
 (1) All land, interests in land, and chattels purchased with money belonging to the Funds or to any Provincial Fund or acquired in any manner by any Council shall be vested in the appropriate Council, as the case may be.
@@ -216,11 +220,31 @@ Each Council may, in any financial year, expend out of its general fund for purp
 ### 39 Travelling expenses of members of Councils
 There shall be paid out of the appropriate Provincial Fund to the members of each Council travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the members of each Council were members of a statutory Board within the meaning of that Act.
 
-### 40 Accounts
-(1) Each Council must keep full and correct accounts of all money received and expended by it.
-(1A) Each person or body of persons authorised to expend any moneys or apply any property on behalf of any Council under subsection (2) of section 38 shall keep full and correct accounts of all such moneys or property received and expended or applied by him or it, and the accounts shall be audited by the Auditor-General or by an auditor appointed for the purpose by the Auditor-General, in the same manner as if those moneys and that property were the money and property of a public entity as defined in section 4 of the Public Audit Act 2001.
-(2) Each Council shall, as soon as possible after the end of any financial year, cause its accounts for that year to be balanced, and full and true statements and accounts of all the moneys received and expended by it in that year and of its assets and liabilities at the end of that year, to be prepared and submitted to the Auditor-General.
-(3) Each Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+### 40 Accounting records must be kept
+(1) Each Council must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the Council; and
+  (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
+  (c) will enable the financial statements of the Council to be readily and properly audited.
+(2) Each Council must establish and maintain a satisfactory system of control of those accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 40A Financial statements must be prepared
+(1) Each Council must ensure that, within 5 months after the end of the financial year, financial statements are—
+  (a) completed in relation to the Council and that financial year; and
+  (b) dated and signed on behalf of the Council by 2 members of the Council.
+(2) The financial statements must be prepared in accordance with,—
+  (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+
+### 40B Financial statements must be audited
+(1) Each Council must ensure that the financial statements of the Council are audited.
+(2) Each Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+
+### 40C Accounts for money expended or property applied under section 38(2)
+(1) Each person or body of persons authorised to expend any money or apply any property on behalf of any Council under section 38(2) must keep full and correct accounts of all such money or property received and expended or applied by him, her, or it.
+(2) The accounts must be audited by the Auditor-General or by an auditor appointed for the purpose by the Auditor-General, in the same manner as if that money and that property were the money and property of a public entity as defined in section 4 of the Public Audit Act 2001.
 
 ### 41 Annual report to Minister
 [Repealed]
