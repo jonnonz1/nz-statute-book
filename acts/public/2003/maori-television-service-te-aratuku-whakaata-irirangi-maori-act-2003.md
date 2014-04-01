@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2013-12-01_
+_Consolidation as at 2014-04-01_
 
 ## Preamble
 He kōrero whakataki
@@ -86,7 +86,7 @@ In this Act, unless the context otherwise requires,—
   - **responsible Ministers** means the Minister of Māori Affairs and the Minister of Finance, acting jointly
   - **Service** means the Māori Television Service established as a statutory corporation by section 7
   - **statement of intent** means the accountability document, the purpose of which is stated in section 27
-  - **subsidiary** means a subsidiary of the Service within the meaning of section 2 of the Financial Reporting Act 1993
+  - **subsidiary** means a subsidiary of the Service within the meaning of section 5 of the Financial Reporting Act 2013
   - **Te Pūtahi Paoho** means the Māori Television Electoral College established by section 12
   - **te reo Māori** means the Māori language
   - **UHF right** means an ultra high frequency management right (including any successive management right) that is recorded in the Register of Radio Frequencies under the Radiocommunications Act 1989—
@@ -344,7 +344,7 @@ In this subpart, unless the context otherwise requires,—
   - **class of outputs** means a grouping of similar outputs
   - **effective date** means the date on which a statement of intent or any amendment takes effect in accordance with section 32 or section 36 respectively
   - **financial report** means the report referred to in section 43
-  - **generally accepted accounting practice** has the same meaning it has in section 3 of the Financial Reporting Act 1993
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **group** means a group comprising the Service and its subsidiaries
   - **outcomes** means the impacts on, or consequences for, the community of the outputs or activities of the Service
   - **outputs** means—
