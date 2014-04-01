@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -200,17 +200,15 @@ The provisions in Schedule 2 apply to the Board and the board of directors.
 (1) As soon as practicable after the last day of each financial year but before the following 1 March, the Board must prepare—
   (a) financial statements for the Board for that year; and
   (b) financial statements for the Board and every subsidiary (within the meaning of section 5 of the Companies Act 1993) of the Board for that year.
-(2) The financial statements must include explicit information on expenditure of reserves.
-(3) The Financial Reporting Act 1993 applies to the Board and all the financial statements referred to in subsection (1) as if—
-  (a) the Board's subsidiaries were companies within the meaning of that Act; and
-  (b) the Board and the Board's subsidiaries were a group within the meaning of that Act; and
-  (c) the Board were both a company and an issuer within the meaning of that Act (and a company within the meaning of the Companies Act 1993).
+(2) The financial statements must be prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013).
+(3)
 
 ### 18 Audit of financial statements
 (1) Subject to subsection (2),—
   (a) the statements referred to in section 17 must be audited by an auditor appointed or reappointed by the Board within 12 months before the end of the period to which the statements relate; but
   (b) the Board must not appoint or reappoint an auditor without the approval of livestock farmers obtained, within 12 months before the end of the period to which the statements relate, at an annual general meeting.
 (2) Where, at the end of the period to which any statements referred to in section 17 relate, there is no person appointed auditor under subsection (1), the statements must be audited by an auditor appointed by the Minister.
+(2A) The person appointed as the auditor must be the Auditor-General or a person who is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013.
 (3) For the purposes of the audit of any statement referred to in section 17, an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the Companies Act 1993.
 (4) Where the Board or the Minister appoints the Auditor-General to audit any statements, the Auditor-General may audit them.
 
