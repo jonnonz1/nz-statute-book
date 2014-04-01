@@ -1,12 +1,12 @@
 # Student Loan Scheme (Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-05-29_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme (Budget Measures) Amendment Act 2012.
 
 ### 2 Commencement
 (1) This Act comes into force on 1 April 2013, except as provided in this section.
-(2) Sections 8, 9 and 10(2) come into force on 1 April 2014.
+(2) Sections 8 and 10(2) come into force on 1 April 2014.
 
 ### 3 Principal Act
 This Act amends the Student Loan Scheme Act 2011 (the principal Act).
@@ -39,9 +39,7 @@ This Act amends the Student Loan Scheme Act 2011 to—
 (3) Subsections (1) and (2) apply for the 2014–15 and later tax years.
 
 ### 9 Section 111 amended (Exceptions to repayment obligations of overseas-based borrowers)
-(1) In section 111(5)(b)(ii), delete ; and.
-(2) In section 111(5)(b), repeal subparagraph (iii).
-(3) Subsections (1) and (2) apply for the 2014–15 and later tax years.
+[Repealed]
 
 **Consequential repeals of spent amending provisions**
 
