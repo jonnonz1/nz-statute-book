@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-04-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1145,11 +1145,7 @@ Amendment(s) incorporated in the Act(s).
     (a) in relation to a school board of trustees or a tertiary education institution, an academic year as defined in section 159(1) of the Education Act 1989; and
     (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
   - **forecast financial statements** has the meaning set out in section 2(1) of the Public Finance Act 1989
-  - **generally accepted accounting practice** means—
-    (a) financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to the Crown entity:
-    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
-      (i) are appropriate in relation to the Crown entity; and
-      (ii) have authoritative support within the accounting profession in New Zealand
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **outputs** —
     (a) means the goods or services that are supplied by a Crown entity; but
     (b) does not include goods and services that are produced for purchase or consumption solely within the Crown entity group
