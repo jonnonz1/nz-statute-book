@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -88,15 +88,15 @@ With respect to the cancelling or suspension of registry the following provision
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
 
 ### 8 Duties and obligations of societies
-With respect to the duties and obligations of registered societies the following provisions shall have effect:
+(1) With respect to the duties and obligations of registered societies the following provisions shall have effect:
   (a) every society shall—
     (i) have a registered office, to which all communications and notices may be addressed, and shall send to the Registrar notice of the situation of such office, and of every change therein:
     (ii) paint or affix, and keep painted or affixed, its name on the outside of every office or place in which the business of the society is carried on, in a conspicuous position in letters easily legible, and have its name engraved in legible characters on its seal, and have its name mentioned in legible characters in all notices, advertisements, and other official publications of the society, and in all bills of exchange, promissory notes, endorsements, cheques, and orders for money or goods purporting to be signed by or on behalf of the society, and in all bills of parcels, invoices, receipts, and letters of credit of the society:
-    (iii) if the society is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, once at least in every year submit its accounts for audit, either to an auditor or auditors appointed under section 19 of this Act or to 2 or more persons appointed as the rules of the society provide, who shall have access to all the books and accounts of the society, and shall examine the general statement of the receipts and expenditure, funds, and effects of the society, and verify the same with the accounts and vouchers relating thereto, and shall either sign the same as found by them to be correct, duly vouched, and in accordance with law, or specially report to the society in what respects they find it incorrect, unvouched, or not in accordance with law:
-    (iv) if the society is not an issuer within the meaning of section 4 of the Financial Reporting Act 1993, within 3 months after the date of the annual balance of the society's accounts send to the Registrar a general statement (to be called the annual return) of the receipts and expenditure, funds, and effects of the society as audited, which shall show separately the expenditure in respect of the several objects of the society, and shall be made out to the date of the annual balance, and shall state whether the audit has been conducted by an auditor or auditors appointed under section 19 of this Act, and by whom, and, if by any person other than an auditor so appointed, shall state the name, address, and calling or profession of each such person, and the manner in which and the authority under which he is appointed, and together therewith shall send a copy of the auditor's report:
+    (iii)
+    (iv) within 3 months of each balance date of the society, send to the Registrar an annual return that is in the form and contains all of the particulars that the Registrar may from time to time require together with a prescribed fee (if any):
     (v) allow any member or person having an interest in the funds of the society to inspect the books and names of the members at all reasonable hours at the registered office of the society, or at any place where the same are kept, subject to such regulations as to the time and manner of such inspection as may be made from time to time by the general meetings of the society, except that no such member or person, unless he is an officer of the society, or is specially authorised by a resolution thereof, shall have the right to inspect a loan or deposit account of any other member without the written consent of such member:
-    (vi) supply gratuitously to every member or person interested in the funds of the society, on application, a copy of the last annual return of the society for the time being or, in the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last financial statements of the society prepared under that Act and a copy of the auditor's report on those statements:
-    (vii) keep a copy of the last statement of financial position for the time being, together with the report of the auditors or, in the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, a copy of the last financial statements of the society prepared under that Act and a copy of the auditor's report on those statements, always hung up in a conspicuous place at the registered office of the society:
+    (vi) supply without charge to every member or person interested in the funds of the society, on application, a copy of the last annual return of the society:
+    (vii)
   (b) it shall be an offence against this Act if any registered society—
     (i) fails to give any notice, send any return or document, or do or allow to be done any act or thing which the society is by this Act required to give, send, do, or allow to be done:
     (ii) wilfully neglects or refuses to do any act or to furnish any information required for the purposes of this Act by the Registrar or other person authorised under this Act, or does any act or thing forbidden by this Act:
@@ -104,6 +104,87 @@ With respect to the duties and obligations of registered societies the following
   (c) every offence by a society against this Act shall be deemed to have been also committed by every officer of the society bound by the rules thereof to fulfil the duty whereof such offence is a breach, or if there is no such officer, then by every member of the committee of the society, unless such member is proved to have been ignorant of or to have attempted to prevent the commission of such offence; and every act or default under this Act constituting an offence, if continued, shall constitute a new offence in every week during which the same continues:
   (d) every return and other document required for the purposes of this Act shall be made in such form and shall contain such particulars as the Registrar prescribes:
   (e) all documents required by this section to be sent to the Registrar shall be deposited with the rules of the society to which the same respectively relate, and shall be registered, or recorded by the Registrar, with such observations thereon (if any) as the Registrar directs.
+(2) In subsection (1)(a)(iv), balance date has the same meaning as in section 41 of the Financial Reporting Act 2013.
+(3) Subsection (1)(b) to (e) do not apply in relation to sections 8A to 8M.
+
+### 8A Accounting records must be kept
+(1) Every registered society must ensure that there are kept at all times accounting records that—
+  (a) correctly record the transactions of the society; and
+  (b) will enable the society to ensure that the financial statements of the society comply with generally accepted accounting practice (if the society is required to prepare those statements); and
+  (c) will enable the financial statements of the society to be readily and properly audited (if those statements are required to be audited).
+(2) Every registered society must establish and maintain a satisfactory system of control of its accounting records.
+(3) The accounting records must be kept—
+  (a) in written form in English; or
+  (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+
+### 8B Non-application of provisions if alternative financial reporting duties under financial markets legislation
+Sections 8D and 8E do not apply to a registered society in relation to an accounting period if financial statements of the society are required to be prepared for that period under subpart 3of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
+
+### 8C Interpretation for financial reporting provisions
+(1) In sections 8A to 8M, accounting period, applicable auditing and assurance standard, and applicable financial reporting standard have the same meanings as in section 5 of the Financial Reporting Act 2013.
+(2) In sections 8A to 8M and 19,—
+  - **balance date** has the same meaning as in section 41 of the Financial Reporting Act 2013
+  - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **large registered society** means a registered society that is large under section 45 of the Financial Reporting Act 2013
+  - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013.
+
+### 8D Financial statements must be prepared
+(1) This section applies to—
+  (a) every large registered society; and
+  (b) every other registered society unless the society has opted out of compliance with this section in accordance with section 8K.
+(2) Every registered society to which this section applies must ensure that, within 4 months after the balance date of the society, financial statements that comply with generally accepted accounting practice are—
+  (a) completed in relation to the society and that balance date; and
+  (b) dated and signed on behalf of the society by 2 members of the committee of the society.
+
+### 8E Financial statements must be audited
+(1) This section applies to every registered society unless the society has opted out of compliance with this section in accordance with section 8K or 8L.
+(2) Every registered society to which this section applies must ensure that the financial statements of the society prepared under section 8D (if any) are audited by a qualified auditor.
+(3) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a registered society).
+
+### 8F Audit must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit for the purposes of section 8E, comply with all applicable auditing and assurance standards.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+
+### 8G Financial statements must be sent to members
+(1) Every registered society that is required to prepare financial statements under section 8D must ensure that, within 4 months after the balance date of the society, copies of those statements are sent to every member of the society.
+(2) If the financial statements are required to be audited, the statements sent under subsection (1) must be accompanied by a copy of the auditor's report on those statements.
+
+### 8H Registration of financial statements
+(1) A large registered society that is required to prepare financial statements under section 8D must ensure that, within 4 months after the balance date of the society, copies of those statements and a copy of any auditor's report on those statements are delivered to the Registrar for registration.
+(2) The registered society must, when the financial statements are registered, pay to the Registrar the prescribed registration fee (if any).
+
+### 8I Inspection of registered financial statements
+Any person may, on payment of the prescribed fee (if any), inspect the copies of any financial statements and auditor's report on those statements delivered to the Registrar under section 8H.
+
+### 8J Financial reporting offences
+(1) Subsection (2) applies if—
+  (a) a registered society fails to comply with section 8A, 8E, 8G, or 8H; or
+  (b) a registered society is required to comply with section 8D and financial statements of the society—
+    (i) are not completed and signed within the time specified in that section; or
+    (ii) fail to comply with an applicable financial reporting standard.
+(2) The registered society and every member of the committee of the society commit an offence and are liable on conviction to a fine not exceeding $50,000.
+(3) It is a defence to a member of the committee of a society charged with an offence under this section in respect of a requirement referred to in subsection (1) if the member proves that—
+  (a) the society took all reasonable and proper steps to ensure that the requirement would be complied with; or
+  (b) the member took all reasonable steps to ensure that the requirement would be complied with; or
+  (c) in the circumstances, the member could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
+
+### 8K Societies (other than large societies) may opt out of preparation and audit requirements
+(1) This section applies to a registered society other than—
+  (a) a large registered society; or
+  (b) a society whose rules expressly provide that this section does not apply.
+(2) The members of a registered society may, at a meeting held within 6 months from the start of an accounting period, opt out of compliance with either or both of the following provisions in relation to that accounting period by way of a resolution passed under section 8M:
+  (a) section 8D (preparation of financial statements):
+  (b) section 8E (audit requirement).
+
+### 8L Large societies may opt out of audit requirements
+(1) This section applies to a large registered society other than a society whose rules expressly provide that this section does not apply.
+(2) The members of a registered society may, at a meeting held within 6 months from the start of an accounting period, opt out of compliance with section 8E (audit requirement) in relation to that accounting period by way of a resolution passed under section 8M.
+
+### 8M Resolution to opt out
+(1) For the purposes of sections 8K and 8L, the resolution must be passed at a meeting by not less than 95% of the members of the society for the time being entitled under the rules to vote that are present in person or by proxy (where the rules allow proxies) at the meeting.
+(2) Notice of the meeting, specifying the intention to propose the resolution, must be duly given in accordance with the rules of the society.
+(3) If the members opt out of compliance with a provision in relation to an accounting period under section 8K or 8L, the provision does not apply to the registered society in relation to that period.
 
 ### 9 Privileges of societies
 Registered societies shall be entitled to the following privileges:
@@ -288,11 +369,12 @@ Where a society is registered as a company, or amalgamates with, or transfers al
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)(c)(iii).
 
 ### 16 Penalties
-With respect to penalties under this Act the following provisions shall have effect:
-  (a) if any person wilfully makes, orders, or allows to be made any entry or erasure in or omission from any statement of financial position of a registered society, or any contribution or collecting book, or any return or document required to be sent, produced, or delivered for the purposes of this Act, with intent to falsify the same or to evade any of the provisions of this Act, he shall be liable to a fine not exceeding $100, recoverable on prosecution by the Registrar, the Financial Markets Authority, or any person aggrieved:
+(1) With respect to penalties under this Act the following provisions shall have effect:
+  (a) if any person wilfully makes, orders, or allows to be made any entry or erasure in or omission from any contribution or collecting book, or any return or document required to be sent, produced, or delivered for the purposes of this Act, with intent to falsify the same or to evade any of the provisions of this Act, he shall be liable to a fine not exceeding $100, recoverable on prosecution by the Registrar, the Financial Markets Authority, or any person aggrieved:
   (b) if any officer of the society, or any person on its behalf, uses any seal purporting to be a seal of the society whereon its name is not so engraved as aforesaid, or issues or authorises the issue of any notice, advertisement, or other official publication of the society, or signs or authorises to be signed on behalf of the society any bill of exchange, promissory note, endorsement, cheque, order for money or goods, or issues or authorises to be issued any bills of parcels, invoice, receipt, or letters of credit of the society, wherein its name is not mentioned in manner aforesaid, he shall be liable to a fine of $100, and shall further be personally liable to the holder of any such bill of exchange, promissory note, cheque, or order for money or goods for the amount thereof, unless the same is duly paid by the society:
   (c) every society, officer, or member of a society, or other person guilty of an offence under this Act, for which no penalty is expressly provided herein, is liable to a fine of not less than $2 and not more than $10, recoverable on prosecution by the Registrar, the Financial Markets Authority, or any person aggrieved:
   (d)
+(2) Subsection (1) does not apply in relation to sections 8A to 8M.
 
 ### 17 Where proceedings may be taken
 (1) All offences and penalties under this Act may be prosecuted and recovered as respects a prosecution against a society or its officers, in the place where the registered office of the society is, or where the offence has been committed; or, as respects any prosecution against any person other than a society or its officers, in the place where such person is resident at the time of the institution of such prosecution, or where the offence has been committed.
@@ -305,14 +387,12 @@ With respect to penalties under this Act the following provisions shall have eff
 (4) Where the order of such Court is for the doing of some act not being the payment of money, the Court may order the party to do such act, and that, in default of his doing it, he shall pay a certain sum of money; and, in case he refuses to do the act required upon demand, the sum of money mentioned in the order may then be recovered and enforced in the same manner as a judgment or order for debt or damages in such Court.
 
 ### 19 Appointment of auditors
-(1) Any registered society may from time to time appoint an auditor or auditors of the society.
-(1A) Whenever any registered society has no auditor the Registrar may, on the application of any member of the society, appoint an auditor of the society. The remuneration of an auditor appointed by the Registrar may be fixed by the Registrar.
-(2) No person shall be qualified for appointment under this section as auditor of a registered society unless he is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
-(2A) However, if the registered society is an issuer, the registered society must appoint—
-  (a) a licensed auditor as the auditor of the society; or
-  (b) a registered audit firm by its firm name to be the auditors of the society (in which case, all the partners in the firm, from time to time, who are licensed auditors are deemed to be appointed as the auditors).
-(2B) In subsection (2A), issuer, registered audit firm, and licensed auditor have the same meanings as in section 6 of the Auditor Regulation Act 2011.
-(3) Nothing in this section (except subsection (2A)) shall be construed to limit or affect in any way any provision in the rules of a registered society for the appointment, in accordance with those rules, of 2 or more persons as auditors of the society, and nothing in subsection (2) shall apply to any person so appointed.
+(1) Any registered society may from time to time appoint a qualified auditor of the society.
+(1A) Whenever any registered society has no auditor the Registrar may, on the application of any member of the society, appoint a qualified auditor of the society. The remuneration of an auditor appointed by the Registrar may be fixed by the Registrar.
+(2)
+(2A)
+(2B)
+(3)
 
 ### 20 Fees
 (1) The Governor-General may from time to time determine a scale of fees to be paid for matters to be transacted or for the inspection of documents under this Act; but no fee shall be payable on the registry of any society or of any amendment of the rules of the same.
@@ -377,3 +457,21 @@ Determination whether and by what authority, and in what manner, any part of the
 ## Schedule 3
 
 ## Schedule 4
+
+### 1 Title
+This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
+(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
+
+**Amendments to Industrial and Provident Societies Act 1908**
+
+### 98 Principal Act
+Sections 99 to 102 amend the Industrial and Provident Societies Act 1908 (the principal Act).
+
+### 103 Transitional provision
+(1) The Industrial and Provident Societies Act 1908, as amended by sections 99 to 102, applies to a registered society in relation to accounting periods that commence on or after the commencement of this section.
+(2) The Industrial and Provident Societies Act 1908, as in force before the commencement of this section, continues to apply to a registered society in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+(3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
