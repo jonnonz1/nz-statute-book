@@ -1,5 +1,5 @@
 # Disputes Tribunals Amendment Act 2011
-_Consolidation as at 2011-07-22_
+_Consolidation as at 2014-04-14_
 
 ### 1 Title
 This Act is the Disputes Tribunals Amendment Act 2011.
